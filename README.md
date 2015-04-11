@@ -10,7 +10,7 @@ Chinese "Communist" Dictatorship facts.中国“共产主义”独裁统治的�
 
 ## Censorship 审查
 
-Likely, censorship has two goals: 可能的是，审查有两个目标：
+Likely, censorship has two goals 可能的是，审查有两个目标：
 
 - hide bad things about the government 隐藏有关政府坏事
 - economic protectinism 贸易保护主义
@@ -21,7 +21,7 @@ Likely, censorship has two goals: 可能的是，审查有两个目标：
 
 <http://en.wikipedia.org/wiki/Websites_blocked_in_mainland_China> <http://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A2%AB%E5%B0%81%E9%94%81%E7%BD%91%E7%AB%99%E5%88%97%E8%A1%A8>
 
-Anyone can create content: 任何人都可以些：
+Anyone can create content 任何人都可以些：
 
 - <http://google.com>
 - <http://www.facebook.com>
@@ -43,6 +43,12 @@ Anti-censorship tools: 反审查工具:
 - <https://openvpn.net/index.php/open-source.html>
 
 Censorship monitoring tools 审查监控工具: http://meta.stackoverflow.com/a/288497/895245
+
+Surprisingly unblocked 令人惊讶的畅通：
+
+- http://stackoverflow.com
+- http://github.com
+- https://www.tumblr.com
 
 ### Films 电影
 
