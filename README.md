@@ -55,3 +55,8 @@ Surprisingly unblocked 令人惊讶的畅通：
 ### Films 电影
 
 [Avatar 阿凡达 2009](http://en.wikipedia.org/wiki/Avatar_%282009_film%29)
+
+### Famous people put in prison 投入监狱著名的人
+
+- <https://en.wikipedia.org/wiki/Liu_Xiaobo> <https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2>
+- <https://en.wikipedia.org/wiki/Ai_Weiwei> <https://zh.wikipedia.org/wiki/%E8%89%BE%E6%9C%AA%E6%9C%AA>
