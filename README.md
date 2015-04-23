@@ -19,7 +19,7 @@ Likely, censorship has two goals 可能的是，审查有两个目标：
 
 ### Websites 网站
 
-<http://en.wikipedia.org/wiki/Websites_blocked_in_mainland_China> <http://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A2%AB%E5%B0%81%E9%94%81%E7%BD%91%E7%AB%99%E5%88%97%E8%A1%A8>
+- <http://en.wikipedia.org/wiki/Websites_blocked_in_mainland_China> <http://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A2%AB%E5%B0%81%E9%94%81%E7%BD%91%E7%AB%99%E5%88%97%E8%A1%A8>
 
 Anyone can create content 任何人都可以些：
 
@@ -56,7 +56,13 @@ Surprisingly unblocked 令人惊讶的畅通：
 
 [Avatar 阿凡达 2009](http://en.wikipedia.org/wiki/Avatar_%282009_film%29)
 
-### Famous people put in prison 投入监狱著名的人
+## Famous people put in prison 投入监狱著名的人
 
 - <https://en.wikipedia.org/wiki/Liu_Xiaobo> <https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2>
 - <https://en.wikipedia.org/wiki/Ai_Weiwei> <https://zh.wikipedia.org/wiki/%E8%89%BE%E6%9C%AA%E6%9C%AA>
+
+## How to fight 怎么打
+
+### From outside of China 从中国境外
+
+- boycott commerce with China 抵制贸易与中国
