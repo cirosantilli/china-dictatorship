@@ -6,7 +6,8 @@ Chinese "Communist" Dictatorship facts.中国“共产主义”独裁统治的�
 
 - Taiwan 台灣
 - Falun Gong 法轮功
-- http://greatfire.org/
+- [Reporters Without Borders](http://en.rsf.org/)
+- <http://greatfire.org/>
 
 ## Censorship 审查
 
@@ -43,7 +44,7 @@ Anti-censorship tools: 反审查工具:
 
 - <https://openvpn.net/index.php/open-source.html>
 
-Censorship monitoring tools 审查监控工具: http://meta.stackoverflow.com/a/288497/895245
+Censorship monitoring tools 审查监控工具: <http://meta.stackoverflow.com/a/288497/895245>
 
 Surprisingly unblocked 令人惊讶的畅通：
 
@@ -56,10 +57,18 @@ Surprisingly unblocked 令人惊讶的畅通：
 
 [Avatar 阿凡达 2009](http://en.wikipedia.org/wiki/Avatar_%282009_film%29)
 
+### Events 事件
+
+- <https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response> <https://zh.wikipedia.org/wiki/2011%E5%B9%B4%E7%94%AC%E5%8F%B0%E6%B8%A9%E9%93%81%E8%B7%AF%E5%88%97%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85>
+
 ## Famous people put in prison 投入监狱著名的人
+
+<https://en.wikipedia.org/wiki/List_of_Chinese_dissidents> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%8C%81%E4%B8%8D%E5%90%8C%E6%94%BF%E8%A6%8B%E8%80%85%E5%88%97%E8%A1%A8>
 
 - <https://en.wikipedia.org/wiki/Liu_Xiaobo> <https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2>
 - <https://en.wikipedia.org/wiki/Ai_Weiwei> <https://zh.wikipedia.org/wiki/%E8%89%BE%E6%9C%AA%E6%9C%AA>
+- <https://en.wikipedia.org/wiki/Huang_Qi> <https://zh.wikipedia.org/wiki/%E9%BB%84%E7%90%A6>
+- <https://zh.wikipedia.org/wiki/%E6%9D%9C%E6%96%8C> <https://en.wikipedia.org/wiki/Du_Bin>
 
 ## How to fight 怎么打
 
