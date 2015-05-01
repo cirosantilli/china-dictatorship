@@ -5,9 +5,13 @@ Chinese "Communist" Dictatorship facts.中国“共产主义”独裁统治的�
 ## Movements against the Dictatorship 反对独裁运动
 
 - Taiwan 台灣
-- Falun Gong 法轮功
-- [Reporters Without Borders](http://en.rsf.org/)
-- <http://greatfire.org/>
+- Falun Gong 法轮功 <https://en.wikipedia.org/wiki/Falun_Gong> <https://zh.wikipedia.org/wiki/%E6%B3%95%E8%BD%AE%E5%8A%9F>
+- Reporters Without Borders <http://en.rsf.org/>, <https://en.wikipedia.org/wiki/Reporters_Without_Borders> <https://zh.wikipedia.org/wiki/%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85>
+- <http://greatfire.org/> <https://en.wikipedia.org/wiki/GreatFire>
+- <https://en.wikipedia.org/wiki/Tiananmen_Mothers>
+- <http://www.freemedia.at/> <https://en.wikipedia.org/wiki/International_Press_Institute>
+- Tiananmen Mothers 天安门母亲运动 <https://en.wikipedia.org/wiki/Tiananmen_Mothers>, <https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2%E8%BF%90%E5%8A%A8>
+
 
 ## Censorship 审查
 
@@ -17,6 +21,14 @@ Likely, censorship has two goals 可能的是，审查有两个目标：
 - economic protectinism 贸易保护主义
 
 <http://en.wikipedia.org/wiki/Censorship_in_China> , <http://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5>
+
+### Words 书籍
+
+- <https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8>
+
+### Books 书籍
+
+- <https://en.wikipedia.org/wiki/Book_censorship_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%87%BA%E7%89%88%E7%89%A9%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6>
 
 ### Websites 网站
 
@@ -61,11 +73,19 @@ Surprisingly unblocked 令人惊讶的畅通：
 
 - 1989 Tiananmen Square protests 六四事件: <https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989> <https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6>
 
+- 2011 Chinese pro-democracy protests <https://en.wikipedia.org/wiki/2011_Chinese_pro-democracy_protests> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD>
+
 - 2008 Wenzhou train collision 2011年甬台温铁路列车追尾事故: <https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response> <https://zh.wikipedia.org/wiki/2011%E5%B9%B4%E7%94%AC%E5%8F%B0%E6%B8%A9%E9%93%81%E8%B7%AF%E5%88%97%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85>
+
+- 2005 Dongzhou protests <https://en.wikipedia.org/wiki/Dongzhou_protests> <https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%B4%B2%E4%BA%8B%E4%BB%B6>
 
 ## Policies 政策
 
-- 2014 Social Credit System - <http://www.volkskrant.nl/buitenland/china-rates-its-own-citizens-including-online-behaviour~a3979668/>
+- <https://en.wikipedia.org/wiki/Internal_media_of_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%86%85%E9%83%A8%E5%AA%92%E4%BD%93>
+
+- 2014 Social Credit System 社会信用体系: <http://www.volkskrant.nl/buitenland/china-rates-its-own-citizens-including-online-behaviour~a3979668/> <http://baike.baidu.com/view/1478540.htm>
+
+- <https://en.wikipedia.org/wiki/List_of_political_parties_in_the_People%27s_Republic_of_China>
 
 ## Famous people put in prison 投入监狱著名的人
 
@@ -81,3 +101,30 @@ Surprisingly unblocked 令人惊讶的畅通：
 ### From outside of China 从中国境外
 
 - boycott commerce with China 抵制贸易与中国
+
+## Media 媒体
+
+## Linked to the Chinese government 联系到中国政府
+
+- <https://en.wikipedia.org/wiki/Xinhua_News_Agency> <https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8D%8E%E7%A4%BE>
+
+- <https://en.wikipedia.org/wiki/People%27s_Daily> <https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5>
+
+Suspected 嫌疑:
+
+- <http://facts.org.cn/>
+
+## Against the Chinese government 对中国政府
+
+- <https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China#Dissident_news>
+
+- <https://en.wikipedia.org/wiki/Radio_Free_Asia> <https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0>
+- China News Digest 华夏文摘 <https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98>
+- <https://en.wikipedia.org/wiki/Boxun.com> <http://www.boxun.com/>
+- <http://www.chinauncensored.com/>
+
+### Linked to the Falun Gong 联系到法轮功
+
+- <https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television> <https://zh.wikipedia.org/wiki/%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0>
+- <https://en.wikipedia.org/wiki/The_Epoch_Times>, <https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5>
+- <http://en.minghui.org/>, <http://www.clearwisdom.net/> (same)
