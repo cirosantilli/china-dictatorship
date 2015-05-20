@@ -11,6 +11,22 @@ Chinese "Communist" Dictatorship facts.中国“共产主义”独裁统治的�
 - <http://www.freemedia.at/> <https://en.wikipedia.org/wiki/International_Press_Institute>
 - Tiananmen Mothers 天安门母亲运动 <https://en.wikipedia.org/wiki/Tiananmen_Mothers>, <https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2%E8%BF%90%E5%8A%A8>
 
+### Political dissidents 持不同政見者列表
+
+Famous 狱名的:
+
+<https://en.wikipedia.org/wiki/List_of_Chinese_dissidents> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%8C%81%E4%B8%8D%E5%90%8C%E6%94%BF%E8%A6%8B%E8%80%85%E5%88%97%E8%A1%A8>
+
+- <https://en.wikipedia.org/wiki/Liu_Xiaobo> <https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2>
+- <https://en.wikipedia.org/wiki/Ai_Weiwei> <https://zh.wikipedia.org/wiki/%E8%89%BE%E6%9C%AA%E6%9C%AA>
+- <https://en.wikipedia.org/wiki/Huang_Qi> <https://zh.wikipedia.org/wiki/%E9%BB%84%E7%90%A6>
+- <https://zh.wikipedia.org/wiki/%E6%9D%9C%E6%96%8C> <https://en.wikipedia.org/wiki/Du_Bin>
+- Michael Anti  赵静 <https://en.wikipedia.org/wiki/Michael_Anti_%28journalist%29> <https://zh.wikipedia.org/wiki/%E5%AE%89%E6%9B%BF> <https://twitter.com/mranti> <http://rconversation.blogs.com/rconversation/2006/01/microsoft_takes.html>
+
+Not famous 不狱名的:
+
+- (zh) <http://blog.sina.com.cn/s/blog_58685f940102ege1.html>
+
 ## Censorship 审查
 
 Likely, censorship has two goals 可能的是，审查有两个目标：
@@ -91,21 +107,6 @@ List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1a
 
 - <https://en.wikipedia.org/wiki/List_of_political_parties_in_the_People%27s_Republic_of_China>
 
-## People put in prison 投入监狱名的人
-
-Famous 狱名的:
-
-<https://en.wikipedia.org/wiki/List_of_Chinese_dissidents> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%8C%81%E4%B8%8D%E5%90%8C%E6%94%BF%E8%A6%8B%E8%80%85%E5%88%97%E8%A1%A8>
-
-- <https://en.wikipedia.org/wiki/Liu_Xiaobo> <https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2>
-- <https://en.wikipedia.org/wiki/Ai_Weiwei> <https://zh.wikipedia.org/wiki/%E8%89%BE%E6%9C%AA%E6%9C%AA>
-- <https://en.wikipedia.org/wiki/Huang_Qi> <https://zh.wikipedia.org/wiki/%E9%BB%84%E7%90%A6>
-- <https://zh.wikipedia.org/wiki/%E6%9D%9C%E6%96%8C> <https://en.wikipedia.org/wiki/Du_Bin>
-
-Not famous 不狱名的:
-
-- (zh) <http://blog.sina.com.cn/s/blog_58685f940102ege1.html>
-
 ## How to fight 怎么打
 
 ### From outside of China 从中国境外
@@ -137,6 +138,7 @@ Suspected 嫌疑:
 - <https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television> <https://zh.wikipedia.org/wiki/%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0>
 - <https://en.wikipedia.org/wiki/The_Epoch_Times>, <https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5>
 - <http://en.minghui.org/>, <http://www.clearwisdom.net/> (same)
+- <http://www.secretchina.com/>
 
 ### Blogs 博客
 
