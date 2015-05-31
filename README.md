@@ -10,6 +10,10 @@ Chinese "Communist" Dictatorship facts.中国“共产主义”独裁统治的�
 - Free Tibet 藏独 <https://en.wikipedia.org/wiki/Free_Tibet> , Tibetan independence movement 西藏独立运动: <https://en.wikipedia.org/wiki/Tibetan_independence_movement> <https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%97%8F%E7%8B%AC%E7%AB%8B%E8%BF%90%E5%8A%A8>
 - <http://www.freemedia.at/> <https://en.wikipedia.org/wiki/International_Press_Institute>
 - Tiananmen Mothers 天安门母亲运动 <https://en.wikipedia.org/wiki/Tiananmen_Mothers>, <https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2%E8%BF%90%E5%8A%A8>
+- Dui Hua Foundation 对话基金会 <https://en.wikipedia.org/wiki/Dui_Hua_Foundation> <https://zh.wikipedia.org/wiki/%E5%AF%B9%E8%AF%9D%E5%9F%BA%E9%87%91%E4%BC%9A> <http://duihua.org>
+- Humanitarian China <http://h-china.org/>
+- <https://www.frontlinedefenders.org/china>
+- <http://www.hrichina.org/en>
 
 ### Political dissidents 持不同政見者列表
 
@@ -22,6 +26,7 @@ Famous 狱名的:
 - <https://en.wikipedia.org/wiki/Huang_Qi> <https://zh.wikipedia.org/wiki/%E9%BB%84%E7%90%A6>
 - <https://zh.wikipedia.org/wiki/%E6%9D%9C%E6%96%8C> <https://en.wikipedia.org/wiki/Du_Bin>
 - Michael Anti  赵静 <https://en.wikipedia.org/wiki/Michael_Anti_%28journalist%29> <https://zh.wikipedia.org/wiki/%E5%AE%89%E6%9B%BF> <https://twitter.com/mranti> <http://rconversation.blogs.com/rconversation/2006/01/microsoft_takes.html>
+- <https://twitter.com/ZhouFengSuo>
 
 Not famous 不狱名的:
 
@@ -38,8 +43,9 @@ Likely, censorship has two goals 可能的是，审查有两个目标：
 
 ### Climb the Great Firewall 翻墙
 
-- <http://greatfire.org/> <https://en.wikipedia.org/wiki/GreatFire>
+- <http://greatfire.org/> <https://en.wikipedia.org/wiki/GreatFire> <https://freeweibo.com/> <https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%BE%AE%E5%8D%9A>
 - <http://fqrouter.tumblr.com/> <https://github.com/fqrouter/fqrouter> <https://zh.wikipedia.org/wiki/Fqrouter>
+- [complete-gfw-rulebook-for-wikipedia-v3.0.pdf][]
 
 ### Words 书籍
 
@@ -95,6 +101,7 @@ List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1a
 - 1989 Tiananmen Square protests 六四事件: <https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989> <https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6>
 - 2011 Chinese pro-democracy protests <https://en.wikipedia.org/wiki/2011_Chinese_pro-democracy_protests> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD>
 - 2008 Tibetan unrest 西藏骚乱 <https://en.wikipedia.org/wiki/2008_Tibetan_unrest> <https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E8%A5%BF%E8%97%8F%E9%AA%9A%E4%B9%B1>
+- 2012 Nutech Namiba Hu Haifeng corruption scandal 纳米比亚威视胡海峰腐败丑闻 <https://en.wikipedia.org/wiki/Nuctech>. One of the most blocked on Wikipedia according to: [complete-gfw-rulebook-for-wikipedia-v3.0.pdf][]
 - 1987–1989 Tibetan unrest 年拉萨骚乱 <https://en.wikipedia.org/wiki/1987%E2%80%9389_Tibetan_unrest> <https://zh.wikipedia.org/wiki/1989%E5%B9%B4%E6%8B%89%E8%90%A8%E9%AA%9A%E4%B9%B1>. Videos: <https://www.youtube.com/watch?v=0jylh1qfOG4>, <https://www.youtube.com/watch?v=qMZgoRuPJBg>
 - 2008 Wenzhou train collision 2011年甬台温铁路列车追尾事故: <https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response> <https://zh.wikipedia.org/wiki/2011%E5%B9%B4%E7%94%AC%E5%8F%B0%E6%B8%A9%E9%93%81%E8%B7%AF%E5%88%97%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85>
 - 2005 Dongzhou protests <https://en.wikipedia.org/wiki/Dongzhou_protests> <https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%B4%B2%E4%BA%8B%E4%BB%B6>
@@ -142,11 +149,14 @@ Suspected 嫌疑:
 
 ### Blogs 博客
 
-- <https://freeweibo.com/> <https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%BE%AE%E5%8D%9A>
 - (zh) <https://chinaview.wordpress.com/>
 - (zh) <http://blog.sina.com.cn/slxqnj98>
 - (zh) <http://program-think.blogspot.com/>
 
 ## Funny 好笑儿
 
-<https://upload.wikimedia.org/wikipedia/en/e/ec/Duck_man.jpg>
+- <https://upload.wikimedia.org/wikipedia/en/e/ec/Duck_man.jpg>
+- <https://en.wikipedia.org/wiki/Hong_Kong_97_%28video_game%29> <https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF97_%28%E9%81%8A%E6%88%B2%29>
+- A Swedish city called Falun 名为法倫的瑞典城市 <https://en.wikipedia.org/wiki/Falun> <https://zh.wikipedia.org/wiki/%E6%B3%95%E5%80%AB>
+
+[complete-gfw-rulebook-for-wikipedia-v3.0.pdf]: complete-gfw-rulebook-for-wikipedia-v3.0.pdf
