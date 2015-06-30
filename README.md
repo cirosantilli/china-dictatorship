@@ -14,6 +14,8 @@ Chinese "Communist" Dictatorship facts.中国“共产主义”独裁统治的�
 - Humanitarian China <http://h-china.org/>
 - <https://www.frontlinedefenders.org/china>
 - <http://www.hrichina.org/en>
+- <http://chinachange.org/> <https://twitter.com/YaxueCao>
+- <https://en.wikipedia.org/wiki/Chinese_democracy_movement> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95>
 
 ### Political dissidents 持不同政見者列表
 
@@ -27,6 +29,12 @@ Famous 狱名的:
 - <https://zh.wikipedia.org/wiki/%E6%9D%9C%E6%96%8C> <https://en.wikipedia.org/wiki/Du_Bin>
 - Michael Anti  赵静 <https://en.wikipedia.org/wiki/Michael_Anti_%28journalist%29> <https://zh.wikipedia.org/wiki/%E5%AE%89%E6%9B%BF> <https://twitter.com/mranti> <http://rconversation.blogs.com/rconversation/2006/01/microsoft_takes.html>
 - <https://twitter.com/ZhouFengSuo>
+- <https://en.wikipedia.org/wiki/Zhou_Shuguang> <https://zh.wikipedia.org/wiki/%E5%91%A8%E6%9B%99%E5%85%89> <https://twitter.com/zuola> (70K)
+- “Freedom, Democracy, Rule of Law, and Pluralism.”
+
+Many Tweeter followers:
+
+- <https://twitter.com/YaxueCao>
 
 Not famous 不狱名的:
 
@@ -137,6 +145,7 @@ Suspected 嫌疑:
 - <https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China#Dissident_news>
 - <https://en.wikipedia.org/wiki/Radio_Free_Asia> <https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0>
 - China News Digest 华夏文摘 <https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98>
+- China Digital Times 中国数字时代 <https://chinadigitaltimes.net/> <https://en.wikipedia.org/wiki/China_Digital_Times> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3>
 - <https://en.wikipedia.org/wiki/Boxun.com> <http://www.boxun.com/>
 - <http://www.chinauncensored.com/>
 
@@ -146,6 +155,10 @@ Suspected 嫌疑:
 - <https://en.wikipedia.org/wiki/The_Epoch_Times>, <https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5>
 - <http://en.minghui.org/>, <http://www.clearwisdom.net/> (same)
 - <http://www.secretchina.com/>
+
+### Pertinent to Falun Gong
+
+- <http://en.wikipedia.org/wiki/MIVILUDES> seems not to consider Falun Gong as a sect
 
 ### Blogs 博客
 
@@ -158,5 +171,6 @@ Suspected 嫌疑:
 - <https://upload.wikimedia.org/wikipedia/en/e/ec/Duck_man.jpg>
 - <https://en.wikipedia.org/wiki/Hong_Kong_97_%28video_game%29> <https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF97_%28%E9%81%8A%E6%88%B2%29>
 - A Swedish city called Falun 名为法倫的瑞典城市 <https://en.wikipedia.org/wiki/Falun> <https://zh.wikipedia.org/wiki/%E6%B3%95%E5%80%AB>
+- Left Right Slaughterhouse comic, Dictatorships love this one: <http://9gag.com/gag/ayn7KmW?ref=fbp>
 
 [complete-gfw-rulebook-for-wikipedia-v3.0.pdf]: complete-gfw-rulebook-for-wikipedia-v3.0.pdf
