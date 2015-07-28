@@ -2,6 +2,10 @@
 
 Chinese "Communist" Dictatorship facts.中国“共产主义”独裁统治的事实.
 
+1. [FAQ](FAQ.md)
+1. [Falun Gong](falun-gong.md)
+1. [Stack Overflow](stack-overflow.md)
+
 ## Movements against the Dictatorship 反对独裁运动
 
 - Taiwan 台灣
@@ -22,15 +26,16 @@ Chinese "Communist" Dictatorship facts.中国“共产主义”独裁统治的�
 Famous 狱名的:
 
 <https://en.wikipedia.org/wiki/List_of_Chinese_dissidents> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%8C%81%E4%B8%8D%E5%90%8C%E6%94%BF%E8%A6%8B%E8%80%85%E5%88%97%E8%A1%A8>
-
 - <https://en.wikipedia.org/wiki/Liu_Xiaobo> <https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2>
 - <https://en.wikipedia.org/wiki/Ai_Weiwei> <https://zh.wikipedia.org/wiki/%E8%89%BE%E6%9C%AA%E6%9C%AA>
 - <https://en.wikipedia.org/wiki/Huang_Qi> <https://zh.wikipedia.org/wiki/%E9%BB%84%E7%90%A6>
+- <https://en.wikipedia.org/wiki/Yitang_Zhang> <https://zh.wikipedia.org/wiki/%E5%BC%A0%E7%9B%8A%E5%94%90> Proved the first finite upper bound on the twin prime conjecture in 2013 <http://www.newyorker.com/magazine/2015/02/02/pursuit-beauty> <http://beijingspring.com/bj2/2010/240/201378202613.htm>
 - <https://zh.wikipedia.org/wiki/%E6%9D%9C%E6%96%8C> <https://en.wikipedia.org/wiki/Du_Bin>
 - Michael Anti  赵静 <https://en.wikipedia.org/wiki/Michael_Anti_%28journalist%29> <https://zh.wikipedia.org/wiki/%E5%AE%89%E6%9B%BF> <https://twitter.com/mranti> <http://rconversation.blogs.com/rconversation/2006/01/microsoft_takes.html>
 - <https://twitter.com/ZhouFengSuo>
 - <https://en.wikipedia.org/wiki/Zhou_Shuguang> <https://zh.wikipedia.org/wiki/%E5%91%A8%E6%9B%99%E5%85%89> <https://twitter.com/zuola> (70K)
-- “Freedom, Democracy, Rule of Law, and Pluralism.”
+- <https://en.wikipedia.org/wiki/Qiu_Xiaolong> <https://zh.wikipedia.org/wiki/%E8%A3%98%E5%B0%8F%E9%BE%99>
+- <http://www.zeit.de/feature/freedom-of-press-china-zhang-miao-imprisonment-chinese>
 
 Many Tweeter followers:
 
@@ -78,6 +83,7 @@ Anyone can create content 任何人都可以些：
 - <https://www.dropbox.com/> <http://www.quora.com/What-are-the-best-Chinese-Dropbox-alternatives>  <http://www.reddit.com/r/China/comments/2s0z4d/unblocked_cloud_storage_alternative_for_china/>
 - <https://soundcloud.com/>
 - <http://www.reddit.com/>
+- <http://pastebin.com>
 
 Curated content:
 
@@ -113,6 +119,7 @@ List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1a
 - 1987–1989 Tibetan unrest 年拉萨骚乱 <https://en.wikipedia.org/wiki/1987%E2%80%9389_Tibetan_unrest> <https://zh.wikipedia.org/wiki/1989%E5%B9%B4%E6%8B%89%E8%90%A8%E9%AA%9A%E4%B9%B1>. Videos: <https://www.youtube.com/watch?v=0jylh1qfOG4>, <https://www.youtube.com/watch?v=qMZgoRuPJBg>
 - 2008 Wenzhou train collision 2011年甬台温铁路列车追尾事故: <https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response> <https://zh.wikipedia.org/wiki/2011%E5%B9%B4%E7%94%AC%E5%8F%B0%E6%B8%A9%E9%93%81%E8%B7%AF%E5%88%97%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85>
 - 2005 Dongzhou protests <https://en.wikipedia.org/wiki/Dongzhou_protests> <https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%B4%B2%E4%BA%8B%E4%BB%B6>
+- 1978, 1997 <https://en.wikipedia.org/wiki/Beijing_Spring> <https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5> <https://en.wikipedia.org/wiki/Democracy_Wall> <https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99>
 
 ## Policies 政策
 
@@ -130,17 +137,13 @@ List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1a
 
 ## Media 媒体
 
-## Linked to the Chinese government 联系到中国政府
+### Linked to the Chinese government 联系到中国政府
 
 - <https://en.wikipedia.org/wiki/Xinhua_News_Agency> <https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8D%8E%E7%A4%BE>
 - <https://en.wikipedia.org/wiki/People%27s_Daily> <https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5>
 - <https://en.wikipedia.org/wiki/China_Daily>
 
-Suspected 嫌疑:
-
-- <http://facts.org.cn/>
-
-## Against the Chinese government 对中国政府
+### Against the Chinese government 对中国政府
 
 - <https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China#Dissident_news>
 - <https://en.wikipedia.org/wiki/Radio_Free_Asia> <https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0>
@@ -148,8 +151,10 @@ Suspected 嫌疑:
 - China Digital Times 中国数字时代 <https://chinadigitaltimes.net/> <https://en.wikipedia.org/wiki/China_Digital_Times> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3>
 - <https://en.wikipedia.org/wiki/Boxun.com> <http://www.boxun.com/>
 - <http://www.chinauncensored.com/>
+- <http://www.wantchinatimes.com/>, linked to Taiwan 和台湾有关系
+- <http://news.mingpao.com> e.g. <http://news.mingpao.com/ins/%E3%80%90%E5%85%A8%E5%9C%8B%E5%A4%A7%E6%90%9C%E6%8D%95%E3%80%91%E5%85%A9%E5%A4%A9%E5%85%A757%E5%90%8D%E7%B6%AD%E6%AC%8A%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%BE%8B%E5%B8%AB%EF%BC%9A%E5%A4%B1%E8%B9%A4%E3%80%81%E8%A2%AB%E6%8D%95%E3%80%81%E7%B4%84%E8%AB%87%E3%80%80%E6%95%B8%E5%AD%97%E6%96%99%E7%BA%8C%E5%8D%87%EF%BC%88%E9%99%84%E5%90%8D%E5%96%AE%EF%BC%89/web_tc/article/20150711/s00004/1436604513525>
 
-### Linked to the Falun Gong 联系到法轮功
+#### Linked to Falun Gong 联系到法轮功
 
 - <https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television> <https://zh.wikipedia.org/wiki/%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0>
 - <https://en.wikipedia.org/wiki/The_Epoch_Times>, <https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5>
@@ -159,6 +164,10 @@ Suspected 嫌疑:
 ### Pertinent to Falun Gong
 
 - <http://en.wikipedia.org/wiki/MIVILUDES> seems not to consider Falun Gong as a sect
+
+### Against the Falun Gong 对法轮功
+
+- <http://facts.org.cn/> <http://wap.kaiwind.com/>
 
 ### Blogs 博客
 
@@ -172,5 +181,10 @@ Suspected 嫌疑:
 - <https://en.wikipedia.org/wiki/Hong_Kong_97_%28video_game%29> <https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF97_%28%E9%81%8A%E6%88%B2%29>
 - A Swedish city called Falun 名为法倫的瑞典城市 <https://en.wikipedia.org/wiki/Falun> <https://zh.wikipedia.org/wiki/%E6%B3%95%E5%80%AB>
 - Left Right Slaughterhouse comic, Dictatorships love this one: <http://9gag.com/gag/ayn7KmW?ref=fbp>
+- <http://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/>
 
 [complete-gfw-rulebook-for-wikipedia-v3.0.pdf]: complete-gfw-rulebook-for-wikipedia-v3.0.pdf
+
+## Misc
+
+- Rule of law 法治 <https://zh.wikipedia.org/zh/%E6%B3%95%E6%B2%BB> <https://en.wikipedia.org/wiki/Rule_of_law> <https://en.wikipedia.org/wiki/Chinese_law#Rule_of_law> <https://en.wikipedia.org/wiki/Rechtsstaat> Chinese claims to have this. 以法治国: "governing the nation in accordance with law".
