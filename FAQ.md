@@ -31,3 +31,7 @@ This is a good point, and one that does make me think.
     If China's economy is bad, my economy is worse.
 
     If China's environment is bad, my environment is worse.
+
+## In the Tweet you say "correctional facility", but reeducation through labour has been abolished
+
+My bad here, the precise term is "jail". I'm *not* talking about: <https://en.wikipedia.org/wiki/Re-education_through_labor> Unfortunately I can't edit a Tweet.

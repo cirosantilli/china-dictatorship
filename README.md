@@ -26,6 +26,7 @@ Chinese "Communist" Dictatorship facts.中国“共产主义”独裁统治的�
 Famous 狱名的:
 
 <https://en.wikipedia.org/wiki/List_of_Chinese_dissidents> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%8C%81%E4%B8%8D%E5%90%8C%E6%94%BF%E8%A6%8B%E8%80%85%E5%88%97%E8%A1%A8>
+
 - <https://en.wikipedia.org/wiki/Liu_Xiaobo> <https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2>
 - <https://en.wikipedia.org/wiki/Ai_Weiwei> <https://zh.wikipedia.org/wiki/%E8%89%BE%E6%9C%AA%E6%9C%AA>
 - <https://en.wikipedia.org/wiki/Huang_Qi> <https://zh.wikipedia.org/wiki/%E9%BB%84%E7%90%A6>
@@ -36,6 +37,7 @@ Famous 狱名的:
 - <https://en.wikipedia.org/wiki/Zhou_Shuguang> <https://zh.wikipedia.org/wiki/%E5%91%A8%E6%9B%99%E5%85%89> <https://twitter.com/zuola> (70K)
 - <https://en.wikipedia.org/wiki/Qiu_Xiaolong> <https://zh.wikipedia.org/wiki/%E8%A3%98%E5%B0%8F%E9%BE%99>
 - <http://www.zeit.de/feature/freedom-of-press-china-zhang-miao-imprisonment-chinese>
+- <https://en.wikipedia.org/wiki/Teresa_Teng> Sang in support to Tiananmen.
 
 Many Tweeter followers:
 
@@ -99,10 +101,10 @@ Censorship monitoring tools 审查监控工具: <http://meta.stackoverflow.com/a
 
 Surprisingly unblocked 令人惊讶的畅通：
 
-- <http://stackoverflow.com> ()
+- <http://stackoverflow.com> <http://segmentfault.com> <http://www.quora.com/Is-there-a-Chinese-version-of-Stackoverflow-com>
 - <http://github.com>
 - <https://www.tumblr.com>
-- <http://www.quora.com/>. <http://www.quora.com/Is-there-any-clone-of-Quora-in-China>, <https://en.wikipedia.org/wiki/Zhihu>, <http://www.zhihu.com/>
+- <http://www.quora.com/> <http://www.quora.com/Is-there-any-clone-of-Quora-in-China>, <https://en.wikipedia.org/wiki/Zhihu>, <http://www.zhihu.com/>
 
 List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1amoqj/chinese_equivalents_to_these_major_american/>
 
@@ -128,6 +130,8 @@ List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1a
 - 2014 Social Credit System 社会信用体系: <http://www.volkskrant.nl/buitenland/china-rates-its-own-citizens-including-online-behaviour~a3979668/> <http://baike.baidu.com/view/1478540.htm>
 
 - <https://en.wikipedia.org/wiki/List_of_political_parties_in_the_People%27s_Republic_of_China>
+
+- <https://en.wikipedia.org/wiki/Re-education_through_labor>
 
 ## How to fight 怎么打
 
@@ -173,7 +177,7 @@ List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1a
 
 - (zh) <https://chinaview.wordpress.com/>
 - (zh) <http://blog.sina.com.cn/slxqnj98>
-- (zh) <http://program-think.blogspot.com/>
+- (zh) <http://program-think.blogspot.com/>, <https://my.csdn.net/program_think>
 
 ## Funny 好笑儿
 
