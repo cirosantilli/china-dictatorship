@@ -146,6 +146,7 @@ List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1a
 - <https://en.wikipedia.org/wiki/Xinhua_News_Agency> <https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8D%8E%E7%A4%BE>
 - <https://en.wikipedia.org/wiki/People%27s_Daily> <https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5>
 - <https://en.wikipedia.org/wiki/China_Daily>
+- <https://en.wikipedia.org/wiki/Confucius_Institute> <https://zh.wikipedia.org/wiki/%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2> <http://www.economist.com/node/17969895>
 
 ### Against the Chinese government 对中国政府
 
