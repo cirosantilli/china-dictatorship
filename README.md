@@ -193,3 +193,4 @@ List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1a
 ## Misc
 
 - Rule of law 法治 <https://zh.wikipedia.org/zh/%E6%B3%95%E6%B2%BB> <https://en.wikipedia.org/wiki/Rule_of_law> <https://en.wikipedia.org/wiki/Chinese_law#Rule_of_law> <https://en.wikipedia.org/wiki/Rechtsstaat> Chinese claims to have this. 以法治国: "governing the nation in accordance with law".
+- <https://en.wikipedia.org/wiki/Internet_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91> Across the Great Wall, we can reach every corner in the world. 越过长城，走向世界.

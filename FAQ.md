@@ -32,6 +32,14 @@ This is a good point, and one that does make me think.
 
     If China's environment is bad, my environment is worse.
 
+## There are bad things happening all over the world, why don't you fight for those causes as well / instead?
+
+We have to choose the one we think is the worst, and focus on it.
+
+What is worse is a subjective choice. For me, I hate dictatorships, China is the largest one, I love China and my Chinese GF.
+
+My SO username and protest time are not infinite.
+
 ## In the Tweet you say "correctional facility", but reeducation through labour has been abolished
 
 My bad here, the precise term is "jail". I'm *not* talking about: <https://en.wikipedia.org/wiki/Re-education_through_labor> Unfortunately I can't edit a Tweet.
