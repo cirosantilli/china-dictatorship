@@ -46,6 +46,7 @@ Many Tweeter followers:
 Not famous 不狱名的:
 
 - (zh) <http://blog.sina.com.cn/s/blog_58685f940102ege1.html>
+- <http://www.jasonqng.com/> <https://github.com/jasonqng/chinese-keywords> <http://blockedonweibo.tumblr.com/>
 
 ## Censorship 审查
 
@@ -60,11 +61,13 @@ Likely, censorship has two goals 可能的是，审查有两个目标：
 
 - <http://greatfire.org/> <https://en.wikipedia.org/wiki/GreatFire> <https://freeweibo.com/> <https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%BE%AE%E5%8D%9A>
 - <http://fqrouter.tumblr.com/> <https://github.com/fqrouter/fqrouter> <https://zh.wikipedia.org/wiki/Fqrouter>
-- [complete-gfw-rulebook-for-wikipedia-v3.0.pdf][]
+- <http://blockedonweibo.tumblr.com>
 
 ### Words 书籍
 
 - <https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8>
+- <https://github.com/jasonqng/chinese-keywords>
+- [complete-gfw-rulebook-for-wikipedia-v3.0.pdf][complete-gfw-rulebook-for-wikipedia-v3.0.pdf]
 
 ### Books 书籍
 
@@ -187,8 +190,6 @@ List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1a
 - A Swedish city called Falun 名为法倫的瑞典城市 <https://en.wikipedia.org/wiki/Falun> <https://zh.wikipedia.org/wiki/%E6%B3%95%E5%80%AB>
 - Left Right Slaughterhouse comic, Dictatorships love this one: <http://9gag.com/gag/ayn7KmW?ref=fbp>
 - <http://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/>
-
-[complete-gfw-rulebook-for-wikipedia-v3.0.pdf]: complete-gfw-rulebook-for-wikipedia-v3.0.pdf
 
 ## Misc
 
