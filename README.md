@@ -46,7 +46,7 @@ Many Tweeter followers:
 Not famous 不狱名的:
 
 - (zh) <http://blog.sina.com.cn/s/blog_58685f940102ege1.html>
-- <http://www.jasonqng.com/> <https://github.com/jasonqng/chinese-keywords> <http://blockedonweibo.tumblr.com/>
+- <http://www.jasonqng.com/> <https://github.com/jasonqng/chinese-keywords> <http://blockedonweibo.tumblr.com/> Google talk: <https://www.youtube.com/watch?v=2eYfLzwNWE8>
 
 ## Censorship 审查
 
@@ -67,7 +67,7 @@ Likely, censorship has two goals 可能的是，审查有两个目标：
 
 - <https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8>
 - <https://github.com/jasonqng/chinese-keywords>
-- [complete-gfw-rulebook-for-wikipedia-v3.0.pdf][complete-gfw-rulebook-for-wikipedia-v3.0.pdf]
+- [complete-gfw-rulebook-for-wikipedia-v3.0.pdf](complete-gfw-rulebook-for-wikipedia-v3.0.pdf)
 
 ### Books 书籍
 
