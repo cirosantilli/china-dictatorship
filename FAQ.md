@@ -64,3 +64,21 @@ Chinese programmers all know how to climb the wall.
 ## This is your personal problem, we have nothing to do with it, stop punishing us for it
 
 We have to fight for justice for our fellows, or else when injustice happens to us, no one will fight for use either.
+
+## What you are doing will never have any effect
+
+That is true with high probability, just like any other individual which tries to influence 1B people.
+
+Every action is statistical: I just push the balance a little bit towards freedom.
+
+And if we never start somewhere, nothing will ever happen.
+
+## You are using Stack Overflow in a way that it was not meant to be used, so what you are doing is in principle wrong
+
+This is somewhat true, and I don't like myself for it.
+
+But I think freedom is worth it.
+
+Any act of protest will use things in ways that it was not meant to be used.
+
+For example, the street is not meant to showcase protest banners, it is meant to be a passageway for cars.
