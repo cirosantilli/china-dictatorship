@@ -1,10 +1,11 @@
 # China Dictatorship 中国独裁统治
 
-Chinese "Communist" Dictatorship facts.中国“共产主义”独裁统治的事实.
+Chinese "Communist" Dictatorship "facts". 中国《共产主义》独裁统治的《事实》
 
 1. [FAQ](FAQ.md)
 1. [Falun Gong](falun-gong.md)
 1. [Stack Overflow](stack-overflow.md)
+1. [Images](images/)
 
 ## Movements against the Dictatorship 反对独裁运动
 
@@ -65,6 +66,7 @@ Likely, censorship has two goals 可能的是，审查有两个目标：
 - <https://github.com/shadowsocks/ChinaDNS>
 - <https://github.com/gfwlist/gfwlist>
 - <https://github.com/Leask/BRICKS>
+- <https://github.com/justjavac/ReplaceGoogleCDN> <https://github.com/justjavac/Google-IPs>
 
 ### Words 书籍
 
@@ -117,6 +119,8 @@ Surprisingly unblocked 令人惊讶的畅通：
 - <http://www.quora.com/> <http://www.quora.com/Is-there-any-clone-of-Quora-in-China>, <https://en.wikipedia.org/wiki/Zhihu>, <http://www.zhihu.com/>
 
 List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1amoqj/chinese_equivalents_to_these_major_american/>
+
+- <https://en.wikipedia.org/wiki/Green_Dam_Youth_Escort> <https://zh.wikipedia.org/wiki/%E7%B6%A0%E5%A3%A9%C2%B7%E8%8A%B1%E5%AD%A3%E8%AD%B7%E8%88%AA>
 
 ### Films 电影
 

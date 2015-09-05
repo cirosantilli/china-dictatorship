@@ -1,6 +1,14 @@
 # FAQ
 
-## If Stack Overflow if blocked, there will be less good programmers to fight against the dictatorship
+## Do you hate China?
+
+On the contrary. China is my favorite country. It has many, many wonderful things. As Bjarne said:
+
+> There are only two kinds of programming languages: those people always bitch about and those nobody uses
+
+I only focus here on negative things to provide content that will activate the Great Firewall.
+
+## If programming websites get blocked, there will be less good programmers to fight against the dictatorship
 
 This is a good point, and one that does make me think.
 
@@ -8,13 +16,20 @@ This is a good point, and one that does make me think.
 
     Why don't they just take down the entire internet?
 
-    Because that would hurt them. People would go mad, and revolt.
+    Because that would hurt them:
 
-    By forcing them to do this, we are forcing them to do something they do not want, and thus making them weaker.
+    - people would go mad, and revolt
+    - people would work less efficiently, making the country, and thus themselves, poorer
+
+    So this puts pressure on them to take away the firewall.
 
 1.  Programmers are more likely to develop better Firewall climbing tools is SO is blocked
 
 1.  If we don't take any action to show our dissatisfaction, the dictatorship never ends.
+
+    The commies exist like any other organization for a sole purpose: maintain their own power.
+
+    If nothing is done to show dissatisfaction, they will never give up on that power.
 
 ## You are harming the Chinese programmers
 
