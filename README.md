@@ -21,6 +21,7 @@ Chinese "Communist" Dictatorship "facts". 中国《共产主义》独裁统治�
 - <http://www.hrichina.org/en>
 - <http://chinachange.org/> <https://twitter.com/YaxueCao>
 - <https://en.wikipedia.org/wiki/Chinese_democracy_movement> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95>
+- <https://www.hrw.org/asia/china-and-tibet>
 
 ### Political dissidents 持不同政見者列表
 
@@ -158,7 +159,7 @@ List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1a
 ### Linked to the Chinese government 联系到中国政府
 
 - <https://en.wikipedia.org/wiki/Xinhua_News_Agency> <https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8D%8E%E7%A4%BE>
-- <https://en.wikipedia.org/wiki/People%27s_Daily> <https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5>
+- <https://en.wikipedia.org/wiki/People%27s_Daily> <https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5> <http://people.cn/>
 - <https://en.wikipedia.org/wiki/China_Daily>
 - <https://en.wikipedia.org/wiki/Confucius_Institute> <https://zh.wikipedia.org/wiki/%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2> <http://www.economist.com/node/17969895>
 
@@ -175,10 +176,17 @@ List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1a
 
 #### Linked to Falun Gong 联系到法轮功
 
-- <https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television> <https://zh.wikipedia.org/wiki/%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0>
-- <https://en.wikipedia.org/wiki/The_Epoch_Times>, <https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5>
-- <http://en.minghui.org/>, <http://www.clearwisdom.net/> (same)
-- <http://www.secretchina.com/>
+-   <https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television> <https://zh.wikipedia.org/wiki/%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0>
+
+    - Lao wai kan zhong guo <https://www.youtube.com/user/Laowaikanzhongguo>
+    - China Uncensored <https://www.youtube.com/channel/UCgFP46yVT-GG4o1TgXn-04Q>
+    - Off the Great Wall <https://www.youtube.com/user/NTDOffTheGreatWall>
+
+-   <https://en.wikipedia.org/wiki/The_Epoch_Times>, <https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5>
+
+-   <http://en.minghui.org/>, <http://www.clearwisdom.net/> (same)
+
+-   <http://www.secretchina.com/>
 
 ### Pertinent to Falun Gong
 
@@ -202,8 +210,10 @@ List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1a
 - A Swedish city called Falun 名为法倫的瑞典城市 <https://en.wikipedia.org/wiki/Falun> <https://zh.wikipedia.org/wiki/%E6%B3%95%E5%80%AB>
 - Left Right Slaughterhouse comic, Dictatorships love this one: <http://9gag.com/gag/ayn7KmW?ref=fbp>
 - <http://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/>
+- <http://www.miniharm.com/>
 
 ## Misc
 
+- <https://www.reddit.com/r/China/> Great source of anti-China ammo :-)
 - Rule of law 法治 <https://zh.wikipedia.org/zh/%E6%B3%95%E6%B2%BB> <https://en.wikipedia.org/wiki/Rule_of_law> <https://en.wikipedia.org/wiki/Chinese_law#Rule_of_law> <https://en.wikipedia.org/wiki/Rechtsstaat> Chinese claims to have this. 以法治国: "governing the nation in accordance with law".
 - <https://en.wikipedia.org/wiki/Internet_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91> Across the Great Wall, we can reach every corner in the world. 越过长城，走向世界.
