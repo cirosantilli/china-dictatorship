@@ -22,12 +22,17 @@ Chinese "Communist" Dictatorship "facts". 中国《共产主义》独裁统治�
 - <http://chinachange.org/> <https://twitter.com/YaxueCao>
 - <https://en.wikipedia.org/wiki/Chinese_democracy_movement> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95>
 - <https://www.hrw.org/asia/china-and-tibet>
+- <http://freemuse.org/> <http://freemuse.org/archives/665> <http://freemuse.org/archives/5091>
 
 ### Political dissidents 持不同政見者列表
 
-Famous 狱名的:
-
 <https://en.wikipedia.org/wiki/List_of_Chinese_dissidents> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%8C%81%E4%B8%8D%E5%90%8C%E6%94%BF%E8%A6%8B%E8%80%85%E5%88%97%E8%A1%A8>
+
+Programmers 程序员:
+
+- <https://twitter.com/virushuo> <http://www.zhihu.com/question/19557271> <http://xiqiao.info/>
+
+Famous 狱名的:
 
 - <https://en.wikipedia.org/wiki/Liu_Xiaobo> <https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2>
 - <https://en.wikipedia.org/wiki/Ai_Weiwei> <https://zh.wikipedia.org/wiki/%E8%89%BE%E6%9C%AA%E6%9C%AA>
@@ -82,6 +87,8 @@ Likely, censorship has two goals 可能的是，审查有两个目标：
 ### Books 书籍
 
 - <https://en.wikipedia.org/wiki/Book_censorship_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%87%BA%E7%89%88%E7%89%A9%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6>
+- <http://www.bannedbook.org/>
+- <http://book.edoors.com/category/834>
 
 ### Websites 网站
 
@@ -127,9 +134,19 @@ List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1a
 
 [Avatar 阿凡达 2009](http://en.wikipedia.org/wiki/Avatar_%282009_film%29)
 
+### Shows 电视节目
+
+- Big Bang Theory <https://en.wikipedia.org/wiki/The_Big_Bang_Theory> <http://mic.com/articles/89051/china-has-banned-the-big-bang-theory-for-the-very-reason-the-u-s-loves-it>
+
+### Music 音乐
+
+- Joan Baez - China <https://www.youtube.com/watch?v=ThmknUWoab4>
+- A song was heard in China (Author?) <https://www.youtube.com/watch?v=viKGP39DWzM>
+
 ## Events 事件
 
 - 1989 Tiananmen Square protests 六四事件: <https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989> <https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6>
+    - <https://en.wikipedia.org/wiki/Goddess_of_Democracy> <https://zh.wikipedia.org/wiki/%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E>
 - 2011 Chinese pro-democracy protests <https://en.wikipedia.org/wiki/2011_Chinese_pro-democracy_protests> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD>
 - 2008 Tibetan unrest 西藏骚乱 <https://en.wikipedia.org/wiki/2008_Tibetan_unrest> <https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E8%A5%BF%E8%97%8F%E9%AA%9A%E4%B9%B1>
 - 2012 Nutech Namiba Hu Haifeng corruption scandal 纳米比亚威视胡海峰腐败丑闻 <https://en.wikipedia.org/wiki/Nuctech>. One of the most blocked on Wikipedia according to: [complete-gfw-rulebook-for-wikipedia-v3.0.pdf][]
@@ -187,6 +204,8 @@ List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1a
 -   <http://en.minghui.org/>, <http://www.clearwisdom.net/> (same)
 
 -   <http://www.secretchina.com/>
+
+-   <http://fofg.org/>
 
 ### Pertinent to Falun Gong
 
