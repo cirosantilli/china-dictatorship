@@ -8,13 +8,21 @@ On the contrary. China is my favorite country. It has many, many wonderful thing
 
 I only focus here on negative things to provide content that will activate the Great Firewall.
 
+## This repository is completely biased against the Chinese Government!
+
+I prefer the term focused :-)
+
+That being said, I take the motivation of information sources very seriously.
+
+E.g. I try to clearly classify Communist Party and Falun Gong linked sources.
+
 ## If programming websites get blocked, there will be less good programmers to fight against the dictatorship
 
 This is a good point, and one that does make me think.
 
 1.  The commies calculate their actions very well to stay in power.
 
-    Why don't they just take down the entire internet?
+    Why don't they just take down the entire Internet like they did in Xinjiang in 2010?
 
     Because that would hurt them:
 
@@ -30,6 +38,8 @@ This is a good point, and one that does make me think.
     The commies exist like any other organization for a sole purpose: maintain their own power.
 
     If nothing is done to show dissatisfaction, they will never give up on that power.
+
+    One good way to have perfect stability, is that everyone become a willing slave of the government.
 
 ## You are harming the Chinese programmers
 
@@ -66,9 +76,9 @@ My SO username and protest time are not infinite.
 
 ## In the Tweet you say "correctional facility", but reeducation through labour has been abolished
 
-My bad here, the precise term is "jail". I'm *not* talking about: <https://en.wikipedia.org/wiki/Re-education_through_labor> Unfortunately I can't edit a Tweet.
+My bad [here](https://twitter.com/cirosantilli/status/579270450984984576), the precise term is "jail". I'm *not* talking about: <https://en.wikipedia.org/wiki/Re-education_through_labor> Unfortunately I can't edit a Tweet.
 
-## You have nothing to lose by doing that, but we Chinese programmer do
+## You have nothing to lose by doing that, but we Chinese programmers do
 
 I think I have the most to lose personally: no enterprise who wants to do business with China will ever hire me for a high position.
 
@@ -80,6 +90,10 @@ Chinese programmers all know how to climb the wall.
 
 We have to fight for justice for our fellows, or else when injustice happens to us, no one will fight for use either.
 
+Every form of protest incurs some damage. E.g., if we manifest on the street, it generates a traffic jam.
+
+I don't like it, but I think it is worth it.
+
 ## What you are doing will never have any effect
 
 That is true with high probability, just like any other individual which tries to influence 1B people.
@@ -87,6 +101,12 @@ That is true with high probability, just like any other individual which tries t
 Every action is statistical: I just push the balance a little bit towards freedom.
 
 And if we never start somewhere, nothing will ever happen.
+
+To have an idea, in 2015 there are about:
+
+- 20M developers in the world
+- 2M in China : <https://www.quora.com/Approximately-how-many-programmers-are-there-in-the-world> <http://www.techrepublic.com/blog/european-technology/there-are-185-million-software-developers-in-the-world-but-which-country-has-the-most/>
+- 5M Stack Overflow users <http://data.stackexchange.com/stackoverflow/query/227868/select-count-from-users>
 
 ## You are using Stack Overflow in a way that it was not meant to be used, so what you are doing is in principle wrong
 

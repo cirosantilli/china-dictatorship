@@ -14,3 +14,5 @@
 - <https://en.wikipedia.org/wiki/Chinese_democracy_movement> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95>
 - <https://www.hrw.org/asia/china-and-tibet>
 - <http://freemuse.org/> <http://freemuse.org/archives/665> <http://freemuse.org/archives/5091>
+- <http://www.chinaaid.org/>
+- <https://chrdnet.com/>

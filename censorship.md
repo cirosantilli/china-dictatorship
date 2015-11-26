@@ -1,37 +1,32 @@
 # Censorship 审查
 
-Likely, censorship has two goals 可能的是，审查有两个目标：
-
-- hide bad things about the government 隐藏有关政府坏事
-- economic protectionism 贸易保护主义
-
-<http://en.wikipedia.org/wiki/Censorship_in_China> , <http://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5>
+- <http://en.wikipedia.org/wiki/Censorship_in_China>
+- <http://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5>
 
 ## Climb the Great Firewall 翻墙
 
-- <http://greatfire.org/> <https://en.wikipedia.org/wiki/GreatFire> <https://freeweibo.com/> <https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%BE%AE%E5%8D%9A>
+Tool lists:
+
+- <http://wsgzao.github.io/post/fq/>
+
+Tools:
+
 - <http://fqrouter.tumblr.com/> <https://github.com/fqrouter/fqrouter> <https://zh.wikipedia.org/wiki/Fqrouter>
-- <http://blockedonweibo.tumblr.com>
 - <https://github.com/shadowsocks/ChinaDNS>
-- <https://github.com/gfwlist/gfwlist>
 - <https://github.com/Leask/BRICKS>
 - <https://github.com/justjavac/ReplaceGoogleCDN> <https://github.com/justjavac/Google-IPs>
 
-## Words 书籍
+Monitoring:
 
-- <https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8>
-- <https://github.com/jasonqng/chinese-keywords>
-- [complete-gfw-rulebook-for-wikipedia-v3.0.pdf](complete-gfw-rulebook-for-wikipedia-v3.0.pdf)
+- <http://greatfire.org/> <https://en.wikipedia.org/wiki/GreatFire> <https://freeweibo.com/> <https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%BE%AE%E5%8D%9A>
 
-## Images 图片
+Search terms:
 
-- <https://projects.propublica.org/weibo/>
+- GFW翻墙
 
-## Books 书籍
+Information:
 
-- <https://en.wikipedia.org/wiki/Book_censorship_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%87%BA%E7%89%88%E7%89%A9%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6>
-- <http://www.bannedbook.org/>
-- <http://book.edoors.com/category/834>
+- <https://github.com/gfwlist/gfwlist>
 
 ## Websites 网站
 
@@ -75,6 +70,27 @@ List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1a
 
 - <https://en.wikipedia.org/wiki/Green_Dam_Youth_Escort> <https://zh.wikipedia.org/wiki/%E7%B6%A0%E5%A3%A9%C2%B7%E8%8A%B1%E5%AD%A3%E8%AD%B7%E8%88%AA>
 
+Curated list of censored websites:
+
+- <http://fanqianghou.com/> Website title translate: "After you climb the wall, what to see?".
+- <http://blockedonweibo.tumblr.com>
+
+## Words 书籍
+
+- <https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8>
+- <https://github.com/jasonqng/chinese-keywords>
+- [complete-gfw-rulebook-for-wikipedia-v3.0.pdf](complete-gfw-rulebook-for-wikipedia-v3.0.pdf)
+
+## Images 图片
+
+- <https://projects.propublica.org/weibo/>
+
+## Books 书籍
+
+- <https://en.wikipedia.org/wiki/Book_censorship_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%87%BA%E7%89%88%E7%89%A9%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6>
+- <http://www.bannedbook.org/>
+- <http://book.edoors.com/category/834>
+
 ## Films 电影
 
 [Avatar 阿凡达 2009](http://en.wikipedia.org/wiki/Avatar_%282009_film%29)
@@ -92,3 +108,13 @@ List of alternatives 替代品名单: <http://www.reddit.com/r/China/comments/1a
 
 - XcodeGhost <http://arstechnica.com/security/2015/09/apple-scrambles-after-40-malicious-xcodeghost-apps-haunt-app-store/>
 
+## Goals
+
+Likely, censorship has two goals 可能的是，审查有两个目标：
+
+- hide bad things about the government 隐藏有关政府坏事
+- economic protectionism 贸易保护主义
+
+Sources:
+
+- <http://web.archive.org/web/20151013163644/http://gking.harvard.edu/files/censored.pdf>

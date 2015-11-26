@@ -6,6 +6,7 @@
 - <https://en.wikipedia.org/wiki/People%27s_Daily> <https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5> <http://people.cn/>
 - <https://en.wikipedia.org/wiki/China_Daily>
 - <https://en.wikipedia.org/wiki/Confucius_Institute> <https://zh.wikipedia.org/wiki/%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2> <http://www.economist.com/node/17969895>
+- <https://en.wikipedia.org/wiki/China_Radio_International> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0> <http://www.cri.cn> <http://english.cri.cn/> State owned.
 
 ## Against the Chinese government 对中国政府
 
@@ -34,6 +35,15 @@
 -   <http://www.secretchina.com/>
 
 -   <http://fofg.org/>
+
+-   <https://en.wikipedia.org/wiki/Sound_of_Hope> <http://www.soundofhope.org/> <http://www.bayvoice.net/gb/>
+
+## Linked to the USA government 联系到美国政府
+
+-   <https://en.wikipedia.org/wiki/Voice_of_America>
+    - <http://www.voa.com/>
+    - <http://www.voachinese.com/>
+    - <http://www.voacantonese.com/>
 
 ## Pertinent to Falun Gong
 

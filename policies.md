@@ -1,5 +1,6 @@
 # Policies 政策
 
+- wumao dang paid pro-party online commentators <http://chineseculture.about.com/od/thechinesegovernment/a/The-50-Cent-Party-Chinas-Paid-Internet-Commenters.htm>
 - <https://en.wikipedia.org/wiki/Internal_media_of_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%86%85%E9%83%A8%E5%AA%92%E4%BD%93>
 - 2014 Social Credit System 社会信用体系: <http://www.volkskrant.nl/buitenland/china-rates-its-own-citizens-including-online-behaviour~a3979668/> <http://baike.baidu.com/view/1478540.htm>
 - <https://en.wikipedia.org/wiki/List_of_political_parties_in_the_People%27s_Republic_of_China>
