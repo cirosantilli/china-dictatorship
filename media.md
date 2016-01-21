@@ -1,5 +1,7 @@
 # Media 媒体
 
+Sources of information pertinent to this repository.
+
 ## Linked to the Chinese government 联系到中国政府
 
 - <https://en.wikipedia.org/wiki/Xinhua_News_Agency> <https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8D%8E%E7%A4%BE>
@@ -10,6 +12,7 @@
 
 ## Against the Chinese government 对中国政府
 
+- <https://www.reddit.com/r/China>
 - <https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China#Dissident_news>
 - <https://en.wikipedia.org/wiki/Radio_Free_Asia> <https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0>
 - China News Digest 华夏文摘 <https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98>
@@ -58,4 +61,3 @@
 - (zh) <https://chinaview.wordpress.com/>
 - (zh) <http://blog.sina.com.cn/slxqnj98>
 - (zh) <http://program-think.blogspot.com/>, <https://my.csdn.net/program_think>
-
