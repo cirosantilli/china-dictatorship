@@ -36,6 +36,7 @@ Information:
 Anyone can create content 任何人都可以些：
 
 -   <http://google.com> <http://www.baidu.com/> <https://www.google.com/transparencyreport/traffic/?hl=zh-CN#expand=CN>
+    - Google Play <http://www.androidcentral.com/google-play-store-reportedly-planned-early-2016-launch-china>
 -   <http://www.facebook.com> <http://www.renren.com>
 -   <https://twitter.com/> <http://weibo.com/> <https://en.wikipedia.org/wiki/Sina_Weibo>
 -   <https://www.youtube.com/> <http://www.youku.com/>

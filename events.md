@@ -1,5 +1,9 @@
 # Events 事件
 
+-   2016 Armani Communist <http://www.bbc.com/news/blogs-trending-35496562>
+-   2016 Ling Wancheng defects http://freebeacon.com/national-security/chinese-defector-reveals-beijings-secrets/
+-   2016 Zhang Haitao (张海涛) faces 19 years in jail for his blog posts http://chinachange.org/2016/01/21/activist-in-xinjiang-sentenced-to-19-years-for-online-writings-and-rights-activities/
+-   2016 Facebook Android app implements Tor option http://money.cnn.com/2016/01/20/technology/facebook-android-tor/
 -   2016 Honk Kong (2016) movie https://www.reddit.com/r/China/comments/41y6ig/hong_kong_movie_predicts_dark_future_for_city/
 -   2015 https://news.vice.com/article/the-missing-hong-kong-booksellers-family-isnt-buying-his-televised-confession Gui Minhai, 51, from publisher Mighty Current who was going to publish a book about Xi Jinping's love life.
 -   2015 https://www.washingtonpost.com/world/asia_pacific/christians-in-china-feel-full-force-of-authorities-repression/2015/12/23/7dd0ec5a-a736-11e5-b596-113f59ee069a_story.html

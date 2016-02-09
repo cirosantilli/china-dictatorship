@@ -12,7 +12,7 @@ I only focus here on negative things to provide content that will activate the G
 
 I prefer the term focused :-)
 
-That being said, I take the motivation of information sources very seriously.
+That being said, I take the agenda of information sources very seriously.
 
 E.g. I try to clearly classify Communist Party and Falun Gong linked sources.
 
@@ -39,7 +39,14 @@ This is a good point, and one that does make me think.
 
     If nothing is done to show dissatisfaction, they will never give up on that power.
 
-    One good way to have perfect stability, is that everyone become a willing slave of the government.
+    There are two extremes of action (both which *I don't* support):
+
+    - everyone become a willing mindless slave of the leader: perfect stability
+    - everyone take up arms and do terrorism: perfect instability
+
+    But between those two extremes, what is the right measure? I think that saying nothing is too close to stability.
+
+    I do see that one alternative scenario is that if we do nothing, maybe there will be more and more contact with Western countries, and the Chinese will see for themselves that we are not that bad, and eventually request democracy. But who can know if this can really happen?
 
 ## You are harming the Chinese programmers
 
