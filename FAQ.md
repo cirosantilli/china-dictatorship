@@ -124,3 +124,13 @@ But I think freedom is worth it.
 Any act of protest will use things in ways that it was not meant to be used.
 
 For example, the street is not meant to showcase protest banners, it is meant to be a passageway for cars.
+
+## Does your employer support this?
+
+My employer has nothing to do with this.
+
+He doesn't approve or disapprove of the Chinese government or of my private actions.
+
+The only thing that my employer *does* believe in is that employees can have their own political opinions, and that this should not affect hiring decisions.
+
+Obviously, my employer risks losing contracts with China because of me, But she believes that being morally correct, and not discriminating political positions is more valuable.
