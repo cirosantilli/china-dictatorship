@@ -1,5 +1,16 @@
 # Stack Overflow
 
+## Users
+
+Other openly dissident users.
+
+- <http://stackoverflow.com/users/1009479/yu-hao>
+- <http://stackoverflow.com/users/1801697/terry-wang>
+- <http://stackoverflow.com/users/4594532/gnimuc-key>
+- <http://stackoverflow.com/users/651907/jclin>
+
+Query to find them: <http://data.stackexchange.com/stackoverflow/query/312863/chinese-dissidents-by-keyword-aboutme-or-displayname>
+
 ## Discussions
 
 After I put anti-communist messages on my SO <http://stackoverflow.com/users/895245>, some discussions that came out of it:

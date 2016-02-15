@@ -1,6 +1,9 @@
 # Events 事件
 
 -   2016 Armani Communist <http://www.bbc.com/news/blogs-trending-35496562>
+    -   Related:
+        - <http://www.ibtimes.com/xi-jinping-wants-overhaul-image-chinas-rich-kids-1961207>
+        - first section of <https://www.youtube.com/watch?v=ZKQ5ijFZ_j8>
 -   2016 Ling Wancheng defects http://freebeacon.com/national-security/chinese-defector-reveals-beijings-secrets/
 -   2016 Zhang Haitao (张海涛) faces 19 years in jail for his blog posts http://chinachange.org/2016/01/21/activist-in-xinjiang-sentenced-to-19-years-for-online-writings-and-rights-activities/
 -   2016 Facebook Android app implements Tor option http://money.cnn.com/2016/01/20/technology/facebook-android-tor/

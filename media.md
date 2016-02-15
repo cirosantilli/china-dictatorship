@@ -61,3 +61,10 @@ Sources of information pertinent to this repository.
 - (zh) <https://chinaview.wordpress.com/>
 - (zh) <http://blog.sina.com.cn/slxqnj98>
 - (zh) <http://program-think.blogspot.com/>, <https://my.csdn.net/program_think>
+
+## Non exclusive
+
+Not China exclusive, but when they talk, it's harsh.
+
+- TomoNews <https://www.youtube.com/user/TomoNewsUS>. TODO: which country is this from? Likely Taiwan or Hong Kong. Animation style reminds me of: <https://www.youtube.com/channel/UC4G3lPPWm6qtoWtRk4vyGwg>
+- TestTube News: <https://www.youtube.com/channel/UCgRvm1yLFoaQKhmaTqXk9SA>
