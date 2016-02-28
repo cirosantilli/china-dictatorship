@@ -1,5 +1,9 @@
 # Policies 政策
 
+
+- reincarnation law <https://en.wikipedia.org/wiki/State_Religious_Affairs_Bureau_Order_No._5>
+- nail in collar <http://www.mirror.co.uk/news/world-news/chinese-cops-stick-pins-through-747385> <http://www.dailymail.co.uk/news/article-564629/Pictured-How-China-gets-troops-stand-attention--pins-collars-crosses-backs.html>
+- 2014 pun control <https://youtu.be/Gq1B3Hgclyo?t=261> <http://www.theguardian.com/world/2014/nov/28/china-media-watchdog-bans-wordplay-puns>
 - wumao dang paid pro-party online commentators <http://chineseculture.about.com/od/thechinesegovernment/a/The-50-Cent-Party-Chinas-Paid-Internet-Commenters.htm>
 - <https://en.wikipedia.org/wiki/Internal_media_of_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%86%85%E9%83%A8%E5%AA%92%E4%BD%93>
 - 2014 Social Credit System 社会信用体系: <http://www.volkskrant.nl/buitenland/china-rates-its-own-citizens-including-online-behaviour~a3979668/> <http://baike.baidu.com/view/1478540.htm>

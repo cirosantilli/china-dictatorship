@@ -18,7 +18,12 @@ Tools:
 
 Monitoring:
 
-- <http://greatfire.org/> <https://en.wikipedia.org/wiki/GreatFire> <https://freeweibo.com/> <https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%BE%AE%E5%8D%9A>
+-   <http://greatfire.org/>
+    - <https://en.wikipedia.org/wiki/GreatFire>
+    - <https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%BE%AE%E5%8D%9A>
+    - <https://freeweibo.com/>
+    - <https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how> made some noise at the time
+    - <https://twitter.com/GreatFireChina>
 
 Search terms:
 
@@ -38,7 +43,7 @@ Anyone can create content 任何人都可以些：
 -   <http://google.com> <http://www.baidu.com/> <https://www.google.com/transparencyreport/traffic/?hl=zh-CN#expand=CN>
     - Google Play <http://www.androidcentral.com/google-play-store-reportedly-planned-early-2016-launch-china>
 -   <http://www.facebook.com> <http://www.renren.com>
--   <https://twitter.com/> <http://weibo.com/> <https://en.wikipedia.org/wiki/Sina_Weibo>
+-   <https://twitter.com/> <http://weibo.com/> <https://en.wikipedia.org/wiki/Sina_Weibo>. Oh, but an official press does have an 1M subscriber account on Twitter: <https://twitter.com/PDChina>
 -   <https://www.youtube.com/> <http://www.youku.com/>
 -   <https://www.blogger.com/>
 -   <https://wordpress.com/>

@@ -5,12 +5,14 @@ Sources of information pertinent to this repository.
 ## Linked to the Chinese government 联系到中国政府
 
 - <https://en.wikipedia.org/wiki/Xinhua_News_Agency> <https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8D%8E%E7%A4%BE>
-- <https://en.wikipedia.org/wiki/People%27s_Daily> <https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5> <http://people.cn/>
+- <https://en.wikipedia.org/wiki/People%27s_Daily> <https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5> <http://people.cn/> <https://twitter.com/PDChina> (yes, Twitter is blocked by GFW)
 - <https://en.wikipedia.org/wiki/China_Daily>
 - <https://en.wikipedia.org/wiki/Confucius_Institute> <https://zh.wikipedia.org/wiki/%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2> <http://www.economist.com/node/17969895>
 - <https://en.wikipedia.org/wiki/China_Radio_International> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0> <http://www.cri.cn> <http://english.cri.cn/> State owned.
 
 ## Against the Chinese government 对中国政府
+
+Which is the same as not controlled by it :-)
 
 - <https://www.reddit.com/r/China>
 - <https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China#Dissident_news>
@@ -22,6 +24,8 @@ Sources of information pertinent to this repository.
 - <http://www.wantchinatimes.com/>, linked to Taiwan 和台湾有关系
 - <http://news.mingpao.com> e.g. <http://news.mingpao.com/ins/%E3%80%90%E5%85%A8%E5%9C%8B%E5%A4%A7%E6%90%9C%E6%8D%95%E3%80%91%E5%85%A9%E5%A4%A9%E5%85%A757%E5%90%8D%E7%B6%AD%E6%AC%8A%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%BE%8B%E5%B8%AB%EF%BC%9A%E5%A4%B1%E8%B9%A4%E3%80%81%E8%A2%AB%E6%8D%95%E3%80%81%E7%B4%84%E8%AB%87%E3%80%80%E6%95%B8%E5%AD%97%E6%96%99%E7%BA%8C%E5%8D%87%EF%BC%88%E9%99%84%E5%90%8D%E5%96%AE%EF%BC%89/web_tc/article/20150711/s00004/1436604513525>
 - <http://chinachange.org/>
+- <https://medium.com/china-media-project>
+- <https://sinocism.com/>
 
 ### Linked to Falun Gong 联系到法轮功
 
