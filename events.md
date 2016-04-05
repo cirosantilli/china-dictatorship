@@ -1,5 +1,6 @@
 # Events 事件
 
+-   2016 https://en.wikipedia.org/wiki/Panama_Papers
 -   2016 gay depiction banned on television http://www.theguardian.com/tv-and-radio/2016/mar/04/china-bans-gay-people-television-clampdown-xi-jinping-censorship
 -   2016 pastor 14 years jail <http://www.nytimes.com/2016/02/27/world/asia/china-zhejiang-christians-pastor-crosses.html>
 -   2016 Armani Communist <http://www.bbc.com/news/blogs-trending-35496562>

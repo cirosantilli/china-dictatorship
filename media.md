@@ -46,6 +46,8 @@ Which is the same as not controlled by it :-)
 
 -   <https://en.wikipedia.org/wiki/Sound_of_Hope> <http://www.soundofhope.org/> <http://www.bayvoice.net/gb/>
 
+-   <http://lotus-sacre.com/>
+
 ## Linked to the USA government 联系到美国政府
 
 -   <https://en.wikipedia.org/wiki/Voice_of_America>
