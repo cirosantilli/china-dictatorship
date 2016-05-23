@@ -25,10 +25,11 @@ Monitoring:
     - <https://freeweibo.com/>
     - <https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how> made some noise at the time
     - <https://twitter.com/GreatFireChina>
-
-Search terms:
-
-- GFW翻墙
+-   other websites: http://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/288497#288497
+-   Harvard papers
+    - <http://gking.harvard.edu/50c#>
+    - <http://gking.harvard.edu/publications/how-Censorship-China-Allows-Government-Criticism-Silences-Collective-Expression>
+    - <http://gking.harvard.edu/publications/randomized-experimental-study-censorship-china>
 
 Information:
 
@@ -53,6 +54,7 @@ Anyone can create content 任何人都可以些：
 -   <http://www.reddit.com/>
     - <https://www.reddit.com/r/China/> Great source of anti-China ammo :-)
 -   <http://pastebin.com>
+-   <https://medium.com/> in 2016-04 <https://www.techinasia.com/medium-blocked-china-bcuz-of-course>
 
 Curated content:
 

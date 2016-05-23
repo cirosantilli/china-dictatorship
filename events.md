@@ -1,5 +1,12 @@
 # Events 事件
 
+-   2016 queen says Chinese were rude in state visit http://www.nytimes.com/2016/05/12/world/asia/china-britain-queen-xi-jinping.html?_r=0
+-   Sexy banana eating forbidden http://shanghaiist.com/2016/05/06/dont_eat_that_banana.php
+-   201X Chinese government uses forbidden media in China like Facebook and Twitter, possibly click farmed: <http://qz.com/671211/chinas-propaganda-outlets-have-leaped-the-top-of-facebook-even-though-it-banned-at-home/>
+-   2016-04 China economic sanctions companies that sell weapons to Taiwan (some of those companies also sell civilian products to China) <http://blogs.reuters.com/great-debate/2016/01/26/china-threatens-sanctions-against-u-s-companies-is-this-the-future/>
+-   2016-04 Disney Life blocked http://www.hollywoodreporter.com/news/china-demands-shutdown-disneylife-service-887599
+-   2016-04 Apple iTunes and iBooks blocked http://www.hollywoodreporter.com/news/china-demands-shutdown-apples-film-886831
+-   2016 China's 'Great Firewall' blocks its creator http://www.bbc.com/news/blogs-news-from-elsewhere-35968855
 -   2016 https://en.wikipedia.org/wiki/Panama_Papers
 -   2016 gay depiction banned on television http://www.theguardian.com/tv-and-radio/2016/mar/04/china-bans-gay-people-television-clampdown-xi-jinping-censorship
 -   2016 pastor 14 years jail <http://www.nytimes.com/2016/02/27/world/asia/china-zhejiang-christians-pastor-crosses.html>
@@ -32,6 +39,7 @@
 -   2015-03 China forces real usernames on the net, and provoking ones
     - https://advox.globalvoices.org/2015/04/16/new-internet-rules-in-china-target-usernames-avatars-as-subversive-tools/
     - http://www.engadget.com/2015/02/28/china-username-policy-purge/
+-   2014 https://www.reddit.com/r/China/comments/4hmhzt/xinjiang_massacre_2014_resulted_in_30005000_deaths/ something very serious happened in Xinjiang.
 -   2012 Nutech Namiba Hu Haifeng corruption scandal 纳米比亚威视胡海峰腐败丑闻 <https://en.wikipedia.org/wiki/Nuctech>. One of the most blocked on Wikipedia according to: [complete-gfw-rulebook-for-wikipedia-v3.0.pdf][]
 -   2011 Chinese pro-democracy protests <https://en.wikipedia.org/wiki/2011_Chinese_pro-democracy_protests> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD>
 -   2010 10 month Xinjiang internet blackout <http://news.bbc.co.uk/2/hi/asia-pacific/8682145.stm>

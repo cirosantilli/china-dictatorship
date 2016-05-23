@@ -125,6 +125,8 @@ Any act of protest will use things in ways that it was not meant to be used.
 
 For example, the street is not meant to showcase protest banners, it is meant to be a passageway for cars.
 
+Making a statement where no one will ever see it, like a personal website, is sure to have no effect.
+
 ## Does your employer support this?
 
 My employer has nothing to do with this.
