@@ -31,7 +31,7 @@ This is a good point, and one that does make me think.
 
     So this puts pressure on them to take away the firewall.
 
-1.  Programmers are more likely to develop better Firewall climbing tools is SO is blocked
+1.  Programmers are more likely to develop better Firewall climbing tools if SO is blocked
 
 1.  If we don't take any action to show our dissatisfaction, the dictatorship never ends.
 
@@ -46,7 +46,11 @@ This is a good point, and one that does make me think.
 
     But between those two extremes, what is the right measure? I think that saying nothing is too close to stability.
 
-    I do see that one alternative scenario is that if we do nothing, maybe there will be more and more contact with Western countries, and the Chinese will see for themselves that we are not that bad, and eventually request democracy. But who can know if this can really happen?
+    I do see that one alternative scenario is that if we do nothing, maybe there will be more and more contact with Western countries, and the Chinese will see for themselves that we are not that bad, and eventually request democracy.
+
+1.  Even if programmers get very powerful, it is not very likely that they will succeed to undo the dictatorship, they simply don't have enough power.
+
+    I'd rather have a less strong dictatorship, than one with good programmers.
 
 ## You are harming the Chinese programmers
 

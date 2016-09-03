@@ -55,6 +55,10 @@ Which is the same as not controlled by it :-)
     - <http://www.voachinese.com/>
     - <http://www.voacantonese.com/>
 
+## Uncertain
+
+- SCMP from Hong Kong, and was critical of CCP, but was bought by Alibaba: <http://www.scmp.com/frontpage/international> <http://www.scmp.com/news/china/society/article/1937256/alibabas-jack-ma-reveals-why-he-bought-south-china-morning-post> There were still critical articles after the purchase.
+
 ## Pertinent to Falun Gong
 
 - <http://en.wikipedia.org/wiki/MIVILUDES> seems not to consider Falun Gong as a sect

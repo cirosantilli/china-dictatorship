@@ -71,7 +71,7 @@ Censorship monitoring tools 审查监控工具: <http://meta.stackoverflow.com/a
 Surprisingly unblocked 令人惊讶的畅通：
 
 - <http://stackoverflow.com> <http://segmentfault.com> <http://www.quora.com/Is-there-a-Chinese-version-of-Stackoverflow-com>
-- <http://github.com>
+- <http://github.com> Temporarily blocked twice: <http://chloerei.com/2014/02/24/we-saved-github-twice/>
 - <https://www.tumblr.com>
 - <http://www.quora.com/> <http://www.quora.com/Is-there-any-clone-of-Quora-in-China>, <https://en.wikipedia.org/wiki/Zhihu>, <http://www.zhihu.com/>
 
@@ -83,6 +83,12 @@ Curated list of censored websites:
 
 - <http://fanqianghou.com/> Website title translate: "After you climb the wall, what to see?".
 - <http://blockedonweibo.tumblr.com>
+
+### Pornography
+
+Illegal since 1949: <http://www.slate.com/articles/news_and_politics/explainer/2009/06/they_know_it_when_they_see_it.html> and continues to be semi-enforced.
+
+TODO rationale today? Some people said it is to not divert people's attention from work and the service of the country.
 
 ## Tools
 

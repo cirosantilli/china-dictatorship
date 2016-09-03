@@ -1,5 +1,7 @@
 # Events 事件
 
+-   2016-06 <https://www.theguardian.com/music/2016/jun/28/china-lady-gaga-ban-list-hostile-foreign-forces-meeting-dalai-lama>
+-   2016-06 first GitHub takedown <https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md>
 -   2016 queen says Chinese were rude in state visit http://www.nytimes.com/2016/05/12/world/asia/china-britain-queen-xi-jinping.html?_r=0
 -   Sexy banana eating forbidden http://shanghaiist.com/2016/05/06/dont_eat_that_banana.php
 -   201X Chinese government uses forbidden media in China like Facebook and Twitter, possibly click farmed: <http://qz.com/671211/chinas-propaganda-outlets-have-leaped-the-top-of-facebook-even-though-it-banned-at-home/>
