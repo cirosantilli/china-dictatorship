@@ -131,6 +131,18 @@ For example, the street is not meant to showcase protest banners, it is meant to
 
 Making a statement where no one will ever see it, like a personal website, is sure to have no effect.
 
+## Many people have died because they stopped taking medication because of Falun Gong, you should not support it
+
+This is likely true, and makes me worry, but consider:
+
+- http://skeptics.stackexchange.com/questions/27529/have-many-falun-gong-practitioners-forgone-medical-treatment-and-died-of-treatab
+- maybe people should be allowed to choose not to take medication if they don't want to
+- maybe the number of people killed during persecution vastly outnumbers those who died because they would not take medication
+- what matters are statistics. Maybe FLG people live longer than non FLG in average. But we will never know because of censorship.
+- several religions, including Christianism have miraculous cure claims
+- maybe the main reason why communists banned FLG is the political threat it posed, a ban was unjustified given the situation
+- many some of those people would also have died soon if they had taken medication
+
 ## Does your employer support this?
 
 My employer has nothing to do with this.
