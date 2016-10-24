@@ -85,6 +85,14 @@ My SO username and protest time are not infinite.
 
     If China starts a war, I might have to fight it.
 
+## You are not Chinese, you have been brainwashed by the USA know nothing about China
+
+I don't doubt that you know more about China than me.
+
+If you know something I don't, please tell me, I always want to learn.
+
+But if you are Chinese, also consider that you have been brainwashed by the commies, and likely more than me since you live in a dictatorship.
+
 ## In the Tweet you say "correctional facility", but reeducation through labour has been abolished
 
 My bad [here](https://twitter.com/cirosantilli/status/579270450984984576), the precise term is "jail". I'm *not* talking about: <https://en.wikipedia.org/wiki/Re-education_through_labor> Unfortunately I can't edit a Tweet.
@@ -131,17 +139,9 @@ For example, the street is not meant to showcase protest banners, it is meant to
 
 Making a statement where no one will ever see it, like a personal website, is sure to have no effect.
 
-## Many people have died because they stopped taking medication because of Falun Gong, you should not support it
+## The Chinese masses are still uneducated, and not fit for democracy
 
-This is likely true, and makes me worry, but consider:
-
-- http://skeptics.stackexchange.com/questions/27529/have-many-falun-gong-practitioners-forgone-medical-treatment-and-died-of-treatab
-- maybe people should be allowed to choose not to take medication if they don't want to
-- maybe the number of people killed during persecution vastly outnumbers those who died because they would not take medication
-- what matters are statistics. Maybe FLG people live longer than non FLG in average. But we will never know because of censorship.
-- several religions, including Christianism have miraculous cure claims
-- maybe the main reason why communists banned FLG is the political threat it posed, a ban was unjustified given the situation
-- many some of those people would also have died soon if they had taken medication
+When will they be ready? Who decides? What if they think that they are ready now?
 
 ## Does your employer support this?
 
@@ -151,4 +151,44 @@ He doesn't approve or disapprove of the Chinese government or of my private acti
 
 The only thing that my employer *does* believe in is that employees can have their own political opinions, and that this should not affect hiring decisions.
 
-Obviously, my employer risks losing contracts with China because of me, But she believes that being morally correct, and not discriminating political positions is more valuable.
+Obviously, my employer risks losing contracts with China because of me, But she believes that inclusion and non-discrimination is more valuable.
+
+## Falun Gong
+
+### Many people have died because they stopped taking medication because of Falun Gong, you should not support it
+
+<http://skeptics.stackexchange.com/questions/27529/have-many-falun-gong-practitioners-forgone-medical-treatment-and-died-of-treatab>
+
+This is a point that makes me worry, but consider:
+
+- what matters are statistics. Maybe FLG people live longer than non FLG in average. But we will never have statistics because of censorship
+- maybe people should be allowed to choose how they want to die, not to take medication if they don't want to
+- maybe the number of people killed during persecution vastly outnumbers those who died because they would not take medication
+- several religions, including Christianism have miraculous cure claims
+- maybe the main reason why communists banned FLG is the political threat it posed, but that a ban was unjustified given the situation. Christian crosses are being taken down as of 2016, have they stopped taking their medications as well?
+- many some of those people would also have died soon if they had taken medication
+- maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyways.
+
+### Falun Gong is completely different in the West than it was in China
+
+I believe that it has changed.
+
+It has become more organized.
+
+People are better educated in general, and discourse must be different to appeal to them, e.g. underplaying the religious aspect.
+
+If you know more ways in which it has changed, let me know.
+
+But I still don't think it justifies the ban.
+
+And once again, we can know nothing for sure about the past in China because of censorship.
+
+Even if you saw something yourself, how can you be sure that it is representative?
+
+And now that it has changed, maybe China should unban it?
+
+### FLG is a fake religion
+
+Similar to the question: does God exist?
+
+And thus unanswerable, and not interesting to me.
