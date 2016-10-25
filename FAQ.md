@@ -16,6 +16,33 @@ That being said, I take the agenda of information sources very seriously.
 
 E.g. I try to clearly classify Communist Party and Falun Gong linked sources.
 
+## Are you a radical?
+
+Radical: I don't consider myself a radical because I actually have doubts about doing this sometimes.
+
+Also I don't consider the Chinese Government Evil or anything like that. To me, it's just another non-democratic empire like the Qing Dynasty. 共产朝 as I call them. But alas, I'm not the inventor of the expression: <http://web.archive.org/web/20161025220242/http://tieba.baidu.com/p/752094668>
+
+I never get mad. Only a slightly sad or annoyed sometimes.
+
+But I do admit that I am hard headed like almost all humans, and it is very unlikely that anything anyone says will change my mind about subjective political matters.
+
+In the end I just end up thinking about new replies to those arguments and adding them to this FAQ.
+
+## Are you a SJW?
+
+SJW: there is a seed of SJW in me.
+
+One major difference between me and the stereotypical SJW is that I never engage in lengthy discussions.
+
+I believe that you cannot change people's mind's, and that learning tech is more worthy of my time.
+
+I limit myself to listening as much as I can to learn new arguments.
+
+So the rationale of my actions is *not* to convince anyone, but rather:
+
+- increase the monetary cost of censorship by binding politics to tech
+- group up like minded people who don't like censorship
+
 ## If programming websites get blocked, there will be less good programmers to fight against the dictatorship
 
 This is a good point, and one that does make me think.
@@ -139,7 +166,7 @@ For example, the street is not meant to showcase protest banners, it is meant to
 
 Making a statement where no one will ever see it, like a personal website, is sure to have no effect.
 
-## The Chinese masses are still uneducated, and not fit for democracy
+## The Chinese masses are still uneducated, and not fit for free speech and democracy
 
 When will they be ready? Who decides? What if they think that they are ready now?
 
@@ -151,7 +178,13 @@ He doesn't approve or disapprove of the Chinese government or of my private acti
 
 The only thing that my employer *does* believe in is that employees can have their own political opinions, and that this should not affect hiring decisions.
 
-Obviously, my employer risks losing contracts with China because of me, But she believes that inclusion and non-discrimination is more valuable.
+Obviously, this action limits my ability to lead high profile deals with China.
+
+Also I'm quite curios if this would limit my ability to go to China for business, but I haven't applied for a visa since I've started this.
+
+But my employer believes that inclusion and non-discrimination is more valuable.
+
+I will always do my best to not let my personal opinions affect my professional decisions, as that would be unfair to my employer.
 
 ## Falun Gong
 
