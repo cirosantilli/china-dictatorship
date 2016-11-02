@@ -1,5 +1,6 @@
 # Events 事件
 
+-   2016-11 <https://www.reddit.com/r/China/comments/5ai1s6/chinese_citizen_arrested_after_wearing_xitler/> <https://wqw2010.blogspot.co.uk/2016/10/101.html> Possible Twitter: <https://twitter.com/kwonpyong>
 -   2016-09: <http://qz.com/783026/china-censorship-chinese-citizens-are-being-arrested-for-sharing-news-about-the-wukan-village-rebellion-online/> <http://qz.com/781989/foreign-journalists-are-wanted-for-3000-by-chinese-authorities-for-inciting-unrest-in-a-village/> <https://en.wikipedia.org/wiki/Wukan_protests>
 -   2016-06 <https://www.theguardian.com/music/2016/jun/28/china-lady-gaga-ban-list-hostile-foreign-forces-meeting-dalai-lama>
 -   2016-06 first GitHub takedown <https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md>
