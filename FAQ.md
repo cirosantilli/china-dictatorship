@@ -201,6 +201,9 @@ This is a point that makes me worry, but consider:
 - maybe the main reason why communists banned FLG is the political threat it posed, but that a ban was unjustified given the situation. Christian crosses are being taken down as of 2016, have they stopped taking their medications as well?
 - many some of those people would also have died soon if they had taken medication
 - maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyways.
+- riding motorcycles and smoking also reduce people's lifespan. Forbidding them, also has huge humanitarian costs. So why not forbid them as well?
+
+### There is danger that FLG
 
 ### Falun Gong is completely different in the West than it was in China
 
@@ -219,6 +222,40 @@ And once again, we can know nothing for sure about the past in China because of 
 Even if you saw something yourself, how can you be sure that it is representative?
 
 And now that it has changed, maybe China should unban it?
+
+### FLG is dangerous because LHZ has too much power over followers
+
+I agree that there is danger in every religion, and specially new religions.
+
+However the same point can be made about political parties and in particular the CCP and it's chairman.
+
+Couldn't a charismatic leader chairman gain more and more power (like Xi seems to be doing), and eventually start a war and kill millions? Or just kill some minority which is not happy about the situation.
+
+Similarly, any charismatic leader of a pro democracy movement could become the leader of a terrorist organization.
+
+If you ever want democracy, you will have to learn to accept the beliefs of others, and only punish them when they actually break a law.
+
+### FLG downplays the fact that it is a religion
+
+I think that most people in the West would classify FLG as a religion if they are told that it mentions higher intelligent beings, other dimensions, and have weekly meetings where they read from a sacred book.
+
+Or a cult, which is nothing but a new / small religion with negative connotation, and thus meaningless.
+
+But consider this: how to classify what a religion is?
+
+Some would answer: science is what everyone can perceive with their own senses.
+
+But FLG followers claim to feel FLG energies when doing the exercises, and a few of them have the power of seeing the other dimensions.
+
+On the other hand, how many of your friends have experienced the laws of quantum field theory or general relativity in a very direct way?
+
+You may argue all, because e.g. of gravity. But so can FLG followers, saying that large historical events are due to their gods and daemons.
+
+### FLG media is not transparent about its affiliation
+
+Agreed, and it is a point that hurts more than helps their cause: e.g. New Tang Dynasty TV, Epoch Times and Shen Yun.
+
+But are all media forced to state their affiliation? Should all major newspapers start taking pools of how many employees follow which religion, and put that in their print?
 
 ### FLG is a fake religion
 
