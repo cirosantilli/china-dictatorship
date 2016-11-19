@@ -28,6 +28,8 @@ But I do admit that I am hard headed like almost all humans, and it is very unli
 
 In the end I just end up thinking about new replies to those arguments and adding them to this FAQ.
 
+But maybe no radical ever considers himself radical? Hmmm...
+
 ## Are you a SJW?
 
 SJW: there is a seed of SJW in me.
@@ -186,6 +188,12 @@ But my employer believes that inclusion and non-discrimination is more valuable.
 
 I will always do my best to not let my personal opinions affect my professional decisions, as that would be unfair to my employer.
 
+## Stack Overflow could be blocked at no cost by the Chinese government
+
+Hitting the block button has of course no cost.
+
+The cost of blocking Stack Overflow lies of course in the loss of information, and slower technological development.
+
 ## Falun Gong
 
 ### Many people have died because they stopped taking medication because of Falun Gong, you should not support it
@@ -201,7 +209,7 @@ This is a point that makes me worry, but consider:
 - maybe the main reason why communists banned FLG is the political threat it posed, but that a ban was unjustified given the situation. Christian crosses are being taken down as of 2016, have they stopped taking their medications as well?
 - many some of those people would also have died soon if they had taken medication
 - maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyways.
-- riding motorcycles and smoking also reduce people's lifespan. Forbidding them, also has huge humanitarian costs. So why not forbid them as well?
+- riding motorcycles and smoking also reduce people's lifespan. Forbidding them, also has huge humanitarian costs (creation of a black market). So why not forbid them as well?
 
 ### There is danger that FLG
 
@@ -257,8 +265,20 @@ Agreed, and it is a point that hurts more than helps their cause: e.g. New Tang 
 
 But are all media forced to state their affiliation? Should all major newspapers start taking pools of how many employees follow which religion, and put that in their print?
 
+### FLG is illegal in China, we must follow the law
+
+This might be a bad law that should be changed.
+
 ### FLG is a fake religion
 
 Similar to the question: does God exist?
 
 And thus unanswerable, and not interesting to me.
+
+### Many people both are against censorship and FLG
+
+I know that, and that supporting FLG is "bad" for my public image with most Chinese, including those that are against censorship.
+
+But without censorship, there will be democracy, and with democracy FLG followers will have voting rights, and FLG will become legal.
+
+I think the situation is very similar to Scientology in the USA today: most people dislike it, but believe that you can believe whatever you want.
