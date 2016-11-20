@@ -194,6 +194,12 @@ Hitting the block button has of course no cost.
 
 The cost of blocking Stack Overflow lies of course in the loss of information, and slower technological development.
 
+## Were you influenced by the Cute cat theory of digital activism?
+
+<https://en.wikipedia.org/wiki/Cute_cat_theory_of_digital_activism>
+
+Nope, someone told me about it after a while, but it is basically what I'm doing.
+
 ## Falun Gong
 
 ### Many people have died because they stopped taking medication because of Falun Gong, you should not support it
