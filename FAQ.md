@@ -168,6 +168,12 @@ For example, the street is not meant to showcase protest banners, it is meant to
 
 Making a statement where no one will ever see it, like a personal website, is sure to have no effect.
 
+Finally, it is up to the Stack Overflow community to decide what is right or wrong, and so far the consensus is go ahead:
+
+- <http://meta.stackoverflow.com/questions/298950/are-political-profiles-that-could-possibly-affect-the-participations-of-other-us>
+- <http://meta.stackoverflow.com/questions/267368/are-political-avatars-and-profiles-ok>
+- <http://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam>
+
 ## The Chinese masses are still uneducated, and not fit for free speech and democracy
 
 When will they be ready? Who decides? What if they think that they are ready now?

@@ -30,6 +30,8 @@ Monitoring:
     - <http://gking.harvard.edu/50c#>
     - <http://gking.harvard.edu/publications/how-Censorship-China-Allows-Government-Criticism-Silences-Collective-Expression>
     - <http://gking.harvard.edu/publications/randomized-experimental-study-censorship-china>
+-   emulation
+    - <https://github.com/phoeagon/gfw-sim>
 
 Information:
 
