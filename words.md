@@ -23,3 +23,7 @@ Keywords blocked by the GFW.
     Non e.g.: corruption and pollution. Those are hard to quantify, and there is always an immediate reply: china GDP per capita is low, same happens in India, Brazil, etc.
 
     Freedom of speech however, is immediately verifiable (e.g. "my Weibo was taken down"), and undeniably caused by the current central government.
+
+## Previously on my SO username
+
+- **包卓轩**: Bao Zhuoxuan, 16-year old son of Jul 2015 arrested human rights activist [Wang Yu](https://goo.gl/bTfxFp), kept hostage after trying to flee China ([nytimes](http://goo.gl/zt4IJD), [chinachange](http://goo.gl/bfqP8k))

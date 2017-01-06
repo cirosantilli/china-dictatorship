@@ -40,7 +40,7 @@
     - https://program-think.blogspot.com/2015/07/weekly-share-90.html
     - https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B710%E3%80%8C%E7%B6%AD%E6%AC%8A%E5%BE%8B%E5%B8%AB%E3%80%8D%E5%A4%A7%E6%8A%93%E6%8D%95%E4%BA%8B%E4%BB%B6
     - #710律师劫
-    https://program-think.blogspot.com/2015/07/weekly-share-90.html
+    - https://program-think.blogspot.com/2015/07/weekly-share-90.html
 -   2015-03 China forces real usernames on the net, and provoking ones
     - https://advox.globalvoices.org/2015/04/16/new-internet-rules-in-china-target-usernames-avatars-as-subversive-tools/
     - http://www.engadget.com/2015/02/28/china-username-policy-purge/
@@ -48,6 +48,8 @@
 -   2012 Nutech Namiba Hu Haifeng corruption scandal 纳米比亚威视胡海峰腐败丑闻 <https://en.wikipedia.org/wiki/Nuctech>. One of the most blocked on Wikipedia according to: [complete-gfw-rulebook-for-wikipedia-v3.0.pdf][]
 -   2011 Chinese pro-democracy protests <https://en.wikipedia.org/wiki/2011_Chinese_pro-democracy_protests> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD>
 -   2010 10 month Xinjiang internet blackout <http://news.bbc.co.uk/2/hi/asia-pacific/8682145.stm>
+-   2009 <https://en.wikipedia.org/wiki/Tan_Zuoren#2009_court_case> Ai Weiwei documentary about it: <https://aiweiwei.com/documentaries/disturbing-the-peace/index.html>
+-   2008 <https://en.wikipedia.org/wiki/Tofu-dreg_project> 豆腐渣工程 <https://en.wikipedia.org/wiki/China%27s_Unnatural_Disaster:_The_Tears_of_Sichuan_Province>
 -   2008 Wenzhou train collision 2011年甬台温铁路列车追尾事故: <https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response> <https://zh.wikipedia.org/wiki/2011%E5%B9%B4%E7%94%AC%E5%8F%B0%E6%B8%A9%E9%93%81%E8%B7%AF%E5%88%97%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85>
 -   2008 Tibetan unrest 西藏骚乱 <https://en.wikipedia.org/wiki/2008_Tibetan_unrest> <https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E8%A5%BF%E8%97%8F%E9%AA%9A%E4%B9%B1>
 -   2005 Dongzhou protests <https://en.wikipedia.org/wiki/Dongzhou_protests> <https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%B4%B2%E4%BA%8B%E4%BB%B6>
