@@ -301,3 +301,5 @@ I know that, and that supporting FLG is "bad" for my public image with most Chin
 But without censorship, there will be democracy, and with democracy FLG followers will have voting rights, and FLG will become legal.
 
 I think the situation is very similar to Scientology in the USA today: most people dislike it, but believe that you can believe whatever you want.
+
+Democracy and Communism can also be considered as religions and persecuted.
