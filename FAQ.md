@@ -1,5 +1,11 @@
 # FAQ
 
+## Why are you attacking websites with censored keywords?
+
+To increase the cost of censorship.
+
+If commies censor things, they will get worse IT technology, and thus less rich.
+
 ## Do you hate China?
 
 On the contrary. China is my favorite country. It has many, many wonderful things. As Bjarne said:
@@ -173,6 +179,7 @@ Finally, it is up to the Stack Overflow community to decide what is right or wro
 - <http://meta.stackoverflow.com/questions/298950/are-political-profiles-that-could-possibly-affect-the-participations-of-other-us>
 - <http://meta.stackoverflow.com/questions/267368/are-political-avatars-and-profiles-ok>
 - <http://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam>
+- <http://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u/286090#286090>, see public figure comments
 
 ## The Chinese masses are still uneducated, and not fit for free speech and democracy
 
