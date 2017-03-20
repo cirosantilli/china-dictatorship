@@ -58,6 +58,12 @@ Anyone can create content 任何人都可以些：
     - <https://www.reddit.com/r/China/> Great source of anti-China ammo :-)
 -   <http://pastebin.com>
 -   <https://medium.com/> in 2016-04 <https://www.techinasia.com/medium-blocked-china-bcuz-of-course>
+-   Image sharing
+    - Instagram
+    - Tumblr
+    - Snapchat
+    - Picasa
+    - Pinterest
 
 Curated content:
 

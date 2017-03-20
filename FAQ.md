@@ -106,6 +106,8 @@ My SO username and protest time are not infinite.
 
 1.  If I lived under a dictatorship, I would welcome foreign intervention.
 
+    Even if you don't, I know several who do.
+
 1.  The commies say that all foreigners are bad.
 
     I disagree. There are good and bad ones.
@@ -119,6 +121,8 @@ My SO username and protest time are not infinite.
     If China's environment is bad, my environment is worse.
 
     If China starts a war, I might have to fight it.
+
+1.  You can't do anything about it.
 
 ## You are not Chinese, you have been brainwashed by the USA know nothing about China
 
@@ -215,6 +219,18 @@ Nope, someone told me about it after a while, but it is basically what I'm doing
 
 ## Falun Gong
 
+### Do you support FLG, or just use it because it is a censored?
+
+I support freedom of religion.
+
+I believe that individuals should only be put in jail for what they do, not for what they believe.
+
+I consider FLG a religion, and I am against it's ban, as I am for all other religions.
+
+Also I believe that freedom of speech and democracy imply that FLG and other religions will exist. If you want freedom, you have to accept other people's choices.
+
+Otherwise, democracy and communism can also be considered as religions, and banned.
+
 ### Many people have died because they stopped taking medication because of Falun Gong, you should not support it
 
 <http://skeptics.stackexchange.com/questions/27529/have-many-falun-gong-practitioners-forgone-medical-treatment-and-died-of-treatab>
@@ -303,3 +319,10 @@ But without censorship, there will be democracy, and with democracy FLG follower
 I think the situation is very similar to Scientology in the USA today: most people dislike it, but believe that you can believe whatever you want.
 
 Democracy and Communism can also be considered as religions and persecuted.
+
+### Many people say they do FLG only to get VISAs to the USA
+
+Heard this a few times, but I don't see how this is relevant at all:
+
+- if they are not really FLG believers, this says nothing about the real FLG believers
+- if they are, then why wouldn't they seek a VISA, since they are in constant threat of going to jail?
