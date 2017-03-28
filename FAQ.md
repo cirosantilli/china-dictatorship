@@ -225,7 +225,7 @@ I support freedom of religion.
 
 I believe that individuals should only be put in jail for what they do, not for what they believe.
 
-I consider FLG a religion, and I am against it's ban, as I am for all other religions.
+I consider FLG a religion, and I am against its ban, as I am for all other religions.
 
 Also I believe that freedom of speech and democracy imply that FLG and other religions will exist. If you want freedom, you have to accept other people's choices.
 
@@ -242,11 +242,9 @@ This is a point that makes me worry, but consider:
 - maybe the number of people killed during persecution vastly outnumbers those who died because they would not take medication
 - several religions, including Christianism have miraculous cure claims
 - maybe the main reason why communists banned FLG is the political threat it posed, but that a ban was unjustified given the situation. Christian crosses are being taken down as of 2016, have they stopped taking their medications as well?
-- many some of those people would also have died soon if they had taken medication
+- maybe many of those people would also have died soon even if they had taken medication
 - maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyways.
-- riding motorcycles and smoking also reduce people's lifespan. Forbidding them, also has huge humanitarian costs (creation of a black market). So why not forbid them as well?
-
-### There is danger that FLG
+- riding motorcycles and smoking also reduce people's lifespan. Forbidding them, also has huge humanitarian costs (more expensive vehicles, creation of a black market, ...). So why not forbid them as well?
 
 ### Falun Gong is completely different in the West than it was in China
 
@@ -254,7 +252,7 @@ I believe that it has changed.
 
 It has become more organized.
 
-People are better educated in general, and discourse must be different to appeal to them, e.g. underplaying the religious aspect.
+People in China are better educated in general, and discourse must be different to appeal to them, e.g. underplaying the religious aspect.
 
 If you know more ways in which it has changed, let me know.
 
@@ -270,7 +268,7 @@ And now that it has changed, maybe China should unban it?
 
 I agree that there is danger in every religion, and specially new religions.
 
-However the same point can be made about political parties and in particular the CCP and it's chairman.
+However the same point can be made about political parties and in particular the CCP and its chairman.
 
 Couldn't a charismatic leader chairman gain more and more power (like Xi seems to be doing), and eventually start a war and kill millions? Or just kill some minority which is not happy about the situation.
 
@@ -292,19 +290,19 @@ But FLG followers claim to feel FLG energies when doing the exercises, and a few
 
 On the other hand, how many of your friends have experienced the laws of quantum field theory or general relativity in a very direct way?
 
-You may argue all, because e.g. of gravity. But so can FLG followers, saying that large historical events are due to their gods and daemons.
-
 ### FLG media is not transparent about its affiliation
 
-Agreed, and it is a point that hurts more than helps their cause: e.g. New Tang Dynasty TV, Epoch Times and Shen Yun.
+Agreed, and it is a point that hurts more than helps their cause: e.g. New Tang Dynasty TV, Epoch Times and Shen Yun Dance group.
 
-But are all media forced to state their affiliation? Should all major newspapers start taking pools of how many employees follow which religion, and put that in their print?
+But are all media forced to state their affiliation?
+
+If so, then we should force *all* newspapers start taking pools of how many employees follow which religion, and put that in their print.
 
 ### FLG is illegal in China, we must follow the law
 
 This might be a bad law that should be changed.
 
-### FLG is a fake religion
+### FLG is a (fake|evil) religion
 
 Similar to the question: does God exist?
 
@@ -319,6 +317,8 @@ But without censorship, there will be democracy, and with democracy FLG follower
 I think the situation is very similar to Scientology in the USA today: most people dislike it, but believe that you can believe whatever you want.
 
 Democracy and Communism can also be considered as religions and persecuted.
+
+Isn't it convenient when a dictatorship gets rid of those weirdos for you? But not so much when suddenly you or your family is the weirdo...
 
 ### Many people say they do FLG only to get VISAs to the USA
 
