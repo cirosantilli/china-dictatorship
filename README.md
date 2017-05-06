@@ -15,3 +15,4 @@ Chinese "Communist" Dictatorship "facts". 中国《共产主义》独裁统治�
 1.  [Taiwan](taiwan.md)
 1.  [Stack Overflow](stack-overflow.md)
 1.  [Funny](funny.md)
+1.  [Russia](russia.md)

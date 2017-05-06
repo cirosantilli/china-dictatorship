@@ -250,19 +250,32 @@ This is a point that makes me worry, but consider:
 
 I believe that it has changed.
 
-It has become more organized.
+But isn't that the case of every cultural religious movement that migrates to a completely new culture?
 
-People in China are better educated in general, and discourse must be different to appeal to them, e.g. underplaying the religious aspect.
+Main points which may have changed:
 
-If you know more ways in which it has changed, let me know.
+-   It has become more organized.
 
-But I still don't think it justifies the ban.
+    But why shouldn't they organize to defend themselves now that they have the chance without being put into prison?
 
-And once again, we can know nothing for sure about the past in China because of censorship.
+    The CCP is highly organized and has way more resources.
+
+-   Less emphasis is given to the religious / mystical aspect, and more to the corporal exercises, and health aspect.
+
+    This may be because people in the "West" are:
+
+    - are "scientific-educated" atheists who wouldn't go for a "religion"
+    - already have other religions, which would view FLG as a taboo
+
+Also maybe only the richest and most educated believers managed to escape China, and thus the movement carried that bias outside China.
+
+If you know more ways in which it may have changed, let me know.
+
+But once again, we can know nothing for sure about the past in China because of censorship.
 
 Even if you saw something yourself, how can you be sure that it is representative?
 
-And now that it has changed, maybe China should unban it?
+And if it has changed now, that it has changed, maybe China should unban it?
 
 ### FLG is dangerous because LHZ has too much power over followers
 

@@ -143,3 +143,9 @@ Likely, censorship has two goals 可能的是，审查有两个目标：
 Sources:
 
 - <http://web.archive.org/web/20151013163644/http://gking.harvard.edu/files/censored.pdf>
+
+## Reverse engineering
+
+Weibo:
+
+- <https://citizenlab.org/2017/04/we-cant-chat-709-crackdown-discussions-blocked-on-weibo-and-wechat/>
