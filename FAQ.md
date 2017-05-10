@@ -185,6 +185,12 @@ Finally, it is up to the Stack Overflow community to decide what is right or wro
 - <http://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam>
 - <http://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u/286090#286090>, see public figure comments
 
+### Are you making trivial edits on questions just to spam your name further?
+
+Realy, I'm not. I just think that website is great, and want to push it to perfection, in particular with better Google keyword hits, and uniform gramatically correct titles.
+
+If you think that any of my edits were harmful, please ping me and open a meta thread to discuss specific edits, and I will comply with consensus.
+
 ## The Chinese masses are still uneducated, and not fit for free speech and democracy
 
 When will they be ready? Who decides? What if they think that they are ready now?
