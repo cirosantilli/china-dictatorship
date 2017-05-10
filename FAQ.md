@@ -217,6 +217,12 @@ The cost of blocking Stack Overflow lies of course in the loss of information, a
 
 Nope, someone told me about it after a while, but it is basically what I'm doing.
 
+## If China became rich because of its current government, isn't it all worth it?
+
+Maybe China was poor because of Mao's crazy communist regime. Similar regimes also made Russia poor (yes, before that exploitation by the West was a reason).
+
+Definitely, the current regime is better than Mao's, but just imagine how rich China could be if it had more freedom and justice.
+
 ## Falun Gong
 
 ### Do you support FLG, or just use it because it is a censored?
@@ -275,7 +281,7 @@ But once again, we can know nothing for sure about the past in China because of 
 
 Even if you saw something yourself, how can you be sure that it is representative?
 
-And if it has changed now, that it has changed, maybe China should unban it?
+And if it has changed, now that it has changed, maybe China should unban it?
 
 ### FLG is dangerous because LHZ has too much power over followers
 
