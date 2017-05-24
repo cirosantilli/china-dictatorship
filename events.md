@@ -61,3 +61,7 @@
     - <https://en.wikipedia.org/wiki/Goddess_of_Democracy> <https://zh.wikipedia.org/wiki/中国国际广播电台>
 -   1987–1989 Tibetan unrest 年拉萨骚乱 <https://en.wikipedia.org/wiki/1987%E2%80%9389_Tibetan_unrest> <https://zh.wikipedia.org/wiki/1989%E5%B9%B4%E6%8B%89%E8%90%A8%E9%AA%9A%E4%B9%B1>. Videos: <https://www.youtube.com/watch?v=0jylh1qfOG4>, <https://www.youtube.com/watch?v=qMZgoRuPJBg>
 -   1978, 1997 <https://en.wikipedia.org/wiki/Beijing_Spring> <https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5> <https://en.wikipedia.org/wiki/Democracy_Wall> <https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99>
+
+Less important events:
+
+-   2017-05 <https://qz.com/989454/a-chinese-students-commencement-speech-at-the-university-of-maryland-praising-fresh-air-and-democracy-is-riling-chinas-internet/>
