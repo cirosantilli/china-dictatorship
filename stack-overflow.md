@@ -9,7 +9,13 @@ Other openly dissident users.
 - <http://stackoverflow.com/users/4594532/gnimuc-key>
 - <http://stackoverflow.com/users/651907/jclin>
 
-Query to find them: <http://data.stackexchange.com/stackoverflow/query/312863/chinese-dissidents-by-keyword-aboutme-or-displayname>
+Users who mentioned me in their profiles at some point:
+
+- <https://web.archive.org/web/20170602054631/https://stackoverflow.com/users/815408/%E8%AF%B7%E5%B0%81%E6%8E%89ciro-santilli-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%87%E5%B2%81>
+
+Query to find them: <http://data.stackexchange.com/stackoverflow/query/312863/mentioned-ciro-santilli-on-aboutme-or-displayname>
+
+- <https://web.archive.org/web/20170602054631/https://stackoverflow.com/users/815408/%E8%AF%B7%E5%B0%81%E6%8E%89ciro-santilli-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%87%E5%B2%81>
 
 ## Discussions
 
