@@ -8,6 +8,8 @@ Forbidden:
 
 -   generating lots of notifications for me that don't teach me anything new.
 
+    I don't have that much time to waste.
+
     If I can unsubscribe from your notifications however, you are free to comment away.
 
 Punitive measures, from least serious to most serious:
