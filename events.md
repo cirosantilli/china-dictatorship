@@ -1,6 +1,9 @@
 # Events 事件
 
+-   2017-06 <http://www.whatsonweibo.com/new-rules-online-videos-china-no-displays-homosexuality/>
+-   2017-06 <http://mashable.com/2017/06/23/china-bans-livestreaming/#FJ4h.sLYQqq9>
 -   2017-05 <http://www.sixthtone.com/news/1000233/at-wedding-market%2C-mothers-of-gays-and-lesbians-face-resistance>
+-   2017-05 <https://ktar.com/story/1564381/ap-exclusive-china-lawyers-family-says-us-helped-them-flee>
 -   2017-04 <https://chinachange.org/2017/05/03/breaking-lawyer-chen-jiangang-with-family-and-two-friends-seized-by-armed-police-in-yunnan/>
 -   2017-03 <http://www.bbc.co.uk/news/world-asia-china-39137293> BBC Team forced to sign confession
 -   2016-11 <http://www.bbc.co.uk/news/video_and_audio/headlines/38005603> Election china style, BBC interview with Chinese candidate, while thugs block him physically from nocking the door:  Funny / scary stuff. <https://www.reddit.com/r/China/comments/5dfigb/this_is_democracy_chinesestyle/>
