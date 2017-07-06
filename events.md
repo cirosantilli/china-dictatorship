@@ -1,5 +1,6 @@
 # Events 事件
 
+-   2017-06 <http://www.rfa.org/english/news/uyghur/ordered-05092017155554.html> Uyghurs studying abroad ordered to return to China
 -   2017-06 <http://www.whatsonweibo.com/new-rules-online-videos-china-no-displays-homosexuality/>
 -   2017-06 <http://mashable.com/2017/06/23/china-bans-livestreaming/#FJ4h.sLYQqq9>
 -   2017-05 <http://www.sixthtone.com/news/1000233/at-wedding-market%2C-mothers-of-gays-and-lesbians-face-resistance>
