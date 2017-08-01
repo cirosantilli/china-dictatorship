@@ -233,7 +233,9 @@ Definitely, the current regime is better than Mao's, but just imagine how rich C
 
 ### Do you support FLG, or just use it because it is a censored?
 
-I support freedom of religion.
+I don't support FLG specifically, only freedom of religion.
+
+I use it in my usernames simply because it is the most banned and censored one in China today.
 
 I believe that individuals should only be put in jail for what they do, not for what they believe.
 
@@ -332,6 +334,26 @@ This might be a bad law that should be changed.
 Similar to the question: does God exist?
 
 And thus unanswerable, and not interesting to me.
+
+### FLG is a very religion and therefore fake
+
+The Romans called Christianism the "Cult of Jesus".
+
+If I tell a lie today, will it become true in a thousand years? Or a truth today become a lie?
+
+Try sending an email to LHZ asking him to prove his powers to you :-)
+
+### FLG dislikes several other groups like homosexuals and some other religions
+
+Like most old religions.
+
+Democracy dislikes dictators.
+
+You and I dislike certain personality traits without any logical reason.
+
+What matters is that we treat everyone with respect and without bias at work, even if we don't like them.
+
+But the law can't force you to like everyone.
 
 ### Many people both are against censorship and FLG
 
