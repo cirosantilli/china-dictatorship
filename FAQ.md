@@ -373,3 +373,7 @@ Heard this a few times, but I don't see how this is relevant at all:
 
 - if they are not really FLG believers, this says nothing about the real FLG believers
 - if they are, then why wouldn't they seek a VISA, since they are in constant threat of going to jail?
+
+### Why do you say that democracy is a religion just like FLG?
+
+Because it also specifies irrational and fundamental aspects of how one should live, notably voting and freedom of speech.

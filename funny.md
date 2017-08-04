@@ -1,5 +1,6 @@
 # Funny 好笑儿
 
+- <https://web.archive.org/web/20170801011641/http://i.telegraph.co.uk/multimedia/archive/02590/TIGGER_2590531b.jpg> Whinnie the Pooh Xi Jinping Obama Tiger
 - <http://media.cagle.com/78/2017/03/08/192621_600.jpg>
 - 2015 Zimbabwe dictator wins Confucius prize <https://www.reddit.com/r/China/comments/3pqljx/zimbabwes_ruthless_dictator_mugabe_wins_chinas/>
 - <https://www.youtube.com/watch?v=V4WBsahU3X4> Stephen Colbert comments on how American films make a good image of China to be allowed in China by censors to increase sales.
