@@ -4,15 +4,7 @@
 
 To increase the cost of censorship.
 
-If commies censor things, they will get worse IT technology, and thus less rich.
-
-## Do you hate China?
-
-On the contrary. China is my favorite country. It has many, many wonderful things. As Bjarne said:
-
-> There are only two kinds of programming languages: those people always bitch about and those nobody uses
-
-I only focus here on negative things to provide content that will activate the Great Firewall.
+If commies censor things, they will get worse IT technology, and thus become less rich.
 
 ## This repository is completely biased against the Chinese Government!
 
@@ -21,35 +13,6 @@ I prefer the term focused :-)
 That being said, I take the agenda of information sources very seriously.
 
 E.g. I try to clearly classify Communist Party and Falun Gong linked sources.
-
-## Are you a radical?
-
-Radical: I don't consider myself a radical because I actually have doubts about doing this sometimes.
-
-Also I don't consider the Chinese Government Evil or anything like that. To me, it's just another non-democratic empire like the Qing Dynasty. 共产朝 as I call them. But alas, I'm not the inventor of the expression: <http://web.archive.org/web/20161025220242/http://tieba.baidu.com/p/752094668>
-
-I never get mad. Only a slightly sad or annoyed sometimes.
-
-But I do admit that I am hard headed like almost all humans, and it is very unlikely that anything anyone says will change my mind about subjective political matters.
-
-In the end I just end up thinking about new replies to those arguments and adding them to this FAQ.
-
-But maybe no radical ever considers himself radical? Hmmm...
-
-## Are you a SJW?
-
-SJW: there is a seed of SJW in me.
-
-One major difference between me and the stereotypical SJW is that I never engage in lengthy discussions.
-
-I believe that you cannot change people's mind's, and that learning tech is more worthy of my time.
-
-I limit myself to listening as much as I can to learn new arguments.
-
-So the rationale of my actions is *not* to convince anyone, but rather:
-
-- increase the monetary cost of censorship by binding politics to tech
-- group up like minded people who don't like censorship
 
 ## If programming websites get blocked, there will be less good programmers to fight against the dictatorship
 
@@ -86,6 +49,16 @@ This is a good point, and one that does make me think.
 1.  Even if programmers get very powerful, it is not very likely that they will succeed to undo the dictatorship, they simply don't have enough power.
 
     I'd rather have a less strong dictatorship, than one with good programmers.
+
+## Censorship is necessary to protect China from harmful USA propaganda
+
+I don't think this is below them, but:
+
+- without censorship, you would be much richer and stronger, and more able to defend yourselves
+- why does China also censor its own people in addition to foreign propaganda?
+- maybe this fear is greatly emphacised by the Chinese government beyond truth just to help them keep control of the country by fear and maintain their own power. Can the Americans really have that much influence in your country?
+- maybe the regions that want to split from China feel like China is not giving them anything back, and they are themselves looking for allies outside of China to help them split. With democracy, people are more likely to get what they want, and there will be split parties and votes.
+- the same argument can be used to justify any action, no matter how bad. E.g.: we must put all who criticize the government in jail, or else they will make China less united and weaker against the USA!
 
 ## You are harming the Chinese programmers
 
@@ -194,6 +167,43 @@ If you think that any of my edits were harmful, please ping me and open a meta t
 ## The Chinese masses are still uneducated, and not fit for free speech and democracy
 
 When will they be ready? Who decides? What if they think that they are ready now?
+
+## Do you hate China?
+
+On the contrary. China is my favorite country. It has many, many wonderful things. As Bjarne said:
+
+> There are only two kinds of programming languages: those people always bitch about and those nobody uses
+
+I only focus here on negative things to provide content that will activate the Great Firewall.
+
+## Are you a radical?
+
+Radical: I don't consider myself a radical because I actually have doubts about doing this sometimes.
+
+Also I don't consider the Chinese Government Evil or anything like that. To me, it's just another non-democratic empire like the Qing Dynasty. 共产朝 as I call them. But alas, I'm not the inventor of the expression: <http://web.archive.org/web/20161025220242/http://tieba.baidu.com/p/752094668>
+
+I never get mad. Only a slightly sad or annoyed sometimes.
+
+But I do admit that I am hard headed like almost all humans, and it is very unlikely that anything anyone says will change my mind about subjective political matters.
+
+In the end I just end up thinking about new replies to those arguments and adding them to this FAQ.
+
+But maybe no radical ever considers himself radical? Hmmm...
+
+## Are you a SJW?
+
+SJW: there is a seed of SJW in me.
+
+One major difference between me and the stereotypical SJW is that I never engage in lengthy discussions.
+
+I believe that you cannot change people's mind's, and that learning tech is more worthy of my time.
+
+I limit myself to listening as much as I can to learn new arguments.
+
+So the rationale of my actions is *not* to convince anyone, but rather:
+
+- increase the monetary cost of censorship by binding politics to tech
+- group up like minded people who don't like censorship
 
 ## Does your employer support this?
 
