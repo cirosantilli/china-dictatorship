@@ -97,6 +97,10 @@ My SO username and protest time are not infinite.
 
 1.  You can't do anything about it.
 
+    I don't like this argument, but in the end, this is what all politics comes down to: power.
+    
+    I recognize that in that sense, I may be similar to the CCP.
+
 ## You are not Chinese, you have been brainwashed by the USA know nothing about China
 
 I don't doubt that you know more about China than me.
