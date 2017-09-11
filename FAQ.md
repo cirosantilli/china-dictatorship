@@ -164,6 +164,12 @@ Realy, I'm not. I just think that website is great, and want to push it to perfe
 
 If you think that any of my edits were harmful, please ping me and open a meta thread to discuss specific edits, and I will comply with consensus.
 
+## Your profile distracts me from learning
+
+Sorry + street protest argument + I think freedom is worth it arguments again.
+
+I've heard there are browser plugins for that as well, but I don't think it will work for pictures, and in any case it will make your web pages fuzzier.
+
 ## The Chinese masses are still uneducated, and not fit for free speech and democracy
 
 When will they be ready? Who decides? What if they think that they are ready now?
