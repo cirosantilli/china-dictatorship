@@ -349,6 +349,8 @@ If so, then we should force *all* newspapers start taking pools of how many empl
 
 This might be a bad law that should be changed.
 
+It was perfectly legal for Nazis to kill Jews. Does it make that right?
+
 ### FLG is a (fake|evil) religion
 
 Similar to the question: does God exist?
@@ -397,3 +399,40 @@ Heard this a few times, but I don't see how this is relevant at all:
 ### Why do you say that democracy is a religion just like FLG?
 
 Because it also specifies irrational and fundamental aspects of how one should live, notably voting and freedom of speech.
+
+### I have personally seen people do bad things because of Falun Gong
+
+Normally suicide.
+
+First I'm sorry about that.
+
+Next, your testimony is worthless unless you give the following:
+
+-   clear unique personal identification
+
+    There are basically two ways to do that:
+
+    1.  Links between a notable social media presence that is hard to achieve, e.g. Twitter with many followers, Stack overflow with a lot of rep, and the account
+    1.  Your testimony is done in video form on YouTube clearly showing your face as you make it
+
+    Either of those must contain / link to information that uniquely identifies you. Generally, full name, city and date of birth is enough.
+
+-   a precise testimony that states exactly what you saw happen with your own eyes, or heard from people that are very close to you.
+
+    The testimony must include:
+
+    - when the events happened
+    - where they happened, in which city at the very least
+    - the full names of who did what
+
+Next consider this:
+
+-   are you sure that Falun Gong made the person do the bad thing, and that the person wouldn't have done it anyways?
+
+    Did someone from Falun Gong told the person to do it?
+
+    I bet that if you look into patients of psychiatrists, you will find more suicides than average. So should we ban psychiatry?
+
+-   are you sure that the order came from LHZ, and that it was not just some disgruntled local leader using Falun Gong for his personal madness and doing things he did not approve?
+
+    Branch Davidians were inspired by Christianism. So should we ban Christianity? What about the majority of Christians who have never done anything bad?
