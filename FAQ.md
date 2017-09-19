@@ -271,14 +271,28 @@ Otherwise, democracy and communism can also be considered as religions, and bann
 
 This is a point that makes me worry, but consider:
 
-- what matters are statistics. Maybe FLG people live longer than non FLG in average. But we will never have statistics because of censorship
-- maybe people should be allowed to choose how they want to die, not to take medication if they don't want to
-- maybe the number of people killed during persecution vastly outnumbers those who died because they would not take medication
-- several religions, including Christianism have miraculous cure claims
-- maybe the main reason why communists banned FLG is the political threat it posed, but that a ban was unjustified given the situation. Christian crosses are being taken down as of 2016, have they stopped taking their medications as well?
-- maybe many of those people would also have died soon even if they had taken medication
-- maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyways.
-- riding motorcycles and smoking also reduce people's lifespan. Forbidding them, also has huge humanitarian costs (more expensive vehicles, creation of a black market, ...). So why not forbid them as well?
+-   what matters are statistics. Maybe FLG people live longer than non FLG in average. But we will never have statistics because of censorship
+
+-   maybe people should be allowed to choose how they want to die, not to take medication if they don't want to
+
+-   maybe the number of people killed during persecution vastly outnumbers those who died because they would not take medication
+
+-   several religions, including Christianism have miraculous cure claims
+
+-   maybe the main reason why communists banned FLG is the political threat it posed, but that a ban was unjustified given the situation. Christian crosses are being taken down as of 2016, have they stopped taking their medications as well?
+
+-   maybe many of those people would also have died soon even if they had taken medication
+
+-   maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyways.
+
+-   all the following also reduce people's lifespan:
+
+    - riding motorcycles vs cars / buses
+    - smoking
+    - moving to a poor country to do charity there
+    - eating fast food
+
+    Forbidding them also has huge humanitarian costs (more expensive vehicles, creation of a black market, ...). So why not forbid them as well?
 
 ### Falun Gong is completely different in the West than it was in China
 
