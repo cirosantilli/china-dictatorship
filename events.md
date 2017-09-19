@@ -1,5 +1,6 @@
 # Events 事件
 
+-   2018-08 <http://www.independent.co.uk/news/world/asia/china-muslim-minority-school-language-ban-han-xinjiang-uyghur-hotan-hetian-government-communist-a7873446.html>
 -   2017-07 https://qz.com/1056938/cambridge-university-press-china-quarterly-complies-with-censorship-removes-300-articles-on-topics-like-tiananmen-and-tibet-in-china/ Book list: 
 https://www.cambridge.org/core/services/aop-file-manager/file/59970028145fd05f66868bf5?utm_content=bufferb652b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer archive: http://web.archive.org/web/20170905214500/https://www.cambridge.org/core/services/aop-file-manager/file/59970028145fd05f66868bf5?utm_content=bufferb652b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 -   2017-07 <https://techcrunch.com/2017/07/29/apple-removes-vpn-apps-from-the-app-store-in-china/>
