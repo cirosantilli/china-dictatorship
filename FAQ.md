@@ -64,6 +64,8 @@ I don't think this is below them, but:
 
 Destroying diversity is the best way to reach a point where everyone can agree to start a new big war and destroy everything.
 
+The CCP thrives on the excessive fear it instigate into its own people.
+
 ## You are harming the Chinese programmers
 
 What is the root of the harm: me or GFW?
@@ -102,8 +104,8 @@ My SO username and protest time are not infinite.
 1.  You can't do anything about it.
 
     I don't like this argument, but in the end, this is what all politics comes down to: power.
-    
-    I recognize that in that sense, I may be similar to the CCP.
+
+    I recognize that in that sense, I may be similar to the CCP and any other political party.
 
 ## You are not Chinese, you have been brainwashed by the USA know nothing about China
 
