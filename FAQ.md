@@ -60,6 +60,10 @@ I don't think this is below them, but:
 - maybe the regions that want to split from China feel like China is not giving them anything back, and they are themselves looking for allies outside of China to help them split. With democracy, people are more likely to get what they want, and there will be split parties and votes.
 - the same argument can be used to justify any action, no matter how bad. E.g.: we must put all who criticize the government in jail, or else they will make China less united and weaker against the USA!
 
+## If anyone disagrees with the government they must be punished to keep the stability of the country
+
+Destroying diversity is the best way to reach a point where everyone can agree to start a new big war and destroy everything.
+
 ## You are harming the Chinese programmers
 
 What is the root of the harm: me or GFW?
