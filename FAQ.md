@@ -6,6 +6,8 @@ To increase the cost of censorship.
 
 If commies censor things, they will get worse IT technology, and thus become less rich.
 
+Maybe this hurts my argument, but Hillary agrees: https://youtu.be/d3dE_LDz_9E?t=1681 :-)
+
 ## This repository is completely biased against the Chinese Government!
 
 I prefer the term focused :-)
