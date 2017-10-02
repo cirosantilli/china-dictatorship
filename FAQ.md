@@ -70,6 +70,8 @@ How can society improve, if we are never allowed to try new things out?
 
 Change does not require violence. Violence happens because the government punishes any dissidence, even if pacific, to retain its own power.
 
+In democracies, radical policy changes happen without dropping a single drop of blood.
+
 ## You are harming the Chinese programmers
 
 What is the root of the harm: me or GFW?
@@ -283,6 +285,8 @@ I however believe society can be richer when people know that they can do their 
 Maybe China was poor because of Mao's crazy communist regime. Similar regimes also made Russia poor (yes, before that exploitation by the West was a reason).
 
 Definitely, the current regime is better than Mao's, but just imagine how rich China could be if it had more freedom and justice.
+
+Imperial China lost the race for the Industrial Revolution, didn't it?
 
 ## People in China have already considered democracy, and rejected it
 
