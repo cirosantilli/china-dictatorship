@@ -145,13 +145,20 @@ That is true with high probability, just like any other individual which tries t
 
 Every action is statistical: I just push the balance a little bit towards freedom.
 
-And if we never start somewhere, nothing will ever happen.
+This FAQ and any talk is useless. You and I are wasting out times here.
+
+The possibility of blocking Stack Overflow and GitHub is 1000x more useful than any talk, but it is still useless.
+
+However, potentially blocking those websites takes 0 of my time, I just leave the content there, so it is worth my time.
 
 To have an idea, in 2015 there are about:
 
 - 20M developers in the world
 - 2M in China : <https://www.quora.com/Approximately-how-many-programmers-are-there-in-the-world> <http://www.techrepublic.com/blog/european-technology/there-are-185-million-software-developers-in-the-world-but-which-country-has-the-most/>
 - 5M Stack Overflow users <http://data.stackexchange.com/stackoverflow/query/227868/select-count-from-users>
+- TODO I wonder what percentage of GDP those programmers control. I'll bet any programmer on Stack Overflow is 5x more powerful than the average Chinese.
+
+And if we never start somewhere, nothing will ever happen.
 
 ## You are using Stack Overflow in a way that it was not meant to be used, so what you are doing is in principle wrong
 
@@ -253,15 +260,11 @@ The cost of blocking Stack Overflow lies of course in the loss of information, a
 
 Nope, someone told me about it after a while, but it is basically what I'm doing.
 
-## If China became rich because of its current government, isn't it all worth it?
-
-Maybe China was poor because of Mao's crazy communist regime. Similar regimes also made Russia poor (yes, before that exploitation by the West was a reason).
-
-Definitely, the current regime is better than Mao's, but just imagine how rich China could be if it had more freedom and justice.
-
-## I've seen someone from movement X do something bad, therefore the movement should be banned
+## Someone from movement X did something bad, therefore the movement should be banned
 
 By this logic, everyone should go to jail. The law should only punish individuals.
+
+The communist party, which has had contiuous power since 1949, killed millions during the cultural revolution. Surely they must be banned, no?
 
 ## People from movement X are only in it for political power
 
@@ -270,6 +273,20 @@ For every desire of the masses, there will be amoral representants that will ste
 Still, those representants cannot gain power if there is no backing desire from the society.
 
 And at least the representants have to pretend and to things for that group to retain their power.
+
+## Making China powerful and rich justifies anything
+
+That's a valid belief.
+
+I however believe society can be richer when people know that they can do their startups, get rich, and stay in the country without fear of being persecuted unfairly and losing everything.
+
+Maybe China was poor because of Mao's crazy communist regime. Similar regimes also made Russia poor (yes, before that exploitation by the West was a reason).
+
+Definitely, the current regime is better than Mao's, but just imagine how rich China could be if it had more freedom and justice.
+
+## People in China have already considered democracy, and rejected it
+
+OK, shall we put that to an anonymous vote?
 
 ## Falun Gong
 
