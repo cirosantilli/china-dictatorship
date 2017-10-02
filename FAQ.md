@@ -288,7 +288,7 @@ Maybe China was poor because of Mao's crazy communist regime. Similar regimes al
 
 Definitely, the current regime is better than Mao's, but just imagine how rich China could be if it had more freedom and justice.
 
-Imperial China lost the race for the Industrial Revolution, didn't it?
+Imperial China lost the race for the Industrial Revolution. Will another dictatorship be able to stay on top of the next revolution?
 
 ## People in China have already considered democracy, and rejected it
 
