@@ -66,6 +66,10 @@ Destroying diversity is the best way to reach a point where everyone can agree t
 
 The CCP thrives on the excessive fear it instigate into its own people.
 
+How can society improve, if we are never allowed to try new things out?
+
+Change does not require violence. Violence happens because the government punishes any dissidence, even if pacific, to retain its own power.
+
 ## You are harming the Chinese programmers
 
 What is the root of the harm: me or GFW?
@@ -254,6 +258,18 @@ Nope, someone told me about it after a while, but it is basically what I'm doing
 Maybe China was poor because of Mao's crazy communist regime. Similar regimes also made Russia poor (yes, before that exploitation by the West was a reason).
 
 Definitely, the current regime is better than Mao's, but just imagine how rich China could be if it had more freedom and justice.
+
+## I've seen someone from movement X do something bad, therefore the movement should be banned
+
+By this logic, everyone should go to jail. The law should only punish individuals.
+
+## People from movement X are only in it for political power
+
+For every desire of the masses, there will be amoral representants that will step to use that power.
+
+Still, those representants cannot gain power if there is no backing desire from the society.
+
+And at least the representants have to pretend and to things for that group to retain their power.
 
 ## Falun Gong
 
