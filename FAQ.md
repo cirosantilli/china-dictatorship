@@ -4,9 +4,18 @@
 
 To increase the cost of censorship.
 
-If commies censor things, they will get worse IT technology, and thus become less rich.
+If commies censor things, they will get worse IT technology, and thus become less rich and powerfull.
 
 Maybe this hurts my argument, but Hillary agrees: https://youtu.be/d3dE_LDz_9E?t=1681 :-)
+
+Since all they care about, like any other politicians, is power, the only way to make them stop censorship is to make the cost of censorship higher than not censoring.
+
+The goal is to put them in a position where they have to choose between either:
+
+- power
+- censorship
+
+but not both.
 
 ## This repository is completely biased against the Chinese Government!
 
