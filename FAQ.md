@@ -419,11 +419,15 @@ This might be a bad law that should be changed.
 
 It was perfectly legal for Nazis to kill Jews. Does it make that right?
 
-### FLG is a (fake|evil) religion
+### FLG is fake because ...
 
-Similar to the question: does God exist?
+The same can be argued about any other religion or political belief of type: it is better if we organize society in this or that way.
 
-And thus unanswerable, and not interesting to me.
+How can you disprove their belief, when as in any other religion, every affirmation made hinges on "miracles only happen around when true believers are around" or "only true believers can perceive evidence in their hearts / minds directly". He died of cancer? Not a true believer.
+
+Conversely, do you understand the full sequence of experiments that imply quantum field theory? Have you seen videos of those experiments? Have you attended live demonstrations? Do you understand the construction of the experimentation apparatus? Yet, why do you believe it?
+
+More importantly: what do you propose that should be done about it?
 
 ### FLG is a very religion and therefore fake
 
