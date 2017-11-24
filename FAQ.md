@@ -255,7 +255,7 @@ The only thing that my employer *does* believe in is that employees can have the
 
 Obviously, this action limits my ability to lead high profile deals with China.
 
-Also I'm quite curios if this would limit my ability to go to China for business, but I haven't applied for a visa since I've started this.
+Also I'm quite curious if this would limit my ability to go to China for business, but I haven't applied for a visa since I've started this.
 
 But my employer believes that inclusion and non-discrimination is more valuable.
 
