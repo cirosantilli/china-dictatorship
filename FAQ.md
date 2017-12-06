@@ -429,7 +429,7 @@ Conversely, do you understand the full sequence of experiments that imply quantu
 
 More importantly: what do you propose that should be done about it?
 
-### FLG is a very religion and therefore fake
+### FLG is a very new religion and therefore fake
 
 The Romans called Christianism the "Cult of Jesus".
 
@@ -448,6 +448,8 @@ You and I dislike certain personality traits without any logical reason.
 What matters is that we treat everyone with respect and without bias at work, even if we don't like them.
 
 But the law can't force you to like everyone.
+
+If one specific FLG member breaks a law by discriminating someone, they should be punished just like anyone else.
 
 ### Many people both are against censorship and FLG
 
