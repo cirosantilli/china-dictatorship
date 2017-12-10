@@ -393,7 +393,13 @@ If you ever want democracy, you will have to learn to accept the beliefs of othe
 
 ### FLG downplays the fact that it is a religion
 
-I think that most people in the West would classify FLG as a religion if they are told that it mentions higher intelligent beings, other dimensions, and have weekly meetings where they read from a sacred book.
+I think that most people in the West would classify FLG as a religion if they are told that it includes:
+
+- weekly meetings where they read from a sacred book
+- prescribed daily medication exercise hours, somewhat like Musulman Salah prayers
+- higher intelligent beings
+- other dimensions
+- aliens hidden amongst us
 
 Or a cult, which is nothing but a new / small religion with negative connotation, and thus meaningless.
 
