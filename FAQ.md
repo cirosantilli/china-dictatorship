@@ -202,7 +202,7 @@ Also, as I've said, my actions are very unlikely to have any actions. Much more 
 
 Actually, it can even be argued that I'm somewhat irrational, since I would much more likely become rich and powerful by bowing down to the CCP and trying to get their money instead.  
 
-I have very little free time, and will never do something just for political resaons.
+I have very little free time, and will never do something for political resaons.
 
 ### Are you making trivial edits on questions just to spam your name further?
 
