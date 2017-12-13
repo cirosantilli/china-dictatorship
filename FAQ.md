@@ -271,6 +271,8 @@ But then, a shady supporting organization might require that I don't disclose th
 
 Of course, a hidden support would represent a reputation hit for both such organization and for me, which makes it less likely that I would have accepted or had such an offer.
 
+Also consider my motivation. If your mother in law were put into jail unfairly for 15 days, for following the same religion that your wife follows, and if you had a social media presence, wouldn't you be tempted to do the same?
+
 What about you, are you funded by the CCP?
 
 See also: <https://github.com/cirosantilli/china-dictatorship/blob/48a95bf57a16b85619a6ae68702d18c9a5078797/FAQ.md#flg-has-been-funded-by-the-us-government-at-least-once-therefore-it-is-evil>
