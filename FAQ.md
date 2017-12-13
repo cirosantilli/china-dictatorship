@@ -196,13 +196,13 @@ Finally, it is up to the Stack Overflow community to decide what is right or wro
 
 No, that is just a side effect.
 
-If that were the case, I would definitely target more widely used tags, in particular JavaScript and Java.
+If that were the case, I would definitely target more widely used tags, in particular JavaScript and Java, instead of obscure things like C and assembly in which I have spent tons of my time.
 
 Also, as I've said, my actions are very unlikely to have any actions. Much more likely to have any action, would be for me to become rich and powerful first, and the best way to do that is to invest in whatever I think is most useful.
 
 Actually, it can even be argued that I'm somewhat irrational, since I would much more likely become rich and powerful by bowing down to the CCP and trying to get their money instead.  
 
-I have very little free time, and will never do something for political resaons.
+I have very little free time, and will never do something for political resaons, only things that interst me technically.
 
 ### Are you making trivial edits on questions just to spam your name further?
 
