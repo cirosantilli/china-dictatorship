@@ -27,6 +27,8 @@ Which is the same as not controlled by it :-)
 - <https://medium.com/china-media-project>
 - <https://sinocism.com/>
 - <http://beijingcream.com/>
+- <https://en.wikipedia.org/wiki/National_Endowment_for_Democracy> (NED)
+- <https://en.wikipedia.org/wiki/Global_Internet_Freedom_Consortium> (GIFC)
 
 ### Linked to Falun Gong 联系到法轮功
 
@@ -48,7 +50,7 @@ Which is the same as not controlled by it :-)
 
 -   <http://lotus-sacre.com/>
 
--   <https://en.tuidang.org/>
+-   <https://en.tuidang.org/> <https://en.wikipedia.org/wiki/Tuidang_movement>
 
 ## Linked to the USA government 联系到美国政府
 
@@ -59,7 +61,8 @@ Which is the same as not controlled by it :-)
 
 ## Uncertain
 
-- SCMP from Hong Kong, and was critical of CCP, but was bought by Alibaba: <http://www.scmp.com/frontpage/international> <http://www.scmp.com/news/china/society/article/1937256/alibabas-jack-ma-reveals-why-he-bought-south-china-morning-post> There were still critical articles after the purchase.
+- SCMP from Hong Kong, and was critical of CCP, but was bought by Alibaba: <http://www.scmp.com/frontpage/inter
+> <http://www.scmp.com/news/china/society/article/1937256/alibabas-jack-ma-reveals-why-he-bought-south-china-morning-post> There were still critical articles after the purchase.
 
 ## Pertinent to Falun Gong
 

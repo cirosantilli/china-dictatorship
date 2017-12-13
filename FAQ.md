@@ -192,6 +192,22 @@ Finally, it is up to the Stack Overflow community to decide what is right or wro
 - <http://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam>
 - <http://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u/286090#286090>, see public figure comments
 
+## Are you making programming contributions with the main intent of promoting your policital agenda?
+
+No, that is just a side effect.
+
+If that were the case, I would definitely target more widely technologies, in particular Web and JavaScript, instead of obscure things like C and assembly in which I have spent tons of my time.
+
+Also, as I've said elsewhere, my actions are very unlikely to have any actions. Much more likely to have any action, would be for me to become rich and powerful first, and the best way to do that is to invest in whatever I think is most useful.
+
+Actually, it can even be argued that I'm somewhat irrational, since I would much more likely become rich and powerful by bowing down to the CCP and trying to get their money instead.  
+
+On the other hand, becoming rich and powerful is also highly unlikely, so maybe I'm just taking a low risk low reward path?
+
+I have very little free time, and will never do something for political resaons, only things that interst me technically.
+
+Finally, do you really think I'd be able to make such awesome projects if I had primarily politicial considerations in mind? XD
+
 ### Are you making trivial edits on questions just to spam your name further?
 
 Realy, I'm not. I just think that website is great, and want to push it to perfection, in particular with better Google keyword hits, and uniform gramatically correct titles.
@@ -393,7 +409,13 @@ If you ever want democracy, you will have to learn to accept the beliefs of othe
 
 ### FLG downplays the fact that it is a religion
 
-I think that most people in the West would classify FLG as a religion if they are told that it mentions higher intelligent beings, other dimensions, and have weekly meetings where they read from a sacred book.
+I think that most people in the West would classify FLG as a religion if they are told that it includes:
+
+- weekly meetings where they read from a sacred book
+- prescribed daily medication exercise hours, somewhat like Musulman Salah prayers
+- higher intelligent beings
+- other dimensions
+- aliens hidden amongst us
 
 Or a cult, which is nothing but a new / small religion with negative connotation, and thus meaningless.
 
@@ -429,7 +451,7 @@ Conversely, do you understand the full sequence of experiments that imply quantu
 
 More importantly: what do you propose that should be done about it?
 
-### FLG is a very religion and therefore fake
+#### FLG is a very new religion and therefore fake
 
 The Romans called Christianism the "Cult of Jesus".
 
@@ -448,6 +470,8 @@ You and I dislike certain personality traits without any logical reason.
 What matters is that we treat everyone with respect and without bias at work, even if we don't like them.
 
 But the law can't force you to like everyone.
+
+If one specific FLG member breaks a law by discriminating someone, they should be punished just like anyone else.
 
 ### Many people both are against censorship and FLG
 
