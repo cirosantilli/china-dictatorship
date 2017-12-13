@@ -263,7 +263,19 @@ So the rationale of my actions is *not* to convince anyone, but rather:
 - increase the monetary cost of censorship by binding politics to tech
 - group up like minded people who don't like censorship
 
-## Does your employer support this?
+## Is your campaign funded or otherwise supported by some organization?
+
+Nope.
+
+But then, a shady supporting organization might require that I don't disclose their support, so maybe the best answer is that you will never know for sure.
+
+Of course, a hidden support would represent a reputation hit for both such organization and for me, which makes it less likely that I would have accepted or had such an offer.
+
+What about you, are you funded by the CCP?
+
+See also: <https://github.com/cirosantilli/china-dictatorship/blob/48a95bf57a16b85619a6ae68702d18c9a5078797/FAQ.md#flg-has-been-funded-by-the-us-government-at-least-once-therefore-it-is-evil>
+
+### Does your employer support this?
 
 My employer has nothing to do with this.
 
