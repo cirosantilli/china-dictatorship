@@ -67,7 +67,7 @@ I don't think this is below them, but:
 
 - without censorship, you would be much richer and stronger, and more able to defend yourselves
 - why does China also censor its own people in addition to foreign propaganda?
-- maybe this fear is greatly emphacised by the Chinese government beyond truth just to help them keep control of the country by fear and maintain their own power. Can the Americans really have that much influence in your country?
+- maybe this fear is greatly emphasised by the Chinese government beyond truth just to help them keep control of the country by fear and maintain their own power. Can the Americans really have that much influence in your country?
 - maybe the regions that want to split from China feel like China is not giving them anything back, and they are themselves looking for allies outside of China to help them split. With democracy, people are more likely to get what they want, and there will be split parties and votes.
 - the same argument can be used to justify any action, no matter how bad. E.g.: we must put all who criticize the government in jail, or else they will make China less united and weaker against the USA!
 
@@ -210,7 +210,9 @@ Finally, do you really think I'd be able to make such awesome projects if I had 
 
 ### Are you making trivial edits on questions just to spam your name further?
 
-Realy, I'm not. I just think that website is great, and want to push it to perfection, in particular with better Google keyword hits, and uniform gramatically correct titles.
+No.
+
+I just think that website is great, and want to push it to perfection, in particular with better Google keyword hits, and uniform gramatically correct titles.
 
 If you think that any of my edits were harmful, please ping me and open a meta thread to discuss specific edits, and I will comply with consensus.
 
@@ -293,15 +295,15 @@ Nope, someone told me about it after a while, but it is basically what I'm doing
 
 By this logic, everyone should go to jail. The law should only punish individuals.
 
-The communist party, which has had contiuous power since 1949, killed millions during the cultural revolution. Surely they must be banned, no?
+The communist party, which has had continuous power since 1949, killed millions during the cultural revolution. Surely they must be banned, no?
 
 ## People from movement X are only in it for political power
 
-For every desire of the masses, there will be amoral representants that will step to use that power.
+For every desire of the masses, there will be amoral representatives that will step to use that power.
 
-Still, those representants cannot gain power if there is no backing desire from the society.
+Still, those representatives cannot gain power if there is no backing desire from the society.
 
-And at least the representants have to pretend and to things for that group to retain their power.
+And at least the representatives have to pretend and to things for that group to retain their power.
 
 ## Making China powerful and rich justifies anything
 
@@ -409,12 +411,12 @@ If you ever want democracy, you will have to learn to accept the beliefs of othe
 
 ### FLG downplays the fact that it is a religion
 
-If asked if they follow a religion, I think most FLG practionners will say no. E.g. they call themsevels practitionners instead of believers.
+If asked if they follow a religion, I think most FLG practitioners will say no. E.g. they call themselves practitioners instead of believers.
 
 But I think that most people in the West would classify FLG as a religion if they are told that it includes:
 
 - weekly meetings where they read from a sacred book
-- prescribed daily medication exercise hours, somewhat like Musulman Salah prayers
+- prescribed daily medication exercise hours, somewhat like Muslim Salah prayers
 - higher intelligent beings
 - other dimensions
 - aliens hidden amongst us
