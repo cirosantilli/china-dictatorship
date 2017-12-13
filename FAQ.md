@@ -192,6 +192,18 @@ Finally, it is up to the Stack Overflow community to decide what is right or wro
 - <http://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam>
 - <http://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u/286090#286090>, see public figure comments
 
+## Are you making programming contributions with the main intent of promoting your policital agenda?
+
+No, that is just a side effect.
+
+If that were the case, I would definitely target more widely used tags, in particular JavaScript and Java.
+
+Also, as I've said, my actions are very unlikely to have any actions. Much more likely to have any action, would be for me to become rich and powerful first, and the best way to do that is to invest in whatever I think is most useful.
+
+Actually, it can even be argued that I'm somewhat irrational, since I would much more likely become rich and powerful by bowing down to the CCP and trying to get their money instead.  
+
+I have very little free time, and will never do something just for political resaons.
+
 ### Are you making trivial edits on questions just to spam your name further?
 
 Realy, I'm not. I just think that website is great, and want to push it to perfection, in particular with better Google keyword hits, and uniform gramatically correct titles.
