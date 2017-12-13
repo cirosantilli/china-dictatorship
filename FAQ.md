@@ -409,7 +409,9 @@ If you ever want democracy, you will have to learn to accept the beliefs of othe
 
 ### FLG downplays the fact that it is a religion
 
-I think that most people in the West would classify FLG as a religion if they are told that it includes:
+If asked if they follow a religion, I think most FLG practionners will say no. E.g. they call themsevels practitionners instead of believers.
+
+But I think that most people in the West would classify FLG as a religion if they are told that it includes:
 
 - weekly meetings where they read from a sacred book
 - prescribed daily medication exercise hours, somewhat like Musulman Salah prayers
@@ -426,6 +428,38 @@ Some would answer: science is what everyone can perceive with their own senses.
 But FLG followers claim to feel FLG energies when doing the exercises, and a few of them have the power of seeing the other dimensions.
 
 On the other hand, how many of your friends have experienced the laws of quantum field theory or general relativity in a very direct way?
+
+And aren't pro-democracy believers also taking actions based solely on a shared belief, possibly organized by a pro-democracy leader?
+
+### FLG downplays the fact that it is highly organized
+
+Many FLG practitioners claim that they are not at all organized.
+
+But it is obvious from the size of the FLG related media, namely NDTV and Epoch Times, that in practice they do have are a highly organized structure.
+
+Like any other religion.
+
+Once again, I feel that this lack of transparency hurts their cause more than it helps.
+
+But then, what law are they breaking? Should we do something to punish them for it?
+
+What if every practitioner feels in their hearts that they are actually free to do whatever they want without being coerced, and that they are simply doing what they believe is the right thing?
+
+What about the people who participate in political movements such as pro-democracy? Aren't their political actions such as protests motivated in a very similar fashion?
+
+### FLG has been funded by the US government at least once, therefore it is evil
+
+1.5M USD in 2010 for a FLG controlled internet freedom group <http://news.bbc.co.uk/1/hi/world/americas/8678760.stm>
+
+But well, if you are going to do something anyways, and someone offers you money, why wouldn't you take it?
+
+Taking the money does of course give a "bad impression" that someone is trying to buy influence, but does it in itself imply that you are doing something bad?
+
+But do you really think that the US government paid that to buy influence in FLG? What would they force upon that FLG group that they didn't already want to do? Isn't it more likely that the US government wanted them to continue doing exactly what they were doing?
+
+Every government funds groups it supports, it is an all out war I suppose. Compare that to the propaganda funds of the CCP.
+
+What about the funding of political campaigns, which vastly outnumbers 1.5M USD every year?
 
 ### FLG media is not transparent about its affiliation
 
