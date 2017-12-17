@@ -28,5 +28,6 @@ Keywords blocked by the GFW.
 
 ## Previously on my SO username
 
+- **刘晓波死**: https://www.nytimes.com/2017/07/17/world/asia/liu-xiaobo-censor.html
 - Panama Papers
 - **包卓轩**: Bao Zhuoxuan, 16-year old son of Jul 2015 arrested human rights activist [Wang Yu](https://goo.gl/bTfxFp), kept hostage after trying to flee China ([nytimes](http://goo.gl/zt4IJD), [chinachange](http://goo.gl/bfqP8k))

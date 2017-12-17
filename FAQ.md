@@ -447,6 +447,8 @@ On the other hand, how many of your friends have experienced the laws of quantum
 
 And aren't pro-democracy believers also taking actions based solely on a shared belief, possibly organized by a pro-democracy leader?
 
+From a purely political point of view, the Religion classification would likely be more beneficial to FLG, since it the idea of freedom of religion carries considerable weight in the West.
+
 ### FLG downplays the fact that it is highly organized
 
 Many FLG practitioners claim that they are not at all organized.
