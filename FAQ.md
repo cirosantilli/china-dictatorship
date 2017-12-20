@@ -584,3 +584,13 @@ Next consider this:
 -   are you sure that the order came from LHZ, and that it was not just some disgruntled local leader using Falun Gong for his personal madness and doing things he did not approve?
 
     Branch Davidians were inspired by Christianism. So should we ban Christianity? What about the majority of Christians who have never done anything bad?
+
+### FLG does not have proof of their persecution claims
+
+How much proof do you think they would be able to get when there is no freedom of press?
+
+Do you think that forbidding a 70 million person religion could have gone smoothly?
+
+Do you think the thousands of personal of accounts of human rights violations that exist are all fake, and don't indicate that many, many more have taken place but fallen under censorship?
+
+Coversely, there is no reliable proof that FLG is bad as claimed by CCP that has been verified by international media.
