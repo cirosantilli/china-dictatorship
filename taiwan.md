@@ -4,9 +4,9 @@ The fact that the world does not consider Taiwan a country is a joke.
 
 It reflects the West's disunion in standing up to the CCP.
 
-There was a civil war, the countries split.
+There was a civil war, the countries split. This is how every single country in the world got formed in the first place.
 
-If Taiwan is a part of China, why doesn't Xi Jinping put the Chinese flag on all major Taiwanese buildings?
+If Taiwan is a part of China, why doesn't China put the Chinese flag on all major Taiwanese government buildings?
 
 Oh, I forgot, it is because they have absolutely no control over Taiwan. Just like the have absolutely no control over any other country.
 
