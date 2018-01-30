@@ -12,6 +12,10 @@ Oh, I forgot, it is because they have absolutely no control over Taiwan. Just li
 
 China, if you want to claim tha Taiwan is a part of you, just invade them already. Or just stop this joke.
 
+Invading them means of course oppressing the people for a few decades until they are fully brainwashed and give up fighting. 
+
+But this is working fine in Tibet and Xinjiang, which China actually controls, and thus it makes sense to make call part of China.
+
 Someone once said:
 
 > Taiwan should not be considered a country by China, because then it would not join back to China when China becomes a democracy, and would be used by the USA to do evil things like they did in the Middle East
