@@ -14,7 +14,7 @@ China, if you want to claim tha Taiwan is a part of you, just invade them alread
 
 Invading them means of course oppressing the people for a few decades until they are fully brainwashed and give up fighting. 
 
-But this is working fine in Tibet and Xinjiang, which China actually controls, and thus it makes sense to make call part of China.
+But this is working fine in Tibet and Xinjiang, which China actually controls by force, and it actually makes sense to call them part of China.
 
 Someone once said:
 
