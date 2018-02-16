@@ -1,5 +1,7 @@
 # Events 事件
 
+-   2018-01 <https://www.nytimes.com/2018/01/12/world/asia/china-church-dynamite.html>
+-   2018-01 <http://chuangcn.org/2018/01/the-mastermind/>
 -   2018-01 <https://www.theguardian.com/world/2018/jan/19/outspoken-chinese-human-rights-lawyer-yu-wensheng-arrested>
 -   2018-01 <http://uk.businessinsider.com/china-marriott-tweets-censorship-2018-1?r=US&IR=T> Marriott lists Taiwan as country in the website
 -   2017-12 <https://www.nytimes.com/2017/12/25/world/asia/china-wu-gan-sentence.html>
@@ -62,6 +64,7 @@ https://www.cambridge.org/core/services/aop-file-manager/file/59970028145fd05f66
     - https://advox.globalvoices.org/2015/04/16/new-internet-rules-in-china-target-usernames-avatars-as-subversive-tools/
     - http://www.engadget.com/2015/02/28/china-username-policy-purge/
 -   2014 https://www.reddit.com/r/China/comments/4hmhzt/xinjiang_massacre_2014_resulted_in_30005000_deaths/ something very serious happened in Xinjiang.
+-   2013 <https://www.ft.com/content/db8b9e36-1119-11e8-940e-08320fc2a277> Peter Humphrey
 -   2012 Nutech Namiba Hu Haifeng corruption scandal 纳米比亚威视胡海峰腐败丑闻 <https://en.wikipedia.org/wiki/Nuctech>. One of the most blocked on Wikipedia according to: [complete-gfw-rulebook-for-wikipedia-v3.0.pdf][]
 -   2011 Chinese pro-democracy protests <https://en.wikipedia.org/wiki/2011_Chinese_pro-democracy_protests> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD>
 -   2010 10 month Xinjiang internet blackout <http://news.bbc.co.uk/2/hi/asia-pacific/8682145.stm>

@@ -9,6 +9,7 @@ Sources of information pertinent to this repository.
 - <https://en.wikipedia.org/wiki/China_Daily>
 - <https://en.wikipedia.org/wiki/Confucius_Institute> <https://zh.wikipedia.org/wiki/%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2> <http://www.economist.com/node/17969895>
 - <https://en.wikipedia.org/wiki/China_Radio_International> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0> <http://www.cri.cn> <http://english.cri.cn/> State owned.
+- CGTN <https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg> CCTV international branch in English
 
 ## Against the Chinese government 对中国政府
 
@@ -29,6 +30,8 @@ Which is the same as not controlled by it :-)
 - <http://beijingcream.com/>
 - <https://en.wikipedia.org/wiki/National_Endowment_for_Democracy> (NED)
 - <https://en.wikipedia.org/wiki/Global_Internet_Freedom_Consortium> (GIFC)
+- <http://chuangcn.org/>
+- <http://64tianwang.com/> <https://en.wikipedia.org/wiki/Huang_Qi> <https://www.hongkongfp.com/2018/02/16/chinas-multi-pronged-crackdown-dissent-took-aim-citizen-journalists-rights-defence-websites/>
 
 ### Linked to Falun Gong 联系到法轮功
 
