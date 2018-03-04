@@ -1,9 +1,10 @@
-# Words 书籍
+# Words 单词
 
 Keywords blocked by the GFW.
 
 - <https://chinadigitaltimes.net/china/directives-from-the-ministry-of-truth/?view=all> updated weekly with the newest news. TODO credibility, methodology. Chinese version of list: <https://chinadigitaltimes.net/chinese/category/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?view=all>
   - A wiki of subversive claims by the same source: <https://chinadigitaltimes.net/space/Main_Page>, the "Grass-mud horse index" (cao3n2ma3 草泥马), with a censored term of the week section.
+  - Fun 2015 ebook: <https://github.com/cirosantilli/decoding-chinese-internet-pdf-download>
 - <https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8>
 - <https://github.com/jasonqng/chinese-keywords>
 - [complete-gfw-rulebook-for-wikipedia-v3.0.pdf](complete-gfw-rulebook-for-wikipedia-v3.0.pdf)
@@ -28,6 +29,8 @@ Keywords blocked by the GFW.
 
 ## Previously on my SO username
 
+- **包子露宪**: https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution/
+- **低端人口** :
 - **刘晓波死**: https://www.nytimes.com/2017/07/17/world/asia/liu-xiaobo-censor.html
 - Panama Papers
 - **包卓轩**: Bao Zhuoxuan, 16-year old son of Jul 2015 arrested human rights activist [Wang Yu](https://goo.gl/bTfxFp), kept hostage after trying to flee China ([nytimes](http://goo.gl/zt4IJD), [chinachange](http://goo.gl/bfqP8k))

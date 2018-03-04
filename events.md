@@ -1,5 +1,6 @@
 # Events 事件
 
+-   2018-02 <https://www.nytimes.com/2018/02/25/world/asia/china-xi-jinping.html>
 -   2018-02 <https://www.theguardian.com/world/2018/jan/25/at-least-120000-muslim-uighurs-held-in-chinese-re-education-camps-report>
 -   2018-01 <https://www.theguardian.com/world/2018/jan/19/outspoken-chinese-human-rights-lawyer-yu-wensheng-arrested>
 -   2018-01 <https://www.reuters.com/article/us-hongkong-politics/hong-kong-activist-banned-from-by-election-in-what-pro-democracy-party-calls-payback-idUSKBN1FG06P>

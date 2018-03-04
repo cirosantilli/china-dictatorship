@@ -18,7 +18,7 @@ Tools:
 - <https://github.com/justjavac/ReplaceGoogleCDN> <https://github.com/justjavac/Google-IPs>
 - distributed VoIP / chat / IM: <https://ring.cx/>,  <https://tox.chat/>, <https://github.com/RetroShare/RetroShare> Yes, you could give your data to NSA and just use Skype (while that is not too slow or Microsoft does spy deals with the CCP).
 
-Monitoring:
+Monitoring and data:
 
 -   <http://greatfire.org/>
     - <https://en.wikipedia.org/wiki/GreatFire>
@@ -33,10 +33,10 @@ Monitoring:
     - <http://gking.harvard.edu/publications/randomized-experimental-study-censorship-china>
 -   emulation
     - <https://github.com/phoeagon/gfw-sim>
+-   <https://github.com/citizenlab/chat-censorship> data on Censorship
+-   <https://github.com/gfwlist/gfwlist> do a `base64 -d gfwlist.txt` to view the list. Syntax described at: <https://github.com/gfwlist/gfwlist/wiki/Syntax>
 
 Information:
-
-- <https://github.com/gfwlist/gfwlist>
 
 ## Websites 网站
 
