@@ -6,42 +6,89 @@
 
 == Why are you attacking websites with censored keywords?
 
-To increase the cost of censorship.
+To <<effective,destroy the firewall>>.
 
-If commies censor things, they will get worse IT technology, and thus become less rich and militarily powerfull.
+This would then end censorship.
+
+And then I believe that this would also <<why-end-dictatorship,end the dictatorship>>.
+
+The keyword attacks increase the cost of censorship.
+
+If commies censor things, they will get worse IT technology, and thus become less rich and militarily powerful.
 
 Maybe this hurts my argument, but Hillary agrees: https://youtu.be/d3dE_LDz_9E?t=1681 :-)
 
 Since all they care about, like any other politicians, is power, the only way to make them stop censorship is to make the cost of censorship higher than not censoring.
+
+Without the threat that China will be less technologically, and therefore militarily advanced, there is no incentive for the CCP to destroy the firewall.
 
 The goal is to put them in a position where they have to choose between either:
 
 * having military power
 * remaining a dictatorship
 
-but not both, since having both means that they will <<china-war,start WW3 and destroy Earth>>.
+but not both, since having both means that they will <<war,start WW3 and destroy humanity>>
 
-== You are harming the Chinese programmers
+[[harm-programmers]]
+=== Do you want to harm the Chinese programmers?
 
-Yes, and I don't like myself for it.
+No.
 
-But this is no my goal.
+This is not a revenge of any kind.
 
-This is a necessary means to reach my real goal, which is to destroy the firewall.
+I know I am harming you on the short term, and I don't like myself for it.
 
-Without the threat that China will be less technologically, and therefore militarily advanced, there is no incentive for the CCP to destroy the firewall.
+But I believe that this harm is a necessary means to reach my real goal, which is to destroy the firewall, and the dictatorship.
 
-Don't you think it is worth a try? Destroying the firewall, would enourmously benefit not only Chinese programmers, but every single other Chinese person too.
+Don't you think it is worth a try? Destroying the firewall, would <<why-end-dictatorship,enormously benefit>> not only Chinese programmers, but every single other Chinese person too.
 
 Once the firewall is destroyed, which is equivalent to destroying the dictatorship, I want China to develop the best science and technology in the world. I would even migrate there if given a good job.
 
-And btw, by contributing to open source, I am already helping China, and all underdevelop countries become stronger.
+And by the way, by contributing to open source, I am already helping China, and all underdeveloped countries become stronger.
 
-=== Your profile distracts me from learning
+[[why-end-dictatorship]]
+== Why do you want to end the dictatorship?
 
-I've heard there are browser plugins for that as well, but I don't think it will work for pictures, and in any case it will make your web pages fuzzier.
+Because I think that this would make China, and the world:
 
-== If programming websites get blocked, there will be less good programmers to fight against the dictatorship
+* <<richer,richer>>
+* less likely to get into <<war,WW3>>
+
+[[richer]]
+=== Why would democracy and freedom of speech make China richer?
+
+Society can be richer when people know that they can do their startups, get rich, and stay in the country without fear of being persecuted unfairly and losing everything.
+
+Maybe China was poor because of Mao's crazy communist regime. Similar regimes also made Russia poor. And yes, before that exploitation by the West may have been a factor.
+
+Definitely, the current regime is better than Mao's, but just imagine how rich China could be if it had more freedom and justice.
+
+Imperial China lost the race for the Industrial Revolution. Will another dictatorship be able to stay on top of the next technological revolution?
+
+[[war]]
+=== Why would democracy and freedom of speech make China less likely to start a war?
+
+* https://en.wikipedia.org/wiki/Democratic_peace_theory
+* https://en.wikipedia.org/wiki/Perpetual_Peace:_A_Philosophical_Sketch
+
+=== Censorship is necessary to protect China from harmful USA propaganda
+
+I don't think this is below them, but:
+
+* without censorship, you would be much richer and stronger, and more able to defend yourselves
+* why does China also censor its own people in addition to foreign propaganda?
+* maybe this fear is greatly emphasised by the Chinese government beyond truth just to help them keep control of the country by fear and maintain their own power. Can the Americans really have that much influence in your country?
+* maybe the regions that want to split from China feel like China is not giving them anything back, and they are themselves looking for allies outside of China to help them split. With democracy, people are more likely to get what they want, and there will be split parties and votes.
+* the same argument can be used to justify any action, no matter how bad. E.g.: we must put all who criticize the government in jail, or else they will make China less united and weaker against the USA!
+
+=== The Chinese masses are still uneducated, and not fit for free speech and democracy
+
+When will they be ready? Who decides? What if they think that they are ready now?
+
+[[effective]]
+== Will the keyword attacks really help to destroy the firewall?
+
+=== If programming websites get blocked, there will be less good programmers to fight against the dictatorship
 
 This is a good point, and one that does make me think.
 
@@ -72,29 +119,7 @@ I do see that one alternative scenario is that if we do nothing, maybe there wil
 +
 I'd rather have a less strong dictatorship, than one with good programmers.
 
-== Censorship is necessary to protect China from harmful USA propaganda
-
-I don't think this is below them, but:
-
-* without censorship, you would be much richer and stronger, and more able to defend yourselves
-* why does China also censor its own people in addition to foreign propaganda?
-* maybe this fear is greatly emphasised by the Chinese government beyond truth just to help them keep control of the country by fear and maintain their own power. Can the Americans really have that much influence in your country?
-* maybe the regions that want to split from China feel like China is not giving them anything back, and they are themselves looking for allies outside of China to help them split. With democracy, people are more likely to get what they want, and there will be split parties and votes.
-* the same argument can be used to justify any action, no matter how bad. E.g.: we must put all who criticize the government in jail, or else they will make China less united and weaker against the USA!
-
-=== The Chinese masses are still uneducated, and not fit for free speech and democracy
-
-When will they be ready? Who decides? What if they think that they are ready now?
-
-== This is your personal problem, we have nothing to do with it, stop punishing us for it
-
-We have to fight for justice for our fellows, or else when injustice happens to us, no one will fight for use either.
-
-Every form of protest incurs some damage. E.g., if we manifest on the street, it generates a traffic jam.
-
-I don't like it, but I think it is worth it.
-
-== What you are doing will never have any effect
+=== What you are doing will never have any effect
 
 That is true with high probability, just like any other individual which tries to influence 1B people.
 
@@ -120,6 +145,22 @@ And if we never start somewhere, nothing will ever happen.
 Hitting the block button has of course no cost.
 
 The cost of blocking Stack Overflow lies of course in the loss of information, and slower technological development.
+
+=== Keyword attacks could be used by certain CCP political groups to justify blocking off the entire external Internet, and make the dictatorship even more pervasive
+
+It is a risk, but it would make China drastically <<richer,less powerful>>, so at least they wouldn't be able to start or sustain <<WW3>>. So I don't think it will go that way.
+
+== This is your personal problem, we have nothing to do with it, stop punishing us for it
+
+We have to fight for justice for our fellows, or else when injustice happens to us, no one will fight for use either.
+
+Every form of protest incurs some damage. E.g., if we manifest on the street, it generates a traffic jam.
+
+I don't like it, but I think it is worth it.
+
+How can you be that certain that your children won't have dissident ideas and be punished unfairly for them?
+
+Intolerance is a risky way to live.
 
 == If anyone disagrees with the government they must be punished to keep the stability of the country
 
@@ -277,15 +318,13 @@ If it wasn't for the dictatorship, I would seriously consider living there.
 
 Of course not. I am, just like you, a completely selfless being, who only cares about what is best for the world as a whole.
 
+=== Would you be doing this if you were in China?
+
+Not with my real name attached to it.
+
 === Do you believe in or practice Falun Gong?
 
 No.
-
-[[china-war]]
-== China will never start a war
-
-* https://en.wikipedia.org/wiki/Democratic_peace_theory
-* https://en.wikipedia.org/wiki/Perpetual_Peace:_A_Philosophical_Sketch
 
 == Is your campaign funded or otherwise supported by some organization?
 
@@ -324,18 +363,6 @@ https://en.wikipedia.org/wiki/Cute_cat_theory_of_digital_activism
 Nope, someone told me about it after a while, but it is basically what I'm doing.
 
 You can never invent anything new anymore nowadays.
-
-== Making China powerful and rich justifies anything
-
-That's a valid belief.
-
-I however believe society can be richer when people know that they can do their startups, get rich, and stay in the country without fear of being persecuted unfairly and losing everything.
-
-Maybe China was poor because of Mao's crazy communist regime. Similar regimes also made Russia poor (yes, before that exploitation by the West was a reason).
-
-Definitely, the current regime is better than Mao's, but just imagine how rich China could be if it had more freedom and justice.
-
-Imperial China lost the race for the Industrial Revolution. Will another dictatorship be able to stay on top of the next revolution?
 
 == People in China have already considered democracy, and rejected it
 
