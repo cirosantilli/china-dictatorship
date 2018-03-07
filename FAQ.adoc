@@ -19,7 +19,7 @@ The goal is to put them in a position where they have to choose between either:
 * having military power
 * remaining a dictatorship
 
-but not both, since having both means that they will start WW3 and destroy Earth.
+but not both, since having both means that they will <<china-war,start WW3 and destroy Earth>>.
 
 == You are harming the Chinese programmers
 
@@ -280,6 +280,12 @@ Of course not. I am, just like you, a completely selfless being, who only cares 
 === Do you believe in or practice Falun Gong?
 
 No.
+
+[[china-war]]
+== China will never start a war
+
+* https://en.wikipedia.org/wiki/Democratic_peace_theory
+* https://en.wikipedia.org/wiki/Perpetual_Peace:_A_Philosophical_Sketch
 
 == Is your campaign funded or otherwise supported by some organization?
 
