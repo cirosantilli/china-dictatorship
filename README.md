@@ -2,7 +2,7 @@
 
 Chinese "Communist" Dictatorship "facts". 中国《共产主义》独裁统治的《事实》
 
-1.  [FAQ](FAQ.md)
+1.  [FAQ](FAQ.adoc)
 1.  [Censorship](censorship.md)
 1.  [Media](media.md)
 1.  [Dissidents](dissidents.md)
