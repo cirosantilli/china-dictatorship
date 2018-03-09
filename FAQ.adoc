@@ -6,11 +6,13 @@
 
 == Why are you attacking websites with censored keywords?
 
+link:https://stackoverflow.com/users/895245[The attack.]
+
 To <<effective,destroy the firewall>>.
 
 This would then end censorship.
 
-And then I believe that this would also <<why-end-dictatorship,end the dictatorship>>.
+And then <<dictator-needs-gfw,I believe>> that this would also <<why-end-dictatorship,end the dictatorship>>.
 
 The keyword attacks increase the cost of censorship.
 
@@ -42,7 +44,7 @@ But I believe that this harm is a necessary means to reach my real goal, which i
 
 Don't you think it is worth a try? Destroying the firewall, would <<why-end-dictatorship,enormously benefit>> not only Chinese programmers, but every single other Chinese person too.
 
-Once the firewall is destroyed, which is equivalent to destroying the dictatorship, I want China to develop the best science and technology in the world. I would even migrate there if given a good job.
+Once the firewall is destroyed, which <<dictator-needs-gfwe,may to destroy the dictatorship>>, I want China to develop the best science and technology in the world. I would even migrate there if given a good job.
 
 And by the way, by contributing to open source, I am already helping China, and all underdeveloped countries become stronger.
 
@@ -150,6 +152,17 @@ The cost of blocking Stack Overflow lies of course in the loss of information, a
 
 It is a risk, but it would make China drastically <<richer,less powerful>>, so at least they wouldn't be able to start or sustain <<WW3>>. So I don't think it will go that way.
 
+[[dictator-needs-gfw]]
+== Would ending the great firewall truly end the dictatorship?
+
+Not 100% sure.
+
+In Russia for example, the Internet is relatively free, but the government controls most professional media, which is what most people end up seeing, by suing dissidents media out of business.
+
+But on the other hand Russia is already much freer than China.
+
+Although I don't like them, I can't deny one thing: the commies are smart, and when they do something (e.g. censorship), it tends to keep them in power.
+
 == This is your personal problem, we have nothing to do with it, stop punishing us for it
 
 We have to fight for justice for our fellows, or else when injustice happens to us, no one will fight for use either.
@@ -197,29 +210,29 @@ We have to choose the one we think is the worst, and focus on it.
 
 What is worse is a subjective choice. For me:
 
-1.  I love China and my Chinese GF
-2.  I hate dictatorships, and China is the largest one
+. I love China and my Chinese GF
+. I hate dictatorships, and China is the largest one
 
 My SO username and protest time are not infinite.
 
 == You are not Chinese, you can't interfere in Chinese politics
 
-1.  If I lived under a dictatorship, I would welcome foreign intervention.
+. If I lived under a dictatorship, I would welcome foreign intervention.
 +
 Even if you don't, I know several who do.
-2.  The commies say that all foreigners are bad.
+. The commies say that all foreigners are bad.
 +
 I disagree. There are good and bad ones.
 +
 The commies do this because most foreign countries are telling the Chinese to get rid of the dictatorship.
-3.  We live in the same world.
+. We live in the same world.
 +
 If China's economy is bad, my economy is worse.
 +
 If China's environment is bad, my environment is worse.
 +
 If China starts a war, I might have to fight it.
-4.  You can't do anything about it.
+. You can't do anything about it.
 +
 I don't like this argument, but in the end, this is what all politics comes down to: power.
 +
@@ -235,7 +248,12 @@ If you know something I don't, please tell me, I always want to learn.
 
 But if you are Chinese, also consider that you have been brainwashed by the commies, and likely more than me since you live in a dictatorship.
 
-== This repository is completely biased against the Chinese Government!
+== What is the goal of this repository?
+
+. Inform
+. Increase the cost of censorship for Git web interfaces
+
+=== This repository is completely biased against the Chinese Government!
 
 I prefer the term focused :-)
 
@@ -366,7 +384,9 @@ You can never invent anything new anymore nowadays.
 
 == People in China have already considered democracy, and rejected it
 
-OK, shall we put that to an anonymous vote?
+OK, shall we put that to an anonymous vote just to make sure?
+
+Dear sir or madam: so you want more control over your government? y/n
 
 == Are for a violent revolution to overthrow the CCP?
 
@@ -379,6 +399,16 @@ I propose instead a revolution of ideas, and efficient link:https://en.wikipedia
 Where efficient means: if you are a dissident, use privacy technology, and weight well the benefit vs risks of your actions.
 
 You are often more useful to the cause outside of jail than inside.
+
+== Why do you say China is a dictatorship?
+
+True, I'm using the word in an extended / jokingly sense.
+
+Maybe authoritarian is a more precise term.
+
+In particular, dictatorships are harder to sustain than authoritarianism, since it generally implies even less freedom.
+
+Dictatorship is becoming link:https://www.nytimes.com/2018/03/07/world/asia/china-xi-jinping-party-term-limit.html[more and more precise under Xi] however.
 
 == Falun Gong
 
