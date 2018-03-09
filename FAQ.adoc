@@ -426,28 +426,7 @@ Also I believe that freedom of speech and democracy imply that FLG and other rel
 
 Otherwise, democracy and communism can also be considered as religions, and banned.
 
-=== Many people have died because they stopped taking medication because of Falun Gong, you should not support it
-
-http://skeptics.stackexchange.com/questions/27529/have-many-falun-gong-practitioners-forgone-medical-treatment-and-died-of-treatab
-
-This is a point that makes me worry, but consider:
-
-* what matters are statistics. Maybe FLG people live longer than non FLG in average. But we will never have statistics because of censorship
-* maybe people should be allowed to choose how they want to die, not to take medication if they don't want to
-* maybe the number of people killed during persecution vastly outnumbers those who died because they would not take medication
-* several religions, including Christianism have miraculous cure claims
-* maybe the main reason why communists banned FLG is the political threat it posed, but that a ban was unjustified given the situation. Christian crosses are being taken down as of 2016, have they stopped taking their medications as well?
-* maybe many of those people would also have died soon even if they had taken medication
-* maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyways.
-* all the following also reduce people's lifespan:
-** riding motorcycles vs cars / buses
-** smoking
-** moving to a poor country to do charity there
-** eating fast food
-+
-Forbidding them also has huge humanitarian costs (more expensive vehicles, creation of a black market, ...). So why not forbid them as well?
-
-[[falun-gong-changed]]
+[[flg-changed]]
 === Falun Gong is completely different in the West than it was in China
 
 I believe that it has changed.
@@ -489,48 +468,6 @@ Similarly, any charismatic leader of a pro democracy movement could become the l
 
 If you ever want democracy, you will have to learn to accept the beliefs of others, and only punish them when they actually break a law.
 
-=== FLG downplays the fact that it is a religion
-
-If asked if they follow a religion, I think most FLG practitioners will say no. E.g. they call themselves practitioners instead of believers.
-
-But I think that most people in the West would classify FLG as a religion if they are told that it includes:
-
-* weekly meetings where they read from a sacred book
-* prescribed daily medication exercise hours, somewhat like Muslim Salah prayers
-* higher intelligent beings
-* other dimensions
-* aliens hidden amongst us
-
-Or a cult, which is nothing but a new / small religion with negative connotation, and thus meaningless.
-
-But consider this: how to classify what a religion is?
-
-Some would answer: science is what everyone can perceive with their own senses.
-
-But FLG followers claim to feel FLG energies when doing the exercises, and a few of them have the power of seeing the other dimensions.
-
-On the other hand, how many of your friends have experienced the laws of quantum field theory or general relativity in a very direct way?
-
-And aren't pro-democracy believers also taking actions based solely on a shared belief, possibly organized by a pro-democracy leader?
-
-From a purely political point of view, the Religion classification would likely be more beneficial to FLG, since it the idea of freedom of religion carries considerable weight in the West.
-
-=== FLG downplays the fact that it is highly organized
-
-Many FLG practitioners claim that they are not at all organized.
-
-But it is obvious from the size of the FLG related media, namely NDTV and Epoch Times, that in practice they do have are a highly organized structure.
-
-Like any other religion.
-
-Once again, I feel that this lack of transparency hurts their cause more than it helps.
-
-But then, what law are they breaking? Should we do something to punish them for it?
-
-What if every practitioner feels in their hearts that they are actually free to do whatever they want without being coerced, and that they are simply doing what they believe is the right thing?
-
-What about the people who participate in political movements such as pro-democracy? Aren't their political actions such as protests motivated in a very similar fashion?
-
 === FLG has been funded by the US government at least once, therefore it is evil
 
 1.5M USD in 2010 for a FLG controlled internet freedom group http://news.bbc.co.uk/1/hi/world/americas/8678760.stm
@@ -545,21 +482,13 @@ Every government funds groups it supports, it is an all out war I suppose. Compa
 
 What about the funding of political campaigns, which vastly outnumbers 1.5M USD every year?
 
-=== FLG media is not transparent about its affiliation
-
-Agreed, and it is a point that hurts more than helps their cause: e.g. New Tang Dynasty TV, Epoch Times and Shen Yun Dance group.
-
-But are all media forced to state their affiliation?
-
-If so, then we should force _all_ newspapers start taking pools of how many employees follow which religion, and put that in their print.
-
 === FLG is illegal in China, we must follow the law
 
 This might be a bad law that should be changed.
 
 It was perfectly legal for Nazis to kill Jews. Does it make that right?
 
-=== FLG is fake because ...
+=== FLG is fake
 
 The same can be argued about any other religion or political belief of type: it is better if we organize society in this or that way.
 
@@ -576,20 +505,6 @@ The Romans called Christianism the "Cult of Jesus".
 If I tell a lie today, will it become true in a thousand years? Or a truth today become a lie?
 
 Try sending an email to LHZ asking him to prove his powers to you :-)
-
-=== FLG dislikes several other groups like homosexuals and some other religions
-
-Like most old religions.
-
-Democracy dislikes dictators.
-
-You and I dislike certain personality traits without any logical reason.
-
-What matters is that we treat everyone with respect and without bias at work, even if we don't like them.
-
-But the law can't force you to like everyone.
-
-If one specific FLG member breaks a law by discriminating someone, they should be punished just like anyone else.
 
 === Many people both are against censorship and FLG
 
@@ -616,7 +531,7 @@ Because it also specifies irrational and fundamental aspects of how one should l
 
 === I have personally seen people do bad things because of Falun Gong
 
-Normally suicide.
+Either direct suicide or <<flg-medication,dying because of not taking medication>>.
 
 First I'm sorry about that.
 
@@ -655,7 +570,7 @@ Do you think that forbidding a 70 million person religion could have gone smooth
 
 Do you think the thousands of personal of accounts of human rights violations that exist are all fake, and don't indicate that many, many more have taken place but fallen under censorship?
 
-Coversely, there is no reliable proof that FLG is bad as claimed by CCP that has been verified by international media.
+Conversely, there is no reliable proof that FLG is bad as claimed by CCP that has been verified by international media.
 
 === Someone from movement X did something bad, therefore the movement should be banned
 
@@ -665,7 +580,7 @@ The communist party, which has had continuous power since 1949, killed millions 
 
 But the CCP has changed so much since those days, I hear you say.
 
-I agree. And <<falun-gong-changed,so has FLG>>.
+I agree. And <<flg-changed,so has FLG>>.
 
 === People from movement X are only in it for political power
 
@@ -674,3 +589,99 @@ For every desire of the masses, there will be amoral representatives that will s
 Still, those representatives cannot gain power if there is no backing desire from the society.
 
 And at least the representatives have to pretend and to things for that group to retain their power.
+
+=== Things I personally dislike about FLG
+
+But also as explaining why I don't think it justifies the ban.
+
+This section also gives me more credibility as a balanced critic >:-)
+
+==== FLG downplays the fact that it is a religion
+
+If asked if they follow a religion, I think most FLG practitioners will say no. E.g. they call themselves practitioners instead of believers.
+
+But I think that most people in the West would classify FLG as a religion if they are told that it includes:
+
+* weekly meetings where they read from a sacred book
+* prescribed daily medication exercise hours, somewhat like Muslim Salah prayers
+* higher intelligent beings
+* other dimensions
+* aliens hidden amongst us
+
+Or a cult, which is nothing but a new / small religion with negative connotation, and thus meaningless.
+
+But consider this: how to classify what a religion is?
+
+Some would answer: science is what everyone can perceive with their own senses.
+
+But FLG followers claim to feel FLG energies when doing the exercises, and a few of them have the power of seeing the other dimensions.
+
+On the other hand, how many of your friends have experienced the laws of quantum field theory or general relativity in a very direct way?
+
+And aren't pro-democracy believers also taking actions based solely on a shared belief, possibly organized by a pro-democracy leader?
+
+From a purely political point of view, the Religion classification would likely be more beneficial to FLG, since it the idea of freedom of religion carries considerable weight in the West.
+
+==== FLG downplays the fact that it is highly organized
+
+Many FLG practitioners claim that they are not at all organized.
+
+But it is obvious from the size of the FLG related media, namely NDTV and Epoch Times, that in practice they do have are a highly organized structure.
+
+Like any other religion.
+
+Once again, I feel that this lack of transparency hurts their cause more than it helps.
+
+But then, what law are they breaking? Should we do something to punish them for it?
+
+What if every practitioner feels in their hearts that they are actually free to do whatever they want without being coerced, and that they are simply doing what they believe is the right thing?
+
+What about the people who participate in political movements such as pro-democracy? Aren't their political actions such as protests motivated in a very similar fashion?
+
+==== FLG dislikes several other groups like homosexuals and some other religions
+
+Like most old religions.
+
+Democracy dislikes dictators.
+
+You and I dislike certain personality traits without any logical reason.
+
+What matters is that we treat everyone with respect and without bias at work, even if we don't like them.
+
+But the law can't force you to like everyone.
+
+If one specific FLG member breaks a law by discriminating someone, they should be punished just like anyone else.
+
+==== FLG media is not transparent about its affiliation
+
+Agreed, and it is a point that hurts more than helps their cause: e.g. New Tang Dynasty TV, Epoch Times and Shen Yun Dance group.
+
+But are all media forced to state their affiliation?
+
+If so, then we should force _all_ newspapers start taking pools of how many employees follow which religion, and put that in their print.
+
+[[flg-medication]]
+==== Many people have died because they stopped taking medication because of Falun Gong
+
+http://skeptics.stackexchange.com/questions/27529/have-many-falun-gong-practitioners-forgone-medical-treatment-and-died-of-treatab
+
+This is a point that makes me worry, and I do believe that this has happened, that but consider:
+
+* what matters are statistics. Maybe FLG people live longer than non FLG in average. But we will never have statistics because of censorship.
+* maybe people should be link:https://en.wikipedia.org/wiki/Suicide_legislation[allowed to choose how they want to die], not to take medication if they don't want to
+* maybe the number of people killed during persecution vastly outnumbers those who died because they would not take medication
+* several religions, including Christianism have miraculous cure claims. My impression is that claims were mostly notable in the old times apparently, likely because people noticed that Christians were still dying of all kinds of diseases like everyone else, no matter how devout!
+* maybe the main reason why communists banned FLG is the political threat it posed, but that a ban was unjustified given the situation. Christian crosses are being taken down as of 2016, have they stopped taking their medications as well?
+* maybe many of those people would also have died soon even if they had taken medication
+* maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyways.
+* all the following also reduce people's lifespan:
++
+--
+** riding motorcycles vs cars / buses
+** smoking
+** moving to a poor country to do charity there
+** eating fast food
+--
++
+Forbidding them also has huge humanitarian costs (more expensive vehicles, creation of a black market, ...). So why not forbid them as well?
+
