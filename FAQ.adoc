@@ -6,7 +6,7 @@
 
 == Why are you attacking websites with censored keywords?
 
-link:https://stackoverflow.com/users/895245[The attack.]
+<<the-attack, The attack>>.
 
 To <<effective,destroy the firewall>>.
 
@@ -90,11 +90,15 @@ When will they be ready? Who decides? What if they think that they are ready now
 [[effective]]
 == Will the keyword attacks really help to destroy the firewall?
 
-=== If programming websites get blocked, there will be less good programmers to fight against the dictatorship
+=== Embargoes make the dictatorship stronger
+
+In other words, if programming websites get blocked, there will be less good programmers to fight against the dictatorship
+
+The <<attack,keyword attack>> is basically an embargo
 
 This is a good point, and one that does make me think.
 
-1. The commies calculate their actions very well to stay in power.
+. The commies calculate their actions very well to stay in power.
 +
 Why don't they just take down the entire Internet like they did in Xinjiang in 2010?
 +
@@ -103,8 +107,8 @@ Because that would hurt them:
 * people would work less efficiently, making the country, and thus themselves, poorer
 +
 So this puts pressure on them to take away the firewall.
-2. Programmers are more likely to develop better Firewall climbing tools if SO is blocked
-3. If we don't take any action to show our dissatisfaction, the dictatorship never ends.
+. Programmers are more likely to develop better Firewall climbing tools if SO is blocked
+. If we don't take any action to show our dissatisfaction, the dictatorship never ends.
 +
 The commies exist like any other organization for a sole purpose: maintain their own power.
 +
@@ -117,9 +121,15 @@ There are two extremes of action (both which _I don't_ support):
 But between those two extremes, what is the right measure? I think that saying nothing is too close to stability.
 +
 I do see that one alternative scenario is that if we do nothing, maybe there will be more and more contact with Western countries, and the Chinese will see for themselves that we are not that bad, and eventually request democracy.
-4. Even if programmers get very powerful, it is not very likely that they will succeed to undo the dictatorship, they simply don't have enough power.
+. Even if programmers get very powerful, it is not very likely that they will succeed to undo the dictatorship, they simply don't have enough power.
 +
 I'd rather have a less strong dictatorship, than one with good programmers.
+
+There is already a lot of literature about this, specially in the cases of Cuba and North Korea. It is basically a libertarian vs conservative / Cato vs Heritage thing in the US:
+
+* https://www.cato.org/publications/commentary/no-embargo-harms-cubans-gives-castro-excuse-policy-failures-regime
+* https://www.heritage.org/trade/report/why-the-cuban-trade-embargo-should-be-maintained
+* http://www.slate.com/articles/news_and_politics/the_big_idea/2006/08/thanks_for_the_sanctions.html
 
 === What you are doing will never have any effect
 
@@ -410,6 +420,19 @@ In particular, dictatorships are harder to sustain than authoritarianism, since 
 
 Dictatorship is becoming link:https://www.nytimes.com/2018/03/07/world/asia/china-xi-jinping-party-term-limit.html[more and more precise under Xi] however.
 
+[[attack]]
+== What is a screen name keyword attack?
+
+Adding censored words to your username: https://stackoverflow.com/users/895245
+
+This only works on websites that show usernames everywhere.
+
+This then leads to your username appearing on thousands of pages, depending on how much you contribute to the website.
+
+It is also possible to do it with with images, although this is less effective in taking down websites since images are harder to track automatically.
+
+This type of attack is essentially an embargo.
+
 == Falun Gong
 
 === Do you support FLG, or just use it because it is a censored?
@@ -528,8 +551,8 @@ But your testimony is worthless unless you give the following:
 * clear unique personal identification
 +
 There are basically two ways to do that:
-1.  Links between a notable social media presence that is hard to achieve, e.g. Twitter with many followers, Stack overflow with a lot of rep, and the account
-2.  Your testimony is done in video form on YouTube clearly showing your face as you make it
+.  Links between a notable social media presence that is hard to achieve, e.g. Twitter with many followers, Stack overflow with a lot of rep, and the account
+.  Your testimony is done in video form on YouTube clearly showing your face as you make it
 +
 Either of those must contain / link to information that uniquely identifies you. Generally, full name, city and date of birth is enough.
 * a precise testimony that states exactly what you saw happen with your own eyes, or heard from people that are very close to you.
