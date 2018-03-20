@@ -48,7 +48,7 @@ Anyone can create content 任何人都可以些：
 -   <http://google.com> <http://www.baidu.com/> <https://www.google.com/transparencyreport/traffic/?hl=zh-CN#expand=CN>
     - Google Play <http://www.androidcentral.com/google-play-store-reportedly-planned-early-2016-launch-china>
 -   <http://www.facebook.com> <http://www.renren.com>
--   <https://twitter.com/> <http://weibo.com/> <https://en.wikipedia.org/wiki/Sina_Weibo>. Oh, but an official press does have an 1M subscriber account on Twitter: <https://twitter.com/PDChina>
+-   <https://twitter.com/> <http://weibo.com/> <https://en.wikipedia.org/wiki/Sina_Weibo>. Oh, but an official press does have an 1M subscriber account on Twitter: <https://twitter.com/PDChina> They have a rumour refutation platform! 微博辟谣 https://www.weibo.com/weibopiyao lol
 -   <https://www.youtube.com/> <http://www.youku.com/>
 -   <https://www.blogger.com/>
 -   <https://wordpress.com/>

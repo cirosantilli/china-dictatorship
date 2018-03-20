@@ -19,7 +19,7 @@ Which is the same as not controlled by it :-)
 - <https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China#Dissident_news>
 - <https://en.wikipedia.org/wiki/Radio_Free_Asia> <https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0>
 - China News Digest 华夏文摘 <https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98>
-- China Digital Times 中国数字时代 <https://chinadigitaltimes.net/> <https://en.wikipedia.org/wiki/China_Digital_Times> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3>
+- China Digital Times 中国数字时代 <https://chinadigitaltimes.net/> <https://en.wikipedia.org/wiki/China_Digital_Times> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3> <https://en.wikipedia.org/wiki/Xiao_Qiang>
 - <https://en.wikipedia.org/wiki/Boxun.com> <http://www.boxun.com/>
 - <http://www.chinauncensored.com/>
 - <http://www.wantchinatimes.com/>, linked to Taiwan 和台湾有关系

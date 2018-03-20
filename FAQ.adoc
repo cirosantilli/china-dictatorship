@@ -75,8 +75,16 @@ Imperial China lost the race for the Industrial Revolution. Will another dictato
 [[war]]
 === Why would democracy and freedom of speech make China less likely to start a war?
 
+This has been discussed to death:
+
 * https://en.wikipedia.org/wiki/Democratic_peace_theory
 * https://en.wikipedia.org/wiki/Perpetual_Peace:_A_Philosophical_Sketch
+
+Some arguments include:
+
+* the people who will actually fight and die on the front can't vote against it
+* dictators have huge power, so if they put it in their heads that they want to start a war, it is much harder for sensible people to stop them
+* dictators need to keep the people in fear all the time to keep their power, and a war is a great way to achieve that
 
 === Censorship is necessary to protect China from harmful USA propaganda
 
@@ -225,8 +233,8 @@ We have to choose the one we think is the worst, and focus on it.
 
 What is worse is a subjective choice. For me:
 
-. I love China and my Chinese GF
-. I hate dictatorships, and China is the largest one
+* I love China and my Chinese wife
+* I hate dictatorships, and China is the largest one
 
 My SO username and protest time are not infinite.
 
@@ -351,6 +359,10 @@ If it wasn't for the dictatorship, I would seriously consider living there.
 
 Of course not. I am, just like you, a completely selfless being, who only cares about what is best for the world as a whole.
 
+=== Are you doing this because it makes you feel important?
+
+No, I am a selfless human being, only concerned with the well being of humankind.
+
 === Would you be doing this if you were in China?
 
 Not with my real name attached to it.
@@ -388,6 +400,18 @@ Also I'm quite curious if this would limit my ability to go to China for busines
 But my employer believes that inclusion and non-discrimination is more valuable.
 
 I will always do my best to not let my personal opinions affect my professional decisions, as that would be unfair to my employer.
+
+=== Don't you have anything better to do?
+
+In 1995, a beautiful thing called the Internet was invented.
+
+The Internet gives everyone the magic power of writting something, and having million people read it for free!
+
+This is how much time I spend on this to give you an idea:
+
+* every week or two, someone sends me a message, I reply with "read the FAQ", and usually update 
+* I follow https://www.reddit.com/r/China amongst many other programming subs, and all major bad news show up there
+* when something bad enough comes up, I go to https://chinadigitaltimes.net/china/sensitive-words-series/ and update <<attack,my keyword attack>>
 
 == Were you influenced by the Cute cat theory of digital activism?
 
