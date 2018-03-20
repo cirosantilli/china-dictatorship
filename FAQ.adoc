@@ -405,13 +405,15 @@ I will always do my best to not let my personal opinions affect my professional 
 
 In 1995, a beautiful thing called the Internet was invented.
 
-The Internet gives everyone the magic power of writting something, and having million people read it for free!
+The Internet gives everyone the magic power of writing something, and having million people read it for free!
 
 This is how much time I spend on this to give you an idea:
 
 * every week or two, someone sends me a message, I reply with "read the FAQ", and usually update 
 * I follow https://www.reddit.com/r/China amongst many other programming subs, and all major bad news show up there
-* when something bad enough comes up, I go to https://chinadigitaltimes.net/china/sensitive-words-series/ and update <<attack,my keyword attack>>
+* when something bad enough comes up, I go to https://chinadigitaltimes.net/china/sensitive-words-series/ and update <<attack,my keyword attack>>. I've only been updating it on Stack Overflow these days, since GitHub does not show my profile name prominently.
+
+Then I just contribute to programming websites exactly as I would if I weren't making this campaign.
 
 == Were you influenced by the Cute cat theory of digital activism?
 
@@ -764,3 +766,9 @@ From what I hear, LHZ has always maintained that he is the only source of truth 
 Furthermore, it also seems to me that FLG is clearly anti-violence and self-harm, so I wonder how many would follow a contradictory order such as killing or suicide?
 
 It is also interesting to look into the https://en.wikipedia.org/wiki/Jonestown case. When the suicide order came, most people wanted out! Without physically controlling the followers, I don't think you can make them do much.
+
+==== Some FLG people make phone telemarketing
+
+I've seen that happen, they made phone calls to people in China to explain why FLG is good, and I disapprove of it.
+
+Visual ads on the street on Internet I can stand, but not any kind of advertising that generates notifications on my feeds.
