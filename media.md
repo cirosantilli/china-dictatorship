@@ -65,7 +65,8 @@ Which is the same as not controlled by it :-)
 ## Uncertain
 
 - SCMP from Hong Kong, and was critical of CCP, but was bought by Alibaba: <http://www.scmp.com/frontpage/inter
-> <http://www.scmp.com/news/china/society/article/1937256/alibabas-jack-ma-reveals-why-he-bought-south-china-morning-post> There were still critical articles after the purchase.
+> <http://www.scmp.com/news/china/society/article/1937256/alibabas-jack-ma-reveals-why-he-bought-south-china-morning-post> There were still critical articles after the purchase, but the Times says it is just soft power tactics: <https://www.nytimes.com/2018/03/31/world/asia/south-china-morning-post-hong-kong-alibaba.html>
+- <https://www.reddit.com/r/China/comments/6b303e/is_sixth_tone_propaganda/> <https://www.nytimes.com/2016/04/06/business/international/china-media-the-paper-english.html>
 
 ## Pertinent to Falun Gong
 

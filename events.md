@@ -1,5 +1,6 @@
 # Events 事件
 
+-   2018-04 <https://www.washingtonpost.com/world/asia_pacific/congressional-leaders-urge-us-to-press-china-over-reports-of-mass-uighur-detentions/2018/04/05/9bd17c90-38b3-11e8-b57c-9445cc4dfa5e_story.html>
 -   2018-02 <https://www.nytimes.com/2018/02/25/world/asia/china-xi-jinping.html>
 -   2018-02 <https://www.theguardian.com/world/2018/jan/25/at-least-120000-muslim-uighurs-held-in-chinese-re-education-camps-report>
 -   2018-01 <https://www.theguardian.com/world/2018/jan/19/outspoken-chinese-human-rights-lawyer-yu-wensheng-arrested>
@@ -84,4 +85,5 @@ https://www.cambridge.org/core/services/aop-file-manager/file/59970028145fd05f66
 
 Less important events:
 
+-   2018-04 <https://www.cnbc.com/2018/04/12/japan-rare-earths-huge-deposit-of-metals-found-in-pacific.html>
 -   2017-05 <https://qz.com/989454/a-chinese-students-commencement-speech-at-the-university-of-maryland-praising-fresh-air-and-democracy-is-riling-chinas-internet/>

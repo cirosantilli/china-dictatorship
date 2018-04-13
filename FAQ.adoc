@@ -6,7 +6,7 @@
 
 == Why are you attacking websites with censored keywords?
 
-<<the-attack, The attack>>.
+<<keyword-attack, The attack>>.
 
 To <<effective,destroy the firewall>>.
 
@@ -44,7 +44,7 @@ But I believe that this harm is a necessary means to reach my real goal, which i
 
 Don't you think it is worth a try? Destroying the firewall, would <<why-end-dictatorship,enormously benefit>> not only Chinese programmers, but every single other Chinese person too.
 
-Once the firewall is destroyed, which <<dictator-needs-gfwe,may to destroy the dictatorship>>, I want China to develop the best science and technology in the world. I would even migrate there if given a good job.
+Once the firewall is destroyed, which <<dictator-needs-gfw,may to destroy the dictatorship>>, I want China to develop the best science and technology in the world. I would even migrate there if given a good job.
 
 And by the way, by contributing to open source, I am already helping China, and all underdeveloped countries become stronger.
 
@@ -64,7 +64,26 @@ There is infinite debate about this out there, some examples:
 * http://www.becker-posner-blog.com/2011/05/can-poor-countries-afford-democracy-becker.html
 * https://www.quora.com/Is-democracy-or-authoritarianism-better-for-developing-countries
 
-Society can be richer when people know that they can do their startups, get rich, and stay in the country without fear of being persecuted unfairly and losing everything.
+For:
+
+* dictatorships are more likely to start <<war>> or other crazy policies like the Great Leap Forward, which completely destroy the economy in one go
+* society becomes richer when people know that they can do their startups, get rich, and stay in the country without fear of being persecuted unfairly and losing everything instead of migrating to Canada.
+* governments are monopolies, and the more powerful they are, the worst it is for competition an efficiency in general. E.g.: the startup with better government ties wins, instead of the most efficient one.
+
+Against:
+
+* presidents only care about the 4-8 year horizon, while dictators can make longer term decisions to maintain power forever, their power being limited only by "the people are happy enough to not start a revolution"
+* dictatorships can make changes faster without the same amount of discussion that happens in democracies, where power is more spread out.
++
+Killing a million people will make us richer? No problem, let's do it.
++
+That is great when they make good decisions, but it sucks when they make <<war,bad ones>> more likely.
+
+I really like Posners' way of putting it:
+
+____
+While average rate of growth do not appear to differ much between democracies and authoritarian regimes, the variability in performance does differ more among authoritarian governments. China has had remarkable growth since the 1980s, but the prolonged devastation and hardship produced by China’s “great leap forward” (when millions of farmers starved to death) and its Cultural Revolution would unlikely have occurred in a democratic country like say India. Nor is it likely that say Cuba and many African nations would have suffered so long with such terrible economic policies if they had reasonably democratic institutions.
+____
 
 Maybe China was poor because of Mao's crazy communist regime. Similar regimes also made Russia poor. And yes, before that exploitation by the West may have been a factor.
 
@@ -107,7 +126,7 @@ When will they be ready? Who decides? What if they think that they are ready now
 
 In other words, if programming websites get blocked, there will be less good programmers to fight against the dictatorship
 
-The <<attack,keyword attack>> is basically an embargo
+The <<keyword-attack,keyword attack>> is basically an embargo
 
 This is a good point, and one that does make me think.
 
@@ -173,7 +192,7 @@ The cost of blocking Stack Overflow lies of course in the loss of information, a
 
 === Keyword attacks could be used by certain CCP political groups to justify blocking off the entire external Internet, and make the dictatorship even more pervasive
 
-It is a risk, but it would make China drastically <<richer,less powerful>>, so at least they wouldn't be able to start or sustain <<WW3>>. So I don't think it will go that way.
+It is a risk, but it would make China drastically <<richer,less powerful>>, so at least they wouldn't be able to start or sustain <<war,WW3>>. So I don't think it will go that way.
 
 [[dictator-needs-gfw]]
 == Would ending the great firewall truly end the dictatorship?
@@ -267,7 +286,7 @@ Everyone is "brainwashed" by their environment.
 
 I don't doubt that you know more about China than me.
 
-If you know something I don't, please tell me, I always want to learn.
+So, instead of saying that, why don't you just actually prove your point by teaching me something interesting about China that I don't know about? I love learning new things.
 
 But if you are Chinese, also consider that you have been brainwashed by the commies, and likely more than me since you live in a dictatorship.
 
@@ -411,7 +430,7 @@ This is how much time I spend on this to give you an idea:
 
 * every week or two, someone sends me a message, I reply with "read the FAQ", and usually update 
 * I follow https://www.reddit.com/r/China amongst many other programming subs, and all major bad news show up there
-* when something bad enough comes up, I go to https://chinadigitaltimes.net/china/sensitive-words-series/ and update <<attack,my keyword attack>>. I've only been updating it on Stack Overflow these days, since GitHub does not show my profile name prominently.
+* when something bad enough comes up, I go to https://chinadigitaltimes.net/china/sensitive-words-series/ and update <<keyword-attack,my keyword attack>>. I've only been updating it on Stack Overflow these days, since GitHub does not show my profile name prominently.
 
 Then I just contribute to programming websites exactly as I would if I weren't making this campaign.
 
@@ -451,7 +470,7 @@ In particular, dictatorships are harder to sustain than authoritarianism, since 
 
 Dictatorship is becoming link:https://www.nytimes.com/2018/03/07/world/asia/china-xi-jinping-party-term-limit.html[more and more precise under Xi] however.
 
-[[attack]]
+[[keyword-attack]]
 == What is a screen name keyword attack?
 
 Adding censored words to your username: https://stackoverflow.com/users/895245
