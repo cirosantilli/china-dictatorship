@@ -126,7 +126,13 @@ When will they be ready? Who decides? What if they think that they are ready now
 
 In other words, if programming websites get blocked, there will be less good programmers to fight against the dictatorship
 
-The <<keyword-attack,keyword attack>> is basically an embargo
+The <<keyword-attack,keyword attack>> is basically an embargo.
+
+There is already a lot of literature about this, specially in the cases of Cuba and North Korea. It is basically a libertarian vs conservative / Cato vs Heritage thing in the US:
+
+* https://www.cato.org/publications/commentary/no-embargo-harms-cubans-gives-castro-excuse-policy-failures-regime
+* https://www.heritage.org/trade/report/why-the-cuban-trade-embargo-should-be-maintained
+* http://www.slate.com/articles/news_and_politics/the_big_idea/2006/08/thanks_for_the_sanctions.html
 
 This is a good point, and one that does make me think.
 
@@ -135,6 +141,7 @@ This is a good point, and one that does make me think.
 Why don't they just take down the entire Internet like they did in Xinjiang in 2010?
 +
 Because that would hurt them:
++
 * people would go mad, and revolt
 * people would work less efficiently, making the country, and thus themselves, poorer
 +
@@ -147,6 +154,7 @@ The commies exist like any other organization for a sole purpose: maintain their
 If nothing is done to show dissatisfaction, they will never give up on that power.
 +
 There are two extremes of action (both which _I don't_ support):
++
 * everyone become a willing mindless slave of the leader: perfect stability
 * everyone take up arms and do terrorism: perfect instability
 +
@@ -156,12 +164,6 @@ I do see that one alternative scenario is that if we do nothing, maybe there wil
 . Even if programmers get very powerful, it is not very likely that they will succeed to undo the dictatorship, they simply don't have enough power.
 +
 I'd rather have a less strong dictatorship, than one with good programmers.
-
-There is already a lot of literature about this, specially in the cases of Cuba and North Korea. It is basically a libertarian vs conservative / Cato vs Heritage thing in the US:
-
-* https://www.cato.org/publications/commentary/no-embargo-harms-cubans-gives-castro-excuse-policy-failures-regime
-* https://www.heritage.org/trade/report/why-the-cuban-trade-embargo-should-be-maintained
-* http://www.slate.com/articles/news_and_politics/the_big_idea/2006/08/thanks_for_the_sanctions.html
 
 === What you are doing will never have any effect
 
