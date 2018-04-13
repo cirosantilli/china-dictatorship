@@ -27,7 +27,7 @@ Without the threat that China will be less technologically, and therefore milita
 The goal is to put them in a position where they have to choose between either:
 
 * having military power
-* remaining a dictatorship
+* remaining a <<dictatorship,dictatorship>>
 
 but not both, since having both means that they will <<war,start WW3 and destroy humanity>>
 
@@ -459,11 +459,12 @@ Where efficient means: if you are a dissident, use privacy technology, and weigh
 
 You are often more useful to the cause outside of jail than inside.
 
+[[dictatorship]]
 == Why do you say China is a dictatorship?
 
 True, I'm using the word in an extended / jokingly sense.
 
-Maybe authoritarian / autocracy is a more precise term.
+Maybe authoritarian is a more precise term.
 
 In particular, dictatorships are harder to sustain than authoritarianism, since it generally implies even less freedom.
 
