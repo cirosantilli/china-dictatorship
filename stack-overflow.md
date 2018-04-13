@@ -6,8 +6,11 @@ Other openly dissident users.
 
 - <http://stackoverflow.com/users/1009479/yu-hao>
 - <http://stackoverflow.com/users/1801697/terry-wang>
-- <http://stackoverflow.com/users/4594532/gnimuc-key>
-- <http://stackoverflow.com/users/651907/jclin>
+
+Users who had GFW references but removed it:
+
+- <http://stackoverflow.com/users/4594532/gnimuc-key> <http://web.archive.org/web/20170331144256/https://stackoverflow.com/users/4594532/gnimuc> 
+- <http://stackoverflow.com/users/651907/jclin> <http://web.archive.org/web/20160516065151/https://stackoverflow.com/users/651907/jclin>
 
 Users who mentioned me in their profiles at some point:
 
