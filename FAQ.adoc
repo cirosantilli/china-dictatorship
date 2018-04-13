@@ -165,6 +165,10 @@ I do see that one alternative scenario is that if we do nothing, maybe there wil
 +
 I'd rather have a less strong dictatorship, than one with good programmers.
 
+==== Keyword attacks could be used by certain CCP political groups to justify blocking off the entire external Internet, and make the dictatorship even more pervasive
+
+It is a risk, but it would make China drastically <<richer,less powerful>>, so at least they wouldn't be able to start or sustain <<war,WW3>>. So I don't think it will go that way.
+
 === What you are doing will never have any effect
 
 That is true with high probability, just like any other individual which tries to influence 1B people.
@@ -175,14 +179,14 @@ This FAQ and any talk is useless. You and I are wasting out times here.
 
 The possibility of blocking Stack Overflow and GitHub is 1000x more useful than any talk, but it is still useless.
 
-However, potentially blocking those websites takes 0 of my time, I just leave the content there, so it is worth my time.
+However, potentially blocking those websites takes <<better-to-do,0 of my time>>, I just leave the content there, so it is worth my time.
 
 To have an idea, in 2015 there are about:
 
 * 20M developers in the world
 * 2M in China : https://www.quora.com/Approximately-how-many-programmers-are-there-in-the-world http://www.techrepublic.com/blog/european-technology/there-are-185-million-software-developers-in-the-world-but-which-country-has-the-most/
 * 5M Stack Overflow users http://data.stackexchange.com/stackoverflow/query/227868/select-count-from-users
-* TODO I wonder what percentage of GDP those programmers control. I'll bet any programmer on Stack Overflow is 5x more powerful than the average Chinese.
+* TODO I wonder what percentage of GDP those programmers control. I'll bet any programmer on Stack Overflow is at least 5x more powerful than the average Chinese.
 
 And if we never start somewhere, nothing will ever happen.
 
@@ -191,10 +195,6 @@ And if we never start somewhere, nothing will ever happen.
 Hitting the block button has of course no cost.
 
 The cost of blocking Stack Overflow lies of course in the loss of information, and slower technological development.
-
-=== Keyword attacks could be used by certain CCP political groups to justify blocking off the entire external Internet, and make the dictatorship even more pervasive
-
-It is a risk, but it would make China drastically <<richer,less powerful>>, so at least they wouldn't be able to start or sustain <<war,WW3>>. So I don't think it will go that way.
 
 [[dictator-needs-gfw]]
 == Would ending the great firewall truly end the dictatorship?
@@ -237,7 +237,7 @@ Any act of protest will use things in ways that it was not meant to be used.
 
 For example, the street is not meant to showcase protest banners, it is meant to be a passageway for cars.
 
-Making a statement where no one will ever see it, like a personal website, is sure to have no effect.
+Making a statement where no one will ever see it, like a personal website, is <<effective,sure to have no effect>>.
 
 Finally, it is up to the Stack Overflow community to decide what is right or wrong, and so far the consensus is go ahead:
 
@@ -257,7 +257,7 @@ What is worse is a subjective choice. For me:
 * I love China and my Chinese wife
 * I hate dictatorships, and China is the largest one
 
-My SO username and protest time are not infinite.
+My <<keyword-attack,SO username>> and protest time are not infinite.
 
 == You are not Chinese, you can't interfere in Chinese politics
 
@@ -267,10 +267,10 @@ If China's <<richer,economy>> is bad, my economy is worse.
 +
 If China's environment is bad, my environment is worse.
 +
-If China starts a <<war>>, I might have to fight it.
+If China <<war,starts a war>>, I might have to fight it.
 . If I lived under a dictatorship, I would welcome foreign intervention.
 +
-Even if you don't, I know several who do.
+Even if you don't, I know several Chinese who do.
 . You have been brainwashed by the commies who say that all foreigners are bad :-)
 +
 The commies do this because most foreign countries are telling the Chinese to get rid of the dictatorship.
@@ -303,11 +303,7 @@ I prefer the term focused :-)
 
 That being said, I take the agenda of information sources very seriously.
 
-E.g. I try to clearly classify Communist Party and Falun Gong linked sources.
-
-== In the Tweet you say "correctional facility", but reeducation through labour has been abolished
-
-My bad https://twitter.com/cirosantilli/status/579270450984984576[here], the precise term is "jail". I'm _not_ talking about: https://en.wikipedia.org/wiki/Re-education_through_labor Unfortunately I can't edit a Tweet.
+E.g. I try to clearly classify Communist Party, Falun Gong, and Western government linked sources.
 
 == Are you making programming contributions with the main intent of promoting your policital agenda?
 
@@ -416,12 +412,13 @@ The only thing that my employer _does_ believe in is that employees can have the
 
 Obviously, this action limits my ability to lead high profile deals with China.
 
-Also I'm quite curious if this would limit my ability to go to China for business, but I haven't applied for a visa since I've started this.
+Also I'm quite curious if this would limit my ability to go to China for business, but I haven't applied for a visa since I've started this. It likely wouldn't be a good idea for me to go to China :-)
 
 But my employer believes that inclusion and non-discrimination is more valuable.
 
 I will always do my best to not let my personal opinions affect my professional decisions, as that would be unfair to my employer.
 
+[[better-to-do]]
 === Don't you have anything better to do?
 
 In 1989, a beautiful thing called the World Wide Web was invented.
@@ -448,7 +445,7 @@ You can never invent anything new anymore nowadays.
 
 OK, shall we put that to an anonymous vote just to make sure?
 
-Dear sir or madam: so you want more control over your government? y/n
+Dear sir or madam: do you want more control over your government? y/n
 
 == Are for a violent revolution to overthrow the CCP?
 
@@ -466,7 +463,7 @@ You are often more useful to the cause outside of jail than inside.
 
 True, I'm using the word in an extended / jokingly sense.
 
-Maybe authoritarian is a more precise term.
+Maybe authoritarian / autocracy is a more precise term.
 
 In particular, dictatorships are harder to sustain than authoritarianism, since it generally implies even less freedom.
 
@@ -495,7 +492,7 @@ I use it in my usernames simply because it is the most banned and censored one i
 
 I believe that individuals should only be put in jail for what they do, not for what they believe.
 
-I consider FLG a religion, and I am against its ban, as I am for all other religions.
+I consider FLG <<flg-religion,a religion like any other>>, and I am against its ban, as I am for all other religions.
 
 Also I believe that freedom of speech and democracy imply that FLG and other religions will exist. If you want freedom, you have to accept other people's choices.
 
@@ -505,7 +502,11 @@ Otherwise, democracy and communism can also be considered as religions, and bann
 
 Not consciously.
 
-I think that 70 Million people getting completely squashed by the Party illustrates extremely well the dangers of the dictatorship.
+I think that **70 Million** people (6% of the total population in 2000!) getting completely squashed by the Party illustrates extremely well the dangers of the dictatorship.
+
+=== In the Tweet you say "correctional facility", but reeducation through labour has been abolished
+
+My bad https://twitter.com/cirosantilli/status/579270450984984576[here], the precise term is "jail". I'm _not_ talking about: https://en.wikipedia.org/wiki/Re-education_through_labor Unfortunately I can't edit a Tweet.
 
 [[flg-changed]]
 === Falun Gong is completely different in the West than it was in China
@@ -565,7 +566,7 @@ How can you disprove their belief, when as in any other religion, every affirmat
 
 Conversely, do you understand the full sequence of experiments that imply quantum field theory? Have you seen videos of those experiments? Have you attended live demonstrations? Do you understand the construction of the experimentation apparatus? Yet, why do you believe it?
 
-More importantly: what do you propose that should be done about it?
+More importantly: what do you propose that should be done about it? Should we kill followers? Or is jail enough?
 
 ==== FLG is a very new religion and therefore fake
 
@@ -682,6 +683,7 @@ But also as explaining why I don't think it justifies the ban.
 
 This section also gives me more credibility as a balanced critic >:-)
 
+[[flg-religion]]
 ==== FLG downplays the fact that it is a religion
 
 If asked if they follow a religion, I think most FLG practitioners will say no. E.g. they call themselves practitioners instead of believers.
