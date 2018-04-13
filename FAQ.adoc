@@ -574,7 +574,7 @@ The Romans called Christianism the "Cult of Jesus".
 
 If I tell a lie today, will it become true in a thousand years? Or a truth today become a lie?
 
-Try sending an email to LHZ asking him to prove his powers to you :-)
+Try sending an email to <<flg-lhz,LHZ>> asking him to prove his powers to you :-)
 
 === Many people both are against censorship and FLG
 
@@ -610,8 +610,9 @@ But your testimony is worthless unless you give the following:
 * clear unique personal identification
 +
 There are basically two ways to do that:
-.  Links between a notable social media presence that is hard to achieve, e.g. Twitter with many followers, Stack overflow with a lot of rep, and the account
-.  Your testimony is done in video form on YouTube clearly showing your face as you make it
++
+.  your testimony is done in video form on YouTube clearly showing your face as you make it
+.  links between a notable social media presence that is hard to achieve, e.g. Twitter with many followers, Stack overflow with a lot of rep, and the account
 +
 Either of those must contain / link to information that uniquely identifies you. Generally, full name, city and date of birth is enough.
 * a precise testimony that states exactly what you saw happen with your own eyes, or heard from people that are very close to you.
@@ -630,10 +631,11 @@ Next consider this:
 Did someone from Falun Gong told the person to do it?
 +
 I bet that if you look into patients of psychiatrists, you will find more suicides than average. So should we ban psychiatry?
-* are you sure that the order came from LHZ, and that it was not just some disgruntled local leader using Falun Gong for his personal madness and doing things he did not approve?
+* are you sure that the order came from <<flg-lhz,LHZ>>, and that it was not just some disgruntled local leader using Falun Gong for his personal madness and doing things he did not approve?
 +
 Branch Davidians were inspired by Christianism. So should we ban Christianity? What about the majority of Christians who have never done anything bad?
 * only statistics has any meaning, and it would require a very large number of reports to make up statistics, so you will likely be wasting your time. I will do my part and maintain a list however.
+* if ask for FLG believers to compile a list of horrors they have suffered, which they have already been doing since the start of the persecution, I bet that their list will be much longer than yours, because they are so <<flg-organized,well organized>>
 
 === FLG does not have proof of their persecution claims
 
@@ -711,11 +713,16 @@ And aren't pro-democracy believers also taking actions based solely on a shared 
 
 From a purely political point of view, the Religion classification would likely be more beneficial to FLG, since it the idea of freedom of religion carries considerable weight in the West.
 
+[[flg-organized]]
 ==== FLG downplays the fact that it is highly organized
 
 Many FLG practitioners claim that they are not at all organized.
 
-But it is obvious from the size of the FLG related media, namely NDTV and Epoch Times, that in practice they do have are a highly organized structure.
+But it is obvious from the size of the FLG related media, namely link:https://en.wikipedia.org/wiki/NDTV[NDTV television network], link:https://en.wikipedia.org/wiki/Epoch_Times[Epoch Times newspaper] and link:https://en.wikipedia.org/wiki/Shen_Yun_Performing_Arts[Shen Yun Performing Arts], that in practice they do have are a highly organized structure.
+
+In particular, it is clear that <<flg-lhz,LHZ>> has direct ties with the FLG media organizations, e.g.:
+
+* Shen Yun's 2018 libretto says that their Artistic Director and founder is "D.F." (likely an abbreviation for Da Fa, which is an abbreviation for Falun Gong Dafa, which is a full name of Falun Gong), with a picture of LHZ on top. It also amusingly says that D.F. is a "Distinguished Professor of Music and Dance at Fei Tian College in New York", which is likely where many of Shen Yun's dancers are trained, and therefore controlled by himself to a large extent
 
 Like any other religion.
 
@@ -774,9 +781,10 @@ This is a point that makes me worry, and I do believe that this has happened, th
 +
 Forbidding them also has huge humanitarian costs (more expensive vehicles, creation of a black market, ...). So why not forbid them as well?
 
+[[flg-lhz]]
 ==== FLG is dangerous because LHZ has too much power over followers
 
-Note: LHZ is the creator of FLG: link:https://en.wikipedia.org/wiki/Li_Hongzhi[]
+LHZ (Li Hongzhi) is the creator of FLG: link:https://en.wikipedia.org/wiki/Li_Hongzhi[], or as I prefer to call it, its <<flg-religion,prophet>>.
 
 I agree that there is danger in every religion, and specially new religions.
 
