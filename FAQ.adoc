@@ -44,7 +44,7 @@ But I believe that this harm is a necessary means to reach my real goal, which i
 
 Don't you think it is worth a try? Destroying the firewall, would <<why-end-dictatorship,enormously benefit>> not only Chinese programmers, but every single other Chinese person too.
 
-Once the firewall is destroyed, which <<dictator-needs-gfw,may to destroy the dictatorship>>, I want China to develop the best science and technology in the world. I would even migrate there if given a good job.
+Once the firewall is destroyed, which <<dictator-needs-gfw,may destroy the dictatorship>>, I want China to develop the best science and technology in the world, and I willl migrate there if given a decent job to help you achieve that.
 
 And by the way, by contributing to open source, I am already helping China, and all underdeveloped countries become stronger.
 
@@ -68,6 +68,8 @@ For:
 
 * dictatorships are more likely to start <<war>> or other crazy policies like the Great Leap Forward, which completely destroy the economy in one go
 * society becomes richer when people know that they can do their startups, get rich, and stay in the country without fear of being persecuted unfairly and losing everything instead of migrating to Canada.
++
+Any criticism of the government, even if constructive, is taken as menace to power, and more likely to be shut down, which makes the government and just becomes less efficient since there is less feedback.
 * governments are monopolies, and the more powerful they are, the worst it is for competition an efficiency in general. E.g.: the startup with better government ties wins, instead of the most efficient one.
 
 Against:
@@ -362,7 +364,9 @@ So the rationale of my actions is _not_ to convince anyone, but rather:
 
 === Do you hate China?
 
-On the contrary. China is my favorite country. It has many, many wonderful things. As Bjarne said:
+On the contrary. China has my favorite food, language, history, culture and nature in the world.
+
+As link:https://en.wikipedia.org/wiki/Bjarne_Stroustrup[Bjarne] said:
 
 ____
 There are only two kinds of programming languages: those people always bitch about and those nobody uses
