@@ -1,8 +1,15 @@
 = FAQ
-:toc:
+:idprefix:
+:idseparator: -
+:sectanchors:
+:sectlinks:
+:sectnumlevels: 6
+:sectnums:
+:toc: macro
+:toclevels: 6
 :toc-title:
-:toclevels: 5
-:numbered:
+
+toc::[]
 
 == Why are you attacking websites with censored keywords?
 
@@ -44,7 +51,7 @@ But I believe that this harm is a necessary means to reach my real goal, which i
 
 Don't you think it is worth a try? Destroying the firewall, would <<why-end-dictatorship,enormously benefit>> not only Chinese programmers, but every single other Chinese person too.
 
-Once the firewall is destroyed, which <<dictator-needs-gfw,may destroy the dictatorship>>, I want China to develop the best science and technology in the world, and I willl migrate there if given a decent job to help you achieve that.
+Once the firewall is destroyed, which <<dictator-needs-gfw,may destroy the dictatorship>>, I want China to develop the best science and technology in the world, and <<would-you-like-to-live-in-china>>.
 
 And by the way, by contributing to open source, I am already helping China, and all underdeveloped countries become stronger.
 
@@ -300,6 +307,10 @@ No, only visited once.
 
 And I don't think it is a good idea for me to do that now :-)
 
+===== Would you like to live in China?
+
+If the dictatorship ends, I would like to migrate to China if given a decent job to help you develop and become awesomer.
+
 ==== What is your Chinese level?
 
 Oral enough to communicate with effort, but not naturally.
@@ -376,7 +387,7 @@ So the rationale of my actions is _not_ to convince anyone, but rather:
 
 === Do you hate China?
 
-On the contrary. China has my favorite food, language, history, culture and nature in the world.
+On the contrary. China has my favorite food, language, history, culture and nature in the world. And because of that: <<would-you-like-to-live-in-china>>.
 
 As link:https://en.wikipedia.org/wiki/Bjarne_Stroustrup[Bjarne] said:
 
@@ -385,8 +396,6 @@ There are only two kinds of programming languages: those people always bitch abo
 ____
 
 I only focus here on negative things to provide content that will activate the Great Firewall.
-
-If it wasn't for the dictatorship, I would seriously consider living there.
 
 === Are you doing this because of your wife?
 
