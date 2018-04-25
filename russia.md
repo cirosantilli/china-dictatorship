@@ -3,6 +3,7 @@
 While I'm at it:
 
 - 2018-04 <http://www.bbc.co.uk/news/technology-43752337> Russia to block Telegram app over encryption
+- 2016 <https://news.vice.com/en_us/article/kzgkv3/russians-now-need-a-passport-to-watch-pornhub>
 - <http://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay>
 
 I've always been curious to how Russia can be both oppressive and a democracy, unlike China which doesn't even try to pretend. This is what I gather:
