@@ -1,6 +1,7 @@
 # Policies 政策
 
 
+- heroes and martyrs protection law <https://www.wsj.com/articles/china-moves-to-police-its-history-with-new-law-1524758002>
 - reincarnation law <https://en.wikipedia.org/wiki/State_Religious_Affairs_Bureau_Order_No._5>
 - nail in collar <http://www.mirror.co.uk/news/world-news/chinese-cops-stick-pins-through-747385> <http://www.dailymail.co.uk/news/article-564629/Pictured-How-China-gets-troops-stand-attention--pins-collars-crosses-backs.html>
 - 2014 pun control <https://youtu.be/Gq1B3Hgclyo?t=261> <http://www.theguardian.com/world/2014/nov/28/china-media-watchdog-bans-wordplay-puns>
