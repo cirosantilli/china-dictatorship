@@ -27,6 +27,8 @@ Keywords blocked by the GFW.
 
     Freedom of speech however, is immediately verifiable (e.g. "my Weibo was taken down"), and undeniably caused by the current central government.
 
+-   https://github.com/panda-re/panda/blob/883c85fa35f35e84a323ed3d464ff40030f06bd6/panda/docs/LINE_Censorship.md By reverse engineering LINE Dict app. Nice.
+
 ## Previously on my SO username
 
 - **包子露宪**: https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution/
