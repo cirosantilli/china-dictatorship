@@ -3,6 +3,7 @@
 While I'm at it:
 
 - 2018-04 <http://www.bbc.co.uk/news/technology-43752337> Russia to block Telegram app over encryption
+- 2017 <http://www.bbc.co.uk/news/world-europe-40635267> Russia Jehovah's Witnesses banned after they lose appeal
 - 2016 <https://news.vice.com/en_us/article/kzgkv3/russians-now-need-a-passport-to-watch-pornhub>
 - <http://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay>
 
