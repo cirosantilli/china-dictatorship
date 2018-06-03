@@ -133,8 +133,6 @@ When will they be ready? Who decides? What if they think that they are ready now
 
 === Embargoes make the dictatorship stronger
 
-In other words, if programming websites get blocked, there will be less good programmers to fight against the dictatorship
-
 The <<keyword-attack,keyword attack>> is basically an embargo.
 
 There is already a lot of literature about this, specially in the cases of Cuba and North Korea. It is basically a libertarian vs conservative / Cato vs Heritage thing in the US:
@@ -143,19 +141,10 @@ There is already a lot of literature about this, specially in the cases of Cuba 
 * https://www.heritage.org/trade/report/why-the-cuban-trade-embargo-should-be-maintained
 * http://www.slate.com/articles/news_and_politics/the_big_idea/2006/08/thanks_for_the_sanctions.html
 
-This is a good point, and one that does make me think.
+Some ideas:
 
-. The commies calculate their actions very well to stay in power.
-+
-Why don't they just take down the entire Internet like they did in Xinjiang in 2010?
-+
-Because that would hurt them:
-+
-* people would go mad, and revolt
-* people would work less efficiently, making the country, and thus themselves, poorer
-+
-So this puts pressure on them to take away the firewall.
-. Programmers are more likely to develop better Firewall climbing tools if SO is blocked
+* This embargo is a bit different than other in the following sense: 
+* Programmers are more likely to develop better Firewall climbing tools if SO is blocked
 . If we don't take any action to show our dissatisfaction, the dictatorship never ends.
 +
 The commies exist like any other organization for a sole purpose: maintain their own power.
@@ -507,6 +496,19 @@ This then leads to your username appearing on thousands of pages, depending on h
 It is also possible to do it with with images, although this is less effective in taking down websites since images are harder to track automatically.
 
 This type of attack is essentially an embargo.
+
+== What do you think about separatism?
+
+Personally, if a large number of people in a given region want to leave an country strongly or have greater autonomy, I believe that they should be allowed to do so.
+
+Rationale:
+
+* if they don't feel they are getting a good deal out of your country, it is unfair to keep them in
+* keeping them in the country implies large scale violation of human rights: mass incarceration and removing freedom of speech.
++
+Which in turn implies terrorist backslash.
++
+All of which are against my principles.
 
 == Falun Gong
 

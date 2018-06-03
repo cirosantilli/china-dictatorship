@@ -31,7 +31,7 @@ Keywords blocked by the GFW.
 
 ## Previously on my SO username
 
-- **包子露宪**: https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution/
+- **包子露宪**: Xi prepares for life rule https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution
 - **低端人口** :
 - **刘晓波死**: https://www.nytimes.com/2017/07/17/world/asia/liu-xiaobo-censor.html
 - Panama Papers
