@@ -143,9 +143,9 @@ There is already a lot of literature about this, specially in the cases of Cuba 
 
 Some ideas:
 
-* This embargo is a bit different than other in the following sense: 
+* This embargo is a bit different than other in the following sense:
 * Programmers are more likely to develop better Firewall climbing tools if SO is blocked
-. If we don't take any action to show our dissatisfaction, the dictatorship never ends.
+* If we don't take any action to show our dissatisfaction, the dictatorship never ends.
 +
 The commies exist like any other organization for a sole purpose: maintain their own power.
 +
@@ -159,7 +159,7 @@ There are two extremes of action (both which _I don't_ support):
 But between those two extremes, what is the right measure? I think that saying nothing is too close to stability.
 +
 I do see that one alternative scenario is that if we do nothing, maybe there will be more and more contact with Western countries, and the Chinese will see for themselves that we are not that bad, and eventually request democracy.
-. Even if programmers get very powerful, it is not very likely that they will succeed to undo the dictatorship, they simply don't have enough power.
+* Even if programmers get very powerful, it is not very likely that they will succeed to undo the dictatorship, they simply don't have enough power.
 +
 I'd rather have a less strong dictatorship, than one with good programmers.
 
@@ -509,6 +509,8 @@ Rationale:
 Which in turn implies terrorist backslash.
 +
 All of which are against my principles.
+
+What makes me the most mad is the censorship. If you are going to put people in jail, write a clear law about it, and let international reporters come to see the situation.
 
 == Falun Gong
 
