@@ -5,6 +5,7 @@
 -   2018-04 <https://chinadigitaltimes.net/2018/04/translation-open-letter-on-peking-university-metoo-case/> <https://github.com/sikaozhe1997/Xin-Yue>
 -   2018-04 <https://www.whatsonweibo.com/weibos-new-online-guidelines-no-homosexuality-allowed/>
 -   2018-04 <https://www.washingtonpost.com/world/asia_pacific/congressional-leaders-urge-us-to-press-china-over-reports-of-mass-uighur-detentions/2018/04/05/9bd17c90-38b3-11e8-b57c-9445cc4dfa5e_story.html>
+-   2018-03 <https://supchina.com/2018/03/29/no-tattoos-at-the-2018-strawberry-music-festival-in-hangzhou/> Funny pics at: <http://app.myzaker.com/news/article.php?f=xiongzhang&pk=5ac0eb1877ac6465da676481>
 -   2018-02 <https://www.nytimes.com/2018/02/25/world/asia/china-xi-jinping.html>
 -   2018-02 <https://www.theguardian.com/world/2018/jan/25/at-least-120000-muslim-uighurs-held-in-chinese-re-education-camps-report>
 -   2018-01 <https://www.theguardian.com/world/2018/jan/19/outspoken-chinese-human-rights-lawyer-yu-wensheng-arrested>
@@ -12,6 +13,7 @@
 -   2018-01 <https://www.nytimes.com/2018/01/12/world/asia/china-church-dynamite.html>
 -   2018-01 <http://uk.businessinsider.com/china-marriott-tweets-censorship-2018-1?r=US&IR=T> Marriott lists Taiwan as country in the website
 -   2018-01 <http://chuangcn.org/2018/01/the-mastermind/>
+-   2018-01 <http://time.com/5112061/china-hip-hop-ban-tattoos-television/>
 -   2017-12 <https://www.nytimes.com/2017/12/25/world/asia/china-wu-gan-sentence.html>
 -   2017-11 <https://www.reddit.com/r/China/comments/7a7hf9/the_worlds_largest_academic_publisher_blocks/> Springer nature pulls sensitive articles. TODO article list.
 -   2017-09 <https://www.nytimes.com/2017/09/25/business/china-whatsapp-blocked.html>
