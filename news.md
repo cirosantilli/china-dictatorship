@@ -1,5 +1,6 @@
 # News 新闻
 
+-   2018-06 <https://arstechnica.com/tech-policy/2018/06/china-bans-online-mention-of-john-oliver-after-he-mocks-chinas-president/> <https://www.dailymotion.com/video/x6m5b3o>
 -   2018-05 <https://www.whatsonweibo.com/public-shaming-of-drug-users-in-guangdong-drug-related-crimes-in-family-painted-on-houses/>
 -   2018-04 <https://uk.reuters.com/article/uk-china-lawmaking/china-makes-defaming-revolutionary-heroes-punishable-by-law-idUKKBN1HY16C>
 -   2018-04 <https://chinadigitaltimes.net/2018/04/translation-open-letter-on-peking-university-metoo-case/> <https://github.com/sikaozhe1997/Xin-Yue>
