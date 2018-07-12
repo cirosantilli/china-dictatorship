@@ -8,6 +8,7 @@
 Tool lists:
 
 - <http://wsgzao.github.io/post/fq/>
+- <https://github.com/danoctavian/awesome-anti-censorship>
 
 Tools:
 
