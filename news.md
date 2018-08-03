@@ -1,5 +1,6 @@
 # News 新闻
 
+-   2018-07 <https://www.youtube.com/watch?v=Eak3WRtcdko> Sairagul Sawytbai testifies to the existence of Chinese concentration camps in Xinjiang
 -   2018-06 <https://arstechnica.com/tech-policy/2018/06/china-bans-online-mention-of-john-oliver-after-he-mocks-chinas-president/> <https://www.dailymotion.com/video/x6m5b3o>
 -   2018-05 <https://www.whatsonweibo.com/public-shaming-of-drug-users-in-guangdong-drug-related-crimes-in-family-painted-on-houses/>
 -   2018-04 <https://uk.reuters.com/article/uk-china-lawmaking/china-makes-defaming-revolutionary-heroes-punishable-by-law-idUKKBN1HY16C>

@@ -173,7 +173,7 @@ That is true with high probability, just like any other individual which tries t
 
 Every action is statistical: I just push the balance a little bit towards freedom.
 
-This FAQ and any talk is useless. You and I are wasting out times here.
+This FAQ and any talk is useless. You and I are wasting our times here.
 
 The possibility of blocking Stack Overflow and GitHub is 1000x more useful than any talk, but it is still useless.
 
