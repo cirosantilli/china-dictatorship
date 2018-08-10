@@ -2,17 +2,25 @@
 
 I was banned from Zhihu on 2018-06-25 for "politically sensitive" content.
 
-I have however never posted anything politically sensitive on Zhihu, the ban is clearly an unfair per-person ban.
+I have however never posted anything politically sensitive on Zhihu, unless my name and profile picture have reached that distinction, and therefore the ban is clearly an unfair per-person ban.
 
 But of course, all is fair in love and war, and politics.
+
+Posting any sensitive content on Chinese websites is a waste of time, since it only means that they will be removed and you will waste time creating a new account, I will never do that.
+
+The only significant content I ever posted on Zhihu is the answer to: https://www.zhihu.com/question/46957710/answer/122827944 which is purely technical, and trivial replies on threads that other people have started about me. Have those people been blocked like me?
 
 My posts are still up and it does not appear to be possible for people to see that I have been banned, but whenever I try to take any action on the website a popup appears saying:
 
 > 由于严重违反 知乎社区管理规定 ，该帐号已被永久禁言
 
-Obviously, the only effect of such ban is that I will create an anonymous account under Tor with a second cell phone if I wish to contribute in the future, and China will have less information about my political interests than before.
+This includes liking, commenting, answering, asking or trying to update my profile to say that I have been blocked.
 
-Posting any sensitive content on Chinese websites is a waste of time, since it only means that they will be removed and you will waste time creating a new account, I will never do that.
+I still get notifications however, but I am unable to reply to them, specially given that all Chinese accounts, unlike mine, have no personal identifiable information due to the understandable fear Chinese citizens have of their own government (even though such accounts [might be illegal in theory to my understanding](https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/)).
+
+The only action that I can take now is to report abusive comments people make to me.
+
+Obviously, the only effect of such ban is that I will create an anonymous account under Tor with a second cell phone if I wish to contribute in the future, and China will have less information about my political interests than before.
 
 The private messages the website sends while banning you are:
 
