@@ -20,6 +20,7 @@ Tools:
     -   <https://github.com/shadowsocks/ChinaDNS>
         - <https://github.com/fxckgfw/shadowsocks-wiki>
     -   <https://github.com/h2y/Shadowrocket-ADBlock-Rules>
+-   <https://github.com/bannedbook/fanqiang> wall climbing tool. TODO working principle.
 
 Monitoring and data:
 
