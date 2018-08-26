@@ -12,12 +12,14 @@ Tool lists:
 
 Tools:
 
-- <http://fqrouter.tumblr.com/> <https://github.com/fqrouter/fqrouter> <https://zh.wikipedia.org/wiki/Fqrouter>
-- <https://github.com/shadowsocks/ChinaDNS>
-    - <https://github.com/fxckgfw/shadowsocks-wiki>
-- <https://github.com/Leask/BRICKS>
-- <https://github.com/justjavac/ReplaceGoogleCDN> <https://github.com/justjavac/Google-IPs>
-- distributed VoIP / chat / IM: <https://ring.cx/>,  <https://tox.chat/>, <https://github.com/RetroShare/RetroShare> Yes, you could give your data to NSA and just use Skype (while that is not too slow or Microsoft does spy deals with the CCP).
+-   <http://fqrouter.tumblr.com/> <https://github.com/fqrouter/fqrouter> <https://zh.wikipedia.org/wiki/Fqrouter>
+-   <https://github.com/Leask/BRICKS>
+-   <https://github.com/justjavac/ReplaceGoogleCDN> <https://github.com/justjavac/Google-IPs>
+-   distributed VoIP / chat / IM: <https://ring.cx/>,  <https://tox.chat/>, <https://github.com/RetroShare/RetroShare> Yes, you could give your data to NSA and just use Skype (while that is not too slow or Microsoft does spy deals with the CCP).
+-   website blacklists. So that you enable Shadowsocks only for needed sites, to reduce costs and prevent detection.
+    -   <https://github.com/shadowsocks/ChinaDNS>
+        - <https://github.com/fxckgfw/shadowsocks-wiki>
+    -   <https://github.com/h2y/Shadowrocket-ADBlock-Rules>
 
 Monitoring and data:
 
