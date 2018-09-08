@@ -90,6 +90,10 @@ https://www.cambridge.org/core/services/aop-file-manager/file/59970028145fd05f66
 -   2005 <https://en.wikipedia.org/wiki/Dongzhou_protests> <https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%B4%B2%E4%BA%8B%E4%BB%B6> Dongzhou protests
 -   1999 <http://www.lionsroar.com/apple-thinks-different-about-the-dalai-lama-in-china-2/> Apple censors Dalai Lama for China
 -   1989 <https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989> <https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6> Tiananmen Square protests 六四事件:
-    - <https://en.wikipedia.org/wiki/Goddess_of_Democracy> <https://zh.wikipedia.org/wiki/中国国际广播电台>
+    -   <https://en.wikipedia.org/wiki/Goddess_of_Democracy> <https://zh.wikipedia.org/wiki/中国国际广播电台>
+    -   AP footage is pretty good, just do a search on the archive:
+        - <http://www.aparchive.com/metadata/China-Student-Demonstrations/5d1cd01250c9e5e9397f20ef9f1327df>
+        - <http://www.aparchive.com/metadata/China-Student-Demonstrations/cfc6890746010c73f9414e20906268aa>
+-   <https://en.wikipedia.org/wiki/1986_Chinese_student_demonstrations> <https://zh.wikipedia.org/wiki/%E5%85%AB%E5%85%AD%E5%AD%A6%E6%BD%AE> 八六学潮
 -   1987–1989 <https://en.wikipedia.org/wiki/1987%E2%80%9389_Tibetan_unrest> <https://zh.wikipedia.org/wiki/1989%E5%B9%B4%E6%8B%89%E8%90%A8%E9%AA%9A%E4%B9%B1>. Videos: <https://www.youtube.com/watch?v=0jylh1qfOG4>, <https://www.youtube.com/watch?v=qMZgoRuPJBg> Tibetan unrest 年拉萨骚乱
 -   1978, 1997 <https://en.wikipedia.org/wiki/Beijing_Spring> <https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5> <https://en.wikipedia.org/wiki/Democracy_Wall> <https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99>
