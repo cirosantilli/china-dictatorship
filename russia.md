@@ -6,6 +6,7 @@ While I'm at it:
 - 2017 <http://www.bbc.co.uk/news/world-europe-40635267> Russia Jehovah's Witnesses banned after they lose appeal
 - 2016 <https://news.vice.com/en_us/article/kzgkv3/russians-now-need-a-passport-to-watch-pornhub>
 - <http://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay>
+- 1995 <https://en.wikipedia.org/wiki/Vladislav_Listyev>
 
 I've always been curious to how Russia can be both oppressive and a democracy, unlike China which doesn't even try to pretend. This is what I gather:
 

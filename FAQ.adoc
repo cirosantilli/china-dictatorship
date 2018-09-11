@@ -112,9 +112,38 @@ Some arguments include:
 
 * the people who will actually fight and die on the front can't vote against it
 * dictators have huge power, so if they put it in their heads that they want to start a war, it is much harder for sensible people to stop them
-* dictators need to keep the people in fear all the time to keep their power, and a war is a great way to achieve that
+* dictators need <<fear-of-west,to keep the people in fear all the time to keep their power>>, and a war is a great way to achieve that
 
-=== Censorship is necessary to protect China from harmful USA propaganda
+[[fear-of-west]]
+=== The commies exaggerate the thread of the West to keep in power
+
+This is a common strategy, but the West is not as evil as they say:
+
+_____
+Once upon a time, there was a farmer with a farm.
+
+One day, the animals in the farm started feeling a bit trapped, and started bumping against the fence to get out.
+
+The farmer, however, was smart, and told the animals:
+
+____
+> Careful! There is a wolf outside! If you go out, you will be eaten by the wolf!
+____
+
+The animals, were not that smart, and listened to the farmer, they were afraid!
+
+From time to time, one of the animals would disappear (and without their knowledge, reappear on the farmer's dinner table).
+
+But the farmer kept giving the animals delicious food without them doing any effort, so they decided to believe the farmer's explanation that that animal had escaped and been eaten by the wolf.
+
+Maybe, there was actually a wolf outside. But if they had escaped, only some of the animals would have been eaten by that wolf.
+
+But by staying in the farm, all the animals were, sooner or later, eaten one by one.
+_____
+
+TODO source.
+
+==== Censorship is necessary to protect China from harmful USA propaganda
 
 I don't think this is below them, but:
 
@@ -349,8 +378,6 @@ If you think that any of my edits were harmful, please ping me and open a meta t
 
 Radical: I don't consider myself a radical because I actually have doubts about doing this sometimes.
 
-Also I don't consider the Chinese Government Evil or anything like that. To me, it's just another non-democratic empire like the Qing Dynasty. 共产朝 as I call them. But alas, I'm not the inventor of the expression: http://web.archive.org/web/20161025220242/http://tieba.baidu.com/p/752094668
-
 I never get mad. Only a slightly sad or annoyed sometimes.
 
 But I do admit that I am hard headed like almost all humans, and it is very unlikely that anything anyone says will change my mind about subjective political matters.
@@ -358,6 +385,22 @@ But I do admit that I am hard headed like almost all humans, and it is very unli
 In the end I just end up thinking about new replies to those arguments and adding them to this FAQ.
 
 But maybe no radical ever considers himself radical? Hmmm...
+
+=== Do you think Chinese politician X evil?
+
+The term evil does not make sense to me.
+
+The best definition I can reach is a psychopath with zero empathy for anyone: https://en.wikipedia.org/wiki/Psychopathy although I think that can be better characterized as a disease or extreme personality trait.
+
+I believe that the huge majority of those politicians are just regular dudes with a knack for politics but brought up in a fucked up political situation.
+
+Just like you, me and other politicians in any country.
+
+=== Do you think the Chinese government is evil?
+
+No, just <<richer,inefficient>> and <<war,dangerous>>.
+
+To me, it's just another non-democratic empire like the Qing Dynasty. 共产朝 as I call them. But alas, I'm not the inventor of the expression: http://web.archive.org/web/20161025220242/http://tieba.baidu.com/p/752094668
 
 === Are you a SJW?
 
@@ -386,9 +429,15 @@ ____
 
 I only focus here on negative things to provide content that will activate the Great Firewall.
 
+=== Why do you love China so much?
+
+I don't believe in reincarnation, but sometimes I'm tempted to.
+
+Interesting how different people get <<do-you-hate-china,different impressions>>!
+
 === Are you doing this because of your wife?
 
-Of course not. I am, just like you, a completely selfless being, who only cares about what is best for the world as a whole.
+Of course not. I am, just like you, a completely selfless being, who only cares about what is best for the world as a whole, and is only influenced by the most pure and intangible ideals.
 
 === Are you doing this because it makes you feel important?
 
