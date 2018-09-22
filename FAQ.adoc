@@ -277,17 +277,6 @@ Finally, it is up to the Stack Overflow community to decide what is right or wro
 
 Much of the best art and technology is about using something in a way that it wasn't meant to be used.
 
-== There are bad things happening all over the world, why don't you fight for those causes as well / instead?
-
-We have to choose the one we think is the worst, and focus on it.
-
-What is worse is a subjective choice. For me:
-
-* I love China and my Chinese wife
-* I hate dictatorships, and China is the largest one
-
-My <<keyword-attack,SO username>> and protest time are not infinite.
-
 == You are not Chinese, you can't interfere in Chinese politics
 
 . We live in the same world.
@@ -374,6 +363,14 @@ I just think that website is great, and want to push it to perfection, in partic
 
 If you think that any of my edits were harmful, please ping me and open a meta thread to discuss specific edits, and I will comply with consensus.
 
+== China is fine as it is, stop making it worse
+
+Welcome to the wonderful world of democracy, a world where people can have different political opinions than you! :-)
+
+I try to justify here why I think China would be better with democracy, but I know that ultimately all of this is useless, our opinions are all determined genetically and by bringup, and there is nothing I can do to change yours, or you change mine.
+
+Part of my philosophy however is to accept your opinion without becoming mad, even if it is contrary to mine, and therefore wrong.
+
 == Irrelevant personal questions
 
 === Are you a radical?
@@ -454,6 +451,17 @@ Not with my real name attached to it.
 === Do you believe in or practice Falun Gong?
 
 No.
+
+=== There are bad things happening all over the world, why don't you fight for those causes as well / instead?
+
+We have to choose the one we think is the worst, and focus on it.
+
+What is worse is a subjective choice. For me:
+
+* I love China and my Chinese wife
+* I hate dictatorships, and China is the largest one
+
+My <<keyword-attack,SO username>> and protest time are not infinite.
 
 == Is your campaign funded or otherwise supported by some organization?
 
