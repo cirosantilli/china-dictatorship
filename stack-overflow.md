@@ -4,8 +4,16 @@
 
 Other openly dissident users.
 
-- <http://stackoverflow.com/users/1009479/yu-hao>
-- <http://stackoverflow.com/users/1801697/terry-wang>
+-   <https://math.stackexchange.com/users/290189/gnusupporter-8964%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E-%E5%9C%B0%E4%B8%8B%E6%95%99%E6%9C%83>
+    - "GNUSupporter 8964民主女神 地下教會"
+    - Also went for a keyword attack.
+    * 10k rep on https://math.stackexchange when I noticed it.
+    - <https://web.archive.org/web/20180924203410/https://math.stackexchange.com/users/290189/gnusupporter-8964%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E-%E5%9C%B0%E4%B8%8B%E6%95%99%E6%9C%83>
+-   <http://stackoverflow.com/users/1009479/yu-hao>
+    - <http://archive.is/76FCb>
+    - "GFW (Great Firewall of China) is one of the most notorious inventions in the history of Internet. Anyone working for it should be ashamed."
+-   <http://stackoverflow.com/users/1801697/terry-wang>
+    - Lego recreation of Tankman on profile picture.
 
 Users who had GFW references but removed it:
 
