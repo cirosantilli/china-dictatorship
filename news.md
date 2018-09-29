@@ -10,6 +10,8 @@
 -   2018-04 <https://www.whatsonweibo.com/weibos-new-online-guidelines-no-homosexuality-allowed/>
 -   2018-04 <https://www.washingtonpost.com/world/asia_pacific/congressional-leaders-urge-us-to-press-china-over-reports-of-mass-uighur-detentions/2018/04/05/9bd17c90-38b3-11e8-b57c-9445cc4dfa5e_story.html>
 -   2018-03 <https://supchina.com/2018/03/29/no-tattoos-at-the-2018-strawberry-music-festival-in-hangzhou/> Funny pics at: <http://app.myzaker.com/news/article.php?f=xiongzhang&pk=5ac0eb1877ac6465da676481>
+-   2018-03 Xi prepares for life rule 包子露宪
+    -   https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution
 -   2018-02 <https://www.nytimes.com/2018/02/25/world/asia/china-xi-jinping.html>
 -   2018-02 <https://www.theguardian.com/world/2018/jan/25/at-least-120000-muslim-uighurs-held-in-chinese-re-education-camps-report>
 -   2018-01 <https://www.theguardian.com/world/2018/jan/19/outspoken-chinese-human-rights-lawyer-yu-wensheng-arrested>
@@ -19,6 +21,8 @@
 -   2018-01 <http://chuangcn.org/2018/01/the-mastermind/>
 -   2018-01 <http://time.com/5112061/china-hip-hop-ban-tattoos-television/>
 -   2017-12 <https://www.nytimes.com/2017/12/25/world/asia/china-wu-gan-sentence.html>
+-   2017-11 低端人口 Low-end population
+    -   https://qz.com/1138395/low-end-population-what-you-need-to-know-about-chinas-crackdown-on-migrant-workers/
 -   2017-11 <https://www.reddit.com/r/China/comments/7a7hf9/the_worlds_largest_academic_publisher_blocks/> Springer nature pulls sensitive articles. TODO article list.
 -   2017-09 <https://www.nytimes.com/2017/09/25/business/china-whatsapp-blocked.html>
 -   2017-08 <http://www.independent.co.uk/news/world/asia/china-muslim-minority-school-language-ban-han-xinjiang-uyghur-hotan-hetian-government-communist-a7873446.html>
@@ -46,7 +50,9 @@ https://www.cambridge.org/core/services/aop-file-manager/file/59970028145fd05f66
 -   2016-04 <http://www.hollywoodreporter.com/news/china-demands-shutdown-disneylife-service-887599> Disney Life blocked
 -   2016-04 <http://www.hollywoodreporter.com/news/china-demands-shutdown-apples-film-886831> Apple iTunes and iBooks blocked
 -   2016 <http://www.bbc.com/news/blogs-news-from-elsewhere-35968855> China's 'Great Firewall' blocks its creator
--   2016 <https://en.wikipedia.org/wiki/Panama_Papers>
+-   2016 Panama papers 巴拿马文件
+    - https://en.wikipedia.org/wiki/Panama_Papers
+    - https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%96%87%E4%BB%B6
 -   2016 <http://www.theguardian.com/tv-and-radio/2016/mar/04/china-bans-gay-people-television-clampdown-xi-jinping-censorship> gay depiction banned on television
 -   2016 <http://www.nytimes.com/2016/02/27/world/asia/china-zhejiang-christians-pastor-crosses.html> pastor 14 years jail
 -   2016 <http://www.bbc.com/news/blogs-trending-35496562> Armani Communist

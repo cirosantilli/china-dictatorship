@@ -318,7 +318,7 @@ And I don't think it is a good idea for me to do that now :-)
 
 ===== Would you like to live in China?
 
-If the dictatorship ends, I would like to migrate to China if given a decent job to help you develop and become awesomer.
+If the dictatorship ends, I would like to <<do-you-hate-china,migrate to China>> if given a decent job to help you develop and become awesomer.
 
 ==== What is your Chinese level?
 
@@ -372,6 +372,62 @@ I try to justify here why I think China would be better with democracy, but I kn
 Part of my philosophy however is to accept your opinion without becoming mad, even if it is contrary to mine, and therefore wrong.
 
 == Irrelevant personal questions
+
+=== Why did you start the keyword attack?
+
+The last straw was when in March 2015 my girlfriend's mother was arbitrarily kept 15 days in jail for doing Falun Gong. I posted this at:
+
+* https://twitter.com/cirosantilli/status/579270450984984576
+* https://www.facebook.com/cirosantilli/posts/952661734753174
+
+I then continued because I hate political censorship.
+
+I am against violence. <<do-you-hate-china,I love China>>.
+
+==== Jail post en
+
+My girlfriend's mother, a 63 year old lady, was kept 15 days inside a Chinese "correctional facility" because she does Falun Gong.
+
+She had to stay all the time in a small room with a bed and a toilet, under video surveillance, being fed three meager meals a day.
+
+I see Falun Gong http://en.wikipedia.org/wiki/Falun_Gong as just another moderate religion which causes no harm to its believers. The only reason that it is unofficially outlawed in China is because the communists fear it as a political competitor.
+
+There was no trial and no explanation. She was going to take a train to visit her sister. But she didn't know that there was an important political event happening in the capital: http://en.wikipedia.org/wiki/12th_National_People's_Congress So the police at the station, who already knew she did Falun Gong, took her away.
+
+When she came back home, the house had been searched and was all messed up. Her religious books and computer were missing.
+
+I'm glad she was not physically harmed. I find it fascinating how even well educated Chinese support a government which simply does not represent some of its people. How will you feel when something like that happens to your own family, and there is nothing you can do about it?
+
+==== Jail post zh
+
+(Translation by my wife)
+
+我女朋友的母亲，一位63岁的女士被监禁在一个中国的“劳教所”，只因为她炼法轮功。
+
+她被迫待在一个小屋子里面，只有一张床和一个排泄的地方，一直处在监视器下，每天两个窝头一碗只有几个白菜叶的汤。
+
+我看过法轮功http://en.wikipedia.org/wiki/Falun_Gong 只是一个和平的信仰，对相信它的人没有任何坏处。它在中国被非官方的定为违法（其实没有一项明确法律禁止），唯一的原因就是工产党害怕它是一个政治竞争对手。
+
+没有审讯没有任何解释。她正准备坐火车去看她的姐姐。但是她并不知道那个时候有重要的政治会议正在首都进行：http://en.wikipedia.org/wiki/12th_National_People's_Congress
+所以那些知道她炼法轮功的铁路警察把她带走了。
+
+当她回到家中时，房子被搜查过了，四处一切混乱。她的信仰书籍和电脑都没有了。
+
+我很庆幸的是她身体并没有受到伤害。我觉得很意思的是一些受过良好教育的中国人怎么能够迫害一部分它的人民的政府呢？如果这样的事情发生在你的家庭，而你什么都不能做，你会怎么想？
+
+==== Jail post pt
+
+A mãe da minha namorada ficou 15 dias num "centro de correção" chines porque ela faz Falun Gong.
+
+Ela ficou o tempo todo num quarto pequeno com uma cama e banheiro, sobe videovigilância, recebendo 3 refeições pequenas por dia.
+
+Para mim, o Falun Gong http://en.wikipedia.org/wiki/Falun_Gong é apenas mais uma religião moderada que não causa nenhum problema para seus crentes. A única razão pela qual ele é proibido na China é porque os comunistas tem medo dele como competidor politico.
+
+Não houve julgamento nem explicação. Ela ia pegar um trem para ver sua irmã, mas ela não sabia que teria um evento político importante na capital: http://en.wikipedia.org/wiki/12th_National_People's_Congress Então a polícia da estação, que já sabia que ela faz Falun Gong pegou ela.
+
+Quando ela voltou pra casa, a casa tinha sido procurada pela polícia e estava uma bagunça. Os livros religiosos e seu computador foram confiscados.
+
+Eu fico feliz apenas que ela não sofreu abuso físico. Eu acho fascinante como mesmo muitos chineses educados apoiam ainda um governo que não representa parte do povo. Como você vai se sentir quando algo do tipo acontecerá com a sua família, e você não pode fazer nada sobre isso?
 
 === Are you a radical?
 
@@ -430,15 +486,11 @@ ____
 
 I only focus here on negative things to provide content that will activate the Great Firewall.
 
-=== Why do you love China so much?
+==== Why do you love China so much?
 
 I don't believe in reincarnation, but sometimes I'm tempted to.
 
 Interesting how different people get <<do-you-hate-china,different impressions>>!
-
-=== Are you doing this because of your wife?
-
-Of course not. I am, just like you, a completely selfless being, who only cares about what is best for the world as a whole, and is only influenced by the most pure and intangible ideals.
 
 === Are you doing this because it makes you feel important?
 
@@ -450,7 +502,7 @@ Not with my real name attached to it.
 
 === Do you believe in or practice Falun Gong?
 
-No.
+No, I'm agnostic: https://en.wikipedia.org/wiki/Agnosticism
 
 === There are bad things happening all over the world, why don't you fight for those causes as well / instead?
 
@@ -557,6 +609,86 @@ This then leads to your username appearing on thousands of pages, depending on h
 It is also possible to do it with with images, although this is less effective in taking down websites since images are harder to track automatically.
 
 This type of attack is essentially an embargo.
+
+=== Do Stack Overflow policies allow for keyword attacks?
+
+The current consensus is yes:
+
+* https://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u
+* https://meta.stackoverflow.com/questions/267368/are-political-avatars-and-profiles-ok
+* https://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam
+* https://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam
+* https://meta.stackoverflow.com/questions/349131/users-political-display-name-triggering-government-action-against-users-who-vie
+
+The Chinese law doesn't I'm afraid :-( https://advox.globalvoices.org/2015/04/16/new-internet-rules-in-china-target-usernames-avatars-as-subversive-tools/
+
+=== What are the best sources of anti-commie news?
+
+https://www.reddit.com/r/China
+
+Catches all the important news
+
+A large part of the posts is controversion material.
+
+Has some noise of course as well, but less than other media I find.
+
+Highly worth your feed.
+
+Reddit was banned in China in August 2018: https://www.reddit.com/r/China/comments/965k4c/reddit_banned_in_china/
+
+=== Where can I find good words for a keyword attack?
+
+* https://chinadigitaltimes.net/china/directives-from-the-ministry-of-truth/?view=all updated weekly with the newest news. TODO credibility, methodology. Chinese version of list: https://chinadigitaltimes.net/chinese/category/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?view=all
+** A wiki of subversive claims by the same source: https://chinadigitaltimes.net/space/Main_Page, the "Grass-mud horse index" (cao3n2ma3 草泥马), with a censored term of the week section.
+** Fun 2015 ebook: https://github.com/cirosantilli/decoding-chinese-internet-pdf-download
+* https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8
+* https://github.com/jasonqng/chinese-keywords
+* link:complete-gfw-rulebook-for-wikipedia-v3.0.pdf[]
+* https://qz.com/698990/261-ways-to-refer-to-the-tiananmen-square-massacre-in-china/ 261 ways to refer to the Tiananmen Square Massacre in China
+
+=== What makes for good censored words?
+
+* recent cases receive a large prime over raw death toll, because older cases can always be attributed to other people.
++
+E.g., I've heard there is even some opening towards acknowledging the Great Famine, thus 烏坎事件 (and others from my previous profile names)
+* words must refer to a precise event, and must be clearly summarizable in very few chars, for increased impact, and profile name length limitations.
++
+E.g. "High corruption rates, high pollution", although very serious, feel too generic.
+* events that relate directly to freedom of speech receive a prime, since they can only happen in China and very few other countries.
++
+E.g.: Falun Gong, Tiananmen.
++
+Non e.g.: corruption and pollution. Those are hard to quantify, and there is always an immediate reply: china GDP per capita is low, same happens in India, Brazil, etc.
++
+Freedom of speech however, is immediately verifiable (e.g. "my Weibo was taken down"), and undeniably caused by the current central government.
+
+=== Are there other openly dissident users on Stack overflow?
+
+* "GNUSupporter 8964民主女神 地下教會"
+** https://math.stackexchange.com/users/290189/gnusupporter-8964%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E-%E5%9C%B0%E4%B8%8B%E6%95%99%E6%9C%83
+** https://web.archive.org/web/20180924203410/https://math.stackexchange.com/users/290189/gnusupporter-8964%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E-%E5%9C%B0%E4%B8%8B%E6%95%99%E6%9C%83
+** Keyword attack inspired by me
+* Yu Hao
+** http://stackoverflow.com/users/1009479/yu-hao
+** http://archive.is/76FCb
+** "GFW (Great Firewall of China) is one of the most notorious inventions in the history of Internet. Anyone working for it should be ashamed."
+* Terry Wang
+** http://stackoverflow.com/users/1801697/terry-wang
+** http://archive.is/V0aSK
+** Lego recreation of Tankman on profile picture.
+
+Users who had GFW references but removed it:
+
+* http://stackoverflow.com/users/4594532/gnimuc-key
+** http://web.archive.org/web/20170331144256/https://stackoverflow.com/users/4594532/gnimuc
+* http://stackoverflow.com/users/651907/jclin
+** http://web.archive.org/web/20160516065151/https://stackoverflow.com/users/651907/jclin
+
+Users who mentioned me in their profiles at some point:
+
+* https://web.archive.org/web/20170602054631/https://stackoverflow.com/users/815408/%E8%AF%B7%E5%B0%81%E6%8E%89ciro-santilli-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%87%E5%B2%81
+
+Query to find them: http://data.stackexchange.com/stackoverflow/query/312863/mentioned-ciro-santilli-on-aboutme-or-displayname
 
 == What do you think about separatism?
 
