@@ -12,6 +12,7 @@ Chinese "Communist" Dictatorship "facts". 中国《共产主义》独裁统治�
 1.  [Policies](policies.md)
 1.  [Taiwan](taiwan.md)
 1.  [Stack Overflow](stack-overflow.md)
+1.  [Stack Overflow profile](stack-overflow-profile.md)
 1.  [Funny](funny.md)
 1.  [Quora](quora.md)
 1.  [Falun Gong](falun-gong.md)

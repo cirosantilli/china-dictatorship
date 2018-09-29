@@ -53,6 +53,7 @@ https://www.cambridge.org/core/services/aop-file-manager/file/59970028145fd05f66
 -   2016 Panama papers 巴拿马文件
     - https://en.wikipedia.org/wiki/Panama_Papers
     - https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%96%87%E4%BB%B6
+    - mention Deng Jiagui 邓家贵 https://en.wikipedia.org/wiki/Deng_Jiagui , who is Xi Jinping's brother-in-law
 -   2016 <http://www.theguardian.com/tv-and-radio/2016/mar/04/china-bans-gay-people-television-clampdown-xi-jinping-censorship> gay depiction banned on television
 -   2016 <http://www.nytimes.com/2016/02/27/world/asia/china-zhejiang-christians-pastor-crosses.html> pastor 14 years jail
 -   2016 <http://www.bbc.com/news/blogs-trending-35496562> Armani Communist
