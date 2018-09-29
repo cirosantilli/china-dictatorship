@@ -17,6 +17,7 @@ https://www.independent.co.uk/news/world/asia/10282630.html 六四 spice by me.
 https://supchina.com/2018/08/22/xinjiang-explainer-chinas-reeducation-camps-for-a-million-muslims
 
 <img src="https://i.stack.imgur.com/5Gfie.jpg" width="999">
+<img src="https://i.stack.imgur.com/mQFKa.png" width="999">
 
 # 六四事件 Tiananmen square protests 1989
 
@@ -48,7 +49,7 @@ https://www.theguardian.com/world/2018/aug/07/china-bans-winnie-the-pooh-film-to
 
 # 希望 Hope
 
-There is greatness in China. One day the darkness will end.
+There is greatness in China. One day the darkness will end. Then we will work together to make the world awesomer.
 
 [Guqin Chinese traditional music](https://youtu.be/35ZKN-H7at4).
 
