@@ -1,5 +1,6 @@
 # News 新闻
 
+-   2018-11 <https://www.bbc.co.uk/news/world-asia-45812419> Xinjiang legalises 're-education' camps
 -   2018-08 <https://theintercept.com/2018/08/08/google-censorship-china-blacklist/>
 -   2018-08 <https://www.reuters.com/article/us-china-rights-un/u-n-says-it-has-credible-reports-that-china-holds-million-uighurs-in-secret-camps-idUSKBN1KV1SU>
 -   2018-07 <https://www.youtube.com/watch?v=Eak3WRtcdko> Sairagul Sawytbai testifies to the existence of Chinese concentration camps in Xinjiang
