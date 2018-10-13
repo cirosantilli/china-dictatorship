@@ -16,6 +16,8 @@ My posts are still up and it does not appear to be possible for people to see th
 
 This includes liking, commenting, answering, asking or trying to update my profile to say that I have been blocked.
 
+This message also shows on my public page for everyone to see: https://www.zhihu.com/people/cirosantilli/activities but they use some JavaScript scheme complicated enough that archive.is cannot capture it.
+
 I still get notifications however, but I am unable to reply to them, specially given that all Chinese accounts, unlike mine, have no personal identifiable information due to the understandable fear Chinese citizens have of their own government (even though such accounts [might be illegal in theory to my understanding](https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/)).
 
 The only action that I can take now is to report abusive comments people make to me.
