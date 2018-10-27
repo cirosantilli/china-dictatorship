@@ -277,6 +277,30 @@ Finally, it is up to the Stack Overflow community to decide what is right or wro
 
 Much of the best art and technology is about using something in a way that it wasn't meant to be used.
 
+=== Are you making programming contributions with the main intent of promoting your policital agenda?
+
+No, that is just a side effect.
+
+If that were the case, I would definitely target more widely technologies, in particular Web and JavaScript, instead of obscure things like C and assembly in which I have spent tons of my time.
+
+Also, as I've said elsewhere, my actions are very unlikely to have any actions. Much more likely to have any action, would be for me to become rich and powerful first, and the best way to do that is to invest in whatever I think is most useful.
+
+Actually, it can even be argued that I'm somewhat irrational, since I would much more likely become rich and powerful by bowing down to the CCP and trying to get their money instead.
+
+On the other hand, becoming rich and powerful is also highly unlikely, so maybe I'm just taking a low risk low reward path?
+
+I have very little free time, and will never do something for political resaons, only things that interst me technically.
+
+Finally, do you really think I'd be able to make such awesome projects if I had primarily politicial considerations in mind? XD
+
+==== Are you making trivial edits on questions just to spam your name further?
+
+No.
+
+I just think that website is great, and want to push it to perfection, in particular with better Google keyword hits, and uniform gramatically correct titles.
+
+If you think that any of my edits were harmful, please ping me and open a meta thread to discuss specific edits, and I will comply with consensus.
+
 == You are not Chinese, you can't interfere in Chinese politics
 
 . We live in the same world.
@@ -310,58 +334,35 @@ So, instead of saying that, why don't you just actually prove your point by teac
 
 But if you are Chinese, also consider that you have been brainwashed by the commies, and likely more than me since you live in a dictatorship.
 
-==== Have you ever lived in China?
+=== Have you ever lived in China?
 
 No, only visited once.
 
 And I don't think it is a good idea for me to do that now :-)
 
-===== Would you like to live in China?
+==== Would you like to live in China?
 
 If the dictatorship ends, I would like to <<do-you-hate-china,migrate to China>> if given a decent job to help you develop and become awesomer.
 
-==== What is your Chinese level?
+=== What is your Chinese level?
 
-Oral enough to communicate with effort, but not naturally.
+Oral enough for daily things, but not understand a natural casual dinner conversation.
+
+If it matters, with some patience, I can make myself understood though.
+
+I read with link:http://www.perapera.org/[Perapera], write with a mixture of link:https://www.pleco.com/[Pleco], Google translate and Googling to see if Chinese actually say the sentences that way.
+
+I haven't tried to learn characters, too much effort, but I learnt the most common ones without trying.
 
 I really wish I could learn more, but I have other more important endeavours at the moment :-(
 
-== What is the goal of this repository?
-
-. Inform
-. Increase the cost of censorship for Git web interfaces
-
-=== This repository is completely biased against the Chinese Government!
+== This repository is completely biased against the Chinese Government!
 
 I prefer the term focused :-)
 
 That being said, I take the agenda of information sources very seriously.
 
 E.g. I try to clearly classify Communist Party, Falun Gong, and Western government linked sources.
-
-== Are you making programming contributions with the main intent of promoting your policital agenda?
-
-No, that is just a side effect.
-
-If that were the case, I would definitely target more widely technologies, in particular Web and JavaScript, instead of obscure things like C and assembly in which I have spent tons of my time.
-
-Also, as I've said elsewhere, my actions are very unlikely to have any actions. Much more likely to have any action, would be for me to become rich and powerful first, and the best way to do that is to invest in whatever I think is most useful.
-
-Actually, it can even be argued that I'm somewhat irrational, since I would much more likely become rich and powerful by bowing down to the CCP and trying to get their money instead.
-
-On the other hand, becoming rich and powerful is also highly unlikely, so maybe I'm just taking a low risk low reward path?
-
-I have very little free time, and will never do something for political resaons, only things that interst me technically.
-
-Finally, do you really think I'd be able to make such awesome projects if I had primarily politicial considerations in mind? XD
-
-=== Are you making trivial edits on questions just to spam your name further?
-
-No.
-
-I just think that website is great, and want to push it to perfection, in particular with better Google keyword hits, and uniform gramatically correct titles.
-
-If you think that any of my edits were harmful, please ping me and open a meta thread to discuss specific edits, and I will comply with consensus.
 
 == China is fine as it is, stop making it worse
 
