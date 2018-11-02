@@ -812,16 +812,24 @@ Democracy and Communism can also be considered as religions and persecuted.
 
 Isn't it convenient when a dictatorship gets rid of those weirdos for you? But not so much when suddenly you or your family is the weirdo...
 
-=== Many people say they do FLG only to get VISAs to the USA
+If you are not ready to accept the beliefs of others, then maybe dictartoship is better for you after all.
 
-Heard this a few times, but I don't see how this is relevant at all:
-
-* if they are not really FLG believers, this says nothing about the real FLG believers
-* if they are, then why wouldn't they seek a VISA, since they are in constant threat of going to jail?
-
-=== Why do you say that democracy is a religion just like FLG?
+==== Why do you say that democracy is a religion just like FLG?
 
 Because it also specifies irrational and fundamental aspects of how one should live, notably voting and freedom of speech.
+
+=== Many people say they do FLG only to get VISAs to the USA
+
+Heard this a few times, and I believe it has happened.
+
+But I don't see how this is relevant at all to this discussion:
+
+* if they are not really FLG believers, they should be prosecuted, but this says nothing about the real FLG believers,
+* if they are, then why wouldn't they seek a VISA, since they are in constant threat of going to jail or worse in China, and the USA law gives them that right?
+
+Sample news:
+
+* https://www.npr.org/sections/money/2018/09/28/652218318/thousands-could-be-deported-as-government-targets-asylum-mills-clients
 
 === I have personally seen people do bad things because of Falun Gong
 
@@ -833,6 +841,8 @@ But your testimony is worthless unless you give the following:
 
 * clear unique personal identification
 +
+This is because the CCP has thousands of wumaos who could make fake reports.
++
 There are basically two ways to do that:
 +
 .  your testimony is done in video form on YouTube clearly showing your face as you make it
@@ -842,9 +852,17 @@ Either of those must contain / link to information that uniquely identifies you.
 * a precise testimony that states exactly what you saw happen with your own eyes, or heard from people that are very close to you.
 +
 The testimony must include:
++
+--
 ** when the events happened
 ** where they happened, in which city at the very least
 ** the full names of who did what
+--
++
+This is to:
++
+** make it easier to verify the truth of the event
+** uniquely identify the event so we don't count a single event multiple times
 
 If you do provide all of the above, I add your report to a list of reports that I will maintain. This list does not exist yet because there were no valid reports yet.
 
