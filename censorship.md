@@ -21,6 +21,7 @@ Tools:
         - <https://github.com/fxckgfw/shadowsocks-wiki>
     -   <https://github.com/h2y/Shadowrocket-ADBlock-Rules>
 -   <https://github.com/bannedbook/fanqiang> wall climbing tool. TODO working principle.
+-   <https://github.com/Alvin9999/new-pac> repo is yet another website blacklist. But what is really hot seems to be wiki, which contains a bunch of censorship circumvention tutorials with screenshot guides: <https://github.com/Alvin9999/new-pac/wiki>
 
 Monitoring and data:
 
