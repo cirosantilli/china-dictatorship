@@ -1,4 +1,4 @@
-# Funny 好笑儿
+# Funny 好笑
 
 - <https://web.archive.org/web/20170801011641/http://i.telegraph.co.uk/multimedia/archive/02590/TIGGER_2590531b.jpg> Whinnie the Pooh Xi Jinping Obama Tiger
 - <http://media.cagle.com/78/2017/03/08/192621_600.jpg>
