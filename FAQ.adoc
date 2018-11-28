@@ -1005,7 +1005,7 @@ If so, then we should force _all_ newspapers start taking pools of how many empl
 
 Due to their beliefs in the healing power of FLG, which seems to have certain level of support on canonical texts TODO precise quotes.
 
-This is a point that makes me worry, and I do believe that it is true for some believers, but consider:
+This is a point that makes me worry, and I do believe that it is true for some believers, that but consider:
 
 * what matters are statistics. Maybe FLG people live longer than non FLG in average. But we will never have statistics because of censorship: http://skeptics.stackexchange.com/questions/27529/have-many-falun-gong-practitioners-forgone-medical-treatment-and-died-of-treatab
 * maybe people should be link:https://en.wikipedia.org/wiki/Suicide_legislation[allowed to choose how they want to die], not to take medication if they don't want to

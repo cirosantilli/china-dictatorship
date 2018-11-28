@@ -20,6 +20,6 @@ Punitive measures, from least serious to most serious:
 
 Constructive disagreement will never be interfered with.
 
-If you wish to appeal a punitive measure, please contact me through some unblocked method, and your request will be reviewed.
+If you wish to appeal a punitive measure, please contact me through some unblocked method, and your request will be reviewed. "I'm sorry I got mad that time" will get you out of jail for first time offenders.
 
 I will not reply anything non-trivial on Chinese websites, since all of those will be taken down sooner or later, therefore wasting my time. I will just tell you to recontact on a non-Chinese website, or re-post your question with the answer on a Western website.
