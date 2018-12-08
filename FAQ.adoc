@@ -932,13 +932,13 @@ This section also gives me more credibility as a balanced critic >:-)
 [[flg-religion]]
 ==== FLG downplays the fact that it is a religion
 
-If asked if they follow a religion, I think most FLG practitioners will say no. E.g. they call themselves practitioners instead of believers.
+If asked if they follow a religion, I think most FLG practitioners will say no. E.g. they call themselves "practitioners" instead of believers.
 
-But I think that most people in the West would classify FLG as a religion if they are told that it includes:
+But I strongly believe that all most people in the West would classify FLG as a religion if they are told that for FLG:
 
-* absolute truth comes from an enlightened prophet, who is perfect and has super human abilities
-* weekly meetings where they read from a sacred book
-* prescribed daily medication exercise hours, somewhat like Muslim Salah prayers
+* absolute truth comes from an enlightened <<flg-lhz,prophet>>, who is perfect and has super human abilities
+* weekly meetings where they read from a sacred book, either written by the prophet, or transcribed from his presentations to disciples, including the disciples questions, much like traditional Chinese texts like link:https://en.wikipedia.org/wiki/Analects[The Analects of Confucius]
+* prescribed daily meditation exercise hours, somewhat like Muslim Salah prayers
 * higher intelligent beings
 * other dimensions
 * aliens that looks like humans are amongst us, they gave us part of our modern technology
@@ -955,28 +955,42 @@ On the other hand, how many of your friends have experienced the laws of quantum
 
 And aren't pro-democracy believers also taking actions based solely on a shared belief, possibly organized by a pro-democracy leader?
 
-From a purely political point of view, the Religion classification would likely be more beneficial to FLG, since it the idea of freedom of religion carries considerable weight in the West.
+From a purely strategic point of view, the "religion" denomination would be:
+
+* good to FLG because the concept of freedom of religion carries considerable weight in the West
+* bad for FLG because people who already have a religion would be less likely to try it out and start believing
 
 [[flg-organized]]
 ==== FLG downplays the fact that it is highly organized
 
-Many FLG practitioners claim that they are not at all organized.
+Many FLG practitioners claim that they are not at all organized, or that they have no political interest, and I truly believe that they mean it.
 
-But it is obvious from the size of the FLG related media, namely link:https://en.wikipedia.org/wiki/NDTV[NDTV television network], link:https://en.wikipedia.org/wiki/Epoch_Times[Epoch Times newspaper] and link:https://en.wikipedia.org/wiki/Shen_Yun_Performing_Arts[Shen Yun Performing Arts], that in practice they do have are a highly organized structure.
+But it is obvious from the size of the FLG related media, namely:
 
-In particular, it is clear that <<flg-lhz,LHZ>> has direct ties with the FLG media organizations, e.g.:
+* link:https://en.wikipedia.org/wiki/NDTV[NDTV television network]
+* link:https://en.wikipedia.org/wiki/Epoch_Times[Epoch Times newspaper]
+* link:https://en.wikipedia.org/wiki/Shen_Yun_Performing_Arts[Shen Yun Performing Arts]
+
+that in practice they do have are a highly organized hierarchical structure, and very likely with <<flg-lhz,LHZ>> at the very top, e.g.:
 
 * Shen Yun's 2018 libretto says that their Artistic Director and founder is "D.F." (likely an abbreviation for Da Fa, which is an abbreviation for Falun Gong Dafa, which is a full name of Falun Gong), with a picture of LHZ on top. It also amusingly says that D.F. is a "Distinguished Professor of Music and Dance at Fei Tian College in New York", which is likely where many of Shen Yun's dancers are trained, and therefore controlled by himself to a large extent
 
-Like any other religion.
+Furthermore, Falun Gong practitioners have directly lobbied for foreign governments to take action against human rights abuses in China, e.g.:
 
-Once again, I feel that this lack of transparency hurts their cause more than it helps.
+* http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+MOTION+P7-RC-2013-0562+0+DOC+XML+V0//EN
+* https://www.eff.org/press/releases/eff-court-cisco-must-be-held-accountable-aiding-chinas-human-rights-abuses
 
-But then, what law are they breaking? Should we do something to punish them for it?
+Like any other religion, they have all the right to take those actions, and it is definitely in their best interest, and perhaps in the best interest of the whole world, that they do so.
 
-What if every practitioner feels in their hearts that they are actually free to do whatever they want without being coerced, and that they are simply doing what they believe is the right thing?
+The only thing that annoys me is their lack of self perception on this matter: the large majority of Western people would definitely classify them as an organized political force after having observed their activities. When they say otherwise, they are hurting their own credibility.
 
-What about the people who participate in political movements such as pro-democracy? Aren't their political actions such as protests motivated in a very similar fashion?
+===== FLG media is not transparent about its affiliation
+
+Agreed, and it is a point that hurts more than helps their cause.
+
+But the media is not legally obliged to state their affiliation.
+
+And if that were the case, then we should force _all_ newspapers start taking pools of how many employees follow which religion and support which political party, and then put that in their print.
 
 ==== FLG dislikes several other groups like homosexuals and some other religions
 
@@ -991,14 +1005,6 @@ What matters is that we treat everyone with respect and without bias at work, ev
 But the law can't force you to like everyone.
 
 If one specific FLG member breaks a law by discriminating someone, they should be punished just like anyone else.
-
-==== FLG media is not transparent about its affiliation
-
-Agreed, and it is a point that hurts more than helps their cause: e.g. New Tang Dynasty TV, Epoch Times and Shen Yun Dance group.
-
-But are all media forced to state their affiliation?
-
-If so, then we should force _all_ newspapers start taking pools of how many employees follow which religion, and put that in their print.
 
 [[flg-medication]]
 ==== FLG believers are less likely to take necessary medication
@@ -1040,7 +1046,7 @@ Similarly, any charismatic leader of a pro democracy movement could become the l
 
 If you ever want democracy, you will have to learn to accept the beliefs of others, and only punish them when they actually break a law.
 
-Finally, LHZ was born in 1951, so will die in 20 unless FLG is true and a miracle happens, and then this argument will become invalid.
+Finally, LHZ was born in 1951, so will die in 20 years, unless FLG is true and a miracle happens, and then this argument will become invalid.
 
 From what I hear, LHZ has always maintained that he is the only source of truth on FLG, and therefore, so his death will very likely remove any danger once and for all.
 
