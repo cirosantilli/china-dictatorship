@@ -1,5 +1,6 @@
 # News 新闻
 
+-   2018-12 <https://www.youtube.com/watch?time_continue=8&v=dsd1NkCKaNg> In full: 'I begged them to kill me' - ex-Xinjiang detainee Mihrigul Tursun gives testimony in the US
 -   2018-11 <https://www.bbc.co.uk/news/world-asia-45812419> Xinjiang legalises 're-education' camps
 -   2018-08 <https://theintercept.com/2018/08/08/google-censorship-china-blacklist/>
 -   2018-08 <https://www.reuters.com/article/us-china-rights-un/u-n-says-it-has-credible-reports-that-china-holds-million-uighurs-in-secret-camps-idUSKBN1KV1SU>
