@@ -11,6 +11,7 @@
 
 toc::[]
 
+[[why-keyword-attack]]
 == Why are you attacking websites with censored keywords?
 
 <<keyword-attack, The attack>>.
@@ -277,7 +278,7 @@ Finally, it is up to the Stack Overflow community to decide what is right or wro
 
 Much of the best art and technology is about using something in a way that it wasn't meant to be used.
 
-=== Are you making programming contributions with the main intent of promoting your policital agenda?
+=== Are you making programming contributions with the main intent of promoting your political agenda?
 
 No, that is just a side effect.
 
@@ -289,9 +290,9 @@ Actually, it can even be argued that I'm somewhat irrational, since I would much
 
 On the other hand, becoming rich and powerful is also highly unlikely, so maybe I'm just taking a low risk low reward path?
 
-I have very little free time, and will never do something for political resaons, only things that interst me technically.
+I have very little free time, and will never do something for political reasons, only things that interest me technically.
 
-Finally, do you really think I'd be able to make such awesome projects if I had primarily politicial considerations in mind? XD
+Finally, do you really think I'd be able to make such awesome projects if I had primarily political considerations in mind? XD
 
 ==== Are you making trivial edits on questions just to spam your name further?
 
@@ -334,6 +335,23 @@ So, instead of saying that, why don't you just actually prove your point by teac
 
 But if you are Chinese, also consider that you have been brainwashed by the commies, and likely more than me since you live in a dictatorship.
 
+[[preconceived]]
+==== You have a preconceived opinion about China that cannot be changed
+
+I try to justify here why I think China would be better with democracy, but I know that ultimately all of this is useless.
+
+Our opinions are all determined genetically and by bring-up, and there is nothing I can do to change yours, or you change mine.
+
+From that point of view, all of this is just a cold blooded political game, in which I try to force the CCP to take down the Firewall: <<why-keyword-attack>>.
+
+Unfortunately I'm still still human and do get annoyed or sad sometimes, but never mad, even if your opinion is contrary to mine, and therefore wrong :-)
+
+I also have doubts about certain things I do as expressed throughout this FAQ.
+
+Also, I have never said that that anyone else is wrong.
+
+In the end, I just end up thinking about new replies to things people say to me, and add them to this FAQ so that future replies will be faster to copy paste.
+
 === Have you ever lived in China?
 
 No, only visited once.
@@ -366,11 +384,9 @@ E.g. I try to clearly classify Communist Party, Falun Gong, and Western governme
 
 == China is fine as it is, stop making it worse
 
-Welcome to the wonderful world of democracy, a world where people can have different political opinions than you! :-)
+Welcome to the wonderful world of democracy, a world where people can have different political opinions than you :-)
 
-I try to justify here why I think China would be better with democracy, but I know that ultimately all of this is useless, our opinions are all determined genetically and by bringup, and there is nothing I can do to change yours, or you change mine.
-
-Part of my philosophy however is to accept your opinion without becoming mad, even if it is contrary to mine, and therefore wrong.
+See also: <<preconceived>>
 
 == Irrelevant personal questions
 
@@ -432,13 +448,9 @@ Eu fico feliz apenas que ela não sofreu abuso físico. Eu acho fascinante como 
 
 === Are you a radical?
 
-Radical: I don't consider myself a radical because I actually have doubts about doing this sometimes.
+I don't consider myself a radical because of: <<preconceived>>
 
 I never get mad. Only a slightly sad or annoyed sometimes.
-
-But I do admit that I am hard headed like almost all humans, and it is very unlikely that anything anyone says will change my mind about subjective political matters.
-
-In the end I just end up thinking about new replies to those arguments and adding them to this FAQ.
 
 But maybe no radical ever considers himself radical? Hmmm...
 
@@ -466,14 +478,14 @@ SJW: there is a seed of SJW in me.
 
 One major difference between me and the stereotypical SJW is that I never engage in lengthy discussions.
 
-I believe that you cannot change people's mind's, and that learning tech is more worthy of my time.
-
 I limit myself to listening as much as I can to learn new arguments.
 
 So the rationale of my actions is _not_ to convince anyone, but rather:
 
 * increase the monetary cost of censorship by binding politics to tech
 * group up like minded people who don't like censorship
+
+See also: <<preconceived>>
 
 === Do you hate China?
 
