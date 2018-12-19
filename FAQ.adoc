@@ -267,6 +267,8 @@ Any act of protest will use things in ways that it was not meant to be used.
 
 For example, the street is not meant to showcase protest banners, it is meant to be a passageway for cars.
 
+As engineers, we have a moral responsability towards society. We should not blindly follow orders of those in power if it violates our principles, e.g. build weapons or censorship mechanisms. And we should freely express our principles and violation concerns.
+
 Making a statement where no one will ever see it, like a personal website, is <<effective,sure to have no effect>>.
 
 Finally, it is up to the Stack Overflow community to decide what is right or wrong, and so far the consensus is go ahead:
@@ -685,6 +687,11 @@ Freedom of speech however, is immediately verifiable (e.g. "my Weibo was taken d
 ** http://stackoverflow.com/users/1009479/yu-hao
 ** http://archive.is/76FCb
 ** "GFW (Great Firewall of China) is one of the most notorious inventions in the history of Internet. Anyone working for it should be ashamed."
+** Scott 混合理论
++
+https://stackoverflow.com/users/1230329/scott-%E6%B7%B7%E5%90%88%E7%90%86%E8%AE%BA
++
+Same message as Yu Hao, I wonder if it is an external thing or direct copy of Yu, but no Google hits besides them.
 * Terry Wang
 ** http://stackoverflow.com/users/1801697/terry-wang
 ** http://archive.is/V0aSK
