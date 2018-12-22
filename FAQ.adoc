@@ -945,21 +945,24 @@ The only question that matters is: should it be banned or not?
 
 === Do you believe in the allegations of organ harvesting made by Falun Gong believers?
 
-In short: I believe that it has happened.
+In short: I believe that it has happened to many people.
 
 Long version:
 
 It is obviously very hard to prove and quantify it definitely, much like it was hard to prove the Holocaust: bodies were cremated, and bribes were paid.
 
-Even if we had a video showing the whole process, showing the whole money flow from donor to prison guard, it would still be hard to quantify it.
+Even if we had a video showing the whole process, showing the whole money flow from donor to prison guard, it would still be hard to quantify it, so I do have some room for doubt in this opinion.
 
 But consider the following, which is based on what I heard.
 
-In China, either for religious beliefs, or pure lack of compassion, voluntary organ donation is not a common thing.
+Even Chinese officials have admitted that in the past, if the body of the executed person is not claimed by family, then the organs can be extracted even without the consent of the prisoner:
 
-Then, there is a law or de-facto law that says that if the body of the person executed is not claimed by family, then the organs can be extracted even without the consent of the prisoner.
+* https://www.theguardian.com/world/2017/feb/07/china-still-using-executed-prisoners-organs-transplants-vatican
+* https://www.washingtonpost.com/world/asia_pacific/in-the-face-of-criticism-china-has-been-cleaning-up-its-organ-transplant-industry/2017/09/14/d689444e-e1a2-11e6-a419-eefe8eff0835_story.html
 
-From this, even though China does not publish execution statistics, we can imagine that a large part of the organs comes from prisoners sentenced to death.
+Perhaps now that they claim that there is a large voluntary organ donor database, then this has stopped or been reduced, but let's focus on that period when the extractions were widely done.
+
+From this, even though China does not publish execution statistics, we can imagine that a large part of the organs come from prisoners sentenced to death.
 
 Then, consider that a 70 MILLION person religion was banned, leading to a HUGE influx of prisoners from that religion.
 
@@ -967,7 +970,7 @@ FLG followers are just de-facto criminals like any other, and so extracting thei
 
 Also, people from that religion don't drink alcohol, smoke or take drugs, and their organs are of good quality.
 
-Furthermore, FLG prisonners continue to not bow down to the government even in prison, e.g. by doing their <<flg-relition,Falun Gong meditation>>, which makes them clearly identifiable and dangerous to the system.
+Furthermore, FLG prisoners continue to not bow down to the government even in prison, e.g. by doing their <<flg-relition,Falun Gong meditation>>, which makes them clearly identifiable and dangerous to the system.
 
 Finally, add to that mix the huge level of corruption found in dictatorships.
 

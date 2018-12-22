@@ -33,6 +33,7 @@ Which is the same as not controlled by it :-)
 - <http://chuangcn.org/>
 - <http://64tianwang.com/> <https://en.wikipedia.org/wiki/Huang_Qi> <https://www.hongkongfp.com/2018/02/16/chinas-multi-pronged-crackdown-dissent-took-aim-citizen-journalists-rights-defence-websites/>
 - <http://www.chinafile.com/> Some good articles. "ChinaFile is an online magazine published by the Center on U.S.-China Relations at Asia Society", based in New York.
+- <https://bitterwinter.org/>
 
 ### Linked to Falun Gong 联系到法轮功
 
