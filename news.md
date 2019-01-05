@@ -1,5 +1,6 @@
 # News 新闻
 
+-   2019-01 <https://www.nytimes.com/2019/01/02/business/china-internet-censor.html> interview with Beyondsoft, a company that offers censoring services
 -   2018-12 <https://www.youtube.com/watch?v=zzWApdCNdik> 100 Christians detained in China crackdown
 -   2018-12 <https://www.youtube.com/watch?time_continue=8&v=dsd1NkCKaNg> In full: 'I begged them to kill me' - ex-Xinjiang detainee Mihrigul Tursun gives testimony in the US
 -   2018-11 <https://www.bbc.co.uk/news/world-asia-45812419> Xinjiang legalises 're-education' camps
