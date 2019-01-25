@@ -1,0 +1,157 @@
+= News 新闻
+:idprefix:
+:idseparator: -
+:sectanchors:
+:sectlinks:
+:sectnumlevels: 6
+:sectnums:
+:toc: macro
+:toclevels: 6
+:toc-title:
+
+toc::[]
+
+* 2019-01 https://www.apnews.com/40f7cf4c0c6e43f18121af93f1e418f7 Microsoft Bing https://www.bing.com/ search engine blocked in China
+* 2019-01 https://www.nytimes.com/2019/01/02/business/china-internet-censor.html interview with Beyondsoft, a company that offers censoring services
+* 2018-12 https://www.youtube.com/watch?v=zzWApdCNdik 100 Christians detained in China crackdown
+* 2018-12 https://www.youtube.com/watch?time_continue=8&v=dsd1NkCKaNg In full: 'I begged them to kill me' - ex-Xinjiang detainee Mihrigul Tursun gives testimony in the US
+* 2018-11 https://www.bbc.co.uk/news/world-asia-45812419 Xinjiang legalises 're-education' camps
+* 2018-08 https://theintercept.com/2018/08/08/google-censorship-china-blacklist/
+* 2018-08 https://www.reuters.com/article/us-china-rights-un/u-n-says-it-has-credible-reports-that-china-holds-million-uighurs-in-secret-camps-idUSKBN1KV1SU
+* 2018-07 https://www.youtube.com/watch?v=Eak3WRtcdko Sairagul Sawytbai testifies to the existence of Chinese concentration camps in Xinjiang
+* 2018-06 https://arstechnica.com/tech-policy/2018/06/china-bans-online-mention-of-john-oliver-after-he-mocks-chinas-president/ https://www.dailymotion.com/video/x6m5b3o
+* 2018-05 https://www.whatsonweibo.com/public-shaming-of-drug-users-in-guangdong-drug-related-crimes-in-family-painted-on-houses/
+* 2018-04 https://uk.reuters.com/article/uk-china-lawmaking/china-makes-defaming-revolutionary-heroes-punishable-by-law-idUKKBN1HY16C
+* 2018-04 https://chinadigitaltimes.net/2018/04/translation-open-letter-on-peking-university-metoo-case/ https://github.com/sikaozhe1997/Xin-Yue
+* 2018-04 https://www.whatsonweibo.com/weibos-new-online-guidelines-no-homosexuality-allowed/
+* 2018-04 https://www.washingtonpost.com/world/asia_pacific/congressional-leaders-urge-us-to-press-china-over-reports-of-mass-uighur-detentions/2018/04/05/9bd17c90-38b3-11e8-b57c-9445cc4dfa5e_story.html
+* 2018-03 https://supchina.com/2018/03/29/no-tattoos-at-the-2018-strawberry-music-festival-in-hangzhou/ Funny pics at: http://app.myzaker.com/news/article.php?f=xiongzhang&pk=5ac0eb1877ac6465da676481
+* 2018-03 Xi prepares for life rule 包子露宪
+** https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution
+* 2018-02 https://www.nytimes.com/2018/02/25/world/asia/china-xi-jinping.html
+* 2018-02 https://www.theguardian.com/world/2018/jan/25/at-least-120000-muslim-uighurs-held-in-chinese-re-education-camps-report
+* 2018-01 https://www.theguardian.com/world/2018/jan/19/outspoken-chinese-human-rights-lawyer-yu-wensheng-arrested
+* 2018-01 https://www.reuters.com/article/us-hongkong-politics/hong-kong-activist-banned-from-by-election-in-what-pro-democracy-party-calls-payback-idUSKBN1FG06P
+* 2018-01 https://www.nytimes.com/2018/01/12/world/asia/china-church-dynamite.html
+* 2018-01 http://uk.businessinsider.com/china-marriott-tweets-censorship-2018-1?r=US&IR=T Marriott lists Taiwan as country in the website
+* 2018-01 http://chuangcn.org/2018/01/the-mastermind/
+* 2018-01 http://time.com/5112061/china-hip-hop-ban-tattoos-television/
+* 2017-12 https://www.nytimes.com/2017/12/25/world/asia/china-wu-gan-sentence.html
+* 2017-11 低端人口 Low-end population
+** https://qz.com/1138395/low-end-population-what-you-need-to-know-about-chinas-crackdown-on-migrant-workers/
+* 2017-11 https://www.reddit.com/r/China/comments/7a7hf9/the_worlds_largest_academic_publisher_blocks/ Springer nature pulls sensitive articles. TODO article list.
+* 2017-09 https://www.nytimes.com/2017/09/25/business/china-whatsapp-blocked.html
+* 2017-08 http://www.independent.co.uk/news/world/asia/china-muslim-minority-school-language-ban-han-xinjiang-uyghur-hotan-hetian-government-communist-a7873446.html
+* 2017-07 https://qz.com/1056938/cambridge-university-press-china-quarterly-complies-with-censorship-removes-300-articles-on-topics-like-tiananmen-and-tibet-in-china/ Book list: https://www.cambridge.org/core/services/aop-file-manager/file/59970028145fd05f66868bf5?utm_content=bufferb652b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer archive: http://web.archive.org/web/20170905214500/https://www.cambridge.org/core/services/aop-file-manager/file/59970028145fd05f66868bf5?utm_content=bufferb652b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+* 2017-07 https://techcrunch.com/2017/07/29/apple-removes-vpn-apps-from-the-app-store-in-china/
+* 2017-07 http://shanghaiist.com/2017/07/26/liu-xia-home-visit.php
+* 2017-06 http://www.rfa.org/english/news/uyghur/ordered-05092017155554.html Uyghurs studying abroad ordered to return to China
+* 2017-06 http://www.whatsonweibo.com/new-rules-online-videos-china-no-displays-homosexuality/
+* 2017-06 http://mashable.com/2017/06/23/china-bans-livestreaming/#FJ4h.sLYQqq9
+* 2017-05 https://qz.com/989454/a-chinese-students-commencement-speech-at-the-university-of-maryland-praising-fresh-air-and-democracy-is-riling-chinas-internet/
+* 2017-05 http://www.sixthtone.com/news/1000233/at-wedding-market%2C-mothers-of-gays-and-lesbians-face-resistance
+* 2017-05 https://ktar.com/story/1564381/ap-exclusive-china-lawyers-family-says-us-helped-them-flee
+* 2017-04 https://chinachange.org/2017/05/03/breaking-lawyer-chen-jiangang-with-family-and-two-friends-seized-by-armed-police-in-yunnan/
+* 2017-03 http://www.bbc.co.uk/news/world-asia-china-39137293 BBC Team forced to sign confession
+* 2016-11 http://www.bbc.co.uk/news/video_and_audio/headlines/38005603 Election china style, BBC interview with Chinese candidate, while thugs block him physically from nocking the door: Funny / scary stuff. https://www.reddit.com/r/China/comments/5dfigb/this_is_democracy_chinesestyle/
+* 2016-11 https://www.reddit.com/r/China/comments/5ai1s6/chinese_citizen_arrested_after_wearing_xitler/ https://wqw2010.blogspot.co.uk/2016/10/101.html Possible Twitter: https://twitter.com/kwonpyong
+* 2016-09: http://qz.com/783026/china-censorship-chinese-citizens-are-being-arrested-for-sharing-news-about-the-wukan-village-rebellion-online/ http://qz.com/781989/foreign-journalists-are-wanted-for-3000-by-chinese-authorities-for-inciting-unrest-in-a-village/ https://en.wikipedia.org/wiki/Wukan_protests
+* 2016-06 https://www.theguardian.com/music/2016/jun/28/china-lady-gaga-ban-list-hostile-foreign-forces-meeting-dalai-lama
+* 2016-06 https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md first GitHub takedown
+* 2016 http://www.nytimes.com/2016/05/12/world/asia/china-britain-queen-xi-jinping.html?_r=0 queen says Chinese were rude in state visit
+* 2016 http://shanghaiist.com/2016/05/06/dont_eat_that_banana.php Sexy banana eating forbidden
+* 201X http://qz.com/671211/chinas-propaganda-outlets-have-leaped-the-top-of-facebook-even-though-it-banned-at-home/ Chinese government uses forbidden media in China like Facebook and Twitter, possibly click farmed
+* 2016-04 http://blogs.reuters.com/great-debate/2016/01/26/china-threatens-sanctions-against-u-s-companies-is-this-the-future/ China economic sanctions companies that sell weapons to Taiwan (some of those companies also sell civilian products to China)
+* 2016-04 http://www.hollywoodreporter.com/news/china-demands-shutdown-disneylife-service-887599 Disney Life blocked
+* 2016-04 http://www.hollywoodreporter.com/news/china-demands-shutdown-apples-film-886831 Apple iTunes and iBooks blocked
+* 2016 http://www.bbc.com/news/blogs-news-from-elsewhere-35968855 China’s 'Great Firewall' blocks its creator
+* 2016 Panama papers 巴拿马文件
+** https://en.wikipedia.org/wiki/Panama_Papers
+** https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%96%87%E4%BB%B6
+** mention Deng Jiagui 邓家贵 https://en.wikipedia.org/wiki/Deng_Jiagui , who is Xi Jinping’s brother-in-law
+* 2016 http://www.theguardian.com/tv-and-radio/2016/mar/04/china-bans-gay-people-television-clampdown-xi-jinping-censorship gay depiction banned on television
+* 2016 http://www.nytimes.com/2016/02/27/world/asia/china-zhejiang-christians-pastor-crosses.html pastor 14 years jail
+* 2016 http://www.bbc.com/news/blogs-trending-35496562 Armani Communist - http://www.ibtimes.com/xi-jinping-wants-overhaul-image-chinas-rich-kids-1961207 - first section of https://www.youtube.com/watch?v=ZKQ5ijFZ_j8
+* 2016 http://freebeacon.com/national-security/chinese-defector-reveals-beijings-secrets/ Ling Wancheng defects
+* 2016 http://chinachange.org/2016/01/21/activist-in-xinjiang-sentenced-to-19-years-for-online-writings-and-rights-activities/ Zhang Haitao (张海涛) faces 19 years in jail for his blog posts
+* 2016 http://money.cnn.com/2016/01/20/technology/facebook-android-tor/ Facebook Android app implements Tor option
+* 2016 https://www.reddit.com/r/China/comments/41y6ig/hong_kong_movie_predicts_dark_future_for_city/ Honk Kong (2016) movie
+* 2015-11 http://technode.com/2015/11/24/surge-advanced-proxy-tool-ios-pulled-app-store/
+* 2015 https://news.vice.com/article/the-missing-hong-kong-booksellers-family-isnt-buying-his-televised-confession Gui Minhai, 51, from publisher Mighty Current who was going to publish a book about Xi Jinping’s love life.
+* 2015 https://www.washingtonpost.com/world/asia_pacific/christians-in-china-feel-full-force-of-authorities-repression/2015/12/23/7dd0ec5a-a736-11e5-b596-113f59ee069a_story.html
+* 2015 Taiwan #1
+** https://www.reddit.com/r/OutOfTheLoop/comments/3tz3jq/what_is_the_point_of_the_taiwan_1_thing/
+** https://www.youtube.com/watch?v=vTqZ9xrxhHk
+* 2015 Taiwanese beauty queen kicked out of Miss Earth pageant for refusing to change `Taiwan ROC' sash to `Chinese Taipei' http://shanghaiist.com/2015/11/23/miss-earth-ting-wen-yin.php
+* 2015 https://www.eff.org/deeplinks/2015/08/speech-enables-speech-china-takes-aim-its-coders https://github.com/shadowsocks/shadowsocks shadowsocks creator threatened
+* 2015 http://www.bbc.com/news/entertainment-arts-34630829 Lego refuses to sell to Ai Weiwei
+* 2015 http://www.nytimes.com/2015/10/13/world/asia/china-bao-zhuoxuan-son-wang-yu-rights-lawyer-house-arrest.html Bao Zhuoxuan 16-year old son of human rights layer in house arrest
+* 2015 Human rights activists crackdown 200+ in jail
+** http://www.nytimes.com/2015/07/23/world/asia/china-crackdown-human-rights-lawyers.html
+** http://edition.cnn.com/2015/07/13/china/china-activists-arrests/
+** http://time.com/3954935/china-arrests-lawyers-human-rights/
+** https://program-think.blogspot.com/2015/07/weekly-share-90.html
+** https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B710%E3%80%8C%E7%B6%AD%E6%AC%8A%E5%BE%8B%E5%B8%AB%E3%80%8D%E5%A4%A7%E6%8A%93%E6%8D%95%E4%BA%8B%E4%BB%B6
+** #710律师劫
+** https://program-think.blogspot.com/2015/07/weekly-share-90.html
+* 2015-03 China forces real usernames on the net, and provoking ones
+** https://advox.globalvoices.org/2015/04/16/new-internet-rules-in-china-target-usernames-avatars-as-subversive-tools/
+** http://www.engadget.com/2015/02/28/china-username-policy-purge/
+* 2014 https://www.reddit.com/r/China/comments/4hmhzt/xinjiang_massacre_2014_resulted_in_30005000_deaths/ something very serious happened in Xinjiang.
+* 2014 https://youtu.be/Gq1B3Hgclyo?t=261 http://www.theguardian.com/world/2014/nov/28/china-media-watchdog-bans-wordplay-puns pun control
+* 2013 https://www.ft.com/content/db8b9e36-1119-11e8-940e-08320fc2a277 Peter Humphrey
+* 2012 https://en.wikipedia.org/wiki/Nuctech. One of the most blocked on Wikipedia according to: [complete-gfw-rulebook-for-wikipedia-v3.0.pdf][] Nutech Namiba Hu Haifeng corruption scandal 纳米比亚威视胡海峰腐败丑闻
+* 2011 https://en.wikipedia.org/wiki/2011_Chinese_pro-democracy_protests https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD Chinese pro-democracy protests
+* 2010 http://news.bbc.co.uk/2/hi/asia-pacific/8682145.stm 10 month Xinjiang internet blackout
+* 2009 https://en.wikipedia.org/wiki/Tan_Zuoren#2009_court_case Ai Weiwei documentary about it: https://aiweiwei.com/documentaries/disturbing-the-peace/index.html
+* 2008 https://en.wikipedia.org/wiki/Tofu-dreg_project 豆腐渣工程 https://en.wikipedia.org/wiki/China%27s_Unnatural_Disaster:_The_Tears_of_Sichuan_Province
+* 2008 https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response https://zh.wikipedia.org/wiki/2011%E5%B9%B4%E7%94%AC%E5%8F%B0%E6%B8%A9%E9%93%81%E8%B7%AF%E5%88%97%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85 Wenzhou train collision 2011年甬台温铁路列车追尾事故:
+* 2008 https://en.wikipedia.org/wiki/2008_Tibetan_unrest https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E8%A5%BF%E8%97%8F%E9%AA%9A%E4%B9%B1 Tibetan unrest 西藏骚乱
+* 2005 https://en.wikipedia.org/wiki/Dongzhou_protests https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%B4%B2%E4%BA%8B%E4%BB%B6 Dongzhou protests
+* 1999 http://www.lionsroar.com/apple-thinks-different-about-the-dalai-lama-in-china-2/ Apple censors Dalai Lama for China
+* 1989 https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989 https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6 Tiananmen Square protests 六四事件:
+** https://en.wikipedia.org/wiki/Goddess_of_Democracy https://zh.wikipedia.org/wiki/中国国际广播电台
+** AP footage is pretty good, just do a search on the archive:
+*** http://www.aparchive.com/metadata/China-Student-Demonstrations/5d1cd01250c9e5e9397f20ef9f1327df
+*** http://www.aparchive.com/metadata/China-Student-Demonstrations/cfc6890746010c73f9414e20906268aa
+** Zhang Shijun is the most notable soldier who spoke up it seems:
+*** https://chinadigitaltimes.net/2009/03/china-detains-writer-of-critical-web-letter-to-hu/
+*** https://www.rfa.org/english/news/china/flashbacks-06042018133558.html
+*** https://www.theguardian.com/world/2009/mar/20/tiananmen-square-china-zhang-shijun
+* https://en.wikipedia.org/wiki/1986_Chinese_student_demonstrations https://zh.wikipedia.org/wiki/%E5%85%AB%E5%85%AD%E5%AD%A6%E6%BD%AE 八六学潮
+* 1987–1989 https://en.wikipedia.org/wiki/1987%E2%80%9389_Tibetan_unrest https://zh.wikipedia.org/wiki/1989%E5%B9%B4%E6%8B%89%E8%90%A8%E9%AA%9A%E4%B9%B1. Videos: https://www.youtube.com/watch?v=0jylh1qfOG4, https://www.youtube.com/watch?v=qMZgoRuPJBg Tibetan unrest 年拉萨骚乱
+* 1978, 1997 https://en.wikipedia.org/wiki/Beijing_Spring https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5 https://en.wikipedia.org/wiki/Democracy_Wall https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99
+
+[[xinjiang]]
+== Xinjiang 新疆
+
+In 2017 - 2018, details of internment camps are emerging.
+
+It is still hard to get hard evidence, much like every other mass human rights violation, here go the best ones:
+
+* 2018-05 generic report https://jamestown.org/program/evidence-for-chinas-political-re-education-campaign-in-xinjiang/
+* 2018-05 mapping interment camps with satelite imaging:
+** https://www.albawaba.com/news/mapping-china%E2%80%99s-internment-camps-its-ethnic-minorities-1136100
+** https://medium.com/@shawnwzhang/list-of-re-education-camps-in-xinjiang-%E6%96%B0%E7%96%86%E5%86%8D%E6%95%99%E8%82%B2%E9%9B%86%E4%B8%AD%E8%90%A5%E5%88%97%E8%A1%A8-99720372419c List of Re-education Camps in Xinjiang 新疆再教育集中营列表 Shawn Zhang https://www.reddit.com/r/China/comments/8mbhad/satellite_imagery_of_xinjiang_reeducation_camps/
+* 2018-05 Omir Bekali’s account of Xinjiang education camps:
+** https://apnews.com/6e151296fb194f85ba69a8babd972e4b
+** https://www.washingtonpost.com/world/asia_pacific/former-inmates-of-chinas-muslim-re-education-camps-tell-of-brainwashing-torture/2018/05/16/32b330e8-5850-11e8-8b92-45fdd7aaef3c_story.html?utm_term=.df8ea170b18f
+** http://uk.businessinsider.com/what-is-life-like-in-xinjiang-reeducation-camps-china-2018-5
+
+[[russia]]
+== Russia Росси́я
+
+While I’m at it:
+
+* 2018-04 http://www.bbc.co.uk/news/technology-43752337 Russia to block Telegram app over encryption
+* 2017 http://www.bbc.co.uk/news/world-europe-40635267 Russia Jehovah's Witnesses banned after they lose appeal
+* 2016 https://news.vice.com/en_us/article/kzgkv3/russians-now-need-a-passport-to-watch-pornhub
+* http://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay
+* 1995 https://en.wikipedia.org/wiki/Vladislav_Listyev
+
+I've always been curious to how Russia can be both oppressive and a democracy, unlike China which doesn’t even try to pretend. This is what I gather:
+
+* the government controls all major media. If any media says bad things against them, the government finds pretexts to create lawsuits or increase taxes against such companies. Therefore all people end up thinking that the government is good.
+* just like China, they emphasise the threat of the foreign countries, especially the US, as a justification for having an oppressive power.
+* the government puts pressure on any significant opposition candidate. One technique is to find some reason to put them in jail for 2 months, which by Russian law forbids them from participating in further elections. Only candidates that don’t really stand a chance are left as a fake opposition.
+* small time social media is fine, but if you reach some prominence, you start taking the same risks as politicians, although you are more likely to face more brutal illegal gangster violence threats as you are less visible

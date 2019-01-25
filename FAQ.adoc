@@ -92,7 +92,7 @@ That is great when they make good decisions, but it sucks when they make <<war,b
 I really like Posners' way of putting it:
 
 ____
-While average rate of growth do not appear to differ much between democracies and authoritarian regimes, the variability in performance does differ more among authoritarian governments. China has had remarkable growth since the 1980s, but the prolonged devastation and hardship produced by China’s “great leap forward” (when millions of farmers starved to death) and its Cultural Revolution would unlikely have occurred in a democratic country like say India. Nor is it likely that say Cuba and many African nations would have suffered so long with such terrible economic policies if they had reasonably democratic institutions.
+While average rate of growth do not appear to differ much between democracies and authoritarian regimes, the variability in performance does differ more among authoritarian governments. China has had remarkable growth since the 1980s, but the prolonged devastation and hardship produced by China's “great leap forward” (when millions of farmers starved to death) and its Cultural Revolution would unlikely have occurred in a democratic country like say India. Nor is it likely that say Cuba and many African nations would have suffered so long with such terrible economic policies if they had reasonably democratic institutions.
 ____
 
 Maybe China was poor because of Mao's crazy communist regime. Similar regimes also made Russia poor. And yes, before that exploitation by the West may have been a factor.
@@ -778,6 +778,24 @@ Some interesting links:
 * link:https://en.wikipedia.org/wiki/One-China_policy[] every country has private relations with Taiwan through some trade organizations, they just don't call them embassies
 * link:http://travel.stackexchange.com/questions/62447/how-can-a-citizen-of-mainland-china-visit-taiwan/62466#comment178495_62466[] hi, I want a *not VISA* to Taiwan. Thanks.
 
+[[russia]]
+== What do you think about Russia?
+
+I've always been curious to how Russia can be both oppressive and a democracy, unlike China which doesn't even try to pretend. This is what I gather:
+
+* the government controls all major media. If any media says bad things against them, the government finds pretexts to create lawsuits or increase taxes against such companies. Therefore all people end up thinking that the government is good.
+* just like China, they emphasise the threat of the foreign countries, especially the US, as a justification for having an oppressive power.
+* the government puts pressure on any significant opposition candidate. One technique is to find some reason to put them in jail for 2 months, which by Russian law forbids them from participating in further elections. Only candidates that don't really stand a chance are left as a fake opposition.
+* small time social media is fine, but if you reach some prominence, you start taking the same risks as politicians, although you are more likely to face more brutal illegal gangster violence threats as you are less visible
+
+While I'm at it, some interesting news:
+
+* 2018-04 http://www.bbc.co.uk/news/technology-43752337 Russia to block Telegram app over encryption
+* 2017 http://www.bbc.co.uk/news/world-europe-40635267 Russia Jehovah's Witnesses banned after they lose appeal
+* 2016 https://news.vice.com/en_us/article/kzgkv3/russians-now-need-a-passport-to-watch-pornhub
+* http://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay
+* 1995 https://en.wikipedia.org/wiki/Vladislav_Listyev
+
 == Falun Gong
 
 === Do you support FLG, or just use it because it is a censored?
@@ -1062,6 +1080,22 @@ Anything much larger would take down the government and change China's history f
 OK, maybe the fact that 69M of those were likely old ladies didn't help much either. Tip to next prophet: make something that appeals to aspiring military officers.
 
 And of course: <<flg-bias>>
+
+=== Falun Gong overviews
+
+Some possibly neutral overviews.
+
+For:
+
+* http://www.icsahome.com/articles/the-prc-and-falun-gong-langone
+
+Against:
+
+* http://www.culteducation.com/group/1254-falun-gong.html
+
+Interesting:
+
+* http://www.orange-papers.org/orange-cult_q0.html
 
 === Things I personally dislike about FLG
 
