@@ -124,16 +124,16 @@ Some arguments include:
 
 This is a common strategy, but the West is not as evil as they say:
 
-_____
+____
 Once upon a time, there was a farmer with a farm.
 
 One day, the animals in the farm started feeling a bit trapped, and started bumping against the fence to get out.
 
 The farmer, however, was smart, and told the animals:
 
-____
-> Careful! There is a wolf outside! If you go out, you will be eaten by the wolf!
-____
+_____
+Careful! There is a wolf outside! If you go out, you will be eaten by the wolf!
+_____
 
 The animals, were not that smart, and listened to the farmer, they were afraid!
 
@@ -144,7 +144,7 @@ But the farmer kept giving the animals delicious food without them doing any eff
 Maybe, there was actually a wolf outside. But if they had escaped, only some of the animals would have been eaten by that wolf.
 
 But by staying in the farm, all the animals were, sooner or later, eaten one by one.
-_____
+____
 
 TODO source.
 
@@ -420,7 +420,9 @@ I then continued because I hate political censorship.
 
 I am against violence. <<do-you-hate-china,I love China>>.
 
-===== Jail post en
+===== Jail post
+
+====== Jail post en
 
 My girlfriend's mother, a 63 year old lady, was kept 15 days inside a Chinese "correctional facility" because she does Falun Gong.
 
@@ -434,7 +436,7 @@ When she came back home, the house had been searched and was all messed up. Her 
 
 I'm glad she was not physically harmed. I find it fascinating how even well educated Chinese support a government which simply does not represent some of its people. How will you feel when something like that happens to your own family, and there is nothing you can do about it?
 
-===== Jail post zh
+====== Jail post zh
 
 (Translation by my wife)
 
@@ -451,7 +453,7 @@ I'm glad she was not physically harmed. I find it fascinating how even well educ
 
 我很庆幸的是她身体并没有受到伤害。我觉得很意思的是一些受过良好教育的中国人怎么能够迫害一部分它的人民的政府呢？如果这样的事情发生在你的家庭，而你什么都不能做，你会怎么想？
 
-===== Jail post pt
+====== Jail post pt
 
 A mãe da minha namorada ficou 15 dias num "centro de correção" chines porque ela faz Falun Gong.
 
@@ -464,6 +466,14 @@ Não houve julgamento nem explicação. Ela ia pegar um trem para ver sua irmã,
 Quando ela voltou pra casa, a casa tinha sido procurada pela polícia e estava uma bagunça. Os livros religiosos e seu computador foram confiscados.
 
 Eu fico feliz apenas que ela não sofreu abuso físico. Eu acho fascinante como mesmo muitos chineses educados apoiam ainda um governo que não representa parte do povo. Como você vai se sentir quando algo do tipo acontecerá com a sua família, e você não pode fazer nada sobre isso?
+
+===== Further details about my mother-in-law's persecution
+
+March 2015: 15 days in jail for no reason: https://www.facebook.com/cirosantilli/posts/952661734753174
+
+June 2017: 3 cops came to her house. She was there. They asked if she still did Falun Gong. She said yes. They took photos of her Falun Gong books / posters. They were polite.
+
+October 2017: 7 - 8 cops came to her house **at 11PM**. They knocked the door strongly and made noise, and questioned neighbours of her whereabouts. Luckily she was not there.
 
 ==== Are you a radical?
 
@@ -1238,7 +1248,88 @@ I've seen that happen, they made phone calls to people in China to explain why F
 
 Visual ads on the street on Internet I can stand, but not any kind of advertising that generates notifications on my feeds.
 
+=== How do diffferent websites view your profile?
+
+[[zhihu]]
+==== Zhihu ban
+
+I was banned from Zhihu on 2018-06-25 for "politically sensitive" content.
+
+I have however never posted anything politically sensitive on Zhihu, unless my name and profile picture have reached that distinction, and therefore the ban is clearly an unfair per-person ban.
+
+But of course, all is fair in love and war, and politics.
+
+Posting any sensitive content on Chinese websites is a waste of time, since it only means that they will be removed and you will waste time creating a new account, I will never do that.
+
+The only significant content I ever posted on Zhihu is the answer to: https://www.zhihu.com/question/46957710/answer/122827944 which is purely technical, and trivial replies on threads that other people have started about me. Have those people been blocked like me?
+
+My posts are still up and it does not appear to be possible for people to see that I have been banned, but whenever I try to take any action on the website a popup appears saying:
+
+____
+由于严重违反 知乎社区管理规定 ，该帐号已被永久禁言
+____
+
+This includes liking, commenting, answering, asking or trying to update my profile to say that I have been blocked.
+
+This message also shows on my public page for everyone to see: https://www.zhihu.com/people/cirosantilli/activities but they use some JavaScript scheme complicated enough that archive.is cannot capture it.
+
+I still get notifications however, but I am unable to reply to them, specially given that all Chinese accounts, unlike mine, have no personal identifiable information due to the understandable fear Chinese citizens have of their own government (even though such accounts https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/[might be illegal in theory to my understanding]).
+
+The only action that I can take now is to report abusive comments people make to me.
+
+Obviously, the only effect of such ban is that I will create an anonymous account under Tor with a second cell phone if I wish to contribute in the future, and China will have less information about my political interests than before.
+
+The private messages the website sends while banning you are:
+
+知乎管理员 ：您好，根据用户举报，您的帐号发布了「政治敏感」内容，帐号已根据知乎社区规范被永久禁言。处理详情可查看社区服务中心。具体规范请查看知乎社区管理规定。 6月25日 16:37 回复 | 删除
+
+知乎管理员 ：您好，根据用户举报，您的部分个人信息由于不符合知乎用户信息管理规范已被重置。用户名可以在设置页面中修改，修改后会自动进入审核等待通过；其他个人信息可以在个人主页中编辑。感谢您对知乎社区的理解和支持。 6月25日 16:37 回复 | 删除
+
+Those messages contain links to: https://www.zhihu.com/terms2 | http://archive.is/wdXSz and https://www.zhihu.com/question/19551824 | http://archive.is/BrgV2
+
+The ban came soon after I posted a link to my GitHub repo as a comment at: https://techcrunch.com/2018/06/21/ice-employee-list-github-linkedin/ maybe they are related.
+
+===== Who reported me on Zhihu
+
+At the same time the ban happened I received a public comment from user ``Eureka'' https://www.zhihu.com/people/crb912/activities | http://archive.is/1F3t6 on this thread: https://www.zhihu.com/question/46957710 | http://archive.is/PVOLd saying:
+
+____
+你滥用了github， 也滥用了Stackover。这个一个纯粹计算机、编程和知识分享的地方，请不要带入政治性的色彩。请不要这么做， 维护社区的非政治性、中立和技术性纯粹，是每个热爱cs的人应尽的义务。
+____
+
+I am unable to get an URL that shows the comment on archive.is, so I have no proof of this claim. If you trust me, then here is a screenshot: https://imgur.com/a/YCiEEax
+
+Since I expect the ban lists to be private, I find it extremely likely that this was the user who reported me, unless both were simultaneously triggered by a third event which I have not seen. So correct me if I’m wrong here.
+
+Users with the same user id `crb912`, related ``Eureka'' username or same profile picture, can be found at:
+
+* https://www.weibo.com/crb912 (unable to archive)
+* https://github.com/crb912 | http://archive.is/heGfd which suggests a possible real name
+
+By Googling the email found on the GitHub repos, we find: http://www.360doc.com/content/15/0809/11/25724933_490492490.shtml | http://archive.is/2UnGL which might, at last, contain a photo of my nemesis.
+
+My public message to the reporter whomever he may be:
+
+____
+While you have also raised issues that were raised a thousand times before, and clearly answered in the FAQ, at least you were able to take some actual action leading to an actual ban, and I respect you for that.
+
+I hope that one day you will redirect that cunning and initiative towards taking down the root cause of the problem, which are the Chinese communist Party and their Firewall themselves.
+____
+
+==== Quora
+
+https://www.quora.com/profile/Ciro-Santilli
+
+* 2016 blocked Chinese keywords on both my username and credentials. Justification: non-English.
+* 2017 created on in English: Cook Tiananmen Square Noodle Shop.
++
+Added my Noodle shop to maps: https://www.google.co.uk/maps/place/Tiananmen+Square+Noodle+Shop/@60.6132538,15.6687509,15z/data=!4m5!3m4!1s0x0:0x94603408e3c63fb3!8m2!3d60.6132538!4d15.6687509
++
+Leaches that picked it up: http://kvalster.se/Falu/Uthyres/Lagenheter/Gammelvagen_49_1417351
+
 == News
+
+Trying to keep only "neutral" sources here, let me know if you spot something too biased:
 
 * 2019-01 https://www.apnews.com/40f7cf4c0c6e43f18121af93f1e418f7 Microsoft Bing https://www.bing.com/ search engine blocked in China
 * 2019-01 https://www.nytimes.com/2019/01/02/business/china-internet-censor.html interview with Beyondsoft, a company that offers censoring services
@@ -1387,7 +1478,7 @@ I've always been curious to how Russia can be both oppressive and a democracy, u
 
 == Other sections
 
-TODO migrate all here.
+TODO migrate all into this README.
 
 . link:censorship.md[Censorship]
 . link:media.md[Media]
@@ -1398,8 +1489,5 @@ TODO migrate all here.
 . link:funny.md[Funny]
 . link:stack-overflow.md[Stack Overflow]
 . link:stack-overflow-profile.md[Stack Overflow profile]
-. link:zhihu-ban.md[Zhihu ban]
-. link:quora.md[Quora]
 . Personal
-.. link:mother-in-law-persecution.md[Mother-in-law persecution]
 .. link:communities-that-censor-politics.md[Communities that censor politics]
