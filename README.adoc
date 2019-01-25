@@ -1459,6 +1459,22 @@ Trying to keep only "neutral" sources here, let me know if you spot something to
 * 1987–1989 https://en.wikipedia.org/wiki/1987%E2%80%9389_Tibetan_unrest https://zh.wikipedia.org/wiki/1989%E5%B9%B4%E6%8B%89%E8%90%A8%E9%AA%9A%E4%B9%B1. Videos: https://www.youtube.com/watch?v=0jylh1qfOG4, https://www.youtube.com/watch?v=qMZgoRuPJBg Tibetan unrest 年拉萨骚乱
 * 1978, 1997 https://en.wikipedia.org/wiki/Beijing_Spring https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5 https://en.wikipedia.org/wiki/Democracy_Wall https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99
 
+== Funny 好笑
+
+Humour is the greatest weapon against dictators:
+
+* https://web.archive.org/web/20170801011641/http://i.telegraph.co.uk/multimedia/archive/02590/TIGGER_2590531b.jpg Whinnie the Pooh Xi Jinping Obama Tiger
+* http://media.cagle.com/78/2017/03/08/192621_600.jpg
+* 2015 Zimbabwe dictator wins Confucius prize https://www.reddit.com/r/China/comments/3pqljx/zimbabwes_ruthless_dictator_mugabe_wins_chinas/
+* https://www.youtube.com/watch?v=V4WBsahU3X4 Stephen Colbert comments on how American films make a good image of China to be allowed in China by censors to increase sales.
+* https://www.hongkongfp.com/2015/09/03/in-pictures-censored-memes-search-terms-and-images-from-chinas-wwii-parade/
+* https://upload.wikimedia.org/wikipedia/en/e/ec/Duck_man.jpg
+* https://en.wikipedia.org/wiki/Hong_Kong_97_%28video_game%29 https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF97_%28%E9%81%8A%E6%88%B2%29
+* https://en.wikipedia.org/wiki/Falun https://zh.wikipedia.org/wiki/%E6%B3%95%E5%80%AB A Swedish city called Falun 名为法倫的瑞典城市 Oh, BTW, one of the oldest operating companies in the world is from there: https://en.wikipedia.org/wiki/Falun_Mine
+* http://9gag.com/gag/ayn7KmW?ref=fbp Left Right Slaughterhouse comic, Dictatorships love this one.
+* http://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/
+* http://www.miniharm.com/
+
 == Other sections
 
 TODO migrate all into this README.
@@ -1469,7 +1485,6 @@ TODO migrate all into this README.
 . link:movements.md[Movements against the Dictatorship]
 . link:images/[Images]
 . link:policies.md[Policies]
-. link:funny.md[Funny]
 . link:stack-overflow.md[Stack Overflow]
 . link:stack-overflow-profile.md[Stack Overflow profile]
 . Personal
