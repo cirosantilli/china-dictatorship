@@ -1,5 +1,6 @@
 # News 新闻
 
+-   2019-01 <https://www.apnews.com/40f7cf4c0c6e43f18121af93f1e418f7> Microsoft Bing https://www.bing.com/ search engine blocked in China
 -   2019-01 <https://www.nytimes.com/2019/01/02/business/china-internet-censor.html> interview with Beyondsoft, a company that offers censoring services
 -   2018-12 <https://www.youtube.com/watch?v=zzWApdCNdik> 100 Christians detained in China crackdown
 -   2018-12 <https://www.youtube.com/watch?time_continue=8&v=dsd1NkCKaNg> In full: 'I begged them to kill me' - ex-Xinjiang detainee Mihrigul Tursun gives testimony in the US
