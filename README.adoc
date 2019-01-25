@@ -1267,7 +1267,6 @@ Visual ads on the street on Internet I can stand, but not any kind of advertisin
 
 === How do diffferent websites view your profile?
 
-[[zhihu]]
 ==== Zhihu ban
 
 I was banned from Zhihu on 2018-06-25 for "politically sensitive" content.
@@ -1298,9 +1297,11 @@ Obviously, the only effect of such ban is that I will create an anonymous accoun
 
 The private messages the website sends while banning you are:
 
+____
 知乎管理员 ：您好，根据用户举报，您的帐号发布了「政治敏感」内容，帐号已根据知乎社区规范被永久禁言。处理详情可查看社区服务中心。具体规范请查看知乎社区管理规定。 6月25日 16:37 回复 | 删除
 
 知乎管理员 ：您好，根据用户举报，您的部分个人信息由于不符合知乎用户信息管理规范已被重置。用户名可以在设置页面中修改，修改后会自动进入审核等待通过；其他个人信息可以在个人主页中编辑。感谢您对知乎社区的理解和支持。 6月25日 16:37 回复 | 删除
+____
 
 Those messages contain links to: https://www.zhihu.com/terms2 | http://archive.is/wdXSz and https://www.zhihu.com/question/19551824 | http://archive.is/BrgV2
 
