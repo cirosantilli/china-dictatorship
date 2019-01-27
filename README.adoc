@@ -562,6 +562,8 @@ Not with my real name attached to it.
 
 No, I'm agnostic: https://en.wikipedia.org/wiki/Agnosticism
 
+Here are some things that I don't like about Falun Gong for example: <<things-i-personally-dislike-about-hlg>>.
+
 ==== There are bad things happening all over the world, why don't you fight for those causes as well / instead?
 
 We have to choose the one we think is the worst, and focus on it.
@@ -704,7 +706,8 @@ Reddit was banned in China in August 2018: https://www.reddit.com/r/China/commen
 * link:complete-gfw-rulebook-for-wikipedia-v3.0.pdf[]
 * https://qz.com/698990/261-ways-to-refer-to-the-tiananmen-square-massacre-in-china/ 261 ways to refer to the Tiananmen Square Massacre in China
 
-==== What makes for good censored words?
+[[keyword-choice]]
+==== How do you choose keyword for the keyword attack?
 
 * recent cases receive a large prime over raw death toll, because older cases can always be attributed to other people.
 +
@@ -719,6 +722,13 @@ E.g.: Falun Gong, Tiananmen.
 Non e.g.: corruption and pollution. Those are hard to quantify, and there is always an immediate reply: china GDP per capita is low, same happens in India, Brazil, etc.
 +
 Freedom of speech however, is immediately verifiable (e.g. "my Weibo was taken down"), and undeniably caused by the current central government.
+* the more people affected, and the more deeply they have been affected, the more important obviously
+
+In the end, it is all about prioritization, and how much profile name real estate is available.
+
+I am currently trying to maintain in my Stack Overflow Location a ranking of events in a single string, so that it can be easily copy pasted around.
+
+If you think that this list can be improved, please open an issue explaining how and why.
 
 ==== Are there other openly dissident users on Stack overflow?
 
@@ -862,9 +872,17 @@ Otherwise, <<democracy-is-a-religion,democracy and communism can also be conside
 [[flg-bias]]
 ==== Do you support FLG just because your wife and mother-in-law do it?
 
-Not consciously.
+Not consciously, I think I would likely support them even if I didn't have family ties to FLG. 
 
-I think that **70 Million** people (6% of the total population in 2000!) getting completely squashed by the Party illustrates extremely well the dangers of the dictatorship.
+Likely I wouldn't have started this campaign if I didn't know them of course.
+
+But of course, this is impossible to answer objectively.
+
+But don't you think that **70 Million** people (6% of the total population in 2000!) getting completely squashed by the Party illustrates extremely well the dangers of the dictatorship?
+
+With that in mind, I try my best to give FLG only the right level of exposure I think it deserves relative to other events, according to these guidelines: <<keyword-choice>>
+
+If more important events of mass human rights violation happen, especially affecting in the order of tens of million people, I will probably rank higher than Falun Gong.
 
 ==== In the Tweet you say "correctional facility", but reeducation through labour has been abolished
 
@@ -952,6 +970,8 @@ Democracy and Communism <<democracy-is-a-religion,can also be considered as reli
 Isn't it convenient when a dictatorship gets rid of those weirdos for you? But not so much when suddenly you or your family is the weirdo...
 
 If you are not ready to accept the beliefs of others, dictatorship is the only choice for you.
+
+See also: <<flg-bias>>
 
 [[democracy-is-a-religion]]
 ===== Why do you say that democracy is a religion just like FLG?
