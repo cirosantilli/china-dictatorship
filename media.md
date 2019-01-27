@@ -2,15 +2,6 @@
 
 Sources of information pertinent to this repository.
 
-## Linked to the Chinese government 联系到中国政府
-
-- <https://en.wikipedia.org/wiki/Xinhua_News_Agency> <https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8D%8E%E7%A4%BE>
-- <https://en.wikipedia.org/wiki/People%27s_Daily> <https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5> <http://people.cn/> <https://twitter.com/PDChina> (yes, Twitter is blocked by GFW, but the government still publishes on it for foreigners to see)
-- <https://en.wikipedia.org/wiki/China_Daily>
-- <https://en.wikipedia.org/wiki/Confucius_Institute> <https://zh.wikipedia.org/wiki/%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2> <http://www.economist.com/node/17969895>
-- <https://en.wikipedia.org/wiki/China_Radio_International> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0> <http://www.cri.cn> <http://english.cri.cn/> State owned.
-- CGTN <https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg> CCTV international branch in English
-
 ## Against the Chinese government 对中国政府
 
 Which is the same as not controlled by it :-)
@@ -35,35 +26,6 @@ Which is the same as not controlled by it :-)
 - <http://www.chinafile.com/> Some good articles. "ChinaFile is an online magazine published by the Center on U.S.-China Relations at Asia Society", based in New York.
 - <https://bitterwinter.org/>
 
-### Linked to Falun Gong 联系到法轮功
-
--   <https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television> <https://zh.wikipedia.org/wiki/%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0>
-
-    - Lao wai kan zhong guo <https://www.youtube.com/user/Laowaikanzhongguo>
-    - China Uncensored <https://www.youtube.com/channel/UCgFP46yVT-GG4o1TgXn-04Q>
-    - Off the Great Wall <https://www.youtube.com/user/NTDOffTheGreatWall>
-
--   <https://en.wikipedia.org/wiki/The_Epoch_Times>, <https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5>
-
--   <http://en.minghui.org/>, <http://www.clearwisdom.net/> (same)
-
--   <http://www.secretchina.com/>
-
--   <http://fofg.org/>
-
--   <https://en.wikipedia.org/wiki/Sound_of_Hope> <http://www.soundofhope.org/> <http://www.bayvoice.net/gb/>
-
--   <http://lotus-sacre.com/>
-
--   <https://en.tuidang.org/> <https://en.wikipedia.org/wiki/Tuidang_movement>
-
-## Linked to the USA government 联系到美国政府
-
--   <https://en.wikipedia.org/wiki/Voice_of_America>
-    - <http://www.voa.com/>
-    - <http://www.voachinese.com/>
-    - <http://www.voacantonese.com/>
-
 ## Uncertain
 
 - SCMP from Hong Kong, and was critical of CCP, but was bought by Alibaba: <http://www.scmp.com/frontpage/inter
@@ -73,10 +35,6 @@ Which is the same as not controlled by it :-)
 ## Pertinent to Falun Gong
 
 - <http://en.wikipedia.org/wiki/MIVILUDES> seems not to consider Falun Gong as a sect
-
-## Against the Falun Gong 对法轮功
-
-- <http://facts.org.cn/> <http://wap.kaiwind.com/>
 
 ## Blogs 博客
 

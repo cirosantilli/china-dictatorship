@@ -1405,7 +1405,7 @@ Leaches that picked it up: http://kvalster.se/Falu/Uthyres/Lagenheter/Gammelvage
 
 == News
 
-Trying to keep only "neutral" sources here, let me know if you spot something too biased.
+Trying to keep only "neutral" sources here, let me know if you spot something too biased: <<biased-media>>.
 
 How I find them: <<what-are-the-best-sources-of-anti-commie-news>>.
 
@@ -1537,13 +1537,70 @@ How I find them: <<what-are-the-best-sources-of-anti-commie-news>>.
 * 1987–1989 https://en.wikipedia.org/wiki/1987%E2%80%9389_Tibetan_unrest https://zh.wikipedia.org/wiki/1989%E5%B9%B4%E6%8B%89%E8%90%A8%E9%AA%9A%E4%B9%B1. Videos: https://www.youtube.com/watch?v=0jylh1qfOG4, https://www.youtube.com/watch?v=qMZgoRuPJBg Tibetan unrest 年拉萨骚乱
 * 1978, 1997 https://en.wikipedia.org/wiki/Beijing_Spring https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5 https://en.wikipedia.org/wiki/Democracy_Wall https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99
 
+== Biased media
+
+I consider the media in this section biased, and never cite it for fact checking.
+
+=== Chinese government media
+
+* https://en.wikipedia.org/wiki/Xinhua_News_Agency
+** https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8D%8E%E7%A4%BE
+** http://www.xinhuanet.com/
+* https://en.wikipedia.org/wiki/People%27s_Daily
+** https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5
+** http://people.cn/
+** https://twitter.com/PDChina
+* https://en.wikipedia.org/wiki/China_Daily
+* https://en.wikipedia.org/wiki/Confucius_Institute
+** https://zh.wikipedia.org/wiki/%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2
+** http://www.economist.com/node/17969895>
+* https://en.wikipedia.org/wiki/China_Radio_International
+** https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0
+** http://www.cri.cn> <http://english.cri.cn/
+* https://en.wikipedia.org/wiki/China_Central_Television
+** https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg CGTN, CCTV's international branch in English
+* http://facts.org.cn/
+** http://wap.kaiwind.com/
+** I have no proof that this is linked to the government, but it is very likely, even the Chinese embassy website links to it:
+*** http://www.china-embassy.org/eng/lj/t36322.htm
+*** http://web.archive.org/web/20180414233331/http://www.china-embassy.org/eng/lj/t36322.htm
+
+=== Falun Gong media
+
+* https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television
+** https://zh.wikipedia.org/wiki/%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0
+** https://www.youtube.com/user/Laowaikanzhongguo Laowai kan Zhongguo
+** https://www.youtube.com/channel/UCgFP46yVT-GG4o1TgXn-04Q China Uncensored
+** https://www.youtube.com/user/NTDOffTheGreatWall Off the Great Wall
+* https://en.wikipedia.org/wiki/The_Epoch_Times
+** https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5
+* http://en.minghui.org/
+** http://falundafa.org/ links to it
+** http://www.clearwisdom.net/
+* http://www.secretchina.com/
+* http://fofg.org/
+* https://en.wikipedia.org/wiki/Sound_of_Hope
+** http://www.soundofhope.org/
+** http://www.bayvoice.net/gb/
+* http://lotus-sacre.com/
+* https://en.tuidang.org/
+** https://en.wikipedia.org/wiki/Tuidang_movement
+
+=== USA government media
+
+* https://en.wikipedia.org/wiki/Voice_of_America
+** http://www.voa.com/
+** http://www.voachinese.com/
+** http://www.voacantonese.com/
+
+[[funny]]
 == Funny 好笑
 
 Humour is the greatest weapon against dictators:
 
 * https://web.archive.org/web/20170801011641/http://i.telegraph.co.uk/multimedia/archive/02590/TIGGER_2590531b.jpg Whinnie the Pooh Xi Jinping Obama Tiger
 * http://media.cagle.com/78/2017/03/08/192621_600.jpg
-* 2015 Zimbabwe dictator wins Confucius prize https://www.reddit.com/r/China/comments/3pqljx/zimbabwes_ruthless_dictator_mugabe_wins_chinas/
+* https://www.reddit.com/r/China/comments/3pqljx/zimbabwes_ruthless_dictator_mugabe_wins_chinas/ 2015 Zimbabwe dictator wins Confucius prize
 * https://www.youtube.com/watch?v=V4WBsahU3X4 Stephen Colbert comments on how American films make a good image of China to be allowed in China by censors to increase sales.
 * https://www.hongkongfp.com/2015/09/03/in-pictures-censored-memes-search-terms-and-images-from-chinas-wwii-parade/
 * https://upload.wikimedia.org/wikipedia/en/e/ec/Duck_man.jpg
