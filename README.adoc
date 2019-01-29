@@ -400,6 +400,7 @@ I haven't tried to learn characters, too much effort, but I learnt the most comm
 
 I really wish I could learn more, but I have other more important endeavours at the moment :-(
 
+[[bias]]
 === This repository is completely biased against the Chinese Government!
 
 I prefer the term focused :-)
@@ -412,7 +413,10 @@ Any evidence of positive political progress will also be added to this repo, e.g
 
 Party promises do not count, only reports of activities by individuals.
 
-See also: <<preconceived>>.
+See also:
+
+* <<preconceived>>
+* <<flg-bias>>
 
 === China is fine as it is, stop making it worse
 
@@ -878,6 +882,7 @@ See also:
 
 * <<richer>>
 * <<preconceived>>
+* <<bias>>
 
 ==== Snowden
 
