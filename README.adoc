@@ -489,7 +489,7 @@ March 2015: 15 days in jail for no reason: https://www.facebook.com/cirosantilli
 
 June 2017: 3 cops came to her house. She was there. They asked if she still did Falun Gong. She said yes. They took photos of her Falun Gong books / posters. They were polite.
 
-October 2017: 7 - 8 cops came to her house **at 11PM**. They knocked the door strongly and made noise, and questioned neighbours of her whereabouts. Luckily she was not there.
+October 2017: 7 - 8 cops came to her house _at 11PM_. They knocked the door strongly and made noise, and questioned neighbours of her whereabouts. Luckily she was not there.
 
 ==== Are you a radical?
 
@@ -822,7 +822,7 @@ Reply: China claiming that Taiwan is a part of them only drives Taiwan closer to
 Some interesting links:
 
 * link:https://en.wikipedia.org/wiki/One-China_policy[] every country has private relations with Taiwan through some trade organizations, they just don't call them embassies
-* link:http://travel.stackexchange.com/questions/62447/how-can-a-citizen-of-mainland-china-visit-taiwan/62466#comment178495_62466[] hi, I want a *not VISA* to Taiwan. Thanks.
+* link:http://travel.stackexchange.com/questions/62447/how-can-a-citizen-of-mainland-china-visit-taiwan/62466#comment178495_62466[] hi, I want a _not VISA_ to Taiwan. Thanks.
 
 [[xinjiang]]
 ==== Xinjiang 新疆
@@ -889,7 +889,7 @@ Snowden's prosecution was inevitable. Countries need secret services. Secret ser
 
 I have never and will never criticize China or any other country for spying or prosecuting spies.
 
-The problem with dictatorships, is that they make *every* information that makes them look bad a "state secret". Including any information that hundreds of thousands of people have witnessed.
+The problem with dictatorships, is that they make _every_ information that makes them look bad a "state secret". Including any information that hundreds of thousands of people have witnessed, or economic performance metrics.
 
 If Snowden were Chinese, the Chinese government would ban talking about him or anything he uncovered. A <<keyword-attack>> with Snowden in the West has no effect.
 
@@ -901,7 +901,7 @@ I also believe that a good solution to balance out government power is the secon
 
 ==== Fake news
 
-When a government controls all information to make it look good, and no one can challenge it, you cannot trust *any* of the news produced by that country, as anything could be fake.
+When a government controls all information to make it look good, and no one can challenge it, you cannot trust _any_ of the news produced by that country, as anything could be fake.
 
 It is much better to have some fake news, but also few sources which are likely telling the truth.
 
