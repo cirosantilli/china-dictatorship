@@ -891,7 +891,7 @@ I have never and will never criticize China or any other country for spying or p
 
 The problem with dictatorships, is that they make _every_ information that makes them look bad a "state secret". Including any information that hundreds of thousands of people have witnessed, or economic performance metrics.
 
-If Snowden were Chinese, the Chinese government would ban talking about him or anything he uncovered. A <<keyword-attack>> with Snowden in the West has no effect.
+If Snowden were Chinese, the Chinese government would ban talking about him or anything he uncovered. A <<keyword-attack,keyword attack>> with "Snowden" in the West has no effect.
 
 Ultimately, I think camera surveillance is somewhat inevitable, because people will always want to fight crime and terrorism and surveillance technology keeps getting cheaper and cheaper.
 
