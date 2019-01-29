@@ -575,6 +575,11 @@ What is worse is a subjective choice. For me:
 
 My <<keyword-attack,SO username>> and protest time are not infinite.
 
+See also:
+
+* <<russia>
+* <<western-democracies-are-not-perfect>
+
 === Is your campaign funded or otherwise supported by some organization?
 
 Nope.
@@ -853,6 +858,53 @@ While I'm at it, some interesting news:
 * http://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay
 * 1995 https://en.wikipedia.org/wiki/Vladislav_Listyev
 
+=== Western democracies are not perfect
+
+That is definitely true.
+
+Nothing is perfect in this world.
+
+I just think that they are way better than dictatorships.
+
+As link:https://en.wikipedia.org/wiki/Argument_from_authority[Churchill] once brilliantly link:https://richardlangworth.com/worst-form-of-government[put it]:
+
+____
+Indeed it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time.
+____
+
+However, this is all obviously subjective, and believing that dictatorship is a better form of government is also a valid belief.
+
+See also:
+
+* <<richer>>
+* <<preconceived>>
+
+==== Snowden
+
+The level of unknown surveillance that Snowden uncovered is a bad thing about the US.
+
+However, it is obvious that the level of surveillance in any dictatorship will be infinitely higher, since the Government has much more power.
+
+Snowden's prosecution was inevitable. Countries need secret services. Secret services need laws that prevent leaking classified information that was produced by government officials.
+
+I have never and will never criticize China or any other country for spying or prosecuting spies.
+
+The problem with dictatorships, is that they make *every* information that makes them look bad a "state secret". Including any information that hundreds of thousands of people have witnessed.
+
+If Snowden were Chinese, the Chinese government would ban talking about him or anything he uncovered. A <<keyword-attack>> with Snowden in the West has no effect.
+
+Ultimately, I think camera surveillance is somewhat inevitable, because people will always want to fight crime and terrorism and surveillance technology keeps getting cheaper and cheaper.
+
+I am however strictly against the ban of cryptography.
+
+I also believe that a good solution to balance out government power is the second amendment. I'd rather have more school shootings and less full blown dictatorship led genocides / mass human rights violations.
+
+==== Fake news
+
+When a government controls all information to make it look good, and no one can challenge it, you cannot trust *any* of the news produced by that country, as anything could be fake.
+
+It is much better to have some fake news, but also few sources which are likely telling the truth.
+
 === Falun Gong
 
 ==== Do you support FLG, or just use it because it is a censored?
@@ -990,12 +1042,14 @@ Then they link to the Taping Rebellion:
 
 Of course FLG it was a threat to the stability of the country.
 
-And <<democracy-is-a-religion,democracy>> is a threat to the stability country in the exact same way:
+It is, as I have said, a highly organized political power: <<flg-political>>.
+
+However, <<democracy-is-a-religion,democracy>> is a threat to the stability country in the exact same way:
 
 * https://en.wikipedia.org/wiki/French_Revolution
 * https://en.wikipedia.org/wiki/American_Revolution
 
-Anything that goes agains a dictatorship is a threat to the stability of the country.
+Anything that goes against a dictatorship is a threat to the stability of the country.
 
 Now read: <<stability>>
 
@@ -1081,6 +1135,7 @@ But the CCP has changed so much since those days, I hear you say.
 
 I agree. And <<flg-changed,so has FLG>>.
 
+[[flg-political]]
 ==== People from movement X are only in it for political power
 
 For every desire of the masses, there will be amoral representatives that will step to use that power.
