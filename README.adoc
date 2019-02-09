@@ -568,6 +568,37 @@ No, I'm agnostic: https://en.wikipedia.org/wiki/Agnosticism
 
 Here are some things that I don't like about Falun Gong for example: <<things-i-personally-dislike-about-flg>>.
 
+See also: <<flg-is-fake>>.
+
+===== How much do you know about Falun Gong's claims?
+
+I haven't read their <<flg-canon,canon>> myself, no patience, but I have constant contact with believers and so have an idea of its content.
+
+[[flg-canon]]
+===== What are the canonical Falun Gong texts?
+
+It appears that Falun Gong cannon is present at: http://falundafa.org/
+
+It contains <<flg-lhz,LHZ>>'s approved texts / speech transcriptions, which are sacred.
+
+The only sacred version is Chinese which is a sacred language, and of which there is only one perfect revision.
+
+The English translation is made by followers, and gets new revisions to reduce translation imperfection.
+
+However, the Chinese language seems to be fundamentally sacred, and there might never be an sacred English version approved by LZH.
+
+This is a reasonable command to download the English cannon for grepping:
+
+....
+wget -r -l inf --no-remove-listing --no-clobber --no-parent -w 2 https://en.falundafa.org/falun-dafa-books.html
+....
+
+TODO: need to find a way to wrap lines, otherwise grep might fail on sentences.
+
+Nothing else is canonical. LHZ seems to have said that there are enlightened followers, but has not specified who, so we can't derive canon from anyone else.
+
+Notably, <<flg-organized,FLG media>> such as http://www.minghui.org/ is believer led and thus not canonical.
+
 ==== There are bad things happening all over the world, why don't you fight for those causes as well / instead?
 
 We have to choose the one we think is the worst, and focus on it.
@@ -926,6 +957,8 @@ Also I believe that freedom of speech and democracy imply that FLG and other rel
 
 Otherwise, <<democracy-is-a-religion,democracy and communism can also be considered as religions>>, and banned.
 
+See also: <<flg-verifiable>>.
+
 [[flg-bias]]
 ==== Do you support FLG just because your wife and mother-in-law do it?
 
@@ -1005,6 +1038,25 @@ How can you disprove their belief, when as in any other religion, every affirmat
 Conversely, do you understand the full sequence of experiments that imply quantum field theory? Have you seen videos of those experiments? Have you attended live demonstrations? Do you understand the construction of the experimentation apparatus? Yet, why do you believe it?
 
 More importantly: what do you propose that should be done about it? Should we kill followers? Or is jail enough?
+
+Also do let me know when you have achieved irrefutable proof that democracy / freedom of speech are the optimal ways to organize the government: <<democracy-is-a-religion>>.
+
+See also: <<flg-religion>>
+
+[[flg-verifiable]]
+===== FLG never makes any predictions that can be reasonably verified by non-believers
+
+Exactly, just like any other <<flg-religion>>, this is why I'm <<do-you-believe-in-or-practice-falun-gong,agnostic>>.
+
+The closest claims to observable I've heard are:
+
+* when pictures are taken in sacred events, notably Shen Yun, sometimes you can see magic Falun energy wheels in the pictures
+* in the homes of some followers, small magic good plants-like fungi-like things have grown
+* the sacred books of some believers had a closed lotus flower when they were bought, and after several years, the flower opened
+
+but I suspect they are not even <<flg-canon,canon>>, just believer oral culture.
+
+Of course, like every other religion, reality happens to be is constructed in a way that prevents non-believers to verify anything with their eyes in a reproducible way.
 
 ===== FLG is a very new religion and therefore fake
 
@@ -1265,6 +1317,8 @@ But I strongly believe that all most people in the West would classify FLG as a 
 * higher intelligent beings
 * other dimensions
 * aliens that looks like humans are amongst us, they gave us part of our modern technology
+* meetings in which people tell their religious testimonies: https://en.wikipedia.org/wiki/Testimony#Religion
+* an impending "final judgement"-like event, which will happen "very soon" (<<flg-verifiable,unspecified date>>), and in which the just will be rewarded
 
 Or a cult, which is nothing but a new / small religion with negative connotation, and thus meaningless.
 
@@ -1332,7 +1386,7 @@ If one specific FLG member breaks a law by discriminating someone, they should b
 [[flg-medication]]
 ===== FLG believers are less likely to take necessary medication
 
-Due to their beliefs in the healing power of FLG, which seems to have certain level of support on canonical texts TODO precise quotes.
+Due to their beliefs in the healing power of FLG, which seems to have certain level of support on <<flg-canon,canonical texts>> TODO precise quotes.
 
 This is a point that makes me worry, and I do believe that it is true for some believers, that but consider:
 
@@ -1369,7 +1423,7 @@ Similarly, any charismatic leader of a pro democracy movement could become the l
 
 If you ever want democracy, you will have to learn to accept the beliefs of others, and only punish them when they actually break a law.
 
-Finally, LHZ was born in 1951, so will die in 20 years, unless FLG is true and a miracle happens, and then this argument will become invalid.
+Finally, LHZ was born in 1951, so he will die in 20 years, unless FLG is true and a miracle happens, and then this argument will become invalid.
 
 From what I hear, LHZ has always maintained that he is the only source of truth on FLG, and therefore, so his death will very likely remove any danger once and for all.
 
@@ -1383,7 +1437,7 @@ I've seen that happen, they made phone calls to people in China to explain why F
 
 Visual ads on the street on Internet I can stand, but not any kind of advertising that generates notifications on my feeds.
 
-=== How do diffferent websites view your profile?
+=== How do different websites view your profile?
 
 ==== Zhihu ban
 
