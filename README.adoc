@@ -655,7 +655,7 @@ The Internet gives everyone the magic power of writing something, and having mil
 This is how much time I spend on this to give you an idea:
 
 * every week or two, someone sends me a message, I reply with "read the FAQ", and usually update 
-* I follow https://www.reddit.com/r/China amongst many other programming subs, and all major bad news show up there
+* I follow https://www.reddit.com/r/China amongst many other programming subs, and all major bad news show up there. See also: <<anti-commie-info>>
 * when something bad enough comes up, I go to https://chinadigitaltimes.net/china/sensitive-words-series/ and update <<keyword-attack,my keyword attack>>. I've only been updating it on Stack Overflow these days, since GitHub does not show my profile name prominently.
 
 Then I just contribute to programming websites exactly as I would if I weren't making this campaign.
@@ -722,6 +722,7 @@ The current consensus is yes:
 
 The Chinese law doesn't I'm afraid :-( https://advox.globalvoices.org/2015/04/16/new-internet-rules-in-china-target-usernames-avatars-as-subversive-tools/
 
+[[anti-commie-info]]
 ==== What are the best sources of anti-commie news?
 
 https://www.reddit.com/r/China
@@ -735,6 +736,8 @@ Has some noise of course as well, but less than other media I find.
 Highly worth your feed.
 
 Reddit was banned in China in August 2018: https://www.reddit.com/r/China/comments/965k4c/reddit_banned_in_china/
+
+Tecent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-banned-in-china-is-reportedly-set-to-land-150-1832375439 See also: <<biased-media>>.
 
 ==== Where can I find good words for a keyword attack?
 
