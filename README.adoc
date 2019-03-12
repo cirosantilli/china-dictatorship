@@ -309,6 +309,12 @@ I just think that website is great, and want to push it to perfection, in partic
 
 If you think that any of my edits were harmful, please ping me and open a meta thread to discuss specific edits, and I will comply with consensus.
 
+==== Your profile disturbs me
+
+I know, but isn't it better to be annoyed than having <<war,war>>, <<richer,being poor>> or <<xinjiang,put into jail unfairly>>?
+
+If the truth is too much for you to bear >:-), have a look at this cool browser extension to clean up Stack Overflow: https://greasyfork.org/en/scripts/32236-stackoverflow净化器
+
 === You are not Chinese, you can't interfere in Chinese politics
 
 . We live in the same world.
@@ -582,6 +588,8 @@ It appears that Falun Gong cannon is present at: http://falundafa.org/
 It contains <<flg-lhz,LHZ>>'s approved texts / speech transcriptions, which are sacred.
 
 The only sacred version is Chinese which is a sacred language, and of which there is only one perfect revision.
+
+I think <<flg-lhz,LHZ>> claims the specifically chose to reincarnate in China this time.
 
 The English translation is made by followers, and gets new revisions to reduce translation imperfection.
 
@@ -1526,10 +1534,12 @@ Leaches that picked it up: http://kvalster.se/Falu/Uthyres/Lagenheter/Gammelvage
 
 Trying to keep only "neutral" sources here, let me know if you spot something too biased: <<biased-media>>.
 
-How I find them: <<what-are-the-best-sources-of-anti-commie-news>>.
+How I find them: <<anti-commie-info>>.
 
 === News 2019
 
+* 2019-02-24 http://fortune.com/2019/02/21/thermo-fisher-xinjiang-china-uighurs/
+** https://www.reddit.com/r/China/comments/auqkdl/biotech_giant_thermo_fisher_stops_selling_dna/
 * 2019-02-17 https://www.scmp.com/news/china/politics/article/2186547/china-data-leak-exposes-vast-hi-tech-surveillance-operation "China data leak exposes vast hi-tech surveillance operation in Xinjiang", leak by SenseNets Technology.
 * 2019-01 https://www.apnews.com/40f7cf4c0c6e43f18121af93f1e418f7 Microsoft Bing https://www.bing.com/ search engine blocked in China
 * 2019-01 https://www.nytimes.com/2019/01/02/business/china-internet-censor.html interview with Beyondsoft, a company that offers censoring services
