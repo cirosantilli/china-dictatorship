@@ -61,6 +61,8 @@ Once the firewall is destroyed, which <<dictator-needs-gfw,may destroy the dicta
 
 And by the way, by contributing to open source, I am already helping China, and all underdeveloped countries become stronger.
 
+See also: <<your-profile-disturbs-me>>.
+
 [[why-end-dictatorship]]
 === Why do you want to end the dictatorship?
 
@@ -315,6 +317,8 @@ If you think that any of my edits were harmful, please ping me and open a meta t
 I know, but isn't it better to be annoyed than having <<war,war>>, <<richer,being poor>> or <<xinjiang,put into jail unfairly>>?
 
 If the truth is too much for you to bear >:-), have a look at this cool browser extension to clean up Stack Overflow: https://greasyfork.org/en/scripts/32236-stackoverflow净化器
+
+See also: <<harm-programmers>>.
 
 === You are not Chinese, you can't interfere in Chinese politics
 
