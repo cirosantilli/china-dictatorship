@@ -13,7 +13,8 @@ Chinese "Communist" Dictatorship "facts". 中国《共产主义》独裁统治�
 
 toc::[]
 
-== FAQ
+[[faq]]
+== FAQ 常见问答集
 
 [[why-keyword-attack]]
 === Why are you attacking websites with censored keywords?
@@ -1574,7 +1575,8 @@ Added my Noodle shop to maps: https://www.google.co.uk/maps/place/Tiananmen+Squa
 +
 Leaches that picked it up: http://kvalster.se/Falu/Uthyres/Lagenheter/Gammelvagen_49_1417351
 
-== News
+[[news]]
+== News 新闻
 
 Trying to keep only "neutral" sources here, let me know if you spot something too biased: <<biased-media>>.
 
