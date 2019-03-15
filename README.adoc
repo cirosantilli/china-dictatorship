@@ -710,7 +710,7 @@ The Internet gives everyone the magic power of writing something, and having mil
 
 This is how much time I spend on this to give you an idea:
 
-* every week or two, someone sends me a message, I reply with "read the FAQ", and usually update 
+* every week or two, someone sends me a message, I reply with "read the FAQ", and usually update
 * I follow https://www.reddit.com/r/China amongst many other programming subs, and all major bad news show up there. See also: <<anti-commie-info>>
 * when something bad enough comes up, I go to https://chinadigitaltimes.net/china/sensitive-words-series/ and update <<keyword-attack,my keyword attack>>. I've only been updating it on Stack Overflow these days, since GitHub does not show my profile name prominently.
 
@@ -929,7 +929,7 @@ It is still hard to get hard evidence, much like every other mass human rights v
 * 2018-05 mapping interment camps with satelite imaging:
 ** https://www.albawaba.com/news/mapping-china%E2%80%99s-internment-camps-its-ethnic-minorities-1136100
 ** https://medium.com/@shawnwzhang/list-of-re-education-camps-in-xinjiang-%E6%96%B0%E7%96%86%E5%86%8D%E6%95%99%E8%82%B2%E9%9B%86%E4%B8%AD%E8%90%A5%E5%88%97%E8%A1%A8-99720372419c List of Re-education Camps in Xinjiang 新疆再教育集中营列表 Shawn Zhang https://www.reddit.com/r/China/comments/8mbhad/satellite_imagery_of_xinjiang_reeducation_camps/
-* 2018-05 Omir Bekali’s account of Xinjiang education camps:
+* 2018-05 Omir Bekali's account of Xinjiang education camps:
 ** https://apnews.com/6e151296fb194f85ba69a8babd972e4b
 ** https://www.washingtonpost.com/world/asia_pacific/former-inmates-of-chinas-muslim-re-education-camps-tell-of-brainwashing-torture/2018/05/16/32b330e8-5850-11e8-8b92-45fdd7aaef3c_story.html?utm_term=.df8ea170b18f
 ** http://uk.businessinsider.com/what-is-life-like-in-xinjiang-reeducation-camps-china-2018-5
@@ -1021,7 +1021,7 @@ See also: <<flg-verifiable>>.
 [[flg-bias]]
 ==== Do you support FLG just because your wife and mother-in-law do it?
 
-Not consciously, I think I would likely support them even if I didn't have family ties to FLG. 
+Not consciously, I think I would likely support them even if I didn't have family ties to FLG.
 
 Likely I wouldn't have started this campaign if I didn't know them of course.
 
@@ -1251,6 +1251,17 @@ The communist party, which has had continuous power since 1949, killed millions 
 But the CCP has changed so much since those days, I hear you say.
 
 I agree. And <<flg-changed,so has FLG>>.
+
+===== Movement X tells people to do something bad, therefore the movement should be banned
+
+E.g. kill.
+
+Yes, convincing someone to do something bad is as bad as doing it yourself of course, and must be forbidden.
+
+Now proceed to prove that FLG made and will continue making people do bad things, going through:
+
+* <<flg-witness>>
+* <<flg-changed>>
 
 [[flg-political]]
 ==== People from movement X are only in it for political power
@@ -1551,7 +1562,7 @@ ____
 
 I am unable to get an URL that shows the comment on archive.is, so I have no proof of this claim. If you trust me, then here is a screenshot: https://imgur.com/a/YCiEEax
 
-Since I expect the ban lists to be private, I find it extremely likely that this was the user who reported me, unless both were simultaneously triggered by a third event which I have not seen. So correct me if I’m wrong here.
+Since I expect the ban lists to be private, I find it extremely likely that this was the user who reported me, unless both were simultaneously triggered by a third event which I have not seen. So correct me if I'm wrong here.
 
 Users with the same user id `crb912`, related ``Eureka'' username or same profile picture, can be found at:
 
@@ -1653,11 +1664,11 @@ How I find them: <<anti-commie-info>>.
 * 2016-04 http://blogs.reuters.com/great-debate/2016/01/26/china-threatens-sanctions-against-u-s-companies-is-this-the-future/ China economic sanctions companies that sell weapons to Taiwan (some of those companies also sell civilian products to China)
 * 2016-04 http://www.hollywoodreporter.com/news/china-demands-shutdown-disneylife-service-887599 Disney Life blocked
 * 2016-04 http://www.hollywoodreporter.com/news/china-demands-shutdown-apples-film-886831 Apple iTunes and iBooks blocked
-* 2016 http://www.bbc.com/news/blogs-news-from-elsewhere-35968855 China’s 'Great Firewall' blocks its creator
+* 2016 http://www.bbc.com/news/blogs-news-from-elsewhere-35968855 China's 'Great Firewall' blocks its creator
 * 2016 Panama papers 巴拿马文件
 ** https://en.wikipedia.org/wiki/Panama_Papers
 ** https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%96%87%E4%BB%B6
-** mention Deng Jiagui 邓家贵 https://en.wikipedia.org/wiki/Deng_Jiagui , who is Xi Jinping’s brother-in-law
+** mention Deng Jiagui 邓家贵 https://en.wikipedia.org/wiki/Deng_Jiagui , who is Xi Jinping's brother-in-law
 * 2016 http://www.theguardian.com/tv-and-radio/2016/mar/04/china-bans-gay-people-television-clampdown-xi-jinping-censorship gay depiction banned on television
 * 2016 http://www.nytimes.com/2016/02/27/world/asia/china-zhejiang-christians-pastor-crosses.html pastor 14 years jail
 * 2016 http://www.bbc.com/news/blogs-trending-35496562 Armani Communist - http://www.ibtimes.com/xi-jinping-wants-overhaul-image-chinas-rich-kids-1961207 - first section of https://www.youtube.com/watch?v=ZKQ5ijFZ_j8
@@ -1669,7 +1680,7 @@ How I find them: <<anti-commie-info>>.
 === News 2015
 
 * 2015-11 http://technode.com/2015/11/24/surge-advanced-proxy-tool-ios-pulled-app-store/
-* 2015 https://news.vice.com/article/the-missing-hong-kong-booksellers-family-isnt-buying-his-televised-confession Gui Minhai, 51, from publisher Mighty Current who was going to publish a book about Xi Jinping’s love life.
+* 2015 https://news.vice.com/article/the-missing-hong-kong-booksellers-family-isnt-buying-his-televised-confession Gui Minhai, 51, from publisher Mighty Current who was going to publish a book about Xi Jinping's love life.
 * 2015 https://www.washingtonpost.com/world/asia_pacific/christians-in-china-feel-full-force-of-authorities-repression/2015/12/23/7dd0ec5a-a736-11e5-b596-113f59ee069a_story.html
 * 2015 Taiwan #1
 ** https://www.reddit.com/r/OutOfTheLoop/comments/3tz3jq/what_is_the_point_of_the_taiwan_1_thing/
