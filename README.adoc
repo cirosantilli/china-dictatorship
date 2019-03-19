@@ -401,15 +401,19 @@ If the dictatorship ends, I would like to <<do-you-hate-china,migrate to China>>
 
 ==== What is your Chinese level?
 
-Oral enough for daily things, but not understand a natural casual dinner conversation.
+Oral enough for daily things, but not understand a natural casual dinner conversation or watch TV series.
 
-If it matters, with some patience, I can make myself understood though.
+If it matters, with some patience, I can make myself understood though with some analogies and a dictionary.
 
 I read with link:http://www.perapera.org/[Perapera], write with a mixture of link:https://www.pleco.com/[Pleco], Google translate and Googling to see if Chinese actually say the sentences that way.
 
 I haven't tried to learn characters, too much effort, but I learnt the most common ones without trying.
 
 I really wish I could learn more, but I have other more important endeavours at the moment :-(
+
+Spoken Chinese is in my opinion a relatively easy language to learn from scratch, because word formation is so often logical (火山，火车), and there is no useless crap like verb conjugation and genre. I love this language.
+
+Please just get rid of the Chinese characters and move to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export. Characters are beautiful, but just take too much time to learn.
 
 [[bias]]
 === This repository is completely biased against the Chinese Government!
