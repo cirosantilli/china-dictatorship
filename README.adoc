@@ -368,7 +368,7 @@ It is more productive for you to write in English, so that the rest of the West 
 
 Especially since it seems that most Chinese already know what you are talking about.
 
-See also: <<what-is-your-chinese-level>>
+See also: <<what-is-your-chinese-level>>.
 
 [[preconceived]]
 ===== You have a preconceived opinion about China that cannot be changed
@@ -591,7 +591,7 @@ See also: <<preconceived>>
 
 ==== Do you hate China?
 
-On the contrary. China has my favorite food, language, history, culture and nature in the world. And because of that: <<would-you-like-to-live-in-china>>.
+On the contrary. China has my favorite food, <<what-is-your-chinese-level,language>>, history, culture and nature in the world. And because of that: <<would-you-like-to-live-in-china>>.
 
 As link:https://en.wikipedia.org/wiki/Bjarne_Stroustrup[Bjarne] said:
 
@@ -929,6 +929,7 @@ In 2017 - 2018, details of internment camps are emerging.
 
 It is still hard to get hard evidence, much like every other mass human rights violation, here go the best ones:
 
+* 2019-03 https://shahit.biz/eng/ database of Xinjiang victims, with precise names, location, date of birth and ID card number of victims and testimonies
 * 2018-05 generic report https://jamestown.org/program/evidence-for-chinas-political-re-education-campaign-in-xinjiang/
 * 2018-05 mapping interment camps with satelite imaging:
 ** https://www.albawaba.com/news/mapping-china%E2%80%99s-internment-camps-its-ethnic-minorities-1136100
@@ -1068,7 +1069,7 @@ But every time I told them very clearly that I know where to download the books 
 
 And they have accepted that: they think I'm a good person, and they can accept that you can also be a good person even without doing FLG.
 
-I do feel Falun Gong makes my mother-in-law more reluctant to use or actively search for <<flg-medicaiton,medication or treatment>>. But I think it is also linked to the fact that she didn't have a very good education or a good health system around. However, if we give her something, she will take it. My wife does not have any resistance to medication.
+I do feel Falun Gong makes my mother-in-law more reluctant to use or actively search for <<flg-medication,medication or treatment>>. But I think it is also linked to the fact that she didn't have a very good education or a good health system around. However, if we give her something, she will take it. My wife does not have any resistance to medication.
 
 ==== In the Tweet you say "correctional facility", but reeducation through labour has been abolished
 
