@@ -801,8 +801,12 @@ Tecent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-ban
 
 ==== Where can I find good words for a keyword attack?
 
-* https://chinadigitaltimes.net/china/directives-from-the-ministry-of-truth/?view=all updated weekly with the newest news. TODO credibility, methodology. Chinese version of list: https://chinadigitaltimes.net/chinese/category/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?view=all
-** A wiki of subversive claims by the same source: https://chinadigitaltimes.net/space/Main_Page, the "Grass-mud horse index" (cao3n2ma3 草泥马), with a censored term of the week section.
+* https://chinadigitaltimes.net This is the best source I've seen so far. Extremely comprehensive and up-to-date.
+** https://chinadigitaltimes.net/china/word-of-the-week/?view=all word of the week
+** https://chinadigitaltimes.net/china/directives-from-the-ministry-of-truth/?view=all censorship directive reports
+*** https://chinadigitaltimes.net/chinese/category/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?view=all chinese version
+** https://chinadigitaltimes.net/space/Main_Page a wiki version of the censored word lists, the "Grass-mud horse index" (cao3n2ma3 草泥马), with a censored term of the week section.
+** https://chinadigitaltimes.net/china/sensitive-words-series/?view=all sensitive words list
 ** Fun 2015 ebook: https://github.com/cirosantilli/decoding-chinese-internet-pdf-download
 * https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8
 * https://github.com/jasonqng/chinese-keywords
