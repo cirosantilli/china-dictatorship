@@ -1640,6 +1640,10 @@ How I find them: <<anti-commie-info>>.
 
 === News 2019
 
+* 2019-04 996 https://github.com/996icu/996.ICU
+** https://www.reddit.com/r/China/comments/b927sk/tencent_xiaomi_and_others_block_github_page/
+** https://www.reddit.com/r/cscareerquestions/comments/b8t8cc/overworked_chinese_developers_gather_on_github_to/
+** 180k stars in a week!!!!
 * 2019-02-24 http://fortune.com/2019/02/21/thermo-fisher-xinjiang-china-uighurs/
 ** https://www.reddit.com/r/China/comments/auqkdl/biotech_giant_thermo_fisher_stops_selling_dna/
 * 2019-02-17 https://www.scmp.com/news/china/politics/article/2186547/china-data-leak-exposes-vast-hi-tech-surveillance-operation "China data leak exposes vast hi-tech surveillance operation in Xinjiang", leak by SenseNets Technology.
