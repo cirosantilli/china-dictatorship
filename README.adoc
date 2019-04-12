@@ -225,11 +225,18 @@ To have an idea, in 2015 there are about:
 
 And if we never start somewhere, nothing will ever happen.
 
-==== Stack Overflow could be blocked at no cost by the Chinese government
+[[so-block-cost]]
+==== Stack Overflow and GitHub could be blocked at no cost by the Chinese government
 
 Hitting the block button has of course no cost.
 
-The cost of blocking Stack Overflow lies of course in the loss of information, and slower technological development.
+The cost of blocking Stack Overflow lies of course in the loss of information, and slower technological development, see also: <<why-keyword-attack>>
+
+Remember that it is not possible for the Chinese government to block only certain pages of HTTPS websites due to encryption: either the entire IP / domain name is blocked, or nothing.
+
+The 2019 996.ICU event however brought to my attention that Chinese (usually WebKit-based) browsers are already censoring HTTPS websites selectively of course, see e.g.: https://github.com/996browser/996.BROWSER/tree/77f28a36a862e3cc4d238dc47c19872156096bc4
+
+But I doubt developers use those browsers right? The only way would be for China to forbid foreign browsers entirely.
 
 [[dictator-needs-gfw]]
 === Would ending the great firewall truly end the dictatorship?
