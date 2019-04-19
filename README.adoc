@@ -392,7 +392,7 @@ I also have doubts about certain things I do as expressed throughout this FAQ.
 
 Also, I have never said that that anyone else is wrong.
 
-In the end, I just end up thinking about new replies to things people say to me, and add them to this FAQ so that future replies will be faster to copy paste.
+In the end, I just end up thinking about new replies to things people say to me, and add them to this FAQ so that future replies will be faster to copy paste. See also: <<better-to-do>>.
 
 ==== Have you ever lived in China?
 
@@ -723,7 +723,7 @@ This is how much time I spend on this to give you an idea:
 
 * every week or two, someone sends me a message, I reply with "read the FAQ", and usually update
 * I follow https://www.reddit.com/r/China amongst many other programming subs, and all major bad news show up there. See also: <<anti-commie-info>>
-* when something bad enough comes up, I go to https://chinadigitaltimes.net/china/sensitive-words-series/ and update <<keyword-attack,my keyword attack>>. I've only been updating it on Stack Overflow these days, since GitHub does not show my profile name prominently.
+* when something bad enough comes up, I go to https://chinadigitaltimes.net/china/sensitive-words-series/ and update <<keyword-attack,my keyword attack>>. I've only been updating it on Stack Overflow and GitHub these days.
 
 Then I just contribute to programming websites exactly as I would if I weren't making this campaign.
 
@@ -1015,6 +1015,22 @@ I also believe that a good solution to balance out government power is the secon
 When a government controls all information to make it look good, and no one can challenge it, you cannot trust _any_ of the news produced by that country, as anything could be fake.
 
 It is much better to have some fake news, but also few sources which are likely telling the truth.
+
+=== What is your reply strategy?
+
+People get kind of passionate sometimes about politics. And some of them might also be just malicious wumaos, although it is generally not possible to distinguish between them.
+
+In order to not waste too much time on those, I use the following strategy:
+
+If the original thread post is not very interesting, I try to parse it quickly and reply once, always <<better-to-do,linking to the FAQ>>, and then unfollow.
+
+I then do my best to never read the inevitable reply again. An interesting reply never follows from a non-interesting original post.
+
+If the user keeps generating notifications, warning + temporary block.
+
+If the post is outright useless and offensive, direct user block, with a link to the link:CONTRIBUTING.md[].
+
+I have also been pointed out to the following reply strategy by  C.K. Hung which might be of interest: https://ckhung0.blogspot.com/2017/07/50-cents-party.html
 
 === Falun Gong
 
@@ -1769,6 +1785,7 @@ How I find them: <<anti-commie-info>>.
 * 2008 https://en.wikipedia.org/wiki/Tofu-dreg_project 豆腐渣工程 https://en.wikipedia.org/wiki/China%27s_Unnatural_Disaster:_The_Tears_of_Sichuan_Province
 * 2008 https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response https://zh.wikipedia.org/wiki/2011%E5%B9%B4%E7%94%AC%E5%8F%B0%E6%B8%A9%E9%93%81%E8%B7%AF%E5%88%97%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85 Wenzhou train collision 2011年甬台温铁路列车追尾事故:
 * 2008 https://en.wikipedia.org/wiki/2008_Tibetan_unrest https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E8%A5%BF%E8%97%8F%E9%AA%9A%E4%B9%B1 Tibetan unrest 西藏骚乱
+** https://file.wikileaks.org/file/tibet-protest-photos/ Good gory photos from the event.
 * 2005 https://en.wikipedia.org/wiki/Dongzhou_protests https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%B4%B2%E4%BA%8B%E4%BB%B6 Dongzhou protests
 * 1999 http://www.lionsroar.com/apple-thinks-different-about-the-dalai-lama-in-china-2/ Apple censors Dalai Lama for China
 * 1989 https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989 https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6 Tiananmen Square protests 六四事件:
