@@ -844,7 +844,11 @@ I am currently trying to maintain in my Stack Overflow Location a ranking of eve
 
 If you think that this list can be improved, please open an issue explaining how and why.
 
-==== Are there other openly dissident users on Stack overflow?
+==== Are there other openly dissident users on Stack Overflow?
+
+Query to find them: https://data.stackexchange.com/stackoverflow/query/312860/chinese-dissidents-by-keyword-aboutme-or-displayname
+
+Notable ones only here (high rep or innovative criticism):
 
 * "GNUSupporter 8964民主女神 地下教會"
 ** https://math.stackexchange.com/users/290189/gnusupporter-8964%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E-%E5%9C%B0%E4%B8%8B%E6%95%99%E6%9C%83
@@ -871,9 +875,29 @@ Users who had GFW references but removed it:
 * http://stackoverflow.com/users/651907/jclin
 ** http://web.archive.org/web/20160516065151/https://stackoverflow.com/users/651907/jclin
 
-Users who mentioned me in their profiles at some point:
+Misc interesting stuff:
 
-* https://web.archive.org/web/20170602054631/https://stackoverflow.com/users/815408/%E8%AF%B7%E5%B0%81%E6%8E%89ciro-santilli-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%87%E5%B2%81
+* <location>火车站酒店小姐 (about 20 accounts with that pattern)
+** https://stackoverflow.com/users/7040504/%E8%8E%86%E7%94%B0%E7%81%AB%E8%BD%A6%E7%AB%99%E9%85%92%E5%BA%97%E5%B0%8F%E5%A7%90
+** http://web.archive.org/web/20190428090348/https://stackoverflow.com/users/7040504/%E8%8E%86%E7%94%B0%E7%81%AB%E8%BD%A6%E7%AB%99%E9%85%92%E5%BA%97%E5%B0%8F%E5%A7%90
+** Interesting list of prostitution spam / sockpuppets? All have the exact same profile information.
+** Hitting query due to "审查", but the usage is unrelated to the Firewall.
+
+Anti-dissident users:
+
+* https://stackoverflow.com/users/815408
+** https://web.archive.org/web/20170602054631/https://stackoverflow.com/users/815408/%E8%AF%B7%E5%B0%81%E6%8E%89ciro-santilli-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%87%E5%B2%81
+** username: "请封掉Ciro Santilli 中国共产党万岁"
+** profile: "中国万岁！ 中国共产党万岁！ 法轮功，民运，台独在中国共产党的铁蹄下不过是螳臂当车！"
+* https://stackoverflow.com/users/9393161
+** http://web.archive.org/save/https://stackoverflow.com/users/9393161/ciro-santilli-%E7%9A%84%E9%80%A0%E8%B0%A3%E6%98%AF%E5%8F%AF%E8%80%BB%E8%A1%8C%E4%B8%BA
+** username: "Ciro Santilli 的造谣是可耻行为" http://web.archive.org/save/https://stackoverflow.com/users/9393161/ciro-santilli-%E7%9A%84%E9%80%A0%E8%B0%A3%E6%98%AF%E5%8F%AF%E8%80%BB%E8%A1%8C%E4%B8%BA
+* https://stackoverflow.com/users/8454187
+** username: "Snowden Assange Wounded Knee"
+** profile: "燃(ri)烧(si)您(ni)的(de)梦(ma)，Ciro Santilli. StackOverflow上的一个用户. The Oliver Stone Experience"
+** explanation:
+*** "燃烧您的梦": http://www.nq6.com/dj/1674.html
+*** "Wounded Knee": https://en.wikipedia.org/wiki/Wounded_Knee_Massacre
 
 Query to find them: http://data.stackexchange.com/stackoverflow/query/312863/mentioned-ciro-santilli-on-aboutme-or-displayname
 
