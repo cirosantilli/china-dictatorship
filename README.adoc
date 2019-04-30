@@ -1693,6 +1693,7 @@ How I find them: <<anti-commie-info>>.
 
 === News 2019
 
+* 2019-04-28 https://www.bbc.co.uk/news/world-asia-48084019 Hong Kong: Thousands protest against China extradition law
 * 2019-04 996 https://github.com/996icu/996.ICU
 ** https://www.reddit.com/r/China/comments/b927sk/tencent_xiaomi_and_others_block_github_page/
 ** https://www.reddit.com/r/cscareerquestions/comments/b8t8cc/overworked_chinese_developers_gather_on_github_to/
