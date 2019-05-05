@@ -23,3 +23,9 @@ Constructive disagreement will never be interfered with.
 If you wish to appeal a punitive measure, please contact me through some unblocked method, and your request will be reviewed. "I'm sorry I got mad that time" will get you out of jail for first time offenders.
 
 I will not reply anything non-trivial on Chinese websites, since all of those will be taken down sooner or later, therefore wasting my time. I will just tell you to recontact on a non-Chinese website, or re-post your question with the answer on a Western website.
+
+Blocked users:
+
+- https://github.com/brglng | https://github.com/cirosantilli/china-dictatorship/issues/42#event-2319426123 | https://github.com/isaacs/github/issues/1570 | http://web.archive.org/web/20190505072320/https://github.com/cirosantilli/china-dictatorship/issues/42
+- https://github.com/genema | http://web.archive.org/web/20180410113958/https://github.com/cirosantilli/china-dictatorship/issues/13
+- https://github.com/ESSSD | https://github.com/cirosantilli/china-dictatorship/issues/29 | http://web.archive.org/web/20190104105832/https://github.com/cirosantilli/china-dictatorship/issues/29
