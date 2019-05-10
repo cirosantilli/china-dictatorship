@@ -102,7 +102,7 @@ ____
 While average rate of growth do not appear to differ much between democracies and authoritarian regimes, the variability in performance does differ more among authoritarian governments. China has had remarkable growth since the 1980s, but the prolonged devastation and hardship produced by China's “great leap forward” (when millions of farmers starved to death) and its Cultural Revolution would unlikely have occurred in a democratic country like say India. Nor is it likely that say Cuba and many African nations would have suffered so long with such terrible economic policies if they had reasonably democratic institutions.
 ____
 
-Maybe China was poor because of Mao's crazy communist regime. Similar regimes also made Russia poor. And yes, before that exploitation by the West may have been a factor.
+Maybe China was poor because of Mao's crazy communist regime. Similar regimes also made <<russia>> poor. And yes, before that exploitation by the West may have been a factor.
 
 Definitely, the current regime is better than Mao's, but just imagine how rich China could be if it had more freedom and justice.
 
@@ -243,7 +243,7 @@ But I doubt developers use those browsers right? The only way would be for China
 
 Not 100% sure.
 
-In Russia for example, the Internet is relatively free, but the government controls most professional media, which is what most people end up seeing, by suing dissidents media out of business.
+In <<Russia>> for example, the Internet is relatively free, but the government controls most professional media, which is what most people end up seeing, by suing dissidents media out of business.
 
 But on the other hand Russia is already much freer than China.
 
@@ -487,6 +487,86 @@ ____
 
 I find it amusing that a Soviet movie criticizes dictatorships.
 
+=== There are bad things happening all over the world, why don't you fight for those causes as well / instead?
+
+We have to choose the one we think is the worst, and focus on it.
+
+What is worse is a subjective choice. For me:
+
+* I love China and my Chinese wife, see also: <<bias>>
+* I hate dictatorships, and China is the largest one by population / GDP / link:https://www.ploughshares.org/world-nuclear-stockpile-report[nuclear stockpile]
+
+My <<keyword-choice,SO username>> and <<better-to-do,protest time>> are not infinite.
+
+See also: <<western-democracies-are-not-perfect>>
+
+==== Western democracies are not perfect
+
+That is definitely true.
+
+Nothing is perfect in this world.
+
+I just think that they are way better than dictatorships.
+
+As link:https://en.wikipedia.org/wiki/Argument_from_authority[Churchill] once brilliantly link:https://richardlangworth.com/worst-form-of-government[put it]:
+
+____
+Indeed it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time.
+____
+
+However, this is all obviously subjective, and believing that dictatorship is a better form of government is also a valid belief.
+
+See also:
+
+* <<richer>>
+* <<preconceived>>
+* <<bias>>
+
+===== Snowden
+
+The level of unknown surveillance that Snowden uncovered is a bad thing about the US.
+
+However, it is obvious that the level of surveillance in any dictatorship will be infinitely higher, since the Government has much more power.
+
+Snowden's prosecution was inevitable. Countries need secret services. Secret services need laws that prevent leaking classified information that was produced by government officials.
+
+I have never and will never criticize China or any other country for spying or prosecuting spies.
+
+The problem with dictatorships, is that they make _every_ information that makes them look bad a "state secret". Including any information that hundreds of thousands of people have witnessed, or economic performance metrics.
+
+If Snowden were Chinese, the Chinese government would ban talking about him or anything he uncovered. A <<keyword-attack,keyword attack>> with "Snowden" in the West has no effect.
+
+Ultimately, I think camera surveillance is somewhat inevitable, because people will always want to fight crime and terrorism and surveillance technology keeps getting cheaper and cheaper.
+
+I am however strictly against the ban of cryptography.
+
+I also believe that a good solution to balance out government power is the second amendment. I'd rather have more school shootings and less full blown dictatorship led genocides / mass human rights violations.
+
+===== Fake news
+
+When a government controls all information to make it look good, and no one can challenge it, you cannot trust _any_ of the news produced by that country, as anything could be fake.
+
+It is much better to have some fake news, but also few sources which are likely telling the truth.
+
+==== Russia
+
+Russia is clearly the number 2 dictatorship in the world by population / GDP and the link:https://www.ploughshares.org/world-nuclear-stockpile-report[#1 nuclear arsenal], so here we go.
+
+I've always been curious to how Russia can be both oppressive and a democracy, unlike China which doesn't even try to pretend. This is what I gather:
+
+* the government controls all major media. If any media says bad things against them, the government finds pretexts to create lawsuits or increase taxes against such companies. Therefore all people end up thinking that the government is good.
+* just like China, they emphasise the threat of the foreign countries, especially the US, as a justification for having an oppressive power.
+* the government puts pressure on any significant opposition candidate. One technique is to find some reason to put them in jail for 2 months, which by Russian law forbids them from participating in further elections. Only candidates that don't really stand a chance are left as a fake opposition. is fine, but if you reach some prominence, you start taking the same risks as politicians, although you are more likely to face more brutal illegal gangster violence threats as you are less visible
+
+While I'm at it, some interesting news:
+
+* 2018-04 http://www.bbc.co.uk/news/technology-43752337 Russia to block Telegram app over encryption
+* 2017 http://www.bbc.co.uk/news/world-europe-40635267 Russia Jehovah's Witnesses banned after they lose appeal
+* 2017 http://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay
+* 2016 https://news.vice.com/en_us/article/kzgkv3/russians-now-need-a-passport-to-watch-pornhub
+* 2014 link:https://en.wikipedia.org/wiki/Putin_khuylo![]
+* 1995 https://en.wikipedia.org/wiki/Vladislav_Listyev
+
 === Irrelevant personal questions
 
 ==== Why did you start the keyword attack?
@@ -666,22 +746,6 @@ Nothing else is canonical. LHZ seems to have said that there are enlightened fol
 
 Notably, <<flg-organized,FLG media>> such as http://www.minghui.org/ is believer led and thus not canonical.
 
-==== There are bad things happening all over the world, why don't you fight for those causes as well / instead?
-
-We have to choose the one we think is the worst, and focus on it.
-
-What is worse is a subjective choice. For me:
-
-* I love China and my Chinese wife
-* I hate dictatorships, and China is the largest one
-
-My <<keyword-attack,SO username>> and protest time are not infinite.
-
-See also:
-
-* <<russia>
-* <<western-democracies-are-not-perfect>
-
 === Is your campaign funded or otherwise supported by some organization?
 
 Nope.
@@ -823,6 +887,10 @@ Tecent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-ban
 [[keyword-choice]]
 ==== How do you choose keyword for the keyword attack?
 
+I haven't counted, but the limit for Stack Overflow is quite low, and I'm always almost at the maximum, which is about "Ciro Santilli" + 3 3-4 Chinese character events with a separator.
+
+These are some of my prioritization guidelies:
+
 * recent cases receive a large prime over raw death toll, because older cases can always be attributed to other people.
 +
 E.g., I've heard there is even some opening towards acknowledging the Great Famine, thus 烏坎事件 (and others from my previous profile names)
@@ -838,9 +906,7 @@ Non e.g.: corruption and pollution. Those are hard to quantify, and there is alw
 Freedom of speech however, is immediately verifiable (e.g. "my Weibo was taken down"), and undeniably caused by the current central government.
 * the more people affected, and the more deeply they have been affected, the more important obviously
 
-In the end, it is all about prioritization, and how much profile name real estate is available.
-
-I am currently trying to maintain in my Stack Overflow Location a ranking of events in a single string, so that it can be easily copy pasted around.
+I am currently trying to maintain in my Stack Overflow Location a ranking of events in a single string, so that it can be easily copy pasted around. The location appears on every page if you hover over my account name, so it is likely in the HTML at least.
 
 If you think that this list can be improved, please open an issue explaining how and why.
 
@@ -973,72 +1039,6 @@ It is still hard to get hard evidence, much like every other mass human rights v
 ** https://apnews.com/6e151296fb194f85ba69a8babd972e4b
 ** https://www.washingtonpost.com/world/asia_pacific/former-inmates-of-chinas-muslim-re-education-camps-tell-of-brainwashing-torture/2018/05/16/32b330e8-5850-11e8-8b92-45fdd7aaef3c_story.html?utm_term=.df8ea170b18f
 ** http://uk.businessinsider.com/what-is-life-like-in-xinjiang-reeducation-camps-china-2018-5
-
-[[russia]]
-=== What do you think about Russia?
-
-I've always been curious to how Russia can be both oppressive and a democracy, unlike China which doesn't even try to pretend. This is what I gather:
-
-* the government controls all major media. If any media says bad things against them, the government finds pretexts to create lawsuits or increase taxes against such companies. Therefore all people end up thinking that the government is good.
-* just like China, they emphasise the threat of the foreign countries, especially the US, as a justification for having an oppressive power.
-* the government puts pressure on any significant opposition candidate. One technique is to find some reason to put them in jail for 2 months, which by Russian law forbids them from participating in further elections. Only candidates that don't really stand a chance are left as a fake opposition.
-* small time social media is fine, but if you reach some prominence, you start taking the same risks as politicians, although you are more likely to face more brutal illegal gangster violence threats as you are less visible
-
-While I'm at it, some interesting news:
-
-* 2018-04 http://www.bbc.co.uk/news/technology-43752337 Russia to block Telegram app over encryption
-* 2017 http://www.bbc.co.uk/news/world-europe-40635267 Russia Jehovah's Witnesses banned after they lose appeal
-* 2016 https://news.vice.com/en_us/article/kzgkv3/russians-now-need-a-passport-to-watch-pornhub
-* http://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay
-* 1995 https://en.wikipedia.org/wiki/Vladislav_Listyev
-
-=== Western democracies are not perfect
-
-That is definitely true.
-
-Nothing is perfect in this world.
-
-I just think that they are way better than dictatorships.
-
-As link:https://en.wikipedia.org/wiki/Argument_from_authority[Churchill] once brilliantly link:https://richardlangworth.com/worst-form-of-government[put it]:
-
-____
-Indeed it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time.
-____
-
-However, this is all obviously subjective, and believing that dictatorship is a better form of government is also a valid belief.
-
-See also:
-
-* <<richer>>
-* <<preconceived>>
-* <<bias>>
-
-==== Snowden
-
-The level of unknown surveillance that Snowden uncovered is a bad thing about the US.
-
-However, it is obvious that the level of surveillance in any dictatorship will be infinitely higher, since the Government has much more power.
-
-Snowden's prosecution was inevitable. Countries need secret services. Secret services need laws that prevent leaking classified information that was produced by government officials.
-
-I have never and will never criticize China or any other country for spying or prosecuting spies.
-
-The problem with dictatorships, is that they make _every_ information that makes them look bad a "state secret". Including any information that hundreds of thousands of people have witnessed, or economic performance metrics.
-
-If Snowden were Chinese, the Chinese government would ban talking about him or anything he uncovered. A <<keyword-attack,keyword attack>> with "Snowden" in the West has no effect.
-
-Ultimately, I think camera surveillance is somewhat inevitable, because people will always want to fight crime and terrorism and surveillance technology keeps getting cheaper and cheaper.
-
-I am however strictly against the ban of cryptography.
-
-I also believe that a good solution to balance out government power is the second amendment. I'd rather have more school shootings and less full blown dictatorship led genocides / mass human rights violations.
-
-==== Fake news
-
-When a government controls all information to make it look good, and no one can challenge it, you cannot trust _any_ of the news produced by that country, as anything could be fake.
-
-It is much better to have some fake news, but also few sources which are likely telling the truth.
 
 === What is your reply strategy?
 
