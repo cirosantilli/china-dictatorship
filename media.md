@@ -6,7 +6,6 @@ Sources of information pertinent to this repository.
 
 Which is the same as not controlled by it :-)
 
-- <https://www.reddit.com/r/China>
 - <https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China#Dissident_news>
 - <https://en.wikipedia.org/wiki/Radio_Free_Asia> <https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0>
 - China News Digest 华夏文摘 <https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98>
@@ -23,8 +22,6 @@ Which is the same as not controlled by it :-)
 - <https://en.wikipedia.org/wiki/Global_Internet_Freedom_Consortium> (GIFC)
 - <http://chuangcn.org/>
 - <http://64tianwang.com/> <https://en.wikipedia.org/wiki/Huang_Qi> <https://www.hongkongfp.com/2018/02/16/chinas-multi-pronged-crackdown-dissent-took-aim-citizen-journalists-rights-defence-websites/>
-- <http://www.chinafile.com/> Some good articles. "ChinaFile is an online magazine published by the Center on U.S.-China Relations at Asia Society", based in New York.
-- <https://bitterwinter.org/>
 
 ## Uncertain
 

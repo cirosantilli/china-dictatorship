@@ -339,6 +339,8 @@ If China <<war,starts a war>>, I might have to fight it.
 . If I lived under a dictatorship, I would welcome foreign intervention.
 +
 Even if you don't, I know several Chinese who do.
++
+Are you certain that your beloved CCP would be in power today if the Japanese hadn't weakened the Guomindang? https://china-journal.org/2018/02/26/why-did-chiang-kai-shek-lose-china-the-guomindang-regime-and-the-victory-of-the-chinese-communist-party
 . You have been brainwashed by the commies who say that all foreigners are bad :-)
 +
 The commies do this because most foreign countries are telling the Chinese to get rid of the dictatorship.
@@ -1832,7 +1834,18 @@ How I find them: <<anti-commie-info>>.
 * 1987–1989 https://en.wikipedia.org/wiki/1987%E2%80%9389_Tibetan_unrest https://zh.wikipedia.org/wiki/1989%E5%B9%B4%E6%8B%89%E8%90%A8%E9%AA%9A%E4%B9%B1. Videos: https://www.youtube.com/watch?v=0jylh1qfOG4, https://www.youtube.com/watch?v=qMZgoRuPJBg Tibetan unrest 年拉萨骚乱
 * 1978, 1997 https://en.wikipedia.org/wiki/Beijing_Spring https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5 https://en.wikipedia.org/wiki/Democracy_Wall https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99
 
-== Biased media
+== Media 媒体
+
+Sources of information pertinent to this repository.
+
+=== Commentary media
+
+The following offer interesting commentary, but not to be used as primary sources:
+
+* https://china-journal.org
+* http://www.chinafile.com Some good articles. "ChinaFile is an online magazine published by the Center on U.S.-China Relations at Asia Society", based in New York.
+
+=== Biased media
 
 I consider the media in this section biased, and never cite it for fact checking.
 
@@ -1860,7 +1873,7 @@ I consider the media in this section biased, and never cite it for fact checking
 *** http://www.china-embassy.org/eng/lj/t36322.htm
 *** http://web.archive.org/web/20180414233331/http://www.china-embassy.org/eng/lj/t36322.htm
 
-=== Falun Gong media
+==== Falun Gong media
 
 * https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television
 ** https://zh.wikipedia.org/wiki/%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0
@@ -1881,7 +1894,7 @@ I consider the media in this section biased, and never cite it for fact checking
 * https://en.tuidang.org/
 ** https://en.wikipedia.org/wiki/Tuidang_movement
 
-=== USA government media
+==== USA government media
 
 * https://en.wikipedia.org/wiki/Voice_of_America
 ** http://www.voa.com/
