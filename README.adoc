@@ -1695,6 +1695,9 @@ How I find them: <<anti-commie-info>>.
 
 === News 2019
 
+* 2019-05-09 https://www.youtube.com/watch?v=t2hBtXdaYsQ&list=PLcZOZrP1P_V5d7RMOKXF1PT70fcfYJpgY&index=2&t=14s Cynthia Liu, daughter of Liu Changming pleas freedom on YouTube, commented upload by CBS, TODO can't find original video on YouTube, maybe they sent straight to CBS?
+* 2019-05-07 https://www.theguardian.com/world/2019/may/07/revealed-new-evidence-of-chinas-mission-to-raze-the-mosques-of-xinjiang
+* 2019-05-07 https://www.youtube.com/watch?v=ULaJVWOr4ko CNN does a few Xinjiang interviews and sends reporter to visit some of the concentration camps
 * 2019-04-28 https://www.bbc.co.uk/news/world-asia-48084019 Hong Kong: Thousands protest against China extradition law
 * 2019-04 996 https://github.com/996icu/996.ICU
 ** https://www.reddit.com/r/China/comments/b927sk/tencent_xiaomi_and_others_block_github_page/
@@ -1711,6 +1714,7 @@ How I find them: <<anti-commie-info>>.
 * 2018-12 https://www.youtube.com/watch?v=zzWApdCNdik 100 Christians detained in China crackdown
 * 2018-12 https://www.youtube.com/watch?time_continue=8&v=dsd1NkCKaNg In full: 'I begged them to kill me' - ex-Xinjiang detainee Mihrigul Tursun gives testimony in the US
 * 2018-11 https://www.bbc.co.uk/news/world-asia-45812419 Xinjiang legalises 're-education' camps
+* 2018-11 https://www.businessinsider.com/liu-changming-china-holds-officials-family-hostage-to-force-return-2018-11 China is holding a renegade official's family hostage to pressure him to come back. Western media, for the love of God, include names in Chinese news titles: Liu Changming, wife Sandra Han, children Victor and Cynthia Liu.
 * 2018-08 https://theintercept.com/2018/08/08/google-censorship-china-blacklist/
 * 2018-08 https://www.reuters.com/article/us-china-rights-un/u-n-says-it-has-credible-reports-that-china-holds-million-uighurs-in-secret-camps-idUSKBN1KV1SU
 * 2018-07 https://www.youtube.com/watch?v=Eak3WRtcdko Sairagul Sawytbai testifies to the existence of Chinese concentration camps in Xinjiang
@@ -1900,6 +1904,11 @@ I consider the media in this section biased, and never cite it for fact checking
 ** http://www.voa.com/
 ** http://www.voachinese.com/
 ** http://www.voacantonese.com/
+
+[[videos]]
+== Videos 视频
+
+See my "China Politics" playlist for a collection of all sensitive videos I have ever found on YouTube: https://www.youtube.com/playlist?list=PLcZOZrP1P_V5d7RMOKXF1PT70fcfYJpgY Ping me if you find any I haven't included.
 
 [[funny]]
 == Funny 好笑
