@@ -934,7 +934,11 @@ Notable ones only here (high rep or innovative criticism):
 ** http://stackoverflow.com/users/1009479/yu-hao
 ** http://archive.is/76FCb
 ** "GFW (Great Firewall of China) is one of the most notorious inventions in the history of Internet. Anyone working for it should be ashamed."
-** Scott 混合理论
+* iBug
+** https://stackoverflow.com/users/5958455/ibug
+** iBug http://web.archive.org/web/20190507140910/https://stackoverflow.com/users/5958455/ibug
+** "The Communist Party of China is a state criminal that is continuously committing state crime to ordinary Chinese citizens!" followed by an event list.
+* Scott 混合理论
 +
 https://stackoverflow.com/users/1230329/scott-%E6%B7%B7%E5%90%88%E7%90%86%E8%AE%BA
 +
