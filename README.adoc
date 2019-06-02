@@ -9,7 +9,7 @@
 :toclevels: 6
 :toc-title:
 
-Chinese "Communist" "Dictatorship" "facts". 中国《共产主义》《独裁统治》的《事实》Home to the <<faq,all-answering FAQ>> and the <<news,fake anti-China news compilation>>. Heil Xi.
+Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。Home to the <<faq,all-answering FAQ>> and the <<news,"fake" "anti-China" news compilation>>. <<faq,常见问答集>>和<<news,《反对中国》的《假新闻》集>>。<<xi-abolishes-term-limits-2018-03,Heil Xi>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
 toc::[]
 
@@ -178,27 +178,21 @@ There is already a lot of literature about this, specially in the cases of Cuba 
 * https://www.heritage.org/trade/report/why-the-cuban-trade-embargo-should-be-maintained
 * http://www.slate.com/articles/news_and_politics/the_big_idea/2006/08/thanks_for_the_sanctions.html
 
-Some ideas:
+The key dilemma is is:
 
-* This embargo is a bit different than other in the following sense:
-* Programmers are more likely to develop better Firewall climbing tools if SO is blocked
-* If we don't take any action to show our dissatisfaction, the dictatorship never ends.
+* if we keep contact with the Dictatorship, maybe its people will see that democracy is better and start a liberating revolution
+* if we keep giving technology to the Dictatorship and it does not become a democracy, we are making a Dictatorship more technologically advanced, and therefore <<war,dangerous>>
+
+Some interesting aspects of the keyword attack embargo:
+
+* it is immediately self enforcing: we don't need politicians to decide and enforce the complex "if you do this, we punish you like that" question.
 +
-The commies exist like any other organization for a sole purpose: maintain their own power.
-+
-If nothing is done to show dissatisfaction, they will never give up on that power.
-+
-There are two extremes of action (both which _I don't_ support):
-+
-* everyone become a willing mindless slave of the leader: perfect stability
-* everyone take up arms and do terrorism: perfect instability
-+
-But between those two extremes, what is the right measure? I think that saying nothing is too close to stability.
-+
-I do see that one alternative scenario is that if we do nothing, maybe there will be more and more contact with Western countries, and the Chinese will see for themselves that we are not that bad, and eventually request democracy.
-* Even if programmers get very powerful, it is not very likely that they will succeed to undo the dictatorship, they simply don't have enough power.
-+
-I'd rather have a less strong dictatorship, than one with good programmers.
+By political and technological information is together, and this immediately puts the dictatorship in a bad spot, without us having to decide anything.
+* by affecting programmers in particular through Stack Overflow and GitHub, we make them more likely to develop better Firewall climbing tools themselves
+
+One point in favor of the embargo is that China has opened up since the 80's 90's, but did freedom improve at all? Under Xi Jinping, it may be argued that it did not, and maybe that we should just stop feeding them technology and accept that they won't become free.
+
+Trump's link:https://www.theguardian.com/commentisfree/2019/jun/02/trump-banning-huawei-beginning-of-biggest-trade-war-ever-united-states[2019 China trade war], and in particular the Huawei ban, is an event that have brought this question to the spotlight once again.
 
 ===== Keyword attacks could be used by certain CCP political groups to justify blocking off the entire external Internet, and make the dictatorship even more pervasive
 
@@ -340,7 +334,7 @@ If China <<war,starts a war>>, I might have to fight it.
 +
 Even if you don't, I know several Chinese who do.
 +
-Are you certain that your beloved CCP would be in power today if the Japanese hadn't weakened the Guomindang? https://china-journal.org/2018/02/26/why-did-chiang-kai-shek-lose-china-the-guomindang-regime-and-the-victory-of-the-chinese-communist-party
+Are you certain that your beloved CCP would be in power today if the link:https://china-journal.org/2018/02/26/why-did-chiang-kai-shek-lose-china-the-guomindang-regime-and-the-victory-of-the-chinese-communist-party[Japanese hadn't weakened the Guomindang] and the link:https://www.wilsoncenter.org/blog-post/how-stalin-elevated-the-chinese-communist-party-to-power-xinjiang-1949[Soviet Union helped out Mao]?
 . You have been brainwashed by the commies who say that all foreigners are bad :-)
 +
 The commies do this because most foreign countries are telling the Chinese to get rid of the dictatorship.
@@ -1737,8 +1731,6 @@ How I find them: <<anti-commie-info>>.
 * 2018-04 https://www.whatsonweibo.com/weibos-new-online-guidelines-no-homosexuality-allowed/
 * 2018-04 https://www.washingtonpost.com/world/asia_pacific/congressional-leaders-urge-us-to-press-china-over-reports-of-mass-uighur-detentions/2018/04/05/9bd17c90-38b3-11e8-b57c-9445cc4dfa5e_story.html
 * 2018-03 https://supchina.com/2018/03/29/no-tattoos-at-the-2018-strawberry-music-festival-in-hangzhou/ Funny pics at: http://app.myzaker.com/news/article.php?f=xiongzhang&pk=5ac0eb1877ac6465da676481
-* 2018-03 Xi prepares for life rule 包子露宪
-** https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution
 * 2018-02 https://www.nytimes.com/2018/02/25/world/asia/china-xi-jinping.html
 * 2018-02 https://www.theguardian.com/world/2018/jan/25/at-least-120000-muslim-uighurs-held-in-chinese-re-education-camps-report
 * 2018-01 https://www.theguardian.com/world/2018/jan/19/outspoken-chinese-human-rights-lawyer-yu-wensheng-arrested
@@ -1747,6 +1739,11 @@ How I find them: <<anti-commie-info>>.
 * 2018-01 http://uk.businessinsider.com/china-marriott-tweets-censorship-2018-1?r=US&IR=T Marriott lists Taiwan as country in the website
 * 2018-01 http://chuangcn.org/2018/01/the-mastermind/
 * 2018-01 http://time.com/5112061/china-hip-hop-ban-tattoos-television/
+
+==== Xi abolishes term limits 2018-03
+
+* 包子露宪 https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution
+* https://www.nytimes.com/2018/03/10/world/asia/china-xi-jinping-term-limit-explainer.html
 
 === News 2017
 
