@@ -23,26 +23,6 @@ Tools:
 -   <https://github.com/bannedbook/fanqiang> wall climbing tool. TODO working principle.
 -   <https://github.com/Alvin9999/new-pac> repo is yet another website blacklist. But what is really hot seems to be wiki, which contains a bunch of censorship circumvention tutorials with screenshot guides: <https://github.com/Alvin9999/new-pac/wiki>
 
-Monitoring and data:
-
--   <http://greatfire.org/>
-    - <https://en.wikipedia.org/wiki/GreatFire>
-    - <https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%BE%AE%E5%8D%9A>
-    - <https://freeweibo.com/>
-    - <https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how> made some noise at the time
-    - <https://twitter.com/GreatFireChina>
--   other websites: http://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/288497#288497
--   Harvard papers
-    - <http://gking.harvard.edu/50c#>
-    - <http://gking.harvard.edu/publications/how-Censorship-China-Allows-Government-Criticism-Silences-Collective-Expression>
-    - <http://gking.harvard.edu/publications/randomized-experimental-study-censorship-china>
--   emulation
-    - <https://github.com/phoeagon/gfw-sim>
--   <https://github.com/citizenlab/chat-censorship> data on Censorship
--   <https://github.com/gfwlist/gfwlist> do a `base64 -d gfwlist.txt` to view the list. Syntax described at: <https://github.com/gfwlist/gfwlist/wiki/Syntax>
-
-Information:
-
 ## Websites 网站
 
 - <http://en.wikipedia.org/wiki/Websites_blocked_in_mainland_China> <http://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A2%AB%E5%B0%81%E9%94%81%E7%BD%91%E7%AB%99%E5%88%97%E8%A1%A8>
@@ -137,20 +117,3 @@ Skype TODO status?:
 ## Effects
 
 - XcodeGhost <http://arstechnica.com/security/2015/09/apple-scrambles-after-40-malicious-xcodeghost-apps-haunt-app-store/>
-
-## Goals
-
-Likely, censorship has two goals 可能的是，审查有两个目标：
-
-- hide bad things about the government 隐藏有关政府坏事
-- economic protectionism 贸易保护主义
-
-Sources:
-
-- <http://web.archive.org/web/20151013163644/http://gking.harvard.edu/files/censored.pdf>
-
-## Reverse engineering
-
-Weibo:
-
-- <https://citizenlab.org/2017/04/we-cant-chat-709-crackdown-discussions-blocked-on-weibo-and-wechat/>
