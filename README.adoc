@@ -23,15 +23,13 @@ toc::[]
 
 To <<effective,destroy the firewall>>.
 
-This would then end censorship.
+This would then end <<censorship>>.
 
 And then <<dictator-needs-gfw,I believe>> that this would also <<why-end-dictatorship,end the dictatorship>>.
 
 The keyword attacks increase the cost of censorship.
 
-If commies censor things, they will get worse IT technology, and thus become less rich and militarily powerful.
-
-Maybe this hurts my argument, but Hillary agrees: https://youtu.be/d3dE_LDz_9E?t=1681 :-)
+If commies censor things, they will get worse IT technology, and thus become less <<richer,less rich>> and militarily powerful.
 
 Since all they care about, like any other politicians, is power, the only way to make them stop censorship is to make the cost of censorship higher than not censoring.
 
@@ -86,6 +84,17 @@ For:
 +
 Any criticism of the government, even if constructive, is taken as menace to power, and more likely to be shut down, which makes the government and just becomes less efficient since there is less feedback.
 * governments are monopolies, and the more powerful they are, the worst it is for competition an efficiency in general. E.g.: the startup with better government ties wins, instead of the most efficient one.
+* dictatorships need <<censorship>> to survive, and they must control all information to make themselves always look good.
++
+As a result, knowledge of problems flows more slowly, and therefore they also take longer to solve.
++
+Maybe this hurts my argument, but Hillary agrees: https://www.youtube.com/watch?v=ccGzOJHE1rw&feature=youtu.be&t=2110 "Secretary Clinton Speaks on Internet Freedom", U.S. Department of State, 2010-01-22 :-)
++
+____
+But countries that restrict free access to information or violate the basic rights of internet users risk walling themselves off from the progress of the next century
+____
++
+This is also well illustrated in the link:https://en.wikipedia.org/wiki/Chernobyl_(miniseries)[HBO 2019 miniseries "Chernobyl"], which suggests that part of the reason why Chernobyl happened is because of the Soviet Union's obsession to save face.
 
 Against:
 
@@ -150,16 +159,6 @@ But by staying in the farm, all the animals were, sooner or later, eaten one by 
 ____
 
 TODO source.
-
-===== Censorship is necessary to protect China from harmful USA propaganda
-
-I don't think this is below them, but:
-
-* without censorship, you would be much richer and stronger, and more able to defend yourselves
-* why does China also censor its own people in addition to foreign propaganda?
-* maybe this fear is greatly emphasised by the Chinese government beyond truth just to help them keep control of the country by fear and maintain their own power. Can the Americans really have that much influence in your country?
-* maybe the regions that want to split from China feel like China is not giving them anything back, and they are themselves looking for allies outside of China to help them split. With democracy, people are more likely to get what they want, and there will be split parties and votes.
-* the same argument can be used to justify any action, no matter how bad. E.g.: we must put all who criticize the government in jail, or else they will make China less united and weaker against the USA!
 
 ==== The Chinese masses are still uneducated, and not fit for free speech and democracy
 
@@ -1953,6 +1952,17 @@ Humour is the greatest weapon against dictators:
 * http://www.miniharm.com/
 
 == Censorship
+
+=== Censorship is necessary to protect China from harmful USA propaganda
+
+I don't think this is below the USA, but:
+
+* without censorship, you would be much richer and stronger, and more able to defend yourselves
+* why does China also censor its own people in addition to foreign propaganda?
+* maybe this fear is greatly emphasised by the Chinese government beyond truth just to help them keep control of the country by fear and maintain their own power. Can the Americans really have that much influence in your country?
+* maybe the regions that want to split from China feel like China is not giving them anything back, and they are themselves looking for allies outside of China to help them split. With democracy, people are more likely to get what they want, and there will be split parties and votes.
+* the same argument can be used to justify any action, no matter how bad. E.g.: we must put all who criticize the government in jail, or else they will make China less united and weaker against the USA!
+
 
 === Censorship monitoring
 
