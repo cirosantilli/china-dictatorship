@@ -14,8 +14,8 @@ Forbidden:
 
 Punitive measures, from least serious to most serious:
 
--   delete comment
 -   block user on one website. This may have the unintended side effect of deleting previous useful comments the user made on the websites. 
+-   delete comment or vandalize the user's post
 -   ban all known accounts of an user over multiple websites
 
 Constructive disagreement will never be interfered with.
@@ -24,8 +24,8 @@ If you wish to appeal a punitive measure, please contact me through some unblock
 
 I will not reply anything non-trivial on Chinese websites, since all of those will be taken down sooner or later, therefore wasting my time. I will just tell you to recontact on a non-Chinese website, or re-post your question with the answer on a Western website.
 
-Blocked users:
+If OP someone shitposts on GitHub and gets blocked, I will just make that clear by taking a web archive, posting a link on my comment, and setting the `op-block` label on the person's post: https://github.com/cirosantilli/china-dictatorship/labels/op-block
+
+Other blocked users:
 
 - https://github.com/brglng | https://github.com/cirosantilli/china-dictatorship/issues/42#event-2319426123 | https://github.com/isaacs/github/issues/1570 | http://web.archive.org/web/20190505072320/https://github.com/cirosantilli/china-dictatorship/issues/42
-- https://github.com/genema | http://web.archive.org/web/20180410113958/https://github.com/cirosantilli/china-dictatorship/issues/13
-- https://github.com/ESSSD | https://github.com/cirosantilli/china-dictatorship/issues/29 | http://web.archive.org/web/20190104105832/https://github.com/cirosantilli/china-dictatorship/issues/29
