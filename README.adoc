@@ -677,7 +677,7 @@ See also: <<preconceived>>
 
 ==== Do you hate China?
 
-On the contrary. China has my favorite food, <<what-is-your-chinese-level,language>>, history, culture and nature in the world. And because of that: <<would-you-like-to-live-in-china>>.
+On the contrary. China has my favorite <<restaurants,food>>, <<what-is-your-chinese-level,language>>, history, culture and nature in the world. And because of that: <<would-you-like-to-live-in-china>>.
 
 As link:https://en.wikipedia.org/wiki/Bjarne_Stroustrup[Bjarne] said:
 
@@ -2071,6 +2071,502 @@ Or to my other online presences, due to China activity:
 * 2015-08-03: 21 visitor Facebook peak, can't find source
 * 2015-06-20: (deleted) link:https://www.plurk.com/p/l1jjn4[] Archive: http://web.archive.org/web/20150918110032/https://www.plurk.com/p/l1jjn4 "這阿豆阿的名字XDD" by https://www.plurk.com/m/u/cyuanXD
 * 2015-04-10: https://v2ex.com/t/182766 (cannot archive, login requires CAPTCHA, link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-04.html[Chromium CTRL-S save]) "Stack Overflow 上看到一个丧心病狂的程序员" by https://v2ex.com/member/cloudhunter
+
+[[restaurants]]
+== The best Chinese restaurants outside of China 中国以外最好的中国饭店
+
+Google Maps list: https://goo.gl/maps/zBkmPaU1wLP2
+
+[[resturants--introduction]]
+=== Introduction
+
+Most Western people do not know what real Chinese food is.
+
+When you first see it, your mind is completely blown: there it was, one of the best foods in the world by far, and you had never tried it: only a completely watered down boring version that you get when you are not guided by Chinese people.
+
+We must put a stop to this madness.
+
+After you see the light and eat the real version of a dish, then when you go to a not-real restaurant you start to think: "hey, I know what dish this was supposed to be. But it could be so much more awesome!" This makes non-real restaurants twice as bad. So beware, there is no turning back.
+
+[[resturants--rating-system]]
+==== Rating system
+
+* tier 1: amazing, worth a trip
+* tier 2: worth it, but not exciting, so not worth a trip just for it
+* tier 3: I wouldn't go there
+
+[[resturants--how-to-find-good-restaurants]]
+==== How to find good restaurants
+
+* go with Chinese food-loving friends to Chinese restaurants
+* read up Chinese restaurant recommendation websites written in Chinese by Chinese for Chinese
+* read up small shady Chinese food recommendation websites by link:https://en.wikipedia.org/wiki/Sinophile[sinophiles like me]
+
+Big Western sites like Google Maps reviews and TripAdvisor are completely and utterly useless for this and will recommend you places in which poor non-Chinese which don't know what real Chinese food is like.
+
+If you go out on the street by yourself, you are very unlikely to find really good Chinese food since the enormous majority of Chinese restaurants are not real Chinese food.
+
+If there are only Chinese clients inside the restaurant, it is a good indicator that it might be good. If all clients people are Western, run away.
+
+Western people don't know what good Chinese food is, so if you are not in a place that has a very large Chinese population, real Chinese food restaurants cannot survive, and won't exist. This usually implies being in large cities of rich countries.
+
+Beware of restaurant owner changes: if the menu looks a bit different, it has likely happened.
+
+This is politically incorrect, but here goes: if the place looks as if it is maintained by more recent immigrants, and looks more modern, it is more likely to be good. There are however some venerable older uncles who have cooked well their entire lives and are still fine. Things tend water down across generations, and there was likely not enough real Chinese clientele for them to serve real Chinese food and survive in the past.
+
+If a restaurant advertises itself as "Asian", it is less likely to be very good.
+
+Conversely, restaurants that specialize in a single region of China are more likely to be good (bot not certainly good).
+
+It is already difficult to do the cuisine for one part of China well, imagine for multiple countries.
+
+Just beware of "Sichuan" restaurants: their cuisine is so well known even in the West that I've seen many not so good restaurants that describe themselves like that, even if the owners are from another region. But there are many good ones which really are from there as well.
+
+[[resturants--similar-lists]]
+==== Similar lists
+
+* http://carnetdecroute.blogspot.fr/ French only, but similar to this list.
+* http://cnkick.net/2013/09/10/les-meilleurs-restaurants-chinois-de-paris-le-guide-cn-kick/
+* https://www.quora.com/What-are-the-best-Chinese-restaurants-in-Paris
+* http://www.newsavour.com/restaurants/ Chinese only, Paris, website subsidiary of some larger Chinese group.
+
+[[resturants--how-to-order]]
+==== How to order
+
+For all restaurants, ask the waiter for suggestions. Tell him that you:
+
+* want the most typical dishes, not what the foreign locals eat, but what the Chinese eat
+* can eat spicy food, way more than any foreign local person can.
++
+The spice level you generally want is is "zhong1 la2" (medium spicy)
++
+If you can't eat spicy, either learn or stop reading now and accept the fact that you will never eat good Chinese food.
+* if the restaurant is from some region, ask for dishes from the region, and which are different from other regions.
++
+I was once given https://en.wikipedia.org/wiki/Jiaozi[jiaozi] (super popular dish everywhere in China which I buy frozen and eat every 3 days) in a Tibetan restaurant... Yes, I do believe Tibetans also eat jiaozi! :-)
+* Speaking a little Chinese goes a long way towards convincing the owners that you can handle the real thing.
+
+Only order dishes with meat. Those without are not worth the money / time. Aubergine is the exception.
+
+[[restaurants--france]]
+=== France 法国
+
+Traiteurs are simpler restaurants that let you see pre-made foods in a glass showcase for you to choose how big your portions will be.
+
+They are the best way to eat a cheap and balanced meal in Paris, but I have never found one that serves exceptional Chinese food, so beware.
+
+[[restaurants--france--paris]]
+==== Paris 巴黎
+
+Paris has one of the largest Chinese communities outside of China in the whole world centered in the 14eme arrondissement, plus a lot of Chinese students with money around.
+
+As a result, you can find some of the best Chinese food in the world outside of China
+
+* Restaurant Sichuan (川里川外)
++
+17 Rue le Peletier, 75009 Paris
++
+Xianglaxie.
++
+Last checked: 2017/06
+* Chez Yong (Ding Ding Xiang, 鼎鼎香)
++
+42, rue de la Colonie, 75013 Paris
+** shui zhu niu rou
+** dishes with intestines
+* La Chine sur la langue (舌尖美味)
++
+163 rue Saint-Denis, 75002 Paris
+** Spicy soup with Chinese charcuteries. Ma la tang.
+** Large dry and thin bread. Jing dong da bing. 京东大饼. http://www.nipic.com/show/1/55/7885c266f22649ae.html[Picture].
+* Quatre Amis (那家小馆)
++
+29 rue de Charenton, 75012 Paris
++
+--
+** Fried octopus
+** Shui zhu niu rou
+** Anything with intestines
+--
+* Le Céleste Gourmand (福来居, fu lai ju)
++
+8 Rue de la Tacherie, 75004 Paris
+* L'Orient d'Or (福源丰)
++
+22, Rue de trévise, 75009 Paris
++
+--
+** Galettes croustillantes au canard (xiang su ya dai bing, 香酥鸭带饼)
+** Poisson pimentee (suan tang yu, 酸汤鱼)
+** Soupe aux cartilages de porc avec algues (hai dai pau gu tang, 海带排骨汤)
+--
++
+Hunan style.
++
+25 euros / person.
+* Carnet de Route
++
+57 Rue du Faubourg Montmartre, 75009 Paris
++
+Last checked: 2016/04
+* 0 d'Attente (锅先生不等位)
++
+55 Boulevard Saint Marcel, 75013 Paris
++
++33 9 81 49 68 06
++
+http://www.tripadvisor.com/Restaurant_Review-g187147-d6984996-Reviews-0_d_Attente-Paris_Ile_de_France.html
++
+Like style of chairs and cutlery.
++
+Ironically, the service was not particularly fast as the name indicates. Normal, but not ultra fast as I imagined :-)
++
+lotus with rice (Nuo mi tang ou) and boeuf sechee (guo xian sheng ...) not very good, but baked fish and https://en.wikipedia.org/wiki/Meigan_cai kaorou were great.
++
+Last checked: 2016/02
+* Autour du Yangtse (食尚煮意)
++
+12 Rue du Helder, 75009 Paris
++
+--
+** Marmite de poisson et de tofu (豆花鱼)
+** Saliva chiken (口水鸡)
+** Aubergines farcies sur plaqua chauffante (铁板脆皮茄)
+--
++
+http://www.autourduyangtse.com/
+* Deux Fois Plus De Piment (绝代双椒)
++
+Address: 33 Rue Saint-Sébastien, 75011 Paris
++
+Sichuan style.
+* Délices de Shandong (山东小馆)
++
+88 Boulevard de l'Hôpital, 75013 Paris
+* Hakka Home
++
+3 Rue Voltaire, 75011 Paris
++
+Food from the Hakka people https://en.wikipedia.org/wiki/Hakka_people
++
+Most dishes are like other good Chinese restaurants in Paris, but there were a few different ones.
+* Maison Dong (东馆)
++
+36 Rue Vivienne, 75002 Paris
++
+Last checked: 2017/04
+* Royal Tching Tao (青岛人家)
++
+8 Rue du Bel-Air, 75012 Paris
+** Galettes croustillantes au canard. Shi zi tou.
+** Sweet fish （Song shu gui yu 松鼠桂鱼)
+* Le Pont de Yunnan (滋味云南)
++
+15 Rue Notre Dame de Lorette, 75009
++
+Great food, but we had a bad service experience: got kicked out too early, even with a reservation.
+* Tien Hiang (天香)
++
+14, rue Bichat, 75010 Paris
++
+Vegetarian food: most dishes are an imitation of a dish with meat.
++
+Not as good as the original meat for me, but very interesting and good for a change.
++
+Chinese vegetarians are rare. In theory, the origin of the food in this restaurant is Hong Kong Buddhism (Buddhist monks cannot eat meat, while other believers can.)
+* Likafo (利口福酒家)
++
+39 Avenue de Choisy, 75013 Paris
++
+https://www.facebook.com/pages/LIKAFO-%E5%88%A9%E5%8F%A3%E7%A6%8F%E9%85%92%E5%AE%B6/139814799396
++
+http://en.wikipedia.org/wiki/Meigan_cai[Meigan cai] roast pork (梅菜扣肉) http://img.epochtimes.com/i6/901120923161469.jpg
+* Restaurant Sichuan (四川人家)
++
+31-33 Rue Descartes, 75005 Paris
++
+Perfect Fuqi feipian.
++
+Huiguorou is good not my style, I prefer with leek.
++
+Last checked: 2017/04
+
+[[resturants--france--paris--tier-2]]
+===== Paris tier 2
+
+Cheaper / simpler restaurants that are really worth it if you want to not be hungry, but not worth it if you want eat exceptional food:
+
+* Ace Boucherie
++
+58 Rue Sainte-Anne, 75002 Paris
++
+Korean take-away traiteur. Very good. Try calamar.
++
+Last checked: 2017/06
+* Ji Bai He
++
+108 Rue Olivier de Serres, 75015 Paris
++
+Jiaozi and accompanying small dishes are great.
++
+Last checked: 2016/03
+* SUCREPICE
++
+5 Rue d'Arras, 75005 Paris
++
+M10: Cardinal Lemoine
++
+Liang ban mian, but do ask "wei la, they are strong.
+* Noodle No 1
++
+54 rue Sainte Anne, 75002 Paris
++
+--
+** Soupe aux nouilles pimentées
+--
+* Noodle bar
++
+31 Rue nationale, 75013 Paris, France
+* Chez Shen
++
+39 Rue au Maire, 75003 Paris, France
+* Dosanko Larmen
++
+40 Rue Sainte-Anne, 75002 Paris
++
+Order big portion at your own risk. :-)
++
+Last checked: 2017/04
+* Chez Mamie (外婆家)
++
+18 Rue du Grenier-Saint-Lazare, 75003 Paris,
++
+Last checked: 2017/06
+
+[[resturants--france--marseille]]
+==== Marseille 马赛
+
+* Shanghai kitchen
++
+14 Cours Jean Ballard, 13001 Marseille, France
+
+[[restaurants--uk]]
+=== United Kingdom 英国
+
+Good existing lists for the UK:
+
+* https://www.honglingjin.co.uk/category/foods-and-restaurants-in-the-uk/chinese-restaurants
+
+[[restaurants--uk--london]]
+==== London 伦敦
+
+[[restaurants--uk--london--little-wooden-hut]]
+===== Little Wooden Hut 小木屋
+
+Address:
+
+....
+Little Newport Street
+WC2H 7JJ
+....
+
+Last checked: 2016/08
+
+Not yet on Google maps so I don know the number, but the street is very small so should be easy to find.
+
+Chinese review: http://www.ukchinese.com/News/2016-05-07/15299.html
+
+[[resturants--uk--london--murger-han]]
+===== Murger han
+
+Address:
+
+....
+8A Sackville St
+Mayfair, London
+W1S 3EZ
+....
+
+Website: http://www.murgerhan.com/
+
+Last checked: 2019/01
+
+Cuisine: Xi'an
+
+Biangbiang noodles with all extras zhongla is amazing!!! Niuroupaomo OK, but not exciting. Roujiamo not very interesting, too bland for my taste.
+
+[[resturants--uk--london--tier-2]]
+===== London tier 2
+
+[[restaurants--uk--london--chinese-tapas-house-london]]
+====== Chinese Tapas House
+
+Address:
+
+....
+Little Newport Street
+WC2H 7JJ
+....
+
+Not yet on Google maps so I don know the number, but the street is very small so should be easy to find.
+
+Jianbing guozi, interesting spicy fast food.
+
+[[restaurants--uk--london--rice-coming-restaurant]]
+====== Rice Coming Restaurant 米齐临
+
+Rice noodles are good, and small dishes authentic.
+
+Address: 10A Coptic St, Holborn, London WC1A 1NH
+
+Last checked: 2019-04
+
+Website: https://ricecoming.business.site/
+
+[[restaurants--uk--cambridge]]
+==== Cambridge 剑桥
+
+[[restaurants--uk--cambridge--spring-restaurant]]
+===== Spring Restaurant 春天
+
+Address:
+
+....
+66 Mill Rd
+CB1 2AS
+....
+
+Last checked: 2017/08
+
+Spicy chicken with pasta and potatoes.
+
+[[restaurants--uk--cambridge--seven-days]]
+===== Seven Days 天天美食剑桥
+
+Address:
+
+....
+66 Regent St
+CB2 1DP
+....
+
+[[resturants--uk--cambridge--72-china]]
+===== @72 China
+
+Address:
+
+....
+72 Regent St
+CB2 1DP
+....
+
+Douhuaniurou 豆花牛肉, kaoyu.
+
+[[resturants--uk--cambridge--golden-house]]
+===== Golden House
+
+Address:
+
+....
+12 Lensfield Rd
+CB2 1EG
+....
+
+Meicaikourou, luobo bing.
+
+[[restaurants--uk--cambridge--1-1-rougamo]]
+===== 1 + 1 Rougamo
+
+Tier: 2
+
+Address:
+
+....
+84 Regent St
+CB2 1DP
+....
+
+Last checked: 2019/05
+
+Roujiamo very good. Also good: broad noodles, 凉皮.
+
+[[restaurants--uk--oxford]]
+==== Oxford 牛津
+
+[[restaurants--uk--oxford--a-taste-of-china]]
+===== A Taste Of China 三秦百味
+
+Tier: 2
+
+https://goo.gl/maps/oERKCv6Q8a32
+
+Last checked: 2019/03
+
+Redamian good, Biangbiangmian not as interesting. Nice people working there. Two two seat tables only, mostly takeaway. Fair price.
+
+[[restaurants--uk--oxford--xi-an]]
+===== Xi'an
+
+Tier: 3
+
+https://goo.gl/maps/DrDCPKWnG2M2
+
+Last checked: 2019/03
+
+Not real Chinese food I'm afraid. Songshuyu not cut correctly into stripes and too much liquid sauce. Sijidou beans not dry enough, maybe need more frying. Early immigration (1968, mentioned on menu), almost no Chinese clients. Nice decoration and environment.
+
+[[restaurants--uk--sheffield]]
+==== Sheffield 谢菲尔德
+
+* China Red Restaurant
++
+3 Rockingham Gate, Sheffield S1 4JD, United Kingdom
++
+Last checked: 2016/06, shuizhuyu.
+
+[[restaurants--brazil]]
+=== Brazil 巴西
+
+[[restaurants--brazil--sao-paulo]]
+==== Sao Paulo 圣保罗
+
+* Chuanxiangyuan Restaurante (川香园餐馆 )
++
+\R. Barão de Iguape, 47 - Liberdade, São Paulo - SP
++
+Eat the big fish dishes, they are worth it. https://en.wikipedia.org/wiki/Fuqi_feipian was not very good.
++
+Free tea was good.
++
+Rice could be better.
++
+Owners are actually from https://en.wikipedia.org/wiki/Tianjin , not Sichuan, as implied by the 川 in the name of the restaurant. GF told me that those big fish dishes are typical from there.
++
+Last checked: 2016/01/09
+
+[[restaurants--canada]]
+=== Canada 加拿大
+
+[[restaurants--canada--montreal]]
+==== Montreal 加拿大蒙特利尔，
+
+Last checked: 2016/01
+
+* Cuisine Szechuan
++
+2350 Rue Guy, Montréal, QC H3H 2M2, Canada
+* Kanbai
++
+1110 Rue Clark, Montréal, QC H2Z 1K3, Canada Good
+* Délice oriental
++
+1858 Rue Ste-Catherine O, Montréal, QC H3H 1M1
+
+Not worth it:
+
+* Chez Chili
++
+1050B rue Clark
 
 == Other sections
 
