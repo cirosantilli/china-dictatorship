@@ -1963,9 +1963,13 @@ Humour is the greatest weapon against dictators:
 * http://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/
 * http://www.miniharm.com/
 
-== Censorship
+[[policies]]
+== Policies 政策
 
-=== Censorship is necessary to protect China from harmful USA propaganda
+[[censorship]]
+=== Censorship 审查
+
+==== Censorship is necessary to protect China from harmful USA propaganda
 
 I don't think this is below the USA, but:
 
@@ -1975,8 +1979,7 @@ I don't think this is below the USA, but:
 * maybe the regions that want to split from China feel like China is not giving them anything back, and they are themselves looking for allies outside of China to help them split. With democracy, people are more likely to get what they want, and there will be split parties and votes.
 * the same argument can be used to justify any action, no matter how bad. E.g.: we must put all who criticize the government in jail, or else they will make China less united and weaker against the USA!
 
-
-=== Censorship monitoring
+==== Censorship monitoring
 
 Projects that atttempt to understand how the Great Firewall works and what it blocks:
 
@@ -1994,7 +1997,7 @@ Projects that atttempt to understand how the Great Firewall works and what it bl
 * https://github.com/phoeagon/gfw-sim GFW emulation
 * https://github.com/citizenlab/chat-censorship data on Censorship
 
-=== gfwlist
+==== gfwlist
 
 https://github.com/gfwlist/gfwlist
 
@@ -2012,6 +2015,22 @@ See also:
 
 * https://github.com/gfwlist/gfwlist/issues/3 "How to use this repo?"
 * https://github.com/gfwlist/gfwlist/issues/1141 "Add categories tags to each entry"
+
+[[fifty-cent-party]]
+==== 50 Cent Party 五毛党
+
+https://en.wikipedia.org/wiki/50_Cent_Party
+
+* https://gking.harvard.edu/files/gking/files/50c.pdf "How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument" by "Gary King, Jennifer Pan, Margaret E. Roberts" published on 2017-04-09
+* https://www.youtube.com/watch?v=yCnnPf2OnHo "Chinese Internet Trolls Get Paid 50 Cents For Every Comment" by "laowhy86" published on 2018-09-27
+
+[[social-credit-system]]
+=== Social Credit System 社会信用体系
+
+https://en.wikipedia.org/wiki/Social_Credit_System
+
+* https://www.youtube.com/watch?v=Dkw15LkZ_Kw "China’s "Social Credit System" Has Caused More Than Just Public Shaming (HBO)" by "VICE News" published on 2018-12-12
+* https://www.youtube.com/watch?v=0cGB8dCDf3c "A Look Inside China’s Social Credit System | NBC News Now" by "NBC News" published on 2019-06-04
 
 == Backlinks to this repository
 
