@@ -9,7 +9,7 @@
 :toclevels: 6
 :toc-title:
 
-Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。Home to the <<faq,all-answering FAQ>> and the <<news,"fake" "anti-China" news compilation>>. <<faq,常见问答集>>和<<news,《反对中国》的《假新闻》集>>。<<xi-abolishes-term-limits-2018-03,Heil Xi>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
+Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。Home to the <<faq,all-answering FAQ>> and the <<news,"fake" "anti-China" news compilation>>. <<faq,常见问答集>>和<<news,《反对中国》的《假新闻》集>>。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
 toc::[]
 
