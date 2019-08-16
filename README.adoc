@@ -415,7 +415,14 @@ I haven't tried to learn characters, too much effort, but I learnt the most comm
 
 I really wish I could learn more, but I have other more important endeavours at the moment :-(
 
-Spoken Chinese is in my opinion a relatively easy language to learn from scratch, because word formation is so often logical (火山，火车), and there is no useless crap like verb conjugation and genre. I love this language.
+Spoken Chinese is in my opinion a relatively easy language to learn from scratch, because word formation is so often logical:, e.g.:
+
+* volcano = fire + mountain: 火山(huo shan)
+* train = fire + car: 火车 (huo che), a reference to old https://en.wikipedia.org/wiki/Steam_locomotive[steam locomotives]
+
+and there is no useless crap like verb conjugation, https://en.wikipedia.org/wiki/Grammatical_gender[Grammatical gender], plural variants, capitalization, etc.
+
+I love this language.
 
 Please just get rid of the Chinese characters and move to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export. Characters are beautiful, but just take too much time to learn.
 
@@ -677,7 +684,15 @@ See also: <<preconceived>>
 
 ==== Do you hate China?
 
-On the contrary. China has my favorite <<restaurants,food>>, <<what-is-your-chinese-level,language>>, history, culture and nature in the world. And because of that: <<would-you-like-to-live-in-china>>.
+On the contrary. China has my favorite:
+
+* <<restaurants,food>>
+* <<what-is-your-chinese-level,language>>
+* <<music>>
+* history and culture
+* nature
+
+in the world. And because of that: <<would-you-like-to-live-in-china>>.
 
 As link:https://en.wikipedia.org/wiki/Bjarne_Stroustrup[Bjarne] said:
 
@@ -2077,6 +2092,34 @@ Or to my other online presences, due to China activity:
 * 2015-08-03: 21 visitor Facebook peak, can't find source
 * 2015-06-20: (deleted) link:https://www.plurk.com/p/l1jjn4[] Archive: http://web.archive.org/web/20150918110032/https://www.plurk.com/p/l1jjn4 "這阿豆阿的名字XDD" by https://www.plurk.com/m/u/cyuanXD
 * 2015-04-10: https://v2ex.com/t/182766 (cannot archive, login requires CAPTCHA, link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-04.html[Chromium CTRL-S save]) "Stack Overflow 上看到一个丧心病狂的程序员" by https://v2ex.com/member/cloudhunter
+
+[[music]]
+== The best Chinese traditional instrumental music albums
+
+Much like <<restaurants,real Chinese food>>, your mind will be blown.
+
+TODO: find the best free ones. Due to the language and political barrier, I just can't find amazing free ones as I can for Western music, even though both are centuries old and royalty free.
+
+Chinese traditional music distribution is unfortunately atrocious, so learn what an https://en.wikipedia.org/wiki/International_Standard_Recording_Code[ISRC] is and don't use Torrent.
+
+If you find album cover pictures on Google images, the ISRC should be somewhere on the back.
+
+=== Master of Chinese Traditional Music (2005)
+
+20-CD anthology published by the https://en.wikipedia.org/wiki/China_Record_Corporation[China Record Corporation], AKA "CRC Jianian", between 2002 and 2006.
+
+The publisher is <<do-you-think-the-chinese-government-is-evil,Government-owned unfortunately>>, their the website takes forever to load: http://www.china-crc.com.cn/[], features mostly Communist shit, and I can't find the full album list for the masters series.
+
+As a result, the best source of information available about the collection are Torrent websites found via ISRC, e.g.:
+
+* Chinese information: http://web.archive.org/web/20190816092018/http://www.gyhj.org/read/179301/1/1
+* English information with Google translate: http://web.archive.org/web/20190816090447/https://1337x.unblockninja.info/torrent/1254538/Master-of-Chinese-Traditional-Music-Complete-Series-20-CDs-ABEE/
+* English song names properly copied from images: http://web.archive.org/web/20190816092313/https://muzz.pro/chinese_instrumental_traditional_music_master_of_chinese_traditional_music_20_albums_2005_mp3_tracks_320_kbps-1625006.html
+
+A search on Amazon leads many of their albums in loose form: https://www.amazon.com/s?k=master+of+chinese+traditional+music&i=digital-music and you can patch together most of them by looking at the following two cover art styles:
+
+* gray cover: https://www.amazon.com/dp/B000QZSOV6 (http://web.archive.org/web/20190816082633/https://www.amazon.com/dp/B000QZSOV6[archive]), ISRC: CN-E01-04-0083-00 / A.J6, part of the 20-CD anthology above
+* golden: https://www.amazon.com/dp/B000QZUFQI (http://web.archive.org/web/20190816082640/https://www.amazon.com/dp/B000QZUFQI[archive]), TODO find precise list.
 
 [[restaurants]]
 == The best Chinese restaurants outside of China 中国以外最好的中国饭店
