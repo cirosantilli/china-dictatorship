@@ -2131,11 +2131,6 @@ Just beware of "Sichuan" restaurants: their cuisine is so well known even in the
 [[resturants--similar-lists]]
 ==== Similar lists
 
-* http://carnetdecroute.blogspot.fr/ French only, but similar to this list.
-* http://cnkick.net/2013/09/10/les-meilleurs-restaurants-chinois-de-paris-le-guide-cn-kick/
-* https://www.quora.com/What-are-the-best-Chinese-restaurants-in-Paris
-* http://www.newsavour.com/restaurants/ Chinese only, Paris, website subsidiary of some larger Chinese group.
-
 [[resturants--how-to-order]]
 ==== How to order
 
@@ -2166,7 +2161,14 @@ They are the best way to eat a cheap and balanced meal in Paris, but I have neve
 
 Paris has one of the largest Chinese communities outside of China in the whole world centered in the 14eme arrondissement, plus a lot of Chinese students with money around.
 
-As a result, you can find some of the best Chinese food in the world outside of China
+As a result, you can find some of the best Chinese food in the world outside of China!
+
+Bibilography:
+
+* http://carnetdecroute.blogspot.fr
+* http://cnkick.net/2013/09/10/les-meilleurs-restaurants-chinois-de-paris-le-guide-cn-kick/
+* https://www.quora.com/What-are-the-best-Chinese-restaurants-in-Paris
+* http://www.newsavour.com/restaurants/ Chinese only, Paris, website subsidiary of some larger Chinese group.
 
 * Restaurant Sichuan (川里川外)
 +
@@ -2178,11 +2180,13 @@ Last checked: 2017/06
 * Chez Yong (Ding Ding Xiang, 鼎鼎香)
 +
 42, rue de la Colonie, 75013 Paris
++
 ** shui zhu niu rou
 ** dishes with intestines
 * La Chine sur la langue (舌尖美味)
 +
 163 rue Saint-Denis, 75002 Paris
++
 ** Spicy soup with Chinese charcuteries. Ma la tang.
 ** Large dry and thin bread. Jing dong da bing. 京东大饼. http://www.nipic.com/show/1/55/7885c266f22649ae.html[Picture].
 * Quatre Amis (那家小馆)
@@ -2264,6 +2268,7 @@ Last checked: 2017/04
 * Royal Tching Tao (青岛人家)
 +
 8 Rue du Bel-Air, 75012 Paris
++
 ** Galettes croustillantes au canard. Shi zi tou.
 ** Sweet fish （Song shu gui yu 松鼠桂鱼)
 * Le Pont de Yunnan (滋味云南)
@@ -2359,7 +2364,7 @@ Last checked: 2017/06
 [[restaurants--uk]]
 === United Kingdom 英国
 
-Good existing lists for the UK:
+Bibilography:
 
 * https://www.honglingjin.co.uk/category/foods-and-restaurants-in-the-uk/chinese-restaurants
 
