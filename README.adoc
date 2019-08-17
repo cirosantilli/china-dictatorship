@@ -715,7 +715,7 @@ No, I am a selfless human being, only concerned with the greater well being of h
 
 More serious answer:
 
-* I believe in this. As evidence, it has limiting effects on my technological career: <<does-your-employer-support-this>>, and I don't think I can / want to become a politician 
+* I believe in this. As evidence, it has limiting effects on my technological career: <<does-your-employer-support-this>>, and I don't think I can / want to become a politician
 * the more famous I am, the more impact I will have in the future
 * the more famous I am, the more feedback I have that what I've been doing has been working
 
@@ -2098,17 +2098,64 @@ Or to my other online presences, due to China activity:
 
 Much like <<restaurants,real Chinese food>>, your mind will be blown.
 
-TODO: find the best free ones. Due to the language and political barrier, I just can't find amazing free ones as I can for Western music, even though both are centuries old and royalty free.
+The best approach is to start with the largest multi-artist anthologies available to get a general overview of what is there.
 
-Chinese traditional music distribution is unfortunately atrocious, so learn what an https://en.wikipedia.org/wiki/International_Standard_Recording_Code[ISRC] is and don't use Torrent.
+Then, you can start Googling by instrument. The main four instruments are undoubtedly:
+
+* https://en.wikipedia.org/wiki/Guqin[Guqin]
+* https://en.wikipedia.org/wiki/Pipa[Pipa]
+* https://en.wikipedia.org/wiki/Guzheng[Guzheng]
+* https://en.wikipedia.org/wiki/Erhu[Erhu]
+
+but there is also amazing content on others including:
+
+* https://en.wikipedia.org/wiki/Suona[Suona]. Sample: https://www.youtube.com/watch?v=ekqyC1CyfuI
+* https://en.wikipedia.org/wiki/Xiao_(flute)[Xiao flute]
+
+and there is of course the infinite Wikipedia instrument list: https://en.wikipedia.org/wiki/List_of_Chinese_musical_instruments
+
+Quality indicators:
+
+* bad:
+** Western instruments or modern digital effects
+** on YouTube: "relax" videos with boring generic music.
++
+They usually have some cute landscape scenes or overly produced good looking women as thumbnail.
++
+Good video covers will show the musicians with their instruments, or Chinese traditional painting.
+* good: single instrument solo. There are some good multi-instrument and songs as well though, but harder to find.
+
+Due to the language and political barrier, Chinese traditional music distribution is unfortunately atrocious, so learn what an https://en.wikipedia.org/wiki/International_Standard_Recording_Code[ISRC] is and don't use BitTorrent which the Chinese call "BT".
 
 If you find album cover pictures on Google images, the ISRC should be somewhere on the back.
 
-=== Master of Chinese Traditional Music (2005)
+[[music-free]]
+=== Free
 
-20-CD anthology published by the https://en.wikipedia.org/wiki/China_Record_Corporation[China Record Corporation], AKA "CRC Jianian", between 2002 and 2006.
+Here are the few best I've seen. Not enough to replace the non-free, but pretty good.
 
-The publisher is <<do-you-think-the-chinese-government-is-evil,Government-owned unfortunately>>, their the website takes forever to load: http://www.china-crc.com.cn/[], features mostly Communist shit, and I can't find the full album list for the masters series.
+* https://www.youtube.com/playlist?list=PLcZOZrP1P_V5J2P3ogZNpya0BAuPEgyuE my "Chinese Traditional Music YouTube playlist with all good music videos I found on YouTube. This will give you an initial idea.
+** Notable longer videos
+*** https://www.youtube.com/watch?v=35ZKN-H7at4 42 minute live Guqin presentation by Chen Leiji published  by "Asia Society" on Jan 23, 2018, recoded in New York, January 20, 2018.
+** Channels
+*** https://www.youtube.com/channel/UCltmf0pqjXyLtNsF2vek_wQ 自得琴社 Zi De Guqin Studio. Amazing production.
+*** https://www.youtube.com/user/yukinachang/videos "SoundofChina Guzheng" channel with a lot of guzheng content!
+** Good lists
+*** https://www.youtube.com/watch?v=qc0CzuA35y8&list=PLXPo1Bj1TYy73e8s99pyKfFD7iHqwigfN "Chinese" by "Ungern Sternberg"
+* https://www.ibiblio.org/chinese-music/ several loose tracks for direct download. Not sure if legal, but has been up forever. The following sections are pretty good:
+** https://www.ibiblio.org/chinese-music/html/traditional.html
+** https://www.ibiblio.org/chinese-music/html/anthology.html#Dream music from the https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(1987_TV_series)link:++https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(1987_TV_series)++["Dream of the Red Chamber" 1987 TV series]. Amazing!!!
+
+[[music-not-free]]
+=== Not-free
+
+==== Master of Chinese Traditional Music (2005)
+
+20-CD anthology.
+
+ISRC of CD 1: CN-E01-04-450-00 / A.J6
+
+Publisher: <<china-record-corporation>>.
 
 As a result, the best source of information available about the collection are Torrent websites found via ISRC, e.g.:
 
@@ -2118,8 +2165,46 @@ As a result, the best source of information available about the collection are T
 
 A search on Amazon leads many of their albums in loose form: https://www.amazon.com/s?k=master+of+chinese+traditional+music&i=digital-music and you can patch together most of them by looking at the following two cover art styles:
 
-* gray cover: https://www.amazon.com/dp/B000QZSOV6 (http://web.archive.org/web/20190816082633/https://www.amazon.com/dp/B000QZSOV6[archive]), ISRC: CN-E01-04-0083-00 / A.J6, part of the 20-CD anthology above
+* gray cover: https://www.amazon.com/dp/B000QZSOV6 (http://web.archive.org/web/20190816082633/https://www.amazon.com/dp/B000QZSOV6[archive]), ISRC: CN-E01-04-0083-00 / A.J6
 * golden: https://www.amazon.com/dp/B000QZUFQI (http://web.archive.org/web/20190816082640/https://www.amazon.com/dp/B000QZUFQI[archive]), TODO find precise list.
+
+==== Masters of Chinese Traditional Music Solo Appreciation (2006)
+
+14-CD anthology.
+
+ISRC: CN-A50-06-389-00 / A.J6 (seems to be for the whole anthology)
+
+Chinese information: http://web.archive.org/web/20190817072026/http://keai99.com/thread-435767-1-1.html
+
+Chinese name: 中国民乐大师纯独奏鉴赏
+
+Publisher: https://en.wikipedia.org/wiki/Chinese_Musicians%27_Association[Chinese Musicians' Association]
+
+Amazon link for first CD: https://www.amazon.com/Zhong-Guo-Gu-Chinese-Primitive/dp/B000S996JO
+
+==== Chinese Ancient Music (2003)
+
+ISRC of CD 1: CN-F13-03-435-00 / A.J6
+
+Publisher: <<china-record-corporation>>.
+
+English tracklist and front covers: http://web.archive.org/web/20190817221426/https://rutracker.org/forum/viewtopic.php?t=1298954
+
+=== Publishers
+
+==== China Record Corporation
+
+The most important publisher: https://en.wikipedia.org/wiki/China_Record_Corporation[China Record Corporation], AKA "CRC Jianian".
+
+<<do-you-think-the-chinese-government-is-evil,Government-owned unfortunately>>, their the website takes forever to load: http://www.china-crc.com.cn/[], and features mostly Communist shit, and I can't find the decent traditional music listed there.
+
+One thing to try is an Amazon advanced search by label "China Record Co": https://www.amazon.com/s?i=digital-music&rh=p_33%3AChina+Record+Co&s=relevancerank&Adv-Srch-MP3-Submit.x=42&Adv-Srch-MP3-Submit.y=4&unfiltered=1&ref=sr_adv_m_digital
+
+=== Best-of lists
+
+Other lists similar to this one:
+
+* https://www.quora.com/What-are-some-good-Chinese-classical-instrumental-album
 
 [[restaurants]]
 == The best Chinese restaurants outside of China 中国以外最好的中国饭店
