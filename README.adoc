@@ -9,7 +9,7 @@
 :toclevels: 6
 :toc-title:
 
-Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。Home to the <<faq,all-answering FAQ>> and the <<news,"fake" "anti-China" news compilation>>. <<faq,常见问答集>>和<<news,《反对中国》的《假新闻》集>>。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
+Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
 toc::[]
 
@@ -2140,10 +2140,10 @@ Here are the few best I've seen. Not enough to replace the non-free, but pretty 
 ** Channels
 *** https://www.youtube.com/channel/UCltmf0pqjXyLtNsF2vek_wQ 自得琴社 Zi De Guqin Studio. Amazing production.
 *** https://www.youtube.com/user/yukinachang/videos "SoundofChina Guzheng" channel with a lot of guzheng content!
-** http://www.silkqin.com/06hear.htm John Thompson's Guqin website. Holy crap amazing list of Guqin pieces by the guy!
-*** Download all mp3: `wget -r -np -l 1 -A mp3 http://www.silkqin.com/06hear.htm`. Contacted John by email in 2019 telling him to put his stuff on YouTube and offering help.
-** Good lists
+** Good YouTube lists
 *** https://www.youtube.com/watch?v=qc0CzuA35y8&list=PLXPo1Bj1TYy73e8s99pyKfFD7iHqwigfN "Chinese" by "Ungern Sternberg"
+* http://www.silkqin.com/06hear.htm John Thompson's Guqin website. Holy crap amazing list of Guqin pieces by the guy!
+** Download all mp3: `wget -r -np -l 1 -A mp3 http://www.silkqin.com/06hear.htm`. Contacted John by email in 2019 telling him to put his stuff on YouTube and offering help.
 * https://www.ibiblio.org/chinese-music/ several loose tracks for direct download. Not sure if legal, but has been up forever. The following sections are pretty good:
 ** https://www.ibiblio.org/chinese-music/html/traditional.html
 ** https://www.ibiblio.org/chinese-music/html/anthology.html#Dream music from the https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(1987_TV_series)link:++https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(1987_TV_series)++["Dream of the Red Chamber" 1987 TV series]. Amazing!!!
