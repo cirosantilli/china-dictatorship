@@ -2140,6 +2140,8 @@ Here are the few best I've seen. Not enough to replace the non-free, but pretty 
 ** Channels
 *** https://www.youtube.com/channel/UCltmf0pqjXyLtNsF2vek_wQ 自得琴社 Zi De Guqin Studio. Amazing production.
 *** https://www.youtube.com/user/yukinachang/videos "SoundofChina Guzheng" channel with a lot of guzheng content!
+** http://www.silkqin.com/06hear.htm John Thompson's Guqin website. Holy crap amazing list of Guqin pieces by the guy!
+*** Download all mp3: `wget -r -np -l 1 -A mp3 http://www.silkqin.com/06hear.htm`. Contacted John by email in 2019 telling him to put his stuff on YouTube and offering help.
 ** Good lists
 *** https://www.youtube.com/watch?v=qc0CzuA35y8&list=PLXPo1Bj1TYy73e8s99pyKfFD7iHqwigfN "Chinese" by "Ungern Sternberg"
 * https://www.ibiblio.org/chinese-music/ several loose tracks for direct download. Not sure if legal, but has been up forever. The following sections are pretty good:
@@ -2149,26 +2151,27 @@ Here are the few best I've seen. Not enough to replace the non-free, but pretty 
 [[music-not-free]]
 === Not-free
 
-==== Master of Chinese Traditional Music (2005)
+==== Master of Chinese Traditional Music
 
 20-CD anthology.
 
 ISRC of CD 1: CN-E01-04-450-00 / A.J6
 
+Amazon link of CD 1: https://www.amazon.com/dp/B000QZSWQS (http://web.archive.org/web/20190817223837/https://www.amazon.com/dp/B000QZSWQS[archive])
+
 Publisher: <<china-record-corporation>>.
 
-As a result, the best source of information available about the collection are Torrent websites found via ISRC, e.g.:
+Chinese information: http://web.archive.org/web/20190816092018/http://www.gyhj.org/read/179301/1/1
 
-* Chinese information: http://web.archive.org/web/20190816092018/http://www.gyhj.org/read/179301/1/1
-* English information with Google translate: http://web.archive.org/web/20190816090447/https://1337x.unblockninja.info/torrent/1254538/Master-of-Chinese-Traditional-Music-Complete-Series-20-CDs-ABEE/
-* English song names properly copied from images: http://web.archive.org/web/20190816092313/https://muzz.pro/chinese_instrumental_traditional_music_master_of_chinese_traditional_music_20_albums_2005_mp3_tracks_320_kbps-1625006.html
+English information with Google translate: http://web.archive.org/web/20190816090447/https://1337x.unblockninja.info/torrent/1254538/Master-of-Chinese-Traditional-Music-Complete-Series-20-CDs-ABEE/
+
+English song names properly copied from images: http://web.archive.org/web/20190816092313/https://muzz.pro/chinese_instrumental_traditional_music_master_of_chinese_traditional_music_20_albums_2005_mp3_tracks_320_kbps-1625006.html
 
 A search on Amazon leads many of their albums in loose form: https://www.amazon.com/s?k=master+of+chinese+traditional+music&i=digital-music and you can patch together most of them by looking at the following two cover art styles:
 
-* gray cover: https://www.amazon.com/dp/B000QZSOV6 (http://web.archive.org/web/20190816082633/https://www.amazon.com/dp/B000QZSOV6[archive]), ISRC: CN-E01-04-0083-00 / A.J6
-* golden: https://www.amazon.com/dp/B000QZUFQI (http://web.archive.org/web/20190816082640/https://www.amazon.com/dp/B000QZUFQI[archive]), TODO find precise list.
+TODO golden cover vs gray cover: https://www.amazon.com/dp/B000QZUFQI (http://web.archive.org/web/20190816082640/https://www.amazon.com/dp/B000QZUFQI[archive]), TODO find precise list.
 
-==== Masters of Chinese Traditional Music Solo Appreciation (2006)
+==== Masters of Chinese Traditional Music Solo Appreciation
 
 14-CD anthology.
 
@@ -2180,15 +2183,19 @@ Chinese name: 中国民乐大师纯独奏鉴赏
 
 Publisher: https://en.wikipedia.org/wiki/Chinese_Musicians%27_Association[Chinese Musicians' Association]
 
-Amazon link for first CD: https://www.amazon.com/Zhong-Guo-Gu-Chinese-Primitive/dp/B000S996JO
-
-==== Chinese Ancient Music (2003)
+==== Chinese Ancient Music
 
 ISRC of CD 1: CN-F13-03-435-00 / A.J6
 
 Publisher: <<china-record-corporation>>.
 
+Amazon link of CD 1: https://www.amazon.com/Zhong-Guo-Gu-Chinese-Primitive/dp/B000S996JO (http://web.archive.org/web/20190817224121/https://www.amazon.com/Zhong-Guo-Gu-Chinese-Primitive/dp/B000S996JO[archive]).
+
 English tracklist and front covers: http://web.archive.org/web/20190817221426/https://rutracker.org/forum/viewtopic.php?t=1298954
+
+==== Not-free TODO evaluate
+
+* Treasury Of Chinese Musical Instruments http://web.archive.org/web/20190817225846/https://muzz.pro/chinese_traditional_folk_treasury_of_chinese_musical_instruments_4_cd_s_2005_mp3_tracks_320_kbps-1624801.html
 
 === Publishers
 
