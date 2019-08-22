@@ -1082,6 +1082,22 @@ Xinjian 2018 re-education camps news:
 ** https://www.washingtonpost.com/world/asia_pacific/former-inmates-of-chinas-muslim-re-education-camps-tell-of-brainwashing-torture/2018/05/16/32b330e8-5850-11e8-8b92-45fdd7aaef3c_story.html?utm_term=.df8ea170b18f
 ** http://uk.businessinsider.com/what-is-life-like-in-xinjiang-reeducation-camps-china-2018-5
 
+=== What should Western countries do about China?
+
+Companies only care about money and have no long term view, the following must be imposed by governments on companies.
+
+The most obvious thing is to go https://en.wikipedia.org/wiki/Tit_for_tat[tit for tat] on Censorship and completely ban all Chinese-sponsored news and culture media, e.g.:
+
+* https://twitter.com/globaltimesnews | http://archive.is/7oshu
+* https://www.youtube.com/user/ChinaViewTV/featured
+* https://www.facebook.com/globaltimesnews/
+
+Their websites should also be blocked e.g.: http://www.globaltimes.cn/
+
+And the same must be done for cultural centers such as https://en.wikipedia.org/wiki/Confucius_Institute[Confucius Institutes].
+
+Next, governments must identify material dependencies on China, and reduce them, while at the same time forbidding technology transfer to China. China has been trading cheap resources for technology, and we must stop that now.
+
 === What is your reply strategy?
 
 People get kind of passionate sometimes about politics. And some of them might also be just malicious wumaos, although it is generally not possible to distinguish between them.
@@ -1735,7 +1751,10 @@ How I find them: <<anti-commie-info>>.
 
 === News 2019
 
-** https://www.apnews.com/a2584de07c014e4786a21bcf9f446a40
+* Twitter to block operations by oppressive foreign state media
+** https://blog.twitter.com/en_us/topics/company/2019/information_operations_directed_at_Hong_Kong.html Reddit: https://www.reddit.com/r/China/comments/csodbt/twitter_suspends_nearly_1000_accounts_connected/
+** https://blog.twitter.com/en_us/topics/company/2019/advertising_policies_on_state_media.html Reddit: https://www.reddit.com/r/China/comments/csnsyn/twitter_policy_change_we_will_not_accept/
+* 2019-07-12 https://www.apnews.com/a2584de07c014e4786a21bcf9f446a40 "37 countries rally around China at top UN human rights body"
 ** <<biased-media,(biased)>> http://www.xinhuanet.com/english/2019-07/15/c_138229200.htm
 ** the full scanned letter: https://twitter.com/KevinPinner/status/1151868854781526016
 * 2019-07-02 https://www.theguardian.com/world/2019/jul/02/chinese-border-guards-surveillance-app-tourists-phones "Chinese border guards put secret surveillance app on tourists' phones"
@@ -2142,8 +2161,9 @@ Here are the few best I've seen. Not enough to replace the non-free, but pretty 
 *** https://www.youtube.com/user/yukinachang/videos "SoundofChina Guzheng" channel with a lot of guzheng content!
 ** Good YouTube lists
 *** https://www.youtube.com/watch?v=qc0CzuA35y8&list=PLXPo1Bj1TYy73e8s99pyKfFD7iHqwigfN "Chinese" by "Ungern Sternberg"
-* http://www.silkqin.com/06hear.htm John Thompson's Guqin website. Holy crap amazing list of Guqin pieces by the guy!
+* http://www.silkqin.com/06hear.htm John Thompson's Guqin website. Holy crap amazing list of Guqin pieces by the guy for MP3 download!
 ** Download all mp3: `wget -r -np -l 1 -A mp3 http://www.silkqin.com/06hear.htm`. Contacted John by email in 2019 telling him to put his stuff on YouTube and offering help.
+** John focuses on playing the tunes in a "historically informed performance", in particular using silk strings rather that metal ones which are used by most modern artists: http://www.silkqin.com/08anal/hip.htm
 * https://www.ibiblio.org/chinese-music/ several loose tracks for direct download. Not sure if legal, but has been up forever. The following sections are pretty good:
 ** https://www.ibiblio.org/chinese-music/html/traditional.html
 ** https://www.ibiblio.org/chinese-music/html/anthology.html#Dream music from the https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(1987_TV_series)link:++https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(1987_TV_series)++["Dream of the Red Chamber" 1987 TV series]. Amazing!!!
