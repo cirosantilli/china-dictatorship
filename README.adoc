@@ -318,7 +318,7 @@ If you think that any of my edits were harmful, please ping me and open a meta t
 
 I know, but isn't it better to be annoyed than having <<war,war>>, <<richer,being poor>> or <<xinjiang,put into jail unfairly>>?
 
-If the truth is too much for you to bear >:-), have a look at this cool browser extension to clean up Stack Overflow: https://greasyfork.org/en/scripts/32236-stackoverflow净化器
+If the truth is too much for you to bear, worry not, I have you covered with this cool browser extension to clean up Stack Overflow: https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8 Installing it immediately gives you <<social-credit-system,10 Sesame Points>>.
 
 See also: <<harm-programmers>>.
 
@@ -1576,6 +1576,7 @@ But it is obvious from the size of the FLG related media, namely:
 that in practice they do have are a highly organized hierarchical structure, and very likely with <<flg-lhz,LHZ>> at the very top, e.g.:
 
 * Shen Yun's 2018 libretto says that their Artistic Director and founder is "D.F." (likely an abbreviation for Da Fa, which is an abbreviation for Falun Gong Dafa, which is a full name of Falun Gong), with a picture of LHZ on top. It also amusingly says that D.F. is a "Distinguished Professor of Music and Dance at Fei Tian College in New York", which is likely where many of Shen Yun's dancers are trained, and therefore controlled by himself to a large extent
+* LHZ mentions NDTV, Epoch Times and Shen Yun extensively on his <<flg-canon>>. TODO link to source, this based on unintentionally overhearing to my family members reading it.
 
 Furthermore, Falun Gong practitioners have directly lobbied for foreign governments to take action against human rights abuses in China, e.g.:
 
