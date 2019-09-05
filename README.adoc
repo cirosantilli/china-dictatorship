@@ -2061,6 +2061,10 @@ See also:
 * https://github.com/gfwlist/gfwlist/issues/3 "How to use this repo?"
 * https://github.com/gfwlist/gfwlist/issues/1141 "Add categories tags to each entry"
 
+==== Censorship circumvention
+
+* https://www.bypasscensorship.org
+
 [[fifty-cent-party]]
 ==== 50 Cent Party 五毛党
 
