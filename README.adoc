@@ -97,6 +97,12 @@ ____
 Also mentioned at: link:https://youtu.be/d3dE_LDz_9E?t=1681[Google versus China - VPRO documentary - 2011]
 +
 This is also well illustrated in the link:https://en.wikipedia.org/wiki/Chernobyl_(miniseries)[HBO 2019 miniseries "Chernobyl"], which suggests that part of the reason why Chernobyl happened is because of the Soviet Union's obsession to save face.
++
+Or https://quoteinvestigator.com/2010/05/21/death-statistic/[if you prefer]:
++
+____
+The death of one man is a tragedy, the death of millions is a statistic.
+____
 
 Against:
 
@@ -882,7 +888,7 @@ https://www.reddit.com/r/China
 
 Catches all the important news
 
-A large part of the posts is controversion material.
+A large part of the posts is controversial material.
 
 Has some noise of course as well, but less than other media I find.
 
@@ -911,7 +917,7 @@ Tecent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-ban
 
 I haven't counted, but the limit for Stack Overflow is quite low, and I'm always almost at the maximum, which is about "Ciro Santilli" + 3 3-4 Chinese character events with a separator.
 
-These are some of my prioritization guidelies:
+These are some of my prioritization guidelines:
 
 * recent cases receive a large prime over raw death toll, because older cases can always be attributed to other people.
 +
