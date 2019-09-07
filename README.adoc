@@ -741,6 +741,48 @@ No, I'm agnostic: https://en.wikipedia.org/wiki/Agnosticism
 
 Here are some things that I don't like about Falun Gong for example: <<things-i-personally-dislike-about-flg>>.
 
+To me FLG is just boring like any other prophetic xref:flg-religion[religion].
+
+The absolute truth is already known by the prophet, although he does not want for reasons to give clear evidence for reasons.
+
+And you just repeat this truth over and over and over:
+
+* FLG is good
+* FLG is good
+* FLG is good
+* xref:flg-religion[Aliens]
+* FLG is good
+* xref:flg-organized[You can support FLG by doing X and Y, but you don't need to, but that makes you a better person]
+* FLG is good
+* FLG is good
+* xref:flg-religion[Alternate dimensions]
+* FLG is good
+* xref:flg-medication[Maybe FLG will make you healthier, but no promises, but it will make you a better person, and that's why you should do it]
+* FLG is good
+* FLG is good
+* Non-followers are like this, FLG people are like that. Although non-followers who do good things are actually doing FLG without knowing it. Note: FLG even has a specific terminology for non-believers, which is translated in English as https://falundafa.org/eng/eng/zfl_new_4.html["ordinary-people"]. Like other aspects of FLG however, this appears in other religions, e.g. my mother mentioned the funny term used by her Protestant's group term but I forgot it, and you can see it in Harry Potter as well: https://en.wikipedia.org/wiki/Muggle[The Muggles].
+* FLG is good
+* FLG is good
+* FLG is good
+* xref:flg-religion[Final judgement]
+* FLG is good
+
+I would really like to know if <<flg-lhz,LHZ>> really believes in FLG, or is just a complete manipulating charlatan, but unfortunately we will never know that.
+
+Just imagine if before he died he published a video saying: "it was a joke, gotcha!". Now that would be **epic**!
+
+Since I'm good natured, it's hard for me to believe that he doesn't believe in anything, how can anyone be that evil? Maybe he believes in part of it, but made up some stuff to sell it better, maybe with good intentions that selling the fake part would also lead more people to see the good part?
+
+Like any other prophetic religion, FLG gives tiny evidence that you can directly feel through meditation. The energies, which I believe are real feelings. And then using that entry point asks you to believe a whole lot more, that you can't feel.
+
+This becomes especially strong when a critical mass of believers is reached, and then they start interpreting all sorts of events as miracles, and you start to believe other believers without questioning them, and a circle is formed.
+
+This post by a former believer gives what I feel is a realistic account that matches my observations: https://medium.com/@Ben_D_Hurley/-10677166298b "Me and Li" by Ben Hurley published on October 23, 2017.
+
+In any case, at least FLG got one thing right: the commies <<do-you-think-the-chinese-government-is-evil,evil>>, and we have to get rid of them.
+
+And yet, all those who love freedom, must oppose FLG ban, or be enslaved by tyrants themselves: <<democracy-is-a-religion>>.
+
 See also: <<flg-is-fake>>.
 
 ===== How much do you know about Falun Gong's claims?
@@ -760,7 +802,9 @@ I think <<flg-lhz,LHZ>> claims the specifically chose to reincarnate in China th
 
 The English translation is made by followers, and gets new revisions to reduce translation imperfection.
 
-However, the Chinese language seems to be fundamentally sacred, and there might never be an sacred English version approved by LZH.
+However, the Chinese language seems to be fundamentally sacred, and there might never be an sacred English version approved by LHZ.
+
+LHZ is of course a de-facto God with superpowers, and can of course speak all languages, but for reasons he didn't just write an English translation himself.
 
 This is a reasonable command to download the English cannon for grepping:
 
@@ -772,7 +816,7 @@ TODO: need to find a way to wrap lines, otherwise grep might fail on sentences.
 
 Nothing else is canonical. LHZ seems to have said that there are enlightened followers, but has not specified who, so we can't derive canon from anyone else.
 
-Notably, <<flg-organized,FLG media>> such as http://www.minghui.org/ is believer led and thus not canonical.
+Notably, <<flg-organized,FLG media>> such as http://www.minghui.org/ is believer led and thus not canonical, even though believers have very high confidence on it, and LHZ <<flg-organized,directly supports it>>.
 
 === Is your campaign funded or otherwise supported by some organization?
 
@@ -907,7 +951,7 @@ Tecent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-ban
 ** https://chinadigitaltimes.net/space/Main_Page a wiki version of the censored word lists, the "Grass-mud horse index" (cao3n2ma3 草泥马), with a censored term of the week section.
 ** https://chinadigitaltimes.net/china/sensitive-words-series/?view=all sensitive words list
 ** Fun 2015 ebook: https://github.com/cirosantilli/decoding-chinese-internet-pdf-download
-* https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8
+* https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China | https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8
 * https://github.com/jasonqng/chinese-keywords
 * link:complete-gfw-rulebook-for-wikipedia-v3.0.pdf[]
 * https://qz.com/698990/261-ways-to-refer-to-the-tiananmen-square-massacre-in-china/ 261 ways to refer to the Tiananmen Square Massacre in China
@@ -1177,7 +1221,7 @@ But don't you think that **70 Million** people (6% of the total population in 20
 
 With that in mind, I try my best to give FLG only the right level of exposure I think it deserves relative to other events, according to these guidelines: <<keyword-choice>>
 
-If more important events of mass human rights violation happen, especially affecting in the order of tens of million people, I will probably rank higher than Falun Gong.
+If more recent events of mass human rights violation happen, especially affecting in the order of tens of million people, I will probably rank higher than Falun Gong.
 
 [[flg-daily]]
 ===== How is it like to live with Falun Gong believers?
@@ -1198,7 +1242,7 @@ Like other religions, Falun Gong gives them meaning in life, and I admire that t
 
 I much prefer that my mother-in-law does Falun Gong, which is a noble meaningful goal, rather than watch stupid crap on television.
 
-Also, although I am <<<<do-you-believe-in-or-practice-falun-gong,agnostic>>, I also live in a similar way.
+Also, although I am <<do-you-believe-in-or-practice-falun-gong,agnostic>>, I also live in a similar way.
 
 My religion is that of science and technology, and I pursue it fervently by trying to learn and teach it and spend several hours a week doing that, even when it does not give me money immediately.
 
@@ -1610,7 +1654,7 @@ that in practice they do have are a highly organized hierarchical structure, and
 * Shen Yun's 2018 libretto says that their Artistic Director and founder is "D.F." (likely an abbreviation for Da Fa, which is an abbreviation for Falun Gong Dafa, which is a full name of Falun Gong), with a picture of LHZ on top. It also amusingly says that D.F. is a "Distinguished Professor of Music and Dance at Fei Tian College in New York", which is likely where many of Shen Yun's dancers are trained, and therefore controlled by himself to a large extent
 * LHZ mentions NDTV, Epoch Times and Shen Yun extensively on his <<flg-canon>>. TODO link to source, this based on unintentionally overhearing to my family members reading it.
 
-Furthermore, Falun Gong practitioners have directly lobbied for foreign governments to take action against human rights abuses in China, e.g.:
+Furthermore, Falun Gong practitioners directly lobby foreign governments to take action against human rights abuses in China, e.g.:
 
 * http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+MOTION+P7-RC-2013-0562+0+DOC+XML+V0//EN
 * https://www.eff.org/press/releases/eff-court-cisco-must-be-held-accountable-aiding-chinas-human-rights-abuses
@@ -1965,10 +2009,10 @@ I consider the media in this section biased, and never cite it for fact checking
 * https://en.wikipedia.org/wiki/China_Daily
 * https://en.wikipedia.org/wiki/Confucius_Institute
 ** https://zh.wikipedia.org/wiki/%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2
-** http://www.economist.com/node/17969895>
+** http://www.economist.com/node/17969895
 * https://en.wikipedia.org/wiki/China_Radio_International
 ** https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0
-** http://www.cri.cn> <http://english.cri.cn/
+** http://www.cri.cn | http://english.cri.cn/
 * https://en.wikipedia.org/wiki/China_Central_Television
 ** https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg CGTN, CCTV's international branch in English
 * http://facts.org.cn/
