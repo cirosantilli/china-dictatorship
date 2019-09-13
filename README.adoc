@@ -296,6 +296,11 @@ Finally, it is up to the Stack Overflow community to decide what is right or wro
 
 Much of the best art and technology is about using something in a way that it wasn't meant to be used.
 
+Duplicate pool:
+
+* https://github.com/cirosantilli/china-dictatorship/issues/66#issuecomment-528165637 (https://web.archive.org/web/20190911212149/https://github.com/cirosantilli/china-dictatorship/issues/66[archive])
+* https://github.com/cirosantilli/china-dictatorship/issues/57
+
 ==== Are you making programming contributions with the main intent of promoting your political agenda?
 
 No, that is just a side effect.
@@ -353,6 +358,10 @@ Most foreigners actually want what is best for China.
 I don't like this argument, but in the end, this is what all politics comes down to: power.
 +
 I recognize that in that sense, I may be similar to the CCP and any other political party.
+
+Duplicate pool:
+
+* https://github.com/cirosantilli/china-dictatorship/issues/66 (https://web.archive.org/web/20190911212149/https://github.com/cirosantilli/china-dictatorship/issues/66[archive])
 
 [[not-chinese]]
 ==== You are not Chinese, you have been brainwashed by the USA know nothing about China
