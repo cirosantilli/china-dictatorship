@@ -239,6 +239,8 @@ The 2019 996.ICU event however brought to my attention that Chinese (usually Web
 
 But I doubt developers use those browsers right? The only way would be for China to forbid foreign browsers entirely.
 
+GitHub has absolute transparency on Government takedowns, which is awesome: https://github.com/github/gov-takedowns/tree/master/China As of 2019 there have only been only 2 takedowns by China however, compared to dozens by <<russia>>. The Chinese commies are not big fans of transparency it seems.
+
 [[dictator-needs-gfw]]
 === Would ending the great firewall truly end the dictatorship?
 
