@@ -2849,6 +2849,16 @@ Not worth it:
 +
 1050B rue Clark
 
+== Mirrors of this repository
+
+The cool thing about Git is that we can maintain several mirrors on multiple websites very easily:
+
+* https://github.com/cirosantilli/china-dictatorship Canonical source
+* https://gitlab.com/cirosantilli/china-dictatorship Maybe some day http://gitlab.cn/ ? :-)
+* https://bitbucket.org/cirosantilli/china-dictatorship
+
+Update all mirrors with: link:push-mirrors[]
+
 == Other sections
 
 TODO migrate all into this README.

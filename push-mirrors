@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+git push git@gitlab.com:cirosantilli/china-dictatorship.git
+git push git@bitbucket.org:cirosantilli/china-dictatorship.git
