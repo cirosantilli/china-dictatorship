@@ -890,6 +890,7 @@ This is how much time I spend on this to give you an idea:
 * every week or two, someone sends me a message, I reply with "read the FAQ", and usually update
 * I follow https://www.reddit.com/r/China amongst many other programming subs, and all major bad news show up there. See also: <<anti-commie-info>>
 * when something bad enough comes up, I go to https://chinadigitaltimes.net/china/sensitive-words-series/ and update <<keyword-attack,my keyword attack>>. I've only been updating it on Stack Overflow and GitHub these days.
+* when I see a good new heavily anti-CCP Twitter accounts I add it to this list: https://twitter.com/cirosantilli/lists/china
 
 Then I just contribute to programming websites exactly as I would if I weren't making this campaign.
 
