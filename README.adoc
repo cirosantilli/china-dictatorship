@@ -390,7 +390,7 @@ It is more productive for you to write in English, so that the rest of the West 
 
 Especially since it seems that most Chinese already know what you are talking about.
 
-See also: <<what-is-your-chinese-level>>.
+See also: <<do-you-speak-chinese>>.
 
 [[preconceived]]
 ===== You have a preconceived opinion about China that cannot be changed
@@ -421,9 +421,9 @@ But I know that if you don't mind contributing to making <<war,WW3>> deadlier an
 
 If the dictatorship ends, I would like to <<do-you-hate-china,migrate to China>> if given a decent job to help you develop and become awesomer.
 
-==== What is your Chinese level?
+==== Do you speak Chinese?
 
-Oral enough for daily things, but not understand a natural casual dinner conversation or watch TV series.
+As of 2019, oral enough for daily things, but not understand a natural casual dinner conversation or watch TV series.
 
 If it matters, with some patience, I can make myself understood though with some analogies and a dictionary.
 
@@ -432,6 +432,8 @@ I read with link:http://www.perapera.org/[Perapera], write with a mixture of lin
 I haven't tried to learn characters, too much effort, but I learnt the most common ones without trying.
 
 I really wish I could learn more, but I have other more important endeavours at the moment :-(
+
+I had learnt from Audio books in the first 6-months to 1 year in 2010, but that got impossibly boring afterwards, so for now I'm just basically talking as much as possible non-important things to my wife in Chinese, and whenever I reach one that I don't know that seems useful, I Pleco it up or just 怎么说 and then Pleco.
 
 Spoken Chinese is in my opinion a relatively easy language to learn from scratch, because word formation is so often logical:, e.g.:
 
@@ -442,7 +444,7 @@ and there is no useless crap like verb conjugation, https://en.wikipedia.org/wik
 
 I love this language.
 
-Please just get rid of the Chinese characters and move to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export. Characters are beautiful, but just take too much time to learn.
+Please just get rid of the Chinese characters and move to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export. Characters are beautiful, but just take too much time for any sane adult to learn, it's harder than C++!
 
 [[bias]]
 === This repository is completely biased against the Chinese Government!
@@ -705,7 +707,7 @@ See also: <<preconceived>>
 On the contrary. China has my favorite:
 
 * <<restaurants,food>>
-* <<what-is-your-chinese-level,language>>
+* <<do-you-speak-chinese,language>>
 * <<music>>
 * history and culture
 * nature
@@ -2214,6 +2216,7 @@ https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 
 Or to my other online presences, due to China activity:
 
+* 2019-09: https://admin.github.com Someone from GitHub has been thinking about us. s2 to you.
 * "https://www.linkedin.com/pulse/thoughts-github-going-china-kevin-xu/" https://twitter.com/sang_what/status/1172692888766959619 (http://archive.is/taPpH[archive]) https://t.co/qag5ekL12F
 * 2019-06: https://gking.harvard.edu/ interesting. OK, likely due to: https://gking.harvard.edu/category/research-interests/applications/information-control-by-authoritarian-governments but no direct links found though.
 * 2019-05: someone used the FAQ to answer a question: https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/ | http://web.archive.org/web/20190527072431/https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/ "‘If I disappear’: Chinese students make farewell messages amid crackdowns over labor activism"
