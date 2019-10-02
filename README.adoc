@@ -363,6 +363,7 @@ I recognize that in that sense, I may be similar to the CCP and any other politi
 
 Duplicate pool:
 
+* https://github.com/cirosantilli/china-dictatorship/issues/1
 * https://github.com/cirosantilli/china-dictatorship/issues/66 (https://web.archive.org/web/20190911212149/https://github.com/cirosantilli/china-dictatorship/issues/66[archive])
 
 [[not-chinese]]
@@ -423,9 +424,13 @@ If the dictatorship ends, I would like to <<do-you-hate-china,migrate to China>>
 
 ==== Do you speak Chinese?
 
-As of 2019, oral enough for daily things, but not understand a natural casual dinner conversation or watch TV series.
+As of 2019, oral enough for daily things, but not understand most natural casual dinner conversation or watch TV series, because they go too quickly into vocabulary subject areas that I don't know.
 
-If it matters, with some patience, I can make myself understood though with some analogies and a dictionary.
+When it matters, and with some patience, I can make myself understood though with https://xkcd.com/thing-explainer/[some analogies] (https://web.archive.org/web/20190908144612/https://xkcd.com/thing-explainer/[archive]) and a dictionary.
+
+From the HSK vocabulary list, I estimate definitely HSK 3, but not quite HSK 4. This would likely equate A2 / B1 in the https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages[European system].
+
+Phonetics wise, I can't distinguish or produce a few sounds, notably `-ing` vs `-in` and my off-tone rate is high, but it tends to not matter at all compared to the lack of vocabulary.
 
 I read with link:http://www.perapera.org/[Perapera], write with a mixture of link:https://www.pleco.com/[Pleco], Google translate and Googling to see if Chinese actually say the sentences that way.
 
@@ -433,7 +438,7 @@ I haven't tried to learn characters, too much effort, but I learnt the most comm
 
 I really wish I could learn more, but I have other more important endeavours at the moment :-(
 
-I had learnt from Audio books in the first 6-months to 1 year in 2010, but that got impossibly boring afterwards, so for now I'm just basically talking as much as possible non-important things to my wife in Chinese, and whenever I reach one that I don't know that seems useful, I Pleco it up or just 怎么说 and then Pleco.
+I had learnt from book that come with audio recordings in the first 6-months to 1 year in 2010, but that got impossibly boring afterwards, so for now I'm just basically talking as much as possible non-important things to my wife in Chinese, and whenever I reach one that I don't know that seems useful, I Pleco it up or just 怎么说 and then Pleco.
 
 Spoken Chinese is in my opinion a relatively easy language to learn from scratch, because word formation is so often logical:, e.g.:
 
@@ -740,6 +745,10 @@ More serious answer:
 * the more famous I am, the more feedback I have that what I've been doing has been working
 
 Keyword: attention whore.
+
+Duplicate pool:
+
+* https://github.com/cirosantilli/china-dictatorship/issues/5
 
 ===== Are you doing this because it makes you feel important?
 
