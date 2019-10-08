@@ -1888,6 +1888,9 @@ How I find them: <<anti-commie-info>>.
 * 2019-06 2019 Hong Kong anti-extradition bill protests
 ** https://en.wikipedia.org/wiki/2019_Hong_Kong_anti-extradition_bill_protests
 ** https://www.youtube.com/watch?v=dEvalUQuClE "Last Hong Kong governor Chris Patten: Gov't defence of extradition bill 'absolute nonsense'", Hong Kong Free Press
+*** 2019-10 Daryl Morey, NBA's Houston Rockets manager sent tweet supporting the Hong Kong protests. But then he was a coward, removed this tweet, and apologized: https://twitter.com/dmorey/status/1181000808399114240 (http://archive.is/6Sdpn[archive]). NBA is huge in China.
+**** https://www.bbc.co.uk/news/business-49956385
+**** https://edition.cnn.com/2019/10/07/business/houston-rockets-nba-china-daryl-morey/index.html
 * 2019-05-09 https://www.youtube.com/watch?v=t2hBtXdaYsQ&list=PLcZOZrP1P_V5d7RMOKXF1PT70fcfYJpgY&index=2&t=14s Cynthia Liu, daughter of Liu Changming pleas freedom on YouTube, commented upload by CBS, TODO can't find original video on YouTube, maybe they sent straight to CBS?
 * 2019-04-28 https://www.bbc.co.uk/news/world-asia-48084019 Hong Kong: Thousands protest against China extradition law
 * 2019-04 996 https://github.com/996icu/996.ICU
@@ -2128,6 +2131,11 @@ Humour is the greatest weapon against dictators:
 * http://9gag.com/gag/ayn7KmW?ref=fbp Left Right Slaughterhouse comic, Dictatorships love this one.
 * http://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/
 * http://www.miniharm.com/
+* South Park S32 E1 "Band in China" (2019), episode criticizing Chinese censorship
+** free preview https://www.youtube.com/watch?v=g6DI6XuvCwE
+** free episode but only for US / Canada... https://southpark.cc.com/full-episodes/s23e02-band-in-china
+** reply from show creators to censorship https://twitter.com/SouthPark/status/1181273539799736320
+** BBC's report https://www.bbc.co.uk/news/world-asia-china-49968867
 
 [[rebelpepper]]
 === RebelPepper 变态辣椒
