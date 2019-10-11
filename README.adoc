@@ -241,6 +241,22 @@ But I doubt developers use those browsers right? The only way would be for China
 
 GitHub has absolute transparency on Government takedowns, which is awesome: https://github.com/github/gov-takedowns/tree/master/China As of 2019 there have only been only 2 takedowns by China however, compared to dozens by <<russia>>. The Chinese commies are not big fans of transparency it seems.
 
+The message GitHub shows is:
+
+____
+Repository unavailable in your location
+
+This repository is currently disabled in your location. For more details please see the takedown notice.
+____
+
+Here are some examples of people reacting to it from China:
+
+* https://github.com/programthink/books/issues/31
+* https://www.zhihu.com/question/284445884/
+* https://program-think.blogspot.com/2018/04/Zhao-at-GitHub.html?comment=1524671692761#1524671692761 
+
+To check China only takedowns such as this, we cannot use Great Fire Analyzer, which reports the page as accessible: the only tool I could find so far to capture a page from China a bit like Web Archive was: https://www.geoscreenshot.com which takes screenshots of the websites, but the free trial is very limited, and you can't share the screenshots.
+
 [[dictator-needs-gfw]]
 === Would ending the great firewall truly end the dictatorship?
 
