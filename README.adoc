@@ -1854,6 +1854,8 @@ Visual ads on the street on Internet I can stand, but not any kind of advertisin
 
 I was banned from Zhihu on 2018-06-25 for "politically sensitive" content.
 
+As a result, since that time I will be answering Zhihu questions as issues in this repo with the https://github.com/cirosantilli/china-dictatorship/labels/zhihu[label `zhihu`].
+
 I have however never posted anything politically sensitive on Zhihu, unless my name and profile picture have reached that distinction, and therefore the ban is clearly an unfair per-person ban.
 
 But of course, all is fair in love and war, and politics.
