@@ -422,6 +422,10 @@ But I know that if you don't mind contributing to making <<war,WW3>> deadlier an
 
 If the dictatorship ends, I would like to <<do-you-hate-china,migrate to China>> if given a decent job to help you develop and become awesomer.
 
+==== Are you Chinese?
+
+https://cirosantilli.com/#ciro-santilli
+
 ==== Do you speak Chinese?
 
 As of 2019, oral enough for daily things, but not understand most natural casual dinner conversation or watch TV series, because they go too quickly into vocabulary subject areas that I don't know.
@@ -1891,6 +1895,7 @@ How I find them: <<anti-commie-info>>.
 *** 2019-10 Daryl Morey, NBA's Houston Rockets manager sent tweet supporting the Hong Kong protests. But then he was a coward, removed this tweet, and apologized: https://twitter.com/dmorey/status/1181000808399114240 (http://archive.is/6Sdpn[archive]). NBA is huge in China.
 **** https://www.bbc.co.uk/news/business-49956385
 **** https://edition.cnn.com/2019/10/07/business/houston-rockets-nba-china-daryl-morey/index.html
+*** 2019-10 https://twitter.com/Slasher/status/1181442535962632193 Blizzard bans top Hearthstone esports player blitzchung for pro Hong Kong message in interview
 * 2019-05-09 https://www.youtube.com/watch?v=t2hBtXdaYsQ&list=PLcZOZrP1P_V5d7RMOKXF1PT70fcfYJpgY&index=2&t=14s Cynthia Liu, daughter of Liu Changming pleas freedom on YouTube, commented upload by CBS, TODO can't find original video on YouTube, maybe they sent straight to CBS?
 * 2019-04-28 https://www.bbc.co.uk/news/world-asia-48084019 Hong Kong: Thousands protest against China extradition law
 * 2019-04 996 https://github.com/996icu/996.ICU
@@ -2234,6 +2239,7 @@ https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 
 Or to my other online presences, due to China activity:
 
+* 2019-10-10: https://hacpai.com/article/1570686552645 Login required, cowards. Post title: "更新 GitHub 官方 Repo 的人，竟然是个反华分子". Manual page dump: https://ia801505.us.archive.org/27/items/cirosantilli/hacpai_1570686552645.html It is some developper website: https://hacpai.com/article/1440573175609 (https://web.archive.org/web/20190811205230/https://hacpai.com/article/1440573175609[archive]) linked to https://github.com/b3log/solo[].
 * 2019-09: https://admin.github.com Someone from GitHub has been thinking about us. s2 to you.
 * "https://www.linkedin.com/pulse/thoughts-github-going-china-kevin-xu/" https://twitter.com/sang_what/status/1172692888766959619 (http://archive.is/taPpH[archive]) https://t.co/qag5ekL12F
 * 2019-06: https://gking.harvard.edu/ interesting. OK, likely due to: https://gking.harvard.edu/category/research-interests/applications/information-control-by-authoritarian-governments but no direct links found though.
