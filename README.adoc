@@ -401,6 +401,8 @@ But please, link to reference material instead of just saying it, it will be muc
 
 If you don't know English well enough, that's fine though, go for Chinese.
 
+Obviously, in that case, use simple and standard Chinese. No slangs, otherwise I won't have patience to Google your useless slangs down Quora questions. Of course, if I have to tell you this, you likely are not going to say anything useful in the first place, so not reading your post is likely fine. I think using slangs makes some people feel smart due their advanced knowledge of a specific subculture, or makes them feel part of that subculture to gather allies, or they just want to waste my time.
+
 But if you do, use English.
 
 I am not going to learn Chinese because of your message.
@@ -420,13 +422,15 @@ Our opinions are all determined genetically and by bring-up, and there is nothin
 
 From that point of view, all of this is just a cold blooded political game, in which I try to force the CCP to take down the Firewall: <<why-keyword-attack>>.
 
-Unfortunately I'm still still human and do get annoyed or sad sometimes, but never mad, even if your opinion is contrary to mine, and therefore wrong :-)
+Unfortunately I'm still still human and do get annoyed or sad sometimes, but never mad, even if your opinion is contrary to mine, and therefore wrong :-) The <<what-is-your-reply-strategy,reply strategy>> helps me reduce such frustrations tremendously however.
 
 I also have doubts about certain things I do as expressed throughout this FAQ.
 
 Also, I have never said that that anyone else is wrong.
 
 In the end, I just end up thinking about new replies to things people say to me, and add them to this FAQ so that future replies will be faster to copy paste. See also: <<better-to-do>>.
+
+The real goal of this FAQ it not to convince people, but rather to determine who is an ally and who is not, and get those allies together to defeat the commies.
 
 ==== Have you ever lived in China?
 
@@ -1380,6 +1384,8 @@ which is now usually seen on the form https://english.stackexchange.com/question
 ____
 Never argue with an idiot. They will only bring you down to their level and beat you with experience.
 ____
+
+Where basically idiot == someone who creates posts that obviously aren't teaching you any new useful thing, or that not praising you :-)
 
 === Christianism
 
