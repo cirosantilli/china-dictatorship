@@ -1217,7 +1217,7 @@ It is still hard to get hard evidence, much like every other mass human rights v
 
 Xinjian 2018 re-education camps news:
 
-* 2019-09-22 Drone footage of Xinjiang prisioner transfer uploaded to YouTube. TODO confirm location and that these are political prisionners rather than "normal criminals".
+* 2019-09-22 Drone footage of Xinjiang prisoner transfer uploaded to YouTube. TODO confirm location and that these are political prisoners rather than "normal criminals".
 ** Upload sources
 *** https://www.youtube.com/watch?v=gGYoeJ5U7cQ
 *** https://twitter.com/warcombatfear/status/1174031079432310785
@@ -1226,6 +1226,9 @@ Xinjian 2018 re-education camps news:
 ** Reddit: https://www.reddit.com/r/China/comments/d78aog/chilling_video_of_chinese_police_transferring/
 * 2019-07-31 https://www.nytimes.com/2019/07/30/world/asia/china-xinjiang.html "Doubt Greets China’s Claim That Muslims Have Been Released From Camps"
 * 2019-07-19 https://www.france24.com/en/20190712-37-countries-defend-china-over-xinjiang-un-letter "37 countries defend China over Xinjiang in UN letter"
++
+.https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source]
+image::https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html/190716RFA-en-1000.jpg/@@images/c8c9143a-3a01-4116-9322-6aeb4857100f.jpeg[height=400]
 * 2019-07-04 https://www.bbc.co.uk/news/world-asia-china-48825090 "China Muslims: Xinjiang schools used to separate children from families"
 * 2019-05-07 https://www.theguardian.com/world/2019/may/07/revealed-new-evidence-of-chinas-mission-to-raze-the-mosques-of-xinjiang
 * 2019-05-07 https://www.youtube.com/watch?v=ULaJVWOr4ko CNN does a few Xinjiang interviews and sends reporter to visit some of the concentration camps
@@ -1277,8 +1280,8 @@ Citizens should boycott such companies.
 
 https://github.com/caffeine-overload/bandinchina contains a "List of companies who have apologized to the Chinese government and implemented censorship requests". I don't understand though why they won't add GitHub to the list, but so be it: https://github.com/caffeine-overload/bandinchina/pull/56#issuecomment-541230090
 
-.https://twitter.com/RadioFreeAsia/status/1182375305085968387[Source].
-image::https://web.archive.org/web/20191011092825/https://pbs.twimg.com/media/EGikEkFXkAE-A8m?format=jpg&name=4096x4096[]
+.https://www.rfa.org/english/cartoons/china-hongkong-us-10102019153228.html[Source].
+image::https://web.archive.org/web/20191011092825/https://pbs.twimg.com/media/EGikEkFXkAE-A8m?format=jpg&name=4096x4096[height=400]
 
 === What should pro-democracy Chinese living in China do about the dictatorship?
 
@@ -1310,6 +1313,27 @@ If the user keeps generating notifications, warning + temporary block.
 If the post is outright useless and offensive, direct user block, with a link to the link:CONTRIBUTING.md[].
 
 I have also been pointed out to the following reply strategy by  C.K. Hung which might be of interest: https://ckhung0.blogspot.com/2017/07/50-cents-party.html
+
+=== Christianism
+
+The commies are not a fan. Or as someone once told me: the commies are not a fan of a bunch of things!
+
+* 2018-12 https://www.youtube.com/watch?v=zzWApdCNdik 100 Christians detained in China crackdown
+* 2018-09 Vatican Christian pope makes deal with China
++
+https://en.wikipedia.org/wiki/China%E2%80%93Holy_See_relations#September_2018_Holy_See%E2%80%93China_Agreement
++
+.https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html[Source].
+image::https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html/180927RFA-vatican-china.jpg/@@images/190bb54e-d6be-4c98-9599-b4a88aa6b959.jpeg[height=400]
+* 2018-01 Chinese authorities demolish Christian mega-church sparking fears of religious persecution
+** https://www.businessinsider.com/chinese-authorities-demolish-christian-mega-church-in-crackdown-2018-1
++
+image::https://image.businessinsider.com/5a572ca3a75e205e138b4b5f?width=1300&format=jpeg&auto=webp[height=400]
+* 2016 http://www.nytimes.com/2016/02/27/world/asia/china-zhejiang-christians-pastor-crosses.html pastor 14 years jail
+* 2015 https://www.washingtonpost.com/world/asia_pacific/christians-in-china-feel-full-force-of-authorities-repression/2015/12/23/7dd0ec5a-a736-11e5-b596-113f59ee069a_story.html
+
+.https://www.rfa.org/english/cartoons/china-crackddown-Christianity-cartoon-09072018150421.html[Source]
+image::https://www.rfa.org/english/cartoons/china-crackddown-Christianity-cartoon-09072018150421.html/180907RFA_thelastsupperinChina_1000.jpg/@@images/ac0553ed-a46d-43f6-98d8-288ce76901af.jpeg[height=400]
 
 === Falun Gong
 
@@ -1465,7 +1489,7 @@ Of course, like every other religion, reality happens to be is constructed in a 
 
 ===== FLG is a very new religion and therefore fake
 
-The Romans called Christianism the "Cult of Jesus".
+The Romans called <<Christianism>> the "Cult of Jesus".
 
 If I tell a lie today, will it become true in a thousand years? Or a truth today become a lie?
 
@@ -1574,7 +1598,7 @@ Did someone from Falun Gong told the person to do it?
 I bet that if you look into patients of psychiatrists, you will find more suicides than average. So should we ban psychiatry?
 * are you sure that the order came from <<flg-lhz,LHZ>>, and that it was not just some disgruntled local leader using Falun Gong for his personal madness and doing things he did not approve?
 +
-Branch Davidians were inspired by Christianism. So should we ban Christianity? What about the majority of Christians who have never done anything bad?
+Branch Davidians were inspired by <<Christianism>>. So should we ban Christianity? What about the majority of Christians who have never done anything bad?
 * only statistics has any meaning, and it would require a very large number of reports to make up statistics, so you will likely be wasting your time. I will do my part and maintain a list however.
 * if ask for FLG believers to compile a list of horrors they have suffered, which they have already been doing since the start of the persecution, I bet that their list will be much longer than yours, because they are so <<flg-organized,well organized>>
 
@@ -1816,7 +1840,7 @@ This is a point that makes me worry, and I do believe that it is true for some b
 * what matters are statistics. Maybe FLG people live longer than non FLG in average. But we will never have statistics because of censorship: http://skeptics.stackexchange.com/questions/27529/have-many-falun-gong-practitioners-forgone-medical-treatment-and-died-of-treatab
 * maybe people should be link:https://en.wikipedia.org/wiki/Suicide_legislation[allowed to choose how they want to die], not to take medication if they don't want to
 * maybe the number of people killed during persecution vastly outnumbers those who died because they would not take medication
-* several religions, including Christianism have miraculous cure claims. My impression is that claims were mostly notable in the old times apparently, likely because people noticed that Christians were still dying of all kinds of diseases like everyone else, no matter how devout!
+* several religions, including <<Christianism>> have miraculous cure claims. My impression is that claims were mostly notable in the old times apparently, likely because people noticed that Christians were still dying of all kinds of diseases like everyone else, no matter how devout!
 * maybe the main reason why communists banned FLG is the political threat it posed, but that a ban was unjustified given the situation. Christian crosses are being taken down as of 2016, have they stopped taking their medications as well?
 * maybe many of those people would also have died soon even if they had taken medication
 * maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyways. Who can agree and follow all the innumerable prescriptions of any religious or legal system?
@@ -1978,7 +2002,6 @@ How I find them: <<anti-commie-info>>.
 
 === News 2018
 
-* 2018-12 https://www.youtube.com/watch?v=zzWApdCNdik 100 Christians detained in China crackdown
 * 2018-11 https://www.businessinsider.com/liu-changming-china-holds-officials-family-hostage-to-force-return-2018-11 China is holding a renegade official's family hostage to pressure him to come back. Western media, for the love of God, include names in Chinese news titles: Liu Changming, wife Sandra Han, children Victor and Cynthia Liu.
 * 2018-08 https://theintercept.com/2018/08/08/google-censorship-china-blacklist/
 * 2018-06 https://arstechnica.com/tech-policy/2018/06/china-bans-online-mention-of-john-oliver-after-he-mocks-chinas-president/ https://www.dailymotion.com/video/x6m5b3o
@@ -2001,6 +2024,9 @@ How I find them: <<anti-commie-info>>.
 
 * 包子露宪 https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution
 * https://www.nytimes.com/2018/03/10/world/asia/china-xi-jinping-term-limit-explainer.html
+
+.https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html[Source].
+image::https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html/180227RFA-XiJinping-Eternity.jpg[height=400]
 
 === News 2017
 
@@ -2042,7 +2068,6 @@ How I find them: <<anti-commie-info>>.
 ** https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%96%87%E4%BB%B6
 ** mention Deng Jiagui 邓家贵 https://en.wikipedia.org/wiki/Deng_Jiagui , who is Xi Jinping's brother-in-law
 * 2016 http://www.theguardian.com/tv-and-radio/2016/mar/04/china-bans-gay-people-television-clampdown-xi-jinping-censorship gay depiction banned on television
-* 2016 http://www.nytimes.com/2016/02/27/world/asia/china-zhejiang-christians-pastor-crosses.html pastor 14 years jail
 * 2016 http://www.bbc.com/news/blogs-trending-35496562 Armani Communist - http://www.ibtimes.com/xi-jinping-wants-overhaul-image-chinas-rich-kids-1961207 - first section of https://www.youtube.com/watch?v=ZKQ5ijFZ_j8
 * 2016 http://freebeacon.com/national-security/chinese-defector-reveals-beijings-secrets/ Ling Wancheng defects
 * 2016 http://chinachange.org/2016/01/21/activist-in-xinjiang-sentenced-to-19-years-for-online-writings-and-rights-activities/ Zhang Haitao (张海涛) faces 19 years in jail for his blog posts
@@ -2057,7 +2082,6 @@ How I find them: <<anti-commie-info>>.
 *** https://en.wikipedia.org/wiki/Lam_Wing-kee
 *** https://www.youtube.com/watch?v=dHq0f_eGLhE 2016 interview in freedom
 *** https://china-journal.org/2019/04/27/abducted-hong-kong-bookseller-has-fled-to-taiwan-to-avoid-extradition-to-china/
-* 2015 https://www.washingtonpost.com/world/asia_pacific/christians-in-china-feel-full-force-of-authorities-repression/2015/12/23/7dd0ec5a-a736-11e5-b596-113f59ee069a_story.html
 * 2015 Taiwan #1
 ** https://www.reddit.com/r/OutOfTheLoop/comments/3tz3jq/what_is_the_point_of_the_taiwan_1_thing/
 ** https://www.youtube.com/watch?v=vTqZ9xrxhHk
