@@ -1347,7 +1347,7 @@ People get kind of passionate sometimes about politics. And some of them might a
 
 In order to not waste too much time on those, I use the following strategy:
 
-If the original thread post is not very interesting, I try to parse it quickly and reply once, always <<better-to-do,linking to the FAQ>>, and then unfollow.
+If the original thread post is not very interesting, I try to parse it quickly and reply once, always <<better-to-do,linking to the FAQ>>, and then unfollow. This shows that I'm still present, and takes little effort.
 
 I then do my best to never read the inevitable reply again. An interesting reply never follows from a non-interesting original post.
 
@@ -1355,7 +1355,7 @@ If the user keeps generating notifications, warning + temporary block.
 
 If the post is outright useless and offensive, direct user block, with a link to the link:CONTRIBUTING.md[].
 
-I have also been pointed out to the following reply strategy by  C.K. Hung which might be of interest: https://ckhung0.blogspot.com/2017/07/50-cents-party.html
+I have also been pointed out to the following reply strategy by C.K. Hung which might be of interest: https://ckhung0.blogspot.com/2017/07/50-cents-party.html
 
 For outbursts of activity from Chinese websites, usually programming (v2ex, hacpai), only post the following canned answer and nothing else, because cowards from the website might delete your posts, so I can't afford waste time there with that shit:
 
@@ -1367,6 +1367,18 @@ ____
 你们要是在那儿找不到一个回答，清在那个repository开一个issue，我马上就回答。
 
 我不要再在这个网页评论。
+____
+
+Finally, don't forget the golden rule from https://biblehub.com/proverbs/26-4.htm[Proverbs 26:4]:
+
+____
+Don’t answer the foolish arguments of fools, or you will become as foolish as they are.
+____
+
+which is now usually seen on the form https://english.stackexchange.com/questions/66460/origin-of-do-not-argue-with-idiots[of unclear attribution]:
+
+____
+Never argue with an idiot. They will only bring you down to their level and beat you with experience.
 ____
 
 === Christianism
