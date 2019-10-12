@@ -1357,6 +1357,18 @@ If the post is outright useless and offensive, direct user block, with a link to
 
 I have also been pointed out to the following reply strategy by  C.K. Hung which might be of interest: https://ckhung0.blogspot.com/2017/07/50-cents-party.html
 
+For outbursts of activity from Chinese websites, usually programming (v2ex, hacpai), only post the following canned answer and nothing else, because cowards from the website might delete your posts, so I can't afford waste time there with that shit:
+
+____
+大家你好
+
+关于我常见问题我在我的GitHub中国FAQ repository回答了好几个。
+
+你们要是在那儿找不到一个回答，清在那个repository开一个issue，我马上就回答。
+
+我不要再在这个网页评论。
+____
+
 === Christianism
 
 The commies are not a fan. Or as someone once told me: the commies are not a fan of a bunch of things!
@@ -2400,7 +2412,7 @@ https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 
 Or to my other online presences, due to China activity:
 
-* 2019-10-10: https://hacpai.com/article/1570686552645 Login required, cowards. Post title: "更新 GitHub 官方 Repo 的人，竟然是个反华分子". Manual page dump after my replies with links to this FAQ: https://ia801505.us.archive.org/27/items/cirosantilli/hacpai_1570686552645.html OP then deleted my comments because they don't speak English "HacPai 是个文明的社区，不会发生辱骂的现象，你有你的观点，我们有我们的观点。但抱歉，我们的水平有限，没有阅读英文的能力，还请发送有效回复，否则只能折叠处理". It is some developper website: https://hacpai.com/article/1440573175609 (https://web.archive.org/web/20190811205230/https://hacpai.com/article/1440573175609[archive]) linked to https://github.com/b3log/solo[].
+* 2019-10-12: https://hacpai.com/article/1570686552645 Login required, cowards. Post title: "更新 GitHub 官方 Repo 的人，竟然是个反华分子". Manual page dump after my replies with links to this FAQ: https://ia801505.us.archive.org/27/items/cirosantilli/hacpai_1570686552645.html OP then deleted my comments because they don't speak English "HacPai 是个文明的社区，不会发生辱骂的现象，你有你的观点，我们有我们的观点。但抱歉，我们的水平有限，没有阅读英文的能力，还请发送有效回复，否则只能折叠处理". It is some developper website: https://hacpai.com/article/1440573175609 (https://web.archive.org/web/20190811205230/https://hacpai.com/article/1440573175609[archive]) linked to https://github.com/b3log/solo[]. OP then made an useless post here: https://github.com/cirosantilli/china-dictatorship/issues/70 As of 2019-10-12, I can't login there anymore, either because the website is shitty, or I was blocked. GitHub login just fails silently, cannot reset password. If blocked, cowards. This led me to update: <<what-is-your-reply-strategy>> with the canned reply.
 * 2019-09: https://admin.github.com Someone from GitHub has been thinking about us. s2 to you.
 * "https://www.linkedin.com/pulse/thoughts-github-going-china-kevin-xu/" https://twitter.com/sang_what/status/1172692888766959619 (http://archive.is/taPpH[archive]) https://t.co/qag5ekL12F
 * 2019-06: https://gking.harvard.edu/ interesting. OK, likely due to: https://gking.harvard.edu/category/research-interests/applications/information-control-by-authoritarian-governments but no direct links found though.
