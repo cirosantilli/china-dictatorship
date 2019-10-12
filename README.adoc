@@ -1227,8 +1227,8 @@ Xinjian 2018 re-education camps news:
 * 2019-07-31 https://www.nytimes.com/2019/07/30/world/asia/china-xinjiang.html "Doubt Greets China’s Claim That Muslims Have Been Released From Camps"
 * 2019-07-19 https://www.france24.com/en/20190712-37-countries-defend-china-over-xinjiang-un-letter "37 countries defend China over Xinjiang in UN letter"
 +
-.https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source]
-image::https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html/190716RFA-en-1000.jpg/@@images/c8c9143a-3a01-4116-9322-6aeb4857100f.jpeg[height=400]
+.https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source].
+image::https://web.archive.org/web/20191012074352im_/https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html/190716RFA-en-1000.jpg/@@images/c8c9143a-3a01-4116-9322-6aeb4857100f.jpeg[height=400]
 * 2019-07-04 https://www.bbc.co.uk/news/world-asia-china-48825090 "China Muslims: Xinjiang schools used to separate children from families"
 * 2019-05-07 https://www.theguardian.com/world/2019/may/07/revealed-new-evidence-of-chinas-mission-to-raze-the-mosques-of-xinjiang
 * 2019-05-07 https://www.youtube.com/watch?v=ULaJVWOr4ko CNN does a few Xinjiang interviews and sends reporter to visit some of the concentration camps
@@ -1283,6 +1283,9 @@ https://github.com/caffeine-overload/bandinchina contains a "List of companies w
 .https://www.rfa.org/english/cartoons/china-hongkong-us-10102019153228.html[Source].
 image::https://web.archive.org/web/20191011092825/https://pbs.twimg.com/media/EGikEkFXkAE-A8m?format=jpg&name=4096x4096[height=400]
 
+.https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html[Source].
+image::http://web.archive.org/web/20191012080116im_/https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html/170731Apple-700.jpg[]
+
 === What should pro-democracy Chinese living in China do about the dictatorship?
 
 First of all, hide and stay safe, unless you can deal the final blow. From https://en.wikipedia.org/wiki/The_World_at_War[World at war, 1973], ep. 16:
@@ -1324,16 +1327,16 @@ The commies are not a fan. Or as someone once told me: the commies are not a fan
 https://en.wikipedia.org/wiki/China%E2%80%93Holy_See_relations#September_2018_Holy_See%E2%80%93China_Agreement
 +
 .https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html[Source].
-image::https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html/180927RFA-vatican-china.jpg/@@images/190bb54e-d6be-4c98-9599-b4a88aa6b959.jpeg[height=400]
+image::https://web.archive.org/web/20180930134934im_/https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html/180927RFA-vatican-china.jpg/@@images/190bb54e-d6be-4c98-9599-b4a88aa6b959.jpeg[height=400]
 * 2018-01 Chinese authorities demolish Christian mega-church sparking fears of religious persecution
 ** https://www.businessinsider.com/chinese-authorities-demolish-christian-mega-church-in-crackdown-2018-1
 +
-image::https://image.businessinsider.com/5a572ca3a75e205e138b4b5f?width=1300&format=jpeg&auto=webp[height=400]
+image::http://web.archive.org/web/20191012080721if_/https://image.businessinsider.com/5a572ca3a75e205e138b4b5f?width=1300&format=jpeg&auto=webp[height=400]
 * 2016 http://www.nytimes.com/2016/02/27/world/asia/china-zhejiang-christians-pastor-crosses.html pastor 14 years jail
 * 2015 https://www.washingtonpost.com/world/asia_pacific/christians-in-china-feel-full-force-of-authorities-repression/2015/12/23/7dd0ec5a-a736-11e5-b596-113f59ee069a_story.html
 
-.https://www.rfa.org/english/cartoons/china-crackddown-Christianity-cartoon-09072018150421.html[Source]
-image::https://www.rfa.org/english/cartoons/china-crackddown-Christianity-cartoon-09072018150421.html/180907RFA_thelastsupperinChina_1000.jpg/@@images/ac0553ed-a46d-43f6-98d8-288ce76901af.jpeg[height=400]
+.https://www.rfa.org/english/cartoons/china-crackddown-Christianity-cartoon-09072018150421.html[Source].
+image::https://web.archive.org/web/20191012075042im_/https://www.rfa.org/english/cartoons/china-crackddown-Christianity-cartoon-09072018150421.html/180907RFA_thelastsupperinChina_1000.jpg/@@images/ac0553ed-a46d-43f6-98d8-288ce76901af.jpeg[height=400]
 
 === Falun Gong
 
@@ -2026,7 +2029,7 @@ How I find them: <<anti-commie-info>>.
 * https://www.nytimes.com/2018/03/10/world/asia/china-xi-jinping-term-limit-explainer.html
 
 .https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html[Source].
-image::https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html/180227RFA-XiJinping-Eternity.jpg[height=400]
+image::https://web.archive.org/web/20191012074532im_/https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html/180227RFA-XiJinping-Eternity.jpg[height=400]
 
 === News 2017
 
