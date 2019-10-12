@@ -140,7 +140,7 @@ Some arguments include:
 * dictators need <<fear-of-west,to keep the people in fear all the time to keep their power>>, and a war is a great way to achieve that
 
 [[fear-of-west]]
-==== The commies exaggerate the thread of the West to keep in power
+==== The commies exaggerate the threat of the West to keep in power
 
 This is a common strategy, but the West is not as evil as they say:
 
@@ -440,7 +440,9 @@ If the dictatorship ends, I would like to <<do-you-hate-china,migrate to China>>
 
 ==== Are you Chinese?
 
-https://cirosantilli.com/#ciro-santilli
+See: https://cirosantilli.com/#ciro-santilli
+
+But <<why-do-you-love-china-so-much,my wife is>>.
 
 ==== Do you speak Chinese?
 
@@ -774,11 +776,21 @@ ____
 
 I only focus here on negative things to provide content that will activate the Great Firewall.
 
+____
+持华反党。
+____
+
 ===== Why do you love China so much?
 
-I don't believe in reincarnation, but sometimes I'm tempted to.
+I <<do-you-believe-in-or-practice-falun-gong,don't believe in reincarnation>>, but sometimes I'm tempted to.
 
 Interesting how different people get <<do-you-hate-china,different impressions>>!
+
+Of course, the fact that my wife is Chinese may or may not have played a role in it :-)
+
+It was like this: I started getting interested in Chinese culture, then I started hanging out with Chinese people, and then I started hanging out with my wife!
+
+So yes, it is a chicken and egg type of thing. The fact that she is one of the most intelligent, morally upright, cute, and "never give up" person I know may have helped me choose too.
 
 [[famous]]
 ==== Are you doing this just to become famous?
@@ -1263,7 +1275,7 @@ Western government should prevent companies from complying to Chinese censorship
 
 Citizens should boycott such companies.
 
-https://github.com/caffeine-overload/bandinchina contains a "List of companies who have apologized to the Chinese government and implemented censorship requests".
+https://github.com/caffeine-overload/bandinchina contains a "List of companies who have apologized to the Chinese government and implemented censorship requests". I don't understand though why they won't add GitHub to the list, but so be it: https://github.com/caffeine-overload/bandinchina/pull/56#issuecomment-541230090
 
 .https://twitter.com/RadioFreeAsia/status/1182375305085968387[Source].
 image::https://web.archive.org/web/20191011092825/https://pbs.twimg.com/media/EGikEkFXkAE-A8m?format=jpg&name=4096x4096[]
@@ -1330,7 +1342,7 @@ But don't you think that **70 Million** people (6% of the total population in 20
 
 With that in mind, I try my best to give FLG only the right level of exposure I think it deserves relative to other events, according to these guidelines: <<keyword-choice>>
 
-If more recent events of mass human rights violation happen, especially affecting in the order of tens of million people, I will probably rank higher than Falun Gong.
+If more recent events of mass human rights violation happen, especially affecting in the order of tens of million people, I will probably rank higher than Falun Gong, this was the case for <<xinjiang,Xinjiang in 2019>> for example, even though it only affected a measly million.
 
 [[flg-daily]]
 ===== How is it like to live with Falun Gong believers?
