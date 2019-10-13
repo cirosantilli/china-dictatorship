@@ -1315,7 +1315,7 @@ Western government should prevent companies from complying to Chinese censorship
 
 Citizens should boycott such companies.
 
-https://github.com/caffeine-overload/bandinchina contains a "List of companies who have apologized to the Chinese government and implemented censorship requests". I don't understand though why they won't add GitHub to the list, but so be it: https://github.com/caffeine-overload/bandinchina/pull/56#issuecomment-541230090
+https://github.com/caffeine-overload/bandinchina contains a "List of companies who have apologized to the Chinese government and implemented censorship requests". I don't understand though why they won't add GitHub to the list, but so be it: https://github.com/caffeine-overload/bandinchina/pull/56#issuecomment-541230090 | https://github.com/caffeine-overload/bandinchina/pull/84
 
 Here is a quick  2019 summary:
 
