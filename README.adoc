@@ -76,7 +76,7 @@ Because I think that this would make China, and the world:
 
 There is infinite debate about this out there, some examples:
 
-* http://www.becker-posner-blog.com/2011/05/can-poor-countries-afford-democracy-becker.html
+* http://www.becker-posner-blog.com/2011/05/can-poor-countries-afford-democracy-becker.html (https://web.archive.org/web/20180923192824/https://www.becker-posner-blog.com/2011/05/can-poor-countries-afford-democracy-becker.html[archive])
 * https://www.quora.com/Is-democracy-or-authoritarianism-better-for-developing-countries
 
 For:
@@ -115,7 +115,7 @@ Killing a million people will make us richer? No problem, let's do it.
 +
 That is great when they make good decisions, but it sucks when they make <<war,bad ones>> more likely.
 
-I really like Posners' way of putting it:
+I really like https://web.archive.org/web/20180923192824/https://www.becker-posner-blog.com/2011/05/can-poor-countries-afford-democracy-becker.html[Posner's] way of putting it:
 
 ____
 While average rate of growth do not appear to differ much between democracies and authoritarian regimes, the variability in performance does differ more among authoritarian governments. China has had remarkable growth since the 1980s, but the prolonged devastation and hardship produced by China's “great leap forward” (when millions of farmers starved to death) and its Cultural Revolution would unlikely have occurred in a democratic country like say India. Nor is it likely that say Cuba and many African nations would have suffered so long with such terrible economic policies if they had reasonably democratic institutions.
@@ -401,7 +401,7 @@ But please, link to reference material instead of just saying it, it will be muc
 
 If you don't know English well enough, that's fine though, go for Chinese.
 
-Obviously, in that case, use simple and standard Chinese. No slangs, otherwise I won't have patience to Google your useless slangs down Quora questions. Of course, if I have to tell you this, you likely are not going to say anything useful in the first place, so not reading your post is likely fine. I think using slangs makes some people feel smart due their advanced knowledge of a specific subculture, or makes them feel part of that subculture to gather allies, or they just want to waste my time.
+Obviously, in that case, use simple and standard Chinese. No slangs, otherwise I won't have patience to Google your useless slangs down Zhihu questions. Of course, if I have to tell you this, you likely are not going to say anything useful in the first place, so not reading your post is likely fine. I think using slangs makes some people feel smart due their advanced knowledge of a specific subculture, or makes them feel part of that subculture to gather allies, or they just want to waste my time.
 
 But if you do, use English.
 
@@ -519,25 +519,23 @@ In link:https://youtu.be/YsXhgzX56cA?t=2086[Episode 7, 34:46], the main characte
 The war is almost over, and the desolate officer tells Stierlitz:
 
 ____
-I told my children: I hate democracy!
+I told my children: I hate any democracy!
 
 No democracy in our Reich!
 
 Any democracy in our country is doomed to end up with one thing: the dictatorship of small shopkeepers.
 
-The more freedom we have, the more we want to be controlled by the SS again.
+The more freedom we have, the sooner we want to be controlled by SS troops again.
 
-And then we want our secret police back, and concentration death camps again, and the universal fear everywhere!
-
-Only then can we feel ourselves calm and secure.
+And then we want our the secret police back, and concentration death camps again, and the universal fear everywhere! Only then we feel calm and secure.
 
 No need to prove your point of view in defending the fate of the home land.
 
 No responsibility.
 
-Just raise your hand in the honor of him, who will take care of everything for you.
+Just raise your hand in the honor of him, who will take care of everything for you,
 
-Just shout "Hail Hitler" and everything becomes understandable.
+Just shout out "Hail Hitler!" and everything will become understandable.
 
 No more worries.
 ____
@@ -1227,9 +1225,10 @@ Some interesting links:
 
 In 2017 - 2018, details of internment camps are emerging.
 
-It is still hard to get hard evidence, much like every other mass human rights violation, here go the best ones:
+.<<rebel-pepper,Rebel Pepper>> 2017.4 新疆中国cartoon. TODO source.
+image::https://web.archive.org/web/20191013085312if_/https://i.stack.imgur.com/mQFKa.png[height=400]
 
-Xinjian 2018 re-education camps news:
+It is still hard to get hard evidence, much like every other mass human rights violation, here go the best ones:
 
 * 2019-09-22 Drone footage of Xinjiang prisoner transfer uploaded to YouTube. TODO confirm location and that these are political prisoners rather than "normal criminals".
 ** Upload sources
@@ -1238,6 +1237,9 @@ Xinjian 2018 re-education camps news:
 ** News coverage
 *** https://news.sky.com/story/chinas-detention-of-uighurs-video-of-blindfolded-and-shackled-prisoners-authentic-11815401 Drone footage, video sources:
 ** Reddit: https://www.reddit.com/r/China/comments/d78aog/chilling_video_of_chinese_police_transferring/
++
+.Video still of 2019-10 drone footage of blindfolded Xinjiang prisoners being marched taken at time 00:30. https://www.youtube.com/watch?v=gGYoeJ5U7cQ[Source].
+image::https://ia601505.us.archive.org/27/items/cirosantilli/Video_still_of_2019-10_drone_footage_of_blindfolded_Xinjiang_prisoners_being_marched_taken_at_time_00%3A30.png[height=400]
 * 2019-07-31 https://www.nytimes.com/2019/07/30/world/asia/china-xinjiang.html "Doubt Greets China’s Claim That Muslims Have Been Released From Camps"
 * 2019-07-19 https://www.france24.com/en/20190712-37-countries-defend-china-over-xinjiang-un-letter "37 countries defend China over Xinjiang in UN letter"
 +
@@ -1262,6 +1264,10 @@ image::https://web.archive.org/web/20191012074352im_/https://www.rfa.org/english
 ** https://apnews.com/6e151296fb194f85ba69a8babd972e4b
 ** https://www.washingtonpost.com/world/asia_pacific/former-inmates-of-chinas-muslim-re-education-camps-tell-of-brainwashing-torture/2018/05/16/32b330e8-5850-11e8-8b92-45fdd7aaef3c_story.html?utm_term=.df8ea170b18f
 ** http://uk.businessinsider.com/what-is-life-like-in-xinjiang-reeducation-camps-china-2018-5
+* 2017-04 https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html
++
+.Image of prisionners wearing blue sitting down in Xinjiang concentration camp, with some prisionners identified. https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[Source].
+image::https://web.archive.org/web/20191013085311if_/https://i.stack.imgur.com/5Gfie.jpg[height=400]
 
 [[hong-kong]]
 === Hong Kong 香港
@@ -2004,7 +2010,7 @@ The ban came soon after I posted a link to my GitHub repo as a comment at: https
 
 ===== Who reported me on Zhihu
 
-At the same time the ban happened I received a public comment from user ``Eureka'' https://www.zhihu.com/people/crb912/activities | http://archive.is/1F3t6 on this thread: https://www.zhihu.com/question/46957710 | http://archive.is/PVOLd saying:
+At the same time the ban happened I received a public comment from user "Eureka" https://www.zhihu.com/people/crb912/activities | http://archive.is/1F3t6 on this thread: https://www.zhihu.com/question/46957710 | http://archive.is/PVOLd saying:
 
 ____
 你滥用了github， 也滥用了Stackover。这个一个纯粹计算机、编程和知识分享的地方，请不要带入政治性的色彩。请不要这么做， 维护社区的非政治性、中立和技术性纯粹，是每个热爱cs的人应尽的义务。
@@ -2014,7 +2020,7 @@ I am unable to get an URL that shows the comment on archive.is, so I have no pro
 
 Since I expect the ban lists to be private, I find it extremely likely that this was the user who reported me, unless both were simultaneously triggered by a third event which I have not seen. So correct me if I'm wrong here.
 
-Users with the same user id `crb912`, related ``Eureka'' username or same profile picture, can be found at:
+Users with the same user id `crb912`, related "Eureka" username or same profile picture, can be found at:
 
 * https://www.weibo.com/crb912 (unable to archive)
 * https://github.com/crb912 | http://archive.is/heGfd which suggests a possible real name
@@ -2317,8 +2323,8 @@ Humour is the greatest weapon against dictators:
 .Weibo logo vs Sauron's eye 微博标志vs索倫魔眼.
 image::https://web.archive.org/web/20191013080406/https://i.imgur.com/eKPmYyz.png[height=400]
 
-[[rebelpepper]]
-=== RebelPepper 变态辣椒
+[[rebel-pepper]]
+=== Rebel Pepper 变态辣椒
 
 https://twitter.com/remonwangxt
 
@@ -2327,6 +2333,8 @@ https://rebelpeppercartoons.com/
 Without a doubt, the greatest anti-Communist joke cartoonist of the 2010s.
 
 As of 2019 he does work for RFA, so a possible list of all cartoons of this era can be found at: https://www.rfa.org/english/cartoons/story_archive
+
+His best work can be found scattered throughout this document in the relevant sections.
 
 [[winnie-the-pooh]]
 === Winnie-the-Pooh 小熊維尼
