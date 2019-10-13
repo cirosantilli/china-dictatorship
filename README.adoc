@@ -1284,7 +1284,7 @@ An appropriation attack is one where the attackers attempt to associate an exist
 For example, during the <<2019-hong-kong-anti-extradition-bill-protests>> attackers attempted to use this technique to associate a generic https://en.wikipedia.org/wiki/Chun-Li[Chinese Chun-Li-like] character Mei from Blizzard's link:++https://en.wikipedia.org/wiki/Overwatch_(video_game)++[Overwatch game] to try and get it blocked in China after the gaming company punished a pro gamer for defending the Hong Kong protests. Coverage https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10 (http://web.archive.org/web/20191012094950/https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10[archive]).
 
 .https://twitter.com/marnofavonlea/status/1182557311539150849[Source].
-image::http://web.archive.org/web/20191012095255im_/https://pbs.twimg.com/media/EGlJmSEUYAE7F7G.jpg[height=400]
+image::https://web.archive.org/web/20191013075823/https://pbs.twimg.com/media/EGlJmSEUYAE7F7G?format=jpg&name=900x900[height=400]
 
 === What should Western countries do about China?
 
@@ -1320,7 +1320,7 @@ https://github.com/caffeine-overload/bandinchina contains a "List of companies w
 Here is a quick  2019 summary:
 
 .https://twitter.com/hoho90272496/status/1182669015937966080[Source].
-image::http://web.archive.org/web/20191012093608im_/https://pbs.twimg.com/media/EGmvMb6XUAQgYq9.jpg[height=400]
+image::https://web.archive.org/web/20191013075353/https://pbs.twimg.com/media/EGmvMb6XUAQgYq9?format=jpg&name=900x900[height=400]
 
 And some good cartoons:
 
