@@ -251,7 +251,7 @@ Repository unavailable in your location
 This repository is currently disabled in your location. For more details please see the takedown notice.
 ____
 
-Here are some examples of people reacting to it from China:
+Here are some examples of people reacting to the blocking of https://github.com/programthink/zhao/issues/38 as per https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md from China (and likely on the entire repository, which appears to be the block granularity implemented):
 
 * https://github.com/programthink/books/issues/31
 * https://www.zhihu.com/question/284445884/
