@@ -1328,7 +1328,7 @@ And some good cartoons:
 image::https://web.archive.org/web/20191011092825/https://pbs.twimg.com/media/EGikEkFXkAE-A8m?format=jpg&name=4096x4096[height=400]
 
 .https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html[Source].
-image::http://web.archive.org/web/20191012080116im_/https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html/170731Apple-700.jpg[height=400]
+image::https://web.archive.org/web/20191013080151/https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html/170731Apple-700.jpg[height=400]
 
 === What should pro-democracy Chinese living in China do about the dictatorship?
 
@@ -1401,7 +1401,8 @@ image::https://web.archive.org/web/20180930134934im_/https://www.rfa.org/english
 * 2018-01 Chinese authorities demolish Christian mega-church sparking fears of religious persecution
 ** https://www.businessinsider.com/chinese-authorities-demolish-christian-mega-church-in-crackdown-2018-1
 +
-image::http://web.archive.org/web/20191012080721if_/https://image.businessinsider.com/5a572ca3a75e205e138b4b5f?width=1300&format=jpeg&auto=webp[height=400]
+.https://www.businessinsider.com/chinese-authorities-demolish-christian-mega-church-in-crackdown-2018-1[Source].
+image::https://web.archive.org/web/20191013080937/https://image.businessinsider.com/5a572ca3a75e205e138b4b5f?width=1300&format=jpeg&auto=webp[height=400]
 * 2016 http://www.nytimes.com/2016/02/27/world/asia/china-zhejiang-christians-pastor-crosses.html pastor 14 years jail
 * 2015 https://www.washingtonpost.com/world/asia_pacific/christians-in-china-feel-full-force-of-authorities-repression/2015/12/23/7dd0ec5a-a736-11e5-b596-113f59ee069a_story.html
 
@@ -2092,18 +2093,18 @@ How I find them: <<anti-commie-info>>.
 * https://www.nytimes.com/2018/03/10/world/asia/china-xi-jinping-term-limit-explainer.html
 
 .https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html[Source].
-image::https://web.archive.org/web/20191012074532im_/https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html/180227RFA-XiJinping-Eternity.jpg[height=400]
+image::https://web.archive.org/web/20191013080140/https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html/180227RFA-XiJinping-Eternity.jpg[height=400]
 
 Some reasonable Xitler photoshops:
 
 .https://www.reddit.com/r/HongKong/comments/cuf3p7/chinazi_xitler/[Source].
-image::http://web.archive.org/web/20191012091534if_/https://i.redd.it/c9q6vdybr7i31.jpg[height=400]
+image::https://web.archive.org/web/20191013080128/https://i.redd.it/c9q6vdybr7i31.jpg[height=400]
 
 .https://foreignerinformosa.typepad.com/the_foreigner_in_formosa/2017/07/president-xitler-of-china-murders-political-dissident-liu-xiaobo.html[Source].
-image::http://web.archive.org/web/20191012091718im_/https://foreignerinformosa.typepad.com/.a/6a00d834523d5069e201b7c90b8e9c970b-800wi[height=400]
+image::https://web.archive.org/web/20191013080043if_/https://foreignerinformosa.typepad.com/.a/6a00d834523d5069e201b7c90b8e9c970b-pi[height=400]
 
 .http://chinhdangvu1.blogspot.com/2017/09/xitler-chinazism.html[Source]
-image::http://web.archive.org/web/20191012092145im_/https://pbs.twimg.com/media/DGlPeEmXcAAaeQa.jpg[height=400]
+image::https://web.archive.org/web/20191013080031if_/https://pbs.twimg.com/media/DGlPeEmXcAAaeQa.jpg[height=400]
 
 === News 2017
 
@@ -2314,7 +2315,7 @@ Humour is the greatest weapon against dictators:
 * https://pbs.twimg.com/media/EGPZYFeUUAAYMQf?format=jpg&name=large "Tibet, Uyghur, Hong Kong, World" China death knocking door cartoon. TODO source, originally seen at: https://twitter.com/Lawrence_HKer/status/1181026542786203648 (http://web.archive.org/web/20191008075035/https://pbs.twimg.com/media/EGPZYFeUUAAYMQf?format=jpg[archive])
 
 .Weibo logo vs Sauron's eye 微博标志vs索倫魔眼.
-image::http://web.archive.org/web/20191012101925if_/https://i.imgur.com/eKPmYyz.png[height=400]
+image::https://web.archive.org/web/20191013080406/https://i.imgur.com/eKPmYyz.png[height=400]
 
 [[rebelpepper]]
 === RebelPepper 变态辣椒
