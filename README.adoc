@@ -1021,7 +1021,9 @@ It is also possible to do it with with images, although this is less effective i
 * they are more memorable than words
 * they also work on websites like GitHub where your real name does not show on most pages, only slug
 
-.https://www.independent.co.uk/news/world/asia/chinese-artist-who-posted-funny-image-of-president-xi-jinping-facing-five-years-in-prison-as-10282630.html[Chrysanthemum Xi Jinping] with https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests[六四] spice added by Ciro Santilli
+so maybe the most effective approach is to use both keywords and images to get the best of both worlds ;-)
+
+.<<chrysanthemium-xi-jinping>> has been used by Ciro Santilli as a profile picture censored image attack
 image::https://raw.githubusercontent.com/cirosantilli/media/master/Chrysanthemum_Xi_Jinping_with_liusi_added_by_Ciro_Santilli.jpeg[height=400]
 
 This type of attack is essentially an embargo.
@@ -1306,7 +1308,7 @@ The most obvious thing is to go https://en.wikipedia.org/wiki/Tit_for_tat[tit fo
 
 Their websites should also be blocked e.g.: http://www.globaltimes.cn/
 
-And the same must be done for cultural centers such as https://en.wikipedia.org/wiki/Confucius_Institute[Confucius Institutes].
+And the same must be done for cultural centers that report diretly to the CCP such as <<confucious-institute>> and <<cssa,CSSAs>>.
 
 Western governments must identify raw material dependencies on China, and reduce them, while at the same time forbidding technology transfer to China. China has been trading cheap resources for technology, and we must stop that now.
 
@@ -2242,7 +2244,6 @@ I consider the media in this section biased, and never cite it for fact checking
 ** http://people.cn/
 ** https://twitter.com/PDChina
 * https://en.wikipedia.org/wiki/China_Daily
-* https://en.wikipedia.org/wiki/Confucius_Institute
 ** https://zh.wikipedia.org/wiki/%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2
 ** http://www.economist.com/node/17969895
 * https://en.wikipedia.org/wiki/China_Radio_International
@@ -2255,6 +2256,28 @@ I consider the media in this section biased, and never cite it for fact checking
 ** I have no proof that this is linked to the government, but it is very likely, even the Chinese embassy website links to it:
 *** http://www.china-embassy.org/eng/lj/t36322.htm
 *** http://web.archive.org/web/20180414233331/http://www.china-embassy.org/eng/lj/t36322.htm
+
+[[confucious-institute]]
+==== Confucious institute 孔子学院
+
+https://en.wikipedia.org/wiki/Confucius_Institute
+
+News and reports:
+
+* 2019-09 https://www.bbc.co.uk/news/world-asia-china-49511231 (https://web.archive.org/web/20191013185933/https://www.bbc.co.uk/news/world-asia-china-49511231[archive]) "Confucius Institutes: The growth of China's controversial cultural branch"
+* 2019-01 https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/11/u-s-universities-have-shut-down-confucius-institutes-heres-what-you-need-to-know/ (https://web.archive.org/web/20190616134959/https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/11/u-s-universities-have-shut-down-confucius-institutes-heres-what-you-need-to-know/[archive]) "Why U.S. universities are shutting down China-funded Confucius Institutes"
+
+[[cssa]]
+==== Chinese Students and Scholars Association 中国学生学者联合会
+
+https://en.wikipedia.org/wiki/Chinese_Students_and_Scholars_Association
+
+Abbreviation: CSSA.
+
+News and reports:
+
+* 2019-10-13 https://www.abc.net.au/news/2019-10-13/cssa-influence-australian-universities-documents-revealed/11587454 (https://web.archive.org/web/20191014032348/https://www.abc.net.au/news/2019-10-13/cssa-influence-australian-universities-documents-revealed/11587454[archive]) "Chinese Students and Scholars Association's deep links to the embassy revealed" in Australia.
+* 2018-03-07 https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/ (https://web.archive.org/web/20191012103953/https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/[archive])
 
 ==== Falun Gong media
 
@@ -2322,6 +2345,17 @@ Humour is the greatest weapon against dictators:
 
 .Weibo logo vs Sauron's eye 微博标志vs索倫魔眼.
 image::https://web.archive.org/web/20191013080406/https://i.imgur.com/eKPmYyz.png[height=400]
+
+[[chrysanthemium-xi-jinping]]
+=== Chrysanthemium Xi Jinping 菊花习近平
+
+Got creator Dai Jianyong (戴建勇) arrested in 2015:
+
+* https://www.independent.co.uk/news/world/asia/chinese-artist-who-posted-funny-image-of-president-xi-jinping-facing-five-years-in-prison-as-10282630.html
+* https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/
+
+.Chrysanthemum Xi Jinping with https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests[六四] spice added by Ciro Santilli
+image::https://raw.githubusercontent.com/cirosantilli/media/master/Chrysanthemum_Xi_Jinping_with_liusi_added_by_Ciro_Santilli.jpeg[height=400]
 
 [[rebel-pepper]]
 === Rebel Pepper 变态辣椒
