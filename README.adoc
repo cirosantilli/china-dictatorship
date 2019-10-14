@@ -174,6 +174,10 @@ TODO source.
 
 When will they be ready? Who decides? What if they think that they are ready now?
 
+===== The Chinese masses are not interested in politics and therefore not ready to vote
+
+But how would they be interested in politics or be able to discuss, if it is impossible to a different view without going to jail?
+
 [[effective]]
 === Will the keyword attacks really help to destroy the firewall?
 
@@ -278,11 +282,17 @@ Every form of protest incurs some damage. E.g., if we manifest on the street, it
 
 I don't like it, but I think it is worth it.
 
+If you just work to make money and have a good life, without any plans to improve the government, you are just making the economy of the dictatorship stronger, then when they start a <<war,war>> or kill yet another minority, blood will also be on your hands. See also: <<what-should-Westernf-ountries-do about China
+
+==== Most Chinese people don't care about the minorities
+
 How can you be that certain that your children won't have dissident ideas and be punished unfairly for them?
 
-Intolerance is a risky way to live.
+Intolerance is a risky way to live. Everyone is part of one minority in one way. If all minorities were oppressed, everyone would be oppressed.
 
-If you just work to make money and have a good life, without any plans to improve the government, you are just making the economy of the dictatorship stronger, then when they start a <<war,war>> or kill yet another minority, blood will also be on your hands.
+Dictatorships crush minorities much more than democracies. Do think the majority of the Chinese people would vote to put 50 year old <<falun-gong>> meditating aunties in jail, if the CCP hadn't made a huge propaganda campaign and used iron fist? Are the Chinese really that depraved?
+
+Minorities are put in jail because the CCP fears them. Dictatorhips can only survive if there is zero difference in opinion in the population.
 
 [[stability]]
 === If anyone disagrees with the government they must be punished to keep the stability of the country
@@ -723,13 +733,23 @@ October 2017: 7 - 8 cops came to her house _at 11PM_. They knocked the door stro
 
 ==== Are you a radical?
 
-I don't consider myself a radical because of: <<preconceived>>
+Why am I a radical?
+
+Do you consider me a radical because it is unthinkable that China is not perfect?
+
+Or just because I'm trying to <<keyword-attack,take down,>> some more websites that your dictatorship still does not dislike enough to block: <<china-is-fine-as-it-is-stop-making-it-worse>>?
+
+I don't think either China or West is perfect: <<western-media-has-exaggerated-reports-on-flg-for-propaganda-reasons>>.
+
+I'm just listing arguments why I think democracy is better, e.g.: <<richer>>, <<war>>.
+
+I don't consider myself a radical because of: <<preconceived>>.
 
 I never get mad. Only a slightly sad or annoyed sometimes.
 
 But maybe no radical ever considers himself radical? Hmmm...
 
-link:https://www.youtube.com/watch?v=efHCdKb5UWc[The Dark Knight - Some Men Just Want To Watch The World Burn]. I worry sometimes.
+Or maybe: link:https://www.youtube.com/watch?v=efHCdKb5UWc[The Dark Knight - Some Men Just Want To Watch The World Burn]?
 
 ==== Do you think Chinese politician X evil?
 
@@ -1323,7 +1343,7 @@ Western government should prevent companies from complying to Chinese censorship
 
 Citizens should boycott such companies.
 
-https://github.com/caffeine-overload/bandinchina contains a "List of companies who have apologized to the Chinese government and implemented censorship requests". I don't understand though why they won't add GitHub to the list, but so be it: https://github.com/caffeine-overload/bandinchina/pull/56#issuecomment-541230090 | https://github.com/caffeine-overload/bandinchina/pull/84
+https://github.com/caffeine-overload/bandinchina contains a "List of companies who have apologized to the Chinese government and implemented censorship requests". It only lists companies that implemented censorship outside of China: https://github.com/caffeine-overload/bandinchina/pull/56#issuecomment-541230090 | https://github.com/caffeine-overload/bandinchina/pull/84
 
 Here is a quick  2019 summary:
 
@@ -1602,7 +1622,7 @@ Because it also specifies irrational and fundamental aspects of how one should l
 Like the Cult of CCP has one fundamental belief: the Party is always right.
 
 [[flg-stability]]
-===== Falung Gong had to be banned because it was a threat to the stability of the country
+===== Falun Gong had to be banned because it was a threat to the stability of the country
 
 Then they link to the Taping Rebellion:
 
