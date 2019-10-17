@@ -1324,7 +1324,7 @@ An appropriation attack is one where the attackers attempt to associate an exist
 For example, during the <<2019-hong-kong-anti-extradition-bill-protests>> attackers attempted to use this technique to associate a generic https://en.wikipedia.org/wiki/Chun-Li[Chinese Chun-Li-like] character Mei from Blizzard's link:++https://en.wikipedia.org/wiki/Overwatch_(video_game)++[Overwatch game] to try and get it blocked in China after the gaming company punished a pro gamer for defending the Hong Kong protests. Coverage https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10 (http://web.archive.org/web/20191012094950/https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10[archive]).
 
 .https://twitter.com/marnofavonlea/status/1182557311539150849[Source].
-image::https://web.archive.org/web/20191013075823/https://pbs.twimg.com/media/EGlJmSEUYAE7F7G?format=jpg&name=900x900[height=400]
+image::https://web.archive.org/web/20191013075823if_/https://pbs.twimg.com/media/EGlJmSEUYAE7F7G?format=jpg&name=900x900[height=400]
 
 === What should Western countries do about China?
 
@@ -1360,15 +1360,15 @@ https://github.com/caffeine-overload/bandinchina contains a "List of companies w
 Here is a quick  2019 summary:
 
 .https://twitter.com/hoho90272496/status/1182669015937966080[Source].
-image::https://web.archive.org/web/20191013075353/https://pbs.twimg.com/media/EGmvMb6XUAQgYq9?format=jpg&name=900x900[height=400]
+image::https://web.archive.org/web/20191013075353if_/https://pbs.twimg.com/media/EGmvMb6XUAQgYq9?format=jpg&name=900x900[height=400]
 
 And some good cartoons:
 
 .https://www.rfa.org/english/cartoons/china-hongkong-us-10102019153228.html[Source].
-image::https://web.archive.org/web/20191011092825/https://pbs.twimg.com/media/EGikEkFXkAE-A8m?format=jpg&name=4096x4096[height=400]
+image::https://web.archive.org/web/20191011092825if_/https://pbs.twimg.com/media/EGikEkFXkAE-A8m?format=jpg&name=4096x4096[height=400]
 
 .https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html[Source].
-image::https://web.archive.org/web/20191013080151/https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html/170731Apple-700.jpg[height=400]
+image::https://web.archive.org/web/20191013080151if_/https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html/170731Apple-700.jpg[height=400]
 
 === What should pro-democracy Chinese living in China do about the dictatorship?
 
@@ -1442,7 +1442,7 @@ image::https://web.archive.org/web/20180930134934im_/https://www.rfa.org/english
 ** https://www.businessinsider.com/chinese-authorities-demolish-christian-mega-church-in-crackdown-2018-1
 +
 .https://www.businessinsider.com/chinese-authorities-demolish-christian-mega-church-in-crackdown-2018-1[Source].
-image::https://web.archive.org/web/20191013080937/https://image.businessinsider.com/5a572ca3a75e205e138b4b5f?width=1300&format=jpeg&auto=webp[height=400]
+image::https://web.archive.org/web/20191013080937if_/https://image.businessinsider.com/5a572ca3a75e205e138b4b5f?width=1300&format=jpeg&auto=webp[height=400]
 * 2016 http://www.nytimes.com/2016/02/27/world/asia/china-zhejiang-christians-pastor-crosses.html pastor 14 years jail
 * 2015 https://www.washingtonpost.com/world/asia_pacific/christians-in-china-feel-full-force-of-authorities-repression/2015/12/23/7dd0ec5a-a736-11e5-b596-113f59ee069a_story.html
 
@@ -2134,12 +2134,12 @@ How I find them: <<anti-commie-info>>.
 * https://www.nytimes.com/2018/03/10/world/asia/china-xi-jinping-term-limit-explainer.html
 
 .https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html[Source].
-image::https://web.archive.org/web/20191013080140/https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html/180227RFA-XiJinping-Eternity.jpg[height=400]
+image::https://web.archive.org/web/20191013080140if_/https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html/180227RFA-XiJinping-Eternity.jpg[height=400]
 
 Some reasonable Xitler photoshops:
 
 .https://www.reddit.com/r/HongKong/comments/cuf3p7/chinazi_xitler/[Source].
-image::https://web.archive.org/web/20191013080128/https://i.redd.it/c9q6vdybr7i31.jpg[height=400]
+image::https://web.archive.org/web/20191013080128if_/https://i.redd.it/c9q6vdybr7i31.jpg[height=400]
 
 .https://foreignerinformosa.typepad.com/the_foreigner_in_formosa/2017/07/president-xitler-of-china-murders-political-dissident-liu-xiaobo.html[Source].
 image::https://web.archive.org/web/20191013080043if_/https://foreignerinformosa.typepad.com/.a/6a00d834523d5069e201b7c90b8e9c970b-pi[height=400]
@@ -2377,7 +2377,7 @@ Humour is the greatest weapon against dictators:
 * https://pbs.twimg.com/media/EGPZYFeUUAAYMQf?format=jpg&name=large "Tibet, Uyghur, Hong Kong, World" China death knocking door cartoon. TODO source, originally seen at: https://twitter.com/Lawrence_HKer/status/1181026542786203648 (http://web.archive.org/web/20191008075035/https://pbs.twimg.com/media/EGPZYFeUUAAYMQf?format=jpg[archive])
 
 .Weibo logo vs Sauron's eye 微博标志vs索倫魔眼.
-image::https://web.archive.org/web/20191013080406/https://i.imgur.com/eKPmYyz.png[height=400]
+image::https://web.archive.org/web/20191013080406if_/https://i.imgur.com/eKPmYyz.png[height=400]
 
 [[chrysanthemium-xi-jinping]]
 === Chrysanthemium Xi Jinping 菊花习近平
