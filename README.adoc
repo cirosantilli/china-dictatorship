@@ -2267,7 +2267,7 @@ The following offer interesting commentary, but not to be used as primary source
 
 I consider the media in this section biased, and never cite it for fact checking.
 
-=== Chinese government media
+==== Chinese government media
 
 * https://en.wikipedia.org/wiki/Xinhua_News_Agency
 ** https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8D%8E%E7%A4%BE
@@ -2291,7 +2291,7 @@ I consider the media in this section biased, and never cite it for fact checking
 *** http://web.archive.org/web/20180414233331/http://www.china-embassy.org/eng/lj/t36322.htm
 
 [[confucious-institute]]
-==== Confucious institute 孔子学院
+===== Confucious institute 孔子学院
 
 https://en.wikipedia.org/wiki/Confucius_Institute
 
@@ -2301,7 +2301,7 @@ News and reports:
 * 2019-01 https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/11/u-s-universities-have-shut-down-confucius-institutes-heres-what-you-need-to-know/ (https://web.archive.org/web/20190616134959/https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/11/u-s-universities-have-shut-down-confucius-institutes-heres-what-you-need-to-know/[archive]) "Why U.S. universities are shutting down China-funded Confucius Institutes"
 
 [[cssa]]
-==== Chinese Students and Scholars Association 中国学生学者联合会
+===== Chinese Students and Scholars Association 中国学生学者联合会
 
 https://en.wikipedia.org/wiki/Chinese_Students_and_Scholars_Association
 
@@ -2341,6 +2341,14 @@ News and reports:
 ** http://www.voa.com/
 ** http://www.voachinese.com/
 ** http://www.voacantonese.com/
+
+===== Radio Free Asia
+
+https://en.wikipedia.org/wiki/Radio_Free_Asia
+
+Website: https://www.rfa.org
+
+Just because they are funded by the CIA, it doesn't mean that we can't use their xref:rebel-pepper[amazing satirical cartoons] to fight xref:dictatorship[], right?
 
 [[videos]]
 == Videos 视频
@@ -2399,7 +2407,7 @@ https://rebelpeppercartoons.com/
 
 Without a doubt, the greatest anti-Communist joke cartoonist of the 2010s.
 
-As of 2019 he does work for RFA, so a possible list of all cartoons of this era can be found at: https://www.rfa.org/english/cartoons/story_archive
+As of 2019 he does work for xref:radio-free-asia[], so a possible list of all cartoons of this era can be found at: https://www.rfa.org/english/cartoons/story_archive
 
 His best work can be found scattered throughout this document in the relevant sections.
 
@@ -2506,6 +2514,7 @@ https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 
 Or to my other online presences, due to China activity:
 
+* 2019-10 https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/blob/7131e2c1158a806f41c8f55308977048b02d2959/README-Part2.md Automatically generated list of repos with Chinese characters in their descriptions with the most upvotes per programming language. TODO why is this repo on their README-Part2 only? Has more stars than some stuff on main README.
 * 2019-10-12: https://hacpai.com/article/1570686552645 Login required, cowards. Post title: "更新 GitHub 官方 Repo 的人，竟然是个反华分子". Manual page dump after my replies with links to this FAQ: https://ia801505.us.archive.org/27/items/cirosantilli/hacpai_1570686552645.html OP then deleted my comments because they don't speak English "HacPai 是个文明的社区，不会发生辱骂的现象，你有你的观点，我们有我们的观点。但抱歉，我们的水平有限，没有阅读英文的能力，还请发送有效回复，否则只能折叠处理". It is some developper website: https://hacpai.com/article/1440573175609 (https://web.archive.org/web/20190811205230/https://hacpai.com/article/1440573175609[archive]) linked to https://github.com/b3log/solo[]. OP then made an useless post here: https://github.com/cirosantilli/china-dictatorship/issues/70 As of 2019-10-12, I can't login there anymore, either because the website is shitty, or I was blocked. GitHub login just fails silently, cannot reset password. If blocked, cowards. This led me to update: <<what-is-your-reply-strategy>> with the canned reply.
 * 2019-09: https://admin.github.com Someone from GitHub has been thinking about us. s2 to you.
 * "https://www.linkedin.com/pulse/thoughts-github-going-china-kevin-xu/" https://twitter.com/sang_what/status/1172692888766959619 (http://archive.is/taPpH[archive]) https://t.co/qag5ekL12F
