@@ -2440,13 +2440,14 @@ News and reports:
 ** http://www.voachinese.com/
 ** http://www.voacantonese.com/
 
-===== Radio Free Asia
+[[radio-free-asia]]
+===== Radio Free Asia 自由亚洲电台
 
-https://en.wikipedia.org/wiki/Radio_Free_Asia
+https://en.wikipedia.org/wiki/Radio_Free_Asia | https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
 
 Website: https://www.rfa.org
 
-Just because they are funded by the CIA, it doesn't mean that we can't use their xref:rebel-pepper[amazing satirical cartoons] to fight xref:dictatorship[], right?
+Just because they are/were funded/founded by the CIA, it doesn't mean that we can't use their xref:rebel-pepper[amazing satirical cartoons] to fight xref:dictatorship[], right?
 
 [[videos]]
 == Videos 视频
