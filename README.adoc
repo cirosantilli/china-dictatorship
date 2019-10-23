@@ -311,29 +311,36 @@ Change does not require violence. Violence happens because the government punish
 
 In democracies, radical policy changes happen without dropping a single drop of blood. People vote, and policies change, end of story.
 
-=== You are using Stack Overflow in a way that it was not meant to be used, so what you are doing is in principle wrong
+[[meant-to-be-used]]
+=== You are using technical websites in a way that they were not meant to be used, so what you are doing is in principle wrong
+
+Is the Chinese government using the Internet the way it was meant to be used, by investing billions in <<censorship>>?
 
 Any act of protest will use things in ways that it was not meant to be used.
 
 For example, the street is not meant to showcase protest banners, it is meant to be a passageway for cars.
 
-As engineers, we have a moral responsability towards society. We should not blindly follow orders of those in power if it violates our principles, e.g. build weapons or censorship mechanisms. And we should freely express our principles and violation concerns.
+As engineers, we have a moral responsibility towards society. We should not blindly follow orders of those in power if it violates our principles, e.g. build weapons or censorship mechanisms. And we should freely express our principles and violation concerns.
 
 Making a statement where no one will ever see it, like a personal website, is <<effective,sure to have no effect>>.
 
-Finally, it is up to the Stack Overflow community to decide what is right or wrong, and so far the consensus is go ahead:
+Much of the best art and technology is about using something in a way that it wasn't meant to be used.
+
+Finally, the political powers of each website decide what is allowed or not on their website, and what is not allowed gets blocked. So far, Stack Overflow and GitHub's ToS have said go ahead.
+
+Stack Overflow threads:
 
 * http://meta.stackoverflow.com/questions/298950/are-political-profiles-that-could-possibly-affect-the-participations-of-other-us
 * http://meta.stackoverflow.com/questions/267368/are-political-avatars-and-profiles-ok
 * http://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam
 * http://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u/286090#286090, see public figure comments
 
-Much of the best art and technology is about using something in a way that it wasn't meant to be used.
-
 Duplicate pool:
 
 * https://github.com/cirosantilli/china-dictatorship/issues/66#issuecomment-528165637 (https://web.archive.org/web/20190911212149/https://github.com/cirosantilli/china-dictatorship/issues/66[archive])
 * https://github.com/cirosantilli/china-dictatorship/issues/57
+* https://github.com/cirosantilli/china-dictatorship/issues/75
+* https://github.com/caffeine-overload/bandinchina/issues/89
 
 ==== Are you making programming contributions with the main intent of promoting your political agenda?
 
@@ -510,6 +517,7 @@ See also:
 
 * <<preconceived>>
 * <<flg-bias>>
+* <<radical>>
 
 === China is fine as it is, stop making it worse
 
@@ -648,6 +656,18 @@ When a government controls all information to make it look good, and no one can 
 
 It is much better to have some fake news, but also few sources which are likely telling the truth.
 
+===== Bad things have been done in the name of freedom
+
+E.g.: https://en.wikipedia.org/wiki/September_11_attacks[September 11th].
+
+Bad things have been done in the name of anything.
+
+It's just that <<war,much>>, <<xinjiang,worse>> <<tiananmen,things>> are done without freedom than with it.
+
+Democracies cannot necessarily protect weak countries from powerful ones either. No political system can do that, because humans are trash essentially.
+
+What democracy do is to protect its own people against its own government. Because when the government turns against part of the population in a dictatorship, that part of the population gets crushed entirely, without any chance to fight, because they don't have an army or ally countries like other countries do.
+
 ==== Russia
 
 Russia is clearly the number 2 dictatorship in the world by population / GDP and the link:https://www.ploughshares.org/world-nuclear-stockpile-report[#1 nuclear arsenal], so here we go.
@@ -737,6 +757,7 @@ June 2017: 3 cops came to her house. She was there. They asked if she still did 
 
 October 2017: 7 - 8 cops came to her house _at 11PM_. They knocked the door strongly and made noise, and questioned neighbours of her whereabouts. Luckily she was not there.
 
+[[radical]]
 ==== Are you a radical?
 
 Why am I a radical?
@@ -753,7 +774,10 @@ I don't think either China or West is perfect: <<western-media-has-exaggerated-r
 
 I'm just listing arguments why I think democracy is better, e.g.: <<richer>>, <<war>>.
 
-I don't consider myself a radical because of: <<preconceived>>.
+I don't consider myself a radical because of:
+
+* <<preconceived>>
+* <<bias>>
 
 I never get mad. Only a slightly sad or annoyed sometimes.
 
@@ -1244,7 +1268,17 @@ ____
 Taiwan should not be considered a country by China, because then it would not join back to China when China becomes a democracy, and would be used by the USA to do evil things like they did in the Middle East
 ____
 
-Reply: China claiming that Taiwan is a part of them only drives Taiwan closer to the West! Who wants to be part of a dictatorship unless you have been brainwashed by one?
+Reply:
+
+____
+China claiming that Taiwan is a part of them only drives Taiwan closer to the West! Who wants to be part of a dictatorship unless you have been brainwashed by one?
+____
+
+Interesting quote from https://www.theatlantic.com/international/archive/2019/07/taiwans-status-geopolitical-absurdity/593371/
+
+____
+Taiwan’s Status Is a Geopolitical Absurdity
+____
 
 Some interesting links:
 
@@ -2239,18 +2273,38 @@ image::https://web.archive.org/web/20191013080031if_/https://pbs.twimg.com/media
 * 1987–1989 https://en.wikipedia.org/wiki/1987%E2%80%9389_Tibetan_unrest https://zh.wikipedia.org/wiki/1989%E5%B9%B4%E6%8B%89%E8%90%A8%E9%AA%9A%E4%B9%B1. Videos: https://www.youtube.com/watch?v=0jylh1qfOG4, https://www.youtube.com/watch?v=qMZgoRuPJBg Tibetan unrest 年拉萨骚乱
 * 1978, 1997 https://en.wikipedia.org/wiki/Beijing_Spring https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5 https://en.wikipedia.org/wiki/Democracy_Wall https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99
 
-==== Tiananmen 1989
+[[tiananmen]]
+==== Tiananmen Square Protests of 1989 六四事件
 
-* 1989 https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989 https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6 Tiananmen Square protests 六四事件:
-** https://en.wikipedia.org/wiki/Goddess_of_Democracy https://zh.wikipedia.org/wiki/中国国际广播电台
-** AP footage is pretty good, just do a search on the archive:
-*** http://www.aparchive.com/metadata/China-Student-Demonstrations/5d1cd01250c9e5e9397f20ef9f1327df
-*** http://www.aparchive.com/metadata/China-Student-Demonstrations/cfc6890746010c73f9414e20906268aa
-** Zhang Shijun is the most notable soldier who spoke up it seems:
-*** https://chinadigitaltimes.net/2009/03/china-detains-writer-of-critical-web-letter-to-hu/
-*** https://www.rfa.org/english/news/china/flashbacks-06042018133558.html
-*** https://www.theguardian.com/world/2009/mar/20/tiananmen-square-china-zhang-shijun
-* http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/ a few gory photos
+https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989 https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6
+
+* https://en.wikipedia.org/wiki/Goddess_of_Democracy https://zh.wikipedia.org/wiki/中国国际广播电台
+* AP footage is pretty good, just do a search on the archive:
+** http://www.aparchive.com/metadata/China-Student-Demonstrations/5d1cd01250c9e5e9397f20ef9f1327df
+** http://www.aparchive.com/metadata/China-Student-Demonstrations/cfc6890746010c73f9414e20906268aa
+* Zhang Shijun is the most notable soldier who spoke up it seems:
+** https://chinadigitaltimes.net/2009/03/china-detains-writer-of-critical-web-letter-to-hu/
+** https://www.rfa.org/english/news/china/flashbacks-06042018133558.html
+** https://www.theguardian.com/world/2009/mar/20/tiananmen-square-china-zhang-shijun
+* http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/  (https://web.archive.org/web/20190607142501/http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[archive]) a few gory photos
+
+.Sea of protesters in Tiananmen Square. No, not even that many people can influence dictatorships if they don't have weapons. https://abcnews.go.com/International/tiananmen-square-29th-anniversary-crackdown/story?id=55564966[Source].
+image::https://web.archive.org/web/20190714002904im_/https://s.abcnews.com/images/International/tiananmen-massacre-gty-04-jpo-180531_hpEmbed_3x2_992.jpg[height=400]
+
+.Corpses by the road in after the Tiananmen Square Protests were crushed. http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[Source].
+image::https://web.archive.org/web/20190607142501im_/http://www.ursulagauthier.fr/wp-content/uploads/2014/10/Tiananmen-7-715x1024.jpg[height=400]
+
+[[tank-man]]
+===== Tank man 坦克人
+
+https://en.wikipedia.org/wiki/Tank_Man https://zh.wikipedia.org/wiki/%E5%9D%A6%E5%85%8B%E4%BA%BA
+
+Good list of all photos: https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/
+
+CNN video of Tank Man: https://www.youtube.com/watch?v=YeFzeNAHEhU[].
+
+.Arthur Tsang's photo of Tank Man. https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/[Source].
+image::https://web.archive.org/web/20190808091019im_/http://s.wsj.net/public/resources/images/BN-CZ715_tam2_G_20140529081612.jpg[height=400]
 
 == Media 媒体
 
