@@ -1463,6 +1463,101 @@ ____
 
 Where basically idiot == someone who creates posts that obviously aren't teaching you any new useful thing, or that not praising you :-)
 
+=== How do different websites view Ciro Santilli's profile?
+
+Stack Overflow mentioned at: <<meant-to-be-used>>.
+
+==== Zhihu ban
+
+I was banned from Zhihu on 2018-06-25 for "politically sensitive" content.
+
+As a result, since that time I will be answering Zhihu questions as issues in this repo with the https://github.com/cirosantilli/china-dictatorship/labels/zhihu[label `zhihu`].
+
+I have however never posted anything politically sensitive on Zhihu, unless my name and profile picture have reached that distinction, and therefore the ban is clearly an unfair per-person ban.
+
+But of course, all is fair in love and war, and politics.
+
+Posting any sensitive content on Chinese websites is a waste of time, since it only means that they will be removed and you will waste time creating a new account, I will never do that.
+
+The only significant content I ever posted on Zhihu is the answer to: https://www.zhihu.com/question/46957710/answer/122827944 which is purely technical, and trivial replies on threads that other people have started about me. Have those people been blocked like me?
+
+My posts are still up and it does not appear to be possible for people to see that I have been banned, but whenever I try to take any action on the website a popup appears saying:
+
+____
+由于严重违反 知乎社区管理规定 ，该帐号已被永久禁言
+____
+
+This includes liking, commenting, answering, asking or trying to update my profile to say that I have been blocked.
+
+This message also shows on my public page for everyone to see: https://www.zhihu.com/people/cirosantilli/activities but they use some JavaScript scheme complicated enough that archive.is cannot capture it.
+
+I still get notifications however, but I am unable to reply to them, specially given that all Chinese accounts, unlike mine, have no personal identifiable information due to the understandable fear Chinese citizens have of their own government (even though such accounts https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/[might be illegal in theory to my understanding]).
+
+The only action that I can take now is to report abusive comments people make to me.
+
+Obviously, the only effect of such ban is that I will create an anonymous account under Tor with a second cell phone if I wish to contribute in the future, and China will have less information about my political interests than before.
+
+The private messages the website sends while banning you are:
+
+____
+知乎管理员 ：您好，根据用户举报，您的帐号发布了「政治敏感」内容，帐号已根据知乎社区规范被永久禁言。处理详情可查看社区服务中心。具体规范请查看知乎社区管理规定。 6月25日 16:37 回复 | 删除
+
+知乎管理员 ：您好，根据用户举报，您的部分个人信息由于不符合知乎用户信息管理规范已被重置。用户名可以在设置页面中修改，修改后会自动进入审核等待通过；其他个人信息可以在个人主页中编辑。感谢您对知乎社区的理解和支持。 6月25日 16:37 回复 | 删除
+____
+
+Those messages contain links to: https://www.zhihu.com/terms2 | http://archive.is/wdXSz and https://www.zhihu.com/question/19551824 | http://archive.is/BrgV2
+
+The ban came soon after I posted a link to my GitHub repo as a comment at: https://techcrunch.com/2018/06/21/ice-employee-list-github-linkedin/ maybe they are related.
+
+===== Zhihu questions related to Ciro Santilli
+
+Parent section: <<backlinks-to-this-repository>>
+
+* 2019-03 https://www.zhihu.com/question/316700162 | http://archive.is/ewxqb "如何看待Github Trending上Ciro Santilli的众多开源项目？". Due to: https://github.com/cirosantilli/x86-bare-metal-examples/wiki
+* 2018-11: (deleted) https://www.zhihu.com/question/302738350 | http://archive.is/lkQxS "如何评价Ciro Santilli对Stack Overflow和GitHub的扰乱？"
+* 2017-03-07 https://zhuanlan.zhihu.com/p/25600138 Archive: http://archive.is/DkooN "StackOverflow 上的一个智障用户"
+** 2017-03 https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow (http://web.archive.org/save/https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow/[archive]) by https://github.com/brglng/ "StackOverflow 上的一个智障用户"
+* 2016-09 https://www.zhihu.com/question/46957710 (http://archive.is/PVOLd[archive]) "github.com@cirosantilli 是谁维护的，为什么会收集邮箱地址？"
+* 2015-08-18: (deleted) http://www.zhihu.com/question/34775392 Archive: https://web.archive.org/web/20160219094646/https://www.zhihu.com/question/34775392 "你们怎么看stackoverflow上某人故意屏蔽中国访问的事件？"
+
+===== Who reported me on Zhihu
+
+At the same time the ban happened I received a public comment from user "Eureka" https://www.zhihu.com/people/crb912/activities | http://archive.is/1F3t6 on this thread: https://www.zhihu.com/question/46957710 | http://archive.is/PVOLd saying:
+
+____
+你滥用了github， 也滥用了Stackover。这个一个纯粹计算机、编程和知识分享的地方，请不要带入政治性的色彩。请不要这么做， 维护社区的非政治性、中立和技术性纯粹，是每个热爱cs的人应尽的义务。
+____
+
+I am unable to get an URL that shows the comment on archive.is, so I have no proof of this claim. If you trust me, then here is a screenshot: https://imgur.com/a/YCiEEax
+
+Since I expect the ban lists to be private, I find it extremely likely that this was the user who reported me, unless both were simultaneously triggered by a third event which I have not seen. So correct me if I'm wrong here.
+
+Users with the same user id `crb912`, related "Eureka" username or same profile picture, can be found at:
+
+* https://www.weibo.com/crb912 (unable to archive)
+* https://github.com/crb912 | http://archive.is/heGfd which suggests a possible real name
+
+By Googling the email found on the GitHub repos, we find: http://www.360doc.com/content/15/0809/11/25724933_490492490.shtml | http://archive.is/2UnGL which might, at last, contain a photo of my nemesis.
+
+My public message to the reporter whomever he may be:
+
+____
+While you have also raised issues that were raised a thousand times before, and clearly answered in the FAQ, at least you were able to take some actual action leading to an actual ban, and I respect you for that.
+
+I hope that one day you will redirect that cunning and initiative towards taking down the root cause of the problem, which are the Chinese communist Party and their Firewall themselves.
+____
+
+==== Quora
+
+https://www.quora.com/profile/Ciro-Santilli
+
+* 2016 blocked Chinese keywords on both my username and credentials. Justification: non-English.
+* 2017 created on in English: Cook Tiananmen Square Noodle Shop.
++
+Added my Noodle shop to maps: https://www.google.co.uk/maps/place/Tiananmen+Square+Noodle+Shop/@60.6132538,15.6687509,15z/data=!4m5!3m4!1s0x0:0x94603408e3c63fb3!8m2!3d60.6132538!4d15.6687509
++
+Leaches that picked it up: http://kvalster.se/Falu/Uthyres/Lagenheter/Gammelvagen_49_1417351
+
 === Christianism
 
 The commies are not a fan. Or as someone once told me: the commies are not a fan of a bunch of things!
@@ -1552,6 +1647,10 @@ And they have accepted that: they think I'm a good person, and they can accept t
 I do feel Falun Gong makes my mother-in-law more reluctant to use or actively search for <<flg-medication,medication or treatment>>. But I think it is also linked to the fact that she didn't have a very good education or a good health system around. However, if we give her something, she will take it. My wife does not have any resistance to medication.
 
 One thing that does worry me is that my mother in law sleeps too little every night, doing one of the Falun Gong meditations late in the evening, and then waking up very early to a long series of reading and exercise sessions.
+
+Bibliography:
+
+* http://www.zhihu.com/question/27659795 (https://www.zhihu.com/question/27659795[archive])家里有人练法轮功是一种怎样的体验？
 
 ==== In the Tweet you say "correctional facility", but reeducation through labour has been abolished
 
@@ -2034,87 +2133,10 @@ I've seen that happen, they made phone calls to people in China to explain why F
 
 Visual ads on the street on Internet I can stand, but not any kind of advertising that generates notifications on my feeds.
 
-=== How do different websites view your profile?
+==== Falun Gong bibliography
 
-==== Zhihu ban
-
-I was banned from Zhihu on 2018-06-25 for "politically sensitive" content.
-
-As a result, since that time I will be answering Zhihu questions as issues in this repo with the https://github.com/cirosantilli/china-dictatorship/labels/zhihu[label `zhihu`].
-
-I have however never posted anything politically sensitive on Zhihu, unless my name and profile picture have reached that distinction, and therefore the ban is clearly an unfair per-person ban.
-
-But of course, all is fair in love and war, and politics.
-
-Posting any sensitive content on Chinese websites is a waste of time, since it only means that they will be removed and you will waste time creating a new account, I will never do that.
-
-The only significant content I ever posted on Zhihu is the answer to: https://www.zhihu.com/question/46957710/answer/122827944 which is purely technical, and trivial replies on threads that other people have started about me. Have those people been blocked like me?
-
-My posts are still up and it does not appear to be possible for people to see that I have been banned, but whenever I try to take any action on the website a popup appears saying:
-
-____
-由于严重违反 知乎社区管理规定 ，该帐号已被永久禁言
-____
-
-This includes liking, commenting, answering, asking or trying to update my profile to say that I have been blocked.
-
-This message also shows on my public page for everyone to see: https://www.zhihu.com/people/cirosantilli/activities but they use some JavaScript scheme complicated enough that archive.is cannot capture it.
-
-I still get notifications however, but I am unable to reply to them, specially given that all Chinese accounts, unlike mine, have no personal identifiable information due to the understandable fear Chinese citizens have of their own government (even though such accounts https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/[might be illegal in theory to my understanding]).
-
-The only action that I can take now is to report abusive comments people make to me.
-
-Obviously, the only effect of such ban is that I will create an anonymous account under Tor with a second cell phone if I wish to contribute in the future, and China will have less information about my political interests than before.
-
-The private messages the website sends while banning you are:
-
-____
-知乎管理员 ：您好，根据用户举报，您的帐号发布了「政治敏感」内容，帐号已根据知乎社区规范被永久禁言。处理详情可查看社区服务中心。具体规范请查看知乎社区管理规定。 6月25日 16:37 回复 | 删除
-
-知乎管理员 ：您好，根据用户举报，您的部分个人信息由于不符合知乎用户信息管理规范已被重置。用户名可以在设置页面中修改，修改后会自动进入审核等待通过；其他个人信息可以在个人主页中编辑。感谢您对知乎社区的理解和支持。 6月25日 16:37 回复 | 删除
-____
-
-Those messages contain links to: https://www.zhihu.com/terms2 | http://archive.is/wdXSz and https://www.zhihu.com/question/19551824 | http://archive.is/BrgV2
-
-The ban came soon after I posted a link to my GitHub repo as a comment at: https://techcrunch.com/2018/06/21/ice-employee-list-github-linkedin/ maybe they are related.
-
-===== Who reported me on Zhihu
-
-At the same time the ban happened I received a public comment from user "Eureka" https://www.zhihu.com/people/crb912/activities | http://archive.is/1F3t6 on this thread: https://www.zhihu.com/question/46957710 | http://archive.is/PVOLd saying:
-
-____
-你滥用了github， 也滥用了Stackover。这个一个纯粹计算机、编程和知识分享的地方，请不要带入政治性的色彩。请不要这么做， 维护社区的非政治性、中立和技术性纯粹，是每个热爱cs的人应尽的义务。
-____
-
-I am unable to get an URL that shows the comment on archive.is, so I have no proof of this claim. If you trust me, then here is a screenshot: https://imgur.com/a/YCiEEax
-
-Since I expect the ban lists to be private, I find it extremely likely that this was the user who reported me, unless both were simultaneously triggered by a third event which I have not seen. So correct me if I'm wrong here.
-
-Users with the same user id `crb912`, related "Eureka" username or same profile picture, can be found at:
-
-* https://www.weibo.com/crb912 (unable to archive)
-* https://github.com/crb912 | http://archive.is/heGfd which suggests a possible real name
-
-By Googling the email found on the GitHub repos, we find: http://www.360doc.com/content/15/0809/11/25724933_490492490.shtml | http://archive.is/2UnGL which might, at last, contain a photo of my nemesis.
-
-My public message to the reporter whomever he may be:
-
-____
-While you have also raised issues that were raised a thousand times before, and clearly answered in the FAQ, at least you were able to take some actual action leading to an actual ban, and I respect you for that.
-
-I hope that one day you will redirect that cunning and initiative towards taking down the root cause of the problem, which are the Chinese communist Party and their Firewall themselves.
-____
-
-==== Quora
-
-https://www.quora.com/profile/Ciro-Santilli
-
-* 2016 blocked Chinese keywords on both my username and credentials. Justification: non-English.
-* 2017 created on in English: Cook Tiananmen Square Noodle Shop.
-+
-Added my Noodle shop to maps: https://www.google.co.uk/maps/place/Tiananmen+Square+Noodle+Shop/@60.6132538,15.6687509,15z/data=!4m5!3m4!1s0x0:0x94603408e3c63fb3!8m2!3d60.6132538!4d15.6687509
-+
-Leaches that picked it up: http://kvalster.se/Falu/Uthyres/Lagenheter/Gammelvagen_49_1417351
+* https://www.quora.com/Why-is-the-Chinese-government-against-Falun-Gong
+* http://www.zhihu.com/question/23988890 (https://web.archive.org/web/20160311140407/https://www.zhihu.com/question/23988890[archive]) "全能神教在境外，法轮功也在境外，为什么他们不祸害境外人民、偏偏只祸害大陆人？"
 
 [[news]]
 == News 新闻
@@ -2585,50 +2607,6 @@ https://en.wikipedia.org/wiki/Social_Credit_System
 == Belt and Road Initiative 一带一路
 
 https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
-
-== Backlinks to this repository
-
-Or to my other online presences, due to China activity:
-
-* 2019-10 https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/blob/7131e2c1158a806f41c8f55308977048b02d2959/README-Part2.md Automatically generated list of repos with Chinese characters in their descriptions with the most upvotes per programming language. TODO why is this repo on their README-Part2 only? Has more stars than some stuff on main README.
-* 2019-10-12: https://hacpai.com/article/1570686552645 Login required, cowards. Post title: "更新 GitHub 官方 Repo 的人，竟然是个反华分子". Manual page dump after my replies with links to this FAQ: https://ia801505.us.archive.org/27/items/cirosantilli/hacpai_1570686552645.html OP then deleted my comments because they don't speak English "HacPai 是个文明的社区，不会发生辱骂的现象，你有你的观点，我们有我们的观点。但抱歉，我们的水平有限，没有阅读英文的能力，还请发送有效回复，否则只能折叠处理". It is some developper website: https://hacpai.com/article/1440573175609 (https://web.archive.org/web/20190811205230/https://hacpai.com/article/1440573175609[archive]) linked to https://github.com/b3log/solo[]. OP then made an useless post here: https://github.com/cirosantilli/china-dictatorship/issues/70 As of 2019-10-12, I can't login there anymore, either because the website is shitty, or I was blocked. GitHub login just fails silently, cannot reset password. If blocked, cowards. This led me to update: <<what-is-your-reply-strategy>> with the canned reply.
-* 2019-09: https://admin.github.com Someone from GitHub has been thinking about us. s2 to you.
-* "https://www.linkedin.com/pulse/thoughts-github-going-china-kevin-xu/" https://twitter.com/sang_what/status/1172692888766959619 (http://archive.is/taPpH[archive]) https://t.co/qag5ekL12F
-* 2019-06: https://gking.harvard.edu/ interesting. OK, likely due to: https://gking.harvard.edu/category/research-interests/applications/information-control-by-authoritarian-governments but no direct links found though.
-* 2019-05: someone used the FAQ to answer a question: https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/ | http://web.archive.org/web/20190527072431/https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/ "‘If I disappear’: Chinese students make farewell messages amid crackdowns over labor activism"
-* 2019-04-10: https://twitter.com/jnzst/status/1115824398961913857 gGTYgFulPg
-** https://twitter.com/jnzst/status/1111395254408613888
-* 2019-04-09: https://pincong.rocks/question/3383 | http://web.archive.org/web/20190413063930/https://pincong.rocks/question/3383 "【小众问题】为何 Stack Overflow 2019 开发者调查报告中，来自中国的开发者最为积极乐观？"
-** 2019-05: https://community.riskiq.com/search/pincong.rocks pingcong people deciding if they should ban me? :-) commented there once: https://pincong.rocks/question/3383 | http://web.archive.org/web/20190527072431/https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/http://web.archive.org/web/20190413063930/https://pincong.rocks/question/3383 This also suggests that https://en.wikipedia.org/wiki/RiskIQ helps censorship in China
-* 2019-03 https://www.zhihu.com/question/316700162 | http://archive.is/ewxqb "如何看待Github Trending上Ciro Santilli的众多开源项目？". Due to: https://github.com/cirosantilli/x86-bare-metal-examples/wiki
-* 2019-01-10: https://twitter.com/ninoseki/statuses/1083512317952704512 | http://archive.is/vCwep 1300 followers.
-* 2018-11: (deleted) https://www.zhihu.com/question/302738350 | http://archive.is/lkQxS "如何评价Ciro Santilli对Stack Overflow和GitHub的扰乱？"
-* 2018-08: https://www.reddit.com/r/CCJ2/comments/93klir/moron_tries_to_dismantle_chinese_government_by | http://archive.is/HtYng "moron tries to dismantle chinese government by putting a few moon runes on some websites" Peak of 100 unique visitors / day from base rate of 5
-** led to: https://lihkg.com/thread/762440/page/1 | http://archive.is/7REOi "佢個個人home page好多5毛留言, 唔知會唔會搞到block堆stackoverflow"
-* 2018-07: http://4-ch.net/general/kareha.pl/1531480621/l50 | http://web.archive.org/web/20180815081351/http://4-ch.net/general/kareha.pl/1531480621/l50 "No more Xi Jinping"
-* 2018-06: http://medarc.org/pac.txt | https://web.archive.org/web/20180712094944/http://medarc.org/pac.txt puts cirosantilli.com in a blacklist containing the likes of asianpiss.com and clearwisdom.net. Awesome. Then I grepped the main one https://github.com/gfwlist/gfwlist with `while true; do git checkout HEAD~; if ! base64 -d gfwlist.txt | grep -q cirosan; then break; fi; done` and found that I was added in 24a6f6f29e24d1d7eb27946bf51d7a072ddb3e6d Tue Apr 24 2018. That is input data for https://addons.mozilla.org/en-US/firefox/addon/autoproxy/ which turns on a proxy only for certain websites. Therefore that is a definitive list of interesting stuff. I wonder how it is curated.
-* 2018-06: https://greasyfork.org/zh-CN/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8 "StackOverflow净化器"
-** https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8 JavaSript script to hide my username on SO! Nice.
-** github user with the same username: https://github.com/EternalPhane
-** http://web.archive.org/web/20181211094818/https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8
-** http://web.archive.org/web/20181211094917/https://greasyfork.org/en/forum/discussion/47981
-* 2018-05: a few hits from https://chinadigitaltimes.net but Google cannot find any links
-* 2018-05-20:
-** https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684 Archive: http://web.archive.org/web/20190701085047/https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684
-** http://web.archive.org/web/20180520210006/http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684&pid=3954113&page=1&extra=
-* 2018-04-13: traffic peak, but no linkbacks. Many new Chinese followers, but few new stars on this repo, maybe they are afraid to star? Also someone (bot?) subscribed me to a hundred GovDelivery mailing lists, possibly linked? I also blocked an user from on GitHub due to impolite post. Also possibly linked to me posting a link to the FAQ more clearly on my home page recently: https://github.com/cirosantilli/cirosantilli.github.io/commit/f31d1651c0e7fef587e5910ff2dc1e2aba9a5763
-* 2018-03-11: got a large traffic peak (60 vs 10 average), but no linkbacks to match. Likely source: parcerier pinged me at: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/267723#comment562812_288497 and I revamped the and FAQ replied with https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/267723#comment562840_320914 Someone also made: http://archive.is/jcZCA which points to: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/267723#comment562810_267723 . This issue was opened that day as well: https://github.com/cirosantilli/china-dictatorship/issues/12
-* 2018-01: https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1088&context=cs_etds this site appears on the reference of a PhD thesis paper haha, links to complete-gfw-rulebook-for-wikipedia-v3.0.pdf.
-* 2017-05: https://t.co/AosRq06akz TODO where from. "Measuring Decentralization of Chinese Censorship in Three Industry Segments" by Jeffrey Knockel. Now at Citizenlab: https://www.cs.unm.edu/~jeffk/
-* 2017-03-07 https://zhuanlan.zhihu.com/p/25600138 Archive: http://archive.is/DkooN "StackOverflow 上的一个智障用户"
-** 2017-03 https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow Archive: http://web.archive.org/save/https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow/ by https://github.com/brglng/ "StackOverflow 上的一个智障用户"
-* 2016-09 https://www.zhihu.com/question/46957710 Archive: http://archive.is/PVOLd "github.com@cirosantilli 是谁维护的，为什么会收集邮箱地址？"
-* 2015-12-23: https://v2ex.com/t/245507 (link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-12.html[Chromium CTRL-S save]) "搜 StackOverflow，无意间发现了这个，重点在那个评论" by https://v2ex.com/member/happypy1
-* 2015-09-03: (deleted) http://www.weibo.com/2014703917/Cyc1gFt7A This is the user: http://www.weibo.com/2014703917 There have also been accesses from link:http://weibo.cn/sinaurl[], but I don't know what that means.
-* 2015-08-18: (deleted) http://www.zhihu.com/question/34775392 Archive: https://web.archive.org/web/20160219094646/https://www.zhihu.com/question/34775392 "你们怎么看stackoverflow上某人故意屏蔽中国访问的事件？"
-* 2015-08-03: 21 visitor Facebook peak, can't find source
-* 2015-06-20: (deleted) link:https://www.plurk.com/p/l1jjn4[] Archive: http://web.archive.org/web/20150918110032/https://www.plurk.com/p/l1jjn4 "這阿豆阿的名字XDD" by https://www.plurk.com/m/u/cyuanXD
-* 2015-04-10: https://v2ex.com/t/182766 (cannot archive, login requires CAPTCHA, link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-04.html[Chromium CTRL-S save]) "Stack Overflow 上看到一个丧心病狂的程序员" by https://v2ex.com/member/cloudhunter
 
 [[music]]
 == The best Chinese traditional instrumental music albums
@@ -3252,7 +3230,7 @@ Not worth it:
 +
 1050B rue Clark
 
-== Mirrors of this repository
+== Git mirrors of this repository
 
 The cool thing about Git is that we can maintain several mirrors on multiple websites very easily:
 
@@ -3261,6 +3239,47 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 * https://bitbucket.org/cirosantilli/china-dictatorship
 
 Update all mirrors with: link:push-mirrors[]
+
+== Backlinks to this repository
+
+Or to Ciro's other online presences, due to China activity.
+
+For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
+
+* 2019-10 https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/blob/7131e2c1158a806f41c8f55308977048b02d2959/README-Part2.md Automatically generated list of repos with Chinese characters in their descriptions with the most upvotes per programming language. TODO why is this repo on their README-Part2 only? Has more stars than some stuff on main README.
+* 2019-10-12: https://hacpai.com/article/1570686552645 Login required, cowards. Post title: "更新 GitHub 官方 Repo 的人，竟然是个反华分子". Manual page dump after my replies with links to this FAQ: https://ia801505.us.archive.org/27/items/cirosantilli/hacpai_1570686552645.html OP then deleted my comments because they don't speak English "HacPai 是个文明的社区，不会发生辱骂的现象，你有你的观点，我们有我们的观点。但抱歉，我们的水平有限，没有阅读英文的能力，还请发送有效回复，否则只能折叠处理". It is some developper website: https://hacpai.com/article/1440573175609 (https://web.archive.org/web/20190811205230/https://hacpai.com/article/1440573175609[archive]) linked to https://github.com/b3log/solo[]. OP then made an useless post here: https://github.com/cirosantilli/china-dictatorship/issues/70 As of 2019-10-12, I can't login there anymore, either because the website is shitty, or I was blocked. GitHub login just fails silently, cannot reset password. If blocked, cowards. This led me to update: <<what-is-your-reply-strategy>> with the canned reply.
+* 2019-09: https://admin.github.com Someone from GitHub has been thinking about us. s2 to you.
+* "https://www.linkedin.com/pulse/thoughts-github-going-china-kevin-xu/" https://twitter.com/sang_what/status/1172692888766959619 (http://archive.is/taPpH[archive]) https://t.co/qag5ekL12F
+* 2019-06: https://gking.harvard.edu/ interesting. OK, likely due to: https://gking.harvard.edu/category/research-interests/applications/information-control-by-authoritarian-governments but no direct links found though.
+* 2019-05: someone used the FAQ to answer a question: https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/ | http://web.archive.org/web/20190527072431/https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/ "‘If I disappear’: Chinese students make farewell messages amid crackdowns over labor activism"
+* 2019-04-10: https://twitter.com/jnzst/status/1115824398961913857 gGTYgFulPg
+** https://twitter.com/jnzst/status/1111395254408613888
+* 2019-04-09: https://pincong.rocks/question/3383 | http://web.archive.org/web/20190413063930/https://pincong.rocks/question/3383 "【小众问题】为何 Stack Overflow 2019 开发者调查报告中，来自中国的开发者最为积极乐观？"
+** 2019-05: https://community.riskiq.com/search/pincong.rocks pingcong people deciding if they should ban me? :-) commented there once: https://pincong.rocks/question/3383 | http://web.archive.org/web/20190527072431/https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/http://web.archive.org/web/20190413063930/https://pincong.rocks/question/3383 This also suggests that https://en.wikipedia.org/wiki/RiskIQ helps censorship in China
+* 2019-01-10: https://twitter.com/ninoseki/statuses/1083512317952704512 | http://archive.is/vCwep 1300 followers.
+* 2018-08: https://www.reddit.com/r/CCJ2/comments/93klir/moron_tries_to_dismantle_chinese_government_by | http://archive.is/HtYng "moron tries to dismantle chinese government by putting a few moon runes on some websites" Peak of 100 unique visitors / day from base rate of 5
+** led to: https://lihkg.com/thread/762440/page/1 | http://archive.is/7REOi "佢個個人home page好多5毛留言, 唔知會唔會搞到block堆stackoverflow"
+* 2018-07: http://4-ch.net/general/kareha.pl/1531480621/l50 | http://web.archive.org/web/20180815081351/http://4-ch.net/general/kareha.pl/1531480621/l50 "No more Xi Jinping"
+* 2018-06: http://medarc.org/pac.txt | https://web.archive.org/web/20180712094944/http://medarc.org/pac.txt puts cirosantilli.com in a blacklist containing the likes of asianpiss.com and clearwisdom.net. Awesome. Then I grepped the main one https://github.com/gfwlist/gfwlist with `while true; do git checkout HEAD~; if ! base64 -d gfwlist.txt | grep -q cirosan; then break; fi; done` and found that I was added in 24a6f6f29e24d1d7eb27946bf51d7a072ddb3e6d Tue Apr 24 2018. That is input data for https://addons.mozilla.org/en-US/firefox/addon/autoproxy/ which turns on a proxy only for certain websites. Therefore that is a definitive list of interesting stuff. I wonder how it is curated.
+* 2018-06: https://greasyfork.org/zh-CN/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8 "StackOverflow净化器"
+** https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8 JavaSript script to hide my username on SO! Nice.
+** github user with the same username: https://github.com/EternalPhane
+** http://web.archive.org/web/20181211094818/https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8
+** http://web.archive.org/web/20181211094917/https://greasyfork.org/en/forum/discussion/47981
+* 2018-05: a few hits from https://chinadigitaltimes.net but Google cannot find any links
+* 2018-05-20:
+** https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684 Archive: http://web.archive.org/web/20190701085047/https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684
+** http://web.archive.org/web/20180520210006/http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684&pid=3954113&page=1&extra=
+* 2018-04-13: traffic peak, but no linkbacks. Many new Chinese followers, but few new stars on this repo, maybe they are afraid to star? Also someone (bot?) subscribed me to a hundred GovDelivery mailing lists, possibly linked? I also blocked an user from on GitHub due to impolite post. Also possibly linked to me posting a link to the FAQ more clearly on my home page recently: https://github.com/cirosantilli/cirosantilli.github.io/commit/f31d1651c0e7fef587e5910ff2dc1e2aba9a5763
+* 2018-03-11: got a large traffic peak (60 vs 10 average), but no linkbacks to match. Likely source: parcerier pinged me at: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/267723#comment562812_288497 and I revamped the and FAQ replied with https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/267723#comment562840_320914 Someone also made: http://archive.is/jcZCA which points to: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/267723#comment562810_267723 . This issue was opened that day as well: https://github.com/cirosantilli/china-dictatorship/issues/12
+* 2018-01: https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1088&context=cs_etds this site appears on the reference of a PhD thesis paper haha, links to complete-gfw-rulebook-for-wikipedia-v3.0.pdf.
+* 2017-05: https://t.co/AosRq06akz TODO where from. "Measuring Decentralization of Chinese Censorship in Three Industry Segments" by Jeffrey Knockel. Now at Citizenlab: https://www.cs.unm.edu/~jeffk/
+* 2015-12-23: https://v2ex.com/t/245507 (link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-12.html[Chromium CTRL-S save]) "搜 StackOverflow，无意间发现了这个，重点在那个评论" by https://v2ex.com/member/happypy1
+* 2015-09-03: (deleted) http://www.weibo.com/2014703917/Cyc1gFt7A This is the user: http://www.weibo.com/2014703917 There have also been accesses from link:http://weibo.cn/sinaurl[], but I don't know what that means.
+* 2015-08-03: 21 visitor Facebook peak, can't find source
+* 2015-06-20: (deleted) link:https://www.plurk.com/p/l1jjn4[] Archive: http://web.archive.org/web/20150918110032/https://www.plurk.com/p/l1jjn4 "這阿豆阿的名字XDD" by https://www.plurk.com/m/u/cyuanXD
+* 2015-05-30: https://twitter.com/ZhouFengSuo/status/604461488716144640 (http://archive.is/8d2lt[archive]) 36K followers at the time. "The commies have messed with the wrong guy's mother-in-law.". That is apparently the account of a famous <<tiananmen>> protester: https://en.wikipedia.org/wiki/Zhou_Fengsuo[Zhou Fengsuo (周锋锁)]
+* 2015-04-10: https://v2ex.com/t/182766 (cannot archive, login requires CAPTCHA, link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-04.html[Chromium CTRL-S save]) "Stack Overflow 上看到一个丧心病狂的程序员" by https://v2ex.com/member/cloudhunter
 
 == Other sections
 
