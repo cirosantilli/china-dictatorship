@@ -257,7 +257,7 @@ ____
 
 Here are some examples of people reacting to the blocking of https://github.com/programthink/zhao/issues/38 as per https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md from China (and likely on the entire repository, which appears to be the block granularity implemented):
 
-* https://github.com/programthink/books/issues/31
+* https://github.com/programthink/books/issues/31 (http://web.archive.org/web/20191023093618/https://github.com/programthink/books/issues/31[archive])
 * https://www.zhihu.com/question/284445884/
 * https://program-think.blogspot.com/2018/04/Zhao-at-GitHub.html?comment=1524671692761#1524671692761 
 
