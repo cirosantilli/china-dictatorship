@@ -241,7 +241,7 @@ The cost of blocking Stack Overflow lies of course in the loss of information, a
 
 Remember that it is not possible for the Chinese government to block only certain pages of HTTPS websites due to encryption: either the entire IP / domain name is blocked, or nothing.
 
-The 2019 996.ICU event however brought to my attention that Chinese (usually WebKit-based) browsers are already censoring HTTPS websites selectively of course, see e.g.: https://github.com/996browser/996.BROWSER/tree/77f28a36a862e3cc4d238dc47c19872156096bc4
+The 2019 <<nine-nine-six-icu>> event however brought to my attention that Chinese (usually WebKit-based) browsers are already censoring HTTPS websites selectively of course, see e.g.: https://github.com/996browser/996.BROWSER/tree/77f28a36a862e3cc4d238dc47c19872156096bc4
 
 But I doubt developers use those browsers right? The only way would be for China to forbid foreign browsers entirely.
 
@@ -315,6 +315,8 @@ In democracies, radical policy changes happen without dropping a single drop of 
 === You are using technical websites in a way that they were not meant to be used, so what you are doing is in principle wrong
 
 Is the Chinese government using the Internet the way it was meant to be used, by investing billions in <<censorship>>?
+
+What about <<nine-nine-six-icu>>? Did you also complain about it, or did you just star it like 250k of your fellow programmers?
 
 Any act of protest will use things in ways that it was not meant to be used.
 
@@ -2134,13 +2136,33 @@ How I find them: <<anti-commie-info>>.
 * 2019-06-18 https://www.youtube.com/watch?v=WmId2ZP3h0c "Inside China's 'thought transformation' camps - BBC News" China gives BBC "access" to a chosen show camp where everyone claims is happy and willing to stay. Amazing dark-comedy like stuff.
 * 2019-05-09 https://www.youtube.com/watch?v=t2hBtXdaYsQ&list=PLcZOZrP1P_V5d7RMOKXF1PT70fcfYJpgY&index=2&t=14s Cynthia Liu, daughter of Liu Changming pleas freedom on YouTube, commented upload by CBS, TODO can't find original video on YouTube, maybe they sent straight to CBS?
 * 2019-04-28 https://www.bbc.co.uk/news/world-asia-48084019 Hong Kong: Thousands protest against China extradition law
-* 2019-04 996 https://github.com/996icu/996.ICU
-** https://www.reddit.com/r/China/comments/b927sk/tencent_xiaomi_and_others_block_github_page/
-** https://www.reddit.com/r/cscareerquestions/comments/b8t8cc/overworked_chinese_developers_gather_on_github_to/
-** 180k stars in a week!!!!
 ** https://www.reddit.com/r/China/comments/auqkdl/biotech_giant_thermo_fisher_stops_selling_dna/
 * 2019-01 https://www.apnews.com/40f7cf4c0c6e43f18121af93f1e418f7 Microsoft Bing https://www.bing.com/ search engine blocked in China
 * 2019-01 https://www.nytimes.com/2019/01/02/business/china-internet-censor.html interview with Beyondsoft, a company that offers censoring services
+
+[[nine-nine-six-icu]]
+==== 996.ICU
+
+https://github.com/996icu/996.ICU
+
+Repository published in 2019-04 protesting against excessive work hours by Chinese programmers.
+
+The name refers to:
+
+* "996": work from 9AM to 9PM 6 days a week
+* "ICU": https://en.wikipedia.org/wiki/Intensive_care_unit[Intensive Care Unit]
+
+Reached 180k stars in a week, and was the second most starred repository as of 2019-10 https://github.com/search?q=stars%3A%3E100&s=stars&type=Repositories[] (https://web.archive.org/web/20191023084929/https://github.com/search?q=stars%3A%3E100&s=stars&type=Repositories[archive])!!!
+
+This is therefore the best example for Chinese tech workers that freedom of speech is a good thing.
+
+Coverage:
+
+* https://www.reddit.com/r/China/comments/b927sk/tencent_xiaomi_and_others_block_github_page/
+* https://www.reddit.com/r/cscareerquestions/comments/b8t8cc/overworked_chinese_developers_gather_on_github_to/
+
+.996.ICU logo. https://github.com/996icu[Source].
+image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercontent.com/u/48942249[height=400]
 
 === News 2018
 
