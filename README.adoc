@@ -1479,6 +1479,51 @@ Where basically idiot == someone who creates posts that obviously aren't teachin
 
 Stack Overflow mentioned at: <<meant-to-be-used>>.
 
+===== Zhihu questions related to Ciro Santilli
+
+Parent section: <<backlinks-to-this-repository>>
+
+All Zhihu posts related to Ciro Santilli were deleted following <<zhihu-purge>>. Some had been deleted before.
+
+* 2019-06-12: https://zhuanlan.zhihu.com/p/68869259 (http://web.archive.org/web/20190905071450/https://zhuanlan.zhihu.com/p/68869259[archive before deletion], (http://web.archive.org/web/20191103072349/https://zhuanlan.zhihu.com/p/68869259[archive after deletion])) "德国极端分子黑我们大中国！犯我中华者，虽远必诛！！". Ciro wonders why the poster thought Ciro was German.
+* 2019-03: https://www.zhihu.com/question/316700162 (http://archive.is/ewxqb[archive before deletion], (http://web.archive.org/web/20191103065512/http://web.archive.org/screenshot/https://www.zhihu.com/question/316700162[archive after deletion])) "如何看待Github Trending上Ciro Santilli的众多开源项目？". Due to: https://github.com/cirosantilli/x86-bare-metal-examples being featured on Hacker News: https://news.ycombinator.com/item?id=19428700
+* 2018-11: https://www.zhihu.com/question/302738350 (http://archive.is/lkQxS[archive before deletion], (http://web.archive.org/web/20191103065759/https://www.zhihu.com/question/302738350[archive after deletion])) "如何评价Ciro Santilli对Stack Overflow和GitHub的扰乱？"
+* 2017-03-07: https://zhuanlan.zhihu.com/p/25600138 (http://archive.is/DkooN[archive before deletion], (http://web.archive.org/web/20191103065808/https://zhuanlan.zhihu.com/p/25600138[archive after deletion])) "StackOverflow 上的一个智障用户"
+** 2017-03 https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow (http://web.archive.org/save/https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow/[archive]) by https://github.com/brglng/ (https://web.archive.org/web/20180802090918/https://github.com/brglng/[archive]) "StackOverflow 上的一个智障用户"
+* 2015-08-18: http://www.zhihu.com/question/34775392 (https://web.archive.org/web/20160219094646/https://www.zhihu.com/question/34775392[archive before deletion], (http://web.archive.org/web/20191103065816/https://www.zhihu.com/question/34775392[archive after deletion])) "你们怎么看stackoverflow上某人故意屏蔽中国访问的事件？"
+
+A random control question that shows that archive.org 404's are actually deleted questions: https://www.zhihu.com/question/316700165 (http://web.archive.org/web/20191103065449/https://www.zhihu.com/question/316700165[archive]).
+
+[[zhihu-purge]]
+==== Ciro Santilli's Zhihu purge 2019-11-03
+
+Ciro received an email from account@mail.zhihu.com:
+
+____
+您好，Ciro Santilli，很抱歉您的回答受到了牵连，您回答过的问题「github.com@cirosantilli 是谁维护的，为什么会收集邮箱地址？」因「违反互联网相关法律法规」已被删除。
+____
+
+followed by Ciro's answer to <<zhihu-46957710>>. Ciro could not login anymore, the login screen showed:
+
+____
+帐号已停用，请联系：user@zhihu.com
+____
+
+So likely someone must have used the fact that this was an edgy personal information release subject issue, and then someone from Zhihu decided to purge Ciro and anyone posts that ever talked about him.
+
+Ciro's blocked account:
+
+* before deletion: http://web.archive.org/web/20190821075907/https://www.zhihu.com/people/cirosantilli/activities
+* after deletion (redirects to login page): http://web.archive.org/web/20191103071033/https://www.zhihu.com/signin?next=http://www.zhihu.com/people/cirosantilli/activities
+
+Random unblocked control account: https://www.zhihu.com/people/lu-zhen-yu-96-65/activities (http://web.archive.org/web/20191103070652/https://www.zhihu.com/people/lu-zhen-yu-96-65/activities[archive]).
+
+Furthermore, all questions related to Ciro, including the posts criticizing him such as https://zhuanlan.zhihu.com/p/25600138[], were taken down. This made Ciro laugh: in China, you can't even criticize that which is censored, or your post also gets taken down.
+
+Ciro then created an anonymous Zhihu account after this event.
+
+https://www.zhihu.com/people/lu-zhen-yu-96-65/activities
+
 ==== Zhihu ban
 
 I was banned from Zhihu on 2018-06-25 for "politically sensitive" content.
@@ -1521,16 +1566,35 @@ Those messages contain links to: https://www.zhihu.com/terms2 | http://archive.i
 
 The ban came soon after I posted a link to my GitHub repo as a comment at: https://techcrunch.com/2018/06/21/ice-employee-list-github-linkedin/ maybe they are related.
 
-===== Zhihu questions related to Ciro Santilli
+[[zhihu-46957710]]
+====== github.com@cirosantilli 是谁维护的，为什么会收集邮箱地址？
 
-Parent section: <<backlinks-to-this-repository>>
+https://www.zhihu.com/question/46957710 (http://archive.is/PVOLd[archive before deletion], (http://web.archive.org/web/20191103065828/https://www.zhihu.com/question/46957710[archive after deletion])).
 
-* 2019-03 https://www.zhihu.com/question/316700162 | http://archive.is/ewxqb "如何看待Github Trending上Ciro Santilli的众多开源项目？". Due to: https://github.com/cirosantilli/x86-bare-metal-examples/wiki
-* 2018-11: (deleted) https://www.zhihu.com/question/302738350 | http://archive.is/lkQxS "如何评价Ciro Santilli对Stack Overflow和GitHub的扰乱？"
-* 2017-03-07 https://zhuanlan.zhihu.com/p/25600138 Archive: http://archive.is/DkooN "StackOverflow 上的一个智障用户"
-** 2017-03 https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow (http://web.archive.org/save/https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow/[archive]) by https://github.com/brglng/ "StackOverflow 上的一个智障用户"
-* 2016-09 https://www.zhihu.com/question/46957710 (http://archive.is/PVOLd[archive]) "github.com@cirosantilli 是谁维护的，为什么会收集邮箱地址？"
-* 2015-08-18: (deleted) http://www.zhihu.com/question/34775392 Archive: https://web.archive.org/web/20160219094646/https://www.zhihu.com/question/34775392 "你们怎么看stackoverflow上某人故意屏蔽中国访问的事件？"
+Asked in 2016-09 after Ciro published: https://github.com/cirosantilli/all-github-commit-emails
+
+Deleted after <<zhihu-purge>>. Ciro's answer before deletion:
+
+____
+你用的git config user.email当然是公开的：谁都会git clone就知道了。
+
+问题就是git repository很大，我们不会都clone.
+
+但是github有一个API，收集很多信息，包括邮件。
+
+然后，Google用了那个API给他们的https://cloud.google.com/bigquery/...信息。
+
+BigQuery对程序员很容易提取信息，是我用的。
+
+我发表邮件以后，两个东西变化了：
+
+1. Google 把邮件从BigQuery删除
+2. GitHub 更新他们的隐私声明GitHub Privacy Statement
+
+这就是我的木比：保护人们的隐私权
+
+我的README.md更详细地解释。
+____
 
 ===== Who reported me on Zhihu
 
