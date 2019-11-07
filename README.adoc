@@ -1346,8 +1346,8 @@ image::https://web.archive.org/web/20191012074352im_/https://www.rfa.org/english
 ** http://uk.businessinsider.com/what-is-life-like-in-xinjiang-reeducation-camps-china-2018-5
 * 2017-04 https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html
 +
-.Image of prisionners wearing blue sitting down in Xinjiang concentration camp, with some prisionners identified. https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[Source].
-image::https://web.archive.org/web/20191013085311if_/https://i.stack.imgur.com/5Gfie.jpg[height=400]
+.Image of prisionners wearing blue sitting down in Xinjiang concentration camp, with some prisionners identified to indicate that they are not criminals but rather detained purely for political reasons. https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[Source].
+image::https://web.archive.org/web/20191107091847/https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html/uyghur-photo.jpg/@@images/58e9361a-f0e3-4886-a80a-6c9668ee678f.jpeg[height=400]
 
 [[hong-kong]]
 === Hong Kong 香港
