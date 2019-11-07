@@ -11,6 +11,8 @@
 
 Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
+image::https://raw.githubusercontent.com/cirosantilli/media/master/Chrysanthemum_Xi_Jinping_with_liusi_added_by_Ciro_Santilli.jpeg[height=300]
+
 toc::[]
 
 [[faq]]
@@ -1303,12 +1305,12 @@ Some interesting links:
 [[xinjiang]]
 ==== Xinjiang 新疆
 
-In 2017 - 2018, details of internment camps are emerging.
+https://en.wikipedia.org/wiki/Xinjiang_re-education_camps
+
+In 2017 - 2018, details of https://en.wikipedia.org/wiki/Uyghurs[Uyghur] internment camps are emerging.
 
 .<<rebel-pepper,Rebel Pepper>> 2017.4 新疆中国cartoon. TODO source.
 image::https://web.archive.org/web/20191013085312if_/https://i.stack.imgur.com/mQFKa.png[height=400]
-
-It is still hard to get hard evidence, much like every other mass human rights violation, here go the best ones:
 
 * 2019-09-22 Drone footage of Xinjiang prisoner transfer uploaded to YouTube. TODO confirm location and that these are political prisoners rather than "normal criminals".
 ** Upload sources
@@ -1479,7 +1481,7 @@ Where basically idiot == someone who creates posts that obviously aren't teachin
 
 Stack Overflow mentioned at: <<meant-to-be-used>>.
 
-===== Zhihu questions related to Ciro Santilli
+==== Zhihu questions related to Ciro Santilli
 
 Parent section: <<backlinks-to-this-repository>>
 
@@ -1524,6 +1526,36 @@ Ciro then created an anonymous Zhihu account after this event.
 
 https://www.zhihu.com/people/lu-zhen-yu-96-65/activities
 
+[[zhihu-46957710]]
+===== github.com@cirosantilli 是谁维护的，为什么会收集邮箱地址？
+
+https://www.zhihu.com/question/46957710 (http://archive.is/PVOLd[archive before deletion], (http://web.archive.org/web/20191103065828/https://www.zhihu.com/question/46957710[archive after deletion])).
+
+Asked in 2016-09 after Ciro published: https://github.com/cirosantilli/all-github-commit-emails
+
+Deleted after <<zhihu-purge>>. Ciro's answer before deletion:
+
+____
+你用的git config user.email当然是公开的：谁都会git clone就知道了。
+
+问题就是git repository很大，我们不会都clone.
+
+但是github有一个API，收集很多信息，包括邮件。
+
+然后，Google用了那个API给他们的https://cloud.google.com/bigquery/...信息。
+
+BigQuery对程序员很容易提取信息，是我用的。
+
+我发表邮件以后，两个东西变化了：
+
+1. Google 把邮件从BigQuery删除
+2. GitHub 更新他们的隐私声明GitHub Privacy Statement
+
+这就是我的木比：保护人们的隐私权
+
+我的README.md更详细地解释。
+____
+
 ==== Zhihu ban
 
 I was banned from Zhihu on 2018-06-25 for "politically sensitive" content.
@@ -1566,37 +1598,7 @@ Those messages contain links to: https://www.zhihu.com/terms2 | http://archive.i
 
 The ban came soon after I posted a link to my GitHub repo as a comment at: https://techcrunch.com/2018/06/21/ice-employee-list-github-linkedin/ maybe they are related.
 
-[[zhihu-46957710]]
-====== github.com@cirosantilli 是谁维护的，为什么会收集邮箱地址？
-
-https://www.zhihu.com/question/46957710 (http://archive.is/PVOLd[archive before deletion], (http://web.archive.org/web/20191103065828/https://www.zhihu.com/question/46957710[archive after deletion])).
-
-Asked in 2016-09 after Ciro published: https://github.com/cirosantilli/all-github-commit-emails
-
-Deleted after <<zhihu-purge>>. Ciro's answer before deletion:
-
-____
-你用的git config user.email当然是公开的：谁都会git clone就知道了。
-
-问题就是git repository很大，我们不会都clone.
-
-但是github有一个API，收集很多信息，包括邮件。
-
-然后，Google用了那个API给他们的https://cloud.google.com/bigquery/...信息。
-
-BigQuery对程序员很容易提取信息，是我用的。
-
-我发表邮件以后，两个东西变化了：
-
-1. Google 把邮件从BigQuery删除
-2. GitHub 更新他们的隐私声明GitHub Privacy Statement
-
-这就是我的木比：保护人们的隐私权
-
-我的README.md更详细地解释。
-____
-
-===== Who reported me on Zhihu
+===== Who reported Ciro Santilli on Zhihu
 
 At the same time the ban happened I received a public comment from user "Eureka" https://www.zhihu.com/people/crb912/activities | http://archive.is/1F3t6 on this thread: https://www.zhihu.com/question/46957710 | http://archive.is/PVOLd saying:
 
@@ -1634,9 +1636,11 @@ Added my Noodle shop to maps: https://www.google.co.uk/maps/place/Tiananmen+Squa
 +
 Leaches that picked it up: http://kvalster.se/Falu/Uthyres/Lagenheter/Gammelvagen_49_1417351
 
-=== Christianism
+=== Christianity
 
-The commies are not a fan. Or as someone once told me: the commies are not a fan of a bunch of things!
+The commies are not a fan. But as someone once told me: the commies are not a fan of a bunch of things!
+
+As mentioned at https://en.wikipedia.org/wiki/Christianity_in_China there are only a few state approved churches under total CCP control, and the others are forbidden. For example one of them is called the https://en.wikipedia.org/wiki/Chinese_Patriotic_Catholic_Association[Chinese Patriotic Catholic Association]! God and CCP on the same sentence. https://en.wikipedia.org/wiki/Pope_Pius_XII[Pope Pius XII] excommunicated people from that organization who were appointing new Bishops!
 
 * 2018-12 https://www.youtube.com/watch?v=zzWApdCNdik 100 Christians detained in China crackdown
 * 2018-09 Vatican Christian pope makes deal with China
@@ -1653,8 +1657,11 @@ image::https://web.archive.org/web/20191013080937if_/https://image.businessinsid
 * 2016 http://www.nytimes.com/2016/02/27/world/asia/china-zhejiang-christians-pastor-crosses.html pastor 14 years jail
 * 2015 https://www.washingtonpost.com/world/asia_pacific/christians-in-china-feel-full-force-of-authorities-repression/2015/12/23/7dd0ec5a-a736-11e5-b596-113f59ee069a_story.html
 
-.https://www.rfa.org/english/cartoons/china-crackddown-Christianity-cartoon-09072018150421.html[Source].
+.<<rebel-pepper>> Last Supper arrest cartoon. https://www.rfa.org/english/cartoons/china-crackddown-Christianity-cartoon-09072018150421.html[Source].
 image::https://web.archive.org/web/20191012075042im_/https://www.rfa.org/english/cartoons/china-crackddown-Christianity-cartoon-09072018150421.html/180907RFA_thelastsupperinChina_1000.jpg/@@images/ac0553ed-a46d-43f6-98d8-288ce76901af.jpeg[height=400]
+
+.Mao at the Last Supper by https://en.wikipedia.org/wiki/Zhang_Hongtu[Zhang Hongtu]. http://musicandculture.blogspot.com/2010/03/massive-last-supper-parodies-post.html[Source].
+image::http://web.archive.org/web/20191107094724if_/http://4.bp.blogspot.com/_W8pwMnZMNuQ/S5YAJmo1Q1I/AAAAAAAAC_A/YKRCKXUiSAM/s1600/meal.jpg[height=400]
 
 === Falun Gong
 
@@ -1814,7 +1821,7 @@ Of course, like every other religion, reality happens to be is constructed in a 
 
 ===== FLG is a very new religion and therefore fake
 
-The Romans called <<Christianism>> the "Cult of Jesus".
+The Romans called <<christianity>> the "Cult of Jesus".
 
 If I tell a lie today, will it become true in a thousand years? Or a truth today become a lie?
 
@@ -1923,7 +1930,7 @@ Did someone from Falun Gong told the person to do it?
 I bet that if you look into patients of psychiatrists, you will find more suicides than average. So should we ban psychiatry?
 * are you sure that the order came from <<flg-lhz,LHZ>>, and that it was not just some disgruntled local leader using Falun Gong for his personal madness and doing things he did not approve?
 +
-Branch Davidians were inspired by <<Christianism>>. So should we ban Christianity? What about the majority of Christians who have never done anything bad?
+Branch Davidians were inspired by <<christianity>>. So should we ban Christianity? What about the majority of Christians who have never done anything bad?
 * only statistics has any meaning, and it would require a very large number of reports to make up statistics, so you will likely be wasting your time. I will do my part and maintain a list however.
 * if ask for FLG believers to compile a list of horrors they have suffered, which they have already been doing since the start of the persecution, I bet that their list will be much longer than yours, because they are so <<flg-organized,well organized>>
 
@@ -2165,7 +2172,7 @@ This is a point that makes me worry, and I do believe that it is true for some b
 * what matters are statistics. Maybe FLG people live longer than non FLG in average. But we will never have statistics because of censorship: http://skeptics.stackexchange.com/questions/27529/have-many-falun-gong-practitioners-forgone-medical-treatment-and-died-of-treatab
 * maybe people should be link:https://en.wikipedia.org/wiki/Suicide_legislation[allowed to choose how they want to die], not to take medication if they don't want to
 * maybe the number of people killed during persecution vastly outnumbers those who died because they would not take medication
-* several religions, including <<Christianism>> have miraculous cure claims. My impression is that claims were mostly notable in the old times apparently, likely because people noticed that Christians were still dying of all kinds of diseases like everyone else, no matter how devout!
+* several religions, including <<christianity>> have miraculous cure claims. My impression is that claims were mostly notable in the old times apparently, likely because people noticed that Christians were still dying of all kinds of diseases like everyone else, no matter how devout!
 * maybe the main reason why communists banned FLG is the political threat it posed, but that a ban was unjustified given the situation. Christian crosses are being taken down as of 2016, have they stopped taking their medications as well?
 * maybe many of those people would also have died soon even if they had taken medication
 * maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyways. Who can agree and follow all the innumerable prescriptions of any religious or legal system?
