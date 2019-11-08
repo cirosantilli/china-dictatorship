@@ -11,7 +11,7 @@
 
 Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
-image:https://raw.githubusercontent.com/cirosantilli/media/master/Chrysanthemum_Xi_Jinping_with_liusi_added_by_Ciro_Santilli.jpeg[height=300]
+image:https://raw.githubusercontent.com/cirosantilli/media/master/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=300]
 image:https://web.archive.org/web/20191013080128if_/https://i.redd.it/c9q6vdybr7i31.jpg[height=300]
 
 toc::[]
@@ -979,7 +979,7 @@ It is also possible to do it with with images, although this is less effective i
 so maybe the most effective approach is to use both keywords and images to get the best of both worlds ;-)
 
 .<<chrysanthemium-xi-jinping>> has been used by Ciro Santilli as a profile picture censored image attack
-image::https://raw.githubusercontent.com/cirosantilli/media/master/Chrysanthemum_Xi_Jinping_with_liusi_added_by_Ciro_Santilli.jpeg[height=400]
+image::https://raw.githubusercontent.com/cirosantilli/media/master/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
 
 This type of attack is essentially an embargo.
 
@@ -2610,7 +2610,7 @@ Got creator Dai Jianyong (戴建勇) arrested in 2015:
 * https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/
 
 .Chrysanthemum Xi Jinping with https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests[六四] spice added by Ciro Santilli
-image::https://raw.githubusercontent.com/cirosantilli/media/master/Chrysanthemum_Xi_Jinping_with_liusi_added_by_Ciro_Santilli.jpeg[height=400]
+image::https://raw.githubusercontent.com/cirosantilli/media/master/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
 
 [[rebel-pepper]]
 === Rebel Pepper 变态辣椒
