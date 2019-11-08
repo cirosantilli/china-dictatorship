@@ -879,107 +879,6 @@ See: <<famous>>.
 
 Not with my real name attached to it.
 
-==== Do you believe in or practice Falun Gong?
-
-No, I'm agnostic: https://en.wikipedia.org/wiki/Agnosticism
-
-Here are some things that I don't like about Falun Gong for example: <<things-i-personally-dislike-about-flg>>.
-
-I think that FLG exercises and meditation are good for you, just like many other meditative practices such as Yoga, Buddhist meditation, Tai chi, deep Catholic prayer, etc.
-
-However I find the metaphysics and obligations boring like for any other prophetic xref:flg-religion[religion].
-
-The absolute truth is already known by the xref:flg-lhz[prophet], although he does not want to give clear evidence for reasons. Or a Jesus put it:
-
-____
-Then the devil took him to the holy city and had him stand on the highest point of the temple.
-
-"If you are the Son of God," he said, "throw yourself down. For it is written:
-
-“'He will command his angels concerning you,
-
-and they will lift you up in their hands,
-
-so that you will not strike your foot against a stone.'"
-
-Jesus answered him, "It is also written: 'Do not put the Lord your God to the test.'"
-____
-
-Ah good old prophets, their tricks haven't changed a bit in 2 thousand years!
-
-And you just repeat these truth over and over and over:
-
-* FLG is good
-* FLG is good
-* FLG is good
-* xref:flg-religion[Aliens]
-* FLG is good
-* xref:flg-organized[You can support FLG by doing X and Y, why wouldn't you since you are saving other people?]
-* FLG is good
-* FLG is good
-* xref:flg-religion[Alternate dimensions]
-* FLG is good
-* xref:flg-medication[Maybe FLG will make you healthier, but no promises, but it will make you a better person, and that's why you should do it, but if you really really believe, you get healthier]
-* FLG is good
-* FLG is good
-* Non-followers are like this, FLG people are like that. Although non-followers who do good things are actually doing FLG without knowing it. Note: FLG even has a specific terminology for non-believers, which is translated in English as https://falundafa.org/eng/eng/zfl_new_4.html["ordinary-people"]. Like other aspects of FLG however, this appears in other religions, e.g. my mother mentioned the funny term used by her Protestant's group term but I forgot it, and you can see it in Harry Potter as well: https://en.wikipedia.org/wiki/Muggle[The Muggles].
-* FLG is good
-* FLG is good
-* FLG is good
-* xref:flg-religion[Final judgement]
-* FLG is good
-
-I would really like to know if <<flg-lhz,LHZ>> really believes in FLG, or is just a complete manipulating charlatan, but unfortunately we will never know that.
-
-Just imagine if before he died he published a video saying: "it was a joke, gotcha!". Now that would be **epic**!
-
-Since I'm good natured, it's hard for me to believe that he doesn't believe in anything, how can anyone be that evil? Maybe he believes in part of it, but made up some stuff to sell it better, maybe with good intentions that selling the fake part would also lead more people to see the good part?
-
-Like any other prophetic religion, FLG gives tiny evidence that you can directly feel through meditation. The energies, which I believe are real feelings. And then using that entry point asks you to believe a whole lot more, that you can't feel.
-
-This becomes especially strong when a critical mass of believers is reached, and then they start interpreting all sorts of events as miracles, and you start to believe other believers without questioning them, and a circle is formed.
-
-This post by a former believer gives what I feel is a realistic account that matches my observations: https://medium.com/@Ben_D_Hurley/-10677166298b "Me and Li" by Ben Hurley published on October 23, 2017.
-
-In any case, at least FLG got one thing right: the commies <<do-you-think-the-chinese-government-is-evil,evil>>, and we have to get rid of them.
-
-And yet, all those who love freedom, must oppose FLG ban, or be enslaved by tyrants themselves: <<democracy-is-a-religion>>.
-
-See also: <<flg-is-fake>>.
-
-===== How much do you know about Falun Gong's claims?
-
-I haven't read their <<flg-canon,canon>> myself, no patience, but I have constant contact with believers and so have an idea of its content.
-
-[[flg-canon]]
-===== What are the canonical Falun Gong texts?
-
-It appears that Falun Gong cannon is present at: http://falundafa.org/
-
-It contains <<flg-lhz,LHZ>>'s approved texts / speech transcriptions, which are sacred.
-
-The only sacred version is Chinese which is a sacred language, and of which there is only one perfect revision.
-
-I think <<flg-lhz,LHZ>> claims the specifically chose to reincarnate in China this time.
-
-The English translation is made by followers, and gets new revisions to reduce translation imperfection.
-
-However, the Chinese language seems to be fundamentally sacred, and there might never be an sacred English version approved by LHZ.
-
-LHZ is of course a de-facto God with superpowers, and can of course speak all languages, but for reasons he didn't just write an English translation himself.
-
-This is a reasonable command to download the English cannon for grepping:
-
-....
-wget -r -l inf --no-remove-listing --no-clobber --no-parent -w 2 https://en.falundafa.org/falun-dafa-books.html
-....
-
-TODO: need to find a way to wrap lines, otherwise grep might fail on sentences.
-
-Nothing else is canonical. LHZ seems to have said that there are enlightened followers, but has not specified who, so we can't derive canon from anyone else.
-
-Notably, <<flg-organized,FLG media>> such as http://www.minghui.org/ is believer led and thus not canonical, even though believers have very high confidence on it, and LHZ <<flg-organized,directly supports it>>.
-
 === Is your campaign funded or otherwise supported by some organization?
 
 Nope.
@@ -1691,21 +1590,73 @@ image::http://web.archive.org/web/20191108081906im_/http://falunau.org/wp-conten
 .Hundreds of Falun Gong believers in Chengdu, China, 1998. https://faluninfo.net/falun-gong-the-practice/[Source].
 image::https://web.archive.org/save/_embed/https://faluninfo.net/wp-content/uploads/2012/06/chengdu.jpg[]
 
-==== Do you support FLG, or just use it because it is a censored?
+==== Do you believe in or practice Falun Gong?
 
-I don't support FLG specifically, only freedom of religion.
+No, I'm agnostic: https://en.wikipedia.org/wiki/Agnosticism
 
-I use it in my usernames simply because it is the most banned and censored one in China today.
+Here are some things that I don't like about Falun Gong for example: <<things-i-personally-dislike-about-flg>>.
 
-I believe that individuals should only be put in jail for what they do, not for what they believe.
+I think that FLG exercises and meditation are good for you, just like many other meditative practices such as Yoga, Buddhist meditation, Tai chi, deep Catholic prayer, etc.
 
-I consider FLG <<flg-religion,a religion like any other>>, and I am against its ban, as I am for all other religions.
+However I find the metaphysics and obligations boring like for any other prophetic xref:flg-religion[religion].
 
-Also I believe that freedom of speech and democracy imply that FLG and other religions will exist. If you want freedom, you have to <<most-chinese-people-dont-care-about-the-minorities,accept other people's choices>>.
+The absolute truth is already known by the xref:flg-lhz[prophet], although he does not want to give clear evidence for reasons. Or a Jesus put it:
 
-Otherwise, <<democracy-is-a-religion,democracy and communism can also be considered as religions>>, and banned.
+____
+Then the devil took him to the holy city and had him stand on the highest point of the temple.
 
-See also: <<flg-verifiable>>.
+"If you are the Son of God," he said, "throw yourself down. For it is written:
+
+“'He will command his angels concerning you,
+
+and they will lift you up in their hands,
+
+so that you will not strike your foot against a stone.'"
+
+Jesus answered him, "It is also written: 'Do not put the Lord your God to the test.'"
+____
+
+Ah good old prophets, their tricks haven't changed a bit in 2 thousand years!
+
+And you just repeat these truth over and over and over:
+
+* FLG is good
+* FLG is good
+* FLG is good
+* xref:flg-religion[Aliens]
+* FLG is good
+* xref:flg-organized[You can support FLG by doing X and Y, why wouldn't you since you are saving other people?]
+* FLG is good
+* FLG is good
+* xref:flg-religion[Alternate dimensions]
+* FLG is good
+* xref:flg-medication[Maybe FLG will make you healthier, but no promises, but it will make you a better person, and that's why you should do it, but if you really really believe, you get healthier]
+* FLG is good
+* FLG is good
+* Non-followers are like this, FLG people are like that. Although non-followers who do good things are actually doing FLG without knowing it. Note: FLG even has a specific terminology for non-believers, which is translated in English as https://falundafa.org/eng/eng/zfl_new_4.html["ordinary-people"]. Like other aspects of FLG however, this appears in other religions, e.g. my mother mentioned the funny term used by her Protestant's group term but I forgot it, and you can see it in Harry Potter as well: https://en.wikipedia.org/wiki/Muggle[The Muggles].
+* FLG is good
+* FLG is good
+* FLG is good
+* xref:flg-religion[Final judgement]
+* FLG is good
+
+I would really like to know if <<flg-lhz,LHZ>> really believes in FLG, or is just a complete manipulating charlatan, but unfortunately we will never know that.
+
+Just imagine if before he died he published a video saying: "it was a joke, gotcha!". Now that would be **epic**!
+
+Since I'm good natured, it's hard for me to believe that he doesn't believe in anything, how can anyone be that evil? Maybe he believes in part of it, but made up some stuff to sell it better, maybe with good intentions that selling the fake part would also lead more people to see the good part?
+
+Like any other prophetic religion, FLG gives tiny evidence that you can directly feel through meditation. The energies, which I believe are real feelings. And then using that entry point asks you to believe a whole lot more, that you can't feel.
+
+This becomes especially strong when a critical mass of believers is reached, and then they start interpreting all sorts of events as miracles, and you start to believe other believers without questioning them, and a circle is formed.
+
+This post by a former believer gives what I feel is a realistic account that matches my observations: https://medium.com/@Ben_D_Hurley/-10677166298b "Me and Li" by Ben Hurley published on October 23, 2017.
+
+In any case, at least FLG got one thing right: the commies <<do-you-think-the-chinese-government-is-evil,evil>>, and we have to get rid of them.
+
+And yet, all those who love freedom, must oppose FLG ban, or be enslaved by tyrants themselves: <<democracy-is-a-religion>>.
+
+See also: <<flg-is-fake>>.
 
 [[flg-bias]]
 ==== Do you support FLG just because your wife and mother-in-law do it?
@@ -1722,8 +1673,57 @@ With that in mind, I try my best to give FLG only the right level of exposure I 
 
 If more recent events of mass human rights violation happen, especially affecting in the order of tens of million people, I will probably rank higher than Falun Gong, this was the case for <<xinjiang,Xinjiang in 2019>> for example, even though it only affected a measly million.
 
+==== How much do you know about Falun Gong's claims?
+
+I haven't read their <<flg-canon,canon>> myself, no patience, but I have constant contact with believers and so have an idea of its content.
+
+[[flg-canon]]
+==== What are the canonical Falun Gong texts?
+
+It appears that Falun Gong cannon is present at: http://falundafa.org/
+
+It contains <<flg-lhz,LHZ>>'s approved texts / speech transcriptions, which are sacred.
+
+The only sacred version is Chinese which is a sacred language, and of which there is only one perfect revision.
+
+I think <<flg-lhz,LHZ>> claims the specifically chose to reincarnate in China this time.
+
+The English translation is made by followers, and gets new revisions to reduce translation imperfection.
+
+However, the Chinese language seems to be fundamentally sacred, and there might never be an sacred English version approved by LHZ.
+
+LHZ is of course a de-facto God with superpowers, and can of course speak all languages, but for reasons he didn't just write an English translation himself.
+
+This is a reasonable command to download the English cannon for grepping:
+
+....
+wget -r -l inf --no-remove-listing --no-clobber --no-parent -w 2 https://en.falundafa.org/falun-dafa-books.html
+....
+
+TODO: need to find a way to wrap lines, otherwise grep might fail on sentences.
+
+Nothing else is canonical. LHZ seems to have said that there are enlightened followers, but has not specified who, so we can't derive canon from anyone else.
+
+Notably, <<flg-organized,FLG media>> such as http://www.minghui.org/ is believer led and thus not canonical, even though believers have very high confidence on it, and LHZ <<flg-organized,directly supports it>>.
+
+==== Do you support FLG, or just use it because it is a censored?
+
+I don't support FLG specifically, only freedom of religion.
+
+I use it in my usernames simply because it is the most banned and censored one in China today.
+
+I believe that individuals should only be put in jail for what they do, not for what they believe.
+
+I consider FLG <<flg-religion,a religion like any other>>, and I am against its ban, as I am for all other religions.
+
+Also I believe that freedom of speech and democracy imply that FLG and other religions will exist. If you want freedom, you have to <<most-chinese-people-dont-care-about-the-minorities,accept other people's choices>>.
+
+Otherwise, <<democracy-is-a-religion,democracy and communism can also be considered as religions>>, and banned.
+
+See also: <<flg-verifiable>>.
+
 [[flg-daily]]
-===== How is it like to live with Falun Gong believers?
+==== How is it like to live with Falun Gong believers?
 
 This will obviously vary from believer to believer, but here my experience.
 
