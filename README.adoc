@@ -983,6 +983,8 @@ image::https://raw.githubusercontent.com/cirosantilli/media/master/Chrysanthemum
 
 This type of attack is essentially an embargo.
 
+See also: <<photobombing-like-attacks>>.
+
 ==== Do Stack Overflow policies allow for keyword attacks?
 
 The current consensus is yes:
@@ -1260,14 +1262,36 @@ News source: https://www.reddit.com/r/HongKong/ Became larger than `r/china` dur
 
 * https://en.wikipedia.org/wiki/2019_Hong_Kong_anti-extradition_bill_protests
 * https://www.youtube.com/watch?v=dEvalUQuClE "Last Hong Kong governor Chris Patten: Gov't defence of extradition bill 'absolute nonsense'", Hong Kong Free Press
-** 2019-10 Daryl Morey, NBA's Houston Rockets manager sent tweet supporting the Hong Kong protests. But then he was a coward, removed this tweet, and apologized: https://twitter.com/dmorey/status/1181000808399114240 (http://archive.is/6Sdpn[archive]). NBA is huge in China.
-*** https://www.bbc.co.uk/news/business-49956385
-*** https://edition.cnn.com/2019/10/07/business/houston-rockets-nba-china-daryl-morey/index.html
 ** 2019-10 https://twitter.com/Slasher/status/1181442535962632193 Blizzard bans top Hearthstone esports player blitzchung for pro Hong Kong message in interview
+
+===== Daryl Morey Tweet
+
+2019-10 Daryl Morey, NBA's Houston Rockets manager sent tweet supporting the Hong Kong protests.
+
+But then he was a coward, removed this tweet, and apologized: https://twitter.com/dmorey/status/1181000808399114240 (http://archive.is/6Sdpn[archive]).
+
+NBA is huge in China.
+
+* 2019-10-07 Lakers vs. Heat NBA Tencent LIve Stream cancelled due to fan wearing Taiwan flag
++
+.Fan wearing Taiwan flag in 2019-10-07 Lakers vs. Heat showing fan and text (TODO from Tencent?) saying that the match will be cancelled. https://www.reddit.com/r/China/comments/dtrx4b/tencent_nba_live_broadcast_got_cancelled_because[Source].
+image::https://web.archive.org/web/20191109172810/https://i.redd.it/y8y7esngllx31.jpg[]
+** https://www.bbc.co.uk/news/business-49956385
+** https://edition.cnn.com/2019/10/07/business/houston-rockets-nba-china-daryl-morey/index.html
+
+https://web.archive.org/web/20191109172810/https://i.redd.it/y8y7esngllx31.jpg
+
+Led to: <<sport-event-live-broadcast-image-attacks>>.
 
 === What should all pro-democracy people do about China?
 
-==== Appropriation attack
+==== Photobombing-like attacks
+
+https://en.wikipedia.org/wiki/Photobombing
+
+See also: <<keyword-attack>>.
+
+===== Appropriation attack
 
 An appropriation attack is one where the attackers attempt to associate an existing symbol to their cause.
 
@@ -1275,6 +1299,15 @@ For example, during the <<2019-hong-kong-anti-extradition-bill-protests>> attack
 
 .https://twitter.com/marnofavonlea/status/1182557311539150849[Source].
 image::https://web.archive.org/web/20191013075823if_/https://pbs.twimg.com/media/EGlJmSEUYAE7F7G?format=jpg&name=900x900[height=400]
+
+===== Sport event live broadcast image attacks
+
+NBA in particular is super popular in China, and people sitting at the front row can easily bomb emissions due to the small court size:
+
+* China’s Tencent halts NBA live broadcast over Taiwanese flag
+* https://www.taiwannews.com.tw/en/news/3813842
+
+Started in particular due to the <<daryl-morey-tweet>>
 
 === What should Western countries do about China?
 
