@@ -2753,7 +2753,7 @@ https://en.wikipedia.org/wiki/Social_Credit_System
 * https://www.youtube.com/watch?v=0cGB8dCDf3c "A Look Inside China’s Social Credit System | NBC News Now" by "NBC News" published on 2019-06-04
 
 [[belt-and-road-initiative]]
-== Belt and Road Initiative 一带一路
+=== Belt and Road Initiative 一带一路
 
 https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 
@@ -3378,6 +3378,12 @@ Not worth it:
 * Chez Chili
 +
 1050B rue Clark
+
+== Other interesting GitHub information repositories
+
+* taibangle 太棒了
+** https://github.com/taibangle/awesome-china
+** https://github.com/taibangle/lennon-wall
 
 == Git mirrors of this repository
 
