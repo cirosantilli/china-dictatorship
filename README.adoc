@@ -20,7 +20,7 @@ toc::[]
 == FAQ 常见问答集
 
 [[why-keyword-attack]]
-=== Why are you attacking websites with censored keywords?
+=== Why attack websites with censored keywords?
 
 <<keyword-attack, The attack>>.
 
@@ -46,6 +46,25 @@ The goal is to put them in a position where they have to choose between either:
 but not both, since having both means that they will <<war,start WW3 and destroy humanity>>
 
 Related attack: <<photobombing-like-attacks>>.
+
+[[harm-programmers]]
+==== Do you want to harm the Chinese programmers?
+
+No.
+
+This is not a revenge of any kind.
+
+I know I am harming you on the short term, and I don't like myself for it.
+
+But I believe that this harm is a necessary means to reach my real goal, which is to destroy the firewall, and the dictatorship.
+
+Don't you think it is worth a try? Destroying the firewall, would <<why-end-dictatorship,enormously benefit>> not only Chinese programmers, but every single other Chinese person too.
+
+Once the firewall is destroyed, which <<dictator-needs-gfw,may destroy the dictatorship>>, I want China to develop the best science and technology in the world, and <<would-you-like-to-live-in-china>>.
+
+And by the way, by contributing to open source, I am already helping China, and all underdeveloped countries become stronger.
+
+See also: <<disturbs>>.
 
 [[meant-to-be-used]]
 === Politics should not be posted in technical websites such as GitHub or Stack Overflow
@@ -76,32 +95,14 @@ Duplicate pool:
 * https://github.com/cirosantilli/china-dictatorship/issues/75
 * https://github.com/cirosantilli/china-dictatorship/issues/78
 
-[[harm-programmers]]
-==== Do you want to harm the Chinese programmers?
-
-No.
-
-This is not a revenge of any kind.
-
-I know I am harming you on the short term, and I don't like myself for it.
-
-But I believe that this harm is a necessary means to reach my real goal, which is to destroy the firewall, and the dictatorship.
-
-Don't you think it is worth a try? Destroying the firewall, would <<why-end-dictatorship,enormously benefit>> not only Chinese programmers, but every single other Chinese person too.
-
-Once the firewall is destroyed, which <<dictator-needs-gfw,may destroy the dictatorship>>, I want China to develop the best science and technology in the world, and <<would-you-like-to-live-in-china>>.
-
-And by the way, by contributing to open source, I am already helping China, and all underdeveloped countries become stronger.
-
-See also: <<your-profile-disturbs-me>>.
-
 [[why-end-dictatorship]]
-=== Why do you want to end the dictatorship?
+=== Why would China be better without its Dictatorship?
 
-Because I think that this would make China, and the world:
+Because it would make China, and the world:
 
 * <<richer,richer>>
 * less likely to get into <<war,WW3>>
+* <<intolerance,safer for its own citizens>>
 
 [[richer]]
 ==== Why would democracy and freedom of speech make China richer?
@@ -245,7 +246,8 @@ Trump's link:https://www.theguardian.com/commentisfree/2019/jun/02/trump-banning
 
 It is a risk, but it would make China drastically <<richer,less powerful>>, so at least they wouldn't be able to start or sustain <<war,WW3>>. So I don't think it will go that way.
 
-==== What you are doing will never have any effect
+[[effect]]
+==== Keyword attacks on programming websites will never have any effect
 
 That is true with high probability, just like any other individual which tries to influence 1B people.
 
@@ -302,7 +304,7 @@ To check China only takedowns such as this, we cannot use Great Fire Analyzer, w
 
 Not 100% sure.
 
-In <<Russia>> for example, the Internet is relatively free, but the government controls most professional media, which is what most people end up seeing, by suing dissidents media out of business.
+In <<russia>> for example, the Internet is relatively free, but the government controls most professional media, which is what most people end up seeing, by suing dissidents media out of business.
 
 But on the other hand Russia is already much freer than China.
 
@@ -318,6 +320,7 @@ I don't like it, but I think it is worth it.
 
 If you just work to make money and have a good life, without any plans to improve the government, you are just making the economy of the dictatorship stronger, then when they start a <<war,war>> or kill yet another minority, blood will also be on your hands. See also: <<what-should-Westernf-ountries-do about China
 
+[[intolerance]]
 ==== Most Chinese people don't care about the minorities
 
 How can you be that certain that your children won't have dissident ideas and be punished unfairly for them?
@@ -369,15 +372,17 @@ I just think that website is great, and want to push it to perfection, in partic
 
 If you think that any of my edits were harmful, please ping me and open a meta thread to discuss specific edits, and I will comply with consensus.
 
-==== Your profile disturbs me
+[[disturbs]]
+==== Keyword attack profiles disturbs me
 
-I know, but isn't it better to be annoyed than having <<war,war>>, <<richer,being poor>> or <<xinjiang,put into jail unfairly>>?
+B isn't it better to be annoyed than having <<war,war>>, <<richer,being poor>> or <<xinjiang,put into jail unfairly>>?
 
-If the truth is too much for you to bear, worry not, I have you covered with this cool browser extension to clean up Stack Overflow: https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8 Installing it immediately gives you <<social-credit-system,10 Sesame Points>>.
+If the truth is too much for you to bear, worry not, you can use this cool browser extension to clean up Stack Overflow: https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8 Installing it immediately gives you <<social-credit-system,10 Sesame Points>>.
 
 See also: <<harm-programmers>>.
 
-=== You are not Chinese, you can't interfere in Chinese politics
+[[not-chinese]]
+=== Non-Chinese people cannot interfere in Chinese politics
 
 . We live in the same world.
 +
@@ -408,8 +413,8 @@ Duplicate pool:
 * https://github.com/cirosantilli/china-dictatorship/issues/1
 * https://github.com/cirosantilli/china-dictatorship/issues/66 (https://web.archive.org/web/20190911212149/https://github.com/cirosantilli/china-dictatorship/issues/66[archive])
 
-[[not-chinese]]
-==== You are not Chinese, you have been brainwashed by the USA know nothing about China
+[[brainwashed-by-usa]]
+==== Non-Chinese people have been brainwashed by the USA know nothing about China
 
 Everyone is "brainwashed" by their environment.
 
@@ -421,87 +426,7 @@ So, instead of saying that, why don't you just actually prove your point by teac
 
 But please, link to reference material instead of just saying it, it will be much more convincing.
 
-===== Can I contact you in Chinese?
-
-If you don't know English well enough, that's fine though, go for Chinese.
-
-Obviously, in that case, use simple and standard Chinese. Avoid slangs, otherwise I might not have patience to Google your useless slangs down <<zhihu-ban,Zhihu>> questions. Of course, if I have to tell you this, you likely are not going to say anything useful in the first place, so not reading your post is likely fine. I think using slangs makes some people feel smart due their advanced knowledge of a specific subculture, or makes them feel part of that subculture to gather allies, or they just want to waste my time.
-
-But if you do, use English.
-
-I am not going to learn Chinese because of your message.
-
-It is more productive for you to write in English, so that the rest of the West can also learn something new.
-
-Especially since it seems that most Chinese already know what you are talking about.
-
-See also: <<do-you-speak-chinese>>.
-
-[[preconceived]]
-===== You have a preconceived opinion about China that cannot be changed
-
-I try to justify here why I think China would be better with democracy, but I know that ultimately all of this is useless.
-
-Our opinions are all determined genetically and by bring-up, and there is nothing I can do to change yours, or you change mine.
-
-From that point of view, all of this is just a cold blooded political game, in which I try to force the CCP to take down the Firewall: <<why-keyword-attack>>.
-
-Unfortunately I'm still still human and do get annoyed or sad sometimes, but never mad, even if your opinion is contrary to mine, and therefore wrong :-) The <<what-is-your-reply-strategy,reply strategy>> helps me reduce such frustrations tremendously however.
-
-I also have doubts about certain things I do as expressed throughout this FAQ.
-
-Also, I have never said that that anyone else is wrong.
-
-In the end, I just end up thinking about new replies to things people say to me, and add them to this FAQ so that future replies will be faster to copy paste. See also: <<better-to-do>>.
-
-The real goal of this FAQ it not to convince people, but rather to determine who is an ally and who is not, and get those allies together to defeat the commies.
-
-==== Have you ever lived in China?
-
-No, only visited once.
-
-And I don't think it is a good idea for me to do that now :-)
-
-But I know that if you don't mind contributing to making <<war,WW3>> deadlier and shut up and obey the CCP, China is already a fine place to live as much as any other developing country.
-
-===== Would you like to live in China?
-
-If the dictatorship ends, I would like to <<do-you-hate-china,migrate to China>> if given a decent job to help you develop and become awesomer.
-
-==== Are you Chinese?
-
-See: https://cirosantilli.com/#ciro-santilli
-
-But <<why-do-you-love-china-so-much,my wife is>>.
-
-==== Do you speak Chinese?
-
-As of 2019, oral enough for daily things, but not understand most natural casual dinner conversation or watch TV series, because they go too quickly into vocabulary subject areas that I don't know.
-
-When it matters, and with some patience, I can make myself understood though with https://xkcd.com/thing-explainer/[some analogies] (https://web.archive.org/web/20190908144612/https://xkcd.com/thing-explainer/[archive]) and a dictionary.
-
-From the HSK vocabulary list, I estimate definitely HSK 3, but not quite HSK 4. This would likely equate A2 / B1 in the https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages[European system].
-
-Phonetics wise, I can't distinguish or produce a few sounds, notably `-ing` vs `-in` and my off-tone rate is high, but it tends to not matter at all compared to the lack of vocabulary.
-
-I read with link:http://www.perapera.org/[Perapera], write with a mixture of link:https://www.pleco.com/[Pleco], Google translate and Googling to see if Chinese actually say the sentences that way.
-
-I haven't tried to learn characters, too much effort, but I learnt the most common ones without trying.
-
-I really wish I could learn more, but I have other more important endeavours at the moment :-(
-
-I had learnt from book that come with audio recordings in the first 6-months to 1 year in 2010, but that got impossibly boring afterwards, so for now I'm just basically talking as much as possible non-important things to <<why-do-you-love-china-so-much,my wife in Chinese>>, and whenever I reach one that I don't know that seems useful, I Pleco it up or just 怎么说 and then Pleco.
-
-Spoken Chinese is in my opinion a relatively easy language to learn from scratch, because word formation is so often logical:, e.g.:
-
-* volcano = fire + mountain: 火山(huo shan)
-* train = fire + car: 火车 (huo che), a reference to old https://en.wikipedia.org/wiki/Steam_locomotive[steam locomotives]
-
-and there is no useless crap like verb conjugation, https://en.wikipedia.org/wiki/Grammatical_gender[Grammatical gender], plural variants, capitalization, etc.
-
-I love this language.
-
-Please just get rid of the Chinese characters and move to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export. Characters are beautiful, but just take too much time for any sane adult to learn, it's harder than C++!
+See also: <<western-democracies-are-not-perfect>>.
 
 [[bias]]
 === This repository is completely biased against the Chinese Government!
@@ -696,7 +621,89 @@ While I'm at it, some interesting news:
 * 2014 link:https://en.wikipedia.org/wiki/Putin_khuylo![]
 * 1995 https://en.wikipedia.org/wiki/Vladislav_Listyev
 
-=== Irrelevant personal questions
+=== Personal questions about Ciro Santilli
+
+==== Can I contact you in Chinese?
+
+If you don't know English well enough, that's fine though, go for Chinese.
+
+Obviously, in that case, use simple and standard Chinese. Avoid slangs, otherwise I might not have patience to Google your useless slangs down <<zhihu-ban,Zhihu>> questions. Of course, if I have to tell you this, you likely are not going to say anything useful in the first place, so not reading your post is likely fine. I think using slangs makes some people feel smart due their advanced knowledge of a specific subculture, or makes them feel part of that subculture to gather allies, or they just want to waste my time.
+
+But if you do, use English.
+
+I am not going to learn Chinese because of your message.
+
+It is more productive for you to write in English, so that the rest of the West can also learn something new.
+
+Especially since it seems that most Chinese already know what you are talking about.
+
+See also: <<do-you-speak-chinese>>.
+
+[[preconceived]]
+==== You have a preconceived opinion about China that cannot be changed
+
+I try to justify here why I think China would be better with democracy, but I know that ultimately all of this is useless.
+
+Our opinions are all determined genetically and by bring-up, and there is nothing I can do to change yours, or you change mine.
+
+From that point of view, all of this is just a cold blooded political game, in which I try to force the CCP to take down the Firewall: <<why-keyword-attack>>.
+
+Unfortunately I'm still still human and do get annoyed or sad sometimes, but never mad, even if your opinion is contrary to mine, and therefore wrong :-) The <<what-is-your-reply-strategy,reply strategy>> helps me reduce such frustrations tremendously however.
+
+I also have doubts about certain things I do as expressed throughout this FAQ.
+
+Also, I have never said that that anyone else is wrong.
+
+In the end, I just end up thinking about new replies to things people say to me, and add them to this FAQ so that future replies will be faster to copy paste. See also: <<better-to-do>>.
+
+The real goal of this FAQ it not to convince people, but rather to determine who is an ally and who is not, and get those allies together to defeat the commies.
+
+==== Have you ever lived in China?
+
+No, only visited once.
+
+And I don't think it is a good idea for me to do that now :-)
+
+But I know that if you don't mind contributing to making <<war,WW3>> deadlier and shut up and obey the CCP, China is already a fine place to live as much as any other developing country.
+
+===== Would you like to live in China?
+
+If the dictatorship ends, I would like to <<do-you-hate-china,migrate to China>> if given a decent job to help you develop and become awesomer.
+
+==== Are you Chinese?
+
+See: https://cirosantilli.com/#ciro-santilli
+
+But <<why-do-you-love-china-so-much,my wife is>>.
+
+==== Do you speak Chinese?
+
+As of 2019, oral enough for daily things, but not understand most natural casual dinner conversation or watch TV series, because they go too quickly into vocabulary subject areas that I don't know.
+
+When it matters, and with some patience, I can make myself understood though with https://xkcd.com/thing-explainer/[some analogies] (https://web.archive.org/web/20190908144612/https://xkcd.com/thing-explainer/[archive]) and a dictionary.
+
+From the HSK vocabulary list, I estimate definitely HSK 3, but not quite HSK 4. This would likely equate A2 / B1 in the https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages[European system].
+
+Phonetics wise, I can't distinguish or produce a few sounds, notably `-ing` vs `-in` and my off-tone rate is high, but it tends to not matter at all compared to the lack of vocabulary.
+
+I read with link:http://www.perapera.org/[Perapera], write with a mixture of link:https://www.pleco.com/[Pleco], Google translate and Googling to see if Chinese actually say the sentences that way.
+
+I haven't tried to learn characters, too much effort, but I learnt the most common ones without trying.
+
+I really wish I could learn more, but I have other more important endeavours at the moment :-(
+
+I had learnt from book that come with audio recordings in the first 6-months to 1 year in 2010, but that got impossibly boring afterwards, so for now I'm just basically talking as much as possible non-important things to <<why-do-you-love-china-so-much,my wife in Chinese>>, and whenever I reach one that I don't know that seems useful, I Pleco it up or just 怎么说 and then Pleco.
+
+Spoken Chinese is in my opinion a relatively easy language to learn from scratch, because word formation is so often logical:, e.g.:
+
+* volcano = fire + mountain: 火山(huo shan)
+* train = fire + car: 火车 (huo che), a reference to old https://en.wikipedia.org/wiki/Steam_locomotive[steam locomotives]
+
+and there is no useless crap like verb conjugation, https://en.wikipedia.org/wiki/Grammatical_gender[Grammatical gender], plural variants, capitalization, etc.
+
+I love this language.
+
+Please just get rid of the Chinese characters and move to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export. Characters are beautiful, but just take too much time for any sane adult to learn, it's harder than C++!
 
 ==== Why did you start the keyword attack?
 
@@ -775,7 +782,7 @@ Do you consider me a radical because it is unthinkable that China is not perfect
 
 Or just because I'm trying to <<keyword-attack,take down,>> some more websites that your dictatorship still does not dislike enough to block: <<china-is-fine-as-it-is-stop-making-it-worse>>?
 
-Don't you think that it is much more radical to <<most-chinese-people-dont-care-about-the-minorities,be put in jail for your beliefs>> and <<censorship,silenced if you disagree with anything the government says>>?
+Don't you think that it is much more radical to <<intolerance,be put in jail for your beliefs>> and <<censorship,silenced if you disagree with anything the government says>>?
 
 Why am I a radical when I speak my point of view, while you are not when you speak yours?
 
@@ -886,7 +893,7 @@ See: <<famous>>.
 
 Not with my real name attached to it， see also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>
 
-=== Is your campaign funded or otherwise supported by some organization?
+==== Is your campaign funded or otherwise supported by some organization?
 
 Nope.
 
@@ -900,7 +907,7 @@ What about you, are you funded by the CCP?
 
 See also: https://github.com/cirosantilli/china-dictatorship/blob/48a95bf57a16b85619a6ae68702d18c9a5078797/FAQ.md#flg-has-been-funded-by-the-us-government-at-least-once-therefore-it-is-evil
 
-==== Does your employer support this?
+===== Does your employer support this?
 
 My employer has nothing to do with this.
 
@@ -1142,8 +1149,7 @@ It might be a newbie text editors for newbie Windows users, but at least they us
 
 The creator appears to be a Vietnamese immigrant or descendant living in France. There are many such immigrants due to Vietnam being an ex-colony: https://github.com/donho Also he must have good reason to dislike the commies due to similar commit bullshit in Vietnam. He was at https://en.wikipedia.org/wiki/Paris_Diderot_University[Paris Diderot] in 2000: https://donho.github.io/#education (https://web.archive.org/web/20190424004100/https://donho.github.io/#education[archive]).
 
-[[separatism]]
-=== What do you think about separatism?
+=== Separatism
 
 If a large number of people in a given region want to leave an country strongly or have greater autonomy, I believe that they should be allowed to do so.
 
@@ -1261,17 +1267,17 @@ image::https://web.archive.org/web/20191012074352im_/https://www.rfa.org/english
 image::https://web.archive.org/web/20191107091847/https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html/uyghur-photo.jpg/@@images/58e9361a-f0e3-4886-a80a-6c9668ee678f.jpeg[height=400]
 
 [[hong-kong]]
-=== Hong Kong 香港
+==== Hong Kong 香港
 
 News source: https://www.reddit.com/r/HongKong/ Became larger than `r/china` during the <<2019-hong-kong-anti-extradition-bill-protests>>.
 
-==== 2019 Hong Kong anti-extradition bill protests
+===== 2019 Hong Kong anti-extradition bill protests
 
 * https://en.wikipedia.org/wiki/2019_Hong_Kong_anti-extradition_bill_protests
 * https://www.youtube.com/watch?v=dEvalUQuClE "Last Hong Kong governor Chris Patten: Gov't defence of extradition bill 'absolute nonsense'", Hong Kong Free Press
 ** 2019-10 https://twitter.com/Slasher/status/1181442535962632193 Blizzard bans top Hearthstone esports player blitzchung for pro Hong Kong message in interview
 
-===== Daryl Morey Tweet
+====== Daryl Morey Tweet
 
 2019-10 Daryl Morey, NBA's Houston Rockets manager sent tweet supporting the Hong Kong protests.
 
@@ -1758,7 +1764,7 @@ I believe that individuals should only be put in jail for what they do, not for 
 
 I consider FLG <<flg-religion,a religion like any other>>, and I am against its ban, as I am for all other religions.
 
-Also I believe that freedom of speech and democracy imply that FLG and other religions will exist. If you want freedom, you have to <<most-chinese-people-dont-care-about-the-minorities,accept other people's choices>>.
+Also I believe that freedom of speech and democracy imply that FLG and other religions will exist. If you want freedom, you have to <<intolerance,accept other people's choices>>.
 
 Otherwise, <<democracy-is-a-religion,democracy and communism can also be considered as religions>>, and banned.
 
