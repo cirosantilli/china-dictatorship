@@ -45,7 +45,36 @@ The goal is to put them in a position where they have to choose between either:
 
 but not both, since having both means that they will <<war,start WW3 and destroy humanity>>
 
-Related attack: <<appropriation-attack>>.
+Related attack: <<photobombing-like-attacks>>.
+
+[[meant-to-be-used]]
+=== Politics should not be posted in technical websites such as GitHub or Stack Overflow
+
+Is the Chinese government using the Internet the way it was meant to be used, by investing billions in <<censorship>>?
+
+What about <<nine-nine-six-icu>>? Did you also complain about it, or did you just star it like 250k of your fellow programmers?
+
+Any act of protest will use things in ways that it was not meant to be used.
+
+For example, the street is not meant to showcase protest banners, it is meant to be a passageway for cars.
+
+As engineers, we have a moral responsibility towards society. We should not blindly follow orders of those in power if it violates our principles, e.g. build weapons or censorship mechanisms. And we should freely express our principles and violation concerns.
+
+Making a statement where no one will ever see it, like a personal website, is <<effective,sure to have no effect>>.
+
+Much of the best art and technology is about using something in a way that it wasn't meant to be used.
+
+Finally, the political powers of each website decide what is allowed or not on their website, and what is not allowed gets blocked. So far, Stack Overflow and GitHub's ToS have said go ahead.
+
+Stack Overflow threads: <<do-stack-overflow-policies-allow-for-keyword-attacks>>.
+
+Duplicate pool:
+
+* https://github.com/caffeine-overload/bandinchina/issues/89
+* https://github.com/cirosantilli/china-dictatorship/issues/57
+* https://github.com/cirosantilli/china-dictatorship/issues/66#issuecomment-528165637 (https://web.archive.org/web/20190911212149/https://github.com/cirosantilli/china-dictatorship/issues/66[archive])
+* https://github.com/cirosantilli/china-dictatorship/issues/75
+* https://github.com/cirosantilli/china-dictatorship/issues/78
 
 [[harm-programmers]]
 ==== Do you want to harm the Chinese programmers?
@@ -315,34 +344,6 @@ How can society improve, if we are never allowed to try new things out?
 Change does not require violence. Violence happens because the government punishes any dissidence, even if pacific, to retain its own power.
 
 In democracies, radical policy changes happen without dropping a single drop of blood. People vote, and policies change, end of story.
-
-[[meant-to-be-used]]
-=== You are using technical websites in a way that they were not meant to be used, so what you are doing is in principle wrong
-
-Is the Chinese government using the Internet the way it was meant to be used, by investing billions in <<censorship>>?
-
-What about <<nine-nine-six-icu>>? Did you also complain about it, or did you just star it like 250k of your fellow programmers?
-
-Any act of protest will use things in ways that it was not meant to be used.
-
-For example, the street is not meant to showcase protest banners, it is meant to be a passageway for cars.
-
-As engineers, we have a moral responsibility towards society. We should not blindly follow orders of those in power if it violates our principles, e.g. build weapons or censorship mechanisms. And we should freely express our principles and violation concerns.
-
-Making a statement where no one will ever see it, like a personal website, is <<effective,sure to have no effect>>.
-
-Much of the best art and technology is about using something in a way that it wasn't meant to be used.
-
-Finally, the political powers of each website decide what is allowed or not on their website, and what is not allowed gets blocked. So far, Stack Overflow and GitHub's ToS have said go ahead.
-
-Stack Overflow threads: <<do-stack-overflow-policies-allow-for-keyword-attacks>>.
-
-Duplicate pool:
-
-* https://github.com/cirosantilli/china-dictatorship/issues/66#issuecomment-528165637 (https://web.archive.org/web/20190911212149/https://github.com/cirosantilli/china-dictatorship/issues/66[archive])
-* https://github.com/cirosantilli/china-dictatorship/issues/57
-* https://github.com/cirosantilli/china-dictatorship/issues/75
-* https://github.com/caffeine-overload/bandinchina/issues/89
 
 ==== Are you making programming contributions with the main intent of promoting your political agenda?
 
