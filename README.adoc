@@ -648,7 +648,7 @@ Our opinions are all determined genetically and by bring-up, and there is nothin
 
 From that point of view, all of this is just a cold blooded political game, in which I try to force the CCP to take down the Firewall: <<why-keyword-attack>>.
 
-Unfortunately I'm still still human and do get annoyed or sad sometimes, but never mad, even if your opinion is contrary to mine, and therefore wrong :-) The <<what-is-your-reply-strategy,reply strategy>> helps me reduce such frustrations tremendously however.
+Unfortunately I'm still still human and do get annoyed or sad sometimes, but never mad, even if your opinion is contrary to mine, and therefore wrong :-) The <<ciro-santillis-reply-strategy,reply strategy>> helps reduce such frustrations tremendously however.
 
 I also have doubts about certain things I do as expressed throughout this FAQ.
 
@@ -1381,23 +1381,23 @@ Once that is taken care of, a few good options are:
 
 And regardless: remember your kids that the commies are bastards every day.
 
-=== What is your reply strategy?
+=== Ciro Santilli's reply strategy
 
 People get kind of passionate sometimes about politics. And some of them might also be just malicious wumaos, although it is generally not possible to distinguish between them.
 
-In order to not waste too much time on those, I use the following strategy:
+In order to not waste too much time on those, Ciro Santilli use the following strategy.
 
-If the original thread post is not very interesting, I try to parse it quickly and reply once, always <<better-to-do,linking to the FAQ>>, and then unfollow. This shows that I'm still present, and takes little effort.
+If the original thread post is not very interesting, try to parse it quickly and reply once, always <<better-to-do,linking to the FAQ>>, and then unfollow the thread. This shows that you're still alive, and takes little effort.
 
-I then do my best to never read the inevitable reply again. An interesting reply never follows from a non-interesting original post.
+Then do your best to never read the inevitable reply again. An interesting reply never follows from a non-interesting original post. It is hard at first, but 
 
-If the user keeps generating notifications, warning + temporary block.
+If the user keeps generating notifications, warning + temporary block as per link:CONTRIBUTING.md[].
 
-If the post is outright useless and offensive, direct user block, with a link to the link:CONTRIBUTING.md[].
+If initial post is outright useless and offensive, direct user block, with a link to the link:CONTRIBUTING.md[].
 
-I have also been pointed out to the following reply strategy by C.K. Hung which might be of interest: https://ckhung0.blogspot.com/2017/07/50-cents-party.html
+Another reply strategy by C.K. Hung which might be of interest is: https://ckhung0.blogspot.com/2017/07/50-cents-party.html
 
-For outbursts of activity from Chinese websites, usually programming (v2ex, hacpai), only post the following canned answer and nothing else, because cowards from the website might delete your posts, so I can't afford waste time there with that shit:
+For outbursts of activity from Chinese websites, usually programming (v2ex, hacpai, pingcong), only post the following canned answer and nothing else, because cowards/people who don't know English from the website might delete your posts, so you shouldn't waste time there with that shit:
 
 ____
 大家你好
@@ -3417,7 +3417,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 * 2019-10-31: https://www.linkedin.com/feed/update/urn:li:activity:6595454363743981568/ (http://web.archive.org/web/20191101094814/https://www.linkedin.com/feed/update/urn:li:activity:6595454363743981568/[archive]) "Good rundown of all the major news from China you don't see. Notice how you don't see anything about the Hong Kong protests anymore?"
 * 2019-10-30: https://www.pincong.rocks/question/id-10294__sort_key-agree_count__sort-ASC (http://web.archive.org/web/20191101091242/https://www.pincong.rocks/question/id-10294__sort_key-agree_count__sort-ASC[archive]) "怎么让大陆把 Github 墙了？" How to get GitHub blocked by the Firewall? OP apparently really wants to block it? If yes, <<so-block-cost,LOL>>. Trigerred by some 2019-10 <<notepad>> activity.
 * 2019-10 https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/blob/7131e2c1158a806f41c8f55308977048b02d2959/README-Part2.md Automatically generated list of repos with Chinese characters in their descriptions with the most upvotes per programming language. TODO why is this repo on their README-Part2 only? Has more stars than some stuff on main README.
-* 2019-10-12: https://hacpai.com/article/1570686552645 Login required, cowards. Post title: "更新 GitHub 官方 Repo 的人，竟然是个反华分子". Manual page dump after my replies with links to this FAQ: https://ia801505.us.archive.org/27/items/cirosantilli/hacpai_1570686552645.html OP then deleted my comments because they don't speak English "HacPai 是个文明的社区，不会发生辱骂的现象，你有你的观点，我们有我们的观点。但抱歉，我们的水平有限，没有阅读英文的能力，还请发送有效回复，否则只能折叠处理". It is some developper website: https://hacpai.com/article/1440573175609 (https://web.archive.org/web/20190811205230/https://hacpai.com/article/1440573175609[archive]) linked to https://github.com/b3log/solo[]. OP then made an useless post here: https://github.com/cirosantilli/china-dictatorship/issues/70 As of 2019-10-12, I can't login there anymore, either because the website is shitty, or I was blocked. GitHub login just fails silently, cannot reset password. If blocked, cowards. This led me to update: <<what-is-your-reply-strategy>> with the canned reply.
+* 2019-10-12: https://hacpai.com/article/1570686552645 Login required, cowards. Post title: "更新 GitHub 官方 Repo 的人，竟然是个反华分子". Manual page dump after my replies with links to this FAQ: https://ia801505.us.archive.org/27/items/cirosantilli/hacpai_1570686552645.html OP then deleted my comments because they don't speak English "HacPai 是个文明的社区，不会发生辱骂的现象，你有你的观点，我们有我们的观点。但抱歉，我们的水平有限，没有阅读英文的能力，还请发送有效回复，否则只能折叠处理". It is some developper website: https://hacpai.com/article/1440573175609 (https://web.archive.org/web/20190811205230/https://hacpai.com/article/1440573175609[archive]) linked to https://github.com/b3log/solo[]. OP then made an useless post here: https://github.com/cirosantilli/china-dictatorship/issues/70 As of 2019-10-12, I can't login there anymore, either because the website is shitty, or I was blocked. GitHub login just fails silently, cannot reset password. If blocked, cowards. This led me to update: <<ciro-santillis-reply-strategy>> with the canned reply.
 * 2019-09: https://admin.github.com Someone from GitHub has been thinking about us. s2 to you.
 * "https://www.linkedin.com/pulse/thoughts-github-going-china-kevin-xu/" https://twitter.com/sang_what/status/1172692888766959619 (http://archive.is/taPpH[archive]) https://t.co/qag5ekL12F
 * 2019-06: https://gking.harvard.edu/ interesting. OK, likely due to: https://gking.harvard.edu/category/research-interests/applications/information-control-by-authoritarian-governments but no direct links found though.
