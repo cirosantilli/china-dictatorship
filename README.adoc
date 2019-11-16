@@ -648,7 +648,7 @@ Our opinions are all determined genetically and by bring-up, and there is nothin
 
 From that point of view, all of this is just a cold blooded political game, in which I try to force the CCP to take down the Firewall: <<why-keyword-attack>>.
 
-Unfortunately I'm still still human and do get annoyed or sad sometimes, but never mad, even if your opinion is contrary to mine, and therefore wrong :-) The <<ciro-santillis-reply-strategy,reply strategy>> helps reduce such frustrations tremendously however.
+Unfortunately I'm still still human and do get annoyed or sad sometimes, but never mad, even if your opinion is contrary to mine, and therefore wrong :-) The <<reply-policy,reply policy>> helps reduce such frustrations tremendously however.
 
 I also have doubts about certain things I do as expressed throughout this FAQ.
 
@@ -1227,6 +1227,7 @@ In 2017 - 2018, details of https://en.wikipedia.org/wiki/Uyghurs[Uyghur] internm
 .<<rebel-pepper,Rebel Pepper>> 2017.4 新疆中国cartoon. TODO source.
 image::https://web.archive.org/web/20191013085312if_/https://i.stack.imgur.com/mQFKa.png[height=400]
 
+* 2019-1116: https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html "The Xinjiang Papers", leaked internal speeches about Xinjiang internment camps policy
 * 2019-09-22 Drone footage of Xinjiang prisoner transfer uploaded to YouTube. TODO confirm location and that these are political prisoners rather than "normal criminals".
 ** Upload sources
 *** https://www.youtube.com/watch?v=gGYoeJ5U7cQ
@@ -1381,9 +1382,16 @@ Once that is taken care of, a few good options are:
 
 And regardless: remember your kids that the commies are bastards every day.
 
-=== Ciro Santilli's reply strategy
+[[reply-policy]]
+=== Ciro Santilli's reply policy
 
 People get kind of passionate sometimes about politics. And some of them might also be just malicious wumaos, although it is generally not possible to distinguish between them.
+
+If you are not a wumao, consider this:
+
+* Ciro Santilli is one, and antagonists are millions. It is therefore not possible to reply to all antagonists.
+* Ciro has in the past tried to be nice to stupid people, and they gave nasty replies
+* all discussion is useless, <<effect,only the keyword attack has any chance of having any effect, and even that is slim>>
 
 In order to not waste too much time on those, Ciro Santilli use the following strategy.
 
@@ -1422,6 +1430,9 @@ Never argue with an idiot. They will only bring you down to their level and beat
 ____
 
 Where basically idiot == someone who creates posts that obviously aren't teaching you any new useful thing, or that not praising you :-)
+
+.XKCD 386 "Duty Calls" and the famous "Someone is wrong on the Internet" quote. It is a waste of time to be like that. https://xkcd.com/386/[Source]
+image::https://web.archive.org/web/20191113231107if_/https://imgs.xkcd.com/comics/duty_calls.png[height=400]
 
 === How do different websites view Ciro Santilli's profile?
 
@@ -3417,7 +3428,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 * 2019-10-31: https://www.linkedin.com/feed/update/urn:li:activity:6595454363743981568/ (http://web.archive.org/web/20191101094814/https://www.linkedin.com/feed/update/urn:li:activity:6595454363743981568/[archive]) "Good rundown of all the major news from China you don't see. Notice how you don't see anything about the Hong Kong protests anymore?"
 * 2019-10-30: https://www.pincong.rocks/question/id-10294__sort_key-agree_count__sort-ASC (http://web.archive.org/web/20191101091242/https://www.pincong.rocks/question/id-10294__sort_key-agree_count__sort-ASC[archive]) "怎么让大陆把 Github 墙了？" How to get GitHub blocked by the Firewall? OP apparently really wants to block it? If yes, <<so-block-cost,LOL>>. Trigerred by some 2019-10 <<notepad>> activity.
 * 2019-10 https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/blob/7131e2c1158a806f41c8f55308977048b02d2959/README-Part2.md Automatically generated list of repos with Chinese characters in their descriptions with the most upvotes per programming language. TODO why is this repo on their README-Part2 only? Has more stars than some stuff on main README.
-* 2019-10-12: https://hacpai.com/article/1570686552645 Login required, cowards. Post title: "更新 GitHub 官方 Repo 的人，竟然是个反华分子". Manual page dump after my replies with links to this FAQ: https://ia801505.us.archive.org/27/items/cirosantilli/hacpai_1570686552645.html OP then deleted my comments because they don't speak English "HacPai 是个文明的社区，不会发生辱骂的现象，你有你的观点，我们有我们的观点。但抱歉，我们的水平有限，没有阅读英文的能力，还请发送有效回复，否则只能折叠处理". It is some developper website: https://hacpai.com/article/1440573175609 (https://web.archive.org/web/20190811205230/https://hacpai.com/article/1440573175609[archive]) linked to https://github.com/b3log/solo[]. OP then made an useless post here: https://github.com/cirosantilli/china-dictatorship/issues/70 As of 2019-10-12, I can't login there anymore, either because the website is shitty, or I was blocked. GitHub login just fails silently, cannot reset password. If blocked, cowards. This led me to update: <<ciro-santillis-reply-strategy>> with the canned reply.
+* 2019-10-12: https://hacpai.com/article/1570686552645 Login required, cowards. Post title: "更新 GitHub 官方 Repo 的人，竟然是个反华分子". Manual page dump after my replies with links to this FAQ: https://ia801505.us.archive.org/27/items/cirosantilli/hacpai_1570686552645.html OP then deleted my comments because they don't speak English "HacPai 是个文明的社区，不会发生辱骂的现象，你有你的观点，我们有我们的观点。但抱歉，我们的水平有限，没有阅读英文的能力，还请发送有效回复，否则只能折叠处理". It is some developper website: https://hacpai.com/article/1440573175609 (https://web.archive.org/web/20190811205230/https://hacpai.com/article/1440573175609[archive]) linked to https://github.com/b3log/solo[]. OP then made an useless post here: https://github.com/cirosantilli/china-dictatorship/issues/70 As of 2019-10-12, I can't login there anymore, either because the website is shitty, or I was blocked. GitHub login just fails silently, cannot reset password. If blocked, cowards. This led me to update: <<reply-policy>> with the canned reply.
 * 2019-09: https://admin.github.com Someone from GitHub has been thinking about us. s2 to you.
 * "https://www.linkedin.com/pulse/thoughts-github-going-china-kevin-xu/" https://twitter.com/sang_what/status/1172692888766959619 (http://archive.is/taPpH[archive]) https://t.co/qag5ekL12F
 * 2019-06: https://gking.harvard.edu/ interesting. OK, likely due to: https://gking.harvard.edu/category/research-interests/applications/information-control-by-authoritarian-governments but no direct links found though.
