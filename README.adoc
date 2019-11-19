@@ -2114,6 +2114,7 @@ Don't you think, then, that it is extremely likely that it has happened many tim
 
 Bibliography:
 
+* https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-019-0406-6 (https://web.archive.org/web/20191118135832/https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-019-0406-6[archive]) "Analysis of official deceased organ donation data casts doubt on the credibility of China’s organ transplant reform" by Matthew P. Robertson, Raymond L. Hinde and Jacob Lavee published at "BMC Medical Ethics" which is part of Springer Nature in 14 November 2019
 * The Slaughter: Mass Killings, Organ Harvesting, and China's Secret Solution to Its Dissident Problem, by Ehtan Gutmann, 2014
 ** <https://www.amazon.com/Slaughter-Killings-Harvesting-Solution-Dissident/dp/161614940X>
 ** <https://en.wikipedia.org/wiki/Ethan_Gutmann#The_Slaughter:_Mass_Killings,_Organ_Harvesting,_and_China's_Secret_Solution_to_Its_Dissident_Problem>
