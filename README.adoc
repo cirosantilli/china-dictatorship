@@ -2585,11 +2585,6 @@ News and reports:
 
 ==== Falun Gong media
 
-* https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television
-** https://zh.wikipedia.org/wiki/%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0
-** https://www.youtube.com/user/Laowaikanzhongguo Laowai kan Zhongguo
-** https://www.youtube.com/channel/UCgFP46yVT-GG4o1TgXn-04Q China Uncensored
-** https://www.youtube.com/user/NTDOffTheGreatWall Off the Great Wall
 * https://en.wikipedia.org/wiki/The_Epoch_Times
 ** https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5
 * http://en.minghui.org/
@@ -2605,6 +2600,43 @@ News and reports:
 ** https://en.wikipedia.org/wiki/Tuidang_movement
 * http://dongtaiwang.com
 ** https://en.wikipedia.org/wiki/Freegate
+
+===== New Tang Dinasty Television
+
+https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television
+
+Related shows:
+
+* https://zh.wikipedia.org/wiki/%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0
+* https://www.youtube.com/user/Laowaikanzhongguo Laowai kan Zhongguo
+* https://www.youtube.com/user/NTDOffTheGreatWall Off the Great Wall
+
+====== China Uncensored YouTube channel
+
+https://www.youtube.com/channel/UCgFP46yVT-GG4o1TgXn-04Q
+
+Older shows had ndt.tv water mark on top right, e.g. a 2013 video: https://www.youtube.com/watch?v=nmMvS3lgJBs
+
+The video description also links to http://e.ntd.tv/NTDChinaUncensored[] which is now down, but has archives such as http://web.archive.org/web/20130321071835/http://e.ntd.tv/NTDChinaUncensored which suggest a redirect back to the YouTube channel: 
+
+____
+Redirecting to...
+
+http://www.youtube.com/playlist?list=PLZZhVHPaO1ziCc9dRPrgbz2KU0aZF7CJ-
+____
+
+TODO why did newer videos remove the water mark and clear link? Did they break links, or just to hide Falun Gong influence?
+
+Home page gives extremely unusual importance to Falun Gong resouces, e.g.:
+
+* http://www.chinauncensored.tv/about/ (https://web.archive.org/web/20190426203719/http://www.chinauncensored.tv/about/[archive]) "China Uncensored is available to watch on this website, on YouTube, on New Tang Dynasty Television"
+* http://www.chinauncensored.tv/campaigns/ (https://web.archive.org/web/20190512160736/http://www.chinauncensored.tv/campaigns/[archive]) "Chinese police illegally arrested Canadian citizen Sun Qian from her home in Beijing for practicing Falun Gong."
+
+Related:
+
+* https://www.quora.com/How-is-the-YouTube-show-China-Uncensored-funded
+* https://www.quora.com/Is-the-YouTube-channel-China-Uncensored-a-trustworthy-source-of-information-on-China
+* https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html (https://web.archive.org/web/20190119083517/https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html[archive]) Epoch Times highlights the channel "Why YouTube’s Most Popular Channel on China Politics Doesn’t Show in Search Suggestions"
 
 ==== USA government media
 
