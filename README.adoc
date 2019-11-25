@@ -295,7 +295,7 @@ Here are some examples of people reacting to the blocking of https://github.com/
 
 * https://github.com/programthink/books/issues/31 (http://web.archive.org/web/20191023093618/https://github.com/programthink/books/issues/31[archive])
 * https://www.zhihu.com/question/284445884/
-* https://program-think.blogspot.com/2018/04/Zhao-at-GitHub.html?comment=1524671692761#1524671692761 
+* https://program-think.blogspot.com/2018/04/Zhao-at-GitHub.html?comment=1524671692761#1524671692761
 
 To check China only takedowns such as this, we cannot use Great Fire Analyzer, which reports the page as accessible: the only tool I could find so far to capture a page from China a bit like Web Archive was: https://www.geoscreenshot.com which takes screenshots of the websites, but the free trial is very limited, and you can't share the screenshots.
 
@@ -1346,6 +1346,13 @@ Unfair Chinese commercial practices must be reciprocated. Chinese companies shou
 * https://www.msn.com/zh-hk/news/other/us-entrepreneurs-make-a-choice-rewards-of-doing-business-in-china-often-outweigh-risks-of-losing-trade-secrets/ar-BBSPC69 (http://web.archive.org/web/20190905071456/https://www.msn.com/zh-hk/news/other/us-entrepreneurs-make-a-choice-rewards-of-doing-business-in-china-often-outweigh-risks-of-losing-trade-secrets/ar-BBSPC69:[archive])
 * https://www.chinalawblog.com/2019/02/china-joint-ventures-the-long-version.html (http://web.archive.org/web/20190905071738/https://www.chinalawblog.com/2019/02/china-joint-ventures-the-long-version.html:[archive])
 
+Do not understestimate the CCP and its control over every Chinese companies and people. Every Chinese company and person is a potential spy. This is true for all countries however, and we do not reproach China for its secret service: <<snowden>>. The point is that the West should not undersestimate this menace:
+
+* 2019-11: Wang Liqiang spy defection to Australia
+** https://www.smh.com.au/national/defecting-chinese-spy-offers-information-trove-to-australian-government-20191122-p53d1l.html
+* 2019-11: Jerry Chun Shing Lee, naturalized American, convicted for being double agent while working at CIA after being in custody for 2 years
+** https://www.nbcnews.com/politics/justice-department/former-cia-officer-sentenced-19-years-conspiring-chinese-spies-n1089341
+
 ==== Companies that comply to Chinese censorship requests
 
 Western government should prevent companies from complying to Chinese censorship requests.
@@ -1397,7 +1404,7 @@ In order to not waste too much time on those, Ciro Santilli use the following st
 
 If the original thread post is not very interesting, try to parse it quickly and reply once, always <<better-to-do,linking to the FAQ>>, and then unfollow the thread. This shows that you're still alive, and takes little effort.
 
-Then do your best to never read the inevitable reply again. An interesting reply never follows from a non-interesting original post. It is hard at first, but 
+Then do your best to never read the inevitable reply again. An interesting reply never follows from a non-interesting original post. It is hard at first, but you will eventually get the hang of it.
 
 If the user keeps generating notifications, warning + temporary block as per link:CONTRIBUTING.md[].
 
@@ -2617,7 +2624,7 @@ https://www.youtube.com/channel/UCgFP46yVT-GG4o1TgXn-04Q
 
 Older shows had ndt.tv water mark on top right, e.g. a 2013 video: https://www.youtube.com/watch?v=nmMvS3lgJBs
 
-The video description also links to http://e.ntd.tv/NTDChinaUncensored[] which is now down, but has archives such as http://web.archive.org/web/20130321071835/http://e.ntd.tv/NTDChinaUncensored which suggest a redirect back to the YouTube channel: 
+The video description also links to http://e.ntd.tv/NTDChinaUncensored which is now down, but has archives such as http://web.archive.org/web/20130321071835/http://e.ntd.tv/NTDChinaUncensored which suggest a redirect back to the YouTube channel:
 
 ____
 Redirecting to...
