@@ -1337,6 +1337,8 @@ The most obvious thing is to go https://en.wikipedia.org/wiki/Tit_for_tat[tit fo
 
 Their websites should also be blocked e.g.: http://www.globaltimes.cn/
 
+Chinese controlled social media apps such as WeChat, Zhihu, etc. must stop censoring people outside of China, or face sanctions, e.g.: https://www.theverge.com/platform/amp/2019/11/25/20976964/chinese-americans-censorship-wechat-hong-kong-elections-tiktok
+
 And the same must be done for cultural centers that report diretly to the CCP such as <<confucious-institute>> and <<cssa,CSSAs>>.
 
 Western governments must identify raw material dependencies on China, and reduce them, while at the same time forbidding technology transfer to China. China has been trading cheap resources for technology, and we must stop that now.
