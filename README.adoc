@@ -1227,7 +1227,12 @@ In 2017 - 2018, details of https://en.wikipedia.org/wiki/Uyghurs[Uyghur] internm
 .<<rebel-pepper,Rebel Pepper>> 2017.4 新疆中国cartoon. TODO source.
 image::https://web.archive.org/web/20191013085312if_/https://i.stack.imgur.com/mQFKa.png[height=400]
 
-* 2019-1116: https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html "The Xinjiang Papers", leaked internal speeches about Xinjiang internment camps policy
+* 2019-11: "What happened to me" manga depicting Uighur torture hits 2.5m views
+** https://wapipi.net/home/wp-content/uploads/2019/09/uy0830_en.pdf (https://web.archive.org/web/20191126162143/https://wapipi.net/home/wp-content/uploads/2019/09/uy0830_en.pdf[archive])
+** https://www.theguardian.com/world/2019/nov/26/what-has-happened-to-me-manga-depicting-uighur-torture-hits-25m-views
+* 2019-11 The Xinjiang Papers: leaked cables about Xinjiang internment camps policy, some reported by the New York Times and others by the International Consortium of Investigative Journalists, soure yet unknown. https://en.wikipedia.org/wiki/Xinjiang_papers
+** https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html
+** https://www.icij.org/investigations/china-cables/exposed-chinas-operating-manuals-for-mass-internment-and-arrest-by-algorithm/
 * 2019-09-22 Drone footage of Xinjiang prisoner transfer uploaded to YouTube. TODO confirm location and that these are political prisoners rather than "normal criminals".
 ** Upload sources
 *** https://www.youtube.com/watch?v=gGYoeJ5U7cQ
