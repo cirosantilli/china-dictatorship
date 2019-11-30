@@ -658,13 +658,16 @@ In the end, I just end up thinking about new replies to things people say to me,
 
 The real goal of this FAQ it not to convince people, but rather to determine who is an ally and who is not, and get those allies together to defeat the commies.
 
-==== Have you ever lived in China?
+==== Has Ciro Santilli you ever lived in China?
 
-No, only visited once.
+Not as of 2019, he has only visited once in 2012, and it was <<do-you-hate-china,amazingly beautiful>>.
 
-And I don't think it is a good idea for me to do that now :-)
+.Ciro Santilli with a stone carved https://en.wikipedia.org/wiki/Budai[Budai] in the https://en.wikipedia.org/wiki/File:Maitreya_and_disciples_carving_in_Feilai_Feng_Caves.jpg[Feilai Feng caves] near the https://en.wikipedia.org/wiki/Lingyin_Temple[Lingyin Temple] in Hangzhou taken during his legendary 2012 touristic trip to China. Will he ever be able to go to China again to re-experience such marvelous locations?
+image::https://raw.githubusercontent.com/cirosantilli/media/master/Ciro_Santilli_with_a_stone_carved_Budai_in_the_Feilai_Feng_caves_near_the_Lingyin_Temple_in_Hangzhou_in_2012.jpg[height=400]
 
-But I know that if you don't mind contributing to making <<war,WW3>> deadlier and shut up and obey the CCP, China is already a fine place to live as much as any other developing country.
+But he doesn't think it is a good idea for him to do that now, in case his Visa got accepted, because he is not interested in learning about the Chinese jail system! :-)
+
+He knows that if you don't mind contributing to making <<war,WW3>> deadlier and shut up and obey the CCP, China is already a fine place to live as much as any other developing country.
 
 ===== Would you like to live in China?
 
@@ -1353,12 +1356,22 @@ Unfair Chinese commercial practices must be reciprocated. Chinese companies shou
 * https://www.msn.com/zh-hk/news/other/us-entrepreneurs-make-a-choice-rewards-of-doing-business-in-china-often-outweigh-risks-of-losing-trade-secrets/ar-BBSPC69 (http://web.archive.org/web/20190905071456/https://www.msn.com/zh-hk/news/other/us-entrepreneurs-make-a-choice-rewards-of-doing-business-in-china-often-outweigh-risks-of-losing-trade-secrets/ar-BBSPC69:[archive])
 * https://www.chinalawblog.com/2019/02/china-joint-ventures-the-long-version.html (http://web.archive.org/web/20190905071738/https://www.chinalawblog.com/2019/02/china-joint-ventures-the-long-version.html:[archive])
 
-Do not understestimate the CCP and its control over every Chinese companies and people. Every Chinese company and person is a potential spy. This is true for all countries however, and we do not reproach China for its secret service: <<snowden>>. The point is that the West should not undersestimate this menace:
+Do not underestimate the CCP and its control over every Chinese companies and people. Every Chinese company and person is a potential, just like spy.
+
+This is true for all countries however, and we do not reproach China for its secret service, e.g. <<snowden>> used https://en.wikipedia.org/wiki/Edward_Snowden#NSA_sub-contractee_as_an_employee_for_Dell[Dell] as an NSA front-end.
+
+The point is that the West should not underestimate this menace.
+
+Some Chinese spy stories:
 
 * 2019-11: Wang Liqiang spy defection to Australia
 ** https://www.smh.com.au/national/defecting-chinese-spy-offers-information-trove-to-australian-government-20191122-p53d1l.html
 * 2019-11: Jerry Chun Shing Lee, naturalized American, convicted for being double agent while working at CIA after being in custody for 2 years
 ** https://www.nbcnews.com/politics/justice-department/former-cia-officer-sentenced-19-years-conspiring-chinese-spies-n1089341
+
+Stories showing how big Chinese companies are closely involved with the government:
+
+* 2019-11 https://www.forbes.com/sites/zakdoffman/2019/11/29/has-huaweis-darkest-secret-just-been-exposed-by-this-new-report/#7896db9d4061 Xinjiang Papers reveal the extent of Huawei's involvement in <<xinjiang>>
 
 ==== Companies that comply to Chinese censorship requests
 
