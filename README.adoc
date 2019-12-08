@@ -639,9 +639,10 @@ Especially since it seems that most Chinese already know what you are talking ab
 
 See also: <<do-you-speak-chinese>>.
 
+[[shitpost]]
 ===== I want to take my chances and make a shitpost in cirosantilli/china-dictatorship
 
-So, have you reached the conclusion that your shitpost link:CONTRIBUTING.md[is worth the risk of getting blocked]?
+So, have you reached the conclusion that your https://en.wikipedia.org/wiki/Shitposting[shitpost] is link:CONTRIBUTING.md[worth the risk of getting blocked]?
 
 Remember that shitposts can also be creative: if you are going to insult Ciro, at least do it in a creative way, or else you look like an even bigger idiot than you really are.
 
@@ -651,6 +652,8 @@ A Chinese insult tip 101, avoid similar sound euphemisms. If you are going to sa
 * 肏 fuck: 操
 * 傻 idiot: 沙
 * 屌 dick: 雕
+
+A collection of shitposts for you to take inspiration from can be found at: https://github.com/cirosantilli/china-dictatorship/labels/shitpost
 
 [[preconceived]]
 ==== You have a preconceived opinion about China that cannot be changed

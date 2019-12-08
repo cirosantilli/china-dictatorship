@@ -29,3 +29,5 @@ If OP someone shitposts on GitHub and gets blocked, I will just make that clear 
 Other blocked users:
 
 - https://github.com/brglng | https://github.com/cirosantilli/china-dictatorship/issues/42#event-2319426123 | https://github.com/isaacs/github/issues/1570 | http://web.archive.org/web/20190505072320/https://github.com/cirosantilli/china-dictatorship/issues/42
+
+If you are still certain that you want really want to shitpost, first see some tips at: https://github.com/cirosantilli/china-dictatorship#shitpost
