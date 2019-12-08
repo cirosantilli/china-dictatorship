@@ -29,7 +29,3 @@ If OP someone shitposts on GitHub and gets blocked, I will just make that clear 
 Other blocked users:
 
 - https://github.com/brglng | https://github.com/cirosantilli/china-dictatorship/issues/42#event-2319426123 | https://github.com/isaacs/github/issues/1570 | http://web.archive.org/web/20190505072320/https://github.com/cirosantilli/china-dictatorship/issues/42
-
-Finally, remember that shitposts can also be creative: if you are going to insult me, at least do it in a creative way, or else you look like an even bigger idiot.
-
-Also an insult tip, 逼 and 操 are euphemism for 屄 and 肏, and when you attempt to insult someone, it is better to avoid euphemisms.
