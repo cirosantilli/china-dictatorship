@@ -1391,7 +1391,7 @@ Stories showing how big Chinese companies are closely involved with the governme
 
 ==== Companies that comply to Chinese censorship requests
 
-Western government should prevent companies from complying to Chinese censorship requests.
+Western government should prevent companies from complying to Chinese censorship requests, or at least impose fines and sanctions on them.
 
 Citizens should boycott such companies.
 
@@ -1409,6 +1409,10 @@ image::https://web.archive.org/web/20191011092825if_/https://pbs.twimg.com/media
 
 .https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html[Source].
 image::https://web.archive.org/web/20191013080151if_/https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html/170731Apple-700.jpg[height=400]
+
+Related news:
+
+* 2019-12 Shutterstock implements censorship for searches from China https://techcrunch.com/2019/12/08/in-wake-of-shutterstocks-chinese-censorship-american-companies-need-to-relearn-american-values/
 
 === What should pro-democracy Chinese living in China do about the dictatorship?
 
