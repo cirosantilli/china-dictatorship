@@ -213,6 +213,12 @@ But how would they be interested in politics or be able to discuss, if it is imp
 
 What about the <<tiananmen,1 million people in Tiananmen>> and the 70 million <<falun-gong>> followers? Did they not care?
 
+.xref:rebel-pepper[] cartoon about a pig who does not care about politics because it cannot be eaten. 民主又不能当饭吃https://twitter.com/remonwangxt/status/1131398147253710850[Source]
+image::http://web.archive.org/web/20191220204455if_/https://pbs.twimg.com/media/D7OImmpWsAEYXEN.jpg[height=600]
+
+.Translation by Ciro Santilli of the Rebel Pepper cartoon about the pig who does not care about politics because it cannot be eaten.
+image::http://web.archive.org/web/20191220205711if_/https://raw.githubusercontent.com/cirosantilli/media/master/Rebel_pepper_pig_can%27t_eat_democracy_cartoon_translated_to_English_by_Ciro_Santilli.jpg[height=600]
+
 [[effective]]
 === Will the keyword attacks really help to destroy the firewall?
 
@@ -1246,6 +1252,9 @@ In 2017 - 2018, details of https://en.wikipedia.org/wiki/Uyghurs[Uyghur] internm
 .<<rebel-pepper,Rebel Pepper>> 2017.4 新疆中国cartoon. TODO source.
 image::https://web.archive.org/web/20191013085312if_/https://i.stack.imgur.com/mQFKa.png[height=400]
 
+* 2919-12: Muslim German Turkish Arsenal player link:++https://en.wikipedia.org/wiki/Mesut_%C3%96zil++[Mesut Özil] criticizes concentration camps on Twitter, and China stops broadcasting arsenal matches
+** https://twitter.com/MesutOzil1088/status/1205439723302469632 (https://web.archive.org/web/20191214233550/https:/twitter.com/MesutOzil1088/status/1205439723302469632[archive])
+** https://news.sky.com/story/chinas-state-tv-will-no-longer-show-arsenal-match-after-mesut-ozil-remarks-11887171
 * 2019-11: "What happened to me" manga depicting Uighur torture hits 2.5m views
 ** https://wapipi.net/home/wp-content/uploads/2019/09/uy0830_en.pdf (https://web.archive.org/web/20191126162143/https://wapipi.net/home/wp-content/uploads/2019/09/uy0830_en.pdf[archive])
 ** https://www.theguardian.com/world/2019/nov/26/what-has-happened-to-me-manga-depicting-uighur-torture-hits-25m-views
@@ -2357,6 +2366,7 @@ How I find them: <<anti-commie-info>>.
 
 === News 2019
 
+* 2019-12-18 Fudan University in China removes "freedom of thought" from university charters, students protes
 * 2019-10-16 https://www.theregister.co.uk/2019/10/16/gitlab_employees_gagged/ GitLab prevents employees from discussing politics at work, and will not veto clients. This is not confirmed, but I guess it is very likely in reply to the <<2019-hong-kong-anti-extradition-bill-protests>> given the timing. The https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/30656[merge request] (http://web.archive.org/web/20191017080216/https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/30656[archive]).
 * Twitter to block operations by oppressive foreign state media
 ** https://blog.twitter.com/en_us/topics/company/2019/information_operations_directed_at_Hong_Kong.html Reddit: https://www.reddit.com/r/China/comments/csodbt/twitter_suspends_nearly_1000_accounts_connected/
