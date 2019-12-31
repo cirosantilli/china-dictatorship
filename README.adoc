@@ -213,11 +213,11 @@ But how would they be interested in politics or be able to discuss, if it is imp
 
 What about the <<tiananmen,1 million people in Tiananmen>> and the 70 million <<falun-gong>> followers? Did they not care?
 
-.xref:rebel-pepper[] cartoon about a pig who does not care about politics because it cannot be eaten. 民主又不能当饭吃https://twitter.com/remonwangxt/status/1131398147253710850[Source]
+.xref:rebel-pepper[] cartoon about a pig who does not care about politics because it cannot be eaten. 民主又不能当饭吃 https://twitter.com/remonwangxt/status/1131398147253710850[Source]
 image::http://web.archive.org/web/20191220204455if_/https://pbs.twimg.com/media/D7OImmpWsAEYXEN.jpg[height=600]
 
 .Translation by Ciro Santilli of the Rebel Pepper cartoon about the pig who does not care about politics because it cannot be eaten.
-image::http://web.archive.org/web/20191220205711if_/https://raw.githubusercontent.com/cirosantilli/media/master/Rebel_pepper_pig_can%27t_eat_democracy_cartoon_translated_to_English_by_Ciro_Santilli.jpg[height=600]
+image::https://raw.githubusercontent.com/cirosantilli/media/master/Rebel_pepper_pig_can%27t_eat_democracy_cartoon_translated_to_English_by_Ciro_Santilli.jpg[height=600]
 
 [[effective]]
 === Will the keyword attacks really help to destroy the firewall?
@@ -879,6 +879,7 @@ I only focus here on negative things to provide content that will activate the G
 
 ____
 持华反党。
+爱国恨党。
 ____
 
 ===== Why do you love China so much?
@@ -3492,6 +3493,14 @@ Not worth it:
 * Chez Chili
 +
 1050B rue Clark
+
+== Tips to learn Chinese
+
+Good resources:
+
+* 几分钟看完: illegal 10 minute summaries of movies with clips from the movies and a narrator speaking quickly instead of movie sounds.
++
+Some have Chinese subtitles, e.g.: https://www.youtube.com/watch?v=eFSMvtS6SYQ and it is great content to learn from, because it is someone telling a not too boring story in a natural and clear way, with supporting images to help with context.
 
 == Other interesting GitHub information repositories
 
