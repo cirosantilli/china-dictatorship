@@ -1,4 +1,5 @@
 = China Dictatorship 中国独裁统治
+:cirosantilli-media-base: https://raw.githubusercontent.com/cirosantilli/media/master/
 :idprefix:
 :idseparator: -
 :sectanchors:
@@ -11,7 +12,7 @@
 
 Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
-image:https://raw.githubusercontent.com/cirosantilli/media/master/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=300]
+image:{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=300]
 image:https://web.archive.org/web/20191013080128if_/https://i.redd.it/c9q6vdybr7i31.jpg[height=300]
 
 toc::[]
@@ -242,7 +243,7 @@ What about the <<tiananmen,1 million people in Tiananmen>> and the 70 million <<
 image::http://web.archive.org/web/20191220204455if_/https://pbs.twimg.com/media/D7OImmpWsAEYXEN.jpg[height=600]
 
 .Translation by Ciro Santilli of the Rebel Pepper cartoon about the pig who does not care about politics because it cannot be eaten.
-image::https://raw.githubusercontent.com/cirosantilli/media/master/Rebel_pepper_pig_can%27t_eat_democracy_cartoon_translated_to_English_by_Ciro_Santilli.jpg[height=600]
+image::{cirosantilli-media-base}/Rebel_pepper_pig_can%27t_eat_democracy_cartoon_translated_to_English_by_Ciro_Santilli.jpg[height=600]
 
 [[effective]]
 === Will the keyword attacks really help to destroy the firewall?
@@ -349,7 +350,7 @@ Every form of protest incurs some damage. E.g., if we manifest on the street, it
 
 I don't like it, but I think it is worth it.
 
-If you just work to make money and have a good life, without any plans to improve the government, you are just making the economy of the dictatorship stronger, then when they start a <<war,war>> or kill yet another minority, blood will also be on your hands. See also: <<what-should-Westernf-ountries-do about China
+If you just work to make money and have a good life, without any plans to improve the government, you are just making the economy of the dictatorship stronger, then when they start a <<war,war>> or kill yet another minority, blood will also be on your hands. See also: <<what-should-western-countries-do-about-china>>.
 
 [[intolerance]]
 ==== Most Chinese people don't care about the minorities
@@ -686,7 +687,7 @@ The real goal of this FAQ it not to convince people, but rather to determine who
 Not as of 2019, he has only visited once in 2012, and it was <<do-you-hate-china,amazingly beautiful>>.
 
 .Ciro Santilli with a stone carved https://en.wikipedia.org/wiki/Budai[Budai] in the https://en.wikipedia.org/wiki/File:Maitreya_and_disciples_carving_in_Feilai_Feng_Caves.jpg[Feilai Feng caves] near the https://en.wikipedia.org/wiki/Lingyin_Temple[Lingyin Temple] in Hangzhou taken during his legendary 2012 touristic trip to China. Will he ever be able to go to China again to re-experience such marvelous locations?
-image::https://raw.githubusercontent.com/cirosantilli/media/master/Ciro_Santilli_with_a_stone_carved_Budai_in_the_Feilai_Feng_caves_near_the_Lingyin_Temple_in_Hangzhou_in_2012.jpg[height=400]
+image::{cirosantilli-media-base}/Ciro_Santilli_with_a_stone_carved_Budai_in_the_Feilai_Feng_caves_near_the_Lingyin_Temple_in_Hangzhou_in_2012.jpg[height=400]
 
 But he doesn't think it is a good idea for him to do that now, in case his Visa got accepted, because he is not interested in learning about the Chinese jail system! :-)
 
@@ -742,7 +743,7 @@ I then continued because I hate political censorship.
 
 I am against violence. <<do-you-hate-china,I love China>>.
 
-===== Jail post
+===== Ciro Santilli's post when his mother-in-law was put into jail
 
 ====== Jail post en
 
@@ -791,7 +792,7 @@ Quando ela voltou pra casa, a casa tinha sido procurada pela polícia e estava u
 
 Eu fico feliz apenas que ela não sofreu abuso físico. Eu acho fascinante como mesmo muitos chineses educados apoiam ainda um governo que não representa parte do povo. Como você vai se sentir quando algo do tipo acontecerá com a sua família, e você não pode fazer nada sobre isso?
 
-===== Further details about my mother-in-law's persecution
+===== Further details about Ciro Santilli's mother-in-law's persecution
 
 March 2015: 15 days in jail for no reason: https://www.facebook.com/cirosantilli/posts/952661734753174
 
@@ -992,17 +993,42 @@ OK, shall we put that to an anonymous vote just to make sure?
 
 Dear sir or madam: do you want more control over your government? y/n
 
-=== Are for a violent revolution to overthrow the CCP?
+[[violence]]
+=== Would it be right to use violence to overthrow the CCP?
 
-No, I'm against physical violence.
+In an ideal world, Ciro Santilli is of course "against violence".
 
-And furthermore it would never work, since the CCP controls the army.
+But what if you could prevent a lot of future violence with some violence today?
 
-I propose instead a revolution of ideas, and efficient link:https://en.wikipedia.org/wiki/Nonviolent_resistance[nonviolent resistance].
+.One baby Hitler or 5 Million Jews https://en.wikipedia.org/wiki/Trolley_problem[trolley problem].
+image::{cirosantilli-media-base}/Baby_Hitler_vs_5_million_Jews_trolley_problem.jpg[height=400]
 
-Where efficient means: if you are a dissident, use privacy technology, and weight well the benefit vs risks of your actions.
+Ah, the eternal question which only God can answer:
 
-You are often more useful to the cause outside of jail than inside.
+* https://www.quora.com/What-is-the-origin-of-the-quote-The-end-justifies-the-means[the ends justify the means]
+** https://en.wikipedia.org/wiki/Consequentialism[consequentialism]
+** https://en.wikipedia.org/wiki/Trolley_problem[trolley problem]
+* link:https://en.wikipedia.org/wiki/Nonviolent_resistance[nonviolent resistance]
+
+Do you really think that the communists will step down if you ask them nicely enough?
+
+A quote from https://en.wikipedia.org/wiki/V_for_Vendetta_(film)[V for Vendetta (2005)] https://www.youtube.com/watch?v=TcoBv6ibh8M
+
+____
+Q: What do you think will happen [when the people protest against heir Government]?
+
+A: What usually happens when people without guns stand up to people with guns.
+____
+
+If you do decide to strike though, <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship,stay safe, gather your forces on the Internet, and only strike when victory seems certain>>.
+
+For "violence is illegal" arguments, see also: <<follow-the-law>>.
+
+==== It is fine for the CCP to treat some of its citizens unfairly if the majority is better off
+
+Basically same discussion as: <<violence>> but with the tables turned.
+
+See also: <<the-chinese-masses-are-not-interested-in-politics-and-therefore-not-ready-to-vote>>
 
 [[dictatorship]]
 === Why do you say China is a dictatorship?
@@ -1032,7 +1058,7 @@ It is also possible to do it with with images, although this is less effective i
 so maybe the most effective approach is to use both keywords and images to get the best of both worlds ;-)
 
 .<<chrysanthemium-xi-jinping>> has been used by Ciro Santilli as a profile picture censored image attack
-image::https://raw.githubusercontent.com/cirosantilli/media/master/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
+image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
 
 This type of attack is essentially an embargo.
 
@@ -1940,6 +1966,7 @@ Every government funds groups it supports, it is an all out war I suppose. Compa
 
 What about the funding of political campaigns, which vastly outnumbers 1.5M USD every year?
 
+[[follow-the-law]]
 ==== FLG is illegal in China, we must follow the law
 
 This might be a bad law that should be changed.
@@ -2005,7 +2032,11 @@ See also: <<flg-bias>>
 
 Because it also specifies irrational and fundamental aspects of how one should live, notably voting and freedom of speech.
 
-Like the Cult of CCP has one fundamental belief: the Party is always right.
+Like the Cult of CCP has one fundamental belief: <<stability,the Party is always right>>.
+
+Ban FLG, and you have banned democracy.
+
+Accept democracy, and you will have FLG.
 
 [[flg-stability]]
 ===== Falun Gong had to be banned because it was a threat to the stability of the country
@@ -2772,7 +2803,7 @@ Got creator Dai Jianyong (戴建勇) arrested in 2015:
 * https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/
 
 .Chrysanthemum Xi Jinping with https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests[六四] spice added by Ciro Santilli
-image::https://raw.githubusercontent.com/cirosantilli/media/master/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
+image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
 
 [[rebel-pepper]]
 === Rebel Pepper 变态辣椒
