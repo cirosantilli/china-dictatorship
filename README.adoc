@@ -376,7 +376,7 @@ The CCP thrives on the excessive fear it instigate into its own people.
 
 How can society improve, if we are never allowed to try new things out?
 
-Change does not require violence. Violence happens because the government punishes any dissidence, even if pacific, to retain its own power.
+Change does not require <<violence>>. Violence happens because the government punishes any dissidence, even if pacific, to retain its own power.
 
 In democracies, radical policy changes happen without dropping a single drop of blood. People vote, and policies change, end of story.
 
@@ -501,6 +501,12 @@ No more worries.
 ____
 
 I find it amusing that a Soviet movie criticizes dictatorships.
+
+===== Most Chinese people like their dictatorship
+
+It is easy to reach an agreement, when everyone who disagrees goes to jail or gets killed.
+
+One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy Few"]: https://www.youtube.com/watch?v=zndzntIDLFE
 
 === There are bad things happening all over the world, why don't you fight for those causes as well / instead?
 
@@ -739,9 +745,7 @@ The last straw was when in March 2015 my girlfriend's mother was arbitrarily kep
 * https://twitter.com/cirosantilli/status/579270450984984576
 * https://www.facebook.com/cirosantilli/posts/952661734753174
 
-I then continued because I hate political censorship.
-
-I am against violence. <<do-you-hate-china,I love China>>.
+I then continued because I hate political censorship, and because <<do-you-hate-china,I love China>>.
 
 ===== Ciro Santilli's post when his mother-in-law was put into jail
 
@@ -1019,6 +1023,10 @@ Q: What do you think will happen [when the people protest against heir Governmen
 
 A: What usually happens when people without guns stand up to people with guns.
 ____
+
+How do you think the CCP or any other party got into power and maintained that power in the first place? Violence.
+
+The question of if violence is right or wrong makes no sense. All that matters is: what is the most <<richer,efficient form of government>> and who has the power to do what.
 
 If you do decide to strike though, <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship,stay safe, gather your forces on the Internet, and only strike when victory seems certain>>.
 
@@ -1397,7 +1405,7 @@ NBA in particular is super popular in China, and people sitting at the front row
 
 Started in particular due to the <<daryl-morey-tweet>>
 
-=== What should Western countries do about China?
+==== What should Western countries do about China?
 
 Western governments must reciprocate unfair Chinese practices.
 
@@ -1413,7 +1421,9 @@ Their websites should also be blocked e.g.: http://www.globaltimes.cn/
 
 Chinese controlled social media apps such as WeChat, Zhihu, etc. must stop censoring people outside of China, or face sanctions, e.g.: https://www.theverge.com/platform/amp/2019/11/25/20976964/chinese-americans-censorship-wechat-hong-kong-elections-tiktok
 
-And the same must be done for cultural centers that report diretly to the CCP such as <<confucious-institute>> and <<cssa,CSSAs>>.
+And the same must be done for cultural centers that report directly to the CCP such as <<confucious-institute>> and <<cssa,CSSAs>>.
+
+Chinese computer and telecommunications hardware, in particular, should be avoided at all costs, as it is an entry point to spying.
 
 Western governments must identify raw material dependencies on China, and reduce them, while at the same time forbidding technology transfer to China. China has been trading cheap resources for technology, and we must stop that now.
 
