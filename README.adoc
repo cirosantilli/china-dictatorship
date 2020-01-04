@@ -95,6 +95,31 @@ Duplicate pool:
 * https://github.com/cirosantilli/china-dictatorship/issues/75
 * https://github.com/cirosantilli/china-dictatorship/issues/78
 
+==== Is Ciro Santilli making programming contributions with the main intent of promoting your political agenda?
+
+No, that is just a side effect.
+
+If that were the case, I would definitely target more widely technologies, in particular Web and JavaScript, instead of obscure things like C and assembly in which I have spent tons of my time.
+
+Also, as I've said elsewhere, my actions are very unlikely to have any actions. Much more likely to have any action, would be for me to become rich and powerful first, and the best way to do that is to invest in whatever I think is most useful.
+
+Actually, it can even be argued that I'm somewhat irrational, since I would much more likely become rich and powerful by bowing down to the CCP and trying to get their money instead.
+
+On the other hand, becoming rich and powerful is also highly unlikely, so maybe I'm just taking a low risk low reward path?
+
+I have very little free time, and will never do something for political reasons, only things that interest me technically.
+
+Finally, do you really think I'd be able to make such awesome projects if I had primarily political considerations in mind? XD
+
+===== Is Ciro Santilli making trivial edits on questions just to spam your name further?
+
+No.
+
+I just think that website is great, and want to push it to perfection, in particular with better Google keyword hits, and uniform gramatically correct titles.
+
+If you think that any of my edits were harmful, please ping me and open a meta thread to discuss specific edits, and I will comply with consensus.
+
+
 [[why-end-dictatorship]]
 === Why would China be better without its Dictatorship?
 
@@ -354,30 +379,6 @@ Change does not require violence. Violence happens because the government punish
 
 In democracies, radical policy changes happen without dropping a single drop of blood. People vote, and policies change, end of story.
 
-==== Are you making programming contributions with the main intent of promoting your political agenda?
-
-No, that is just a side effect.
-
-If that were the case, I would definitely target more widely technologies, in particular Web and JavaScript, instead of obscure things like C and assembly in which I have spent tons of my time.
-
-Also, as I've said elsewhere, my actions are very unlikely to have any actions. Much more likely to have any action, would be for me to become rich and powerful first, and the best way to do that is to invest in whatever I think is most useful.
-
-Actually, it can even be argued that I'm somewhat irrational, since I would much more likely become rich and powerful by bowing down to the CCP and trying to get their money instead.
-
-On the other hand, becoming rich and powerful is also highly unlikely, so maybe I'm just taking a low risk low reward path?
-
-I have very little free time, and will never do something for political reasons, only things that interest me technically.
-
-Finally, do you really think I'd be able to make such awesome projects if I had primarily political considerations in mind? XD
-
-===== Are you making trivial edits on questions just to spam your name further?
-
-No.
-
-I just think that website is great, and want to push it to perfection, in particular with better Google keyword hits, and uniform gramatically correct titles.
-
-If you think that any of my edits were harmful, please ping me and open a meta thread to discuss specific edits, and I will comply with consensus.
-
 [[disturbs]]
 ==== Keyword attack profiles disturbs me
 
@@ -584,7 +585,7 @@ I am however strictly against the ban of cryptography.
 
 I also believe that a good solution to balance out government power is the second amendment. I'd rather have more school shootings and less full blown dictatorship led genocides / mass human rights violations.
 
-In 2019 China amuzingly censored passages Snowedens' "Permanent Record" autobiography book, which Snowden then published on Twitter: https://twitter.com/snowden/status/1194092273170038784 (https://web.archive.org/web/20191112083232/https://twitter.com/snowden/status/1194092273170038784[archive]) | https://www.reddit.com/r/China/comments/dv5q8o/china_censors_edward_snowdens_new_book_he/ (https://web.archive.org/web/20191112083147/https://www.reddit.com/r/China/comments/dv5q8o/china_censors_edward_snowdens_new_book_he/[archive]). As a https://www.reddit.com/r/China/comments/dv5q8o/china_censors_edward_snowdens_new_book_he/f7axckl/[Redditor put it]:
+In 2019 China amusingly censored passages Snowden's "Permanent Record" autobiography book, which Snowden then published on Twitter: https://twitter.com/snowden/status/1194092273170038784 (https://web.archive.org/web/20191112083232/https://twitter.com/snowden/status/1194092273170038784[archive]) | https://www.reddit.com/r/China/comments/dv5q8o/china_censors_edward_snowdens_new_book_he/ (https://web.archive.org/web/20191112083147/https://www.reddit.com/r/China/comments/dv5q8o/china_censors_edward_snowdens_new_book_he/[archive]). As a https://www.reddit.com/r/China/comments/dv5q8o/china_censors_edward_snowdens_new_book_he/f7axckl/[Redditor put it]:
 
 ____
 I don’t think they understand that what Snowden stands for is completely the opposite of what the Chinese gov is lol
@@ -826,9 +827,15 @@ But maybe no radical ever considers himself radical? Hmmm...
 
 Or maybe: link:https://www.youtube.com/watch?v=efHCdKb5UWc[The Dark Knight - Some Men Just Want To Watch The World Burn]?
 
-==== Do you think Chinese politician X evil?
+==== Do you think the Chinese government is evil?
 
-The term evil does not make sense to me.
+No, just <<richer,inefficient>> and <<war,dangerous>>.
+
+To me, it's just another non-democratic empire like the Qing Dynasty. 共产朝 as I call them. But alas, I'm not the inventor of the expression: http://web.archive.org/web/20161025220242/http://tieba.baidu.com/p/752094668
+
+===== Do you think Chinese politician X evil?
+
+The term evil does not make sense.
 
 The best definition I can reach is a psychopath with zero empathy for anyone: https://en.wikipedia.org/wiki/Psychopathy although I think that can be better characterized as a disease or extreme personality trait.
 
@@ -836,11 +843,17 @@ I believe that the huge majority of those politicians are just regular dudes wit
 
 Just like you, me and other politicians in any country.
 
-==== Do you think the Chinese government is evil?
+===== The Chinese politicians really care about the Chinese citizens
 
-No, just <<richer,inefficient>> and <<war,dangerous>>.
+Sometimes people call me naive.
 
-To me, it's just another non-democratic empire like the Qing Dynasty. 共产朝 as I call them. But alas, I'm not the inventor of the expression: http://web.archive.org/web/20161025220242/http://tieba.baidu.com/p/752094668
+Politicians are the same all over the world.
+
+Some are good, some are evil.
+
+China's problem is not its politicians.
+
+It's the current shitty political organization, which allows/convinces those politicians to do really bad things: <<richer>>, <<war>>.
 
 ==== Are you a SJW?
 
@@ -1253,6 +1266,7 @@ In 2017 - 2018, details of https://en.wikipedia.org/wiki/Uyghurs[Uyghur] internm
 .<<rebel-pepper,Rebel Pepper>> 2017.4 新疆中国cartoon. TODO source.
 image::https://web.archive.org/web/20191013085312if_/https://i.stack.imgur.com/mQFKa.png[height=400]
 
+* 2019-12: https://www.youtube.com/watch?v=dEkliuqQo-g "A Secret Look Inside a Chinese Labor Program for Uighurs | Visual Investigations" by "The New York Times" published on Dec 30, 2019. Description: "China is relocating Uighurs and other Muslim minorities to urban areas as part of a contentious labor program. The Times obtained rare footage taken inside one."
 * 2919-12: Muslim German Turkish Arsenal player link:++https://en.wikipedia.org/wiki/Mesut_%C3%96zil++[Mesut Özil] criticizes concentration camps on Twitter, and China stops broadcasting arsenal matches
 ** https://twitter.com/MesutOzil1088/status/1205439723302469632 (https://web.archive.org/web/20191214233550/https:/twitter.com/MesutOzil1088/status/1205439723302469632[archive])
 ** https://news.sky.com/story/chinas-state-tv-will-no-longer-show-arsenal-match-after-mesut-ozil-remarks-11887171
