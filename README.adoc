@@ -582,7 +582,7 @@ Snowden's prosecution was inevitable. Countries need secret services. Secret ser
 
 I have never and will never criticize China or any other country for spying or prosecuting spies.
 
-The problem with dictatorships, is that they make _every_ information that makes them look bad a "state secret". Including any information that hundreds of thousands of people have witnessed, or economic performance metrics.
+The problem with dictatorships, is that they make _every_ information that makes them look bad a "state secret". Including any information that hundreds of thousands of people have witnessed, or economic performance metrics! See also: <<internal-censorship>>.
 
 If Snowden were Chinese, the Chinese government would ban talking about him or anything he uncovered. A <<keyword-attack,keyword attack>> with "Snowden" in the West has no effect.
 
@@ -1927,9 +1927,9 @@ Bibliography:
 
 * http://www.zhihu.com/question/27659795 (https://www.zhihu.com/question/27659795[archive])家里有人练法轮功是一种怎样的体验？
 
-==== In the Tweet you say "correctional facility", but reeducation through labour has been abolished
+==== In the Tweet about his mother in law, Ciro Santilli says "correctional facility", but reeducation through labour has been abolished
 
-My bad https://twitter.com/cirosantilli/status/579270450984984576[here], the precise term is "jail". I'm _not_ talking about: https://en.wikipedia.org/wiki/Re-education_through_labor Unfortunately I can't edit a Tweet.
+He was not very precise https://twitter.com/cirosantilli/status/579270450984984576[here], the precise term is "jail". He was _not_ talking about: https://en.wikipedia.org/wiki/Re-education_through_labor Unfortunately it is not possible to edit a Tweet.
 
 [[flg-changed]]
 ==== Falun Gong is completely different in the West than it was in China
@@ -2855,15 +2855,40 @@ image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/ne
 [[censorship]]
 === Censorship 审查
 
-==== Censorship is necessary to protect China from harmful USA propaganda
+==== The Great Firewall is necessary to protect China from harmful USA propaganda
 
 I don't think this is below the USA, but:
 
 * without censorship, you would be much richer and stronger, and more able to defend yourselves
 * why does China also censor its own people in addition to foreign propaganda?
-* maybe this fear is greatly emphasised by the Chinese government beyond truth just to help them keep control of the country by fear and maintain their own power. Can the Americans really have that much influence in your country?
+* maybe this fear is greatly emphasised by the Chinese government beyond truth just to help them keep control of the country by fear and maintain their own power. Can the Americans really have that much influence in your country? <<fear-of-west>>
 * maybe the regions that want to split from China feel like China is not giving them anything back, and they are themselves looking for allies outside of China to help them split. With democracy, people are more likely to get what they want, and there will be split parties and votes.
 * the same argument can be used to justify any action, no matter how bad. E.g.: we must put all who criticize the government in jail, or else they will make China less united and weaker against the USA!
+
+[[internal-censorship]]
+===== Internal censorship is necessary to prevent fake USA accounts from creating harmful propaganda
+
+The USA cannot create enough fake accounts to overwhelm real 1.5 billion Chinese accounts, especially considering things like forcing mobile number account verification.
+
+Chinese politicians are just using this fear as an excuse to stay in power: <<fear-of-west>>.
+
+What if a Chinese person who really loves China and wants to improve the country disagrees with the Government?
+
+What if this person is right, and wants to express this publicly to get support?
+
+Should this person just be put into jail as is done currently? Do you really think that the CCP can never do anything seriously wrong? <<the-chinese-politicians-really-care-about-the-chinese-citizens>>?
+
+What if a <<do-you-think-chinese-politician-x-evil,politician>> does something bad, and suppresses the news to protect themselves?
+
+Without freedom of speech, who will watch over the actions of those in power? https://en.wikipedia.org/wiki/Quis_custodiet_ipsos_custodes%3F[Quis custodiet ipsos custodes?]
+
+____
+I hear always the admonishment of my friends:
+
+"Bolt her in, constrain her!"
+
+But who will guard the guardians? The wife plans ahead and begins with them.
+____
 
 ==== Censorship monitoring
 
