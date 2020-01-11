@@ -669,6 +669,8 @@ A Chinese insult tip 101, avoid similar sound euphemisms. If you are going to sa
 
 A collection of shitposts for you to take inspiration from can be found at: https://github.com/cirosantilli/china-dictatorship/labels/shitpost
 
+Also, when opening a shitpost you may mark it clearly such with the shitpost issue template which automatically assigns the shitpost label. Doing so will make you look like less of an idiot.
+
 [[preconceived]]
 ==== You have a preconceived opinion about China that cannot be changed
 
