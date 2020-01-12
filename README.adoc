@@ -474,7 +474,7 @@ It must feel good to have absolute truth in the <<democracy-is-a-religion,Cult o
 
 A scene from the awesome mini-series link:https://en.wikipedia.org/wiki/Seventeen_Moments_of_Spring[Seventeen Moments of Script (1973)] comes to mind.
 
-In link:https://youtu.be/YsXhgzX56cA?t=2086[Episode 7, 34:46], the main character, Stierlitz, who is an undercover Soviet spy in Germany during WW2, travels on a train with a link:https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum[Nazi officer].
+In link:https://youtu.be/YsXhgzX56cA?t=2086[Episode 7, 34:46], the main character, Stierlitz, who is an undercover Soviet spy in Germany during WW2, travels on a train with a <<nazi,nazi-officer>>.
 
 The war is almost over, and the desolate officer tells Stierlitz:
 
@@ -1008,7 +1008,7 @@ In an ideal world, Ciro Santilli is of course "against violence".
 
 But what if you could prevent a lot of future violence with some violence today?
 
-.One baby Hitler or 5 Million Jews https://en.wikipedia.org/wiki/Trolley_problem[trolley problem].
+.One baby <<nazi,Hitler>> or 5 Million Jews https://en.wikipedia.org/wiki/Trolley_problem[trolley problem].
 image::{cirosantilli-media-base}/Baby_Hitler_vs_5_million_Jews_trolley_problem.jpg[height=400]
 
 Ah, the eternal question which only God can answer:
@@ -1993,7 +1993,7 @@ What about the funding of political campaigns, which vastly outnumbers 1.5M USD 
 
 This might be a bad law that should be changed.
 
-It was perfectly legal for Nazis to kill Jews. Does it make that right?
+It was perfectly legal for <<nazi,Nazis>> to kill Jews. Does it make that right?
 
 ==== FLG is fake
 
@@ -2506,12 +2506,14 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 .<<rebel-pepper>> cartoon showing Xi Jinping preparing to sleep in https://en.wikipedia.org/wiki/Mausoleum_of_Mao_Zedong[Mao Zedong's tomb], meaning that Xi also wants to reach Mao's "eternal ruler" status. https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html[Source].
 image::https://web.archive.org/web/20191013080140if_/https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html/180227RFA-XiJinping-Eternity.jpg[height=400]
 
+[[nazi]]
 ===== Comparisons between the CCP and Nazi Germany
 
 Keywords:
 
 * Xitler (习特勒). 习 "xi2" is very close in sound to the Chinese name of Hitler: https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E5%A4%AB%C2%B7%E5%B8%8C%E7%89%B9%E5%8B%92[希特勒] (xi1 te4 le4)
 * Chinazi (赤纳粹). TODO why 赤. Means Red, but where else is it used?
+* link:https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum[Reductio ad Hitlerum]
 
 .https://www.reddit.com/r/HongKong/comments/cuf3p7/chinazi_xitler/[Source].
 image::https://web.archive.org/web/20191013080128if_/https://i.redd.it/c9q6vdybr7i31.jpg[height=400]
@@ -2910,10 +2912,25 @@ I hear always the admonishment of my friends:
 But who will guard the guardians? The wife plans ahead and begins with them.
 ____
 
+With internal censorship, leaders inevitably become Gods, and soon zealous sons betray their fathers and brothers in loyalty to the leader and their fake ideal. See for example the scene from https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle_(TV_series)[The Man in the High Castle] S04E06 in which the devoted Thomas Smith hands himself in to be killed after discovering that he has a disease, which is not acceptable in <<nazi,Nazi>> America: https://www.youtube.com/watch?v=SymuEg6NRp0
+
+The famous https://en.wikipedia.org/wiki/Heinrich_Heine[Heinrich Heine] (German but from the 19th century, before the Nazis) saying also comes to mind:
+
+____
+Where they have burned books, they will end in burning human beings.
+____
+
+Do you not think that this translates well to the modern version:
+
+____
+Where they have deleted online posts, they will end in burning human beings.
+____
+
 .Internal censorship is so strong, that many Chinese people who leave China to live abroad continue to believe that the CCP is always right, despite having access evidence that suggests otherwise. This <<rebel-pepper>> 2019-08 cartoon shows frogs coming out of a big well still remain inside their own small wells made up of Chinese media such as <<zhihu-purge,Zhihu>> and CCTV. It is a reference to the Chinese proverb https://zh.wikipedia.org/wiki/%E4%BA%95%E5%BA%95%E4%B9%8B%E8%9B%99[井底之蛙] which means that a frog in the bottom of the well can only see a very limited portion of the sky. https://www.rfa.org/mandarin/biantailajiaomanhua/lj-08302019111414.html[Source].
 image::https://web.archive.org/web/20190915124441im_/https://www.rfa.org/mandarin/biantailajiaomanhua/lj-08302019111414.html/1/@@images/82a29858-e5b4-4ae1-88ae-fa54737588e1.jpeg[]
 
-With internal censorship, leaders inevitably become Gods, and soon zealous sons betray their fathers and brothers in loyalty to the leader and their fake ideal. See for example the scene from https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle_(TV_series)[The Man in the High Castle] S04E06 in which the devoted Thomas Smith hands himself in to be killed after discovering that he has a disease, which is not acceptable in Nazi America: https://www.youtube.com/watch?v=SymuEg6NRp0
+.<<nazi,Nazis>> burning books in Berlin in 1933. https://en.wikipedia.org/wiki/Nazi_book_burnings[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/1933-may-10-berlin-book-burning.JPG/603px-1933-may-10-berlin-book-burning.JPG[]
 
 ==== Censorship monitoring
 
