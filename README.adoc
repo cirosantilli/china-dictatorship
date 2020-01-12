@@ -239,7 +239,7 @@ But how would they be interested in politics or be able to discuss, if it is imp
 
 What about the <<tiananmen,1 million people in Tiananmen>> and the 70 million <<falun-gong>> followers? Did they not care?
 
-.xref:rebel-pepper[] cartoon about a pig who does not care about politics because it cannot be eaten. 民主又不能当饭吃 https://twitter.com/remonwangxt/status/1131398147253710850[Source]
+.<<rebel-pepper>> cartoon about a pig who does not care about politics because it cannot be eaten. 民主又不能当饭吃 https://twitter.com/remonwangxt/status/1131398147253710850[Source]
 image::http://web.archive.org/web/20191220204455if_/https://pbs.twimg.com/media/D7OImmpWsAEYXEN.jpg[height=600]
 
 .Translation by Ciro Santilli of the Rebel Pepper cartoon about the pig who does not care about politics because it cannot be eaten.
@@ -468,7 +468,7 @@ See also:
 
 ==== I like my Dictatorship
 
-I can understand that.
+Ciro Santilli can understand that.
 
 It must feel good to have absolute truth in the <<democracy-is-a-religion,Cult of Xi>>, and let the black police <<against-censorship-and-flg,get rid of weirdos for you>>.
 
@@ -500,7 +500,9 @@ Just shout out "Hail Hitler!" and everything will become understandable.
 No more worries.
 ____
 
-I find it amusing that a Soviet movie criticizes dictatorships.
+It is amusing that there is a <<russia,Soviet>> movie criticizes dictatorships.
+
+When the dictatorship turns again you our your family, will you fight, or will you just let them do whatever they want because they can never be wrong? See also: <<intolerance>>.
 
 ===== Most Chinese people like their dictatorship
 
@@ -1299,7 +1301,7 @@ https://en.wikipedia.org/wiki/Xinjiang_re-education_camps
 
 In 2017 - 2018, details of https://en.wikipedia.org/wiki/Uyghurs[Uyghur] internment camps are emerging.
 
-.<<rebel-pepper,Rebel Pepper>> 2017.4 新疆中国cartoon. TODO source.
+.<<rebel-pepper,Rebel Pepper>> 2017-04 cartoon showing that Xinjiang is like a prison inside a greater prison, which is China itself. Chinese characters read: 新疆(Xinjiang) and 中国(China). TODO source.
 image::https://web.archive.org/web/20191013085312if_/https://i.stack.imgur.com/mQFKa.png[height=400]
 
 * 2019-12: https://www.youtube.com/watch?v=dEkliuqQo-g "A Secret Look Inside a Chinese Labor Program for Uighurs | Visual Investigations" by "The New York Times" published on Dec 30, 2019. Description: "China is relocating Uighurs and other Muslim minorities to urban areas as part of a contentious labor program. The Times obtained rare footage taken inside one."
@@ -1325,7 +1327,7 @@ image::https://ia601505.us.archive.org/27/items/cirosantilli/Video_still_of_2019
 * 2019-07-31 https://www.nytimes.com/2019/07/30/world/asia/china-xinjiang.html "Doubt Greets China’s Claim That Muslims Have Been Released From Camps"
 * 2019-07-19 https://www.france24.com/en/20190712-37-countries-defend-china-over-xinjiang-un-letter "37 countries defend China over Xinjiang in UN letter"
 +
-.https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source].
+.<<rebel-pepper>> 2019-07 cartoon showing Xi Jinping claiming to have won the global opinion on the Xinjiang re-education camps because all other dictatorships support him, including Islamic dictatorships. https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source].
 image::https://web.archive.org/web/20191012074352im_/https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html/190716RFA-en-1000.jpg/@@images/c8c9143a-3a01-4116-9322-6aeb4857100f.jpeg[height=400]
 * 2019-07-04 https://www.bbc.co.uk/news/world-asia-china-48825090 "China Muslims: Xinjiang schools used to separate children from families"
 * 2019-05-07 https://www.theguardian.com/world/2019/may/07/revealed-new-evidence-of-chinas-mission-to-raze-the-mosques-of-xinjiang
@@ -1466,10 +1468,10 @@ image::https://web.archive.org/web/20191013075353if_/https://pbs.twimg.com/media
 
 And some good cartoons:
 
-.https://www.rfa.org/english/cartoons/china-hongkong-us-10102019153228.html[Source].
+.<<rebel-pepper>> 2019-10 carton showing several brands kowtowing to Xi Jinping, while South Park alone gives the middle finger. https://www.rfa.org/english/cartoons/china-hongkong-us-10102019153228.html[Source].
 image::https://web.archive.org/web/20191011092825if_/https://pbs.twimg.com/media/EGikEkFXkAE-A8m?format=jpg&name=4096x4096[height=400]
 
-.https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html[Source].
+.<<rebel-pepper> 2017-07 showing Xi Jinping eating an Apple Inc. logo referring to the many events where Apple gave in to Chinese demands to have access to the Chinese market. https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html[Source].
 image::https://web.archive.org/web/20191013080151if_/https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html/170731Apple-700.jpg[height=400]
 
 Related news:
@@ -1561,6 +1563,14 @@ All Zhihu posts related to Ciro Santilli were deleted following <<zhihu-purge>>.
 * 2015-08-18: http://www.zhihu.com/question/34775392 (https://web.archive.org/web/20160219094646/https://www.zhihu.com/question/34775392[archive before deletion], (http://web.archive.org/web/20191103065816/https://www.zhihu.com/question/34775392[archive after deletion])) "你们怎么看stackoverflow上某人故意屏蔽中国访问的事件？"
 
 A random control question that shows that archive.org 404's are actually deleted questions: https://www.zhihu.com/question/316700165 (http://web.archive.org/web/20191103065449/https://www.zhihu.com/question/316700165[archive]).
+
+Mentions not yet deleted as of writing:
+
+* https://www.zhihu.com/question/21099730 从知乎建站以来被封禁的用户都有哪些？Since Zhihu's founding, which accounts have been blocked on the website? (http://web.archive.org/web/20200112103049/https://www.zhihu.com/question/21099730[archive]) (http://archive.is/dH9pK[archive]). The top answer contains a list, and a brief explanation of why some of them were banned:
+** Ciro Santilli: S/O 红人 (fStack Overflow celebrity)
+** "ww" in explanations means "big laugh" according to: https://hinative.com/zh-CN/questions/8349706 because a single "w" means a small laugh
+** several accounts are linked to one specific answer or comment
+** other accounts are classified as often commenting on politically sensitive material (政治敏感)
 
 [[zhihu-purge]]
 ==== Ciro Santilli's Zhihu purge 2019-11-03
@@ -1715,20 +1725,20 @@ As mentioned at https://en.wikipedia.org/wiki/Christianity_in_China there are on
 +
 https://en.wikipedia.org/wiki/China%E2%80%93Holy_See_relations#September_2018_Holy_See%E2%80%93China_Agreement
 +
-.https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html[Source].
+.<<rebel-pepper>> 2018-09 cartoon showing the Pope with a Christian cross containing the Hammer and Sickle communist symbol, in reference to one of the accords that the Vatican struck with the Chinese government. https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html[Source].
 image::https://web.archive.org/web/20180930134934im_/https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html/180927RFA-vatican-china.jpg/@@images/190bb54e-d6be-4c98-9599-b4a88aa6b959.jpeg[height=400]
-* 2018-01 Chinese authorities demolish Christian mega-church sparking fears of religious persecution
+* 2018-01 Chinese authorities demolish Christian mega-church "Golden Lampstand" sparking fears of religious persecution
 ** https://www.businessinsider.com/chinese-authorities-demolish-christian-mega-church-in-crackdown-2018-1
 +
-.https://www.businessinsider.com/chinese-authorities-demolish-christian-mega-church-in-crackdown-2018-1[Source].
+.China's Golden Lampstand Church being demolished. https://www.businessinsider.com/chinese-authorities-demolish-christian-mega-church-in-crackdown-2018-1[Source].
 image::https://web.archive.org/web/20191013080937if_/https://image.businessinsider.com/5a572ca3a75e205e138b4b5f?width=1300&format=jpeg&auto=webp[height=400]
 * 2016 http://www.nytimes.com/2016/02/27/world/asia/china-zhejiang-christians-pastor-crosses.html pastor 14 years jail
 * 2015 https://www.washingtonpost.com/world/asia_pacific/christians-in-china-feel-full-force-of-authorities-repression/2015/12/23/7dd0ec5a-a736-11e5-b596-113f59ee069a_story.html
 
-.<<rebel-pepper>> Last Supper arrest cartoon. https://www.rfa.org/english/cartoons/china-crackddown-Christianity-cartoon-09072018150421.html[Source].
+.<<rebel-pepper>> 2018-09 cartoon showing Jesus and the Apostles in the Last Supper being arrested by CCP guards. https://www.rfa.org/english/cartoons/china-crackddown-Christianity-cartoon-09072018150421.html[Source].
 image::https://web.archive.org/web/20191012075042im_/https://www.rfa.org/english/cartoons/china-crackddown-Christianity-cartoon-09072018150421.html/180907RFA_thelastsupperinChina_1000.jpg/@@images/ac0553ed-a46d-43f6-98d8-288ce76901af.jpeg[height=400]
 
-.Mao at the Last Supper by https://en.wikipedia.org/wiki/Zhang_Hongtu[Zhang Hongtu]. http://musicandculture.blogspot.com/2010/03/massive-last-supper-parodies-post.html[Source].
+.https://en.wikipedia.org/wiki/Zhang_Hongtu[Zhang Hongtu] cartoon showing Mao Zedong and other communist officials at the Last Supper instead of Jesus and the Apostles. http://musicandculture.blogspot.com/2010/03/massive-last-supper-parodies-post.html[Source].
 image::http://web.archive.org/web/20191107094724if_/http://4.bp.blogspot.com/_W8pwMnZMNuQ/S5YAJmo1Q1I/AAAAAAAAC_A/YKRCKXUiSAM/s1600/meal.jpg[height=400]
 
 === Falun Gong
@@ -2274,13 +2284,13 @@ This section also gives me more credibility as a balanced critic >:-)
 [[flg-religion]]
 ===== FLG downplays the fact that it is a religion
 
-If asked if they follow a religion, I think most FLG practitioners will say no. E.g. they call themselves "practitioners" instead of believers.
+If asked if they follow a religion, most FLG believers will say no. E.g. they call themselves "practitioners" instead of believers.
 
-But I strongly believe that all most people in the West would classify FLG as a religion if they are told that for FLG:
+But Ciro Santilli strongly believes that all most people in the West would classify FLG as a religion if they are told that for FLG:
 
 * absolute truth comes from an enlightened <<flg-lhz,prophet>>, who is perfect and has super human abilities
 * weekly meetings where they read from a sacred book, either written by the prophet, or transcribed from his presentations to disciples, including the disciples questions, much like traditional Chinese texts like link:https://en.wikipedia.org/wiki/Analects[The Analects of Confucius]
-* prescribed daily meditation exercise hours, somewhat like Muslim Salah prayers: https://en.wikipedia.org/wiki/Fazhengnian
+* prescribed daily meditation exercise hours, somewhat like Muslim https://en.wikipedia.org/wiki/Salah[Salah] prayers which they call https://en.wikipedia.org/wiki/Fazhengnian[发正念 (fa1 zheng4 nian4)]
 * higher intelligent beings
 * other dimensions
 * aliens that looks like humans are amongst us, they gave us part of our modern technology
@@ -2424,6 +2434,10 @@ How I find them: <<anti-commie-info>>.
 
 === News 2019
 
+* 2020-01 https://www.scmp.com/news/china/politics/article/3045657/china-human-rights-activist-ding-jiaxi-under-investigation one more human rights person Ding Jiaxi. The list is endless, should we care?
+
+=== News 2019
+
 * 2019-12-18 Fudan University in China removes "freedom of thought" from university charters, students protes
 * 2019-10-16 https://www.theregister.co.uk/2019/10/16/gitlab_employees_gagged/ GitLab prevents employees from discussing politics at work, and will not veto clients. This is not confirmed, but I guess it is very likely in reply to the <<2019-hong-kong-anti-extradition-bill-protests>> given the timing. The https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/30656[merge request] (http://web.archive.org/web/20191017080216/https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/30656[archive]).
 * Twitter to block operations by oppressive foreign state media
@@ -2489,7 +2503,7 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 * 包子露宪 https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution
 * https://www.nytimes.com/2018/03/10/world/asia/china-xi-jinping-term-limit-explainer.html
 
-.https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html[Source].
+.<<rebel-pepper>> cartoon showing Xi Jinping preparing to sleep in https://en.wikipedia.org/wiki/Mausoleum_of_Mao_Zedong[Mao Zedong's tomb], meaning that Xi also wants to reach Mao's "eternal ruler" status. https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html[Source].
 image::https://web.archive.org/web/20191013080140if_/https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html/180227RFA-XiJinping-Eternity.jpg[height=400]
 
 ===== Comparisons between the CCP and Nazi Germany
@@ -2505,8 +2519,8 @@ image::https://web.archive.org/web/20191013080128if_/https://i.redd.it/c9q6vdybr
 .Photoshopped cover of Mein Kampf with Xi's face on top of Hitler's and other modifications. https://foreignerinformosa.typepad.com/the_foreigner_in_formosa/2017/07/president-xitler-of-china-murders-political-dissident-liu-xiaobo.html[Source].
 image::https://web.archive.org/web/20191013080043if_/https://foreignerinformosa.typepad.com/.a/6a00d834523d5069e201b7c90b8e9c970b-pi[height=400]
 
-.Original cover of Mein Kampf. https://commons.wikimedia.org/wiki/File:Adolf_Hitler_-_Mein_Kampf_(855._Auflage,_1943).pdf[Source].
-image::++https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Adolf_Hitler_-_Mein_Kampf_%28855._Auflage%2C_1943%29.pdf/page1-423px-Adolf_Hitler_-_Mein_Kampf_%28855._Auflage%2C_1943%29.pdf.jpg++[]
+.Original cover of Mein Kampf. link:++https://commons.wikimedia.org/wiki/File:Adolf_Hitler_-_Mein_Kampf_(855._Auflage,_1943).pdf++[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Adolf_Hitler_-_Mein_Kampf_%28855._Auflage%2C_1943%29.pdf/page1-423px-Adolf_Hitler_-_Mein_Kampf_%28855._Auflage%2C_1943%29.pdf.jpg[]
 
 .Photoshopped photo of Hitler giving the Nazi salute from a car with Himmler on the background with Xi's face on top of Hitler's. http://chinhdangvu1.blogspot.com/2017/09/xitler-chinazism.html[Source].
 image::https://web.archive.org/web/20191013080031if_/https://pbs.twimg.com/media/DGlPeEmXcAAaeQa.jpg[height=400]
@@ -2807,7 +2821,7 @@ Humour is the greatest weapon against dictators:
 ** BBC's report https://www.bbc.co.uk/news/world-asia-china-49968867
 * https://pbs.twimg.com/media/EGPZYFeUUAAYMQf?format=jpg&name=large "Tibet, Uyghur, Hong Kong, World" China death knocking door cartoon. TODO source, originally seen at: https://twitter.com/Lawrence_HKer/status/1181026542786203648 (http://web.archive.org/web/20191008075035/https://pbs.twimg.com/media/EGPZYFeUUAAYMQf?format=jpg[archive])
 
-.Weibo logo vs Sauron's eye 微博标志vs索倫魔眼.
+.Weibo logo vs Sauron's eye 微博标志vs索倫魔眼 by Ciro Santilli.
 image::https://web.archive.org/web/20191013080406if_/https://i.imgur.com/eKPmYyz.png[height=400]
 
 [[chrysanthemium-xi-jinping]]
@@ -2818,7 +2832,7 @@ Got creator Dai Jianyong (戴建勇) arrested in 2015:
 * https://www.independent.co.uk/news/world/asia/chinese-artist-who-posted-funny-image-of-president-xi-jinping-facing-five-years-in-prison-as-10282630.html
 * https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/
 
-.Chrysanthemum Xi Jinping with https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests[六四] spice added by Ciro Santilli
+.Chrysanthemum Xi Jinping with <<tiananmen,六四>> spice added by Ciro Santilli
 image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
 
 [[rebel-pepper]]
@@ -2841,13 +2855,13 @@ Got censored due to comparisons between Xi Jinping and Winnie in 2017: https://e
 
 Some good photoshops:
 
-.https://www.telegraph.co.uk/news/2017/07/17/oh-bother-chinese-censors-block-winnie-pooh-meme-comparing-xi/[Source].
+.Comparison image between Xi Jinping waking with then USA president https://en.wikipedia.org/wiki/Barack_Obama[Barack Obama] with a Winnie-the-Pooh cartoon still of Winnie walking with https://en.wikipedia.org/wiki/Tigger[Tigger, the tiger]. The original photo is from https://www.abc.net.au/news/2013-06-09/obama2c-xi-forge-rapport-in-debut-summit/4742616[Xi's 2013 visit to the Annenberg Retreat at Sunnylands, California]. https://www.telegraph.co.uk/news/2017/07/17/oh-bother-chinese-censors-block-winnie-pooh-meme-comparing-xi/[Source].
 image::https://web.archive.org/web/20170801011641if_/http://i.telegraph.co.uk/multimedia/archive/02590/TIGGER_2590531b.jpg[height=400]
 
-.https://www.theguardian.com/world/2018/aug/07/china-bans-winnie-the-pooh-film-to-stop-comparisons-to-president-xi[Source].
+.Comparison image between Xi Jinping shaking hands with https://en.wikipedia.org/wiki/Shinz%C5%8D_Abe[the Japanese prime minister Shinzo Abe] and a Winnie-the-Pooh cartoon still of Winnie shaking hands with the https://en.wikipedia.org/wiki/Eeyore[Eeyore, the donkey]. The original photo is from https://www.nytimes.com/2014/11/11/world/asia/leaders-of-china-and-japan-hold-long-awaited-meeting.html[Abe's lacklustre 2014 visit to Beijing]. https://www.theguardian.com/world/2018/aug/07/china-bans-winnie-the-pooh-film-to-stop-comparisons-to-president-xi[Source].
 image::http://web.archive.org/web/20191012100528im_/https://i.guim.co.uk/img/media/84b60992d857bccf54c384e4ebeb0ea7f207246b/37_0_752_451/master/752.jpg?width=620&quality=85&auto=format&fit=max&s=e33410b2fb10c3d6de6a6ed65b6a7d8e[height=400]
 
-.https://www.bbc.co.uk/news/blogs-china-blog-40627855[Source].
+.Comparison image between Xi Jinping on a car in a 2015 military parade and a toy Winnie-the-Pooh on a car. https://www.bbc.co.uk/news/blogs-china-blog-40627855[Source].
 image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/news/624/cpsprodpb/DD1F/production/_96970665_4587b36b-011f-4007-b16f-34389d385aec.jpg[height=400]
 
 [[art]]
@@ -2896,9 +2910,12 @@ I hear always the admonishment of my friends:
 But who will guard the guardians? The wife plans ahead and begins with them.
 ____
 
+.Internal censorship is so strong, that many Chinese people who leave China to live abroad continue to believe that the CCP is always right, despite having access evidence that suggests otherwise. This <<rebel-pepper>> 2019-08 cartoon shows frogs coming out of a big well still remain inside their own small wells made up of Chinese media such as <<zhihu-purge,Zhihu>> and CCTV. It is a reference to the Chinese proverb https://zh.wikipedia.org/wiki/%E4%BA%95%E5%BA%95%E4%B9%8B%E8%9B%99[井底之蛙] which means that a frog in the bottom of the well can only see a very limited portion of the sky. https://www.rfa.org/mandarin/biantailajiaomanhua/lj-08302019111414.html[Source].
+image::https://web.archive.org/web/20190915124441im_/https://www.rfa.org/mandarin/biantailajiaomanhua/lj-08302019111414.html/1/@@images/82a29858-e5b4-4ae1-88ae-fa54737588e1.jpeg[]
+
 ==== Censorship monitoring
 
-Projects that atttempt to understand how the Great Firewall works and what it blocks:
+Projects that attempt to understand how the Great Firewall works and what it blocks:
 
 * http://greatfire.org/
 ** https://en.wikipedia.org/wiki/GreatFire
