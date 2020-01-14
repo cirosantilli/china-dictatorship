@@ -329,7 +329,7 @@ Here are some examples of people reacting to the blocking of https://github.com/
 * https://www.zhihu.com/question/284445884/
 * https://program-think.blogspot.com/2018/04/Zhao-at-GitHub.html?comment=1524671692761#1524671692761
 
-To check China only takedowns such as this, we cannot use Great Fire Analyzer, which reports the page as accessible: the only tool I could find so far to capture a page from China a bit like Web Archive was: https://www.geoscreenshot.com which takes screenshots of the websites, but the free trial is very limited, and you can't share the screenshots.
+To check China only takedowns such as this, we cannot use Great Fire Analyzer, which reports the page as accessible: the only tool I could find so far to capture a page from China a bit like Web Archive was: https://www.geoscreenshot.com which takes screenshots of the websites, but the free trial is very limited, and you can't share the screenshots. See also: <<censorship-monitoring>>.
 
 [[dictator-needs-gfw]]
 === Would ending the great firewall truly end the dictatorship?
@@ -381,11 +381,16 @@ Change does not require <<violence>>. Violence happens because the government pu
 In democracies, radical policy changes happen without dropping a single drop of blood. People vote, and policies change, end of story.
 
 [[disturbs]]
-==== Keyword attack profiles disturbs me
+==== Keyword attack profiles disturb me
 
-B isn't it better to be annoyed than having <<war,war>>, <<richer,being poor>> or <<xinjiang,put into jail unfairly>>?
+But isn't it better to be annoyed than having <<war,war>>, <<richer,being poor>> or <<xinjiang,put into jail unfairly>>?
 
-If the truth is too much for you to bear, worry not, you can use this cool browser extension to clean up Stack Overflow: https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8 Installing it immediately gives you <<social-credit-system,10 Sesame Points>>.
+If the truth is too much for you to bear, worry not, you can use either:
+
+* this cool browser extension to clean up Stack Overflow: https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8
+* a custom ad terminator expression shown at: https://github.com/cirosantilli/china-dictatorship/issues/87 `stackoverflow.com##a[href="/users/895245/ciro-santilli-%e6%96%b0%e7%96%86%e6%94%b9%e9%80%a0%e4%b8%ad%e5%bf%83%e6%b3%95%e8%bd%ae%e5%8a%9f%e5%85%ad%e5%9b%9b%e4%ba%8b%e4%bb%b6"]`
+
+Installing any of those immediately give you <<social-credit-system,10 Sesame Points>>, <<xi-abolishes-term-limits-2018-03,习万岁>>, 
 
 See also: <<harm-programmers>>.
 
@@ -696,7 +701,7 @@ The real goal of this FAQ it not to convince people, but rather to determine who
 
 Not as of 2019, he has only visited once in 2012, and it was <<do-you-hate-china,amazingly beautiful>>.
 
-.Ciro Santilli with a stone carved https://en.wikipedia.org/wiki/Budai[Budai] in the https://en.wikipedia.org/wiki/File:Maitreya_and_disciples_carving_in_Feilai_Feng_Caves.jpg[Feilai Feng caves] near the https://en.wikipedia.org/wiki/Lingyin_Temple[Lingyin Temple] in Hangzhou taken during his legendary 2012 touristic trip to China. Will he ever be able to go to China again to re-experience such marvelous locations?
+.Ciro Santilli with a stone carved https://en.wikipedia.org/wiki/Budai[Budai] in the https://en.wikipedia.org/wiki/File:Maitreya_and_disciples_carving_in_Feilai_Feng_Caves.jpg[Feilai Feng caves] near the https://en.wikipedia.org/wiki/Lingyin_Temple[Lingyin Temple] in Hangzhou taken during his legendary 2012 touristic trip to China. Will he ever be able to go to China again to re-experience such marvelous locations? If the CCP falls before he dies, and if the statue hasn't been destroyed by the commies, Ciro will return to that exact spot and take a second picture. How will he look like?
 image::{cirosantilli-media-base}/Ciro_Santilli_with_a_stone_carved_Budai_in_the_Feilai_Feng_caves_near_the_Lingyin_Temple_in_Hangzhou_in_2012.jpg[height=400]
 
 But he doesn't think it is a good idea for him to do that now, in case his Visa got accepted, because he is not interested in learning about the Chinese jail system! :-)
@@ -1327,7 +1332,7 @@ image::https://ia601505.us.archive.org/27/items/cirosantilli/Video_still_of_2019
 * 2019-07-31 https://www.nytimes.com/2019/07/30/world/asia/china-xinjiang.html "Doubt Greets China’s Claim That Muslims Have Been Released From Camps"
 * 2019-07-19 https://www.france24.com/en/20190712-37-countries-defend-china-over-xinjiang-un-letter "37 countries defend China over Xinjiang in UN letter"
 +
-.<<rebel-pepper>> 2019-07 cartoon showing Xi Jinping claiming to have won the global opinion on the Xinjiang re-education camps because all other dictatorships support him, including Islamic dictatorships. https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source].
+.<<rebel-pepper>> 2019-07 cartoon showing Xi Jinping claiming to have won the global opinion on the Xinjiang re-education camps because all other dictatorships support him, including <<other-islam-countries-speak-up-for-uyghur,Islamic dictatorships>>. https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source].
 image::https://web.archive.org/web/20191012074352im_/https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html/190716RFA-en-1000.jpg/@@images/c8c9143a-3a01-4116-9322-6aeb4857100f.jpeg[height=400]
 * 2019-07-04 https://www.bbc.co.uk/news/world-asia-china-48825090 "China Muslims: Xinjiang schools used to separate children from families"
 * 2019-05-07 https://www.theguardian.com/world/2019/may/07/revealed-new-evidence-of-chinas-mission-to-raze-the-mosques-of-xinjiang
@@ -1352,6 +1357,11 @@ image::https://web.archive.org/web/20191012074352im_/https://www.rfa.org/english
 +
 .Image of prisionners wearing blue sitting down in Xinjiang concentration camp, with some prisionners identified to indicate that they are not criminals but rather detained purely for political reasons. https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[Source].
 image::https://web.archive.org/web/20191107091847/https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html/uyghur-photo.jpg/@@images/58e9361a-f0e3-4886-a80a-6c9668ee678f.jpeg[height=400]
+
+[[other-islam-countries-speak-up-for-uyghur]]
+===== Why don't other Islamic countries speak up for the Uyghur persecution?
+
+* https://nationalinterest.org/feature/plight-uyghurs-why-muslims-wont-speak-their-brethren-112466
 
 [[hong-kong]]
 ==== Hong Kong 香港
@@ -1862,7 +1872,7 @@ It appears that Falun Gong cannon is present at: http://falundafa.org/
 
 It contains <<flg-lhz,LHZ>>'s approved texts / speech transcriptions, which are sacred.
 
-The only sacred version is Chinese which is a sacred language, and of which there is only one perfect revision.
+The only sacred version is Chinese which is a sacred language, and of which there is only one perfect revision. Islam also appears to place great importance on the sacredness of Arabic in which Mohamed first spoke, perhaps even more: https://nationalinterest.org/feature/plight-uyghurs-why-muslims-wont-speak-their-brethren-112466 Protestants and later the Catholic church, have moved away from such really bad strategy however, the accessibility of Christianity is seen on the entrance of many many churches which have a sign "ALL are welcome". Well played.
 
 I think <<flg-lhz,LHZ>> claims the specifically chose to reincarnate in China this time.
 
@@ -2647,16 +2657,32 @@ image::https://web.archive.org/web/20190714002904im_/https://s.abcnews.com/image
 image::https://web.archive.org/web/20190607142501im_/http://www.ursulagauthier.fr/wp-content/uploads/2014/10/Tiananmen-7-715x1024.jpg[height=400]
 
 [[tank-man]]
-===== Tank man 坦克人
+===== Tank Man 坦克人
 
 https://en.wikipedia.org/wiki/Tank_Man https://zh.wikipedia.org/wiki/%E5%9D%A6%E5%85%8B%E4%BA%BA
 
-Good list of all photos: https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/
+Good list of all known photos: https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/
 
-CNN video of Tank Man: https://www.youtube.com/watch?v=YeFzeNAHEhU[].
+A list of Tank Man parodies can be found at: https://knowyourmeme.com/memes/tank-man
+
+CNN video of Tank Man: https://www.youtube.com/watch?v=YeFzeNAHEhU[] but not showing removal, ridiculous, is there a full raw footage somewhere?
+
+Several quick cuts by CBS news that give a good overview: https://www.youtube.com/watch?v=vSbx352cn8A
 
 .Arthur Tsang's photo of Tank Man. https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/[Source].
 image::https://web.archive.org/web/20190808091019im_/http://s.wsj.net/public/resources/images/BN-CZ715_tam2_G_20140529081612.jpg[height=400]
+
+.Stuart Franklin's wider view photo of Tank Man. https://en.wikipedia.org/wiki/File:Tankman_new_longshot_StuartFranklin.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/en/2/28/Tankman_new_longshot_StuartFranklin.jpg[height=400]
+
+.Terril Jones photo taken at ground level with Tank Man on background and men running away on the foreground. The photo was only published in 2009. https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/[Source]
+image::https://web.archive.org/web/20191030232817im_/http://s.wsj.net/public/resources/images/BN-CZ712_TAM_G_20140529081150.jpg[]
+
+.Photoshop of Arthur Tsang's photo of Tank Man with huge rubber ducks replacing the tanks. Inspired by a https://www.youtube.com/watch?v=rSo5MqQVwCY[huge inflatable rubber duck sculpture floating in Hong Kong in 2013]. https://petapixel.com/2013/06/05/yellow-duck-version-of-tank-man-photo-goes-viral-amidst-chinese-censorship[Source].
+image::https://web.archive.org/web/20140722052337im_/http://petapixel.com/assets/uploads/2013/06/duckytankman.jpg[height=400]
+
+.Rough https://en.wikipedia.org/wiki/Lego[Lego] model of the Tank Man scene https://knowyourmeme.com/photos/1499216-tank-man[Source].
+image::https://web.archive.org/save/_embed/https://i.kym-cdn.com/photos/images/newsfeed/001/499/216/29f.png[height=400]
 
 == Media 媒体
 
@@ -2949,6 +2975,8 @@ Projects that attempt to understand how the Great Firewall works and what it blo
 ** http://gking.harvard.edu/publications/randomized-experimental-study-censorship-china
 * https://github.com/phoeagon/gfw-sim GFW emulation
 * https://github.com/citizenlab/chat-censorship data on Censorship
+
+It is also worth noting that as mentioned at: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china websites can become non-functional if CDNs they rely on are taken down, instead of the website being taken down itself.
 
 ==== gfwlist
 
