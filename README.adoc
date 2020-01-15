@@ -680,6 +680,12 @@ Also, when opening a shitpost you may mark it clearly such with the shitpost iss
 
 While we require polite replies to polite posts, no matter what which side they are defending, if a post is marked as a shitpost, things are much more relaxed and fun, and you can generally get away with telling the OP to fuck themselves link:CONTRIBUTING.md[without getting blocked].
 
+.Real shit photos may be posted in reply to shitposts. https://commons.wikimedia.org/wiki/File:Human_Feces_(cropped).jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Human_Feces_%28cropped%29.jpg/517px-Human_Feces_%28cropped%29.jpg[height=400]
+
+.To censor or not to censor good shitposts: that is not the question, <<ciro-santilli>> will never censor them! TODO archive. https://imgur.com/gallery/rA0K90g[Source].
+image::https://i.imgur.com/rA0K90g.jpg?1[height=600]
+
 [[preconceived]]
 ==== You have a preconceived opinion about China that cannot be changed
 
@@ -1425,7 +1431,11 @@ Started in particular due to the <<daryl-morey-tweet>>
 
 Western governments must reciprocate unfair Chinese practices.
 
-Companies only care about money and have no long term view, the following must be imposed by governments on companies.
+Companies only care about money and have no long term view, the following must be imposed by governments on Western companies.
+
+First of all, serious sanctions must be pot on companies that sell sensitive things to dictatorships:
+
+* <<western-companies-that-sell-censorship-technology-to-dictatorships,censorship or anti-privacy software>>
 
 The most obvious thing is to go https://en.wikipedia.org/wiki/Tit_for_tat[tit for tat] on Censorship and completely ban all Chinese-sponsored news and culture media, e.g.:
 
@@ -1556,6 +1566,12 @@ Where basically idiot == someone who creates posts that obviously aren't teachin
 
 .XKCD 386 "Duty Calls" and the famous "Someone is wrong on the Internet" quote. It is a waste of time to be like that. https://xkcd.com/386/[Source]
 image::https://web.archive.org/web/20191113231107if_/https://imgs.xkcd.com/comics/duty_calls.png[height=400]
+
+=== Who is behind this amazing FAQ?
+
+==== Ciro Santilli
+
+Original creator: https://cirosantilli.com/
 
 === How do different websites view Ciro Santilli's profile?
 
@@ -2533,6 +2549,9 @@ image::https://web.archive.org/web/20191013080128if_/https://i.redd.it/c9q6vdybr
 .Likely original or similar image of Xi Jinping with raised fist as he took oath when coming into or renewing office. http://www.china.org.cn/opinion/2018-03/19/content_50723040.htm[Source].
 image::https://web.archive.org/web/20180319114422im_/http://images.china.cn/site1007/2018-03/19/18f2dcae-19f4-459a-be06-016dd13c5a1d.jpg[height=400]
 
+.German's 1938-1945 war flag called the "War Ensign of Germany" in English or "Reichskriegsflagge" in German. https://en.wikipedia.org/wiki/Reichskriegsflagge[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/War_Ensign_of_Germany_%281938%E2%80%931945%29.svg/320px-War_Ensign_of_Germany_%281938%E2%80%931945%29.svg.png[height=400]
+
 .Hitler has of course a few raised fists on Google Images, but they tend to be more agressive, and less compatible with Xi's apathic poker face. http://bodylanguageproject.com/xarticles/wp-content/uploads/2019/07/Hitler-4.jpg[Source].
 image::https://web.archive.org/web/20191218074716if_/https://allthatsinteresting.com/wordpress/wp-content/uploads/2017/10/mouth-open.jpg[height=400]
 
@@ -2871,6 +2890,12 @@ Got creator Dai Jianyong (戴建勇) arrested in 2015:
 .Chrysanthemum Xi Jinping with <<tiananmen,六四>> spice added by Ciro Santilli
 image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
 
+.Original Chrysanthemum Xi Jinping by Dai Jianyong published in 2015. https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/[Source].
+image::https://web.archive.org/web/20200113200256im_/https://chinadigitaltimes.net/wp-content/uploads/2015/05/daijianyong.jpeg[height=400]
+
+.Possible original Xi Jinping photo used for Chrysanthemum Xi, possibly from 2012. The light blue gradient background was used for the official photos of many Communist officials of the era. http://content.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112111,00.html[Source].
+image::https://web.archive.org/web/20190417164247im_/http://img.timeinc.net/time/2012/t100/t100_xi_alt.jpg[height=400]
+
 [[rebel-pepper]]
 === Rebel Pepper 变态辣椒
 
@@ -2975,7 +3000,10 @@ https://en.wikipedia.org/wiki/Jingjing_and_Chacha
 
 Friendly looking mascots of Internet Censhosrhip in China created by the Shenzhen Government in 2006.
 
-https://youtu.be/ZB8ODpw_om8?t=583 "Roger Dingledine - The Tor Censorship Arms Race The Next Chapter - DEF CON 27 Conference" mentions that choosing fridnly looking mascots for internet censorship is a comon practice in several dictatorships, including UAE and Iran so suggest that they are just <<fear-of-west,protecting citizens>>.
+https://youtu.be/ZB8ODpw_om8?t=583 "Roger Dingledine - The Tor Censorship Arms Race The Next Chapter - DEF CON 27 Conference" mentions that choosing friendly looking mascots for internet censorship is a comon practice in several dictatorships, so to suggest that they are just <<fear-of-west,protecting citizens>>, These show the cute UAE censorship page for example:
+
+* Iran https://business.financialpost.com/technology/canadian-software-used-to-filter-internet-in-middle-east
+* Quatar https://rankingdigitalrights.org/2019/06/12/arab-regions-telecommunications-companies-fail-to-respect-users-digital-rights/
 
 The images were https://en.wikipedia.org/w/index.php?title=Jingjing_and_Chacha&oldid=917408711[removed from Wikipedia] presumably due to fair use concerns, so Ciro asked how to check that at: https://webapps.stackexchange.com/questions/137977/how-to-check-why-a-fair-use-image-was-removed-from-wikipedia
 
@@ -2985,11 +3013,21 @@ image::https://web.archive.org/web/20070825092952im_/http://www.e-gov.org.cn/Art
 .Chacha (警警) is the female cop. https://web.archive.org/web/20070825092952/http://www.e-gov.org.cn/Article/news003/2006-01-02/15229.html[Source].
 image::https://web.archive.org/web/20070825092952im_/http://www.e-gov.org.cn/Article/UploadFiles/200601/20060102092327204.jpg[height=400]
 
-.Jingjing and Chacha picture shown on the street, presumably in China. TODO can't web archive. https://www.vice.com/en_us/article/bnvy38/jingjing-and-chacha[Source].
+.Jingjing and Chacha picture shown on the street, presumably in China. TODO archive. https://www.vice.com/en_us/article/bnvy38/jingjing-and-chacha[Source].
 image::https://images.vice.com/vice/images/articles/meta/2012/03/06/jingjing-and-chacha-1413461637268.jpeg[height=400]
 
-.Image with Jingjing and Chacha together and explanations, good for copy pasting. TODO a bit small. TODO can't web archive. https://www.reddit.com/r/Cyberpunk/comments/84vbut/cute_official_mascot_design_of_chinese_internet/[Source]
+.Image with Jingjing and Chacha together and explanations, good for copy pasting. TODO a bit small. TODO archive. https://www.reddit.com/r/Cyberpunk/comments/84vbut/cute_official_mascot_design_of_chinese_internet/[Source]
 image::https://i.redd.it/ns9jhaeel4m01.jpg[height=400]
+
+.The Qatar friendly censorship page likely from around 2011. https://commons.wikimedia.org/wiki/File:Qatar_filtering_message._Qtel_network.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/d/d6/Qatar_filtering_message._Qtel_network.jpg[height=600]
+
+===== Western companies that sell censorship technology to dictatorships
+
+* https://en.wikipedia.org/wiki/Forcepoint[Forcepoint], previously Websense
+** claims on Wikipedia: https://en.wikipedia.org/wiki/Forcepoint#Censorship
+* Netsweeper Inc. from Canada to UAE
+** claim from 2011: https://business.financialpost.com/technology/canadian-software-used-to-filter-internet-in-middle-east
 
 ==== Censorship monitoring
 
