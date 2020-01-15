@@ -665,7 +665,7 @@ See also: <<do-you-speak-chinese>>.
 
 So, have you reached the conclusion that your https://en.wikipedia.org/wiki/Shitposting[shitpost] is link:CONTRIBUTING.md[worth the risk of getting blocked]?
 
-Remember that shitposts can also be creative: if you are going to insult Ciro, at least do it in a creative way, or else you look like an even bigger idiot than you really are.
+Remember that shitposts can also be creative: if you are going to insult Ciro Santilli, at least do it in a creative way, or else you look like an even bigger idiot than you really are.
 
 A Chinese insult tip 101, avoid similar sound euphemisms. If you are going to say shit at least grow some balls or tits and use the proper characters, Ciro will respect you more for it:
 
@@ -677,6 +677,8 @@ A Chinese insult tip 101, avoid similar sound euphemisms. If you are going to sa
 A collection of shitposts for you to take inspiration from can be found at: https://github.com/cirosantilli/china-dictatorship/labels/shitpost
 
 Also, when opening a shitpost you may mark it clearly such with the shitpost issue template which automatically assigns the shitpost label. Doing so will make you look like less of an idiot.
+
+While we require polite replies to polite posts, no matter what which side they are defending, if a post is marked as a shitpost, things are much more relaxed and fun, and you can generally get away with telling the OP to fuck themselves link:CONTRIBUTING.md[without getting blocked].
 
 [[preconceived]]
 ==== You have a preconceived opinion about China that cannot be changed
@@ -2525,10 +2527,16 @@ Keywords:
 * Chinazi (赤纳粹). TODO why 赤. Means Red, but where else is it used?
 * link:https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum[Reductio ad Hitlerum]
 
-.https://www.reddit.com/r/HongKong/comments/cuf3p7/chinazi_xitler/[Source].
+.Photoshopped Xi Jinping with raised fist with Nazi uniform and flag on the background. https://www.reddit.com/r/HongKong/comments/cuf3p7/chinazi_xitler/[Source].
 image::https://web.archive.org/web/20191013080128if_/https://i.redd.it/c9q6vdybr7i31.jpg[height=400]
 
-.Photoshopped cover of Mein Kampf with Xi's face on top of Hitler's and other modifications. https://foreignerinformosa.typepad.com/the_foreigner_in_formosa/2017/07/president-xitler-of-china-murders-political-dissident-liu-xiaobo.html[Source].
+.Likely original or similar image of Xi Jinping with raised fist as he took oath when coming into or renewing office. http://www.china.org.cn/opinion/2018-03/19/content_50723040.htm[Source].
+image::https://web.archive.org/web/20180319114422im_/http://images.china.cn/site1007/2018-03/19/18f2dcae-19f4-459a-be06-016dd13c5a1d.jpg[height=400]
+
+.Hitler has of course a few raised fists on Google Images, but they tend to be more agressive, and less compatible with Xi's apathic poker face. http://bodylanguageproject.com/xarticles/wp-content/uploads/2019/07/Hitler-4.jpg[Source].
+image::https://web.archive.org/web/20191218074716if_/https://allthatsinteresting.com/wordpress/wp-content/uploads/2017/10/mouth-open.jpg[height=400]
+
+.Photoshopped cover of Mein Kampf with Xi's face on top of Hitler's and other modifications such as Mian instead of Mein, likely the same 面 (mian4, face) as the Chinese character at the bottom right. https://foreignerinformosa.typepad.com/the_foreigner_in_formosa/2017/07/president-xitler-of-china-murders-political-dissident-liu-xiaobo.html[Source].
 image::https://web.archive.org/web/20191013080043if_/https://foreignerinformosa.typepad.com/.a/6a00d834523d5069e201b7c90b8e9c970b-pi[height=400]
 
 .Original cover of Mein Kampf. link:++https://commons.wikimedia.org/wiki/File:Adolf_Hitler_-_Mein_Kampf_(855._Auflage,_1943).pdf++[Source].
@@ -2926,6 +2934,8 @@ What if this person is right, and wants to express this publicly to get support 
 
 Should this person just be put into jail as is done currently? Do you really think that the CCP can never do anything seriously wrong? <<the-chinese-politicians-really-care-about-the-chinese-citizens>>?
 
+When citizens stop trying to contribute due to fear, this is known as the https://en.wikipedia.org/wiki/Chilling_effect[chilling effect (寒蝉效应)].
+
 What if a <<do-you-think-chinese-politician-x-evil,politician>> does something bad, and suppresses the news to protect themselves?
 
 Without freedom of speech, who will watch over the actions of those in power? https://en.wikipedia.org/wiki/Quis_custodiet_ipsos_custodes%3F[Quis custodiet ipsos custodes?]
@@ -2949,7 +2959,7 @@ ____
 Do you not think that this translates well to the modern version:
 
 ____
-Where they have deleted online posts, they will end in burning human beings.
+Where they have deleted online posts, they will end in deleting human beings.
 ____
 
 .Internal censorship is so strong, that many Chinese people who leave China to live abroad continue to believe that the CCP is always right, despite having access evidence that suggests otherwise. This <<rebel-pepper>> 2019-08 cartoon shows frogs coming out of a big well still remain inside their own small wells made up of Chinese media such as <<zhihu-purge,Zhihu>> and CCTV. It is a reference to the Chinese proverb https://zh.wikipedia.org/wiki/%E4%BA%95%E5%BA%95%E4%B9%8B%E8%9B%99[井底之蛙] which means that a frog in the bottom of the well can only see a very limited portion of the sky. https://www.rfa.org/mandarin/biantailajiaomanhua/lj-08302019111414.html[Source].
@@ -2957,6 +2967,29 @@ image::https://web.archive.org/web/20190915124441im_/https://www.rfa.org/mandari
 
 .<<nazi,Nazis>> burning books in Berlin in 1933. https://en.wikipedia.org/wiki/Nazi_book_burnings[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/1933-may-10-berlin-book-burning.JPG/603px-1933-may-10-berlin-book-burning.JPG[]
+
+[[jingjing-chacha]]
+===== Jingjing and Chacha 警警察察
+
+https://en.wikipedia.org/wiki/Jingjing_and_Chacha
+
+Friendly looking mascots of Internet Censhosrhip in China created by the Shenzhen Government in 2006.
+
+https://youtu.be/ZB8ODpw_om8?t=583 "Roger Dingledine - The Tor Censorship Arms Race The Next Chapter - DEF CON 27 Conference" mentions that choosing fridnly looking mascots for internet censorship is a comon practice in several dictatorships, including UAE and Iran so suggest that they are just <<fear-of-west,protecting citizens>>.
+
+The images were https://en.wikipedia.org/w/index.php?title=Jingjing_and_Chacha&oldid=917408711[removed from Wikipedia] presumably due to fair use concerns, so Ciro asked how to check that at: https://webapps.stackexchange.com/questions/137977/how-to-check-why-a-fair-use-image-was-removed-from-wikipedia
+
+.Jinjing (警警) is the male cop. https://web.archive.org/web/20070825092952/http://www.e-gov.org.cn/Article/news003/2006-01-02/15229.html[Source].
+image::https://web.archive.org/web/20070825092952im_/http://www.e-gov.org.cn/Article/UploadFiles/200601/20060102092326277.jpg[height=400]
+
+.Chacha (警警) is the female cop. https://web.archive.org/web/20070825092952/http://www.e-gov.org.cn/Article/news003/2006-01-02/15229.html[Source].
+image::https://web.archive.org/web/20070825092952im_/http://www.e-gov.org.cn/Article/UploadFiles/200601/20060102092327204.jpg[height=400]
+
+.Jingjing and Chacha picture shown on the street, presumably in China. TODO can't web archive. https://www.vice.com/en_us/article/bnvy38/jingjing-and-chacha[Source].
+image::https://images.vice.com/vice/images/articles/meta/2012/03/06/jingjing-and-chacha-1413461637268.jpeg[height=400]
+
+.Image with Jingjing and Chacha together and explanations, good for copy pasting. TODO a bit small. TODO can't web archive. https://www.reddit.com/r/Cyberpunk/comments/84vbut/cute_official_mascot_design_of_chinese_internet/[Source]
+image::https://i.redd.it/ns9jhaeel4m01.jpg[height=400]
 
 ==== Censorship monitoring
 
