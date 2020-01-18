@@ -84,7 +84,7 @@ Making a statement where no one will ever see it, like a personal website, is <<
 
 Much of the best art and technology is about using something in a way that it wasn't meant to be used.
 
-Finally, the political powers of each website decide what is allowed or not on their website, and what is not allowed gets blocked. So far, Stack Overflow and GitHub's ToS have said go ahead.
+Finally, the political powers of each website decide what is allowed or not on their website, and what is not allowed gets blocked. So far, Stack Overflow and GitHub's Terms of Service have said go ahead.
 
 Stack Overflow threads: <<do-stack-overflow-policies-allow-for-keyword-attacks>>.
 
@@ -95,6 +95,8 @@ Duplicate pool:
 * https://github.com/cirosantilli/china-dictatorship/issues/66#issuecomment-528165637 (https://web.archive.org/web/20190911212149/https://github.com/cirosantilli/china-dictatorship/issues/66[archive])
 * https://github.com/cirosantilli/china-dictatorship/issues/75
 * https://github.com/cirosantilli/china-dictatorship/issues/78
+
+If you disagree with GitHub's Terms of Service, you can write an email to them to: support@github.com telling them that.
 
 ==== Is Ciro Santilli making programming contributions with the main intent of promoting your political agenda?
 
