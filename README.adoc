@@ -685,8 +685,8 @@ While we require polite replies to polite posts, no matter what which side they 
 .Real shit photos may be posted in reply to shitposts. https://commons.wikimedia.org/wiki/File:Human_Feces_(cropped).jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Human_Feces_%28cropped%29.jpg/517px-Human_Feces_%28cropped%29.jpg[height=400]
 
-.To censor or not to censor good shitposts: that is not the question, <<ciro-santilli>> will never censor them! TODO archive. https://imgur.com/gallery/rA0K90g[Source].
-image::https://i.imgur.com/rA0K90g.jpg?1[height=600]
+.To censor or not to censor good shitposts: that is not the question, <<ciro-santilli>> will never censor them! https://imgur.com/gallery/rA0K90g[Source].
+image::https://web.archive.org/web/20200120095415/https://i.imgur.com/rA0K90g.jpg?1[height=600]
 
 [[preconceived]]
 ==== You have a preconceived opinion about China that cannot be changed
@@ -1566,7 +1566,27 @@ ____
 
 Where basically idiot == someone who creates posts that obviously aren't teaching you any new useful thing, or that not praising you :-)
 
-.XKCD 386 "Duty Calls" and the famous "Someone is wrong on the Internet" quote. It is a waste of time to be like that. https://xkcd.com/386/[Source]
+Alternatively, there is also the Chinese https://en.wikipedia.org/wiki/Chengyu[chengyu] version:
+
+____
+对牛弹琴
+____
+
+which means:
+
+____
+Playing the <<music,qin>> to a cow.
+____
+
+which means to talk to someone who does not have intelectual conditions of understanding what you are trying to say, bibliography:
+
+* https://www.theepochtimes.com/chinese-idiom-playing-the-qin-to-a-cow_766205.html
+* https://baike.baidu.com/item/%E5%AF%B9%E7%89%9B%E5%BC%B9%E7%90%B4/3490
+
+.Cartoon depiction of the https://en.wikipedia.org/wiki/Chengyu[chengyu] "Playing the <<music,qin>> to a cow" 《对牛弹琴》. https://zhidao.baidu.com/question/438181067.html[Source].
+image::http://web.archive.org/web/20200120094357im_/https://iknow-pic.cdn.bcebos.com/a8773912b31bb051adcb2e6a3b7adab44bede081?x-bce-process=image/resize,m_lfit,w_600,h_800,limit_1[]
+
+.XKCD 386 "Duty Calls" and the famous "Someone is wrong on the Internet" quote. It is a waste of time to be like that. https://xkcd.com/386/[Source].
 image::https://web.archive.org/web/20191113231107if_/https://imgs.xkcd.com/comics/duty_calls.png[height=400]
 
 === Who is behind this amazing FAQ?
@@ -3015,13 +3035,13 @@ image::https://web.archive.org/web/20070825092952im_/http://www.e-gov.org.cn/Art
 .Chacha (警警) is the female cop. https://web.archive.org/web/20070825092952/http://www.e-gov.org.cn/Article/news003/2006-01-02/15229.html[Source].
 image::https://web.archive.org/web/20070825092952im_/http://www.e-gov.org.cn/Article/UploadFiles/200601/20060102092327204.jpg[height=400]
 
-.Jingjing and Chacha picture shown on the street, presumably in China. TODO archive. https://www.vice.com/en_us/article/bnvy38/jingjing-and-chacha[Source].
-image::https://images.vice.com/vice/images/articles/meta/2012/03/06/jingjing-and-chacha-1413461637268.jpeg[height=400]
+.Jingjing and Chacha picture shown on the street, presumably in China. https://www.vice.com/en_us/article/bnvy38/jingjing-and-chacha[Source].
+image::https://web.archive.org/web/20200120095152im_/https://images.vice.com/vice/images/articles/meta/2012/03/06/jingjing-and-chacha-1413461637268.jpeg?crop=1xw:1xh;center[height=400]
 
-.Image with Jingjing and Chacha together and explanations, good for copy pasting. TODO a bit small. TODO archive. https://www.reddit.com/r/Cyberpunk/comments/84vbut/cute_official_mascot_design_of_chinese_internet/[Source]
-image::https://i.redd.it/ns9jhaeel4m01.jpg[height=400]
+.Image with Jingjing and Chacha together and explanations, good for copy pasting. TODO a bit small. https://www.reddit.com/r/Cyberpunk/comments/84vbut/cute_official_mascot_design_of_chinese_internet/[Source]
+image::https://web.archive.org/web/20200115110425im_/https://i.redd.it/ns9jhaeel4m01.jpg[height=400]
 
-.The Qatar friendly censorship page likely from around 2011. https://commons.wikimedia.org/wiki/File:Qatar_filtering_message._Qtel_network.jpg[Source].
+.The Qatar friendly censorship page likely from around 2011. China is not alone in this "cute censorship" technique. https://commons.wikimedia.org/wiki/File:Qatar_filtering_message._Qtel_network.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/d/d6/Qatar_filtering_message._Qtel_network.jpg[height=600]
 
 ===== Western companies that sell censorship technology to dictatorships
