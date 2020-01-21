@@ -3027,7 +3027,7 @@ https://youtu.be/ZB8ODpw_om8?t=583 "Roger Dingledine - The Tor Censorship Arms R
 * Iran https://business.financialpost.com/technology/canadian-software-used-to-filter-internet-in-middle-east
 * Quatar https://rankingdigitalrights.org/2019/06/12/arab-regions-telecommunications-companies-fail-to-respect-users-digital-rights/
 
-The images were https://en.wikipedia.org/w/index.php?title=Jingjing_and_Chacha&oldid=917408711[removed from Wikipedia] presumably due to fair use concerns, so Ciro asked how to check that at: https://webapps.stackexchange.com/questions/137977/how-to-check-why-a-fair-use-image-was-removed-from-wikipedia
+The images were https://en.wikipedia.org/w/index.php?title=Jingjing_and_Chacha&oldid=917408711[removed from Wikipedia] presumably due to fair use concerns, so Ciro asked how to check that at: https://webapps.stackexchange.com/questions/137977/how-to-check-why-a-fair-use-image-was-removed-from-wikipedia After understanding the case, Ciro https://en.wikipedia.org/w/index.php?title=Jingjing_and_Chacha&oldid=936842199[reuploaded the images], hopefully for good.
 
 .Jinjing (警警) is the male cop. https://web.archive.org/web/20070825092952/http://www.e-gov.org.cn/Article/news003/2006-01-02/15229.html[Source].
 image::https://web.archive.org/web/20070825092952im_/http://www.e-gov.org.cn/Article/UploadFiles/200601/20060102092326277.jpg[height=400]
@@ -3036,20 +3036,46 @@ image::https://web.archive.org/web/20070825092952im_/http://www.e-gov.org.cn/Art
 image::https://web.archive.org/web/20070825092952im_/http://www.e-gov.org.cn/Article/UploadFiles/200601/20060102092327204.jpg[height=400]
 
 .Jingjing and Chacha picture shown on the street, presumably in China. https://www.vice.com/en_us/article/bnvy38/jingjing-and-chacha[Source].
-image::https://web.archive.org/web/20200120095152im_/https://images.vice.com/vice/images/articles/meta/2012/03/06/jingjing-and-chacha-1413461637268.jpeg?crop=1xw:1xh;center[height=400]
+image::https://web.archive.org/web/20200115110135if_/https://images.vice.com/vice/images/articles/meta/2012/03/06/jingjing-and-chacha-1413461637268.jpeg[height=400]
 
-.Image with Jingjing and Chacha together and explanations, good for copy pasting. TODO a bit small. https://www.reddit.com/r/Cyberpunk/comments/84vbut/cute_official_mascot_design_of_chinese_internet/[Source]
+.Image with Jingjing and Chacha together and explanations (深圳网络警察,Shenzhen Network Police), good for copy pasting. TODO a bit small. https://www.reddit.com/r/Cyberpunk/comments/84vbut/cute_official_mascot_design_of_chinese_internet/[Source]
 image::https://web.archive.org/web/20200115110425im_/https://i.redd.it/ns9jhaeel4m01.jpg[height=400]
+
+.Beijing version of the Shenzhen-created Jingjing and Chacha. TODO what does it say on the images? On car "XX网络110" (XX Internet 110) so it must be the phone number of the Internet police department. At bottom right something like (联合新作, joint XX), so likely means it is a joint action between two departments. http://www.nbcnews.com/id/20477258/ns/technology_and_science-internet/t/beijing-police-launch-virtual-web-patrol/[Source].
+image::https://web.archive.org/save/_embed/http://media2.s-nbcnews.com/j/ap/bej10508281134.grid-6x2.jpg[height=400]
 
 .The Qatar friendly censorship page likely from around 2011. China is not alone in this "cute censorship" technique. https://commons.wikimedia.org/wiki/File:Qatar_filtering_message._Qtel_network.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/d/d6/Qatar_filtering_message._Qtel_network.jpg[height=600]
 
 ===== Western companies that sell censorship technology to dictatorships
 
-* https://en.wikipedia.org/wiki/Forcepoint[Forcepoint], previously Websense
+To China:
+
+* Cisco may have knowingly helped to build the Chinese internet censorship infrastructure in the 2000's
+** https://en.wikipedia.org/wiki/Cisco_Systems#Censorship_in_China
+** https://www.eff.org/deeplinks/2016/04/ciscos-latest-attempt-dodge-responsibility-facilitating-human-rights-abuses-export
+*** https://www.eff.org/files/2016/01/12/113_second_amended_complaint_does_v._cisco_9.18.13.pdf they had a demo with a <<falun-gong>> module
+** https://www.wired.com/2008/05/leaked-cisco-do/
+*** Internal CISCO documents quote the Chinese Government saying: "The Golden Shield Project ... Combat Falun Gong evil religion and other hostiles"
+
+To other dictatorships:
+
+* 2019: IBM https://gizmodo.com/ibm-sells-face-recognition-surveillance-to-a-dictatorsh-1835101881
+* 2017: Amesys France for facial recognition surveillance in Egypt: https://www.fidh.org/en/region/north-africa-middle-east/egypt/sale-of-surveillance-equipment-to-egypt-by-french-company-amesys
+* 2011: Netsweeper Inc. from Canada to UAE
+** claim: https://business.financialpost.com/technology/canadian-software-used-to-filter-internet-in-middle-east
+* 2009: https://en.wikipedia.org/wiki/Forcepoint[Forcepoint], previously Websense
 ** claims on Wikipedia: https://en.wikipedia.org/wiki/Forcepoint#Censorship
-* Netsweeper Inc. from Canada to UAE
-** claim from 2011: https://business.financialpost.com/technology/canadian-software-used-to-filter-internet-in-middle-east
+
+In 2019, the European Union was considering making stricter laws about cyber surveillance exports, to include more technologies that can be used either for Censorship or other non-evil applications (dual-use), <<what-should-western-countries-do-about-china,kudos to them>>:
+
+* http://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI%282016%29589832
+* http://ec.europa.eu/trade/import-and-export-rules/export-from-eu/dual-use-controls/index_en.htm
+* http://www.osborneclarke.com/insights/upcoming-changes-to-bring-cyber-surveillance-technology-within-eu-export-control-regime/
+* http://www.aljazeera.com/news/2017/12/eu-plans-restrict-export-dual-spy-tech-171210061410639.html
+
+.Cartoon showing how Amesys systems are used to supress citizens in Egypt. Do you want the logo of your company to figure there instead? https://www.fidh.org/en/region/north-africa-middle-east/egypt/sale-of-surveillance-equipment-to-egypt-by-french-company-amesys[Source].
+*mage::https://web.archive.org/save/_embed/https://www.fidh.org/local/cache-gd2/86/564727cb219a210145a0dd6a1b7561.jpg?1556188970[]
 
 ==== Censorship monitoring
 
