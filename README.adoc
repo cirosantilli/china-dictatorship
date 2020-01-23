@@ -720,7 +720,7 @@ image::http://web.archive.org/web/20191012100528im_/https://i.guim.co.uk/img/med
 .Comparison image between Xi Jinping on a car in a 2015 military parade and a toy Winnie-the-Pooh on a car. https://www.bbc.co.uk/news/blogs-china-blog-40627855[Source].
 image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/news/624/cpsprodpb/DD1F/production/_96970665_4587b36b-011f-4007-b16f-34389d385aec.jpg[height=400]
 
-=== Chinese politicians really care about the Chinese citizens
+==== Chinese politicians really care about the Chinese citizens
 
 Sometimes people say Ciro Santilli is naive.
 
