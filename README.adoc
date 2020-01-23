@@ -272,7 +272,7 @@ Some interesting aspects of the keyword attack embargo:
 By political and technological information is together, and this immediately puts the dictatorship in a bad spot, without us having to decide anything.
 * by affecting programmers in particular through Stack Overflow and GitHub, we make them more likely to develop better Firewall climbing tools themselves
 
-One point in favor of the embargo is that China has opened up since the 80's 90's, but did freedom improve at all? Under Xi Jinping, it may be argued that it did not, and maybe that we should just stop feeding them technology and accept that they won't become free.
+One point in favor of the embargo is that China has opened up since the 80's 90's, but did freedom improve at all? Under <<xi-jinping>>, it may be argued that it did not, and maybe that we should just stop feeding them technology and accept that they won't become free.
 
 Trump's link:https://www.theguardian.com/commentisfree/2019/jun/02/trump-banning-huawei-beginning-of-biggest-trade-war-ever-united-states[2019 China trade war], and in particular the Huawei ban, is an event that have brought this question to the spotlight once again.
 
@@ -625,6 +625,10 @@ Democracies cannot necessarily protect weak countries from powerful ones either.
 
 What democracy do is to protect its own people against its own government. Because when the government turns against part of the population in a dictatorship, that part of the population gets crushed entirely, without any chance to fight, because they don't have an army or ally countries like other countries do.
 
+Here are some images that wumao's like to post:
+
+* Left Right Slaughterhouse comic: http://9gag.com/gag/ayn7KmW?ref=fbp
+
 ==== Russia
 
 Russia is clearly the number 2 dictatorship in the world by population / GDP and the link:https://www.ploughshares.org/world-nuclear-stockpile-report[#1 nuclear arsenal], so here we go.
@@ -644,6 +648,126 @@ While I'm at it, some interesting news:
 * 2014 link:https://en.wikipedia.org/wiki/Putin_khuylo![]
 * 1995 https://en.wikipedia.org/wiki/Vladislav_Listyev
 
+=== Is the Chinese government is evil?
+
+No, just <<richer,inefficient>> and <<war,dangerous>>.
+
+It is just another non-democratic empire like the Qing Dynasty, we might as well cal it:
+
+____
+共产朝
+The Comunist Dinasty
+____
+
+Expression previously mentioned at: http://web.archive.org/web/20161025220242/http://tieba.baidu.com/p/752094668
+
+==== Is Chinese politician X evil?
+
+The term evil does not make sense.
+
+The best definition of evil is a psychopath with zero empathy for anyone: https://en.wikipedia.org/wiki/Psychopathy although this can be better characterized as a disease or extreme personality trait.
+
+The huge majority of those politicians are just regular dudes with a knack for politics but brought up in a fucked up political situation.
+
+Just like you, Ciro Santilli and other politicians in any country.
+
+[[xi-jinping]]
+==== Xi Jinping 习近平
+
+https://en.wikipedia.org/wiki/Xi_Jinping
+
+[[chrysanthemium-xi-jinping]]
+===== Chrysanthemium Xi Jinping 菊花习近平
+
+Got creator Dai Jianyong (戴建勇) arrested in 2015:
+
+* https://www.independent.co.uk/news/world/asia/chinese-artist-who-posted-funny-image-of-president-xi-jinping-facing-five-years-in-prison-as-10282630.html
+* https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/
+
+.Chrysanthemum Xi Jinping with <<tiananmen,六四>> spice added by Ciro Santilli
+image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
+
+.Original Chrysanthemum Xi Jinping by Dai Jianyong published in 2015. https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/[Source].
+image::https://web.archive.org/web/20200113200256im_/https://chinadigitaltimes.net/wp-content/uploads/2015/05/daijianyong.jpeg[height=400]
+
+.Possible original Xi Jinping photo used for Chrysanthemum Xi, possibly from 2012. The light blue gradient background was used for the official photos of many Communist officials of the era. http://content.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112111,00.html[Source].
+image::https://web.archive.org/web/20190417164247im_/http://img.timeinc.net/time/2012/t100/t100_xi_alt.jpg[height=400]
+
+===== Xi abolishes term limits 2018-03
+
+* 包子露宪 https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution
+* https://www.nytimes.com/2018/03/10/world/asia/china-xi-jinping-term-limit-explainer.html
+
+.<<rebel-pepper>> cartoon showing Xi Jinping preparing to sleep in https://en.wikipedia.org/wiki/Mausoleum_of_Mao_Zedong[Mao Zedong's tomb], meaning that Xi also wants to reach Mao's "eternal ruler" status when he abolished term limits in 2018. https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html[Source].
+image::https://web.archive.org/web/20191013080140if_/https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html/180227RFA-XiJinping-Eternity.jpg[height=400]
+
+.1977 photo showing Mao's actual glass tomb during his funeral, with famous politicians in the background. It is interesting to see that Mao https://mummipedia.fandom.com/wiki/Mao_Zedong[features on the "Fandom Mummipedia Wiki"]. https://apnews.com/a94a0d7a824b474fb11545e8c4481c21[Source].
+image::https://web.archive.org/web/20200121105502if_/https://storage.googleapis.com/afs-prod/media/media:c65bb5f4e2664bb88aae7881f8adbba0/800.jpeg[height=400]
+
+[[winnie-the-pooh]]
+===== Comparisons between Xi Jinping and Winnie-the-Pooh 小熊維尼
+
+Got censored due to comparisons between Xi Jinping and Winnie in 2017: https://en.wikipedia.org/wiki/Winnie-the-Pooh#Censorship_in_China
+
+Some good photoshops:
+
+.Comparison image between Xi Jinping waking with then USA president https://en.wikipedia.org/wiki/Barack_Obama[Barack Obama] with a Winnie-the-Pooh cartoon still of Winnie walking with https://en.wikipedia.org/wiki/Tigger[Tigger, the tiger]. The original photo is from https://www.abc.net.au/news/2013-06-09/obama2c-xi-forge-rapport-in-debut-summit/4742616[Xi's 2013 visit to the Annenberg Retreat at Sunnylands, California]. https://www.telegraph.co.uk/news/2017/07/17/oh-bother-chinese-censors-block-winnie-pooh-meme-comparing-xi/[Source].
+image::https://web.archive.org/web/20170801011641if_/http://i.telegraph.co.uk/multimedia/archive/02590/TIGGER_2590531b.jpg[height=400]
+
+.Comparison image between Xi Jinping shaking hands with https://en.wikipedia.org/wiki/Shinz%C5%8D_Abe[the Japanese prime minister Shinzo Abe] and a Winnie-the-Pooh cartoon still of Winnie shaking hands with the https://en.wikipedia.org/wiki/Eeyore[Eeyore, the donkey]. The original photo is from https://www.nytimes.com/2014/11/11/world/asia/leaders-of-china-and-japan-hold-long-awaited-meeting.html[Abe's lacklustre 2014 visit to Beijing]. https://www.theguardian.com/world/2018/aug/07/china-bans-winnie-the-pooh-film-to-stop-comparisons-to-president-xi[Source].
+image::http://web.archive.org/web/20191012100528im_/https://i.guim.co.uk/img/media/84b60992d857bccf54c384e4ebeb0ea7f207246b/37_0_752_451/master/752.jpg?width=620&quality=85&auto=format&fit=max&s=e33410b2fb10c3d6de6a6ed65b6a7d8e[height=400]
+
+.Comparison image between Xi Jinping on a car in a 2015 military parade and a toy Winnie-the-Pooh on a car. https://www.bbc.co.uk/news/blogs-china-blog-40627855[Source].
+image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/news/624/cpsprodpb/DD1F/production/_96970665_4587b36b-011f-4007-b16f-34389d385aec.jpg[height=400]
+
+=== Chinese politicians really care about the Chinese citizens
+
+Sometimes people say Ciro Santilli is naive.
+
+Politicians are the same all over the world.
+
+Some are good, some are evil.
+
+China's problem is not its politicians.
+
+It's the current shitty political organization, which allows/convinces those politicians to do really bad things: <<richer>>, <<war>>.
+
+[[nazi]]
+=== Comparisons between the CCP and Nazi Germany
+
+Keywords:
+
+* Xitler (习特勒). 习 "xi2" is very close in sound to the Chinese name of Hitler: https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E5%A4%AB%C2%B7%E5%B8%8C%E7%89%B9%E5%8B%92[希特勒] (xi1 te4 le4)
+* Chinazi (赤纳粹). TODO why 赤. Means Red, but where else is it used?
+* link:https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum[Reductio ad Hitlerum]
+
+.Photoshopped <<xi-jinping>> with raised fist with Nazi uniform and flag on the background. https://www.reddit.com/r/HongKong/comments/cuf3p7/chinazi_xitler/[Source].
+image::https://web.archive.org/web/20191013080128if_/https://i.redd.it/c9q6vdybr7i31.jpg[height=400]
+
+.Likely original or similar image of <<xi-jinping>> with raised fist as he took oath when coming into or renewing office. http://www.china.org.cn/opinion/2018-03/19/content_50723040.htm[Source].
+image::https://web.archive.org/web/20180319114422im_/http://images.china.cn/site1007/2018-03/19/18f2dcae-19f4-459a-be06-016dd13c5a1d.jpg[height=400]
+
+.German's 1938-1945 war flag called the "War Ensign of Germany" in English or "Reichskriegsflagge" in German. https://en.wikipedia.org/wiki/Reichskriegsflagge[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/War_Ensign_of_Germany_%281938%E2%80%931945%29.svg/320px-War_Ensign_of_Germany_%281938%E2%80%931945%29.svg.png[height=400]
+
+.Hitler has of course a few raised fists on Google Images, but they tend to be more agressive, and less compatible with Xi's apathic poker face. http://bodylanguageproject.com/xarticles/wp-content/uploads/2019/07/Hitler-4.jpg[Source].
+image::https://web.archive.org/web/20191218074716if_/https://allthatsinteresting.com/wordpress/wp-content/uploads/2017/10/mouth-open.jpg[height=400]
+
+.Photoshopped cover of Mein Kampf with Xi's face on top of Hitler's and other modifications such as Mian instead of Mein, likely the same 面 (mian4, face) as the Chinese character at the bottom right. https://foreignerinformosa.typepad.com/the_foreigner_in_formosa/2017/07/president-xitler-of-china-murders-political-dissident-liu-xiaobo.html[Source].
+image::https://web.archive.org/web/20191013080043if_/https://foreignerinformosa.typepad.com/.a/6a00d834523d5069e201b7c90b8e9c970b-pi[height=400]
+
+.Original cover of Mein Kampf. link:++https://commons.wikimedia.org/wiki/File:Adolf_Hitler_-_Mein_Kampf_(855._Auflage,_1943).pdf++[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Adolf_Hitler_-_Mein_Kampf_%28855._Auflage%2C_1943%29.pdf/page1-423px-Adolf_Hitler_-_Mein_Kampf_%28855._Auflage%2C_1943%29.pdf.jpg[]
+
+.Photoshopped photo of Hitler giving the Nazi salute from a car with Himmler on the background with Xi's face on top of Hitler's. http://chinhdangvu1.blogspot.com/2017/09/xitler-chinazism.html[Source].
+image::https://web.archive.org/web/20191013080031if_/https://pbs.twimg.com/media/DGlPeEmXcAAaeQa.jpg[height=400]
+
+.Original photo of Hitler giving the Nazi salute from a car with Himmler on the background. https://en.wikipedia.org/wiki/File:Hitler-car.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Hitler-car.jpg/640px-Hitler-car.jpg[height=400]
+
+.Chinazi flag by <<2019-hong-kong-anti-extradition-bill-protests,Hong Kong protesters>>. Seen https://chinadigitaltimes.net/chinese/2019/08/%E3%80%90%E7%9B%9B%E4%B8%96%E4%B8%80%E6%99%AF%E3%80%91%E8%B5%A4%E7%BA%B3%E7%B2%B9%E6%97%97%EF%BC%88chinazi-flag%EF%BC%89/[on streets]. https://www.reddit.com/r/HongKong/comments/dbrken/google_bomb_china_flag_search_query_into_chinazi/[Source].
+image::https://web.archive.org/web/20191003190442if_/https://i.redd.it/c0d340rtswp31.png[height=400]
+
 === Personal questions about Ciro Santilli
 
 ==== Can I contact you in Chinese?
@@ -660,7 +784,7 @@ It is more productive for you to write in English, so that the rest of the West 
 
 Especially since it seems that most Chinese already know what you are talking about.
 
-See also: <<do-you-speak-chinese>>.
+See also: <<does-ciro-santilli-speak-chinese>>.
 
 [[shitpost]]
 ===== I want to take my chances and make a shitpost in cirosantilli/china-dictatorship
@@ -722,38 +846,38 @@ He knows that if you don't mind contributing to making <<war,WW3>> deadlier and 
 
 If the dictatorship ends, I would like to <<do-you-hate-china,migrate to China>> if given a decent job to help you develop and become awesomer.
 
-==== Are you Chinese?
+==== Is Ciro Santilli Chinese?
 
 See: https://cirosantilli.com/#ciro-santilli
 
-But <<why-do-you-love-china-so-much,my wife is>>.
+But <<why-do-you-love-china-so-much,his wife is>>.
 
-==== Do you speak Chinese?
+==== Does Ciro Santilli speak Chinese?
 
 As of 2019, oral enough for daily things, but not understand most natural casual dinner conversation or watch TV series, because they go too quickly into vocabulary subject areas that I don't know.
 
-When it matters, and with some patience, I can make myself understood though with https://xkcd.com/thing-explainer/[some analogies] (https://web.archive.org/web/20190908144612/https://xkcd.com/thing-explainer/[archive]) and a dictionary.
+When it matters, and with some patience, Can can make himself understood though with https://xkcd.com/thing-explainer/[some analogies] (https://web.archive.org/web/20190908144612/https://xkcd.com/thing-explainer/[archive]) and a dictionary.
 
-From the HSK vocabulary list, I estimate definitely HSK 3, but not quite HSK 4. This would likely equate A2 / B1 in the https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages[European system].
+From the HSK vocabulary list, he estimates that ihe is definitely HSK 3, but not quite HSK 4. This would likely equate A2 / B1 in the https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages[European system].
 
-Phonetics wise, I can't distinguish or produce a few sounds, notably `-ing` vs `-in` and my off-tone rate is high, but it tends to not matter at all compared to the lack of vocabulary.
+Phonetics wise, Ciro can't distinguish or produce a few sounds, notably `-ing` vs `-in` and my off-tone rate is high, but it tends to not matter at all compared to the lack of vocabulary.
 
-I read with link:http://www.perapera.org/[Perapera], write with a mixture of link:https://www.pleco.com/[Pleco], Google translate and Googling to see if Chinese actually say the sentences that way.
+Ciro reads with link:http://www.perapera.org/[Perapera], write with a mixture of link:https://www.pleco.com/[Pleco], Google translate and Googling to see if Chinese actually say the sentences that way.
 
-I haven't tried to learn characters, too much effort, but I learnt the most common ones without trying.
+He hasn't tried to learn characters, too much effort, but he did learn the most common ones without trying.
 
-I really wish I could learn more, but I have other more important endeavours at the moment :-(
+Ciro really wishes he could learn more, but he has other more important endeavours at the moment :-(
 
-I had learnt from book that come with audio recordings in the first 6-months to 1 year in 2010, but that got impossibly boring afterwards, so for now I'm just basically talking as much as possible non-important things to <<why-do-you-love-china-so-much,my wife in Chinese>>, and whenever I reach one that I don't know that seems useful, I Pleco it up or just 怎么说 and then Pleco.
+He initially learnt from book that come with audio recordings in the first 6-months to 1 year in 2010, but that got impossibly boring afterwards, so he later moved to just basically talking as much as possible non-important things to <<why-do-you-love-china-so-much,his wife in Chinese>>, and whenever he reachs one that I don't know that seems useful, he Plecos it up or just 怎么说 and then Pleco.
 
-Spoken Chinese is in my opinion a relatively easy language to learn from scratch, because word formation is so often logical:, e.g.:
+Spoken Chinese is in Ciro's opinion a relatively easy language to learn from scratch, because word formation is so often logical:, e.g.:
 
 * volcano = fire + mountain: 火山(huo shan)
 * train = fire + car: 火车 (huo che), a reference to old https://en.wikipedia.org/wiki/Steam_locomotive[steam locomotives]
 
 and there is no useless crap like verb conjugation, https://en.wikipedia.org/wiki/Grammatical_gender[Grammatical gender], plural variants, capitalization, etc.
 
-I love this language.
+Ciro love this language.
 
 Please just get rid of the Chinese characters and move to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export. Characters are beautiful, but just take too much time for any sane adult to learn, it's harder than C++!
 
@@ -851,34 +975,6 @@ But maybe no radical ever considers himself radical? Hmmm...
 
 Or maybe: link:https://www.youtube.com/watch?v=efHCdKb5UWc[The Dark Knight - Some Men Just Want To Watch The World Burn]?
 
-==== Do you think the Chinese government is evil?
-
-No, just <<richer,inefficient>> and <<war,dangerous>>.
-
-To me, it's just another non-democratic empire like the Qing Dynasty. 共产朝 as I call them. But alas, I'm not the inventor of the expression: http://web.archive.org/web/20161025220242/http://tieba.baidu.com/p/752094668
-
-===== Do you think Chinese politician X evil?
-
-The term evil does not make sense.
-
-The best definition I can reach is a psychopath with zero empathy for anyone: https://en.wikipedia.org/wiki/Psychopathy although I think that can be better characterized as a disease or extreme personality trait.
-
-I believe that the huge majority of those politicians are just regular dudes with a knack for politics but brought up in a fucked up political situation.
-
-Just like you, me and other politicians in any country.
-
-===== The Chinese politicians really care about the Chinese citizens
-
-Sometimes people call me naive.
-
-Politicians are the same all over the world.
-
-Some are good, some are evil.
-
-China's problem is not its politicians.
-
-It's the current shitty political organization, which allows/convinces those politicians to do really bad things: <<richer>>, <<war>>.
-
 ==== Are you a SJW?
 
 SJW: there is a seed of SJW in me.
@@ -899,7 +995,7 @@ See also: <<preconceived>>
 On the contrary. China has my favorite:
 
 * <<restaurants,food>>
-* <<do-you-speak-chinese,language>>
+* <<does-ciro-santilli-speak-chinese,language>>
 * <<music>>
 * history and culture
 * nature
@@ -1342,7 +1438,7 @@ image::https://ia601505.us.archive.org/27/items/cirosantilli/Video_still_of_2019
 * 2019-07-31 https://www.nytimes.com/2019/07/30/world/asia/china-xinjiang.html "Doubt Greets China’s Claim That Muslims Have Been Released From Camps"
 * 2019-07-19 https://www.france24.com/en/20190712-37-countries-defend-china-over-xinjiang-un-letter "37 countries defend China over Xinjiang in UN letter"
 +
-.<<rebel-pepper>> 2019-07 cartoon showing Xi Jinping claiming to have won the global opinion on the Xinjiang re-education camps because all other dictatorships support him, including <<other-islam-countries-speak-up-for-uyghur,Islamic dictatorships>>. https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source].
+.<<rebel-pepper>> 2019-07 cartoon showing <<xi-jinping>> claiming to have won the global opinion on the Xinjiang re-education camps because all other dictatorships support him, including <<other-islam-countries-speak-up-for-uyghur,Islamic dictatorships>>. https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source].
 image::https://web.archive.org/web/20191012074352im_/https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html/190716RFA-en-1000.jpg/@@images/c8c9143a-3a01-4116-9322-6aeb4857100f.jpeg[height=400]
 * 2019-07-04 https://www.bbc.co.uk/news/world-asia-china-48825090 "China Muslims: Xinjiang schools used to separate children from families"
 * 2019-05-07 https://www.theguardian.com/world/2019/may/07/revealed-new-evidence-of-chinas-mission-to-raze-the-mosques-of-xinjiang
@@ -1377,6 +1473,36 @@ image::https://web.archive.org/web/20191107091847/https://www.rfa.org/english/ne
 ==== Hong Kong 香港
 
 News source: https://www.reddit.com/r/HongKong/ Became larger than `r/china` during the <<2019-hong-kong-anti-extradition-bill-protests>>.
+
+===== Hong Kong 97 SNES video game
+
+https://en.wikipedia.org/wiki/Hong_Kong_97_%28video_game%29
+
+1995 video game realistically depicts the fight of Hong Kong against the Communist Party predicted to happen https://en.wikipedia.org/wiki/Handover_of_Hong_Kong[at the handover], featuring Bruce Lee (often represented as Jackie Chan) who returned from the grave to join the fight and kick Jiang Zemin's ass.
+
+The dead body is from a still from the Bosnian Civil War: https://www.youtube.com/watch?v=WCDWyzZyNdw
+
+The track is a sample of the https://en.wikipedia.org/wiki/I_Love_Beijing_Tiananmen["I Love Beijing Tiananmen" (我爱北京天安门)] Cultural Revolution song that was popular before <<tiananmen>> and later became an ironic protest song:
+
+____
+我爱北京天安门
+天安门上太阳升
+____
+
+which means:
+
+____
+I love Beijing Tiananmen Square
+The sun rises over the Tiananmen
+____
+
+Full song: https://www.youtube.com/watch?v=Is_Z2K7guKs
+
+.Game cover. https://en.wikipedia.org/wiki/File:Hong_Kong_97_cover.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/en/a/a8/Hong_Kong_97_cover.jpg[height=400]
+
+.The venerable Angry Video Game Nerd made a review of this amazing game: https://www.youtube.com/watch?v=M_aXcH1zDEE
+video::M_aXcH1zDEE[youtube,height=400,width=600]
 
 ===== 2019 Hong Kong anti-extradition bill protests
 
@@ -1451,8 +1577,6 @@ Chinese controlled social media apps such as WeChat, Zhihu, etc. must stop censo
 
 And the same must be done for cultural centers that report directly to the CCP such as <<confucious-institute>> and <<cssa,CSSAs>>.
 
-Chinese computer and telecommunications hardware, in particular, should be avoided at all costs, as it is an entry point to spying.
-
 Western governments must identify raw material dependencies on China, and reduce them, while at the same time forbidding technology transfer to China. China has been trading cheap resources for technology, and we must stop that now.
 
 Unfair Chinese commercial practices must be reciprocated. Chinese companies should be forced to open joint ventures to operate outside of China, which is a trick China uses to control profits and more easily steal IP from Western companies:
@@ -1477,6 +1601,13 @@ Stories showing how big Chinese companies are closely involved with the governme
 
 * 2019-11 https://www.forbes.com/sites/zakdoffman/2019/11/29/has-huaweis-darkest-secret-just-been-exposed-by-this-new-report/#7896db9d4061 Xinjiang Papers reveal the extent of Huawei's involvement in <<xinjiang>>
 
+===== The West must ban the import telecommunications devices from China
+
+Chinese computer and telecommunications hardware, in particular, should be avoided at all costs, as it is an entry point to spying.
+
+."When you send a good joke from your Huawei phone" https://i.redd.it/nodgcqmwtcg31.jpg[Source]
+image::http://web.archive.org/web/20190814074955/https://i.redd.it/nodgcqmwtcg31.jpg[height=400]
+
 ==== Companies that comply to Chinese censorship requests
 
 Western government should prevent companies from complying to Chinese censorship requests, or at least impose fines and sanctions on them.
@@ -1492,15 +1623,18 @@ image::https://web.archive.org/web/20191013075353if_/https://pbs.twimg.com/media
 
 And some good cartoons:
 
-.<<rebel-pepper>> 2019-10 carton showing several brands kowtowing to Xi Jinping, while South Park alone gives the middle finger. https://www.rfa.org/english/cartoons/china-hongkong-us-10102019153228.html[Source].
+.<<rebel-pepper>> 2019-10 carton showing several brands kowtowing to <<xi-jinping>>, while South Park alone gives the middle finger. https://www.rfa.org/english/cartoons/china-hongkong-us-10102019153228.html[Source].
 image::https://web.archive.org/web/20191011092825if_/https://pbs.twimg.com/media/EGikEkFXkAE-A8m?format=jpg&name=4096x4096[height=400]
 
-.<<rebel-pepper> 2017-07 showing Xi Jinping eating an Apple Inc. logo referring to the many events where Apple gave in to Chinese demands to have access to the Chinese market. https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html[Source].
+.<<rebel-pepper>> 2017-07 showing <<xi-jinping>> eating an Apple Inc. logo referring to the many events where Apple gave in to Chinese demands to have access to the Chinese market. https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html[Source].
 image::https://web.archive.org/web/20191013080151if_/https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html/170731Apple-700.jpg[height=400]
 
 Related news:
 
 * 2019-12 Shutterstock implements censorship for searches from China https://techcrunch.com/2019/12/08/in-wake-of-shutterstocks-chinese-censorship-american-companies-need-to-relearn-american-values/
+
+.https://www.youtube.com/watch?v=V4WBsahU3X4 https://en.wikipedia.org/wiki/Stephen_Colbert[Stephen Colbert] comments in 2015 on how American films make a good image of China to be allowed in China by censors to increase sales.
+video::V4WBsahU3X4[youtube]
 
 === What should pro-democracy Chinese living in China do about the dictatorship?
 
@@ -1880,7 +2014,7 @@ This becomes especially strong when a critical mass of believers is reached, and
 
 This post by a former believer gives what I feel is a realistic account that matches my observations: https://medium.com/@Ben_D_Hurley/-10677166298b "Me and Li" by Ben Hurley published on October 23, 2017.
 
-In any case, at least FLG got one thing right: the commies <<do-you-think-the-chinese-government-is-evil,evil>>, and we have to get rid of them.
+In any case, at least FLG got one thing right: the commies <<is-the-chinese-government-is-evil,evil>>, and we have to get rid of them.
 
 And yet, all those who love freedom, must oppose FLG ban, or be enslaved by tyrants themselves: <<democracy-is-a-religion>>.
 
@@ -2548,50 +2682,6 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 * 2018-01 http://chuangcn.org/2018/01/the-mastermind/
 * 2018-01 http://time.com/5112061/china-hip-hop-ban-tattoos-television/
 
-==== Xi abolishes term limits 2018-03
-
-* 包子露宪 https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution
-* https://www.nytimes.com/2018/03/10/world/asia/china-xi-jinping-term-limit-explainer.html
-
-.<<rebel-pepper>> cartoon showing Xi Jinping preparing to sleep in https://en.wikipedia.org/wiki/Mausoleum_of_Mao_Zedong[Mao Zedong's tomb], meaning that Xi also wants to reach Mao's "eternal ruler" status. https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html[Source].
-image::https://web.archive.org/web/20191013080140if_/https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html/180227RFA-XiJinping-Eternity.jpg[height=400]
-
-[[nazi]]
-===== Comparisons between the CCP and Nazi Germany
-
-Keywords:
-
-* Xitler (习特勒). 习 "xi2" is very close in sound to the Chinese name of Hitler: https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E5%A4%AB%C2%B7%E5%B8%8C%E7%89%B9%E5%8B%92[希特勒] (xi1 te4 le4)
-* Chinazi (赤纳粹). TODO why 赤. Means Red, but where else is it used?
-* link:https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum[Reductio ad Hitlerum]
-
-.Photoshopped Xi Jinping with raised fist with Nazi uniform and flag on the background. https://www.reddit.com/r/HongKong/comments/cuf3p7/chinazi_xitler/[Source].
-image::https://web.archive.org/web/20191013080128if_/https://i.redd.it/c9q6vdybr7i31.jpg[height=400]
-
-.Likely original or similar image of Xi Jinping with raised fist as he took oath when coming into or renewing office. http://www.china.org.cn/opinion/2018-03/19/content_50723040.htm[Source].
-image::https://web.archive.org/web/20180319114422im_/http://images.china.cn/site1007/2018-03/19/18f2dcae-19f4-459a-be06-016dd13c5a1d.jpg[height=400]
-
-.German's 1938-1945 war flag called the "War Ensign of Germany" in English or "Reichskriegsflagge" in German. https://en.wikipedia.org/wiki/Reichskriegsflagge[Source].
-image::https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/War_Ensign_of_Germany_%281938%E2%80%931945%29.svg/320px-War_Ensign_of_Germany_%281938%E2%80%931945%29.svg.png[height=400]
-
-.Hitler has of course a few raised fists on Google Images, but they tend to be more agressive, and less compatible with Xi's apathic poker face. http://bodylanguageproject.com/xarticles/wp-content/uploads/2019/07/Hitler-4.jpg[Source].
-image::https://web.archive.org/web/20191218074716if_/https://allthatsinteresting.com/wordpress/wp-content/uploads/2017/10/mouth-open.jpg[height=400]
-
-.Photoshopped cover of Mein Kampf with Xi's face on top of Hitler's and other modifications such as Mian instead of Mein, likely the same 面 (mian4, face) as the Chinese character at the bottom right. https://foreignerinformosa.typepad.com/the_foreigner_in_formosa/2017/07/president-xitler-of-china-murders-political-dissident-liu-xiaobo.html[Source].
-image::https://web.archive.org/web/20191013080043if_/https://foreignerinformosa.typepad.com/.a/6a00d834523d5069e201b7c90b8e9c970b-pi[height=400]
-
-.Original cover of Mein Kampf. link:++https://commons.wikimedia.org/wiki/File:Adolf_Hitler_-_Mein_Kampf_(855._Auflage,_1943).pdf++[Source].
-image::https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Adolf_Hitler_-_Mein_Kampf_%28855._Auflage%2C_1943%29.pdf/page1-423px-Adolf_Hitler_-_Mein_Kampf_%28855._Auflage%2C_1943%29.pdf.jpg[]
-
-.Photoshopped photo of Hitler giving the Nazi salute from a car with Himmler on the background with Xi's face on top of Hitler's. http://chinhdangvu1.blogspot.com/2017/09/xitler-chinazism.html[Source].
-image::https://web.archive.org/web/20191013080031if_/https://pbs.twimg.com/media/DGlPeEmXcAAaeQa.jpg[height=400]
-
-.Original photo of Hitler giving the Nazi salute from a car with Himmler on the background. https://en.wikipedia.org/wiki/File:Hitler-car.jpg[Source].
-image::https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Hitler-car.jpg/640px-Hitler-car.jpg[height=400]
-
-.Chinazi flag by <<2019-hong-kong-anti-extradition-bill-protests,Hong Kong protesters>>. Seen https://chinadigitaltimes.net/chinese/2019/08/%E3%80%90%E7%9B%9B%E4%B8%96%E4%B8%80%E6%99%AF%E3%80%91%E8%B5%A4%E7%BA%B3%E7%B2%B9%E6%97%97%EF%BC%88chinazi-flag%EF%BC%89/[on streets]. https://www.reddit.com/r/HongKong/comments/dbrken/google_bomb_china_flag_search_query_into_chinazi/[Source].
-image::https://web.archive.org/web/20191003190442if_/https://i.redd.it/c0d340rtswp31.png[height=400]
-
 === News 2017
 
 * 2017-12 https://www.nytimes.com/2017/12/25/world/asia/china-wu-gan-sentence.html
@@ -2630,7 +2720,7 @@ image::https://web.archive.org/web/20191003190442if_/https://i.redd.it/c0d340rts
 * 2016 Panama papers 巴拿马文件
 ** https://en.wikipedia.org/wiki/Panama_Papers
 ** https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%96%87%E4%BB%B6
-** mention Deng Jiagui 邓家贵 https://en.wikipedia.org/wiki/Deng_Jiagui , who is Xi Jinping's brother-in-law
+** mention Deng Jiagui 邓家贵 https://en.wikipedia.org/wiki/Deng_Jiagui , who is <<xi-jinping>>'s brother-in-law
 * 2016 http://www.theguardian.com/tv-and-radio/2016/mar/04/china-bans-gay-people-television-clampdown-xi-jinping-censorship gay depiction banned on television
 * 2016 http://www.bbc.com/news/blogs-trending-35496562 Armani Communist - http://www.ibtimes.com/xi-jinping-wants-overhaul-image-chinas-rich-kids-1961207 - first section of https://www.youtube.com/watch?v=ZKQ5ijFZ_j8
 * 2016 http://freebeacon.com/national-security/chinese-defector-reveals-beijings-secrets/ Ling Wancheng defects
@@ -2641,7 +2731,8 @@ image::https://web.archive.org/web/20191003190442if_/https://i.redd.it/c0d340rts
 === News 2015
 
 * 2015-11 http://technode.com/2015/11/24/surge-advanced-proxy-tool-ios-pulled-app-store/
-* 2015 https://news.vice.com/article/the-missing-hong-kong-booksellers-family-isnt-buying-his-televised-confession Gui Minhai, 51, from publisher Mighty Current who was going to publish a book about Xi Jinping's love life.
+* 2015-09 https://www.hongkongfp.com/2015/09/03/in-pictures-censored-memes-search-terms-and-images-from-chinas-wwii-parade/
+* 2015 https://news.vice.com/article/the-missing-hong-kong-booksellers-family-isnt-buying-his-televised-confession Gui Minhai, 51, from publisher Mighty Current who was going to publish a book about <<xi-jinping>>'s love life.
 ** Lam Wingkee is another one of the detaine bookselers
 *** https://en.wikipedia.org/wiki/Lam_Wing-kee
 *** https://www.youtube.com/watch?v=dHq0f_eGLhE 2016 interview in freedom
@@ -2879,17 +2970,12 @@ Interesting videos that were deleted / made private since I added them:
 
 Humour is the greatest weapon against dictators:
 
-* https://i.redd.it/nodgcqmwtcg31.jpg "When you send a good joke from your Huawei phone" http://web.archive.org/web/20190814074955/https://i.redd.it/nodgcqmwtcg31.jpg
+* <<xi-jinping>>
+** <<chrysanthemium-xi-jinping>>
+** <<winnie-the-pooh>>
 * https://en.wikipedia.org/wiki/State_Religious_Affairs_Bureau_Order_No._5 officially named "Measures on the Management of the Reincarnation of Living Buddhas" (藏传佛教活佛转世管理办法)
 * http://media.cagle.com/78/2017/03/08/192621_600.jpg
 * https://www.reddit.com/r/China/comments/3pqljx/zimbabwes_ruthless_dictator_mugabe_wins_chinas/ 2015 Zimbabwe dictator wins Confucius prize
-* https://www.youtube.com/watch?v=V4WBsahU3X4 Stephen Colbert comments on how American films make a good image of China to be allowed in China by censors to increase sales.
-* https://www.hongkongfp.com/2015/09/03/in-pictures-censored-memes-search-terms-and-images-from-chinas-wwii-parade/
-* https://upload.wikimedia.org/wikipedia/en/e/ec/Duck_man.jpg
-* https://en.wikipedia.org/wiki/Hong_Kong_97_%28video_game%29 https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF97_%28%E9%81%8A%E6%88%B2%29
-* https://en.wikipedia.org/wiki/Falun https://zh.wikipedia.org/wiki/%E6%B3%95%E5%80%AB A Swedish city called Falun 名为法倫的瑞典城市 Oh, BTW, one of the oldest operating companies in the world is from there: https://en.wikipedia.org/wiki/Falun_Mine
-* http://9gag.com/gag/ayn7KmW?ref=fbp Left Right Slaughterhouse comic, Dictatorships love this one.
-* http://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/
 * http://www.miniharm.com/
 * South Park S32 E1 "Band in China" (2019), episode criticizing Chinese censorship
 ** free preview https://www.youtube.com/watch?v=g6DI6XuvCwE
@@ -2901,29 +2987,17 @@ Humour is the greatest weapon against dictators:
 .Weibo logo vs Sauron's eye 微博标志vs索倫魔眼 by Ciro Santilli.
 image::https://web.archive.org/web/20191013080406if_/https://i.imgur.com/eKPmYyz.png[height=400]
 
-[[chrysanthemium-xi-jinping]]
-=== Chrysanthemium Xi Jinping 菊花习近平
+=== Cartoonists
 
-Got creator Dai Jianyong (戴建勇) arrested in 2015:
+Reasonable lists:
 
-* https://www.independent.co.uk/news/world/asia/chinese-artist-who-posted-funny-image-of-president-xi-jinping-facing-five-years-in-prison-as-10282630.html
-* https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/
-
-.Chrysanthemum Xi Jinping with <<tiananmen,六四>> spice added by Ciro Santilli
-image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
-
-.Original Chrysanthemum Xi Jinping by Dai Jianyong published in 2015. https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/[Source].
-image::https://web.archive.org/web/20200113200256im_/https://chinadigitaltimes.net/wp-content/uploads/2015/05/daijianyong.jpeg[height=400]
-
-.Possible original Xi Jinping photo used for Chrysanthemum Xi, possibly from 2012. The light blue gradient background was used for the official photos of many Communist officials of the era. http://content.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112111,00.html[Source].
-image::https://web.archive.org/web/20190417164247im_/http://img.timeinc.net/time/2012/t100/t100_xi_alt.jpg[height=400]
+* http://caglecartoons.com/?s=China The website blocks Web Archive.
 
 [[rebel-pepper]]
-=== Rebel Pepper 变态辣椒
+==== Rebel Pepper 变态辣椒
 
-https://twitter.com/remonwangxt
-
-https://rebelpeppercartoons.com/
+* https://twitter.com/remonwangxt
+* https://rebelpeppercartoons.com/
 
 Without a doubt, the greatest anti-Communist joke cartoonist of the 2010s.
 
@@ -2931,21 +3005,25 @@ As of 2019 he does work for xref:radio-free-asia[], so a possible list of all ca
 
 His best work can be found scattered throughout this document in the relevant sections.
 
-[[winnie-the-pooh]]
-=== Winnie-the-Pooh 小熊維尼
+==== Paresh Nath
 
-Got censored due to comparisons between Xi Jinping and Winnie in 2017: https://en.wikipedia.org/wiki/Winnie-the-Pooh#Censorship_in_China
+Not China only like <<rebel-pepper>>, but does have some good China ones.
 
-Some good photoshops:
+* https://www.cagle.com/author/paresh-nath/
+* https://twitter.com/pareshnathtoons?lang=en
+* https://www.cartooningforpeace.org/en/dessinateurs/paresh/
 
-.Comparison image between Xi Jinping waking with then USA president https://en.wikipedia.org/wiki/Barack_Obama[Barack Obama] with a Winnie-the-Pooh cartoon still of Winnie walking with https://en.wikipedia.org/wiki/Tigger[Tigger, the tiger]. The original photo is from https://www.abc.net.au/news/2013-06-09/obama2c-xi-forge-rapport-in-debut-summit/4742616[Xi's 2013 visit to the Annenberg Retreat at Sunnylands, California]. https://www.telegraph.co.uk/news/2017/07/17/oh-bother-chinese-censors-block-winnie-pooh-meme-comparing-xi/[Source].
-image::https://web.archive.org/web/20170801011641if_/http://i.telegraph.co.uk/multimedia/archive/02590/TIGGER_2590531b.jpg[height=400]
+[[falun-sweden]]
+=== Falun, Sweden 法轮，瑞典
 
-.Comparison image between Xi Jinping shaking hands with https://en.wikipedia.org/wiki/Shinz%C5%8D_Abe[the Japanese prime minister Shinzo Abe] and a Winnie-the-Pooh cartoon still of Winnie shaking hands with the https://en.wikipedia.org/wiki/Eeyore[Eeyore, the donkey]. The original photo is from https://www.nytimes.com/2014/11/11/world/asia/leaders-of-china-and-japan-hold-long-awaited-meeting.html[Abe's lacklustre 2014 visit to Beijing]. https://www.theguardian.com/world/2018/aug/07/china-bans-winnie-the-pooh-film-to-stop-comparisons-to-president-xi[Source].
-image::http://web.archive.org/web/20191012100528im_/https://i.guim.co.uk/img/media/84b60992d857bccf54c384e4ebeb0ea7f207246b/37_0_752_451/master/752.jpg?width=620&quality=85&auto=format&fit=max&s=e33410b2fb10c3d6de6a6ed65b6a7d8e[height=400]
+https://en.wikipedia.org/wiki/Falun
 
-.Comparison image between Xi Jinping on a car in a 2015 military parade and a toy Winnie-the-Pooh on a car. https://www.bbc.co.uk/news/blogs-china-blog-40627855[Source].
-image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/news/624/cpsprodpb/DD1F/production/_96970665_4587b36b-011f-4007-b16f-34389d385aec.jpg[height=400]
+A Swedish University town called "Falun", with the same "Falun" Chinese characters as those in <<falun-gong>>, which got the town blocked by the <<internal-censorship,GFW>> on some websites, mentioned at:
+
+* https://www.wsj.com/articles/SB10001424127887323926104578277511385052752
+* https://zh.wikipedia.org/w/index.php?title=%E6%B3%95%E5%80%AB&oldid=47709870#%E8%B6%A3%E9%97%BB
+
+Known primarily for its mine, which was one of the oldest operating companies in the world: https://en.wikipedia.org/wiki/Falun_Mine
 
 [[art]]
 == Art 艺术
@@ -2979,11 +3057,11 @@ What if a Chinese person who really loves China and wants to improve the country
 
 What if this person is right, and wants to express this publicly to get support and make change happen?
 
-Should this person just be put into jail as is done currently? Do you really think that the CCP can never do anything seriously wrong? <<the-chinese-politicians-really-care-about-the-chinese-citizens>>?
+Should this person just be put into jail as is done currently? Do you really think that the CCP can never do anything seriously wrong? <<chinese-politicians-really-care-about-the-chinese-citizens>>?
 
 When citizens stop trying to contribute due to fear, this is known as the https://en.wikipedia.org/wiki/Chilling_effect[chilling effect (寒蝉效应)].
 
-What if a <<do-you-think-chinese-politician-x-evil,politician>> does something bad, and suppresses the news to protect themselves?
+What if a <<is-chinese-politician-x-evil,politician>> does something bad, and suppresses the news to protect themselves?
 
 Without freedom of speech, who will watch over the actions of those in power? https://en.wikipedia.org/wiki/Quis_custodiet_ipsos_custodes%3F[Quis custodiet ipsos custodes?]
 
@@ -3020,7 +3098,7 @@ image::https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/1933-may-10-ber
 
 https://en.wikipedia.org/wiki/Jingjing_and_Chacha
 
-Friendly looking mascots of Internet Censhosrhip in China created by the Shenzhen Government in 2006.
+Friendly looking mascots of Internet Censorship in China created by the Shenzhen Government in 2006.
 
 https://youtu.be/ZB8ODpw_om8?t=583 "Roger Dingledine - The Tor Censorship Arms Race The Next Chapter - DEF CON 27 Conference" mentions that choosing friendly looking mascots for internet censorship is a comon practice in several dictatorships, so to suggest that they are just <<fear-of-west,protecting citizens>>, These show the cute UAE censorship page for example:
 
@@ -3074,7 +3152,7 @@ In 2019, the European Union was considering making stricter laws about cyber sur
 * http://www.osborneclarke.com/insights/upcoming-changes-to-bring-cyber-surveillance-technology-within-eu-export-control-regime/
 * http://www.aljazeera.com/news/2017/12/eu-plans-restrict-export-dual-spy-tech-171210061410639.html
 
-.Cartoon showing how Amesys systems are used to supress citizens in Egypt. Do you want the logo of your company to figure there instead? https://www.fidh.org/en/region/north-africa-middle-east/egypt/sale-of-surveillance-equipment-to-egypt-by-french-company-amesys[Source].
+.Cartoon showing how Amesys systems are used to suppress citizens in Egypt. Do you want the logo of your company to figure there instead? https://www.fidh.org/en/region/north-africa-middle-east/egypt/sale-of-surveillance-equipment-to-egypt-by-french-company-amesys[Source].
 *mage::https://web.archive.org/save/_embed/https://www.fidh.org/local/cache-gd2/86/564727cb219a210145a0dd6a1b7561.jpg?1556188970[]
 
 ==== Censorship monitoring
@@ -3252,7 +3330,7 @@ English tracklist and front covers: http://web.archive.org/web/20190817221426/ht
 
 The most important publisher: https://en.wikipedia.org/wiki/China_Record_Corporation[China Record Corporation], AKA "CRC Jianian".
 
-<<do-you-think-the-chinese-government-is-evil,Government-owned unfortunately>>, their the website takes forever to load: http://www.china-crc.com.cn/[], and features mostly Communist shit, and I can't find the decent traditional music listed there.
+<<is-the-chinese-government-is-evil,Government-owned unfortunately>>, their the website takes forever to load: http://www.china-crc.com.cn/[], and features mostly Communist shit, and I can't find the decent traditional music listed there.
 
 One thing to try is an Amazon advanced search by label "China Record Co": https://www.amazon.com/s?i=digital-music&rh=p_33%3AChina+Record+Co&s=relevancerank&Adv-Srch-MP3-Submit.x=42&Adv-Srch-MP3-Submit.y=4&unfiltered=1&ref=sr_adv_m_digital
 
