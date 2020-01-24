@@ -147,25 +147,6 @@ For:
 +
 Any criticism of the government, even if constructive, is taken as menace to power, and more likely to be shut down, which makes the government and just becomes less efficient since there is less feedback.
 * governments are monopolies, and the more powerful they are, the worst it is for competition an efficiency in general. E.g.: the startup with better government ties wins, instead of the most efficient one.
-* dictatorships need <<censorship>> to survive, and they must control all information to make themselves always look good.
-+
-As a result, knowledge of problems flows more slowly, and therefore they also take longer to solve.
-+
-Maybe this hurts my argument, but Hillary agrees: https://www.youtube.com/watch?v=ccGzOJHE1rw&feature=youtu.be&t=2110 "Secretary Clinton Speaks on Internet Freedom", U.S. Department of State, 2010-01-22 :-)
-+
-____
-But countries that restrict free access to information or violate the basic rights of internet users risk walling themselves off from the progress of the next century
-____
-+
-Also mentioned at: link:https://youtu.be/d3dE_LDz_9E?t=1681[Google versus China - VPRO documentary - 2011]
-+
-This is also well illustrated in the link:https://en.wikipedia.org/wiki/Chernobyl_(miniseries)[HBO 2019 miniseries "Chernobyl"], which suggests that part of the reason why Chernobyl happened is because of the Soviet Union's obsession to save face.
-+
-Or https://quoteinvestigator.com/2010/05/21/death-statistic/[if you prefer]:
-+
-____
-The death of one man is a tragedy, the death of millions is a statistic.
-____
 
 Against:
 
@@ -187,6 +168,35 @@ Maybe China was poor because of Mao's crazy communist regime. Similar regimes al
 Definitely, the current regime is better than Mao's, but just imagine how rich China could be if it had more freedom and justice.
 
 Imperial China lost the race for the Industrial Revolution. Will another dictatorship be able to stay on top of the next technological revolution?
+
+===== Censorship makes countries poorer
+
+<<dictatorship,Dictatorships>> need <<censorship>> to survive, and they must control all information to make themselves always look good: <<dictator-needs-gfw>>.
+
+As a result, knowledge of problems flows more slowly, and therefore they also take longer to solve.
+
+Maybe this hurts the argument, but Hillary agrees: https://www.youtube.com/watch?v=ccGzOJHE1rw&feature=youtu.be&t=2110 "Secretary Clinton Speaks on Internet Freedom", U.S. Department of State, 2010-01-22 :-)
+
+____
+But countries that restrict free access to information or violate the basic rights of internet users risk walling themselves off from the progress of the next century
+____
+
+Also mentioned at: link:https://youtu.be/d3dE_LDz_9E?t=1681[Google versus China - VPRO documentary - 2011]
+
+This is also well illustrated in the link:https://en.wikipedia.org/wiki/Chernobyl_(miniseries)[HBO 2019 miniseries "Chernobyl"], which suggests that part of the reason why Chernobyl happened is because of the Soviet Union's obsession to save face.
+
+.Chernobyl scene where the reactor explodes, and a chief engineer "Comrade Dyatlov" accepts the 3.6 Roentgen measurement as "Not great, not terrible" and forwards it to his superiors who take actions based on that, even though the radiation measurement apparatus only goes up to 3.6 Roentgen. Needless to say, the actual radiation was much, much higher. https://www.youtube.com/watch?v=M6kYod3_gwk[Source].
+video::M6kYod3_gwk[youtube,height=400,width=600]
+
+Or https://quoteinvestigator.com/2010/05/21/death-statistic/[if you prefer]:
+
+____
+The death of one man is a tragedy, the death of millions is a statistic.
+____
+
+Virus outbreaks and other natural disasters also illustrate this well:
+
+* 2020 https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1 "China spent the crucial first days of the Wuhan coronavirus outbreak arresting people who posted about it online and threatening journalists" (http://web.archive.org/web/20200124113400/https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1?r=US&IR=T[archive])
 
 [[war]]
 ==== Why would democracy and freedom of speech make China less likely to start a war?
@@ -2433,7 +2443,7 @@ Bibliography:
 
 This is a mock tribunal, without any power of law, and was of course initially lobbied / organized brought up by FLG: https://endtransplantabuse.org/
 
-However, none of the lawyers / jury members are FLG followers I believe, and I do believe that they are trying to honestly decide if there is enough evidence or not for organ harvesting in China.
+However,  Ciro Santilli believes that none of the lawyers / jury members are FLG believers, and that they are trying to honestly decide if there is enough evidence or not for organ harvesting in China.
 
 They also have non-FLG witnesses.
 
@@ -2442,6 +2452,13 @@ Wether you believe in their partiality or not, I highly recommend watching some 
 * https://youtu.be/oW3IaaXWE8s?t=7225 Swedish man who spent several years in prison in China
 
 A notable precursor to mock tribunals is the link:https://en.wikipedia.org/wiki/Russell_Tribunal[Russel Tribunal].
+
+Bibliography:
+
+* Dr. Enver Tothi, has spoken openly about his organ harvesting activities in the 1990s in several tribunals in Europe
+** 2020 https://www.mirror.co.uk/news/uk-news/surgeon-who-harvested-organs-slaughtered-21040274 "Surgeon who harvested organs of slaughtered dissident now London Uber driver"
+** 2019 in EU parliament: https://www.youtube.com/watch?v=7n-9n897jIo
+** 2017 Him speaking in : https://www.youtube.com/watch?v=FoXKMw4slHY at Ireland's https://www.youtube.com/watch?v=FoXKMw4slHY[House of the Oireachtas]
 
 ==== Falun Gong overviews
 
