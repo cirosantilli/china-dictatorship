@@ -906,9 +906,12 @@ Spoken Chinese is in Ciro's opinion a relatively easy language to learn from scr
 
 and there is no useless crap like verb conjugation, https://en.wikipedia.org/wiki/Grammatical_gender[Grammatical gender], plural variants, capitalization, etc.
 
-Ciro love this language.
+Ciro loves this language.
 
 Please just get rid of the Chinese characters and move to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export. Characters are beautiful, but just take too much time for any sane adult to learn, it's harder than C++!
+
+.The "fictional" Chinese character "Dou" from https://en.wikipedia.org/wiki/Uncyclopedia[Unencyclopedia] is roughly translated as "Impossibly complex pictogram-based writing system that takes a person a thousand thousand years to learn." and illustrates well why pictograms are a bad idea. https://uncyclopedia.ca/wiki/File:Chinese_character_extreme.svg[Source].
+image::https://uncyclopedia.ca/w/images/e/e1/Chinese_character_extreme.svg[height=400]
 
 ==== Why did you start the keyword attack?
 
