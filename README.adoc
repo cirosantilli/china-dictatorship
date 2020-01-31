@@ -142,7 +142,7 @@ There is infinite debate about this out there, some examples:
 
 For:
 
-* dictatorships are more likely to start <<war>> or other crazy policies like the Great Leap Forward, which completely destroy the economy in one go
+* dictatorships are more likely to start <<war>> or other crazy policies like the <<great-leap-forward,Great Leap Forward>>, which completely destroy the economy in one go
 * society becomes richer when people know that they can do their startups, get rich, and stay in the country without fear of being persecuted unfairly and losing everything instead of migrating to Canada.
 +
 Any criticism of the government, even if constructive, is taken as menace to power, and more likely to be shut down, which makes the government and just becomes less efficient since there is less feedback.
@@ -160,7 +160,7 @@ That is great when they make good decisions, but it sucks when they make <<war,b
 I really like https://web.archive.org/web/20180923192824/https://www.becker-posner-blog.com/2011/05/can-poor-countries-afford-democracy-becker.html[Posner's] way of putting it:
 
 ____
-While average rate of growth do not appear to differ much between democracies and authoritarian regimes, the variability in performance does differ more among authoritarian governments. China has had remarkable growth since the 1980s, but the prolonged devastation and hardship produced by China's “great leap forward” (when millions of farmers starved to death) and its Cultural Revolution would unlikely have occurred in a democratic country like say India. Nor is it likely that say Cuba and many African nations would have suffered so long with such terrible economic policies if they had reasonably democratic institutions.
+While average rate of growth do not appear to differ much between democracies and authoritarian regimes, the variability in performance does differ more among authoritarian governments. China has had remarkable growth since the 1980s, but the prolonged devastation and hardship produced by China's "<<great-leap-forward>>" (when millions of farmers starved to death) and its Cultural Revolution would unlikely have occurred in a democratic country like say India. Nor is it likely that say Cuba and many African nations would have suffered so long with such terrible economic policies if they had reasonably democratic institutions.
 ____
 
 Maybe China was poor because of Mao's crazy communist regime. Similar regimes also made <<russia>> poor. And yes, before that exploitation by the West may have been a factor.
@@ -746,6 +746,21 @@ China's problem is not its politicians.
 
 It's the current shitty political organization, which allows/convinces those politicians to do really bad things: <<richer>>, <<war>>.
 
+[[mao-zedong]]
+==== Mao Zedong 习近平
+
+* https://en.wikipedia.org/wiki/Mao_Zedong
+* https://zh.wikipedia.org/wiki/%E6%AF%9B%E6%B3%BD%E4%B8%9C
+
+[[great-leap-forward]]
+===== Great Leap Forward 大跃进
+
+* https://en.wikipedia.org/wiki/Great_Leap_Forward
+* https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%B7%83%E8%BF%9B
+
+.A high tower of https://en.wikipedia.org/wiki/Wax_gourd[winter gourds] "冬瓜上高楼" propaganda poster for the Great Leap Forward by https://chineseposters.net/artists/jinmeisheng.php[Jin Meisheng] published in 1959. <<western-democracies-are-not-perfect,Even in democracies>>, politicians promise the fat gourds. But when there is <<censorship,no free media to control their>> lies, things can get really out of hand. http://www.iisg.nl/exhibitions/chairman/chn11.php[Source].
+image::https://web.archive.org/web/20200131210244/https://live.staticflickr.com/4135/4754681204_1784cd9f89_w.jpg[height=400]
+
 [[nazi]]
 === Comparisons between the CCP and Nazi Germany
 
@@ -902,7 +917,7 @@ The last straw was when in March 2015 my girlfriend's mother was arbitrarily kep
 * https://twitter.com/cirosantilli/status/579270450984984576
 * https://www.facebook.com/cirosantilli/posts/952661734753174
 
-I then continued because I hate political censorship, and because <<do-you-hate-china,I love China>>.
+I then continued because I hate political <<censorship,censorship>>, and because <<do-you-hate-china,I love China>>.
 
 ===== Ciro Santilli's post when his mother-in-law was put into jail
 
@@ -924,7 +939,7 @@ I'm glad she was not physically harmed. I find it fascinating how even well educ
 
 Translation by <<why-do-you-love-china-so-much,my wife>>:
 
-我女朋友的母亲，一位63岁的女士被监禁在一个中国的“劳教所”，只因为她炼法轮功。
+我女朋友的母亲，一位63岁的女士被监禁在一个中国的"劳教所"，只因为她炼法轮功。
 
 她被迫待在一个小屋子里面，只有一张床和一个排泄的地方，一直处在监视器下，每天两个窝头一碗只有几个白菜叶的汤。
 
@@ -1600,7 +1615,7 @@ Unfair Chinese commercial practices must be reciprocated. Chinese companies shou
 * https://www.msn.com/zh-hk/news/other/us-entrepreneurs-make-a-choice-rewards-of-doing-business-in-china-often-outweigh-risks-of-losing-trade-secrets/ar-BBSPC69 (http://web.archive.org/web/20190905071456/https://www.msn.com/zh-hk/news/other/us-entrepreneurs-make-a-choice-rewards-of-doing-business-in-china-often-outweigh-risks-of-losing-trade-secrets/ar-BBSPC69:[archive])
 * https://www.chinalawblog.com/2019/02/china-joint-ventures-the-long-version.html (http://web.archive.org/web/20190905071738/https://www.chinalawblog.com/2019/02/china-joint-ventures-the-long-version.html:[archive])
 
-Do not underestimate the CCP and its control over every Chinese companies and people. Every Chinese company and person is a potential, just like spy.
+Do not underestimate the CCP and its control over every Chinese companies and people. Every Chinese company and person is a potential spy.
 
 This is true for all countries however, and we do not reproach China for its secret service, e.g. <<snowden>> used https://en.wikipedia.org/wiki/Edward_Snowden#NSA_sub-contractee_as_an_employee_for_Dell[Dell] as an NSA front-end.
 
@@ -1620,6 +1635,10 @@ Stories showing how big Chinese companies are closely involved with the governme
 ===== The West must ban the import telecommunications devices from China
 
 Chinese computer and telecommunications hardware, in particular, should be avoided at all costs, as it is an entry point to spying.
+
+The UK for example was trying hard to get kicked out of the 5 eyes in 2020 by using 5G equipment from Huawei:
+
+* https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html (https://web.archive.org/web/20200129023355/https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html[archive]) "UK will allow Huawei to help build its 5G network despite US pressure"
 
 ."When you send a good joke from your Huawei phone" https://i.redd.it/nodgcqmwtcg31.jpg[Source]
 image::http://web.archive.org/web/20190814074955/https://i.redd.it/nodgcqmwtcg31.jpg[height=400]
@@ -1938,7 +1957,7 @@ image::https://web.archive.org/web/20191013080937if_/https://image.businessinsid
 .<<rebel-pepper>> 2018-09 cartoon showing Jesus and the Apostles in the Last Supper being arrested by CCP guards. https://www.rfa.org/english/cartoons/china-crackddown-Christianity-cartoon-09072018150421.html[Source].
 image::https://web.archive.org/web/20191012075042im_/https://www.rfa.org/english/cartoons/china-crackddown-Christianity-cartoon-09072018150421.html/180907RFA_thelastsupperinChina_1000.jpg/@@images/ac0553ed-a46d-43f6-98d8-288ce76901af.jpeg[height=400]
 
-.https://en.wikipedia.org/wiki/Zhang_Hongtu[Zhang Hongtu] cartoon showing Mao Zedong and other communist officials at the Last Supper instead of Jesus and the Apostles. http://musicandculture.blogspot.com/2010/03/massive-last-supper-parodies-post.html[Source].
+.https://en.wikipedia.org/wiki/Zhang_Hongtu[Zhang Hongtu] cartoon showing <<mao-zedong,Mao Zedong>> and other communist officials at the Last Supper instead of Jesus and the Apostles. http://musicandculture.blogspot.com/2010/03/massive-last-supper-parodies-post.html[Source].
 image::http://web.archive.org/web/20191107094724if_/http://4.bp.blogspot.com/_W8pwMnZMNuQ/S5YAJmo1Q1I/AAAAAAAAC_A/YKRCKXUiSAM/s1600/meal.jpg[height=400]
 
 === Falun Gong
