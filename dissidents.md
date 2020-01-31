@@ -1,7 +1,5 @@
 # Dissidents 持不同政見者列表
 
-<https://en.wikipedia.org/wiki/List_of_Chinese_dissidents> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%8C%81%E4%B8%8D%E5%90%8C%E6%94%BF%E8%A6%8B%E8%80%85%E5%88%97%E8%A1%A8>
-
 Programmers 程序员:
 
 - <https://twitter.com/virushuo> <http://www.zhihu.com/question/19557271> <http://xiqiao.info/>

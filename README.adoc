@@ -181,11 +181,13 @@ ____
 But countries that restrict free access to information or violate the basic rights of internet users risk walling themselves off from the progress of the next century
 ____
 
+This is also the basis of a <<keyword-attack>>.
+
 Also mentioned at: link:https://youtu.be/d3dE_LDz_9E?t=1681[Google versus China - VPRO documentary - 2011]
 
 This is also well illustrated in the link:https://en.wikipedia.org/wiki/Chernobyl_(miniseries)[HBO 2019 miniseries "Chernobyl"], which suggests that part of the reason why Chernobyl happened is because of the Soviet Union's obsession to save face.
 
-.Chernobyl scene where the reactor explodes, and a chief engineer "Comrade Dyatlov" accepts the 3.6 Roentgen measurement as "Not great, not terrible" and forwards it to his superiors who take actions based on that, even though the radiation measurement apparatus only goes up to 3.6 Roentgen. Needless to say, the actual radiation was much, much higher. https://www.youtube.com/watch?v=M6kYod3_gwk[Source].
+.Chernobyl scene where the reactor explodes, and a chief engineer "Comrade Dyatlov" accepts the 3.6 Roentgen measurement as "Not great, not terrible" and forwards it to his superiors who take actions based on that, even though the radiation measurement apparatus only goes up to 3.6 Roentgen. Needless to say, the actual radiation was much, much higher. The URSS only admitted Chernobyl three days after when Swedish nuclear plant alarms started going off. In order to keep it secret, they for example did not cancel the https://time.com/4313139/post-chernobyl-parade/[International Workers’ Day parade in Kharkov, Ukraine which happened five days after the disaster]. https://www.youtube.com/watch?v=M6kYod3_gwk[Source].
 video::M6kYod3_gwk[youtube,height=400,width=600]
 
 Or https://quoteinvestigator.com/2010/05/21/death-statistic/[if you prefer]:
@@ -196,7 +198,9 @@ ____
 
 Virus outbreaks and other natural disasters also illustrate this well:
 
-* 2020 https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1 "China spent the crucial first days of the Wuhan coronavirus outbreak arresting people who posted about it online and threatening journalists" (http://web.archive.org/web/20200124113400/https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1?r=US&IR=T[archive])
+* 2020 Corona Virus
+** https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1 "China spent the crucial first days of the Wuhan coronavirus outbreak arresting people who posted about it online and threatening journalists" (http://web.archive.org/web/20200124113400/https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1?r=US&IR=T[archive])
+** https://www.vice.com/en_us/article/g5xykx/you-can-now-go-to-jail-in-china-for-criticizing-beijings-coronavirus-response "You Can Now Go to Jail in China for Criticizing Beijing’s Coronavirus Response"
 
 [[war]]
 ==== Why would democracy and freedom of speech make China less likely to start a war?
@@ -382,13 +386,13 @@ Minorities are put in jail because the CCP fears them. Dictatorships can only su
 [[stability]]
 === If anyone disagrees with the government they must be punished to keep the stability of the country
 
-Destroying diversity is the best way to reach a point where everyone can agree to start a new big war and destroy everything.
+Destroying diversity is the best way to reach a point where everyone can agree to start <<war,a new big war and destroy everything>>.
 
-The CCP thrives on the excessive fear it instigate into its own people.
+The CCP thrives on the excessive <<fear-of-west,fear it instigate into its own people>>.
 
 How can society improve, if we are never allowed to try new things out?
 
-Change does not require <<violence>>. Violence happens because the government punishes any dissidence, even if pacific, to retain its own power.
+Change in democracies does not require <<violence,violence>>. Violence happens because the government punishes any dissidence, even if pacific, to retain its own power.
 
 In democracies, radical policy changes happen without dropping a single drop of blood. People vote, and policies change, end of story.
 
@@ -1164,13 +1168,15 @@ Basically same discussion as: <<violence>> but with the tables turned.
 See also: <<the-chinese-masses-are-not-interested-in-politics-and-therefore-not-ready-to-vote>>
 
 [[dictatorship]]
-=== Why do you say China is a dictatorship?
+=== Why does Ciro Santilli say that China is a dictatorship?
 
-True, I'm using the word in an extended / jokingly sense.
+Ciro is using the word in an slightly extended/joking sense.
 
-Maybe authoritarian is a more precise term.
+Maybe "authoritarian" is a more precise term, but it is just too much of a mouthful.
 
-In particular, dictatorships are harder to sustain than authoritarianism, since it generally implies even less freedom.
+In particular, dictatorships are harder to sustain than authoritarianism, since it generally implies even less freedom, and a single leader whose death can destabilize everything.
+
+The CCP is more like a social class with a large number of members and various sub-layers, and it is therefore much harder to take down on the other hand.
 
 Dictatorship is becoming link:https://www.nytimes.com/2018/03/07/world/asia/china-xi-jinping-party-term-limit.html[more and more precise under Xi] however.
 
@@ -2840,6 +2846,37 @@ image::https://web.archive.org/web/20140722052337im_/http://petapixel.com/assets
 
 .Rough https://en.wikipedia.org/wiki/Lego[Lego] model of the Tank Man scene https://knowyourmeme.com/photos/1499216-tank-man[Source].
 image::https://web.archive.org/save/_embed/https://i.kym-cdn.com/photos/images/newsfeed/001/499/216/29f.png[height=400]
+
+[[dissidents]]
+== Dissidents 持不同政见者
+
+Other lists:
+
+* https://en.wikipedia.org/wiki/List_of_Chinese_dissidents
+** https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%8C%81%E4%B8%8D%E5%90%8C%E6%94%BF%E8%A6%8B%E8%80%85%E5%88%97%E8%A1%A8
+
+[[xu-xiaodong]]
+=== Xu Xiaodong "Mad Dog" 徐晓冬
+
+* https://en.wikipedia.org/wiki/Xu_Xiaodong
+* https://zh.wikipedia.org/wiki/%E5%BE%90%E6%99%93%E5%86%AC
+
+MMA fighter who beat up some kung-fu masters to prove that MMA is more effective than their traditional styles.
+
+As of 2019, he had 14 Weibo accounts blocked (created one, got blocked, created another, got blocked, etc.). Source: https://www.inkstonenews.com/society/chinas-mma-fighter-xu-xiaodong-fight-survival/article/3047417
+
+Profiles and news:
+
+* 2020-01-28 https://www.inkstonenews.com/society/chinas-mma-fighter-xu-xiaodong-fight-survival/article/3047417
+
+.Uphold science, eradicate superstition "崇尚科学，破除迷信" 1999 poster by the CCP created as an <<falun-gong,anti-Falun Gong>> propaganda likely based on a http://www.people.com.cn/GB/channel1/10/20000710/137317.html[more widely widespread slogan] (https://web.archive.org/web/20090428155413/http://www.people.com.cn/GB/channel1/10/20000710/137317.html[archive]). So why is Xiaodong not being supported by the CCP now that he is beating superstition back into its place? Once again, <<censorship-makes-countries-poorer>>. https://chineseposters.net/themes/falun-gong.php[Source].
+image::http://web.archive.org/web/20191206090021im_/http://chineseposters.net/images/e13-891.jpg[height=400]
+
+.2017 Xu Xiaodong (MMA) Vs. Wei Lei (Tai Chi) summary GIF. https://www.inkstonenews.com/society/chinas-mma-fighter-xu-xiaodong-fight-survival/article/3047417[Source].
+image::http://web.archive.org/web/20200131021028if_/https://cdn.i-scmp.com/sites/default/files/d8/images/2020/01/24/01.gif[]
+
+.2017 Xu Xiaodong (MMA) Vs. Wei Lei (Tai Chi) full fight. https://www.youtube.com/watch?v=0XwXaCbfIGw[Source].
+video::0XwXaCbfIGw[youtube,height=400,width=600]
 
 == Media 媒体
 
