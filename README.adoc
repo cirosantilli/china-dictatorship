@@ -329,7 +329,13 @@ The 2019 <<nine-nine-six-icu>> event however brought to my attention that Chines
 
 But I doubt developers use those browsers right? The only way would be for China to forbid foreign browsers entirely.
 
-GitHub has absolute transparency on Government takedowns, which is awesome: https://github.com/github/gov-takedowns/tree/master/China As of 2019 there have only been only 2 takedowns by China however, compared to dozens by <<russia>>. The Chinese commies are not big fans of transparency it seems.
+===== GitHub gov-takedowns
+
+https://github.com/github/gov-takedowns
+
+GitHub has absolute transparency on Government takedowns, which is awesome: https://github.com/github/gov-takedowns/tree/master/China
+
+As of 2019 there have only been only 2 takedowns by China however, compared to dozens by <<russia>>. The Chinese commies are not big fans of transparency it seems.
 
 The message GitHub shows is:
 
@@ -344,6 +350,8 @@ Here are some examples of people reacting to the blocking of https://github.com/
 * https://github.com/programthink/books/issues/31 (http://web.archive.org/web/20191023093618/https://github.com/programthink/books/issues/31[archive])
 * https://www.zhihu.com/question/284445884/
 * https://program-think.blogspot.com/2018/04/Zhao-at-GitHub.html?comment=1524671692761#1524671692761
+
+See also: <<programthink>>
 
 To check China only takedowns such as this, we cannot use Great Fire Analyzer, which reports the page as accessible: the only tool I could find so far to capture a page from China a bit like Web Archive was: https://www.geoscreenshot.com which takes screenshots of the websites, but the free trial is very limited, and you can't share the screenshots. See also: <<censorship-monitoring>>.
 
@@ -2909,7 +2917,9 @@ Very popular Chinese language anonymous blogger that publishes software programm
 * https://program-think.blogspot.com/ The blog. Blocked in China with the rest of 
 ** 2020 categorized summary of the best posts of all time: https://program-think.blogspot.com/2020/01/11-years-blogging.html
 * https://github.com/programthink
-** https://github.com/programthink/zhao manually curated database of maps relationships between Chinese politicians, was the first GitHub gov-takedown: https://github.com/github/gov-takedowns/blob/36e76c34682d2b52eef405ca6f57e1b9ddde3086/China/2016/2016-06-08-programthink-zhao.md
+** https://github.com/programthink/zhao manually curated database of maps relationships between Chinese politicians, this was the first <<github-gov-takedowns,GitHub gov-takedown from china>>: https://github.com/github/gov-takedowns/blob/36e76c34682d2b52eef405ca6f57e1b9ddde3086/China/2016/2016-06-08-programthink-zhao.md
++
+The full project name is: 太子党关系网络 (network of relations of https://en.wikipedia.org/wiki/Princelings[CCP princelings]) but the project is also known as "zhao" TODO why, possible reference to: https://en.wikipedia.org/wiki/House_of_Zhao[]?
 * https://twitter.com/programthink
 * DW coverage (Chinese): https://www.dw.com/zh/2013%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%E5%9B%BD%E9%99%85%E5%8D%9A%E5%AE%A2%E5%A4%A7%E8%B5%9B%E4%B8%AD%E6%96%87%E6%8F%90%E5%90%8D%E5%8D%9A%E5%AE%A2%E6%8F%AD%E6%99%93/a-16716065 (https://web.archive.org/web/20191202233838/https://www.dw.com/zh/2013%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%E5%9B%BD%E9%99%85%E5%8D%9A%E5%AE%A2%E5%A4%A7%E8%B5%9B%E4%B8%AD%E6%96%87%E6%8F%90%E5%90%8D%E5%8D%9A%E5%AE%A2%E6%8F%AD%E6%99%93/a-16716065[archive]) 2013德国之声国际博客大赛——中文提名博客揭晓 ""
 
