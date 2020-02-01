@@ -786,7 +786,7 @@ image::https://web.archive.org/web/20191218074716if_/https://allthatsinteresting
 image::https://web.archive.org/web/20191013080043if_/https://foreignerinformosa.typepad.com/.a/6a00d834523d5069e201b7c90b8e9c970b-pi[height=400]
 
 .Original cover of Mein Kampf. link:++https://commons.wikimedia.org/wiki/File:Adolf_Hitler_-_Mein_Kampf_(855._Auflage,_1943).pdf++[Source].
-image::https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Adolf_Hitler_-_Mein_Kampf_%28855._Auflage%2C_1943%29.pdf/page1-423px-Adolf_Hitler_-_Mein_Kampf_%28855._Auflage%2C_1943%29.pdf.jpg[]
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Adolf_Hitler_-_Mein_Kampf_%28855._Auflage%2C_1943%29.pdf/page1-423px-Adolf_Hitler_-_Mein_Kampf_%28855._Auflage%2C_1943%29.pdf.jpg[height=400]
 
 .Photoshopped photo of Hitler giving the Nazi salute from a car with Himmler on the background with Xi's face on top of Hitler's. http://chinhdangvu1.blogspot.com/2017/09/xitler-chinazism.html[Source].
 image::https://web.archive.org/web/20191013080031if_/https://pbs.twimg.com/media/DGlPeEmXcAAaeQa.jpg[height=400]
@@ -1514,7 +1514,7 @@ https://en.wikipedia.org/wiki/Hong_Kong_97_%28video_game%29
 
 1995 video game realistically depicts the fight of Hong Kong against the Communist Party predicted to happen https://en.wikipedia.org/wiki/Handover_of_Hong_Kong[at the handover], featuring Bruce Lee (often represented as Jackie Chan) who returned from the grave to join the fight and kick Jiang Zemin's ass.
 
-The dead body is from a still from the Bosnian Civil War: https://www.youtube.com/watch?v=WCDWyzZyNdw
+The dead body from the game over screen was taken from a still from a video of the https://en.wikipedia.org/wiki/Bosnian_War[1992 Bosnian War]: https://www.youtube.com/watch?v=WCDWyzZyNdw
 
 The track is a sample of the https://en.wikipedia.org/wiki/I_Love_Beijing_Tiananmen["I Love Beijing Tiananmen" (我爱北京天安门)] Cultural Revolution song that was popular before <<tiananmen>> and later became an ironic protest song:
 
@@ -1532,10 +1532,10 @@ ____
 
 Full song: https://www.youtube.com/watch?v=Is_Z2K7guKs
 
-.Game cover. https://en.wikipedia.org/wiki/File:Hong_Kong_97_cover.jpg[Source].
+.Cover of the Hong Kong 97. https://en.wikipedia.org/wiki/File:Hong_Kong_97_cover.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/en/a/a8/Hong_Kong_97_cover.jpg[height=400]
 
-.The venerable Angry Video Game Nerd made a review of this amazing game: https://www.youtube.com/watch?v=M_aXcH1zDEE
+.The venerable https://en.wikipedia.org/wiki/Angry_Video_Game_Nerd[Angry Video Game Nerd] made a review of Hong Kong 97. https://www.youtube.com/watch?v=M_aXcH1zDEE[Source].
 video::M_aXcH1zDEE[youtube,height=400,width=600]
 
 ===== 2019 Hong Kong anti-extradition bill protests
@@ -1555,7 +1555,7 @@ NBA is huge in China.
 * 2019-10-07 Lakers vs. Heat NBA Tencent LIve Stream cancelled due to fan wearing Taiwan flag
 +
 .Fan wearing Taiwan flag in 2019-10-07 Lakers vs. Heat showing fan and text (TODO from Tencent?) saying that the match will be cancelled. https://www.reddit.com/r/China/comments/dtrx4b/tencent_nba_live_broadcast_got_cancelled_because[Source].
-image::https://web.archive.org/web/20191109172810/https://i.redd.it/y8y7esngllx31.jpg[]
+image::https://web.archive.org/web/20191109172810/https://i.redd.it/y8y7esngllx31.jpg[height=400]
 ** https://www.bbc.co.uk/news/business-49956385
 ** https://edition.cnn.com/2019/10/07/business/houston-rockets-nba-china-daryl-morey/index.html
 
@@ -1756,7 +1756,7 @@ which means to talk to someone who does not have intelectual conditions of under
 * https://baike.baidu.com/item/%E5%AF%B9%E7%89%9B%E5%BC%B9%E7%90%B4/3490
 
 .Cartoon depiction of the https://en.wikipedia.org/wiki/Chengyu[chengyu] "Playing the <<music,qin>> to a cow" 《对牛弹琴》. https://zhidao.baidu.com/question/438181067.html[Source].
-image::http://web.archive.org/web/20200120094357im_/https://iknow-pic.cdn.bcebos.com/a8773912b31bb051adcb2e6a3b7adab44bede081?x-bce-process=image/resize,m_lfit,w_600,h_800,limit_1[]
+image::http://web.archive.org/web/20200120094357im_/https://iknow-pic.cdn.bcebos.com/a8773912b31bb051adcb2e6a3b7adab44bede081?x-bce-process=image/resize,m_lfit,w_600,h_800,limit_1[height=400]
 
 .XKCD 386 "Duty Calls" and the famous "Someone is wrong on the Internet" quote. It is a waste of time to be like that. https://xkcd.com/386/[Source].
 image::https://web.archive.org/web/20191113231107if_/https://imgs.xkcd.com/comics/duty_calls.png[height=400]
@@ -1982,13 +1982,13 @@ Let's try to gather some well sourced footage showing huge numbers of believers 
 * http://www.aparchive.com/search?query=falun%20gong&from=1&orderBy=OldestFirst#7e34a6 AP Archive: could not find a good one there
 
 .Thousands of Falun Gong practitioners in Guangzhou, China, 1998. https://www.theepochtimes.com/finding-the-balance-between-ancient-and-modern_2248694.html[Source].
-image::https://web.archive.org/save/_embed/https://img.theepochtimes.com/assets/uploads/2017/05/10/GuangzhouPractice_big-700x420.jpg[]
+image::https://web.archive.org/save/_embed/https://img.theepochtimes.com/assets/uploads/2017/05/10/GuangzhouPractice_big-700x420.jpg[height=400]
 
 .Thousands of Falun Gong practitioners in Liaoning Industrial Exhibition, China, likely 1998. https://en.minghui.org/html/articles/2016/5/21/157091.html[Source].
-image::http://web.archive.org/web/20191108081906im_/http://falunau.org/wp-content/uploads/2016/05/1a1744bca5595d8dc0c0aa3ca1280f04.jpg[]
+image::http://web.archive.org/web/20191108081906im_/http://falunau.org/wp-content/uploads/2016/05/1a1744bca5595d8dc0c0aa3ca1280f04.jpg[height=400]
 
 .Hundreds of Falun Gong believers in Chengdu, China, 1998. https://faluninfo.net/falun-gong-the-practice/[Source].
-image::https://web.archive.org/save/_embed/https://faluninfo.net/wp-content/uploads/2012/06/chengdu.jpg[]
+image::https://web.archive.org/save/_embed/https://faluninfo.net/wp-content/uploads/2012/06/chengdu.jpg[height=400]
 
 ==== Do you believe in or practice Falun Gong?
 
@@ -2754,7 +2754,7 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 * 2016-11 https://www.reddit.com/r/China/comments/5ai1s6/chinese_citizen_arrested_after_wearing_xitler/ https://wqw2010.blogspot.co.uk/2016/10/101.html Possible Twitter: https://twitter.com/kwonpyong
 * 2016-09: http://qz.com/783026/china-censorship-chinese-citizens-are-being-arrested-for-sharing-news-about-the-wukan-village-rebellion-online/ http://qz.com/781989/foreign-journalists-are-wanted-for-3000-by-chinese-authorities-for-inciting-unrest-in-a-village/ https://en.wikipedia.org/wiki/Wukan_protests
 * 2016-06 https://www.theguardian.com/music/2016/jun/28/china-lady-gaga-ban-list-hostile-foreign-forces-meeting-dalai-lama
-* 2016-06 https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md first GitHub takedown
+* 2016-06 https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md first GitHub takedown, see also: <<programthink>>
 * 2016 http://www.nytimes.com/2016/05/12/world/asia/china-britain-queen-xi-jinping.html?_r=0 queen says Chinese were rude in state visit
 * 2016 http://shanghaiist.com/2016/05/06/dont_eat_that_banana.php Sexy banana eating forbidden
 * 201X http://qz.com/671211/chinas-propaganda-outlets-have-leaped-the-top-of-facebook-even-though-it-banned-at-home/ Chinese government uses forbidden media in China like Facebook and Twitter, possibly click farmed
@@ -2861,7 +2861,7 @@ image::https://web.archive.org/web/20190808091019im_/http://s.wsj.net/public/res
 image::https://upload.wikimedia.org/wikipedia/en/2/28/Tankman_new_longshot_StuartFranklin.jpg[height=400]
 
 .Terril Jones photo taken at ground level with Tank Man on background and men running away on the foreground. The photo was only published in 2009. https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/[Source]
-image::https://web.archive.org/web/20191030232817im_/http://s.wsj.net/public/resources/images/BN-CZ712_TAM_G_20140529081150.jpg[]
+image::https://web.archive.org/web/20191030232817im_/http://s.wsj.net/public/resources/images/BN-CZ712_TAM_G_20140529081150.jpg[height=400]
 
 .Photoshop of Arthur Tsang's photo of Tank Man with huge rubber ducks replacing the tanks. Inspired by a https://www.youtube.com/watch?v=rSo5MqQVwCY[huge inflatable rubber duck sculpture floating in Hong Kong in 2013]. https://petapixel.com/2013/06/05/yellow-duck-version-of-tank-man-photo-goes-viral-amidst-chinese-censorship[Source].
 image::https://web.archive.org/web/20140722052337im_/http://petapixel.com/assets/uploads/2013/06/duckytankman.jpg[height=400]
@@ -2895,10 +2895,26 @@ Profiles and news:
 image::http://web.archive.org/web/20191206090021im_/http://chineseposters.net/images/e13-891.jpg[height=400]
 
 .2017 Xu Xiaodong (MMA) Vs. Wei Lei (Tai Chi) summary GIF. https://www.inkstonenews.com/society/chinas-mma-fighter-xu-xiaodong-fight-survival/article/3047417[Source].
-image::http://web.archive.org/web/20200131021028if_/https://cdn.i-scmp.com/sites/default/files/d8/images/2020/01/24/01.gif[]
+image::http://web.archive.org/web/20200201020038if_/https://cdn.i-scmp.com/sites/default/files/d8/images/2020/01/24/01.gif[height=400]
 
 .2017 Xu Xiaodong (MMA) Vs. Wei Lei (Tai Chi) full fight. https://www.youtube.com/watch?v=0XwXaCbfIGw[Source].
 video::0XwXaCbfIGw[youtube,height=400,width=600]
+
+[[programthink]]
+=== Programthink 编程随想
+
+Very popular Chinese language anonymous blogger that publishes software programming tutorials and political content since 2009, often negative about the CCP, in particular <<censorship,anti-censorship>> and <<brainwashed-by-usa,anti-CCP-brainwashing>>.
+
+* https://zh.wikipedia.org/wiki/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%E7%9A%84%E5%8D%9A%E5%AE%A2 (there is no English page as of January 2020)
+* https://program-think.blogspot.com/ The blog. Blocked in China with the rest of 
+** 2020 categorized summary of the best posts of all time: https://program-think.blogspot.com/2020/01/11-years-blogging.html
+* https://github.com/programthink
+** https://github.com/programthink/zhao manually curated database of maps relationships between Chinese politicians, was the first GitHub gov-takedown: https://github.com/github/gov-takedowns/blob/36e76c34682d2b52eef405ca6f57e1b9ddde3086/China/2016/2016-06-08-programthink-zhao.md
+* https://twitter.com/programthink
+* DW coverage (Chinese): https://www.dw.com/zh/2013%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%E5%9B%BD%E9%99%85%E5%8D%9A%E5%AE%A2%E5%A4%A7%E8%B5%9B%E4%B8%AD%E6%96%87%E6%8F%90%E5%90%8D%E5%8D%9A%E5%AE%A2%E6%8F%AD%E6%99%93/a-16716065 (https://web.archive.org/web/20191202233838/https://www.dw.com/zh/2013%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%E5%9B%BD%E9%99%85%E5%8D%9A%E5%AE%A2%E5%A4%A7%E8%B5%9B%E4%B8%AD%E6%96%87%E6%8F%90%E5%90%8D%E5%8D%9A%E5%AE%A2%E6%8F%AD%E6%99%93/a-16716065[archive]) 2013德国之声国际博客大赛——中文提名博客揭晓 ""
+
+.Programthink uses https://en.wikipedia.org/wiki/The_Thinker[Rodin's The Thinker sculpture] as its avatar. https://github.com/programthink/[Source].
+image::https://web.archive.org/web/20191218082236if_/https://avatars0.githubusercontent.com/u/4027957?s=400&v=4[height=400]
 
 == Media 媒体
 
@@ -3166,10 +3182,10 @@ Where they have deleted online posts, they will end in deleting human beings.
 ____
 
 .Internal censorship is so strong, that many Chinese people who leave China to live abroad continue to believe that the CCP is always right, despite having access evidence that suggests otherwise. This <<rebel-pepper>> 2019-08 cartoon shows frogs coming out of a big well still remain inside their own small wells made up of Chinese media such as <<zhihu-purge,Zhihu>> and CCTV. It is a reference to the Chinese proverb https://zh.wikipedia.org/wiki/%E4%BA%95%E5%BA%95%E4%B9%8B%E8%9B%99[井底之蛙] which means that a frog in the bottom of the well can only see a very limited portion of the sky. https://www.rfa.org/mandarin/biantailajiaomanhua/lj-08302019111414.html[Source].
-image::https://web.archive.org/web/20190915124441im_/https://www.rfa.org/mandarin/biantailajiaomanhua/lj-08302019111414.html/1/@@images/82a29858-e5b4-4ae1-88ae-fa54737588e1.jpeg[]
+image::https://web.archive.org/web/20190915124441im_/https://www.rfa.org/mandarin/biantailajiaomanhua/lj-08302019111414.html/1/@@images/82a29858-e5b4-4ae1-88ae-fa54737588e1.jpeg[height=400]
 
 .<<nazi,Nazis>> burning books in Berlin in 1933. https://en.wikipedia.org/wiki/Nazi_book_burnings[Source].
-image::https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/1933-may-10-berlin-book-burning.JPG/603px-1933-may-10-berlin-book-burning.JPG[]
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/1933-may-10-berlin-book-burning.JPG/603px-1933-may-10-berlin-book-burning.JPG[height=400]
 
 [[jingjing-chacha]]
 ===== Jingjing and Chacha 警警察察
@@ -3237,6 +3253,8 @@ In 2019, the European Union was considering making stricter laws about cyber sur
 
 Projects that attempt to understand how the Great Firewall works and what it blocks:
 
+* https://en.wikipedia.org/wiki/Websites_blocked_in_mainland_China
+** https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A2%AB%E5%B0%81%E9%94%81%E7%BD%91%E7%AB%99%E5%88%97%E8%A1%A8 中华人民共和国被封锁网站列表
 * http://greatfire.org/
 ** https://en.wikipedia.org/wiki/GreatFire
 ** https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%BE%AE%E5%8D%9A
