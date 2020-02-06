@@ -1399,15 +1399,18 @@ But why do you do something and then hide it? Maybe because you are not doing th
 See also: <<western-democracies-have-invaded-other-countries-and-crushed-separatism>>.
 
 [[taiwan]]
-==== Taiwan 台湾
+==== Taiwan 台湾 Republic of China 中華民國
 
-I don't consider Taiwan separatism.
+* https://en.wikipedia.org/wiki/Taiwan
+* https://zh.wikipedia.org/wiki/中华民国
 
-Taiwan is a country split due to civil war, long ago.
+Taiwan is not a case of separatism.
+
+Taiwan is a completely separate country split due to civil war, long ago.
 
 The fact that most countries in the world does officially recognize Taiwan as a country is a joke, considering that the only thing keeping it afloat is the West's military threat.
 
-The West must not let China advance and take more territories. The more they take, the more they will want.
+<<what-should-western-countries-do-about-china,The West must not>> let China advance and take more territories. The more they take, the more they will want.
 
 The West must protect China's neighbouring countries with military support and assurance.
 
@@ -1423,7 +1426,7 @@ Oh, I forgot, it is because they have absolutely no control over Taiwan. Just li
 
 China, if you want to claim that Taiwan is a part of you, just invade them already. Or just stop this joke.
 
-Someone once told me:
+Someone once told Ciro:
 
 ____
 Taiwan should not be considered a country by China, because then it would not join back to China when China becomes a democracy, and would be used by the USA to do evil things like they did in the Middle East
@@ -1441,11 +1444,25 @@ ____
 Taiwan’s Status Is a Geopolitical Absurdity
 ____
 
+If you are interested in Taiwan, one important programmer forum is: <<ptt>>.
+
 Some interesting links:
 
 * https://en.wikipedia.org/wiki/One-China_policy every country has private relations with Taiwan through some trade organizations, they just don't call them embassies
 * http://travel.stackexchange.com/questions/62447/how-can-a-citizen-of-mainland-china-visit-taiwan/62466#comment178495_62466 hi, I want a "not VISA" to Taiwan. Thanks.
 * https://youtu.be/6aZkM_ZLvjE?t=50 (zh) "【這就是科學｜柯文哲】EP3／從癌症治療看政治！除惡務盡→除惡「勿」盡？「與敵共存」才是生存之道！", 柯文哲, 2019-06-26. Ko Wen-je , the mayor of Taipei 台北 and a professor in medicine, applies the concept of isolation and mutation in evolution to Taiwan and China
+
+.The flag of Taiwan. Like most modern countries, Taiwan has one. https://en.wikipedia.org/wiki/File:Flag_of_the_Republic_of_China.svg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg[height=400]
+
+[[taiwan-number-one]]
+===== Taiwan #1
+
+2015 meme started by https://en.wikipedia.org/wiki/Z1_Battle_Royale[H1Z1] streamer AngryPug, in which he repeatedly taunts the Chinese streamer Em0 by pretending to be Taiwanese.
+
+* https://www.youtube.com/watch?v=vTqZ9xrxhHk ANGRYPUG's official YouTube upload of the clip
+* https://knowyourmeme.com/memes/taiwan-1
+* https://www.reddit.com/r/OutOfTheLoop/comments/3tz3jq/what_is_the_point_of_the_taiwan_1_thing/
 
 [[xinjiang]]
 ==== Xinjiang 新疆
@@ -1560,7 +1577,7 @@ But then he was a coward, removed this tweet, and apologized: https://twitter.co
 
 NBA is huge in China.
 
-* 2019-10-07 Lakers vs. Heat NBA Tencent LIve Stream cancelled due to fan wearing Taiwan flag
+* 2019-10-07 Lakers vs. Heat NBA Tencent LIve Stream cancelled due to fan wearing the <<taiwan,Taiwanese>> flag
 +
 .Fan wearing Taiwan flag in 2019-10-07 Lakers vs. Heat showing fan and text (TODO from Tencent?) saying that the match will be cancelled. https://www.reddit.com/r/China/comments/dtrx4b/tencent_nba_live_broadcast_got_cancelled_because[Source].
 image::https://web.archive.org/web/20191109172810/https://i.redd.it/y8y7esngllx31.jpg[height=400]
@@ -1585,14 +1602,14 @@ An appropriation attack is one where the attackers attempt to associate an exist
 
 For example, during the <<2019-hong-kong-anti-extradition-bill-protests>> attackers attempted to use this technique to associate a generic https://en.wikipedia.org/wiki/Chun-Li[Chinese Chun-Li-like] character Mei from Blizzard's link:++https://en.wikipedia.org/wiki/Overwatch_(video_game)++[Overwatch game] to try and get it blocked in China after the gaming company punished a pro gamer for defending the Hong Kong protests. Coverage https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10 (http://web.archive.org/web/20191012094950/https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10[archive]).
 
-.https://twitter.com/marnofavonlea/status/1182557311539150849[Source].
+.Mei from Blizzard’s Overwatch was used in an attempted <<appropriation-attack>> during the <<2019-hong-kong-anti-extradition-bill-protests>>. https://twitter.com/marnofavonlea/status/1182557311539150849[Source].
 image::https://web.archive.org/web/20191013075823if_/https://pbs.twimg.com/media/EGlJmSEUYAE7F7G?format=jpg&name=900x900[height=400]
 
 ===== Sport event live broadcast image attacks
 
 NBA in particular is super popular in China, and people sitting at the front row can easily bomb emissions due to the small court size:
 
-* China’s Tencent halts NBA live broadcast over Taiwanese flag
+* China’s Tencent halts NBA live broadcast over <<taiwan,Taiwanese>> flag
 * https://www.taiwannews.com.tw/en/news/3813842
 
 Started in particular due to the <<daryl-morey-tweet>>
@@ -1660,7 +1677,7 @@ Western government should prevent companies from complying to Chinese censorship
 
 Citizens should boycott such companies.
 
-https://github.com/caffeine-overload/bandinchina contains a "List of companies who have apologized to the Chinese government and implemented censorship requests". It only lists companies that implemented censorship outside of China however (with Hong Kong, Taiwan and Macau defined as outside of China), therefore it is basically a Taiwan flag takedown + Hong Kong / Taiwan censorship list: https://github.com/caffeine-overload/bandinchina/pull/56#issuecomment-541230090 | https://github.com/caffeine-overload/bandinchina/pull/84
+https://github.com/caffeine-overload/bandinchina contains a "List of companies who have apologized to the Chinese government and implemented censorship requests". It only lists companies that implemented censorship outside of China however (with Hong Kong, <<taiwan,Taiwan>> and Macau defined as outside of China), therefore it is basically a Taiwan flag takedown + Hong Kong / Taiwan censorship list: https://github.com/caffeine-overload/bandinchina/pull/56#issuecomment-541230090 | https://github.com/caffeine-overload/bandinchina/pull/84
 
 Here is a quick  2019 summary:
 
@@ -1944,9 +1961,10 @@ Added my Noodle shop to maps: https://www.google.co.uk/maps/place/Tiananmen+Squa
 +
 Leaches that picked it up: http://kvalster.se/Falu/Uthyres/Lagenheter/Gammelvagen_49_1417351
 
-==== PTT
+[[ptt]]
+==== PTT Bulletin Board System 批踢踢實業坊
 
-Popular Taiwanese forum system and server from 1995, pre HTML, works from telnet terminal, so likely very programmer heavy, and ovbiouvly anti-CCP.
+Popular <<taiwan,Taiwanese>> forum system and server from 1995, pre HTML, works from telnet terminal, so likely very programmer heavy, and ovbiouvly anti-CCP.
 
 * https://en.wikipedia.org/wiki/PTT_Bulletin_Board_System
 * https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2
@@ -2583,7 +2601,7 @@ But Ciro Santilli strongly believes that all most people in the West would class
 * an impending link:https://en.wikipedia.org/wiki/Last_Judgment[final judgement]-like event, which will happen "very soon" (<<flg-verifiable,unspecified date>>), and in which the just will be rewarded
 +
 I predict that when <<flg-lhz>> dies, the claim will be that he went to another dimension so save us all, therefore putting this final judgement on hold, a bit like Jesus.
-* link:https://en.wikipedia.org/wiki/Open-air_preaching[street preaching] with stands and leaflets like link:https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses[Jehovah's Witnesses]
+* link:https://en.wikipedia.org/wiki/Open-air_preaching[street preaching] with stands and leaflets on the streets exactly like link:https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses[Jehovah's Witnesses]. The Falun Gong organization also specifies guidelines on how to preach, although these might not be <<flg-canon,canon>>, even though if they are not, it is extremely likely that <<flg-lhz,LHZ>> is directly involved in their specification
 
 Or a cult, which is nothing but a new / small religion with negative connotation, and thus meaningless.
 
@@ -2779,7 +2797,7 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 * 2018-01 https://www.theguardian.com/world/2018/jan/19/outspoken-chinese-human-rights-lawyer-yu-wensheng-arrested
 * 2018-01 https://www.reuters.com/article/us-hongkong-politics/hong-kong-activist-banned-from-by-election-in-what-pro-democracy-party-calls-payback-idUSKBN1FG06P
 * 2018-01 https://www.nytimes.com/2018/01/12/world/asia/china-church-dynamite.html
-* 2018-01 http://uk.businessinsider.com/china-marriott-tweets-censorship-2018-1?r=US&IR=T Marriott lists Taiwan as country in the website
+* 2018-01 http://uk.businessinsider.com/china-marriott-tweets-censorship-2018-1?r=US&IR=T Marriott lists <<taiwan,Taiwan>> as country in the website
 * 2018-01 http://chuangcn.org/2018/01/the-mastermind/
 * 2018-01 http://time.com/5112061/china-hip-hop-ban-tattoos-television/
 
@@ -2814,7 +2832,7 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 * 2016 http://www.nytimes.com/2016/05/12/world/asia/china-britain-queen-xi-jinping.html?_r=0 queen says Chinese were rude in state visit
 * 2016 http://shanghaiist.com/2016/05/06/dont_eat_that_banana.php Sexy banana eating forbidden
 * 201X http://qz.com/671211/chinas-propaganda-outlets-have-leaped-the-top-of-facebook-even-though-it-banned-at-home/ Chinese government uses forbidden media in China like Facebook and Twitter, possibly click farmed
-* 2016-04 http://blogs.reuters.com/great-debate/2016/01/26/china-threatens-sanctions-against-u-s-companies-is-this-the-future/ China economic sanctions companies that sell weapons to Taiwan (some of those companies also sell civilian products to China)
+* 2016-04 http://blogs.reuters.com/great-debate/2016/01/26/china-threatens-sanctions-against-u-s-companies-is-this-the-future/ China economic sanctions companies that sell weapons to <<taiwan,Taiwan>> (some of those companies also sell civilian products to China)
 * 2016-04 http://www.hollywoodreporter.com/news/china-demands-shutdown-disneylife-service-887599 Disney Life blocked
 * 2016-04 http://www.hollywoodreporter.com/news/china-demands-shutdown-apples-film-886831 Apple iTunes and iBooks blocked
 * 2016 http://www.bbc.com/news/blogs-news-from-elsewhere-35968855 China's 'Great Firewall' blocks its creator
@@ -2838,9 +2856,7 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 *** https://en.wikipedia.org/wiki/Lam_Wing-kee
 *** https://www.youtube.com/watch?v=dHq0f_eGLhE 2016 interview in freedom
 *** https://china-journal.org/2019/04/27/abducted-hong-kong-bookseller-has-fled-to-taiwan-to-avoid-extradition-to-china/
-* 2015 Taiwan #1
-** https://www.reddit.com/r/OutOfTheLoop/comments/3tz3jq/what_is_the_point_of_the_taiwan_1_thing/
-** https://www.youtube.com/watch?v=vTqZ9xrxhHk
+* <<taiwan-number-one>>
 * 2015 Taiwanese beauty queen kicked out of Miss Earth pageant for refusing to change `Taiwan ROC' sash to `Chinese Taipei' http://shanghaiist.com/2015/11/23/miss-earth-ting-wen-yin.php
 * 2015 https://www.eff.org/deeplinks/2015/08/speech-enables-speech-china-takes-aim-its-coders https://github.com/shadowsocks/shadowsocks shadowsocks creator threatened
 * 2015 http://www.bbc.com/news/entertainment-arts-34630829 Lego refuses to sell to Ai Weiwei
