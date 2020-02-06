@@ -1959,7 +1959,10 @@ Ciro Santilli's appearances on PTT:
 
 Archaic, fucking impossible to learn how to use. Ciro Santilli hasn't managed yet, so if you want a reply from him, open an issue on this repo instead.
 
-TODO: can anyone comment, without having a Taiwanese university address? This suggests no: https://www.reddit.com/r/taiwan/comments/1etbvb/anyone_on_pttcc_advice_suggestions/
+TODO: can anyone comment, without having a Taiwanese university address? This suggests no: https://www.reddit.com/r/taiwan/comments/1etbvb/anyone_on_pttcc_advice_suggestions/ Also asked at:
+
+* https://www.quora.com/unanswered/Can-you-comment-on-the-PTT-Bulletin-Board-System-at-ptt-cc-from-Taiwan-without-working-or-studying-at-a-Taiwanese-university
+* https://github.com/cirosantilli/china-dictatorship/issues/92
 
 Normal people see it on a web viewer hosted on: https://www.ptt.cc/bbs/index.html
 
