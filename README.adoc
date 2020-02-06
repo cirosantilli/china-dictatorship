@@ -1944,6 +1944,51 @@ Added my Noodle shop to maps: https://www.google.co.uk/maps/place/Tiananmen+Squa
 +
 Leaches that picked it up: http://kvalster.se/Falu/Uthyres/Lagenheter/Gammelvagen_49_1417351
 
+==== PTT
+
+Popular Taiwanese forum system and server from 1995, pre HTML, works from telnet terminal, so likely very programmer heavy, and ovbiouvly anti-CCP.
+
+* https://en.wikipedia.org/wiki/PTT_Bulletin_Board_System
+* https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2
+
+Ciro Santilli's appearances on PTT:
+
+* 2020-01-31: https://www.ptt.cc/bbs/Gossiping/M.1580484253.A.37A.html "stackoverflow菁英卻痛恨中國" by https://pttweb.tw/user/Eric0605/["Eric0605 (我還有點餓)"] on the Gossiping board
+* 2017-06-19 https://pttweb.tw/s/2K9zV "Ciro Santilli 709大抓捕 六四事件 法轮" on the Gossiping board
+* 2016-10-03 https://www.ptt.cc/bbs/Soft_Job/M.1478104872.A.916.html "Github也出現網軍了嗎?" by gocreating on the Soft_Job board
+
+Archaic, fucking impossible to learn how to use. Ciro Santilli hasn't managed yet, so if you want a reply from him, open an issue on this repo instead.
+
+TODO: can anyone comment, without having a Taiwanese university address? This suggests no: https://www.reddit.com/r/taiwan/comments/1etbvb/anyone_on_pttcc_advice_suggestions/
+
+Normal people see it on a web viewer hosted on: https://www.ptt.cc/bbs/index.html
+
+However it is fucking impossible to web archive that web interface because there is a cookie I'm 18-years-old confirmation before the first connection.
+
+This shows how to connect for the first time: https://www.ptt.cc/index.firstbbs.html
+
+One attempt is:
+
+....
+luit -encoding big5 telnet ptt.cc
+....
+
+But the main page says:
+
+"本站目前暫停開放新帳號註冊。" "This site is currently suspended for new account registration."
+
+And you try `new` it says: "目前無法註冊帳號![按任意鍵繼續]" "Account cannot be registered at this time."
+
+OK, ptt2 went further:
+
+....
+luit -encoding big5 telnet ptt2.cc
+....
+
+Then there is a registration process that seem to require you to prove that you work at Taiwanese university, but not sure it is mandatory to post.
+
+But I couldn't find Gossiping there either, which is the only board that matters, so not sure it is on this server.
+
 === Christianity
 
 The commies are not a fan. But as someone once told me: the commies are not a fan of a bunch of things!
@@ -2919,7 +2964,9 @@ Very popular Chinese language anonymous blogger that publishes software programm
 * https://github.com/programthink
 ** https://github.com/programthink/zhao manually curated database of maps relationships between Chinese politicians, this was the first <<github-gov-takedowns,GitHub gov-takedown from china>>: https://github.com/github/gov-takedowns/blob/36e76c34682d2b52eef405ca6f57e1b9ddde3086/China/2016/2016-06-08-programthink-zhao.md
 +
-The full project name is: 太子党关系网络 (network of relations of https://en.wikipedia.org/wiki/Princelings[CCP princelings]) but the project is also known as "zhao" TODO why, possible reference to: https://en.wikipedia.org/wiki/House_of_Zhao[]?
+The full project name is: 太子党关系网络 (network of relations of https://en.wikipedia.org/wiki/Princelings[CCP princelings]).
++
+The project is also known as "zhao" which is another slang reference to "太子党": "赵家人" (zhaojiaren == zhao family): https://en.wikipedia.org/wiki/Zhao_family (https://zh.wikipedia.org/wiki/%E8%B6%99%E5%AE%B6%E4%BA%BA[zh]), which is in turn a reference to https://en.wikipedia.org/wiki/Zhao_(state) or https://en.wikipedia.org/wiki/House_of_Zhao[].
 * https://twitter.com/programthink
 * DW coverage (Chinese): https://www.dw.com/zh/2013%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%E5%9B%BD%E9%99%85%E5%8D%9A%E5%AE%A2%E5%A4%A7%E8%B5%9B%E4%B8%AD%E6%96%87%E6%8F%90%E5%90%8D%E5%8D%9A%E5%AE%A2%E6%8F%AD%E6%99%93/a-16716065 (https://web.archive.org/web/20191202233838/https://www.dw.com/zh/2013%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%E5%9B%BD%E9%99%85%E5%8D%9A%E5%AE%A2%E5%A4%A7%E8%B5%9B%E4%B8%AD%E6%96%87%E6%8F%90%E5%90%8D%E5%8D%9A%E5%AE%A2%E6%8F%AD%E6%99%93/a-16716065[archive]) 2013德国之声国际博客大赛——中文提名博客揭晓 ""
 
