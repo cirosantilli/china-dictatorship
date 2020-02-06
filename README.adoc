@@ -683,6 +683,18 @@ ____
 
 Expression previously mentioned at: http://web.archive.org/web/20161025220242/http://tieba.baidu.com/p/752094668
 
+==== Chinese politicians really care about the Chinese citizens
+
+Sometimes people say Ciro Santilli is naive.
+
+Politicians are the same all over the world.
+
+Some are good, some are evil.
+
+China's problem is not its politicians.
+
+It's the current shitty political organization, which allows/convinces those politicians to do really bad things: <<richer>>, <<war>>.
+
 ==== Is Chinese politician X evil?
 
 The term evil does not make sense.
@@ -694,12 +706,12 @@ The huge majority of those politicians are just regular dudes with a knack for p
 Just like you, Ciro Santilli and other politicians in any country.
 
 [[xi-jinping]]
-==== Xi Jinping 习近平
+===== Xi Jinping 习近平
 
 https://en.wikipedia.org/wiki/Xi_Jinping
 
 [[chrysanthemium-xi-jinping]]
-===== Chrysanthemium Xi Jinping 菊花习近平
+====== Chrysanthemium Xi Jinping 菊花习近平
 
 Got creator Dai Jianyong (戴建勇) arrested in 2015:
 
@@ -715,7 +727,7 @@ image::https://web.archive.org/web/20200113200256im_/https://chinadigitaltimes.n
 .Possible original Xi Jinping photo used for Chrysanthemum Xi, possibly from 2012. The light blue gradient background was used for the official photos of many Communist officials of the era. http://content.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112111,00.html[Source].
 image::https://web.archive.org/web/20190417164247im_/http://img.timeinc.net/time/2012/t100/t100_xi_alt.jpg[height=400]
 
-===== Xi abolishes term limits 2018-03
+====== Xi abolishes term limits 2018-03
 
 * 包子露宪 https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution
 * https://www.nytimes.com/2018/03/10/world/asia/china-xi-jinping-term-limit-explainer.html
@@ -727,7 +739,7 @@ image::https://web.archive.org/web/20191013080140if_/https://www.rfa.org/english
 image::https://web.archive.org/web/20200121105502if_/https://storage.googleapis.com/afs-prod/media/media:c65bb5f4e2664bb88aae7881f8adbba0/800.jpeg[height=400]
 
 [[winnie-the-pooh]]
-===== Comparisons between Xi Jinping and Winnie-the-Pooh 小熊維尼
+====== Comparisons between Xi Jinping and Winnie-the-Pooh 小熊維尼
 
 Got censored due to comparisons between Xi Jinping and Winnie in 2017: https://en.wikipedia.org/wiki/Winnie-the-Pooh#Censorship_in_China
 
@@ -742,26 +754,14 @@ image::http://web.archive.org/web/20191012100528im_/https://i.guim.co.uk/img/med
 .Comparison image between Xi Jinping on a car in a 2015 military parade and a toy Winnie-the-Pooh on a car. https://www.bbc.co.uk/news/blogs-china-blog-40627855[Source].
 image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/news/624/cpsprodpb/DD1F/production/_96970665_4587b36b-011f-4007-b16f-34389d385aec.jpg[height=400]
 
-==== Chinese politicians really care about the Chinese citizens
-
-Sometimes people say Ciro Santilli is naive.
-
-Politicians are the same all over the world.
-
-Some are good, some are evil.
-
-China's problem is not its politicians.
-
-It's the current shitty political organization, which allows/convinces those politicians to do really bad things: <<richer>>, <<war>>.
-
 [[mao-zedong]]
-==== Mao Zedong 习近平
+===== Mao Zedong 习近平
 
 * https://en.wikipedia.org/wiki/Mao_Zedong
 * https://zh.wikipedia.org/wiki/%E6%AF%9B%E6%B3%BD%E4%B8%9C
 
 [[great-leap-forward]]
-===== Great Leap Forward 大跃进
+====== Great Leap Forward 大跃进
 
 * https://en.wikipedia.org/wiki/Great_Leap_Forward
 * https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%B7%83%E8%BF%9B
