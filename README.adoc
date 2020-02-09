@@ -190,6 +190,9 @@ This is also well illustrated in the link:https://en.wikipedia.org/wiki/Chernoby
 .Chernobyl scene where the reactor explodes, and a chief engineer "Comrade Dyatlov" accepts the 3.6 Roentgen measurement as "Not great, not terrible" and forwards it to his superiors who take actions based on that, even though the radiation measurement apparatus only goes up to 3.6 Roentgen. Needless to say, the actual radiation was much, much higher. The URSS only admitted Chernobyl three days after when Swedish nuclear plant alarms started going off. In order to keep it secret, they for example did not cancel the https://time.com/4313139/post-chernobyl-parade/[International Workers’ Day parade in Kharkov, Ukraine which happened five days after the disaster]. https://www.youtube.com/watch?v=M6kYod3_gwk[Source].
 video::M6kYod3_gwk[youtube,height=400,width=600]
 
+.Photo of a CDV-717 radioactivity meter that maxes out at 3.6 Roentgen like the one that would have been used in Chernobyl. https://www.reddit.com/r/ChernobylTV/comments/bnio6n/36_roentgen_on_a_cdv717/[Source]
+image::https://web.archive.org/web/20191102143219if_/https://i.redd.it/f806kp316ox21.jpg[height=400]
+
 Or https://quoteinvestigator.com/2010/05/21/death-statistic/[if you prefer]:
 
 ____
@@ -201,6 +204,7 @@ Virus outbreaks and other natural disasters also illustrate this well:
 * 2020 Corona Virus
 ** https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1 "China spent the crucial first days of the Wuhan coronavirus outbreak arresting people who posted about it online and threatening journalists" (http://web.archive.org/web/20200124113400/https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1?r=US&IR=T[archive])
 ** https://www.vice.com/en_us/article/g5xykx/you-can-now-go-to-jail-in-china-for-criticizing-beijings-coronavirus-response "You Can Now Go to Jail in China for Criticizing Beijing’s Coronavirus Response"
+** Doctor Li Wenliang https://www.bbc.com/news/world-asia-china-51409801
 
 [[war]]
 ==== Why would democracy and freedom of speech make China less likely to start a war?
@@ -466,13 +470,13 @@ But please, link to reference material instead of just saying it, it will be muc
 See also: <<western-democracies-are-not-perfect>>.
 
 [[bias]]
-=== This repository is completely biased against the Chinese Government!
+=== Ciro Santilli and this repository are completely biased against the Chinese Government!
 
-I prefer the term focused :-)
+<<ciro-santilli>> prefers the term focused :-)
 
-That being said, I take the agenda of information sources very seriously.
+That being said, Ciro take the agenda of information sources very seriously.
 
-E.g. I try to clearly classify Communist Party, Falun Gong, and Western government linked sources.
+E.g. he tries to clearly classify Communist Party, Falun Gong, and Western government linked sources.
 
 Any evidence of positive political progress will also be added to this repo, e.g. people openly discussing politics online, human rights activists doing political stuff and not being put into jail, etc.
 
@@ -480,9 +484,48 @@ Party promises do not count, only reports of activities by individuals.
 
 See also:
 
-* <<preconceived>>
 * <<flg-bias>>
 * <<radical>>
+
+[[throne]]
+==== Ciro Santilli's claim to the Qing Dynasty throne
+
+Ciro Santilli's <<wife>>, her mother, and paternal cousin, believe that Ciro's wife is the descendant of the brother of a recent https://en.wikipedia.org/wiki/Qing_dynasty[Qing emperor] through her father's family.
+
+Although they have not been able to produce concrete evidence, which could be explained by the endless political turmoils in 20th century China, Ciro decided that this would be a good bet to take, and married her anyways.
+
+If anyone is able to provide further evidence of this relationship, please, please, please get in touch.
+
+The family tree that Ciro has reconstructed orally is: TODO
+
+This wiki page contains a good family tree of the most important Qing people: link:++https://en.wikipedia.org/wiki/Family_tree_of_Chinese_monarchs_(late)#Qing_dynasty++[]
+
+Further anecdotal indicators follow.
+
+Ciro's wife and family are clearly of the https://en.wikipedia.org/wiki/Manchu_people[Manchu ethnicity] just by looking at them, and they originally lived in the North East of China
+
+His wife's family name is the very unusual 艾, pronounced "ai4", which she claims is a reference to the 愛(also pronounced ai4) in https://en.wikipedia.org/wiki/Aisin_Gioro[愛新覺羅], which is the name of the Manchu ruling clan of the Qing dynasty.
+
+Ciro's father-in-law, who he barely met, was very old when he had his daughter, and passed away before Ciro could talk a lot with him, which is consistent with the claims that he spent several years in jail during <<mao-zedong,Mao's>> purges, see also: <<wife>>.
+
+[[preconceived]]
+==== You have a preconceived opinion about China that cannot be changed
+
+I try to justify here why I think China would be better with democracy, but I know that ultimately all of this is useless.
+
+Our opinions are all determined genetically and by bring-up, and there is nothing I can do to change yours, or you change mine.
+
+From that point of view, all of this is just a cold blooded political game, in which I try to force the CCP to take down the Firewall: <<why-keyword-attack>>.
+
+Unfortunately I'm still still human and do get annoyed or sad sometimes, but never mad, even if your opinion is contrary to mine, and therefore wrong :-) The <<reply-policy,reply policy>> helps reduce such frustrations tremendously however.
+
+I also have doubts about certain things I do as expressed throughout this FAQ.
+
+Also, I have never said that that anyone else is wrong.
+
+In the end, I just end up thinking about new replies to things people say to me, and add them to this FAQ so that future replies will be faster to copy paste. See also: <<better-to-do>>.
+
+The real goal of this FAQ it not to convince people, but rather to determine who is an ally and who is not, and get those allies together to defeat the commies.
 
 === China is fine as it is, stop making it worse
 
@@ -545,7 +588,7 @@ We have to choose the one we think is the worst, and focus on it.
 
 What is worse is a subjective choice. For me:
 
-* I love China and my <<why-do-you-love-china-so-much,Chinese wife>>, see also: <<bias>>
+* I love China and my <<why-does-ciro-santilli-love-china-so-much,Chinese wife>>, see also: <<bias>>
 * I hate dictatorships, and China is the largest one by population / GDP / link:https://www.ploughshares.org/world-nuclear-stockpile-report[nuclear stockpile]
 
 My <<keyword-choice,SO username>> and <<better-to-do,protest time>> are not infinite.
@@ -755,19 +798,25 @@ image::http://web.archive.org/web/20191012100528im_/https://i.guim.co.uk/img/med
 image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/news/624/cpsprodpb/DD1F/production/_96970665_4587b36b-011f-4007-b16f-34389d385aec.jpg[height=400]
 
 [[mao-zedong]]
-===== Mao Zedong 习近平
+===== Mao Zedong 毛泽东
 
 * https://en.wikipedia.org/wiki/Mao_Zedong
-* https://zh.wikipedia.org/wiki/%E6%AF%9B%E6%B3%BD%E4%B8%9C
+* https://zh.wikipedia.org/wiki/毛泽东
 
 [[great-leap-forward]]
-====== Great Leap Forward 大跃进
+====== Great Leap Forward 大跃进 (1958-1960)
 
 * https://en.wikipedia.org/wiki/Great_Leap_Forward
-* https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%B7%83%E8%BF%9B
+* https://zh.wikipedia.org/wiki/大跃进
 
 .A high tower of https://en.wikipedia.org/wiki/Wax_gourd[winter gourds] "冬瓜上高楼" propaganda poster for the Great Leap Forward by https://chineseposters.net/artists/jinmeisheng.php[Jin Meisheng] published in 1959. <<western-democracies-are-not-perfect,Even in democracies>>, politicians promise the fat gourds. But when there is <<censorship,no free media to control their>> lies, things can get really out of hand. http://www.iisg.nl/exhibitions/chairman/chn11.php[Source].
 image::https://web.archive.org/web/20200131210244/https://live.staticflickr.com/4135/4754681204_1784cd9f89_w.jpg[height=400]
+
+[[cultural-revolution]]
+====== Cultural Revolution 文化大革命 (1966-1976)
+
+* https://en.wikipedia.org/wiki/Cultural_Revolution
+* https://zh.wikipedia.org/wiki/文化大革命
 
 [[nazi]]
 === Comparisons between the CCP and Nazi Germany
@@ -787,7 +836,7 @@ image::https://web.archive.org/web/20180319114422im_/http://images.china.cn/site
 .German's 1938-1945 war flag called the "War Ensign of Germany" in English or "Reichskriegsflagge" in German. https://en.wikipedia.org/wiki/Reichskriegsflagge[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/War_Ensign_of_Germany_%281938%E2%80%931945%29.svg/320px-War_Ensign_of_Germany_%281938%E2%80%931945%29.svg.png[height=400]
 
-.Hitler has of course a few raised fists on Google Images, but they tend to be more agressive, and less compatible with Xi's apathic poker face. http://bodylanguageproject.com/xarticles/wp-content/uploads/2019/07/Hitler-4.jpg[Source].
+.Hitler has of course a few raised fists on Google Images, but they tend to be more aggressive, and less compatible with Xi's apathic poker face. http://bodylanguageproject.com/xarticles/wp-content/uploads/2019/07/Hitler-4.jpg[Source].
 image::https://web.archive.org/web/20191218074716if_/https://allthatsinteresting.com/wordpress/wp-content/uploads/2017/10/mouth-open.jpg[height=400]
 
 .Photoshopped cover of Mein Kampf with Xi's face on top of Hitler's and other modifications such as Mian instead of Mein, likely the same 面 (mian4, face) as the Chinese character at the bottom right. https://foreignerinformosa.typepad.com/the_foreigner_in_formosa/2017/07/president-xitler-of-china-murders-political-dissident-liu-xiaobo.html[Source].
@@ -849,24 +898,8 @@ image::https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Human_Feces_%28
 .To censor or not to censor good shitposts: that is not the question, <<ciro-santilli>> will never censor them! https://imgur.com/gallery/rA0K90g[Source].
 image::https://web.archive.org/web/20200120095415/https://i.imgur.com/rA0K90g.jpg?1[height=600]
 
-[[preconceived]]
-==== You have a preconceived opinion about China that cannot be changed
-
-I try to justify here why I think China would be better with democracy, but I know that ultimately all of this is useless.
-
-Our opinions are all determined genetically and by bring-up, and there is nothing I can do to change yours, or you change mine.
-
-From that point of view, all of this is just a cold blooded political game, in which I try to force the CCP to take down the Firewall: <<why-keyword-attack>>.
-
-Unfortunately I'm still still human and do get annoyed or sad sometimes, but never mad, even if your opinion is contrary to mine, and therefore wrong :-) The <<reply-policy,reply policy>> helps reduce such frustrations tremendously however.
-
-I also have doubts about certain things I do as expressed throughout this FAQ.
-
-Also, I have never said that that anyone else is wrong.
-
-In the end, I just end up thinking about new replies to things people say to me, and add them to this FAQ so that future replies will be faster to copy paste. See also: <<better-to-do>>.
-
-The real goal of this FAQ it not to convince people, but rather to determine who is an ally and who is not, and get those allies together to defeat the commies.
+.The legendary https://en.wikipedia.org/wiki/Grass_Mud_Horse[Grass Mud Horse 草泥马 (caonima)] is also said to appear in shitposts from time to time.
+image::http://web.archive.org/web/20200209012342if_/https://kpopalypse.files.wordpress.com/2014/01/alca.jpg[height=400]
 
 ==== Has Ciro Santilli you ever lived in China?
 
@@ -887,7 +920,7 @@ If the dictatorship ends, I would like to <<do-you-hate-china,migrate to China>>
 
 See: https://cirosantilli.com/#ciro-santilli
 
-But <<why-do-you-love-china-so-much,his wife is>>.
+But <<why-does-ciro-santilli-love-china-so-much,his wife is>>.
 
 ==== Does Ciro Santilli speak Chinese?
 
@@ -905,7 +938,7 @@ He hasn't tried to learn characters, too much effort, but he did learn the most 
 
 Ciro really wishes he could learn more, but he has other more important endeavours at the moment :-(
 
-He initially learnt from book that come with audio recordings in the first 6-months to 1 year in 2010, but that got impossibly boring afterwards, so he later moved to just basically talking as much as possible non-important things to <<why-do-you-love-china-so-much,his wife in Chinese>>, and whenever he reachs one that I don't know that seems useful, he Plecos it up or just 怎么说 and then Pleco.
+He initially learnt from book that come with audio recordings in the first 6-months to 1 year in 2010, but that got impossibly boring afterwards, so he later moved to just basically talking as much as possible non-important things to <<why-does-ciro-santilli-love-china-so-much,his wife in Chinese>>, and whenever he reachs one that I don't know that seems useful, he Plecos it up or just 怎么说 and then Pleco.
 
 Spoken Chinese is in Ciro's opinion a relatively easy language to learn from scratch, because word formation is so often logical:, e.g.:
 
@@ -948,7 +981,7 @@ I'm glad she was not physically harmed. I find it fascinating how even well educ
 
 ====== Jail post zh
 
-Translation by <<why-do-you-love-china-so-much,my wife>>:
+Translation by <<why-does-ciro-santilli-love-china-so-much,my wife>>:
 
 我女朋友的母亲，一位63岁的女士被监禁在一个中国的"劳教所"，只因为她炼法轮功。
 
@@ -1055,15 +1088,15 @@ ____
 爱国恨党。
 ____
 
-===== Why do you love China so much?
+===== Why does Ciro Santilli love China so much?
 
-I <<do-you-believe-in-or-practice-falun-gong,don't believe in reincarnation>>, but sometimes I'm tempted to.
+<<ciro-santilli>> does not <<do-you-believe-in-or-practice-falun-gong,believe in reincarnation>>, but sometimes he's tempted to.
 
-Interesting how different people get <<do-you-hate-china,different impressions>>!
+It is interesting how different people get <<do-you-hate-china,different impressions>>!
 
-Of course, the fact that my wife is Chinese and <<flg-bias,does Falun Gong>> may or may not have played a role in it :-)
+Of course, the fact that his wife is Chinese and <<flg-bias,does Falun Gong>> may or may not have played a role in it :-)
 
-It was like this: I started getting interested in Chinese culture, then I started hanging out with Chinese people, and then I started hanging out with my wife!
+It was like this: Ciro started getting interested in Chinese culture, then he started hanging out with Chinese people, and then he started hanging out with his wife!
 
 So yes, it is a chicken and egg type of thing. The fact that she is one of the most intelligent, morally upright, cute, and "never give up" person I know may have helped me choose too.
 
@@ -1792,6 +1825,20 @@ image::https://web.archive.org/web/20191113231107if_/https://imgs.xkcd.com/comic
 
 Original creator: https://cirosantilli.com/
 
+[[wife]]
+===== Ciro Santilli's wife
+
+Born and raised in China: why-does-ciro-santilli-love-china-so-much
+
+She and her mother do <<falun-gong>>, see also, see also: <<flg-bias>>.
+
+Believes to be descendant of the brother of a recent Qing emperor, see also: <<throne>>.
+
+For this same reason, her father, who Ciro's wife worships, spent around 10 years in the 50's for being branded a counter revolutionary rightist (右派) during one of <<mao-zedong,Mao's>> purges, possibly:
+
+* https://en.wikipedia.org/wiki/Campaign_to_Suppress_Counterrevolutionaries https://zh.wikipedia.org/wiki/镇压反革命运动
+* https://en.wikipedia.org/wiki/Anti-Rightist_Campaign https://zh.wikipedia.org/wiki/反右运动
+
 === How do different websites view Ciro Santilli's profile?
 
 Stack Overflow mentioned at: <<meant-to-be-used>>.
@@ -2205,7 +2252,7 @@ Like any other religion that is taken seriously, they spend several hours per we
 
 I have never seen them, or anyone we know from FLG say or do something that I consider morally incorrect because of FLG.
 
-This does not prevent <<why-do-you-love-china-so-much,my wife>> from working normally.
+This does not prevent <<wife,my wife>> from working normally.
 
 My mother-in-law, who is retired, dedicates all her time to Falun Gong when she is not taking care of the house.
 
@@ -2453,7 +2500,7 @@ Conversely, there is no reliable proof that FLG is bad as claimed by CCP that ha
 
 By this logic, everyone should go to jail. The law should only punish individuals.
 
-The communist party, which has had continuous power since 1949, killed millions during the cultural revolution. Surely they must be banned, no?
+The communist party, which has had continuous power since 1949, killed millions during the <<cultural-revolution>>. Surely they must be banned, no?
 
 But the CCP has changed so much since those days, I hear you say.
 
