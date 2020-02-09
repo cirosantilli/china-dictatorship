@@ -508,6 +508,9 @@ His wife's family name is the very unusual 艾, pronounced "ai4", which she clai
 
 Ciro's father-in-law, who he barely met, was very old when he had his daughter, and passed away before Ciro could talk a lot with him, which is consistent with the claims that he spent several years in jail during <<mao-zedong,Mao's>> purges, see also: <<wife>>.
 
+.Ciro Santilli's portrait as Qing emperor. https://en.wikipedia.org/wiki/File:%E6%B8%85_%E9%83%8E%E4%B8%96%E5%AE%81%E7%BB%98%E3%80%8A%E6%B8%85%E9%AB%98%E5%AE%97%E4%B9%BE%E9%9A%86%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg[Original image].
+image::{cirosantilli-media-base}/Ciro_Santilli_portrait_as_Qing_emperor.jpg[height=400]
+
 [[preconceived]]
 ==== You have a preconceived opinion about China that cannot be changed
 
