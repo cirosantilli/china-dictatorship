@@ -199,12 +199,45 @@ ____
 The death of one man is a tragedy, the death of millions is a statistic.
 ____
 
-Virus outbreaks and other natural disasters also illustrate this well:
+https://en.wikipedia.org/wiki/Amartya_Sen[Amartya Sen] is another famous proponent of similar arguments in the area of hungers: https://www.globalpolicy.org/component/content/article/211/44284.html[] (https://web.archive.org/web/20170722090616/https://www.globalpolicy.org/component/content/article/211/44284.html[archive])
 
-* 2020 Corona Virus
-** https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1 "China spent the crucial first days of the Wuhan coronavirus outbreak arresting people who posted about it online and threatening journalists" (http://web.archive.org/web/20200124113400/https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1?r=US&IR=T[archive])
-** https://www.vice.com/en_us/article/g5xykx/you-can-now-go-to-jail-in-china-for-criticizing-beijings-coronavirus-response "You Can Now Go to Jail in China for Criticizing Beijing’s Coronavirus Response"
-** Doctor Li Wenliang https://www.bbc.com/news/world-asia-china-51409801
+____
+In democratic countries, even very poor ones, the survival of the ruling government would be threatened by famine, since elections are not easy to win after famines; nor is it easy to withstand criticism of opposition parties and newspapers. That is why famine does not occur in democratic countries. Unfortunately, there are a great many countries in the world which do not yet have democratic systems.
+____
+
+although like any other political argument, https://www.nytimes.com/2003/03/01/arts/does-democracy-avert-famine.html[some disagree].
+
+Virus outbreaks and other natural disasters also illustrate this well: <<corona>>.
+
+[[corona]]
+====== Initial censorship of the 2020 Corona Virus
+
+The Chinese Government censored the initial outbreak, which likely made the situation much worse than what it could have been:
+
+* https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1 "China spent the crucial first days of the Wuhan coronavirus outbreak arresting people who posted about it online and threatening journalists" (http://web.archive.org/web/20200124113400/https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1?r=US&IR=T[archive])
+* https://www.vice.com/en_us/article/g5xykx/you-can-now-go-to-jail-in-china-for-criticizing-beijings-coronavirus-response "You Can Now Go to Jail in China for Criticizing Beijing’s Coronavirus Response"
+
+Doctor Li Wenliang reported the virus, but was told by authorities to stay quiet, and later died from the virus, becoming somewhat of a martyr:
+
+* https://www.bbc.com/news/world-asia-china-51409801
+* https://chinadigitaltimes.net/chinese/2020/02/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E8%83%BD%E5%81%9A%E5%88%B0%E5%90%97%EF%BC%9F-%E4%BD%A0%E5%90%AC%E6%98%8E%E7%99%BD%E4%BA%86%E5%90%97%EF%BC%9F/
+
+The following excerpt from his forced confession trended:
+
+____
+你能做到吗？
+你听明白了吗？
+____
+
+Translation:
+
+____
+Can you manage?
+Do you understand?
+____
+
+.Selfie of Li Wenliang on his hospital bed before he died. https://www.bbc.com/news/world-asia-china-51409801[Source].
+image::https://web.archive.org/web/20200209173001im_/https://ichef.bbci.co.uk/news/320/cpsprodpb/10FFE/production/_110803696_drli1.jpg[height=400]
 
 [[war]]
 ==== Why would democracy and freedom of speech make China less likely to start a war?
@@ -1296,17 +1329,17 @@ Tecent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-ban
 
 ==== Where can I find good words for a keyword attack?
 
-* https://chinadigitaltimes.net This is the best source I've seen so far. Extremely comprehensive and up-to-date.
+* https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China | https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8
+* https://github.com/jasonqng/chinese-keywords
+* https://github.com/cirosantilli/media/raw/master/complete-gfw-rulebook-for-wikipedia-v3.0.pdf[Complete GFW Rulebook for Wikipedia v3.0]
+* https://qz.com/698990/261-ways-to-refer-to-the-tiananmen-square-massacre-in-china/ 261 ways to refer to the Tiananmen Square Massacre in China
+* https://chinadigitaltimes.net This is was an amazing source, extremely comprehensive and up-to-date, but the series was stopped in September 2018:
 ** https://chinadigitaltimes.net/china/word-of-the-week/?view=all word of the week
 ** https://chinadigitaltimes.net/china/directives-from-the-ministry-of-truth/?view=all censorship directive reports
 *** https://chinadigitaltimes.net/chinese/category/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?view=all chinese version
 ** https://chinadigitaltimes.net/space/Main_Page a wiki version of the censored word lists, the "Grass-mud horse index" (cao3n2ma3 草泥马), with a censored term of the week section.
 ** https://chinadigitaltimes.net/china/sensitive-words-series/?view=all sensitive words list
 ** Fun 2015 ebook: https://github.com/cirosantilli/decoding-chinese-internet-pdf-download
-* https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China | https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8
-* https://github.com/jasonqng/chinese-keywords
-* https://github.com/cirosantilli/media/raw/master/complete-gfw-rulebook-for-wikipedia-v3.0.pdf[Complete GFW Rulebook for Wikipedia v3.0]
-* https://qz.com/698990/261-ways-to-refer-to-the-tiananmen-square-massacre-in-china/ 261 ways to refer to the Tiananmen Square Massacre in China
 
 [[keyword-choice]]
 ==== How do you choose keyword for the keyword attack?
