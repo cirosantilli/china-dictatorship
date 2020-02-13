@@ -529,7 +529,20 @@ Although they have not been able to produce concrete evidence, which could be ex
 
 If anyone is able to provide further evidence of this relationship, please, please, please get in touch.
 
-The family tree that Ciro has reconstructed orally is: TODO
+The family tree that Ciro has reconstructed orally is:
+
+* Ciro's wife:
+** Father: Ai Dayi (艾大义) born: 1932 in Shenyang
+*** Father: Ai Xikang (艾锡康)
+**** Father: Ai Pushan (艾??)
+**** Younger brother 2: Ai Xiyuan (艾锡?) Professor at https://en.wikipedia.org/wiki/Northeastern_University_(China) Apparently had no Children.
+**** Younger brother 3: Ai Xicong (艾锡?) Graduated in law in Japan in https://en.wikipedia.org/wiki/Waseda_University[Waseda University] Was the top official of the https://en.wikipedia.org/wiki/National_Police_Agency_(Japan) in China when it was occupied by Japan (警察廳长) Passed first by Taiwan.
+**** Younger brother 4: Ai Xiying (艾锡?)
+**** Younger brother 5: Ai Xifu (艾锡?) Together with Ai Xiying, they were went to the Republic of China Military Academy and were high ranking officials in the war against the Japanese in the https://en.wikipedia.org/wiki/Second_Sino-Japanese_War[] (八年抗战). Later was a congressman in Taiwan.
+** Younger sister: Ai Shiping (艾世？)
+** Older brother: Zhao Yingjie. Studied law in Japan also at https://en.wikipedia.org/wiki/Waseda_University[Waseda University].
+
+Many of them have had different names in different places/countries, notably many used the name 肇(Zhao) rather than 艾.
 
 This wiki page contains a good family tree of the most important Qing people: link:++https://en.wikipedia.org/wiki/Family_tree_of_Chinese_monarchs_(late)#Qing_dynasty++[]
 
