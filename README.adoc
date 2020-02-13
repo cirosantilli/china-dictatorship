@@ -965,6 +965,22 @@ He knows that if you don't mind contributing to making <<war,WW3>> deadlier and 
 
 If the dictatorship ends, I would like to <<do-you-hate-china,migrate to China>> if given a decent job to help you develop and become awesomer.
 
+===== Would Ciro Santilli be able to visit China before the CCP ends?
+
+It would be interesting to apply for a VISA to find out.
+
+But Ciro won't do it because it is too risky that it would be a waste of Ciro's precious <<better-to-do,time and money>>.
+
+Firstly, https://www.bbc.co.uk/news/world-europe-45812399[Jamal Khashoggi] taught us that walking into enemy into consulates of enemy countries is a bad idea.
+
+Then, even if the VISA were accepted, Ciro could still be turned back on entering the country, thus wasting the flight time and money. This could either be a genius plot to waste the money of enemies of the state, or due to a crappy divided IT system between the border control and the VISA people.
+
+Finally, even after the border, there is still the possibility that Ciro could be stopped in the country half-way through the visit and sent back, or be interrogated for a few days, or less likely murdered with poison.
+
+Therefore, if you think that living in China is fundamental to understand it, please just explain what you think one can learn from the experience instead. Do you really need to live there to see its censorship machine working? It would arguably be harder to see it from the inside.
+
+Bibliography: https://github.com/cirosantilli/china-dictatorship/issues/93
+
 ==== Is Ciro Santilli Chinese?
 
 See: https://cirosantilli.com/#ciro-santilli
@@ -1205,20 +1221,19 @@ But my employer believes that inclusion and non-discrimination is more valuable.
 I will always do my best to not let my personal opinions affect my professional decisions, as that would be unfair to my employer.
 
 [[better-to-do]]
-==== Don't you have anything better to do?
+==== Doesn't Ciro Santilli have anything better to do?
 
 In 1989, a beautiful thing called the World Wide Web was invented.
 
 The Internet gives everyone the magic power of writing something, and having million people read it for free!
 
-This is how much time I spend on this to give you an idea:
+This is how much time Ciro spends on this project to give you an idea:
 
-* every week or two, someone sends me a message, I reply with "read the FAQ", and usually update
-* I follow https://www.reddit.com/r/China amongst many other programming subs, and all major bad news show up there. See also: <<anti-commie-info>>
-* when something bad enough comes up, I go to https://chinadigitaltimes.net/china/sensitive-words-series/ and update <<keyword-attack,my keyword attack>>. I've only been updating it on Stack Overflow and GitHub these days.
-* when I see a good new heavily anti-CCP Twitter accounts I add it to this list: https://twitter.com/cirosantilli/lists/china
+* every week or two, someone sends me a message, he reply with "read the FAQ", and usually update
+* Ciro https://www.reddit.com/r/China amongst many other programming subs, and all major bad news show up there. See also: <<anti-commie-info>>
+* when something bad enough comes up, Ciro go to https://chinadigitaltimes.net/china/sensitive-words-series/ and update <<keyword-attack,his keyword attack>>. He's only been updating it on Stack Overflow and GitHub these days.
 
-Then I just contribute to programming websites exactly as I would if I weren't making this campaign.
+Then Ciro just contributes to programming websites exactly as he would if he weren't making this campaign, and voila.
 
 === Were you influenced by the Cute cat theory of digital activism?
 
