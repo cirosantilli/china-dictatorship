@@ -703,23 +703,35 @@ However, it is obvious that the level of surveillance in any dictatorship will b
 
 Snowden's prosecution was inevitable. Countries need secret services. Secret services need laws that prevent leaking classified information that was produced by government officials.
 
-I have never and will never criticize China or any other country for spying or prosecuting spies.
+<<ciro-santilli>> has never and will never criticize China or any other country for spying or prosecuting spies.
 
 The problem with dictatorships, is that they make _every_ information that makes them look bad a "state secret". Including any information that hundreds of thousands of people have witnessed, or economic performance metrics! See also: <<internal-censorship>>.
 
 If Snowden were Chinese, the Chinese government would ban talking about him or anything he uncovered. A <<keyword-attack,keyword attack>> with "Snowden" in the West has no effect.
 
-Ultimately, I think camera surveillance is somewhat inevitable, because people will always want to fight crime and terrorism and surveillance technology keeps getting cheaper and cheaper.
+On the West however, the debate Snowden sparked cannot be censored, and has helped to control excessive and secret state power.
 
-I am however strictly against the ban of cryptography.
+Ultimately, Ciro thinks camera surveillance is somewhat inevitable, because people will always want to fight crime and terrorism and surveillance technology keeps getting cheaper and cheaper.
 
-I also believe that a good solution to balance out government power is the second amendment. I'd rather have more school shootings and less full blown dictatorship led genocides / mass human rights violations.
+He is however strictly against the ban of cryptography.
 
-In 2019 China amusingly censored passages Snowden's "Permanent Record" autobiography book, which Snowden then published on Twitter: https://twitter.com/snowden/status/1194092273170038784 (https://web.archive.org/web/20191112083232/https://twitter.com/snowden/status/1194092273170038784[archive]) | https://www.reddit.com/r/China/comments/dv5q8o/china_censors_edward_snowdens_new_book_he/ (https://web.archive.org/web/20191112083147/https://www.reddit.com/r/China/comments/dv5q8o/china_censors_edward_snowdens_new_book_he/[archive]). As a https://www.reddit.com/r/China/comments/dv5q8o/china_censors_edward_snowdens_new_book_he/f7axckl/[Redditor put it]:
+He also believes that a good solution to balance out government power is the second amendment. It is better to have more school shootings and less full blown dictatorship led genocides / mass human rights violations.
+
+In 2019 China amusingly censored passages Snowden's "Permanent Record" autobiography book, which Snowden then published on Twitter:
+
+* https://twitter.com/snowden/status/1194092273170038784 (https://web.archive.org/web/20191112083232/https://twitter.com/snowden/status/1194092273170038784[archive])
+* https://www.reddit.com/r/China/comments/dv5q8o/china_censors_edward_snowdens_new_book_he/ (https://web.archive.org/web/20191112083147/https://www.reddit.com/r/China/comments/dv5q8o/china_censors_edward_snowdens_new_book_he/[archive]).
+
+As a https://www.reddit.com/r/China/comments/dv5q8o/china_censors_edward_snowdens_new_book_he/f7axckl/[Redditor put it]:
 
 ____
 I don’t think they understand that what Snowden stands for is completely the opposite of what the Chinese gov is lol
 ____
+
+Snowden then later released the entire Chinese version of the book for free online with the censored parts underlined: https://www.theregister.co.uk/2020/02/10/snowden_china_censorship (https://web.archive.org/web/20200213001653/https://www.theregister.co.uk/2020/02/10/snowden_china_censorship[archive]), link to the book: https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf (https://web.archive.org/web/20200212144108/https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf[archive]). One wonders why he didn't just do that in the first place for all versions, maybe he needed to pay the writer that helped him?
+
+.Snowden highlighted defects on abuses of power in a Western democracy, and the discussion he sparked helped to control such abuses. https://en.wikipedia.org/wiki/File:Edward_Snowden-2.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/6/60/Edward_Snowden-2.jpg[height=400]
 
 ===== Fake news
 
@@ -1581,6 +1593,7 @@ image::https://web.archive.org/web/20191013085312if_/https://i.stack.imgur.com/m
 * 2019-11 The Xinjiang Papers: leaked cables about Xinjiang internment camps policy, some reported by the New York Times and others by the International Consortium of Investigative Journalists, soure yet unknown. https://en.wikipedia.org/wiki/Xinjiang_papers
 ** https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html
 ** https://www.icij.org/investigations/china-cables/exposed-chinas-operating-manuals-for-mass-internment-and-arrest-by-algorithm/
+** 2020-02: more leaks containing detailed records of several citizens: https://edition.cnn.com/interactive/2020/02/asia/xinjiang-china-karakax-document-intl-hnk/
 * 2019-09-22 Drone footage of Xinjiang prisoner transfer uploaded to YouTube. TODO confirm location and that these are political prisoners rather than "normal criminals".
 ** Upload sources
 *** https://www.youtube.com/watch?v=gGYoeJ5U7cQ
@@ -1729,7 +1742,10 @@ The most obvious thing is to go https://en.wikipedia.org/wiki/Tit_for_tat[tit fo
 
 Their websites should also be blocked e.g.: http://www.globaltimes.cn/
 
-Chinese controlled social media apps such as WeChat, Zhihu, etc. must stop censoring people outside of China, or face sanctions, e.g.: https://www.theverge.com/platform/amp/2019/11/25/20976964/chinese-americans-censorship-wechat-hong-kong-elections-tiktok
+Chinese controlled social media apps such as WeChat, Zhihu, etc. must stop censoring people outside of China, or face sanctions, e.g.:
+
+* 2020-02 https://www.reuters.com/article/us-usa-china-media/u-s-imposes-new-rules-on-state-owned-chinese-media-over-propaganda-concerns-idUSKBN20C2G1 U.S. imposes new rules on state-owned Chinese media over propaganda concerns, the companies are: Xinhua News Agency, China Global Television Network, China Radio International, China Daily Distribution Corp. and Hai Tian Development USA, Inc. See also: <<chinese-government-media>>.
+* https://www.theverge.com/platform/amp/2019/11/25/20976964/chinese-americans-censorship-wechat-hong-kong-elections-tiktok
 
 And the same must be done for cultural centers that report directly to the CCP such as <<confucious-institute>> and <<cssa,CSSAs>>.
 
@@ -1772,26 +1788,31 @@ image::http://web.archive.org/web/20190814074955/https://i.redd.it/nodgcqmwtcg31
 
 Western government should prevent companies from complying to Chinese censorship requests, or at least impose fines and sanctions on them.
 
-Citizens should boycott such companies.
+Citizens should boycott such companies and require them to be punished.
 
 https://github.com/caffeine-overload/bandinchina contains a "List of companies who have apologized to the Chinese government and implemented censorship requests". It only lists companies that implemented censorship outside of China however (with Hong Kong, <<taiwan,Taiwan>> and Macau defined as outside of China), therefore it is basically a Taiwan flag takedown + Hong Kong / Taiwan censorship list: https://github.com/caffeine-overload/bandinchina/pull/56#issuecomment-541230090 | https://github.com/caffeine-overload/bandinchina/pull/84
 
-Here is a quick  2019 summary:
+Some whell known companies and event:
 
-.https://twitter.com/hoho90272496/status/1182669015937966080[Source].
+* https://en.wikipedia.org/wiki/Bloomberg_L.P.[Bloomberg L.P.]: https://theintercept.com/2020/02/18/mike-bloomberg-lp-nda-china/ "When Bloomberg News’s Reporting on China Was Challenged, Bloomberg Tried to Ruin Me for Speaking Out"
+* 2019-12 Shutterstock implements censorship for searches from China https://techcrunch.com/2019/12/08/in-wake-of-shutterstocks-chinese-censorship-american-companies-need-to-relearn-american-values/
+
+Boycott entreteiners who support the CCP:
+
+* https://en.wikipedia.org/wiki/Jackie_Chan#Political_views_and_controversy[Jackie Chan 陳港生] even though he is born in Hong Kong
+** https://www.youtube.com/watch?v=m3T_Dd3O1UM spoke against the <<2019-hong-kong-anti-extradition-bill-protests>>
+** https://www.thestandard.com.hk/section-news/fc/21/216376/Police-chief-says-Jackie-Chan-made-him
+* https://en.wikipedia.org/wiki/Liu_Yifei#Controversy[Liu Yifei 刘亦菲] who starred in the https://en.wikipedia.org/wiki/Mulan_(2020_film)[Mulan 2020] Disney movie
+** https://www.theguardian.com/world/2019/aug/16/disneys-mulan-star-sparks-call-for-boycott-with-hong-kong-stance opposed the <<2019-hong-kong-anti-extradition-bill-protests>>, notably saying "What a shame for Hong Kong". The <<chinese-government-media,People's Daily>> later quoted her: https://web.archive.org/web/20190816162331/http://en.people.cn/n3/2019/0816/c90000-9606859.html[]
+
+.2019 summary of companies that kowtow to China. https://twitter.com/hoho90272496/status/1182669015937966080[Source].
 image::https://web.archive.org/web/20191013075353if_/https://pbs.twimg.com/media/EGmvMb6XUAQgYq9?format=jpg&name=900x900[height=400]
-
-And some good cartoons:
 
 .<<rebel-pepper>> 2019-10 carton showing several brands kowtowing to <<xi-jinping>>, while South Park alone gives the middle finger. https://www.rfa.org/english/cartoons/china-hongkong-us-10102019153228.html[Source].
 image::https://web.archive.org/web/20191011092825if_/https://pbs.twimg.com/media/EGikEkFXkAE-A8m?format=jpg&name=4096x4096[height=400]
 
 .<<rebel-pepper>> 2017-07 showing <<xi-jinping>> eating an Apple Inc. logo referring to the many events where Apple gave in to Chinese demands to have access to the Chinese market. https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html[Source].
 image::https://web.archive.org/web/20191013080151if_/https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html/170731Apple-700.jpg[height=400]
-
-Related news:
-
-* 2019-12 Shutterstock implements censorship for searches from China https://techcrunch.com/2019/12/08/in-wake-of-shutterstocks-chinese-censorship-american-companies-need-to-relearn-american-values/
 
 .https://www.youtube.com/watch?v=V4WBsahU3X4 https://en.wikipedia.org/wiki/Stephen_Colbert[Stephen Colbert] comments in 2015 on how American films make a good image of China to be allowed in China by censors to increase sales.
 video::V4WBsahU3X4[youtube]
@@ -3120,22 +3141,22 @@ I consider the media in this section biased, and never cite it for fact checking
 
 ==== Chinese government media
 
-* https://en.wikipedia.org/wiki/Xinhua_News_Agency
+* https://en.wikipedia.org/wiki/Xinhua_News_Agency[Xinhua News Agency]
 ** https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8D%8E%E7%A4%BE
 ** http://www.xinhuanet.com/
-* https://en.wikipedia.org/wiki/People%27s_Daily
+* https://en.wikipedia.org/wiki/People%27s_Daily[People's Daily]
 ** https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5
 ** http://people.cn/
 ** https://twitter.com/PDChina
-* https://en.wikipedia.org/wiki/China_Daily
-** https://zh.wikipedia.org/wiki/%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2
-** http://www.economist.com/node/17969895
-* https://en.wikipedia.org/wiki/China_Radio_International
+* https://en.wikipedia.org/wiki/China_Radio_International[China Radio International]
 ** https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0
 ** http://www.cri.cn | http://english.cri.cn/
-* https://en.wikipedia.org/wiki/China_Central_Television
+* https://en.wikipedia.org/wiki/China_Daily[China Daily]
+** https://zh.wikipedia.org/wiki/%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2
+** http://www.economist.com/node/17969895
+* https://en.wikipedia.org/wiki/China_Central_Television[China Central Television (CCTV)]
 ** https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg CGTN, CCTV's international branch in English
-* http://facts.org.cn/
+* http://facts.org.cn/ anti <<falun-gong>> website
 ** http://wap.kaiwind.com/
 ** I have no proof that this is linked to the government, but it is very likely, even the Chinese embassy website links to it:
 *** http://www.china-embassy.org/eng/lj/t36322.htm
