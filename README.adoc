@@ -883,13 +883,15 @@ image::https://web.archive.org/web/20200131210244/https://live.staticflickr.com/
 * https://zh.wikipedia.org/wiki/文化大革命
 
 [[nazi]]
-=== Comparisons between the CCP and Nazi Germany
+=== Comparisons between the CCP and Nazi Germany 纳粹德国
 
 Keywords:
 
 * Xitler (习特勒). 习 "xi2" is very close in sound to the Chinese name of Hitler: https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E5%A4%AB%C2%B7%E5%B8%8C%E7%89%B9%E5%8B%92[希特勒] (xi1 te4 le4)
 * Chinazi (赤纳粹). TODO why 赤. Means Red, but where else is it used?
 * link:https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum[Reductio ad Hitlerum]
+
+See also: <<communist-youth-league>>.
 
 .Photoshopped <<xi-jinping>> with raised fist with Nazi uniform and flag on the background. https://www.reddit.com/r/HongKong/comments/cuf3p7/chinazi_xitler/[Source].
 image::https://web.archive.org/web/20191013080128if_/https://i.redd.it/c9q6vdybr7i31.jpg[height=400]
@@ -924,7 +926,7 @@ image::https://web.archive.org/web/20191003190442if_/https://i.redd.it/c0d340rts
 
 If you don't know English well enough, that's fine though, go for Chinese.
 
-Obviously, in that case, use simple and standard Chinese. Avoid slangs, otherwise I might not have patience to Google your useless slangs down <<zhihu-ban,Zhihu>> questions. Of course, if I have to tell you this, you likely are not going to say anything useful in the first place, so not reading your post is likely fine. I think using slangs makes some people feel smart due their advanced knowledge of a specific subculture, or makes them feel part of that subculture to gather allies, or they just want to waste my time.
+Obviously, in that case, use simple and standard Chinese. Avoid slangs, otherwise I might not have patience to Google your useless slangs down <<zhihu,Zhihu>> questions. Of course, if I have to tell you this, you likely are not going to say anything useful in the first place, so not reading your post is likely fine. I think using slangs makes some people feel smart due their advanced knowledge of a specific subculture, or makes them feel part of that subculture to gather allies, or they just want to waste my time.
 
 But if you do, use English.
 
@@ -1939,28 +1941,12 @@ For this same reason, her father, who Ciro's wife worships, spent around 10 year
 
 Stack Overflow mentioned at: <<meant-to-be-used>>.
 
-==== Zhihu questions related to Ciro Santilli
+[[zhihu]]
+=== Zhihu 知乎
 
-Parent section: <<backlinks-to-this-repository>>
+https://en.wikipedia.org/wiki/Zhihu
 
-All Zhihu posts related to Ciro Santilli were deleted following <<zhihu-purge>>. Some had been deleted before.
-
-* 2019-06-12: https://zhuanlan.zhihu.com/p/68869259 (http://web.archive.org/web/20190905071450/https://zhuanlan.zhihu.com/p/68869259[archive before deletion], (http://web.archive.org/web/20191103072349/https://zhuanlan.zhihu.com/p/68869259[archive after deletion])) "德国极端分子黑我们大中国！犯我中华者，虽远必诛！！". Ciro wonders why the poster thought Ciro was German.
-* 2019-03: https://www.zhihu.com/question/316700162 (http://archive.is/ewxqb[archive before deletion], (http://web.archive.org/web/20191103065512/http://web.archive.org/screenshot/https://www.zhihu.com/question/316700162[archive after deletion])) "如何看待Github Trending上Ciro Santilli的众多开源项目？". Due to: https://github.com/cirosantilli/x86-bare-metal-examples being featured on Hacker News: https://news.ycombinator.com/item?id=19428700
-* 2018-11: https://www.zhihu.com/question/302738350 (http://archive.is/lkQxS[archive before deletion], (http://web.archive.org/web/20191103065759/https://www.zhihu.com/question/302738350[archive after deletion])) "如何评价Ciro Santilli对Stack Overflow和GitHub的扰乱？"
-* 2017-03-07: https://zhuanlan.zhihu.com/p/25600138 (http://archive.is/DkooN[archive before deletion], (http://web.archive.org/web/20191103065808/https://zhuanlan.zhihu.com/p/25600138[archive after deletion])) "StackOverflow 上的一个智障用户"
-** 2017-03 https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow (http://web.archive.org/save/https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow/[archive]) by https://github.com/brglng/ (https://web.archive.org/web/20180802090918/https://github.com/brglng/[archive]) "StackOverflow 上的一个智障用户"
-* 2015-08-18: http://www.zhihu.com/question/34775392 (https://web.archive.org/web/20160219094646/https://www.zhihu.com/question/34775392[archive before deletion], (http://web.archive.org/web/20191103065816/https://www.zhihu.com/question/34775392[archive after deletion])) "你们怎么看stackoverflow上某人故意屏蔽中国访问的事件？"
-
-A random control question that shows that archive.org 404's are actually deleted questions: https://www.zhihu.com/question/316700165 (http://web.archive.org/web/20191103065449/https://www.zhihu.com/question/316700165[archive]).
-
-Mentions not yet deleted as of writing:
-
-* https://www.zhihu.com/question/21099730 从知乎建站以来被封禁的用户都有哪些？Since Zhihu's founding, which accounts have been blocked on the website? (http://web.archive.org/web/20200112103049/https://www.zhihu.com/question/21099730[archive]) (http://archive.is/dH9pK[archive]). The top answer contains a list, and a brief explanation of why some of them were banned:
-** Ciro Santilli: S/O 红人 (fStack Overflow celebrity)
-** "ww" in explanations means "big laugh" according to: https://hinative.com/zh-CN/questions/8349706 because a single "w" means a small laugh
-** several accounts are linked to one specific answer or comment
-** other accounts are classified as often commenting on politically sensitive material (政治敏感)
+The Chinese <<quora,Quora>> clone with Chinese characteristics (<<censorship,political censorship>>).
 
 [[zhihu-purge]]
 ==== Ciro Santilli's Zhihu purge 2019-11-03
@@ -1992,41 +1978,9 @@ Furthermore, all questions related to Ciro, including the posts criticizing him 
 
 Ciro then created an anonymous Zhihu account after this event.
 
-https://www.zhihu.com/people/lu-zhen-yu-96-65/activities
+===== Ciro Santilli's Zhihu ban 2018-06-25
 
-[[zhihu-46957710]]
-===== github.com@cirosantilli 是谁维护的，为什么会收集邮箱地址？
-
-https://www.zhihu.com/question/46957710 (http://archive.is/PVOLd[archive before deletion], (http://web.archive.org/web/20191103065828/https://www.zhihu.com/question/46957710[archive after deletion])).
-
-Asked in 2016-09 after Ciro published: https://github.com/cirosantilli/all-github-commit-emails
-
-Deleted after <<zhihu-purge>>. Ciro's answer before deletion:
-
-____
-你用的git config user.email当然是公开的：谁都会git clone就知道了。
-
-问题就是git repository很大，我们不会都clone.
-
-但是github有一个API，收集很多信息，包括邮件。
-
-然后，Google用了那个API给他们的https://cloud.google.com/bigquery/...信息。
-
-BigQuery对程序员很容易提取信息，是我用的。
-
-我发表邮件以后，两个东西变化了：
-
-1. Google 把邮件从BigQuery删除
-2. GitHub 更新他们的隐私声明GitHub Privacy Statement
-
-这就是我的木比：保护人们的隐私权
-
-我的README.md更详细地解释。
-____
-
-==== Zhihu ban
-
-I was banned from Zhihu on 2018-06-25 for "politically sensitive" content.
+<<ciro-santilli>> was banned from Zhihu on 2018-06-25 for "politically sensitive" content.
 
 As a result, since that time I will be answering Zhihu questions as issues in this repo with the https://github.com/cirosantilli/china-dictatorship/labels/zhihu[label `zhihu`].
 
@@ -2066,7 +2020,7 @@ Those messages contain links to: https://www.zhihu.com/terms2 | http://archive.i
 
 The ban came soon after I posted a link to my GitHub repo as a comment at: https://techcrunch.com/2018/06/21/ice-employee-list-github-linkedin/ maybe they are related.
 
-===== Who reported Ciro Santilli on Zhihu
+====== Who reported Ciro Santilli on Zhihu
 
 At the same time the ban happened I received a public comment from user "Eureka" https://www.zhihu.com/people/crb912/activities | http://archive.is/1F3t6 on this thread: https://www.zhihu.com/question/46957710 | http://archive.is/PVOLd saying:
 
@@ -2091,6 +2045,59 @@ ____
 While you have also raised issues that were raised a thousand times before, and clearly answered in the FAQ, at least you were able to take some actual action leading to an actual ban, and I respect you for that.
 
 I hope that one day you will redirect that cunning and initiative towards taking down the root cause of the problem, which are the Chinese communist Party and their Firewall themselves.
+____
+
+==== Zhihu questions related to Ciro Santilli
+
+Parent section: <<backlinks-to-this-repository>>
+
+All Zhihu posts related to Ciro Santilli were deleted following <<zhihu-purge>>. Some had been deleted before.
+
+* 2019-06-12: https://zhuanlan.zhihu.com/p/68869259 (http://web.archive.org/web/20190905071450/https://zhuanlan.zhihu.com/p/68869259[archive before deletion], (http://web.archive.org/web/20191103072349/https://zhuanlan.zhihu.com/p/68869259[archive after deletion])) "德国极端分子黑我们大中国！犯我中华者，虽远必诛！！". Ciro wonders why the poster thought Ciro was German.
+* 2019-03: https://www.zhihu.com/question/316700162 (http://archive.is/ewxqb[archive before deletion], (http://web.archive.org/web/20191103065512/http://web.archive.org/screenshot/https://www.zhihu.com/question/316700162[archive after deletion])) "如何看待Github Trending上Ciro Santilli的众多开源项目？". Due to: https://github.com/cirosantilli/x86-bare-metal-examples being featured on Hacker News: https://news.ycombinator.com/item?id=19428700
+* 2018-11: https://www.zhihu.com/question/302738350 (http://archive.is/lkQxS[archive before deletion], (http://web.archive.org/web/20191103065759/https://www.zhihu.com/question/302738350[archive after deletion])) "如何评价Ciro Santilli对Stack Overflow和GitHub的扰乱？"
+* 2017-03-07: https://zhuanlan.zhihu.com/p/25600138 (http://archive.is/DkooN[archive before deletion], (http://web.archive.org/web/20191103065808/https://zhuanlan.zhihu.com/p/25600138[archive after deletion])) "StackOverflow 上的一个智障用户"
+** 2017-03 https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow (http://web.archive.org/save/https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow/[archive]) by https://github.com/brglng/ (https://web.archive.org/web/20180802090918/https://github.com/brglng/[archive]) "StackOverflow 上的一个智障用户"
+* 2015-08-18: http://www.zhihu.com/question/34775392 (https://web.archive.org/web/20160219094646/https://www.zhihu.com/question/34775392[archive before deletion], (http://web.archive.org/web/20191103065816/https://www.zhihu.com/question/34775392[archive after deletion])) "你们怎么看stackoverflow上某人故意屏蔽中国访问的事件？"
+
+A random control question that shows that archive.org 404's are actually deleted questions: https://www.zhihu.com/question/316700165 (http://web.archive.org/web/20191103065449/https://www.zhihu.com/question/316700165[archive]).
+
+Mentions not yet deleted as of writing:
+
+* https://www.zhihu.com/question/21099730 从知乎建站以来被封禁的用户都有哪些？Since Zhihu's founding, which accounts have been blocked on the website? (http://web.archive.org/web/20200112103049/https://www.zhihu.com/question/21099730[archive]) (http://archive.is/dH9pK[archive]). The top answer contains a list, and a brief explanation of why some of them were banned:
+** Ciro Santilli: S/O 红人 (fStack Overflow celebrity)
+** "ww" in explanations means "big laugh" according to: https://hinative.com/zh-CN/questions/8349706 because a single "w" means a small laugh
+** several accounts are linked to one specific answer or comment
+** other accounts are classified as often commenting on politically sensitive material (政治敏感)
+
+[[zhihu-46957710]]
+===== github.com@cirosantilli 是谁维护的，为什么会收集邮箱地址？
+
+https://www.zhihu.com/question/46957710 (http://archive.is/PVOLd[archive before deletion], (http://web.archive.org/web/20191103065828/https://www.zhihu.com/question/46957710[archive after deletion])).
+
+Asked in 2016-09 after Ciro published: https://github.com/cirosantilli/all-github-commit-emails
+
+Deleted after <<zhihu-purge>>. Ciro's answer before deletion:
+
+____
+你用的git config user.email当然是公开的：谁都会git clone就知道了。
+
+问题就是git repository很大，我们不会都clone.
+
+但是github有一个API，收集很多信息，包括邮件。
+
+然后，Google用了那个API给他们的https://cloud.google.com/bigquery/...信息。
+
+BigQuery对程序员很容易提取信息，是我用的。
+
+我发表邮件以后，两个东西变化了：
+
+1. Google 把邮件从BigQuery删除
+2. GitHub 更新他们的隐私声明GitHub Privacy Statement
+
+这就是我的木比：保护人们的隐私权
+
+我的README.md更详细地解释。
 ____
 
 ==== Quora
@@ -2180,7 +2187,16 @@ image::https://web.archive.org/web/20191012075042im_/https://www.rfa.org/english
 .https://en.wikipedia.org/wiki/Zhang_Hongtu[Zhang Hongtu] cartoon showing <<mao-zedong,Mao Zedong>> and other communist officials at the Last Supper instead of Jesus and the Apostles. http://musicandculture.blogspot.com/2010/03/massive-last-supper-parodies-post.html[Source].
 image::http://web.archive.org/web/20191107094724if_/http://4.bp.blogspot.com/_W8pwMnZMNuQ/S5YAJmo1Q1I/AAAAAAAAC_A/YKRCKXUiSAM/s1600/meal.jpg[height=400]
 
-=== Falun Gong
+[[falun-gong]]
+=== Falun Gong 法輪大法
+
+https://en.wikipedia.org/wiki/Falun_Gong
+
+<<flg-religion,Religion>> created in the 80's by a Chinese dude called <<li-hongzhi,Li Hongzhi>>.
+
+With the support of the Communist Party to Qigong movements, it reached 70 million believers in 1999, at which point the commies decided they had to be shut down and banned the religion.
+
+Li fled to the USA and lives near New York, where he continues to run the religion as of 2020.
 
 ==== Falun Gong is not important to be worth discussing
 
