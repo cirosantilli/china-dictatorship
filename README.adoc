@@ -728,7 +728,7 @@ ____
 I don’t think they understand that what Snowden stands for is completely the opposite of what the Chinese gov is lol
 ____
 
-Snowden then later released the entire Chinese version of the book for free online with the censored parts underlined: https://www.theregister.co.uk/2020/02/10/snowden_china_censorship (https://web.archive.org/web/20200213001653/https://www.theregister.co.uk/2020/02/10/snowden_china_censorship[archive]), link to the book: https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf (https://web.archive.org/web/20200212144108/https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf[archive]). One wonders why he didn't just do that in the first place for all versions, maybe he needed to pay the writer that helped him?
+Snowden then later released the entire Chinese version of the book for free online with the censored parts underlined: https://www.theregister.co.uk/2020/02/10/snowden_china_censorship (https://web.archive.org/web/20200213001653/https://www.theregister.co.uk/2020/02/10/snowden_china_censorship[archive]), link to the book: link:++https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf++[] (https://web.archive.org/web/20200212144108/https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf[archive]). One wonders why he didn't just do that in the first place for all versions, maybe he needed to pay the writer that helped him?
 
 .Snowden highlighted defects on abuses of power in a Western democracy, and the discussion he sparked helped to control such abuses. https://en.wikipedia.org/wiki/File:Edward_Snowden-2.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/6/60/Edward_Snowden-2.jpg[height=400]
@@ -842,6 +842,9 @@ image::https://web.archive.org/web/20191013080140if_/https://www.rfa.org/english
 .1977 photo showing Mao's actual glass tomb during his funeral, with famous politicians in the background. It is interesting to see that Mao https://mummipedia.fandom.com/wiki/Mao_Zedong[features on the "Fandom Mummipedia Wiki"]. https://apnews.com/a94a0d7a824b474fb11545e8c4481c21[Source].
 image::https://web.archive.org/web/20200121105502if_/https://storage.googleapis.com/afs-prod/media/media:c65bb5f4e2664bb88aae7881f8adbba0/800.jpeg[height=400]
 
+.https://en.wikipedia.org/wiki/The_Economist[The Economist] "Let’s party like it’s 1793" cover from May 4th – 10th 2013 depicting a painting of Xi Jinping dressed as emperor of China. The famous https://en.wikipedia.org/wiki/Qianlong_Empero[Qianlong Emperor] was in power at that time. https://twitter.com/TheEconomist/status/329929668155293696[Source].
+image::https://web.archive.org/web/20200225220314/https://pbs.twimg.com/media/BJQlSP_CQAA52BG?format=jpg[height=600]
+
 [[winnie-the-pooh]]
 ====== Comparisons between Xi Jinping and Winnie-the-Pooh 小熊維尼
 
@@ -871,7 +874,7 @@ image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/ne
 * https://zh.wikipedia.org/wiki/大跃进
 
 .A high tower of https://en.wikipedia.org/wiki/Wax_gourd[winter gourds] "冬瓜上高楼" propaganda poster for the Great Leap Forward by https://chineseposters.net/artists/jinmeisheng.php[Jin Meisheng] published in 1959. <<western-democracies-are-not-perfect,Even in democracies>>, politicians promise the fat gourds. But when there is <<censorship,no free media to control their>> lies, things can get really out of hand. http://www.iisg.nl/exhibitions/chairman/chn11.php[Source].
-image::https://web.archive.org/web/20200131210244/https://live.staticflickr.com/4135/4754681204_1784cd9f89_w.jpg[height=400]
+image::https://web.archive.org/web/20200131210244/https://live.staticflickr.com/4135/4754681204_1784cd9f89_w.jpg[height=600]
 
 [[cultural-revolution]]
 ====== Cultural Revolution 文化大革命 (1966-1976)
@@ -960,14 +963,14 @@ image::https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Human_Feces_%28
 image::https://web.archive.org/web/20200120095415/https://i.imgur.com/rA0K90g.jpg?1[height=600]
 
 .The legendary https://en.wikipedia.org/wiki/Grass_Mud_Horse[Grass Mud Horse 草泥马 (caonima)] is also said to appear in shitposts from time to time.
-image::http://web.archive.org/web/20200209012342if_/https://kpopalypse.files.wordpress.com/2014/01/alca.jpg[height=400]
+image::http://web.archive.org/web/20200209012342if_/https://kpopalypse.files.wordpress.com/2014/01/alca.jpg[height=600]
 
 ==== Has Ciro Santilli you ever lived in China?
 
-Not as of 2019, he has only visited once in 2012, and it was <<do-you-hate-china,amazingly beautiful>>.
+Not as of 2019, he has only visited once in 2012, and it was <<does-ciro-santilli-hate-china,amazingly beautiful>>.
 
 .Ciro Santilli with a stone carved https://en.wikipedia.org/wiki/Budai[Budai] in the https://en.wikipedia.org/wiki/File:Maitreya_and_disciples_carving_in_Feilai_Feng_Caves.jpg[Feilai Feng caves] near the https://en.wikipedia.org/wiki/Lingyin_Temple[Lingyin Temple] in Hangzhou taken during his legendary 2012 touristic trip to China. Will he ever be able to go to China again to re-experience such marvelous locations? If the CCP falls before he dies, and if the statue hasn't been destroyed by the commies, Ciro will return to that exact spot and take a second picture. How will he look like?
-image::{cirosantilli-media-base}/Ciro_Santilli_with_a_stone_carved_Budai_in_the_Feilai_Feng_caves_near_the_Lingyin_Temple_in_Hangzhou_in_2012.jpg[height=400]
+image::{cirosantilli-media-base}/Ciro_Santilli_with_a_stone_carved_Budai_in_the_Feilai_Feng_caves_near_the_Lingyin_Temple_in_Hangzhou_in_2012.jpg[height=500]
 
 But he doesn't think it is a good idea for him to do that now, in case his Visa got accepted, because he is not interested in learning about the Chinese jail system! :-)
 
@@ -975,7 +978,7 @@ He knows that if you don't mind contributing to making <<war,WW3>> deadlier and 
 
 ===== Would you like to live in China?
 
-If the dictatorship ends, I would like to <<do-you-hate-china,migrate to China>> if given a decent job to help you develop and become awesomer.
+If the dictatorship ends, I would like to <<does-ciro-santilli-hate-china,migrate to China>> if given a decent job to help you develop and become awesomer.
 
 ===== Would Ciro Santilli be able to visit China before the CCP ends?
 
@@ -1038,7 +1041,7 @@ The last straw was when in March 2015 my girlfriend's mother was arbitrarily kep
 * https://twitter.com/cirosantilli/status/579270450984984576
 * https://www.facebook.com/cirosantilli/posts/952661734753174
 
-I then continued because I hate political <<censorship,censorship>>, and because <<do-you-hate-china,I love China>>.
+I then continued because I hate political <<censorship,censorship>>, and because <<does-ciro-santilli-hate-china,I love China>>.
 
 ===== Ciro Santilli's post when his mother-in-law was put into jail
 
@@ -1140,9 +1143,9 @@ So the rationale of my actions is _not_ to convince anyone, but rather:
 
 See also: <<preconceived>>
 
-==== Do you hate China?
+==== Does Ciro Santilli hate China?
 
-On the contrary. China has my favorite:
+On the contrary. China has his favorite:
 
 * <<restaurants,food>>
 * <<does-ciro-santilli-speak-chinese,language>>
@@ -1158,18 +1161,24 @@ ____
 There are only two kinds of programming languages: those people always bitch about and those nobody uses
 ____
 
-I only focus here on negative things to provide content that will activate the Great Firewall.
+Ciro only focus here on negative things to provide content that will <<keyword-attack,activate the Great Firewall>>.
 
 ____
 持华反党。
 爱国恨党。
 ____
 
+."Plum, orchid, bamboo, chrysanthemum" (梅兰竹菊) painting by https://en.wikipedia.org/wiki/Zheng_Xie[Zheng Xie (郑燮)] representing the https://en.wikipedia.org/wiki/Four_Gentlemen[four gentlemen (四君子)]. Ciro is a big fan of https://en.wikipedia.org/wiki/Bird-and-flower_painting[traditional Chinese bird-and-flower painting (花鸟画)] like this. https://www.pinterest.co.uk/pin/315744623848820315/[Source].
+image::https://web.archive.org/web/20200126185832if_/https://i.stack.imgur.com/9c1fa.jpg[height=600]
+
+.Round gate at https://en.wikipedia.org/wiki/Yu_Garden[Yu Garden 豫园] in Shanghai. link:++https://commons.wikimedia.org/wiki/File:Shanghai_-_YuYuan_Gardens_and_Old_Town_(584867794).jpg++[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Shanghai_-_YuYuan_Gardens_and_Old_Town_%28584867794%29.jpg/683px-Shanghai_-_YuYuan_Gardens_and_Old_Town_%28584867794%29.jpg[height=600]
+
 ===== Why does Ciro Santilli love China so much?
 
 <<ciro-santilli>> does not <<do-you-believe-in-or-practice-falun-gong,believe in reincarnation>>, but sometimes he's tempted to.
 
-It is interesting how different people get <<do-you-hate-china,different impressions>>!
+It is interesting how different people get <<does-ciro-santilli-hate-china,different impressions>>!
 
 Of course, the fact that his wife is Chinese and <<flg-bias,does Falun Gong>> may or may not have played a role in it :-)
 
@@ -1377,7 +1386,7 @@ Tecent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-ban
 ** https://chinadigitaltimes.net/china/word-of-the-week/?view=all word of the week
 ** https://chinadigitaltimes.net/china/directives-from-the-ministry-of-truth/?view=all censorship directive reports
 *** https://chinadigitaltimes.net/chinese/category/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?view=all chinese version
-** https://chinadigitaltimes.net/space/Main_Page a wiki version of the censored word lists, the "Grass-mud horse index" (cao3n2ma3 草泥马), with a censored term of the week section.
+** https://chinadigitaltimes.net/space/Main_Page a wiki version of the censored word lists, the ,"<<shitpost,Grass-mud horse>> index" (cao3n2ma3 草泥马), with a censored term of the week section.
 ** https://chinadigitaltimes.net/china/sensitive-words-series/?view=all sensitive words list
 ** Fun 2015 ebook: https://github.com/cirosantilli/decoding-chinese-internet-pdf-download
 
@@ -1591,6 +1600,8 @@ image::https://web.archive.org/web/20191013085312if_/https://i.stack.imgur.com/m
 ** https://wapipi.net/home/wp-content/uploads/2019/09/uy0830_en.pdf (https://web.archive.org/web/20191126162143/https://wapipi.net/home/wp-content/uploads/2019/09/uy0830_en.pdf[archive])
 ** https://www.theguardian.com/world/2019/nov/26/what-has-happened-to-me-manga-depicting-uighur-torture-hits-25m-views
 * 2019-11 The Xinjiang Papers: leaked cables about Xinjiang internment camps policy, some reported by the New York Times and others by the International Consortium of Investigative Journalists, soure yet unknown. https://en.wikipedia.org/wiki/Xinjiang_papers
+** 2020-02-18 https://www.hrw.org/news/2020/02/20/more-evidence-chinas-horrific-abuses-xinjiang the "Karakax list" leaked spreadsheet contains detailed information on 331 citizens Karakax County in Xinjiang and sheds further insight on why certain people have been persecuted
+*** https://www.aljazeera.com/news/2020/02/china-war-terror-uproots-uighur-families-leaked-data-shows-200218052952415.html
 ** https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html
 ** https://www.icij.org/investigations/china-cables/exposed-chinas-operating-manuals-for-mass-internment-and-arrest-by-algorithm/
 ** 2020-02: more leaks containing detailed records of several citizens: https://edition.cnn.com/interactive/2020/02/asia/xinjiang-china-karakax-document-intl-hnk/
@@ -2179,7 +2190,7 @@ If that is correct, I'm curious to understand what you consider an important mov
 
 Anything much larger would take down the government and change China's history forever.
 
-OK, maybe the fact that 69M of those were likely old ladies didn't help much either. Tip to next <<flg-lhz,prophet>>: make something that appeals to aspiring military officers.
+OK, maybe the fact that 69M of those were likely old ladies didn't help much either. Tip to next <<li-hongzhi,prophet>>: make something that appeals to aspiring military officers.
 
 And of course: <<flg-bias>>
 
@@ -2206,7 +2217,7 @@ I think that FLG exercises and meditation are good for you, just like many other
 
 However I find the metaphysics and obligations boring like for any other prophetic xref:flg-religion[religion].
 
-The absolute truth is already known by the xref:flg-lhz[prophet], although he does not want to give clear evidence for reasons. Or a Jesus put it:
+The absolute truth is already known by the xref:li-hongzhi[prophet], although he does not want to give clear evidence for reasons. Or a Jesus put it:
 
 ____
 Then the devil took him to the holy city and had him stand on the highest point of the temple.
@@ -2246,7 +2257,7 @@ And you just repeat these truth over and over and over:
 * xref:flg-religion[Final judgement]
 * FLG is good
 
-I would really like to know if <<flg-lhz,LHZ>> really believes in FLG, or is just a complete manipulating charlatan, but unfortunately we will never know that.
+I would really like to know if <<li-hongzhi,LHZ>> really believes in FLG, or is just a complete manipulating charlatan, but unfortunately we will never know that.
 
 Just imagine if before he died he published a video saying: "it was a joke, gotcha!". Now that would be **epic**!
 
@@ -2288,11 +2299,11 @@ I haven't read their <<flg-canon,canon>> myself, no patience, but I have constan
 
 It appears that Falun Gong cannon is present at: http://falundafa.org/
 
-It contains <<flg-lhz,LHZ>>'s approved texts / speech transcriptions, which are sacred.
+It contains <<li-hongzhi,LHZ>>'s approved texts / speech transcriptions, which are sacred.
 
 The only sacred version is Chinese which is a sacred language, and of which there is only one perfect revision. Islam also appears to place great importance on the sacredness of Arabic in which Mohamed first spoke, perhaps even more: https://nationalinterest.org/feature/plight-uyghurs-why-muslims-wont-speak-their-brethren-112466 Protestants and later the Catholic church, have moved away from such really bad strategy however, the accessibility of Christianity is seen on the entrance of many many churches which have a sign "ALL are welcome". Well played.
 
-I think <<flg-lhz,LHZ>> claims the specifically chose to reincarnate in China this time.
+I think <<li-hongzhi,LHZ>> claims the specifically chose to reincarnate in China this time.
 
 The English translation is made by followers, and gets new revisions to reduce translation imperfection.
 
@@ -2458,7 +2469,7 @@ The Romans called <<christianity>> the "Cult of Jesus".
 
 If I tell a lie today, will it become true in a thousand years? Or a truth today become a lie?
 
-Try sending an email to <<flg-lhz,LHZ>> asking him to prove his powers to you :-)
+Try sending an email to <<li-hongzhi,LHZ>> asking him to prove his powers to you :-)
 
 [[against-censorship-and-flg]]
 ==== Many people both are against censorship and FLG
@@ -2498,7 +2509,7 @@ Then they link to the Taping Rebellion:
 
 Of course FLG it was a threat to the stability of the country.
 
-It is, as I have said, a highly organized political power: <<flg-political>>.
+It is, as <<ciro-santilli>> has said, a highly organized political power: <<flg-political>>.
 
 However, <<democracy-is-a-religion,democracy>> is a threat to the stability country in the exact same way:
 
@@ -2565,7 +2576,7 @@ Next consider this:
 Did someone from Falun Gong told the person to do it?
 +
 I bet that if you look into patients of psychiatrists, you will find more suicides than average. So should we ban psychiatry?
-* are you sure that the order came from <<flg-lhz,LHZ>>, and that it was not just some disgruntled local leader using Falun Gong for his personal madness and doing things he did not approve?
+* are you sure that the order came from <<li-hongzhi,LHZ>>, and that it was not just some disgruntled local leader using Falun Gong for his personal madness and doing things he did not approve?
 +
 Branch Davidians were inspired by <<christianity>>. So should we ban Christianity? What about the majority of Christians who have never done anything bad?
 * only statistics has any meaning, and it would require a very large number of reports to make up statistics, so you will likely be wasting your time. I will do my part and maintain a list however.
@@ -2610,6 +2621,24 @@ For every desire of the masses, there will be amoral representatives that will s
 Still, those representatives cannot gain power if there is no backing desire from the society.
 
 The only advantage of <<richer,democracy>>, is that those representatives have to pretend harder to do things for that group to retain their power.
+
+===== FLG supports Donald Trump
+
+<<ciro-santilli>> believes he has heard praises to Trump directly in <<li-hongzhi,Li Hongzhi>>'s speeches, but could not find a source.
+
+Also, the <<flg-organized,Epoch Times Falun Gong controlled newspaper>> has donated: $1.5 million https://www.nbcnews.com/tech/tech-news/trump-qanon-impending-judgment-day-behind-facebook-fueled-rise-epoch-n1044121
+
+But of course, so long as those respect the laws of the country, they are free to do it and must not be interfered. As if other major American media didn't have political agendas.
+
+It is therefore extremely likely that 99.999% of Falun Gong believers also support Trump.
+
+This is exactly the same, in fact, as <<flg-religion,Christian groups>> which always gather behind "the right".
+
+In the case of the Falun Gong however, Trump has been vocal about China's threat, and therefore is a much needed ally of the movement.
+
+Trump's immigration policies have turned Asian Americans towards the democrat opposition however as of 2019: https://www.vox.com/policy-and-politics/2019/5/13/18308137/asian-american-voters-immigration-democrats-donald-trump
+
+One saving point of the republicans for Asians is the opposition to university quotas instance, which many Asians feel blocks their high performing kids from top schools for less deserving Black students. This also plays into possible cross Asian-Black racism tensions.
 
 ==== Western media has exaggerated reports on FLG for propaganda reasons
 
@@ -2723,17 +2752,17 @@ If asked if they follow a religion, most FLG believers will say no. E.g. they ca
 
 But Ciro Santilli strongly believes that all most people in the West would classify FLG as a religion if they are told that for FLG:
 
-* absolute truth comes from an enlightened <<flg-lhz,prophet>>, who is perfect and has super human abilities
+* absolute truth comes from an enlightened <<li-hongzhi,prophet>>, who is perfect and has super human abilities
 * weekly meetings where they read from a sacred book, either written by the prophet, or transcribed from his presentations to disciples, including the disciples questions, much like traditional Chinese texts like link:https://en.wikipedia.org/wiki/Analects[The Analects of Confucius]
 * prescribed daily meditation exercise hours, somewhat like Muslim https://en.wikipedia.org/wiki/Salah[Salah] prayers which they call https://en.wikipedia.org/wiki/Fazhengnian[发正念 (fa1 zheng4 nian4)]
 * higher intelligent beings
 * other dimensions
 * aliens that looks like humans are amongst us, they gave us part of our modern technology
-* meetings in which people tell their religious testimonies: https://en.wikipedia.org/wiki/Testimony#Religion
+* meetings in which people tell their religious testimonies ("experience sharing"): https://en.wikipedia.org/wiki/Testimony#Religion
 * an impending link:https://en.wikipedia.org/wiki/Last_Judgment[final judgement]-like event, which will happen "very soon" (<<flg-verifiable,unspecified date>>), and in which the just will be rewarded
 +
-I predict that when <<flg-lhz>> dies, the claim will be that he went to another dimension so save us all, therefore putting this final judgement on hold, a bit like Jesus.
-* link:https://en.wikipedia.org/wiki/Open-air_preaching[street preaching] with stands and leaflets on the streets exactly like link:https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses[Jehovah's Witnesses]. The Falun Gong organization also specifies guidelines on how to preach, although these might not be <<flg-canon,canon>>, even though if they are not, it is extremely likely that <<flg-lhz,LHZ>> is directly involved in their specification
+I predict that when <<li-hongzhi>> dies, the claim will be that he went to another dimension so save us all, therefore putting this final judgement on hold, a bit like Jesus.
+* link:https://en.wikipedia.org/wiki/Open-air_preaching[street preaching] with stands and leaflets on the streets exactly like link:https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses[Jehovah's Witnesses]. The Falun Gong organization also specifies guidelines on how to preach, although these might not be <<flg-canon,canon>>, even though if they are not, it is extremely likely that <<li-hongzhi,LHZ>> is directly involved in their specification
 
 Or a cult, which is nothing but a new / small religion with negative connotation, and thus meaningless.
 
@@ -2765,7 +2794,7 @@ But it is obvious from the size of the FLG related media, namely:
 * link:https://en.wikipedia.org/wiki/Epoch_Times[Epoch Times newspaper]
 * link:https://en.wikipedia.org/wiki/Shen_Yun_Performing_Arts[Shen Yun Performing Arts]
 
-that in practice they do have are a highly organized hierarchical structure, and very likely with <<flg-lhz,LHZ>> at the very top, e.g.:
+that in practice they do have are a highly organized hierarchical structure, and very likely with <<li-hongzhi,LHZ>> at the very top, e.g.:
 
 * Shen Yun's 2018 libretto says that their Artistic Director and founder is "D.F." (likely an abbreviation for Da Fa, which is an abbreviation for Falun Gong Dafa, which is a full name of Falun Gong), with a picture of LHZ on top. It also amusingly says that D.F. is a "Distinguished Professor of Music and Dance at Fei Tian College in New York", which is likely where many of Shen Yun's dancers are trained, and therefore controlled by himself to a large extent
 * LHZ mentions NDTV, Epoch Times and Shen Yun extensively on his <<flg-canon>>. TODO link to source, this based on unintentionally overhearing to my family members reading it.
@@ -2826,10 +2855,10 @@ This is a point that makes me worry, and I do believe that it is true for some b
 +
 Forbidding them also has huge humanitarian costs (more expensive vehicles, creation of a black market, ...). So why not forbid them as well?
 
-[[flg-lhz]]
-===== FLG is dangerous because LHZ has too much power over followers
+[[li-hongzhi]]
+===== FLG is dangerous because Li Hongzhi has too much power over followers
 
-LHZ (Li Hongzhi) is the creator of FLG: link:https://en.wikipedia.org/wiki/Li_Hongzhi[], or as I prefer to call it, its <<flg-religion,prophet>>.
+Li Hongzhi (LHZ,李洪志) is the creator of FLG: link:https://en.wikipedia.org/wiki/Li_Hongzhi[], or as <<ciro-santilli>> prefers to call it, its <<flg-religion,prophet>>.
 
 I agree that there is danger in every religion, and specially new religions.
 
@@ -2848,6 +2877,15 @@ From what I hear, LHZ has always maintained that he is the only source of truth 
 Furthermore, it also seems to me that FLG is clearly anti-violence and self-harm, so I wonder how many would follow a contradictory order such as killing or suicide?
 
 It is also interesting to look into the https://en.wikipedia.org/wiki/Jonestown case. When the suicide order came, most people wanted out! Without physically controlling the followers, I don't think you can make them do much.
+
+.Li Hongzhi is Falun Gong's prophet/cult leader/living God. He's a cute north-Western 东北人 like <<wife,Ciro's wife>>. https://en.wikipedia.org/wiki/Li_Hongzhi[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/0/06/Li_Hongzhi_1.jpg[height=400]
+
+.Li Hongzhi practicing one of his exercises with one of his cute prophet outfits in an extremely nice Chinese <<does-ciro-santilli-hate-china,stone garden>>. TODO exact location and date. https://commons.wikimedia.org/wiki/File:Li_Hongzhi_Falun_Gong.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/5/51/Li_Hongzhi_Falun_Gong.jpg[height=400]
+
+.Li going https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] sitting on a https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art[giant Lotus flower] with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] on his head. https://www.pinterest.fr/pin/8022105562347289/[Source].
+image::https://web.archive.org/web/20200226083545/https://i.pinimg.com/564x/32/fc/95/32fc954e99d658751da18a0b20ae2894.jpg[height=400]
 
 ===== Some FLG people make phone telemarketing
 
@@ -2984,7 +3022,9 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 * 2015-11 http://technode.com/2015/11/24/surge-advanced-proxy-tool-ios-pulled-app-store/
 * 2015-09 https://www.hongkongfp.com/2015/09/03/in-pictures-censored-memes-search-terms-and-images-from-chinas-wwii-parade/
 * 2015 https://news.vice.com/article/the-missing-hong-kong-booksellers-family-isnt-buying-his-televised-confession Gui Minhai, 51, from publisher Mighty Current who was going to publish a book about <<xi-jinping>>'s love life.
-** Lam Wingkee is another one of the detaine bookselers
+** https://en.wikipedia.org/wiki/Gui_Minhai
+** 2020: stenced to 10 years https://www.hongkongfp.com/2020/02/25/bookseller-gui-minhai-jailed-10-years-china-illegally-providing-intelligence-overseas-parties
+** Lam Wingkee is another one of the detaine bookselers of the Causeway Bay Books group
 *** https://en.wikipedia.org/wiki/Lam_Wing-kee
 *** https://www.youtube.com/watch?v=dHq0f_eGLhE 2016 interview in freedom
 *** https://china-journal.org/2019/04/27/abducted-hong-kong-bookseller-has-fled-to-taiwan-to-avoid-extradition-to-china/
@@ -3315,6 +3355,13 @@ Not China only like <<rebel-pepper>>, but does have some good China ones.
 * https://twitter.com/pareshnathtoons?lang=en
 * https://www.cartooningforpeace.org/en/dessinateurs/paresh/
 
+[[badiucao]]
+==== Baidiucao 巴丢草
+
+https://en.wikipedia.org/wiki/Badiucao
+
+Has a more artistic red-black-white-yellow style.
+
 [[falun-sweden]]
 === Falun, Sweden 法轮，瑞典
 
@@ -3394,6 +3441,9 @@ image::https://web.archive.org/web/20190915124441im_/https://www.rfa.org/mandari
 
 .<<nazi,Nazis>> burning books in Berlin in 1933. https://en.wikipedia.org/wiki/Nazi_book_burnings[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/1933-may-10-berlin-book-burning.JPG/603px-1933-may-10-berlin-book-burning.JPG[height=400]
+
+.<<falun-gong>> books being destroyed with a https://en.wikipedia.org/wiki/Road_roller[road roller] in 1999 in China in an extremely low quality early Internet image. How far do you think mass jailings and torture would be? One wonders why they didn't burn the books though. https://en.wikipedia.org/wiki/File:Destruction_d%27ouvrages_du_Falun_Gong_lors_de_la_r%C3%A9pression_de_1999_en_Chine.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/5/52/Destruction_d%27ouvrages_du_Falun_Gong_lors_de_la_r%C3%A9pression_de_1999_en_Chine.jpg[height=400]
 
 [[jingjing-chacha]]
 ===== Jingjing and Chacha 警警察察
@@ -3522,6 +3572,24 @@ https://en.wikipedia.org/wiki/Social_Credit_System
 === Belt and Road Initiative 一带一路
 
 https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
+
+[[communist-youth-league]]
+=== Communist Youth League of China 中国共产主义青年团
+
+https://en.wikipedia.org/wiki/Communist_Youth_League_of_China
+
+Had a membership of 109 million (by the https://en.wikipedia.org/wiki/17th_National_Congress_of_the_Communist_Party_of_China[17th National Congress]).
+
+Such state sponsored youth organizations are a hallmark of <<dictatorship,dictatorships>>, and serve both as an indoctrination device, and as a selection tool for future politicians:
+
+* https://en.wikipedia.org/wiki/Hitler_Youth[Hitler Youth] was the <<nazi,Nazi Germany>> youth organization
+* https://en.wikipedia.org/wiki/Komsomol[Komsomol] was the Soviet youth organization
+
+One may argue that https://en.wikipedia.org/wiki/The_Scout_Association[the scouts] are https://www.sundaypost.com/fp/creator-of-taggart-reveals-the-human-stories-behind-an-unlikely-and-unsettling-alliance-on-the-eve-of-wartherell-be-no-more-murders-tv-sleuth-writer-rules-out-comeback/[a similar organization in the West], but one notable difference is the scale of such dictatorship-led youth organizations.
+
+Related news:
+
+* 2020-02-19: https://supchina.com/2020/02/19/communist-youth-league-patriotic-idols/ "The Communist Youth League Thought It Was Creating Patriotic Idols. Instead, It Started A Conversation About Women's Rights". The anime-style mascots are named Jiangshanjiao 江山娇 and Hongqiman 红旗漫.
 
 [[music]]
 == The best Chinese traditional instrumental music albums
