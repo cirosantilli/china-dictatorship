@@ -326,7 +326,7 @@ Some interesting aspects of the keyword attack embargo:
 * it is immediately self enforcing: we don't need politicians to decide and enforce the complex "if you do this, we punish you like that" question.
 +
 By political and technological information is together, and this immediately puts the dictatorship in a bad spot, without us having to decide anything.
-* by affecting programmers in particular through Stack Overflow and GitHub, we make them more likely to develop better Firewall climbing tools themselves
+* by affecting programmers in particular through Stack Overflow and GitHub, we make them more likely to develop better <<censorship-circumvention,Firewall climbing>> tools themselves
 
 One point in favor of the embargo is that China has opened up since the 80's 90's, but did freedom improve at all? Under <<xi-jinping>>, it may be argued that it did not, and maybe that we should just stop feeding them technology and accept that they won't become free.
 
@@ -1050,6 +1050,7 @@ The last straw was when in March 2015 my girlfriend's mother was arbitrarily kep
 
 I then continued because I hate political <<censorship,censorship>>, and because <<does-ciro-santilli-hate-china,I love China>>.
 
+[[ciro-santilli-mother-in-law-jail]]
 ===== Ciro Santilli's post when his mother-in-law was put into jail
 
 ====== Jail post en
@@ -1058,13 +1059,13 @@ My girlfriend's mother, a 63 year old lady, was kept 15 days inside a Chinese "c
 
 She had to stay all the time in a small room with a bed and a toilet, under video surveillance, being fed three meager meals a day.
 
-I see Falun Gong http://en.wikipedia.org/wiki/Falun_Gong as just another moderate religion which causes no harm to its believers. The only reason that it is unofficially outlawed in China is because the communists fear it as a political competitor.
+I see Falun Gong http://en.wikipedia.org/wiki/Falun_Gong as just another <<flg-religion,moderate religion>> which causes no harm to its believers. The only reason that it is unofficially outlawed in China is because the communists fear it as a political competitor.
 
 There was no trial and no explanation. She was going to take a train to visit her sister. But she didn't know that there was an important political event happening in the capital: http://en.wikipedia.org/wiki/12th_National_People's_Congress So the police at the station, who already knew she did Falun Gong, took her away.
 
 When she came back home, the house had been searched and was all messed up. Her religious books and computer were missing.
 
-I'm glad she was not physically harmed. I find it fascinating how even well educated Chinese support a government which simply does not represent some of its people. How will you feel when something like that happens to your own family, and there is nothing you can do about it?
+I'm glad she was not physically harmed. I find it fascinating how even well educated Chinese support a government which simply does not represent some of its people. How will you feel <<intolerance,when something like that happens to your own family, and there is nothing you can do about it>>?
 
 ====== Jail post zh
 
@@ -1157,10 +1158,15 @@ On the contrary. China has his favorite:
 * <<restaurants,food>>
 * <<does-ciro-santilli-speak-chinese,language>>
 * <<music>>
-* history and culture
+* history
 * nature
+* culture, notably:
+** intense respect for older people. Whenever Ciro was with his <<ciro-santilli-mother-in-law-jail,mother-in-law>> and asked for help from young Chinese people, they were extremely nice.
++
+It is hard to understand how the same people have not managed to speak up when <<flg-persecution,70 million old ladies were put into jail when Falun Gong was banned>>. Only the extreme fear of also going to jail could explain it. Living in China is living in constant fear if you can think for yourself.
+** enormous importance given to education. One must not forget however: grades are useless, and all that matters is how much you improve society
 
-in the world. And because of that: <<would-you-like-to-live-in-china>>.
+And because of that: <<would-you-like-to-live-in-china>>.
 
 As link:https://en.wikipedia.org/wiki/Bjarne_Stroustrup[Bjarne] said:
 
@@ -1175,9 +1181,6 @@ ____
 爱国恨党。
 ____
 
-."Plum, orchid, bamboo, chrysanthemum" (梅兰竹菊) painting by https://en.wikipedia.org/wiki/Zheng_Xie[Zheng Xie (郑燮)] representing the https://en.wikipedia.org/wiki/Four_Gentlemen[four gentlemen (四君子)]. Ciro is a big fan of https://en.wikipedia.org/wiki/Bird-and-flower_painting[traditional Chinese bird-and-flower painting (花鸟画)] like this. https://www.pinterest.co.uk/pin/315744623848820315/[Source].
-image::https://web.archive.org/web/20200126185832if_/https://i.stack.imgur.com/9c1fa.jpg[height=600]
-
 .Round gate at https://en.wikipedia.org/wiki/Yu_Garden[Yu Garden 豫园] in Shanghai. link:++https://commons.wikimedia.org/wiki/File:Shanghai_-_YuYuan_Gardens_and_Old_Town_(584867794).jpg++[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Shanghai_-_YuYuan_Gardens_and_Old_Town_%28584867794%29.jpg/683px-Shanghai_-_YuYuan_Gardens_and_Old_Town_%28584867794%29.jpg[height=600]
 
@@ -1187,6 +1190,9 @@ Some free online collections:
 
 * Smithsonian collection at a search for Paintings before 1800. Drill down further by "topic" e.g. "Mountains" or "scholar"
 ** http://collections.si.edu/search/results.htm?q=&fq=online_visual_material%3Atrue&fq=online_media_type%3A%22Images%22&fq=culture%3A%22Chinese%22&fq=object_type%3A%22Paintings%22&view=list&date.slider=300s%2C1800s
+
+."Plum, orchid, bamboo, chrysanthemum" (梅兰竹菊) painting by https://en.wikipedia.org/wiki/Zheng_Xie[Zheng Xie (郑燮)] representing the https://en.wikipedia.org/wiki/Four_Gentlemen[four gentlemen (四君子)]. Ciro is a big fan of https://en.wikipedia.org/wiki/Bird-and-flower_painting[traditional Chinese bird-and-flower painting (花鸟画)] like this. https://www.pinterest.co.uk/pin/315744623848820315/[Source].
+image::https://web.archive.org/web/20200126185832if_/https://i.stack.imgur.com/9c1fa.jpg[height=600]
 
 ===== Why does Ciro Santilli love China so much?
 
@@ -1233,7 +1239,7 @@ But then, a shady supporting organization might require that I don't disclose th
 
 Of course, a hidden support would represent a reputation hit for both such organization and for me, which makes it less likely that I would have accepted or had such an offer.
 
-Also consider my motivation. If your mother in law were put into jail unfairly for 15 days, for following the same religion that <<flg-bias,your wife follows>>, and if you had a social media presence, wouldn't you be tempted to do the same?
+Also consider my motivation. If your <<ciro-santilli-mother-in-law-jail,mother in law were put into jail unfairly for 15 days>>, for following the same religion that <<flg-bias,your wife follows>>, and if you had a social media presence, wouldn't you be tempted to do the same?
 
 What about you, are you funded by the CCP?
 
@@ -2630,6 +2636,7 @@ Branch Davidians were inspired by <<christianity>>. So should we ban Christianit
 * only statistics has any meaning, and it would require a very large number of reports to make up statistics, so you will likely be wasting your time. I will do my part and maintain a list however.
 * if ask for FLG believers to compile a list of horrors they have suffered, which they have already been doing since the start of the persecution, I bet that their list will be much longer than yours, because they are so <<flg-organized,well organized>>
 
+[[flg-persecution]]
 ==== FLG does not have proof of their persecution claims
 
 How much proof do you think they would be able to get when there is no freedom of press?
@@ -2932,8 +2939,11 @@ image::https://upload.wikimedia.org/wikipedia/commons/0/06/Li_Hongzhi_1.jpg[heig
 .Li Hongzhi practicing one of his exercises with one of his cute prophet outfits in an extremely nice Chinese <<does-ciro-santilli-hate-china,stone garden>>. TODO exact location and date. https://commons.wikimedia.org/wiki/File:Li_Hongzhi_Falun_Gong.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/5/51/Li_Hongzhi_Falun_Gong.jpg[height=600]
 
-.Li going https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] sitting on a https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art[giant Lotus flower] with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] on his head. https://www.pinterest.fr/pin/8022105562347289/[Source].
+.Li going https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] while casually sitting on a https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art[giant Lotus flower] with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] on his head. https://www.pinterest.fr/pin/8022105562347289/[Source].
 image::https://web.archive.org/web/20200226083545/https://i.pinimg.com/564x/32/fc/95/32fc954e99d658751da18a0b20ae2894.jpg[height=600]
+
+.Dubstep Li can liangong at https://en.wikipedia.org/wiki/Dubstep[dubstep] speed. https://giphy.com/gifs/dubstep-gifs-dubstepgifs-xUOwFY1prqgUdPuFvW[Source].
+image::http://web.archive.org/web/20200229161316if_/https://i.giphy.com/media/xUOwFY1prqgUdPuFvW/giphy.webp[height=400]
 
 ===== Some FLG people make phone telemarketing
 
