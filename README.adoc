@@ -236,6 +236,11 @@ Can you manage?
 Do you understand?
 ____
 
+People that got arrested for reporting on it:
+
+* Li Zehua 李澤華
+** 2020-02-28 https://www.vice.com/en_us/article/qjdejp/a-chinese-citizen-journalist-covering-coronavirus-just-live-streamed-his-own-arrest
+
 .Selfie of Li Wenliang on his hospital bed before he died. https://www.bbc.com/news/world-asia-china-51409801[Source].
 image::https://web.archive.org/web/20200209173001im_/https://ichef.bbci.co.uk/news/320/cpsprodpb/10FFE/production/_110803696_drli1.jpg[height=400]
 
@@ -1176,6 +1181,13 @@ image::https://web.archive.org/web/20200126185832if_/https://i.stack.imgur.com/9
 .Round gate at https://en.wikipedia.org/wiki/Yu_Garden[Yu Garden 豫园] in Shanghai. link:++https://commons.wikimedia.org/wiki/File:Shanghai_-_YuYuan_Gardens_and_Old_Town_(584867794).jpg++[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Shanghai_-_YuYuan_Gardens_and_Old_Town_%28584867794%29.jpg/683px-Shanghai_-_YuYuan_Gardens_and_Old_Town_%28584867794%29.jpg[height=600]
 
+===== Chinese traditional painting
+
+Some free online collections:
+
+* Smithsonian collection at a search for Paintings before 1800. Drill down further by "topic" e.g. "Mountains" or "scholar"
+** http://collections.si.edu/search/results.htm?q=&fq=online_visual_material%3Atrue&fq=online_media_type%3A%22Images%22&fq=culture%3A%22Chinese%22&fq=object_type%3A%22Paintings%22&view=list&date.slider=300s%2C1800s
+
 ===== Why does Ciro Santilli love China so much?
 
 <<ciro-santilli>> does not <<do-you-believe-in-or-practice-falun-gong,believe in reincarnation>>, but sometimes he's tempted to.
@@ -1325,6 +1337,18 @@ In particular, dictatorships are harder to sustain than authoritarianism, since 
 The CCP is more like a social class with a large number of members and various sub-layers, and it is therefore much harder to take down on the other hand.
 
 Dictatorship is becoming link:https://www.nytimes.com/2018/03/07/world/asia/china-xi-jinping-party-term-limit.html[more and more precise under Xi] however.
+
+Even <<mao-zedong>> admits it and put it into the constitution: https://en.wikipedia.org/wiki/People%27s_democratic_dictatorship[People's democratic dictatorship 人民民主专政], so funny.
+
+Well known <<fear-of-west,Evil Western media>> that also call China a dictatorship:
+
+* 2020-01-29 https://www.nytimes.com/2020/01/29/opinion/coronavirus-china-government.html "Coronavirus Spreads, and the World Pays for China’s Dictatorship"
+* 2018-03-04 https://www.theguardian.com/world/2018/mar/04/xi-jinping-from-president-to-china-new-dictator "Xi Jinping’s power play: from president to China’s new dictator?"
+* 2017-10-11 https://www.ft.com/content/cb2c8578-adb4-11e7-aab9-abaa44b1e130 "Under Xi Jinping, China is turning back to dictatorship"
+
+Further discussions about this useless terminology question:
+
+* https://www.quora.com/Is-China-a-dictatorship
 
 [[keyword-attack]]
 === What is a screen name keyword attack?
@@ -1797,6 +1821,12 @@ The UK for example was trying hard to get kicked out of the 5 eyes in 2020 by us
 ."When you send a good joke from your Huawei phone", <<xi-jinping,Xi>> is also listening and laughing with you girls.  https://i.redd.it/nodgcqmwtcg31.jpg[Source]
 image::http://web.archive.org/web/20190814074955/https://i.redd.it/nodgcqmwtcg31.jpg[height=600]
 
+===== What should Western media do about China?
+
+When you report something about a person, for fuck's sake include the person's name in the title of the article, at the very least the pinyin.
+
+Yes, Chinese people also have names.
+
 ==== Companies that comply to Chinese censorship requests
 
 Western government should prevent companies from complying to Chinese censorship requests, or at least impose fines and sanctions on them.
@@ -1809,6 +1839,8 @@ Some whell known companies and event:
 
 * https://en.wikipedia.org/wiki/Bloomberg_L.P.[Bloomberg L.P.]: https://theintercept.com/2020/02/18/mike-bloomberg-lp-nda-china/ "When Bloomberg News’s Reporting on China Was Challenged, Bloomberg Tried to Ruin Me for Speaking Out"
 * 2019-12 Shutterstock implements censorship for searches from China https://techcrunch.com/2019/12/08/in-wake-of-shutterstocks-chinese-censorship-american-companies-need-to-relearn-american-values/
+* Apple
+** 2020-02025 https://www.theguardian.com/technology/2020/feb/25/apple-censorship-requests-china-shareholder-groups-proposal
 
 Boycott entreteiners who support the CCP:
 
