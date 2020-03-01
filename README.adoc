@@ -287,6 +287,9 @@ ____
 
 TODO source.
 
+.French political cartoon by https://en.wikipedia.org/wiki/Henri_Meyer[Henri Meyer] showing leaders of Western powers, Russia and Japan splitting up China between them. The CCP would arguably <<not-chinese,not have raised to power if not due to Japanese interference>>. Maybe the West deserves this. https://commons.wikimedia.org/wiki/File:China_imperialism_cartoon.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/China_imperialism_cartoon.jpg/438px-China_imperialism_cartoon.jpg[height=500]
+
 ==== The Chinese masses are still uneducated, and not fit for free speech and democracy
 
 When will they be ready? Who decides? What if they think that they are ready now?
@@ -760,7 +763,8 @@ Here are some images that wumao's like to post:
 
 * Left Right Slaughterhouse comic: http://9gag.com/gag/ayn7KmW?ref=fbp
 
-==== Russia
+[[russia]]
+==== Russia 俄罗斯
 
 Russia is clearly the number 2 dictatorship in the world by population / GDP and the link:https://www.ploughshares.org/world-nuclear-stockpile-report[#1 nuclear arsenal], so here we go.
 
@@ -770,7 +774,9 @@ I've always been curious to how Russia can be both oppressive and a democracy, u
 * just like China, they emphasise the threat of the foreign countries, especially the US, as a justification for having an oppressive power.
 * the government puts pressure on any significant opposition candidate. One technique is to find some reason to put them in jail for 2 months, which by Russian law forbids them from participating in further elections. Only candidates that don't really stand a chance are left as a fake opposition. is fine, but if you reach some prominence, you start taking the same risks as politicians, although you are more likely to face more brutal illegal gangster violence threats as you are less visible
 
-While I'm at it, some interesting news:
+See also: <<communist-youth-league>>
+
+While we are at it, some interesting news:
 
 * 2018-04 http://www.bbc.co.uk/news/technology-43752337 Russia to block Telegram app over encryption
 * 2017 http://www.bbc.co.uk/news/world-europe-40635267 Russia Jehovah's Witnesses banned after they lose appeal
@@ -778,6 +784,12 @@ While I'm at it, some interesting news:
 * 2016 https://news.vice.com/en_us/article/kzgkv3/russians-now-need-a-passport-to-watch-pornhub
 * 2014 link:https://en.wikipedia.org/wiki/Putin_khuylo![]
 * 1995 https://en.wikipedia.org/wiki/Vladislav_Listyev
+
+[[stalin]]
+==== Stalin 斯大林
+
+.https://en.wikipedia.org/wiki/Light_Yagami[Light Yagami] from  https://en.wikipedia.org/wiki/Death_Note[Death Note]: "I can kill anyone by simply writing his name here". Stalin: "Bitch please". https://ifunny.co/picture/1-can-kill-anyone-by-simply-writing-his-name-here-TjXCcyuM2[Source].
+image::http://web.archive.org/web/20200301233451/https://img.ifunny.co/images/55cb6c5de9cde6ebe7e9d1704c7f83e6d344e8154b44299fec9b9a029aa82c34_1.jpg[height=500]
 
 === Is the Chinese government is evil?
 
