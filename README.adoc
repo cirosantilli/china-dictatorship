@@ -847,7 +847,7 @@ image::https://web.archive.org/web/20191013080140if_/https://www.rfa.org/english
 .1977 photo showing Mao's actual glass tomb during his funeral, with famous politicians in the background. It is interesting to see that Mao https://mummipedia.fandom.com/wiki/Mao_Zedong[features on the "Fandom Mummipedia Wiki"]. https://apnews.com/a94a0d7a824b474fb11545e8c4481c21[Source].
 image::https://web.archive.org/web/20200121105502if_/https://storage.googleapis.com/afs-prod/media/media:c65bb5f4e2664bb88aae7881f8adbba0/800.jpeg[height=400]
 
-.https://en.wikipedia.org/wiki/The_Economist[The Economist] "Let’s party like it’s 1793" cover from May 4th – 10th 2013 depicting a painting of Xi Jinping dressed as emperor of China. The famous https://en.wikipedia.org/wiki/Qianlong_Empero[Qianlong Emperor] was in power at that time. https://twitter.com/TheEconomist/status/329929668155293696[Source].
+.https://en.wikipedia.org/wiki/The_Economist[The Economist] "Let’s party like it’s 1793" cover from May 4th – 10th 2013 depicting a painting of Xi Jinping dressed as emperor of China. The famous https://en.wikipedia.org/wiki/Qianlong_Empero[Qianlong Emperor] was in power at that time. The title is likely a joke based on the more well known https://www.independent.co.uk/arts-entertainment/music/features/party-like-its-1969-woodstock-forty-years-on-1722695.html["Let's party like it's 1969"] due to the legendary https://en.wikipedia.org/wiki/Woodstock[Woodstock festival]. Party is also a play on words between the Communist Party and a night party. TODO why 1793 specifically. https://twitter.com/TheEconomist/status/329929668155293696[Source].
 image::https://web.archive.org/web/20200225220314/https://pbs.twimg.com/media/BJQlSP_CQAA52BG?format=jpg[height=600]
 
 [[winnie-the-pooh]]
@@ -3020,7 +3020,6 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 * 2018-05 https://www.whatsonweibo.com/public-shaming-of-drug-users-in-guangdong-drug-related-crimes-in-family-painted-on-houses/
 * 2018-04 https://uk.reuters.com/article/uk-china-lawmaking/china-makes-defaming-revolutionary-heroes-punishable-by-law-idUKKBN1HY16C
 * 2018-04 https://chinadigitaltimes.net/2018/04/translation-open-letter-on-peking-university-metoo-case/ https://github.com/sikaozhe1997/Xin-Yue
-* 2018-04 https://www.whatsonweibo.com/weibos-new-online-guidelines-no-homosexuality-allowed/
 * 2018-04 https://www.washingtonpost.com/world/asia_pacific/congressional-leaders-urge-us-to-press-china-over-reports-of-mass-uighur-detentions/2018/04/05/9bd17c90-38b3-11e8-b57c-9445cc4dfa5e_story.html
 * 2018-03 https://supchina.com/2018/03/29/no-tattoos-at-the-2018-strawberry-music-festival-in-hangzhou/ Funny pics at: http://app.myzaker.com/news/article.php?f=xiongzhang&pk=5ac0eb1877ac6465da676481
 * 2018-02 https://www.nytimes.com/2018/02/25/world/asia/china-xi-jinping.html
@@ -3044,7 +3043,6 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 * 2017-07 https://techcrunch.com/2017/07/29/apple-removes-vpn-apps-from-the-app-store-in-china/
 * 2017-07 http://shanghaiist.com/2017/07/26/liu-xia-home-visit.php
 * 2017-06 http://www.rfa.org/english/news/uyghur/ordered-05092017155554.html Uyghurs studying abroad ordered to return to China
-* 2017-06 http://www.whatsonweibo.com/new-rules-online-videos-china-no-displays-homosexuality/
 * 2017-06 http://mashable.com/2017/06/23/china-bans-livestreaming/#FJ4h.sLYQqq9
 * 2017-05 https://qz.com/989454/a-chinese-students-commencement-speech-at-the-university-of-maryland-praising-fresh-air-and-democracy-is-riling-chinas-internet/
 * 2017-05 http://www.sixthtone.com/news/1000233/at-wedding-market%2C-mothers-of-gays-and-lesbians-face-resistance
@@ -3537,6 +3535,9 @@ image::https://web.archive.org/web/20200115110425im_/https://i.redd.it/ns9jhaeel
 
 .Beijing version of the Shenzhen-created Jingjing and Chacha. TODO what does it say on the images? On car "XX网络110" (XX Internet 110) so it must be the phone number of the Internet police department. At bottom right something like (联合新作, joint XX), so likely means it is a joint action between two departments. http://www.nbcnews.com/id/20477258/ns/technology_and_science-internet/t/beijing-police-launch-virtual-web-patrol/[Source].
 image::https://web.archive.org/save/_embed/http://media2.s-nbcnews.com/j/ap/bej10508281134.grid-6x2.jpg[height=400]
+
+.Angry Chinese cop cartoons extracted from http://web.archive.org/web/20191209021646/http://encyclopediadramatica.rs/China[Encyclopedia Dramatica] with the racist subtitles removed. It is hard to be sure what is the original image that they were Photoshopped from, but they are very similar to the Beijing Jingjing and Chacha although this is not a direct copy paste of the above since several details differ, The image was uploaded in 2011 to ED. http://web.archive.org/web/20170525180028/https://encyclopediadramatica.rs/File:Preasetoshowpapers.jpg[Source].
+image::{cirosantilli-media-base}Jingjing_Chacha_angry.jpg[height=400]
 
 .The Qatar friendly censorship page likely from around 2011. China is not alone in this "cute censorship" technique. https://commons.wikimedia.org/wiki/File:Qatar_filtering_message._Qtel_network.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/d/d6/Qatar_filtering_message._Qtel_network.jpg[height=600]
