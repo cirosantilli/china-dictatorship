@@ -885,7 +885,7 @@ image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/ne
 * https://zh.wikipedia.org/wiki/毛泽东
 
 .Mao Zedong in Yan'an in the 1930's thinking deeply. This funny looking picture is meme ready and https://uncyclopedia.ca/wiki/Chairman_Mao[much loved by Uncyclopedia]. https://commons.wikimedia.org/wiki/File:Mao_Zedong_in_Yan%27an.jpg[Source].
-image:https://upload.wikimedia.org/wikipedia/commons/9/9d/Mao_Zedong_in_Yan%27an.jpg[height=400]
+image::https://upload.wikimedia.org/wikipedia/commons/9/9d/Mao_Zedong_in_Yan%27an.jpg[height=400]
 
 [[great-leap-forward]]
 ====== Great Leap Forward 大跃进 (1958-1960)
