@@ -872,6 +872,9 @@ image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/ne
 * https://en.wikipedia.org/wiki/Mao_Zedong
 * https://zh.wikipedia.org/wiki/毛泽东
 
+.Mao Zedong in Yan'an in the 1930's thinking deeply. This funny looking picture is meme ready and https://uncyclopedia.ca/wiki/Chairman_Mao[much loved by Uncyclopedia]. https://commons.wikimedia.org/wiki/File:Mao_Zedong_in_Yan%27an.jpg[Source].
+image:https://upload.wikimedia.org/wikipedia/commons/9/9d/Mao_Zedong_in_Yan%27an.jpg[height=400]
+
 [[great-leap-forward]]
 ====== Great Leap Forward 大跃进 (1958-1960)
 
@@ -1038,7 +1041,7 @@ Ciro loves this language.
 
 Please just get rid of the Chinese characters and move to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export. Characters are beautiful, but just take too much time for any sane adult to learn, it's harder than C++!
 
-.The "fictional" Chinese character "Dou" from https://en.wikipedia.org/wiki/Uncyclopedia[Unencyclopedia] is roughly translated as "Impossibly complex pictogram-based writing system that takes a person a thousand thousand years to learn." and illustrates well why pictograms are a bad idea. https://uncyclopedia.ca/wiki/File:Chinese_character_extreme.svg[Source].
+.The "fictional" Chinese character "Dou" from https://en.wikipedia.org/wiki/Uncyclopedia[Uncyclopedia] is roughly translated as "Impossibly complex pictogram-based writing system that takes a person a thousand thousand years to learn." and illustrates well why pictograms are a bad idea. https://uncyclopedia.ca/wiki/File:Chinese_character_extreme.svg[Source].
 image::https://uncyclopedia.ca/w/images/e/e1/Chinese_character_extreme.svg[height=400]
 
 ==== Why did you start the keyword attack?
@@ -2271,7 +2274,7 @@ I think that FLG exercises and meditation are good for you, just like many other
 
 However I find the metaphysics and obligations boring like for any other prophetic xref:flg-religion[religion].
 
-The absolute truth is already known by the xref:li-hongzhi[prophet], although he does not want to give clear evidence for reasons. Or a Jesus put it:
+The absolute truth is already known by the xref:li-hongzhi[prophet], although he does not want to give clear evidence for reasons. Or a Jesus put it in https://www.biblegateway.com/passage/?search=Luke+4&version=NIV[Luke 4]:
 
 ____
 Then the devil took him to the holy city and had him stand on the highest point of the temple.
@@ -2323,9 +2326,9 @@ This becomes especially strong when a critical mass of believers is reached, and
 
 This post by a former believer gives what I feel is a realistic account that matches my observations: https://medium.com/@Ben_D_Hurley/-10677166298b "Me and Li" by Ben Hurley published on October 23, 2017.
 
-In any case, at least FLG got one thing right: the commies <<is-the-chinese-government-is-evil,evil>>, and we have to get rid of them.
+And yet, all those who love freedom, must oppose FLG ban, or be themselves enslaved by tyrants themselves: <<democracy-is-a-religion>>.
 
-And yet, all those who love freedom, must oppose FLG ban, or be enslaved by tyrants themselves: <<democracy-is-a-religion>>.
+In any case, at least FLG got one thing right: the commies are <<is-the-chinese-government-is-evil,evil>>, and we have to get rid of them.
 
 See also: <<flg-is-fake>>.
 
@@ -3170,6 +3173,9 @@ image::https://web.archive.org/web/20140722052337im_/http://petapixel.com/assets
 
 .Rough https://en.wikipedia.org/wiki/Lego[Lego] model of the Tank Man scene. https://knowyourmeme.com/photos/1499216-tank-man[Source].
 image::https://web.archive.org/save/_embed/https://i.kym-cdn.com/photos/images/newsfeed/001/499/216/29f.png[height=400]
+
+.it8Bit https://en.wikipedia.org/wiki/Final_Fantasy_VI[Final Fantasy 6] battle screen style depiction of tank man by Cody Walton. https://www.it8bit.com/post/25860395424/unknown-rebel[Source]
+image::http://web.archive.org/web/20200301203622if_/https://66.media.tumblr.com/tumblr_m66n5i3smc1qbw2q1o1_1280.png[height=600]
 
 [[dissidents]]
 == Dissidents 持不同政见者
