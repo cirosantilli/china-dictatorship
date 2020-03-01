@@ -1983,14 +1983,14 @@ For this same reason, her father, who Ciro's wife worships, spent around 10 year
 Stack Overflow mentioned at: <<meant-to-be-used>>.
 
 [[zhihu]]
-=== Zhihu 知乎
+==== Zhihu 知乎
 
 https://en.wikipedia.org/wiki/Zhihu
 
 The Chinese <<quora,Quora>> clone with Chinese characteristics (<<censorship,political censorship>>).
 
 [[zhihu-purge]]
-==== Ciro Santilli's Zhihu purge 2019-11-03
+===== Ciro Santilli's Zhihu purge 2019-11-03
 
 Ciro received an email from account@mail.zhihu.com:
 
@@ -2019,7 +2019,7 @@ Furthermore, all questions related to Ciro, including the posts criticizing him 
 
 Ciro then created an anonymous Zhihu account after this event.
 
-===== Ciro Santilli's Zhihu ban 2018-06-25
+====== Ciro Santilli's Zhihu ban 2018-06-25
 
 <<ciro-santilli>> was banned from Zhihu on 2018-06-25 for "politically sensitive" content.
 
@@ -2088,7 +2088,7 @@ While you have also raised issues that were raised a thousand times before, and 
 I hope that one day you will redirect that cunning and initiative towards taking down the root cause of the problem, which are the Chinese communist Party and their Firewall themselves.
 ____
 
-==== Zhihu questions related to Ciro Santilli
+===== Zhihu questions related to Ciro Santilli
 
 Parent section: <<backlinks-to-this-repository>>
 
@@ -2112,7 +2112,7 @@ Mentions not yet deleted as of writing:
 ** other accounts are classified as often commenting on politically sensitive material (政治敏感)
 
 [[zhihu-46957710]]
-===== github.com@cirosantilli 是谁维护的，为什么会收集邮箱地址？
+====== github.com@cirosantilli 是谁维护的，为什么会收集邮箱地址？
 
 https://www.zhihu.com/question/46957710 (http://archive.is/PVOLd[archive before deletion], (http://web.archive.org/web/20191103065828/https://www.zhihu.com/question/46957710[archive after deletion])).
 
