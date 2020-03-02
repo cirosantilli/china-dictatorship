@@ -142,7 +142,7 @@ There is infinite debate about this out there, some examples:
 
 For:
 
-* dictatorships are more likely to start <<war>> or other crazy policies like the <<great-leap-forward,Great Leap Forward>>, which completely destroy the economy in one go
+* dictatorships are more likely to start <<war>> or other <<policies,crazy policies>> like the <<great-leap-forward,Great Leap Forward>>, which completely destroy the economy in one go
 * society becomes richer when people know that they can do their startups, get rich, and stay in the country without fear of being persecuted unfairly and losing everything instead of migrating to Canada.
 +
 Any criticism of the government, even if constructive, is taken as menace to power, and more likely to be shut down, which makes the government and just becomes less efficient since there is less feedback.
@@ -1053,7 +1053,7 @@ Ciro loves this language.
 
 Please just get rid of the Chinese characters and move to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export. Characters are beautiful, but just take too much time for any sane adult to learn, it's harder than C++!
 
-.The "fictional" Chinese character "Dou" from https://en.wikipedia.org/wiki/Uncyclopedia[Uncyclopedia] is roughly translated as "Impossibly complex pictogram-based writing system that takes a person a thousand thousand years to learn." and illustrates well why pictograms are a bad idea. https://uncyclopedia.ca/wiki/File:Chinese_character_extreme.svg[Source].
+.The "fictional" Chinese character "Dou" from https://en.wikipedia.org/wiki/Uncyclopedia[Uncyclopedia] is roughly translated as "Impossibly complex pictogram-based writing system that takes a person a thousand thousand years to learn." and illustrates well why pictograms are a bad idea. This https://www.youtube.com/watch?v=t_cbW5JK9WM[video by Vladimir Skultety] does a more serious analysis of that. https://uncyclopedia.ca/wiki/File:Chinese_character_extreme.svg[Source].
 image::https://uncyclopedia.ca/w/images/e/e1/Chinese_character_extreme.svg[height=400]
 
 ==== Why did you start the keyword attack?
@@ -3244,7 +3244,7 @@ Profiles and news:
 
 * 2020-01-28 https://www.inkstonenews.com/society/chinas-mma-fighter-xu-xiaodong-fight-survival/article/3047417
 
-.Uphold science, eradicate superstition "崇尚科学，破除迷信" 1999 poster by the CCP created as an <<falun-gong,anti-Falun Gong>> propaganda likely based on a http://www.people.com.cn/GB/channel1/10/20000710/137317.html[more widely widespread slogan] (https://web.archive.org/web/20090428155413/http://www.people.com.cn/GB/channel1/10/20000710/137317.html[archive]). So why is Xiaodong not being supported by the CCP now that he is beating superstition back into its place? Once again, <<censorship-makes-countries-poorer>>. https://chineseposters.net/themes/falun-gong.php[Source].
+.Uphold science, eradicate superstition "崇尚科学，破除迷信" 1999 poster by the CCP created as an <<falun-gong,anti-Falun Gong>> propaganda likely based on a http://www.people.com.cn/GB/channel1/10/20000710/137317.html[more widely widespread slogan] (https://web.archive.org/web/20090428155413/http://www.people.com.cn/GB/channel1/10/20000710/137317.html[archive]). So why is Xiaodong not being supported by the CCP now that he is beating superstition back into its place? Once again, <<censorship-makes-countries-poorer>>. The poster features images related to the https://chineseposters.net/themes/space-program.php[Chinese space program], which is a major undertaking of the CCP and widely used propaganda point. https://chineseposters.net/themes/falun-gong.php[Source].
 image::http://web.archive.org/web/20191206090021im_/http://chineseposters.net/images/e13-891.jpg[height=600]
 
 .2017 Xu Xiaodong (MMA) Vs. Wei Lei (Tai Chi) summary GIF. https://www.inkstonenews.com/society/chinas-mma-fighter-xu-xiaodong-fight-survival/article/3047417[Source].
@@ -3702,6 +3702,14 @@ One may argue that https://en.wikipedia.org/wiki/The_Scout_Association[the scout
 Related news:
 
 * 2020-02-19: https://supchina.com/2020/02/19/communist-youth-league-patriotic-idols/ "The Communist Youth League Thought It Was Creating Patriotic Idols. Instead, It Started A Conversation About Women's Rights". The anime-style mascots are named Jiangshanjiao 江山娇 and Hongqiman 红旗漫.
+
+[[one-child-policy]]
+=== One-child policy 一孩政策
+
+TODO.
+
+* https://en.wikipedia.org/wiki/One-child_policy
+* https://zh.wikipedia.org/wiki/一孩政策
 
 [[music]]
 == The best Chinese traditional instrumental music albums
