@@ -193,6 +193,11 @@ video::M6kYod3_gwk[youtube,height=400,width=600]
 .Photo of a CDV-717 radioactivity meter that maxes out at 3.6 Roentgen like the one that would have been used in Chernobyl. https://www.reddit.com/r/ChernobylTV/comments/bnio6n/36_roentgen_on_a_cdv717/[Source]
 image::https://web.archive.org/web/20191102143219if_/https://i.redd.it/f806kp316ox21.jpg[height=400]
 
+This suggestion is even more explicit in the fictional https://en.wikipedia.org/wiki/World_War_Z[World War Z] 2006 novel by https://en.wikipedia.org/wiki/Max_Brooks[Max Brooks] about a <<corona,virus>> outbreak in China. It was later adapted into the https://en.wikipedia.org/wiki/World_War_Z_(film)[World War Z (2013)] movie by https://en.wikipedia.org/wiki/Paramount_Pictures[Paramount]:
+
+* https://www.theguardian.com/film/2013/jun/04/brad-pitt-china-world-war-z[]: Paramount cowards tried to kowtow and remove references to China from the movie, but it failed
+* https://www.washingtonpost.com/outlook/china-barred-my-dystopian-novel-about-how-its-system-enables-epidemics/2020/02/27/cc0446f0-58e5-11ea-9000-f3cffee23036_story.html[]: no Chinese publisher dared publish the book unless China references were removed, which the author declined, and so the book was not published in China
+
 Or https://quoteinvestigator.com/2010/05/21/death-statistic/[if you prefer]:
 
 ____
