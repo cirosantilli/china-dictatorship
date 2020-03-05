@@ -452,7 +452,17 @@ How can society improve, if we are never allowed to try new things out?
 
 Change in democracies does not require <<violence,violence>>. Violence happens because the government punishes any dissidence, even if pacific, to retain its own power.
 
-In democracies, radical policy changes happen without dropping a single drop of blood. People vote, and policies change, end of story.
+In democracies, radical policy changes happen without dropping a single drop of blood. People vote, and policies change, end of story. In https://en.wikipedia.org/wiki/John_F._Kennedy[JFK's] words:
+
+____
+Those who make peaceful revolution impossible will make violent revolution inevitable
+____
+
+See also:
+
+* https://en.wikipedia.org/wiki/Nonviolent_revolution#As_it_relates_to_democracy
+* https://www.youtube.com/watch?v=dXRG7yiqR3I
+* https://en.wikisource.org/wiki/Address_on_the_First_Anniversary_of_the_Alliance_for_Progress
 
 [[disturbs]]
 ==== Keyword attack profiles disturb me
@@ -1355,7 +1365,7 @@ Basically same discussion as: <<violence>> but with the tables turned.
 See also: <<the-chinese-masses-are-not-interested-in-politics-and-therefore-not-ready-to-vote>>
 
 [[dictatorship]]
-=== Why does Ciro Santilli say that China is a dictatorship?
+=== Why does Ciro Santilli say that China is a dictatorship? 中国不是独裁！
 
 Ciro is using the word in an slightly extended/joking sense.
 
@@ -1871,6 +1881,10 @@ Some hell known companies and events:
 * Apple
 ** 2020-03-01 https://techcrunch.com/2020/03/01/china-roundup-apple-closes-app-store-loophole/ "China Roundup: Apple closes a 4-year-old App Store loophole"
 ** 2020-02-25 https://www.theguardian.com/technology/2020/feb/25/apple-censorship-requests-china-shareholder-groups-proposal
+** 2019-04-12 https://www.theverge.com/2019/4/12/18305087/congress-apple-criticism-china-communist-tiananmen-pro-democracy "Lawmakers lash out at Apple for censoring a song about Tiananmen Square protests"
++
+.Chinese flag with Apple characteristics. https://techcrunch.com/2015/08/11/apple-shares-tumble-5-amidst-china-concerns/[Source].
+image::https://web.archive.org/web/20200305101324/https://techcrunch.com/wp-content/uploads/2015/04/apple-china.png?w=1390&crop=1[height=400]
 
 Boycott entreteiners who support the CCP:
 
@@ -3199,6 +3213,44 @@ image::https://web.archive.org/web/20190714002904im_/https://s.abcnews.com/image
 .Corpses by the road in after the Tiananmen Square Protests were crushed. http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[Source].
 image::https://web.archive.org/web/20190607142501im_/http://www.ursulagauthier.fr/wp-content/uploads/2014/10/Tiananmen-7-715x1024.jpg[height=600]
 
+[[tiananmen-songs]]
+===== Tiananmen Square Protests songs 六四事件歌曲
+
+English:
+
+* https://www.youtube.com/watch?v=-JTWXqUPQ7I["China" by Joan Baez] from the https://en.wikipedia.org/wiki/Speaking_of_Dreams[Speaking of Dreams (1989) album]. Folk.
+* https://www.youtube.com/watch?v=6OOlXJs4I8k["The blood is on the square" by Phillip Morgan] from https://www.amazon.com/Blood-Square-Philip-Morgan/dp/B001H5S7OS[1990]. Folk.
+* https://www.youtube.com/watch?v=MAZK4apK8Bg[Same Cry (Feat. L.T.; Explicit)] by https://en.wikipedia.org/wiki/MC_Jin[MC Jin] from the 2004 album "The Rest Is History'. Hip hop American born Hakka Chinese.
+
+Chinese:
+
+* https://www.youtube.com/watch?v=m7uk0-vlpP0["Nothing to My Name (一無所有)" by Cui Jian (崔健)] from 1986
+** Lyrics and translation https://eastasiastudent.net/china/mandarin/cui-jian-nothing-to-my-name/
+** Chorus: "你合适跟我走" which translates to "When will you walk with me?" Could be talking directly to the Government.
+** The singer is/was very popular, the song was composed in 1986, but was very popular at the time of the protests, and became kind of a hymn.
+** https://en.wikipedia.org/wiki/Cui_Jian#Tiananmen_and_aftermath
+** https://en.wikipedia.org/wiki/Nothing_to_My_Name
+* https://www.youtube.com/watch?v=JdE4Ehte4uU["The square (廣場)" by Li Zhi (李志)] from 2019. Slow/sad mood pop/rock.
+** https://www.washingtontimes.com/news/2019/jun/2/li-zhi-singer-missing-china-cracks-down-tiananmen-/ the singer disappeared from public view in June 2019 and his songs were purged from public listings
+** https://medium.com/@sunlitmount/forbidden-songs-of-li-zhi-square-for-tiananmen-massacre-at-june-4th-1989-f22e7e2dc21a lyrics and translation
+** https://en.wikipedia.org/wiki/Li_Zhi_(singer)
+* https://www.youtube.com/watch?v=F8lWiWaSTtg[History's wound (历史的伤口)] 1989-5-28 song by several <<taiwan,Taiwanese>> singers
+** https://zh.wikipedia.org/wiki/历史的伤口
+** Lyrics: https://mojim.com/cny100375x11x1.htm
+
+Cantonese
+
+* https://www.youtube.com/watch?v=9L_qz7LuqVU&t=53s[The flower of freedom (自由花)] from 1989
+** https://zh.wikipedia.org/wiki/自由花
+** Lyrics: https://mojim.com/cny100293x15x4.htm
+
+Other good lists:
+
+* https://zh.wikipedia.org/wiki/六四歌曲 Wikipedia page with an infinite list of songs
+* https://www.youtube.com/watch?v=T8vMVrLBiW4&list=PLNRZ41lXl9e5iAXH_94DHiLPx_a9Yn711 六四学运 歌 playlist by 杰克 .龙光复民国天下为公
+* https://coconuts.co/hongkong/lifestyle/from-80s-rock-to-patriotic-anthems-6-songs-associated-with-tiananmen-square/
+* https://www.hongkongfp.com/2016/06/04/the-last-gunshot-the-musical-legacy-of-the-1989-tiananmen-massacre/
+
 [[tank-man]]
 ===== Tank Man 坦克人
 
@@ -3211,6 +3263,15 @@ A list of Tank Man parodies can be found at: https://knowyourmeme.com/memes/tank
 CNN video of Tank Man: https://www.youtube.com/watch?v=YeFzeNAHEhU[] but not showing removal, ridiculous, is there a full raw footage somewhere?
 
 Several quick cuts by CBS news that give a good overview: https://www.youtube.com/watch?v=vSbx352cn8A
+
+Tank man song (坦克人) by Xu Lin (徐琳): https://www.youtube.com/watch?v=z8A623aImt8
+
+____
+我是坦克人
+站在天安门
+____
+
+Full lyrics: https://gist.github.com/cirosantilli/698afcd05c5ad94297000f8c60b43473
 
 .Arthur Tsang's photo of Tank Man. https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/[Source].
 image::https://web.archive.org/web/20190808091019im_/http://s.wsj.net/public/resources/images/BN-CZ715_tam2_G_20140529081612.jpg[height=400]
