@@ -169,6 +169,26 @@ Definitely, the current regime is better than Mao's, but just imagine how rich C
 
 Imperial China lost the race for the Industrial Revolution. Will another dictatorship be able to stay on top of the next technological revolution?
 
+===== China has more freedom of speech than the USA!
+
+When you hear that online, it really makes you wonder if those people believe it or are paid to say it.
+
+Luckly, this is easy to verify: just create an online account on a Chinese website, and start posting about censored political subjects, and wait for your account to get banned.
+
+Then create an account on an American website, and start posting about censored political subjects. The first good question is: what will you post about since no political subject is censored?
+
+Here is one concrete and well documented example: <<zhihu-purge>>.
+
+Or maybe why not go out on the street with a t-shirt about a censored subject and share some photos online? https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli Some cases where that didn't end well for them:
+
+* 2017 Li Xiaoling (李小玲) <<tiananmen,Tianmen>> T-shirt: https://www.nchrd.org/2017/10/li-xiaoling/
+
+.Activist Quan Ping (Kwon Pyong) wore a <<nazi,Xitler>> t-shirt in public and posted photos online. It did not end well for him. https://www.frontlinedefenders.org/en/profile/kwon-pyong[Front Line Defenders profile]. https://www.rfa.org/english/news/china/xi-jinping-tshirt-activist-confirmed-held-in-northeast-china-detention-center-12082016110338.html[Source].
+image::https://web.archive.org/web/20170630212420im_/http://www.rfa.org/english/news/china/activist-11022016120902.html/china-xitler-nov22016.jpg/image[height=400]
+
+.Activist Liu Shihui wore a "One-party rule is a disaster" (TODO in Chinese) in 2009. This is a quote from a <<chinese-government-media,Xinhua News>> editorial from the 1940s. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang’s one-party dictatorship, but the CP will not establish a one-party dictatorship". https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
+image::http://web.archive.org/web/20200309101601im_/http://scd.observers.france24.com/files/images/090521%20china%20I.preview.jpg[height=500]
+
 ===== Censorship makes countries poorer
 
 <<dictatorship,Dictatorships>> need <<censorship>> to survive, and they must control all information to make themselves always look good: <<dictator-needs-gfw>>.
@@ -292,7 +312,7 @@ ____
 
 TODO source.
 
-.French political cartoon from 1898 by https://en.wikipedia.org/wiki/Henri_Meyer[Henri Meyer] showing leaders of Western powers, Russia and Japan splitting up China between them. The CCP would arguably <<not-chinese,not have raised to power if not due to Japanese interference>>. Maybe the West deserves this. https://commons.wikimedia.org/wiki/File:China_imperialism_cartoon.jpg[Source].
+.French political cartoon from 1898 by https://en.wikipedia.org/wiki/Henri_Meyer[Henri Meyer] showing leaders of Western powers, Russia and Japan splitting up China between them. The CCP would arguably <<not-chinese,not have raised to power if not due to Japanese interference>>. Maybe the West deserves the CCP they helped create. https://commons.wikimedia.org/wiki/File:China_imperialism_cartoon.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/China_imperialism_cartoon.jpg/438px-China_imperialism_cartoon.jpg[height=500]
 
 [[uneducated-masses]]
@@ -3343,7 +3363,9 @@ image::http://web.archive.org/web/20200301203622if_/https://66.media.tumblr.com/
 Other lists:
 
 * https://en.wikipedia.org/wiki/List_of_Chinese_dissidents
-** https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%8C%81%E4%B8%8D%E5%90%8C%E6%94%BF%E8%A6%8B%E8%80%85%E5%88%97%E8%A1%A8
+** https://zh.wikipedia.org/wiki/中华人民共和国被捕政治犯列表
+* https://www.frontlinedefenders.org/en/location/china Front Line Defenders
+* https://www.nchrd.org/ Chinese Human Rights Defenders
 
 [[xu-xiaodong]]
 === Xu Xiaodong "Mad Dog" 徐晓冬
