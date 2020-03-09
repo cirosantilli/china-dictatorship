@@ -295,9 +295,37 @@ TODO source.
 .French political cartoon from 1898 by https://en.wikipedia.org/wiki/Henri_Meyer[Henri Meyer] showing leaders of Western powers, Russia and Japan splitting up China between them. The CCP would arguably <<not-chinese,not have raised to power if not due to Japanese interference>>. Maybe the West deserves this. https://commons.wikimedia.org/wiki/File:China_imperialism_cartoon.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/China_imperialism_cartoon.jpg/438px-China_imperialism_cartoon.jpg[height=500]
 
+[[uneducated-masses]]
 ==== The Chinese masses are still uneducated, and not fit for free speech and democracy
 
-When will they be ready? Who decides? What if they think that they are ready now?
+When will they be ready? Who decides? What if they think that they are <<tiananmen,ready now>>?
+
+In George Bernard Shaw's "Maxims for Revolutionists" words:
+
+____
+Democracy substitutes election by the incompetent many for <<corruption,appointment by the corrupt few>>.
+____
+
+Many democracy supporters jokingly recognize democracy's shortcomings.
+
+A https://winstonchurchill.org/publications/finest-hour/finest-hour-141/red-herrings-famous-quotes-churchill-never-said/[fake Churchill quote]:
+
+____
+The best argument against democracy is a five minute conversation with the average voter.
+____
+
+Art Spander:
+
+____
+The great thing about democracy is that it gives every voter a chance to do something stupid.
+____
+
+Laurence J Peter:
+
+____
+
+Democracy is a process by which the people are free to choose the man who will get the blame.
+____
 
 ===== The Chinese masses are not interested in politics and therefore not ready to vote
 
@@ -310,6 +338,21 @@ image::http://web.archive.org/web/20191220204455if_/https://pbs.twimg.com/media/
 
 .Translation by Ciro Santilli of the Rebel Pepper cartoon about the pig who does not care about politics because it cannot be eaten.
 image::{cirosantilli-media-base}/Rebel_pepper_pig_can%27t_eat_democracy_cartoon_translated_to_English_by_Ciro_Santilli.jpg[height=600]
+
+[[corruption]]
+==== Democracies have less corruption than dictatorships
+
+One of the key points of <<xi-jinping,Xi Jinping's>> governments has been to quench corruption. And use that as an excuse to get rid of rivals while at it.
+
+However, there is one much better solution to that: democracy and freedom of speech.
+
+The reason is obvious: with censorship, corrupt politicians can <<internal-censorship,internal censorship>> anything bad that they did, and so it becomes much harder to destroy corruption.
+
+In George Bernard Shaw's "Maxims for Revolutionists" words:
+
+____
+Democracy substitutes election <<uneducated-masses,by the incompetent many>> for corruption,appointment by the corrupt few.
+____
 
 [[effective]]
 === Will the keyword attacks really help to destroy the firewall?
@@ -1362,7 +1405,7 @@ For "violence is illegal" arguments, see also: <<follow-the-law>>.
 
 Basically same discussion as: <<violence>> but with the tables turned.
 
-See also: <<the-chinese-masses-are-not-interested-in-politics-and-therefore-not-ready-to-vote>>
+See also: <<uneducated-masses>>
 
 [[dictatorship]]
 === Why does Ciro Santilli say that China is a dictatorship? 中国不是独裁！
@@ -3264,11 +3307,14 @@ CNN video of Tank Man: https://www.youtube.com/watch?v=YeFzeNAHEhU[] but not sho
 
 Several quick cuts by CBS news that give a good overview: https://www.youtube.com/watch?v=vSbx352cn8A
 
-Tank man song (坦克人) by Xu Lin (徐琳): https://www.youtube.com/watch?v=z8A623aImt8
+Tank man song (坦克人歌曲) by Xu Lin (徐琳): https://www.youtube.com/watch?v=z8A623aImt8
 
 ____
 我是坦克人
 站在天安门
+
+I am tank man
+I stand at Tiananmen
 ____
 
 Full lyrics: https://gist.github.com/cirosantilli/698afcd05c5ad94297000f8c60b43473
@@ -3588,7 +3634,7 @@ Should this person just be put into jail as is done currently? Do you really thi
 
 When citizens stop trying to contribute due to fear, this is known as the https://en.wikipedia.org/wiki/Chilling_effect[chilling effect (寒蝉效应)].
 
-What if a <<is-chinese-politician-x-evil,politician>> does something bad, and suppresses the news to protect themselves?
+What if a <<is-chinese-politician-x-evil,politician>> does something bad, and <<corruption,suppresses the news to protect themselves>>?
 
 Without freedom of speech, who will watch over the actions of those in power? https://en.wikipedia.org/wiki/Quis_custodiet_ipsos_custodes%3F[Quis custodiet ipsos custodes?]
 
