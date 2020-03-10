@@ -186,7 +186,7 @@ Or maybe why not go out on the street with a t-shirt about a censored subject an
 .Activist Quan Ping (Kwon Pyong) wore a <<nazi,Xitler>> t-shirt in public and posted photos online. It did not end well for him. https://www.frontlinedefenders.org/en/profile/kwon-pyong[Front Line Defenders profile]. https://www.rfa.org/english/news/china/xi-jinping-tshirt-activist-confirmed-held-in-northeast-china-detention-center-12082016110338.html[Source].
 image::https://web.archive.org/web/20170630212420im_/http://www.rfa.org/english/news/china/activist-11022016120902.html/china-xitler-nov22016.jpg/image[height=400]
 
-.Activist Liu Shihui wore a "One-party rule is a disaster" (TODO in Chinese) in 2009. This is a quote from a <<chinese-government-media,Xinhua News>> editorial from the 1940s. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang’s one-party dictatorship, but the CP will not establish a one-party dictatorship". https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
+.Activist Liu Shihui (刘士辉) wore a "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/%E3%80%90%E5%8E%86%E5%8F%B2%E7%9A%84%E5%85%88%E5%A3%B0%E3%80%91%E4%B8%80%E5%85%9A%E7%8B%AC%E8%A3%81%EF%BC%8C%E9%81%8D%E5%9C%B0%E6%98%AF%E7%81%BE/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang’s one-party dictatorship, but the CP will not establish a one-party dictatorship". https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
 image::http://web.archive.org/web/20200309101601im_/http://scd.observers.france24.com/files/images/090521%20china%20I.preview.jpg[height=500]
 
 ===== Censorship makes countries poorer
@@ -955,6 +955,33 @@ image::http://web.archive.org/web/20191012100528im_/https://i.guim.co.uk/img/med
 
 .Comparison image between Xi Jinping on a car in a 2015 military parade and a toy Winnie-the-Pooh on a car. https://www.bbc.co.uk/news/blogs-china-blog-40627855[Source].
 image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/news/624/cpsprodpb/DD1F/production/_96970665_4587b36b-011f-4007-b16f-34389d385aec.jpg[height=400]
+
+[[jiang-zemin]]
+===== Jiang Zemin 江泽民
+
+https://en.wikipedia.org/wiki/Jiang_Zemin
+https://zh.wikipedia.org/wiki/江泽民
+
+<<dictatorship,Dictator>> from 1989 to 2002.
+
+Jiang is often compared to a toad in a meme what is referred to as toad worship (膜蛤), further keywords: 蛤蟆
+
+* https://en.wikipedia.org/wiki/Toad_worship
+* https://zh.wikipedia.org/wiki/膜蛤文化
+
+.Comparison between Jiang Zemin and a 72-feet-tall inflatable toad in a Beijing park seen in 2014 made the rounds on Weibo and led to some <<censorship,censorship>>. https://edition.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html[Source].
+image::https://web.archive.org/web/20190928083410if_/https://cdn.cnn.com/cnnnext/dam/assets/140801124717-toad-jiang-zemin-split-horizontal-large-gallery.png[height=400]
+
+Jiang also has an amazing array of meme-ready funny expressions.
+
+.Jiang picking his nose. https://pieceofmindful.com/2013/12/12/chinese-exceptionalism/[Source].
+image::http://web.archive.org/web/20200310100413if_/https://pieceofmind.files.wordpress.com/2013/12/jiang-zemin-former-president-china.jpg[height=400]
+
+.Jiang reading through comically large magnifying glass during the opening ceremony of the https://en.wikipedia.org/wiki/19th_National_Congress_of_the_Communist_Party_of_China[19th Party Congress] in 2017. https://www.theguardian.com/world/2017/oct/18/back-from-the-dead-chinas-internet-goes-wild-over-youthful-jiang-zemin[Source].
+image::https://web.archive.org/web/20190111105703im_/https://i.guim.co.uk/img/media/0adcb9d8e3bd4593ce5075b4eee109f6cf3a3315/0_0_2048_1229/master/2048.jpg?width=620&quality=85&auto=format&fit=max&s=8e9f9a4929b37518887108431fa80981[height=400]
+
+.More Jiang funny expressions and Photoshops from a Research Gate page! https://www.researchgate.net/figure/Jiang-as-emoticons-often-used-in-chats_fig4_325864518[Source].
+image::http://web.archive.org/web/20200310101244im_/https://www.researchgate.net/profile/Kecheng_Fang/publication/325864518/figure/fig4/AS:650525523574786@1532108779265/Jiang-as-emoticons-often-used-in-chats.png[height=400]
 
 [[mao-zedong]]
 ===== Mao Zedong 毛泽东
@@ -1786,7 +1813,7 @@ News source: https://www.reddit.com/r/HongKong/ Became larger than `r/china` dur
 
 https://en.wikipedia.org/wiki/Hong_Kong_97_%28video_game%29
 
-1995 video game realistically depicts the fight of Hong Kong against the Communist Party predicted to happen https://en.wikipedia.org/wiki/Handover_of_Hong_Kong[at the handover], featuring Bruce Lee (often represented as Jackie Chan) who returned from the grave to join the fight and kick Jiang Zemin's ass.
+1995 video game realistically depicts the fight of Hong Kong against the Communist Party predicted to happen https://en.wikipedia.org/wiki/Handover_of_Hong_Kong[at the handover], featuring Bruce Lee (often represented as Jackie Chan) who returned from the grave to join the fight and kick <<jiang-zemin,Jiang Zemin's>> ass.
 
 The dead body from the game over screen was taken from a still from a video of the https://en.wikipedia.org/wiki/Bosnian_War[1992 Bosnian War]: https://www.youtube.com/watch?v=WCDWyzZyNdw
 
@@ -2243,12 +2270,16 @@ ____
 
 https://www.quora.com/profile/Ciro-Santilli
 
-* 2016 blocked Chinese keywords on both my username and credentials. Justification: non-English.
-* 2017 created on in English: Cook Tiananmen Square Noodle Shop.
+Quora is a generally shitty website, with mechanisms that allow wumaos to quench freedom of speech, besides being generally a mess and automatically adding random topics that you don't care about to your suggestions, with no easy way to prevent that. 
+
+* 2016 Ciro Santilli's profile was blocked because it had Chinese keywords on both my username and credentials. Justification: non-English.
+* 2017 created one in English: Cook Tiananmen Square Noodle Shop.
 +
 Added my Noodle shop to maps: https://www.google.co.uk/maps/place/Tiananmen+Square+Noodle+Shop/@60.6132538,15.6687509,15z/data=!4m5!3m4!1s0x0:0x94603408e3c63fb3!8m2!3d60.6132538!4d15.6687509
 +
-Leaches that picked it up: http://kvalster.se/Falu/Uthyres/Lagenheter/Gammelvagen_49_1417351
+Leach websites that picked it up: http://kvalster.se/Falu/Uthyres/Lagenheter/Gammelvagen_49_1417351
+
+Quora is also shitty because wumaos can downvote your answer privately and make it become collapsed as "Answer may need improvement" and you then have to appeal. This happened for example at: https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli Appealed 2020-03-10 and awaiting reply.
 
 [[ptt]]
 ==== PTT Bulletin Board System 批踢踢實業坊
@@ -3276,6 +3307,9 @@ image::https://web.archive.org/web/20190714002904im_/https://s.abcnews.com/image
 .Corpses by the road in after the Tiananmen Square Protests were crushed. http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[Source].
 image::https://web.archive.org/web/20190607142501im_/http://www.ursulagauthier.fr/wp-content/uploads/2014/10/Tiananmen-7-715x1024.jpg[height=600]
 
+.Godzilla https://en.wikipedia.org/wiki/Li_Peng[Li Peng (李鹏)] crushing the Tiananmen Square protests with his green eye laser beams. https://en.uncyclopedia.co/wiki/File:Li_at_Tiananmen_Eyebeams.jpg[Source].
+image::https://web.archive.org/save/_embed/https://images.uncyclomedia.co/uncyclopedia/en/d/dd/Li_at_Tiananmen_Eyebeams.jpg[height=400]
+
 [[tiananmen-songs]]
 ===== Tiananmen Square Protests songs 六四事件歌曲
 
@@ -3532,6 +3566,10 @@ Related:
 ** http://www.voachinese.com/
 ** http://www.voacantonese.com/
 
+Partial support:
+
+* https://en.wikipedia.org/wiki/Boxun https://zh.wikipedia.org/wiki/博讯
+
 [[radio-free-asia]]
 ===== Radio Free Asia 自由亚洲电台
 
@@ -3554,7 +3592,7 @@ Interesting videos that were deleted / made private since I added them:
 [[funny]]
 == Funny 搞笑
 
-Humour is the greatest weapon against dictators:
+Humour is the greatest weapon against <<dictatorship,dictators>>:
 
 * <<xi-jinping>>
 ** <<chrysanthemium-xi-jinping>>
