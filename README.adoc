@@ -169,26 +169,6 @@ Definitely, the current regime is better than Mao's, but just imagine how rich C
 
 Imperial China lost the race for the Industrial Revolution. Will another dictatorship be able to stay on top of the next technological revolution?
 
-===== China has more freedom of speech than the USA!
-
-When you hear that online, it really makes you wonder if those people believe it or are paid to say it.
-
-Luckly, this is easy to verify: just create an online account on a Chinese website, and start posting about censored political subjects, and wait for your account to get banned.
-
-Then create an account on an American website, and start posting about censored political subjects. The first good question is: what will you post about since no political subject is censored?
-
-Here is one concrete and well documented example: <<zhihu-purge>>.
-
-Or maybe why not go out on the street with a t-shirt about a censored subject and share some photos online? https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli Some cases where that didn't end well for them:
-
-* 2017 Li Xiaoling (李小玲) <<tiananmen,Tianmen>> T-shirt: https://www.nchrd.org/2017/10/li-xiaoling/
-
-.Activist Quan Ping (Kwon Pyong) wore a <<nazi,Xitler>> t-shirt in public and posted photos online. It did not end well for him. https://www.frontlinedefenders.org/en/profile/kwon-pyong[Front Line Defenders profile]. https://www.rfa.org/english/news/china/xi-jinping-tshirt-activist-confirmed-held-in-northeast-china-detention-center-12082016110338.html[Source].
-image::https://web.archive.org/web/20170630212420im_/http://www.rfa.org/english/news/china/activist-11022016120902.html/china-xitler-nov22016.jpg/image[height=400]
-
-.Activist Liu Shihui (刘士辉) wore a "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/%E3%80%90%E5%8E%86%E5%8F%B2%E7%9A%84%E5%85%88%E5%A3%B0%E3%80%91%E4%B8%80%E5%85%9A%E7%8B%AC%E8%A3%81%EF%BC%8C%E9%81%8D%E5%9C%B0%E6%98%AF%E7%81%BE/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang’s one-party dictatorship, but the CP will not establish a one-party dictatorship". https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
-image::http://web.archive.org/web/20200309101601im_/http://scd.observers.france24.com/files/images/090521%20china%20I.preview.jpg[height=500]
-
 ===== Censorship makes countries poorer
 
 <<dictatorship,Dictatorships>> need <<censorship>> to survive, and they must control all information to make themselves always look good: <<dictator-needs-gfw>>.
@@ -903,109 +883,6 @@ The best definition of evil is a psychopath with zero empathy for anyone: https:
 The huge majority of those politicians are just regular dudes with a knack for politics but brought up in a fucked up political situation.
 
 Just like you, Ciro Santilli and other politicians in any country.
-
-[[xi-jinping]]
-===== Xi Jinping 习近平
-
-https://en.wikipedia.org/wiki/Xi_Jinping
-
-[[chrysanthemium-xi-jinping]]
-====== Chrysanthemium Xi Jinping 菊花习近平
-
-Got creator Dai Jianyong (戴建勇) arrested in 2015:
-
-* https://www.independent.co.uk/news/world/asia/chinese-artist-who-posted-funny-image-of-president-xi-jinping-facing-five-years-in-prison-as-10282630.html
-* https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/
-
-.Chrysanthemum Xi Jinping with <<tiananmen,六四>> spice added by Ciro Santilli
-image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
-
-.Original Chrysanthemum Xi Jinping by Dai Jianyong published in 2015. https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/[Source].
-image::https://web.archive.org/web/20200113200256im_/https://chinadigitaltimes.net/wp-content/uploads/2015/05/daijianyong.jpeg[height=400]
-
-.Possible original Xi Jinping photo used for Chrysanthemum Xi, possibly from 2012. The light blue gradient background was used for the official photos of many Communist officials of the era. http://content.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112111,00.html[Source].
-image::https://web.archive.org/web/20190417164247im_/http://img.timeinc.net/time/2012/t100/t100_xi_alt.jpg[height=400]
-
-====== Xi abolishes term limits 2018-03
-
-* 包子露宪 https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution
-* https://www.nytimes.com/2018/03/10/world/asia/china-xi-jinping-term-limit-explainer.html
-
-.<<rebel-pepper>> cartoon showing Xi Jinping preparing to sleep in https://en.wikipedia.org/wiki/Mausoleum_of_Mao_Zedong[Mao Zedong's tomb], meaning that Xi also wants to reach Mao's "eternal ruler" status when he abolished term limits in 2018. https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html[Source].
-image::https://web.archive.org/web/20191013080140if_/https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html/180227RFA-XiJinping-Eternity.jpg[height=400]
-
-.1977 photo showing Mao's actual glass tomb during his funeral, with famous politicians in the background. It is interesting to see that Mao https://mummipedia.fandom.com/wiki/Mao_Zedong[features on the "Fandom Mummipedia Wiki"]. https://apnews.com/a94a0d7a824b474fb11545e8c4481c21[Source].
-image::https://web.archive.org/web/20200121105502if_/https://storage.googleapis.com/afs-prod/media/media:c65bb5f4e2664bb88aae7881f8adbba0/800.jpeg[height=400]
-
-.https://en.wikipedia.org/wiki/The_Economist[The Economist] "Let’s party like it’s 1793" cover from May 4th – 10th 2013 depicting a painting of Xi Jinping dressed as emperor of China. The famous https://en.wikipedia.org/wiki/Qianlong_Empero[Qianlong Emperor] was in power at that time. The title is likely a joke based on the more well known https://www.independent.co.uk/arts-entertainment/music/features/party-like-its-1969-woodstock-forty-years-on-1722695.html["Let's party like it's 1969"] due to the legendary https://en.wikipedia.org/wiki/Woodstock[Woodstock festival]. Party is also a play on words between the Communist Party and a night party. TODO why 1793 specifically. https://twitter.com/TheEconomist/status/329929668155293696[Source].
-image::https://web.archive.org/web/20200225220314/https://pbs.twimg.com/media/BJQlSP_CQAA52BG?format=jpg[height=600]
-
-[[winnie-the-pooh]]
-====== Comparisons between Xi Jinping and Winnie-the-Pooh 小熊維尼
-
-Got censored due to comparisons between Xi Jinping and Winnie in 2017: https://en.wikipedia.org/wiki/Winnie-the-Pooh#Censorship_in_China
-
-Some good photoshops:
-
-.Comparison image between Xi Jinping waking with then USA president https://en.wikipedia.org/wiki/Barack_Obama[Barack Obama] with a Winnie-the-Pooh cartoon still of Winnie walking with https://en.wikipedia.org/wiki/Tigger[Tigger, the tiger]. The original photo is from https://www.abc.net.au/news/2013-06-09/obama2c-xi-forge-rapport-in-debut-summit/4742616[Xi's 2013 visit to the Annenberg Retreat at Sunnylands, California]. https://www.telegraph.co.uk/news/2017/07/17/oh-bother-chinese-censors-block-winnie-pooh-meme-comparing-xi/[Source].
-image::https://web.archive.org/web/20170801011641if_/http://i.telegraph.co.uk/multimedia/archive/02590/TIGGER_2590531b.jpg[height=400]
-
-.Comparison image between Xi Jinping shaking hands with https://en.wikipedia.org/wiki/Shinz%C5%8D_Abe[the Japanese prime minister Shinzo Abe] and a Winnie-the-Pooh cartoon still of Winnie shaking hands with the https://en.wikipedia.org/wiki/Eeyore[Eeyore, the donkey]. The original photo is from https://www.nytimes.com/2014/11/11/world/asia/leaders-of-china-and-japan-hold-long-awaited-meeting.html[Abe's lacklustre 2014 visit to Beijing]. https://www.theguardian.com/world/2018/aug/07/china-bans-winnie-the-pooh-film-to-stop-comparisons-to-president-xi[Source].
-image::http://web.archive.org/web/20191012100528im_/https://i.guim.co.uk/img/media/84b60992d857bccf54c384e4ebeb0ea7f207246b/37_0_752_451/master/752.jpg?width=620&quality=85&auto=format&fit=max&s=e33410b2fb10c3d6de6a6ed65b6a7d8e[height=400]
-
-.Comparison image between Xi Jinping on a car in a 2015 military parade and a toy Winnie-the-Pooh on a car. https://www.bbc.co.uk/news/blogs-china-blog-40627855[Source].
-image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/news/624/cpsprodpb/DD1F/production/_96970665_4587b36b-011f-4007-b16f-34389d385aec.jpg[height=400]
-
-[[jiang-zemin]]
-===== Jiang Zemin 江泽民
-
-https://en.wikipedia.org/wiki/Jiang_Zemin
-https://zh.wikipedia.org/wiki/江泽民
-
-<<dictatorship,Dictator>> from 1989 to 2002.
-
-Jiang is often compared to a toad in a meme what is referred to as toad worship (膜蛤), further keywords: 蛤蟆
-
-* https://en.wikipedia.org/wiki/Toad_worship
-* https://zh.wikipedia.org/wiki/膜蛤文化
-
-.Comparison between Jiang Zemin and a 72-feet-tall inflatable toad in a Beijing park seen in 2014 made the rounds on Weibo and led to some <<censorship,censorship>>. https://edition.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html[Source].
-image::https://web.archive.org/web/20190928083410if_/https://cdn.cnn.com/cnnnext/dam/assets/140801124717-toad-jiang-zemin-split-horizontal-large-gallery.png[height=400]
-
-Jiang also has an amazing array of meme-ready funny expressions.
-
-.Jiang picking his nose. https://pieceofmindful.com/2013/12/12/chinese-exceptionalism/[Source].
-image::http://web.archive.org/web/20200310100413if_/https://pieceofmind.files.wordpress.com/2013/12/jiang-zemin-former-president-china.jpg[height=400]
-
-.Jiang reading through comically large magnifying glass during the opening ceremony of the https://en.wikipedia.org/wiki/19th_National_Congress_of_the_Communist_Party_of_China[19th Party Congress] in 2017. https://www.theguardian.com/world/2017/oct/18/back-from-the-dead-chinas-internet-goes-wild-over-youthful-jiang-zemin[Source].
-image::https://web.archive.org/web/20190111105703im_/https://i.guim.co.uk/img/media/0adcb9d8e3bd4593ce5075b4eee109f6cf3a3315/0_0_2048_1229/master/2048.jpg?width=620&quality=85&auto=format&fit=max&s=8e9f9a4929b37518887108431fa80981[height=400]
-
-.More Jiang funny expressions and Photoshops from a Research Gate page! https://www.researchgate.net/figure/Jiang-as-emoticons-often-used-in-chats_fig4_325864518[Source].
-image::http://web.archive.org/web/20200310101244im_/https://www.researchgate.net/profile/Kecheng_Fang/publication/325864518/figure/fig4/AS:650525523574786@1532108779265/Jiang-as-emoticons-often-used-in-chats.png[height=400]
-
-[[mao-zedong]]
-===== Mao Zedong 毛泽东
-
-* https://en.wikipedia.org/wiki/Mao_Zedong
-* https://zh.wikipedia.org/wiki/毛泽东
-
-.Mao Zedong in Yan'an in the 1930's thinking deeply. This funny looking picture is meme ready and https://uncyclopedia.ca/wiki/Chairman_Mao[much loved by Uncyclopedia]. https://commons.wikimedia.org/wiki/File:Mao_Zedong_in_Yan%27an.jpg[Source].
-image::https://upload.wikimedia.org/wikipedia/commons/9/9d/Mao_Zedong_in_Yan%27an.jpg[height=400]
-
-[[great-leap-forward]]
-====== Great Leap Forward 大跃进 (1958-1960)
-
-* https://en.wikipedia.org/wiki/Great_Leap_Forward
-* https://zh.wikipedia.org/wiki/大跃进
-
-.A high tower of https://en.wikipedia.org/wiki/Wax_gourd[winter gourds] "冬瓜上高楼" propaganda poster for the Great Leap Forward by https://chineseposters.net/artists/jinmeisheng.php[Jin Meisheng] published in 1959. <<western-democracies-are-not-perfect,Even in democracies>>, politicians promise the fat gourds. But when there is <<censorship,no free media to control their>> lies, things can get really out of hand. http://www.iisg.nl/exhibitions/chairman/chn11.php[Source].
-image::https://web.archive.org/web/20200131210244/https://live.staticflickr.com/4135/4754681204_1784cd9f89_w.jpg[height=600]
-
-[[cultural-revolution]]
-====== Cultural Revolution 文化大革命 (1966-1976)
-
-* https://en.wikipedia.org/wiki/Cultural_Revolution
-* https://zh.wikipedia.org/wiki/文化大革命
 
 [[nazi]]
 === Comparisons between the CCP and Nazi Germany 纳粹德国
@@ -1954,7 +1831,15 @@ image::http://web.archive.org/web/20190814074955/https://i.redd.it/nodgcqmwtcg31
 
 When you report something about a person, for fuck's sake include the person's name in the title of the article, at the very least the pinyin.
 
-Yes, Chinese people also have names.
+Then, in the body, also add the corresponding Chinese characters on the first mention. This is how you do it: "San Xihou (三西猴)"
+
+Yes, Chinese people also have names. And yes, pinyin has infinitely more homonyms than characters.
+
+In the body of the article, notably in photos, include the exact location of the event if applicable.
+
+City at the very least, but if recognizable, where withing the city.
+
+Yes, China is big! There are many different places in China.
 
 ==== Companies that comply to Chinese censorship requests
 
@@ -2270,7 +2155,7 @@ ____
 
 https://www.quora.com/profile/Ciro-Santilli
 
-Quora is a generally shitty website, with mechanisms that allow wumaos to quench freedom of speech, besides being generally a mess and automatically adding random topics that you don't care about to your suggestions, with no easy way to prevent that. 
+Quora is a generally shitty website, with mechanisms that allow wumaos to quench freedom of speech.
 
 * 2016 Ciro Santilli's profile was blocked because it had Chinese keywords on both my username and credentials. Justification: non-English.
 * 2017 created one in English: Cook Tiananmen Square Noodle Shop.
@@ -2279,12 +2164,17 @@ Added my Noodle shop to maps: https://www.google.co.uk/maps/place/Tiananmen+Squa
 +
 Leach websites that picked it up: http://kvalster.se/Falu/Uthyres/Lagenheter/Gammelvagen_49_1417351
 
-Quora is also shitty because wumaos can downvote your answer privately and make it become collapsed as "Answer may need improvement" and you then have to appeal. This happened for example at: https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli Appealed 2020-03-10 and awaiting reply.
+Quora is also shitty because wumaos can downvote your answer privately regardless of reputation and make it become collapsed as "Answer may need improvement", which means it goes to the bottom and readers have to click an "expand collapsed answers" button to see it, so that very few people will ever see it. Then have to appeal and wait for moderators to evaluate it. This happened for example at: https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli (see also <<t-shirt>>). Ciro appealed in 2020-03-10 and the answer was reinstated on day later, but by then the question was already not being suggested as much to readers, and the other wumao answers (which criticize the USA rather than answering the question)
+
+Other shitty aspects of Quora include:
+
+* automatically add random topics that you don't care about to your suggestions, with no easy way to prevent that.
+* questions cannot have more than one sentence. There used to be a question body, but it was replaced with a "link for context". Ridiculous.
 
 [[ptt]]
 ==== PTT Bulletin Board System 批踢踢實業坊
 
-Popular <<taiwan,Taiwanese>> forum system and server from 1995, pre HTML, works from telnet terminal, so likely very programmer heavy, and ovbiouvly anti-CCP.
+Popular <<taiwan,Taiwanese>> forum system and server from 1995, pre HTML, works from telnet terminal, so likely very programmer heavy, and obviously anti-CCP, as of 2020 often shows <<falun-gong>> ads.
 
 * https://en.wikipedia.org/wiki/PTT_Bulletin_Board_System
 * https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2
@@ -3122,6 +3012,130 @@ Visual ads on the street on Internet I can stand, but not any kind of advertisin
 * https://www.quora.com/Why-is-the-Chinese-government-against-Falun-Gong
 * http://www.zhihu.com/question/23988890 (https://web.archive.org/web/20160311140407/https://www.zhihu.com/question/23988890[archive]) "全能神教在境外，法轮功也在境外，为什么他们不祸害境外人民、偏偏只祸害大陆人？"
 
+[[politicians]]
+== Politicians 政治家
+
+[[xi-jinping]]
+=== Xi Jinping 习近平
+
+https://en.wikipedia.org/wiki/Xi_Jinping
+
+==== Xi abolishes term limits 2018-03
+
+* 包子露宪 https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution
+* https://www.nytimes.com/2018/03/10/world/asia/china-xi-jinping-term-limit-explainer.html
+
+.<<rebel-pepper>> cartoon showing Xi Jinping preparing to sleep in https://en.wikipedia.org/wiki/Mausoleum_of_Mao_Zedong[Mao Zedong's tomb], meaning that Xi also wants to reach Mao's "eternal ruler" status when he abolished term limits in 2018. https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html[Source].
+image::https://web.archive.org/web/20191013080140if_/https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html/180227RFA-XiJinping-Eternity.jpg[height=400]
+
+.1977 photo showing Mao's actual glass tomb during his funeral, with famous politicians in the background. It is interesting to see that Mao https://mummipedia.fandom.com/wiki/Mao_Zedong[features on the "Fandom Mummipedia Wiki"]. https://apnews.com/a94a0d7a824b474fb11545e8c4481c21[Source].
+image::https://web.archive.org/web/20200121105502if_/https://storage.googleapis.com/afs-prod/media/media:c65bb5f4e2664bb88aae7881f8adbba0/800.jpeg[height=400]
+
+.https://en.wikipedia.org/wiki/The_Economist[The Economist] "Let’s party like it’s 1793" cover from May 4th – 10th 2013 depicting a painting of Xi Jinping dressed as emperor of China. The famous https://en.wikipedia.org/wiki/Qianlong_Empero[Qianlong Emperor] was in power at that time. The title is likely a joke based on the more well known https://www.independent.co.uk/arts-entertainment/music/features/party-like-its-1969-woodstock-forty-years-on-1722695.html["Let's party like it's 1969"] due to the legendary https://en.wikipedia.org/wiki/Woodstock[Woodstock festival]. Party is also a play on words between the Communist Party and a night party. TODO why 1793 specifically. https://twitter.com/TheEconomist/status/329929668155293696[Source].
+image::https://web.archive.org/web/20200225220314/https://pbs.twimg.com/media/BJQlSP_CQAA52BG?format=jpg[height=600]
+
+[[xi-jinping-memes]]
+==== Xi Jinping memes 习近平模因
+
+* 習包子: https://languagelog.ldc.upenn.edu/nll/?p=29230 says:
++
+____
+Xi Jinping got his nickname as "Xí bāozi 習包子" ("steamed stuffed bun Xi") due to the much publicized visit he made to the famous Qìngfēng bāozi pù 庆丰包子铺 ("Qingfeng baozi shop") in Beijing.  During and after his visit to the shop, media swarmed over the place and were eager to portray an image of Xi as being down to earth and close to the people.  Those who dislike Xi use this nickname sarcastically against him for being a hick and for hypocritically "putting on a show" (zuòxiù 作秀).
+____
++
+See also: <<buns>>.
+* 大撒币: https://languagelog.ldc.upenn.edu/nll/?p=29230 says:
++
+____
+It can be translated as "big spender," a play on the literal translation of the words sā bì 撒币 "throw money" and "stupid cunt" (shǎ bī 傻逼). The nickname takes aim at the economic aid Xi has promised to foreign countries; the moniker is so widely used on Chinese social media that the censors' repressive measures only draw more attention to it, and to the criticism embedded within it.
+____
++
+See also: <<shitpost>>.
+
+[[chrysanthemium-xi-jinping]]
+===== Chrysanthemium Xi Jinping 菊花习近平
+
+Got creator Dai Jianyong (戴建勇) arrested in 2015:
+
+* https://www.independent.co.uk/news/world/asia/chinese-artist-who-posted-funny-image-of-president-xi-jinping-facing-five-years-in-prison-as-10282630.html
+* https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/
+
+.Chrysanthemum Xi Jinping with <<tiananmen,六四>> spice added by Ciro Santilli
+image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
+
+.Original Chrysanthemum Xi Jinping by Dai Jianyong published in 2015. https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/[Source].
+image::https://web.archive.org/web/20200113200256im_/https://chinadigitaltimes.net/wp-content/uploads/2015/05/daijianyong.jpeg[height=400]
+
+.Possible original Xi Jinping photo used for Chrysanthemum Xi, possibly from 2012. The light blue gradient background was used for the official photos of many Communist officials of the era. http://content.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112111,00.html[Source].
+image::https://web.archive.org/web/20190417164247im_/http://img.timeinc.net/time/2012/t100/t100_xi_alt.jpg[height=400]
+
+[[winnie-the-pooh]]
+===== Comparisons between Xi Jinping and Winnie-the-Pooh 小熊維尼
+
+Got censored due to comparisons between Xi Jinping and Winnie in 2017: https://en.wikipedia.org/wiki/Winnie-the-Pooh#Censorship_in_China
+
+Some good photoshops:
+
+.Comparison image between Xi Jinping waking with then USA president https://en.wikipedia.org/wiki/Barack_Obama[Barack Obama] with a Winnie-the-Pooh cartoon still of Winnie walking with https://en.wikipedia.org/wiki/Tigger[Tigger, the tiger]. The original photo is from https://www.abc.net.au/news/2013-06-09/obama2c-xi-forge-rapport-in-debut-summit/4742616[Xi's 2013 visit to the Annenberg Retreat at Sunnylands, California]. https://www.telegraph.co.uk/news/2017/07/17/oh-bother-chinese-censors-block-winnie-pooh-meme-comparing-xi/[Source].
+image::https://web.archive.org/web/20170801011641if_/http://i.telegraph.co.uk/multimedia/archive/02590/TIGGER_2590531b.jpg[height=400]
+
+.Comparison image between Xi Jinping shaking hands with https://en.wikipedia.org/wiki/Shinz%C5%8D_Abe[the Japanese prime minister Shinzo Abe] and a Winnie-the-Pooh cartoon still of Winnie shaking hands with the https://en.wikipedia.org/wiki/Eeyore[Eeyore, the donkey]. The original photo is from https://www.nytimes.com/2014/11/11/world/asia/leaders-of-china-and-japan-hold-long-awaited-meeting.html[Abe's lacklustre 2014 visit to Beijing]. https://www.theguardian.com/world/2018/aug/07/china-bans-winnie-the-pooh-film-to-stop-comparisons-to-president-xi[Source].
+image::http://web.archive.org/web/20191012100528im_/https://i.guim.co.uk/img/media/84b60992d857bccf54c384e4ebeb0ea7f207246b/37_0_752_451/master/752.jpg?width=620&quality=85&auto=format&fit=max&s=e33410b2fb10c3d6de6a6ed65b6a7d8e[height=400]
+
+.Comparison image between Xi Jinping on a car in a 2015 military parade and a toy Winnie-the-Pooh on a car. https://www.bbc.co.uk/news/blogs-china-blog-40627855[Source].
+image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/news/624/cpsprodpb/DD1F/production/_96970665_4587b36b-011f-4007-b16f-34389d385aec.jpg[height=400]
+
+[[jiang-zemin]]
+=== Jiang Zemin 江泽民
+
+https://en.wikipedia.org/wiki/Jiang_Zemin
+https://zh.wikipedia.org/wiki/江泽民
+
+<<dictatorship,Dictator>> from 1989 to 2002.
+
+Jiang is often compared to a toad in a meme what is referred to as toad worship (膜蛤), further keywords: 蛤蟆
+
+* https://en.wikipedia.org/wiki/Toad_worship
+* https://zh.wikipedia.org/wiki/膜蛤文化
+
+Jiang also has an amazing array of meme-ready funny expressions.
+
+.Comparison between Jiang Zemin and a 72-feet-tall inflatable toad in a Beijing park seen in 2014 made the rounds on Weibo and led to some <<censorship,censorship>>. https://edition.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html[Source].
+image::https://web.archive.org/web/20190928083410if_/https://cdn.cnn.com/cnnnext/dam/assets/140801124717-toad-jiang-zemin-split-horizontal-large-gallery.png[height=400]
+
+.Jiang picking his nose. https://pieceofmindful.com/2013/12/12/chinese-exceptionalism/[Source].
+image::http://web.archive.org/web/20200311093005if_/https://pieceofmind.files.wordpress.com/2013/12/jiang-zemin-former-president-china.jpg[height=400]
+
+.Jiang reading through comically large magnifying glass during the opening ceremony of the https://en.wikipedia.org/wiki/19th_National_Congress_of_the_Communist_Party_of_China[19th Party Congress] in 2017. https://www.theguardian.com/world/2017/oct/18/back-from-the-dead-chinas-internet-goes-wild-over-youthful-jiang-zemin[Source].
+image::https://web.archive.org/web/20190111105703im_/https://i.guim.co.uk/img/media/0adcb9d8e3bd4593ce5075b4eee109f6cf3a3315/0_0_2048_1229/master/2048.jpg?width=620&quality=85&auto=format&fit=max&s=8e9f9a4929b37518887108431fa80981[height=400]
+
+.More Jiang funny expressions and Photoshops from a Research Gate page! https://www.researchgate.net/figure/Jiang-as-emoticons-often-used-in-chats_fig4_325864518[Source].
+image::https://web.archive.org/web/20200311092251if_/https://www.researchgate.net/profile/Kecheng_Fang/publication/325864518/figure/fig4/AS:650525523574786@1532108779265/Jiang-as-emoticons-often-used-in-chats.png[height=400]
+
+[[mao-zedong]]
+=== Mao Zedong 毛泽东
+
+* https://en.wikipedia.org/wiki/Mao_Zedong
+* https://zh.wikipedia.org/wiki/毛泽东
+
+.Mao Zedong in Yan'an in the 1930's thinking deeply. This funny looking picture is meme ready and https://uncyclopedia.ca/wiki/Chairman_Mao[much loved by Uncyclopedia]. https://commons.wikimedia.org/wiki/File:Mao_Zedong_in_Yan%27an.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/9/9d/Mao_Zedong_in_Yan%27an.jpg[height=400]
+
+[[great-leap-forward]]
+==== Great Leap Forward 大跃进 (1958-1960)
+
+* https://en.wikipedia.org/wiki/Great_Leap_Forward
+* https://zh.wikipedia.org/wiki/大跃进
+
+.A high tower of https://en.wikipedia.org/wiki/Wax_gourd[winter gourds] "冬瓜上高楼" propaganda poster for the Great Leap Forward by https://chineseposters.net/artists/jinmeisheng.php[Jin Meisheng] published in 1959. <<western-democracies-are-not-perfect,Even in democracies>>, politicians promise the fat gourds. But when there is <<censorship,no free media to control their>> lies, things can get really out of hand. http://www.iisg.nl/exhibitions/chairman/chn11.php[Source].
+image::https://web.archive.org/web/20200131210244/https://live.staticflickr.com/4135/4754681204_1784cd9f89_w.jpg[height=600]
+
+[[cultural-revolution]]
+==== Cultural Revolution 文化大革命 (1966-1976)
+
+* https://en.wikipedia.org/wiki/Cultural_Revolution
+* https://zh.wikipedia.org/wiki/文化大革命
+
 [[news]]
 == News 新闻
 
@@ -3794,15 +3808,42 @@ In 2019, the European Union was considering making stricter laws about cyber sur
 .Cartoon showing how Amesys systems are used to suppress citizens in Egypt. Do you want the logo of your company to figure there instead? https://www.fidh.org/en/region/north-africa-middle-east/egypt/sale-of-surveillance-equipment-to-egypt-by-french-company-amesys[Source].
 *mage::https://web.archive.org/save/_embed/https://www.fidh.org/local/cache-gd2/86/564727cb219a210145a0dd6a1b7561.jpg?1556188970[]
 
+===== China has more freedom of speech than the USA!
+
+When you hear that online, it really makes you wonder if those people believe it or are paid to say it.
+
+Luckily, this is easy to verify: just create an online account on a Chinese website, and start posting about censored political subjects, and wait for your account to get banned.
+
+Then create an account on an American website, and start posting about censored political subjects. The first good question is: what will you post about since no political subject is censored?
+
+Here is one concrete and well documented example: <<zhihu-purge>>.
+
+Or maybe why not go out on the street in China with a T-shirt with censored words and share some photos online? <<t-shirt>>.
+
+[[t-shirt]]
+====== What happens if you wear a T-shirt with censored words in China?
+
+https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli See also: <<quora>>.
+
+Some cases where that didn't end well for them:
+
+* 2017 Li Xiaoling (李小玲) was arrested and released "on bail" for wearing a <<tiananmen,Tiananmen>> T-shirt: https://www.nchrd.org/2017/10/li-xiaoling/
+
+.In 2016 activist Quan Ping (Kwon Pyong,权平,https://twitter.com/kwonpyong[BraveJohnny]) was sent to jail for wearing a <<nazi,Xitler>>/<<xi-jinping-memes,習包子/大撒币>> t-shirt in public and posting selfies online. This photo is in front of a Government building (TODO exact location, reports say he is from https://en.wikipedia.org/wiki/Jilin_City[Jilin City 吉林] transcription of the sign on top of building: 诚信立市 https://baike.baidu.com/item/工业强市[工业强市] 依法治...) https://www.nytimes.com/2017/02/16/world/asia/china-xi-jinping-xitler-tshirt-kwon-pyong.html[New York Times coverage]. He was later sentenced and served 18 months in prison because of this: https://www.frontlinedefenders.org/en/profile/kwon-pyong[Front Line Defenders profile]. https://www.rfa.org/english/news/china/xi-jinping-tshirt-activist-confirmed-held-in-northeast-china-detention-center-12082016110338.html[Source].
+image::https://web.archive.org/web/20170630212420im_/http://www.rfa.org/english/news/china/activist-11022016120902.html/china-xitler-nov22016.jpg/image[height=400]
+
+.In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/%E3%80%90%E5%8E%86%E5%8F%B2%E7%9A%84%E5%85%88%E5%A3%B0%E3%80%91%E4%B8%80%E5%85%9A%E7%8B%AC%E8%A3%81%EF%BC%8C%E9%81%8D%E5%9C%B0%E6%98%AF%E7%81%BE/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang’s one-party dictatorship, but the CP will not establish a one-party dictatorship". He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
+image::http://web.archive.org/web/20200309101601im_/http://scd.observers.france24.com/files/images/090521%20china%20I.preview.jpg[height=500]
+
 ==== Censorship monitoring
 
 Projects that attempt to understand how the Great Firewall works and what it blocks:
 
 * https://en.wikipedia.org/wiki/Websites_blocked_in_mainland_China
-** https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A2%AB%E5%B0%81%E9%94%81%E7%BD%91%E7%AB%99%E5%88%97%E8%A1%A8 中华人民共和国被封锁网站列表
+** https://zh.wikipedia.org/wiki/中华人民共和国被封锁网站列表
 * http://greatfire.org/
 ** https://en.wikipedia.org/wiki/GreatFire
-** https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%BE%AE%E5%8D%9A
+** https://zh.wikipedia.org/wiki/自由微博
 ** https://freeweibo.com/ related project by the same organization, a Weibo archive it seems
 ** https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how made some noise at the time
 ** https://twitter.com/GreatFireChina
@@ -4507,6 +4548,100 @@ Not worth it:
 * Chez Chili
 +
 1050B rue Clark
+
+== The best Chinese supermarket food products
+
+For more daily needs, when you don't want to spend more money and time at a restaurant, here are a few nice things you can get from your local Chinese supermarket.
+
+[[dumplings]]
+=== Dumplings 饺子
+
+https://en.wikipedia.org/wiki/Jiaozi
+
+A staple food of North-east China.
+
+You can buy them frozen on bags with about 20 for about 4 dollars.
+
+Just boil 10-15 for 10 minutes and you have a decent ready-made meal!
+
+Can also be made by hand if you have the patience.
+
+<<ciro-santilli>> could basically eat those every 3-4 days and not get tired.
+
+[[buns]]
+=== Chinese buns 包子
+
+https://en.wikipedia.org/wiki/Baozi
+
+You can buy them frozen on bags with about 4 for about 4 dollars.
+
+The best way to heat them up by far is to steam.
+
+If you don't have a steaming pot, you can also put them on a bowl inside a regular pot with some water at the bottom, and close the lid.
+
+[[zongzi]]
+=== Zongzi 包子
+
+https://en.wikipedia.org/wiki/Zongzi
+
+Buy frozen. Pick the ones with meat and eggs!!! Boil.
+
+Cost about 4 dollars for 2.
+
+You can't eat them every day because too heavy, but they are so amazingly tasty!!!
+
+[[sunflower-seeds]]
+=== Sunflower seeds 瓜子
+
+https://en.wikipedia.org/wiki/Guazi
+
+They are roasted and prepared with some flavoring, often green tea.
+
+They are different from most Western ones you can find, because they tend to be harder, the seeds are not open.
+
+This is good because it makes you feel the flavour that was added to the skin.
+
+You have to learn how to open them with your front teeth.
+
+Once you do that, you start eating them nonstop like a machine until the bag is empty.
+
+https://en.wikipedia.org/wiki/Lao_Gan_Ma
+
+[[laoganma]]
+=== Lao Gan Ma crispy chilly oil 老干妈
+
+You can basically add it to any stir fried dish ever if it is too bland.
+
+The one with peanuts or black beans is also good.
+
+Just stay away from the Chicken flavoured one. https://www.urbandictionary.com/define.php?term=eww[Eww].
+
+[[hot-pot]]
+=== Hot pot 火锅
+
+https://en.wikipedia.org/wiki/Hot_pot
+
+You just have to buy:
+
+* a hot pot base soup
+* various kinds of frozen fish/meat balls
+* thin sliced frozen beef/lamb meat sold specifically for hot pot
+* leafy vegetables like Chinese cabbage or fresh Chinese mushrooms
+* you can also add some dry stuff like dried mushrooms or dry tofu products
+* sauces to put into a bowl and dip the cooked things in before putting them into your mouth. Could be either dedicated hot pot sauces, but sesame paste, soy sauce, vinegar and <<laoganma>> will already be good enough
+
+Put the electric rice cooker or a regular pot with a portable electric heater on the dining table.
+
+Boil the water with the soup, start with the harder to cook meaty things, and eat/add more as they become ready!
+
+Great fun  to do in winter with family and friends!
+
+There are also dedicated hot pot restaurants, but <<ciro-santilli>> is not a fun, since it feels much better to do it in the privacy of your home.
+
+YouTube explains it pretty well, no need for their fancy ying yang pans though, a rice cooker will do just fine:
+
+* https://www.youtube.com/watch?v=UQZcPyn-cDU ingredient choice
+* https://www.youtube.com/watch?v=Fqv9hNoiQEs shows the actual eating
 
 == Tips to learn Chinese
 
