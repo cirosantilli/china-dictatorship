@@ -226,7 +226,7 @@ The Chinese Government censored the initial outbreak, which likely made the situ
 Doctor Li Wenliang reported the virus, but was told by authorities to stay quiet, and later died from the virus, becoming somewhat of a martyr:
 
 * https://www.bbc.com/news/world-asia-china-51409801
-* https://chinadigitaltimes.net/chinese/2020/02/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E8%83%BD%E5%81%9A%E5%88%B0%E5%90%97%EF%BC%9F-%E4%BD%A0%E5%90%AC%E6%98%8E%E7%99%BD%E4%BA%86%E5%90%97%EF%BC%9F/
+* https://chinadigitaltimes.net/chinese/2020/02/【网络民议】你能做到吗？-你听明白了吗？/
 
 The following excerpt from his forced confession trended:
 
@@ -515,7 +515,10 @@ But isn't it better to be annoyed than having <<war,war>>, <<richer,being poor>>
 
 If the truth is too much for you to bear, worry not, you can use either:
 
-* this cool browser extension to clean up Stack Overflow: https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8
+* this cool browser extension to clean up Stack Overflow: https://greasyfork.org/en/scripts/32236-stackoverflow净化器 "StackOverflow净化器"
+** GitHub user with the same username: https://github.com/EternalPhane
+** http://web.archive.org/web/20181211094818/https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8
+** http://web.archive.org/web/20181211094917/https://greasyfork.org/en/forum/discussion/47981
 * a custom ad terminator expression shown at: https://github.com/cirosantilli/china-dictatorship/issues/87 `stackoverflow.com##a[href="/users/895245/ciro-santilli-%e6%96%b0%e7%96%86%e6%94%b9%e9%80%a0%e4%b8%ad%e5%bf%83%e6%b3%95%e8%bd%ae%e5%8a%9f%e5%85%ad%e5%9b%9b%e4%ba%8b%e4%bb%b6"]`
 
 Installing any of those immediately give you <<social-credit-system,10 Sesame Points>>, <<xi-abolishes-term-limits-2018-03,习万岁>>, 
@@ -621,7 +624,7 @@ His wife's family name is the very unusual 艾, pronounced "ai4", which she clai
 
 Ciro's father-in-law, who he barely met, was very old when he had his daughter, and passed away before Ciro could talk a lot with him, which is consistent with the claims that he spent several years in jail during <<mao-zedong,Mao's>> purges, see also: <<wife>>.
 
-.Ciro Santilli's portrait as Qing emperor. https://en.wikipedia.org/wiki/File:%E6%B8%85_%E9%83%8E%E4%B8%96%E5%AE%81%E7%BB%98%E3%80%8A%E6%B8%85%E9%AB%98%E5%AE%97%E4%B9%BE%E9%9A%86%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg[Original image].
+.Ciro Santilli's portrait as Qing emperor. https://en.wikipedia.org/wiki/File:清_郎世宁绘《清高宗乾隆帝朝服像》.jpg[Original image].
 image::{cirosantilli-media-base}/Ciro_Santilli_portrait_as_Qing_emperor.jpg[height=600]
 
 [[preconceived]]
@@ -818,7 +821,7 @@ Democracies cannot necessarily protect weak countries from powerful ones either.
 
 What democracy do is to protect its own people against its own government. Because when the government turns against part of the population in a dictatorship, that part of the population gets crushed entirely, without any chance to fight, because they don't have an army or ally countries like other countries do.
 
-Here are some images that wumao's like to post:
+Here are some images that <<wumao>>'s like to post:
 
 * Left Right Slaughterhouse comic: http://9gag.com/gag/ayn7KmW?ref=fbp
 
@@ -890,7 +893,7 @@ Just like you, Ciro Santilli and other politicians in any country.
 
 Keywords:
 
-* Xitler (习特勒). 习 "xi2" is very close in sound to the Chinese name of Hitler: https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E5%A4%AB%C2%B7%E5%B8%8C%E7%89%B9%E5%8B%92[希特勒] (xi1 te4 le4)
+* Xitler (习特勒). 习 "xi2" is very close in sound to the Chinese name of Hitler: https://zh.wikipedia.org/wiki/阿道夫·希特勒[希特勒] (xi1 te4 le4)
 * Chinazi (赤纳粹). TODO why 赤. Means Red, but where else is it used?
 * link:https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum[Reductio ad Hitlerum]
 
@@ -920,7 +923,7 @@ image::https://web.archive.org/web/20191013080031if_/https://pbs.twimg.com/media
 .Original photo of Hitler giving the Nazi salute from a car with Himmler on the background. https://en.wikipedia.org/wiki/File:Hitler-car.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Hitler-car.jpg/640px-Hitler-car.jpg[height=400]
 
-.Chinazi flag by <<2019-hong-kong-anti-extradition-bill-protests,Hong Kong protesters>>. Seen https://chinadigitaltimes.net/chinese/2019/08/%E3%80%90%E7%9B%9B%E4%B8%96%E4%B8%80%E6%99%AF%E3%80%91%E8%B5%A4%E7%BA%B3%E7%B2%B9%E6%97%97%EF%BC%88chinazi-flag%EF%BC%89/[on streets]. https://www.reddit.com/r/HongKong/comments/dbrken/google_bomb_china_flag_search_query_into_chinazi/[Source].
+.Chinazi flag by <<2019-hong-kong-anti-extradition-bill-protests,Hong Kong protesters>>. Seen https://chinadigitaltimes.net/chinese/2019/08/【盛世一景】赤纳粹旗（chinazi-flag）/[on streets]. https://www.reddit.com/r/HongKong/comments/dbrken/google_bomb_china_flag_search_query_into_chinazi/[Source].
 image::https://web.archive.org/web/20191003190442if_/https://i.redd.it/c0d340rtswp31.png[height=400]
 
 === Personal questions about Ciro Santilli
@@ -1411,14 +1414,14 @@ Tecent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-ban
 
 ==== Where can I find good words for a keyword attack?
 
-* https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China | https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8
+* https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China | https://zh.wikipedia.org/wiki/中华人民共和国网络审查
 * https://github.com/jasonqng/chinese-keywords
 * https://github.com/cirosantilli/media/raw/master/complete-gfw-rulebook-for-wikipedia-v3.0.pdf[Complete GFW Rulebook for Wikipedia v3.0]
 * https://qz.com/698990/261-ways-to-refer-to-the-tiananmen-square-massacre-in-china/ 261 ways to refer to the Tiananmen Square Massacre in China
 * https://chinadigitaltimes.net This is was an amazing source, extremely comprehensive and up-to-date, but the series was stopped in September 2018:
 ** https://chinadigitaltimes.net/china/word-of-the-week/?view=all word of the week
 ** https://chinadigitaltimes.net/china/directives-from-the-ministry-of-truth/?view=all censorship directive reports
-*** https://chinadigitaltimes.net/chinese/category/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?view=all chinese version
+*** https://chinadigitaltimes.net/chinese/category/有关部门/真理部指令/?view=all chinese version
 ** https://chinadigitaltimes.net/space/Main_Page a wiki version of the censored word lists, the ,"<<shitpost,Grass-mud horse>> index" (cao3n2ma3 草泥马), with a censored term of the week section.
 ** https://chinadigitaltimes.net/china/sensitive-words-series/?view=all sensitive words list
 ** Fun 2015 ebook: https://github.com/cirosantilli/decoding-chinese-internet-pdf-download
@@ -1457,7 +1460,7 @@ Notable ones only here (high rep or innovative criticism):
 
 * "GNUSupporter 8964民主女神 地下教會"
 ** Real name: Vincent Tam from social media links.
-** https://math.stackexchange.com/users/290189/gnusupporter-8964%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E-%E5%9C%B0%E4%B8%8B%E6%95%99%E6%9C%83
+** https://math.stackexchange.com/users/290189/gnusupporter-8964民主女神-地下教會#
 ** https://web.archive.org/web/20180924203410/https://math.stackexchange.com/users/290189/gnusupporter-8964%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E-%E5%9C%B0%E4%B8%8B%E6%95%99%E6%9C%83
 ** Keyword attack inspired by me
 * Yu Hao
@@ -1474,7 +1477,7 @@ Notable ones only here (high rep or innovative criticism):
 ** https://web.archive.org/web/20190821105901/https://stackoverflow.com/users/1080354/gotqn
 * Scott 混合理论
 +
-https://stackoverflow.com/users/1230329/scott-%E6%B7%B7%E5%90%88%E7%90%86%E8%AE%BA
+https://stackoverflow.com/users/1230329/scott-混合理论
 +
 Same message as Yu Hao, I wonder if it is an external thing or direct copy of Yu, but no Google hits besides them.
 * Terry Wang
@@ -1492,7 +1495,7 @@ Users who had GFW references but removed it:
 Misc interesting stuff:
 
 * <location>火车站酒店小姐 (about 20 accounts with that pattern)
-** https://stackoverflow.com/users/7040504/%E8%8E%86%E7%94%B0%E7%81%AB%E8%BD%A6%E7%AB%99%E9%85%92%E5%BA%97%E5%B0%8F%E5%A7%90
+** https://stackoverflow.com/users/7040504/莆田火车站酒店小姐
 ** http://web.archive.org/web/20190428090348/https://stackoverflow.com/users/7040504/%E8%8E%86%E7%94%B0%E7%81%AB%E8%BD%A6%E7%AB%99%E9%85%92%E5%BA%97%E5%B0%8F%E5%A7%90
 ** Interesting list of prostitution spam / sockpuppets? All have the exact same profile information.
 ** Hitting query due to "审查", but the usage is unrelated to the Firewall.
@@ -1519,7 +1522,7 @@ Query to find them: http://data.stackexchange.com/stackoverflow/query/312863/men
 
 ===== Notepad++
 
-https://en.wikipedia.org/wiki/Notepad%2B%2B
+https://en.wikipedia.org/wiki/Notepad++ | https://en.wikipedia.org/wiki/Notepad++
 
 It might be a newbie text editors for newbie Windows users, but at least they use it to good use by doing keyword attacks:
 
@@ -1666,8 +1669,8 @@ image::https://web.archive.org/web/20191012074352im_/https://www.rfa.org/english
 * 2018-07 https://www.youtube.com/watch?v=Eak3WRtcdko Sairagul Sawytbai testifies to the existence of Chinese concentration camps in Xinjiang
 * 2018-05 generic report https://jamestown.org/program/evidence-for-chinas-political-re-education-campaign-in-xinjiang/
 * 2018-05 mapping interment camps with satelite imaging:
-** https://www.albawaba.com/news/mapping-china%E2%80%99s-internment-camps-its-ethnic-minorities-1136100
-** https://medium.com/@shawnwzhang/list-of-re-education-camps-in-xinjiang-%E6%96%B0%E7%96%86%E5%86%8D%E6%95%99%E8%82%B2%E9%9B%86%E4%B8%AD%E8%90%A5%E5%88%97%E8%A1%A8-99720372419c List of Re-education Camps in Xinjiang 新疆再教育集中营列表 Shawn Zhang https://www.reddit.com/r/China/comments/8mbhad/satellite_imagery_of_xinjiang_reeducation_camps/
+** https://www.albawaba.com/news/mapping-china’s-internment-camps-its-ethnic-minorities-1136100
+** https://medium.com/@shawnwzhang/list-of-re-education-camps-in-xinjiang-新疆再教育集中营列表-99720372419c List of Re-education Camps in Xinjiang 新疆再教育集中营列表 Shawn Zhang https://www.reddit.com/r/China/comments/8mbhad/satellite_imagery_of_xinjiang_reeducation_camps/
 * 2018-05 Omir Bekali's account of Xinjiang education camps:
 ** https://apnews.com/6e151296fb194f85ba69a8babd972e4b
 ** https://www.washingtonpost.com/world/asia_pacific/former-inmates-of-chinas-muslim-re-education-camps-tell-of-brainwashing-torture/2018/05/16/32b330e8-5850-11e8-8b92-45fdd7aaef3c_story.html?utm_term=.df8ea170b18f
@@ -1689,7 +1692,7 @@ News source: https://www.reddit.com/r/HongKong/ Became larger than `r/china` dur
 
 ===== Hong Kong 97 SNES video game
 
-https://en.wikipedia.org/wiki/Hong_Kong_97_%28video_game%29
+https://en.wikipedia.org/wiki/Hong_Kong_97_(video_game) | https://zh.wikipedia.org/wiki/香港97_(遊戲)
 
 1995 video game realistically depicts the fight of Hong Kong against the Communist Party predicted to happen https://en.wikipedia.org/wiki/Handover_of_Hong_Kong[at the handover], featuring Bruce Lee (often represented as Jackie Chan) who returned from the grave to join the fight and kick <<jiang-zemin,Jiang Zemin's>> ass.
 
@@ -1900,7 +1903,7 @@ And regardless: remember your kids that the commies are bastards every day.
 [[reply-policy]]
 === Ciro Santilli's reply policy
 
-People get kind of passionate sometimes about politics. And some of them might also be just malicious wumaos, although it is generally not possible to distinguish between them.
+People get kind of passionate sometimes about politics. And some of them might also be just malicious <<wumao,wumaos>>, although it is generally not possible to distinguish between them.
 
 If you are not a wumao, consider this:
 
@@ -1961,7 +1964,7 @@ ____
 which means to talk to someone who does not have intellectual conditions of understanding what you are trying to say, bibliography:
 
 * https://www.theepochtimes.com/chinese-idiom-playing-the-qin-to-a-cow_766205.html
-* https://baike.baidu.com/item/%E5%AF%B9%E7%89%9B%E5%BC%B9%E7%90%B4/3490
+* https://baike.baidu.com/item/对牛弹琴/3490
 
 .Cartoon depiction of the https://en.wikipedia.org/wiki/Chengyu[chengyu] "Playing the <<music,qin>> to a cow" 《对牛弹琴》. https://zhidao.baidu.com/question/438181067.html[Source].
 image::http://web.archive.org/web/20200120094357im_/https://iknow-pic.cdn.bcebos.com/a8773912b31bb051adcb2e6a3b7adab44bede081?x-bce-process=image/resize,m_lfit,w_600,h_800,limit_1[height=600]
@@ -2156,7 +2159,7 @@ ____
 
 https://www.quora.com/profile/Ciro-Santilli
 
-Quora is a generally shitty website, with mechanisms that allow wumaos to quench freedom of speech.
+Quora is a generally shitty website, with mechanisms that allow <<wumao,wumaos>> to quench freedom of speech.
 
 * 2016 Ciro Santilli's profile was blocked because it had Chinese keywords on both my username and credentials. Justification: non-English.
 * 2017 created one in English: Cook Tiananmen Square Noodle Shop.
@@ -2175,10 +2178,9 @@ Other shitty aspects of Quora include:
 [[ptt]]
 ==== PTT Bulletin Board System 批踢踢實業坊
 
-Popular <<taiwan,Taiwanese>> forum system and server from 1995, pre HTML, works from telnet terminal, so likely very programmer heavy, and obviously anti-CCP, as of 2020 often shows <<falun-gong>> ads.
+https://en.wikipedia.org/wiki/PTT_Bulletin_Board_System | https://zh.wikipedia.org/wiki/批踢踢
 
-* https://en.wikipedia.org/wiki/PTT_Bulletin_Board_System
-* https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2
+Popular <<taiwan,Taiwanese>> forum system and server from 1995, pre HTML, works from telnet terminal, so likely very programmer heavy, and obviously anti-CCP, as of 2020 often shows <<falun-gong>> ads.
 
 Ciro Santilli's appearances on PTT:
 
@@ -2231,7 +2233,7 @@ As mentioned at https://en.wikipedia.org/wiki/Christianity_in_China there are on
 * 2018-12 https://www.youtube.com/watch?v=zzWApdCNdik 100 Christians detained in China crackdown
 * 2018-09 Vatican Christian pope makes deal with China
 +
-https://en.wikipedia.org/wiki/China%E2%80%93Holy_See_relations#September_2018_Holy_See%E2%80%93China_Agreement
+https://en.wikipedia.org/wiki/China–Holy_See_relations#September_2018_Holy_See–China_Agreement
 +
 .<<rebel-pepper>> 2018-09 cartoon showing the Pope with a Christian cross containing the Hammer and Sickle communist symbol, in reference to one of the accords that the Vatican struck with the Chinese government. https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html[Source].
 image::https://web.archive.org/web/20180930134934im_/https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html/180927RFA-vatican-china.jpg/@@images/190bb54e-d6be-4c98-9599-b4a88aa6b959.jpeg[height=400]
@@ -2659,7 +2661,7 @@ But your testimony is worthless unless you give the following:
 
 * clear unique personal identification
 +
-This is because the CCP has thousands of wumaos who could make fake reports.
+This is because the CCP has thousands of <<wumao,wumaos>> who could make fake reports.
 +
 There are basically two ways to do that:
 +
@@ -2880,7 +2882,7 @@ But Ciro Santilli strongly believes that this is just a language barrier/FLG pro
 * an impending link:https://en.wikipedia.org/wiki/Last_Judgment[final judgement]-like event, which will happen "very soon" (<<flg-verifiable,unspecified date>>), and in which the just will be rewarded
 +
 I predict that when <<li-hongzhi>> dies, the claim will be that he went to another dimension so save us all, therefore putting this final judgement on hold, a bit like Jesus.
-* link:https://en.wikipedia.org/wiki/Open-air_preaching[street preaching] with stands and leaflets on the streets exactly like link:https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses[Jehovah's Witnesses]. The Falun Gong organization also specifies guidelines on how to preach, although these might not be <<flg-canon,canon>>, even though if they are not, it is extremely likely that <<li-hongzhi,LHZ>> is directly involved in their specification
+* link:https://en.wikipedia.org/wiki/Open-air_preaching[street preaching] with stands and leaflets on the streets exactly like https://en.wikipedia.org/wiki/Jehovah's_Witnesses[Jehovah's Witnesses]. The Falun Gong organization also specifies guidelines on how to preach, although these might not be <<flg-canon,canon>>, even though if they are not, it is extremely likely that <<li-hongzhi,LHZ>> is directly involved in their specification
 
 Or a <<flg-cult,cult>>, which is nothing but a new/small religion with negative connotation, and thus meaningless.
 
@@ -3100,7 +3102,7 @@ Some good photoshops:
 .Comparison image between Xi Jinping waking with then USA president https://en.wikipedia.org/wiki/Barack_Obama[Barack Obama] with a Winnie-the-Pooh cartoon still of Winnie walking with https://en.wikipedia.org/wiki/Tigger[Tigger, the tiger]. The original photo is from https://www.abc.net.au/news/2013-06-09/obama2c-xi-forge-rapport-in-debut-summit/4742616[Xi's 2013 visit to the Annenberg Retreat at Sunnylands, California]. https://www.telegraph.co.uk/news/2017/07/17/oh-bother-chinese-censors-block-winnie-pooh-meme-comparing-xi/[Source].
 image::https://web.archive.org/web/20170801011641if_/http://i.telegraph.co.uk/multimedia/archive/02590/TIGGER_2590531b.jpg[height=400]
 
-.Comparison image between Xi Jinping shaking hands with https://en.wikipedia.org/wiki/Shinz%C5%8D_Abe[the Japanese prime minister Shinzo Abe] and a Winnie-the-Pooh cartoon still of Winnie shaking hands with the https://en.wikipedia.org/wiki/Eeyore[Eeyore, the donkey]. The original photo is from https://www.nytimes.com/2014/11/11/world/asia/leaders-of-china-and-japan-hold-long-awaited-meeting.html[Abe's lacklustre 2014 visit to Beijing]. https://www.theguardian.com/world/2018/aug/07/china-bans-winnie-the-pooh-film-to-stop-comparisons-to-president-xi[Source].
+.Comparison image between Xi Jinping shaking hands with https://en.wikipedia.org/wiki/Shinzo_Abe[the Japanese prime minister Shinzo Abe] and a Winnie-the-Pooh cartoon still of Winnie shaking hands with the https://en.wikipedia.org/wiki/Eeyore[Eeyore, the donkey]. The original photo is from https://www.nytimes.com/2014/11/11/world/asia/leaders-of-china-and-japan-hold-long-awaited-meeting.html[Abe's lacklustre 2014 visit to Beijing]. https://www.theguardian.com/world/2018/aug/07/china-bans-winnie-the-pooh-film-to-stop-comparisons-to-president-xi[Source].
 image::http://web.archive.org/web/20191012100528im_/https://i.guim.co.uk/img/media/84b60992d857bccf54c384e4ebeb0ea7f207246b/37_0_752_451/master/752.jpg?width=620&quality=85&auto=format&fit=max&s=e33410b2fb10c3d6de6a6ed65b6a7d8e[height=400]
 
 .Comparison image between Xi Jinping on a car in a 2015 military parade and a toy Winnie-the-Pooh on a car. https://www.bbc.co.uk/news/blogs-china-blog-40627855[Source].
@@ -3270,8 +3272,7 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 * 2016-04 http://www.hollywoodreporter.com/news/china-demands-shutdown-apples-film-886831 Apple iTunes and iBooks blocked
 * 2016 http://www.bbc.com/news/blogs-news-from-elsewhere-35968855 China's 'Great Firewall' blocks its creator
 * 2016 Panama papers 巴拿马文件
-** https://en.wikipedia.org/wiki/Panama_Papers
-** https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%96%87%E4%BB%B6
+** https://en.wikipedia.org/wiki/Panama_Papers | https://zh.wikipedia.org/wiki/巴拿馬文件
 ** mention Deng Jiagui 邓家贵 https://en.wikipedia.org/wiki/Deng_Jiagui , who is <<xi-jinping>>'s brother-in-law
 * 2016 http://www.theguardian.com/tv-and-radio/2016/mar/04/china-bans-gay-people-television-clampdown-xi-jinping-censorship gay depiction banned on television
 * 2016 http://www.bbc.com/news/blogs-trending-35496562 Armani Communist - http://www.ibtimes.com/xi-jinping-wants-overhaul-image-chinas-rich-kids-1961207 - first section of https://www.youtube.com/watch?v=ZKQ5ijFZ_j8
@@ -3330,7 +3331,7 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 [[tiananmen]]
 ==== Tiananmen Square Protests of 1989 六四事件
 
-https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989 https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6
+https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989 | https://zh.wikipedia.org/wiki/六四事件
 
 * https://en.wikipedia.org/wiki/Goddess_of_Democracy https://zh.wikipedia.org/wiki/中国国际广播电台
 * AP footage is pretty good, just do a search on the archive:
@@ -3392,7 +3393,7 @@ Other good lists:
 [[tank-man]]
 ===== Tank Man 坦克人
 
-https://en.wikipedia.org/wiki/Tank_Man https://zh.wikipedia.org/wiki/%E5%9D%A6%E5%85%8B%E4%BA%BA
+https://en.wikipedia.org/wiki/Tank_Man | https://zh.wikipedia.org/wiki/坦克人
 
 Good list of all known photos: https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/
 
@@ -3445,8 +3446,7 @@ Other lists:
 [[xu-xiaodong]]
 === Xu Xiaodong "Mad Dog" 徐晓冬
 
-* https://en.wikipedia.org/wiki/Xu_Xiaodong
-* https://zh.wikipedia.org/wiki/%E5%BE%90%E6%99%93%E5%86%AC
+https://en.wikipedia.org/wiki/Xu_Xiaodong | https://zh.wikipedia.org/wiki/徐晓冬
 
 MMA fighter who beat up some kung-fu masters to prove that MMA is more effective than their traditional styles.
 
@@ -3470,7 +3470,7 @@ video::0XwXaCbfIGw[youtube,height=400,width=600]
 
 Very popular Chinese language anonymous blogger that publishes software programming tutorials and political content since 2009, often negative about the CCP, in particular <<censorship,anti-censorship>> and <<brainwashed-by-usa,anti-CCP-brainwashing>>.
 
-* https://zh.wikipedia.org/wiki/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%E7%9A%84%E5%8D%9A%E5%AE%A2 (there is no English page as of January 2020)
+* https://zh.wikipedia.org/wiki/编程随想的博客 (there is no English page as of January 2020)
 * https://program-think.blogspot.com/ The blog. Blocked in China with the rest of 
 ** 2020 categorized summary of the best posts of all time: https://program-think.blogspot.com/2020/01/11-years-blogging.html
 * https://github.com/programthink
@@ -3478,9 +3478,9 @@ Very popular Chinese language anonymous blogger that publishes software programm
 +
 The full project name is: 太子党关系网络 (network of relations of https://en.wikipedia.org/wiki/Princelings[CCP princelings]).
 +
-The project is also known as "zhao" which is another slang reference to "太子党": "赵家人" (zhaojiaren == zhao family): https://en.wikipedia.org/wiki/Zhao_family (https://zh.wikipedia.org/wiki/%E8%B6%99%E5%AE%B6%E4%BA%BA[zh]), which is in turn a reference to https://en.wikipedia.org/wiki/Zhao_(state) or https://en.wikipedia.org/wiki/House_of_Zhao[].
+The project is also known as "zhao" which is another slang reference to "太子党": "赵家人" (zhaojiaren == zhao family): https://en.wikipedia.org/wiki/Zhao_family | https://zh.wikipedia.org/wiki/趙家人zh, which is in turn a reference to https://en.wikipedia.org/wiki/Zhao_(state) or https://en.wikipedia.org/wiki/House_of_Zhao[].
 * https://twitter.com/programthink
-* DW coverage (Chinese): https://www.dw.com/zh/2013%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%E5%9B%BD%E9%99%85%E5%8D%9A%E5%AE%A2%E5%A4%A7%E8%B5%9B%E4%B8%AD%E6%96%87%E6%8F%90%E5%90%8D%E5%8D%9A%E5%AE%A2%E6%8F%AD%E6%99%93/a-16716065 (https://web.archive.org/web/20191202233838/https://www.dw.com/zh/2013%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%E5%9B%BD%E9%99%85%E5%8D%9A%E5%AE%A2%E5%A4%A7%E8%B5%9B%E4%B8%AD%E6%96%87%E6%8F%90%E5%90%8D%E5%8D%9A%E5%AE%A2%E6%8F%AD%E6%99%93/a-16716065[archive]) 2013德国之声国际博客大赛——中文提名博客揭晓 ""
+* DW coverage (Chinese): https://www.dw.com/zh/2013德国之声国际博客大赛中文提名博客揭晓/a-16716065 (https://web.archive.org/web/20191202233838/https://www.dw.com/zh/2013%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%E5%9B%BD%E9%99%85%E5%8D%9A%E5%AE%A2%E5%A4%A7%E8%B5%9B%E4%B8%AD%E6%96%87%E6%8F%90%E5%90%8D%E5%8D%9A%E5%AE%A2%E6%8F%AD%E6%99%93/a-16716065[archive])
 
 .Programthink uses https://en.wikipedia.org/wiki/The_Thinker[Rodin's The Thinker sculpture] as its avatar. https://github.com/programthink/[Source].
 image::https://web.archive.org/web/20191218082236if_/https://avatars0.githubusercontent.com/u/4027957?s=400&v=4[height=400]
@@ -3502,18 +3502,18 @@ I consider the media in this section biased, and never cite it for fact checking
 
 ==== Chinese government media
 
-* https://en.wikipedia.org/wiki/Xinhua_News_Agency[Xinhua News Agency]
-** https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8D%8E%E7%A4%BE
+* Xinhua News Agency
+** https://en.wikipedia.org/wiki/Xinhua_News_Agency | https://zh.wikipedia.org/wiki/新华社
 ** http://www.xinhuanet.com/
-* https://en.wikipedia.org/wiki/People%27s_Daily[People's Daily]
-** https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5
+* People's Daily
+** https://en.wikipedia.org/wiki/People's_Daily | https://zh.wikipedia.org/wiki/人民日报
 ** http://people.cn/
 ** https://twitter.com/PDChina
-* https://en.wikipedia.org/wiki/China_Radio_International[China Radio International]
-** https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0
+* China Radio International
+** https://en.wikipedia.org/wiki/China_Radio_International | https://zh.wikipedia.org/wiki/中国国际广播电台
 ** http://www.cri.cn | http://english.cri.cn/
-* https://en.wikipedia.org/wiki/China_Daily[China Daily]
-** https://zh.wikipedia.org/wiki/%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2
+* China Daily
+** https://en.wikipedia.org/wiki/China_Daily | https://zh.wikipedia.org/wiki/孔子学院
 ** http://www.economist.com/node/17969895
 * https://en.wikipedia.org/wiki/China_Central_Television[China Central Television (CCTV)]
 ** https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg CGTN, CCTV's international branch in English
@@ -3526,7 +3526,7 @@ I consider the media in this section biased, and never cite it for fact checking
 [[confucious-institute]]
 ===== Confucious institute 孔子学院
 
-https://en.wikipedia.org/wiki/Confucius_Institute
+https://en.wikipedia.org/wiki/Confucius_Institute | https://zh.wikipedia.org/wiki/孔子学院
 
 News and reports:
 
@@ -3547,8 +3547,8 @@ News and reports:
 
 ==== Falun Gong media
 
-* https://en.wikipedia.org/wiki/The_Epoch_Times
-** https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5
+* The Epoch Times
+** https://en.wikipedia.org/wiki/The_Epoch_Times | https://zh.wikipedia.org/wiki/大纪元时报
 * http://en.minghui.org/
 ** http://falundafa.org/ links to it
 ** http://www.clearwisdom.net/
@@ -3565,12 +3565,11 @@ News and reports:
 
 ===== New Tang Dinasty Television
 
-https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television
+https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television | https://zh.wikipedia.org/wiki/新唐人電視台
 
 Related shows:
 
-* https://zh.wikipedia.org/wiki/%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0
-* https://www.youtube.com/user/Laowaikanzhongguo Laowai kan Zhongguo
+* https://www.youtube.com/user/Laowaikanzhongguo Laowai kan Zhongguo 老外看中國
 * https://www.youtube.com/user/NTDOffTheGreatWall Off the Great Wall
 
 ====== China Uncensored YouTube channel
@@ -3614,7 +3613,7 @@ Partial support:
 [[radio-free-asia]]
 ===== Radio Free Asia 自由亚洲电台
 
-https://en.wikipedia.org/wiki/Radio_Free_Asia | https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
+https://en.wikipedia.org/wiki/Radio_Free_Asia | https://zh.wikipedia.org/wiki/自由亚洲电台
 
 Website: https://www.rfa.org
 
@@ -3690,12 +3689,12 @@ Has a more artistic red-black-white-yellow style.
 [[falun-sweden]]
 === Falun, Sweden 法轮，瑞典
 
-https://en.wikipedia.org/wiki/Falun
+https://en.wikipedia.org/wiki/Falun | https://zh.wikipedia.org/wiki/法倫
 
 A Swedish University town called "Falun", with the same "Falun" Chinese characters as those in <<falun-gong>>, which got the town blocked by the <<internal-censorship,GFW>> on some websites, mentioned at:
 
 * https://www.wsj.com/articles/SB10001424127887323926104578277511385052752
-* https://zh.wikipedia.org/w/index.php?title=%E6%B3%95%E5%80%AB&oldid=47709870#%E8%B6%A3%E9%97%BB
+* https://zh.wikipedia.org/w/index.php?title=法倫&oldid=47709870#趣闻
 
 Known primarily for its mine, which was one of the oldest operating companies in the world: https://en.wikipedia.org/wiki/Falun_Mine
 
@@ -3761,14 +3760,14 @@ ____
 Where they have deleted online posts, they will end in deleting human beings.
 ____
 
-.Internal censorship is so strong, that many Chinese people who leave China to live abroad continue to believe that the CCP is always right, despite having access evidence that suggests otherwise. This <<rebel-pepper>> 2019-08 cartoon shows frogs coming out of a big well still remain inside their own small wells made up of Chinese media such as <<zhihu-purge,Zhihu>> and CCTV. It is a reference to the Chinese proverb https://zh.wikipedia.org/wiki/%E4%BA%95%E5%BA%95%E4%B9%8B%E8%9B%99[井底之蛙] which means that a frog in the bottom of the well can only see a very limited portion of the sky. https://www.rfa.org/mandarin/biantailajiaomanhua/lj-08302019111414.html[Source].
+.Internal censorship is so strong, that many Chinese people who leave China to live abroad continue to believe that the CCP is always right, despite having access evidence that suggests otherwise. This <<rebel-pepper>> 2019-08 cartoon shows frogs coming out of a big well still remain inside their own small wells made up of Chinese media such as <<zhihu-purge,Zhihu>> and CCTV. It is a reference to the Chinese proverb https://zh.wikipedia.org/wiki/井底之蛙[井底之蛙] which means that a frog in the bottom of the well can only see a very limited portion of the sky. https://www.rfa.org/mandarin/biantailajiaomanhua/lj-08302019111414.html[Source].
 image::https://web.archive.org/web/20190915124441im_/https://www.rfa.org/mandarin/biantailajiaomanhua/lj-08302019111414.html/1/@@images/82a29858-e5b4-4ae1-88ae-fa54737588e1.jpeg[height=500]
 
 .<<nazi,Nazis>> burning books in Berlin in 1933. https://en.wikipedia.org/wiki/Nazi_book_burnings[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/1933-may-10-berlin-book-burning.JPG/603px-1933-may-10-berlin-book-burning.JPG[height=400]
 
-.<<falun-gong>> books being destroyed with a https://en.wikipedia.org/wiki/Road_roller[road roller] in 1999 in China in an extremely low quality early Internet image. How far do you think mass jailings and torture would be? One wonders why they didn't burn the books though. https://en.wikipedia.org/wiki/File:Destruction_d%27ouvrages_du_Falun_Gong_lors_de_la_r%C3%A9pression_de_1999_en_Chine.jpg[Source].
-image::https://upload.wikimedia.org/wikipedia/commons/5/52/Destruction_d%27ouvrages_du_Falun_Gong_lors_de_la_r%C3%A9pression_de_1999_en_Chine.jpg[height=400]
+.<<falun-gong>> books being destroyed with a https://en.wikipedia.org/wiki/Road_roller[road roller] in 1999 in China in an extremely low quality early Internet image. How far do you think mass jailings and torture would be? One wonders why they didn't burn the books though. https://en.wikipedia.org/wiki/File:Destruction_d'ouvrages_du_Falun_Gong_lors_de_la_répression_de_1999_en_Chine.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/5/52/Destruction_d'ouvrages_du_Falun_Gong_lors_de_la_répression_de_1999_en_Chine.jpg[height=400]
 
 [[jingjing-chacha]]
 ===== Jingjing and Chacha 警警察察
@@ -3859,7 +3858,7 @@ Some cases where that didn't end well for them:
 .In 2016 activist Quan Ping (Kwon Pyong,权平,https://twitter.com/kwonpyong[BraveJohnny]) was sent to jail for wearing a <<nazi,Xitler>>/<<xi-jinping-memes,習包子/大撒币>> t-shirt in public and posting selfies online. This photo is in front of a Government building (TODO exact location, reports say he is from https://en.wikipedia.org/wiki/Jilin_City[Jilin City 吉林] transcription of the sign on top of building: 诚信立市 https://baike.baidu.com/item/工业强市[工业强市] 依法治...) https://www.nytimes.com/2017/02/16/world/asia/china-xi-jinping-xitler-tshirt-kwon-pyong.html[New York Times coverage]. He was later sentenced and served 18 months in prison because of this: https://www.frontlinedefenders.org/en/profile/kwon-pyong[Front Line Defenders profile]. https://www.rfa.org/english/news/china/xi-jinping-tshirt-activist-confirmed-held-in-northeast-china-detention-center-12082016110338.html[Source].
 image::https://web.archive.org/web/20170630212420im_/http://www.rfa.org/english/news/china/activist-11022016120902.html/china-xitler-nov22016.jpg/image[height=400]
 
-.In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/%E3%80%90%E5%8E%86%E5%8F%B2%E7%9A%84%E5%85%88%E5%A3%B0%E3%80%91%E4%B8%80%E5%85%9A%E7%8B%AC%E8%A3%81%EF%BC%8C%E9%81%8D%E5%9C%B0%E6%98%AF%E7%81%BE/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang’s one-party dictatorship, but the CP will not establish a one-party dictatorship". He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
+.In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/【历史的先声】一党独裁，遍地是灾/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang’s one-party dictatorship, but the CP will not establish a one-party dictatorship". He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
 image::http://web.archive.org/web/20200309101601im_/http://scd.observers.france24.com/files/images/090521%20china%20I.preview.jpg[height=500]
 
 ==== Censorship monitoring
@@ -3907,13 +3906,17 @@ See also:
 
 * https://www.bypasscensorship.org
 
-[[fifty-cent-party]]
-==== 50 Cent Party 五毛党
+[[wumao]]
+==== 50 Cent Party 五毛党 (Wumao Dang)
 
 https://en.wikipedia.org/wiki/50_Cent_Party
+https://zh.wikipedia.org/wiki/网络评论员
 
 * https://gking.harvard.edu/files/gking/files/50c.pdf "How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument" by "Gary King, Jennifer Pan, Margaret E. Roberts" published on 2017-04-09
 * https://www.youtube.com/watch?v=yCnnPf2OnHo "Chinese Internet Trolls Get Paid 50 Cents For Every Comment" by "laowhy86" published on 2018-09-27
+* 2020-03-12 https://twitter.com/jenniferatntd/status/1238076579466674178 Jennifer Zeng's 曾錚 publishing of purported Wumao guidelines with with translation. Translated title: "CAC (https://en.wikipedia.org/wiki/Cyberspace_Administration_of_China[Cyberspace Administration of China]) Internal Documentation for Internet Commentators (no spreading)"
+
+C.K. Hung's wumao reply strategy: https://ckhung0.blogspot.com/2017/07/50-cents-party.html see also: <<reply-policy>>.
 
 [[social-credit-system]]
 === Social Credit System 社会信用体系
@@ -4043,7 +4046,7 @@ Chinese information: http://web.archive.org/web/20190817072026/http://keai99.com
 
 Chinese name: 中国民乐大师纯独奏鉴赏
 
-Publisher: https://en.wikipedia.org/wiki/Chinese_Musicians%27_Association[Chinese Musicians' Association]
+Publisher: Chinese Musicians' Association | https://zh.wikipedia.org/wiki/中国音乐家协会
 
 ==== Chinese Ancient Music
 
@@ -4286,7 +4289,7 @@ Chinese vegetarians are rare. In theory, the origin of the food in this restaura
 +
 39 Avenue de Choisy, 75013 Paris
 +
-https://www.facebook.com/pages/LIKAFO-%E5%88%A9%E5%8F%A3%E7%A6%8F%E9%85%92%E5%AE%B6/139814799396
+https://www.facebook.com/LIKAFO-利口福酒家-139814799396/
 +
 http://en.wikipedia.org/wiki/Meigan_cai[Meigan cai] roast pork (梅菜扣肉) http://img.epochtimes.com/i6/901120923161469.jpg
 * Restaurant Sichuan (四川人家)
@@ -4717,11 +4720,6 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 ** led to: https://lihkg.com/thread/762440/page/1 | http://archive.is/7REOi "佢個個人home page好多5毛留言, 唔知會唔會搞到block堆stackoverflow"
 * 2018-07: http://4-ch.net/general/kareha.pl/1531480621/l50 | http://web.archive.org/web/20180815081351/http://4-ch.net/general/kareha.pl/1531480621/l50 "No more Xi Jinping"
 * 2018-06: http://medarc.org/pac.txt | https://web.archive.org/web/20180712094944/http://medarc.org/pac.txt puts cirosantilli.com in a blacklist containing the likes of asianpiss.com and clearwisdom.net. Awesome. Then I grepped the main one https://github.com/gfwlist/gfwlist with `while true; do git checkout HEAD~; if ! base64 -d gfwlist.txt | grep -q cirosan; then break; fi; done` and found that I was added in 24a6f6f29e24d1d7eb27946bf51d7a072ddb3e6d Tue Apr 24 2018. That is input data for https://addons.mozilla.org/en-US/firefox/addon/autoproxy/ which turns on a proxy only for certain websites. Therefore that is a definitive list of interesting stuff. I wonder how it is curated.
-* 2018-06: https://greasyfork.org/zh-CN/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8 "StackOverflow净化器"
-** https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8 JavaSript script to hide my username on SO! Nice.
-** github user with the same username: https://github.com/EternalPhane
-** http://web.archive.org/web/20181211094818/https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8
-** http://web.archive.org/web/20181211094917/https://greasyfork.org/en/forum/discussion/47981
 * 2018-05: a few hits from https://chinadigitaltimes.net but Google cannot find any links
 * 2018-05-20:
 ** https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684 Archive: http://web.archive.org/web/20190701085047/https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684
