@@ -844,8 +844,17 @@ While we are at it, some interesting news:
 * 2017 http://www.bbc.co.uk/news/world-europe-40635267 Russia Jehovah's Witnesses banned after they lose appeal
 * 2017 http://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay
 * 2016 https://news.vice.com/en_us/article/kzgkv3/russians-now-need-a-passport-to-watch-pornhub
-* 2014 link:https://en.wikipedia.org/wiki/Putin_khuylo![]
-* 1995 https://en.wikipedia.org/wiki/Vladislav_Listyev
+* 1995 Vladislav_Listyev https://en.wikipedia.org/wiki/Vladislav_Listyev | https://ru.wikipedia.org/wiki/Листьев,_Владислав_Николаевич
+
+[[putin]]
+===== Putin Путин
+
+https://en.wikipedia.org/wiki/Vladimir_Putin | https://ru.wikipedia.org/wiki/Путин,_Владимир_Владимирович
+
+* 2014 https://en.wikipedia.org/wiki/Putin_khuylo! | https://ru.wikipedia.org/wiki/Путин_—_хуйло!
+
+.The possibly Gay Putin clown image banned in 2017. https://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay[Source].
+image::https://web.archive.org/web/20200312233919if_/https://cdn1.i-scmp.com/sites/default/files/styles/1200x800/public/images/methode/2017/04/06/0a2ae706-1a94-11e7-b4ed-ac719e54b474_1280x720_145124.jpg[height=400]
 
 [[stalin]]
 ==== Stalin 斯大林
