@@ -221,6 +221,7 @@ The Chinese Government censored the initial outbreak, which likely made the situ
 
 * https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1 "China spent the crucial first days of the Wuhan coronavirus outbreak arresting people who posted about it online and threatening journalists" (http://web.archive.org/web/20200124113400/https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1?r=US&IR=T[archive])
 * https://www.vice.com/en_us/article/g5xykx/you-can-now-go-to-jail-in-china-for-criticizing-beijings-coronavirus-response "You Can Now Go to Jail in China for Criticizing Beijing’s Coronavirus Response"
+* https://www.vice.com/en_us/article/qjdn4d/doctors-in-wuhan-are-still-dying-and-beijing-is-still-trying-to-silence-them Ai Fen's (艾芬) report of how the situation was mishandling was censored
 
 Doctor Li Wenliang reported the virus, but was told by authorities to stay quiet, and later died from the virus, becoming somewhat of a martyr:
 
@@ -2325,7 +2326,9 @@ I think that FLG exercises and meditation are good for you, just like many other
 
 However I find the metaphysics and obligations boring like for any other prophetic xref:flg-religion[religion].
 
-The absolute truth is already known by the xref:li-hongzhi[prophet], although he does not want to give clear evidence for reasons. Or a Jesus put it in https://www.biblegateway.com/passage/?search=Luke+4&version=NIV[Luke 4]:
+The absolute truth is already known by the xref:li-hongzhi[prophet], although he does not want to give clear evidence for reasons.
+
+Or a Jesus put it in https://www.biblegateway.com/passage/?search=Luke+4&version=NIV[Luke 4]:
 
 ____
 Then the devil took him to the holy city and had him stand on the highest point of the temple.
@@ -2565,19 +2568,23 @@ The closest claims to observable I've heard are:
 
 * when pictures are taken in sacred events, notably Shen Yun, sometimes you can see magic Falun energy wheels in the pictures
 * in the homes of some followers, small magic good plants-like fungi-like things have grown
++
+.Image of the magic good small plants that grew on a believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese. http://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
+image::http://web.archive.org/web/20200312085051im_/http://en.minghui.org/u/article_images/e9c2b07e224d28984998a094deb53f85.jpg[height=400]
 * the sacred books of some believers had a closed lotus flower when they were bought, and after several years, the flower opened
 
 but I suspect they are not even <<flg-canon,canon>>, just believer oral culture.
 
 Of course, like every other religion, reality happens to be is constructed in a way that prevents non-believers to verify anything with their eyes in a reproducible way.
 
+[[flg-cult]]
 ===== FLG is a very new religion and therefore fake
 
 The Romans called <<christianity>> the "Cult of Jesus".
 
 If I tell a lie today, will it become true in a thousand years? Or a truth today become a lie?
 
-Try sending an email to <<li-hongzhi,LHZ>> asking him to prove his powers to you :-)
+Try sending an email to <<li-hongzhi,LHZ>> asking him to <<flg-verifiable,prove his powers to you>> :-)
 
 [[against-censorship-and-flg]]
 ==== Many people both are against censorship and FLG
@@ -2586,7 +2593,7 @@ I know that, and that supporting FLG is "bad" for my public image with most Chin
 
 But without censorship, there will be democracy, and with democracy FLG followers will have voting rights, and FLG will become legal.
 
-I think the situation is very similar to Scientology in the USA today: most people dislike it, but believe that you can believe whatever you want.
+Ciro thinks that the situation is very similar to <<flg-religion,Scientology>> in the USA today: most people dislike it, but believe that you can believe whatever you want.
 
 Democracy and Communism <<democracy-is-a-religion,can also be considered as religions and persecuted>>.
 
@@ -2857,9 +2864,11 @@ This section also gives me more credibility as a balanced critic >:-)
 [[flg-religion]]
 ===== FLG downplays the fact that it is a religion
 
-If asked if they follow a religion, most FLG believers will say no. E.g. they call themselves "practitioners" instead of believers.
+If asked if they follow a religion, most FLG believers will say no.
 
-But Ciro Santilli strongly believes that all most people in the West would classify FLG as a religion if they are told that for FLG:
+E.g. they call themselves "practitioners" instead of believers.
+
+But Ciro Santilli strongly believes that this is just a language barrier/FLG propaganda question, and that people in the West would classify FLG as a religion if they are told that for FLG:
 
 * absolute truth comes from an enlightened <<li-hongzhi,prophet>>, who is perfect and has super human abilities
 * weekly meetings where they read from a sacred book, either written by the prophet, or transcribed from his presentations to disciples, including the disciples questions, much like traditional Chinese texts like link:https://en.wikipedia.org/wiki/Analects[The Analects of Confucius]
@@ -2873,7 +2882,9 @@ But Ciro Santilli strongly believes that all most people in the West would class
 I predict that when <<li-hongzhi>> dies, the claim will be that he went to another dimension so save us all, therefore putting this final judgement on hold, a bit like Jesus.
 * link:https://en.wikipedia.org/wiki/Open-air_preaching[street preaching] with stands and leaflets on the streets exactly like link:https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses[Jehovah's Witnesses]. The Falun Gong organization also specifies guidelines on how to preach, although these might not be <<flg-canon,canon>>, even though if they are not, it is extremely likely that <<li-hongzhi,LHZ>> is directly involved in their specification
 
-Or a cult, which is nothing but a new / small religion with negative connotation, and thus meaningless.
+Or a <<flg-cult,cult>>, which is nothing but a new/small religion with negative connotation, and thus meaningless.
+
+FLG is very similar to Scientology in Ciro's view: a new religion that mixes elements of both old and new. And just like any other religion, <<democracy-is-a-religion,their practice must be allowed>>.
 
 But consider this: how to classify what a religion is?
 
@@ -2969,7 +2980,13 @@ Forbidding them also has huge humanitarian costs (more expensive vehicles, creat
 [[li-hongzhi]]
 ===== FLG is dangerous because Li Hongzhi has too much power over followers
 
-Li Hongzhi (LHZ,李洪志) is the creator of FLG: link:https://en.wikipedia.org/wiki/Li_Hongzhi[], or as <<ciro-santilli>> prefers to call it, its <<flg-religion,prophet>>.
+Li Hongzhi (LHZ,李洪志) is the creator of FLG: link:https://en.wikipedia.org/wiki/Li_Hongzhi[].
+
+Falun Gong people call him "master" (师傅), which is a common traditional term used to respectfully address experienced teachers in a disciple (弟子)/teacher relation, e.g. Kung Fu or other crafts.
+
+The term "master" is also used for example in the fictional film The Master (2012), which is likely inspired in <<flg-religion,Scientology>>.
+
+<<ciro-santilli>> prefers to call him <<flg-religion,prophet>>, since he feels LHZ is indistinguishable from <<flg-religion,any other religion>>.
 
 I agree that there is danger in every religion, and specially new religions.
 
@@ -3003,9 +3020,13 @@ image::http://web.archive.org/web/20200229161316if_/https://i.giphy.com/media/xU
 
 ===== Some FLG people make phone telemarketing
 
-I've seen that happen, they made phone calls to people in China to explain why FLG is good, and I disapprove of it.
+Ciro Santilli has heard Falun Gong pepole planning to make phone calls to people in China to explain why FLG is good, and therefore is sure it has happened on some scale.
 
-Visual ads on the street on Internet I can stand, but not any kind of advertising that generates notifications on my feeds.
+Ciro strongly disapproves of this, Just like for any product, visual ads on the street are impossible to prevent, but any kind of advertising that generates notifications on feeds, or takes people's time, is unacceptable.
+
+Ciro has not however heard them talking about automated phone calls.
+
+https://www.scmp.com/comment/insight-opinion/article/1940394/how-rampant-phone-scams-highlight-chinas-need-tighter also mentions that Falung Gong makes telemarketing in passing without any reference.
 
 ==== Falun Gong bibliography
 
@@ -3097,6 +3118,12 @@ Jiang is often compared to a toad in a meme what is referred to as toad worship 
 
 * https://en.wikipedia.org/wiki/Toad_worship
 * https://zh.wikipedia.org/wiki/膜蛤文化
+
+The Chinese also love Jiang's quote in English during an interview with Hong Kong press: https://www.youtube.com/watch?v=y-JPLzj2poY&t=57
+
+____
+Too young, too simple, sometimes naive.
+____
 
 Jiang also has an amazing array of meme-ready funny expressions.
 
