@@ -133,7 +133,7 @@ Because it would make China, and the world:
 * <<intolerance,safer for its own citizens>>
 
 [[richer]]
-==== Why would democracy and freedom of speech make China richer?
+==== Why would democracy and freedom of speech make China richer? 言论自由让中国比较富有
 
 There is infinite debate about this out there, some examples:
 
@@ -844,10 +844,23 @@ While we are at it, some interesting news:
 * 2017 http://www.bbc.co.uk/news/world-europe-40635267 Russia Jehovah's Witnesses banned after they lose appeal
 * 2017 http://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay
 * 2016 https://news.vice.com/en_us/article/kzgkv3/russians-now-need-a-passport-to-watch-pornhub
-* 1995 Vladislav_Listyev https://en.wikipedia.org/wiki/Vladislav_Listyev | https://ru.wikipedia.org/wiki/Листьев,_Владислав_Николаевич
+* 2006 Alexander Litvinenko https://en.wikipedia.org/wiki/Alexander_Litvinenko | https://ru.wikipedia.org/wiki/Литвиненко,_Александр_Вальтерович Poisoned with polonium-210
+* 1995 Vladislav Listyev https://en.wikipedia.org/wiki/Vladislav_Listyev | https://ru.wikipedia.org/wiki/Листьев,_Владислав_Николаевич
+
+===== Poisoning of Sergei and Yulia Skripal in 2018
+
+https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal | https://ru.wikipedia.org/wiki/Отравление_Сергея_и_Юлии_Скрипаль
+
+They were poisoned with Novichok, a Soviet-era nerve agent.
+
+.The assassination suspects Alexander Mishkin (Алекса́ндр Евге́ньевич Ми́шкин, alias Alexander Petrov) and Anatoliy Chepiga (Анатолий Владимирович Чепига, alias Ruslan Boshirov) in a CCTV still at Salisbury Station on 3rd March 2018 the day before the assassination. Both GRU and Alexander being a doctor, which is consistent with a poisoning assassination attempt. They later explained on an RT interview that they were visiting the https://en.wikipedia.org/wiki/Salisbury_Cathedral[world renowed Salisbury Cathedral] in their 3 day trip to the UK, and that they were not gay. https://www.theguardian.com/uk-news/2018/sep/05/planes-trains-and-fake-names-the-trail-left-by-skripal-suspects[Source].
+image::http://web.archive.org/web/20200313103134if_/https://i.guim.co.uk/img/media/31a18fa18d2fedb11136fc3d2c39952e4aec1ce5/0_97_1114_668/master/1114.jpg?width=620&quality=85&auto=format&fit=max&s=19c40235440efb1be4b1b8d9ef1b87d7[height=400]
+
+."Full Skripal case interview with the UK's suspects (EXCLUSIVE)" by RT with Alexander Petrov and Ruslan Boshirov. Gay moment at: https://youtu.be/Ku8OQNyI2i0?t=461[461]. https://www.youtube.com/watch?v=Ku8OQNyI2i0[Source].
+video::Ku8OQNyI2i0[youtube,height=400,width=600]
 
 [[putin]]
-===== Putin Путин
+===== Putin Путин 普京
 
 https://en.wikipedia.org/wiki/Vladimir_Putin | https://ru.wikipedia.org/wiki/Путин,_Владимир_Владимирович
 
@@ -1426,7 +1439,6 @@ Tecent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-ban
 * https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China | https://zh.wikipedia.org/wiki/中华人民共和国网络审查
 * https://github.com/jasonqng/chinese-keywords
 * https://github.com/cirosantilli/media/raw/master/complete-gfw-rulebook-for-wikipedia-v3.0.pdf[Complete GFW Rulebook for Wikipedia v3.0]
-* https://qz.com/698990/261-ways-to-refer-to-the-tiananmen-square-massacre-in-china/ 261 ways to refer to the Tiananmen Square Massacre in China
 * https://chinadigitaltimes.net This is was an amazing source, extremely comprehensive and up-to-date, but the series was stopped in September 2018:
 ** https://chinadigitaltimes.net/china/word-of-the-week/?view=all word of the week
 ** https://chinadigitaltimes.net/china/directives-from-the-ministry-of-truth/?view=all censorship directive reports
@@ -1434,6 +1446,7 @@ Tecent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-ban
 ** https://chinadigitaltimes.net/space/Main_Page a wiki version of the censored word lists, the ,"<<shitpost,Grass-mud horse>> index" (cao3n2ma3 草泥马), with a censored term of the week section.
 ** https://chinadigitaltimes.net/china/sensitive-words-series/?view=all sensitive words list
 ** Fun 2015 ebook: https://github.com/cirosantilli/decoding-chinese-internet-pdf-download
+* <<tiananmen-square-protests-keywords>>
 
 [[keyword-choice]]
 ==== How do you choose keyword for the keyword attack?
@@ -1450,7 +1463,7 @@ E.g., I've heard there is even some opening towards acknowledging the Great Fami
 E.g. "High corruption rates, high pollution", although very serious, feel too generic.
 * events that relate directly to freedom of speech receive a prime, since they can only happen in China and very few other countries.
 +
-E.g.: Falun Gong, Tiananmen.
+E.g.: <<falun-gong>>, <<tiananmen>>.
 +
 Non e.g.: corruption and pollution. Those are hard to quantify, and there is always an immediate reply: china GDP per capita is low, same happens in India, Brazil, etc.
 +
@@ -1869,7 +1882,7 @@ Some hell known companies and events:
 * Apple
 ** 2020-03-01 https://techcrunch.com/2020/03/01/china-roundup-apple-closes-app-store-loophole/ "China Roundup: Apple closes a 4-year-old App Store loophole"
 ** 2020-02-25 https://www.theguardian.com/technology/2020/feb/25/apple-censorship-requests-china-shareholder-groups-proposal
-** 2019-04-12 https://www.theverge.com/2019/4/12/18305087/congress-apple-criticism-china-communist-tiananmen-pro-democracy "Lawmakers lash out at Apple for censoring a song about Tiananmen Square protests"
+** 2019-04-12 https://www.theverge.com/2019/4/12/18305087/congress-apple-criticism-china-communist-tiananmen-pro-democracy "Lawmakers lash out at Apple for censoring a song about <<tiananmen,Tiananmen Square protests>>"
 +
 .Chinese flag with Apple characteristics. https://techcrunch.com/2015/08/11/apple-shares-tumble-5-amidst-china-concerns/[Source].
 image::https://web.archive.org/web/20200305101324/https://techcrunch.com/wp-content/uploads/2015/04/apple-china.png?w=1390&crop=1[height=400]
@@ -2171,7 +2184,7 @@ https://www.quora.com/profile/Ciro-Santilli
 Quora is a generally shitty website, with mechanisms that allow <<wumao,wumaos>> to quench freedom of speech.
 
 * 2016 Ciro Santilli's profile was blocked because it had Chinese keywords on both my username and credentials. Justification: non-English.
-* 2017 created one in English: Cook Tiananmen Square Noodle Shop.
+* 2017 created one in English: Cook <<tiananmen,Tiananmen Square>> Noodle Shop.
 +
 Added my Noodle shop to maps: https://www.google.co.uk/maps/place/Tiananmen+Square+Noodle+Shop/@60.6132538,15.6687509,15z/data=!4m5!3m4!1s0x0:0x94603408e3c63fb3!8m2!3d60.6132538!4d15.6687509
 +
@@ -3350,16 +3363,47 @@ https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989 | https://zh.wik
 ** https://chinadigitaltimes.net/2009/03/china-detains-writer-of-critical-web-letter-to-hu/
 ** https://www.rfa.org/english/news/china/flashbacks-06042018133558.html
 ** https://www.theguardian.com/world/2009/mar/20/tiananmen-square-china-zhang-shijun
-* http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/  (https://web.archive.org/web/20190607142501/http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[archive]) a few gory photos
+* Good photo selections:
+** 2014 https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/ "Photos: The 1989 Tiananmen Square Protests" 
+** 2014 http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/  (https://web.archive.org/web/20190607142501/http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[archive]) a few gory photos
+** 2015 https://allthatsinteresting.com/tiananmen-square-massacre "The Hidden History Of The Tiananmen Square Massacre"
+** 2019 https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary "These Horrifying Pictures Show The Tiananmen Square Protests Like You've Never Seen Them"
 
 .Sea of protesters in Tiananmen Square. No, not even that many people can influence dictatorships if they don't have weapons. https://abcnews.go.com/International/tiananmen-square-29th-anniversary-crackdown/story?id=55564966[Source].
 image::https://web.archive.org/web/20190714002904im_/https://s.abcnews.com/images/International/tiananmen-massacre-gty-04-jpo-180531_hpEmbed_3x2_992.jpg[height=600]
 
-.Corpses by the road in after the Tiananmen Square Protests were crushed. http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[Source].
-image::https://web.archive.org/web/20190607142501im_/http://www.ursulagauthier.fr/wp-content/uploads/2014/10/Tiananmen-7-715x1024.jpg[height=600]
+.https://en.wikipedia.org/wiki/Pu_Zhiqiang[Pu Zhiqiang (浦志强)], a student demonstrator during the Tiananmen Square protests of 1989. His shirt reads,"We want freedom of newspapers, freedom of associations, also to support the 'World Economic Herald', and support those just journalists." (TODO Chinese transcription) May 10, 1989. Pu remained in China as a human rights layer, and https://www.bbc.co.uk/news/world-asia-china-35157525[was sent to jail in 2014]. https://allthatsinteresting.com/tiananmen-square-massacre[Source].
+image::https://web.archive.org/web/20191123101626im_/https://allthatsinteresting.com/wordpress/wp-content/uploads/2015/06/pu-zhiqiang-protest.jpg[height=500]
+
+.Students from Beijing University stage a huge demonstration in Tiananmen Square as they start an unlimited hunger strike as the part of mass pro-democracy protest against the Chinese government, on May 18, 1989. Catherine Henriette/AFP/Getty Images. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
+image::https://web.archive.org/web/20190816074546im_/https://cdn.theatlantic.com/assets/media/img/photo/2014/06/tiananmen-square-25-years-ago/t04_52017200/main_1200.jpg?1420497899[height=400]
+
+.Happy protesters surround army convoy of 4,000 not so happy soldiers on May 20, 1989. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
+image::https://web.archive.org/web/20191104220423im_/https://media.pri.org/s3fs-public/styles/w2304/public/images/2019/06/20190601tiananmen9.jpg?itok=UciBSEHP[]
+
+.A young woman is caught between civilians and Chinese soldiers, who were trying to remove her from an assembly near the Great Hall of the People in Beijing, on June 3, 1989. AP Photo/Jeff Widener. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
+image::https://web.archive.org/web/20190816074546im_/https://cdn.theatlantic.com/assets/media/img/photo/2014/06/tiananmen-square-25-years-ago/t21_06030443/main_1200.jpg?1420497909[height=400]
 
 .Godzilla https://en.wikipedia.org/wiki/Li_Peng[Li Peng (李鹏)] crushing the Tiananmen Square protests with his green eye laser beams. https://en.uncyclopedia.co/wiki/File:Li_at_Tiananmen_Eyebeams.jpg[Source].
-image::https://web.archive.org/save/_embed/https://images.uncyclomedia.co/uncyclopedia/en/d/dd/Li_at_Tiananmen_Eyebeams.jpg[height=400]
+image::https://web.archive.org/web/20200313094607if_/https://images.uncyclomedia.co/uncyclopedia/en/d/dd/Li_at_Tiananmen_Eyebeams.jpg[height=400]
+
+.Protester covered in blood holding an army helmet. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
+image::https://web.archive.org/web/20191104220423im_/https://media.pri.org/s3fs-public/styles/w2304/public/images/2019/06/20190601tiananmen5.jpg?itok=ex5BwXbv[height=500]
+
+.Bodies by the road in after the Tiananmen Square Protests were crushed. http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[Source].
+image::https://web.archive.org/web/20190607142501im_/http://www.ursulagauthier.fr/wp-content/uploads/2014/10/Tiananmen-7-715x1024.jpg[height=600]
+
+.Bodies with gun wounds at the mortuary at Shuili hospital. https://www.nytimes.com/2019/05/30/world/asia/tiananmen-square-protest-photos.html[Source].
+image::https://web.archive.org/web/20191208063503if_/https://static01.nyt.com/images/2019/05/30/world/00tiananmen-images-15/00tiananmen-images-15-superJumbo.jpg[height=500]
+
+.A Chinese couple on a bicycle take cover beneath an underpass as tanks deploy overhead in eastern Beijing, on June 5, 1989. AP Photo/Liu Heung Shing. This one is almost poetic. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
+image::https://web.archive.org/web/20190816074546im_/https://cdn.theatlantic.com/assets/media/img/photo/2014/06/tiananmen-square-25-years-ago/t42_06050128/main_1200.jpg?1420497920[height=500]
+
+.Family members try to comfort a mother who has just learned of her son's death after he was killed by soldiers at Tiananmen Square, June 4. https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary[Source].
+image::https://web.archive.org/web/20190610212031/https://img.buzzfeed.com/buzzfeed-static/static/2019-06/4/12/asset/buzzfeed-prod-web-02/sub-buzz-30462-1559664775-8.jpg?downsize=1600:*&output-format=auto&output-quality=auto[height=500]
+
+.The morning after the military crackdown of the pro-democracy protesters in Tiananmen Square, workers clean their posters from bulletin boards. Resume <<censorship>> as usual. https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary[Source].
+image::https://web.archive.org/web/20190610212031/https://img.buzzfeed.com/buzzfeed-static/static/2019-06/4/12/asset/buzzfeed-prod-web-01/sub-buzz-11644-1559664808-1.jpg?downsize=1600:*&output-format=auto&output-quality=auto[height=500]
 
 [[tiananmen-songs]]
 ===== Tiananmen Square Protests songs 六四事件歌曲
@@ -3441,6 +3485,10 @@ image::https://web.archive.org/save/_embed/https://i.kym-cdn.com/photos/images/n
 
 .it8Bit https://en.wikipedia.org/wiki/Final_Fantasy_VI[Final Fantasy 6] battle screen style depiction of tank man by Cody Walton. https://www.it8bit.com/post/25860395424/unknown-rebel[Source]
 image::http://web.archive.org/web/20200301203622if_/https://66.media.tumblr.com/tumblr_m66n5i3smc1qbw2q1o1_1280.png[height=600]
+
+===== Tiananmen Square Protests keywords
+
+* https://qz.com/698990/261-ways-to-refer-to-the-tiananmen-square-massacre-in-china/ 261 ways to refer to the Tiananmen Square Massacre in China
 
 [[dissidents]]
 == Dissidents 持不同政见者
@@ -3571,6 +3619,7 @@ News and reports:
 ** https://en.wikipedia.org/wiki/Tuidang_movement
 * http://dongtaiwang.com
 ** https://en.wikipedia.org/wiki/Freegate
+* https://twitter.com/jenniferatntd Jennifer Zeng 曾錚 https://en.wikipedia.org/wiki/Jennifer_Zeng
 
 ===== New Tang Dinasty Television
 
@@ -3649,7 +3698,7 @@ Humour is the greatest weapon against <<dictatorship,dictators>>:
 * https://en.wikipedia.org/wiki/State_Religious_Affairs_Bureau_Order_No._5 officially named "Measures on the Management of the Reincarnation of Living Buddhas" (藏传佛教活佛转世管理办法)
 * https://www.reddit.com/r/China/comments/3pqljx/zimbabwes_ruthless_dictator_mugabe_wins_chinas/ 2015 Zimbabwe dictator wins Confucius prize
 * http://www.miniharm.com/
-* South Park S32 E1 "Band in China" (2019), episode criticizing Chinese censorship
+* South Park S32 E1 "Band in China" (2019), episode criticizing <<censorship,Chinese censorship>>
 ** free preview https://www.youtube.com/watch?v=g6DI6XuvCwE
 ** free episode but only for US / Canada... https://southpark.cc.com/full-episodes/s23e02-band-in-china
 ** reply from show creators to censorship https://twitter.com/SouthPark/status/1181273539799736320
@@ -3717,6 +3766,9 @@ Known primarily for its mine, which was one of the oldest operating companies in
 
 [[censorship]]
 === Censorship 审查
+
+.https://en.wikipedia.org/wiki/Eric_Drooker[Eric Drooker]'s "Cenroship" (TODO year) has become one of the most recognizable censorship symbols as of 2020. http://www.drooker.com/illustrations[Source].
+image::https://web.archive.org/web/20200313090742if_/https://images.squarespace-cdn.com/content/v1/56b6ef88a3360c8cda5f4ec5/1455664972210-ZH3TLGYYZ2ACRHT3SG32/ke17ZwdGBToddI8pDm48kPC_zjTA3UYFvUlg9ipOEJx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URB8do3-7hcAcpn6rB6iKr1pTef0AlszvevyZwBc1CWewPPt5b224fdRayPxZIHRuA/censorship.jpg?format=1500w[height=400]
 
 ==== The Great Firewall is necessary to protect China from harmful USA propaganda
 
@@ -3853,7 +3905,7 @@ Then create an account on an American website, and start posting about censored 
 
 Here is one concrete and well documented example: <<zhihu-purge>>.
 
-Or maybe why not go out on the street in China with a T-shirt with censored words and share some photos online? <<t-shirt>>.
+Or maybe why not <<t-shirt,go out on the street in China with a T-shirt with censored words and share some photos online>>? 
 
 [[t-shirt]]
 ====== What happens if you wear a T-shirt with censored words in China?
