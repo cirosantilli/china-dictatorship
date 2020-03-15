@@ -17,6 +17,16 @@ image:https://web.archive.org/web/20191013080128if_/https://i.redd.it/c9q6vdybr7
 
 toc::[]
 
+[[about]]
+== About 关于
+
+This repo has the following goals:
+
+* allow copy pasting links to answers to questions/comments that have been posted a million times before by <<wumao>>, mostly under: <<faq>>. This was the original goal.
+* serve as a censorship bomb to block GitHub in China: <<keyword-attack>>
+* be a fun and sometimes silly source of Chinese mostly anti-CCP culture like a better https://en.uncyclopedia.co/wiki/China[Unencyclopedia] / http://web.archive.org/web/20191209021646/http://encyclopediadramatica.rs/China[Encyclopedia Dramatica] without the stupid stereotype jokes. Just quickly browse the pictures with Ctrl + F "Figure" and have fun
+* serve as a place where people can post interesting related stuff in the issues: https://github.com/cirosantilli/china-dictatorship/issues see also: <<shitpost>>
+
 [[faq]]
 == FAQ 常见问答集
 
@@ -190,7 +200,7 @@ This is also well illustrated in the link:https://en.wikipedia.org/wiki/Chernoby
 .Chernobyl scene where the reactor explodes, and a chief engineer "Comrade Dyatlov" accepts the 3.6 Roentgen measurement as "Not great, not terrible" and forwards it to his superiors who take actions based on that, even though the radiation measurement apparatus only goes up to 3.6 Roentgen. Needless to say, the actual radiation was much, much higher. The URSS only admitted Chernobyl three days after when Swedish nuclear plant alarms started going off. In order to keep it secret, they for example did not cancel the https://time.com/4313139/post-chernobyl-parade/[International Workers’ Day parade in Kharkov, Ukraine which happened five days after the disaster]. https://www.youtube.com/watch?v=M6kYod3_gwk[Source].
 video::M6kYod3_gwk[youtube,height=400,width=600]
 
-.Photo of a CDV-717 radioactivity meter that maxes out at 3.6 Roentgen like the one that would have been used in Chernobyl. https://www.reddit.com/r/ChernobylTV/comments/bnio6n/36_roentgen_on_a_cdv717/[Source]
+.Photo of a CDV-717 radioactivity meter that maxes out at 3.6 Roentgen like the one that would have been used in Chernobyl. https://www.reddit.com/r/ChernobylTV/comments/bnio6n/36_roentgen_on_a_cdv717/[Source].
 image::https://web.archive.org/web/20191102143219if_/https://i.redd.it/f806kp316ox21.jpg[height=400]
 
 This suggestion is even more explicit in the fictional https://en.wikipedia.org/wiki/World_War_Z[World War Z] 2006 novel by https://en.wikipedia.org/wiki/Max_Brooks[Max Brooks] about a <<corona,virus>> outbreak in China. It was later adapted into the https://en.wikipedia.org/wiki/World_War_Z_(film)[World War Z (2013)] movie by https://en.wikipedia.org/wiki/Paramount_Pictures[Paramount]:
@@ -334,7 +344,7 @@ But how would they be interested in politics or be able to discuss, if it is imp
 
 What about the <<tiananmen,1 million people in Tiananmen>> and the 70 million <<falun-gong>> followers? Did they not care?
 
-.<<rebel-pepper>> cartoon about a pig who does not care about politics because it cannot be eaten. 民主又不能当饭吃 https://twitter.com/remonwangxt/status/1131398147253710850[Source]
+.<<rebel-pepper>> cartoon about a pig who does not care about politics because it cannot be eaten. 民主又不能当饭吃 https://twitter.com/remonwangxt/status/1131398147253710850[Source].
 image::http://web.archive.org/web/20191220204455if_/https://pbs.twimg.com/media/D7OImmpWsAEYXEN.jpg[height=600]
 
 .Translation by Ciro Santilli of the Rebel Pepper cartoon about the pig who does not care about politics because it cannot be eaten.
@@ -856,7 +866,7 @@ They were poisoned with Novichok, a Soviet-era nerve agent.
 .The assassination suspects Alexander Mishkin (Алекса́ндр Евге́ньевич Ми́шкин, alias Alexander Petrov) and Anatoliy Chepiga (Анатолий Владимирович Чепига, alias Ruslan Boshirov) in a CCTV still at Salisbury Station on 3rd March 2018 the day before the assassination. Both GRU and Alexander being a doctor, which is consistent with a poisoning assassination attempt. They later explained on an RT interview that they were visiting the https://en.wikipedia.org/wiki/Salisbury_Cathedral[world renowed Salisbury Cathedral] in their 3 day trip to the UK, and that they were not gay. https://www.theguardian.com/uk-news/2018/sep/05/planes-trains-and-fake-names-the-trail-left-by-skripal-suspects[Source].
 image::http://web.archive.org/web/20200313103134if_/https://i.guim.co.uk/img/media/31a18fa18d2fedb11136fc3d2c39952e4aec1ce5/0_97_1114_668/master/1114.jpg?width=620&quality=85&auto=format&fit=max&s=19c40235440efb1be4b1b8d9ef1b87d7[height=400]
 
-."Full Skripal case interview with the UK's suspects (EXCLUSIVE)" by RT with Alexander Petrov and Ruslan Boshirov. Gay moment at: https://youtu.be/Ku8OQNyI2i0?t=461[461]. https://www.youtube.com/watch?v=Ku8OQNyI2i0[Source].
+."Full Skripal case interview with the UK's suspects (EXCLUSIVE)" by RT with Alexander Petrov and Ruslan Boshirov. Not gay moment at: https://youtu.be/Ku8OQNyI2i0?t=461[461]. https://www.youtube.com/watch?v=Ku8OQNyI2i0[Source].
 video::Ku8OQNyI2i0[youtube,height=400,width=600]
 
 [[putin]]
@@ -868,6 +878,9 @@ https://en.wikipedia.org/wiki/Vladimir_Putin | https://ru.wikipedia.org/wiki/П�
 
 .The possibly Gay Putin clown image banned in 2017. https://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay[Source].
 image::https://web.archive.org/web/20200312233919if_/https://cdn1.i-scmp.com/sites/default/files/styles/1200x800/public/images/methode/2017/04/06/0a2ae706-1a94-11e7-b4ed-ac719e54b474_1280x720_145124.jpg[height=400]
+
+.Possibly Gay Putin kissing possibly Gay <<flg-trump,Trump>> mural entitled https://en.wikipedia.org/wiki/Make_Everything_Great_Again[Make Everything Great Again] painted in Lithuania in 2016 by by artists Dominykas Čečkauskas and Mindaugas Bonanu. It references the https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections[Russian interference in the 2016 United States elections]. It was https://www.theguardian.com/world/2016/aug/12/vandals-censor-image-of-putin-snogging-trump-lithuania[later vandalized]. Now we just need a Putin <<xi-jinping>> kiss. https://www.euractiv.com/section/global-europe/opinion/putin-will-pay-a-high-price-for-trumps-friendship/[Source].
+image::https://web.archive.org/web/20191022004820if_/https://en.euractiv.eu/wp-content/uploads/sites/2/2016/11/Putin-Trump-kiss-800x450.jpg[height=400]
 
 [[stalin]]
 ==== Stalin 斯大林
@@ -1002,7 +1015,7 @@ image::http://web.archive.org/web/20200209012342if_/https://kpopalypse.files.wor
 
 Not as of 2019, he has only visited once in 2012, and it was <<does-ciro-santilli-hate-china,amazingly beautiful>>.
 
-.Ciro Santilli with a stone carved https://en.wikipedia.org/wiki/Budai[Budai] in the https://en.wikipedia.org/wiki/File:Maitreya_and_disciples_carving_in_Feilai_Feng_Caves.jpg[Feilai Feng caves] near the https://en.wikipedia.org/wiki/Lingyin_Temple[Lingyin Temple] in Hangzhou taken during his legendary 2012 touristic trip to China. Will he ever be able to go to China again to re-experience such marvelous locations? If the CCP falls before he dies, and if the statue hasn't been destroyed by the commies, Ciro will return to that exact spot and take a second picture. How will he look like?
+.Ciro Santilli with a stone carved https://en.wikipedia.org/wiki/Budai[Budai (布袋和尚)] in the https://en.wikipedia.org/wiki/File:Maitreya_and_disciples_carving_in_Feilai_Feng_Caves.jpg[Feilai Feng caves (飞来峰)] near the https://en.wikipedia.org/wiki/Lingyin_Temple[Lingyin Temple (灵隐寺)] in Hangzhou taken during his legendary 2012 touristic trip to China. Will he ever be able to go to China again to re-experience such marvelous locations? If the CCP falls before he dies, and if the statue hasn't been destroyed by the commies, Ciro will return to that exact spot and take a second picture. How will he look like?
 image::{cirosantilli-media-base}/Ciro_Santilli_with_a_stone_carved_Budai_in_the_Feilai_Feng_caves_near_the_Lingyin_Temple_in_Hangzhou_in_2012.jpg[height=500]
 
 But he doesn't think it is a good idea for him to do that now, in case his Visa got accepted, because he is not interested in learning about the Chinese jail system! :-)
@@ -1051,7 +1064,7 @@ He hasn't tried to learn characters, too much effort, but he did learn the most 
 
 Ciro really wishes he could learn more, but he has other more important endeavours at the moment :-(
 
-He initially learnt from book that come with audio recordings in the first 6-months to 1 year in 2010, but that got impossibly boring afterwards, so he later moved to just basically talking as much as possible non-important things to <<why-does-ciro-santilli-love-china-so-much,his wife in Chinese>>, and whenever he reachs one that I don't know that seems useful, he Plecos it up or just 怎么说 and then Pleco.
+He initially learnt from book that come with audio recordings in the first 6-months to 1 year in 2010, but that got impossibly boring afterwards, so he later moved to just basically talking as much as possible non-important things to <<why-does-ciro-santilli-love-china-so-much,his wife in Chinese>>, and whenever he reaches one that I don't know that seems useful, he Plecos it up or just 怎么说 and then Pleco.
 
 Spoken Chinese is in Ciro's opinion a relatively easy language to learn from scratch, because word formation is so often logical:, e.g.:
 
@@ -1064,7 +1077,7 @@ Ciro loves this language.
 
 Please just get rid of the Chinese characters and move to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export. Characters are beautiful, but just take too much time for any sane adult to learn, it's harder than C++!
 
-.The "fictional" Chinese character "Dou" from https://en.wikipedia.org/wiki/Uncyclopedia[Uncyclopedia] is roughly translated as "Impossibly complex pictogram-based writing system that takes a person a thousand thousand years to learn." and illustrates well why pictograms are a bad idea. This https://www.youtube.com/watch?v=t_cbW5JK9WM[video by Vladimir Skultety] does a more serious analysis of that. https://uncyclopedia.ca/wiki/File:Chinese_character_extreme.svg[Source].
+.The "fictional" Chinese character "Dou" from https://en.wikipedia.org/wiki/Uncyclopedia[Uncyclopedia] is roughly translated as "Impossibly complex pictogram-based writing system that takes a person a thousand thousand years to learn." and illustrates well why pictograms are a bad idea. Maybe the commies for once <<richer,did something good>> by introducing https://en.wikipedia.org/wiki/Simplified_Chinese_characters[simplified Chinese characters (简化字)]? This https://www.youtube.com/watch?v=t_cbW5JK9WM[video by Vladimir Skultety] does a more serious analysis of that. https://uncyclopedia.ca/wiki/File:Chinese_character_extreme.svg[Source].
 image::https://uncyclopedia.ca/w/images/e/e1/Chinese_character_extreme.svg[height=400]
 
 ==== Why did you start the keyword attack?
@@ -1850,7 +1863,7 @@ The UK for example was trying hard to get kicked out of the 5 eyes in 2020 by us
 
 * https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html (https://web.archive.org/web/20200129023355/https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html[archive]) "UK will allow Huawei to help build its 5G network despite US pressure"
 
-."When you send a good joke from your Huawei phone", <<xi-jinping,Xi>> is also listening and laughing with you girls.  https://i.redd.it/nodgcqmwtcg31.jpg[Source]
+."When you send a good joke from your Huawei phone", <<xi-jinping,Xi>> is also listening and laughing with you girls.  https://i.redd.it/nodgcqmwtcg31.jpg[Source].
 image::http://web.archive.org/web/20190814074955/https://i.redd.it/nodgcqmwtcg31.jpg[height=600]
 
 ===== What should Western media do about China?
@@ -1887,7 +1900,7 @@ Some hell known companies and events:
 .Chinese flag with Apple characteristics. https://techcrunch.com/2015/08/11/apple-shares-tumble-5-amidst-china-concerns/[Source].
 image::https://web.archive.org/web/20200305101324/https://techcrunch.com/wp-content/uploads/2015/04/apple-china.png?w=1390&crop=1[height=400]
 
-Boycott entreteiners who support the CCP:
+Boycott entertainers who support the CCP:
 
 * https://en.wikipedia.org/wiki/Jackie_Chan#Political_views_and_controversy[Jackie Chan 陳港生] even though he is born in Hong Kong
 ** https://www.youtube.com/watch?v=m3T_Dd3O1UM spoke against the <<2019-hong-kong-anti-extradition-bill-protests>>
@@ -2762,6 +2775,7 @@ Still, those representatives cannot gain power if there is no backing desire fro
 
 The only advantage of <<richer,democracy>>, is that those representatives have to pretend harder to do things for that group to retain their power.
 
+[[flg-trump]]
 ===== FLG supports Donald Trump
 
 <<ciro-santilli>> believes he has heard praises to Trump directly in <<li-hongzhi,Li Hongzhi>>'s speeches, but could not find a source.
@@ -3483,7 +3497,7 @@ image::https://web.archive.org/web/20140722052337im_/http://petapixel.com/assets
 .Rough https://en.wikipedia.org/wiki/Lego[Lego] model of the Tank Man scene. https://knowyourmeme.com/photos/1499216-tank-man[Source].
 image::https://web.archive.org/web/20200315112433if_/https://i.kym-cdn.com/photos/images/newsfeed/001/499/216/29f.png[height=400]
 
-.it8Bit https://en.wikipedia.org/wiki/Final_Fantasy_VI[Final Fantasy 6] battle screen style depiction of tank man by Cody Walton. https://www.it8bit.com/post/25860395424/unknown-rebel[Source]
+.it8Bit https://en.wikipedia.org/wiki/Final_Fantasy_VI[Final Fantasy 6] battle screen style depiction of tank man by Cody Walton. https://www.it8bit.com/post/25860395424/unknown-rebel[Source].
 image::http://web.archive.org/web/20200301203622if_/https://66.media.tumblr.com/tumblr_m66n5i3smc1qbw2q1o1_1280.png[height=600]
 
 ===== Tiananmen Square Protests keywords
@@ -3513,8 +3527,11 @@ Profiles and news:
 
 * 2020-01-28 https://www.inkstonenews.com/society/chinas-mma-fighter-xu-xiaodong-fight-survival/article/3047417
 
-.Uphold science, eradicate superstition "崇尚科学，破除迷信" 1999 poster by the CCP created as an <<falun-gong,anti-Falun Gong>> propaganda likely based on a http://www.people.com.cn/GB/channel1/10/20000710/137317.html[more widely widespread slogan] (https://web.archive.org/web/20090428155413/http://www.people.com.cn/GB/channel1/10/20000710/137317.html[archive]). So why is Xiaodong not being supported by the CCP now that he is beating superstition back into its place? Once again, <<censorship-makes-countries-poorer>>. The poster features images related to the https://chineseposters.net/themes/space-program.php[Chinese space program], which is a major undertaking of the CCP and widely used propaganda point. https://chineseposters.net/themes/falun-gong.php[Source].
+.Uphold science, eradicate superstition "崇尚科学 破除迷信" 1999 poster by the CCP created as an <<falun-gong,anti-Falun Gong>> propaganda likely based on a http://www.people.com.cn/GB/channel1/10/20000710/137317.html[more widely widespread slogan] (https://web.archive.org/web/20090428155413/http://www.people.com.cn/GB/channel1/10/20000710/137317.html[archive]). So why is Xiaodong not being supported by the CCP now that he is beating superstition back into its place? Once again, <<censorship-makes-countries-poorer>>. The poster features images related to the https://en.wikipedia.org/wiki/Chinese_space_program[Chinese space program 中华人民共和国航天], which is a major undertaking of the CCP and widely used propaganda point. https://chineseposters.net/themes/falun-gong.php[Source].
 image::http://web.archive.org/web/20191206090021im_/http://chineseposters.net/images/e13-891.jpg[height=600]
+
+.1962 propaganda poster for the Chinese Space program. "Uphold science, eradicate superstition"? Nah, the moon is obviously populated by https://en.wikipedia.org/wiki/Chang'e[Chang'e (嫦娥)], the Chinese Goddess of the moon, which is one of the names for the https://en.wikipedia.org/wiki/Chinese_Lunar_Exploration_Program[Chinese Lunar Exploration Program (中国探月工程,嫦娥工程)]. Other good https://chineseposters.net/themes/space-program.php[Chinese space program posters]. Also note the emphasis on making babies, the <<one-child-policy>> comes to mind. https://chineseposters.net/posters/e15-824.php[Source].
+image::https://web.archive.org/web/20200131012103im_/https://chineseposters.net/images/e15-824.jpg[height=500]
 
 .2017 Xu Xiaodong (MMA) Vs. Wei Lei (Tai Chi) summary GIF. https://www.inkstonenews.com/society/chinas-mma-fighter-xu-xiaodong-fight-survival/article/3047417[Source].
 image::http://web.archive.org/web/20200201020038if_/https://cdn.i-scmp.com/sites/default/files/d8/images/2020/01/24/01.gif[height=400]
@@ -3708,7 +3725,7 @@ Humour is the greatest weapon against <<dictatorship,dictators>>:
 .Weibo logo vs Sauron's eye 微博标志vs索倫魔眼 by Ciro Santilli.
 image::https://web.archive.org/web/20191013080406if_/https://i.imgur.com/eKPmYyz.png[height=400]
 
-=== Cartoonists
+=== Cartoonists 漫画家
 
 Reasonable lists:
 
@@ -3770,7 +3787,7 @@ Known primarily for its mine, which was one of the oldest operating companies in
 .https://en.wikipedia.org/wiki/Eric_Drooker[Eric Drooker]'s "Cenroship" (TODO year) has become one of the most recognizable censorship symbols as of 2020. http://www.drooker.com/illustrations[Source].
 image::https://web.archive.org/web/20200313090742if_/https://images.squarespace-cdn.com/content/v1/56b6ef88a3360c8cda5f4ec5/1455664972210-ZH3TLGYYZ2ACRHT3SG32/ke17ZwdGBToddI8pDm48kPC_zjTA3UYFvUlg9ipOEJx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URB8do3-7hcAcpn6rB6iKr1pTef0AlszvevyZwBc1CWewPPt5b224fdRayPxZIHRuA/censorship.jpg?format=1500w[height=400]
 
-==== The Great Firewall is necessary to protect China from harmful USA propaganda
+==== The Great Firewall is necessary to protect China from harmful USA propaganda and data collection
 
 I don't think this is below the USA, but:
 
@@ -3779,6 +3796,9 @@ I don't think this is below the USA, but:
 * maybe this fear is greatly emphasised by the Chinese government beyond truth just to help them keep control of the country by fear and maintain their own power. Can the Americans really have that much influence in your country? <<fear-of-west>>
 * maybe the regions that want to split from China feel like China is not giving them anything back, and they are themselves looking for allies outside of China to help them split. With democracy, people are more likely to get what they want, and there will be split parties and votes.
 * the same argument can be used to justify any action, no matter how bad. E.g.: we must put all who criticize the government in jail, or else they will make China less united and weaker against the USA!
+
+.Faithful https://en.wikipedia.org/wiki/Google_China[Google China (谷歌)] users/employees made a funeral-like flower tribute on the company's entry sign in Beijing https://en.wikipedia.org/wiki/Tuspark[Tsinghua Science Park] when the company was https://en.wikipedia.org/wiki/Operation_Aurora[kicked/hacked out of China in the 2010 Operation Aurora]. This was one example of the unfair <<what-should-western-countries-do-about-china,joint venture technique imposed on foreign companies>> by China. https://qz.com/1352137/why-internet-users-chose-baidu-over-google-when-it-was-in-china/[Source].
+image::https://web.archive.org/web/20200315134918if_/https://cms.qz.com/wp-content/uploads/2018/08/google-china-flowers-baidu.jpg?quality=75&strip=all&w=1600&h=901[height=400]
 
 [[internal-censorship]]
 ===== Internal censorship is necessary to prevent fake USA accounts from creating harmful propaganda
@@ -3853,7 +3873,7 @@ image::https://web.archive.org/web/20070825092952im_/http://www.e-gov.org.cn/Art
 .Jingjing and Chacha picture shown on the street, presumably in China. https://www.vice.com/en_us/article/bnvy38/jingjing-and-chacha[Source].
 image::https://web.archive.org/web/20200115110135if_/https://images.vice.com/vice/images/articles/meta/2012/03/06/jingjing-and-chacha-1413461637268.jpeg[height=400]
 
-.Image with Jingjing and Chacha together and explanations (深圳网络警察,Shenzhen Network Police), good for copy pasting. TODO a bit small. https://www.reddit.com/r/Cyberpunk/comments/84vbut/cute_official_mascot_design_of_chinese_internet/[Source]
+.Image with Jingjing and Chacha together and explanations (深圳网络警察,Shenzhen Network Police), good for copy pasting. TODO a bit small. https://www.reddit.com/r/Cyberpunk/comments/84vbut/cute_official_mascot_design_of_chinese_internet/[Source]..
 image::https://web.archive.org/web/20200115110425im_/https://i.redd.it/ns9jhaeel4m01.jpg[height=400]
 
 .Beijing version of the Shenzhen-created Jingjing and Chacha. TODO what does it say on the images? On car "XX网络110" (XX Internet 110) so it must be the phone number of the Internet police department. At bottom right something like (联合新作, joint XX), so likely means it is a joint action between two departments. http://www.nbcnews.com/id/20477258/ns/technology_and_science-internet/t/beijing-police-launch-virtual-web-patrol/[Source].
@@ -3970,8 +3990,15 @@ See also:
 [[wumao]]
 ==== 50 Cent Party 五毛党 (Wumao Dang)
 
-https://en.wikipedia.org/wiki/50_Cent_Party
-https://zh.wikipedia.org/wiki/网络评论员
+https://en.wikipedia.org/wiki/50_Cent_Party | https://zh.wikipedia.org/wiki/网络评论员
+
+A wise person once said:
+
+____
+It is impossible to distinguish wumaos, idiots and <<not-chinese,brain washed>> people. So we just call all of them wumaos.
+____
+
+Bibliography:
 
 * https://gking.harvard.edu/files/gking/files/50c.pdf "How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument" by "Gary King, Jennifer Pan, Margaret E. Roberts" published on 2017-04-09
 * https://www.youtube.com/watch?v=yCnnPf2OnHo "Chinese Internet Trolls Get Paid 50 Cents For Every Comment" by "laowhy86" published on 2018-09-27
@@ -4015,11 +4042,12 @@ Related news:
 
 TODO.
 
-* https://en.wikipedia.org/wiki/One-child_policy
-* https://zh.wikipedia.org/wiki/一孩政策
+https://en.wikipedia.org/wiki/One-child_policy | https://zh.wikipedia.org/wiki/一孩政策
+
+1979–2015
 
 [[music]]
-== The best Chinese traditional instrumental music albums
+== The best Chinese traditional instrumental music albums 中国传统器乐音乐
 
 Much like <<restaurants,real Chinese food>>, your mind will be blown.
 
@@ -4054,8 +4082,12 @@ Due to the language and political barrier, Chinese traditional music distributio
 
 If you find album cover pictures on Google images, the ISRC should be somewhere on the back.
 
+Other good lists:
+
+* https://www.quora.com/What-are-some-good-Chinese-classical-instrumental-album
+
 [[music-free]]
-=== Free
+=== Free music
 
 Here are the few best I've seen. Not enough to replace the non-free, but pretty good.
 
@@ -4075,7 +4107,7 @@ Here are the few best I've seen. Not enough to replace the non-free, but pretty 
 ** https://www.ibiblio.org/chinese-music/html/anthology.html#Dream music from the https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(1987_TV_series)link:++https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(1987_TV_series)++["Dream of the Red Chamber" 1987 TV series]. Amazing!!!
 
 [[music-not-free]]
-=== Not-free
+=== Non-free music
 
 ==== Master of Chinese Traditional Music
 
@@ -4097,7 +4129,8 @@ A search on Amazon leads many of their albums in loose form: https://www.amazon.
 
 TODO golden cover vs gray cover: https://www.amazon.com/dp/B000QZUFQI (http://web.archive.org/web/20190816082640/https://www.amazon.com/dp/B000QZUFQI[archive]), TODO find precise list.
 
-==== Masters of Chinese Traditional Music Solo Appreciation
+[[masters-of-chinese-traditional-music-solo-appreciation]]
+==== Masters of Chinese Traditional Music Solo Appreciation 中国民乐大师纯独奏鉴赏
 
 14-CD anthology.
 
@@ -4133,12 +4166,6 @@ The most important publisher: https://en.wikipedia.org/wiki/China_Record_Corpora
 
 One thing to try is an Amazon advanced search by label "China Record Co": https://www.amazon.com/s?i=digital-music&rh=p_33%3AChina+Record+Co&s=relevancerank&Adv-Srch-MP3-Submit.x=42&Adv-Srch-MP3-Submit.y=4&unfiltered=1&ref=sr_adv_m_digital
 
-=== Best-of lists
-
-Other lists similar to this one:
-
-* https://www.quora.com/What-are-some-good-Chinese-classical-instrumental-album
-
 [[restaurants]]
 == The best Chinese restaurants outside of China 中国以外最好的中国饭店
 
@@ -4154,6 +4181,8 @@ When you first see it, your mind is completely blown: there it was, one of the b
 We must put a stop to this madness.
 
 After you see the light and eat the real version of a dish, then when you go to a not-real restaurant you start to think: "hey, I know what dish this was supposed to be. But it could be so much more awesome!" This makes non-real restaurants twice as bad. So beware, there is no turning back.
+
+Maybe we should institute a Foodie Dictatorship (美食家独裁) that prevents such fake restaurants from hiding real Chinese food???
 
 [[resturants--rating-system]]
 ==== Rating system
