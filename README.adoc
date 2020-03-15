@@ -3388,7 +3388,8 @@ https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989 | https://zh.wik
 .Sea of protesters in Tiananmen Square. No, not even that many people can influence dictatorships if they don't have weapons. https://abcnews.go.com/International/tiananmen-square-29th-anniversary-crackdown/story?id=55564966[Source].
 image::https://web.archive.org/web/20190714002904im_/https://s.abcnews.com/images/International/tiananmen-massacre-gty-04-jpo-180531_hpEmbed_3x2_992.jpg[height=600]
 
-.https://en.wikipedia.org/wiki/Pu_Zhiqiang[Pu Zhiqiang (浦志强)], a student demonstrator during the Tiananmen Square protests of 1989. His shirt reads,"We want freedom of newspapers, freedom of associations, also to support the 'World Economic Herald', and support those just journalists." (TODO Chinese transcription) May 10, 1989. Pu remained in China as a human rights layer, and https://www.bbc.co.uk/news/world-asia-china-35157525[was sent to jail in 2014]. https://allthatsinteresting.com/tiananmen-square-massacre[Source].
+[[pu-zhiqiang-shirt]]
+.https://en.wikipedia.org/wiki/Pu_Zhiqiang[Pu Zhiqiang (浦志强)], a student demonstrator during the Tiananmen Square protests of 1989. His shirt reads: "We want freedom of newspapers, freedom of associations, also to support the 'World Economic Herald', and support those just journalists." (TODO Chinese transcription) May 10, 1989. Pu remained in China as a human rights layer, and https://www.bbc.co.uk/news/world-asia-china-35157525[was sent to jail in 2014]. https://allthatsinteresting.com/tiananmen-square-massacre[Source].
 image::https://web.archive.org/web/20191123101626im_/https://allthatsinteresting.com/wordpress/wp-content/uploads/2015/06/pu-zhiqiang-protest.jpg[height=500]
 
 .Students from Beijing University stage a huge demonstration in Tiananmen Square as they start an unlimited hunger strike as the part of mass pro-democracy protest against the Chinese government, on May 18, 1989. Catherine Henriette/AFP/Getty Images. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
@@ -3937,6 +3938,7 @@ https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shir
 Some cases where that didn't end well for them:
 
 * 2017 Li Xiaoling (李小玲) was arrested and released "on bail" for wearing a <<tiananmen,Tiananmen>> T-shirt: https://www.nchrd.org/2017/10/li-xiaoling/
+* 1989 <<pu-zhiqiang-shirt,Pu Zhiqiang (浦志强) freedom of speech shirt>> during <<tiananmen>>
 
 .In 2016 activist Quan Ping (Kwon Pyong,权平,https://twitter.com/kwonpyong[BraveJohnny]) was sent to jail for wearing a <<nazi,Xitler>>/<<xi-jinping-memes,習包子/大撒币>> t-shirt in public and posting selfies online. This photo is in front of a Government building (TODO exact location, reports say he is from https://en.wikipedia.org/wiki/Jilin_City[Jilin City 吉林] transcription of the sign on top of building: 诚信立市 https://baike.baidu.com/item/工业强市[工业强市] 依法治...) https://www.nytimes.com/2017/02/16/world/asia/china-xi-jinping-xitler-tshirt-kwon-pyong.html[New York Times coverage]. He was later sentenced and served 18 months in prison because of this: https://www.frontlinedefenders.org/en/profile/kwon-pyong[Front Line Defenders profile]. https://www.rfa.org/english/news/china/xi-jinping-tshirt-activist-confirmed-held-in-northeast-china-detention-center-12082016110338.html[Source].
 image::https://web.archive.org/web/20170630212420im_/http://www.rfa.org/english/news/china/activist-11022016120902.html/china-xitler-nov22016.jpg/image[height=400]
@@ -3970,7 +3972,7 @@ It is also worth noting that as mentioned at: https://meta.stackoverflow.com/que
 
 https://github.com/gfwlist/gfwlist
 
-Chinese people widely use this website list with browser extensions, so as to only use more expensive and risky censorship circunvention traffic when accessing certain webpages.
+Chinese people widely use this website list with browser extensions, so as to only use more expensive and risky <<censorship-circumvention>> traffic when accessing certain webpages.
 
 The result is a well maintained list of interesting websites. About half of which is porn.
 
@@ -3985,7 +3987,8 @@ See also:
 * https://github.com/gfwlist/gfwlist/issues/3 "How to use this repo?"
 * https://github.com/gfwlist/gfwlist/issues/1141 "Add categories tags to each entry"
 
-==== Censorship circumvention
+[[censorship-circumvention]]
+==== Censorship circumvention 翻墙
 
 * https://www.bypasscensorship.org
 
@@ -4671,9 +4674,10 @@ Not worth it:
 +
 1050B rue Clark
 
-== The best Chinese supermarket food products
+[[the-best-chinese-supermarket-food-products]]
+== The best Chinese supermarket food products 中国超市食物
 
-For more daily needs, when you don't want to spend more money and time at a restaurant, here are a few nice things you can get from your local Chinese supermarket.
+For more daily needs, when you don't want to spend more money and time at a restaurant, here are a few nice things you can get from your local Chinese supermarket and quickly make something good to eat.
 
 [[dumplings]]
 === Dumplings 饺子
