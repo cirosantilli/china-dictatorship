@@ -1729,7 +1729,7 @@ News source: https://www.reddit.com/r/HongKong/ Became larger than `r/china` dur
 
 https://en.wikipedia.org/wiki/Hong_Kong_97_(video_game) | https://zh.wikipedia.org/wiki/香港97_(遊戲)
 
-1995 video game realistically depicts the fight of Hong Kong against the Communist Party predicted to happen https://en.wikipedia.org/wiki/Handover_of_Hong_Kong[at the handover], featuring Bruce Lee (often represented as Jackie Chan) who returned from the grave to join the fight and kick <<jiang-zemin,Jiang Zemin's>> ass.
+1995 video game realistically depicts the fight of Hong Kong against the Communist Party predicted to happen https://en.wikipedia.org/wiki/Handover_of_Hong_Kong[at the handover], featuring Bruce Lee (often represented as <<entertainers-who-support-the-ccp,Jackie Chan>>) who returned from the grave to join the fight and kick <<jiang-zemin,Jiang Zemin's>> ass.
 
 The dead body from the game over screen was taken from a still from a video of the https://en.wikipedia.org/wiki/Bosnian_War[1992 Bosnian War]: https://www.youtube.com/watch?v=WCDWyzZyNdw
 
@@ -1900,14 +1900,6 @@ Some hell known companies and events:
 .Chinese flag with Apple characteristics. https://techcrunch.com/2015/08/11/apple-shares-tumble-5-amidst-china-concerns/[Source].
 image::https://web.archive.org/web/20200305101324/https://techcrunch.com/wp-content/uploads/2015/04/apple-china.png?w=1390&crop=1[height=400]
 
-Boycott entertainers who support the CCP:
-
-* https://en.wikipedia.org/wiki/Jackie_Chan#Political_views_and_controversy[Jackie Chan 陳港生] even though he is born in Hong Kong
-** https://www.youtube.com/watch?v=m3T_Dd3O1UM spoke against the <<2019-hong-kong-anti-extradition-bill-protests>>
-** https://www.thestandard.com.hk/section-news/fc/21/216376/Police-chief-says-Jackie-Chan-made-him
-* https://en.wikipedia.org/wiki/Liu_Yifei#Controversy[Liu Yifei 刘亦菲] who starred in the https://en.wikipedia.org/wiki/Mulan_(2020_film)[Mulan 2020] Disney movie
-** https://www.theguardian.com/world/2019/aug/16/disneys-mulan-star-sparks-call-for-boycott-with-hong-kong-stance opposed the <<2019-hong-kong-anti-extradition-bill-protests>>, notably saying "What a shame for Hong Kong". The <<chinese-government-media,People's Daily>> later quoted her: https://web.archive.org/web/20190816162331/http://en.people.cn/n3/2019/0816/c90000-9606859.html[]
-
 .2019 summary of companies that kowtow to China. https://twitter.com/hoho90272496/status/1182669015937966080[Source].
 image::https://web.archive.org/web/20191013075353if_/https://pbs.twimg.com/media/EGmvMb6XUAQgYq9?format=jpg&name=900x900[height=600]
 
@@ -1919,6 +1911,16 @@ image::https://web.archive.org/web/20191013080151if_/https://www.rfa.org/english
 
 .https://www.youtube.com/watch?v=V4WBsahU3X4 https://en.wikipedia.org/wiki/Stephen_Colbert[Stephen Colbert] comments in 2015 on how American films make a good image of China to be allowed in China by censors to increase sales.
 video::V4WBsahU3X4[youtube]
+
+===== Entertainers who support the CCP
+
+Boycott those:
+
+* https://en.wikipedia.org/wiki/Jackie_Chan#Political_views_and_controversy[Jackie Chan 陳港生] even though he is born in Hong Kong
+** https://www.youtube.com/watch?v=m3T_Dd3O1UM spoke against the <<2019-hong-kong-anti-extradition-bill-protests>>
+** https://www.thestandard.com.hk/section-news/fc/21/216376/Police-chief-says-Jackie-Chan-made-him
+* https://en.wikipedia.org/wiki/Liu_Yifei#Controversy[Liu Yifei 刘亦菲] who starred in the https://en.wikipedia.org/wiki/Mulan_(2020_film)[Mulan 2020] Disney movie
+** https://www.theguardian.com/world/2019/aug/16/disneys-mulan-star-sparks-call-for-boycott-with-hong-kong-stance opposed the <<2019-hong-kong-anti-extradition-bill-protests>>, notably saying "What a shame for Hong Kong". The <<chinese-government-media,People's Daily>> later quoted her: https://web.archive.org/web/20190816162331/http://en.people.cn/n3/2019/0816/c90000-9606859.html[]
 
 === What should pro-democracy Chinese living in China do about the dictatorship?
 
