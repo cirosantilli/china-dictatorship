@@ -2003,7 +2003,7 @@ Original creator: https://cirosantilli.com/
 [[wife]]
 ===== Ciro Santilli's wife
 
-Born and raised in China: why-does-ciro-santilli-love-china-so-much
+Born and raised in China: <<why-does-ciro-santilli-love-china-so-much>>.
 
 She and her mother do <<falun-gong>>, see also, see also: <<flg-bias>>.
 
@@ -2291,7 +2291,7 @@ Therefore, all gay people must be against the CCP:
 * 2016-03-04 https://www.theguardian.com/tv-and-radio/2016/mar/04/china-bans-gay-people-television-clampdown-xi-jinping-censorship "China bans depictions of gay people on television". One of the most prominent series banned was link:++https://en.wikipedia.org/wiki/Addicted_(web_series)++[Addicted (2016, 上瘾)].
 +
 .Widely distributed still from the Addicted 2016 series which was banned showing a presumably gay couple lying in bed. https://www.theguardian.com/tv-and-radio/2016/mar/04/china-bans-gay-people-television-clampdown-xi-jinping-censorship[Source].
-image::https://web.archive.org/save/_embed/https://i.guim.co.uk/img/media/e46c18a434972d717b3aa03e8ea4ef835d1c1e31/318_0_1809_1086/master/1809.jpg?width=620&quality=85&auto=format&fit=max&s=f358c97022133c523489fa55dbe7273b[height=400]
+image::https://web.archive.org/web/20200315112421if_/https://i.guim.co.uk/img/media/e46c18a434972d717b3aa03e8ea4ef835d1c1e31/318_0_1809_1086/master/1809.jpg?width=620&quality=85&auto=format&fit=max&s=f358c97022133c523489fa55dbe7273b[height=400]
 
 See also:
 
@@ -2332,13 +2332,13 @@ Let's try to gather some well sourced footage showing huge numbers of believers 
 * http://www.aparchive.com/search?query=falun%20gong&from=1&orderBy=OldestFirst#7e34a6 AP Archive: could not find a good one there
 
 .Thousands of Falun Gong practitioners in Guangzhou, China, 1998. https://www.theepochtimes.com/finding-the-balance-between-ancient-and-modern_2248694.html[Source].
-image::https://web.archive.org/save/_embed/https://img.theepochtimes.com/assets/uploads/2017/05/10/GuangzhouPractice_big-700x420.jpg[height=600]
+image::https://web.archive.org/web/20200315112422if_/https://img.theepochtimes.com/assets/uploads/2017/05/10/GuangzhouPractice_big-700x420.jpg[height=600]
 
 .Thousands of Falun Gong practitioners in Liaoning Industrial Exhibition, China, likely 1998. https://en.minghui.org/html/articles/2016/5/21/157091.html[Source].
 image::http://web.archive.org/web/20191108081906im_/http://falunau.org/wp-content/uploads/2016/05/1a1744bca5595d8dc0c0aa3ca1280f04.jpg[height=600]
 
 .Hundreds of Falun Gong believers in Chengdu, China, 1998. https://faluninfo.net/falun-gong-the-practice/[Source].
-image::https://web.archive.org/save/_embed/https://faluninfo.net/wp-content/uploads/2012/06/chengdu.jpg[height=500]
+image::https://web.archive.org/web/20200315112422if_/https://faluninfo.net/wp-content/uploads/2012/06/chengdu.jpg[height=500]
 
 ==== Do you believe in or practice Falun Gong?
 
@@ -3481,7 +3481,7 @@ image::https://web.archive.org/web/20191030232817im_/http://s.wsj.net/public/res
 image::https://web.archive.org/web/20140722052337im_/http://petapixel.com/assets/uploads/2013/06/duckytankman.jpg[height=600]
 
 .Rough https://en.wikipedia.org/wiki/Lego[Lego] model of the Tank Man scene. https://knowyourmeme.com/photos/1499216-tank-man[Source].
-image::https://web.archive.org/save/_embed/https://i.kym-cdn.com/photos/images/newsfeed/001/499/216/29f.png[height=400]
+image::https://web.archive.org/web/20200315112433if_/https://i.kym-cdn.com/photos/images/newsfeed/001/499/216/29f.png[height=400]
 
 .it8Bit https://en.wikipedia.org/wiki/Final_Fantasy_VI[Final Fantasy 6] battle screen style depiction of tank man by Cody Walton. https://www.it8bit.com/post/25860395424/unknown-rebel[Source]
 image::http://web.archive.org/web/20200301203622if_/https://66.media.tumblr.com/tumblr_m66n5i3smc1qbw2q1o1_1280.png[height=600]
@@ -3857,7 +3857,7 @@ image::https://web.archive.org/web/20200115110135if_/https://images.vice.com/vic
 image::https://web.archive.org/web/20200115110425im_/https://i.redd.it/ns9jhaeel4m01.jpg[height=400]
 
 .Beijing version of the Shenzhen-created Jingjing and Chacha. TODO what does it say on the images? On car "XX网络110" (XX Internet 110) so it must be the phone number of the Internet police department. At bottom right something like (联合新作, joint XX), so likely means it is a joint action between two departments. http://www.nbcnews.com/id/20477258/ns/technology_and_science-internet/t/beijing-police-launch-virtual-web-patrol/[Source].
-image::https://web.archive.org/save/_embed/http://media2.s-nbcnews.com/j/ap/bej10508281134.grid-6x2.jpg[height=400]
+image::https://web.archive.org/web/20200315112507if_/http://media2.s-nbcnews.com/j/ap/bej10508281134.grid-6x2.jpg[height=400]
 
 .Angry Chinese cop cartoons extracted from http://web.archive.org/web/20191209021646/http://encyclopediadramatica.rs/China[Encyclopedia Dramatica] with the racist subtitles removed. It is hard to be sure what is the original image that they were Photoshopped from, but they are very similar to the Beijing Jingjing and Chacha although this is not a direct copy paste of the above since several details differ. The image was uploaded in 2011 to ED. http://web.archive.org/web/20170525180028/https://encyclopediadramatica.rs/File:Preasetoshowpapers.jpg[Source].
 image::{cirosantilli-media-base}Jingjing_Chacha_angry.jpg[height=400]
@@ -3893,7 +3893,7 @@ In 2019, the European Union was considering making stricter laws about cyber sur
 * http://www.aljazeera.com/news/2017/12/eu-plans-restrict-export-dual-spy-tech-171210061410639.html
 
 .Cartoon showing how Amesys systems are used to suppress citizens in Egypt. Do you want the logo of your company to figure there instead? https://www.fidh.org/en/region/north-africa-middle-east/egypt/sale-of-surveillance-equipment-to-egypt-by-french-company-amesys[Source].
-*mage::https://web.archive.org/save/_embed/https://www.fidh.org/local/cache-gd2/86/564727cb219a210145a0dd6a1b7561.jpg?1556188970[]
+*mage::https://web.archive.org/web/20200315112732if_/https://www.fidh.org/local/cache-gd2/86/564727cb219a210145a0dd6a1b7561.jpg?1556188970[height=400]
 
 ===== China has more freedom of speech than the USA!
 
@@ -4696,16 +4696,49 @@ You have to learn how to open them with your front teeth.
 
 Once you do that, you start eating them nonstop like a machine until the bag is empty.
 
-https://en.wikipedia.org/wiki/Lao_Gan_Ma
+.Video of a Chinese dude eating sunflower seeds for 9 hours non-stop. That's a good brand to get BTW: https://zh.wikipedia.org/wiki/洽洽食品[Chacha Food (洽洽食品)]. https://www.youtube.com/watch?v=4Zh0TiEd63k[Source].
+video::4Zh0TiEd63k[youtube,height=400,width=600]
+
+[[broad-beans]]
+=== Dried broad bean snack 干蚕豆
+
+https://en.wikipedia.org/wiki/Vicia_faba | https://zh.wikipedia.org/wiki/蚕豆
+
+The name of broad bean in Chinese is interesting: it literally means "silkworm bean", because the shape of the bean looks a bit like that of a silkworm  cocoon.
+
+.http://sixfortune.com/en/[Six Fortune (六福)] is a good brand. https://www.tradewindsorientalshop.co.uk/acatalog/Six-Fortune-Prepared-Broad-Bean---170g.html[Source].
+image::https://web.archive.org/save/_embed/https://www.tradewindsorientalshop.co.uk/acatalog/Six-Fortune-Prepared-Broad-Bean-170G.jpg[height=400]
 
 [[laoganma]]
 === Lao Gan Ma crispy chilly oil 老干妈
+
+https://en.wikipedia.org/wiki/Lao_Gan_Ma | https://zh.wikipedia.org/wiki/老干妈
 
 You can basically add it to any stir fried dish ever if it is too bland.
 
 The one with peanuts or black beans is also good.
 
 Just stay away from the Chicken flavoured one. https://www.urbandictionary.com/define.php?term=eww[Eww].
+
+.You can even buy Laoganma on Amazon! https://www.amazon.com/Laoganma-Crispy-Chilli-Oil-Grams/dp/B003WC0RME[Source].
+image::https://web.archive.org/web/20190412211211if_/https://images-na.ssl-images-amazon.com/images/I/91t77uD2UiL._SL1500_.jpg[height=400]
+
+."What is Lao Gan Ma, and can you make it at home?" by "Chinese Cooking Demystified" published on Nov 19, 2019. Explains how it comes from Guizhou province cuisine (neighbours Sichuan). https://www.youtube.com/watch?v=nkTQTS2RSCU[Source].
+video::nkTQTS2RSCU[youtube,height=400,width=600]
+
+[[fansaoguang-wild-brake-pickles]]
+=== Fansaoguang Wild Brake Pickles 饭扫光野蕨菜
+
+https://en.wikipedia.org/wiki/Fiddlehead_fern | https://en.wikipedia.org/wiki/Pteridium_aquilinum | https://zh.wikipedia.org/wiki/蕨菜
+
+This is the best thing to eat with <<dumplings>> ever!!!
+
+The other flavours of the same brand are also very much worth trying.
+
+Oily, spicy and sour.
+
+.Photo of the Fansaoguang Wild Brake Pickles jar. https://52piepie.com/products/饭扫光野蕨菜-fsg-wild-brake-pickles[Source].
+image::http://web.archive.org/web/20200315123848if_/https://cdn.shopify.com/s/files/1/2288/6331/products/WeChat_Image_20180912222515_1024x1024@2x.jpg?v=1543685883[height=400]
 
 [[hot-pot]]
 === Hot pot 火锅
