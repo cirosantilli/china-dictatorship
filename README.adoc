@@ -1215,16 +1215,24 @@ It was like this: Ciro started getting interested in Chinese culture, then he st
 
 So yes, it is a chicken and egg type of thing. The fact that she is one of the most intelligent, morally upright, cute, and "never give up" person I know may have helped me choose too.
 
-[[famous]]
-==== Are you doing this just to become famous?
+[[selfish]]
+===== Ciro Santilli's China freedom campaign is selfish
 
-No, I am a selfless human being, only concerned with the greater well being of humankind.
+See also:
+
+* <<flg-bias>>
+* <<harm-programmers>>
+
+[[famous]]
+====== Ciro Santilli is doing his China freedom campaign to become famous
+
+No, he am a selfless human being, only concerned with the greater well being of humankind.
 
 More serious answer:
 
-* I believe in this. As evidence, it has limiting effects on my technological career: <<does-your-employer-support-this>>, and I don't think I can / want to become a politician
-* the more famous I am, the more impact I will have in the future
-* the more famous I am, the more feedback I have that what I've been doing has been working
+* he believes in this. As evidence, it has limiting effects on his technological career: <<does-your-employer-support-this>>, and he doesn't think he can/wants to become a politician in China if the CCP ever falls
+* the more famous Ciro is, the more impact he will have in the future
+* the more famous Ciro is, the more feedback he have that what he's been doing has been working
 
 Keyword: attention whore.
 
@@ -1232,19 +1240,18 @@ Duplicate pool:
 
 * https://github.com/cirosantilli/china-dictatorship/issues/5
 
-===== Are you doing this because it makes you feel important?
+===== Ciro Santilli is doing his China freedom campaign because it makes him feel important
 
 See: <<famous>>.
 
-==== Would you be doing this if you were in China?
+[[cia-funding]]
+===== Is Ciro Santilli's china-dictatorship campaign funded or otherwise supported by some organization?
 
-Not with my real name attached to it， see also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>
+Sure, the CIA sends ciro 10 thousand USD checks from time to time, but that doesn't change at all what he would be doing.
 
-==== Is your campaign funded or otherwise supported by some organization?
+Just kidding.
 
-Nope.
-
-But then, a shady supporting organization might require that I don't disclose their support, so maybe the best answer is that you will never know for sure.
+A shady supporting organization might require that he does not disclose their support, so maybe the best answer is that you will never know for sure.
 
 Of course, a hidden support would represent a reputation hit for both such organization and for me, which makes it less likely that I would have accepted or had such an offer.
 
@@ -1253,6 +1260,10 @@ Also consider my motivation. If your <<ciro-santilli-mother-in-law-jail,mother i
 What about you, are you funded by the CCP?
 
 See also: https://github.com/cirosantilli/china-dictatorship/blob/48a95bf57a16b85619a6ae68702d18c9a5078797/FAQ.md#flg-has-been-funded-by-the-us-government-at-least-once-therefore-it-is-evil
+
+==== Would you be doing this if you were in China?
+
+Not with my real name attached to it， see also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>
 
 ===== Does your employer support this?
 
