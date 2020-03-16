@@ -94,19 +94,15 @@ Making a statement where no one will ever see it, like a personal website, is <<
 
 Much of the best art and technology is about using something in a way that it wasn't meant to be used.
 
-Finally, the political powers of each website decide what is allowed or not on their website, and what is not allowed gets blocked. So far, Stack Overflow and GitHub's Terms of Service have said go ahead.
+Finally, the political powers of each website decide what is allowed or not on their website, and what is not allowed gets blocked. So far, Stack Overflow and GitHub's Terms of Service have said go ahead:
 
-Stack Overflow threads: <<do-stack-overflow-policies-allow-for-keyword-attacks>>.
+* <<stack-overflow>>
+* <<github>>
 
-Duplicate pool:
+Infinite duplicate pool:
 
+* https://github.com/cirosantilli/china-dictatorship/labels/meant-to-be-used
 * https://github.com/caffeine-overload/bandinchina/issues/89
-* https://github.com/cirosantilli/china-dictatorship/issues/57
-* https://github.com/cirosantilli/china-dictatorship/issues/66#issuecomment-528165637 (https://web.archive.org/web/20190911212149/https://github.com/cirosantilli/china-dictatorship/issues/66[archive])
-* https://github.com/cirosantilli/china-dictatorship/issues/75
-* https://github.com/cirosantilli/china-dictatorship/issues/78
-
-If you disagree with GitHub's Terms of Service, you can write an email to them to: support@github.com telling them that.
 
 ==== Is Ciro Santilli making programming contributions with the main intent of promoting your political agenda?
 
@@ -432,32 +428,6 @@ Remember that it is not possible for the Chinese government to block only certai
 The 2019 <<nine-nine-six-icu>> event however brought to my attention that Chinese (usually WebKit-based) browsers are already censoring HTTPS websites selectively of course, see e.g.: https://github.com/996browser/996.BROWSER/tree/77f28a36a862e3cc4d238dc47c19872156096bc4
 
 But I doubt developers use those browsers right? The only way would be for China to forbid foreign browsers entirely.
-
-===== GitHub gov-takedowns
-
-https://github.com/github/gov-takedowns
-
-GitHub has absolute transparency on Government takedowns, which is awesome: https://github.com/github/gov-takedowns/tree/master/China
-
-As of 2019 there have only been only 2 takedowns by China however, compared to dozens by <<russia>>. The Chinese commies are not big fans of transparency it seems.
-
-The message GitHub shows is:
-
-____
-Repository unavailable in your location
-
-This repository is currently disabled in your location. For more details please see the takedown notice.
-____
-
-Here are some examples of people reacting to the blocking of https://github.com/programthink/zhao/issues/38 as per https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md from China (and likely on the entire repository, which appears to be the block granularity implemented):
-
-* https://github.com/programthink/books/issues/31 (http://web.archive.org/web/20191023093618/https://github.com/programthink/books/issues/31[archive])
-* https://www.zhihu.com/question/284445884/
-* https://program-think.blogspot.com/2018/04/Zhao-at-GitHub.html?comment=1524671692761#1524671692761
-
-See also: <<programthink>>
-
-To check China only takedowns such as this, we cannot use Great Fire Analyzer, which reports the page as accessible: the only tool I could find so far to capture a page from China a bit like Web Archive was: https://www.geoscreenshot.com which takes screenshots of the websites, but the free trial is very limited, and you can't share the screenshots. See also: <<censorship-monitoring>>.
 
 [[dictator-needs-gfw]]
 === Would ending the great firewall truly end the dictatorship?
@@ -1418,18 +1388,6 @@ This type of attack is essentially an embargo.
 
 See also: <<photobombing-like-attacks>>.
 
-==== Do Stack Overflow policies allow for keyword attacks?
-
-The current consensus is yes:
-
-* https://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u
-* https://meta.stackoverflow.com/questions/267368/are-political-avatars-and-profiles-ok
-* https://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam
-* https://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam
-* https://meta.stackoverflow.com/questions/349131/users-political-display-name-triggering-government-action-against-users-who-vie
-
-The Chinese law doesn't I'm afraid :-( https://advox.globalvoices.org/2015/04/16/new-internet-rules-in-china-target-usernames-avatars-as-subversive-tools/
-
 [[anti-commie-info]]
 ==== What are the best sources of anti-commie news?
 
@@ -2031,7 +1989,67 @@ For this same reason, her father, who Ciro's wife worships, spent around 10 year
 
 === How do different websites view Ciro Santilli's profile?
 
-Stack Overflow mentioned at: <<meant-to-be-used>>.
+<<meant-to-be-used>> contains a more general overview. This contains website specifics.
+
+==== Stack Overflow
+
+The current consensus says that keyword attacks are allowed:
+
+* https://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u
+* https://meta.stackoverflow.com/questions/267368/are-political-avatars-and-profiles-ok
+* https://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam
+* https://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam
+* https://meta.stackoverflow.com/questions/349131/users-political-display-name-triggering-government-action-against-users-who-vie
+
+The Chinese law doesn't I'm afraid :-( https://advox.globalvoices.org/2015/04/16/new-internet-rules-in-china-target-usernames-avatars-as-subversive-tools/
+
+==== GitHub
+
+GitHub's site policy can be seen at: https://help.github.com/en/github/site-policy
+
+If you believe this page violates those policies, you can click the report abuse button on https://github.com/cirosantilli[Ciro's profile], which links to: https://github.com/contact/report-abuse?report=cirosantilli+%28user%29 or you can just contacat support@github.com
+
+If you do so, please feel free to also open an issue on this repository saying why you believe the site policy has been violated.
+
+Those issues will be marked with: https://github.com/cirosantilli/china-dictatorship/labels/abuse-report
+
+It will be fun to watch you try, and fail.
+
+The only thing that would work is if the Chinese government makes a gov-takedown on this repo: <<github-gov-takedowns>>, in which case: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>.
+
+===== GitHub gov-takedowns
+
+https://github.com/github/gov-takedowns
+
+GitHub has absolute transparency on Government takedowns, which is awesome: https://github.com/github/gov-takedowns/tree/master/China
+
+As of 2019 there have only been only 2 takedowns by China however, compared to dozens by <<russia>>. The Chinese commies are not big fans of transparency it seems.
+
+The message GitHub shows is:
+
+____
+Repository unavailable in your location
+
+This repository is currently disabled in your location. For more details please see the takedown notice.
+____
+
+Here are some examples of people reacting to the blocking of https://github.com/programthink/zhao/issues/38 as per https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md from China (and likely on the entire repository, which appears to be the block granularity implemented):
+
+* https://github.com/programthink/books/issues/31 (http://web.archive.org/web/20191023093618/https://github.com/programthink/books/issues/31[archive])
+* https://www.zhihu.com/question/284445884/
+* https://program-think.blogspot.com/2018/04/Zhao-at-GitHub.html?comment=1524671692761#1524671692761
+
+See also: <<programthink>>
+
+To check China only takedowns such as this, we cannot use Great Fire Analyzer, which reports the page as accessible: the only tool I could find so far to capture a page from China a bit like Web Archive was: https://www.geoscreenshot.com which takes screenshots of the websites, but the free trial is very limited, and you can't share the screenshots. See also: <<censorship-monitoring>>.
+
+====== Strategy if this repo gets added to Github gov-takedowns
+
+If this happens, we well proceed to create alternative repos `china-dictatorship-2`, `china-dictatorship-3`, etc. and it would be fun to see how that gets handled.
+
+Can they add an entire user to gov-takedowns?
+
+But remember that we also have: <<mirrors>>, and that this can be easily rendered as a single HTML page and uploaded to any static website host.
 
 [[zhihu]]
 ==== Zhihu 知乎
@@ -4816,11 +4834,12 @@ Some have Chinese subtitles, e.g.: https://www.youtube.com/watch?v=eFSMvtS6SYQ a
 ** https://github.com/taibangle/awesome-china
 ** https://github.com/taibangle/lennon-wall
 
+[[mirrors]]
 == Git mirrors of this repository
 
 The cool thing about Git is that we can maintain several mirrors on multiple websites very easily:
 
-* https://github.com/cirosantilli/china-dictatorship Canonical source
+* https://github.com/cirosantilli/china-dictatorship Canonical source. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
 * https://gitlab.com/cirosantilli/china-dictatorship Maybe some day http://gitlab.cn/ ? :-)
 * https://bitbucket.org/cirosantilli/china-dictatorship
 
