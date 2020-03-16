@@ -1221,6 +1221,7 @@ So yes, it is a chicken and egg type of thing. The fact that she is one of the m
 See also:
 
 * <<flg-bias>>
+* <<throne>>
 * <<harm-programmers>>
 
 [[famous]]
@@ -1240,12 +1241,12 @@ Duplicate pool:
 
 * https://github.com/cirosantilli/china-dictatorship/issues/5
 
-===== Ciro Santilli is doing his China freedom campaign because it makes him feel important
+====== Ciro Santilli is doing his China freedom campaign because it makes him feel important
 
 See: <<famous>>.
 
 [[cia-funding]]
-===== Is Ciro Santilli's china-dictatorship campaign funded or otherwise supported by some organization?
+====== Is Ciro Santilli's china-dictatorship campaign funded or otherwise supported by some organization?
 
 Sure, the CIA sends ciro 10 thousand USD checks from time to time, but that doesn't change at all what he would be doing.
 
