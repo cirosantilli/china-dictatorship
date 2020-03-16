@@ -23,7 +23,7 @@ toc::[]
 This repo has the following goals:
 
 * allow copy pasting links to answers to questions/comments that have been posted a million times before by <<wumao>>, mostly under: <<faq>>. This was the original goal.
-* serve as a censorship bomb to block GitHub in China: <<keyword-attack>>
+* serve as a censorship bomb to block GitHub in China: <<keyword-attack>>, and more likely: 
 * be a fun and sometimes silly source of Chinese mostly anti-CCP culture like a better https://en.uncyclopedia.co/wiki/China[Unencyclopedia] / http://web.archive.org/web/20191209021646/http://encyclopediadramatica.rs/China[Encyclopedia Dramatica] without the stupid stereotype jokes. Just quickly browse the pictures with Ctrl + F "Figure" and have fun
 * serve as a place where people can post interesting related stuff in the issues: https://github.com/cirosantilli/china-dictatorship/issues see also: <<shitpost>>
 
@@ -1216,7 +1216,7 @@ It was like this: Ciro started getting interested in Chinese culture, then he st
 So yes, it is a chicken and egg type of thing. The fact that she is one of the most intelligent, morally upright, cute, and "never give up" person I know may have helped me choose too.
 
 [[selfish]]
-===== Ciro Santilli's China freedom campaign is selfish
+==== Ciro Santilli's China freedom campaign is selfish
 
 See also:
 
@@ -1225,7 +1225,7 @@ See also:
 * <<harm-programmers>>
 
 [[famous]]
-====== Ciro Santilli is doing his China freedom campaign to become famous
+===== Ciro Santilli is doing his China freedom campaign to become famous
 
 No, he am a selfless human being, only concerned with the greater well being of humankind.
 
@@ -1241,12 +1241,12 @@ Duplicate pool:
 
 * https://github.com/cirosantilli/china-dictatorship/issues/5
 
-====== Ciro Santilli is doing his China freedom campaign because it makes him feel important
+===== Ciro Santilli is doing his China freedom campaign because it makes him feel important
 
 See: <<famous>>.
 
 [[cia-funding]]
-====== Is Ciro Santilli's china-dictatorship campaign funded or otherwise supported by some organization?
+===== Is Ciro Santilli's china-dictatorship campaign funded or otherwise supported by some organization?
 
 Sure, the CIA sends ciro 10 thousand USD checks from time to time, but that doesn't change at all what he would be doing.
 
@@ -1262,9 +1262,12 @@ What about you, are you funded by the CCP?
 
 See also: https://github.com/cirosantilli/china-dictatorship/blob/48a95bf57a16b85619a6ae68702d18c9a5078797/FAQ.md#flg-has-been-funded-by-the-us-government-at-least-once-therefore-it-is-evil
 
-==== Would you be doing this if you were in China?
+==== Would Ciro Santilli be doing his China freedom campaign if he was in China?
 
-Not with my real name attached to it， see also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>
+Not with his real name attached to it， see also:
+
+* <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>
+* <<not-chinese>>
 
 ===== Does your employer support this?
 
@@ -2027,6 +2030,8 @@ Those issues will be marked with: https://github.com/cirosantilli/china-dictator
 
 It will be fun to watch you try, and fail.
 
+This is because you do not understand how important the concept of <<richer,freedom of speech is>> in the West, and how amazing it feels when you are right, and it protects you.
+
 The only thing that would work is if the Chinese government makes a gov-takedown on this repo: <<github-gov-takedowns>>, in which case: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>.
 
 ===== GitHub gov-takedowns
@@ -2035,9 +2040,13 @@ https://github.com/github/gov-takedowns
 
 GitHub has absolute transparency on Government takedowns, which is awesome: https://github.com/github/gov-takedowns/tree/master/China
 
-As of 2019 there have only been only 2 takedowns by China however, compared to dozens by <<russia>>. The Chinese commies are not big fans of transparency it seems.
+This makes that repo into a list of fun things.
 
-The message GitHub shows is:
+As of 2019-05 there had only been only 2 takedowns by China however, compared to dozens by <<russia>>. The Chinese commies are not big fans of transparency it seems.
+
+As of 2020-03, besides the Zhao takedown, all other takedowns happened in 2019, and most seem to be <<falun-gong,Falun Gong>>/<<falun-gong-media,Epoch Times>> sponsored ways to <<censorship-circumvention,climb the wall>>.
+
+The message GitHub shows on the blocked countries is:
 
 ____
 Repository unavailable in your location
@@ -2055,7 +2064,7 @@ See also: <<programthink>>
 
 To check China only takedowns such as this, we cannot use Great Fire Analyzer, which reports the page as accessible: the only tool I could find so far to capture a page from China a bit like Web Archive was: https://www.geoscreenshot.com which takes screenshots of the websites, but the free trial is very limited, and you can't share the screenshots. See also: <<censorship-monitoring>>.
 
-====== Strategy if this repo gets added to Github gov-takedowns
+====== Strategy if this repo gets added to GitHub gov-takedowns
 
 If this happens, we well proceed to create alternative repos `china-dictatorship-2`, `china-dictatorship-3`, etc. and it would be fun to see how that gets handled.
 
@@ -2096,7 +2105,7 @@ Ciro's blocked account:
 
 Random unblocked control account: https://www.zhihu.com/people/lu-zhen-yu-96-65/activities (http://web.archive.org/web/20191103070652/https://www.zhihu.com/people/lu-zhen-yu-96-65/activities[archive]).
 
-Furthermore, all questions related to Ciro, including the posts criticizing him such as https://zhuanlan.zhihu.com/p/25600138[], were taken down. This made Ciro laugh: in China, you can't even criticize that which is censored, or your post also gets taken down.
+Furthermore, all questions related to Ciro, including the posts criticizing him such as https://zhuanlan.zhihu.com/p/25600138[] (http://archive.is/DkooN[archive]), were taken down. This made Ciro laugh: in China, you can't even criticize that which is censored, or your post also gets taken down.
 
 Ciro then created an anonymous Zhihu account after this event.
 
@@ -2658,7 +2667,7 @@ Try sending an email to <<li-hongzhi,LHZ>> asking him to <<flg-verifiable,prove 
 [[against-censorship-and-flg]]
 ==== Many people both are against censorship and FLG
 
-I know that, and that supporting FLG is "bad" for my public image with most Chinese, including those that are against censorship.
+Ciro know that, and that supporting FLG is "bad" for his public image with most Chinese, including those that are against censorship.
 
 But without censorship, there will be democracy, and with democracy FLG followers will have voting rights, and FLG will become legal.
 
@@ -2669,6 +2678,8 @@ Democracy and Communism <<democracy-is-a-religion,can also be considered as reli
 Isn't it convenient when a dictatorship gets rid of those weirdos for you? But not so much when suddenly you or your family is the weirdo...
 
 If you are not ready to accept the beliefs of others, dictatorship is the only choice for you.
+
+It is also interesting to note how Falun Gong is a good source of <<censorship-circumvention>> material.
 
 See also: <<flg-bias>>
 
@@ -4021,6 +4032,8 @@ See also:
 ==== Censorship circumvention 翻墙
 
 * https://www.bypasscensorship.org
+
+It is interesting to note how <<falun-gong>> is a good source of censorship-circumvention material, see e.g.: <<github-gov-takedowns>>.
 
 [[wumao]]
 ==== 50 Cent Party 五毛党 (Wumao Dang)
