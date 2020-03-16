@@ -465,6 +465,8 @@ Are the Chinese really that selfish to vote for this oppression, even as the <<c
 
 Minorities are put in jail because the CCP fears them. Dictatorships can only survive if there is zero difference in opinion in the population.
 
+See also: https://en.wikipedia.org/wiki/Intolerance_(film)[Intolerance (1916) film]
+
 [[stability]]
 === If anyone disagrees with the government they must be punished to keep the stability of the country
 
@@ -679,7 +681,10 @@ When the dictatorship turns again you our your family, will you fight, or will y
 
 It is easy to reach an agreement, when everyone who disagrees goes to jail or gets killed.
 
-One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy Few"]: https://www.youtube.com/watch?v=zndzntIDLFE
+One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy Few" (2018)]:
+
+.IGN review of the "We Happy Few" (2018) game. https://www.youtube.com/watch?v=zndzntIDLFE[Source].
+video::zndzntIDLFE[youtube,height=400,width=600]
 
 === There are bad things happening all over the world, why don't you fight for those causes as well / instead?
 
@@ -717,6 +722,9 @@ See also:
 * <<richer>>
 * <<preconceived>>
 * <<bias>>
+
+.https://en.wikipedia.org/wiki/Signe_Wilkinson[Signe Wilkinson] 2017 Free Speech "Can you just move it so it doesn't cover them?" umbrella cartoon. Ciro once saw a <<wumao>> post this. It made him smile. If the cartoon were about <<dictatorship,dictatorships>>, https://en.wikipedia.org/wiki/Uncle_Sam[Uncle Sam] would be instead <<intolerance,decapitating and raping the people on one half of the umbrella>>. Of course humans are <<flg-intolerance,shit in democracies as well>>, but at least that system makes it harder for them to oppress each other. http://www.cartoonistgroup.com/store/add.php?iid=161799[Source].
+image::https://web.archive.org/web/20180319052924if_/http://www.cartoonistgroup.com/properties/signe/art_images/cg599721e743615.jpg[height=400]
 
 ===== Western democracies have invaded other countries and crushed separatism
 
@@ -857,6 +865,9 @@ image::https://web.archive.org/web/20191022004820if_/https://en.euractiv.eu/wp-c
 
 .https://en.wikipedia.org/wiki/Light_Yagami[Light Yagami] from  https://en.wikipedia.org/wiki/Death_Note[Death Note]: "I can kill anyone by simply writing his name here". Stalin: "Bitch please". https://ifunny.co/picture/1-can-kill-anyone-by-simply-writing-his-name-here-TjXCcyuM2[Source].
 image::http://web.archive.org/web/20200301233451/https://img.ifunny.co/images/55cb6c5de9cde6ebe7e9d1704c7f83e6d344e8154b44299fec9b9a029aa82c34_1.jpg[height=500]
+
+.https://www.youtube.com/watch?v=ZT2z0nrsQ8o[Rasputin vs Stalin. Epic Rap Battles of History] YouTube video. This is fire. https://epicrapbattlesofhistory.fandom.com/wiki/Rasputin_vs_Stalin/Rap_Meanings[Explanations].
+video::ZT2z0nrsQ8o[youtube,height=400,width=600]
 
 === Is the Chinese government is evil?
 
@@ -2518,7 +2529,7 @@ I don't support FLG specifically, only freedom of religion.
 
 I use it in my usernames simply because it is the most banned and censored one in China today.
 
-I believe that individuals should only be put in jail for what they do, not for what they believe.
+I believe that <<thoughtcrime,individuals should only be put in jail for what they do, not for what they believe>>.
 
 I consider FLG <<flg-religion,a religion like any other>>, and I am against its ban, as I am for all other religions.
 
@@ -2788,6 +2799,7 @@ Do you think the thousands of personal of accounts of human rights violations th
 
 Conversely, there is no reliable proof that FLG is bad as claimed by CCP that has been verified by international media.
 
+[[thoughtcrime]]
 ==== Someone from movement X did something bad, therefore the movement should be banned
 
 By this logic, everyone should go to jail. The law should only punish individuals.
@@ -2797,6 +2809,8 @@ The communist party, which has had continuous power since 1949, killed millions 
 But the CCP has changed so much since those days, I hear you say.
 
 I agree. And <<flg-changed,so has FLG>>.
+
+See also: https://en.wikipedia.org/wiki/Thoughtcrime[thoughtcrime] from <<nineteen-eighty-four>>.
 
 ===== Movement X tells people to do something bad, therefore the movement should be banned
 
@@ -3017,9 +3031,10 @@ But the media is not legally obliged to state their affiliation.
 
 And if that were the case, then we should force _all_ newspapers start taking pools of how many employees follow which religion and support which political party, and then put that in their print.
 
+[[flg-intolerance]]
 ===== FLG dislikes several other groups like homosexuals and some other religions
 
-Like most old religions.
+Like most <<flg-religion,old religions>>.
 
 Democracy dislikes dictators.
 
@@ -3031,7 +3046,10 @@ But the law can't force you to like everyone.
 
 If one specific FLG member breaks a law by discriminating someone, they should be punished just like anyone else.
 
-See also: <<gay-rights>>.
+See also:
+
+* <<intolerance>>
+* <<gay-rights>>
 
 [[flg-medication]]
 ===== FLG believers are less likely to take necessary medication
@@ -3822,13 +3840,25 @@ Known primarily for its mine, which was one of the oldest operating companies in
 
 * https://www.yuumeiart.com/fisheye-placebo-chapters Fisheye Placebo by Wenqing Yan. Webcomic that talks a lot about climbing the xref:censorship[great wall]. Artist obviously pro-democracy: https://twitter.com/Yuumei_Art/status/1174394851179167744
 
+[[books]]
+== Books 书籍
+
+https://en.wikipedia.org/wiki/Book_censorship_in_China | https://zh.wikipedia.org/wiki/中华人民共和国出版物审查制度
+
+Either banned, or relevant.
+
+[[nineteen-eighty-four]]
+=== Nineteen Eighty-Four: A Novel (1984) 一九八四
+
+https://en.wikipedia.org/wiki/Nineteen_Eighty-Four | https://zh.wikipedia.org/wiki/一九八四
+
 [[policies]]
 == Policies 政策
 
 [[censorship]]
 === Censorship 审查
 
-.https://en.wikipedia.org/wiki/Eric_Drooker[Eric Drooker]'s "Cenroship" (TODO year) has become one of the most recognizable censorship symbols as of 2020. http://www.drooker.com/illustrations[Source].
+.https://en.wikipedia.org/wiki/Eric_Drooker[Eric Drooker]'s "Censorship" (TODO year) has become one of the most recognizable censorship symbols as of 2020. http://www.drooker.com/illustrations[Source].
 image::https://web.archive.org/web/20200313090742if_/https://images.squarespace-cdn.com/content/v1/56b6ef88a3360c8cda5f4ec5/1455664972210-ZH3TLGYYZ2ACRHT3SG32/ke17ZwdGBToddI8pDm48kPC_zjTA3UYFvUlg9ipOEJx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URB8do3-7hcAcpn6rB6iKr1pTef0AlszvevyZwBc1CWewPPt5b224fdRayPxZIHRuA/censorship.jpg?format=1500w[height=400]
 
 ==== The Great Firewall is necessary to protect China from harmful USA propaganda and data collection
