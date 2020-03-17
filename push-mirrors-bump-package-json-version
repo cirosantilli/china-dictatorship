@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-set -eux
 const fs = require('fs');
 const path = require('path');
 const json = JSON.parse(fs.readFileSync('package.json'));

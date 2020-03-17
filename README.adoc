@@ -1851,7 +1851,7 @@ The UK for example was trying hard to get kicked out of the 5 eyes in 2020 by us
 
 * https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html (https://web.archive.org/web/20200129023355/https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html[archive]) "UK will allow Huawei to help build its 5G network despite US pressure"
 
-."When you send a good joke from your Huawei phone", <<xi-jinping,Xi>> is also listening and laughing with you girls.  https://i.redd.it/nodgcqmwtcg31.jpg[Source].
+."When you send a good joke from your Huawei phone", <<xi-jinping>> is also listening and laughing with you, girls. https://i.redd.it/nodgcqmwtcg31.jpg[Source].
 image::http://web.archive.org/web/20190814074955/https://i.redd.it/nodgcqmwtcg31.jpg[height=600]
 
 ===== What should Western media do about China?
@@ -4902,7 +4902,7 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 * https://gitlab.com/cirosantilli/china-dictatorship Maybe some day http://gitlab.cn/ ? :-)
 * https://bitbucket.org/cirosantilli/china-dictatorship
 
-We also have an NPM package https://www.npmjs.com/package/china-dictatorship[] which can be used as:
+We also have a NPM Node.js package https://www.npmjs.com/package/china-dictatorship[]. After https://askubuntu.com/questions/594656/how-to-install-the-latest-versions-of-nodejs-and-npm/971612#971612[installing NPM], you can be use it as:
 
 ....
 npm i -g china-dictatorship

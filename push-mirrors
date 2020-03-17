@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -eux
 ./push-mirrors-bump-package-json-version
 git add package.json
 git commit -m 'bump package.json'
