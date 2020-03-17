@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+const fs = require('fs');
+const path = require('path');
+const PACKAGE_PATH = path.dirname(require.resolve(path.join(PACKAGE_NAME, 'package.json')));
+console.log(fs.readFileSync(path.join(PACKAGE_PATH, 'README.html')));

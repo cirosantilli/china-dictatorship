@@ -1056,7 +1056,11 @@ and there is no useless crap like verb conjugation, https://en.wikipedia.org/wik
 
 Ciro loves this language.
 
-Please just get rid of the Chinese characters and move to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export. Characters are beautiful, but just take too much time for any sane adult to learn, it's harder than C++!
+Please just get rid of the Chinese characters and move to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export.
+
+Yes Chinese characters are beautiful, yes, https://chinese.stackexchange.com/questions/2003/can-chinese-readers-scan-large-amounts-of-text-faster-more-accurately-than-their[maybe you can read faster], and yes, https://en.wikipedia.org/wiki/Horizontal_and_vertical_writing_in_East_Asian_scripts[vertical text (纵排)] is awesome (but is it more efficient? https://www.zhihu.com/question/22104723[Zhihu], https://www.quora.com/Can-literate-Chinese-people-easily-read-vertical-writing[Quora]).
+
+But they just take too much time for any sane adult to learn, it's harder than C++!
 
 .The "fictional" Chinese character "Dou" from https://en.wikipedia.org/wiki/Uncyclopedia[Uncyclopedia] is roughly translated as "Impossibly complex pictogram-based writing system that takes a person a thousand thousand years to learn." and illustrates well why pictograms are a bad idea. Maybe the commies for once <<richer,did something good>> by introducing https://en.wikipedia.org/wiki/Simplified_Chinese_characters[simplified Chinese characters (简化字)]? This https://www.youtube.com/watch?v=t_cbW5JK9WM[video by Vladimir Skultety] does a more serious analysis of that. https://uncyclopedia.ca/wiki/File:Chinese_character_extreme.svg[Source].
 image::https://uncyclopedia.ca/w/images/e/e1/Chinese_character_extreme.svg[height=400]
@@ -3448,7 +3452,7 @@ https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989 | https://zh.wik
 image::https://web.archive.org/web/20190714002904im_/https://s.abcnews.com/images/International/tiananmen-massacre-gty-04-jpo-180531_hpEmbed_3x2_992.jpg[height=600]
 
 [[pu-zhiqiang-shirt]]
-.https://en.wikipedia.org/wiki/Pu_Zhiqiang[Pu Zhiqiang (浦志强)], a student demonstrator during the Tiananmen Square protests of 1989. His shirt reads: "Freedom of the press, freedom of association, support the 'https://en.wikipedia.org/wiki/World_Economic_Herald[World Economic Herald (世界经济导报)]', and support just journalists." (辦報自由 結社自由 聲援link:https://zh.wikipedia.org/wiki/世界经济导报[世经导报] 支持正义记者, full quoted https://cinacn.blogspot.com/2001/07/28.html[here]) May 10, 1989. Pu remained in China as a human rights layer, and https://www.bbc.co.uk/news/world-asia-china-35157525[was sent to jail in 2014]. https://allthatsinteresting.com/tiananmen-square-massacre[Source].
+.https://en.wikipedia.org/wiki/Pu_Zhiqiang[Pu Zhiqiang (浦志强)], a student demonstrator during the Tiananmen Square protests of 1989. His shirt reads: "Freedom of the press, freedom of association, support the 'https://en.wikipedia.org/wiki/World_Economic_Herald[World Economic Herald (世界经济导报)]', and support just journalists." (辦報自由 結社自由 聲援link:https://zh.wikipedia.org/wiki/世界经济导报[世经导报] 支持正义记者, full quoted https://cinacn.blogspot.com/2001/07/28.html[here]) May 10, 1989. Pu remained in China as a human rights layer, and https://www.bbc.co.uk/news/world-asia-china-35157525[was arrested in 2014] for attending a private meeting commemorating the 25th anniversary of Tiananmen. https://allthatsinteresting.com/tiananmen-square-massacre[Source].
 image::https://web.archive.org/web/20191123101626im_/https://allthatsinteresting.com/wordpress/wp-content/uploads/2015/06/pu-zhiqiang-protest.jpg[height=500]
 
 .Students from Beijing University stage a huge demonstration in Tiananmen Square as they start an unlimited hunger strike as the part of mass pro-democracy protest against the Chinese government, on May 18, 1989. Catherine Henriette/AFP/Getty Images. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].

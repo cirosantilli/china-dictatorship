@@ -1,0 +1,23 @@
+{
+  "bin": {
+    "china-dictatorship": "china-dictatorship"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "china-dictatorship",
+    "README.adoc",
+    "README.html"
+  ],
+  "keywords": [
+    "china",
+    "dictatorship"
+  ],
+  "license": "CC-BY-SA-4.0",
+  "name": "china-dictatorship",
+  "repository": "cirosantilli/china-dictatorship",
+  "scripts": {
+    "prepublishOnly": "make"
+  },
+  "version": "0.0.0"
+}
