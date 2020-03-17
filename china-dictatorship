@@ -2,4 +2,4 @@
 const fs = require('fs');
 const path = require('path');
 const PACKAGE_PATH = path.dirname(require.resolve(path.join('china-dictatorship', 'package.json')));
-console.log(fs.readFileSync(path.join(PACKAGE_PATH, 'README.html')), 'utf8');
+console.log(fs.readFileSync(path.join(PACKAGE_PATH, 'README.html'), 'utf8'));
