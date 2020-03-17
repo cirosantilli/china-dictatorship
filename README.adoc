@@ -4902,12 +4902,14 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 * https://gitlab.com/cirosantilli/china-dictatorship Maybe some day http://gitlab.cn/ ? :-)
 * https://bitbucket.org/cirosantilli/china-dictatorship
 
-We also have an NPM package which can be used as:
+We also have an NPM package https://www.npmjs.com/package/china-dictatorship[] which can be used as:
 
 ....
 npm i -g china-dictatorship
 china-dictatorship > README.html
 ....
+
+This would force China to also block package managers to block this repo. TODO: create Ubuntu PPA as well.
 
 Update all mirrors with: link:push-mirrors[]
 
