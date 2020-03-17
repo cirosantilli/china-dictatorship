@@ -4909,7 +4909,16 @@ npm i -g china-dictatorship
 china-dictatorship > README.html
 ....
 
-This would force China to also block package managers to block this repo. TODO: create Ubuntu PPA and Python PyPi versions as well.
+This would force China to also block package managers to block this repo.
+
+We managed to upload a Python PyPi package at: https://pypi.org/project/china-dictatorship/ but TODO needs implementing now. Usage will be as:
+
+....
+python -m pip install china-dictatorship
+china-dictatorship.py > README.html
+....
+
+TODO: create an Ubuntu PPA as well.
 
 Update all mirrors with: link:push-mirrors[]
 

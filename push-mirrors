@@ -1,8 +1,23 @@
 #!/usr/bin/env bash
+
+# https://github.com/cirosantilli/china-dictatorship#mirrors
+
 set -eux
+
+# NPM package.
 ./push-mirrors-bump-package-json-version
 git add package.json
 git commit -m 'bump package.json'
+git push
 npm publish
+
+## Python package.
+## Initial one time setup.
+##python -m pip install --user setuptools wheel twine
+#python setup.py sdist bdist_wheel
+## Asks for password every time.
+#twine upload dist/*
+#rm -rf build dist *.egg-info
+
 git push git@gitlab.com:cirosantilli/china-dictatorship.git
 git push git@bitbucket.org:cirosantilli/china-dictatorship.git

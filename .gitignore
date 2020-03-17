@@ -1,2 +1,9 @@
-/README
 /README.html
+
+# NPM README
+/README
+
+# Python distribution/packaging.
+/*.egg-info/
+/build/
+/dist/
