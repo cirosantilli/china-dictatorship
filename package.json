@@ -19,5 +19,5 @@
   "scripts": {
     "prepublishOnly": "make"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
