@@ -7,3 +7,8 @@
 /*.egg-info/
 /build/
 /dist/
+
+# Tests.
+*.tmp
+tmp.*
+*.tmp.*

@@ -4918,9 +4918,15 @@ python -m pip install china-dictatorship
 china-dictatorship.py > README.html
 ....
 
-TODO: create an Ubuntu PPA as well.
+We later found on Google by chance that libraries.io picked it up and rendered the README nicely as well: https://libraries.io/pypi/china-dictatorship (https://web.archive.org/web/20200318043050/https://libraries.io/pypi/china-dictatorship[archive]). This is why packaging is a good idea.
 
-Update all mirrors with: link:push-mirrors[]
+TODO: create an Ubuntu PPA and Ruby gem as well.
+
+Update all mirrors in one go with: link:push-mirrors[]:
+
+....
+./push-mirrors
+....
 
 == Backlinks to this repository
 
