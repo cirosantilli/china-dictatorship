@@ -1,0 +1,7 @@
+# Or else pip install cannot find README.adoc on the setup.py
+include README.adoc
+include README.html
+
+# These actually add the file.
+include china_dictatorship/README.adoc
+include china_dictatorship/README.html
