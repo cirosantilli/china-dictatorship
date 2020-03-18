@@ -4918,8 +4918,6 @@ python3 -m pip install --user --upgrade china-dictatorship
 china-dictatorship.py > README.html
 ....
 
-but TODO currently broken because the README.adoc/README.html don't get installed no matter what I try, fucking terrible Python distribution system.
-
 We later found on Google by chance that libraries.io picked it up and rendered the README.adoc nicely as well: https://libraries.io/pypi/china-dictatorship (https://web.archive.org/web/20200318043050/https://libraries.io/pypi/china-dictatorship[archive]). This is why packaging is a good idea.
 
 TODO: create an Ubuntu PPA and Ruby gem as well.
