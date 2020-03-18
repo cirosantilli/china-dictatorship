@@ -13,9 +13,9 @@ npm publish
 git add package.json
 
 # Python package.
-# Initial one time setup.
 ./push-mirrors-bump-setup-py-version
-python -m pip install --user setuptools wheel twine
+# Initial one time setup.
+#python3 -m pip install --user setuptools wheel twine
 cp README.adoc README.html china_dictatorship
 python setup.py sdist bdist_wheel
 # Asks for username and password every time, unless you setup ~/.pypirc.

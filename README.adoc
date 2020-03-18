@@ -4911,7 +4911,7 @@ china-dictatorship > README.html
 
 This would force China to also block package managers to block this repo.
 
-We also managed to upload a Python PyPi package at: https://pypi.org/project/china-dictatorship/ Usage will be as:
+We also managed to upload a Python PyPi package at: https://pypi.org/project/china-dictatorship/ Is as:
 
 ....
 python3 -m pip install --user --upgrade china-dictatorship
