@@ -1,0 +1,28 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+'''
+https://github.com/cirosantilli/china-dictatorship#mirrors
+'''
+
+import json
+import re
+import sys
+
+with open('package.json') as f:
+    package_json = json.load(f)
+version_string = package_json['version']
+version_re = re.compile("    version='0.0.\d+'")
+with open('setup.py', 'r') as f:
+    setup_py_lines = f.readlines()
+setup_py_new_lines = []
+for line in setup_py_lines:
+    line = line.rstrip()
+    match = version_re.match(line)
+    if match:
+        setup_py_new_lines.append("    version='{}',".format(version_string))
+    else:
+        setup_py_new_lines.append(line)
+setup_py_new_string = '\n'.join(setup_py_new_lines) + '\n'
+with open('setup.py', 'w') as f:
+    f.write(setup_py_new_string)

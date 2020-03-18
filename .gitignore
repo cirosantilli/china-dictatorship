@@ -4,11 +4,17 @@
 /README
 
 # Python distribution/packaging.
+*.pyc
 /*.egg-info/
 /build/
 /dist/
+__pycache__
 
 # Tests.
 *.tmp
 tmp.*
 *.tmp.*
+
+# For stupid packaging systems that require subdirectories.
+/china_dictatorship/README.adoc
+/china_dictatorship/README.html

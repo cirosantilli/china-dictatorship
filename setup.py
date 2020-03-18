@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 '''
@@ -9,13 +9,9 @@ import json
 
 from setuptools import setup, find_packages
 
-with open('package.json') as f:
-    package_json = json.load(f)
-version = package_json['version']
-
 setup(
     name='china-dictatorship',
-    version=version,
+    version='0.0.17',
     description='2018新疆改造中心，1989六四事件，1999法轮功 ，2019 996.ICU, 2018包子露宪，2015 710律师劫，2015巴拿马文件 邓家贵，2017低端人口，2008西藏骚乱',
     # Fails with: "The description failed to render in the default format of reStructuredText."
     #long_description=readme(),
@@ -26,8 +22,6 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     scripts=['china-dictatorship.py'],
-    data_files=[
-        'README.adoc',
-        'README.html',
-    ],
+    # data_files=['README.adoc', 'README.html'],
+    package_data={'china_dictatorship': ['README.adoc', 'README.html']},
 )
