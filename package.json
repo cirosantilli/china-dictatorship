@@ -6,6 +6,7 @@
   "description": "2018新疆改造中心，1989六四事件，1999法轮功 ，2019 996.ICU, 2018包子露宪，2015 710律师劫，2015巴拿马文件 邓家贵，2017低端人口，2008西藏骚乱",
   "devDependencies": {},
   "files": [
+    "index.js",
     "china-dictatorship",
     "README",
     "README.adoc",
@@ -21,5 +22,5 @@
   "scripts": {
     "prepublishOnly": "cp README.adoc README;make"
   },
-  "version": "0.0.52"
+  "version": "0.0.54"
 }

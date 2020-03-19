@@ -1,5 +1,3 @@
 #!/usr/bin/env node
-const fs = require('fs');
-const path = require('path');
-const PACKAGE_PATH = path.dirname(require.resolve(path.join('china-dictatorship', 'package.json')));
-console.log(fs.readFileSync(path.join(PACKAGE_PATH, 'README.html'), 'utf8'));
+const china_dictatorship = require('china-dictatorship');
+console.log(china_dictatorship.get_data());
