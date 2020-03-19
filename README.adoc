@@ -23,8 +23,8 @@ toc::[]
 This repo has the following goals:
 
 * allow copy pasting links to answers to questions/comments that have been posted a million times before by <<wumao>>, mostly under: <<faq>>. This was the original goal.
-* serve as a censorship bomb to block GitHub in China: <<keyword-attack>>, and more likely: 
-* be a fun and sometimes silly source of Chinese mostly anti-CCP culture like a better https://en.uncyclopedia.co/wiki/China[Unencyclopedia] / http://web.archive.org/web/20191209021646/http://encyclopediadramatica.rs/China[Encyclopedia Dramatica] without the stupid stereotype jokes. Just quickly browse the pictures with Ctrl + F "Figure" and have fun
+* serve as a censorship bomb to block GitHub in China: <<keyword-attack>>. Or more realistically get added to the <<github-gov-takedowns>> hall of fame.
+* be a fun and sometimes silly source of Chinese mostly anti-CCP culture like a better https://en.uncyclopedia.co/wiki/China[Unencyclopedia] / http://web.archive.org/web/20191209021646/http://encyclopediadramatica.rs/China[Encyclopedia Dramatica] without the stupid stereotype jokes. Just quickly browse the pictures with Ctrl + F "Figure" and have fun.
 * serve as a place where people can post interesting related stuff in the issues: https://github.com/cirosantilli/china-dictatorship/issues see also: <<shitpost>>
 
 [[faq]]
