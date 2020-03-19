@@ -4928,6 +4928,8 @@ Update all mirrors in one go with: link:push-mirrors[]:
 ./push-mirrors
 ....
 
+There is no need to update package versions or add git tags, all of that gets done automatically by the script!
+
 == Backlinks to this repository
 
 Or to Ciro's other online presences, due to China activity.

@@ -8,7 +8,7 @@ make
 
 # NPM package.
 # Updates package.json version, which other systems read if possible.
-./push-mirrors-bump-package-json-version
+new_version="$(./push-mirrors-bump-package-json-version)"
 npm publish
 git add package.json
 
@@ -24,8 +24,9 @@ rm -rf build dist *.egg-info
 git add setup.py
 
 # Bump package versions
+git tag -m "$new_version" "$new_version"
 git commit -m 'bump package version'
-git push
+git push --follow-tags
 
 git push git@gitlab.com:cirosantilli/china-dictatorship.git
 git push git@bitbucket.org:cirosantilli/china-dictatorship.git
