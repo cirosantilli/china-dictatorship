@@ -4,44 +4,44 @@
 
 set -eux
 
-## Git mirrors.
-#git push git@gitlab.com:cirosantilli/china-dictatorship.git
-#git push git@bitbucket.org:cirosantilli/china-dictatorship.git
+# Git mirrors.
+git push git@gitlab.com:cirosantilli/china-dictatorship.git
+git push git@bitbucket.org:cirosantilli/china-dictatorship.git
 
 make
 
 # GitHub pages.
-gh_pages_dir=out/gh-pages
 # One time initial setup.
 # git checkout --orphan gh-pages
 # and copy over https://github.com/cirosantilli/jekyll-min
+gh_pages_dir=out/gh-pages
 if [ ! -d "$gh_pages_dir" ]; then
   mkdir -p "$gh_pages_dir"
   git clone --branch gh-pages "$(git remote get-url origin)"
 fi
-cp README.html "$gh_pages_dir"
-git -C "$gh_pages_dir" add "README.html"
+cp README.html "${gh_pages_dir}/index.html"
+git -C "$gh_pages_dir" add index.html
 git -C "$gh_pages_dir" commit -m "$(git log -1 --format="%H")"
 git -C "$gh_pages_dir" push
 
-## NPM package.
-## Updates package.json version, which other systems read if possible.
-#new_version="$(./push-mirrors-bump-package-json-version)"
-#npm publish
-#git add package.json
-#
-## Python package.
-#./push-mirrors-bump-setup-py-version
-## Initial one time setup.
-##python3 -m pip install --user setuptools wheel twine
-#cp README.adoc README.html china_dictatorship
-#python setup.py sdist bdist_wheel
-## Asks for username and password every time, unless you setup ~/.pypirc.
-#twine upload dist/*
-#rm -rf build dist *.egg-info
-#git add setup.py
-#
-## Bump package versions
-#git tag -m "$new_version" "$new_version"
-#git commit -m 'bump package version'
-#git push --follow-tags
+# NPM package.
+# Updates package.json version, which other systems read if possible.
+new_version="$(./push-mirrors-bump-package-json-version)"
+npm publish
+git add package.json
+
+# Python package.
+./push-mirrors-bump-setup-py-version
+# Initial one time setup.
+#python3 -m pip install --user setuptools wheel twine
+cp README.adoc README.html china_dictatorship
+python setup.py sdist bdist_wheel
+# Asks for username and password every time, unless you setup ~/.pypirc.
+twine upload dist/*
+rm -rf build dist *.egg-info
+git add setup.py
+
+# Bump package versions
+git tag -m "$new_version" "$new_version"
+git commit -m 'bump package version'
+git push --follow-tags
