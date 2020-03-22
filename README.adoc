@@ -26,6 +26,9 @@ This repo has the following goals:
 * serve as a censorship bomb to block GitHub in China: <<keyword-attack>>. Or more realistically get added to the <<github-gov-takedowns>> hall of fame.
 * be a fun and sometimes silly source of Chinese mostly anti-CCP culture like a better https://en.uncyclopedia.co/wiki/China[Unencyclopedia] / http://web.archive.org/web/20191209021646/http://encyclopediadramatica.rs/China[Encyclopedia Dramatica] without the stupid stereotype jokes. Just quickly browse the pictures with Ctrl + F "Figure" and have fun.
 * serve as a place where people can post interesting related stuff in the issues: https://github.com/cirosantilli/china-dictatorship/issues see also: <<shitpost>>
+* highlight positive about China's culture outside of it's shitty government, such as <<the-best-chinese-supermarket-food-products,food>> and <<music>>. This has two goals:
+** teach foreigners (maybe even Chinese people on certain points) about amazing Chinese things that they can consume
+** show wumaos that <<ciro-santilli>> is not as clueless about China as they think
 
 [[faq]]
 == FAQ 常见问答集
@@ -683,11 +686,14 @@ It is amusing that there is a <<russia,Soviet>> movie criticizes dictatorships.
 
 When the dictatorship turns again you our your family, will you fight, or will you just let them do whatever they want because they can never be wrong? See also: <<intolerance>>.
 
-===== Most Chinese people like their dictatorship
+[[most-chinese-people-like-their-dictatorship]]
+===== Most Chinese people like their dictatorship 中国大众支持他们的独裁
 
-It is easy to reach an agreement, when everyone who disagrees goes to jail or gets killed.
+It is easy to reach an agreement, when everyone who disagrees goes to jail or gets killed due to https://en.wikipedia.org/wiki/Inciting_subversion_of_state_power[Inciting subversion of state power 煽动颠覆国家政权罪].
 
-One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy Few" (2018)]:
+Also ask <<tiananmen,these guys>>, and <<falun-gong,these>>, and <<xinjiang,these>>.
+
+One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy Few" (2018)], which which people are forced to be happy. <<nineteen-eighty-four>> also comes to mind of course.
 
 .IGN review of the "We Happy Few" (2018) game. https://www.youtube.com/watch?v=zndzntIDLFE[Source].
 video::zndzntIDLFE[youtube,height=400,width=600]
@@ -1033,13 +1039,15 @@ Therefore, if you think that living in China is fundamental to understand it, pl
 
 Bibliography: https://github.com/cirosantilli/china-dictatorship/issues/93
 
-==== Is Ciro Santilli Chinese?
+[[is-ciro-santilli-chinese]]
+==== Is Ciro Santilli Chinese? 三西猴是中国人吗？
 
 See: https://cirosantilli.com/#ciro-santilli
 
 But <<why-does-ciro-santilli-love-china-so-much,his wife is>>.
 
-==== Does Ciro Santilli speak Chinese?
+[[does-ciro-santilli-speak-chinese]]
+==== Does Ciro Santilli speak Chinese? 三西猴会说中文吗？
 
 As of 2019, oral enough for daily things, but not understand most natural casual dinner conversation or watch TV series, because they go too quickly into vocabulary subject areas that I don't know.
 
@@ -1185,7 +1193,8 @@ So the rationale of my actions is _not_ to convince anyone, but rather:
 
 See also: <<preconceived>>
 
-==== Does Ciro Santilli hate China?
+[[does-ciro-santilli-hate-china]]
+==== Does Ciro Santilli hate China? 三西猴讨厌中国吗？
 
 On the contrary. China has his favorite:
 
@@ -1338,6 +1347,8 @@ You can never invent anything new anymore nowadays.
 OK, shall we put that to an anonymous vote just to make sure?
 
 Dear sir or madam: do you want more control over your government? y/n
+
+Oops, I forgot that <<most-chinese-people-like-their-dictatorship,proposing such a vote would put in you jail>>, nevermind.
 
 [[violence]]
 === Would it be right to use violence to overthrow the CCP?
@@ -1936,7 +1947,7 @@ Once that is taken care of, a few good options are:
 And regardless: remember your kids that the commies are bastards every day.
 
 [[reply-policy]]
-=== Ciro Santilli's reply policy
+=== Ciro Santilli's reply policy 三西猴的回答政策
 
 People get kind of passionate sometimes about politics. And some of them might also be just malicious <<wumao,wumaos>>, although it is generally not possible to distinguish between them.
 
@@ -2009,12 +2020,13 @@ image::https://web.archive.org/web/20191113231107if_/https://imgs.xkcd.com/comic
 
 === Who is behind this amazing FAQ?
 
-==== Ciro Santilli
+[[ciro-santilli]]
+==== Ciro Santilli 三西猴
 
 Original creator: https://cirosantilli.com/
 
 [[wife]]
-===== Ciro Santilli's wife
+===== Ciro Santilli's wife 三西猴的老婆
 
 Born and raised in China: <<why-does-ciro-santilli-love-china-so-much>>.
 
@@ -2096,6 +2108,12 @@ If this happens, we well proceed to create alternative repos `china-dictatorship
 Can they add an entire user to gov-takedowns?
 
 But remember that we also have: <<mirrors>>, and that this can be easily rendered as a single HTML page and uploaded to any static website host.
+
+===== Other interesting GitHub information repositories
+
+* taibangle (太棒了)
+** https://github.com/taibangle/awesome-china
+** https://github.com/taibangle/lennon-wall
 
 [[zhihu]]
 ==== Zhihu 知乎
@@ -2205,7 +2223,7 @@ ____
 
 ===== Zhihu questions related to Ciro Santilli
 
-Parent section: <<backlinks-to-this-repository>>
+Parent section: <<backlinks>>
 
 All Zhihu posts related to Ciro Santilli were deleted following <<zhihu-purge>>. Some had been deleted before.
 
@@ -2487,7 +2505,7 @@ And yet, all those who love freedom, must oppose FLG ban, or be themselves ensla
 
 In any case, at least FLG got one thing right: the commies are <<is-the-chinese-government-is-evil,evil>>, and we have to get rid of them.
 
-See also: <<flg-is-fake>>.
+See also: <<flg-fake>>.
 
 [[flg-bias]]
 ==== Do you support FLG just because your wife and mother-in-law do it?
@@ -2648,7 +2666,8 @@ This might be a bad law that should be changed.
 
 It was perfectly legal for <<nazi,Nazis>> to kill Jews. Does it make that right?
 
-==== FLG is fake
+[[flg-fake]]
+==== FLG is fake 法轮功是假的
 
 The same can be argued about any other religion or political belief of type: it is better if we organize society in this or that way.
 
@@ -3154,7 +3173,8 @@ https://www.scmp.com/comment/insight-opinion/article/1940394/how-rampant-phone-s
 
 https://en.wikipedia.org/wiki/Xi_Jinping
 
-==== Xi abolishes term limits 2018-03
+[[xi-abolishes-term-limits-2018-03]]
+==== Xi abolishes term limits 2018-03 习近平取消席连任不得超过两届的限制规则
 
 * 包子露宪 https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution
 * https://www.nytimes.com/2018/03/10/world/asia/china-xi-jinping-term-limit-explainer.html
@@ -3646,11 +3666,13 @@ The following offer interesting commentary, but not to be used as primary source
 * https://china-journal.org
 * http://www.chinafile.com Some good articles. "ChinaFile is an online magazine published by the Center on U.S.-China Relations at Asia Society", based in New York.
 
-=== Biased media
+[[biased-media]]
+=== Biased media 偏见媒体
 
 I consider the media in this section biased, and never cite it for fact checking.
 
-==== Chinese government media
+[[chinese-government-media]]
+==== Chinese government media 中国政府媒体
 
 * Xinhua News Agency
 ** https://en.wikipedia.org/wiki/Xinhua_News_Agency | https://zh.wikipedia.org/wiki/新华社
@@ -3695,7 +3717,10 @@ News and reports:
 * 2019-10-13 https://www.abc.net.au/news/2019-10-13/cssa-influence-australian-universities-documents-revealed/11587454 (https://web.archive.org/web/20191014032348/https://www.abc.net.au/news/2019-10-13/cssa-influence-australian-universities-documents-revealed/11587454[archive]) "Chinese Students and Scholars Association's deep links to the embassy revealed" in Australia.
 * 2018-03-07 https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/ (https://web.archive.org/web/20191012103953/https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/[archive])
 
-==== Falun Gong media
+[[falun-gong-media]]
+==== Falun Gong media 法轮功媒体
+
+<<falun-gong>>:
 
 * The Epoch Times
 ** https://en.wikipedia.org/wiki/The_Epoch_Times | https://zh.wikipedia.org/wiki/大纪元时报
@@ -3740,18 +3765,18 @@ ____
 
 TODO why did newer videos remove the water mark and clear link? Did they break links, or just to hide Falun Gong influence?
 
-Home page gives extremely unusual importance to Falun Gong resouces, e.g.:
+Home page gives extremely unusual importance to Falun Gong resources, e.g.:
 
 * http://www.chinauncensored.tv/about/ (https://web.archive.org/web/20190426203719/http://www.chinauncensored.tv/about/[archive]) "China Uncensored is available to watch on this website, on YouTube, on New Tang Dynasty Television"
 * http://www.chinauncensored.tv/campaigns/ (https://web.archive.org/web/20190512160736/http://www.chinauncensored.tv/campaigns/[archive]) "Chinese police illegally arrested Canadian citizen Sun Qian from her home in Beijing for practicing Falun Gong."
 
 Related:
 
-* https://www.quora.com/How-is-the-YouTube-show-China-Uncensored-funded
+* https://www.quora.com/How-is-the-YouTube-show-China-Uncensored-funded/answer/Ciro-Santilli
 * https://www.quora.com/Is-the-YouTube-channel-China-Uncensored-a-trustworthy-source-of-information-on-China
 * https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html (https://web.archive.org/web/20190119083517/https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html[archive]) Epoch Times highlights the channel "Why YouTube’s Most Popular Channel on China Politics Doesn’t Show in Search Suggestions"
 
-==== USA government media
+==== USA government media 美国政府媒体
 
 * https://en.wikipedia.org/wiki/Voice_of_America
 ** http://www.voa.com/
@@ -3941,6 +3966,8 @@ Do you not think that this translates well to the modern version:
 ____
 Where they have deleted online posts, they will end in deleting human beings.
 ____
+
+It is actually easier for the USA to manipulate a dictatorship than a democracy, because then all you have to do is buy/blackmail a few key corrupt politicians instead of manipulating millions of people's feeds.
 
 .Internal censorship is so strong, that many Chinese people who leave China to live abroad continue to believe that the CCP is always right, despite having access evidence that suggests otherwise. This <<rebel-pepper>> 2019-08 cartoon shows frogs coming out of a big well still remain inside their own small wells made up of Chinese media such as <<zhihu-purge,Zhihu>> and CCTV. It is a reference to the Chinese proverb https://zh.wikipedia.org/wiki/井底之蛙[井底之蛙] which means that a frog in the bottom of the well can only see a very limited portion of the sky. https://www.rfa.org/mandarin/biantailajiaomanhua/lj-08302019111414.html[Source].
 image::https://web.archive.org/web/20190915124441im_/https://www.rfa.org/mandarin/biantailajiaomanhua/lj-08302019111414.html/1/@@images/82a29858-e5b4-4ae1-88ae-fa54737588e1.jpeg[height=500]
@@ -4151,14 +4178,8 @@ https://en.wikipedia.org/wiki/One-child_policy | https://zh.wikipedia.org/wiki/�
 
 1979–2015
 
-== Other interesting GitHub information repositories
-
-* taibangle 太棒了
-** https://github.com/taibangle/awesome-china
-** https://github.com/taibangle/lennon-wall
-
 [[mirrors]]
-== Mirrors of this page
+== Mirrors of this page 这个网页的镜像
 
 The cool thing about Git is that we can maintain several mirrors on multiple websites very easily:
 
@@ -4196,7 +4217,8 @@ Update all mirrors in one go with: link:push-mirrors[]:
 
 There is no need to update package versions or add git tags, all of that gets done automatically by the script!
 
-== Backlinks to this repository
+[[backlinks]]
+== Backlinks to this page 连接到这个网页的网页
 
 Or to Ciro's other online presences, due to China activity.
 
@@ -4405,9 +4427,9 @@ The best way to heat them up by far is to steam.
 If you don't have a steaming pot, you can also put them on a bowl inside a regular pot with some water at the bottom, and close the lid.
 
 [[zongzi]]
-=== Zongzi 包子
+=== Zongzi 粽子
 
-https://en.wikipedia.org/wiki/Zongzi
+https://en.wikipedia.org/wiki/Zongzi | https://zh.wikipedia.org/wiki/粽
 
 Buy frozen. Pick the ones with meat and eggs!!! Boil.
 
@@ -5004,6 +5026,12 @@ Not worth it:
 +
 1050B rue Clark
 
+== Chinese television 中国电视
+
+Modern themed television is generally crap due to <<censorship>>, but this leads to a big focus on ancient stuff, and some of it is amazing.
+
+* 1994 https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_(TV_series) | https://zh.wikipedia.org/wiki/三国演义_(电视剧) The best  https://en.wikipedia.org/wiki/Three_Kingdoms[Three Kingdoms 三国] adaptation of all time? Mind blowing. There seems to exist a version with full Chinese + English subtitles: https://www.youtube.com/watch?v=0_r3eWfTMDs&list=PLdAMXqGeRsOkXzuocRkBPhe5RhZ6RotGH&index=2
+
 [[learn-chinese]]
 == Tips to learn Chinese 学习中文方法建议
 
@@ -5018,6 +5046,8 @@ Some have Chinese subtitles, e.g.: https://www.youtube.com/watch?v=eFSMvtS6SYQ a
 === Chinese character sentence component mnemonic systems
 
 Associate one word to each character/character component.
+
+One good way to find mnemonics is to just Google for whatever random words you want to fit into a sentence. You end up learning fun things this way, and those make the best mnemonics.
 
 Then to learn a new character, break it down into components, and create a sentence or short story that includes all the component words.
 
@@ -5058,10 +5088,19 @@ Characters:
 
 * <character-containing>
 * <character-containing>
+
+Notes: <<random-text>>
 ....
 
 [[龶]]
-==== 龶
+==== 龶 (-, TODO)
+
+Mnemonic: the top part of "<<青>>" (青字頭) https://en.wiktionary.org/wiki/龶
+
+[[匕]]
+==== 匕 (bi3, spoon)
+
+Mnemonic: an ancient spoon, looks like this: https://read01.com/aAEn50x.html#.XnfZDN_niV4 "古人吃饭最早不用筷子，用的是“匕”，那“匕”是什么？
 
 [[表]]
 ==== 表 (biao3, watch [device])
@@ -5071,6 +5110,13 @@ Mnemonic: <<龶>> <<衣>>
 Words:
 
 * <<列表>>
+
+[[寸]]
+==== 寸 (cun4, inch)
+
+Characters:
+
+* <<讨>>
 
 [[歹]]
 ==== 歹 (dai3, villain)
@@ -5099,8 +5145,54 @@ Words:
 
 * <<列表>>
 
+[[论]]
+==== 论 (lun4, rationale)
+
+Mnemonic: "rationale" the fancy way that engineers say (<<言>>) "logic" (<<仑>>)
+
+Words:
+
+* <<理论>>
+
+[[仑]]
+==== 仑 (lun2, logic)
+
+Mnemonic: https://en.wikipedia.org/wiki/Spoon_theory[spoon theory] is very logical and explains how using spoons (<<匕>>) is a good metaphor for a person's (<<人>>) energy consumption
+
+Characters:
+
+* <<论>>
+
+[[青]]
+==== 青 (qing1, blue)
+
+Notes: it is more like https://en.wikipedia.org/wiki/Cyan[green-blue/Cyan], see also https://zh.wikipedia.org/wiki/青色 but let's call it blue because it will be used in many constructs.
+
+[[人]]
+==== 人 (ren2, person)
+
+Short versions: 亻
+
+Characters:
+
+* 仑
+
+[[讨]]
+==== 讨 (tao3, discuss)
+
+Mnemonic: in their discussions (<<讨论>>), they always talked (<<言>>) about how his penis was only one inch <<寸>> long
+
+Words:
+
+* <<讨论>>
+
 [[夕]]
 ==== 夕 (xi1, evening)
+
+[[言]]
+==== 言 (yan2, speak, say)
+
+Short forms: 讠
 
 [[一]]
 ==== 一 (yi1, one)
@@ -5147,6 +5239,14 @@ Characters:
 * <character-contained>
 ....
 
+[[理论]]
+==== 理论 (li3 lun4, logic)
+
+Characters:
+
+* 理
+* <<论>>
+
 [[列表]]
 ==== 列表 (lie4 biao3, list)
 
@@ -5158,6 +5258,14 @@ Characters:
 
 * <<列>>
 * <<表>>
+
+[[讨论]]
+==== 讨论 (tao3 luan4, discuss)
+
+Characters:
+
+* <<讨>>
+* <<论>>
 
 [[衣服]]
 ==== 衣服 (yi1 fu, clothes)
