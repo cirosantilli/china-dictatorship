@@ -4166,6 +4166,8 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 * https://gitlab.com/cirosantilli/china-dictatorship Maybe some day http://gitlab.cn/ ? :-)
 * https://bitbucket.org/cirosantilli/china-dictatorship
 
+A GitHub Pages just for fun: http://cirosantilli.com/china-dictatorship This is useless though, because the domain can easily be blocked at no cost. It does show the YouTube videos inline though!
+
 We also have a NPM Node.js package https://www.npmjs.com/package/china-dictatorship[]. After https://askubuntu.com/questions/594656/how-to-install-the-latest-versions-of-nodejs-and-npm/971612#971612[installing NPM], you can be use it as:
 
 ....

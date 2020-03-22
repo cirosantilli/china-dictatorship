@@ -17,7 +17,7 @@ gh_pages_dir=out/gh-pages
 # and copy over https://github.com/cirosantilli/jekyll-min
 if [ ! -d "$gh_pages_dir" ]; then
   mkdir -p "$gh_pages_dir"
-  git clone . "$gh_pages_dir"
+  git clone --branch gh-pages "$(git remote get-url origin)"
 fi
 cp README.html "$gh_pages_dir"
 git -C "$gh_pages_dir" add "README.html"
