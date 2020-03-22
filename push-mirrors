@@ -43,6 +43,6 @@ rm -rf build dist *.egg-info
 git add setup.py
 
 # Bump package versions
-git tag -m "$new_version" "$new_version"
 git commit -m 'bump package version'
+git tag -m "$new_version" "$new_version"
 git push --follow-tags
