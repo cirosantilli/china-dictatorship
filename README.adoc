@@ -5051,11 +5051,18 @@ One good way to find mnemonics is to just Google for whatever random words you w
 
 Then to learn a new character, break it down into components, and create a sentence or short story that includes all the component words.
 
+* <<characters>>: our own!!!!!
 * http://rtega.be/chmn/ CC-BY-NO-SA but not clear way to contribute to it
 * Proprietary books
 ** https://www.amazon.com/dp/0824833236 "Remembering Simplified Hanzi" by James W. Heisig and Timothy W. Richardson from 2008. This is the classic.
 ** https://www.amazon.com/dp/9881919339 STICK by Dr. Melanie Schmidt ed.
 ** https://www.amazon.com/dp/109565960X "Learn Chinese Characters: Easy Mnemonics to Memorize Hanzi: 400+ Characters, 700+ Vocabulary, 1300+ Practice Questions with Solutions" by L Castelluzzo
+
+Japanese Kanji:
+
+* proprietary:
+** https://www.tofugu.com/japanese/kanji-radicals-mnemonic-method/
+** https://www.wanikani.com/
 
 == Chinese cheat
 
@@ -5065,7 +5072,11 @@ We'd use http://rtega.be/chmn/ as basis if it weren't for the NO in CC-BY-NO-SA?
 
 Format will be very constant, database like. Would therefore be cool to parse it from the Asciidoctor into a proper database as a way to verify and allow third party usage.
 
-Base mnemonic compnents can come more or less directly from the 214 Kangxi radicals: https://en.wikipedia.org/wiki/Kangxi_radical
+Base mnemonic components can come more or less directly from the 214 Kangxi radicals: https://en.wikipedia.org/wiki/Kangxi_radical
+
+One key principle is that characters and words often don't have a well translatable meaning: the minimal always translatable unit is a sentence: <<sentences>>!
+
+You can't fully learn a language by learning words and characters alone, you must learn sentences.
 
 === Characters
 
@@ -5089,13 +5100,33 @@ Characters:
 * <character-containing>
 * <character-containing>
 
+Translations:
+
+* <<english-word>>
+** <<chinese-sentence-containing>>
+
 Notes: <<random-text>>
 ....
+
+Notes:
+
+* `Translations` is only used when it is a single character word, if it goes inside a word, only the word will contain the sentence
 
 [[龶]]
 ==== 龶 (-, TODO)
 
 Mnemonic: the top part of "<<青>>" (青字頭) https://en.wiktionary.org/wiki/龶
+
+[[巴]]
+==== 巴 (ba1, Brazil)
+
+Characters:
+
+* <<爬>>
+
+Words:
+
+* <<巴西>>
 
 [[匕]]
 ==== 匕 (bi3, spoon)
@@ -5119,13 +5150,17 @@ Characters:
 * <<讨>>
 
 [[歹]]
-==== 歹 (dai3, villain)
+==== 歹 (dai3, supervillain)
 
-Mnemonic: <<一>> <<夕>>, one villain attacked!
+Mnemonic: that evening (<<夕>>), one (<<一>>) **supervillain** attacked our base!
 
 Characters:
 
 * <<列>>
+
+Words:
+
+* <<歹人>>
 
 [[刀]]
 ==== 刀 (dao1, knife)
@@ -5139,7 +5174,7 @@ Characters:
 [[列]]
 ==== 列 (lie4, list)
 
-Mnemonic: there must exist a <<列>> of <<歹>> with <<刀>> on the web? (knife-yielding villain list!) https://techland.time.com/2010/09/03/top-ten-heroes-and-villians-with-big-knives/
+Mnemonic: there must exist a **list** of **supervillains** (<<歹>>) with **knives** (<<刀>>) on the web? A knife-yielding supervillain **list**! https://techland.time.com/2010/09/03/top-ten-heroes-and-villians-with-big-knives/
 
 Words:
 
@@ -5148,7 +5183,7 @@ Words:
 [[论]]
 ==== 论 (lun4, rationale)
 
-Mnemonic: "rationale" the fancy way that engineers say (<<言>>) "logic" (<<仑>>)
+Mnemonic: "**rationale**" the fancy way that engineers **say** (<<言>>) "**logic**" (<<仑>>)
 
 Words:
 
@@ -5157,11 +5192,20 @@ Words:
 [[仑]]
 ==== 仑 (lun2, logic)
 
-Mnemonic: https://en.wikipedia.org/wiki/Spoon_theory[spoon theory] is very logical and explains how using spoons (<<匕>>) is a good metaphor for a person's (<<人>>) energy consumption
+Mnemonic: https://en.wikipedia.org/wiki/Spoon_theory[spoon theory] is very logical and explains how using **spoons** (<<匕>>) is a good metaphor for a **person**'s (<<人>>) energy consumption
 
 Characters:
 
 * <<论>>
+
+[[爬]]
+==== 爬 (pa2, climb)
+
+Mnemonic: you need claws (<<爪>>) to **climb** **Brazil**'s (<<巴>>) tallest mountain: https://en.wikipedia.org/wiki/Pico_da_Neblina[Pico da Neblina]
+
+Words:
+
+* <<爬行>>
 
 [[青]]
 ==== 青 (qing1, blue)
@@ -5175,12 +5219,16 @@ Short versions: 亻
 
 Characters:
 
-* 仑
+* <<仑>>
+
+Words:
+
+* <<歹人>>
 
 [[讨]]
 ==== 讨 (tao3, discuss)
 
-Mnemonic: in their discussions (<<讨论>>), they always talked (<<言>>) about how his penis was only one inch <<寸>> long
+Mnemonic: in their **discussions** (<<讨论>>), they always **talked** (<<言>>) about how his penis was only one **inch** <<寸>> long
 
 Words:
 
@@ -5212,6 +5260,15 @@ Words: <<衣服>>
 
 Characters: <<表>>
 
+[[爪]]
+==== 爪 (zhua3, claws)
+
+Short forms: 爫
+
+Characters:
+
+* <<爬>>
+
 === English words
 
 [[list]]
@@ -5239,6 +5296,22 @@ Characters:
 * <character-contained>
 ....
 
+[[巴西]]
+==== 巴西 (ba1 xi1, Brazil)
+
+Characters:
+
+* <<巴>>
+* 西
+
+[[歹人]]
+==== 歹人 (dai3 ren2, villain)
+
+Characters:
+
+* <<歹>>
+* <<人>>
+
 [[理论]]
 ==== 理论 (li3 lun4, logic)
 
@@ -5259,6 +5332,19 @@ Characters:
 * <<列>>
 * <<表>>
 
+[[爬行]]
+==== 爬行 (pa2 xing2, crawl)
+
+Translations:
+
+* crawl
+** <<大多数宝宝在6-10个月之间学会爬行>>
+
+Characters:
+
+* <<爬>>
+* 行
+
 [[讨论]]
 ==== 讨论 (tao3 luan4, discuss)
 
@@ -5277,8 +5363,26 @@ Characters:
 
 === Sentences
 
+Format:
+
+....
+[[<chinese-sentence>]]
+==== <chinese-sentence> (<<pinyin>>, <<translation>>)
+
+Source: <<source-url>> (<<source-url-archive>>)
+
+Words: <<sentence-with-linked-breakdown>>
+....
+
+[[大多数宝宝在6-10个月之间学会爬行]]
+==== 大多数宝宝在6-10个月之间学会爬行 (Dà duōshù bǎobǎo zài 6-10 gè yuè zhī jiān xuéhuì páxíng, Most babies learn to crawl between 6 and 10 months)
+
+Source: https://baike.pcbaby.com.cn/qzbd/13387.html (https://web.archive.org/web/20180213164914/https://baike.pcbaby.com.cn/qzbd/13387.html[archive])
+
+Words: 大多数宝宝在6-10个月之间学会<<爬行>>
+
 [[现有王位觊觎者列表]]
-==== 现有王位觊觎者列表 List of current throne pretenders
+==== 现有王位觊觎者列表 (Xiàn yǒu wángwèi jìyú zhě lièbiǎo, List of current throne pretenders)
 
 Source: https://zh.wikipedia.org/wiki/現有王位覬覦者列表
 
