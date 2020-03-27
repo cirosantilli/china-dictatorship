@@ -178,7 +178,7 @@ Definitely, the current regime is better than Mao's, but just imagine how rich C
 
 Imperial China lost the race for the Industrial Revolution. Will another dictatorship be able to stay on top of the next technological revolution?
 
-===== Censorship makes countries poorer
+==== Censorship makes countries poorer
 
 <<dictatorship,Dictatorships>> need <<censorship>> to survive, and they must control all information to make themselves always look good: <<dictator-needs-gfw>>.
 
@@ -224,19 +224,35 @@ although like any other political argument, https://www.nytimes.com/2003/03/01/a
 Virus outbreaks and other natural disasters also illustrate this well: <<corona>>.
 
 [[corona]]
-====== Initial censorship of the 2019 Corona Virus 2019冠状病毒病早期迹象审查
+===== Censorship of the 2019 Corona Virus 2019冠状病毒病早期迹象审查
 
 https://en.wikipedia.org/wiki/Coronavirus_disease_2019 | https://zh.wikipedia.org/wiki/2019冠状病毒病
 
-The Chinese Government censored the initial outbreak, which likely made the situation much worse than what it could have been:
+The Chinese Government censored the initial outbreak in January and did not inform Wuhan on January 8, which likely made the situation much worse than what it could have been. Timeline:
 
-* <<caixin>> article about how early Coronavirus signs were censored
+* 2019-12-27 several genomics companies had sequenced the coronavirus and noticed the similarity to Sars
+* 2020-01-03 findings were sent to the https://en.wikipedia.org/wiki/Chinese_Center_for_Disease_Control_and_Prevention[Centre for Disease Control] (CDC, https://zh.wikipedia.org/wiki/中国疾病预防控制中心[中国疾病预防控制中心]) in Beijing, but then the https://en.wikipedia.org/wiki/National_Health_Commission[Chinese National Health Commission] (https://zh.wikipedia.org/wiki/中华人民共和国国家卫生健康委员会[中华人民共和国国家卫生健康委员会]), China's top medical authority, issued orders to not talk about it and destroy samples
+* 2020-01-08 CDC team went to Wuhan to see the situation, was not informed that contagiousness of the disease had been confirmed
+* 2020-01-20 the findings were made public, in an interview with Zhong Nanshan. He later said in an interview that the local government should be blamed: https://youtu.be/LK1Pz8FmryM?t=132
+* 2020-01-23 Wuhan begins lockdown
+* 2020-01-25 Chinese New Year
+
+News coverage:
+
+* <<caixin>> article about how early Coronavirus signs were censored:
 ** http://china.caixin.com/2020-03-10/101526309.html (https://web.archive.org/web/20200317111527/http://china.caixin.com/2020-03-10/101526309.html[archive]) "李文亮所在医院为何医护人员伤亡惨重？" (Why did Li Wenliang's [李文亮] hospital suffer heavy casualties?)
 ** https://www.caixinglobal.com/2020-02-29/in-depth-how-early-signs-of-a-sars-like-virus-were-spotted-spread-and-throttled-101521745.html (paywall) "In Depth: How Early Signs of a SARS-Like Virus Were Spotted, Spread, and Throttled"
 ** https://www.thetimes.co.uk/article/chinese-scientists-destroyed-proof-of-virus-in-december-rz055qjnj "Chinese scientists destroyed proof of virus in December". Paywall skip: http://archive.md/xOKiu Terrible copy paste of some Caixin article with no sources/precise names.
 * https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1 "China spent the crucial first days of the Wuhan coronavirus outbreak arresting people who posted about it online and threatening journalists" (http://web.archive.org/web/20200124113400/https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1?r=US&IR=T[archive])
 * https://www.vice.com/en_us/article/g5xykx/you-can-now-go-to-jail-in-china-for-criticizing-beijings-coronavirus-response "You Can Now Go to Jail in China for Criticizing Beijing’s Coronavirus Response"
 * https://www.vice.com/en_us/article/qjdn4d/doctors-in-wuhan-are-still-dying-and-beijing-is-still-trying-to-silence-them Ai Fen's (艾芬) report of how the situation was mishandling was censored
+
+On the other hand, one may argue that the "city closure" measures were stronger/faster than in democracies.
+
+GitHub repo documenting it without censorship:
+
+* https://github.com/2019ncovmemory/nCovMemory
+* https://github.com/memoryhonest/nCovMemory-en
 
 Doctor Li Wenliang (李文亮) reported the virus, but was told by authorities to stay quiet, and later died from the virus, becoming somewhat of a martyr:
 
@@ -257,13 +273,39 @@ Can you manage?
 Do you understand?
 ____
 
-People that got arrested for reporting on it:
-
-* Li Zehua 李澤華
-** 2020-02-28 https://www.vice.com/en_us/article/qjdejp/a-chinese-citizen-journalist-covering-coronavirus-just-live-streamed-his-own-arrest
-
 .Selfie of Li Wenliang on his hospital bed before he died. https://www.bbc.com/news/world-asia-china-51409801[Source].
 image::https://web.archive.org/web/20200209173001im_/https://ichef.bbci.co.uk/news/320/cpsprodpb/10FFE/production/_110803696_drli1.jpg[height=400]
+
+====== People arrested for reporting on the 2019 Corona Virus
+
+* https://en.wikipedia.org/wiki/Chen_Qiushi[Chen Qiushi] (https://zh.wikipedia.org/wiki/陈秋实_(律师)[陈秋实])
+** Twitter: https://twitter.com/chenqiushi404
+** YouTube: https://www.youtube.com/channel/UCv361SF6FKznoGPKEFG9Yhw
+** https://edition.cnn.com/2020/02/09/asia/wuhan-citizen-journalist-intl-hnk/index.html "Chen Qiushi spoke out about the Wuhan virus. Now his family and friends fear he's been silenced"
+** https://www.youtube.com/watch?v=Iwpr55PZEJ8 "Lawyer Chen Qiushi documenting coronavirus epicentre disappears" by "South China Morning Post"
+* Fang Bin (方斌)
+** Twitter: https://twitter.com/GuqZJRTOvbqbGub
+** YouTube: https://www.youtube.com/channel/UCRItarzSwqakT-EZkSvuy3A
+*** Last YouTube video simply says:
++
+____
+全民反抗
+https://zh.m.wiktionary.org/zh-hans/还政于民[还政于民]
+方斌书
+____
++
+which translates as:
++
+____
+All the people, revolt.
+Return the country (politics) to its people.
+Written (calligraphed) by Fang Bin.
+____
+** https://www.youtube.com/watch?v=sUvBNpkxrJo "Fang Bin is second Chinese citizen journalist to vanish while reporting from coronavirus epicentre" by "South China Morning Post"
+* https://en.wikipedia.org/wiki/Li_Zehua[Li Zehua] (https://zh.wikipedia.org/wiki/李泽华_(记者)[李澤華])
+** YouTube https://www.youtube.com/channel/UCJHUpBCNKrZwBhxfcIrP8Aw
+** Twitter https://twitter.com/kcrissli
+** 2020-02-28 https://www.vice.com/en_us/article/qjdejp/a-chinese-citizen-journalist-covering-coronavirus-just-live-streamed-his-own-arrest
 
 [[war]]
 ==== Why would democracy and freedom of speech make China less likely to start a war?
@@ -1650,6 +1692,10 @@ Some interesting links:
 * http://travel.stackexchange.com/questions/62447/how-can-a-citizen-of-mainland-china-visit-taiwan/62466#comment178495_62466 hi, I want a "not VISA" to Taiwan. Thanks.
 * https://youtu.be/6aZkM_ZLvjE?t=50 (zh) "【這就是科學｜柯文哲】EP3／從癌症治療看政治！除惡務盡→除惡「勿」盡？「與敵共存」才是生存之道！", 柯文哲, 2019-06-26. Ko Wen-je , the mayor of Taipei 台北 and a professor in medicine, applies the concept of isolation and mutation in evolution to Taiwan and China
 
+News:
+
+* 2020-03-27 https://www.reuters.com/article/us-taiwan-usa/u-s-increases-support-for-taiwan-in-recognition-battle-with-china-idUSKBN21E0B7 "U.S. President Donald Trump has signed into law an act that requires increased U.S. support for Taiwan internationally". But he didn't recognize it as a country. Semi bullshit.
+
 .The flag of Taiwan. Like most modern countries, Taiwan has one. https://en.wikipedia.org/wiki/File:Flag_of_the_Republic_of_China.svg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg[height=400]
 
@@ -2287,7 +2333,7 @@ Added my Noodle shop to maps: https://www.google.co.uk/maps/place/Tiananmen+Squa
 +
 Leach websites that picked it up: http://kvalster.se/Falu/Uthyres/Lagenheter/Gammelvagen_49_1417351
 
-Quora is also shitty because wumaos can downvote your answer privately regardless of reputation and make it become collapsed as "Answer may need improvement", which means it goes to the bottom and readers have to click an "expand collapsed answers" button to see it, so that very few people will ever see it. Then have to appeal and wait for moderators to evaluate it. This happened for example at: https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli (see also <<t-shirt>>). Ciro appealed in 2020-03-10 and the answer was reinstated on day later, but by then the question was already not being suggested as much to readers, and the other wumao answers (which criticize the USA rather than answering the question)
+Quora is also shitty because wumaos can downvote your answer privately regardless of reputation and make it become collapsed as "Answer may need improvement", which means it goes to the bottom and readers have to click an "expand collapsed answers" button to see it, so that very few people will ever see it. Then have to appeal and wait for moderators to evaluate it. This happened for example at: https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli (see also <<t-shirt>>). Ciro appealed in 2020-03-10 and the answer was reinstated on day later, but by then the question was already not being suggested as much to readers, and the other wumao answers (which criticize the USA rather than answering the question about China).
 
 Other shitty aspects of Quora include:
 
@@ -3602,6 +3648,10 @@ image::http://web.archive.org/web/20200301203622if_/https://66.media.tumblr.com/
 
 [[dissidents]]
 == Dissidents 持不同政见者
+
+Other sections:
+
+* <<people-arrested-for-reporting-on-the-2019-corona-virus>>
 
 Other lists:
 
