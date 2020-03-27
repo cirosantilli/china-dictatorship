@@ -482,17 +482,6 @@ The 2019 <<nine-nine-six-icu>> event however brought to my attention that Chines
 
 But I doubt developers use those browsers right? The only way would be for China to forbid foreign browsers entirely.
 
-[[dictator-needs-gfw]]
-=== Would ending the great firewall truly end the dictatorship?
-
-Not 100% sure.
-
-In <<russia>> for example, the Internet is relatively free, but the government controls most professional media, which is what most people end up seeing, by suing dissidents media out of business.
-
-But on the other hand Russia is already much freer than China.
-
-Although I don't like them, I can't deny one thing: the commies are smart, and when they do something (e.g. censorship), it tends to keep them in power.
-
 === This is your personal problem, we have nothing to do with it, stop punishing us for it
 
 We have to fight for justice for our fellows, or else when injustice happens to us, no one will fight for use either.
@@ -569,7 +558,11 @@ If China's <<richer,economy>> is bad, my economy is worse.
 +
 If China's environment is bad, my environment is worse.
 +
+If China's environment is bad, my environment is worse.
++
 If China <<war,starts a war>>, I might have to fight it.
++
+If China <<corona,fails to control a viral outbreak>>, I might get infected.
 . If I lived under a dictatorship, I would welcome foreign intervention.
 +
 Even if you don't, I know several Chinese who do.
@@ -1512,6 +1505,10 @@ Tecent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-ban
 ** https://chinadigitaltimes.net/space/Main_Page a wiki version of the censored word lists, the ,"<<shitpost,Grass-mud horse>> index" (cao3n2ma3 草泥马), with a censored term of the week section.
 ** https://chinadigitaltimes.net/china/sensitive-words-series/?view=all sensitive words list
 ** Fun 2015 ebook: https://github.com/cirosantilli/decoding-chinese-internet-pdf-download
+
+See also:
+
+* <<censorship-monitoring>>
 * <<tiananmen-square-protests-keywords>>
 
 [[keyword-choice]]
@@ -1554,7 +1551,7 @@ Notable ones only here (high rep or innovative criticism):
 * Yu Hao
 ** http://stackoverflow.com/users/1009479/yu-hao
 ** http://archive.is/76FCb
-** "GFW (Great Firewall of China) is one of the most notorious inventions in the history of Internet. Anyone working for it should be ashamed."
+** "<<gfw,GFW (Great Firewall of China)>> is one of the most notorious inventions in the history of Internet. Anyone working for it should be ashamed."
 * iBug
 ** https://stackoverflow.com/users/5958455/ibug
 ** iBug http://web.archive.org/web/20190507140910/https://stackoverflow.com/users/5958455/ibug
@@ -1573,7 +1570,7 @@ Same message as Yu Hao, I wonder if it is an external thing or direct copy of Yu
 ** http://archive.is/V0aSK
 ** Lego recreation of Tankman on profile picture.
 
-Users who had GFW references but removed it:
+Users who had <<gfw,GFW>> references but removed it:
 
 * http://stackoverflow.com/users/4594532/gnimuc-key
 ** http://web.archive.org/web/20170331144256/https://stackoverflow.com/users/4594532/gnimuc
@@ -1937,13 +1934,15 @@ City at the very least, but if recognizable, where withing the city.
 
 Yes, China is big! There are many different places in China.
 
-==== Companies that comply to Chinese censorship requests
+==== Western companies that comply to Chinese censorship requests
 
 Western government should prevent companies from complying to Chinese censorship requests, or at least impose fines and sanctions on them.
 
 Citizens should boycott such companies and require them to be punished.
 
 https://github.com/caffeine-overload/bandinchina contains a "List of companies who have apologized to the Chinese government and implemented censorship requests". It only lists companies that implemented censorship outside of China however (with Hong Kong, <<taiwan,Taiwan>> and Macau defined as outside of China), therefore it is basically a Taiwan flag takedown + Hong Kong / Taiwan censorship list: https://github.com/caffeine-overload/bandinchina/pull/56#issuecomment-541230090 | https://github.com/caffeine-overload/bandinchina/pull/84
+
+See also: <<western-companies-that-sell-censorship-technology-to-dictatorships>>
 
 Some hell known companies and events:
 
@@ -2147,7 +2146,7 @@ Here are some examples of people reacting to the blocking of https://github.com/
 
 See also: <<programthink>>
 
-To check China only takedowns such as this, we cannot use Great Fire Analyzer, which reports the page as accessible: the only tool I could find so far to capture a page from China a bit like Web Archive was: https://www.geoscreenshot.com which takes screenshots of the websites, but the free trial is very limited, and you can't share the screenshots. See also: <<censorship-monitoring>>.
+To check China only takedowns such as this, we cannot use <<censorship-monitoring,Great Fire Analyzer>>, which reports the page as accessible: the only tool I could find so far to capture a page from China a bit like Web Archive was: https://www.geoscreenshot.com which takes screenshots of the websites, but the free trial is very limited, and you can't share the screenshots. See also: <<censorship-monitoring>>.
 
 ====== Strategy if this repo gets added to GitHub gov-takedowns
 
@@ -2341,6 +2340,11 @@ Other shitty aspects of Quora include:
 
 * automatically add random topics that you don't care about to your suggestions, with no easy way to prevent that.
 * questions cannot have more than one sentence. There used to be a question body, but it was replaced with a "link for context". Ridiculous.
+
+As a result, on the few occasions that Ciro posts on Quora, all content will also be mirrored here. Ciro's China Quora answers include:
+
+* https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli[What would happen if I walked around Beijing with a t-shirt that said "freedom of speech is pretty great"?] see also: <<t-shirt>>
+* https://www.quora.com/What-is-the-net-worth-of-Xi-Jinping/answer/Ciro-Santilli[What is the net worth of Xi Jinping?] see also: <<panama-papers>>
 
 [[ptt]]
 ==== PTT Bulletin Board System 批踢踢實業坊
@@ -3214,12 +3218,12 @@ https://www.scmp.com/comment/insight-opinion/article/1940394/how-rampant-phone-s
 * http://www.zhihu.com/question/23988890 (https://web.archive.org/web/20160311140407/https://www.zhihu.com/question/23988890[archive]) "全能神教在境外，法轮功也在境外，为什么他们不祸害境外人民、偏偏只祸害大陆人？"
 
 [[politicians]]
-== Politicians 政治家
+== Chinese politicians 中国政治家
 
 [[xi-jinping]]
-=== Xi Jinping 习近平
+=== Xi Jinping 习近平 (2012-)
 
-https://en.wikipedia.org/wiki/Xi_Jinping
+https://en.wikipedia.org/wiki/Xi_Jinping | https://zh.wikipedia.org/wiki/习近平
 
 [[xi-abolishes-term-limits-2018-03]]
 ==== Xi abolishes term limits 2018-03 习近平取消席连任不得超过两届的限制规则
@@ -3255,7 +3259,7 @@ ____
 See also: <<shitpost>>.
 
 [[chrysanthemium-xi-jinping]]
-===== Chrysanthemium Xi Jinping 菊花习近平
+===== Chrysanthemium Xi Jinping 菊花习近平 (2015)
 
 Got creator Dai Jianyong (戴建勇) arrested in 2015:
 
@@ -3272,7 +3276,7 @@ image::https://web.archive.org/web/20200113200256im_/https://chinadigitaltimes.n
 image::https://web.archive.org/web/20190417164247im_/http://img.timeinc.net/time/2012/t100/t100_xi_alt.jpg[height=400]
 
 [[winnie-the-pooh]]
-===== Comparisons between Xi Jinping and Winnie-the-Pooh 小熊維尼
+===== Comparisons between Xi Jinping and Winnie-the-Pooh 小熊維尼 (2017)
 
 Got censored due to comparisons between Xi Jinping and Winnie in 2017: https://en.wikipedia.org/wiki/Winnie-the-Pooh#Censorship_in_China
 
@@ -3287,11 +3291,21 @@ image::http://web.archive.org/web/20191012100528im_/https://i.guim.co.uk/img/med
 .Comparison image between Xi Jinping on a car in a 2015 military parade and a toy Winnie-the-Pooh on a car. https://www.bbc.co.uk/news/blogs-china-blog-40627855[Source].
 image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/news/624/cpsprodpb/DD1F/production/_96970665_4587b36b-011f-4007-b16f-34389d385aec.jpg[height=400]
 
-[[jiang-zemin]]
-=== Jiang Zemin 江泽民
+[[panama-papers]]
+===== Panama papers 巴拿马文件 (2016)
 
-https://en.wikipedia.org/wiki/Jiang_Zemin
-https://zh.wikipedia.org/wiki/江泽民
+https://en.wikipedia.org/wiki/Panama_Papers | https://zh.wikipedia.org/wiki/巴拿馬文件
+
+Leak of financial data implicating many corruption scandals.
+
+Mentions <<xi-jinping>>'s brother-in-law https://en.wikipedia.org/wiki/Deng_Jiagui[Deng Jiagui] (https://zh.wikipedia.org/wiki/邓家贵[邓家贵]), 
+
+See also <<ciro-santilli>>'s answer to https://www.quora.com/What-is-the-net-worth-of-Xi-Jinping/answer/Ciro-Santilli[What is the net worth of Xi Jinping?] answer on <<quora>>.
+
+[[jiang-zemin]]
+=== Jiang Zemin 江泽民 (1989-2002)
+
+https://en.wikipedia.org/wiki/Jiang_Zemin | https://zh.wikipedia.org/wiki/江泽民
 
 <<dictatorship,Dictator>> from 1989 to 2002.
 
@@ -3320,11 +3334,15 @@ image::https://web.archive.org/web/20190111105703im_/https://i.guim.co.uk/img/me
 .More Jiang funny expressions and Photoshops from a Research Gate page! https://www.researchgate.net/figure/Jiang-as-emoticons-often-used-in-chats_fig4_325864518[Source].
 image::https://web.archive.org/web/20200311092251if_/https://www.researchgate.net/profile/Kecheng_Fang/publication/325864518/figure/fig4/AS:650525523574786@1532108779265/Jiang-as-emoticons-often-used-in-chats.png[height=400]
 
-[[mao-zedong]]
-=== Mao Zedong 毛泽东
+[[deng-xiaoping]]
+=== Deng Xiaoping 邓小平 (1982-1987)
 
-* https://en.wikipedia.org/wiki/Mao_Zedong
-* https://zh.wikipedia.org/wiki/毛泽东
+https://en.wikipedia.org/wiki/Deng_Xiaoping | https://zh.wikipedia.org/wiki/邓小平
+
+[[mao-zedong]]
+=== Mao Zedong 毛泽东 (1954–1976)
+
+https://en.wikipedia.org/wiki/Mao_Zedong | https://zh.wikipedia.org/wiki/毛泽东
 
 .Mao Zedong in Yan'an in the 1930's thinking deeply. This funny looking picture is meme ready and https://uncyclopedia.ca/wiki/Chairman_Mao[much loved by Uncyclopedia]. https://commons.wikimedia.org/wiki/File:Mao_Zedong_in_Yan%27an.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/9/9d/Mao_Zedong_in_Yan%27an.jpg[height=400]
@@ -3449,10 +3467,7 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 * 2016-04 http://blogs.reuters.com/great-debate/2016/01/26/china-threatens-sanctions-against-u-s-companies-is-this-the-future/ China economic sanctions companies that sell weapons to <<taiwan,Taiwan>> (some of those companies also sell civilian products to China)
 * 2016-04 http://www.hollywoodreporter.com/news/china-demands-shutdown-disneylife-service-887599 Disney Life blocked
 * 2016-04 http://www.hollywoodreporter.com/news/china-demands-shutdown-apples-film-886831 Apple iTunes and iBooks blocked
-* 2016 http://www.bbc.com/news/blogs-news-from-elsewhere-35968855 China's 'Great Firewall' blocks its creator
-* 2016 Panama papers 巴拿马文件
-** https://en.wikipedia.org/wiki/Panama_Papers | https://zh.wikipedia.org/wiki/巴拿馬文件
-** mention Deng Jiagui 邓家贵 https://en.wikipedia.org/wiki/Deng_Jiagui , who is <<xi-jinping>>'s brother-in-law
+* 2016 http://www.bbc.com/news/blogs-news-from-elsewhere-35968855 China's '<<gfw,Great Firewall>>' blocks its creator
 * 2016 http://www.theguardian.com/tv-and-radio/2016/mar/04/china-bans-gay-people-television-clampdown-xi-jinping-censorship gay depiction banned on television
 * 2016 http://www.bbc.com/news/blogs-trending-35496562 Armani Communist - http://www.ibtimes.com/xi-jinping-wants-overhaul-image-chinas-rich-kids-1961207 - first section of https://www.youtube.com/watch?v=ZKQ5ijFZ_j8
 * 2016 http://freebeacon.com/national-security/chinese-defector-reveals-beijings-secrets/ Ling Wancheng defects
@@ -3481,7 +3496,7 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 ** http://edition.cnn.com/2015/07/13/china/china-activists-arrests/
 ** http://time.com/3954935/china-arrests-lawyers-human-rights/
 ** https://program-think.blogspot.com/2015/07/weekly-share-90.html
-** https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B710%E3%80%8C%E7%B6%AD%E6%AC%8A%E5%BE%8B%E5%B8%AB%E3%80%8D%E5%A4%A7%E6%8A%93%E6%8D%95%E4%BA%8B%E4%BB%B6
+** https://zh.wikipedia.org/wiki/中國709維權律師大抓捕事件
 ** #710律师劫
 ** https://program-think.blogspot.com/2015/07/weekly-share-90.html
 * 2015-03 China forces real usernames on the net, and provoking ones
@@ -3965,21 +3980,8 @@ https://en.wikipedia.org/wiki/Nineteen_Eighty-Four | https://zh.wikipedia.org/wi
 .https://en.wikipedia.org/wiki/Eric_Drooker[Eric Drooker]'s "Censorship" (TODO year) has become one of the most recognizable censorship symbols as of 2020. http://www.drooker.com/illustrations[Source].
 image::https://web.archive.org/web/20200313090742if_/https://images.squarespace-cdn.com/content/v1/56b6ef88a3360c8cda5f4ec5/1455664972210-ZH3TLGYYZ2ACRHT3SG32/ke17ZwdGBToddI8pDm48kPC_zjTA3UYFvUlg9ipOEJx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URB8do3-7hcAcpn6rB6iKr1pTef0AlszvevyZwBc1CWewPPt5b224fdRayPxZIHRuA/censorship.jpg?format=1500w[height=400]
 
-==== The Great Firewall is necessary to protect China from harmful USA propaganda and data collection
-
-I don't think this is below the USA, but:
-
-* without censorship, you would be much richer and stronger, and more able to defend yourselves
-* why does China also censor its own people in addition to foreign propaganda?
-* maybe this fear is greatly emphasised by the Chinese government beyond truth just to help them keep control of the country by fear and maintain their own power. Can the Americans really have that much influence in your country? <<fear-of-west>>
-* maybe the regions that want to split from China feel like China is not giving them anything back, and they are themselves looking for allies outside of China to help them split. With democracy, people are more likely to get what they want, and there will be split parties and votes.
-* the same argument can be used to justify any action, no matter how bad. E.g.: we must put all who criticize the government in jail, or else they will make China less united and weaker against the USA!
-
-.Faithful https://en.wikipedia.org/wiki/Google_China[Google China (谷歌)] users/employees made a funeral-like flower tribute on the company's entry sign in Beijing https://en.wikipedia.org/wiki/Tuspark[Tsinghua Science Park] when the company was https://en.wikipedia.org/wiki/Operation_Aurora[kicked/hacked out of China in the 2010 Operation Aurora]. This was one example of the unfair <<what-should-western-countries-do-about-china,joint venture technique imposed on foreign companies>> by China. https://qz.com/1352137/why-internet-users-chose-baidu-over-google-when-it-was-in-china/[Source].
-image::https://web.archive.org/web/20200315134918if_/https://cms.qz.com/wp-content/uploads/2018/08/google-china-flowers-baidu.jpg?quality=75&strip=all&w=1600&h=901[height=400]
-
 [[internal-censorship]]
-===== Internal censorship is necessary to prevent fake USA accounts from creating harmful propaganda
+==== Internal censorship is necessary to prevent fake USA accounts from creating harmful propaganda
 
 The USA cannot create enough fake accounts to overwhelm real 1.5 billion Chinese accounts, especially considering things like forcing mobile number account verification.
 
@@ -4029,6 +4031,87 @@ image::https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/1933-may-10-ber
 
 .<<falun-gong>> books being destroyed with a https://en.wikipedia.org/wiki/Road_roller[road roller] in 1999 in China in an extremely low quality early Internet image. How far do you think mass jailings and torture would be? One wonders why they didn't burn the books though. https://en.wikipedia.org/wiki/File:Destruction_d'ouvrages_du_Falun_Gong_lors_de_la_répression_de_1999_en_Chine.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/5/52/Destruction_d'ouvrages_du_Falun_Gong_lors_de_la_répression_de_1999_en_Chine.jpg[height=400]
+
+==== China has more freedom of speech than the USA!
+
+When you hear that online, it really makes you wonder if those people believe it or are paid to say it.
+
+Luckily, this is easy to verify: just create an online account on a Chinese website, and start posting about censored political subjects, and wait for your account to get banned.
+
+Then create an account on an American website, and start posting about censored political subjects. The first good question is: what will you post about since no political subject is censored?
+
+Here is one concrete and well documented example: <<zhihu-purge>>.
+
+Or maybe why not <<t-shirt,go out on the street in China with a T-shirt with censored words and share some photos online>>? 
+
+[[t-shirt]]
+===== What happens if you wear a T-shirt with censored words in China?
+
+See also <<ciro-santilli>>'s answer to https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli[What would happen if I walked around Beijing with a t-shirt that said "freedom of speech is pretty great"?] on <<quora>>.
+
+Some cases where that didn't end well for them:
+
+* 2017 Li Xiaoling (李小玲) was arrested and released "on bail" for wearing a <<tiananmen,Tiananmen>> T-shirt: https://www.nchrd.org/2017/10/li-xiaoling/
+* 1989 <<pu-zhiqiang-shirt,Pu Zhiqiang (浦志强) freedom of speech shirt>> during <<tiananmen>>
+
+.In 2016 activist Quan Ping (Kwon Pyong,权平,https://twitter.com/kwonpyong[BraveJohnny]) was sent to jail for wearing a <<nazi,Xitler>>/<<xi-jinping-memes,習包子/大撒币>> t-shirt in public and posting selfies online. This photo is in front of a Government building (TODO exact location, reports say he is from https://en.wikipedia.org/wiki/Jilin_City[Jilin City 吉林] transcription of the sign on top of building: 诚信立市 https://baike.baidu.com/item/工业强市[工业强市] 依法治...) https://www.nytimes.com/2017/02/16/world/asia/china-xi-jinping-xitler-tshirt-kwon-pyong.html[New York Times coverage]. He was later sentenced and served 18 months in prison because of this: https://www.frontlinedefenders.org/en/profile/kwon-pyong[Front Line Defenders profile]. https://www.rfa.org/english/news/china/xi-jinping-tshirt-activist-confirmed-held-in-northeast-china-detention-center-12082016110338.html[Source].
+image::https://web.archive.org/web/20170630212420im_/http://www.rfa.org/english/news/china/activist-11022016120902.html/china-xitler-nov22016.jpg/image[height=400]
+
+.In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/【历史的先声】一党独裁，遍地是灾/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang’s one-party dictatorship, but the CP will not establish a one-party dictatorship". He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
+image::http://web.archive.org/web/20200309101601im_/http://scd.observers.france24.com/files/images/090521%20china%20I.preview.jpg[height=500]
+
+[[gfw]]
+==== Great Firewall (GFW) 防火长城
+
+https://en.wikipedia.org/wiki/Great_Firewall | https://zh.wikipedia.org/wiki/防火长城
+
+https://en.wikipedia.org/wiki/Golden_Shield_Project | https://zh.wikipedia.org/wiki/全国公安工作信息化工程
+
+And so, the spirit of Internet freedom that the Chinese themselves had at the start, was crushed :
+
+____
+越过长城，走向世界
+
+Across the Great Wall, we can reach every corner in the world.
+____
+
+Source: the first International email sent from China in 1987 by https://zh.wikipedia.org/wiki/王运丰[Wang Yunfeng (王运丰)] in the Beijing-based Institute for Computer Application (ICA) of the China Ordnance Industry Corporation under the https://zh.wikipedia.org/wiki/中华人民共和国机械电子工业部[Ministry of Machinery and Electronics of the People's Republic of China (中华人民共和国机械电子工业部)] to https://en.wikipedia.org/wiki/Werner_Zorn[Werner Zorn] from the https://en.wikipedia.org/wiki/Karlsruhe_Institute_of_Technology[Karlsruhe Institute of Technology] see also: https://en.wikipedia.org/wiki/Internet_in_China[].
+
+[[dictator-needs-gfw]]
+==== Would ending the Great Firewall truly end the dictatorship?
+
+Not 100% sure.
+
+In <<russia>> for example, the Internet is relatively free, but the government controls most professional media, which is what most people end up seeing, by suing dissidents media out of business.
+
+But on the other hand Russia is already much freer than China.
+
+Although I don't like them, I can't deny one thing: the commies are smart, and when they do something (e.g. censorship), it tends to keep them in power.
+
+===== The Great Firewall is necessary to protect China from harmful USA propaganda and data collection
+
+<<ciro-santilli>> doesn't think this is below the USA, but:
+
+* without censorship, you would be much richer and stronger, and more able to defend yourselves
+* why does China also censor its own people in addition to foreign propaganda?
+* maybe this fear is greatly emphasised by the Chinese government beyond truth just to help them keep control of the country by fear and maintain their own power. Can the Americans really have that much influence in your country? <<fear-of-west>>
+* maybe the regions that want to split from China feel like China is not giving them anything back, and they are themselves looking for allies outside of China to help them split. With democracy, people are more likely to get what they want, and there will be split parties and votes.
+* the same argument can be used to justify any action, no matter how bad. E.g.: we must put all who criticize the government in jail, or else they will make China less united and weaker against the USA!
+
+<<deng-xiaoping>> notably had this ideology, even though he explicitly recognizes that there are also <<censorship-makes-countries-poorer,benefits to not having online censorship>>:
+
+____
+打开窗户，新鲜空气和苍蝇就会一起进来。
+____
+
+which translates as:
+
+____
+If you open the window, both fresh air and flies will enter.
+____
+
+.Faithful https://en.wikipedia.org/wiki/Google_China[Google China (谷歌)] users/employees made a funeral-like flower tribute on the company's entry sign in Beijing https://en.wikipedia.org/wiki/Tuspark[Tsinghua Science Park] when the company was https://en.wikipedia.org/wiki/Operation_Aurora[kicked/hacked out of China in the 2010 Operation Aurora]. This was one example of the unfair <<what-should-western-countries-do-about-china,joint venture technique imposed on foreign companies>> by China. https://qz.com/1352137/why-internet-users-chose-baidu-over-google-when-it-was-in-china/[Source].
+image::https://web.archive.org/web/20200315134918if_/https://cms.qz.com/wp-content/uploads/2018/08/google-china-flowers-baidu.jpg?quality=75&strip=all&w=1600&h=901[height=400]
 
 [[jingjing-chacha]]
 ===== Jingjing and Chacha 警警察察
@@ -4092,38 +4175,12 @@ In 2019, the European Union was considering making stricter laws about cyber sur
 * http://www.osborneclarke.com/insights/upcoming-changes-to-bring-cyber-surveillance-technology-within-eu-export-control-regime/
 * http://www.aljazeera.com/news/2017/12/eu-plans-restrict-export-dual-spy-tech-171210061410639.html
 
+See also: <<western-companies-that-comply-to-chinese-censorship-requests>>.
+
 .Cartoon showing how Amesys systems are used to suppress citizens in Egypt. Do you want the logo of your company to figure there instead? https://www.fidh.org/en/region/north-africa-middle-east/egypt/sale-of-surveillance-equipment-to-egypt-by-french-company-amesys[Source].
-*mage::https://web.archive.org/web/20200315112732if_/https://www.fidh.org/local/cache-gd2/86/564727cb219a210145a0dd6a1b7561.jpg?1556188970[height=400]
+image::https://web.archive.org/web/20200315112732if_/https://www.fidh.org/local/cache-gd2/86/564727cb219a210145a0dd6a1b7561.jpg?1556188970[height=400]
 
-===== China has more freedom of speech than the USA!
-
-When you hear that online, it really makes you wonder if those people believe it or are paid to say it.
-
-Luckily, this is easy to verify: just create an online account on a Chinese website, and start posting about censored political subjects, and wait for your account to get banned.
-
-Then create an account on an American website, and start posting about censored political subjects. The first good question is: what will you post about since no political subject is censored?
-
-Here is one concrete and well documented example: <<zhihu-purge>>.
-
-Or maybe why not <<t-shirt,go out on the street in China with a T-shirt with censored words and share some photos online>>? 
-
-[[t-shirt]]
-====== What happens if you wear a T-shirt with censored words in China?
-
-https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli See also: <<quora>>.
-
-Some cases where that didn't end well for them:
-
-* 2017 Li Xiaoling (李小玲) was arrested and released "on bail" for wearing a <<tiananmen,Tiananmen>> T-shirt: https://www.nchrd.org/2017/10/li-xiaoling/
-* 1989 <<pu-zhiqiang-shirt,Pu Zhiqiang (浦志强) freedom of speech shirt>> during <<tiananmen>>
-
-.In 2016 activist Quan Ping (Kwon Pyong,权平,https://twitter.com/kwonpyong[BraveJohnny]) was sent to jail for wearing a <<nazi,Xitler>>/<<xi-jinping-memes,習包子/大撒币>> t-shirt in public and posting selfies online. This photo is in front of a Government building (TODO exact location, reports say he is from https://en.wikipedia.org/wiki/Jilin_City[Jilin City 吉林] transcription of the sign on top of building: 诚信立市 https://baike.baidu.com/item/工业强市[工业强市] 依法治...) https://www.nytimes.com/2017/02/16/world/asia/china-xi-jinping-xitler-tshirt-kwon-pyong.html[New York Times coverage]. He was later sentenced and served 18 months in prison because of this: https://www.frontlinedefenders.org/en/profile/kwon-pyong[Front Line Defenders profile]. https://www.rfa.org/english/news/china/xi-jinping-tshirt-activist-confirmed-held-in-northeast-china-detention-center-12082016110338.html[Source].
-image::https://web.archive.org/web/20170630212420im_/http://www.rfa.org/english/news/china/activist-11022016120902.html/china-xitler-nov22016.jpg/image[height=400]
-
-.In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/【历史的先声】一党独裁，遍地是灾/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang’s one-party dictatorship, but the CP will not establish a one-party dictatorship". He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
-image::http://web.archive.org/web/20200309101601im_/http://scd.observers.france24.com/files/images/090521%20china%20I.preview.jpg[height=500]
-
-==== Censorship monitoring
+===== Censorship monitoring
 
 Projects that attempt to understand how the Great Firewall works and what it blocks:
 
@@ -4145,7 +4202,7 @@ Projects that attempt to understand how the Great Firewall works and what it blo
 
 It is also worth noting that as mentioned at: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china websites can become non-functional if CDNs they rely on are taken down, instead of the website being taken down itself.
 
-==== gfwlist
+===== gfwlist
 
 https://github.com/gfwlist/gfwlist
 
@@ -4165,7 +4222,7 @@ See also:
 * https://github.com/gfwlist/gfwlist/issues/1141 "Add categories tags to each entry"
 
 [[censorship-circumvention]]
-==== Censorship circumvention 翻墙
+===== Censorship circumvention 翻墙
 
 * https://www.bypasscensorship.org
 
