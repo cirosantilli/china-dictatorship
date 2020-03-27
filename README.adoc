@@ -12,6 +12,8 @@
 
 Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
+Media may be better viewed at https://cirosantilli.com/china-dictatorship or by cloning locally, see also: <<mirrors>>.
+
 image:{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=300]
 image:https://web.archive.org/web/20191013080128if_/https://i.redd.it/c9q6vdybr7i31.jpg[height=300]
 
@@ -4237,7 +4239,15 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 * https://gitlab.com/cirosantilli/china-dictatorship Maybe some day http://gitlab.cn/ ? :-)
 * https://bitbucket.org/cirosantilli/china-dictatorship
 
-A GitHub Pages just for fun: http://cirosantilli.com/china-dictatorship This is useless though, because the domain can easily be blocked at no cost. It does show the YouTube videos inline though!
+GitHub Pages: http://cirosantilli.com/china-dictatorship Trade-offs with https://github.com/cirosantilli/china-dictatorship[]
+
+* pro
+** https://help.github.com/en/github/authenticating-to-github/about-anonymized-image-urls[GitHub's camo] keeps hiccuping and not showing images
+** and YouTube videos show inline there
+* cons
+** Camo bypasses the need for VPN, since most images are served from https://en.wikipedia.org/wiki/Internet_Archive[Internet Archive] which is <<censorship,blocked in China>>.
+
+The perfect solution might be to download all images and upload them to https://github.com/cirosantilli/media since GitHub content does not go through Camo, we have to see if such images don't fail to load as often.
 
 We also have a NPM Node.js package https://www.npmjs.com/package/china-dictatorship[]. After https://askubuntu.com/questions/594656/how-to-install-the-latest-versions-of-nodejs-and-npm/971612#971612[installing NPM], you can be use it as:
 
