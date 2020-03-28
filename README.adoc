@@ -230,14 +230,18 @@ Virus outbreaks and other natural disasters also illustrate this well: <<corona>
 
 https://en.wikipedia.org/wiki/Coronavirus_disease_2019 | https://zh.wikipedia.org/wiki/2019冠状病毒病
 
-The Chinese Government censored the initial outbreak in January and did not inform Wuhan on January 8, which likely made the situation much worse than what it could have been. Timeline:
+The Chinese Government censored the initial outbreak in January and did not inform Wuhan on January 8, which likely made the situation much worse than what it could have been.
+
+This is possibly the best cover-up timeline so far, and no fucking paywall: https://www.axios.com/timeline-the-early-days-of-chinas-coronavirus-outbreak-and-cover-up-ee65211a-afb6-4641-97b8-353718a5faab.html "Timeline: The early days of China's coronavirus outbreak and cover-up"
+
+Timeline:
 
 * 2019-12-27 several genomics companies had sequenced the coronavirus and noticed the similarity to Sars
 * 2020-01-03 findings were sent to the https://en.wikipedia.org/wiki/Chinese_Center_for_Disease_Control_and_Prevention[Centre for Disease Control] (CDC, https://zh.wikipedia.org/wiki/中国疾病预防控制中心[中国疾病预防控制中心]) in Beijing, but then the https://en.wikipedia.org/wiki/National_Health_Commission[Chinese National Health Commission] (https://zh.wikipedia.org/wiki/中华人民共和国国家卫生健康委员会[中华人民共和国国家卫生健康委员会]), China's top medical authority, issued orders to not talk about it and destroy samples
 * 2020-01-08 CDC team went to Wuhan to see the situation, was not informed that contagiousness of the disease had been confirmed
 * 2020-01-20 the findings were made public, in an interview with Zhong Nanshan. He later said in an interview that the local government should be blamed: https://youtu.be/LK1Pz8FmryM?t=132
 * 2020-01-23 Wuhan begins lockdown
-* 2020-01-25 Chinese New Year
+* 2020-01-24 to 30 Chinese New Year
 
 News coverage:
 
@@ -949,13 +953,15 @@ It's the current shitty political organization, which allows/convinces those pol
 
 ==== Is Chinese politician X evil?
 
-The term evil does not make sense.
+The term evil does not make sense unless you are <<falun-gong,religious>>.
 
 The best definition of evil is a psychopath with zero empathy for anyone: https://en.wikipedia.org/wiki/Psychopathy although this can be better characterized as a disease or extreme personality trait.
 
 The huge majority of those politicians are just regular dudes with a knack for politics but brought up in a fucked up political situation.
 
 Just like you, Ciro Santilli and other politicians in any country.
+
+See also: <<politicians>>.
 
 [[nazi]]
 === Comparisons between the CCP and Nazi Germany 纳粹德国
@@ -2464,6 +2470,9 @@ With the support of the Communist Party to Qigong movements, it reached 70 milli
 
 Li fled to the USA and lives near New York, where he continues to run the religion as of 2020.
 
+.Tim and Eric's Zone Theory. If you want to stop Falun Gong, don't put them in jail like the dictators. Do it the same way you stop dictators: with <<funny,comedy>>.
+video::https://www.youtube.com/watch?v=ClvX7ED8UUI[youtube,width=600,height=400]
+
 ==== Falun Gong is not important to be worth discussing
 
 The main reason I emphasise FLG it that is shows how the CCP can mercilessly crush a 70M strong group (according to CCPs own statistics) out of a population of 1.3B in 2000, i.e. 5% of the population.
@@ -2540,6 +2549,7 @@ And you just repeat these truth over and over and over:
 * FLG is good
 * xref:flg-religion[Final judgement]
 * FLG is good
+* <<is-chinese-politician-x-evil,the CCP is evil>>, not figuratively, but literally as in they are representatives of, or evil supernatural beings themselves. E.g. <<jiang-zemin>> is actually an evil frog, literally, not just memecally.
 
 I would really like to know if <<li-hongzhi,LHZ>> really believes in FLG, or is just a complete manipulating charlatan, but unfortunately we will never know that.
 
@@ -4528,6 +4538,16 @@ You can buy them frozen on bags with about 20 for about 4 dollars.
 
 Just boil 10-15 for 10 minutes and you have a decent ready-made meal!
 
+The perfect cooking technique includes:
+
+* at first, stir constantly so that they won't stick to the hot bottom of the pan, which will cause the peel to break
+* don't ever ever ever overcook. Cook the minimum possible so that it is not raw. This also means taking the jiaozi out of the hot water as soon as they are done.
+* after the dumplings rise to the surface after a few minutes, let it boil, and then put some cold water on top of the hot water. This helps the jiazi keep a strong peel.
+
+The best way to eat them is to pour some vinegar and ready-to-eat spicy preparations like <<laoganma>> or Ciro's favorite, <<fansaoguang-wild-brake-pickles>> in the bowl, and then dip them one by one.
+
+You can also drink the soup, or for cold days, actually eat the jiaozi with their soup. Ciro likes to add soy sauce and more of the above mentioned spices.
+
 Can also be made by hand if you have the patience.
 
 <<ciro-santilli>> could basically eat those every 3-4 days and not get tired.
@@ -5259,6 +5279,15 @@ Words:
 
 * <<列表>>
 
+[[对]]
+==== 对 (dui4, correct)
+
+Mnemonic: to progress slowly, adding **inch** (<<寸>>) by inch, **again** (<<又>>) and again, is the correct way to progress
+
+Characters:
+
+* <<树>>
+
 [[寸]]
 ==== 寸 (cun4, inch)
 
@@ -5269,7 +5298,7 @@ Characters:
 [[歹]]
 ==== 歹 (dai3, supervillain)
 
-Mnemonic: that evening (<<夕>>), one (<<一>>) **supervillain** attacked our base!
+Mnemonic: that **evening** (<<夕>>), **one** (<<一>>) **supervillain** attacked us!
 
 Characters:
 
@@ -5287,6 +5316,46 @@ Short forms: 刂,⺈
 Characters:
 
 * <<列>>
+
+[[艮]]
+==== 艮 (gen4, root)
+
+Characters:
+
+* <<根>>
+
+[[根]]
+==== 根 (gen1, roots)
+
+Mnemonic: **roots** one **root** (<<艮>>) plus one root and lots of **wood** (<<木>>)
+
+[[禾]]
+==== 禾 (he2, grain)
+
+Mnemonic: **one** <<一>> **grain** of **root** (<<艮>>) plus one root and lots of **wood** (<<木>>)
+
+Characters:
+
+* <<私>>
+* <<和>>
+
+[[和]]
+==== 和 (he2, harmonious)
+
+Mnemonic: nothing is more **harmonious** than putting some **grains** <<禾>> in your **mouth** <<口>>
+
+Characters:
+
+* <<私>>
+* <<和>>
+
+[[口]]
+==== 口 (kou3, mouth)
+
+Chars:
+
+* <<台>>
+* <<和>>
 
 [[列]]
 ==== 列 (lie4, list)
@@ -5315,10 +5384,21 @@ Characters:
 
 * <<论>>
 
+[[木]]
+==== 木 (mu4, wood)
+
+Characters:
+
+* <<根>>
+
+Words:
+
+* <<木头>>
+
 [[爬]]
 ==== 爬 (pa2, climb)
 
-Mnemonic: you need claws (<<爪>>) to **climb** **Brazil**'s (<<巴>>) tallest mountain: https://en.wikipedia.org/wiki/Pico_da_Neblina[Pico da Neblina]
+Mnemonic: you need **claws** (<<爪>>) to **climb** (爬) **Brazil**'s (<<巴>>) tallest mountain: https://en.wikipedia.org/wiki/Pico_da_Neblina[Pico da Neblina]
 
 Words:
 
@@ -5332,7 +5412,7 @@ Notes: it is more like https://en.wikipedia.org/wiki/Cyan[green-blue/Cyan], see 
 [[人]]
 ==== 人 (ren2, person)
 
-Short versions: 亻
+Short forms: 亻
 
 Characters:
 
@@ -5342,6 +5422,33 @@ Words:
 
 * <<歹人>>
 
+[[水]]
+==== 水 (shui3, water)
+
+Short forms: 氵,氺
+
+Chars:
+
+* <<治>>
+
+[[厶]]
+==== 厶 (si1, private)
+
+Chars:
+
+* <<台>>
+* <<私>>
+
+[[私]]
+==== 私 (si1, privacy)
+
+Mnemonic: **privacy** is all about storing your precious **grain** <<禾>> in a **private** <<厶>> location
+
+[[树]]
+==== 树 (shu4, tree)
+
+Mnemonic: it is **correct** (<<对>>) to say that **trees** (树) are made out of of **wood** (<<木>>)
+
 [[讨]]
 ==== 讨 (tao3, discuss)
 
@@ -5350,6 +5457,19 @@ Mnemonic: in their **discussions** (<<讨论>>), they always **talked** (<<言>>
 Words:
 
 * <<讨论>>
+
+[[台]]
+==== 台 (tai2, platform)
+
+Mnemonic: he was doing something **private** (<<厶>>) to her with his **mouth** (<<口>>) on the train **platform**
+
+Characters:
+
+* <<治>>
+
+Words:
+
+* <<台湾>>
 
 [[夕]]
 ==== 夕 (xi1, evening)
@@ -5362,11 +5482,9 @@ Short forms: 讠
 [[一]]
 ==== 一 (yi1, one)
 
-Short forms: ⻂
+Characters:
 
-Words: <<衣服>>
-
-Characters: <<表>>
+* <<禾>>
 
 [[衣]]
 ==== 衣 (yi1, clothes)
@@ -5376,6 +5494,22 @@ Short forms: ⻂
 Words: <<衣服>>
 
 Characters: <<表>>
+
+[[又]]
+==== 又 (you4, again)
+
+Characters:
+
+* <<对>>
+
+[[治]]
+==== 治 (zhi4, cure)
+
+Mnemonic: she **cured** him from his heat stroke with water **water** (<<水>>) right on the train **platform** (<<台>>)
+
+Words:
+
+* <<治愈>>
 
 [[爪]]
 ==== 爪 (zhua3, claws)
@@ -5411,7 +5545,13 @@ Characters:
 
 * <character-contained>
 * <character-contained>
+
+Mnemonic: <<mnemonic>>
 ....
+
+Notes:
+
+* mnemonics are mostly useful for proper nouns, for common nouns, it is usually obvious from the composing characters. This is why Chinese is amazing.
 
 [[巴西]]
 ==== 巴西 (ba1 xi1, Brazil)
@@ -5428,6 +5568,16 @@ Characters:
 
 * <<歹>>
 * <<人>>
+
+[[治愈]]
+==== 治愈 (zhi4 yu4, recover from a disease, be cured from a disease)
+
+Characters:
+
+* <<治>>
+* 愈
+
+Sentences:
 
 [[理论]]
 ==== 理论 (li3 lun4, logic)
@@ -5449,6 +5599,14 @@ Characters:
 * <<列>>
 * <<表>>
 
+[[木头]]
+==== 木头 (mu4 tou, wood, timber or log)
+
+Characters:
+
+* <<木>>
+* 头
+
 [[爬行]]
 ==== 爬行 (pa2 xing2, crawl)
 
@@ -5461,6 +5619,11 @@ Characters:
 
 * <<爬>>
 * 行
+
+[[台湾]]
+==== 台湾 (tai2 wan1, Taiwan)
+
+Mnemonic: <<台>> 湾 TODO
 
 [[讨论]]
 ==== 讨论 (tao3 luan4, discuss)
