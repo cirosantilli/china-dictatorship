@@ -12,7 +12,7 @@
 
 Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
-Media may be better viewed at https://cirosantilli.com/china-dictatorship or by cloning locally, see also: <<mirrors>>.
+Video and images may be better viewed at https://cirosantilli.com/china-dictatorship or by cloning locally, see also: <<mirrors>>.
 
 image:{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=300]
 image:https://web.archive.org/web/20191013080128if_/https://i.redd.it/c9q6vdybr7i31.jpg[height=300]
@@ -281,6 +281,9 @@ ____
 
 .Selfie of Li Wenliang on his hospital bed before he died. https://www.bbc.com/news/world-asia-china-51409801[Source].
 image::https://web.archive.org/web/20200209173001im_/https://ichef.bbci.co.uk/news/320/cpsprodpb/10FFE/production/_110803696_drli1.jpg[height=400]
+
+.Mural of <<xi-jinping>> morphed into a Coronavirus by https://en.wikipedia.org/wiki/Lushsux[Lushux]. Reddit called it https://www.reddit.com/r/pics/comments/fqku03/winnie_the_flu/[Winnie the Flu] in a reference to <<winnie-the-pooh>>. https://www.reddit.com/r/pics/comments/fqku03/winnie_the_flu/[Source].
+image::http://web.archive.org/save/_embed/https://i.redd.it/ulqhu0q38fp41.jpg[height=500]
 
 ====== People arrested for reporting on the 2019 Corona Virus
 
@@ -915,7 +918,7 @@ https://en.wikipedia.org/wiki/Vladimir_Putin | https://ru.wikipedia.org/wiki/П�
 image::https://web.archive.org/web/20200312233919if_/https://cdn1.i-scmp.com/sites/default/files/styles/1200x800/public/images/methode/2017/04/06/0a2ae706-1a94-11e7-b4ed-ac719e54b474_1280x720_145124.jpg[height=400]
 
 .Possibly Gay Putin kissing possibly Gay <<flg-trump,Trump>> mural entitled https://en.wikipedia.org/wiki/Make_Everything_Great_Again[Make Everything Great Again] painted in Lithuania in 2016 by by artists Dominykas Čečkauskas and Mindaugas Bonanu. It references the https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections[Russian interference in the 2016 United States elections]. It was https://www.theguardian.com/world/2016/aug/12/vandals-censor-image-of-putin-snogging-trump-lithuania[later vandalized]. Now we just need a Putin <<xi-jinping>> kiss. https://www.euractiv.com/section/global-europe/opinion/putin-will-pay-a-high-price-for-trumps-friendship/[Source].
-image::https://web.archive.org/web/20191022004820if_/https://en.euractiv.eu/wp-content/uploads/sites/2/2016/11/Putin-Trump-kiss-800x450.jpg[height=400]
+image::http://web.archive.org/web/20191022004820if_/https://en.euractiv.eu/wp-content/uploads/sites/2/2016/11/Putin-Trump-kiss-800x450.jpg[height=400]
 
 [[stalin]]
 ==== Stalin 斯大林
@@ -2549,7 +2552,7 @@ And you just repeat these truth over and over and over:
 * FLG is good
 * xref:flg-religion[Final judgement]
 * FLG is good
-* <<is-chinese-politician-x-evil,the CCP is evil>>, not figuratively, but literally as in they are representatives of, or evil supernatural beings themselves. E.g. <<jiang-zemin>> is actually an evil frog, literally, not just memecally.
+* <<is-chinese-politician-x-evil,the CCP is evil>>, not figuratively, but literally as in they are representatives of, or evil supernatural beings themselves. E.g. <<jiang-zemin>> is actually an evil frog, literally, not just memecally. The Chinese Government is literally responsible for creating <<corona,Covid-19>>. They give the CCP too much credit. The CCP are just a bunch of lazy and greedy people like you and me.
 
 I would really like to know if <<li-hongzhi,LHZ>> really believes in FLG, or is just a complete manipulating charlatan, but unfortunately we will never know that.
 
@@ -3300,6 +3303,9 @@ image::http://web.archive.org/web/20191012100528im_/https://i.guim.co.uk/img/med
 
 .Comparison image between Xi Jinping on a car in a 2015 military parade and a toy Winnie-the-Pooh on a car. https://www.bbc.co.uk/news/blogs-china-blog-40627855[Source].
 image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/news/624/cpsprodpb/DD1F/production/_96970665_4587b36b-011f-4007-b16f-34389d385aec.jpg[height=400]
+
+.Real photo of Xi Jinping edited to look like Winnie the Pooh. https://www.reddit.com/r/pics/comments/dcabzh/this_image_of_xi_jiping_as_winnie_the_pooh_is/[Source].
+image::https://web.archive.org/web/20191009075747if_/https://external-preview.redd.it/lqDFDXXvfqMs7kyQ9y1FrGcQzdCE23uMPlcxFqo_oYE.png?auto=webp&s=02b97678eaaa104d58af8e3a5b59563113d7a5b9[height=400]
 
 [[panama-papers]]
 ===== Panama papers 巴拿马文件 (2016)
@@ -4302,7 +4308,7 @@ https://en.wikipedia.org/wiki/One-child_policy | https://zh.wikipedia.org/wiki/�
 
 The cool thing about Git is that we can maintain several mirrors on multiple websites very easily:
 
-* https://github.com/cirosantilli/china-dictatorship Canonical source. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
+* https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
 * https://gitlab.com/cirosantilli/china-dictatorship Maybe some day http://gitlab.cn/ ? :-)
 * https://bitbucket.org/cirosantilli/china-dictatorship
 
@@ -4315,6 +4321,23 @@ GitHub Pages: http://cirosantilli.com/china-dictatorship Trade-offs with https:/
 ** Camo bypasses the need for VPN, since most images are served from https://en.wikipedia.org/wiki/Internet_Archive[Internet Archive] which is <<censorship,blocked in China>>.
 
 The perfect solution might be to download all images and upload them to https://github.com/cirosantilli/media since GitHub content does not go through Camo, we have to see if such images don't fail to load as often.
+
+You can also view the GitHub pages version locally with:
+
+....
+git clone https://github.com/cirosantilli/china-dictatorship
+cd china-dictatorship
+git checkout gh-pages
+xdg-open README.html
+....
+
+or built it yourself:
+
+....
+gem install asciidoctor
+make
+xdg-open README.html
+....
 
 We also have a NPM Node.js package https://www.npmjs.com/package/china-dictatorship[]. After https://askubuntu.com/questions/594656/how-to-install-the-latest-versions-of-nodejs-and-npm/971612#971612[installing NPM], you can be use it as:
 
@@ -5250,9 +5273,15 @@ Notes:
 * `Translations` is only used when it is a single character word, if it goes inside a word, only the word will contain the sentence
 
 [[龶]]
-==== 龶 (-, TODO)
+==== 龶 (-, crown)
 
-Mnemonic: the top part of "<<青>>" (青字頭) https://en.wiktionary.org/wiki/龶
+Mnemonic: the dot indicates something that stays on top of the head of a king (<<王>>)
+
+Notes: there is no "proper" Chinese name for this, it is just known as "the top part of <<青>>" (青字頭) https://en.wiktionary.org/wiki/龶
+
+Characters:
+
+* <<青>>
 
 [[巴]]
 ==== 巴 (ba1, Brazil)
@@ -5279,14 +5308,12 @@ Words:
 
 * <<列表>>
 
-[[对]]
-==== 对 (dui4, correct)
-
-Mnemonic: to progress slowly, adding **inch** (<<寸>>) by inch, **again** (<<又>>) and again, is the correct way to progress
+[[卜]]
+==== 卜 (bu3, magic wand)
 
 Characters:
 
-* <<树>>
+* <<攴>>
 
 [[寸]]
 ==== 寸 (cun4, inch)
@@ -5307,6 +5334,15 @@ Characters:
 Words:
 
 * <<歹人>>
+
+[[对]]
+==== 对 (dui4, correct)
+
+Mnemonic: to progress slowly, adding **inch** (<<寸>>) by inch, **again** (<<又>>) and again, is the correct way to progress
+
+Characters:
+
+* <<树>>
 
 [[刀]]
 ==== 刀 (dao1, knife)
@@ -5404,8 +5440,21 @@ Words:
 
 * <<爬行>>
 
+[[攴]]
+==== 攴 (pu1, to tap)
+
+Short forms: 攵
+
+Mnemonic: to transform a frog into a princess, you have to **tap** your **magic wand** (<<卜>>) **again and again** (<<又>>) on it
+
+Characters:
+
+* <<政>>
+
 [[青]]
 ==== 青 (qing1, blue)
+
+Mnemonic: the **crown** (<<龶>>) of the king was **blue** and **moon-shaped** (<<月>>) 
 
 Notes: it is more like https://en.wikipedia.org/wiki/Cyan[green-blue/Cyan], see also https://zh.wikipedia.org/wiki/青色 but let's call it blue because it will be used in many constructs.
 
@@ -5502,6 +5551,42 @@ Characters:
 
 * <<对>>
 
+[[月]]
+==== 月 (yue4, moon)
+
+Characters:
+
+* <<青>>
+
+[[政]]
+==== 政 (zheng4, politics)
+
+Mnemonic: to do **politics** in China, you have to **tap** (<<攴>>) those <<xinjiang,Uyghurs>> on the shoulder and tell them to **straighten** (<<正>>) their backs
+
+Words:
+
+* <<政治>>
+
+[[正]]
+==== 正 (zheng4, straighten)
+
+Mnemonic: **one** (<<一>>) **stop** (<<止>>) at the bone doctor is all it takes to **straighten** up your hurting back
+
+Characters:
+
+* <<政>>
+
+[[止]]
+==== 止 (zhi3, stop)
+
+Characters:
+
+* <<正>>
+
+Words:
+
+* <<禁止>>
+
 [[治]]
 ==== 治 (zhi4, cure)
 
@@ -5510,6 +5595,7 @@ Mnemonic: she **cured** him from his heat stroke with water **water** (<<水>>) 
 Words:
 
 * <<治愈>>
+* <<政治>>
 
 [[爪]]
 ==== 爪 (zhua3, claws)
@@ -5519,6 +5605,13 @@ Short forms: 爫
 Characters:
 
 * <<爬>>
+
+[[王]]
+==== 王 (wang2, king)
+
+Characters:
+
+* <<龶>>
 
 === English words
 
@@ -5569,15 +5662,13 @@ Characters:
 * <<歹>>
 * <<人>>
 
-[[治愈]]
-==== 治愈 (zhi4 yu4, recover from a disease, be cured from a disease)
+[[禁止]]
+==== 禁止 (jin4 zhi3, forbidden)
 
 Characters:
 
-* <<治>>
-* 愈
-
-Sentences:
+* 禁
+* <<止>>
 
 [[理论]]
 ==== 理论 (li3 lun4, logic)
@@ -5640,6 +5731,22 @@ Characters:
 
 * <<衣>>
 * 服
+
+[[政治]]
+==== 政治 (zheng4 zhi4, politics)
+
+Characters:
+
+* <<政>>
+* <<治>>
+
+[[治愈]]
+==== 治愈 (zhi4 yu4, recover from a disease, be cured from a disease)
+
+Characters:
+
+* <<治>>
+* 愈
 
 === Sentences
 
