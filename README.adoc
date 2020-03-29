@@ -282,7 +282,7 @@ ____
 .Selfie of Li Wenliang on his hospital bed before he died. https://www.bbc.com/news/world-asia-china-51409801[Source].
 image::https://web.archive.org/web/20200209173001im_/https://ichef.bbci.co.uk/news/320/cpsprodpb/10FFE/production/_110803696_drli1.jpg[height=400]
 
-.Mural of <<xi-jinping>> morphed into a Coronavirus by https://en.wikipedia.org/wiki/Lushsux[Lushux]. Reddit called it https://www.reddit.com/r/pics/comments/fqku03/winnie_the_flu/[Winnie the Flu] in a reference to <<winnie-the-pooh>>. https://www.reddit.com/r/pics/comments/fqku03/winnie_the_flu/[Source].
+.Corona Xi mural of <<xi-jinping>> morphed into a Coronavirus by https://en.wikipedia.org/wiki/Lushsux[Lushux]. Fuller composition view: https://twitter.com/lushsux/status/1243830638966235136[]. Reddit called it https://www.reddit.com/r/pics/comments/fqku03/winnie_the_flu/[Winnie the Flu] in a reference to <<winnie-the-pooh>>. https://www.reddit.com/r/pics/comments/fqku03/winnie_the_flu/[Source].
 image::http://web.archive.org/save/_embed/https://i.redd.it/ulqhu0q38fp41.jpg[height=500]
 
 ====== People arrested for reporting on the 2019 Corona Virus
@@ -5311,9 +5311,18 @@ Words:
 [[卜]]
 ==== 卜 (bu3, magic wand)
 
+Mnemonic: the kangxi description is "divination". Since this is completely unrelated to common contexts of modern people, we select a wand use a magic-related object that can be easily put into fun stories: a magic wand.
+
 Characters:
 
 * <<攴>>
+
+[[车]]
+==== 车 (che1, car)
+
+Characters:
+
+* <<轮>>
 
 [[寸]]
 ==== 寸 (cun4, inch)
@@ -5402,6 +5411,15 @@ Words:
 
 * <<列表>>
 
+[[仑]]
+==== 仑 (lun2, logic)
+
+Mnemonic: https://en.wikipedia.org/wiki/Spoon_theory[spoon theory] is very logical and explains how using **spoons** (<<匕>>) is a good metaphor for a **person**'s (<<人>>) energy consumption
+
+Characters:
+
+* <<论>>
+
 [[论]]
 ==== 论 (lun4, rationale)
 
@@ -5411,14 +5429,14 @@ Words:
 
 * <<理论>>
 
-[[仑]]
-==== 仑 (lun2, logic)
+[[轮]]
+==== 轮 (lun4, wheel)
 
-Mnemonic: https://en.wikipedia.org/wiki/Spoon_theory[spoon theory] is very logical and explains how using **spoons** (<<匕>>) is a good metaphor for a **person**'s (<<人>>) energy consumption
+Mnemonic: it is pretty **logical** (<<仑>>) that a **car** (<<车>>) needs **wheels**
 
-Characters:
+Words:
 
-* <<论>>
+* 法轮功: <<falun-gong>>
 
 [[木]]
 ==== 木 (mu4, wood)
@@ -5451,12 +5469,26 @@ Characters:
 
 * <<政>>
 
+[[丬]]
+==== 丬 (qiang2, split wood)
+
+Characters: <<状>>
+
 [[青]]
 ==== 青 (qing1, blue)
 
 Mnemonic: the **crown** (<<龶>>) of the king was **blue** and **moon-shaped** (<<月>>) 
 
 Notes: it is more like https://en.wikipedia.org/wiki/Cyan[green-blue/Cyan], see also https://zh.wikipedia.org/wiki/青色 but let's call it blue because it will be used in many constructs.
+
+[[犬]]
+==== 犬 (quan3, dog)
+
+Short forms: 犭
+
+Characters:
+
+* <<状>>
 
 [[人]]
 ==== 人 (ren2, person)
@@ -5520,6 +5552,13 @@ Words:
 
 * <<台湾>>
 
+[[王]]
+==== 王 (wang2, king)
+
+Characters:
+
+* <<龶>>
+
 [[夕]]
 ==== 夕 (xi1, evening)
 
@@ -5557,6 +5596,15 @@ Characters:
 Characters:
 
 * <<青>>
+
+[[爪]]
+==== 爪 (zhao3, claws)
+
+Short forms: 爫
+
+Characters:
+
+* <<爬>>
 
 [[政]]
 ==== 政 (zheng4, politics)
@@ -5597,21 +5645,14 @@ Words:
 * <<治愈>>
 * <<政治>>
 
-[[爪]]
-==== 爪 (zhua3, claws)
+[[状]]
+==== 状 (zhuang4, shape)
 
-Short forms: 爫
+Mnemonic: imagine a **dog** (<<犬>>) model **shaped** from **split wood** pieces (<<丬>>)
 
-Characters:
+Words:
 
-* <<爬>>
-
-[[王]]
-==== 王 (wang2, king)
-
-Characters:
-
-* <<龶>>
+* 冠状病毒: <<corona>>
 
 === English words
 
