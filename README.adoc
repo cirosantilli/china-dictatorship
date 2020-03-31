@@ -4078,7 +4078,7 @@ Some cases where that didn't end well for them:
 .In 2016 activist Quan Ping (Kwon Pyong,权平,https://twitter.com/kwonpyong[BraveJohnny]) was sent to jail for wearing a <<nazi,Xitler>>/<<xi-jinping-memes,習包子/大撒币>> t-shirt in public and posting selfies online. This photo is in front of a Government building (TODO exact location, reports say he is from https://en.wikipedia.org/wiki/Jilin_City[Jilin City 吉林] transcription of the sign on top of building: 诚信立市 https://baike.baidu.com/item/工业强市[工业强市] 依法治...) https://www.nytimes.com/2017/02/16/world/asia/china-xi-jinping-xitler-tshirt-kwon-pyong.html[New York Times coverage]. He was later sentenced and served 18 months in prison because of this: https://www.frontlinedefenders.org/en/profile/kwon-pyong[Front Line Defenders profile]. https://www.rfa.org/english/news/china/xi-jinping-tshirt-activist-confirmed-held-in-northeast-china-detention-center-12082016110338.html[Source].
 image::https://web.archive.org/web/20170630212420im_/http://www.rfa.org/english/news/china/activist-11022016120902.html/china-xitler-nov22016.jpg/image[height=400]
 
-.In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/【历史的先声】一党独裁，遍地是灾/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang’s one-party dictatorship, but the CP will not establish a one-party dictatorship". He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
+.In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/【历史的先声】一党独裁，遍地是灾/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang’s one-party dictatorship, but the CP will not establish a one-party dictatorship". This interesting <<zhihu>> page has many other similar quotes BTW: https://zhuanlan.zhihu.com/p/59503784[] (http://web.archive.org/web/20200331202252/https://zhuanlan.zhihu.com/p/59503784[archive]). He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
 image::http://web.archive.org/web/20200309101601im_/http://scd.observers.france24.com/files/images/090521%20china%20I.preview.jpg[height=500]
 
 [[gfw]]
@@ -4425,6 +4425,16 @@ TODO migrate all into this README.
 . link:stack-overflow-profile.md[Stack Overflow profile]
 . Personal
 .. link:communities-that-censor-politics.md[Communities that censor politics]
+
+[[anti-dictatorship-songs]]
+== Anti-dictatorship songs 反对独裁的首歌
+
+Not necessarily in Chinese or about China specifically.
+
+Brazil had a dictatorship from 1964 to 1985, and some amazing songs were made in Portuguese in that era. <<ciro-santilli>>, who is Brazillian, just cannot stop thinking about some of them in relation to China.
+
+.https://www.youtube.com/watch?v=33-bMTOlvx0 Apesar de Você (In spite of you [the Dictatorship])] by https://en.wikipedia.org/wiki/Chico_Buarque[Chico Buarque] published in 1970. https://www.musixmatch.com/lyrics/Chico-Buarque/Apesar-De-Voc%C3%AA/translation/english[Lyrics with translation]. Top quotes: "You [the dictatorship] who invented this State, who invented sin, forgot to invent forgiveness." and "Where will you hide, from the enormous euphoria [of a revolution]? How will you prohibit it when the rooster insists in singing?"
+video::33-bMTOlvx0[youtube,height=400,width=600]
 
 [[music]]
 == The best Chinese traditional instrumental music albums 中国传统器乐音乐
@@ -5345,6 +5355,13 @@ Characters:
 
 * <<讨>>
 
+[[大]]
+==== 大 (da4, big)
+
+Characters:
+
+* <<犬>>
+
 [[歹]]
 ==== 歹 (dai3, supervillain)
 
@@ -5519,6 +5536,8 @@ Notes: it is more like https://en.wikipedia.org/wiki/Cyan[green-blue/Cyan], see 
 
 [[犬]]
 ==== 犬 (quan3, dog)
+
+Mnemonic: imagine one **big** (<<大>>) dog wagging its tail, the dot is the tail
 
 Short forms: 犭
 
