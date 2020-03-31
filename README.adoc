@@ -232,7 +232,10 @@ https://en.wikipedia.org/wiki/Coronavirus_disease_2019 | https://zh.wikipedia.or
 
 The Chinese Government censored the initial outbreak in January and did not inform Wuhan on January 8, which likely made the situation much worse than what it could have been.
 
-This is possibly the best cover-up timeline so far, and no fucking paywall: https://www.axios.com/timeline-the-early-days-of-chinas-coronavirus-outbreak-and-cover-up-ee65211a-afb6-4641-97b8-353718a5faab.html "Timeline: The early days of China's coronavirus outbreak and cover-up"
+Good timelines so without a fucking paywall:
+
+* https://www.axios.com/timeline-the-early-days-of-chinas-coronavirus-outbreak-and-cover-up-ee65211a-afb6-4641-97b8-353718a5faab.html "Timeline: The early days of China's coronavirus outbreak and cover-up"
+* https://en.wikipedia.org/wiki/Timeline_of_the_2019–20_coronavirus_pandemic_in_November_2019_–_January_2020
 
 Timeline:
 
@@ -252,13 +255,15 @@ News coverage:
 * https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1 "China spent the crucial first days of the Wuhan coronavirus outbreak arresting people who posted about it online and threatening journalists" (http://web.archive.org/web/20200124113400/https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1?r=US&IR=T[archive])
 * https://www.vice.com/en_us/article/g5xykx/you-can-now-go-to-jail-in-china-for-criticizing-beijings-coronavirus-response "You Can Now Go to Jail in China for Criticizing Beijing’s Coronavirus Response"
 * https://www.vice.com/en_us/article/qjdn4d/doctors-in-wuhan-are-still-dying-and-beijing-is-still-trying-to-silence-them Ai Fen's (艾芬) report of how the situation was mishandling was censored
+* Some believe that the Chinese government grossly under-reported death counts. Official figures were about only 3300 deaths, in the insanely densely populated Wuhan area, while Italy had reached 10000 deaths.
+** https://www.dailymail.co.uk/news/article-8165717/Locals-Wuhan-believe-42-000-people-died-coronavirus.html
 
 On the other hand, one may argue that the "city closure" measures were stronger/faster than in democracies.
 
-GitHub repo documenting it without censorship:
+Popular GitHub repo documenting personal experiences and media reports:
 
-* https://github.com/2019ncovmemory/nCovMemory
-* https://github.com/memoryhonest/nCovMemory-en
+* https://github.com/2019ncovmemory/nCovMemory "新冠肺炎记忆：报道、非虚构与个人叙述" 2020 New coronavirus pneumonia memories: reports, non-fictional and personal accounts.
+* https://github.com/memoryhonest/nCovMemory-en translation project
 
 Doctor Li Wenliang (李文亮) reported the virus, but was told by authorities to stay quiet, and later died from the virus, becoming somewhat of a martyr:
 
@@ -5324,6 +5329,15 @@ Characters:
 
 * <<轮>>
 
+[[彳]]
+==== 彳 (chi4, step)
+
+Mnemonic: Kangxi 60.
+
+Characters:
+
+* <<很>>
+
 [[寸]]
 ==== 寸 (cun4, inch)
 
@@ -5361,9 +5375,26 @@ Short forms: 刂,⺈
 Characters:
 
 * <<列>>
+* <<尔>>
+
+[[尔]]
+==== 尔 (er3, you)
+
+Mnemonic: I'll stab **you** with a **small** (<<小>>) knife (<<刀>>)
+
+Characters:
+
+* <<你>>
+
+[[你]]
+==== 你 (ni3, thou)
+
+Mnemonic: **person** (<<人>>) **you** (<<尔>>)
 
 [[艮]]
 ==== 艮 (gen4, root)
+
+Mnemonic: this is a Kangxi radical, but its English name "stopping" is just too close to "stop" and would cause confusion. So we just use the common phonetic compound **roots** (<<根>>) as the mnemonic
 
 Characters:
 
@@ -5377,7 +5408,7 @@ Mnemonic: **roots** one **root** (<<艮>>) plus one root and lots of **wood** (<
 [[禾]]
 ==== 禾 (he2, grain)
 
-Mnemonic: **one** <<一>> **grain** of **root** (<<艮>>) plus one root and lots of **wood** (<<木>>)
+Mnemonic: imagine **one** <<一>> **grain** of rice coming out of **wood** (<<木>>)
 
 Characters:
 
@@ -5393,6 +5424,11 @@ Characters:
 
 * <<私>>
 * <<和>>
+
+[[很]]
+==== 很 (hen3, very)
+
+Mnemonic:  **stepping** (<<彳>>) on a tree **root** (<<艮>>) is a **very** bad idea, it might be a tree spirit that gets angry and eats you!
 
 [[口]]
 ==== 口 (kou3, mouth)
@@ -5561,6 +5597,13 @@ Characters:
 
 [[夕]]
 ==== 夕 (xi1, evening)
+
+[[小]]
+==== 小 (xiao3, small)
+
+Characters:
+
+* <<尔>>
 
 [[言]]
 ==== 言 (yan2, speak, say)
@@ -5800,7 +5843,13 @@ Format:
 Source: <<source-url>> (<<source-url-archive>>)
 
 Words: <<sentence-with-linked-breakdown>>
+
+Example: <<example>>
 ....
+
+Notes
+
+* `Example`: is mostly for when you have a smaller collocational phrase that feels too generic for a "word", that goes inside a larger one.
 
 [[大多数宝宝在6-10个月之间学会爬行]]
 ==== 大多数宝宝在6-10个月之间学会爬行 (Dà duōshù bǎobǎo zài 6-10 gè yuè zhī jiān xuéhuì páxíng, Most babies learn to crawl between 6 and 10 months)
@@ -5815,6 +5864,24 @@ Words: 大多数宝宝在6-10个月之间学会<<爬行>>
 Source: https://zh.wikipedia.org/wiki/現有王位覬覦者列表
 
 Words: 现有王位觊觎者<<列表>>
+
+==== 测量体重 (Cèliáng tǐzhòng, Measure body weight, to weight oneself)
+
+Source: https://www.zhihu.com/question/30477989
+
+Words:
+
+* 测量
+* 体重
+
+Examples:
+
+* 有哪些有趣的测量体重的方法？
+** Translation: What are some interesting ways of measuring your weight?
+** Source: https://www.zhihu.com/question/30477989
+* 怎么正确的测量体重？什么时候的体重是标准的？ How to correctly measure your weight? What is the time of the day at which a weight measure is considered standard?
+** Translation: What are some interesting ways of measuring your weight?
+** Source: https://jingyan.baidu.com/article/375c8e19e9727025f2a229e3.html
 
 === Chinese grammar
 
