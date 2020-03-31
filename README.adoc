@@ -2478,8 +2478,11 @@ With the support of the Communist Party to Qigong movements, it reached 70 milli
 
 Li fled to the USA and lives near New York, where he continues to run the religion as of 2020.
 
-.Tim and Eric's Zone Theory. If you want to stop Falun Gong, don't put them in jail like the dictators. Do it the same way you stop dictators: with <<funny,comedy>>.
+.Tim and Eric's Zone Theory. If you want to stop Falun Gong, don't put them in jail like the dictators. Do it the same way you stop dictators: with <<funny,comedy>>. Otherwise, the dictators remain in power, and next person in jail, will be you.
 video::https://www.youtube.com/watch?v=ClvX7ED8UUI[youtube,width=600,height=400]
+
+.https://www.youtube.com/watch?v=GwoO7Nekmpw&feature=youtu.be&t=445 Christine Marie, founder of http://voicesfordignity.com/[Voices for Dignity] which takes care of https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints[FLDS] leaves, was interviewed in VICE documentary "Polygamist Mafia: Escaping The Kingston Clan". While Ciro does not believe Falun Gong is as extreme as FLDS, he does really like the things Christine says. E.g., she calls "cult leaders" with the neutral <<flg-religion,religious>> form <<li-hongzhi,prophet>>, just like Ciro, and mentions the important fact that "And the another thing that the public doesn't realise, is that there are also beautiful thing within those communities". This is the mindset of <<intolerance,tolerance>> that the world needs.
+video::GwoO7Nekmpw[youtube,height=400,width=600,start=445]
 
 ==== Falun Gong is not important to be worth discussing
 
@@ -3637,6 +3640,8 @@ Other good lists:
 * https://coconuts.co/hongkong/lifestyle/from-80s-rock-to-patriotic-anthems-6-songs-associated-with-tiananmen-square/
 * https://www.hongkongfp.com/2016/06/04/the-last-gunshot-the-musical-legacy-of-the-1989-tiananmen-massacre/
 
+For non-Tiananmen songs see: <<anti-dictatorship-songs>>.
+
 [[tank-man]]
 ===== Tank Man 坦克人
 
@@ -4430,6 +4435,8 @@ TODO migrate all into this README.
 == Anti-dictatorship songs 反对独裁的首歌
 
 Not necessarily in Chinese or about China specifically.
+
+For Tiananmen songs, see: <<tiananmen-songs>>.
 
 Brazil had a dictatorship from 1964 to 1985, and some amazing songs were made in Portuguese in that era. <<ciro-santilli>>, who is Brazillian, just cannot stop thinking about some of them in relation to China.
 
