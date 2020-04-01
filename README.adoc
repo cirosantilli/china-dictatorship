@@ -5339,6 +5339,15 @@ Characters:
 
 * <<攴>>
 
+[[不]]
+==== 不 (bu4, not)
+
+Mnemonic: unclear, possibly **magic wand** <<卜>>
+
+Words:
+
+* <<不幸>>
+
 [[查]]
 ==== 查 (cha2, check)
 
@@ -5455,6 +5464,13 @@ Characters:
 ==== 你 (ni3, thou)
 
 Mnemonic: **person** (<<人>>) **you** (<<尔>>)
+
+[[干]]
+==== 干 (gan1, dry)
+
+Characters:
+
+* <<幸>>
 
 [[根]]
 ==== 根 (gen1, roots)
@@ -5698,6 +5714,15 @@ Words:
 
 * <<台湾>>
 
+[[土]]
+==== 土 (tu3, soil)
+
+Notes: the normal Kangxi translation is "earth", but we are afraid that this could be ambiguous with the "Planet Earth", so choosing soil instead
+
+Characters:
+
+* <<幸>>
+
 [[王]]
 ==== 王 (wang2, king)
 
@@ -5717,6 +5742,15 @@ Characters:
 
 * <<尔>>
 * <<示>>
+
+[[幸]]
+==== 幸 (xing4, luck)
+
+Mnemonic: you will have much better **luck** cycling when the **soil** (<<土>>) is **dry** (<<干>>)
+
+Words:
+
+* <<不幸>>
 
 [[言]]
 ==== 言 (yan2, speak, say)
@@ -5823,6 +5857,11 @@ Words:
 * <<列表>>
 ** <<现有王位觊觎者列表>>
 
+[[unlucky]]
+==== Unlucky (不幸， bu4 xing4)
+
+* <<不幸>>
+
 === Chinese words
 
 Format:
@@ -5855,6 +5894,19 @@ Characters:
 
 * <<巴>>
 * 西
+
+[[不幸]]
+==== 不幸 (bu4 xing4, unlucky)
+
+Translation:
+
+* <<unlucky>>
+** <<肺炎疫情下的武汉幸存者我是不幸之中幸运的人>>
+
+Characters:
+
+* <<不>>
+* <<幸>>
 
 [[歹人]]
 ==== 歹人 (dai3 ren2, villain)
@@ -5972,9 +6024,11 @@ Format:
 
 ....
 [[<chinese-sentence>]]
-==== <chinese-sentence> (<<pinyin>>, <<translation>>)
+==== <chinese-sentence> (<<translation>>)
 
 Source: <<source-url>> (<<source-url-archive>>)
+
+Context: <<context>>
 
 Words: <<sentence-with-linked-breakdown>>
 
@@ -5986,20 +6040,29 @@ Notes
 * `Example`: is mostly for when you have a smaller collocational phrase that feels too generic for a "word", that goes inside a larger one.
 
 [[大多数宝宝在6-10个月之间学会爬行]]
-==== 大多数宝宝在6-10个月之间学会爬行 (Dà duōshù bǎobǎo zài 6-10 gè yuè zhī jiān xuéhuì páxíng, Most babies learn to crawl between 6 and 10 months)
+==== 大多数宝宝在6-10个月之间学会爬行 (Most babies learn to crawl between 6 and 10 months)
 
 Source: https://baike.pcbaby.com.cn/qzbd/13387.html (https://web.archive.org/web/20180213164914/https://baike.pcbaby.com.cn/qzbd/13387.html[archive])
 
 Words: 大多数宝宝在6-10个月之间学会<<爬行>>
 
+[[肺炎疫情下的武汉幸存者我是不幸之中幸运的人]]
+==== 肺炎疫情下的武汉幸存者："我是不幸之中幸运的人" (Wuhan survivor after the pneumonia epidemic: "I am a lucky one amongst the unlucky")
+
+Source: https://www.bbc.com/zhongwen/simp/chinese-news-51527843
+
+Context: The article is about a man who survived because he asked for help online, and netizens helped him out and he survived.
+
+Words: 肺炎疫情下的武汉幸存者："我是<<不幸>>之中幸运的人"
+
 [[现有王位觊觎者列表]]
-==== 现有王位觊觎者列表 (Xiàn yǒu wángwèi jìyú zhě lièbiǎo, List of current throne pretenders)
+==== 现有王位觊觎者列表 (List of current throne pretenders)
 
 Source: https://zh.wikipedia.org/wiki/現有王位覬覦者列表
 
 Words: 现有王位觊觎者<<列表>>
 
-==== 测量体重 (Cèliáng tǐzhòng, Measure body weight, to weight oneself)
+==== 测量体重 (Measure body weight, to weight oneself)
 
 Source: https://www.zhihu.com/question/30477989
 
