@@ -5460,10 +5460,23 @@ Characters:
 
 * 元
 
-[[你]]
-==== 你 (ni3, thou)
+[[肺]]
+==== 肺 (fei4, lungs)
 
-Mnemonic: **person** (<<人>>) **you** (<<尔>>)
+Mnemonic: he didn't have two **lungs**, but rather one **moon** (<<月>>) and one **lung** (<<巿>>)
+
+Words:
+
+* <<肺炎>>
+
+[[巿]]
+==== 巿 (fu2, lung)
+
+Mnemonic: due to an infection, doctors had to dry up **one** (<<一>>) of his **lung** with a **towel** (<<巾>>) 
+
+Characters:
+
+* <<肺>>
 
 [[干]]
 ==== 干 (gan1, dry)
@@ -5509,6 +5522,24 @@ Characters:
 ==== 很 (hen3, very)
 
 Mnemonic:  **stepping** (<<彳>>) on a tree **root** (<<艮>>) is a **very** bad idea, it might be a tree spirit that gets angry and eats you!
+
+[[火]]
+==== 火 (huo3, fire)
+
+Short forms: 灬
+
+Characters:
+
+* <<炎>>
+
+[[巾]]
+==== 巾 (jin1, towel)
+
+Mnemonic: person carrying bath towel over shoulders.
+
+Characters:
+
+* <<巿>>
 
 [[口]]
 ==== 口 (kou3, mouth)
@@ -5572,6 +5603,11 @@ Words:
 
 * <<木头>>
 
+[[你]]
+==== 你 (ni3, thou)
+
+Mnemonic: **person** (<<人>>) **you** (<<尔>>)
+
 [[爬]]
 ==== 爬 (pa2, climb)
 
@@ -5634,6 +5670,9 @@ Words:
 Characters:
 
 * <<旦>>
+
+[[肉]]
+==== 肉 (rou4, meat)
 
 [[申]]
 ==== 申 (shen1, God)
@@ -5723,6 +5762,13 @@ Characters:
 
 * <<幸>>
 
+[[亠]]
+==== 亠 (tou2, lid)
+
+Characters:
+
+* <<言>>
+
 [[王]]
 ==== 王 (wang2, king)
 
@@ -5756,6 +5802,17 @@ Words:
 ==== 言 (yan2, speak, say)
 
 Short forms: 讠
+
+Mnemonic: imagine **two** (<<二>>) flying **mouths** (<<口>>) trying to speak, but they can't because a plastic **lid** (<<亠>>) has been placed on them
+
+[[炎]]
+==== 炎 (yan2, inflammation)
+
+Mnemonic: getting burnt by two **fires** (<<火>>) tends to cause skin inflammation
+
+Words:
+
+* <<肺炎>>
 
 [[一]]
 ==== 一 (yi1, one)
@@ -5791,6 +5848,8 @@ Mnemonic: my **first** **son** (<<儿>>) had **two** (<<二>>) legs, but the sec
 Characters:
 
 * <<青>>
+
+Note: according to the Kangi wiki, the original short form of <<肉>> "⺼" looks a lot like 月, but was different. Simplified Chinese then apparently merged it into 月.
 
 [[爪]]
 ==== 爪 (zhao3, claws)
@@ -5867,8 +5926,8 @@ Words:
 Format:
 
 ....
-[[<character>]]
-=== <character> (<pinyin>, <mnemonic name>)
+[[<word>]]
+=== <word> (<pinyin>, <main-translation>)
 
 Translations:
 
@@ -5880,11 +5939,15 @@ Characters:
 * <character-contained>
 * <character-contained>
 
-Mnemonic: <<mnemonic>>
+Examples:
+
+* <<chinese-sentence-containing>>
+** <<note-on-this-sentence>>
 ....
 
 Notes:
 
+* translations is useful if there are multiple possible English translations, and examples if it is more one-to-one with the `main-translation`
 * mnemonics are mostly useful for proper nouns, for common nouns, it is usually obvious from the composing characters. This is why Chinese is amazing.
 
 [[巴西]]
@@ -5898,15 +5961,14 @@ Characters:
 [[不幸]]
 ==== 不幸 (bu4 xing4, unlucky)
 
-Translation:
-
-* <<unlucky>>
-** <<肺炎疫情下的武汉幸存者我是不幸之中幸运的人>>
-
 Characters:
 
 * <<不>>
 * <<幸>>
+
+Examples:
+
+* <<肺炎疫情下的武汉幸存者我是不幸之中幸运的人>>
 
 [[歹人]]
 ==== 歹人 (dai3 ren2, villain)
@@ -5915,6 +5977,19 @@ Characters:
 
 * <<歹>>
 * <<人>>
+
+[[肺炎]]
+==== 肺炎 (fei4 yan2, pneumonia)
+
+Characters:
+
+* <<肺>>
+* <<炎>>
+
+Examples:
+
+* <<肺炎疫情下的武汉幸存者我是不幸之中幸运的人>>
+** This was one of the most common ways to refer to <<corona>>
 
 [[禁止]]
 ==== 禁止 (jin4 zhi3, forbidden)
@@ -6053,7 +6128,7 @@ Source: https://www.bbc.com/zhongwen/simp/chinese-news-51527843
 
 Context: The article is about a man who survived because he asked for help online, and netizens helped him out and he survived.
 
-Words: 肺炎疫情下的武汉幸存者："我是<<不幸>>之中幸运的人"
+Words: <<肺炎>>疫情下的武汉幸存者："我是<<不幸>>之中幸运的人"
 
 [[现有王位觊觎者列表]]
 ==== 现有王位觊觎者列表 (List of current throne pretenders)
