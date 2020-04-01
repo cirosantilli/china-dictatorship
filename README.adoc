@@ -288,7 +288,7 @@ ____
 image::https://web.archive.org/web/20200209173001im_/https://ichef.bbci.co.uk/news/320/cpsprodpb/10FFE/production/_110803696_drli1.jpg[height=400]
 
 .Corona Xi mural of <<xi-jinping>> morphed into a Coronavirus by https://en.wikipedia.org/wiki/Lushsux[Lushux]. Fuller composition view: https://twitter.com/lushsux/status/1243830638966235136[]. Reddit called it https://www.reddit.com/r/pics/comments/fqku03/winnie_the_flu/[Winnie the Flu] in a reference to <<winnie-the-pooh>>. https://www.reddit.com/r/pics/comments/fqku03/winnie_the_flu/[Source].
-image::http://web.archive.org/save/_embed/https://i.redd.it/ulqhu0q38fp41.jpg[height=500]
+image::http://web.archive.org/web/20200401093459im_/https://i.redd.it/ulqhu0q38fp41.jpg[height=500]
 
 ====== People arrested for reporting on the 2019 Corona Virus
 
@@ -2939,7 +2939,7 @@ Still, those representatives cannot gain power if there is no backing desire fro
 The only advantage of <<richer,democracy>>, is that those representatives have to pretend harder to do things for that group to retain their power.
 
 [[flg-trump]]
-===== FLG supports Donald Trump
+===== FLG supports Donald Trump 法轮功支持特朗普
 
 <<ciro-santilli>> believes he has heard praises to Trump directly in <<li-hongzhi,Li Hongzhi>>'s speeches, but could not find a source.
 
@@ -5339,6 +5339,15 @@ Characters:
 
 * <<攴>>
 
+[[查]]
+==== 查 (cha2, check)
+
+Mnemonic: every **dawn** <<旦>>, men have to **check** if their penises are hard as **wood** <<木>>, and if so they have to stay in bed for a while longer because it is too embarassing to walk out like that, see also: https://en.wikipedia.org/wiki/Morning_wood
+
+Words:
+
+* <<审查>>
+
 [[车]]
 ==== 车 (che1, car)
 
@@ -5382,6 +5391,24 @@ Words:
 
 * <<歹人>>
 
+[[旦]]
+==== 旦 (dan4, dawn)
+
+Mnemonic: **dawn** is when the **sun** (<<日>>) is raising over the horizon (<<一>>)
+
+Characters:
+
+* <<但>>
+
+Words:
+
+* <<元旦>>
+
+[[但]]
+==== 但 (dan4, but)
+
+Mnemonic: I saw a **person** (<<人>>) walking at **dawn** (<<旦>>). It was beautiful, **but** why wouldn't they be sleeping instead?
+
 [[对]]
 ==== 对 (dui4, correct)
 
@@ -5401,6 +5428,13 @@ Characters:
 * <<列>>
 * <<尔>>
 
+[[儿]]
+==== 儿 (er2, son)
+
+Characters:
+
+* <<元>>
+
 [[尔]]
 ==== 尔 (er3, you)
 
@@ -5410,10 +5444,22 @@ Characters:
 
 * <<你>>
 
+[[二]]
+==== 二 (er4, two)
+
+Characters:
+
+* 元
+
 [[你]]
 ==== 你 (ni3, thou)
 
 Mnemonic: **person** (<<人>>) **you** (<<尔>>)
+
+[[根]]
+==== 根 (gen1, roots)
+
+Mnemonic: **roots** one **root** (<<艮>>) plus one root and lots of **wood** (<<木>>)
 
 [[艮]]
 ==== 艮 (gen4, root)
@@ -5423,12 +5469,6 @@ Mnemonic: this is a Kangxi radical, but its English name "stopping" is just too 
 Characters:
 
 * <<根>>
-
-[[根]]
-==== 根 (gen1, roots)
-
-Mnemonic: **roots** one **root** (<<艮>>) plus one root and lots of **wood** (<<木>>)
-
 [[禾]]
 ==== 禾 (he2, grain)
 
@@ -5498,6 +5538,13 @@ Words:
 
 * 法轮功: <<falun-gong>>
 
+[[宀]]
+==== 宀 (mian2, roof)
+
+Characters:
+
+* <<审>>
+
 [[木]]
 ==== 木 (mu4, wood)
 
@@ -5565,6 +5612,43 @@ Words:
 
 * <<歹人>>
 
+[[日]]
+==== 日 (ri4, sun)
+
+Characters:
+
+* <<旦>>
+
+[[申]]
+==== 申 (shen1, God)
+
+Mnemonic: TODO
+
+Characters:
+
+* <<神>>
+
+[[神]]
+==== 神 (shen2, The Gods)
+
+Mnemonic: **God** <<申>> **spirit** (<<示>>)
+
+[[审]]
+==== 审 (shen3, inspect)
+
+Mnemonic: if you are going to **inspect** what's making those noises on the **roof** (<<宀>>), you will certainly find that it was **God** (<<申>>)
+
+[[示]]
+==== 示 (shi4, spirit)
+
+Mnemonic: imagine **two** <<二>> **small** <<小>> child **spirits** playing with one another, maybe they died during a nuclear explosion and never noticed what happened
+
+Short forms: 礻
+
+Characters:
+
+* <<神>>
+
 [[水]]
 ==== 水 (shui3, water)
 
@@ -5627,9 +5711,12 @@ Characters:
 [[小]]
 ==== 小 (xiao3, small)
 
+Short forms: ⺌,⺍
+
 Characters:
 
 * <<尔>>
+* <<示>>
 
 [[言]]
 ==== 言 (yan2, speak, say)
@@ -5658,6 +5745,11 @@ Characters: <<表>>
 Characters:
 
 * <<对>>
+
+[[元]]
+==== 元 (yuan2, first)
+
+Mnemonic: my **first** **son** (<<儿>>) had **two** (<<二>>) legs, but the second one had three!
 
 [[月]]
 ==== 月 (yue4, moon)
@@ -5800,6 +5892,14 @@ Characters:
 * <<列>>
 * <<表>>
 
+[[审查]]
+==== 审查 (shen3 cha2, censor)
+
+Characters:
+
+* <<审>>
+* <<查>>
+
 [[木头]]
 ==== 木头 (mu4 tou, wood, timber or log)
 
@@ -5841,6 +5941,14 @@ Characters:
 
 * <<衣>>
 * 服
+
+[[元旦]]
+==== 元旦 (yuan2 dan4, (Chinese) New Year's day)
+
+Characters:
+
+* <<元>>
+* <<旦>>
 
 [[政治]]
 ==== 政治 (zheng4 zhi4, politics)
