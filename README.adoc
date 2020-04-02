@@ -5333,6 +5333,8 @@ Characters:
 [[巴]]
 ==== 巴 (ba1, Brazil)
 
+Mnemonic: the first character of <<巴西>>
+
 Characters:
 
 * <<爬>>
@@ -5349,7 +5351,7 @@ Mnemonic: an ancient spoon, looks like this: https://read01.com/aAEn50x.html#.Xn
 [[表]]
 ==== 表 (biao3, watch [device])
 
-Mnemonic: <<龶>> <<衣>>
+Mnemonic: imagine a **green** (<<龶>>) **spirit** (<<衣>>) checking its **watch** to decide if it is night in human land, so it can get to work
 
 Words:
 
@@ -5398,6 +5400,15 @@ Characters:
 
 * <<很>>
 
+[[辵]]
+==== 辵 (chuo4, walk)
+
+Short forms: ⻌,⻍,⻎
+
+Characters:
+
+* <<运>>
+
 [[寸]]
 ==== 寸 (cun4, inch)
 
@@ -5443,14 +5454,14 @@ Words:
 
 Mnemonic: I saw a **person** (<<人>>) walking at **dawn** (<<旦>>). It was beautiful, **but** why wouldn't they be sleeping instead?
 
-[[对]]
-==== 对 (dui4, correct)
+[[动]]
+==== 动 (dong4, move)
 
-Mnemonic: to progress slowly, adding **inch** (<<寸>>) by inch, **again** (<<又>>) and again, is the correct way to progress
+Mnemonic: his **superpower** (<<力>>) is to **move** fart **clouds** (<<云>>) with his mind
 
-Characters:
+Words:
 
-* <<树>>
+* <<运动>>
 
 [[刀]]
 ==== 刀 (dao1, knife)
@@ -5461,6 +5472,15 @@ Characters:
 
 * <<列>>
 * <<尔>>
+
+[[对]]
+==== 对 (dui4, correct)
+
+Mnemonic: to progress slowly, adding **inch** (<<寸>>) by inch, **again** (<<又>>) and again, is the **correct** way to progress
+
+Characters:
+
+* <<树>>
 
 [[儿]]
 ==== 儿 (er2, son)
@@ -5573,6 +5593,13 @@ Chars:
 
 * <<台>>
 * <<和>>
+
+[[力]]
+==== 力 (li4, superpower)
+
+Characters:
+
+* <<动>>
 
 [[列]]
 ==== 列 (lie4, list)
@@ -5689,6 +5716,10 @@ Words:
 
 * <<歹人>>
 
+Sentences:
+
+* <<肺炎疫情下的武汉幸存者我是不幸之中幸运的人>>
+
 [[日]]
 ==== 日 (ri4, sun)
 
@@ -5745,6 +5776,7 @@ Chars:
 
 * <<台>>
 * <<私>>
+* <<云>>
 
 [[私]]
 ==== 私 (si1, privacy)
@@ -5822,6 +5854,7 @@ Mnemonic: you will have much better **luck** cycling when the **soil** (<<土>>)
 Words:
 
 * <<不幸>>
+* <<幸运>>
 
 [[言]]
 ==== 言 (yan2, speak, say)
@@ -5874,7 +5907,25 @@ Characters:
 
 * <<青>>
 
-Note: according to the Kangi wiki, the original short form of <<肉>> "⺼" looks a lot like 月, but was different. Simplified Chinese then apparently merged it into 月.
+[[云]]
+==== 云 (yun2, cloud)
+
+Mnemonic: she made **two** (<<二>>) **private** (<<厶>>) farts in her home, but that produced a fart **cloud** that surrounded her for the rest of the week
+
+Characters:
+
+* <<动>>
+* <<运>>
+
+[[运]]
+==== 运 (yun4, sports)
+
+Note: the most watched **sport** in heaven is that **cloud** (<<云>>) speed **walking** (<<辵>>)
+
+Words:
+
+* <<运动>>
+* <<幸运>>
 
 [[爪]]
 ==== 爪 (zhao3, claws)
@@ -5964,7 +6015,7 @@ Characters:
 * <character-contained>
 * <character-contained>
 
-Examples:
+Sentences:
 
 * <<chinese-sentence-containing>>
 ** <<note-on-this-sentence>>
@@ -5991,7 +6042,7 @@ Characters:
 * <<不>>
 * <<幸>>
 
-Examples:
+Sentences:
 
 * <<肺炎疫情下的武汉幸存者我是不幸之中幸运的人>>
 
@@ -6011,7 +6062,7 @@ Characters:
 * <<肺>>
 * <<炎>>
 
-Examples:
+Sentences:
 
 * <<肺炎疫情下的武汉幸存者我是不幸之中幸运的人>>
 ** This was one of the most common ways to refer to <<corona>>
@@ -6086,6 +6137,14 @@ Characters:
 * <<讨>>
 * <<论>>
 
+[[幸运]]
+==== 幸运 (xing4 yun4, lucky)
+
+Characters:
+
+* <<幸>>
+* <<运>>
+
 [[衣服]]
 ==== 衣服 (yi1 fu, clothes)
 
@@ -6101,6 +6160,14 @@ Characters:
 
 * <<元>>
 * <<旦>>
+
+[[运动]]
+==== 运动 (yun4 dong4, sports)
+
+Characters:
+
+* <<运>>
+* <<动>>
 
 [[政治]]
 ==== 政治 (zheng4 zhi4, politics)
@@ -6132,12 +6199,12 @@ Context: <<context>>
 
 Words: <<sentence-with-linked-breakdown>>
 
-Example: <<example>>
+Sentences: <<example>>
 ....
 
 Notes
 
-* `Example`: is mostly for when you have a smaller collocational phrase that feels too generic for a "word", that goes inside a larger one.
+* `Sentences`: is mostly for when you have a smaller collocational phrase that feels too generic for a "word", but which can also go inside a larger "super-sentence"
 
 [[大多数宝宝在6-10个月之间学会爬行]]
 ==== 大多数宝宝在6-10个月之间学会爬行 (Most babies learn to crawl between 6 and 10 months)
@@ -6153,7 +6220,7 @@ Source: https://www.bbc.com/zhongwen/simp/chinese-news-51527843
 
 Context: The article is about a man who survived because he asked for help online, and netizens helped him out and he survived.
 
-Words: <<肺炎>>疫情下的武汉幸存者："我是<<不幸>>之中幸运的人"
+Words: <<肺炎>>疫情下的武汉幸存者："我是<<不幸>>之中<<幸运>>的<<人>>"
 
 [[现有王位觊觎者列表]]
 ==== 现有王位觊觎者列表 (List of current throne pretenders)
