@@ -3993,9 +3993,34 @@ https://en.wikipedia.org/wiki/Book_censorship_in_China | https://zh.wikipedia.or
 Either banned, or relevant.
 
 [[nineteen-eighty-four]]
-=== Nineteen Eighty-Four: A Novel (1984) 一九八四
+=== Nineteen Eighty-Four: A Novel (AKA "1984") 一九八四 (1949)
 
 https://en.wikipedia.org/wiki/Nineteen_Eighty-Four | https://zh.wikipedia.org/wiki/一九八四
+
+[[brave-new-world]]
+=== Brave New World 美丽新世界 (1932)
+
+https://en.wikipedia.org/wiki/Brave_New_World
+
+This is basically a less good <<nineteen-eighty-four>>, but the following passage https://archive.org/stream/ost-english-brave_new_world_aldous_huxley/Brave_New_World_Aldous_Huxley_djvu.txt[from Chapter 17] rocks:
+
+____
+The Controller, meanwhile, had crossed to the other side of the room and was unlocking a large safe set into the wall between the book- shelves. The heavy door swung open. Rummaging in the darkness within, "It's a subject," he said, "that has always had a great interest for me." He pulled out a thick black volume. "You've never read this, for example."
+
+The Savage took it. "The Holy Bible, containing the Old and New Testaments" he read aloud from the title-page.
+
+"Nor this." It was a small book and had lost its cover.
+
+"The Imitation of Christ "
+
+"Nor this." He handed out another volume.
+
+"The Varieties of Religious Experience. By William James."
+
+"And I've got plenty more," Mustapha Mond continued, resuming his seat. "A whole collection of pornographic old books. God in the safe and Ford on the shelves." He pointed with a laugh to his avowed li- brary-to the shelves of books, the rack full of reading-machine bob- bins and sound-track rolls.
+
+"But if you know about God, why don't you tell them?"
+____
 
 [[policies]]
 == Policies 政策
