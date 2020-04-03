@@ -1110,7 +1110,7 @@ Phonetics wise, Ciro can't distinguish or produce a few sounds, notably `-ing` v
 
 Ciro reads with link:http://www.perapera.org/[Perapera], write with a mixture of link:https://www.pleco.com/[Pleco], Google translate and Googling to see if Chinese actually say the sentences that way.
 
-He hasn't tried to learn characters, too much effort, but he did learn the most common ones without trying.
+He <<characters,hasn't tried to learn characters>> because <<chinese-characters-are-insane,too much effort>>, but he did learn the most common ones without trying.
 
 Ciro really wishes he could learn more, but he has other more important endeavours at the moment :-(
 
@@ -5257,6 +5257,13 @@ To read on the net, https://www.perapera.org/[Perapera] obviously, see also: <<d
 
 To overhear people and learn characters/new words Pleco: https://www.pleco.com/
 
+It really hurts that there is no online Pleco, you have to go back and forth from cell phone to computer, is there anything as good online?
+
+* https://www.yellowbridge.com/chinese/dictionary.php extremelly annoyng ads and limited list sizes, but good otherwise
+* https://dict.naver.com/linedict/zhendict/#/cnen/home LINE dict, has many web scraped examples, but no sources back to those examples. Works, but a bit clunky.
+
+Maybe some day something will be extracted from: https://github.com/skishore/makemeahanzi which jas a huge JSON of character data.
+
 When you want to learn "how to say something in Chinese", the only valid routes are:
 
 * does it have a Wikipedia page? Go on the English one then change language
@@ -5268,7 +5275,7 @@ Then find a sentence that contains the word written by a native Chinese, and und
 +
 Just using the Google translate directly will lead 70% to a weird/wrong/incomprehensible translation that no Chinese person would ever say.
 
-Good content:
+Good Chinese content to consume to learn:
 
 * 几分钟看完: illegal 10 minute summaries of movies with clips from the movies and a narrator speaking quickly instead of movie sounds.
 +
@@ -5294,6 +5301,15 @@ Japanese Kanji:
 * proprietary:
 ** https://www.tofugu.com/japanese/kanji-radicals-mnemonic-method/
 ** https://www.wanikani.com/
+
+=== Lists of the most common characters and words
+
+This is a good approach to tick off high frequency stuff you don't know you don't know:
+
+* HSK word lists
+** http://web.archive.org/web/20180211123634/http://www.hskhsk.com/word-lists.html go in the "(frequency order)" links
+* Official character lists learned by native Chinese students per age group. TODO find exact lists.
+** https://chinese.stackexchange.com/questions/6000/how-many-characters-do-chinese-pupils-know-at-different-ages
 
 == Chinese cheat
 
@@ -6118,8 +6134,26 @@ Words:
 
 === English words
 
+Format:
+
+....
+[[<<english-word>>]]
+==== <<english-word>> (<<chinese-translation>>, <<chinese-translation>>)
+
+* <<chinese-translation>>
+** <<sentence containing in that sense>>
+* <<chinese-translation>>
+** <<sentence containing in that sense>>
+....
+
+[[close]]
+==== Close (关,合)
+
+* 关 TODO
+* 合 TODO close a book
+
 [[list]]
-==== List (清单, qing1 dan1)
+==== List (清单, 列表)
 
 * <<清单>>
 ** <<购物清单>>
@@ -6127,7 +6161,7 @@ Words:
 ** <<现有王位觊觎者列表>>
 
 [[unlucky]]
-==== Unlucky (不幸,  bu4 xing4)
+==== Unlucky (不幸, bu4 xing4)
 
 * <<不幸>>
 
