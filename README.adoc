@@ -5362,7 +5362,11 @@ Notes:
 [[top-part-of-每]]
 ==== Top part of 每 (, pistol)
 
-Mnemonic: Can't find the freaking Unicode. It looks like a pistol.
+Mnemonic: Can't find the freaking Unicode. It looks like a **pistol**.
+
+Characters:
+
+* 每 TODO each
 
 [[龶]]
 ==== 龶 (-, crown)
@@ -5692,6 +5696,17 @@ Mnemonic: his **field** (<<田>>) streched over one **mile** (<<里>>), but it c
 Characters:
 
 * <<重>>
+* <<理>>
+
+[[理]]
+==== 理 (li3, science)
+
+Mnemonic: the **king** (<<王>>) Louis XIV was a big patron of the mectric system, which intends to improve **science** by removing useless units like the **mile** (<<里>>)
+
+Words:
+
+* <<物理>>
+* <<理论>>
 
 [[力]]
 ==== 力 (li4, superpower)
@@ -5776,6 +5791,15 @@ Words:
 ==== 你 (ni3, thou)
 
 Mnemonic: **person** (<<人>>) **you** (<<尔>>)
+
+[[牛]]
+==== 牛 (niu2, cow)
+
+Short forms: 牜,⺧
+
+Characters:
+
+* <<理>>
 
 [[爬]]
 ==== 爬 (pa2, climb)
@@ -6006,6 +6030,20 @@ Characters:
 Characters:
 
 * <<龶>>
+
+[[勿]]
+==== 勿 (wu4, atom)
+
+Mnemonic: atoms are part of **matter** <<物>>
+
+[[物]]
+==== 物 (wu4, matter [Physics])
+
+Mnemonic: **cows** (<<牛>>) are made of **atoms** (<<勿>>), both of which are made of **matter**
+
+Words:
+
+* <<物理>>
 
 [[夕]]
 ==== 夕 (xi1, evening)
@@ -6312,7 +6350,7 @@ Characters:
 
 Characters:
 
-* 理 TODO
+* <<理>>
 * <<论>>
 
 [[时]]
@@ -6413,6 +6451,14 @@ Characters:
 Sentences:
 
 * <<测量体重>>
+
+[[物理]]
+==== 物理 (wu4 li3, Physics)
+
+Characters:
+
+* <<物>>
+* <<理>>
 
 [[幸运]]
 ==== 幸运 (xing4 yun4, lucky)
