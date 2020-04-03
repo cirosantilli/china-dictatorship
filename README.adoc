@@ -5376,6 +5376,15 @@ Characters:
 
 * <<单>>
 
+[[本]]
+==== 本 (ben3, potato)
+
+Mnemonic: **one** (<<一>>) thing is always beloow a **tree** (<<本>>): **potato** roots
+
+Characters:
+
+* <<体>>
+
 [[匕]]
 ==== 匕 (bi3, spoon)
 
@@ -5580,7 +5589,9 @@ Mnemonic: **roots** one **root** (<<艮>>) plus one root and lots of **wood** (<
 [[艮]]
 ==== 艮 (gen4, root)
 
-Mnemonic: this is a Kangxi radical, but its English name "stopping" is just too close to "stop" and would cause confusion. So we just use the common phonetic compound **roots** (<<根>>) as the mnemonic
+Mnemonic: radical of **roots** (<<根>>)
+
+Notes: this is a Kangxi radical, but its English name "stopping" is just too close to the more important "stop" 止 and would cause confusion. So we just use the common phonetic compound **roots** (<<根>>) as the mnemonic. It was tempting to leave "root" for <<本>>, which looks perfectly like a root, but we did character first, and "potato" makes for even better mnemonics.
 
 Characters:
 
@@ -5616,7 +5627,7 @@ Characters:
 [[很]]
 ==== 很 (hen3, very)
 
-Mnemonic:  **stepping** (<<彳>>) on a tree **root** (<<艮>>) is a **very** bad idea, it might be a tree spirit that gets angry and eats you!
+Mnemonic: **stepping** (<<彳>>) on a tree **root** (<<艮>>) is a **very** bad idea, it might be a tree spirit that gets angry and eats you!
 
 [[火]]
 ==== 火 (huo3, fire)
@@ -5643,6 +5654,15 @@ Chars:
 
 * <<台>>
 * <<和>>
+
+[[里]]
+==== 里 (li3, mile)
+
+Mnemonic: his **field** (<<田>>) streched over one **mile** (<<里>>), but it consisted of barren **soil** (<<土>>) without any plants
+
+Characters:
+
+* <<重>>
 
 [[力]]
 ==== 力 (li4, superpower)
@@ -5704,7 +5724,7 @@ Characters:
 * <<审>>
 
 [[木]]
-==== 木 (mu4, wood)
+==== 木 (mu4, wood, tree)
 
 Characters:
 
@@ -5739,6 +5759,17 @@ Characters:
 
 * <<政>>
 
+[[千]]
+==== 千 (qian2, thousand)
+
+Mnemonic: a super powerful <<十>> with an extra trace
+
+Note: careful to not confuse with <<干>> which has a straight top.
+
+Characters:
+
+* <<重>>
+
 [[丬]]
 ==== 丬 (qiang2, split wood)
 
@@ -5765,7 +5796,7 @@ Words:
 [[犬]]
 ==== 犬 (quan3, dog)
 
-Mnemonic: imagine one **big** (<<大>>) dog wagging its tail, the dot is the tail
+Mnemonic: imagine one **big** (<<大>>) **dog** wagging its tail, the extra dot is the tail
 
 Short forms: 犭
 
@@ -5860,7 +5891,7 @@ Chars:
 Mnemonic: **privacy** is all about storing your precious **grain** <<禾>> in a **private** <<厶>> location
 
 [[树]]
-==== 树 (shu4, tree)
+==== 树 (shu4, trees)
 
 Mnemonic: it is **correct** (<<对>>) to say that **trees** (树) are made out of of **wood** (<<木>>)
 
@@ -5892,6 +5923,15 @@ Words:
 Characters:
 
 * <<单>>
+
+[[体]]
+==== 体 (ti3, body)
+
+Mnemonic: the Irish **people** <<人>> eat so much **potato** (<<本>>) that 90% of their **bodies** are made out of potato molecules
+
+Words:
+
+* <<体重>>
 
 [[土]]
 ==== 土 (tu3, soil)
@@ -6058,6 +6098,15 @@ Words:
 * <<治愈>>
 * <<政治>>
 
+[[重]]
+==== 重 (zhong4, dumbbell)
+
+Mnemonic: the best exercise to get fit is to carry **one thousand** (<<千>>) **dumbells** over one thousand **miles** (<<里>>)
+
+Words:
+
+* <<体重>>
+
 [[状]]
 ==== 状 (zhuang4, shape)
 
@@ -6078,7 +6127,7 @@ Words:
 ** <<现有王位觊觎者列表>>
 
 [[unlucky]]
-==== Unlucky (不幸， bu4 xing4)
+==== Unlucky (不幸,  bu4 xing4)
 
 * <<不幸>>
 
@@ -6267,6 +6316,18 @@ Characters:
 * <<讨>>
 * <<论>>
 
+[[体重]]
+==== 体重 (ti3 zhong4, body weight)
+
+Characters:
+
+* <<体>>
+* <<重>>
+
+Sentences:
+
+* <<测量体重>>
+
 [[幸运]]
 ==== 幸运 (xing4 yun4, lucky)
 
@@ -6366,22 +6427,21 @@ Source: https://zh.wikipedia.org/wiki/現有王位覬覦者列表
 
 Words: 现有王位觊觎者<<列表>>
 
+[[测量体重]]
 ==== 测量体重 (Measure body weight, to weight oneself)
 
 Source: https://www.zhihu.com/question/30477989
 
 Words:
 
-* 测量
-* 体重
+* 测量 TODO
+* <<体重>>
 
-Examples:
+Sentences:
 
-* 有哪些有趣的测量体重的方法？
-** Translation: What are some interesting ways of measuring your weight?
+* 有哪些有趣的测量体重的方法？ What are some interesting ways of measuring your weight?
 ** Source: https://www.zhihu.com/question/30477989
 * 怎么正确的测量体重？什么时候的体重是标准的？ How to correctly measure your weight? What is the time of the day at which a weight measure is considered standard?
-** Translation: What are some interesting ways of measuring your weight?
 ** Source: https://jingyan.baidu.com/article/375c8e19e9727025f2a229e3.html
 
 === Chinese grammar
