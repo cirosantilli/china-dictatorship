@@ -5359,6 +5359,11 @@ Notes:
 
 * `Translations` is only used when it is a single character word, if it goes inside a word, only the word will contain the sentence
 
+[[top-part-of-每]]
+==== Top part of 每 (, pistol)
+
+Mnemonic: Can't find the freaking Unicode. It looks like a pistol.
+
 [[龶]]
 ==== 龶 (-, crown)
 
@@ -5448,6 +5453,13 @@ Words:
 Characters:
 
 * <<轮>>
+
+[[臣]]
+==== 臣 (chen2, minister)
+
+Characters:
+
+* <<临>>
 
 [[彳]]
 ==== 彳 (chi4, step)
@@ -5607,7 +5619,7 @@ Mnemonic: **roots** one **root** (<<艮>>) plus one root and lots of **wood** (<
 
 Mnemonic: radical of **roots** (<<根>>)
 
-Notes: this is a Kangxi radical, but its English name "stopping" is just too close to the more important "stop" 止 and would cause confusion. So we just use the common phonetic compound **roots** (<<根>>) as the mnemonic. It was tempting to leave "root" for <<本>>, which looks perfectly like a root, but we did character first, and "potato" makes for even better mnemonics.
+Notes: this is a Kangxi radical, but its English name "stopping" is just too close to the more important "stop" <<止>> and would cause confusion. So we just use the common phonetic compound **roots** (<<根>>) as the mnemonic. It was tempting to leave "root" for <<本>>, which looks perfectly like a root, but we did character first, and "potato" makes for even better mnemonics.
 
 Characters:
 
@@ -5670,6 +5682,7 @@ Chars:
 
 * <<台>>
 * <<和>>
+* <<品>>
 
 [[里]]
 ==== 里 (li3, mile)
@@ -5695,6 +5708,15 @@ Mnemonic: there must exist a **list** of **supervillains** (<<歹>>) with **kniv
 Words:
 
 * <<列表>>
+
+[[临]]
+==== 临 (lin2, temporary)
+
+Mnemonic: the simplified character was completely mutilated into a bunch of senseless traces unmemorizable traces. The traditional 臨 can be broken into: the **Prime minister** (<<臣>>) temporarily decided to increase production of an important **product** (<<品>>): **pistols** (<<top-part-of-每>>), until the zombie apocalypse would be over.
+
+Words:
+
+* <<临时>>
 
 [[仑]]
 ==== 仑 (lun2, logic)
@@ -5763,6 +5785,19 @@ Mnemonic: you need **claws** (<<爪>>) to **climb** (爬) **Brazil**'s (<<巴>>)
 Words:
 
 * <<爬行>>
+
+[[品]]
+==== 品 (pin3, product)
+
+Mnemonic: you need a lot of food **products** to feed the three **mouths** (<<口>>) of three children!
+
+Words:
+
+* 食品 TODO
+
+Characters:
+
+* <<临>>
 
 [[攴]]
 ==== 攴 (pu1, to tap)
@@ -6277,8 +6312,25 @@ Characters:
 
 Characters:
 
-* 理
+* 理 TODO
 * <<论>>
+
+[[时]]
+==== 时 (shi2, time)
+
+Mnemonic: if the **sun** (<<日>>) moves an **inch** (<<寸>>) in the sky, then that means that 1 minute of **time** has passed
+
+Words:
+
+* <<临时>>
+
+[[临时]]
+==== 临时 (lin2 shi2, temporary)
+
+Characters:
+
+* <<临>>
+* <<时>>
 
 [[列表]]
 ==== 列表 (lie4 biao3, list)
