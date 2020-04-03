@@ -14,7 +14,6 @@ Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主�
 
 Video and images may be better viewed at https://cirosantilli.com/china-dictatorship or by cloning locally, see also: <<mirrors>>.
 
-image:{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=300]
 image:https://web.archive.org/web/20191013080128if_/https://i.redd.it/c9q6vdybr7i31.jpg[height=300]
 
 toc::[]
@@ -256,7 +255,8 @@ News coverage:
 * https://www.vice.com/en_us/article/g5xykx/you-can-now-go-to-jail-in-china-for-criticizing-beijings-coronavirus-response "You Can Now Go to Jail in China for Criticizing Beijing’s Coronavirus Response"
 * https://www.vice.com/en_us/article/qjdn4d/doctors-in-wuhan-are-still-dying-and-beijing-is-still-trying-to-silence-them Ai Fen's (艾芬) report of how the situation was mishandling was censored
 * Some believe that the Chinese government grossly under-reported death counts. Official figures were about only 3300 deaths, in the insanely densely populated Wuhan area, while Italy had reached 10000 deaths.
-** https://www.dailymail.co.uk/news/article-8165717/Locals-Wuhan-believe-42-000-people-died-coronavirus.html
+** 2020-04-01 https://www.bloomberg.com/news/articles/2020-04-01/china-concealed-extent-of-virus-outbreak-u-s-intelligence-says CIA speaks
+** 2020-03-29 https://www.dailymail.co.uk/news/article-8165717/Locals-Wuhan-believe-42-000-people-died-coronavirus.html Reports of funerary urns sold
 
 On the other hand, one may argue that the "city closure" measures were stronger/faster than in democracies.
 
@@ -1131,8 +1131,19 @@ Yes Chinese characters are beautiful, yes, https://chinese.stackexchange.com/que
 
 But they just take too much time for any sane adult to learn, it's harder than C++!
 
-.The "fictional" Chinese character "Dou" from https://en.wikipedia.org/wiki/Uncyclopedia[Uncyclopedia] is roughly translated as "Impossibly complex pictogram-based writing system that takes a person a thousand thousand years to learn." and illustrates well why pictograms are a bad idea. Maybe the commies for once <<richer,did something good>> by introducing https://en.wikipedia.org/wiki/Simplified_Chinese_characters[simplified Chinese characters (简化字)]? This https://www.youtube.com/watch?v=t_cbW5JK9WM[video by Vladimir Skultety] does a more serious analysis of that. https://uncyclopedia.ca/wiki/File:Chinese_character_extreme.svg[Source].
+===== Chinese characters are insane
+
+Maybe the commies for once <<richer,did something good>> by introducing https://en.wikipedia.org/wiki/Simplified_Chinese_characters[simplified Chinese characters (简化字)]?
+
+They should have gone further and reduced it to pinyin like the Viets did though.
+
+<<ciro-santilli>> smirked when he came across "蒄" in Pleco, and the translation was: "meaning unknown (herb mentioned in old books)". Yes, at the word level, the same like exists in phonetic systems, but that it takes up a modern dictionary and Unicode slot is still funny.
+
+.The "fictional" Chinese character "Dou" from https://en.wikipedia.org/wiki/Uncyclopedia[Uncyclopedia] is roughly translated as "Impossibly complex pictogram-based writing system that takes a person a thousand thousand years to learn." and illustrates well why pictograms are a bad idea. https://uncyclopedia.ca/wiki/File:Chinese_character_extreme.svg[Source].
 image::https://uncyclopedia.ca/w/images/e/e1/Chinese_character_extreme.svg[height=400]
+
+.https://www.youtube.com/watch?v=t_cbW5JK9WM "The most complex Chinese character" by Vladimir Skultety does a reasonable analysis of which Chinese character is the most complex
+video::t_cbW5JK9WM[youtube,height=400,width=600]
 
 ==== Why did you start the keyword attack?
 
@@ -5242,9 +5253,22 @@ Modern themed television is generally crap due to <<censorship>>, but this leads
 [[learn-chinese]]
 == Tips to learn Chinese 学习中文方法建议
 
-Perapera and Pleco, obviously: <<does-ciro-santilli-speak-chinese>>
+To read on the net, https://www.perapera.org/[Perapera] obviously, see also: <<does-ciro-santilli-speak-chinese>>.
 
-Good resources:
+To overhear people and learn characters/new words Pleco: https://www.pleco.com/
+
+When you want to learn "how to say something in Chinese", the only valid routes are:
+
+* does it have a Wikipedia page? Go on the English one then change language
+* put an English sentence on https://translate.google.com/[Google Translate], then Google for it.
++
+If it is a common word, it will give useless dictionary results, so search instead with `site:bbc.com` or `site:zhihu.com`.
++
+Then find a sentence that contains the word written by a native Chinese, and understand the full sentence to confirm that it means what you want it to mean in a similar context.
++
+Just using the Google translate directly will lead 70% to a weird/wrong/incomprehensible translation that no Chinese person would ever say.
+
+Good content:
 
 * 几分钟看完: illegal 10 minute summaries of movies with clips from the movies and a narrator speaking quickly instead of movie sounds.
 +
@@ -5343,6 +5367,15 @@ Words:
 
 * <<巴西>>
 
+[[八]]
+==== 八 (ba1, eight)
+
+Short forms: 丷
+
+Characters:
+
+* <<单>>
+
 [[匕]]
 ==== 匕 (bi3, spoon)
 
@@ -5351,7 +5384,7 @@ Mnemonic: an ancient spoon, looks like this: https://read01.com/aAEn50x.html#.Xn
 [[表]]
 ==== 表 (biao3, watch [device])
 
-Mnemonic: imagine a **green** (<<龶>>) **spirit** (<<衣>>) checking its **watch** to decide if it is night in human land, so it can get to work
+Mnemonic: imagine a soldier wearing **green** (<<龶>>) camouflage **clothes** (<<衣>>), and checking his **watch** to know if it is time to attack
 
 Words:
 
@@ -5473,6 +5506,15 @@ Characters:
 * <<列>>
 * <<尔>>
 
+[[单]]
+==== 单 (dan1, bill)
+
+Mnemonic: that lunch **bill** cost as much as buying **eighty** (<<十>> <<八>>) rice **fields** (<<田>>)!
+
+Words:
+
+* TODO 买单
+
 [[对]]
 ==== 对 (dui4, correct)
 
@@ -5543,6 +5585,14 @@ Mnemonic: this is a Kangxi radical, but its English name "stopping" is just too 
 Characters:
 
 * <<根>>
+
+[[冠]]
+==== 冠 (guan1, corona)
+
+Mnemonic: when Queen Elizabeth was crowned, the **first** (<<元>>) thing they put a one **inch** (<<寸>>) **hajib** <<冖>> on her head, and then the **corona** of a Christian saint saint appeared on her head
+
+Notes: https://en.wikipedia.org/wiki/Corona
+
 [[禾]]
 ==== 禾 (he2, grain)
 
@@ -5637,6 +5687,15 @@ Words:
 
 * 法轮功: <<falun-gong>>
 
+[[冖]]
+==== 冖 (mi4, hajib [Muslim female head scarf])
+
+Notes: the Wikipedia Kangxi is "cloth cover". Ciro guesses this was originally something to do with food covering. But let's just go with hajib which will allow for easy politically incorrect mnemonics. "Crown" from <<冠>> would also be another good one, but we had already used crown for <<龶>>.
+
+Characters:
+
+* <<冠>>
+
 [[宀]]
 ==== 宀 (mian2, roof)
 
@@ -5692,6 +5751,17 @@ Mnemonic: the **crown** (<<龶>>) of the king was **blue** and **moon-shaped** (
 
 Notes: it is more like https://en.wikipedia.org/wiki/Cyan[green-blue/Cyan], see also https://zh.wikipedia.org/wiki/青色 but let's call it blue because it will be used in many constructs.
 
+[[清]]
+==== 清 (qing1, clear)
+
+Mnemonic: imagine a Caribean sea **water** (<<水>>) was is **blue** (<<青>>) and **clear**
+
+Note: clear in the sense of "not dirty" and "a clear explanation". "Clear colors" use TODO 浅 as in 浅蓝.
+
+Words:
+
+* <<清>>
+
 [[犬]]
 ==== 犬 (quan3, dog)
 
@@ -5740,7 +5810,7 @@ Characters:
 * <<神>>
 
 [[神]]
-==== 神 (shen2, The Gods)
+==== 神 (shen2, The Greek Gods)
 
 Mnemonic: **God** <<申>> **spirit** (<<示>>)
 
@@ -5748,13 +5818,19 @@ Mnemonic: **God** <<申>> **spirit** (<<示>>)
 ==== 审 (shen3, inspect)
 
 Mnemonic: if you are going to **inspect** what's making those noises on the **roof** (<<宀>>), you will certainly find that it was **God** (<<申>>)
+[[十]]
+==== 十 (shi2, ten)
+
+Characters:
+
+* <<单>>
 
 [[示]]
 ==== 示 (shi4, spirit)
 
-Mnemonic: imagine **two** <<二>> **small** <<小>> child **spirits** playing with one another, maybe they died during a nuclear explosion and never noticed what happened
-
 Short forms: 礻
+
+Mnemonic: imagine **two** <<二>> **small** <<小>> child **spirits** playing with one another, maybe they died during a nuclear explosion and never noticed what happened
 
 Characters:
 
@@ -5810,6 +5886,13 @@ Words:
 
 * <<台湾>>
 
+[[田]]
+==== 田 (tian1, field)
+
+Characters:
+
+* <<单>>
+
 [[土]]
 ==== 土 (tu3, soil)
 
@@ -5820,7 +5903,7 @@ Characters:
 * <<幸>>
 
 [[亠]]
-==== 亠 (tou2, lid)
+==== 亠 (tou2, pan lid)
 
 Characters:
 
@@ -5987,8 +6070,10 @@ Words:
 === English words
 
 [[list]]
-==== List (列表, lie4 biao3)
+==== List (清单, qing1 dan1)
 
+* <<清单>>
+** <<购物清单>>
 * <<列表>>
 ** <<现有王位觊觎者列表>>
 
@@ -6014,6 +6099,16 @@ Characters:
 
 * <character-contained>
 * <character-contained>
+
+Words:
+
+* <word-containing>
+* <word-containing>
+
+Subwords:
+
+* <word-contained>
+* <word-contained>
 
 Sentences:
 
@@ -6066,6 +6161,25 @@ Sentences:
 
 * <<肺炎疫情下的武汉幸存者我是不幸之中幸运的人>>
 ** This was one of the most common ways to refer to <<corona>>
+
+[[冠状病毒]]
+==== 冠状病毒 (guan1 zhuang4 bing4 du2, Corona virus)
+
+Characters:
+
+* <<冠>>
+
+[[购物清单]]
+==== 购物清单 (gou4 wu4 qing1 dan1, shopping list)
+
+Subwords:
+
+* 购物 TODO
+* <<清单>>
+
+Sentences:
+
+* <<购物清单APP即使你是购物狂也不用再担心了>>
 
 [[禁止]]
 ==== 禁止 (jin4 zhi3, forbidden)
@@ -6123,6 +6237,22 @@ Characters:
 
 * <<爬>>
 * 行
+
+[[清单]]
+==== 清单 (qing1 dan1, list)
+
+Characters:
+
+* <<清>>
+* <<单>>
+
+Translations:
+
+* <<list>>
+
+Words:
+
+* <<购物清单>>
 
 [[台湾]]
 ==== 台湾 (tai2 wan1, Taiwan)
@@ -6221,6 +6351,13 @@ Source: https://www.bbc.com/zhongwen/simp/chinese-news-51527843
 Context: The article is about a man who survived because he asked for help online, and netizens helped him out and he survived.
 
 Words: <<肺炎>>疫情下的武汉幸存者："我是<<不幸>>之中<<幸运>>的<<人>>"
+
+[[购物清单APP即使你是购物狂也不用再担心了]]
+==== 购物清单APP，即使你是购物狂也不用再担心了 (With a shopping list APP, even if you are crazy about shopping you don't need to worry anymore)
+
+Source: https://zhuanlan.zhihu.com/p/27498655
+
+Words: <<购物清单>>APP，即使<<你>>是购物狂也不用再担心了
 
 [[现有王位觊觎者列表]]
 ==== 现有王位觊觎者列表 (List of current throne pretenders)
