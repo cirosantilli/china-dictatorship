@@ -881,7 +881,7 @@ Here are some images that <<wumao>>'s like to post:
 [[russia]]
 ==== Russia 俄罗斯
 
-Russia is clearly the number 2 dictatorship in the world by population / GDP and the link:https://www.ploughshares.org/world-nuclear-stockpile-report[#1 nuclear arsenal], so here we go.
+Russia is clearly the number 2 <<dictatorship>> in the world by population / GDP and the link:https://www.ploughshares.org/world-nuclear-stockpile-report[#1 nuclear arsenal], so here we go.
 
 I've always been curious to how Russia can be both oppressive and a democracy, unlike China which doesn't even try to pretend. This is what I gather:
 
@@ -897,7 +897,6 @@ While we are at it, some interesting news:
 * 2017 http://www.bbc.co.uk/news/world-europe-40635267 Russia Jehovah's Witnesses banned after they lose appeal
 * 2017 http://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay
 * 2016 https://news.vice.com/en_us/article/kzgkv3/russians-now-need-a-passport-to-watch-pornhub
-* 2006 Alexander Litvinenko https://en.wikipedia.org/wiki/Alexander_Litvinenko | https://ru.wikipedia.org/wiki/Литвиненко,_Александр_Вальтерович Poisoned with polonium-210
 * 1995 Vladislav Listyev https://en.wikipedia.org/wiki/Vladislav_Listyev | https://ru.wikipedia.org/wiki/Листьев,_Владислав_Николаевич
 
 [[putin]]
@@ -918,21 +917,45 @@ image::http://web.archive.org/web/20191022004820if_/https://en.euractiv.eu/wp-co
 
 https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal | https://ru.wikipedia.org/wiki/Отравление_Сергея_и_Юлии_Скрипаль
 
-They were poisoned with Novichok, a Soviet-era nerve agent.
+In 4 March 2018, the Russian double agent and his daughter were poisoned with https://en.wikipedia.org/wiki/Novichok_agent[Novichok agent] (https://ru.wikipedia.org/wiki/Новичок_(отравляющие_вещества)[Новичо́к]), a Soviet-era nerve agent, which was likely put on their front door knob in https://en.wikipedia.org/wiki/Salisbury[Salisbury, UK], exact address https://goo.gl/maps/oKASuLWpcSmLqL8F9[Christie Miller Road]! Straight out of a spy novel.
+
+On 30 June 2018, the man of an unlucky drug addict couple found the counterfeit expensive looking https://en.wikipedia.org/wiki/Nina_Ricci_(brand)[Nina Ricci] Premier Jour perfume bottle containing the poison, and gave it to the woman who died. How unlucky can you fucking be, as if heavy drug addiction weren't enough, you still have to deal with fucking Russian Novichok!
 
 .The assassination suspects Alexander Mishkin (Алекса́ндр Евге́ньевич Ми́шкин, alias Alexander Petrov) and Anatoliy Chepiga (Анатолий Владимирович Чепига, alias Ruslan Boshirov) in a CCTV still at Salisbury Station on 3rd March 2018 the day before the assassination. Both GRU and Alexander being a doctor, which is consistent with a poisoning assassination attempt. They later explained on an RT interview that they were visiting the https://en.wikipedia.org/wiki/Salisbury_Cathedral[world renowed Salisbury Cathedral] in their 3 day trip to the UK, and that they were not gay. https://www.theguardian.com/uk-news/2018/sep/05/planes-trains-and-fake-names-the-trail-left-by-skripal-suspects[Source].
 image::http://web.archive.org/web/20200313103134if_/https://i.guim.co.uk/img/media/31a18fa18d2fedb11136fc3d2c39952e4aec1ce5/0_97_1114_668/master/1114.jpg?width=620&quality=85&auto=format&fit=max&s=19c40235440efb1be4b1b8d9ef1b87d7[height=400]
 
-."Full Skripal case interview with the UK's suspects (EXCLUSIVE)" by RT with Alexander Petrov and Ruslan Boshirov. Not gay moment at: https://youtu.be/Ku8OQNyI2i0?t=461[461]. https://www.youtube.com/watch?v=Ku8OQNyI2i0[Source].
+.Counterfeit Nina Ricci Premier Jour packet that contained the Novichok. https://www.npr.org/2018/09/05/644782096/u-k-charges-2-russians-suspected-of-poison-attack-on-skripals[Source].
+image::http://web.archive.org/web/20200404112526im_/https://media.npr.org/assets/img/2018/09/05/skripal-perfume_wide-8e5147ab76a27976e4bde6adffce910f4f297d25-s1100-c15.jpg[height=400]
+
+.https://www.youtube.com/watch?v=Ku8OQNyI2i0 "Full Skripal case interview with the UK's suspects (EXCLUSIVE)" by RT with Alexander Petrov and Ruslan Boshirov. Not gay moment at: https://youtu.be/Ku8OQNyI2i0?t=461[461].
 video::Ku8OQNyI2i0[youtube,height=400,width=600]
 
+[[litvinenko]]
+====== The murder of Alexander Litvinenko (2006)
+
+https://en.wikipedia.org/wiki/Alexander_Litvinenko | https://ru.wikipedia.org/wiki/Литвиненко,_Александр_Вальтерович
+
+Poisoned with polonium-210:
+
+* 2006-10-29
+** meets with two former FSB agents Dmitry Kovtun and Andrey Lugovoy at Millenium Hotel London TODO exact address
+** eats with https://en.wikipedia.org/wiki/Mario_Scaramella[Mario Scaramella] at an Itsu in London TODO exact address. <<ciro-santilli>> believes the https://en.wikipedia.org/wiki/Itsu[Itsu] food to be the real cause of death.
+* 2006-11-01 falls ill
+* 2006-11-03 admitted into hospital
+* 2006-11-23 dies
+* 2007-01-26 UK police says they had found a teapot at Millenium Hotel containing extremely high Poloninum-210 traces
+* 2010-12 US leaked cables show that Dmitry Kovtun left "positive traces" of radioactive polonium-210 in Germany before departing for Britain https://www.theguardian.com/world/2010/dec/11/wilileaks-cables-litvinenko-murder
+
+.Litvinenko in his death bed.
+image::http://web.archive.org/web/20200404123347im_/https://i.guim.co.uk/img/static/sys-images/guardian/About/General/2010/12/11/1292079941381/Former-Russian-Agent-Pois-006.jpg?width=620&quality=85&auto=format&fit=max&s=2a623e83efa1042cc1cd07295d54a57b[height=400]
+
 [[stalin]]
-==== Stalin 斯大林 (1922-1952)
+===== Stalin 斯大林 (1922-1952)
 
 .https://en.wikipedia.org/wiki/Light_Yagami[Light Yagami] from  https://en.wikipedia.org/wiki/Death_Note[Death Note]: "I can kill anyone by simply writing his name here". Stalin: "Bitch please". https://ifunny.co/picture/1-can-kill-anyone-by-simply-writing-his-name-here-TjXCcyuM2[Source].
 image::http://web.archive.org/web/20200301233451/https://img.ifunny.co/images/55cb6c5de9cde6ebe7e9d1704c7f83e6d344e8154b44299fec9b9a029aa82c34_1.jpg[height=500]
 
-.https://www.youtube.com/watch?v=ZT2z0nrsQ8o[Rasputin vs Stalin. Epic Rap Battles of History] YouTube video. This is fire. https://epicrapbattlesofhistory.fandom.com/wiki/Rasputin_vs_Stalin/Rap_Meanings[Explanations].
+.https://www.youtube.com/watch?v=ZT2z0nrsQ8o "Rasputin vs Stalin." Epic Rap Battles of History YouTube video. This is fire. https://epicrapbattlesofhistory.fandom.com/wiki/Rasputin_vs_Stalin/Rap_Meanings[Explanations].
 video::ZT2z0nrsQ8o[youtube,height=400,width=600]
 
 === Is the Chinese government is evil?
@@ -947,6 +970,8 @@ The Comunist Dinasty
 ____
 
 Expression previously mentioned at: http://web.archive.org/web/20161025220242/http://tieba.baidu.com/p/752094668
+
+<<falun-gong>> thinks otherwise of course: <<do-you-believe-in-or-practice-falun-gong>>.
 
 ==== Chinese politicians really care about the Chinese citizens
 
@@ -1902,9 +1927,11 @@ The most obvious thing is to go https://en.wikipedia.org/wiki/Tit_for_tat[tit fo
 * https://www.youtube.com/user/ChinaViewTV/featured
 * https://www.facebook.com/globaltimesnews/
 
-Their websites should also be blocked, see: <<chinese-government-media>>
+Accounts that are not labelled as being from the Chinese government, but which support the CCP, must be investigated to determine if they are actually funded by the Chinese government.
 
-And the same must be done for cultural centers that report directly to the CCP such as <<confucious-institute>> and <<cssa,CSSAs>>.
+Their websites should also be blocked, see: <<chinese-government-media>>. This does have the downside that it would be harder to monitor what crazy shit the commies are doing, and those censorship mechanisms could be reused to block good websites by Western governments that are becoming Evil. But it's worth it.
+
+And the same must be done for cultural centers that report directly to the CCP such as <<confucius-institute>> and <<cssa,CSSAs>>.
 
 Western governments must identify raw material dependencies on China, and reduce them, while at the same time forbidding technology transfer to China. China has been trading cheap resources for technology, and we must stop that now.
 
@@ -2577,7 +2604,7 @@ And you just repeat these truth over and over and over:
 * FLG is good
 * xref:flg-religion[Final judgement]
 * FLG is good
-* <<is-chinese-politician-x-evil,the CCP is evil>>, not figuratively, but literally as in they are representatives of, or evil supernatural beings themselves. E.g. <<jiang-zemin>> is actually an evil frog, literally, not just memecally. The Chinese Government is literally responsible for creating <<corona,Covid-19>>. They give the CCP too much credit. The CCP are just a bunch of lazy and greedy people like you and me.
+* <<is-chinese-politician-x-evil,the CCP is evil>>, not figuratively, but literally as in they are representatives of, or evil supernatural beings themselves. E.g. <<jiang-zemin>> is actually an evil frog in some alternate dimension, literally, not just memecally. The Chinese Government is literally responsible for creating <<corona,Covid-19>>. They give the CCP too much credit. The CCP are just a bunch of lazy and greedy people like you and me.
 
 I would really like to know if <<li-hongzhi,LHZ>> really believes in FLG, or is just a complete manipulating charlatan, but unfortunately we will never know that.
 
@@ -3805,8 +3832,8 @@ I consider the media in this section biased, and never cite it for fact checking
 *** http://www.china-embassy.org/eng/lj/t36322.htm
 *** http://web.archive.org/web/20180414233331/http://www.china-embassy.org/eng/lj/t36322.htm
 
-[[confucious-institute]]
-===== Confucious institute 孔子学院
+[[confucius-institute]]
+===== Confucius institute 孔子学院
 
 https://en.wikipedia.org/wiki/Confucius_Institute | https://zh.wikipedia.org/wiki/孔子学院
 
