@@ -27,7 +27,7 @@ This repo has the following goals:
 * serve as a censorship bomb to block GitHub in China: <<keyword-attack>>. Or more realistically get added to the <<github-gov-takedowns>> hall of fame.
 * be a fun and sometimes silly source of Chinese mostly anti-CCP culture like a better https://en.uncyclopedia.co/wiki/China[Unencyclopedia] / http://web.archive.org/web/20191209021646/http://encyclopediadramatica.rs/China[Encyclopedia Dramatica] without the stupid stereotype jokes. Just quickly browse the pictures with Ctrl + F "Figure" and have fun.
 * serve as a place where people can post interesting related stuff in the issues: https://github.com/cirosantilli/china-dictatorship/issues see also: <<shitpost>>
-* highlight positive about China's culture outside of it's shitty government, such as <<the-best-chinese-supermarket-food-products,food>> and <<music>>. This has two goals:
+* highlight positive about China's culture outside of its shitty government, such as <<the-best-chinese-supermarket-food-products,food>> and <<music>>. This has two goals:
 ** teach foreigners (maybe even Chinese people on certain points) about amazing Chinese things that they can consume
 ** show wumaos that <<ciro-santilli>> is not as clueless about China as they think
 
@@ -900,20 +900,8 @@ While we are at it, some interesting news:
 * 2006 Alexander Litvinenko https://en.wikipedia.org/wiki/Alexander_Litvinenko | https://ru.wikipedia.org/wiki/Литвиненко,_Александр_Вальтерович Poisoned with polonium-210
 * 1995 Vladislav Listyev https://en.wikipedia.org/wiki/Vladislav_Listyev | https://ru.wikipedia.org/wiki/Листьев,_Владислав_Николаевич
 
-===== The poisoning of Sergei and Yulia Skripal in 2018
-
-https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal | https://ru.wikipedia.org/wiki/Отравление_Сергея_и_Юлии_Скрипаль
-
-They were poisoned with Novichok, a Soviet-era nerve agent.
-
-.The assassination suspects Alexander Mishkin (Алекса́ндр Евге́ньевич Ми́шкин, alias Alexander Petrov) and Anatoliy Chepiga (Анатолий Владимирович Чепига, alias Ruslan Boshirov) in a CCTV still at Salisbury Station on 3rd March 2018 the day before the assassination. Both GRU and Alexander being a doctor, which is consistent with a poisoning assassination attempt. They later explained on an RT interview that they were visiting the https://en.wikipedia.org/wiki/Salisbury_Cathedral[world renowed Salisbury Cathedral] in their 3 day trip to the UK, and that they were not gay. https://www.theguardian.com/uk-news/2018/sep/05/planes-trains-and-fake-names-the-trail-left-by-skripal-suspects[Source].
-image::http://web.archive.org/web/20200313103134if_/https://i.guim.co.uk/img/media/31a18fa18d2fedb11136fc3d2c39952e4aec1ce5/0_97_1114_668/master/1114.jpg?width=620&quality=85&auto=format&fit=max&s=19c40235440efb1be4b1b8d9ef1b87d7[height=400]
-
-."Full Skripal case interview with the UK's suspects (EXCLUSIVE)" by RT with Alexander Petrov and Ruslan Boshirov. Not gay moment at: https://youtu.be/Ku8OQNyI2i0?t=461[461]. https://www.youtube.com/watch?v=Ku8OQNyI2i0[Source].
-video::Ku8OQNyI2i0[youtube,height=400,width=600]
-
 [[putin]]
-===== Putin Путин 普京
+===== Putin Путин 普京(1999-2008, 2012-∞)
 
 https://en.wikipedia.org/wiki/Vladimir_Putin | https://ru.wikipedia.org/wiki/Путин,_Владимир_Владимирович
 
@@ -925,8 +913,21 @@ image::https://web.archive.org/web/20200312233919if_/https://cdn1.i-scmp.com/sit
 .Possibly Gay Putin kissing possibly Gay <<flg-trump,Trump>> mural entitled https://en.wikipedia.org/wiki/Make_Everything_Great_Again[Make Everything Great Again] painted in Lithuania in 2016 by by artists Dominykas Čečkauskas and Mindaugas Bonanu. It references the https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections[Russian interference in the 2016 United States elections]. It was https://www.theguardian.com/world/2016/aug/12/vandals-censor-image-of-putin-snogging-trump-lithuania[later vandalized]. Now we just need a Putin <<xi-jinping>> kiss. https://www.euractiv.com/section/global-europe/opinion/putin-will-pay-a-high-price-for-trumps-friendship/[Source].
 image::http://web.archive.org/web/20191022004820if_/https://en.euractiv.eu/wp-content/uploads/sites/2/2016/11/Putin-Trump-kiss-800x450.jpg[height=400]
 
+[[skripal]]
+====== The poisoning of Sergei and Yulia Skripal (2018)
+
+https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal | https://ru.wikipedia.org/wiki/Отравление_Сергея_и_Юлии_Скрипаль
+
+They were poisoned with Novichok, a Soviet-era nerve agent.
+
+.The assassination suspects Alexander Mishkin (Алекса́ндр Евге́ньевич Ми́шкин, alias Alexander Petrov) and Anatoliy Chepiga (Анатолий Владимирович Чепига, alias Ruslan Boshirov) in a CCTV still at Salisbury Station on 3rd March 2018 the day before the assassination. Both GRU and Alexander being a doctor, which is consistent with a poisoning assassination attempt. They later explained on an RT interview that they were visiting the https://en.wikipedia.org/wiki/Salisbury_Cathedral[world renowed Salisbury Cathedral] in their 3 day trip to the UK, and that they were not gay. https://www.theguardian.com/uk-news/2018/sep/05/planes-trains-and-fake-names-the-trail-left-by-skripal-suspects[Source].
+image::http://web.archive.org/web/20200313103134if_/https://i.guim.co.uk/img/media/31a18fa18d2fedb11136fc3d2c39952e4aec1ce5/0_97_1114_668/master/1114.jpg?width=620&quality=85&auto=format&fit=max&s=19c40235440efb1be4b1b8d9ef1b87d7[height=400]
+
+."Full Skripal case interview with the UK's suspects (EXCLUSIVE)" by RT with Alexander Petrov and Ruslan Boshirov. Not gay moment at: https://youtu.be/Ku8OQNyI2i0?t=461[461]. https://www.youtube.com/watch?v=Ku8OQNyI2i0[Source].
+video::Ku8OQNyI2i0[youtube,height=400,width=600]
+
 [[stalin]]
-==== Stalin 斯大林
+==== Stalin 斯大林 (1922-1952)
 
 .https://en.wikipedia.org/wiki/Light_Yagami[Light Yagami] from  https://en.wikipedia.org/wiki/Death_Note[Death Note]: "I can kill anyone by simply writing his name here". Stalin: "Bitch please". https://ifunny.co/picture/1-can-kill-anyone-by-simply-writing-his-name-here-TjXCcyuM2[Source].
 image::http://web.archive.org/web/20200301233451/https://img.ifunny.co/images/55cb6c5de9cde6ebe7e9d1704c7f83e6d344e8154b44299fec9b9a029aa82c34_1.jpg[height=500]
@@ -1895,18 +1896,13 @@ First of all, serious sanctions must be pot on companies that sell sensitive thi
 
 * <<western-companies-that-sell-censorship-technology-to-dictatorships,censorship or anti-privacy software>>
 
-The most obvious thing is to go https://en.wikipedia.org/wiki/Tit_for_tat[tit for tat] on Censorship and completely ban all Chinese-sponsored news and culture media, e.g.:
+The most obvious thing is to go https://en.wikipedia.org/wiki/Tit_for_tat[tit for tat] on Censorship and completely ban all Chinese-sponsored social media accounts:
 
 * https://twitter.com/globaltimesnews | http://archive.is/7oshu
 * https://www.youtube.com/user/ChinaViewTV/featured
 * https://www.facebook.com/globaltimesnews/
 
-Their websites should also be blocked e.g.: http://www.globaltimes.cn/
-
-Chinese controlled social media apps such as WeChat, Zhihu, etc. must stop censoring people outside of China, or face sanctions, e.g.:
-
-* 2020-02 https://www.reuters.com/article/us-usa-china-media/u-s-imposes-new-rules-on-state-owned-chinese-media-over-propaganda-concerns-idUSKBN20C2G1 U.S. imposes new rules on state-owned Chinese media over propaganda concerns, the companies are: Xinhua News Agency, China Global Television Network, China Radio International, China Daily Distribution Corp. and Hai Tian Development USA, Inc. See also: <<chinese-government-media>>.
-* https://www.theverge.com/platform/amp/2019/11/25/20976964/chinese-americans-censorship-wechat-hong-kong-elections-tiktok
+Their websites should also be blocked, see: <<chinese-government-media>>
 
 And the same must be done for cultural centers that report directly to the CCP such as <<confucious-institute>> and <<cssa,CSSAs>>.
 
@@ -1934,16 +1930,26 @@ Stories showing how big Chinese companies are closely involved with the governme
 
 * 2019-11 https://www.forbes.com/sites/zakdoffman/2019/11/29/has-huaweis-darkest-secret-just-been-exposed-by-this-new-report/#7896db9d4061 Xinjiang Papers reveal the extent of Huawei's involvement in <<xinjiang>>
 
-===== The West must ban the import telecommunications devices from China
+===== The West must ban the Chinese telecommunications software and hardware
 
-Chinese computer and telecommunications hardware, in particular, should be avoided at all costs, as it is an entry point to spying.
+They are an entry point to spying, censorship and fake news.
 
-The UK for example was trying hard to get kicked out of the 5 eyes in 2020 by using 5G equipment from Huawei:
-
-* https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html (https://web.archive.org/web/20200129023355/https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html[archive]) "UK will allow Huawei to help build its 5G network despite US pressure"
+* 2020-02 https://www.reuters.com/article/us-usa-china-media/u-s-imposes-new-rules-on-state-owned-chinese-media-over-propaganda-concerns-idUSKBN20C2G1 U.S. imposes new rules on state-owned Chinese media over propaganda concerns, the companies are: Xinhua News Agency, China Global Television Network, China Radio International, China Daily Distribution Corp. and Hai Tian Development USA, Inc. See also: <<chinese-government-media>>.
+* TikTok https://en.wikipedia.org/wiki/TikTok | https://zh.wikipedia.org/wiki/抖音
+** 2019-11 https://www.theverge.com/platform/amp/2019/11/25/20976964/chinese-americans-censorship-wechat-hong-kong-elections-tiktok
+** https://www.reddit.com/r/China/comments/fug8i1/the_chinese_tiktok_just_began_an_uninterrupted/ "The Chinese Tik-Tok just began an uninterrupted propaganda stream."
+* Zoom https://en.wikipedia.org/wiki/Zoom_Video_Communications | https://zh.wikipedia.org/wiki/Zoom
+** 2020-04-03 https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/ 'Zoom's encryption is "not suited for secrets" and has surprising links to china, researchers discover"
+* Huawei https://en.wikipedia.org/wiki/Huawei | https://zh.wikipedia.org/wiki/华为
+** Just look at the name of the company: 华 (China) 为 (to do something for)
+** in 2020 the UK was trying hard to get kicked out of the 5 eyes in 2020 by using 5G equipment from Huawei
+*** https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html (https://web.archive.org/web/20200129023355/https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html[archive]) "UK will allow Huawei to help build its 5G network despite US pressure"
 
 ."When you send a good joke from your Huawei phone", <<xi-jinping>> is also listening and laughing with you, girls. https://i.redd.it/nodgcqmwtcg31.jpg[Source].
 image::http://web.archive.org/web/20190814074955/https://i.redd.it/nodgcqmwtcg31.jpg[height=600]
+
+."Coronavirus: Cabinet talks held on Zoom days after software was banned by Ministry of Defence". https://news.sky.com/story/coronairus-cabinet-talks-held-on-zoom-days-after-software-was-banned-by-ministry-of-defence-11963889[Source].
+image::http://web.archive.org/web/20200404102642im_/https://e3.365dm.com/20/03/1600x900/skynews-zoom-cabinet-coronavirus_4955732.jpg?20200326102528[height=400]
 
 ===== What should Western media do about China?
 
@@ -3253,7 +3259,7 @@ https://www.scmp.com/comment/insight-opinion/article/1940394/how-rampant-phone-s
 == Chinese politicians 中国政治家
 
 [[xi-jinping]]
-=== Xi Jinping 习近平 (2012-)
+=== Xi Jinping 习近平 (2012-∞)
 
 https://en.wikipedia.org/wiki/Xi_Jinping | https://zh.wikipedia.org/wiki/习近平
 
