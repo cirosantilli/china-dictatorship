@@ -5767,6 +5767,13 @@ Characters:
 
 * <<巿>>
 
+[[几]]
+==== 几 (ji3, side table)
+
+Characters:
+
+* <<殳>>
+
 [[口]]
 ==== 口 (kou3, mouth)
 
@@ -5875,6 +5882,15 @@ Words:
 
 * <<木头>>
 
+[[疒]]
+==== 疒 (ne4, sick)
+
+Mnemonic: Kangxi 104.
+
+Characters:
+
+* <<疫>>
+
 [[你]]
 ==== 你 (ni3, thou)
 
@@ -5927,7 +5943,7 @@ Characters:
 
 Mnemonic: a super powerful <<十>> with an extra trace
 
-Note: careful to not confuse with <<干>> which has a straight top.
+Notes: careful to not confuse with <<干>> which has a straight top.
 
 Characters:
 
@@ -5945,16 +5961,30 @@ Mnemonic: the **crown** (<<龶>>) of the king was **blue** and **moon-shaped** (
 
 Notes: it is more like https://en.wikipedia.org/wiki/Cyan[green-blue/Cyan], see also https://zh.wikipedia.org/wiki/青色 but let's call it blue because it will be used in many constructs.
 
+Characters:
+
+* <<清>>
+* <<情>>
+
 [[清]]
 ==== 清 (qing1, clear)
 
-Mnemonic: imagine a Caribean sea **water** (<<水>>) was is **blue** (<<青>>) and **clear**
+Mnemonic: imagine a Caribbean sea **water** (<<水>>) was is **blue** (<<青>>) and **clear**
 
-Note: clear in the sense of "not dirty" and "a clear explanation". "Clear colors" use TODO 浅 as in 浅蓝.
+Notes: clear in the sense of "not dirty" and "a clear explanation". "Clear colors" use TODO 浅 as in 浅蓝.
 
 Words:
 
 * <<清>>
+
+[[情]]
+==== 情 (qing2, lust)
+
+Mnemonic: in his **heart** (<<心>>), the greatest **lust** was that of **blue** (<<青>>) underwear
+
+Words:
+
+* <<疫情>>
 
 [[犬]]
 ==== 犬 (quan3, dog)
@@ -6000,7 +6030,7 @@ Characters:
 
 Mnemonic: it is something that you would put inside **plastic wrap** (<<勹>>)
 
-Note: this is one of the main words for spoon, but that mnemonic is already taken by the Kangxi <<匕>>, so we had to go for something else.
+Notes: this is one of the main words for spoon, but that mnemonic is already taken by the Kangxi <<匕>>, so we had to go for something else.
 
 Characters:
 
@@ -6064,6 +6094,17 @@ Chars:
 ==== 私 (si1, privacy)
 
 Mnemonic: **privacy** is all about storing your precious **grain** <<禾>> in a **private** <<厶>> location
+
+[[殳]]
+==== 殳 (shu1, coffee)
+
+Mnemonic: he keeps dropping his **coffee** on the floor **again** (<<又>>) and again from the **side table** (<<几>>)
+
+Characters:
+
+* <<疫>>
+
+Note: this shows what a 殳 weapon actually was: http://wenzhengwenhua.com/article-2023-1.html
 
 [[树]]
 ==== 树 (shu4, trees)
@@ -6158,6 +6199,17 @@ Characters:
 * <<尔>>
 * <<示>>
 
+[[心]]
+==== 心 (xin1, heart)
+
+Short forms: 忄,⺗
+
+Mnemonic: Kangxi 42.
+
+Characters:
+
+* <<情>>
+
 [[幸]]
 ==== 幸 (xing4, luck)
 
@@ -6201,6 +6253,15 @@ Words: <<衣服>>
 
 Characters: <<表>>
 
+[[疫]]
+==== 疫 (yi4, epidemic)
+
+Mnemonic: the world's greatest **epidemic** which is making people **sick** (<<疫>>) is **coffee** (<<殳>>) drinking
+
+Words:
+
+* <<疫情>>
+
 [[又]]
 ==== 又 (you4, again)
 
@@ -6233,7 +6294,7 @@ Characters:
 [[运]]
 ==== 运 (yun4, sports)
 
-Note: the most watched **sport** in heaven is that **cloud** (<<云>>) speed **walking** (<<辵>>)
+Notes: the most watched **sport** in heaven is that **cloud** (<<云>>) speed **walking** (<<辵>>)
 
 Words:
 
@@ -6578,6 +6639,10 @@ Characters:
 * <<幸>>
 * <<存>>
 
+Sentences:
+
+* <<肺炎疫情下的武汉幸存者我是不幸之中幸运的人>>
+
 [[幸运]]
 ==== 幸运 (xing4 yun4, lucky)
 
@@ -6593,6 +6658,18 @@ Characters:
 
 * <<衣>>
 * 服
+
+[[疫情]]
+==== 疫情 (yi4 qing2, epidemic situation)
+
+Characters:
+
+* <<疫>>
+* <<情>>
+
+Sentences:
+
+* <<肺炎疫情下的武汉幸存者我是不幸之中幸运的人>>
 
 [[元旦]]
 ==== 元旦 (yuan2 dan4, (Chinese) New Year's day)
@@ -6661,7 +6738,7 @@ Source: https://www.bbc.com/zhongwen/simp/chinese-news-51527843
 
 Context: The article is about a man who survived because he asked for help online, and netizens helped him out and he survived.
 
-Words: <<肺炎>>疫情下<<的>>武汉<<幸存>>者："我是<<不幸>>之中<<幸运>><<的>><<人>>"
+Words: <<肺炎>><<疫情>>下<<的>>武汉<<幸存>>者："我是<<不幸>>之中<<幸运>><<的>><<人>>"
 
 [[购物清单APP即使你是购物狂也不用再担心了]]
 ==== 购物清单APP，即使你是购物狂也不用再担心了 (With a shopping list APP, even if you are crazy about shopping you don't need to worry anymore)
