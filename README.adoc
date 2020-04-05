@@ -5410,6 +5410,15 @@ Characters:
 
 * 每 TODO each
 
+[[top-part-of-存]]
+==== Top part of 存 (, market stall)
+
+Mnemonic: looks like one.
+
+Characters:
+
+* <<存>>
+
 [[龶]]
 ==== 龶 (-, crown)
 
@@ -5542,6 +5551,15 @@ Short forms: ⻌,⻍,⻎
 Characters:
 
 * <<运>>
+
+[[存]]
+==== 存 (cun2, survive)
+
+Mnemonic: the Jewish **child** (<<子>>) **survived** from the Nazis by hidding under a **market stall** (<<top-part-of-存>>)
+
+Words:
+
+* <<幸存>>
 
 [[寸]]
 ==== 寸 (cun4, inch)
@@ -6149,6 +6167,7 @@ Words:
 
 * <<不幸>>
 * <<幸运>>
+* <<幸存>>
 
 [[言]]
 ==== 言 (yan2, speak, say)
@@ -6286,6 +6305,15 @@ Mnemonic: imagine a **dog** (<<犬>>) model **shaped** from **split wood** piece
 Words:
 
 * 冠状病毒: <<corona>>
+
+[[子]]
+==== 子 (zi, child)
+
+Mnemonic: Kangxi 39.
+
+Characters:
+
+* <<存>>
 
 === English words
 
@@ -6542,6 +6570,14 @@ Characters:
 * <<物>>
 * <<理>>
 
+[[幸存]]
+==== 幸运 (xing4 cun2, survive)
+
+Characters:
+
+* <<幸>>
+* <<存>>
+
 [[幸运]]
 ==== 幸运 (xing4 yun4, lucky)
 
@@ -6625,7 +6661,7 @@ Source: https://www.bbc.com/zhongwen/simp/chinese-news-51527843
 
 Context: The article is about a man who survived because he asked for help online, and netizens helped him out and he survived.
 
-Words: <<肺炎>>疫情下的武汉幸存者："我是<<不幸>>之中<<幸运>><<的>><<人>>"
+Words: <<肺炎>>疫情下<<的>>武汉<<幸存>>者："我是<<不幸>>之中<<幸运>><<的>><<人>>"
 
 [[购物清单APP即使你是购物狂也不用再担心了]]
 ==== 购物清单APP，即使你是购物狂也不用再担心了 (With a shopping list APP, even if you are crazy about shopping you don't need to worry anymore)
