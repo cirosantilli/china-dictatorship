@@ -953,6 +953,18 @@ Poisoned with polonium-210:
 .Litvinenko in his death bed.
 image::http://web.archive.org/web/20200404123347im_/https://i.guim.co.uk/img/static/sys-images/guardian/About/General/2010/12/11/1292079941381/Former-Russian-Agent-Pois-006.jpg?width=620&quality=85&auto=format&fit=max&s=2a623e83efa1042cc1cd07295d54a57b[height=400]
 
+[[russia-mandatory-registration-of-bloggers]]
+====== Mandatory registration of bloggers (2014)
+
+https://www.bbc.co.uk/news/technology-28583669
+
+Bloggers with more than 3000 daily readers must register and cannot be anonymous.
+
+The following Chinese policies come to mind:
+
+* <<icp-license>>
+* <<anonymous-accounts-ban>>
+
 [[stalin]]
 ===== Stalin 斯大林 (1922-1952)
 
@@ -2290,7 +2302,7 @@ This includes liking, commenting, answering, asking or trying to update my profi
 
 This message also shows on my public page for everyone to see: https://www.zhihu.com/people/cirosantilli/activities but they use some JavaScript scheme complicated enough that archive.is cannot capture it.
 
-I still get notifications however, but I am unable to reply to them, specially given that all Chinese accounts, unlike mine, have no personal identifiable information due to the understandable fear Chinese citizens have of their own government (even though such accounts https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/[might be illegal in theory to my understanding]).
+I still get notifications however, but I am unable to reply to them, specially given that all Chinese accounts, unlike mine, have no personal identifiable information due to the understandable fear Chinese citizens have of their own government, even though such accounts might be illegal in theory: <<anonymous-accounts-ban>>.
 
 The only action that I can take now is to report abusive comments people make to me.
 
@@ -4182,7 +4194,7 @@ ____
 Source: the first International email sent from China in 1987 by https://zh.wikipedia.org/wiki/王运丰[Wang Yunfeng (王运丰)] in the Beijing-based Institute for Computer Application (ICA) of the China Ordnance Industry Corporation under the https://zh.wikipedia.org/wiki/中华人民共和国机械电子工业部[Ministry of Machinery and Electronics of the People's Republic of China (中华人民共和国机械电子工业部)] to https://en.wikipedia.org/wiki/Werner_Zorn[Werner Zorn] from the https://en.wikipedia.org/wiki/Karlsruhe_Institute_of_Technology[Karlsruhe Institute of Technology] see also: https://en.wikipedia.org/wiki/Internet_in_China[].
 
 [[dictator-needs-gfw]]
-==== Would ending the Great Firewall truly end the dictatorship?
+===== Would ending the Great Firewall truly end the dictatorship?
 
 Not 100% sure.
 
@@ -4331,6 +4343,34 @@ See also:
 * https://www.bypasscensorship.org
 
 It is interesting to note how <<falun-gong>> is a good source of censorship-circumvention material, see e.g.: <<github-gov-takedowns>>.
+
+[[icp-license]]
+===== ICP license 非经营性网站备案 (2000)
+
+https://en.wikipedia.org/wiki/ICP_license | https://zh.wikipedia.org/wiki/非经营性网站备案
+
+Part of the <<internal-censorship,Internet censorship machine>>, although it predates the GFW proper.
+
+It can be seen at the bottom of many many many websites, it is likely mandatory to display it.
+
+If you see one of those, you already know hat it cannot be trusted for politics.
+
+For example, http://archive.is/ePBM9[as of April 2020], the <<zhihu>> sidebar shows:
+
+____
+京 ICP 备 13052560 号 - 1
+____
+
+where "京" indicates that the certificate was issued by the Beijing Provincial level city.
+
+In 2014, almost 15 years later, <<russia>> finally caught up, what a relief: <<russia-mandatory-registration-of-bloggers>>.
+
+[[anonymous-accounts-ban]]
+===== Anonymous accounts ban (2017)
+
+* https://www.rfa.org/english/news/china/ban-08282017112633.html
+* https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/
+* https://advox.globalvoices.org/2017/08/27/china-to-ban-anonymous-online-comments-blacklist-users/
 
 [[wumao]]
 ==== 50 Cent Party 五毛党 (Wumao Dang)
