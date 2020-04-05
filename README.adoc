@@ -1929,7 +1929,7 @@ Started in particular due to the <<daryl-morey-tweet>>
 
 ==== What should Western countries do about China?
 
-Western governments must reciprocate unfair Chinese practices.
+Western governments must reciprocate unfair Chinese practices: https://politics.stackexchange.com/questions/18508/why-dont-western-countries-penalize-chinese-companies-in-the-same-way-that-chin
 
 Companies only care about money and have no long term view, the following must be imposed by governments on Western companies.
 
@@ -1950,7 +1950,9 @@ Their websites should also be blocked, see: <<chinese-government-media>>. This d
 * it would be harder to monitor what crazy shit the commies are doing
 * those censorship mechanisms could be reused to block good websites by Western governments that are becoming Evil
 
-But anything that pisses off the CCP is worth it.
+But anything that pisses off the CCP is worth it, like there's much we can learn from their bullshit. Another upside is that this would also hugely bolster <<censorship-circumvention>> technologies, as every Chinese expat would need to buy a VPN.
+
+* https://politics.stackexchange.com/questions/18508/why-dont-western-countries-penalize-chinese-companies-in-the-same-way-that-chin
 
 And the same must be done for cultural centers that report directly to the CCP such as <<confucius-institute>> and <<cssa,CSSAs>>.
 
@@ -2027,6 +2029,9 @@ Some hell known companies and events:
 
 * https://en.wikipedia.org/wiki/Bloomberg_L.P.[Bloomberg L.P.]: https://theintercept.com/2020/02/18/mike-bloomberg-lp-nda-china/ "When Bloomberg News’s Reporting on China Was Challenged, Bloomberg Tried to Ruin Me for Speaking Out"
 * 2019-12 Shutterstock implements censorship for searches from China https://techcrunch.com/2019/12/08/in-wake-of-shutterstocks-chinese-censorship-american-companies-need-to-relearn-american-values/
+* LinkedIn
+** 2019-01-04 https://www.scmp.com/news/china/article/2180620/linkedin-adhering-beijings-rules-censors-chinese-profile-page-us-based "LinkedIn reverses course after censoring Chinese profile page of US-based human rights activist Zhou Fengsuo", see also: <<zhou-fengsuo>>
+** 2014-06-04 https://money.cnn.com/2014/06/04/technology/linkedin-china-censorship/ "LinkedIn draws fire for China censorship" mentions: "Some LinkedIn (LNKD) users have received emails from the company in recent days informing them that their posts will not be shown in mainland China."
 * Apple
 ** 2020-03-01 https://techcrunch.com/2020/03/01/china-roundup-apple-closes-app-store-loophole/ "China Roundup: Apple closes a 4-year-old App Store loophole"
 ** 2020-02-25 https://www.theguardian.com/technology/2020/feb/25/apple-censorship-requests-china-shareholder-groups-proposal
@@ -3602,7 +3607,7 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 * 2010 http://news.bbc.co.uk/2/hi/asia-pacific/8682145.stm 10 month Xinjiang internet blackout
 * 2009 https://en.wikipedia.org/wiki/Tan_Zuoren#2009_court_case Ai Weiwei documentary about it: https://aiweiwei.com/documentaries/disturbing-the-peace/index.html
 * 2008 https://en.wikipedia.org/wiki/Tofu-dreg_project 豆腐渣工程 https://en.wikipedia.org/wiki/China%27s_Unnatural_Disaster:_The_Tears_of_Sichuan_Province
-* 2008 https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response https://zh.wikipedia.org/wiki/2011%E5%B9%B4%E7%94%AC%E5%8F%B0%E6%B8%A9%E9%93%81%E8%B7%AF%E5%88%97%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85 Wenzhou train collision 2011年甬台温铁路列车追尾事故:
+* 2008 https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response https://zh.wikipedia.org/wiki/2011年甬台温铁路列车追尾事故 Wenzhou train collision
 * 2008 https://en.wikipedia.org/wiki/2008_Tibetan_unrest https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E8%A5%BF%E8%97%8F%E9%AA%9A%E4%B9%B1 Tibetan unrest 西藏骚乱
 ** https://file.wikileaks.org/file/tibet-protest-photos/ Good gory photos from the event.
 * 2005 https://en.wikipedia.org/wiki/Dongzhou_protests https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%B4%B2%E4%BA%8B%E4%BB%B6 Dongzhou protests
@@ -3812,6 +3817,19 @@ The project is also known as "zhao" which is another slang reference to "太子�
 
 .Programthink uses https://en.wikipedia.org/wiki/The_Thinker[Rodin's The Thinker sculpture] as its avatar. https://github.com/programthink/[Source].
 image::https://web.archive.org/web/20191218082236if_/https://avatars0.githubusercontent.com/u/4027957?s=400&v=4[height=400]
+
+[[zhou-fengsuo]]
+=== Zhou Fengsuo 周锋锁
+
+https://en.wikipedia.org/wiki/Zhou_Fengsuo | https://zh.wikipedia.org/wiki/周锋锁
+
+After <<ciro-santilli>> started his campaign for freedom of speech in china in 2015, Zhou Fengsuo published on Twitter in 2015-05-30 when he had 36K followers at the time: https://twitter.com/ZhouFengSuo/status/604461488716144640 (http://archive.is/8d2lt[archive]) linking to Ciro Santilli's Stack Overflow account:
+
+____
+The commies have messed with the wrong guy's mother-in-law."
+
+一个程序员在专业网站上发布六四和法轮功的消息，目的是触怒中共，封杀网站，从而激起程序员的反抗。因为岳母被抓半个月。
+____
 
 == Media 媒体
 
@@ -4531,7 +4549,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 * 2015-09-03: (deleted) http://www.weibo.com/2014703917/Cyc1gFt7A This is the user: http://www.weibo.com/2014703917 There have also been accesses from link:http://weibo.cn/sinaurl[], but I don't know what that means.
 * 2015-08-03: 21 visitor Facebook peak, can't find source
 * 2015-06-20: (deleted) link:https://www.plurk.com/p/l1jjn4[] Archive: http://web.archive.org/web/20150918110032/https://www.plurk.com/p/l1jjn4 "這阿豆阿的名字XDD" by https://www.plurk.com/m/u/cyuanXD
-* 2015-05-30: https://twitter.com/ZhouFengSuo/status/604461488716144640 (http://archive.is/8d2lt[archive]) 36K followers at the time. "The commies have messed with the wrong guy's mother-in-law.". That is apparently the account of a famous <<tiananmen>> protester: https://en.wikipedia.org/wiki/Zhou_Fengsuo[Zhou Fengsuo (周锋锁)]
+* 2015-05-30: <<zhou-fengsuo>> linked to <<ciro-santilli>>'s stack overflow account!!!
 * 2015-04-10: https://v2ex.com/t/182766 (cannot archive, login requires CAPTCHA, link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-04.html[Chromium CTRL-S save]) "Stack Overflow 上看到一个丧心病狂的程序员" by https://v2ex.com/member/cloudhunter
 
 == Other sections
