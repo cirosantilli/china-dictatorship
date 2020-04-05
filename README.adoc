@@ -5855,6 +5855,11 @@ Words:
 
 * 法轮功: <<falun-gong>>
 
+[[没]]
+==== 没 (mei2, not have)
+
+Mnemonic: if you **do not have** any **water** (<<水>>) for your **coffee** (<<殳>>), it won't be very good
+
 [[冖]]
 ==== 冖 (mi4, hajib [Muslim female head scarf])
 
@@ -6093,15 +6098,16 @@ Chars:
 [[私]]
 ==== 私 (si1, privacy)
 
-Mnemonic: **privacy** is all about storing your precious **grain** <<禾>> in a **private** <<厶>> location
+Mnemonic: **privacy** is all about storing your precious **grain** (<<禾>>) in a **private** (<<厶>>) location
 
 [[殳]]
 ==== 殳 (shu1, coffee)
 
-Mnemonic: he keeps dropping his **coffee** on the floor **again** (<<又>>) and again from the **side table** (<<几>>)
+Mnemonic: his **coffee** keeps falling from the **side table** (<<几>>) on the floor **again** (<<又>>) and again 
 
 Characters:
 
+* <<没>>
 * <<疫>>
 
 Note: this shows what a 殳 weapon actually was: http://wenzhengwenhua.com/article-2023-1.html
