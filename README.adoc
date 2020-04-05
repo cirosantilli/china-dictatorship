@@ -6011,6 +6011,10 @@ Characters:
 * <<清>>
 * <<情>>
 
+Words:
+
+* <<青铜>>
+
 [[清]]
 ==== 清 (qing1, clear)
 
@@ -6151,6 +6155,10 @@ Characters:
 * <<疫>>
 
 Note: this shows what a 殳 weapon actually was: http://wenzhengwenhua.com/article-2023-1.html
+
+Sentences:
+
+* <<青铜兵器之殳简介>>
 
 [[树]]
 ==== 树 (shu4, trees)
@@ -6374,6 +6382,15 @@ Characters:
 
 * <<政>>
 
+[[之]]
+==== 之 (zhi1)
+
+Sentences:
+
+* the preceding sentence modifies the following sentence
+** <<青铜兵器之殳简介>>
+*** here for example "青铜兵器" describes "殳" as in "'Shu', the bronze weapon".
+
 [[止]]
 ==== 止 (zhi3, stop)
 
@@ -6487,6 +6504,12 @@ Sentences:
 
 * <<chinese-sentence-containing>>
 ** <<note-on-this-sentence>>
+
+Sentences:
+
+* <<sense>>
+** <<chinese-sentence-containing>>
+*** <<note-on-this-sentence>>
 ....
 
 Notes:
@@ -6644,6 +6667,18 @@ Words:
 
 * <<购物清单>>
 
+[[青铜]]
+==== 青铜 (qing1 tong2, bronze)
+
+Characters:
+
+* <<青>>
+* 铜 TODO copper
+
+Sentences:
+
+* <<青铜兵器之殳简介>>
+
 [[台湾]]
 ==== 台湾 (tai2 wan1, Taiwan)
 
@@ -6770,6 +6805,23 @@ Notes
 
 * `Sentences`: is mostly for when you have a smaller collocational phrase that feels too generic for a "word", but which can also go inside a larger "super-sentence"
 
+[[测量体重]]
+==== 测量体重 (Measure body weight, to weight oneself)
+
+Source: https://www.zhihu.com/question/30477989
+
+Words:
+
+* 测量 TODO
+* <<体重>>
+
+Sentences:
+
+* 有哪些有趣的测量体重的方法？ What are some interesting ways of measuring your weight?
+** Source: https://www.zhihu.com/question/30477989
+* 怎么正确的测量体重？什么时候的体重是标准的？ How to correctly measure your weight? What is the time of the day at which a weight measure is considered standard?
+** Source: https://jingyan.baidu.com/article/375c8e19e9727025f2a229e3.html
+
 [[大多数宝宝在6-10个月之间学会爬行]]
 ==== 大多数宝宝在6-10个月之间学会爬行 (Most babies learn to crawl between 6 and 10 months)
 
@@ -6793,30 +6845,16 @@ Source: https://zhuanlan.zhihu.com/p/27498655
 
 Words: <<购物清单>>APP，即使<<你>>是购物狂也不用再担心了
 
+[[青铜兵器之殳简介]]
+==== 青铜兵器之“殳”简介 (An introduction to the bronze weapon "shu" (殳))
+
+Source: http://wenzhengwenhua.com/article-2023-1.html
+
+Words: <<青铜>>兵器<<之>>“殳”简介
+
 [[现有王位觊觎者列表]]
 ==== 现有王位觊觎者列表 (List of current throne pretenders)
 
 Source: https://zh.wikipedia.org/wiki/現有王位覬覦者列表
 
 Words: 现有王位觊觎者<<列表>>
-
-[[测量体重]]
-==== 测量体重 (Measure body weight, to weight oneself)
-
-Source: https://www.zhihu.com/question/30477989
-
-Words:
-
-* 测量 TODO
-* <<体重>>
-
-Sentences:
-
-* 有哪些有趣的测量体重的方法？ What are some interesting ways of measuring your weight?
-** Source: https://www.zhihu.com/question/30477989
-* 怎么正确的测量体重？什么时候的体重是标准的？ How to correctly measure your weight? What is the time of the day at which a weight measure is considered standard?
-** Source: https://jingyan.baidu.com/article/375c8e19e9727025f2a229e3.html
-
-=== Chinese grammar
-
-TODO
