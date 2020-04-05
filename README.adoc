@@ -254,9 +254,13 @@ News coverage:
 * https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1 "China spent the crucial first days of the Wuhan coronavirus outbreak arresting people who posted about it online and threatening journalists" (http://web.archive.org/web/20200124113400/https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1?r=US&IR=T[archive])
 * https://www.vice.com/en_us/article/g5xykx/you-can-now-go-to-jail-in-china-for-criticizing-beijings-coronavirus-response "You Can Now Go to Jail in China for Criticizing Beijing’s Coronavirus Response"
 * https://www.vice.com/en_us/article/qjdn4d/doctors-in-wuhan-are-still-dying-and-beijing-is-still-trying-to-silence-them Ai Fen's (艾芬) report of how the situation was mishandling was censored
-* Some believe that the Chinese government grossly under-reported death counts. Official figures were about only 3300 deaths, in the insanely densely populated Wuhan area, while Italy had reached 10000 deaths.
-** 2020-04-01 https://www.bloomberg.com/news/articles/2020-04-01/china-concealed-extent-of-virus-outbreak-u-s-intelligence-says CIA speaks
-** 2020-03-29 https://www.dailymail.co.uk/news/article-8165717/Locals-Wuhan-believe-42-000-people-died-coronavirus.html Reports of funerary urns sold
+
+Some believe that the Chinese government grossly under-reported death counts. Official figures were about only 3300 deaths, in the insanely densely populated Wuhan area, while Italy had reached 10000 deaths:
+
+* 2020-04-01 https://www.bloomberg.com/news/articles/2020-04-01/china-concealed-extent-of-virus-outbreak-u-s-intelligence-says CIA speaks
+* 2020-03-29 https://www.dailymail.co.uk/news/article-8165717/Locals-Wuhan-believe-42-000-people-died-coronavirus.html Reports of funerary urns sold
+
+Maybe China is saying the truth this time. Maybe the rapid Dictatorship response worked. But maybe the most important lesson to take out of this is: no one trusts a Dictatorship, after an infinitely long history of lies and no freedom of the press.
 
 On the other hand, one may argue that the "city closure" measures were stronger/faster than in democracies.
 
@@ -1929,7 +1933,12 @@ The most obvious thing is to go https://en.wikipedia.org/wiki/Tit_for_tat[tit fo
 
 Accounts that are not labelled as being from the Chinese government, but which support the CCP, must be investigated to determine if they are actually funded by the Chinese government.
 
-Their websites should also be blocked, see: <<chinese-government-media>>. This does have the downside that it would be harder to monitor what crazy shit the commies are doing, and those censorship mechanisms could be reused to block good websites by Western governments that are becoming Evil. But it's worth it.
+Their websites should also be blocked, see: <<chinese-government-media>>. This does have the downsides that:
+
+* it would be harder to monitor what crazy shit the commies are doing
+* those censorship mechanisms could be reused to block good websites by Western governments that are becoming Evil
+
+But anything that pisses off the CCP is worth it.
 
 And the same must be done for cultural centers that report directly to the CCP such as <<confucius-institute>> and <<cssa,CSSAs>>.
 
@@ -5434,6 +5443,24 @@ Characters:
 
 * <<单>>
 
+[[白]]
+==== 白 (bai2, white)
+
+Mnemonic: the **sun** (<<日>>) is so bright on that **one** (<<一>>) day, that it was almost **white**
+
+Characters:
+
+* <<的>>
+
+[[勹]]
+==== 勹 (bao1, plastic wrap)
+
+Mnemonic: Kangxi 20 is "wrap". So we choose plastic wrap as a specific type of wrapping that will give good mnemonics.
+
+Characters:
+
+* <<勺>>
+
 [[本]]
 ==== 本 (ben3, potato)
 
@@ -5560,6 +5587,16 @@ Words:
 ==== 但 (dan4, but)
 
 Mnemonic: I saw a **person** (<<人>>) walking at **dawn** (<<旦>>). It was beautiful, **but** why wouldn't they be sleeping instead?
+
+[[多]]
+==== 多 (duo1, many)
+
+Mnemonic: one **wrap sandwitch** (<<勺>>) is fine for lunch, but two on too **many**
+
+[[的]]
+==== 的 (de, my)
+
+Mnemonic: **my** penis looks like a **white** (<<白>>) **wrap sandwitch** (<<勺>>)
 
 [[动]]
 ==== 动 (dong4, move)
@@ -5935,9 +5972,21 @@ Sentences:
 Characters:
 
 * <<旦>>
+* <<白>>
 
 [[肉]]
 ==== 肉 (rou4, meat)
+
+[[勺]]
+==== 勺 (shao2, wrap sandwitch)
+
+Mnemonic: it is something that you would put inside **plastic wrap** (<<勹>>)
+
+Note: this is one of the main words for spoon, but that mnemonic is already taken by the Kangxi <<匕>>, so we had to go for something else.
+
+Characters:
+
+* <<的>>
 
 [[申]]
 ==== 申 (shen1, God)
@@ -6576,7 +6625,7 @@ Source: https://www.bbc.com/zhongwen/simp/chinese-news-51527843
 
 Context: The article is about a man who survived because he asked for help online, and netizens helped him out and he survived.
 
-Words: <<肺炎>>疫情下的武汉幸存者："我是<<不幸>>之中<<幸运>>的<<人>>"
+Words: <<肺炎>>疫情下的武汉幸存者："我是<<不幸>>之中<<幸运>><<的>><<人>>"
 
 [[购物清单APP即使你是购物狂也不用再担心了]]
 ==== 购物清单APP，即使你是购物狂也不用再担心了 (With a shopping list APP, even if you are crazy about shopping you don't need to worry anymore)
