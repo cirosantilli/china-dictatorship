@@ -4492,7 +4492,7 @@ npm i -g china-dictatorship
 china-dictatorship > README.html
 ....
 
-This would force China to also block package managers to block this repo.
+This would force China to also block/curate package managers to block this repo. The package is already available in this Chinese Taobao mirror: http://registry.npm.taobao.org/china-dictatorship (http://web.archive.org/web/20200406081433/http://registry.npm.taobao.org/china-dictatorship[archive]).
 
 We also managed to upload a Python PyPi package at: https://pypi.org/project/china-dictatorship/ Is as:
 
