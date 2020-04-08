@@ -3772,6 +3772,7 @@ Other lists:
 ** https://zh.wikipedia.org/wiki/中华人民共和国被捕政治犯列表
 * https://www.frontlinedefenders.org/en/location/china Front Line Defenders
 * https://www.nchrd.org/ Chinese Human Rights Defenders
+* http://cppc1989.blogspot.com/ 中國政治犯關注 China Political Prisoner Concern. Chinese blog with an infinite list of Chinese political prisoners.
 
 [[xu-xiaodong]]
 === Xu Xiaodong "Mad Dog" 徐晓冬
@@ -4202,6 +4203,9 @@ Then create an account on an American website, and start posting about censored 
 Here is one concrete and well documented example: <<zhihu-purge>>.
 
 Or maybe why not <<t-shirt,go out on the street in China with a T-shirt with censored words and share some photos online>>? 
+
+.https://www.youtube.com/watch?v=c1HdCIW2Xtk 2016-10-18 BBC stopped from visiting China independent candidate for local elections, Liu Huizhen (刘惠珍). They returned a few days later when the thugs weren't there: https://www.youtube.com/watch?v=eroTCMRn2yQ[].
+video::c1HdCIW2Xtk[youtube,height=400,width=600]
 
 [[t-shirt]]
 ===== What happens if you wear a T-shirt with censored words in China?
