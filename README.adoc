@@ -82,7 +82,7 @@ And by the way, with his https://github.com/cirosantilli[extensive contributions
 See also: <<disturbs>>.
 
 [[meant-to-be-used]]
-=== Politics should not be posted in technical websites such as GitHub or Stack Overflow
+=== Politics should not be posted in technical websites such as <<github>> or <<stack-overflow>>.
 
 Is the Chinese government using the Internet the way it was meant to be used, by investing billions in <<censorship>>?
 
@@ -617,11 +617,11 @@ But please, link to reference material instead of just saying it, it will be muc
 See also: <<western-democracies-are-not-perfect>>.
 
 [[bias]]
-=== Ciro Santilli and this repository are completely biased against the Chinese Government!
+=== Ciro Santilli and this page are completely biased against the Chinese Government!
 
 <<ciro-santilli>> prefers the term focused :-)
 
-That being said, Ciro take the agenda of information sources very seriously.
+That being said, Ciro takes the agenda of information sources very seriously.
 
 E.g. he tries to clearly classify Communist Party, Falun Gong, and Western government linked sources.
 
@@ -689,6 +689,95 @@ Also, I have never said that that anyone else is wrong.
 In the end, I just end up thinking about new replies to things people say to me, and add them to this FAQ so that future replies will be faster to copy paste. See also: <<better-to-do>>.
 
 The real goal of this FAQ it not to convince people, but rather to determine who is an ally and who is not, and get those allies together to defeat the commies.
+
+[[flg-bias]]
+==== Does Ciro Santilli support FLG just because his wife and mother-in-law do it?
+
+Not consciously, Ciro thinks would likely support them even if I didn't have family ties to <<falun-gong>>.
+
+Likely he wouldn't have started this campaign if he didn't know them of course.
+
+But of course, this is impossible to answer objectively.
+
+Wouldn't you be rather upset if your <<ciro-santilli-mother-in-law-jail,mother in law were put into jail unfairly for 15 days>>?
+
+But don't you think that <<falun-gong-is-not-important-to-be-worth-discussing,**70 Million** people (6% of the total population in 2000!)>> getting completely squashed by the Party illustrates extremely well the dangers of the dictatorship?
+
+With that in mind, Ciro tries his best to give FLG only the right level of exposure I think it deserves relative to other events, according to these guidelines: <<keyword-choice>>.
+
+If more recent events of mass human rights violation happen, especially affecting in the order of tens of million people, I will probably rank higher than Falun Gong, this was the case for <<xinjiang,Xinjiang in 2019>> for example, even though it only affected a measly million.
+
+==== Why did Ciro Santilli start his keyword attack?
+
+The last straw that led <<ciro-santilli>> to start the <<keyword-attack>> on <<stack-overflow>> was when in March 2015 his girlfriend's mother was arbitrarily kept 15 days in jail for doing <<falun-gong>>. He posted about this at:
+
+* https://twitter.com/cirosantilli/status/579270450984984576
+* https://www.facebook.com/cirosantilli/posts/952661734753174
+
+I then continued because I hate political <<censorship,censorship>>, and because <<does-ciro-santilli-hate-china,I love China>>.
+
+[[ciro-santilli-mother-in-law-jail]]
+===== Ciro Santilli's post when his mother-in-law was put into jail
+
+Maybe some people would be happy if their mother-in-law were put into jail. But unfortunately, this wasn't the case for <<ciro-santilli>>.
+
+.<<ciro-santilli>> with his mother in law during his wedding in 2017. Annoying? Sometimes. But threat to the fucking Chinese State? How fucked does your political system have to be for the answer to be a "yes"?
+image::{cirosantilli-media-base}/Ciro_Santilli_with_his_mother_in_law_during_his_wedding_in_2017.jpg[height=600]
+
+====== Jail post en
+
+My girlfriend's mother, a 63 year old lady, was kept 15 days inside a Chinese "correctional facility" because she does Falun Gong.
+
+She had to stay all the time in a small room with a bed and a toilet, under video surveillance, being fed three meager meals a day.
+
+I see Falun Gong http://en.wikipedia.org/wiki/Falun_Gong as just another <<flg-religion,moderate religion>> which causes no harm to its believers. The only reason that it is unofficially outlawed in China is because the communists fear it as a political competitor.
+
+There was no trial and no explanation. She was going to take a train to visit her sister. But she didn't know that there was an important political event happening in the capital: http://en.wikipedia.org/wiki/12th_National_People's_Congress So the police at the station, who already knew she did Falun Gong, took her away.
+
+When she came back home, the house had been searched and was all messed up. Her religious books and computer were missing.
+
+I'm glad she was not physically harmed. I find it fascinating how even well educated Chinese support a government which simply does not represent some of its people. How will you feel <<intolerance,when something like that happens to your own family, and there is nothing you can do about it>>?
+
+====== Jail post zh
+
+Translation by <<why-does-ciro-santilli-love-china-so-much,my wife>>:
+
+我女朋友的母亲，一位63岁的女士被监禁在一个中国的"劳教所"，只因为她炼法轮功。
+
+她被迫待在一个小屋子里面，只有一张床和一个排泄的地方，一直处在监视器下，每天两个窝头一碗只有几个白菜叶的汤。
+
+我看过法轮功http://en.wikipedia.org/wiki/Falun_Gong 只是一个和平的信仰，对相信它的人没有任何坏处。它在中国被非官方的定为违法（其实没有一项明确法律禁止），唯一的原因就是工产党害怕它是一个政治竞争对手。
+
+没有审讯没有任何解释。她正准备坐火车去看她的姐姐。但是她并不知道那个时候有重要的政治会议正在首都进行：http://en.wikipedia.org/wiki/12th_National_People's_Congress
+所以那些知道她炼法轮功的铁路警察把她带走了。
+
+当她回到家中时，房子被搜查过了，四处一切混乱。她的信仰书籍和电脑都没有了。
+
+我很庆幸的是她身体并没有受到伤害。我觉得很意思的是一些受过良好教育的中国人怎么能够迫害一部分它的人民的政府呢？如果这样的事情发生在你的家庭，而你什么都不能做，你会怎么想？
+
+====== Jail post pt
+
+Translation by myself:
+
+A mãe da minha namorada ficou 15 dias num "centro de correção" chines porque ela faz Falun Gong.
+
+Ela ficou o tempo todo num quarto pequeno com uma cama e banheiro, sobe videovigilância, recebendo 3 refeições pequenas por dia.
+
+Para mim, o Falun Gong http://en.wikipedia.org/wiki/Falun_Gong é apenas mais uma religião moderada que não causa nenhum problema para seus crentes. A única razão pela qual ele é proibido na China é porque os comunistas tem medo dele como competidor politico.
+
+Não houve julgamento nem explicação. Ela ia pegar um trem para ver sua irmã, mas ela não sabia que teria um evento político importante na capital: http://en.wikipedia.org/wiki/12th_National_People's_Congress Então a polícia da estação, que já sabia que ela faz Falun Gong pegou ela.
+
+Quando ela voltou pra casa, a casa tinha sido procurada pela polícia e estava uma bagunça. Os livros religiosos e seu computador foram confiscados.
+
+Eu fico feliz apenas que ela não sofreu abuso físico. Eu acho fascinante como mesmo muitos chineses educados apoiam ainda um governo que não representa parte do povo. Como você vai se sentir quando algo do tipo acontecerá com a sua família, e você não pode fazer nada sobre isso?
+
+===== Further details about Ciro Santilli's mother-in-law's persecution
+
+March 2015: 15 days in jail for no reason: https://www.facebook.com/cirosantilli/posts/952661734753174
+
+June 2017: 3 cops came to her house. She was there. They asked if she still did Falun Gong. She said yes. They took photos of her Falun Gong books / posters. They were polite.
+
+October 2017: 7 - 8 cops came to her house _at 11PM_. They knocked the door strongly and made noise, and questioned neighbours of her whereabouts. Luckily she was not there.
 
 === China is fine as it is, stop making it worse
 
@@ -987,7 +1076,7 @@ ____
 
 Expression previously mentioned at: http://web.archive.org/web/20161025220242/http://tieba.baidu.com/p/752094668
 
-<<falun-gong>> thinks otherwise of course: <<do-you-believe-in-or-practice-falun-gong>>.
+<<falun-gong>> thinks otherwise of course: <<does-ciro-santilli-believe-in-or-practice-falun-gong>>.
 
 ==== Chinese politicians really care about the Chinese citizens
 
@@ -1189,73 +1278,6 @@ image::https://uncyclopedia.ca/w/images/e/e1/Chinese_character_extreme.svg[heigh
 .https://www.youtube.com/watch?v=t_cbW5JK9WM "The most complex Chinese character" by Vladimir Skultety does a reasonable analysis of which Chinese character is the most complex
 video::t_cbW5JK9WM[youtube,height=400,width=600]
 
-==== Why did you start the keyword attack?
-
-The last straw was when in March 2015 my girlfriend's mother was arbitrarily kept 15 days in jail for doing Falun Gong. I posted this at:
-
-* https://twitter.com/cirosantilli/status/579270450984984576
-* https://www.facebook.com/cirosantilli/posts/952661734753174
-
-I then continued because I hate political <<censorship,censorship>>, and because <<does-ciro-santilli-hate-china,I love China>>.
-
-[[ciro-santilli-mother-in-law-jail]]
-===== Ciro Santilli's post when his mother-in-law was put into jail
-
-====== Jail post en
-
-My girlfriend's mother, a 63 year old lady, was kept 15 days inside a Chinese "correctional facility" because she does Falun Gong.
-
-She had to stay all the time in a small room with a bed and a toilet, under video surveillance, being fed three meager meals a day.
-
-I see Falun Gong http://en.wikipedia.org/wiki/Falun_Gong as just another <<flg-religion,moderate religion>> which causes no harm to its believers. The only reason that it is unofficially outlawed in China is because the communists fear it as a political competitor.
-
-There was no trial and no explanation. She was going to take a train to visit her sister. But she didn't know that there was an important political event happening in the capital: http://en.wikipedia.org/wiki/12th_National_People's_Congress So the police at the station, who already knew she did Falun Gong, took her away.
-
-When she came back home, the house had been searched and was all messed up. Her religious books and computer were missing.
-
-I'm glad she was not physically harmed. I find it fascinating how even well educated Chinese support a government which simply does not represent some of its people. How will you feel <<intolerance,when something like that happens to your own family, and there is nothing you can do about it>>?
-
-====== Jail post zh
-
-Translation by <<why-does-ciro-santilli-love-china-so-much,my wife>>:
-
-我女朋友的母亲，一位63岁的女士被监禁在一个中国的"劳教所"，只因为她炼法轮功。
-
-她被迫待在一个小屋子里面，只有一张床和一个排泄的地方，一直处在监视器下，每天两个窝头一碗只有几个白菜叶的汤。
-
-我看过法轮功http://en.wikipedia.org/wiki/Falun_Gong 只是一个和平的信仰，对相信它的人没有任何坏处。它在中国被非官方的定为违法（其实没有一项明确法律禁止），唯一的原因就是工产党害怕它是一个政治竞争对手。
-
-没有审讯没有任何解释。她正准备坐火车去看她的姐姐。但是她并不知道那个时候有重要的政治会议正在首都进行：http://en.wikipedia.org/wiki/12th_National_People's_Congress
-所以那些知道她炼法轮功的铁路警察把她带走了。
-
-当她回到家中时，房子被搜查过了，四处一切混乱。她的信仰书籍和电脑都没有了。
-
-我很庆幸的是她身体并没有受到伤害。我觉得很意思的是一些受过良好教育的中国人怎么能够迫害一部分它的人民的政府呢？如果这样的事情发生在你的家庭，而你什么都不能做，你会怎么想？
-
-====== Jail post pt
-
-Translation by myself:
-
-A mãe da minha namorada ficou 15 dias num "centro de correção" chines porque ela faz Falun Gong.
-
-Ela ficou o tempo todo num quarto pequeno com uma cama e banheiro, sobe videovigilância, recebendo 3 refeições pequenas por dia.
-
-Para mim, o Falun Gong http://en.wikipedia.org/wiki/Falun_Gong é apenas mais uma religião moderada que não causa nenhum problema para seus crentes. A única razão pela qual ele é proibido na China é porque os comunistas tem medo dele como competidor politico.
-
-Não houve julgamento nem explicação. Ela ia pegar um trem para ver sua irmã, mas ela não sabia que teria um evento político importante na capital: http://en.wikipedia.org/wiki/12th_National_People's_Congress Então a polícia da estação, que já sabia que ela faz Falun Gong pegou ela.
-
-Quando ela voltou pra casa, a casa tinha sido procurada pela polícia e estava uma bagunça. Os livros religiosos e seu computador foram confiscados.
-
-Eu fico feliz apenas que ela não sofreu abuso físico. Eu acho fascinante como mesmo muitos chineses educados apoiam ainda um governo que não representa parte do povo. Como você vai se sentir quando algo do tipo acontecerá com a sua família, e você não pode fazer nada sobre isso?
-
-===== Further details about Ciro Santilli's mother-in-law's persecution
-
-March 2015: 15 days in jail for no reason: https://www.facebook.com/cirosantilli/posts/952661734753174
-
-June 2017: 3 cops came to her house. She was there. They asked if she still did Falun Gong. She said yes. They took photos of her Falun Gong books / posters. They were polite.
-
-October 2017: 7 - 8 cops came to her house _at 11PM_. They knocked the door strongly and made noise, and questioned neighbours of her whereabouts. Luckily she was not there.
-
 [[radical]]
 ==== Are you a radical?
 
@@ -1345,7 +1367,7 @@ image::https://web.archive.org/web/20200126185832if_/https://i.stack.imgur.com/9
 
 ===== Why does Ciro Santilli love China so much?
 
-<<ciro-santilli>> does not <<do-you-believe-in-or-practice-falun-gong,believe in reincarnation>>, but sometimes he's tempted to.
+<<ciro-santilli>> does not <<does-ciro-santilli-believe-in-or-practice-falun-gong,believe in reincarnation>>, but sometimes he's tempted to.
 
 It is interesting how different people get <<does-ciro-santilli-hate-china,different impressions>>!
 
@@ -1396,7 +1418,7 @@ A shady supporting organization might require that he does not disclose their su
 
 Of course, a hidden support would represent a reputation hit for both such organization and for me, which makes it less likely that I would have accepted or had such an offer.
 
-Also consider my motivation. If your <<ciro-santilli-mother-in-law-jail,mother in law were put into jail unfairly for 15 days>>, for following the same religion that <<flg-bias,your wife follows>>, and if you had a social media presence, wouldn't you be tempted to do the same?
+Also consider Ciro's motivation. If your <<ciro-santilli-mother-in-law-jail,mother in law were put into jail unfairly for 15 days>>, for following the same religion that <<flg-bias,your wife follows>>, and if you had a social media presence, wouldn't you be tempted to do the same?
 
 What about you, are you funded by the CCP?
 
@@ -1426,9 +1448,9 @@ But my employer believes that inclusion and non-discrimination is more valuable.
 I will always do my best to not let my personal opinions affect my professional decisions, as that would be unfair to my employer.
 
 [[better-to-do]]
-==== Doesn't Ciro Santilli have anything better to do?
+==== Doesn't Ciro Santilli have anything better to do than pissing off China?
 
-In 1989, a beautiful thing called the World Wide Web was invented.
+In 1989, besides <<tiananmen>> and <<ciro-santilli>>'s birth, a beautiful thing called the World Wide Web was invented!
 
 The Internet gives everyone the magic power of writing something, and having million people read it for free!
 
@@ -1439,6 +1461,10 @@ This is how much time Ciro spends on this project to give you an idea:
 * when something bad enough comes up, Ciro go to https://chinadigitaltimes.net/china/sensitive-words-series/ and update <<keyword-attack,his keyword attack>>. He's only been updating it on Stack Overflow and GitHub these days.
 
 Then Ciro just contributes to programming websites exactly as he would if he weren't making this campaign, and voila.
+
+Edit: to be fair, the end of 2019 and start of 2020 was such as hot year with <<2019-hong-kong-anti-extradition-bill-protests>> and <<corona>> that Ciro might have spent a tiny little bit more.
+
+But Ciro did it only when his brain was too tired of technical stuff and unable to do more, or as a brain warm up routine in the morning. Telling the CCP to fuck off is surprisingly relaxing, you should try it some time too.
 
 === Were you influenced by the Cute cat theory of digital activism?
 
@@ -1892,7 +1918,7 @@ But then he was a coward, removed this tweet, and apologized: https://twitter.co
 
 NBA is huge in China.
 
-* 2019-10-07 Lakers vs. Heat NBA Tencent LIve Stream cancelled due to fan wearing the <<taiwan,Taiwanese>> flag
+* 2019-10-07 Lakers vs. Heat NBA Tencent Live Stream cancelled due to fan wearing the <<taiwan,Taiwanese>> flag
 +
 .Fan wearing Taiwan flag in 2019-10-07 Lakers vs. Heat showing fan and text (TODO from Tencent?) saying that the match will be cancelled. https://www.reddit.com/r/China/comments/dtrx4b/tencent_nba_live_broadcast_got_cancelled_because[Source].
 image::https://web.archive.org/web/20191109172810/https://i.redd.it/y8y7esngllx31.jpg[height=600]
@@ -2183,6 +2209,8 @@ For this same reason, her father, who Ciro's wife worships, spent around 10 year
 <<meant-to-be-used>> contains a more general overview. This contains website specifics.
 
 ==== Stack Overflow
+
+This is where <<ciro-santilli>> started his <<keyword-attack>> originally in 2015 as explained at: <<why-did-ciro-santilli-start-his-keyword-attack>>.
 
 The current consensus says that keyword attacks are allowed:
 
@@ -2587,15 +2615,15 @@ image::http://web.archive.org/web/20191108081906im_/http://falunau.org/wp-conten
 .Hundreds of Falun Gong believers in Chengdu, China, 1998. https://faluninfo.net/falun-gong-the-practice/[Source].
 image::https://web.archive.org/web/20200315112422if_/https://faluninfo.net/wp-content/uploads/2012/06/chengdu.jpg[height=500]
 
-==== Do you believe in or practice Falun Gong?
+==== Does Ciro Santilli believe in or practice Falun Gong?
 
-No, I'm agnostic: https://en.wikipedia.org/wiki/Agnosticism
+No, Ciro is agnostic: https://en.wikipedia.org/wiki/Agnosticism | https://zh.wikipedia.org/wiki/不可知论 and therefore believes that all the metaphysics that <<li-hongzhi>> says is not true.
 
 Here are some things that I don't like about Falun Gong for example: <<things-i-personally-dislike-about-flg>>.
 
 I think that FLG exercises and meditation are good for you, just like many other meditative practices such as Yoga, Buddhist meditation, Tai chi, deep Catholic prayer, etc.
 
-However I find the metaphysics and obligations boring like for any other prophetic xref:flg-religion[religion].
+However I find the metaphysics and obligations boring like for any other prophetic <<flg-religion,religion>>.
 
 The absolute truth is already known by the xref:li-hongzhi[prophet], although he does not want to give clear evidence for reasons.
 
@@ -2615,7 +2643,7 @@ so that you will not strike your foot against a stone.'"
 Jesus answered him, "It is also written: 'Do not put the Lord your God to the test.'"
 ____
 
-Ah good old prophets, their tricks haven't changed a bit in 2 thousand years!
+Ah good old prophets, their tricks haven't changed a bit in 2 thousand years! This is why <<ciro-santilli>> follows instead the religion of <<democracy-is-a-religion,science and freedom of speech>>: those religions instead say: test your God. Test your God a billion times. And if your God proves wrong once, disblieve it.
 
 And you just repeat these truth over and over and over:
 
@@ -2632,7 +2660,7 @@ And you just repeat these truth over and over and over:
 * xref:flg-medication[Maybe FLG will make you healthier, but no promises, but it will make you a better person, and that's why you should do it, but if you really really believe, you get healthier]
 * FLG is good
 * FLG is good
-* Non-followers are like this, FLG people are like that. Although non-followers who do good things are actually doing FLG without knowing it. Note: FLG even has a specific terminology for non-believers, which is translated in English as https://falundafa.org/eng/eng/zfl_new_4.html["ordinary-people"]. Like other aspects of FLG however, this appears in other religions, e.g. my mother mentioned the funny term used by her Protestant's group term but I forgot it, and you can see it in Harry Potter as well: https://en.wikipedia.org/wiki/Muggle[The Muggles].
+* Non-followers are like this, FLG people are like that. Although non-followers who do good things are actually doing FLG without knowing it. Note: FLG even has a specific terminology for non-believers, which is translated in English as https://falundafa.org/eng/eng/zfl_new_4.html["ordinary-people"]. Like other aspects of FLG however, this appears in other religions, e.g. my mother mentioned the funny term used by her Protestant's group term but Ciro forgot it, and you can see it in Harry Potter as well: https://en.wikipedia.org/wiki/Muggle[The Muggles].
 * FLG is good
 * FLG is good
 * FLG is good
@@ -2640,17 +2668,17 @@ And you just repeat these truth over and over and over:
 * FLG is good
 * <<is-chinese-politician-x-evil,the CCP is evil>>, not figuratively, but literally as in they are representatives of, or evil supernatural beings themselves. E.g. <<jiang-zemin>> is actually an evil frog in some alternate dimension, literally, not just memecally. The Chinese Government is literally responsible for creating <<corona,Covid-19>>. They give the CCP too much credit. The CCP are just a bunch of lazy and greedy people like you and me.
 
-I would really like to know if <<li-hongzhi,LHZ>> really believes in FLG, or is just a complete manipulating charlatan, but unfortunately we will never know that.
+Ciro would really like to know if <<li-hongzhi,LHZ>> really believes in FLG, or is just a complete manipulating charlatan, but unfortunately we will never know that.
 
 Just imagine if before he died he published a video saying: "it was a joke, gotcha!". Now that would be **epic**!
 
-Since I'm good natured, it's hard for me to believe that he doesn't believe in anything, how can anyone be that evil? Maybe he believes in part of it, but made up some stuff to sell it better, maybe with good intentions that selling the fake part would also lead more people to see the good part?
+Since Ciro is good natured, it's hard for me to believe that he doesn't believe in anything, how can anyone be that evil? Maybe he believes in part of it, but made up some stuff to sell it better, maybe with good intentions that selling the fake part would also lead more people to see the good part?
 
-Like any other prophetic religion, FLG gives tiny evidence that you can directly feel through meditation. The energies, which I believe are real feelings. And then using that entry point asks you to believe a whole lot more, that you can't feel.
+Like any other prophetic religion, FLG gives tiny evidence that you can directly feel through meditation. The energies, which Ciro believe are real feelings. And then using that entry point asks you to believe a whole lot more, that you can't feel.
 
 This becomes especially strong when a critical mass of believers is reached, and then they start interpreting all sorts of events as miracles, and you start to believe other believers without questioning them, and a circle is formed.
 
-This post by a former believer gives what I feel is a realistic account that matches my observations: https://medium.com/@Ben_D_Hurley/-10677166298b "Me and Li" by Ben Hurley published on October 23, 2017.
+This post by a former believer gives what Ciro feels is a realistic account that matches my observations: https://medium.com/@Ben_D_Hurley/-10677166298b "Me and Li" by Ben Hurley published on October 23, 2017.
 
 And yet, all those who love freedom, must oppose FLG ban, or be themselves enslaved by tyrants themselves: <<democracy-is-a-religion>>.
 
@@ -2658,24 +2686,11 @@ In any case, at least FLG got one thing right: the commies are <<is-the-chinese-
 
 See also: <<flg-fake>>.
 
-[[flg-bias]]
-==== Do you support FLG just because your wife and mother-in-law do it?
+===== How much does Ciro Santilli know about Falun Gong?
 
-Not consciously, I think I would likely support them even if I didn't have family ties to FLG.
+He hasn't read their <<flg-canon,canon>> himself, no patience, but he has had constant contact with believers and so has an idea of its content.
 
-Likely I wouldn't have started this campaign if I didn't know them of course.
-
-But of course, this is impossible to answer objectively.
-
-But don't you think that <<falun-gong-is-not-important-to-be-worth-discussing,**70 Million** people (6% of the total population in 2000!)>> getting completely squashed by the Party illustrates extremely well the dangers of the dictatorship?
-
-With that in mind, I try my best to give FLG only the right level of exposure I think it deserves relative to other events, according to these guidelines: <<keyword-choice>>
-
-If more recent events of mass human rights violation happen, especially affecting in the order of tens of million people, I will probably rank higher than Falun Gong, this was the case for <<xinjiang,Xinjiang in 2019>> for example, even though it only affected a measly million.
-
-==== How much do you know about Falun Gong's claims?
-
-I haven't read their <<flg-canon,canon>> myself, no patience, but I have constant contact with believers and so have an idea of its content.
+Ciro has summarized his toughts about <<falun-gong>> at: <<does-ciro-santilli-believe-in-or-practice-falun-gong>>.
 
 [[flg-canon]]
 ==== What are the canonical Falun Gong texts?
@@ -2741,7 +2756,7 @@ Like other religions, Falun Gong gives them meaning in life, and I admire that t
 
 I much prefer that my mother-in-law does Falun Gong, which is a noble meaningful goal, rather than watch stupid crap on television.
 
-Also, although I am <<do-you-believe-in-or-practice-falun-gong,agnostic>>, I also live in a similar way.
+Also, although I am <<does-ciro-santilli-believe-in-or-practice-falun-gong,agnostic>>, I also live in a similar way.
 
 My religion is that of science and technology, and I pursue it fervently by trying to learn and teach it and spend several hours a week doing that, even when it does not give me money immediately.
 
@@ -2835,7 +2850,7 @@ See also: <<flg-religion>>
 [[flg-verifiable]]
 ===== FLG never makes any predictions that can be reasonably verified by non-believers
 
-Exactly, just like any other <<flg-religion>>, this is why I'm <<do-you-believe-in-or-practice-falun-gong,agnostic>>.
+Exactly, just like any other <<flg-religion>>, this is why I'm <<does-ciro-santilli-believe-in-or-practice-falun-gong,agnostic>>.
 
 The closest claims to observable I've heard are:
 
@@ -3835,7 +3850,7 @@ https://en.wikipedia.org/wiki/Zhou_Fengsuo | https://zh.wikipedia.org/wiki/周�
 After <<ciro-santilli>> started his campaign for freedom of speech in china in 2015, Zhou Fengsuo published on Twitter in 2015-05-30 when he had 36K followers at the time: https://twitter.com/ZhouFengSuo/status/604461488716144640 (http://archive.is/8d2lt[archive]) linking to Ciro Santilli's Stack Overflow account:
 
 ____
-The commies have messed with the wrong guy's mother-in-law."
+The commies have messed with the wrong guy's <<ciro-santilli-mother-in-law-jail,mother-in-law.>>"
 
 一个程序员在专业网站上发布六四和法轮功的消息，目的是触怒中共，封杀网站，从而激起程序员的反抗。因为岳母被抓半个月。
 ____
@@ -4762,7 +4777,7 @@ One thing to try is an Amazon advanced search by label "China Record Co": https:
 For more daily needs, when you don't want to spend more money and time at a restaurant, here are a few nice things you can get from your local Chinese supermarket and quickly make something good to eat.
 
 [[dumplings]]
-=== Dumplings 饺子
+=== Dumplings 饺子 (jiao3 zi)
 
 https://en.wikipedia.org/wiki/Jiaozi
 
@@ -4787,7 +4802,7 @@ Can also be made by hand if you have the patience.
 <<ciro-santilli>> could basically eat those every 3-4 days and not get tired.
 
 [[buns]]
-=== Chinese buns 包子
+=== Chinese buns 包子 (bao1 zi)
 
 https://en.wikipedia.org/wiki/Baozi
 
@@ -4798,7 +4813,7 @@ The best way to heat them up by far is to steam.
 If you don't have a steaming pot, you can also put them on a bowl inside a regular pot with some water at the bottom, and close the lid.
 
 [[zongzi]]
-=== Zongzi 粽子
+=== Zongzi 粽子 (zong4 zi)
 
 https://en.wikipedia.org/wiki/Zongzi | https://zh.wikipedia.org/wiki/粽
 
@@ -4809,7 +4824,7 @@ Cost about 4 dollars for 2.
 You can't eat them every day because too heavy, but they are so amazingly tasty!!!
 
 [[sunflower-seeds]]
-=== Sunflower seeds 瓜子
+=== Sunflower seeds 瓜子 (gua1 zi)
 
 https://en.wikipedia.org/wiki/Guazi | https://zh.wikipedia.org/wiki/瓜子
 
@@ -4827,7 +4842,7 @@ Once you do that, you start eating them nonstop like a machine until the bag is 
 video::4Zh0TiEd63k[youtube,height=400,width=600]
 
 [[broad-beans]]
-=== Dried broad bean snack 干蚕豆
+=== Dried broad bean snack 干蚕豆 (gan1 can2 dou4)
 
 https://en.wikipedia.org/wiki/Vicia_faba | https://zh.wikipedia.org/wiki/蚕豆
 
@@ -4837,7 +4852,7 @@ The name of broad bean in Chinese is interesting: it literally means "silkworm b
 image::https://web.archive.org/save/_embed/https://www.tradewindsorientalshop.co.uk/acatalog/Six-Fortune-Prepared-Broad-Bean-170G.jpg[height=400]
 
 [[laoganma]]
-=== Lao Gan Ma crispy chilly oil 老干妈
+=== Lao Gan Ma crispy chilly oil 老干妈 (lao3 gan1 ma1)
 
 https://en.wikipedia.org/wiki/Lao_Gan_Ma | https://zh.wikipedia.org/wiki/老干妈
 
@@ -4868,7 +4883,7 @@ Oily, spicy and sour.
 image::http://web.archive.org/web/20200315123848if_/https://cdn.shopify.com/s/files/1/2288/6331/products/WeChat_Image_20180912222515_1024x1024@2x.jpg?v=1543685883[height=400]
 
 [[hot-pot]]
-=== Hot pot 火锅
+=== Hot pot 火锅 (huo3 guo1)
 
 https://en.wikipedia.org/wiki/Hot_pot
 
@@ -4962,7 +4977,7 @@ The spice level you generally want is is "zhong1 la2" (medium spicy)
 If you can't eat spicy, either learn or stop reading now and accept the fact that you will never eat good Chinese food.
 * if the restaurant is from some region, ask for dishes from the region, and which are different from other regions.
 +
-I was once given https://en.wikipedia.org/wiki/Jiaozi[jiaozi] (super popular dish everywhere in China which I buy frozen and eat every 3 days) in a Tibetan restaurant... Yes, I do believe Tibetans also eat jiaozi! :-)
+I was once <<dumplings>> (super popular dish everywhere in China which I buy frozen and eat every 3 days) in a Tibetan restaurant... Yes, I do believe Tibetans also eat jiaozi! :-)
 * Speaking a little Chinese goes a long way towards convincing the owners that you can handle the real thing.
 
 Only order dishes with meat. Those without are not worth the money / time. Aubergine is the exception.
