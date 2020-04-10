@@ -1480,7 +1480,9 @@ Then Ciro just contributes to programming websites exactly as he would if he wer
 
 Edit: to be fair, the end of 2019 and start of 2020 was such as hot year with <<2019-hong-kong-anti-extradition-bill-protests>> and <<corona>> that Ciro might have spent a tiny little bit more.
 
-But Ciro did it only when his brain was too tired of technical stuff and unable to do more, or as a brain warm up routine in the morning. Telling the CCP to fuck off is surprisingly relaxing, you should try it some time too.
+But Ciro did it only when his brain was too tired of technical stuff and unable to do more, or as a brain warm up routine in the morning.
+
+Telling the CCP to fuck off is surprisingly relaxing, you should try it some time too. It uses a different part of your brain other than the programming one. It is, one could say, an art form.
 
 === Were you influenced by the Cute cat theory of digital activism?
 
@@ -3761,31 +3763,41 @@ image::https://web.archive.org/web/20190610212031/https://img.buzzfeed.com/buzzf
 
 English:
 
-* https://www.youtube.com/watch?v=-JTWXqUPQ7I["China" by Joan Baez] from the https://en.wikipedia.org/wiki/Speaking_of_Dreams[Speaking of Dreams (1989) album]. Folk.
-* https://www.youtube.com/watch?v=6OOlXJs4I8k["The blood is on the square" by Phillip Morgan] from https://www.amazon.com/Blood-Square-Philip-Morgan/dp/B001H5S7OS[1990]. Folk.
-* https://www.youtube.com/watch?v=MAZK4apK8Bg[Same Cry (Feat. L.T.; Explicit)] by https://en.wikipedia.org/wiki/MC_Jin[MC Jin] from the 2004 album "The Rest Is History'. Hip hop American born Hakka Chinese.
+* https://www.youtube.com/watch?v=-JTWXqUPQ7I "China" by Joan Baez  from the https://en.wikipedia.org/wiki/Speaking_of_Dreams[Speaking of Dreams (1989) album]. Folk.
++
+video::-JTWXqUPQ7I[youtube,height=400,width=600]
+* https://www.youtube.com/watch?v=6OOlXJs4I8k "The blood is on the square" by Phillip Morgan from https://www.amazon.com/Blood-Square-Philip-Morgan/dp/B001H5S7OS[1990]. Folk.
++
+video::6OOlXJs4I8k[youtube,height=400,width=600]
+* https://www.youtube.com/watch?v=MAZK4apK8Bg Same Cry (Feat. L.T.; Explicit) by https://en.wikipedia.org/wiki/MC_Jin[MC Jin] from the 2004 album "The Rest Is History'. Hip hop American born Hakka Chinese.
 
 Chinese:
 
-* https://www.youtube.com/watch?v=m7uk0-vlpP0["Nothing to My Name (一無所有)" by Cui Jian (崔健)] from 1986
+* https://www.youtube.com/watch?v=m7uk0-vlpP0 "Nothing to My Name (一無所有)" by Cui Jian (崔健) from 1986
 ** Lyrics and translation https://eastasiastudent.net/china/mandarin/cui-jian-nothing-to-my-name/
 ** Chorus: "你合适跟我走" which translates to "When will you walk with me?" Could be talking directly to the Government.
 ** The singer is/was very popular, the song was composed in 1986, but was very popular at the time of the protests, and became kind of a hymn.
 ** https://en.wikipedia.org/wiki/Cui_Jian#Tiananmen_and_aftermath
-** https://en.wikipedia.org/wiki/Nothing_to_My_Name
-* https://www.youtube.com/watch?v=JdE4Ehte4uU["The square (廣場)" by Li Zhi (李志)] from 2019. Slow/sad mood pop/rock.
+** https://en.wikipedia.org/wiki/Nothing_to_My_Name | https://zh.wikipedia.org/wiki/一无所有_(歌曲)
++
+video::m7uk0-vlpP0[youtube,height=400,width=600]
+* https://www.youtube.com/watch?v=F8lWiWaSTtg History's wound (历史的伤口) 1989-5-28 song by several <<taiwan,Taiwanese>> singers
+** https://zh.wikipedia.org/wiki/历史的伤口
+** Lyrics: https://mojim.com/cny100375x11x1.htm
++
+video::F8lWiWaSTtg[youtube,height=400,width=600]
+* https://www.youtube.com/watch?v=JdE4Ehte4uU "The square (廣場)" by Li Zhi (李志) from 2019. Slow/sad mood pop/rock.
 ** https://www.washingtontimes.com/news/2019/jun/2/li-zhi-singer-missing-china-cracks-down-tiananmen-/ the singer disappeared from public view in June 2019 and his songs were purged from public listings
 ** https://medium.com/@sunlitmount/forbidden-songs-of-li-zhi-square-for-tiananmen-massacre-at-june-4th-1989-f22e7e2dc21a lyrics and translation
 ** https://en.wikipedia.org/wiki/Li_Zhi_(singer)
-* https://www.youtube.com/watch?v=F8lWiWaSTtg[History's wound (历史的伤口)] 1989-5-28 song by several <<taiwan,Taiwanese>> singers
-** https://zh.wikipedia.org/wiki/历史的伤口
-** Lyrics: https://mojim.com/cny100375x11x1.htm
 
 Cantonese
 
-* https://www.youtube.com/watch?v=9L_qz7LuqVU&t=53s[The flower of freedom (自由花)] from 1989
+* https://www.youtube.com/watch?v=9L_qz7LuqVU The flower of freedom (自由花) from 1989
 ** https://zh.wikipedia.org/wiki/自由花
 ** Lyrics: https://mojim.com/cny100293x15x4.htm
++
+video::9L_qz7LuqVU[youtube,height=400,width=600]
 
 Other good lists:
 
