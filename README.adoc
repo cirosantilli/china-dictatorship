@@ -4616,6 +4616,22 @@ Brazil had a dictatorship from 1964 to 1985, and some amazing songs were made in
 .https://www.youtube.com/watch?v=33-bMTOlvx0 Apesar de Você (In spite of you [the Dictatorship])] by https://en.wikipedia.org/wiki/Chico_Buarque[Chico Buarque] published in 1970. https://www.musixmatch.com/lyrics/Chico-Buarque/Apesar-De-Voc%C3%AA/translation/english[Lyrics with translation]. Top quotes: "You [the dictatorship] who invented this State, who invented sin, forgot to invent forgiveness." and "Where will you hide, from the enormous euphoria [of a revolution]? How will you prohibit it when the rooster insists in singing?"
 video::33-bMTOlvx0[youtube,height=400,width=600]
 
+[[do-you-hear-the-people-sing]]
+=== Do you hear the people sing (Les Miserables (musical), 1980)
+
+https://en.wikipedia.org/wiki/Do_You_Hear_the_People_Sing%3F | https://fr.wikipedia.org/wiki/À_la_volonté_du_peuple | https://zh.wikipedia.org/wiki/Do_You_Hear_the_People_Sing%3F
+
+Cantonese version used in <<2019-hong-kong-anti-extradition-bill-protests,Hong Kong>>: https://zh.wikipedia.org/wiki/問誰未發聲
+
+.https://www.youtube.com/watch?v=ojoC-Kbzpo8 English version taken from a scene of the link:++https://en.wikipedia.org/wiki/Les_Misérables_(2012_film)++[Les Misérables (2012)] film.
+video::ojoC-Kbzpo8[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=dAxDKhH1iU8 Original French version, overlayed on top of scenes from the miniseries https://fr.wikipedia.org/wiki/Victor_Hugo,_ennemi_d%27État["Victor Hugo, ennemi d'État 2018"].
+video::dAxDKhH1iU8[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=It3Ny7IY7jA Thousands sing 問誰未發聲 in 26th June 2019 in Hong Kong as a protest song.
+video::It3Ny7IY7jA[youtube,height=400,width=600]
+
 [[music]]
 == The best Chinese traditional instrumental music albums 中国传统器乐音乐
 
