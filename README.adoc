@@ -185,19 +185,22 @@ Imperial China lost the race for the Industrial Revolution. Will another dictato
 
 As a result, knowledge of problems flows more slowly, and therefore they also take longer to solve.
 
-Maybe this hurts the argument, but Hillary agrees: https://www.youtube.com/watch?v=ccGzOJHE1rw&feature=youtu.be&t=2110 "Secretary Clinton Speaks on Internet Freedom", U.S. Department of State, 2010-01-22 :-)
+Maybe this hurts the argument, but Hillary agrees: :-)
 
 ____
 But countries that restrict free access to information or violate the basic rights of internet users risk walling themselves off from the progress of the next century
 ____
 
-This is also the basis of a <<keyword-attack>>.
+.https://www.youtube.com/watch?v=ccGzOJHE1rw&t=2110 "Secretary Clinton Speaks on Internet Freedom", U.S. Department of State, 2010-01-22
+video::ccGzOJHE1rw[youtube,height=400,width=600,start=2110]
 
-Also mentioned at: link:https://youtu.be/d3dE_LDz_9E?t=1681[Google versus China - VPRO documentary - 2011]
+Also mentioned at: link:https://youtube.com/watch?v=d3dE_LDz_9E?t=1681[Google versus China - VPRO documentary - 2011]
+
+This is also the basis of a <<keyword-attack>>.
 
 This is also well illustrated in the link:https://en.wikipedia.org/wiki/Chernobyl_(miniseries)[HBO 2019 miniseries "Chernobyl"], which suggests that part of the reason why Chernobyl happened is because of the Soviet Union's obsession to save face.
 
-.Chernobyl scene where the reactor explodes, and a chief engineer "Comrade Dyatlov" accepts the 3.6 Roentgen measurement as "Not great, not terrible" and forwards it to his superiors who take actions based on that, even though the radiation measurement apparatus only goes up to 3.6 Roentgen. Needless to say, the actual radiation was much, much higher. The URSS only admitted Chernobyl three days after when Swedish nuclear plant alarms started going off. In order to keep it secret, they for example did not cancel the https://time.com/4313139/post-chernobyl-parade/[International Workers’ Day parade in Kharkov, Ukraine which happened five days after the disaster]. https://www.youtube.com/watch?v=M6kYod3_gwk[Source].
+.https://www.youtube.com/watch?v=M6kYod3_gwk Chernobyl supercut scene where the reactor explodes, and a chief engineer "Comrade Dyatlov" accepts the 3.6 Roentgen measurement as "Not great, not terrible" and forwards it to his superiors who take actions based on that, even though the radiation measurement apparatus only goes up to 3.6 Roentgen. Needless to say, the actual radiation was much, much higher: when a proper measurement is made, the value is 15000 Roentgen! The URSS only admitted Chernobyl three days after when Swedish nuclear plant radiation detector alarms started going off. Notably, in order to keep it secret, they for example did not cancel the https://time.com/4313139/post-chernobyl-parade/[International Workers' Day parade in Kharkov, Ukraine which happened five days after the disaster].
 video::M6kYod3_gwk[youtube,height=400,width=600]
 
 .Photo of a CDV-717 radioactivity meter that maxes out at 3.6 Roentgen like the one that would have been used in Chernobyl. https://www.reddit.com/r/ChernobylTV/comments/bnio6n/36_roentgen_on_a_cdv717/[Source].
@@ -241,7 +244,9 @@ Timeline:
 * 2019-12-27 several genomics companies had sequenced the coronavirus and noticed the similarity to Sars. According to GeneBank, https://www.ncbi.nlm.nih.gov/nuccore/MT019529[] the sample was collected on and 23-Dec-2019 and published on 04-FEB-2020
 * 2020-01-03 findings were sent to the https://en.wikipedia.org/wiki/Chinese_Center_for_Disease_Control_and_Prevention[Centre for Disease Control] (CDC, https://zh.wikipedia.org/wiki/中国疾病预防控制中心[中国疾病预防控制中心]) in Beijing, but then the https://en.wikipedia.org/wiki/National_Health_Commission[Chinese National Health Commission] (https://zh.wikipedia.org/wiki/中华人民共和国国家卫生健康委员会[中华人民共和国国家卫生健康委员会]), China's top medical authority, issued orders to not talk about it and destroy samples
 * 2020-01-08 CDC team went to Wuhan to see the situation, was not informed that contagiousness of the disease had been confirmed
-* 2020-01-20 the findings were made public, in an interview with Zhong Nanshan. He later said in an interview that the local government should be blamed: https://youtu.be/LK1Pz8FmryM?t=132
+* 2020-01-20 the findings were made public, in an interview with Zhong Nanshan. He later said in an interview that the local government should be blamed:
++
+video::LK1Pz8FmryM[youtube,height=400,width=600,start=132]
 * 2020-01-23 Wuhan begins lockdown
 * 2020-01-24 to 30 Chinese New Year
 
@@ -277,14 +282,14 @@ Doctor Li Wenliang (李文亮) reported the virus, but was told by authorities t
 The following excerpt from his forced confession trended:
 
 ____
-你能做到吗？
+你能做到吗？ +
 你听明白了吗？
 ____
 
 Translation:
 
 ____
-Can you manage?
+Can you manage? +
 Do you understand?
 ____
 
@@ -300,26 +305,32 @@ image::http://web.archive.org/web/20200401093459im_/https://i.redd.it/ulqhu0q38f
 ** Twitter: https://twitter.com/chenqiushi404
 ** YouTube: https://www.youtube.com/channel/UCv361SF6FKznoGPKEFG9Yhw
 ** https://edition.cnn.com/2020/02/09/asia/wuhan-citizen-journalist-intl-hnk/index.html "Chen Qiushi spoke out about the Wuhan virus. Now his family and friends fear he's been silenced"
-** https://www.youtube.com/watch?v=Iwpr55PZEJ8 "Lawyer Chen Qiushi documenting coronavirus epicentre disappears" by "South China Morning Post"
+** https://youtube.com/watch?v=Iwpr55PZEJ8 "Lawyer Chen Qiushi documenting coronavirus epicentre disappears" by "South China Morning Post"
++
+video::Iwpr55PZEJ8[youtube,height=400,width=600]
 * Fang Bin (方斌)
 ** Twitter: https://twitter.com/GuqZJRTOvbqbGub
 ** YouTube: https://www.youtube.com/channel/UCRItarzSwqakT-EZkSvuy3A
-*** Last YouTube video simply says:
+*** The last YouTube video simply says:
 +
 ____
-全民反抗
-https://zh.m.wiktionary.org/zh-hans/还政于民[还政于民]
+全民反抗 +
+https://zh.m.wiktionary.org/zh-hans/还政于民[还政于民] +
 方斌书
 ____
 +
 which translates as:
 +
 ____
-All the people, revolt.
-Return the country (politics) to its people.
+All the people, revolt. +
+Return the country (politics) to its people. +
 Written (calligraphed) by Fang Bin.
 ____
++
+video::_7VIG2qp0j4[youtube,height=400,width=600]
 ** https://www.youtube.com/watch?v=sUvBNpkxrJo "Fang Bin is second Chinese citizen journalist to vanish while reporting from coronavirus epicentre" by "South China Morning Post"
++
+video::sUvBNpkxrJo[youtube,height=400,width=600]
 * https://en.wikipedia.org/wiki/Li_Zehua[Li Zehua] (https://zh.wikipedia.org/wiki/李泽华_(记者)[李澤華])
 ** YouTube https://www.youtube.com/channel/UCJHUpBCNKrZwBhxfcIrP8Aw
 ** Twitter https://twitter.com/kcrissli
@@ -545,8 +556,10 @@ ____
 See also:
 
 * https://en.wikipedia.org/wiki/Nonviolent_revolution#As_it_relates_to_democracy
-* https://www.youtube.com/watch?v=dXRG7yiqR3I
 * https://en.wikisource.org/wiki/Address_on_the_First_Anniversary_of_the_Alliance_for_Progress
+
+.https://www.youtube.com/watch?v=dXRG7yiqR3I Passage of Kennedy's discourse that contains the quote "Those who make peaceful revolution impossible will make violent revolution inevitable".
+video::Iwpr55PZEJ8[youtube,height=400,width=600]
 
 [[disturbs]]
 ==== Keyword attack profiles disturb me
@@ -798,7 +811,7 @@ It must feel good to have absolute truth in the <<democracy-is-a-religion,Cult o
 
 A scene from the awesome mini-series link:https://en.wikipedia.org/wiki/Seventeen_Moments_of_Spring[Seventeen Moments of Script (1973)] comes to mind.
 
-In link:https://youtu.be/YsXhgzX56cA?t=2086[Episode 7, 34:46], the main character, Stierlitz, who is an undercover Soviet spy in Germany during WW2, travels on a train with a <<nazi,nazi-officer>>.
+In , the main character, Stierlitz, who is an undercover Soviet spy in Germany during WW2, travels on a train with a <<nazi,nazi-officer>>.
 
 The war is almost over, and the desolate officer tells Stierlitz:
 
@@ -824,6 +837,9 @@ Just shout out "Hail Hitler!" and everything will become understandable.
 No more worries.
 ____
 
+.https://youtube.com/watch?v=YsXhgzX56cA&t=2086 Seventeen Moments of Spring (1973), Episode 7, general confession scene.
+video::YsXhgzX56cA[youtube,height=400,width=600,start=2086]
+
 It is amusing that there is a <<russia,Soviet>> movie criticizes dictatorships.
 
 When the dictatorship turns again you our your family, will you fight, or will you just let them do whatever they want because they can never be wrong? See also: <<intolerance>>.
@@ -837,7 +853,7 @@ Also ask <<tiananmen,these guys>>, and <<falun-gong,these>>, and <<xinjiang,thes
 
 One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy Few" (2018)], which which people are forced to be happy. <<nineteen-eighty-four>> also comes to mind of course.
 
-.IGN review of the "We Happy Few" (2018) game. https://www.youtube.com/watch?v=zndzntIDLFE[Source].
+.https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game. 
 video::zndzntIDLFE[youtube,height=400,width=600]
 
 === There are bad things happening all over the world, why don't you fight for those causes as well / instead?
@@ -1070,7 +1086,7 @@ No, just <<richer,inefficient>> and <<war,dangerous>>.
 It is just another non-democratic empire like the Qing Dynasty, we might as well cal it:
 
 ____
-共产朝
+共产朝 +
 The Comunist Dinasty
 ____
 
@@ -1348,8 +1364,8 @@ ____
 Ciro only focus here on negative things to provide content that will <<keyword-attack,activate the Great Firewall>>.
 
 ____
-持华反党。
-爱国恨党。
+持华反党 +
+爱国恨党
 ____
 
 .Round gate at https://en.wikipedia.org/wiki/Yu_Garden[Yu Garden 豫园] in Shanghai. link:++https://commons.wikimedia.org/wiki/File:Shanghai_-_YuYuan_Gardens_and_Old_Town_(584867794).jpg++[Source].
@@ -1501,13 +1517,16 @@ Ah, the eternal question which only God can answer:
 
 Do you really think that the communists will step down if you ask them nicely enough?
 
-A quote from https://en.wikipedia.org/wiki/V_for_Vendetta_(film)[V for Vendetta (2005)] https://www.youtube.com/watch?v=TcoBv6ibh8M
+A quote from https://en.wikipedia.org/wiki/V_for_Vendetta_(film)[V for Vendetta (2005)]:
 
 ____
-Q: What do you think will happen [when the people protest against heir Government]?
+Q: If they do, what do you think will happen [the people protest against their Government]?
 
 A: What usually happens when people without guns stand up to people with guns.
 ____
+
+.https://youtube.com/watch?v=TcoBv6ibh8M V for Vendetta (2005) "What you think will happen" scene.
+video::TcoBv6ibh8M[youtube,height=400,width=600]
 
 How do you think the CCP or any other party got into power and maintained that power in the first place? Violence.
 
@@ -1784,7 +1803,7 @@ Some interesting links:
 
 * https://en.wikipedia.org/wiki/One-China_policy every country has private relations with Taiwan through some trade organizations, they just don't call them embassies
 * http://travel.stackexchange.com/questions/62447/how-can-a-citizen-of-mainland-china-visit-taiwan/62466#comment178495_62466 hi, I want a "not VISA" to Taiwan. Thanks.
-* https://youtu.be/6aZkM_ZLvjE?t=50 (zh) "【這就是科學｜柯文哲】EP3／從癌症治療看政治！除惡務盡→除惡「勿」盡？「與敵共存」才是生存之道！", 柯文哲, 2019-06-26. Ko Wen-je , the mayor of Taipei 台北 and a professor in medicine, applies the concept of isolation and mutation in evolution to Taiwan and China
+* https://youtube.com/watch?v=6aZkM_ZLvjE?t=50 (zh) "【這就是科學｜柯文哲】EP3／從癌症治療看政治！除惡務盡→除惡「勿」盡？「與敵共存」才是生存之道！", 柯文哲, 2019-06-26. Ko Wen-je, the mayor of Taipei 台北 and a professor in medicine, applies the concept of isolation and mutation in evolution to Taiwan and China
 
 News:
 
@@ -1794,13 +1813,17 @@ News:
 image::https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg[height=400]
 
 [[taiwan-number-one]]
-===== Taiwan #1
+===== Taiwan #1 (2915)
 
 2015 meme started by https://en.wikipedia.org/wiki/Z1_Battle_Royale[H1Z1] streamer AngryPug, in which he repeatedly taunts the Chinese streamer Em0 by pretending to be Taiwanese.
 
-* https://www.youtube.com/watch?v=vTqZ9xrxhHk ANGRYPUG's official YouTube upload of the clip
 * https://knowyourmeme.com/memes/taiwan-1
 * https://www.reddit.com/r/OutOfTheLoop/comments/3tz3jq/what_is_the_point_of_the_taiwan_1_thing/
+
+.https://youtube.com/watch?v=vTqZ9xrxhHk ANGRYPUG's official YouTube upload of the clip "Taiwan #1" meme.
+video::vTqZ9xrxhHk[youtube,height=400,width=600]
+
+See also: <<photobombing-like-attacks>>.
 
 [[xinjiang]]
 ==== Xinjiang 新疆
@@ -1813,6 +1836,8 @@ In 2017 - 2018, details of https://en.wikipedia.org/wiki/Uyghurs[Uyghur] internm
 image::https://web.archive.org/web/20191013085312if_/https://i.stack.imgur.com/mQFKa.png[height=600]
 
 * 2019-12: https://www.youtube.com/watch?v=dEkliuqQo-g "A Secret Look Inside a Chinese Labor Program for Uighurs | Visual Investigations" by "The New York Times" published on Dec 30, 2019. Description: "China is relocating Uighurs and other Muslim minorities to urban areas as part of a contentious labor program. The Times obtained rare footage taken inside one."
++
+video::dEkliuqQo-g[youtube,height=400,width=600]
 * 2919-12: Muslim German Turkish Arsenal player link:++https://en.wikipedia.org/wiki/Mesut_%C3%96zil++[Mesut Özil] criticizes concentration camps on Twitter, and China stops broadcasting arsenal matches
 ** https://twitter.com/MesutOzil1088/status/1205439723302469632 (https://web.archive.org/web/20191214233550/https:/twitter.com/MesutOzil1088/status/1205439723302469632[archive])
 ** https://news.sky.com/story/chinas-state-tv-will-no-longer-show-arsenal-match-after-mesut-ozil-remarks-11887171
@@ -1827,8 +1852,10 @@ image::https://web.archive.org/web/20191013085312if_/https://i.stack.imgur.com/m
 ** 2020-02: more leaks containing detailed records of several citizens: https://edition.cnn.com/interactive/2020/02/asia/xinjiang-china-karakax-document-intl-hnk/
 * 2019-09-22 Drone footage of Xinjiang prisoner transfer uploaded to YouTube. TODO confirm location and that these are political prisoners rather than "normal criminals".
 ** Upload sources
-*** https://www.youtube.com/watch?v=gGYoeJ5U7cQ
 *** https://twitter.com/warcombatfear/status/1174031079432310785
+*** https://www.youtube.com/watch?v=gGYoeJ5U7cQ
++
+video::gGYoeJ5U7cQ[youtube,height=400,width=600]
 ** News coverage
 *** https://news.sky.com/story/chinas-detention-of-uighurs-video-of-blindfolded-and-shackled-prisoners-authentic-11815401 Drone footage, video sources:
 ** Reddit: https://www.reddit.com/r/China/comments/d78aog/chilling_video_of_chinese_police_transferring/
@@ -1841,16 +1868,25 @@ image::https://ia601505.us.archive.org/27/items/cirosantilli/Video_still_of_2019
 .<<rebel-pepper>> 2019-07 cartoon showing <<xi-jinping>> claiming to have won the global opinion on the Xinjiang re-education camps because all other dictatorships support him, including <<other-islam-countries-speak-up-for-uyghur,Islamic dictatorships>>. https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source].
 image::https://web.archive.org/web/20191012074352im_/https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html/190716RFA-en-1000.jpg/@@images/c8c9143a-3a01-4116-9322-6aeb4857100f.jpeg[height=400]
 * 2019-07-04 https://www.bbc.co.uk/news/world-asia-china-48825090 "China Muslims: Xinjiang schools used to separate children from families"
+* 2019-06-18 https://www.youtube.com/watch?v=WmId2ZP3h0c "Inside China's 'thought transformation' camps - BBC News" China gives BBC "access" to a chosen show camp where everyone claims is happy and willing to stay. They are however clearly adults being treated like children, taking courses and even having to sing and dance for the camera. https://youtu.be/WmId2ZP3h0c?t=486[486s] is also golden, when the CCP officer Zhang Zhisheng explains how they are <<thoughtcrime,just preventing future crime from happening>>. How can they be so stupid? How can they not see that this is not what the West wants to hear? Amazing dark-comedy like stuff.
++
+video::WmId2ZP3h0c[youtube,height=400,width=600]
 * 2019-05-07 https://www.theguardian.com/world/2019/may/07/revealed-new-evidence-of-chinas-mission-to-raze-the-mosques-of-xinjiang
 * 2019-05-07 https://www.youtube.com/watch?v=ULaJVWOr4ko CNN does a few Xinjiang interviews and sends reporter to visit some of the concentration camps
++
+video::ULaJVWOr4ko[youtube,height=400,width=600]
 * 2019-02-24 http://fortune.com/2019/02/21/thermo-fisher-xinjiang-china-uighurs/
 * 2019-02-17 https://www.scmp.com/news/china/politics/article/2186547/china-data-leak-exposes-vast-hi-tech-surveillance-operation "China data leak exposes vast hi-tech surveillance operation in Xinjiang", leak by SenseNets Technology.
 * https://www.nytimes.com/2019/07/30/world/asia/china-xinjiang.html
 * 2019-03 https://shahit.biz/eng/ database of Xinjiang victims, with precise names, location, date of birth and ID card number of victims and testimonies
 * 2018-12 https://www.youtube.com/watch?time_continue=8&v=dsd1NkCKaNg In full: 'I begged them to kill me' - ex-Xinjiang detainee Mihrigul Tursun gives testimony in the US
++
+video::dsd1NkCKaNg[youtube,height=400,width=600]
 * 2018-11 https://www.bbc.co.uk/news/world-asia-45812419 Xinjiang legalises 're-education' camps
 * 2018-08 https://www.reuters.com/article/us-china-rights-un/u-n-says-it-has-credible-reports-that-china-holds-million-uighurs-in-secret-camps-idUSKBN1KV1SU
 * 2018-07 https://www.youtube.com/watch?v=Eak3WRtcdko Sairagul Sawytbai testifies to the existence of Chinese concentration camps in Xinjiang
++
+video::Eak3WRtcdko[youtube,height=400,width=600]
 * 2018-05 generic report https://jamestown.org/program/evidence-for-chinas-political-re-education-campaign-in-xinjiang/
 * 2018-05 mapping interment camps with satelite imaging:
 ** https://www.albawaba.com/news/mapping-china’s-internment-camps-its-ethnic-minorities-1136100
@@ -1885,14 +1921,14 @@ The dead body from the game over screen was taken from a still from a video of t
 The track is a sample of the https://en.wikipedia.org/wiki/I_Love_Beijing_Tiananmen["I Love Beijing Tiananmen" (我爱北京天安门)] Cultural Revolution song that was popular before <<tiananmen>> and later became an ironic protest song:
 
 ____
-我爱北京天安门
+我爱北京天安门 +
 天安门上太阳升
 ____
 
 which means:
 
 ____
-I love Beijing Tiananmen Square
+I love Beijing Tiananmen Square +
 The sun rises over the Tiananmen
 ____
 
@@ -1901,7 +1937,7 @@ Full song: https://www.youtube.com/watch?v=Is_Z2K7guKs
 .Cover of the Hong Kong 97. https://en.wikipedia.org/wiki/File:Hong_Kong_97_cover.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/en/a/a8/Hong_Kong_97_cover.jpg[height=400]
 
-.The venerable https://en.wikipedia.org/wiki/Angry_Video_Game_Nerd[Angry Video Game Nerd] made a review of Hong Kong 97. https://www.youtube.com/watch?v=M_aXcH1zDEE[Source].
+.https://www.youtube.com/watch?v=M_aXcH1zDEE The venerable https://en.wikipedia.org/wiki/Angry_Video_Game_Nerd[Angry Video Game Nerd] made a review of Hong Kong 97. 
 video::M_aXcH1zDEE[youtube,height=400,width=600]
 
 ===== 2019 Hong Kong anti-extradition bill protests
@@ -1938,6 +1974,7 @@ https://en.wikipedia.org/wiki/Photobombing
 In online video games:
 
 * 2020-04-08 https://www.bloomberg.com/news/articles/2020-04-08/nintendo-s-animal-crossing-becomes-new-hong-kong-protest-ground Animal Crossing
+* <<taiwan-number-one>>
 
 See also: <<keyword-attack>>.
 
@@ -2082,7 +2119,7 @@ image::https://web.archive.org/web/20191011092825if_/https://pbs.twimg.com/media
 image::https://web.archive.org/web/20191013080151if_/https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html/170731Apple-700.jpg[height=400]
 
 .https://www.youtube.com/watch?v=V4WBsahU3X4 https://en.wikipedia.org/wiki/Stephen_Colbert[Stephen Colbert] comments in 2015 on how American films make a good image of China to be allowed in China by censors to increase sales.
-video::V4WBsahU3X4[youtube]
+video::V4WBsahU3X4[youtube,height=400,width=600]
 
 ===== Entertainers who support the CCP
 
@@ -2521,7 +2558,7 @@ The commies are not a fan. But as someone once told me: the commies are not a fa
 
 As mentioned at https://en.wikipedia.org/wiki/Christianity_in_China there are only a few state approved churches under total CCP control, and the others are forbidden. For example one of them is called the https://en.wikipedia.org/wiki/Chinese_Patriotic_Catholic_Association[Chinese Patriotic Catholic Association]! God and CCP on the same sentence. https://en.wikipedia.org/wiki/Pope_Pius_XII[Pope Pius XII] excommunicated people from that organization who were appointing new Bishops!
 
-* 2018-12 https://www.youtube.com/watch?v=zzWApdCNdik 100 Christians detained in China crackdown
+* 2018-12 https://www.youtube.com/watch?v=zzWApdCNdik "100 Christians detained in China crackdown" published by CNN
 * 2018-09 Vatican Christian pope makes deal with China
 +
 https://en.wikipedia.org/wiki/China–Holy_See_relations#September_2018_Holy_See–China_Agreement
@@ -2584,10 +2621,10 @@ With the support of the Communist Party to Qigong movements, it reached 70 milli
 
 Li fled to the USA and lives near New York, where he continues to run the religion as of 2020.
 
-.Tim and Eric's Zone Theory. If you want to stop Falun Gong, don't put them in jail like the dictators. Do it the same way you stop dictators: with <<funny,comedy>>. Otherwise, the dictators remain in power, and next person in jail, will be you.
-video::https://www.youtube.com/watch?v=ClvX7ED8UUI[youtube,width=600,height=400]
+.https://www.youtube.com/watch?v=ClvX7ED8UUI Tim and Eric's Zone Theory. If you want to stop Falun Gong, don't put them in jail like the dictators. Do it the same way you stop dictators: with <<funny,comedy>>. Otherwise, the dictators remain in power, and next person in jail, will be you.
+video::ClvX7ED8UUI[youtube,width=600,height=400]
 
-.https://www.youtube.com/watch?v=GwoO7Nekmpw&feature=youtu.be&t=445 Christine Marie, founder of http://voicesfordignity.com/[Voices for Dignity] which takes care of https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints[FLDS] leaves, was interviewed in VICE documentary "Polygamist Mafia: Escaping The Kingston Clan". While Ciro does not believe Falun Gong is as extreme as FLDS, he does really like the things Christine says. E.g., she calls "cult leaders" with the neutral <<flg-religion,religious>> form <<li-hongzhi,prophet>>, just like Ciro, and mentions the important fact that "And the another thing that the public doesn't realise, is that there are also beautiful thing within those communities". This is the mindset of <<intolerance,tolerance>> that the world needs.
+.https://www.youtube.com/watch?v=GwoO7Nekmpw&t=445 Christine Marie, founder of http://voicesfordignity.com/[Voices for Dignity] which takes care of https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints[FLDS] leaves, was interviewed in VICE documentary "Polygamist Mafia: Escaping The Kingston Clan". While Ciro does not believe Falun Gong is as extreme as FLDS, he does really like the things Christine says. E.g., she calls "cult leaders" with the neutral <<flg-religion,religious>> form <<li-hongzhi,prophet>>, just like Ciro, and mentions the important fact that "And the another thing that the public doesn't realise, is that there are also beautiful thing within those communities". This is the mindset of <<intolerance,tolerance>> that the world needs.
 video::GwoO7Nekmpw[youtube,height=400,width=600,start=445]
 
 ==== Falun Gong is not important to be worth discussing
@@ -2953,8 +2990,8 @@ This is because the CCP has thousands of <<wumao,wumaos>> who could make fake re
 +
 There are basically two ways to do that:
 +
-.  your testimony is done in video form on YouTube clearly showing your face as you make it
-.  links between a notable social media presence that is hard to achieve, e.g. Twitter with many followers, Stack overflow with a lot of rep, and the account
+. your testimony is done in video form on YouTube clearly showing your face as you make it
+. links between a notable social media presence that is hard to achieve, e.g. Twitter with many followers, Stack overflow with a lot of rep, and the account
 +
 Either of those must contain / link to information that uniquely identifies you. Generally, full name, city and date of birth is enough.
 * a precise testimony that states exactly what you saw happen with your own eyes, or heard from people that are very close to you.
@@ -3010,6 +3047,8 @@ But the CCP has changed so much since those days, I hear you say.
 I agree. And <<flg-changed,so has FLG>>.
 
 See also: https://en.wikipedia.org/wiki/Thoughtcrime[thoughtcrime] from <<nineteen-eighty-four>>.
+
+Or if you like shitty movies: https://en.wikipedia.org/wiki/Minority_Report_(film)[Minority Report (2002)].
 
 ===== Movement X tells people to do something bad, therefore the movement should be banned
 
@@ -3068,7 +3107,7 @@ The only question that matters is: should it be banned or not?
 
 Let's just focus on the evidence:
 
-* https://www.youtube.com/watch?v=CedVnJOgwg4&feature=youtu.be "Undercover video reveals brutal treatment of Falun Gong prisoners inside Chinese labor camps" by "FOX 11 Los Angeles" published May 21, 2019. Names mentioned: Fuquan Yin,
+* https://www.youtube.com/watch?v=CedVnJOgwg4 "Undercover video reveals brutal treatment of Falun Gong prisoners inside Chinese labor camps" by "FOX 11 Los Angeles" published May 21, 2019. Names mentioned: Fuquan Yin,
 
 ===== Do you believe in the allegations of organ harvesting made by Falun Gong believers?
 
@@ -3431,11 +3470,14 @@ Jiang is often compared to a toad in a meme what is referred to as toad worship 
 * https://en.wikipedia.org/wiki/Toad_worship
 * https://zh.wikipedia.org/wiki/膜蛤文化
 
-The Chinese also love Jiang's quote in English during an interview with Hong Kong press: https://www.youtube.com/watch?v=y-JPLzj2poY&t=57
+The Chinese also love Jiang's quote in English during an interview with Hong Kong press:
 
 ____
 Too young, too simple, sometimes naive.
 ____
+
+.https://youtube.com/watch?v=y-JPLzj2poY Jiang Zemin saying "Too simple, sometimes naive."
+video::y-JPLzj2poY[youtube,height=400,width=600,start=57]
 
 Jiang also has an amazing array of meme-ready funny expressions.
 
@@ -3501,8 +3543,10 @@ How I find them: <<anti-commie-info>>.
 ** <<biased-media,(biased)>> http://www.xinhuanet.com/english/2019-07/15/c_138229200.htm
 ** the full scanned letter: https://twitter.com/KevinPinner/status/1151868854781526016
 * 2019-07-02 https://www.theguardian.com/world/2019/jul/02/chinese-border-guards-surveillance-app-tourists-phones "Chinese border guards put secret surveillance app on tourists' phones"
-* 2019-06-18 https://www.youtube.com/watch?v=WmId2ZP3h0c "Inside China's 'thought transformation' camps - BBC News" China gives BBC "access" to a chosen show camp where everyone claims is happy and willing to stay. Amazing dark-comedy like stuff.
-* 2019-05-09 https://www.youtube.com/watch?v=t2hBtXdaYsQ&list=PLcZOZrP1P_V5d7RMOKXF1PT70fcfYJpgY&index=2&t=14s Cynthia Liu, daughter of Liu Changming pleas freedom on YouTube, commented upload by CBS, TODO can't find original video on YouTube, maybe they sent straight to CBS?
+* 2019-05-09 https://www.youtube.com/watch?v=t2hBtXdaYsQ Cynthia Liu, daughter of Liu Changming (刘昌明) pleas freedom on YouTube, commented upload by CBS, TODO can't find original video on YouTube, maybe they sent straight to CBS?
++
+video::t2hBtXdaYsQ[youtube,height=400,width=600]
+** 2018-11 https://www.businessinsider.com/liu-changming-china-holds-officials-family-hostage-to-force-return-2018-11 China is holding a renegade official's family hostage to pressure him to come back. Western media, for the love of God, include names in Chinese news titles: Liu Changming (刘昌明), wife Sandra Han, children Victor and Cynthia Liu.
 * 2019-04-28 https://www.bbc.co.uk/news/world-asia-48084019 Hong Kong: Thousands protest against China extradition law
 ** https://www.reddit.com/r/China/comments/auqkdl/biotech_giant_thermo_fisher_stops_selling_dna/
 * 2019-01 https://www.apnews.com/40f7cf4c0c6e43f18121af93f1e418f7 Microsoft Bing https://www.bing.com/ search engine blocked in China
@@ -3534,7 +3578,6 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 
 === News 2018
 
-* 2018-11 https://www.businessinsider.com/liu-changming-china-holds-officials-family-hostage-to-force-return-2018-11 China is holding a renegade official's family hostage to pressure him to come back. Western media, for the love of God, include names in Chinese news titles: Liu Changming, wife Sandra Han, children Victor and Cynthia Liu.
 * 2018-08 https://theintercept.com/2018/08/08/google-censorship-china-blacklist/
 * 2018-06 https://arstechnica.com/tech-policy/2018/06/china-bans-online-mention-of-john-oliver-after-he-mocks-chinas-president/ https://www.dailymotion.com/video/x6m5b3o
 * 2018-05 https://www.whatsonweibo.com/public-shaming-of-drug-users-in-guangdong-drug-related-crimes-in-family-painted-on-houses/
@@ -3623,21 +3666,39 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 === News pre-2015
 
 * 2014 https://www.reddit.com/r/China/comments/4hmhzt/xinjiang_massacre_2014_resulted_in_30005000_deaths/ something very serious happened in Xinjiang.
-* 2014 https://youtu.be/Gq1B3Hgclyo?t=261 http://www.theguardian.com/world/2014/nov/28/china-media-watchdog-bans-wordplay-puns pun control
+* 2014 https://www.theguardian.com/world/2014/nov/28/china-media-watchdog-bans-wordplay-puns "China bans wordplay in attempt at pun control"
 * 2013 https://www.ft.com/content/db8b9e36-1119-11e8-940e-08320fc2a277 Peter Humphrey
 * 2012 https://en.wikipedia.org/wiki/Nuctech. One of the most blocked on Wikipedia according to: link:complete-gfw-rulebook-for-wikipedia-v3.0.pdf[] Nutech Namiba Hu Haifeng corruption scandal 纳米比亚威视胡海峰腐败丑闻
-* 2011 https://en.wikipedia.org/wiki/2011_Chinese_pro-democracy_protests https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD Chinese pro-democracy protests
-* 2010 http://news.bbc.co.uk/2/hi/asia-pacific/8682145.stm 10 month Xinjiang internet blackout
+* 2011 2011 Chinese pro-democracy protests https://en.wikipedia.org/wiki/2011_Chinese_pro-democracy_protests | https://zh.wikipedia.org/wiki/中国茉莉花活动
+* 2010 http://news.bbc.co.uk/2/hi/asia-pacific/8682145.stm 10 month Xinjiang Internet blackout
 * 2009 https://en.wikipedia.org/wiki/Tan_Zuoren#2009_court_case Ai Weiwei documentary about it: https://aiweiwei.com/documentaries/disturbing-the-peace/index.html
-* 2008 https://en.wikipedia.org/wiki/Tofu-dreg_project 豆腐渣工程 https://en.wikipedia.org/wiki/China%27s_Unnatural_Disaster:_The_Tears_of_Sichuan_Province
-* 2008 https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response https://zh.wikipedia.org/wiki/2011年甬台温铁路列车追尾事故 Wenzhou train collision
-* 2008 https://en.wikipedia.org/wiki/2008_Tibetan_unrest https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E8%A5%BF%E8%97%8F%E9%AA%9A%E4%B9%B1 Tibetan unrest 西藏骚乱
-** https://file.wikileaks.org/file/tibet-protest-photos/ Good gory photos from the event.
-* 2005 https://en.wikipedia.org/wiki/Dongzhou_protests https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%B4%B2%E4%BA%8B%E4%BB%B6 Dongzhou protests
+* 2008 https://en.wikipedia.org/wiki/Tofu-dreg_project | https://zh.wikipedia.org/wiki/豆腐渣工程 https://en.wikipedia.org/wiki/China%27s_Unnatural_Disaster:_The_Tears_of_Sichuan_Province
+* 2008 Wenzhou train collision https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response https://zh.wikipedia.org/wiki/2011年甬台温铁路列车追尾事故
+* 2008 Tibetan unrest
+** https://en.wikipedia.org/wiki/2008_Tibetan_unrest | https://zh.wikipedia.org/wiki/2008年西藏骚乱
+** Videos:
++
+.https://youtube.com/watch?v=B-tEi4uLM_E "Hundreds of Tibetan protesters clash with police after anti-China protest" published by AP Archive.
+video::B-tEi4uLM_E[youtube,height=400,width=600]
+** https://file.wikileaks.org/file/tibet-protest-photos/ (http://web.archive.org/web/20200410200709/https://file.wikileaks.org/file/tibet-protest-photos/[archive]) Good gory photos from the event.
+* 2005 https://en.wikipedia.org/wiki/Dongzhou_protests | https://zh.wikipedia.org/wiki/东洲事件 Dongzhou protests
 * 1999 http://www.lionsroar.com/apple-thinks-different-about-the-dalai-lama-in-china-2/ Apple censors Dalai Lama for China
-* https://en.wikipedia.org/wiki/1986_Chinese_student_demonstrations https://zh.wikipedia.org/wiki/%E5%85%AB%E5%85%AD%E5%AD%A6%E6%BD%AE 八六学潮
-* 1987–1989 https://en.wikipedia.org/wiki/1987%E2%80%9389_Tibetan_unrest https://zh.wikipedia.org/wiki/1989%E5%B9%B4%E6%8B%89%E8%90%A8%E9%AA%9A%E4%B9%B1. Videos: https://www.youtube.com/watch?v=0jylh1qfOG4, https://www.youtube.com/watch?v=qMZgoRuPJBg Tibetan unrest 年拉萨骚乱
-* 1978, 1997 https://en.wikipedia.org/wiki/Beijing_Spring https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5 https://en.wikipedia.org/wiki/Democracy_Wall https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99
+* 1986 Chinese student demonstrations https://en.wikipedia.org/wiki/1986_Chinese_student_demonstrations | https://zh.wikipedia.org/wiki/八六学潮
+* 1987-1989 Tibetan unrest
+** https://en.wikipedia.org/wiki/1987–1989_Tibetan_unrest | https://zh.wikipedia.org/wiki/1989年拉萨骚乱
+** Videos:
++
+.https://youtube.com/watch?v=qMZgoRuPJBg "Troops stormed the Tibetan holy site the Jokhang Temple and beat monks"
+video::qMZgoRuPJBg[youtube,height=400,width=600]
++
+.https://youtube.com/watch?v=3uQcGcGGepw "Latest Spate Of Violent Unrest In Lhasa And The Imposition Of Martial Law" by AP Archive
+video::3uQcGcGGepw[youtube,height=400,width=600]
+* 1978-1979 Beijing Spring
+** https://en.wikipedia.org/wiki/Beijing_Spring | https://zh.wikipedia.org/wiki/北京之春
+** https://en.wikipedia.org/wiki/Xidan[Xidan (西单)] Democracy Wall https://en.wikipedia.org/wiki/Democracy_Wall | https://zh.wikipedia.org/wiki/西单民主墙
++
+.https://en.wikipedia.org/wiki/File:Xidan_Wall,_May_1979.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/2/2a/Xidan_Wall%2C_May_1979.jpg[height=400]
 
 [[tiananmen]]
 ==== Tiananmen Square Protests of 1989 六四事件
@@ -3687,7 +3748,7 @@ image::https://web.archive.org/web/20190607142501im_/http://www.ursulagauthier.f
 image::https://web.archive.org/web/20191208063503if_/https://static01.nyt.com/images/2019/05/30/world/00tiananmen-images-15/00tiananmen-images-15-superJumbo.jpg[height=500]
 
 .A Chinese couple on a bicycle take cover beneath an underpass as tanks deploy overhead in eastern Beijing, on June 5, 1989. AP Photo/Liu Heung Shing. This one is almost poetic. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
-image::https://web.archive.org/web/20190816074546im_/https://cdn.theatlantic.com/assets/media/img/photo/2014/06/tiananmen-square-25-years-ago/t42_06050128/main_1200.jpg?1420497920[height=500]
+image::https://web.archive.org/web/20190816074546im_/https://cdn.theatlantic.com/assets/media/img/photo/2014/06/tiananmen-square-25-years-ago/t42_06050128/main_1200.jpg?1420497920[height=800]
 
 .Family members try to comfort a mother who has just learned of her son's death after he was killed by soldiers at Tiananmen Square, June 4. https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary[Source].
 image::https://web.archive.org/web/20190610212031/https://img.buzzfeed.com/buzzfeed-static/static/2019-06/4/12/asset/buzzfeed-prod-web-02/sub-buzz-30462-1559664775-8.jpg?downsize=1600:*&output-format=auto&output-quality=auto[height=500]
@@ -3748,17 +3809,21 @@ CNN video of Tank Man: https://www.youtube.com/watch?v=YeFzeNAHEhU[] but not sho
 
 Several quick cuts by CBS news that give a good overview: https://www.youtube.com/watch?v=vSbx352cn8A
 
-Tank man song (坦克人歌曲) by Xu Lin (徐琳): https://www.youtube.com/watch?v=z8A623aImt8
+Full lyrics: https://gist.github.com/cirosantilli/698afcd05c5ad94297000f8c60b43473
+
+The <<tank-man-song,Tank Man song>> is really good:
 
 ____
-我是坦克人
+我是坦克人 +
 站在天安门
 
-I am tank man
+I am tank man +
 I stand at Tiananmen
 ____
 
-Full lyrics: https://gist.github.com/cirosantilli/698afcd05c5ad94297000f8c60b43473
+[[tank-man-song]]
+.https://www.youtube.com/watch?v=z8A623aImt8 Tank Man song (坦克人歌曲) by Xu Lin (徐琳).
+video::z8A623aImt8[youtube,height=400,width=600]
 
 .Arthur Tsang's photo of Tank Man. https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/[Source].
 image::https://web.archive.org/web/20190808091019im_/http://s.wsj.net/public/resources/images/BN-CZ715_tam2_G_20140529081612.jpg[height=400]
@@ -3819,7 +3884,7 @@ image::https://web.archive.org/web/20200131012103im_/https://chineseposters.net/
 .2017 Xu Xiaodong (MMA) Vs. Wei Lei (Tai Chi) summary GIF. https://www.inkstonenews.com/society/chinas-mma-fighter-xu-xiaodong-fight-survival/article/3047417[Source].
 image::http://web.archive.org/web/20200201020038if_/https://cdn.i-scmp.com/sites/default/files/d8/images/2020/01/24/01.gif[height=400]
 
-.2017 Xu Xiaodong (MMA) Vs. Wei Lei (Tai Chi) full fight. https://www.youtube.com/watch?v=0XwXaCbfIGw[Source].
+.https://www.youtube.com/watch?v=0XwXaCbfIGw 2017 Xu Xiaodong (MMA) Vs. Wei Lei (Tai Chi) full fight.
 video::0XwXaCbfIGw[youtube,height=400,width=600]
 
 [[programthink]]
@@ -3855,6 +3920,7 @@ The commies have messed with the wrong guy's <<ciro-santilli-mother-in-law-jail,
 一个程序员在专业网站上发布六四和法轮功的消息，目的是触怒中共，封杀网站，从而激起程序员的反抗。因为岳母被抓半个月。
 ____
 
+[[serpentza-laowhy86]]
 === Winston Sterzel (SerpentZA) and Matthew Tye (laowhy86)
 
 https://en.wikipedia.org/wiki/Winston_Sterzel
@@ -4036,9 +4102,11 @@ Beijing based, but does publish stuff that seems to be very sensitive:
 [[videos]]
 == Videos 视频
 
-See my "China Politics" playlist for a collection of all sensitive videos I have ever found on YouTube: https://www.youtube.com/playlist?list=PLcZOZrP1P_V5d7RMOKXF1PT70fcfYJpgY Ping me if you find any I haven't included.
+https://www.youtube.com/playlist?list=PLcZOZrP1P_V5d7RMOKXF1PT70fcfYJpgY
 
-Interesting videos that were deleted / made private since I added them:
+<<ciro-santilli>>'s "China Politics" playlist is a collection of all sensitive videos I have ever found on YouTube: Ping him if you find any he hasn't included.
+
+Interesting videos that were deleted/made private since he added them:
 
 * 2019-04-17 http://web.archive.org/web/20190424021220/https://www.youtube.com/watch?v=lPnnHCeRH3w the Leica ad: https://www.theverge.com/2019/4/19/18508009/leica-china-censored-ad-tiananmen-square-protests-weibo Re-upload by SCMP: https://www.youtube.com/watch?v=lcuLZDHLFt8
 * 2019-05-18 https://www.youtube.com/watch?v=qAEUafI_lyI not on Web Archive, lesson learnt
@@ -4256,7 +4324,8 @@ https://en.wikipedia.org/wiki/Golden_Shield_Project | https://zh.wikipedia.org/w
 And so, the spirit of Internet freedom that the Chinese themselves had at the start, was crushed :
 
 ____
-越过长城，走向世界
+越过长城
+走向世界
 
 Across the Great Wall, we can reach every corner in the world.
 ____
@@ -4455,24 +4524,30 @@ ____
 
 Bibliography:
 
-* https://gking.harvard.edu/files/gking/files/50c.pdf "How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument" by "Gary King, Jennifer Pan, Margaret E. Roberts" published on 2017-04-09
-* https://www.youtube.com/watch?v=yCnnPf2OnHo "Chinese Internet Trolls Get Paid 50 Cents For Every Comment" by "laowhy86" published on 2018-09-27
 * 2020-03-12 https://twitter.com/jenniferatntd/status/1238076579466674178 Jennifer Zeng's 曾錚 publishing of purported Wumao guidelines with with translation. Translated title: "CAC (https://en.wikipedia.org/wiki/Cyberspace_Administration_of_China[Cyberspace Administration of China]) Internal Documentation for Internet Commentators (no spreading)"
+* 2018-09-27 https://www.youtube.com/watch?v=yCnnPf2OnHo "Chinese Internet Trolls Get Paid 50 Cents For Every Comment" by <<serpentza-laowhy86,laowhy86>>
+* 2017-04-09 https://gking.harvard.edu/files/gking/files/50c.pdf "How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument" by "Gary King, Jennifer Pan, Margaret E. Roberts"
+* https://www.rfa.org/english/news/china/files-05202015150018.html
+* 2015-05-20 https://www.rfa.org/english/news/china/files-05202015150018.html "Hackers Leak Files Showing Inner Workings of 'China's 50-Cent Army'", hacker group name "Unicorn Nocturne". TODO material, silly reporters that don't give links
+* 2014 emails of some Wumaos were hacked/phished and leaked at https://xiaolan.me/50-cent-party-jxgzzg.html (down, no web archive, but http://archive.is/BNNQe[]) revealing operational details
+** https://qz.com/311832/hacked-emails-reveal-chinas-elaborate-and-absurd-internet-propaganda-machine/
 
 C.K. Hung's wumao reply strategy: https://ckhung0.blogspot.com/2017/07/50-cents-party.html see also: <<reply-policy>>.
 
 [[social-credit-system]]
 === Social Credit System 社会信用体系
 
-https://en.wikipedia.org/wiki/Social_Credit_System
+https://en.wikipedia.org/wiki/Social_Credit_System | https://zh.wikipedia.org/wiki/社会信用体系
 
-* https://www.youtube.com/watch?v=Dkw15LkZ_Kw "China’s "Social Credit System" Has Caused More Than Just Public Shaming (HBO)" by "VICE News" published on 2018-12-12
-* https://www.youtube.com/watch?v=0cGB8dCDf3c "A Look Inside China’s Social Credit System | NBC News Now" by "NBC News" published on 2019-06-04
+* 2019-06-04 https://www.youtube.com/watch?v=0cGB8dCDf3c "A Look Inside China’s Social Credit System | NBC News Now" by "NBC News"
+* 2018-12-12 https://www.youtube.com/watch?v=Dkw15LkZ_Kw "China’s "Social Credit System" Has Caused More Than Just Public Shaming (HBO)" by "VICE News". https://youtu.be/Dkw15LkZ_Kw?t=238[328s] shows how you can donate money to the party to increase your score. This is not a hidden practice, they were filmed and everyone is showing their faces. What a brilliant idea that could never ever lead to corruption! Ciro's jaw just dropped. How can the commies not hide this kind of shit from the West, but hide other stuff the West couldn't care less about?
++
+video::Dkw15LkZ_Kw[youtube,height=400,width=600]
 
 [[belt-and-road-initiative]]
 === Belt and Road Initiative 一带一路
 
-https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
+https://en.wikipedia.org/wiki/Belt_and_Road_Initiative | https://zh.wikipedia.org/wiki/一带一路
 
 [[communist-youth-league]]
 === Communist Youth League of China 中国共产主义青年团
@@ -4779,7 +4854,7 @@ For more daily needs, when you don't want to spend more money and time at a rest
 [[dumplings]]
 === Dumplings 饺子 (jiao3 zi)
 
-https://en.wikipedia.org/wiki/Jiaozi
+https://en.wikipedia.org/wiki/Jiaozi | https://zh.wikipedia.org/wiki/饺子
 
 A staple food of North-east China.
 
@@ -4789,9 +4864,9 @@ Just boil 10-15 for 10 minutes and you have a decent ready-made meal!
 
 The perfect cooking technique includes:
 
-* at first, stir constantly so that they won't stick to the hot bottom of the pan, which will cause the peel to break
+* at first, before they float, stir often with chopsticks so that they won't stick to the hot bottom of the pan, which will cause the peel to break
 * don't ever ever ever overcook. Cook the minimum possible so that it is not raw. This also means taking the jiaozi out of the hot water as soon as they are done.
-* after the dumplings rise to the surface after a few minutes, let it boil, and then put some cold water on top of the hot water. This helps the jiazi keep a strong peel.
+* after the dumplings rise to the surface after a few minutes, let it boil, and then put some cold water on top of the hot water. Repeat this two, three or four times until they are fully cooked. This helps the jiazi keep a strong peel.
 
 The best way to eat them is to pour some vinegar and ready-to-eat spicy preparations like <<laoganma>> or Ciro's favorite, <<fansaoguang-wild-brake-pickles>> in the bowl, and then dip them one by one.
 
@@ -4801,10 +4876,13 @@ Can also be made by hand if you have the patience.
 
 <<ciro-santilli>> could basically eat those every 3-4 days and not get tired.
 
+.https://www.youtube.com/watch?v=YQkXA1xglU8 How to Cook Frozen Dumplings (Boil) by "Yongle Kitchen" shows the cool water pouring process.
+video::YQkXA1xglU8[youtube,height=400,width=600]
+
 [[buns]]
 === Chinese buns 包子 (bao1 zi)
 
-https://en.wikipedia.org/wiki/Baozi
+https://en.wikipedia.org/wiki/Baozi | https://zh.wikipedia.org/wiki/包子
 
 You can buy them frozen on bags with about 4 for about 4 dollars.
 
@@ -4838,7 +4916,7 @@ You have to learn how to open them with your front teeth.
 
 Once you do that, you start eating them nonstop like a machine until the bag is empty.
 
-.Video of a Chinese dude eating sunflower seeds for 9 hours non-stop. That's a good brand to get BTW: https://zh.wikipedia.org/wiki/洽洽食品[Chacha Food (洽洽食品)]. https://www.youtube.com/watch?v=4Zh0TiEd63k[Source].
+.https://www.youtube.com/watch?v=4Zh0TiEd63k Chinese dude eating sunflower seeds for 9 hours non-stop. That's a good brand to get BTW: https://zh.wikipedia.org/wiki/洽洽食品[Chacha Food (洽洽食品)].
 video::4Zh0TiEd63k[youtube,height=400,width=600]
 
 [[broad-beans]]
@@ -4865,7 +4943,7 @@ Just stay away from the Chicken flavoured one. https://www.urbandictionary.com/d
 .You can even buy Laoganma on Amazon! https://www.amazon.com/Laoganma-Crispy-Chilli-Oil-Grams/dp/B003WC0RME[Source].
 image::https://web.archive.org/web/20190412211211if_/https://images-na.ssl-images-amazon.com/images/I/91t77uD2UiL._SL1500_.jpg[height=400]
 
-."What is Lao Gan Ma, and can you make it at home?" by "Chinese Cooking Demystified" published on Nov 19, 2019. Explains how it comes from Guizhou province cuisine (neighbours Sichuan). https://www.youtube.com/watch?v=nkTQTS2RSCU[Source].
+.https://www.youtube.com/watch?v=nkTQTS2RSCU "What is Lao Gan Ma, and can you make it at home?" by "Chinese Cooking Demystified" published on Nov 19, 2019. Explains how it comes from Guizhou province cuisine (neighbours Sichuan). 
 video::nkTQTS2RSCU[youtube,height=400,width=600]
 
 [[fansaoguang-wild-brake-pickles]]
@@ -4875,7 +4953,7 @@ https://en.wikipedia.org/wiki/Fiddlehead_fern | https://en.wikipedia.org/wiki/Pt
 
 This is the best thing to eat with <<dumplings>> ever!!!
 
-The other flavours of the same brand are also very much worth trying.
+Some other flavours of the same brand are also very much worth trying, e.g. the https://en.wikipedia.org/wiki/Enokitake[Enokitake] (https://zh.wikipedia.org/wiki/金針菇[金针菇]) one. Others are a bit boring.
 
 Oily, spicy and sour.
 
@@ -4907,7 +4985,11 @@ There are also dedicated hot pot restaurants, but <<ciro-santilli>> is not a fun
 YouTube explains it pretty well, no need for their fancy ying yang pans though, a rice cooker will do just fine:
 
 * https://www.youtube.com/watch?v=UQZcPyn-cDU ingredient choice
++
+video::UQZcPyn-cDU[youtube,height=400,width=600]
 * https://www.youtube.com/watch?v=Fqv9hNoiQEs shows the actual eating
++
+video::Fqv9hNoiQEs[youtube,height=400,width=600]
 
 [[restaurants]]
 == The best Chinese restaurants outside of China 中国以外最好的中国饭店
