@@ -24,7 +24,7 @@ toc::[]
 This repo has the following goals:
 
 * allow copy pasting links to answers to questions/comments that have been posted a million times before by <<wumao>>, mostly under: <<faq>>. This was the original goal.
-* serve as a censorship bomb to block GitHub in China: <<keyword-attack>>. Or more realistically get added to the <<github-gov-takedowns>> hall of fame.
+* serve as a censorship bomb to block GitHub in China: <<keyword-attack>> to destroy the <<gfw>> and <<dictator-needs-gfw,therefore the CCP>>. Or more realistically get added to the <<github-gov-takedowns>> hall of fame.
 * be a fun and sometimes silly source of Chinese mostly anti-CCP culture like a better https://en.uncyclopedia.co/wiki/China[Unencyclopedia] / http://web.archive.org/web/20191209021646/http://encyclopediadramatica.rs/China[Encyclopedia Dramatica] without the stupid stereotype jokes. Just quickly browse the pictures with Ctrl + F "Figure" and have fun.
 * serve as a place where people can post interesting related stuff in the issues: https://github.com/cirosantilli/china-dictatorship/issues see also: <<shitpost>>
 * highlight positive about China's culture outside of its shitty government, such as <<the-best-chinese-supermarket-food-products,food>> and <<music>>. This has two goals:
@@ -58,7 +58,7 @@ The goal is to put them in a position where they have to choose between either:
 * having military power
 * remaining a <<dictatorship,dictatorship>>
 
-but not both, since having both means that they will <<war,start WW3 and destroy humanity>>
+but not both, since having both means that they will <<war,start WW3 and destroy humanity>>.
 
 Related attack: <<photobombing-like-attacks>>.
 
@@ -238,7 +238,7 @@ Good timelines so without a fucking paywall:
 
 Timeline:
 
-* 2019-12-27 several genomics companies had sequenced the coronavirus and noticed the similarity to Sars
+* 2019-12-27 several genomics companies had sequenced the coronavirus and noticed the similarity to Sars. According to GeneBank, https://www.ncbi.nlm.nih.gov/nuccore/MT019529[] the sample was collected on and 23-Dec-2019 and published on 04-FEB-2020
 * 2020-01-03 findings were sent to the https://en.wikipedia.org/wiki/Chinese_Center_for_Disease_Control_and_Prevention[Centre for Disease Control] (CDC, https://zh.wikipedia.org/wiki/中国疾病预防控制中心[中国疾病预防控制中心]) in Beijing, but then the https://en.wikipedia.org/wiki/National_Health_Commission[Chinese National Health Commission] (https://zh.wikipedia.org/wiki/中华人民共和国国家卫生健康委员会[中华人民共和国国家卫生健康委员会]), China's top medical authority, issued orders to not talk about it and destroy samples
 * 2020-01-08 CDC team went to Wuhan to see the situation, was not informed that contagiousness of the disease had been confirmed
 * 2020-01-20 the findings were made public, in an interview with Zhong Nanshan. He later said in an interview that the local government should be blamed: https://youtu.be/LK1Pz8FmryM?t=132
@@ -1130,6 +1130,8 @@ Finally, even after the border, there is still the possibility that Ciro could b
 
 Therefore, if you think that living in China is fundamental to understand it, please just explain what you think one can learn from the experience instead. Do you really need to live there to see its censorship machine working? It would arguably be harder to see it from the inside.
 
+See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship->>.
+
 Bibliography: https://github.com/cirosantilli/china-dictatorship/issues/93
 
 [[is-ciro-santilli-chinese]]
@@ -1907,13 +1909,17 @@ Led to: <<sport-event-live-broadcast-image-attacks>>.
 
 https://en.wikipedia.org/wiki/Photobombing
 
+In online video games:
+
+* 2020-04-08 https://www.bloomberg.com/news/articles/2020-04-08/nintendo-s-animal-crossing-becomes-new-hong-kong-protest-ground Animal Crossing
+
 See also: <<keyword-attack>>.
 
 ===== Appropriation attack
 
 An appropriation attack is one where the attackers attempt to associate an existing symbol to their cause.
 
-For example, during the <<2019-hong-kong-anti-extradition-bill-protests>> attackers attempted to use this technique to associate a generic https://en.wikipedia.org/wiki/Chun-Li[Chinese Chun-Li-like] character Mei from Blizzard's link:++https://en.wikipedia.org/wiki/Overwatch_(video_game)++[Overwatch game] to try and get it blocked in China after the gaming company punished a pro gamer for defending the Hong Kong protests. Coverage https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10 (http://web.archive.org/web/20191012094950/https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10[archive]).
+For example during the <<2019-hong-kong-anti-extradition-bill-protests>> attackers attempted to use this technique to associate a generic https://en.wikipedia.org/wiki/Chun-Li[Chinese Chun-Li-like] character Mei from Blizzard's link:++https://en.wikipedia.org/wiki/Overwatch_(video_game)++[Overwatch game] to try and get it blocked in China after the gaming company punished a pro gamer for defending the Hong Kong protests. Coverage https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10 (http://web.archive.org/web/20191012094950/https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10[archive]).
 
 .Mei from Blizzard’s Overwatch was used in an attempted <<appropriation-attack>> during the <<2019-hong-kong-anti-extradition-bill-protests>>. https://twitter.com/marnofavonlea/status/1182557311539150849[Source].
 image::https://web.archive.org/web/20191013075823if_/https://pbs.twimg.com/media/EGlJmSEUYAE7F7G?format=jpg&name=900x900[height=600]
@@ -2072,8 +2078,10 @@ ____
 
 Once that is taken care of, a few good options are:
 
-* if you are a psychopath, while hiding your thoughts, manipulate your enemies, infiltrate the power circles, and go up the ladder
-* if you are an innovator, leave China and come work for the West. Don't strengthen commie power.
+* if you are a psychopath, while hiding your thoughts, manipulate your enemies, infiltrate the corporate, political and military power circles, and go up the ladder
+* if you are an technological innovator, leave China and come work for the West. Don't strengthen commie power.
+
+If you don't manage to leave China, don't do any technological work. Go work on the fields or washing dishes. Working well for Chinese companies makes the Chinese DIctatorship stronger and <<war,more deadly>>. See also: <<embargoes-make-the-dictatorship-stronger>>.
 
 And regardless: remember your kids that the commies are bastards every day.
 
@@ -2820,7 +2828,7 @@ Conversely, do you understand the full sequence of experiments that imply quantu
 
 More importantly: what do you propose that should be done about it? Should we kill followers? Or is jail enough?
 
-Also do let me know when you have achieved irrefutable proof that democracy / freedom of speech are the optimal ways to organize the government: <<democracy-is-a-religion>>.
+Also do let me know when you have achieved irrefutable proof that democracy/freedom of speech are the optimal ways to organize the government: <<democracy-is-a-religion>>.
 
 See also: <<flg-religion>>
 
@@ -2856,7 +2864,7 @@ Try sending an email to <<li-hongzhi,LHZ>> asking him to <<flg-verifiable,prove 
 
 Ciro know that, and that supporting FLG is "bad" for his public image with most Chinese, including those that are against censorship.
 
-But without censorship, there will be democracy, and with democracy FLG followers will have voting rights, and FLG will become legal.
+But <<dictator-needs-gfw,without censorship, there will be democracy>>, and with democracy FLG followers will have voting rights, and FLG will become legal.
 
 Ciro thinks that the situation is very similar to <<flg-religion,Scientology>> in the USA today: most people dislike it, but believe that you can believe whatever you want.
 
