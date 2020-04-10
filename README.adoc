@@ -1219,7 +1219,7 @@ Finally, even after the border, there is still the possibility that Ciro could b
 
 Therefore, if you think that living in China is fundamental to understand it, please just explain what you think one can learn from the experience instead. Do you really need to live there to see its censorship machine working? It would arguably be harder to see it from the inside.
 
-See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship->>.
+See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
 
 Bibliography: https://github.com/cirosantilli/china-dictatorship/issues/93
 
