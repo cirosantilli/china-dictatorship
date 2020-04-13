@@ -4991,6 +4991,9 @@ Can also be made by hand if you have the patience.
 
 <<ciro-santilli>> could basically eat those every 3-4 days and not get tired.
 
+.Fresh Asia Brand (香源) product line "hand crafted water dumplings" (手工水餃) is a good brand to buy if you can get it. https://www.orientalmart.co.uk/fresh-asia-brand-dumplings-pork-and-chinese-leaf-[Source].
+image::http://web.archive.org/web/20200413093814if_/https://www.orientalmart.co.uk/route/images/products/753/small/1523115362-020452000.jpg[height=400]
+
 .https://www.youtube.com/watch?v=YQkXA1xglU8 How to Cook Frozen Dumplings (Boil) by "Yongle Kitchen" shows the cool water pouring process.
 video::YQkXA1xglU8[youtube,height=400,width=600]
 
@@ -5109,7 +5112,7 @@ video::Fqv9hNoiQEs[youtube,height=400,width=600]
 [[congee]]
 === Congee 粥 (zhou1)
 
-https://en.wikipedia.org/wiki/Congee#China
+https://en.wikipedia.org/wiki/Congee#China | https://zh.wikipedia.org/wiki/粥
 
 A thick rice/cereal/bean porridge. Amazing for breakfast.
 
