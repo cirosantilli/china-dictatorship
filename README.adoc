@@ -272,6 +272,7 @@ News coverage:
 * https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1 "China spent the crucial first days of the Wuhan coronavirus outbreak arresting people who posted about it online and threatening journalists" (http://web.archive.org/web/20200124113400/https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1?r=US&IR=T[archive])
 * https://www.vice.com/en_us/article/g5xykx/you-can-now-go-to-jail-in-china-for-criticizing-beijings-coronavirus-response "You Can Now Go to Jail in China for Criticizing Beijing’s Coronavirus Response"
 * https://www.vice.com/en_us/article/qjdn4d/doctors-in-wuhan-are-still-dying-and-beijing-is-still-trying-to-silence-them Ai Fen's (艾芬) report of how the situation was mishandling was censored
+* 2020-04-13 https://edition.cnn.com/2020/04/12/asia/china-coronavirus-research-restrictions-intl-hnk/index.html "Beijing tightens grip over coronavirus research, amid US-China row on virus origin". The Government can now veto papers from being published on the subject of the origin of COVID-19.
 
 Some believe that the Chinese government grossly under-reported death counts. Official figures were about only 3300 deaths, in the insanely densely populated Wuhan area, while Italy had reached 10000 deaths:
 
@@ -543,7 +544,7 @@ Dictatorships crush minorities much more than democracies.
 
 Do think the majority of the Chinese people would vote to put 50 year old <<falun-gong>> meditating <<ciro-santilli-mother-in-law-jail,aunties in jail>>, if the CCP hadn't made a huge propaganda campaign and used an iron fist?
 
-Are the Chinese really that selfish to vote for this oppression, even as the <<censorship,free media>> would show videos of meditating old ladies in jail on national television? I don't believe this.
+Are the Chinese really that selfish to vote for this oppression, even as the <<censorship,free media>> would show videos of meditating old ladies in jail on national television? <<ciro-santilli>> does not believe this.
 
 Minorities are put in jail because the CCP fears them. Dictatorships can only survive if there is zero difference in opinion in the population.
 
@@ -5104,6 +5105,36 @@ video::UQZcPyn-cDU[youtube,height=400,width=600]
 * https://www.youtube.com/watch?v=Fqv9hNoiQEs shows the actual eating
 +
 video::Fqv9hNoiQEs[youtube,height=400,width=600]
+
+[[congee]]
+=== Congee 粥 (zhou1)
+
+https://en.wikipedia.org/wiki/Congee#China
+
+A thick rice/cereal/bean porridge. Amazing for breakfast.
+
+You can buy them as dry air tight uncooked cereal/bean mixtures, and there are different types.
+
+You can also buy the ingredients separately of course, but it requires more effort.
+
+If you get the air-tight bag, you can also buy some extra missing ingredients to taste, notably https://en.wikipedia.org/wiki/Jujube[jujubes] (https://zh.wikipedia.org/wiki/枣[枣]).
+
+Then you just boil them in a rice cooker for a few hours.
+
+It is also possible to buy them ready-to-eat in cans, but those are nowhere near as good.
+
+One particular type which is very good is: https://en.wikipedia.org/wiki/Laba_congee[Laba congee] (eight treasure congee, 八宝粥).
+
+Then, to eat it, you will want to add salty side dishes, all of which can be bought from the Chinese supermarket, since the congee itself is just mildly sweet and not salty at all:
+
+* https://en.wikipedia.org/wiki/Salted_duck_egg[cooked salted duck] (https://zh.wikipedia.org/wiki/鹹鴨蛋[咸鸭蛋])
+* https://en.wikipedia.org/wiki/Fermented_bean_curd[fermented bean curd] (https://zh.wikipedia.org/wiki/腐乳[腐乳]). Wangzhihe (https://zh.wikipedia.org/wiki/王致和[王致和]) is a good brand, <<ciro-santilli>> prefers the red ones instead of the white ones. https://www.amazon.com/Wangzhihe-Fermented-Traditional-Bean-DragonMall/dp/B00786YL72[Sample Amazon link].
+
+.The HONOR, 康樂 (full name: Honor Products, 康樂產品) brand Eight treasure congee (八寶粥) is a good brand to buy if you can find it. https://www.hiyou.co/product/honor-eight-treasure-porridge/[Source].
+image::https://web.archive.org/web/20200413090640if_/https://www.koreashop.co.uk/images/201712/goods_img/3723_G_1512738516831.jpg[height=500]
+
+.https://www.youtube.com/watch?v=DIxbJxNRpX0 Video showing how to make eight treasure congee from scratch by "Asian garden 2 table" published on Feb 2, 2020.
+video::DIxbJxNRpX0[youtube,height=400,width=600]
 
 [[restaurants]]
 == The best Chinese restaurants outside of China 中国以外最好的中国饭店
