@@ -548,7 +548,7 @@ Are the Chinese really that selfish to vote for this oppression, even as the <<c
 
 Minorities are put in jail because the CCP fears them. Dictatorships can only survive if there is zero difference in opinion in the population.
 
-The famous https://en.wikipedia.org/wiki/First_they_came_...[First they came ...] text comes to mind in which Martin Niemöller regrets not having supported the rights of his opponents that were unfairely treated by the Nazi Government:
+The famous https://en.wikipedia.org/wiki/First_they_came_...[First they came ...] text comes to mind in which <<nazi,the priest Martin Niemöller regrets not having supported the rights of his opponents that were unfairly treated by the Nazi Government>>:
 
 ____
 First they came for the socialists, and I did not speak out +
@@ -1833,9 +1833,22 @@ See also: <<western-democracies-have-invaded-other-countries-and-crushed-separat
 
 https://en.wikipedia.org/wiki/Taiwan | https://zh.wikipedia.org/wiki/中华民国
 
-Taiwan is not a case of separatism.
+If you are interested in Taiwan, one important programmer forum is: <<ptt>>.
+
+Some interesting links:
+
+* https://youtube.com/watch?v=6aZkM_ZLvjE?t=50 (zh) "【這就是科學｜柯文哲】EP3／從癌症治療看政治！除惡務盡→除惡「勿」盡？「與敵共存」才是生存之道！", 柯文哲, 2019-06-26. Ko Wen-je, the mayor of Taipei 台北 and a professor in medicine, applies the concept of isolation and mutation in evolution to Taiwan and China
+
+[[one-china-policy]]
+===== One China policy 一个中国
+
+https://en.wikipedia.org/wiki/One-China_policy | https://zh.wikipedia.org/wiki/一个中国
+
+Taiwan is not a case of <<separatism>>.
 
 Taiwan is a completely separate country split due to civil war, long ago.
+
+Almost every country, and all reasonably powerful countries, have diplomatic relations with Taiwan. They just don't call them diplomatic relations to not piss off China so they can keep doing business.
 
 The fact that most countries in the world does officially recognize Taiwan as a country is a joke, considering that the only thing keeping it afloat is the West's military threat.
 
@@ -1849,23 +1862,7 @@ If China's claim to Taiwan is valid, then Taiwan also has an equally valid claim
 
 If China's claim to Taiwan is valid, then so will it's claim to any other country.
 
-If Taiwan is a part of China, why doesn't China put the Chinese flag on all major Taiwanese government buildings?
-
-Oh, I forgot, it is because they have absolutely no control over Taiwan. Just like the have absolutely no control over any other country.
-
-China, if you want to claim that Taiwan is a part of you, just invade them already. Or just stop this joke.
-
-Someone once told Ciro:
-
-____
-Taiwan should not be considered a country by China, because then it would not join back to China when China becomes a democracy, and would be used by the USA to do evil things like they did in the Middle East
-____
-
-Reply:
-
-____
-China claiming that Taiwan is a part of them only drives Taiwan closer to the West! Who wants to be part of a dictatorship unless you have been brainwashed by one?
-____
+China, if you want to claim that Taiwan is a part of you, just grow some balls and invade them already. Or just stop this stupid joke.
 
 Interesting quote from https://www.theatlantic.com/international/archive/2019/07/taiwans-status-geopolitical-absurdity/593371/
 
@@ -1873,20 +1870,54 @@ ____
 Taiwan's Status Is a Geopolitical Absurdity
 ____
 
-If you are interested in Taiwan, one important programmer forum is: <<ptt>>.
+And https://www.economist.com/asia/2017/02/16/americas-affirmation-of-the-one-china-policy-pleased-taiwan-too calls the One China policy a:
 
-Some interesting links:
+____
+polite fiction
+____
 
-* https://en.wikipedia.org/wiki/One-China_policy every country has private relations with Taiwan through some trade organizations, they just don't call them embassies
-* http://travel.stackexchange.com/questions/62447/how-can-a-citizen-of-mainland-china-visit-taiwan/62466#comment178495_62466 hi, I want a "not VISA" to Taiwan. Thanks.
-* https://youtube.com/watch?v=6aZkM_ZLvjE?t=50 (zh) "【這就是科學｜柯文哲】EP3／從癌症治療看政治！除惡務盡→除惡「勿」盡？「與敵共存」才是生存之道！", 柯文哲, 2019-06-26. Ko Wen-je, the mayor of Taipei 台北 and a professor in medicine, applies the concept of isolation and mutation in evolution to Taiwan and China
+http://travel.stackexchange.com/questions/62447/how-can-a-citizen-of-mainland-china-visit-taiwan/62466#comment178495_62466 hi, I want a "not VISA" to Taiwan. Thanks.
+
+A well educated Mainlander who lived outside of China once told Ciro:
+
+____
+Taiwan should not be considered a country by China, because then it would not join back to China when China becomes a democracy, and would be used by the USA to do evil things like they did in the Middle East
+____
+
+Ciro was shocked. He considered that person highly intelligent and not fully brainwashed! Reply:
+
+____
+China claiming that Taiwan is a part of them only drives Taiwan closer to the West! Who wants to be part of a dictatorship unless you have been brainwashed by one?
+____
+
+They truly believe in <<fear-of-west>>.
+
+The US first caved in in 1972 with the https://en.wikipedia.org/wiki/Shanghai_Communiqué[Shanghai Communiqué].
 
 News:
+
+* 2020 <<corona>> and Taiwan:
+** Taiwan was at a disadvantage during since it was not part of the https://en.wikipedia.org/wiki/World_Health_Organization[World Health Organization] and therefore could not get information as fast and influence decisions
++
+.https://youtube.com/watch?v=fASh2_RzMuE WHO officer https://en.wikipedia.org/wiki/Bruce_Aylward[Bruce Alyward] pretends not to hear question from https://en.wikipedia.org/wiki/RTHK[Radio Television Hong Kong (RTHK)] about the possibility of Taiwan's membership in the WHO during a one-to-one Skype interview, https://www.theguardian.com/world/2020/mar/30/senior-who-adviser-appears-to-dodge-question-on-taiwans-covid-19-response[reference].
+video::fASh2_RzMuE[youtube,height=400,width=600]
 
 * 2020-03-27 https://www.reuters.com/article/us-taiwan-usa/u-s-increases-support-for-taiwan-in-recognition-battle-with-china-idUSKBN21E0B7 "U.S. President Donald Trump has signed into law an act that requires increased U.S. support for Taiwan internationally". But he didn't recognize it as a country. Semi bullshit.
 
 .The flag of Taiwan. Like most modern countries, Taiwan has one. https://en.wikipedia.org/wiki/File:Flag_of_the_Republic_of_China.svg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg[height=400]
+
+.Presidential Office Building of Taiwan | https://zh.wikipedia.org/wiki/總統府_(臺灣) (总统府 (台湾)). What is that flag we see on top of the central government building of Taiwan? It appears to have a blue rectangle on the top left! https://en.wikipedia.org/wiki/File:TaipeiROCPresidentialOfficeBuilding.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TaipeiROCPresidentialOfficeBuilding.jpg/800px-TaipeiROCPresidentialOfficeBuilding.jpg[height=400]
+
+.It is fun to see that some small random Latin American countries https://en.wikipedia.org/wiki/Paraguay–Taiwan_relations[like Paraguay] recognize only Taiwan and not Mainland China. Brave warriors!!! https://en.wikipedia.org/wiki/File:Two_Chinas.svg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/3/32/Two_Chinas.svg[height=400]
+
+.Washington DC TECRO. Instead of "embassies", Taiwan has https://en.wikipedia.org/wiki/Taipei_Economic_and_Cultural_Representative_Office["Taipei Economic and Cultural Representative Offices" (TECROs)] https://zh.wikipedia.org/wiki/臺北經濟文化代表處[(台北经济文化代表处|臺北經濟文化代表處)] The just happen to issue VISAs and passports like embassies, but remember, they are not embassies. No flag you see? This is because idiotic countries don't allow TECROs to have the Taiwan flag. In 2019 Senator Ted Cruz planned on passing a law to allow that though: https://www.taiwannews.com.tw/en/news/3825086[]. https://en.wikipedia.org/wiki/File:Taipei_Economic_and_Cultural_Representative_Office_in_the_United_States_from_VOA_(1).jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/3/31/Taipei_Economic_and_Cultural_Representative_Office_in_the_United_States_from_VOA_%281%29.jpg[height=400]
+
+.2014 cartoon by D Nguyen summarizing the Taiwan China relationship in history. Featuring: fatter and fatter <<mao-zedong>> on first three cartoons to the left, likely <<deng-xiaoping>> to left on the last, and https://en.wikipedia.org/wiki/Chiang_Kai-shek[Chiang Kai-shiek] (https://zh.wikipedia.org/wiki/蔣中正[蔣中正]) to the right. TODO middle figure on last cartoon. TODO find proper attribution source, originally seen at: https://i.redd.it/xb5qr3asfns41.jpg[].
+image::http://web.archive.org/web/20200415092444if_/https://i.redd.it/xb5qr3asfns41.jpg[height=600]
 
 [[taiwan-number-one]]
 ===== Taiwan #1 (2915)
