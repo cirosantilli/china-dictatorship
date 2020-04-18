@@ -4753,16 +4753,30 @@ Notable wumaos should be investigated by intelligence agencies.
 
 If it is determined that they are knowingly funded by China, they should be put into jail as foreign agents.
 
-There is a tradeoff between privacy rights and snuffing out wumaos, and it is hard to decide where to set the line. But snuffing out wumaos is important, and must be done. Here for example he discredits <<serpentza-laowhy86,SerpentZA>>: https://www.youtube.com/watch?v=GRqcA04FtmM Reddit discussion: https://www.reddit.com/r/China/comments/au8az3/exscientologist_nathan_rich_is_a_convicted_felon/
+There is a tradeoff between privacy rights and snuffing out wumaos, and it is hard to decide where to set the line. But snuffing out wumaos is important, and must be done.
 
-People against blocking wumaos. Those silly Democrats never prepare well enough for war:
+If we were to give up on privacy completely, one possible rule would be: block anyone that lives in China and whose revenue therefore cannot be investigated properly by your government to determine if they are funded by the CCP.
+
+Here are some people completely against blocking wumaos. Those silly Democrats never prepare well enough for war:
 
 * https://www.nytimes.com/2016/09/22/opinion/how-to-counter-chinas-global-propaganda-offensive.html
 ** it mentions the "Countering Information Warfare Act of 2016" https://www.congress.gov/bill/114th-congress/senate-bill/2692[], which is exactly what Western countries should do
 
 Wumaos are particularly easy to spot on <<censorship-monitoring,Western websites banned in China>> and when written in English, since there is no way that strong pro-CCP opinions would get any support in such circunstances:
 
-* https://www.youtube.com/channel/UCaSlyjhR4WC7QhYuaivxb6g/videos Nathan Rich. As mentioned at: https://medium.com/swlh/how-china-is-influencing-youtubers-into-posting-state-propaganda-db72acf18dfa "His vlogging career is inexplicably successful. He has 385,000 subscribers on his channel, a huge amount for someone with so little time and so few videos on the platform."
+* https://www.youtube.com/channel/UCaSlyjhR4WC7QhYuaivxb6g/videos Nathan Rich. As mentioned at: https://medium.com/swlh/how-china-is-influencing-youtubers-into-posting-state-propaganda-db72acf18dfa:
++
+____
+His vlogging career is inexplicably successful. He has 385,000 subscribers on his channel, a huge amount for someone with so little time and so few videos on the platform.".
+____
++
+https://www.reddit.com/r/China/comments/au8az3/exscientologist_nathan_rich_is_a_convicted_felon/ mentions another interesting very strong evidence:
++
+____
+His videos feature perfect Chinese in the subtitles along with Chinese video titles, meaning that he is almost certainly having these videos produced by someone else/and or a group of people. I can guarantee that based on his pronunciation of the few Chinese words he says in the video, his Chinese ability should not be anywhere close to fluent.
+____
++
+And at https://www.youtube.com/watch?v=GRqcA04FtmM he says <<serpentza-laowhy86,SerpentZA>> is a fraud "because he criticizes China".
 * <<quora>> is completely infested by wumaos as of 2020, see more information on that section
 
 Bibliography:
