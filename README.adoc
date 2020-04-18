@@ -2393,6 +2393,8 @@ This is because you do not understand how important the concept of <<richer,free
 
 The only thing that would work is if the Chinese government makes a gov-takedown on this repo: <<github-gov-takedowns>>, in which case: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>.
 
+China's GitHub censorship history is documented at: https://en.wikipedia.org/wiki/Censorship_of_GitHub#China
+
 ===== GitHub gov-takedowns
 
 https://github.com/github/gov-takedowns
