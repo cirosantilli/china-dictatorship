@@ -283,11 +283,6 @@ Maybe China is saying the truth this time. Maybe the rapid Dictatorship response
 
 On the other hand, one may argue that the "city closure" measures were stronger/faster than in democracies.
 
-Popular GitHub repo documenting personal experiences and media reports:
-
-* https://github.com/2019ncovmemory/nCovMemory "新冠肺炎记忆：报道、非虚构与个人叙述" 2020 New coronavirus pneumonia memories: reports, non-fictional and personal accounts.
-* https://github.com/memoryhonest/nCovMemory-en translation project
-
 Doctor Li Wenliang (李文亮) reported the virus, but was told by authorities to stay quiet, and later died from the virus, becoming somewhat of a martyr:
 
 * https://www.bbc.com/news/world-asia-china-51409801
@@ -312,6 +307,15 @@ image::https://web.archive.org/web/20200209173001im_/https://ichef.bbci.co.uk/ne
 
 .Corona Xi mural of <<xi-jinping>> morphed into a Coronavirus by https://en.wikipedia.org/wiki/Lushsux[Lushux]. Fuller composition view: https://twitter.com/lushsux/status/1243830638966235136[]. Reddit called it https://www.reddit.com/r/pics/comments/fqku03/winnie_the_flu/[Winnie the Flu] in a reference to <<winnie-the-pooh>>. https://www.reddit.com/r/pics/comments/fqku03/winnie_the_flu/[Source].
 image::http://web.archive.org/web/20200401093459im_/https://i.redd.it/ulqhu0q38fp41.jpg[height=500]
+
+====== nCovMemory
+
+Popular GitHub repo documenting personal experiences and media reports:
+
+* https://github.com/2019ncovmemory/nCovMemory "新冠肺炎记忆：报道、非虚构与个人叙述" 2020 New coronavirus pneumonia memories: reports, non-fictional and personal accounts.
+* https://github.com/memoryhonest/nCovMemory-en translation project
+*
+Other interesting GitHub repositories: <<other-interesting-github-information-repositories>>.
 
 ====== People arrested for reporting on the 2019 Corona Virus
 
@@ -2196,8 +2200,6 @@ Western government should prevent companies from complying to Chinese censorship
 
 Citizens should boycott such companies and require them to be punished.
 
-https://github.com/caffeine-overload/bandinchina contains a "List of companies who have apologized to the Chinese government and implemented censorship requests". It only lists companies that implemented censorship outside of China however (with Hong Kong, <<taiwan,Taiwan>> and Macau defined as outside of China), therefore it is basically a Taiwan flag takedown + Hong Kong / Taiwan censorship list: https://github.com/caffeine-overload/bandinchina/pull/56#issuecomment-541230090 | https://github.com/caffeine-overload/bandinchina/pull/84
-
 See also: <<western-companies-that-sell-censorship-technology-to-dictatorships>>
 
 Some hell known companies and events:
@@ -2226,6 +2228,16 @@ image::https://web.archive.org/web/20191013080151if_/https://www.rfa.org/english
 
 .https://www.youtube.com/watch?v=V4WBsahU3X4 https://en.wikipedia.org/wiki/Stephen_Colbert[Stephen Colbert] comments in 2015 on how American films make a good image of China to be allowed in China by censors to increase sales.
 video::V4WBsahU3X4[youtube,height=400,width=600]
+
+===== bandinchina GitHub repository
+
+https://github.com/caffeine-overload/bandinchina
+
+Contains a "List of companies who have apologized to the Chinese government and implemented censorship requests".
+
+It only lists companies that implemented censorship outside of China however (with Hong Kong, <<taiwan,Taiwan>> and Macau defined as outside of China), therefore it is basically a Taiwan flag takedown + Hong Kong / Taiwan censorship list: https://github.com/caffeine-overload/bandinchina/pull/56#issuecomment-541230090 | https://github.com/caffeine-overload/bandinchina/pull/84
+
+Other interesting GitHub repositories: <<other-interesting-github-information-repositories>>.
 
 ===== Entertainers who support the CCP
 
@@ -2425,6 +2437,12 @@ But remember that we also have: <<mirrors>>, and that this can be easily rendere
 ** https://github.com/taibangle/awesome-china
 ** https://github.com/taibangle/lennon-wall
 
+Mentioned in other sections:
+
+* <<nine-nine-six-icu>>
+* <<nCovMemory>>
+* <<bandinchina-github-repository>>
+
 [[zhihu]]
 ==== Zhihu 知乎
 
@@ -2597,7 +2615,15 @@ Added my Noodle shop to maps: https://www.google.co.uk/maps/place/Tiananmen+Squa
 +
 Leach websites that picked it up: http://kvalster.se/Falu/Uthyres/Lagenheter/Gammelvagen_49_1417351
 
-Quora is also shitty because wumaos can downvote your answer privately regardless of reputation and make it become collapsed as "Answer may need improvement", which means it goes to the bottom and readers have to click an "expand collapsed answers" button to see it, so that very few people will ever see it. Then have to appeal and wait for moderators to evaluate it. This happened for example at: https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli (see also <<t-shirt>>). Ciro appealed in 2020-03-10 and the answer was reinstated on day later, but by then the question was already not being suggested as much to readers, and the other wumao answers (which criticize the USA rather than answering the question about China).
+Quora is also shitty because wumaos can downvote your answer privately regardless of reputation and make it become collapsed as "Answer may need improvement", which means it goes to the bottom and readers have to click an "expand collapsed answers" button to see it, so that very few people will ever see it.
+
+Then have to appeal and wait for moderators to evaluate it.
+
+This happened for example at: https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli (see also <<t-shirt>>).
+
+Ciro appealed in 2020-03-10 and the answer was reinstated on day later, but by then the question was already not being suggested as much to readers, and the other wumao answers (which criticize the USA rather than answering the question about China).
+
+While there is some probability that the answers themselves are not wumaos, their upvoters almost certainly are and must be investigated.
 
 Other shitty aspects of Quora include:
 
@@ -2606,7 +2632,7 @@ Other shitty aspects of Quora include:
 
 As a result, on the few occasions that Ciro posts on Quora, all content will also be mirrored here. Ciro's China Quora answers include:
 
-* https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli[What would happen if I walked around Beijing with a t-shirt that said "freedom of speech is pretty great"?] see also: <<t-shirt>>
+* https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli[What would happen if I walked around Beijing with a t-shirt that said "freedom of speech is pretty great"?] (http://archive.is/PxjJA[archive]) see also: <<t-shirt>>
 * https://www.quora.com/What-is-the-net-worth-of-Xi-Jinping/answer/Ciro-Santilli[What is the net worth of Xi Jinping?] see also: <<panama-papers>>
 
 [[ptt]]
@@ -3707,6 +3733,8 @@ Coverage:
 * https://www.reddit.com/r/China/comments/b927sk/tencent_xiaomi_and_others_block_github_page/
 * https://www.reddit.com/r/cscareerquestions/comments/b8t8cc/overworked_chinese_developers_gather_on_github_to/
 
+Other interesting GitHub repositories: <<other-interesting-github-information-repositories>>.
+
 .996.ICU logo. https://github.com/996icu[Source].
 image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercontent.com/u/48942249[height=400]
 
@@ -4713,11 +4741,29 @@ In 2014, almost 15 years later, <<russia>> finally caught up, what a relief: <<r
 
 https://en.wikipedia.org/wiki/50_Cent_Party | https://zh.wikipedia.org/wiki/网络评论员
 
+They can be classified as a form of https://en.wikipedia.org/wiki/Information_warfare[information warfare] (https://zh.wikipedia.org/wiki/信息战[信息战]).
+
 A wise person once said:
 
 ____
 It is impossible to distinguish wumaos, idiots and <<not-chinese,brain washed>> people. So we just call all of them wumaos.
 ____
+
+Notable wumaos should be investigated by intelligence agencies.
+
+If it is determined that they are knowingly funded by China, they should be put into jail as foreign agents.
+
+There is a tradeoff between privacy rights and snuffing out wumaos, and it is hard to decide where to set the line. But snuffing out wumaos is important, and must be done. Here for example he discredits <<serpentza-laowhy86,SerpentZA>>: https://www.youtube.com/watch?v=GRqcA04FtmM Reddit discussion: https://www.reddit.com/r/China/comments/au8az3/exscientologist_nathan_rich_is_a_convicted_felon/
+
+People against blocking wumaos. Those silly Democrats never prepare well enough for war:
+
+* https://www.nytimes.com/2016/09/22/opinion/how-to-counter-chinas-global-propaganda-offensive.html
+** it mentions the "Countering Information Warfare Act of 2016" https://www.congress.gov/bill/114th-congress/senate-bill/2692[], which is exactly what Western countries should do
+
+Wumaos are particularly easy to spot on <<censorship-monitoring,Western websites banned in China>> and when written in English, since there is no way that strong pro-CCP opinions would get any support in such circunstances:
+
+* https://www.youtube.com/channel/UCaSlyjhR4WC7QhYuaivxb6g/videos Nathan Rich. As mentioned at: https://medium.com/swlh/how-china-is-influencing-youtubers-into-posting-state-propaganda-db72acf18dfa "His vlogging career is inexplicably successful. He has 385,000 subscribers on his channel, a huge amount for someone with so little time and so few videos on the platform."
+* <<quora>> is completely infested by wumaos as of 2020, see more information on that section
 
 Bibliography:
 
