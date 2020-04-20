@@ -4,8 +4,6 @@
 
 -   [2015 - How China guards the Xi creation myth](http://www.bbc.com/news/magazine-34549744)
 
--   <https://github.com/lurongkai/anti-baidu>
-
 -   if you type "tvtropes Ciro Santilli" on Google, it gives these two pages:
 
     - <http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes>

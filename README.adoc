@@ -275,6 +275,7 @@ News coverage:
 
 Some believe that the Chinese government grossly under-reported death counts. Official figures were about only 3300 deaths, in the insanely densely populated Wuhan area, while Italy had reached 10000 deaths:
 
+* 2020-04-19 https://www.youtube.com/watch?v=Nr280LWjJT0&t=2198 Trump says on a White House briefing he does not believe China's case count due 
 * 2020-04-01 https://www.bloomberg.com/news/articles/2020-04-01/china-concealed-extent-of-virus-outbreak-u-s-intelligence-says CIA speaks
 * 2020-03-29 https://www.dailymail.co.uk/news/article-8165717/Locals-Wuhan-believe-42-000-people-died-coronavirus.html Reports of funerary urns sold
 
@@ -1040,6 +1041,27 @@ While we are at it, some interesting news:
 * 2017 http://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay
 * 2016 https://news.vice.com/en_us/article/kzgkv3/russians-now-need-a-passport-to-watch-pornhub
 * 1995 Vladislav Listyev https://en.wikipedia.org/wiki/Vladislav_Listyev | https://ru.wikipedia.org/wiki/Листьев,_Владислав_Николаевич
+
+Poisonings: Russia apparently has a long list of poisoning political enemies: https://nypost.com/2018/06/23/inside-russias-long-history-of-poisoning-political-enemies/
+
+* https://en.wikipedia.org/wiki/Poison_laboratory_of_the_Soviet_secret_services[Poison laboratory of the Soviet secret services] (https://ru.wikipedia.org/wiki/Токсикологическая_лаборатория_НКВД_—_НКГБ_—_МГБ[Токсикологическая лаборатория НКВД — НКГБ — МГБ])
+* <<skripal>>
+* 2012 Alexander Perepilichny Перепеличный, Александр Юрьевич https://en.wikipedia.org/wiki/Alexander_Perepilichny | https://ru.wikipedia.org/wiki/Перепеличный,_Александр_Юрьевич
+* 2004 Anna Politkovskaya Анна Политковская https://en.wikipedia.org/wiki/Anna_Politkovskaya | https://ru.wikipedia.org/wiki/Политковская,_Анна_Степановна
+* 2004 Viktor Yushchenko Ющенко, Виктор Андреевич https://en.wikipedia.org/wiki/Viktor_Yushchenko | https://ru.wikipedia.org/wiki/Ющенко,_Виктор_Андреевич
+* <<litvinenko>>
+
+Other political murders or attempts:
+
+* 2015 Boris Nemtsov Немцов, Борис Ефимович https://en.wikipedia.org/wiki/Boris_Nemtsov | https://ru.wikipedia.org/wiki/Немцов,_Борис_Ефимович
+
+Some other interesting political suppression lists:
+
+* https://en.wikipedia.org/wiki/List_of_journalists_killed_in_Russia[list of journalists killed in Russia] (https://ru.wikipedia.org/wiki/Список_журналистов,_убитых_в_России[Список журналистов, убитых в России]).
+* https://en.wikipedia.org/wiki/List_of_Soviet_and_Russian_assassinations[List of Soviet and Russian assassinations]
+* 2017 https://www.washingtonpost.com/news/worldviews/wp/2017/03/23/here-are-ten-critics-of-vladimir-putin-who-died-violently-or-in-suspicious-ways/ "Here are 10 critics of Vladimir Putin who died violently or in suspicious ways"
+
+The Russians have very different style to the Chinese, who are much more subtle, and just put people in jail or handicap them in several ways without killing them.
 
 [[putin]]
 ===== Putin Путин 普京 (1999-2008, 2012-∞)
@@ -2166,7 +2188,7 @@ Do not underestimate the CCP and its control over every Chinese companies and pe
 
 This is true for all countries however, and we do not reproach China for its secret service, e.g. <<snowden>> used https://en.wikipedia.org/wiki/Edward_Snowden#NSA_sub-contractee_as_an_employee_for_Dell[Dell] as an NSA front-end.
 
-The point is that the West should not underestimate this menace.
+The point is that the West should not underestimate this menace that comes from a <<dictatorship>>.
 
 Some Chinese spy stories:
 
@@ -2174,10 +2196,6 @@ Some Chinese spy stories:
 ** https://www.smh.com.au/national/defecting-chinese-spy-offers-information-trove-to-australian-government-20191122-p53d1l.html
 * 2019-11: Jerry Chun Shing Lee, naturalized American, convicted for being double agent while working at CIA after being in custody for 2 years
 ** https://www.nbcnews.com/politics/justice-department/former-cia-officer-sentenced-19-years-conspiring-chinese-spies-n1089341
-
-Stories showing how big Chinese companies are closely involved with the government:
-
-* 2019-11 https://www.forbes.com/sites/zakdoffman/2019/11/29/has-huaweis-darkest-secret-just-been-exposed-by-this-new-report/#7896db9d4061 Xinjiang Papers reveal the extent of Huawei's involvement in <<xinjiang>>
 
 ===== The West must ban the Chinese telecommunications software and hardware
 
@@ -2189,16 +2207,36 @@ They are an entry point to spying, censorship and fake news.
 ** https://www.reddit.com/r/China/comments/fug8i1/the_chinese_tiktok_just_began_an_uninterrupted/ "The Chinese Tik-Tok just began an uninterrupted propaganda stream."
 * Zoom https://en.wikipedia.org/wiki/Zoom_Video_Communications | https://zh.wikipedia.org/wiki/Zoom
 ** 2020-04-03 https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/ 'Zoom's encryption is "not suited for secrets" and has surprising links to china, researchers discover"
-* Huawei https://en.wikipedia.org/wiki/Huawei | https://zh.wikipedia.org/wiki/华为
-** Just look at the name of the company: 华 (China) 为 (to do something for)
-** in 2020 the UK was trying hard to get kicked out of the 5 eyes in 2020 by using 5G equipment from Huawei
-*** https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html (https://web.archive.org/web/20200129023355/https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html[archive]) "UK will allow Huawei to help build its 5G network despite US pressure"
-
-."When you send a good joke from your Huawei phone", <<xi-jinping>> is also listening and laughing with you, girls. https://i.redd.it/nodgcqmwtcg31.jpg[Source].
-image::http://web.archive.org/web/20190814074955/https://i.redd.it/nodgcqmwtcg31.jpg[height=600]
 
 .2020-03-27 photo showing https://en.wikipedia.org/wiki/Boris_Johnson[UK Prime Minister Boris Johnson] using Zoom on a Cabinet meeting (a high level Government meeting) during <<corona>>. If you don't properly ban risky dictatorship-linked software, it will get used at the highest levels of Government by clueless people. https://news.sky.com/story/coronairus-cabinet-talks-held-on-zoom-days-after-software-was-banned-by-ministry-of-defence-11963889[Source].
 image::http://web.archive.org/web/20200404102642im_/https://e3.365dm.com/20/03/1600x900/skynews-zoom-cabinet-coronavirus_4955732.jpg?20200326102528[height=400]
+
+====== Huawei 华
+
+* https://en.wikipedia.org/wiki/Huawei
+* https://zh.wikipedia.org/wiki/华为
+
+Just look at the Chinese name of the company:
+
+* 华 (China)
+* 为 (to do something for)
+
+How can the West not see this?
+
+No proof is needed. They belong to a <<dictatorship>>, and therefore must not be trusted. Doing so is always a risk which we should not take.
+
+At any point the Chinese government could make a request that they cannot deny.
+
+Some news:
+
+* 5G 2019-2020
+** in 2020 the UK was trying hard to get kicked out of the 5 eyes in 2020 by using 5G equipment from Huawei
+** https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html (https://web.archive.org/web/20200129023355/https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html[archive]) "UK will allow Huawei to help build its 5G network despite US pressure"
+** 2020-04-17 only after more than 10 thousand people died in the country during <<corona>> did the brits finally change their minds: https://nypost.com/2020/04/17/uk-moves-to-drop-huawei-as-5g-vendor-citing-china-coronavirus-transparency/ "UK moves to drop Huawei as 5G vendor, citing China coronavirus transparency"
+* 2019-11 https://www.forbes.com/sites/zakdoffman/2019/11/29/has-huaweis-darkest-secret-just-been-exposed-by-this-new-report/#7896db9d4061 "Has Huawei’s Darkest Secret Just Been Exposed By This New Surveillance Report?" Xinjiang Papers reveal the extent of Huawei's involvement in <<xinjiang>>
+
+."When you send a good joke from your Huawei phone", <<xi-jinping>> is also listening and laughing with you, girls. https://i.redd.it/nodgcqmwtcg31.jpg[Source].
+image::http://web.archive.org/web/20190814074955/https://i.redd.it/nodgcqmwtcg31.jpg[height=600]
 
 ===== What should Western media do about China?
 
@@ -2464,6 +2502,12 @@ Mentioned in other sections:
 * <<nine-nine-six-icu>>
 * <<nCovMemory>>
 * <<bandinchina-github-repository>>
+* https://github.com/jasonqng/chinese-keywords mentioned at <<where-can-i-find-good-words-for-a-keyword-attack>>
+* https://github.com/programthink/zhao from <<programthink>>
+
+Non-information but also interesting:
+
+* https://github.com/lurongkai/anti-baidu
 
 [[zhihu]]
 ==== Zhihu 知乎
