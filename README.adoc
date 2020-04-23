@@ -435,6 +435,7 @@ Even if it is not, it does not matter, since Ciro spends so little time doing it
 .https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)[House of Cards] S01E02 "Nobody can hear you. Nobody cares about you. Nothing will come of this." GIF. https://houseoflessons.tumblr.com/post/43967209684/on-protesters-nobody-can-hear-you-nobody-cares[Source].
 image::https://web.archive.org/save/_embed/http://78.media.tumblr.com/c958931381d9efa62f158d885f3ca811/tumblr_mirhy5eQPY1s6tut4o1_r1_500.gif[height=400]
 
+[[embargo]]
 ==== Embargoes make the dictatorship stronger
 
 The <<keyword-attack,keyword attack>> is basically an embargo.
@@ -1559,7 +1560,7 @@ See: <<famous>>.
 [[cia-funding]]
 ===== Is Ciro Santilli's china-dictatorship campaign funded or otherwise supported by some organization?
 
-Sure, the CIA sends ciro 10 thousand USD checks from time to time, but that doesn't change at all what he would be doing.
+Sure, the CIA sends Ciro 10 thousand USD checks from time to time, but that doesn't change at all what he would be doing.
 
 Just kidding.
 
@@ -1721,7 +1722,7 @@ so maybe the most effective approach is to use both keywords and images to get t
 .<<chrysanthemium-xi-jinping>> has been used by Ciro Santilli as a profile picture censored image attack
 image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
 
-This type of attack is essentially an embargo.
+This type of attack is essentially an <<embargo>>.
 
 See also: <<photobombing-like-attacks>>.
 
@@ -2135,6 +2136,19 @@ Led to: <<sport-event-live-broadcast-image-attacks>>.
 
 === What should all pro-democracy people do about China?
 
+A propaganda slogan from a https://en.wikipedia.org/wiki/French_Resistance[French Resistance] flyer (see also <<nazi>>):
+
+____
+To obey is to betray. +
+To disobey is to serve.
+
+Obéir c'est trahir. +
+Désobéir c'est servir.
+____
+
+."Obéir c'est trahir. Désobéir c'est servir." flyer featuring the https://en.wikipedia.org/wiki/Cross_of_Lorraine[cross of Lorraine] https://www.larousse.fr/encyclopedie/images/Obéir_cest_trahir_Désobéir_cest_servir/1314227[Source].
+image::https://web.archive.org/web/20190206052201im_/https://larousse.fr/encyclopedie/data/images/1314227-Obéir_cest_trahir_Désobéir_cest_servir.jpg[height=400]
+
 ==== Photobombing-like attacks
 
 https://en.wikipedia.org/wiki/Photobombing
@@ -2360,7 +2374,7 @@ Once that is taken care of, a few good options are:
 * hide your thoughts, manipulate your enemies, infiltrate the corporate, political and military power circles, and go up the ladder
 * if you are an technological innovator, leave China and come work for the West. Don't strengthen commie power.
 
-If you don't manage to do either of the above, don't do any technological work. Go work on the fields or washing dishes. Working well for Chinese companies makes the Chinese <<dictatorship,Dictatorship>> stronger and <<war,more deadly>>. See also: <<embargoes-make-the-dictatorship-stronger>>.
+If you don't manage to do either of the above, don't do any technological work. Go work on the fields or washing dishes. Working well for Chinese companies makes the Chinese <<dictatorship,Dictatorship>> stronger and <<war,more deadly>>. See also: <<embargo>>.
 
 And regardless: remember your kids that the commies are bastards every day.
 
@@ -6163,7 +6177,7 @@ Words:
 [[查]]
 ==== 查 (cha2, check)
 
-Mnemonic: every **dawn** <<旦>>, men have to **check** if their penises are hard as **wood** <<木>>, and if so they have to stay in bed for a while longer because it is too embarassing to walk out like that, see also: https://en.wikipedia.org/wiki/Morning_wood
+Mnemonic: every **dawn** <<旦>>, men have to **check** if their penises are hard as **wood** <<木>>, and if so they have to stay in bed for a while longer because it is too embarrassing to walk out like that, see also: https://en.wikipedia.org/wiki/Morning_wood
 
 Words:
 
