@@ -118,7 +118,7 @@ Finally, the political powers of each website decide what is allowed or not on t
 
 Infinite duplicate pool:
 
-* https://github.com/cirosantilli/china-dictatorship/labels/meant-to-be-used
+* https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ameant-to-be-used+
 * https://github.com/caffeine-overload/bandinchina/issues/89
 
 ==== Is Ciro Santilli making programming contributions with the main intent of promoting your political agenda?
@@ -366,39 +366,7 @@ Some arguments include:
 
 * the people who will actually fight and die on the front can't vote against it
 * dictators have huge power, so if they put it in their heads that they want to start a war, it is much harder for sensible people to stop them
-* dictators need <<fear-of-west,to keep the people in fear all the time to keep their power>>, and a war is a great way to achieve that
-
-[[fear-of-west]]
-==== The commies exaggerate the threat of the West to keep in power
-
-This is a common strategy, but the West is not as evil as they say:
-
-____
-Once upon a time, there was a farmer with a farm.
-
-One day, the animals on the farm started feeling a bit trapped, and started bumping against the fence to get out.
-
-The farmer, however, was smart, and told the animals:
-
-_____
-Careful! There is a wolf outside! If you go out, you will be eaten by the wolf!
-_____
-
-The animals, were not that smart, and listened to the farmer, they were afraid!
-
-From time to time, one of the animals would disappear (and without their knowledge, reappear on the farmer's dinner table).
-
-But the farmer kept giving the animals delicious food without them making any effort, so they decided to believe the farmer's explanation that animal had escaped and been eaten by the wolf.
-
-Maybe, there was actually a wolf outside. But if they had escaped, only some of the animals would have been eaten by that wolf.
-
-But by staying on the farm, all the animals were, sooner or later, eaten one by one.
-____
-
-TODO source.
-
-.French political cartoon from 1898 by https://en.wikipedia.org/wiki/Henri_Meyer[Henri Meyer] showing leaders of Western powers, Russia and Japan splitting up China between them. The CCP would arguably <<not-chinese,not have raised to power if not due to Japanese interference>>. Maybe the West deserves the CCP they helped create. https://commons.wikimedia.org/wiki/File:China_imperialism_cartoon.jpg[Source].
-image::https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/China_imperialism_cartoon.jpg/438px-China_imperialism_cartoon.jpg[height=500]
+* dictators need <<evil-west,to keep the people in fear all the time to keep their power>>, and a war is a great way to achieve that
 
 [[uneducated-masses]]
 ==== The Chinese masses are still uneducated, and not fit for free speech and democracy 中国大众愚昧，不能好好选领导
@@ -575,7 +543,7 @@ See also: https://en.wikipedia.org/wiki/Intolerance_(film)[Intolerance (1916) fi
 
 Destroying diversity is the best way to reach a point where everyone can agree to start <<war,a new big war and destroy everything>>.
 
-The CCP thrives on the excessive <<fear-of-west,fear it instigates into its own people>>.
+The CCP thrives on the excessive <<evil-west,fear it instigates into its own people>>.
 
 How can society improve, if we are never allowed to try new things out?
 
@@ -643,10 +611,12 @@ I don't like this argument, but in the end, this is what all politics comes down
 +
 I recognize that in that sense, I may be similar to the CCP and any other political party.
 
-Duplicate pool:
+See also:
 
-* https://github.com/cirosantilli/china-dictatorship/issues/1
-* https://github.com/cirosantilli/china-dictatorship/issues/66 (https://web.archive.org/web/20190911212149/https://github.com/cirosantilli/china-dictatorship/issues/66[archive])
+* <<is-ciro-santilli-chinese>>
+* <<evil-west>>
+
+Duplicate pool: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Anot-chinese+
 
 [[brainwashed-by-usa]]
 ==== Non-Chinese people have been brainwashed by the USA know nothing about China
@@ -662,6 +632,40 @@ So, instead of saying that, why don't you just actually prove your point by teac
 But please, link to reference material instead of just saying it, it will be much more convincing.
 
 See also: <<western-democracies-are-not-perfect>>.
+
+[[evil-west]]
+==== The commies exaggerate the threat of the West to keep in power
+
+This is a common strategy, but the West is not as evil as they say:
+
+____
+Once upon a time, there was a farmer with a farm.
+
+One day, the animals on the farm started feeling a bit trapped, and started bumping against the fence to get out.
+
+The farmer, however, was smart, and told the animals:
+
+_____
+Careful! There is a wolf outside! If you go out, you will be eaten by the wolf!
+_____
+
+The animals, were not that smart, and listened to the farmer, they were afraid!
+
+From time to time, one of the animals would disappear (and without their knowledge, reappear on the farmer's dinner table).
+
+But the farmer kept giving the animals delicious food without them making any effort, so they decided to believe the farmer's explanation that animal had escaped and been eaten by the wolf.
+
+Maybe, there was actually a wolf outside. But if they had escaped, only some of the animals would have been eaten by that wolf.
+
+But by staying on the farm, all the animals were, sooner or later, eaten one by one.
+____
+
+TODO source.
+
+Duplicate pool: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Aevil-west+
+
+.French political cartoon from 1898 by https://en.wikipedia.org/wiki/Henri_Meyer[Henri Meyer] showing leaders of Western powers, Russia and Japan splitting up China between them. The CCP would arguably <<not-chinese,not have raised to power if not due to Japanese interference>>. Maybe the West deserves the CCP they helped create. https://commons.wikimedia.org/wiki/File:China_imperialism_cartoon.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/China_imperialism_cartoon.jpg/438px-China_imperialism_cartoon.jpg[height=500]
 
 [[bias]]
 === Ciro Santilli and this page are completely biased against the Chinese Government!
@@ -1029,7 +1033,7 @@ Russia is clearly the number 2 <<dictatorship>> in the world by population / GDP
 Ciro has always been curious about how Russia can be both oppressive and a appear democratic, unlike China which doesn't even try to pretend. This is what he gathers:
 
 * the government controls all major media. If any media says bad things against them, the government finds pretexts to create lawsuits or increase taxes against such companies. Therefore all people end up thinking that the government is good.
-* just like China, <<fear-of-west,they emphasize the threat of the foreign countries>>, especially the US, as a justification for having an oppressive power.
+* just like China, <<evil-west,they emphasize the threat of the foreign countries>>, especially the US, as a justification for having an oppressive power.
 * the government puts pressure on any significant opposition candidate. One technique is to find some reason to put them in jail for two months, which by Russian law forbids them from participating in further elections. Only candidates that don't really stand a chance are left as a fake opposition. But if you reach some prominence, you start taking the same risks as politicians, although you are more likely to face more brutal illegal gangster violence threats as you are less visible
 
 See also: <<communist-youth-league>>
@@ -1294,7 +1298,7 @@ A Chinese insult tip 101, avoid similar sound euphemisms. If you are going to sa
 * 傻 idiot: 沙
 * 屌 dick: 雕
 
-A collection of shitposts for you to take inspiration from can be found at: https://github.com/cirosantilli/china-dictatorship/labels/shitpost
+A collection of shitposts for you to take inspiration from can be found at: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ashitpost+
 
 Also, when opening a shitpost you may mark it clearly such with the shitpost issue template which automatically assigns the shitpost label. Doing so will make you look like less of an idiot.
 
@@ -1667,7 +1671,7 @@ Dictatorship is becoming link:https://www.nytimes.com/2018/03/07/world/asia/chin
 
 Even <<mao-zedong>> admits it and put it into the constitution: https://en.wikipedia.org/wiki/People%27s_democratic_dictatorship[People's democratic dictatorship 人民民主专政], so funny.
 
-Well known <<fear-of-west,Evil Western media>> that also call China a dictatorship:
+Well known <<evil-west,Evil Western media>> that also call China a dictatorship:
 
 * 2020-01-29 https://www.nytimes.com/2020/01/29/opinion/coronavirus-china-government.html "Coronavirus Spreads, and the World Pays for China’s Dictatorship"
 * 2018-03-04 https://www.theguardian.com/world/2018/mar/04/xi-jinping-from-president-to-china-new-dictator "Xi Jinping’s power play: from president to China’s new dictator?"
@@ -1924,7 +1928,7 @@ ____
 China claiming that Taiwan is a part of them only drives Taiwan closer to the West! Who wants to be part of a dictatorship unless you have been brainwashed by one?
 ____
 
-They truly believe in <<fear-of-west>>.
+They truly believe in <<evil-west>>.
 
 The US first caved in in 1972 with the https://en.wikipedia.org/wiki/Shanghai_Communiqué[Shanghai Communiqué].
 
@@ -2445,7 +2449,7 @@ If you believe this page violates those policies, you can click the report abuse
 
 If you do so, please feel free to also open an issue on this repository saying why you believe the site policy has been violated.
 
-Those issues will be marked with: https://github.com/cirosantilli/china-dictatorship/labels/abuse-report
+Those issues will be marked with: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Aabuse-report+
 
 It will be fun to watch you try, and fail.
 
@@ -2552,7 +2556,7 @@ Ciro then created an anonymous Zhihu account after this event.
 
 <<ciro-santilli>> was banned from Zhihu on 2018-06-25 for "politically sensitive" content.
 
-As a result, since that time I will be answering Zhihu questions as issues in this repo with the https://github.com/cirosantilli/china-dictatorship/labels/zhihu[label `zhihu`].
+As a result, since that time I will be answering Zhihu questions as issues in this repo with the `zhihu` label: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Azhihu+
 
 I have however never posted anything politically sensitive on Zhihu, unless my name and profile picture have reached that distinction, and therefore the ban is clearly an unfair per-person ban.
 
@@ -2783,7 +2787,7 @@ image::http://web.archive.org/web/20191107094724if_/http://4.bp.blogspot.com/_W8
 [[gay-rights]]
 === Gay rights LGBT权利
 
-Yes, gay people are also <<fear-of-west,discriminated to different degrees in Western countries>>, and even legally prohibited notably in the Islamic world.
+Yes, gay people are also <<evil-west,discriminated to different degrees in Western countries>>, and even legally prohibited notably in the Islamic world.
 
 But <<intolerance,like all minorities>>, they are generally more fucked in <<dictatorship,dictatorships>>, since they can be easily crushed by majorities.
 
@@ -4543,7 +4547,7 @@ image::https://web.archive.org/web/20200313090742if_/https://images.squarespace-
 
 The USA cannot create enough fake accounts to overwhelm real 1.5 billion Chinese accounts, especially considering things like forcing mobile number account verification.
 
-Chinese politicians are just using this fear as an excuse to stay in power: <<fear-of-west>>.
+Chinese politicians are just using this fear as an excuse to stay in power: <<evil-west>>.
 
 What if a Chinese person who really loves China and wants to improve the country disagrees with the Government?
 
@@ -4656,7 +4660,7 @@ Although I don't like them, I can't deny one thing: the commies are smart, and w
 
 * without censorship, you would be much richer and stronger, and more able to defend yourselves
 * why does China also censor its own people in addition to foreign propaganda?
-* maybe this fear is greatly emphasized by the Chinese government beyond truth just to help them keep control of the country by fear and maintain their own power. Can the Americans really have that much influence in your country? <<fear-of-west>>
+* maybe this fear is greatly emphasized by the Chinese government beyond truth just to help them keep control of the country by fear and maintain their own power. Can the Americans really have that much influence in your country? <<evil-west>>
 * maybe the regions that want to split from China feel like China is not giving them anything back, and they are themselves looking for allies outside of China to help them split. With democracy, people are more likely to get what they want, and there will be split parties and votes.
 * the same argument can be used to justify any action, no matter how bad. E.g.: we must put all who criticize the government in jail, or else they will make China less united and weaker against the USA!
 
@@ -4682,7 +4686,7 @@ https://en.wikipedia.org/wiki/Jingjing_and_Chacha
 
 Friendly looking mascots of Internet Censorship in China created by the Shenzhen Government in 2006.
 
-https://youtu.be/ZB8ODpw_om8?t=583 "Roger Dingledine - The Tor Censorship Arms Race The Next Chapter - DEF CON 27 Conference" mentions that choosing friendly looking mascots for internet censorship is a comon practice in several dictatorships, so to suggest that they are just <<fear-of-west,protecting citizens>>, These show the cute UAE censorship page for example:
+https://youtu.be/ZB8ODpw_om8?t=583 "Roger Dingledine - The Tor Censorship Arms Race The Next Chapter - DEF CON 27 Conference" mentions that choosing friendly looking mascots for internet censorship is a comon practice in several dictatorships, so to suggest that they are just <<evil-west,protecting citizens>>, These show the cute UAE censorship page for example:
 
 * Iran https://business.financialpost.com/technology/canadian-software-used-to-filter-internet-in-middle-east
 * Quatar https://rankingdigitalrights.org/2019/06/12/arab-regions-telecommunications-companies-fail-to-respect-users-digital-rights/
