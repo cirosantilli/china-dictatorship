@@ -3431,6 +3431,8 @@ But Ciro Santilli strongly believes that this is just a language barrier/FLG pro
 +
 I predict that when <<li-hongzhi>> dies, the claim will be that he went to another dimension so save us all, therefore putting this final judgment on hold, a bit like Jesus.
 * link:https://en.wikipedia.org/wiki/Open-air_preaching[street preaching] with stands and leaflets on the streets exactly like https://en.wikipedia.org/wiki/Jehovah's_Witnesses[Jehovah's Witnesses]. The Falun Gong organization also specifies guidelines on how to preach, although these might not be <<flg-canon,canon>>, even though if they are not, it is extremely likely that <<li-hongzhi,LHZ>> is directly involved in their specification
++
+Falun Gong has also used <<flg-telemarketing,phone call preaching>>.
 
 Or a <<flg-cult,cult>>, which is nothing but a new/small religion with negative connotation, and thus meaningless.
 
@@ -3572,11 +3574,20 @@ image::https://web.archive.org/web/20200226083545/https://i.pinimg.com/564x/32/f
 .Dubstep Li can liangong at https://en.wikipedia.org/wiki/Dubstep[dubstep] speed. https://giphy.com/gifs/dubstep-gifs-dubstepgifs-xUOwFY1prqgUdPuFvW[Source].
 image::http://web.archive.org/web/20200229161316if_/https://i.giphy.com/media/xUOwFY1prqgUdPuFvW/giphy.webp[height=400]
 
+[[flg-telemarketing]]
 ===== Some Falun Gong people make phone telemarketing
 
-Ciro Santilli has seen Falun Gong people making phone calls to people in China with to explain why FLG is with his own eyes, particularly during <<corona>>, and therefore is sure it has happened on some scale.
+Ciro Santilli has seen Falun Gong people making phone calls to people in China with to explain why FLG is with his own eyes, and therefore is sure it has happened on some scale.
 
-It also seems that such directives had <<li-hongzhi>>'s direct approval, although Ciro does not have proof of that.
+Particularly during <<corona>>, Falun Gong ramped up the telemarketing calls and some voluntary believers were making calls all day nonstop.
+
+Ciro does not know how the called numbers were obtained and if callees voluntarily signed up for it, but that feels extremely unlikely.
+
+Interestingly however, many of the callees seemed interesting in what they had to say, and they often had long chats, Ciro was surprised by that. Maybe they were just bored senseless due to the Corona lockdown. Or maybe <<most-chinese-people-like-their-dictatorship,many Chinese People actually don't like their Government>> and the CCP is fucked.
+
+Also, of course, the callers received call scripts and guidelines to makes those calls, because obviously <<flg-organized>>.
+
+It also seems that this telemarketing had <<li-hongzhi>>'s direct approval, although Ciro does not have proof of that.
 
 Ciro strongly disapproves of this, Just like for any product, visual ads on the street are impossible to prevent, but any kind of advertising that generates notifications on feeds, or takes people's time, is unacceptable.
 
