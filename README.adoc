@@ -430,6 +430,8 @@ ____
 [[effective]]
 === Will the keyword attacks really help to destroy the firewall?
 
+Even if it is not, it does not matter, since Ciro spends so little time doing it: <<better-to-do>>.
+
 .https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)[House of Cards] S01E02 "Nobody can hear you. Nobody cares about you. Nothing will come of this." GIF. https://houseoflessons.tumblr.com/post/43967209684/on-protesters-nobody-can-hear-you-nobody-cares[Source].
 image::https://web.archive.org/save/_embed/http://78.media.tumblr.com/c958931381d9efa62f158d885f3ca811/tumblr_mirhy5eQPY1s6tut4o1_r1_500.gif[height=400]
 
@@ -457,7 +459,7 @@ By political and technological information is together, and this immediately put
 
 One point in favor of the embargo is that China has opened up since the '80s '90s, but did freedom improve at all? Under <<xi-jinping>>, it may be argued that it did not, and maybe that we should just stop feeding them technology and accept that they won't become free.
 
-Trump's link:https://www.theguardian.com/commentisfree/2019/jun/02/trump-banning-huawei-beginning-of-biggest-trade-war-ever-united-states[2019 China trade war], and in particular the Huawei ban, is an event that has brought this question to the spotlight once again.
+Trump's link:https://www.theguardian.com/commentisfree/2019/jun/02/trump-banning-huawei-beginning-of-biggest-trade-war-ever-united-states[2019 China trade war], and in particular the <<huawei>> ban, is an event that has brought this question to the spotlight once again.
 
 ===== Keyword attacks could be used by certain CCP political groups to justify blocking off the entire external Internet, and make the dictatorship even more pervasive
 
@@ -2228,7 +2230,8 @@ They are an entry point to spying, censorship and fake news.
 .2020-03-27 photo showing https://en.wikipedia.org/wiki/Boris_Johnson[UK Prime Minister Boris Johnson] using Zoom on a Cabinet meeting (a high level Government meeting) during <<corona>>. If you don't properly ban risky dictatorship-linked software, it will get used at the highest levels of Government by clueless people. https://news.sky.com/story/coronairus-cabinet-talks-held-on-zoom-days-after-software-was-banned-by-ministry-of-defence-11963889[Source].
 image::http://web.archive.org/web/20200404102642im_/https://e3.365dm.com/20/03/1600x900/skynews-zoom-cabinet-coronavirus_4955732.jpg?20200326102528[height=400]
 
-====== Huawei 华
+[[huawei]]
+====== Huawei 华为
 
 * https://en.wikipedia.org/wiki/Huawei
 * https://zh.wikipedia.org/wiki/华为
@@ -2254,6 +2257,18 @@ Some news:
 
 ."When you send a good joke from your Huawei phone", <<xi-jinping>> is also listening and laughing with you, girls. https://i.redd.it/nodgcqmwtcg31.jpg[Source].
 image::http://web.archive.org/web/20190814074955/https://i.redd.it/nodgcqmwtcg31.jpg[height=600]
+
+.<<rebel-pepper>> 2018-12-10 "Why does the whole world hate me" Huawei cartoon, where Huawei's shadow shows the https://en.wikipedia.org/wiki/Hammer_and_sickle[hammer and sickle] to suggest that Huawei is controlled by the CCP. https://www.rfa.org/english/cartoons/Huawei-cartoon-12102018152050.html[Source].
+image::https://web.archive.org/web/20181211133001im_/https://www.rfa.org/english/cartoons/Huawei-cartoon-12102018152050.html/181210RFA-Huawei.jpg/@@images/7cbd8e6e-aede-4c53-98be-3c9a8d40e293.jpeg[height=400]
+
+.<<rebel-pepper>> 2019-03-08 showing Huawei slapping the Statue of Liberty with "The Constitution of the United States" when Huawei sued the US Government for violating the Constitution. This illustrates the usual dilemma where <<what-should-western-countries-do-about-china,China uses Western freedom of speech as a weapon against the West itself>>. https://www.rfa.org/english/cartoons/chinashuawei-03082019162541.html[Source].
+image::http://web.archive.org/web/20200423092420im_/https://www.rfa.org/english/cartoons/chinashuawei-03082019162541.html/190308RFA-en1.jpg/@@images/90bf4dbb-1019-40a5-b58a-865672f6c808.jpeg[height=400]
+
+.Cartoon showing a huge China flag branded USB sucking up Western personal and military information like a vacuum cleaner in 2019-04-29 article entitled "Britain will regret doing business with Huawei". TODO cartoon author. https://retro-blogs.spectator.co.uk/2019/04/britain-will-regret-doing-business-with-huawei/[Source].
+image::http://web.archive.org/web/20200423092410im_/https://retro-blogs.spectator.co.uk/files/2019/04/6507703-1.jpg?auto=compress[height=400]
+
+.Cartoon suggesting that Huawei is a like a https://en.wikipedia.org/wiki/Trojan_Horse[Trojan Horse] being gifted to Europe. TODO: source of original non-China generic Trojan Horse background image that was edited and repurposed. https://twitter.com/DaichiWatanbe/status/1231189285325475840[Source].
+image::https://web.archive.org/web/20200222121210im_/https://pbs.twimg.com/media/ERYQHj_XYAEQsfN.jpg[height=400]
 
 ===== What should Western media do about China?
 
@@ -2961,7 +2976,7 @@ The English translation is made by followers, and gets new revisions to reduce t
 
 However, the Chinese language seems to be fundamentally sacred, and there might never be a sacred English version approved by LHZ.
 
-LHZ is of course a de-facto God with superpowers, and can of course speak all languages, but for reasons he didn't just write an English translation himself.
+LHZ is of course a de-facto God with superpowers, and can of course speak all languages, but https://www.urbandictionary.com/define.php?term=for%20reasons[for reasons] he didn't just write an English translation himself.
 
 This is a reasonable command to download the English cannon for grepping:
 
@@ -3544,7 +3559,7 @@ The term "master" is also used for example in the fictional film The Master (201
 
 <<ciro-santilli>> prefers to call him <<flg-religion,prophet>>, since he feels LHZ is indistinguishable from <<flg-religion,any other religion>>.
 
-I agree that there is danger in every religion, and especially new religions.
+Ciro agrees that there is danger in every religion, and especially new religions.
 
 However the same point can be made about political parties and in particular the CCP and its chairman.
 
@@ -3556,9 +3571,9 @@ If you ever want democracy, you will have to learn to accept the beliefs of othe
 
 Finally, LHZ was born in 1951, so he will die in 20 years, unless FLG is true and a miracle happens, and then this argument will become invalid.
 
-From what I hear, LHZ has always maintained that he is the only source of truth on FLG, and therefore, so his death will very likely remove any danger once and for all.
+From what Ciro hears, LHZ has always maintained that he is the only source of truth on FLG, and therefore, so his death will very likely remove any danger once and for all.
 
-Furthermore, it also seems to me that FLG is clearly anti-violence and self-harm, so I wonder how many would follow a contradictory order such as killing or suicide?
+Furthermore, it also seems to me that FLG is clearly anti-violence and self-harm, so Ciro wonder how many would follow a contradictory order such as killing or suicide? We have had no hint of any incitation to violence so far.
 
 It is also interesting to look into the https://en.wikipedia.org/wiki/Jonestown case. When the suicide order came, most people wanted out! Without physically controlling the followers, I don't think you can make them do much.
 
