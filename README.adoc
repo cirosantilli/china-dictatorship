@@ -500,6 +500,14 @@ The 2019 <<nine-nine-six-icu>> event however brought to my attention that Chines
 
 But I doubt developers use those browsers, right? The only way would be for China to forbid foreign browsers entirely.
 
+===== Is Stack Overflow blocked in China?
+
+There was no clear evidence of that as of April 2020: http://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/288497#288497
+
+It worth noting however that as mentioned at <<is-stack-overflow-blocked-in-china>> that websites can become non-functional if CDNs they rely on are taken down, instead of the website being taken down itself.
+
+For example, Stack Overflow relied on Google for some of its JavaScript and on Imgur for images, both of which are blocked in China.
+
 === This is your personal problem, we have nothing to do with it, stop punishing us for it
 
 We have to fight for justice for our fellows, or else when injustice happens to us, no one will fight for use either.
@@ -785,7 +793,7 @@ I then continued because I hate political <<censorship,censorship>>, and because
 
 Maybe some people would be happy if their mother-in-law were put into jail. But unfortunately, this wasn't the case for <<ciro-santilli>>.
 
-.<<ciro-santilli>> with his mother in law during his wedding in 2017. Annoying? Sometimes. But threat to the fucking Chinese State? How fucked does your political system have to be for the answer to be a "yes"?
+.<<ciro-santilli>> with his soon-to-be mother-in-law before his wedding in 2017. Annoying? Sometimes. But threat to the fucking Chinese State? How fucked does your political system have to be for the answer to be a "yes"?
 image::{cirosantilli-media-base}/Ciro_Santilli_with_his_mother_in_law_during_his_wedding_in_2017.jpg[height=600]
 
 ====== Jail post en
@@ -2528,6 +2536,10 @@ But remember that we also have: <<mirrors>>, and that this can be easily rendere
 * taibangle (太棒了)
 ** https://github.com/taibangle/awesome-china
 ** https://github.com/taibangle/lennon-wall
+* https://github.com/sikaozhe1997/Xin-Yue
+** Open letter by student activist https://en.wikipedia.org/wiki/Yue_Xin_(activist)[Yue Xin] (https://zh.wikipedia.org/wiki/岳昕[岳昕]) about the events described at https://web.archive.org/web/20200104064812/https://www.nytimes.com/2018/04/09/world/asia/china-metoo-gao-yan.html["China’s #MeToo: How a 20-Year-Old Rape Case Became a Rallying Cry"]
+** https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md in-tree translation
+** 2018-04 https://chinadigitaltimes.net/2018/04/translation-open-letter-on-peking-university-metoo-case/ "TRANSLATION: OPEN LETTER ON PKU #METOO CASE"
 
 Mentioned in other sections:
 
@@ -3856,7 +3868,6 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 * 2018-06 https://arstechnica.com/tech-policy/2018/06/china-bans-online-mention-of-john-oliver-after-he-mocks-chinas-president/ https://www.dailymotion.com/video/x6m5b3o
 * 2018-05 https://www.whatsonweibo.com/public-shaming-of-drug-users-in-guangdong-drug-related-crimes-in-family-painted-on-houses/
 * 2018-04 https://uk.reuters.com/article/uk-china-lawmaking/china-makes-defaming-revolutionary-heroes-punishable-by-law-idUKKBN1HY16C
-* 2018-04 https://chinadigitaltimes.net/2018/04/translation-open-letter-on-peking-university-metoo-case/ https://github.com/sikaozhe1997/Xin-Yue
 * 2018-04 https://www.washingtonpost.com/world/asia_pacific/congressional-leaders-urge-us-to-press-china-over-reports-of-mass-uighur-detentions/2018/04/05/9bd17c90-38b3-11e8-b57c-9445cc4dfa5e_story.html
 * 2018-03 https://supchina.com/2018/03/29/no-tattoos-at-the-2018-strawberry-music-festival-in-hangzhou/ Funny pics at: http://app.myzaker.com/news/article.php?f=xiongzhang&pk=5ac0eb1877ac6465da676481
 * 2018-02 https://www.nytimes.com/2018/02/25/world/asia/china-xi-jinping.html
@@ -4795,7 +4806,6 @@ Projects that attempt to understand how the Great Firewall works and what it blo
 ** https://freeweibo.com/ related project by the same organization, a Weibo archive it seems
 ** https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how made some noise at the time
 ** https://twitter.com/GreatFireChina
-* other websites: http://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/288497#288497
 * Garry King Harvard papers:
 ** http://gking.harvard.edu/50c#
 ** http://gking.harvard.edu/publications/how-Censorship-China-Allows-Government-Criticism-Silences-Collective-Expression
@@ -4803,7 +4813,7 @@ Projects that attempt to understand how the Great Firewall works and what it blo
 * https://github.com/phoeagon/gfw-sim GFW emulation
 * https://github.com/citizenlab/chat-censorship data on Censorship
 
-It is also worth noting that as mentioned at: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china websites can become non-functional if CDNs they rely on are taken down, instead of the website being taken down itself.
+It is also worth noting that as mentioned at <<is-stack-overflow-blocked-in-china>> that websites can become non-functional if CDNs they rely on are taken down, instead of the website being taken down itself.
 
 ===== gfwlist
 
