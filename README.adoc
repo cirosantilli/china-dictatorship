@@ -1094,6 +1094,10 @@ The Russians have very different style to the Chinese, who are much more subtle,
 
 https://en.wikipedia.org/wiki/Vladimir_Putin | https://ru.wikipedia.org/wiki/Путин,_Владимир_Владимирович
 
+* 2019-12-19: Putin proposes abolishing term limits. <<xi-abolishes-term-limits-2018-03,Learnt from Xi>>:
+** https://www.independent.co.uk/news/world/europe/putin-presidential-term-limit-russia-moscow-conference-today-a9253156.html
+** https://uk.reuters.com/article/uk-russia-putin-constitution/putin-says-hes-open-to-tweaking-presidential-term-limits-idUKKBN1YN1JO
+** 2020-03-25 vote delayed due to <<corona>>
 * 2014 https://en.wikipedia.org/wiki/Putin_khuylo! | https://ru.wikipedia.org/wiki/Путин_—_хуйло!
 
 [[superputin]]
@@ -1145,7 +1149,7 @@ image::https://web.archive.org/web/20200312233919if_/https://cdn1.i-scmp.com/sit
 image::http://web.archive.org/web/20191022004820if_/https://en.euractiv.eu/wp-content/uploads/sites/2/2016/11/Putin-Trump-kiss-800x450.jpg[height=400]
 
 [[skripal]]
-====== The poisoning of Sergei and Yulia Skripal (2018)
+====== The poisoning of Sergei and Yulia Skripal Серге́й Ви́кторович Скрипáль (2018-03-04)
 
 https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal | https://ru.wikipedia.org/wiki/Отравление_Сергея_и_Юлии_Скрипаль
 
@@ -1162,8 +1166,26 @@ image::http://web.archive.org/web/20200404112526im_/https://media.npr.org/assets
 .https://www.youtube.com/watch?v=Ku8OQNyI2i0 "Full Skripal case interview with the UK's suspects (EXCLUSIVE)" by RT with Alexander Petrov and Ruslan Boshirov. Not gay moment at: https://youtu.be/Ku8OQNyI2i0?t=461[461s].
 video::Ku8OQNyI2i0[youtube,height=400,width=600]
 
+====== Electoral fraud in Russian elections
+
+Besides barring opposition from participating such as <<alexei-navalny>>, electoral fraud was off the charts:
+
+.https://www.youtube.com/watch?v=-KQlCRLCw_I 2019-09-12 CCTV footage of Vasily Dyachenko (Василий Дьяченко), who had reported electoral fraud concerns regional 2019 elections, getting surprise punched in the stomach at the St. Petersburg polling station 1619, while the police who is right in front of it do nothing about it. English coverage: https://www.rferl.org/a/russian-police-stand-idly-by-as-election-observer-sucker-punched/30160427.html
+video::-KQlCRLCw_I[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=3oSeRyaFllY 2018-03-18 alleged https://en.wikipedia.org/wiki/Electoral_fraud#Ballot_stuffing[ballot stuffing electoral fraud] caught on CCTV in Lyubertsy, Moscow Oblast
+video::3oSeRyaFllY[youtube,height=400,width=600]
+
+https://www.youtube.com/watch?v=WMEqv-NNLW4 Мусора избили ребёнка и наблюдателей на выборах TODO find English version
+
+Related:
+
+* Golos (Голос) is the main independent election monitor organization in Russia:
+** https://en.wikipedia.org/wiki/Golos_(election_monitor)
+** https://ru.wikipedia.org/wiki/Голос_(мониторинг_выборов)
+
 [[litvinenko]]
-====== The murder of Alexander Litvinenko (2006)
+====== The murder of Alexander Litvinenko Литвиненко, Александр Вальтерович (2006)
 
 https://en.wikipedia.org/wiki/Alexander_Litvinenko | https://ru.wikipedia.org/wiki/Литвиненко,_Александр_Вальтерович
 
@@ -1192,6 +1214,33 @@ The following Chinese policies come to mind:
 
 * <<icp-license>>
 * <<anonymous-accounts-ban>>
+
+===== Putin opposition
+
+https://en.wikipedia.org/wiki/Opposition_to_Vladimir_Putin_in_Russia
+
+[[alexei-navalny]]
+====== Alexei Navalny Алексе́й Анато́льевич Нава́льный
+
+* https://en.wikipedia.org/wiki/Alexei_Navalny
+* https://ru.wikipedia.org/wiki/Навальный,_Алексей_Анатольевич
+
+Casually barred from the 2018 presidential campaign:
+
+* https://en.wikipedia.org/wiki/2018_Alexei_Navalny_presidential_campaign
+* https://www.bbc.co.uk/news/world-europe-42479909
+* https://ru.wikipedia.org/wiki/Навальный,_Алексей_Анатольевич#Президентские_выборы_2018_года
+
+His Wiki page does say one  thing of interest though, he has right wing tendencies which scared off liberals:
+
+____
+The BBC noted in a profile of Navalny that his endorsement of a political campaign called "Stop feeding the Caucasus" and his willingness to speak at ultra-nationalist events "have caused concern among liberals". 
+____
+
+Related:
+
+* https://www.rferl.org/a/russia-navalny-nationalist-fears/25059277.html
+* https://www.youtube.com/watch?v=oVNJiO10SWw
 
 [[stalin]]
 ===== Stalin 斯大林 (1922-1952)
@@ -4309,6 +4358,9 @@ I consider the media in this section biased, and never cite it for fact-checking
 ** I have no proof that this is linked to the government, but it is very likely, even the Chinese embassy website links to it:
 *** http://www.china-embassy.org/eng/lj/t36322.htm
 *** http://web.archive.org/web/20180414233331/http://www.china-embassy.org/eng/lj/t36322.htm
+* Phoneix TV
+** https://en.wikipedia.org/wiki/Phoenix_Television | https://zh.wikipedia.org/wiki/凤凰卫视
+** https://freebeacon.com/national-security/cruz-seeks-to-shut-down-chinese-propaganda-station-phoenix-tv/
 
 [[confucius-institute]]
 ===== Confucius institute 孔子学院
