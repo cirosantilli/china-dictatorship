@@ -2620,6 +2620,31 @@ Non-information but also interesting:
 
 * https://github.com/lurongkai/anti-baidu
 
+====== Terminus2049
+
+* https://github.com/cirosantilli/Terminus2049.github.io
+* https://terminus2049.github.io/
+
+Summary:
+
+____
+本仓库存放被删文章
+
+This repository stores deleted articles.
+____
+
+The repo name is a reference to the fictional https://bladerunner.fandom.com/wiki/World_War_Terminus["World War Terminus"] from the https://en.wikipedia.org/wiki/Blade_Runner_2049[Blade Runner 2049 (2019)] movie.
+
+Started in 2018, GitHub pages domain blocked in China since 2019-03: https://zh.greatfire.org/search/all/https%3A//terminus2049.github.io but not in <<github-gov-takedowns>> as of 2020-04.
+
+In 2020, three contributors were arrested during <<corona>>: https://www.scmp.com/news/china/politics/article/3081569/chinese-activists-detained-after-sharing-censored-coronavirus
+
+* Chen Mei
+* Cai Wei
+* Cai Wei's girlfriend surnamed Tang
+
+TODO what are their GitHub accounts? Contributions appear to be anonymized behind: https://github.com/TerminusBot
+
 [[zhihu]]
 ==== Zhihu 知乎
 
