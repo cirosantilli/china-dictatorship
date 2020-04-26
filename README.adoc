@@ -353,6 +353,7 @@ video::sUvBNpkxrJo[youtube,height=400,width=600]
 ** YouTube https://www.youtube.com/channel/UCJHUpBCNKrZwBhxfcIrP8Aw
 ** Twitter https://twitter.com/kcrissli
 ** 2020-02-28 https://www.vice.com/en_us/article/qjdejp/a-chinese-citizen-journalist-covering-coronavirus-just-live-streamed-his-own-arrest
+* 2020-04-25: Chen Mei, Cai Wei and his girlfriend, who contributed to <<terminus2049>>
 
 [[war]]
 ==== Why would democracy and freedom of speech make China less likely to start a war?
@@ -1251,7 +1252,7 @@ image::http://web.archive.org/web/20200301233451/https://img.ifunny.co/images/55
 .https://www.youtube.com/watch?v=ZT2z0nrsQ8o "Rasputin vs Stalin." Epic Rap Battles of History YouTube video. This is fire. https://epicrapbattlesofhistory.fandom.com/wiki/Rasputin_vs_Stalin/Rap_Meanings[Explanations].
 video::ZT2z0nrsQ8o[youtube,height=400,width=600]
 
-=== Is the Chinese government is evil?
+=== Is the Chinese government evil?
 
 No, just <<richer,inefficient>> and <<war,dangerous>>.
 
@@ -2625,7 +2626,7 @@ Non-information but also interesting:
 * https://github.com/cirosantilli/Terminus2049.github.io
 * https://terminus2049.github.io/
 
-Summary:
+Jekyl GitHub Pages repository that saves full text copies of censored articles. Summary:
 
 ____
 本仓库存放被删文章
@@ -2635,15 +2636,24 @@ ____
 
 The repo name is a reference to the fictional https://bladerunner.fandom.com/wiki/World_War_Terminus["World War Terminus"] from the https://en.wikipedia.org/wiki/Blade_Runner_2049[Blade Runner 2049 (2019)] movie.
 
-Started in 2018, GitHub pages domain blocked in China since 2019-03: https://zh.greatfire.org/search/all/https%3A//terminus2049.github.io but not in <<github-gov-takedowns>> as of 2020-04.
+First commint on 2018-04-27, GitHub pages domain blocked in China at least since 2019-03 according to <<greatfire>>: https://zh.greatfire.org/search/all/https%3A//terminus2049.github.io but not in <<github-gov-takedowns>> as of 2020-04.
 
-In 2020, three contributors were arrested during <<corona>>: https://www.scmp.com/news/china/politics/article/3081569/chinese-activists-detained-after-sharing-censored-coronavirus
+In 2020-04-25, it was reported that three Beijing-based contributors were arrested during <<corona>>:
 
-* Chen Mei
-* Cai Wei
-* Cai Wei's girlfriend surnamed Tang
+* https://www.scmp.com/news/china/politics/article/3081569/chinese-activists-detained-after-sharing-censored-coronavirus
+* https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html Chinese article, gives the Chinese names, and some background on the arrested people
 
-TODO what are their GitHub accounts? Contributions appear to be anonymized behind: https://github.com/TerminusBot
+People:
+
+* Chen Mei (陈玫)
+** https://www.linkedin.com/in/玫-陈-1607b735/ a LinkedIn account with matching photo and name
+* Cai Wei (蔡伟)
+* Xiao Tang (小唐), who is also Cai Wei's girlfriend
+
+TODO what are their GitHub accounts? Contributions appear to be anonymized behind: https://github.com/TerminusBot That appears to be just a shared account though, not an actual bot. So how did the police find their true identities? https://github.com/Terminus2049/Terminus2049.github.io/issues/598
+
+.Side-by-side photos of Chen Mei (陈玫) and Cai Wei (蔡伟). https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html[Source].
+image::https://web.archive.org/web/20200426091658im_/https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html/image1.png/@@images/6a3e66d5-bf3d-41c1-9add-21dd48ac0b87.png[height=400]
 
 [[zhihu]]
 ==== Zhihu 知乎
@@ -3055,7 +3065,7 @@ This post by a former believer gives what Ciro feels is a realistic account that
 
 And yet, all those who love freedom, must oppose FLG ban, or be themselves enslaved by tyrants themselves: <<democracy-is-a-religion>>.
 
-In any case, at least FLG got one thing right: the commies are <<is-the-chinese-government-is-evil,evil>>, and we have to get rid of them.
+In any case, at least FLG got one thing right: the commies are <<is-the-chinese-government-evil,evil>>, and we have to get rid of them.
 
 See also: <<flg-fake>>.
 
@@ -4895,12 +4905,6 @@ Projects that attempt to understand how the Great Firewall works and what it blo
 
 * https://en.wikipedia.org/wiki/Websites_blocked_in_mainland_China
 ** https://zh.wikipedia.org/wiki/中华人民共和国被封锁网站列表
-* http://greatfire.org/
-** https://en.wikipedia.org/wiki/GreatFire
-** https://zh.wikipedia.org/wiki/自由微博
-** https://freeweibo.com/ related project by the same organization, a Weibo archive it seems
-** https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how made some noise at the time
-** https://twitter.com/GreatFireChina
 * Garry King Harvard papers:
 ** http://gking.harvard.edu/50c#
 ** http://gking.harvard.edu/publications/how-Censorship-China-Allows-Government-Criticism-Silences-Collective-Expression
@@ -4909,6 +4913,20 @@ Projects that attempt to understand how the Great Firewall works and what it blo
 * https://github.com/citizenlab/chat-censorship data on Censorship
 
 It is also worth noting that as mentioned at <<is-stack-overflow-blocked-in-china>> that websites can become non-functional if CDNs they rely on are taken down, instead of the website being taken down itself.
+
+====== GreatFire
+
+* https://en.wikipedia.org/wiki/GreatFire
+* https://zh.wikipedia.org/wiki/自由微博
+
+A group that produces tools and websites against censorship in China, central website: http://greatfire.org/
+
+* https://zh.greatfire.org/analyzer GreatFire Analyzer is the most imporatnt tool, and checks if websites are blocked or not in China
++
+It also keeps a calendar of previous checks so you can see when a website started getting blocked.
+* https://freeweibo.com a Weibo archive to overcome deleted posts
+* https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how made some noise at the time
+* https://twitter.com/GreatFireChina
 
 ===== gfwlist
 
@@ -5017,7 +5035,7 @@ Bibliography:
 * 2014 emails of some Wumaos were hacked/phished and leaked at https://xiaolan.me/50-cent-party-jxgzzg.html (down, no web archive, but http://archive.is/BNNQe[]) revealing operational details
 ** https://qz.com/311832/hacked-emails-reveal-chinas-elaborate-and-absurd-internet-propaganda-machine/
 
-C.K. Hung's wumao reply strategy: https://ckhung0.blogspot.com/2017/07/50-cents-party.html see also: <<reply-policy>>.
+https://github.com/ckhung[C.K. Hung]'s wumao reply strategy: https://ckhung0.blogspot.com/2017/07/50-cents-party.html 為什麼我不刪五毛的回應反而要刪你的回應? see also: <<reply-policy>>.
 
 [[real-username-law]]
 ==== Real username law (2015)
@@ -5345,7 +5363,7 @@ https://en.wikipedia.org/wiki/China_Record_Corporation | https://zh.wikipedia.or
 
 The most important publisher, AKA "CRC Jianian".
 
-<<is-the-chinese-government-is-evil,Government-owned unfortunately>>, their website takes forever to load: http://www.china-crc.com.cn/[], and features mostly Communist shit, and I can't find the decent traditional music listed there.
+<<is-the-chinese-government-evil,Government-owned unfortunately>>, their website takes forever to load: http://www.china-crc.com.cn/[], and features mostly Communist shit, and I can't find the decent traditional music listed there.
 
 One thing to try is an Amazon advanced search by label "China Record Co": https://www.amazon.com/s?i=digital-music&rh=p_33%3AChina+Record+Co&s=relevancerank&Adv-Srch-MP3-Submit.x=42&Adv-Srch-MP3-Submit.y=4&unfiltered=1&ref=sr_adv_m_digital
 
