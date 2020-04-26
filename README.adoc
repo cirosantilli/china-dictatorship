@@ -4995,6 +4995,8 @@ ____
 It is impossible to distinguish wumaos, idiots and <<not-chinese,brain washed>> people. So we just call all of them wumaos.
 ____
 
+It has been pointed out to me however that there is a funny slang name for brainwashed CCP commentators supporters: "https://zh.wikipedia.org/wiki/小粉紅[小粉紅]" (little pinks)
+
 Notable wumaos should be investigated by intelligence agencies.
 
 If it is determined that they are knowingly funded by China, they should be put into jail as foreign agents.
@@ -5025,6 +5027,12 @@ ____
 And at https://www.youtube.com/watch?v=GRqcA04FtmM he says <<serpentza-laowhy86,SerpentZA>> is a fraud "because he criticizes China".
 * <<quora>> is completely infested by wumaos as of 2020, see more information on that section
 
+Strategies for dealing with Wumao:
+
+* <<reply-policy>>.
+* https://github.com/ckhung[C.K. Hung]'s wumao reply strategy: https://ckhung0.blogspot.com/2017/07/50-cents-party.html 為什麼我不刪五毛的回應反而要刪你的回應?
+* https://pincong.rocks/question/6601 如何看待这个对抗五毛的新方法？ Suggests creating posts on public profiles of the Wumaos thanking them for supporting forbidden stuff like <<tiananmen>> or <<falun-gong>>
+
 Bibliography:
 
 * 2020-03-12 https://twitter.com/jenniferatntd/status/1238076579466674178 Jennifer Zeng's 曾錚 publishing of purported Wumao guidelines with translation. Translated title: "CAC (https://en.wikipedia.org/wiki/Cyberspace_Administration_of_China[Cyberspace Administration of China]) Internal Documentation for Internet Commentators (no spreading)"
@@ -5034,8 +5042,6 @@ Bibliography:
 * 2015-05-20 https://www.rfa.org/english/news/china/files-05202015150018.html "Hackers Leak Files Showing Inner Workings of 'China's 50-Cent Army'", hacker group name "Unicorn Nocturne". TODO material, silly reporters that don't give links
 * 2014 emails of some Wumaos were hacked/phished and leaked at https://xiaolan.me/50-cent-party-jxgzzg.html (down, no web archive, but http://archive.is/BNNQe[]) revealing operational details
 ** https://qz.com/311832/hacked-emails-reveal-chinas-elaborate-and-absurd-internet-propaganda-machine/
-
-https://github.com/ckhung[C.K. Hung]'s wumao reply strategy: https://ckhung0.blogspot.com/2017/07/50-cents-party.html 為什麼我不刪五毛的回應反而要刪你的回應? see also: <<reply-policy>>.
 
 [[real-username-law]]
 ==== Real username law (2015)
