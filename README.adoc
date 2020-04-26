@@ -1559,7 +1559,10 @@ ____
 .Round gate at https://en.wikipedia.org/wiki/Yu_Garden[Yu Garden 豫园] in Shanghai. link:++https://commons.wikimedia.org/wiki/File:Shanghai_-_YuYuan_Gardens_and_Old_Town_(584867794).jpg++[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Shanghai_-_YuYuan_Gardens_and_Old_Town_%28584867794%29.jpg/683px-Shanghai_-_YuYuan_Gardens_and_Old_Town_%28584867794%29.jpg[height=600]
 
-===== Chinese traditional painting
+[[chinese-traditional-painting]]
+===== Chinese traditional painting 中国传统绘画
+
+See also: <<museum>>.
 
 Some free online collections:
 
@@ -4921,6 +4924,10 @@ It is also worth noting that as mentioned at <<is-stack-overflow-blocked-in-chin
 
 A group that produces tools and websites against censorship in China, central website: http://greatfire.org/
 
+Backed by <<radio-free-asia>> and therefore USA Government.
+
+Main tools:
+
 * https://zh.greatfire.org/analyzer GreatFire Analyzer is the most imporatnt tool, and checks if websites are blocked or not in China
 +
 It also keeps a calendar of previous checks so you can see when a website started getting blocked.
@@ -5031,7 +5038,7 @@ Strategies for dealing with Wumao:
 
 * <<reply-policy>>.
 * https://github.com/ckhung[C.K. Hung]'s wumao reply strategy: https://ckhung0.blogspot.com/2017/07/50-cents-party.html 為什麼我不刪五毛的回應反而要刪你的回應?
-* https://pincong.rocks/question/6601 如何看待这个对抗五毛的新方法？ Suggests creating posts on public profiles of the Wumaos thanking them for supporting forbidden stuff like <<tiananmen>> or <<falun-gong>>
+* https://chinadigitaltimes.net/chinese/2019/08/【麻辣总局】新型敏感词武器：赵弹磁铁/
 
 Bibliography:
 
@@ -5205,6 +5212,11 @@ https://zh.wikipedia.org/wiki/品葱
 <<ciro-santilli>>'s account: https://pincong.rocks/people/cirosantilli
 
 This website might not censor stuff, e.g.: people are using <<winnie-the-pooh>> avatars: https://www.pincong.rocks/people/bushiwumao (http://web.archive.org/web/20200418194038/https://www.pincong.rocks/people/bushiwumao[archive])
+
+TODO is is blocked by <<gfw>> or not? <<greatfire>> just hangs forever on it, e.g.:
+
+* https://zh.greatfire.org/test?url=https%3A//pincong.rocks
+* https://zh.greatfire.org/test?url=https%3A//pincong.rocks/question/6601
 
 == Other sections
 
@@ -6053,6 +6065,19 @@ Not worth it:
 * Chez Chili
 +
 1050B rue Clark
+
+[[museum]]
+== The best East Asian museums outside of China 中国以外最好的东亚博物馆
+
+<<ciro-santilli>> liked these in order of best first. Keep in mind that he is especially interested in <<chinese-traditional-painting>>:
+
+* https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art[New York Metropolitan Museum of Art], New York, United States
+** 2019-05 https://photos.app.goo.gl/pBR1BmqWgd2Xq7jT8
+* https://en.wikipedia.org/wiki/Guimet_Museum[Guimet Museum], Paris, France
+** 2016-10-30 including Chinese Jade Temporary Exposition: https://goo.gl/photos/6F3nMNqtPrGASuMv5
+** 2013-02 https://photos.app.goo.gl/aj1vRWEcoUqdvUG58
+* https://en.wikipedia.org/wiki/British_Museum[British Museum], London, United Kingdom. Too much porcelain, too little painting.
+** 2016-08 https://goo.gl/photos/brGPsCmLCD2cJsWb7
 
 == Chinese television 中国电视
 
