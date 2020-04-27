@@ -2624,7 +2624,8 @@ Non-information but also interesting:
 
 * https://github.com/lurongkai/anti-baidu
 
-====== Terminus2049
+[[terminus2049]]
+====== Terminus2049 端点星计划
 
 * https://github.com/cirosantilli/Terminus2049.github.io
 * https://terminus2049.github.io/
@@ -2637,7 +2638,7 @@ ____
 This repository stores deleted articles.
 ____
 
-The repo name is a reference to the fictional https://bladerunner.fandom.com/wiki/World_War_Terminus["World War Terminus"] from the https://en.wikipedia.org/wiki/Blade_Runner_2049[Blade Runner 2049 (2019)] movie.
+The "Terminus" in the repo name seems to be a reference to Isaac Asimov's fictional https://asimov.fandom.com/wiki/Terminus[Terminus planet] which is called https://zh.wikipedia.org/wiki/端点星[端点星] in Chinese, but it is not clear where the 2049 comes from in that context. Forgetting the Chinese name, Terminus2049 could be a reference to the fictional https://bladerunner.fandom.com/wiki/World_War_Terminus["World War Terminus"] from the https://en.wikipedia.org/wiki/Blade_Runner_2049[Blade Runner 2049 (2019)] movie, which also explains the 2049.
 
 First commint on 2018-04-27, GitHub pages domain blocked in China at least since 2019-03 according to <<greatfire>>: https://zh.greatfire.org/search/all/https%3A//terminus2049.github.io but not in <<github-gov-takedowns>> as of 2020-04.
 
@@ -2962,13 +2963,18 @@ image::https://upload.wikimedia.org/wikipedia/commons/8/8d/Love_play_in_China.jp
 [[falun-gong]]
 === Falun Gong 法輪大法
 
-https://en.wikipedia.org/wiki/Falun_Gong
+* https://en.wikipedia.org/wiki/Falun_Gong
+* https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong
+* https://en.wikipedia.org/wiki/610_Office
 
 <<flg-religion,Religion>> created in the '80s by a Chinese dude called <<li-hongzhi,Li Hongzhi>>.
 
 With the support of the Communist Party to Qigong movements, it reached 70 million believers in 1999, at which point the commies decided they had to be shut down and banned the religion.
 
 Li fled to the USA and lives near New York, where he continues to run the religion as of 2020.
+
+.Falun Gong believer arrested by police in Beijing <<tiananmen,Tiananmen Square>> in 15 August 2001. https://en.wikipedia.org/wiki/File:TAM_Arrest4.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/8/8a/TAM_Arrest4.jpg[height=500]
 
 .https://www.youtube.com/watch?v=ClvX7ED8UUI Tim and Eric's Zone Theory. If you want to stop Falun Gong, don't put them in jail like the dictators. Do it the same way you stop dictators: with <<funny,comedy>>. Otherwise, the dictators remain in power, and next person in jail, will be you.
 video::ClvX7ED8UUI[youtube,width=600,height=400]
@@ -3554,7 +3560,7 @@ But Ciro Santilli strongly believes that this is just a language barrier/FLG pro
 
 * absolute truth comes from an enlightened <<li-hongzhi,prophet>>, who is perfect and has superhuman abilities
 * weekly meetings where they read from a sacred book, either written by the prophet, or transcribed from his presentations to disciples, including the disciples questions, much like traditional Chinese texts like link:https://en.wikipedia.org/wiki/Analects[The Analects of Confucius]
-* prescribed daily meditation exercise hours, somewhat like Muslim https://en.wikipedia.org/wiki/Salah[Salah] prayers which they call https://en.wikipedia.org/wiki/Fazhengnian[发正念 (fa1 zheng4 nian4)]
+* prescribed daily meditation exercise hours, somewhat like Muslim https://en.wikipedia.org/wiki/Salah[Salah] prayers which they call https://en.wikipedia.org/wiki/Fazhengnian[发正念 (fa1 zheng4 nian4)], which means "send righteous thoughts". They seem to believe that this meditation helps external good magic things happen, so it is half meditation half prayer.
 * higher intelligent beings
 * other dimensions
 * aliens that look like humans are amongst us, they gave us part of our modern technology
@@ -3562,7 +3568,7 @@ But Ciro Santilli strongly believes that this is just a language barrier/FLG pro
 * an impending link:https://en.wikipedia.org/wiki/Last_Judgment[final judgment]-like event, which will happen "very soon" (<<flg-verifiable,unspecified date>>), and in which the just will be rewarded
 +
 I predict that when <<li-hongzhi>> dies, the claim will be that he went to another dimension so save us all, therefore putting this final judgment on hold, a bit like Jesus.
-* link:https://en.wikipedia.org/wiki/Open-air_preaching[street preaching] with stands and leaflets on the streets exactly like https://en.wikipedia.org/wiki/Jehovah's_Witnesses[Jehovah's Witnesses]. The Falun Gong organization also specifies guidelines on how to preach, although these might not be <<flg-canon,canon>>, even though if they are not, it is extremely likely that <<li-hongzhi,LHZ>> is directly involved in their specification
+* link:https://en.wikipedia.org/wiki/Open-air_preaching[street preaching] (TODO Falun Gong name for it) with stands and leaflets on the streets exactly like https://en.wikipedia.org/wiki/Jehovah's_Witnesses[Jehovah's Witnesses]. The Falun Gong organization also specifies guidelines on how to preach, although these might not be <<flg-canon,canon>>, even though if they are not, it is extremely likely that <<li-hongzhi,LHZ>> is directly involved in their specification
 +
 Falun Gong has also used <<flg-telemarketing,phone call preaching>>.
 
