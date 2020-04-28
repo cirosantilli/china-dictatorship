@@ -2642,6 +2642,16 @@ The "Terminus" in the repo name seems to be a reference to Isaac Asimov's fictio
 
 First commint on 2018-04-27, GitHub pages domain blocked in China at least since 2019-03 according to <<greatfire>>: https://zh.greatfire.org/search/all/https%3A//terminus2049.github.io but not in <<github-gov-takedowns>> as of 2020-04.
 
+The full post list can be seen most conveniently at: https://github.com/Terminus2049/Terminus2049.github.io/tree/master/_posts The number of articles is insane, usually several every day.
+
+Most articles appear to be taken from recent news at the time of writting, although there are a few from before the repo started. As of 2020-04, the oldest article was from 2016 Metoo events reported by Yue Xin (岳昕), some other topics include:
+
+* <<gay-rights>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2018-04-14-LGBTRights-advocacy-china.md
+* <<nine-nine-six-icu>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2019-04-04-996-ICU.md
+* <<daryl-morey-tweet>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2019-10-11-NBA.md
+
+They use Jekyll tags a lot, which makes for a good grouping of the topics.
+
 In 2020-04-25, it was reported that three Beijing-based contributors were arrested during <<corona>>:
 
 * https://www.scmp.com/news/china/politics/article/3081569/chinese-activists-detained-after-sharing-censored-coronavirus
@@ -2659,6 +2669,15 @@ TODO what are their GitHub accounts? Contributions appear to be anonymized behin
 
 .Side-by-side photos of Chen Mei (陈玫) and Cai Wei (蔡伟). https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html[Source].
 image::https://web.archive.org/web/20200426091658im_/https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html/image1.png/@@images/6a3e66d5-bf3d-41c1-9add-21dd48ac0b87.png[height=400]
+
+====== chinatimeline
+
+https://github.com/chinatimeline/chinatimeline.github.io
+
+Explores several sentitive topics through interesting timelines with many pictures, for example:
+
+* <<tiananmen>>: https://chinatimeline.github.io/tiananmen/
+* <<corona>>: https://chinatimeline.github.io/wuhan-coronavirus/
 
 [[zhihu]]
 ==== Zhihu 知乎
