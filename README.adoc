@@ -2627,7 +2627,7 @@ Non-information but also interesting:
 [[terminus2049]]
 ====== Terminus2049 端点星计划
 
-* https://github.com/cirosantilli/Terminus2049.github.io
+* https://github.com/Terminus2049/Terminus2049.github.io
 * https://terminus2049.github.io/
 
 Jekyl GitHub Pages repository that saves full text copies of censored articles. Summary:
