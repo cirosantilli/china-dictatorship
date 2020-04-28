@@ -2620,6 +2620,13 @@ Mentioned in other sections:
 * https://github.com/jasonqng/chinese-keywords mentioned at <<where-can-i-find-good-words-for-a-keyword-attack>>
 * https://github.com/programthink/zhao from <<programthink>>
 
+Interesting users:
+
+* https://github.com/gfw-breaker
+** appears to give a lot of focus to <<falun-gong>>, e.g.:
+*** https://github.com/gfw-breaker/truth Falun Gong information repository
+*** https://github.com/gfw-breaker/banned-news1 automatic scraper of news from banned websites into the repository, with top sites being <<falun-gong-media>>
+
 Non-information but also interesting:
 
 * https://github.com/lurongkai/anti-baidu
@@ -2678,6 +2685,7 @@ Explores several sentitive topics through interesting timelines with many pictur
 
 * <<tiananmen>>: https://chinatimeline.github.io/tiananmen/
 * <<corona>>: https://chinatimeline.github.io/wuhan-coronavirus/
+* religious persecution, including <<falun-gong>>: https://chinatimeline.github.io/religion_tl1/
 
 [[zhihu]]
 ==== Zhihu 知乎
