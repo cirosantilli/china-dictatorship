@@ -910,7 +910,7 @@ When the dictatorship turns again you our your family, will you fight, or will y
 
 It is easy to reach an agreement, when everyone who disagrees goes to jail or gets killed due to https://en.wikipedia.org/wiki/Inciting_subversion_of_state_power[Inciting subversion of state power 煽动颠覆国家政权罪].
 
-Also ask <<tiananmen,these guys>>, and <<falun-gong,these>>, and <<xinjiang,these>>.
+Also ask the millions of people who were affected by <<tiananmen>>, <<falun-gong>>, <<xinjiang>> or <<dissidents>>.
 
 One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy Few" (2018)], which which people are forced to be happy. <<nineteen-eighty-four>> also comes to mind of course.
 
@@ -2646,6 +2646,7 @@ In 2020-04-25, it was reported that three Beijing-based contributors were arrest
 
 * https://www.scmp.com/news/china/politics/article/3081569/chinese-activists-detained-after-sharing-censored-coronavirus
 * https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html Chinese article, gives the Chinese names, and some background on the arrested people
+* https://qz.com/1846277/china-arrests-users-behind-github-coronavirus-memories-page/
 
 People:
 
@@ -4270,6 +4271,7 @@ image::http://web.archive.org/web/20200301203622if_/https://66.media.tumblr.com/
 Other sections:
 
 * <<people-arrested-for-reporting-on-the-2019-corona-virus>>
+* <<terminus2049>> contributors: Chen Mei (陈玫), Cai Wei (蔡伟), Xiao Tang (小唐)
 
 Other lists:
 
