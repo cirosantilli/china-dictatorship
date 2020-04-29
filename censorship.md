@@ -1,7 +1,5 @@
 # Censorship 审查
 
-- <http://en.wikipedia.org/wiki/Censorship_in_China>
-- <http://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5>
 
 ## Climb the Great Firewall 翻墙
 
@@ -97,8 +95,6 @@ Skype TODO status?:
 
 ## Books 书籍
 
-- <https://en.wikipedia.org/wiki/Book_censorship_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%87%BA%E7%89%88%E7%89%A9%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6>
-- <http://www.bannedbook.org/>
 - <http://book.edoors.com/category/834>
 
 ## Films 电影
@@ -108,11 +104,6 @@ Skype TODO status?:
 ## Shows 电视节目
 
 - Big Bang Theory <https://en.wikipedia.org/wiki/The_Big_Bang_Theory> <http://mic.com/articles/89051/china-has-banned-the-big-bang-theory-for-the-very-reason-the-u-s-loves-it>
-
-## Music 音乐
-
-- Joan Baez - China <https://www.youtube.com/watch?v=ThmknUWoab4>
-- A song was heard in China (Author?) <https://www.youtube.com/watch?v=viKGP39DWzM>
 
 ## Effects
 
