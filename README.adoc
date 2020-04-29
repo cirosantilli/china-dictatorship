@@ -2702,7 +2702,7 @@ Explores several sentitive topics through interesting timelines with many pictur
 
 https://en.wikipedia.org/wiki/Zhihu
 
-The Chinese <<quora,Quora>> clone with Chinese characteristics (<<censorship,political censorship>>).
+The Chinese <<quora,Quora>> clone with Chinese characteristics (<<censorship,political censorship>> https://www.quora.com/How-strict-is-Zhihus-content-censorship[]).
 
 Some interesting questions not related to <<ciro-santilli>>. Ciro related questions at: <<zhihu-questions-related-to-ciro-santilli>>.
 
@@ -2876,6 +2876,13 @@ ____
 https://www.quora.com/profile/Ciro-Santilli
 
 Quora is a generally shitty website, with mechanisms that allow <<wumao,wumaos>> to quench freedom of speech.
+
+Ironically, is it also blocked in China:
+
+* according to <<greafire>>: https://en.greatfire.org/https/www.quora.com
+* 2018-03 news coverage https://www.businessinsider.com/china-banned-zhihu-over-censorship-2018-3?r=US&IR=T
+
+Examples of activity related to Ciro Santilli:
 
 * 2016 Ciro Santilli's profile was blocked because it had Chinese keywords on both my username and credentials. Justification: "non-English".
 +
