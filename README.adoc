@@ -5018,7 +5018,8 @@ For materials hosted on GitHub, see: <<github-repositories-with-censored-informa
 ** https://en.wikipedia.org/wiki/Book_censorship_in_China
 ** https://zh.wikipedia.org/wiki/中华人民共和国出版物审查制度
 
-====== bannedbook.org
+[[bannedbook-org]]
+====== bannedbook.org 禁书网
 
 https://www.bannedbook.org
 
