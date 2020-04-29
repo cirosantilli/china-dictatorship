@@ -1306,6 +1306,10 @@ Keywords:
 * Chinazi (赤纳粹). TODO why 赤. Means Red, but where else is it used?
 * link:https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum[Reductio ad Hitlerum]
 
+Articles:
+
+* http://yashalong.blog.caixin.com/archives/188877 这么好的人民，不倒点霉都对不起他们 "These are such good people, if they have a bit of bad luck, excuse them." article by yashalong 押沙龙 published on <<caixin>>. The article discusses how Nazi Germany propaganda worked, without mention to the CCP, but it was still apparently https://www.bannedbook.org/bnews/baitai/20190816/1175647.html[banned in China].
+
 See also: <<communist-youth-league>>.
 
 .Photoshopped <<xi-jinping>> with raised fist with Nazi uniform and flag on the background. https://www.reddit.com/r/HongKong/comments/cuf3p7/chinazi_xitler/[Source].
