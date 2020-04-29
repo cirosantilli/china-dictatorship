@@ -24,7 +24,7 @@ toc::[]
 This repo has the following goals:
 
 * allow copy pasting links to answers to questions/comments that have been posted a million times before by <<wumao>>, mostly under: <<faq>>. This was the original goal.
-* serve as a censorship bomb to block GitHub in China: <<keyword-attack>> to destroy the <<gfw>> and <<dictator-needs-gfw,therefore the CCP>>. Or more realistically get added to the <<github-gov-takedowns>> hall of fame.
+* serve as a censorship bomb to block <<github>> in China: <<keyword-attack>> to destroy the <<gfw>> and <<dictator-needs-gfw,therefore the CCP>>. Or more realistically get added to the <<github-gov-takedowns>> hall of fame.
 * be a fun and sometimes silly source of Chinese mostly anti-CCP culture like a better https://en.uncyclopedia.co/wiki/China[Unencyclopedia] / https://web.archive.org/web/20191209021646/http://encyclopediadramatica.rs/China[Encyclopedia Dramatica] without the stupid stereotype jokes. Just quickly browse the pictures with Ctrl + F "Figure" and have fun.
 * serve as a place where people can post interesting related stuff in the issues: https://github.com/cirosantilli/china-dictatorship/issues see also: <<shitpost>>
 * highlight positive about China's culture outside of its shitty government, such as <<the-best-chinese-supermarket-food-products,food>> and <<music>>. This has two goals:
@@ -2610,6 +2610,8 @@ But remember that we also have: <<mirrors>>, and that this can be easily rendere
 
 ===== GitHub repositories with censored information
 
+For lists of censored information outside of GitHub see: <<lists-of-material-censored-in-china>>.
+
 Content outside of GitHub: <<lists-of-material-censored-in-china>>.
 
 * taibangle (太棒了)
@@ -2879,7 +2881,7 @@ Quora is a generally shitty website, with mechanisms that allow <<wumao,wumaos>>
 
 Ironically, is it also blocked in China:
 
-* according to <<greafire>>: https://en.greatfire.org/https/www.quora.com
+* according to <<greatfire>>: https://en.greatfire.org/https/www.quora.com
 * 2018-03 news coverage https://www.businessinsider.com/china-banned-zhihu-over-censorship-2018-3?r=US&IR=T
 
 Examples of activity related to Ciro Santilli:
@@ -3683,6 +3685,7 @@ Like any other religion, they have all the right to take those actions, and it i
 
 The only thing that annoys me is their lack of self perception on this matter: the large majority of Western people would definitely classify them as an organized political force after having observed their activities. When they say otherwise, they are hurting their own credibility.
 
+[[flg-transparent]]
 ====== FLG media is not transparent about its affiliation
 
 Agreed, and it is a point that hurts more than helps their cause.
@@ -4515,6 +4518,21 @@ News and reports:
 * http://dongtaiwang.com
 ** https://en.wikipedia.org/wiki/Freegate
 * https://twitter.com/jenniferatntd Jennifer Zeng 曾錚 https://en.wikipedia.org/wiki/Jennifer_Zeng
+* https://hongzhi.li/ nice https://en.wikipedia.org/wiki/Domain_hack[domain hack]
+* https://www.qi-gong.me/
+
+[[bannedbook-org]]
+===== bannedbook.org 禁闻网
+
+The main Chinese name is 禁闻网 which stands for "banned news network", and is more accurate than the domain name "bannedbook" since the majority of material published appears to be recent banned articles.
+
+Classifying this as Falun Gong media because most or possibly all of the sidebar recommended websites 推荐网站 are also Falun Gong media e.g. as of 2020-04: https://web.archive.org/web/20200427221744/https://www.bannedbook.org/[] includes Epoch times and https://hongzhi.li/[], so yeah, not much doubt.
+
+From this we deduce that the "banned book" in the domain name originally likely referred more specifically to the banned Falun Gong sacred books: <<flg-canon>>.
+
+Once again, <<flg-transparent>> is in need.
+
+TODO who is behind this website? They store full text copies of banned articles, e.g. https://www.bannedbook.org/bnews/baitai/20190816/1175647.html is a full text copy of http://yashalong.blog.caixin.com/archives/188877 which is mentioned at: <<nazi>>.
 
 [[new-tang-dinasty-television]]
 ===== New Tang Dinasty Television 新唐人電視台
@@ -4677,6 +4695,8 @@ Known primarily for its mine, which was one of the oldest operating companies in
 https://en.wikipedia.org/wiki/Book_censorship_in_China | https://zh.wikipedia.org/wiki/中华人民共和国出版物审查制度
 
 Either banned, or relevant.
+
+For other censored material types, see: <<lists-of-material-censored-in-china>>.
 
 [[nineteen-eighty-four]]
 === Nineteen Eighty-Four: A Novel (AKA "1984") 一九八四 (1949)
@@ -5014,16 +5034,12 @@ It also keeps a calendar of previous checks so you can see when a website starte
 
 For materials hosted on GitHub, see: <<github-repositories-with-censored-information>>.
 
-* Wikipedia page "Book censorshpi in China"
-** https://en.wikipedia.org/wiki/Book_censorship_in_China
-** https://zh.wikipedia.org/wiki/中华人民共和国出版物审查制度
+For books, see: <<books>>
 
-[[bannedbook-org]]
-====== bannedbook.org 禁书网
+Websites:
 
-https://www.bannedbook.org
-
-TODO who is behind this website? They store full text copies of banned articles, e.g. https://www.bannedbook.org/bnews/baitai/20190816/1175647.html is a full text copy of http://yashalong.blog.caixin.com/archives/188877 which is mentioned at: <<nazi>>.
+* <<falun-gong-media>> contains a few:
+** <<bannedbook-org>>
 
 ===== gfwlist
 
