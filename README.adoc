@@ -1339,6 +1339,13 @@ image::https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Hitler-car.jpg/640px
 .Chinazi flag by <<2019-hong-kong-anti-extradition-bill-protests,Hong Kong protesters>>. Seen https://chinadigitaltimes.net/chinese/2019/08/【盛世一景】赤纳粹旗（chinazi-flag）/[on streets]. https://www.reddit.com/r/HongKong/comments/dbrken/google_bomb_china_flag_search_query_into_chinazi/[Source].
 image::https://web.archive.org/web/20191003190442if_/https://i.redd.it/c0d340rtswp31.png[height=400]
 
+[[xi-salute-young-pioneers-nazi]]
+.Xi Jinping basically <<nazi,Nazi saluting>> kids from <<young-pioneers-of-china>> in Beijing, June 1, 2015. http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[Source] (http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[biased]).
+image::https://web.archive.org/web/20200109143505im_/http://www.xinhuanet.com/english/2019-06/01/XxjwshE007055_20190601_CBMFN1A006_11n.jpg[height=500]
+
+.https://www.youtube.com/watch?v=wD53MEbLDIE <<serpentza-laowhy86,laowhy86>> video "Can We Compare China to Nazi Germany?" published on 2020-04-29. Good side-by-side video comparisons.
+video::wD53MEbLDIE[youtube,height=400,width=600]
+
 === Personal questions about Ciro Santilli
 
 ==== Can I contact you in Chinese?
@@ -2109,7 +2116,7 @@ video::ULaJVWOr4ko[youtube,height=400,width=600]
 * 2019-02-17 https://www.scmp.com/news/china/politics/article/2186547/china-data-leak-exposes-vast-hi-tech-surveillance-operation "China data leak exposes vast hi-tech surveillance operation in Xinjiang", leak by SenseNets Technology.
 * https://www.nytimes.com/2019/07/30/world/asia/china-xinjiang.html
 * 2019-03 https://shahit.biz/eng/ database of Xinjiang victims, with precise names, location, date of birth and ID card number of victims and testimonies
-* 2018-12 https://www.youtube.com/watch?time_continue=8&v=dsd1NkCKaNg In full: 'I begged them to kill me' - ex-Xinjiang detainee Mihrigul Tursun gives testimony in the US
+* 2018-12 https://www.youtube.com/watch?time_continue=8&v=dsd1NkCKaNg In full: 'I begged them to kill me' - ex-Xinjiang detainee Mihrigul Tursun gives testimony in the US. Observers however rightly brought up the https://en.wikipedia.org/wiki/Nayirah_testimony[Nayirah testimony].
 +
 video::dsd1NkCKaNg[youtube,height=400,width=600]
 * 2018-11 https://www.bbc.co.uk/news/world-asia-45812419 Xinjiang legalizes 're-education' camps
@@ -5181,7 +5188,8 @@ https://en.wikipedia.org/wiki/Belt_and_Road_Initiative | https://zh.wikipedia.or
 [[communist-youth-league]]
 === Communist Youth League of China 中国共产主义青年团
 
-https://en.wikipedia.org/wiki/Communist_Youth_League_of_China
+* https://en.wikipedia.org/wiki/Communist_Youth_League_of_China
+* https://zh.wikipedia.org/wiki/中国少年先锋队
 
 Had a membership of 109 million (by the https://en.wikipedia.org/wiki/17th_National_Congress_of_the_Communist_Party_of_China[17th National Congress]).
 
@@ -5195,6 +5203,18 @@ One may argue that https://en.wikipedia.org/wiki/The_Scout_Association[the scout
 Related news:
 
 * 2020-02-19: https://supchina.com/2020/02/19/communist-youth-league-patriotic-idols/ "The Communist Youth League Thought It Was Creating Patriotic Idols. Instead, It Started A Conversation About Women's Rights". The anime-style mascots are named Jiangshanjiao 江山娇 and Hongqiman 红旗漫.
+
+[[young-pioneers-of-china]]
+==== Young Pioneers of China 中国少年先锋队
+
+* https://en.wikipedia.org/wiki/Young_Pioneers_of_China
+* https://zh.wikipedia.org/wiki/中国少年先锋队
+
+<<brainwashed-by-usa,Brainwashing>> for kids younger than the <<communist-youth-league>>.
+
+[[xi-salute-young-pioneers]]
+.Xi Jinping basically <<nazi,Nazi saluting>> representatives attending the 7th National Congress of the Chinese Young Pioneers in Beijing, June 1, 2015. http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[Source] (http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[biased]).
+image::https://web.archive.org/web/20200109143505im_/http://www.xinhuanet.com/english/2019-06/01/XxjwshE007055_20190601_CBMFN1A006_11n.jpg[height=500]
 
 [[one-child-policy]]
 === One-child policy 一孩政策
