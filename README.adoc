@@ -952,6 +952,65 @@ However, this is all obviously subjective, and believing that dictatorship is a 
 
 If you find an event on a Western democracy that you would like to highlight, send a pull request. We will not however include events that are not currently censored. Every country did fucked-up things in the past, the question is if they currently allow discussion about it or not.
 
+This "Western censorship string" https://www.reddit.com/r/China/comments/gct0ox/all_moderation_services_suspended_for_the_next_24/fpeends/[was posted automatically] by a bot during <<anti-commie-info,r/China>> purge day:
+
+____
+North Dakota Access Pipeline Protests 北达科他州接入管道抗议 +
+Ferguson Riots 弗格森暴动 +
+2017 St. Louis protests2017 年圣路易斯抗议活动 +
+Nuclear testing at Bikini Atoll 比基尼环礁的核试验 +
+Unite the Right rally 团结右集会 +
+Charlotte riots 夏洛特暴动 +
+Attack on the Sui-ho Dam 袭击穗河水坝 +
+Milwaukee riots 密尔沃基骚乱 +
+Shooting of Alton Sterling and Philando Castile 奥尔顿·斯特林和菲兰多·卡斯蒂利亚的射击 +
+Occupation of the Malheur NationalWildlife Refuge Malheur国家野生动物保护区的占领 +
+death of Freddie Gray 弗雷迪·格雷的死 +
+Shooting of Michael Brown迈克尔·布朗的拍摄 +
+death of Eric Garner, Oakland California 奥克兰奥克兰市埃里克·加纳（Eric Garner）逝世 +
+Operation Condor 神鹰行动 +
+Occupy WallStreet 占领华尔街 +
+My Lai Massacre 我的大屠杀 +
+St. Petersburg, Florida 佛罗里达州圣彼得堡 +
+Kandahar Massacre 坎大哈屠杀 +
+1992Washington Heights riots 1992年华盛顿高地暴动 +
+No Gun Ri Massacre 无枪杀案 +
+L.A. Rodney King riots 洛杉矶罗德尼·金暴动 +
+1979 Greensboro Massacre 1979年格林斯伯勒大屠杀 +
+Vietnam War 越南战争 +
+Kent State shootings肯特州枪击案 +
+Bombing of Tokyo 轰炸东京 +
+San Francisco Police Department Park Station bombing 旧金山警察局公园站爆炸案 +
+Assassination of MartinLuther King, Jr. 小马丁·路德·金遭暗杀。 +
+Long Hot Summer of 1967 1967年炎热的夏天 +
+Bagram 巴格拉姆 +
+Selma to Montgomery marches 塞尔玛到蒙哥马利游行 +
+Highway of Death 死亡之路 +
+Ax Handle Saturday 星期六斧头 +
+Battle of Evarts 埃瓦茨战役 +
+Battle ofBlair Mountain 布莱尔山战役 +
+McCarthyism 麦卡锡主义 +
+Red Summer 红色夏天 +
+Rock Springs massacre 岩泉大屠杀 +
+Pottawatomie massacre 盆大屠杀 +
+Jeju uprising 济州起义 +
+Colfaxmassacre 科尔法克斯大屠杀 +
+Reading Railroad massacre 阅读铁路大屠杀 +
+Rock Springs massacre 岩泉大屠杀 +
+Bay viewMassacre 湾景大屠杀 +
+Lattimer massacre 拉蒂默大屠杀 +
+Ludlow massacre 拉德洛屠杀 +
+Everett massacre 埃弗里特屠杀Centralia Massacre 中部大屠杀 +
+Ocoee massacre Ocoee大屠杀 +
+Herrin Massacre 赫林大屠杀 +
+Redwood Massacre红木大屠杀 +
+Columbine Mine Massacre 哥伦拜恩矿难 +
+Guantanamo Bay 关塔那摩湾 +
+extraordinary rendition 非凡的演绎 +
+Abu Ghraib torture and prison abuse 阿布格莱布的酷刑和监狱虐待 +
+Henry Kissinger 亨利·基辛格
+____
+
 See also:
 
 * <<richer>>
@@ -2473,8 +2532,6 @@ If the user keeps generating notifications, warning + temporary block as per lin
 
 If initial post is outright useless and offensive, direct user block, with a link to the link:CONTRIBUTING.md[].
 
-Another reply strategy by C.K. Hung which might be of interest is: https://ckhung0.blogspot.com/2017/07/50-cents-party.html
-
 For outbursts of activity from Chinese websites, usually programming (v2ex, hacpai, pingcong), only post the following canned answer and nothing else, because cowards/people who don't know English from the website might delete your posts, so you shouldn't waste time there with that shit:
 
 ____
@@ -2518,6 +2575,8 @@ which means to talk to someone who does not have intellectual conditions of unde
 * https://www.theepochtimes.com/chinese-idiom-playing-the-qin-to-a-cow_766205.html
 * https://baike.baidu.com/item/对牛弹琴/3490
 
+More <<wumao,wumao>> focused strategies at: <<how-to-deal-with-wumaos>>.
+
 .Cartoon depiction of the https://en.wikipedia.org/wiki/Chengyu[chengyu] "Playing the <<music,qin>> to a cow" 《对牛弹琴》. https://zhidao.baidu.com/question/438181067.html[Source].
 image::https://web.archive.org/web/20200120094357im_/https://iknow-pic.cdn.bcebos.com/a8773912b31bb051adcb2e6a3b7adab44bede081?x-bce-process=image/resize,m_lfit,w_600,h_800,limit_1[height=600]
 
@@ -2529,14 +2588,14 @@ image::https://web.archive.org/web/20191113231107if_/https://imgs.xkcd.com/comic
 [[ciro-santilli]]
 ==== Ciro Santilli 三西猴
 
-Original creator: https://cirosantilli.com/
+Original creator of https://github.com/cirosantilli/china-dictatorship[]: https://cirosantilli.com/
 
 [[wife]]
 ===== Ciro Santilli's wife 三西猴的老婆
 
 Born and raised in China: <<why-does-ciro-santilli-love-china-so-much>>.
 
-She and her mother do <<falun-gong>>, see also, see also: <<flg-bias>>.
+She and her mother do <<falun-gong>>, see also: <<flg-bias>>.
 
 Believes to be descendant of the brother of a recent Qing emperor, see also: <<throne>>.
 
@@ -3104,7 +3163,7 @@ He thinks that FLG exercises and meditation could be good for you, just like man
 
 However he finds the metaphysics and "obligations to reach Salvation" boring like for any other prophetic <<flg-religion,religion>> or <<flg-cult,cult>>.
 
-The absolute truth is already known by the xref:li-hongzhi[prophet], although he does not want to give clear evidence for reasons: <<flg-verifiable>: <<flg-verifiable>>
+The absolute truth is already known by the xref:li-hongzhi[prophet], although he does not want to give clear evidence for reasons: <<flg-verifiable>>.
 And you just repeat these truths over and over and over:
 
 * FLG is good
@@ -3347,6 +3406,29 @@ Jesus answered him, "It is also written: 'Do not put the Lord your God to the te
 ____
 
 Ah good old prophets, their tricks haven't changed a bit in 2 thousand years! This is why <<ciro-santilli>> follows instead the religion of <<democracy-is-a-religion,science and freedom of speech>>: those religions instead say: test your God. Test your God a billion times. And if your God proves wrong just once, disbelieve it.
+
+The Pontius Pilate Scene from https://en.wikipedia.org/wiki/The_Last_Temptation_of_Christ_(film)[The Last Temptation of Christ (1988)] comes to mind, quotes:
+
+____
+Pontius: It's also said that you do miracles? Is this good magic or bad magic? Can we have some sort of demonstration?
+
+Jesus: No, I'm not a trained animal, I'm not a magician.
+
+Pontius: Well, that's disappointing. This means that you are just another Jewish politician.
+____
+
+and:
+
+____
+Pontius: It's one way to change the way that people live, but you want to change the way that they think and that they feel.
+
+Jesus: All I'm saying is the change will happen with love. Not with killing.
+
+Pontius: Either way it's dangerous. It's against Rome. It's against the way the world is. In killing or loving, it's all the same. It simply doesn't matter how you want to change things, we don't want them changed.
+____
+
+.https://youtube.com/watch?v=pXGsio9H1xs The Last Temptation of Christ (1988) - Pontius Pilate Scene (5/10) | Movieclips.
+video::pXGsio9H1xs[youtube,height=400,width=600]
 
 [[flg-cult]]
 ===== FLG is a very new religion and therefore fake
@@ -5307,10 +5389,6 @@ And at https://www.youtube.com/watch?v=GRqcA04FtmM he says <<serpentza-laowhy86,
 
 Strategies for dealing with Wumao:
 
-* <<reply-policy>>.
-* https://github.com/ckhung[C.K. Hung]'s wumao reply strategy: https://ckhung0.blogspot.com/2017/07/50-cents-party.html 為什麼我不刪五毛的回應反而要刪你的回應?
-* https://chinadigitaltimes.net/chinese/2019/08/【麻辣总局】新型敏感词武器：赵弹磁铁/
-
 Bibliography:
 
 * 2020-03-12 https://twitter.com/jenniferatntd/status/1238076579466674178 Jennifer Zeng's 曾錚 publishing of purported Wumao guidelines with translation. Translated title: "CAC (https://en.wikipedia.org/wiki/Cyberspace_Administration_of_China[Cyberspace Administration of China]) Internal Documentation for Internet Commentators (no spreading)"
@@ -5320,6 +5398,13 @@ Bibliography:
 * 2015-05-20 https://www.rfa.org/english/news/china/files-05202015150018.html "Hackers Leak Files Showing Inner Workings of 'China's 50-Cent Army'", hacker group name "Unicorn Nocturne". TODO material, silly reporters that don't give links
 * 2014 emails of some Wumaos were hacked/phished and leaked at https://xiaolan.me/50-cent-party-jxgzzg.html (down, no web archive, but https://archive.is/BNNQe[]) revealing operational details
 ** https://qz.com/311832/hacked-emails-reveal-chinas-elaborate-and-absurd-internet-propaganda-machine/
+
+[[how-to-deal-with-wumaos]]
+===== How to deal with wumaos 如何应对五毛
+
+* <<reply-policy>>
+* https://github.com/ckhung[C.K. Hung]'s wumao reply strategy: https://ckhung0.blogspot.com/2017/07/50-cents-party.html "為什麼我不刪五毛的回應反而要刪你的回應? 因為你只能跟人類講道理， 沒辦法跟原始物種講道理啊!" "Why I delete your posts, but I don't delete wumao's posts? Because it is only possible to reason with humans, it is not possible to reason with primitive animals!"
+* https://chinadigitaltimes.net/chinese/2019/08/【麻辣总局】新型敏感词武器：赵弹磁铁/
 
 [[real-username-law]]
 ==== Real username law (2015)
