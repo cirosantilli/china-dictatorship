@@ -952,7 +952,7 @@ However, this is all obviously subjective, and believing that dictatorship is a 
 
 If you find an event on a Western democracy that you would like to highlight, send a pull request. We will not however include events that are not currently censored. Every country did fucked-up things in the past, the question is if they currently allow discussion about it or not.
 
-This "Western censorship string" https://www.reddit.com/r/China/comments/gct0ox/all_moderation_services_suspended_for_the_next_24/fpeends/[was posted automatically] by a bot during <<anti-commie-info,r/China>> purge day:
+This "Western censorship string" https://www.reddit.com/r/China/comments/gct0ox/all_moderation_services_suspended_for_the_next_24/fpeends/[was posted automatically] by a bot during <<anti-ccp-info-sources,r/China>> purge day:
 
 ____
 North Dakota Access Pipeline Protests 北达科他州接入管道抗议 +
@@ -1133,7 +1133,7 @@ While we are at it, some interesting news:
 
 Poisonings: Russia apparently has a long list of poisoning political enemies: https://nypost.com/2018/06/23/inside-russias-long-history-of-poisoning-political-enemies/
 
-* https://en.wikipedia.org/wiki/Poison_laboratory_of_the_Soviet_secret_services[Poison laboratory of the Soviet secret services] (https://ru.wikipedia.org/wiki/Токсикологическая_лаборатория_НКВД_—_НКГБ_—_МГБ[Токсикологическая лаборатория НКВД — НКГБ — МГБ])
+* https://en.wikipedia.org/wiki/Poison_laboratory_of_the_Soviet_secret_services[Poison laboratory of the Soviet secret services] (link:++https://ru.wikipedia.org/wiki/Токсикологическая_лаборатория_НКВД_—_НКГБ_—_МГБ++[Токсикологическая лаборатория НКВД — НКГБ — МГБ])
 * <<skripal>>
 * 2012 Alexander Perepilichny Перепеличный, Александр Юрьевич https://en.wikipedia.org/wiki/Alexander_Perepilichny | https://ru.wikipedia.org/wiki/Перепеличный,_Александр_Юрьевич
 * 2004 Anna Politkovskaya Анна Политковская https://en.wikipedia.org/wiki/Anna_Politkovskaya | https://ru.wikipedia.org/wiki/Политковская,_Анна_Степановна
@@ -1313,6 +1313,12 @@ image::https://web.archive.org/web/20200301233451/https://img.ifunny.co/images/5
 
 .https://www.youtube.com/watch?v=ZT2z0nrsQ8o "Rasputin vs Stalin." Epic Rap Battles of History YouTube video. This is fire. https://epicrapbattlesofhistory.fandom.com/wiki/Rasputin_vs_Stalin/Rap_Meanings[Explanations].
 video::ZT2z0nrsQ8o[youtube,height=400,width=600]
+
+[[anti-russia-dictatorship-info-sources]]
+==== Anti Russia dictatorship sources
+
+* https://www.rferl.org/ Radio Free Europe: USA funded sister media of <<radio-free-asia>>: https://en.wikipedia.org/wiki/Radio_Free_Europe/Radio_Liberty
+* https://meduza.io/en
 
 === Is the Chinese government evil?
 
@@ -1737,7 +1743,7 @@ The Internet gives everyone the magic power of writing something, and having mil
 This is how much time Ciro spends on this project to give you an idea:
 
 * every week or two, someone sends me a message, he reply with "read the FAQ", and usually update
-* Ciro https://www.reddit.com/r/China amongst many other programming subs, and all major bad news show up there. See also: <<anti-commie-info>>
+* Ciro https://www.reddit.com/r/China amongst many other programming subs, and all major bad news show up there. See also: <<anti-ccp-info-sources>>
 * when something bad enough comes up, Ciro go to https://chinadigitaltimes.net/china/sensitive-words-series/ and update <<keyword-attack,his keyword attack>>. He's only been updating it on Stack Overflow and GitHub these days.
 
 Then Ciro just contributes to programming websites exactly as he would if he weren't making this campaign, and voila.
@@ -1856,10 +1862,10 @@ This type of attack is essentially an <<embargo>>.
 
 See also: <<photobombing-like-attacks>>.
 
-[[anti-commie-info]]
-==== What are the best sources of anti-commie news?
+[[anti-ccp-info-sources]]
+==== What are the best sources of anti-CCP news?
 
-https://www.reddit.com/r/China
+https://www.reddit.com/r/China[], see also: <<reddit>>
 
 Catches all the important news
 
@@ -1872,6 +1878,15 @@ Highly worth your feed.
 Reddit was banned in China in August 2018: https://www.reddit.com/r/China/comments/965k4c/reddit_banned_in_china/
 
 Tencent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-banned-in-china-is-reportedly-set-to-land-150-1832375439 See also: <<biased-media>>.
+
+[[reddit]]
+===== Reddit subs with lots of anti-commie info
+
+* https://www.reddit.com/r/China is arguably the best as of 2020, see also: <<anti-ccp-info-sources>>
+* https://www.reddit.com/r/fucktheccp/ small as of 2020 but promising
+* https://www.reddit.com/r/HongKong had 3x more users than r/china as of 2020 after <<2019-hong-kong-anti-extradition-bill-protests>>.
+* https://www.reddit.com/r/Sino/ TODO understand what that bullshit sub is about
+* https://www.reddit.com/r/CCP_virus/ for <<corona>>
 
 ==== Where can I find good words for a keyword attack?
 
@@ -3471,6 +3486,10 @@ There are also however some points which Ciro feels don't apply, and Ciro praise
 * "Dual Purposes": not much of that, most of their propaganda is "we are persecuted unfairly by China", not "let's help the poor"
 * "The End Justifies The Means": Li has made it clear that believers must follow the laws of their countries. Cults that violate this tend to not last as long, this is the smart move for cult leaders.
 
+And some points which Ciro feels apply which were mentioned in some other article, (or maybe in Orange Papers but he couldn't find them, TODO find reference?)
+
+* "No time for fun": how could you possibly spend leisure time watching television, etc. when you could be saving the world instead?
+
 This is especially interesting, because the website does not mention Falun Gong at all it seems: it really seems that all those cults are very similar.
 
 It should also be mentioned though that these points extend to any type of human organization, e.g. <<flg-religion,other religions>>, <<democracy-is-a-religion,political parties>>, job associations, etc.
@@ -3826,7 +3845,7 @@ See also: <<flg-daily>>.
 
 Many FLG practitioners claim that they are not at all organized, or that they have no political interest, and I truly believe that they mean it.
 
-But it is obvious from the size of the <<flg-media>>, namely:
+But it is obvious from the size of the <<falun-gong-media>>, namely:
 
 * NDTV Television Network
 * Epoch Times newspaper
@@ -4214,7 +4233,7 @@ image::https://upload.wikimedia.org/wikipedia/commons/6/60/1966-10_1966年毛泽
 
 Trying to keep only "neutral" sources here, let me know if you spot something too biased: <<biased-media>>.
 
-How I find them: <<anti-commie-info>>.
+How I find them: <<anti-ccp-info-sources>>.
 
 === News 2019
 
