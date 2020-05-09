@@ -2868,7 +2868,7 @@ I still get notifications however, but I am unable to reply to them, especially 
 
 The only action that I can take now is to report abusive comments people make to me.
 
-Obviously, the only effect of such ban is that I will create an anonymous account under Tor with a second cell phone if I wish to contribute in the future, and China will have less information about my political interests than before.
+Obviously, the only effect of such ban is that I will create an <<anonymous-accounts-ban,anonymous account>> under Tor with a second cell phone if I wish to contribute in the future, and China will have less information about my political interests than before.
 
 The private messages the website sends while banning you are:
 
@@ -3489,6 +3489,11 @@ There are also however some points which Ciro feels don't apply, and Ciro praise
 And some points which Ciro feels apply which were mentioned in some other article, (or maybe in Orange Papers but he couldn't find them, TODO find reference?)
 
 * "No time for fun": how could you possibly spend leisure time watching television, etc. when you could be saving the world instead?
+* "Focus on the persecution of the Cult": while obviously people who have been persecuted have the right, and almost an obligation, to look for help and share their stories, it is also clear that this is a selling point for the Cult.
++
+Why would a nation state attack a Cult? This could give the impression that it is because there is something powerful and true in the Cult, and actually menaces this nation state.
++
+For example, Falun Gong puts huge emphasis on its persecution in China, much like the https://en.wikipedia.org/wiki/Martyr[Martyrdom] of the Catholic Saints is highly emphasised.
 
 This is especially interesting, because the website does not mention Falun Gong at all it seems: it really seems that all those cults are very similar.
 
@@ -5361,6 +5366,28 @@ In 2014, almost 15 years later, <<russia>> finally caught up, what a relief: <<r
 * https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/
 * https://advox.globalvoices.org/2017/08/27/china-to-ban-anonymous-online-comments-blacklist-users/
 
+[[pornography-ban]]
+===== Pornography ban 色情禁令
+
+This will be the fall of China:
+
+* https://en.wikipedia.org/wiki/Pornography_in_China
+* https://www.quora.com/Why-is-pornography-banned-in-China
+
+And yet, every single Chinese teenager knows very well the meaning of "AV": Adult Video, the term https://en.wikipedia.org/wiki/Chronology_of_adult_videos_in_Japan[originating notably from Japan] (the Chinese really), which is one of the most common ways of referring to vide pornography.
+
+Curious, right?
+
+The <<nineteen-eighty-four>> quote "The sex instinct will be eradicated." comes to mind, see that section for fully context.
+
+Some news coverage:
+
+* 2020 during <<corona>>, while https://www.pornhub.com/press/show?id=1951[Pornhub was offering free premium subscriptions], China was cracking down on porn harder than usual
+** https://foreignpolicy.com/2020/03/06/internet-sex-coronavirus-no-porn-for-chinese-stuck-under-virus-lockdown/ FP report
+** (<<chinese-government-media,biased>>) http://www.xinhuanet.com/english/2019-12/25/c_138657340.htm "China intensifies crackdown on pornography, illegal publications"
+* 2018-01-15 https://www.bbc.co.uk/news/world-asia-china-42640569 "Sora Aoi: Japan's porn star who taught a Chinese generation about sex. When Japanese actress and former porn star Sora Aoi announced her marriage online, it set off a frenzy on Chinese social media."
+* 2017-06-17 https://qz.com/1001366/how-the-chinese-watch-porn-on-chinas-censored-internet/ "Watching porn on China’s censored internet is an infinitely evolving cat-and-mouse game"
+
 [[wumao]]
 ==== 50 Cent Party 五毛党 (Wumao Dang)
 
@@ -5690,7 +5717,7 @@ Other good lists:
 * https://www.quora.com/What-are-some-good-Chinese-classical-instrumental-album
 
 [[music-free]]
-=== Free music
+=== Free music 免费音乐
 
 Here are the few best I've seen. Not enough to replace the non-free, but pretty good.
 
@@ -5707,12 +5734,13 @@ Here are the few best I've seen. Not enough to replace the non-free, but pretty 
 ** John focuses on playing the tunes in a "historically informed performance", in particular using silk strings rather than metal ones which are used by most modern artists: http://www.silkqin.com/08anal/hip.htm
 * https://www.ibiblio.org/chinese-music/ several loose tracks for direct download. Not sure if legal, but has been up forever. The following sections are pretty good:
 ** https://www.ibiblio.org/chinese-music/html/traditional.html
-** https://www.ibiblio.org/chinese-music/html/anthology.html#Dream music from the https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(1987_TV_series)link:++https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(1987_TV_series)++["Dream of the Red Chamber" 1987 TV series]. Amazing!!!
+** https://www.ibiblio.org/chinese-music/html/anthology.html#Dream music from the https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(1987_TV_series)link:++https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(1987_TV_series)++["Dream of the Red Chamber" 1987 TV series]. Amazing!!! See also: <<television-series>>.
 
 [[music-not-free]]
 === Non-free music
 
-==== Master of Chinese Traditional Music
+[[master-of-chinese-traditional-music]]
+==== Master of Chinese Traditional Music 中国民族音乐大师系列
 
 20-CD anthology.
 
@@ -6467,11 +6495,31 @@ Not worth it:
 * https://en.wikipedia.org/wiki/British_Museum[British Museum], London, United Kingdom. Too much porcelain, too little painting.
 ** 2016-08 https://goo.gl/photos/brGPsCmLCD2cJsWb7
 
-== Chinese television 中国电视
+[[television-series]]
+== Chinese television series 中国电视剧
 
-Modern themed television is generally crap due to <<censorship>>, but this leads to a big focus on ancient stuff, and some of it is amazing.
+Modern themed television series are generally crap due to <<censorship>>, but this leads to a big focus on ancient stuff, and some of it is amazing.
 
-* 1994 https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_(TV_series) | https://zh.wikipedia.org/wiki/三国演义_(电视剧) The best  https://en.wikipedia.org/wiki/Three_Kingdoms[Three Kingdoms 三国] adaptation of all time? Mind blowing. There seems to exist a version with full Chinese + English subtitles: https://www.youtube.com/watch?v=0_r3eWfTMDs&list=PLdAMXqGeRsOkXzuocRkBPhe5RhZ6RotGH&index=2
+A good place to start are the canonical TV adaptations of the https://en.wikipedia.org/wiki/Classic_Chinese_Novels[Four Great Classic Novels] (https://zh.wikipedia.org/wiki/四大名著[四大名著])
+
+* 1994 Three Kingdoms
+** https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_(TV_series)
+** https://zh.wikipedia.org/wiki/三国演义_(电视剧)
+** The best https://en.wikipedia.org/wiki/Three_Kingdoms[Three Kingdoms 三国] adaptation of all time? Mind blowing
+** there seems to exist a version with full Chinese + English subtitles: https://www.youtube.com/watch?v=0_r3eWfTMDs&list=PLdAMXqGeRsOkXzuocRkBPhe5RhZ6RotGH&index=2
+* 1986 Journey to the West by the <<chinese-government-media,CCTV>>
+** https://en.wikipedia.org/wiki/Journey_to_the_West_(1986_TV_series)
+** https://zh.wikipedia.org/wiki/西游记_(中国中央电视台出品电视剧)
+** Legally published by CCTV with Chinese + English subtitles on <<censorship,YouTube>>: https://www.youtube.com/playlist?list=PLIj4BzSwQ-_sfc7l2xm1wQswAd5jqrrDS
+* 1987 Dream of the Red Chamber by the CCTV
+** https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(1987_TV_series)
+** https://zh.wikipedia.org/wiki/红楼梦_(1987年电视剧)
+** https://www.youtube.com/watch?v=_qmiajb1H6E the soundtrack is mindblowing, see also: <<music-free>>
+* 1986 Outlaws of the Marsh by https://en.wikipedia.org/wiki/Shandong_Television[Shandong Television] (https://zh.wikipedia.org/wiki/山东广播电视台[])
+** https://en.wikipedia.org/wiki/Outlaws_of_the_Marsh_(TV_series)
+** https://zh.wikipedia.org/wiki/水浒_(电视剧)
+
+There must be other good adaptations for other classics mentioned at: https://en.wikipedia.org/wiki/Chinese_literature[], gotta find them.
 
 [[learn-chinese]]
 == Tips to learn Chinese 学习中文方法建议
