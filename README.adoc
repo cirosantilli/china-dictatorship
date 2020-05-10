@@ -867,15 +867,30 @@ See also:
 * <<why-end-dictatorship>>
 * <<preconceived>>
 
-==== I like my Dictatorship
+[[i-like-my-dictatorship]]
+==== I like my Dictatorship 我喜欢我的独裁统治
 
 Ciro Santilli can understand that.
 
-It must feel good to have absolute truth in the <<democracy-is-a-religion,Cult of Xi>>, and let the black police <<against-censorship-and-flg,get rid of weirdos for you>>.
+It must feel good to have <<li-hongzhi,absolute truth>> in the <<democracy-is-a-religion,Cult of Xi>>, and let the black police <<against-censorship-and-flg,get rid of weirdos for you>>.
 
-A scene from the awesome mini-series link:https://en.wikipedia.org/wiki/Seventeen_Moments_of_Spring[Seventeen Moments of Script (1973)] comes to mind.
+But when the dictatorship turns again you our your family, will you fight, or will you just let them do whatever they want because they can never be wrong? See also: <<intolerance>>.
 
-In , the main character, Stierlitz, who is an undercover Soviet spy in Germany during WW2, travels on a train with a <<nazi,nazi-officer>>.
+And when your son <<man-in-the-high-castle,betrays you or sacrifices himself for the Dictator>>, will you just smile and accept it?
+
+See: <<seventeen-moments-of-spring>>
+
+[[seventeen-moments-of-spring]]
+===== Seventeen Moments of Spring (1973)
+
+* https://en.wikipedia.org/wiki/Seventeen_Moments_of_Spring
+* https://ru.wikipedia.org/wiki/Семнадцать_мгновений_весны_(телефильм)
+
+<<russia,Soviet>> mini-series about about Stierlitz, who is an undercover Soviet spy acting as a Nazi officer in <<nazi,Nazi Germany during WW2>>..
+
+A scene from the awesome mini-series comes to mind when thinking about <<i-like-my-dictatorship>>.
+
+In Episode 7, Stierlitz travels on a train with a Nazi officer.
 
 The war is almost over, and the desolate officer tells Stierlitz:
 
@@ -904,9 +919,7 @@ ____
 .https://youtube.com/watch?v=YsXhgzX56cA&t=2086 Seventeen Moments of Spring (1973), Episode 7, general confession scene.
 video::YsXhgzX56cA[youtube,height=400,width=600,start=2086]
 
-It is amusing that there is a <<russia,Soviet>> movie criticizes dictatorships.
-
-When the dictatorship turns again you our your family, will you fight, or will you just let them do whatever they want because they can never be wrong? See also: <<intolerance>>.
+It is amusing to see Soviet series criticizing dictatorships, given that the Soviet Union was itself a major dictatorship!
 
 [[most-chinese-people-like-their-dictatorship]]
 ===== Most Chinese people like their dictatorship 中国大众支持他们的独裁
@@ -1140,6 +1153,8 @@ Poisonings: Russia apparently has a long list of poisoning political enemies: ht
 * 2004 Viktor Yushchenko Ющенко, Виктор Андреевич https://en.wikipedia.org/wiki/Viktor_Yushchenko | https://ru.wikipedia.org/wiki/Ющенко,_Виктор_Андреевич
 * <<litvinenko>>
 
+The Russians have very different style to the Chinese, who are much more subtle, and just put people in jail or handicap them in several ways without killing them.
+
 Other political murders or attempts:
 
 * 2015 Boris Nemtsov Немцов, Борис Ефимович https://en.wikipedia.org/wiki/Boris_Nemtsov | https://ru.wikipedia.org/wiki/Немцов,_Борис_Ефимович
@@ -1150,7 +1165,9 @@ Some other interesting political suppression lists:
 * https://en.wikipedia.org/wiki/List_of_Soviet_and_Russian_assassinations[List of Soviet and Russian assassinations]
 * 2017 https://www.washingtonpost.com/news/worldviews/wp/2017/03/23/here-are-ten-critics-of-vladimir-putin-who-died-violently-or-in-suspicious-ways/ "Here are 10 critics of Vladimir Putin who died violently or in suspicious ways"
 
-The Russians have very different style to the Chinese, who are much more subtle, and just put people in jail or handicap them in several ways without killing them.
+Other random stuff:
+
+* <<seventeen-moments-of-spring>>
 
 [[putin]]
 ===== Putin Путин 普京 (1999-2008, 2012-∞)
@@ -5110,7 +5127,11 @@ I hear always the admonishment of my friends:
 But who will guard the guardians? The wife plans ahead and begins with them.
 ____
 
-With internal censorship, leaders inevitably become Gods, and soon zealous sons betray their fathers and brothers in loyalty to the leader and their fake ideal. See for example the scene from https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle_(TV_series)[The Man in the High Castle] S04E06 in which the devoted Thomas Smith hands himself in to be killed after discovering that he has a disease, which is not acceptable in <<nazi,Nazi>> America: https://www.youtube.com/watch?v=SymuEg6NRp0
+With internal censorship, leaders inevitably become <<xi-jinping,Gods>>, and soon zealous sons betray their fathers and brothers in loyalty to the leader and their fake ideal. See for example: <<man-in-the-high-castle>>.
+
+[[man-in-the-high-castle]]
+.https://www.youtube.com/watch?v=SymuEg6NRp0 Scene from https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle_(TV_series)[The Man in the High Castle] S04E06 in which the devoted young Thomas Smith hands himself in to be killed by the Nazis whom he worships after discovering that he has a disease, which is not acceptable in <<nazi,Nazi>> America.
+video::ttps://ru.wikipedia.org/wiki/Семнадцать_мгновений_весны_(телефильм)[youtube,height=400,width=600]
 
 The famous https://en.wikipedia.org/wiki/Heinrich_Heine[Heinrich Heine] (German but from the 19th century, before the Nazis) saying also comes to mind:
 
