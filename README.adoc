@@ -3172,13 +3172,21 @@ image::https://web.archive.org/web/20200315112422if_/https://faluninfo.net/wp-co
 
 No, Ciro is agnostic: https://en.wikipedia.org/wiki/Agnosticism | https://zh.wikipedia.org/wiki/不可知论 and therefore believes that all the metaphysics that <<li-hongzhi>> says is not true.
 
-Here are some things that I don't like about Falun Gong for example: <<things-i-personally-dislike-about-flg>>.
+Here are some things that he doesn't like about Falun Gong for example: <<things-ciro-santilli-dislikes-about-falun-gong>>.
 
-He thinks that FLG exercises and meditation could be good for you, just like many other meditative practices such as Yoga, Buddhist meditation, Tai chi, deep Catholic prayer, etc.
+Falun Gong can be split into two parts, like any other religion:
 
-However he finds the metaphysics and "obligations to reach Salvation" boring like for any other prophetic <<flg-religion,religion>> or <<flg-cult,cult>>.
+* the "self-help" "how to live well" part, including the physical exercises and meditation, which cannot be proven or disproven, like any other self-help and political opinion
+* the metaphysics, most notably, Li Hongzhi is a living God, and all other non verifiable things he claims like aliens, alternate dimensions, etc.: <<flg-verifiable>>
 
-The absolute truth is already known by the xref:li-hongzhi[prophet], although he does not want to give clear evidence for reasons: <<flg-verifiable>>.
+Ciro thinks that FLG's self-help part could be good for you, just like many other meditative practices such as Yoga, Buddhist meditation, Tai chi, deep Catholic prayer, etc.
+
+However Ciro believes that the metaphysics is all complete and utter bullshit, child stories made up by Li Hongzhi, just as real as Father Christmas. 
+
+Also the "obligation to reach Salvation" is boring like for many other prophetic <<flg-religion,religion>>.
+
+The absolute truth is already known by the xref:li-hongzhi[prophet], although he does not want to give clear evidence for reasons: <<flg-verifiable>>, and Ciro finds that utterly boring. There's no fun in living in a world where the absolute truth has been found.
+
 And you just repeat these truths over and over and over:
 
 * FLG is good
@@ -3453,51 +3461,6 @@ The Romans called <<christianity>> the "Cult of Jesus".
 If I tell a lie today, will it become true in a thousand years? Or a truth today become a lie?
 
 Try sending an email to <<li-hongzhi,LHZ>> asking him to <<flg-verifiable,prove his powers to you>> :-)
-
-====== Orange Papers
-
-https://www.orange-papers.org/orange-cult_q0.html
-
-Down as of 2020-04, https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q0.html[2016-02-05 archive]
-
-This is an amazing website talking about Cults and many other things! TODO who is the author? Copyright says by "A. Orange". Is it the real name, or just a pun for "I ate an orange"?
-
-And the website also has a Free Tibet flag at the bottom.
-
-Many of the points highlighted at  are very very interesting and Ciro feels that they apply strongly to <<falun-gong>>:
-
-* "Instant Community" and "Instant intimacy": you instantly join the cult family, and are very very likely to believe or at least consider anything anyone else in the cult says about their religious experiences, no matter how far-fetched, even though it is not <<flg-canon,canon>>
-+
-Conversely, this also poses a risk for the Cult Leader, as new community ideas can spread very quickly, and if you try to fight them off, they might create a https://en.wikipedia.org/wiki/Schism[Schism].
-* "Cult-speak": see also "Newspeak" from <<nineteen-eighty-four>> and some common Falun Gong Cult-speak see: <<flg-religion>>
-* "Denigration of competing sects, cults, religions, groups, or organizations": yes, <<li-hongzhi>> does this all the time, see: <<zhong-gong>>
-* "Personal testimonies of earlier converts": see "experience sharing" at <<flg-religion>>
-* "The group and its members are special", "Enemy-making and Devaluing the Outsider": see: "ordinary people (常人)" at <<does-ciro-santilli-believe-in-or-practice-falun-gong>>
-* "Making cult members work long hours for free": yes, many FLG members work long long hours for free. Why wouldn't you if you are saving people's souls?
-* "No Humor": see also <<funny>>
-* "Different Levels of Truth", "Deceptive Recruiting": Falun Gong people don't talk freely about their funny beliefs like <<flg-religion,aliens are amongst us>> to outsiders. Rather, they lure you in with the exercises first.
-* "Front groups, masquerading recruiters, hidden promoters, and disguised propagandists": <<falun-gong-media>>
-* "Promised Powers or Knowledge" and "It's a con. You don't get the promised goodies": they seem to believe in a <<flg-religion,Judgement Day like event>> and <<flg-medication,health benefits>>
-* "The Guru is always right", "You are always wrong", "No Graduates", "The Guru Is Extra-Special", "Everybody else needs the guru to boss him around, but nobody bosses the guru around", "The guru criticizes everybody else, but nobody criticizes the guru.": obviously: <<li-hongzhi>>
-** "Group-think, Suppression of Dissent, and Enforced Conformity in Thinking"
-
-There are also however some points which Ciro feels don't apply, and Ciro praises Falun Gong for those:
-
-* "Dual Purposes": not much of that, most of their propaganda is "we are persecuted unfairly by China", not "let's help the poor"
-* "The End Justifies The Means": Li has made it clear that believers must follow the laws of their countries. Cults that violate this tend to not last as long, this is the smart move for cult leaders.
-
-And some points which Ciro feels apply which were mentioned in some other article, (or maybe in Orange Papers but he couldn't find them, TODO find reference?)
-
-* "No time for fun": how could you possibly spend leisure time watching television, etc. when you could be saving the world instead?
-* "Focus on the persecution of the Cult": while obviously people who have been persecuted have the right, and almost an obligation, to look for help and share their stories, it is also clear that this is a selling point for the Cult.
-+
-Why would a nation state attack a Cult? This could give the impression that it is because there is something powerful and true in the Cult, and actually menaces this nation state.
-+
-For example, Falun Gong puts huge emphasis on its persecution in China, much like the https://en.wikipedia.org/wiki/Martyr[Martyrdom] of the Catholic Saints is highly emphasised.
-
-This is especially interesting, because the website does not mention Falun Gong at all it seems: it really seems that all those cults are very similar.
-
-It should also be mentioned though that these points extend to any type of human organization, e.g. <<flg-religion,other religions>>, <<democracy-is-a-religion,political parties>>, job associations, etc.
 
 [[against-censorship-and-flg]]
 ==== Many people both are against censorship and FLG
@@ -3780,7 +3743,7 @@ Against:
 
 * https://www.culteducation.com/group/1254-falun-gong.html
 
-==== Things I personally dislike about FLG
+==== Things Ciro Santilli dislikes about Falun Gong
 
 But also as explaining why I don't think it justifies the ban.
 
@@ -3789,11 +3752,11 @@ This section also gives me more credibility as a balanced critic >:-)
 [[flg-religion]]
 ===== FLG downplays the fact that it is a religion
 
-If asked if they follow a religion, most FLG believers will say no.
+If asked if they follow a religion, most FLG believers will say "no".
 
-E.g. they call themselves "practitioners" or "students" (学员) instead of believers, and their peers "practitioner colleagues" (https://baike.baidu.com/item/同修[同修])
+E.g. they call themselves "practitioners" or "students" (学员) instead of "believers", and their peers "practitioner colleagues" (https://baike.baidu.com/item/同修[同修]). And if you say you don't believe in their FLG metaphysics bullshit, they will often reply "he does not understand". To them, it is not about belief, the truth is clear, and you just don't see it yet. To this you should reply: "and you don't understand that <<li-hongzhi,Li Hongzhi>> is a master manipulator dude who deceived you and millions of others".
 
-But Ciro Santilli strongly believes that this is just a language barrier/FLG propaganda question, and that people in the West would classify FLG as a religion if they are told that for FLG:
+But Ciro Santilli strongly believes that this is just a language barrier/FLG propaganda question (see also "Different levels of truth" from <<orange-papers>>), and that people in the West would classify FLG as a religion if they are told that for FLG:
 
 * absolute truth comes from an enlightened <<li-hongzhi,prophet>>, who is perfect and has superhuman abilities
 * weekly meetings (学法 "study the law (of the universe (of <<li-hongzhi>>))"）where they read from a <<flg-canon,sacred book>>, either written by the prophet, or transcribed from his presentations to disciples, including the disciples questions, much like traditional Chinese texts like link:https://en.wikipedia.org/wiki/Analects[The Analects of Confucius], just like Christians read from the Bible over and over again.
@@ -3844,6 +3807,51 @@ Falun Gong's recruitment strategy is to focus on the exercises first, and in par
 See also: "Different levels of truth" from <<orange-papers>>.
 
 See also: <<flg-daily>>.
+
+====== Orange Papers
+
+https://www.orange-papers.org/orange-cult_q0.html
+
+Down as of 2020-04, https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q0.html[2016-02-05 archive]
+
+This is an amazing website talking about Cults and many other things! TODO who is the author? Copyright says by "A. Orange". Is it the real name, or just a pun for "I ate an orange"?
+
+And the website also has a Free Tibet flag at the bottom.
+
+Many of the points highlighted at  are very very interesting and Ciro feels that they apply strongly to <<falun-gong>>:
+
+* "Instant Community" and "Instant intimacy": you instantly join the cult family, and are very very likely to believe or at least consider anything anyone else in the cult says about their religious experiences, no matter how far-fetched, even though it is not <<flg-canon,canon>>
++
+Conversely, this also poses a risk for the Cult Leader, as new community ideas can spread very quickly, and if you try to fight them off, they might create a https://en.wikipedia.org/wiki/Schism[Schism].
+* "Cult-speak": see also "Newspeak" from <<nineteen-eighty-four>> and some common Falun Gong Cult-speak see: <<flg-religion>>
+* "Denigration of competing sects, cults, religions, groups, or organizations": yes, <<li-hongzhi>> does this all the time, see: <<zhong-gong>>
+* "Personal testimonies of earlier converts": see "experience sharing" at <<flg-religion>>
+* "The group and its members are special", "Enemy-making and Devaluing the Outsider": see: "ordinary people (常人)" at <<does-ciro-santilli-believe-in-or-practice-falun-gong>>
+* "Making cult members work long hours for free": yes, many FLG members work long long hours for free. Why wouldn't you if you are saving people's souls?
+* "No Humor": see also <<funny>>
+* "Different Levels of Truth", "Deceptive Recruiting": Falun Gong people don't talk freely about their funny beliefs like <<flg-religion,aliens are amongst us>> to outsiders. Rather, they lure you in with the exercises first. Ciro has personally heard the following said many times: "you should not tell this to non-believers, they are not ready for this truth yet".
+* "Front groups, masquerading recruiters, hidden promoters, and disguised propagandists": <<falun-gong-media>>
+* "Promised Powers or Knowledge" and "It's a con. You don't get the promised goodies": they seem to believe in a <<flg-religion,Judgement Day like event>> and <<flg-medication,health benefits>>
+* "The Guru is always right", "You are always wrong", "No Graduates", "The Guru Is Extra-Special", "Everybody else needs the guru to boss him around, but nobody bosses the guru around", "The guru criticizes everybody else, but nobody criticizes the guru.": obviously: <<li-hongzhi>>
+** "Group-think, Suppression of Dissent, and Enforced Conformity in Thinking"
+
+There are also however some points which Ciro feels don't apply, and Ciro praises Falun Gong for those:
+
+* "Dual Purposes": not much of that, most of their propaganda is "we are persecuted unfairly by China", not "let's help the poor"
+* "The End Justifies The Means": Li has made it clear that believers must follow the laws of their countries. Cults that violate this tend to not last as long, this is the smart move for cult leaders.
+
+And some points which Ciro feels apply which were mentioned in some other article, (or maybe in Orange Papers but he couldn't find them, TODO find reference?)
+
+* "No time for fun": how could you possibly spend leisure time watching television, etc. when you could be saving the world instead?
+* "Focus on the persecution of the Cult": while obviously people who have been persecuted have the right, and almost an obligation, to look for help and share their stories, it is also clear that this is a selling point for the Cult.
++
+Why would a nation state attack a Cult? This could give the impression that it is because there is something powerful and true in the Cult, and actually menaces this nation state.
++
+For example, Falun Gong puts huge emphasis on its persecution in China, much like the https://en.wikipedia.org/wiki/Martyr[Martyrdom] of the Catholic Saints is highly emphasised.
+
+This is especially interesting, because the website does not mention Falun Gong at all it seems: it really seems that all those cults are very similar.
+
+It should also be mentioned though that these points extend to any type of human organization, e.g. <<flg-religion,other religions>>, <<democracy-is-a-religion,political parties>>, job associations, etc.
 
 [[flg-organized]]
 ===== FLG downplays the fact that it is highly organized
@@ -4027,6 +4035,8 @@ https://www.scmp.com/comment/insight-opinion/article/1940394/how-rampant-phone-s
 * https://zh.wikipedia.org/wiki/中华养生益智功
 
 A very similar religion to <<falun-gong>>, that also emerged during the https://en.wikipedia.org/wiki/Qigong_fever[Qigong fever] (气功热) of the '80s and '90s. 
+
+The similarity of their imagery as seen from propaganda videos is striking. This makes Zhong Gong a perfect example of why FLG metaphysics is bullshit: it is obvious that both Zhong Gong and Falun Gong and many others were just random dudes who took advantage of the Qigong fever to create their religions.
 
 Their prophet is https://en.wikipedia.org/wiki/Zhang_Hongbao[Zhang Hongbao] (https://zh.wikipedia.org/wiki/张宏堡[张宏堡]).
 
@@ -4749,6 +4759,10 @@ News and reports:
 [[falun-gong-media]]
 ==== Falun Gong media 法轮功媒体
 
+A great example of: <<flg-organized>>.
+
+Highly controlled by <<li-hongzhi>>, and extremely lacking clear full disclosure of their affiliation, see also: "Front groups" at <<orange-papers>>.
+
 From <<falun-gong>>:
 
 * The Epoch Times
@@ -4778,8 +4792,6 @@ From <<falun-gong>>:
 * https://hongzhi.li/ nice https://en.wikipedia.org/wiki/Domain_hack[domain hack]
 * https://www.qi-gong.me/
 * http://www.zhengjian.org/
-
-See also: <<flg-organized>>.
 
 [[bannedbook-org]]
 ===== bannedbook.org 禁闻网
@@ -4906,6 +4918,13 @@ image::https://web.archive.org/web/20191013080406if_/https://i.imgur.com/eKPmYyz
 Reasonable lists:
 
 * https://caglecartoons.com/?s=China The website blocks Web Archive.
+
+Other cartoonists/illustrators:
+
+* Greta Samuel
+** https://gretasamuel.com/
+** https://mobile.twitter.com/samuel_greta
+** https://idzpodprad.pl/aktualnosci/chinczycy-groza-smiercia-polskiej-ilustratorce-pracodawca-chce-ja-zwolnic/ "Chińczycy grożą śmiercią polskiej ilustratorce! Pracodawca chce ją zwolnić?¨" Google translates to: "The Chinese are threatening the death of the Polish illustrator! Employer wants to fire her?"
 
 [[rebel-pepper]]
 ==== Rebel Pepper 变态辣椒
@@ -5585,6 +5604,8 @@ Or to Ciro's other online presences, due to China activity.
 
 For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
+
+* 2020-05-09: http://lj.rossia.org/users/perfect_kiss/36513.html Google translated of about in that website: "LJ.Rossia.org (LJR) is a nonprofit project created to support freedom of speech, develop civil society and promote free exchange of views."
 * 2020-04-21: 4 hits from https://raidforums.com/ but can't locate it, maybe coming from their very fast temporary chat wall
 * 2019-10-31: https://www.linkedin.com/feed/update/urn:li:activity:6595454363743981568/ (https://web.archive.org/web/20191101094814/https://www.linkedin.com/feed/update/urn:li:activity:6595454363743981568/[archive]) "Good rundown of all the major news from China you don't see. Notice how you don't see anything about the Hong Kong protests anymore?"
 * 2019-10 https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/blob/7131e2c1158a806f41c8f55308977048b02d2959/README-Part2.md Automatically generated list of repos with Chinese characters in their descriptions with the most upvotes per programming language. TODO why is this repo on their README-Part2 only? Has more stars than some stuff on main README.
@@ -6507,17 +6528,20 @@ A good place to start are the canonical TV adaptations of the https://en.wikiped
 ** https://zh.wikipedia.org/wiki/三国演义_(电视剧)
 ** The best https://en.wikipedia.org/wiki/Three_Kingdoms[Three Kingdoms 三国] adaptation of all time? Mind blowing
 ** there seems to exist a version with full Chinese + English subtitles: https://www.youtube.com/watch?v=0_r3eWfTMDs&list=PLdAMXqGeRsOkXzuocRkBPhe5RhZ6RotGH&index=2
+** https://www.youtube.com/watch?v=e8VWVvHjskM&list=PLIj4BzSwQ-_ueXTO7EBmShk1b3lEqc5b_ official CCTV电视剧 (CCTV TV Series Channel) upload without Chinese + English subtitles on <<censorship,YouTube>>
 * 1986 Journey to the West by the <<chinese-government-media,CCTV>>
 ** https://en.wikipedia.org/wiki/Journey_to_the_West_(1986_TV_series)
 ** https://zh.wikipedia.org/wiki/西游记_(中国中央电视台出品电视剧)
-** Legally published by CCTV with Chinese + English subtitles on <<censorship,YouTube>>: https://www.youtube.com/playlist?list=PLIj4BzSwQ-_sfc7l2xm1wQswAd5jqrrDS
+** https://www.youtube.com/playlist?list=PLIj4BzSwQ-_sfc7l2xm1wQswAd5jqrrDS official CCTV电视剧 upload with Chinese + English subtitles
 * 1987 Dream of the Red Chamber by the CCTV
 ** https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(1987_TV_series)
 ** https://zh.wikipedia.org/wiki/红楼梦_(1987年电视剧)
 ** https://www.youtube.com/watch?v=_qmiajb1H6E the soundtrack is mindblowing, see also: <<music-free>>
+** https://www.youtube.com/playlist?list=PLIj4BzSwQ-_vuHKAr64vPbDQpE0-iQGGZ official CCTV电视剧 upload without english subtitles by the channel
 * 1986 Outlaws of the Marsh by https://en.wikipedia.org/wiki/Shandong_Television[Shandong Television] (https://zh.wikipedia.org/wiki/山东广播电视台[])
 ** https://en.wikipedia.org/wiki/Outlaws_of_the_Marsh_(TV_series)
 ** https://zh.wikipedia.org/wiki/水浒_(电视剧)
+** https://www.youtube.com/watch?v=lnshzmF6sY4&list=PLIj4BzSwQ-_sEAJsZnbcxV7sBc51XE8Z5 official CCTV电视剧 upload without english subtitles by the channel
 
 There must be other good adaptations for other classics mentioned at: https://en.wikipedia.org/wiki/Chinese_literature[], gotta find them.
 
