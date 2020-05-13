@@ -3162,15 +3162,13 @@ video::GwoO7Nekmpw[youtube,height=400,width=600,start=445]
 
 ==== Falun Gong is not important to be worth discussing
 
-The main reason I emphasize FLG is that it shows how the CCP can mercilessly crush a 70M strong group (according to CCPs own statistics) out of a population of 1.3B in 2000, i.e. 5% of the population.
+The main reason Ciro Santilli emphasize FLG is that it shows how the CCP can mercilessly crush a 70M strong group (according to CCPs own statistics) out of a population of 1.3B in 2000, i.e. 5% of the population, and of course not because of <<flg-bias>>, since Ciro is completely and totally unbiased.
 
-If that is correct, I'm curious to understand what you consider an important movement? :-)
+If that number is correct, Ciro wonders curious what you would consider an important movement? :-)
 
 Anything much larger would take down the government and change China's history forever.
 
 OK, maybe the fact that 69M of those were likely old ladies didn't help much either. Tip to next <<li-hongzhi,prophet>>: make something that appeals to aspiring military officers.
-
-And of course: <<flg-bias>>
 
 Let's try to gather some well sourced footage showing huge numbers of believers on the streets:
 
@@ -3187,20 +3185,22 @@ image::https://web.archive.org/web/20200315112422if_/https://faluninfo.net/wp-co
 
 ==== Does Ciro Santilli believe in or practice Falun Gong?
 
-No, Ciro is agnostic: https://en.wikipedia.org/wiki/Agnosticism | https://zh.wikipedia.org/wiki/不可知论 and therefore believes that all the metaphysics that <<li-hongzhi>> says is not true.
+No, Ciro is https://en.wikipedia.org/wiki/Agnosticism[agnostic] (https://zh.wikipedia.org/wiki/不可知论[不可知论]) and therefore believes that all the metaphysics that <<li-hongzhi>> says is bullshit.
 
 Here are some things that he doesn't like about Falun Gong for example: <<things-ciro-santilli-dislikes-about-falun-gong>>.
 
 Falun Gong can be split into two parts, like any other religion:
 
-* the "self-help" "how to live well" part, including the physical exercises and meditation, which cannot be proven or disproven, like any other self-help and political opinion
+* the "self-help" "how to live well" part, including the physical exercises and meditation, which cannot be proven or disproven, like any other self-help and <<democracy-is-a-religion,political opinion>>
 * the metaphysics, most notably, Li Hongzhi is a living God, and all other non verifiable things he claims like aliens, alternate dimensions, etc.: <<flg-verifiable>>
 
 Ciro thinks that FLG's self-help part could be good for you, just like many other meditative practices such as Yoga, Buddhist meditation, Tai chi, deep Catholic prayer, etc.
 
-However Ciro believes that the metaphysics is all complete and utter bullshit, child stories made up by Li Hongzhi, just as real as Father Christmas. 
+However Ciro believes that the metaphysics is all complete and utter bullshit, child stories made up by Li Hongzhi, and just as real as Father Christmas or the https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster[Flying Spaghetti Monster]. 
 
 Also the "obligation to reach Salvation" is boring like for many other prophetic <<flg-religion,religion>>.
+
+To Ciro it is obvious that Falun Gong is just one of the many very similar movements that came out of the Qi Gong Boom, such as: <<zhong-gong>>. It just happens to be the one that survived due to better luck and strategy.
 
 The absolute truth is already known by the xref:li-hongzhi[prophet], although he does not want to give clear evidence for reasons: <<flg-verifiable>>, and Ciro finds that utterly boring. There's no fun in living in a world where the absolute truth has been found.
 
@@ -4024,6 +4024,8 @@ The series could be filmed in Taiwan maybe?
 
 It would manage to piss off both FLG and the CCP, which would be amazing. It is a shame that it is so difficult to find good historical information between the infinite barrages of CCP and FLG propaganda.
 
+Source material: <<neutral-books-about-falun-gong>>.
+
 [[flg-telemarketing]]
 ===== Some Falun Gong people make phone telemarketing
 
@@ -4082,6 +4084,12 @@ The embassy spokesman says Chinese officials have ample evidence of sect leader 
 * https://www.zhihu.com/question/23988890 at <<zhihu>>
 * https://www.orange-papers further developed at: <<flg-cult>>
 
+===== Neutral books about Falun Gong
+
+A few non-religious non-CCP resources can be found at:
+
+* https://en.wikipedia.org/wiki/History_of_Falun_Gong
+
 [[politicians]]
 == Chinese politicians 中国政治家
 
@@ -4105,6 +4113,17 @@ image::https://web.archive.org/web/20200121105502if_/https://storage.googleapis.
 .https://en.wikipedia.org/wiki/The_Economist[The Economist] "Let’s party like it’s 1793" cover from May 4th – 10th 2013 depicting a painting of Xi Jinping dressed as emperor of China. The famous https://en.wikipedia.org/wiki/Qianlong_Empero[Qianlong Emperor] was in power at that time. The title is likely a joke based on the more well known https://www.independent.co.uk/arts-entertainment/music/features/party-like-its-1969-woodstock-forty-years-on-1722695.html["Let's party like it's 1969"] due to the legendary https://en.wikipedia.org/wiki/Woodstock[Woodstock festival]. Party is also a play on words between the Communist Party and a night party. TODO why 1793 specifically. https://twitter.com/TheEconomist/status/329929668155293696[Source].
 image::https://web.archive.org/web/20200225220314/https://pbs.twimg.com/media/BJQlSP_CQAA52BG?format=jpg[height=600]
 
+[[panama-papers]]
+==== Panama papers 巴拿马文件 (2016)
+
+https://en.wikipedia.org/wiki/Panama_Papers | https://zh.wikipedia.org/wiki/巴拿馬文件
+
+Leak of financial data implicating many corruption scandals.
+
+Mentions <<xi-jinping>>'s brother-in-law https://en.wikipedia.org/wiki/Deng_Jiagui[Deng Jiagui] (https://zh.wikipedia.org/wiki/邓家贵[邓家贵]).
+
+See also <<ciro-santilli>>'s answer to https://www.quora.com/What-is-the-net-worth-of-Xi-Jinping/answer/Ciro-Santilli[What is the net worth of Xi Jinping?] answer on <<quora>>.
+
 [[xi-jinping-memes]]
 ==== Xi Jinping memes 习近平模因
 
@@ -4123,22 +4142,21 @@ ____
 +
 See also: <<shitpost>>.
 
-[[chrysanthemium-xi-jinping]]
-===== Chrysanthemium Xi Jinping 菊花习近平 (2015)
+[[xi-jinping-lookalikes]]
+===== Xi Jinping Lookalikes 习近平撞脸
 
-Got creator Dai Jianyong (戴建勇) arrested in 2015:
+.2019-06-01 https://en.wikipedia.org/wiki/Sadomasochism[Sadomasochist] Xi Jinping lookalike in https://en.wikipedia.org/wiki/Bondage_suit[bondage suit] (gimp suit, fetish gear) at a cosplay fair. TODO: date, location, first report. Earliest post found so far: 2019-06-01 at https://imgur.com/gallery/TnR8Voo[]. Watermark reads "I am Dasen 郭"
+image::https://web.archive.org/web/20191009054907if_/https://i.imgur.com/TnR8Voo.jpg[height=500]
 
-* https://www.independent.co.uk/news/world/asia/chinese-artist-who-posted-funny-image-of-president-xi-jinping-facing-five-years-in-prison-as-10282630.html
-* https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/
+.2020-01-01 https://en.wikipedia.org/wiki/Shengjian_mantou[Pan-fried dumpling] Xi Jinping lookalike 生煎包习近平撞脸. Furthermore, this reminded people of <<xi-jinping-memes,習包子>>. A Taiwanese report from 2020-01-01: https://news.tvbs.com.tw/world/1257030 TODO name, location. One of the many videos of him: https://www.youtube.com/watch?v=hTt8Sjer6cc[]
+image::https://web.archive.org/web/20200513100828/http://pub.creaders.net/upload_files/image/202001/20200102_15779947641028.jpg[height=400]
 
-.Chrysanthemum Xi Jinping with <<tiananmen,六四>> spice added by Ciro Santilli
-image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
+.2020-05-12 Liu Keqing (刘克清) is an opera singer who had his personal videos taken down from time to time because he looks too much like <<xi-jinping,The One>>. https://chinadigitaltimes.net/chinese/2020/05/【立此存照】只因太像习近平？歌唱家刘克清形/[China Digital Times report]. One of his personal vlogs reuploaded to YouTube where he shared singing techniques and thoughts: https://www.youtube.com/watch?v=yPFKUhJdqzk[]. A video of him performing professionally in a chamber concert: 2018-11-02 https://www.youtube.com/watch?v=Z98-Mqci4ag[].
+image::https://web.archive.org/web/20200513101848im_/https://chinadigitaltimes.net/chinese/files/2020/05/EXz-fgoU8AA2EHx-e1589305621493.jpeg[height=400]
 
-.Original Chrysanthemum Xi Jinping by Dai Jianyong published in 2015. https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/[Source].
-image::https://web.archive.org/web/20200113200256im_/https://chinadigitaltimes.net/wp-content/uploads/2015/05/daijianyong.jpeg[height=400]
+Less good ones:
 
-.Possible original Xi Jinping photo used for Chrysanthemum Xi, possibly from 2012. The light blue gradient background was used for the official photos of many Communist officials of the era. https://content.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112111,00.html[Source].
-image::https://web.archive.org/web/20190417164247im_/http://img.timeinc.net/time/2012/t100/t100_xi_alt.jpg[height=400]
+* 2014-06-23 https://www.bbc.co.uk/news/av/world-asia-27926747/meet-the-chinese-presidential-pancake-seller "Shao Jianhua" TODO Chinese name, name of dish he sells. Too young and not fat enough.
 
 [[winnie-the-pooh]]
 ===== Comparisons between Xi Jinping and Winnie-the-Pooh 小熊維尼 (2017)
@@ -4159,16 +4177,22 @@ image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/ne
 .Real photo of Xi Jinping edited to look like Winnie the Pooh. https://www.reddit.com/r/pics/comments/dcabzh/this_image_of_xi_jiping_as_winnie_the_pooh_is/[Source].
 image::https://web.archive.org/web/20191009075747if_/https://external-preview.redd.it/lqDFDXXvfqMs7kyQ9y1FrGcQzdCE23uMPlcxFqo_oYE.png?auto=webp&s=02b97678eaaa104d58af8e3a5b59563113d7a5b9[height=400]
 
-[[panama-papers]]
-===== Panama papers 巴拿马文件 (2016)
+[[chrysanthemium-xi-jinping]]
+===== Chrysanthemium Xi Jinping 菊花习近平 (2015)
 
-https://en.wikipedia.org/wiki/Panama_Papers | https://zh.wikipedia.org/wiki/巴拿馬文件
+Got creator Dai Jianyong (戴建勇) arrested in 2015:
 
-Leak of financial data implicating many corruption scandals.
+* https://www.independent.co.uk/news/world/asia/chinese-artist-who-posted-funny-image-of-president-xi-jinping-facing-five-years-in-prison-as-10282630.html
+* https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/
 
-Mentions <<xi-jinping>>'s brother-in-law https://en.wikipedia.org/wiki/Deng_Jiagui[Deng Jiagui] (https://zh.wikipedia.org/wiki/邓家贵[邓家贵]), 
+.Chrysanthemum Xi Jinping with <<tiananmen,六四>> spice added by Ciro Santilli
+image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
 
-See also <<ciro-santilli>>'s answer to https://www.quora.com/What-is-the-net-worth-of-Xi-Jinping/answer/Ciro-Santilli[What is the net worth of Xi Jinping?] answer on <<quora>>.
+.Original Chrysanthemum Xi Jinping by Dai Jianyong published in 2015. https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/[Source].
+image::https://web.archive.org/web/20200113200256im_/https://chinadigitaltimes.net/wp-content/uploads/2015/05/daijianyong.jpeg[height=400]
+
+.Possible original Xi Jinping photo used for Chrysanthemum Xi, possibly from 2012. The light blue gradient background was used for the official photos of many Communist officials of the era. https://content.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112111,00.html[Source].
+image::https://web.archive.org/web/20190417164247im_/http://img.timeinc.net/time/2012/t100/t100_xi_alt.jpg[height=400]
 
 [[jiang-zemin]]
 === Jiang Zemin 江泽民 (1989-2002)
@@ -5889,6 +5913,8 @@ You can buy them frozen on bags with about 4 for about 4 dollars.
 The best way to heat them up by far is to steam.
 
 If you don't have a steaming pot, you can also put them on a bowl inside a regular pot with some water at the bottom, and close the lid.
+
+See also: <<xi-jinping-memes,習包子>>.
 
 [[zongzi]]
 === Zongzi 粽子 (zong4 zi)
