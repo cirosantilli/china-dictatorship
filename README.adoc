@@ -3204,6 +3204,8 @@ To Ciro it is obvious that Falun Gong is just one of the many very similar movem
 
 The absolute truth is already known by the xref:li-hongzhi[prophet], although he does not want to give clear evidence for reasons: <<flg-verifiable>>, and Ciro finds that utterly boring. There's no fun in living in a world where the absolute truth has been found.
 
+For these reasons, Ciro cannot bother to read even into the self-help part: how can you read that when there is so much bullshit every other page?
+
 And you just repeat these truths over and over and over:
 
 * FLG is good
@@ -3988,6 +3990,7 @@ image::https://upload.wikimedia.org/wikipedia/commons/0/06/Li_Hongzhi_1.jpg[heig
 .Li Hongzhi practicing one of his exercises with one of his cute prophet outfits in an extremely nice Chinese <<does-ciro-santilli-hate-china,stone garden>>. TODO exact location and date. https://commons.wikimedia.org/wiki/File:Li_Hongzhi_Falun_Gong.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/5/51/Li_Hongzhi_Falun_Gong.jpg[height=600]
 
+[[li-hongzhi-lotus]]
 .Li going https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] while casually sitting on a https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art[giant Lotus flower] with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] on his head. https://www.pinterest.fr/pin/8022105562347289/[Source].
 image::https://web.archive.org/web/20200226083545/https://i.pinimg.com/564x/32/fc/95/32fc954e99d658751da18a0b20ae2894.jpg[height=600]
 
@@ -4055,7 +4058,7 @@ https://www.scmp.com/comment/insight-opinion/article/1940394/how-rampant-phone-s
 
 A very similar religion to <<falun-gong>>, that also emerged during the https://en.wikipedia.org/wiki/Qigong_fever[Qigong fever] (气功热) of the '80s and '90s. 
 
-The similarity of their imagery as seen from propaganda videos is striking. This makes Zhong Gong a perfect example of why FLG metaphysics is bullshit: it is obvious that both Zhong Gong and Falun Gong and many others were just random dudes who took advantage of the Qigong fever to create their religions.
+The similarity of their imagery as seen from propaganda videos is striking. To <<ciro-santilli>>, this makes Zhong Gong a perfect example of why <<does-ciro-santilli-believe-in-or-practice-falun-gong,FLG metaphysics is bullshit>>: it is obvious that both Zhong Gong and Falun Gong and many others were just random dudes who took advantage of the Qigong fever to create their religions.
 
 Their prophet is https://en.wikipedia.org/wiki/Zhang_Hongbao[Zhang Hongbao] (https://zh.wikipedia.org/wiki/张宏堡[张宏堡]).
 
@@ -4077,6 +4080,17 @@ Hongbao also has a more spicy history it seems, with sexual allegations and open
 * https://www.youtube.com/watch?v=DvJSzeY7Chw contains a bunch of what appear to be extremely low quality Zhong Gong propaganda videos. It is very similar to Falun Gong's of course.
 
 The embassy spokesman says Chinese officials have ample evidence of sect leader Zhang Hongbao's involvement in crimes such as rape and murder.
+
+.Zhang Honbao on a giant flying lotus reaching Enlightenment with a halo. It looks <<li-hongzhi-lotus,exactly like Falun Gong imagery>>. But of course, Zhong Gong is just a "completely unrelated and inferior sect" according to <<li-hongzhi,Li Hongzhi>>. https://blog.boxun.com/hero/201102/tianhuaren/1_1.shtml[Source].
+image::http://web.archive.org/web/20200513103353if_/https://blog.boxun.com/hero/201102/tianhuaren/tianhuaren2011021802234.jpg[height=400]
+
+[[zhong-gong-blue]]
+.The blue background, the halos, the praying hands, the master Zhang Hongbao flying above. It is just exactly like <<flg-blue,Falun Gong imagery>>. https://www.chinacourt.org/article/detail/2018/08/id/3475129.shtml[Source] (<<chinese-government-media,biased>>)
+image::http://web.archive.org/web/20200513103231im_/http://file.chinacourt.org/f.php?class=imageid&id=1814106[height=400]
+
+[[flg-blue]]
+.Hungarian Falun Gong propaganda image with woman meditating in with blue sky background for comparison with <<zhong-gong-blue,similar Zhong Gong imagery>>. https://hu.faluninfo.eu/[Source].
+image::https://web.archive.org/web/20181009052816if_/http://hu.faluninfo.eu//images/201709/slide01-hu.jpg[height=400]
 
 ==== Falun Gong bibliography
 
