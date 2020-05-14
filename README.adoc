@@ -264,6 +264,7 @@ video::LK1Pz8FmryM[youtube,height=400,width=600,start=132]
 
 News coverage:
 
+* 2020-05-12: https://www.newsweek.com/exclusive-cia-believes-china-tried-stop-who-alarm-pandemic-1503565 CIA people said China stopped the WHO from sounding the alarm from January 24 to January 30, while at the same time stockpiling protection materials
 * <<caixin>> article about how early Coronavirus signs were censored:
 ** https://china.caixin.com/2020-03-10/101526309.html (https://web.archive.org/web/20200317111527/http://china.caixin.com/2020-03-10/101526309.html[archive]) "李文亮所在医院为何医护人员伤亡惨重？" (Why did Li Wenliang's [李文亮] hospital suffer heavy casualties?)
 ** https://www.caixinglobal.com/2020-02-29/in-depth-how-early-signs-of-a-sars-like-virus-were-spotted-spread-and-throttled-101521745.html (paywall) "In Depth: How Early Signs of a SARS-Like Virus Were Spotted, Spread, and Throttled"
@@ -725,7 +726,7 @@ The family tree that Ciro has reconstructed orally is:
 * Ciro's wife:
 ** Father: Ai Dayi (艾大义) born: 1932 in Shenyang
 *** Father: Ai Xikang (艾锡康)
-**** Father: Ai Pushan (艾??)
+**** Father: Ai Pushan (艾溥?) (pu character presumed from generation mark, same generation as Puyi, the Last Emperor!). https://en.wikipedia.org/wiki/Zaitao has a Pushen (溥伸), but he died at 13 years old in 1928.
 **** Younger brother 2: Ai Xiyuan (艾锡?) Professor at https://en.wikipedia.org/wiki/Northeastern_University_(China) Apparently had no Children.
 **** Younger brother 3: Ai Xicong (艾锡?) Graduated in law in Japan in https://en.wikipedia.org/wiki/Waseda_University[Waseda University] Was the top official of the https://en.wikipedia.org/wiki/National_Police_Agency_(Japan) in China when it was occupied by Japan (警察廳长) Passed first by Taiwan.
 **** Younger brother 4: Ai Xiying (艾锡?)
@@ -744,6 +745,12 @@ Ciro's wife and family are clearly of the https://en.wikipedia.org/wiki/Manchu_p
 His wife's family name is the very unusual 艾, pronounced "ai4", which she claims is a reference to the 愛(also pronounced ai4) in https://en.wikipedia.org/wiki/Aisin_Gioro[愛新覺羅], which is the name of the Manchu ruling clan of the Qing dynasty.
 
 Ciro's father-in-law, who he barely met, was very old when he had his daughter, and passed away before Ciro could talk a lot with him, which is consistent with the claims that he spent several years in jail during <<mao-zedong,Mao's>> purges, see also: <<wife>>.
+
+Bibliography:
+
+* https://en.wikipedia.org/wiki/Head_of_the_House_of_Aisin_Gioro
+* https://www.zhihu.com/question/34813921 现在清朝皇室的后代现状如何？ What is the current status of the descendants of the Qing royal family?
+* https://www.quora.com/Are-there-any-descendants-of-the-Qing-Dynasty-left-currently
 
 .Ciro Santilli's portrait as Qing emperor. https://en.wikipedia.org/wiki/File:清_郎世宁绘《清高宗乾隆帝朝服像》.jpg[Original image].
 image::{cirosantilli-media-base}/Ciro_Santilli_portrait_as_Qing_emperor.jpg[height=600]
@@ -916,8 +923,8 @@ Just shout out "Hail Hitler!" and everything will become understandable.
 No more worries.
 ____
 
-.https://youtube.com/watch?v=YsXhgzX56cA&t=2086 Seventeen Moments of Spring (1973), Episode 7, general confession scene.
-video::YsXhgzX56cA[youtube,height=400,width=600,start=2086]
+.https://youtu.be/pc6DP1jNEec?list=PLHiAMOiVIvsD2u8g0RLwvdRScEe9yiUr5&t=1527 Seventeen Moments of Spring (1973), Episode 7, general confession scene.
+video::pc6DP1jNEec[youtube,height=400,width=600,start=2086]
 
 It is amusing to see Soviet series criticizing dictatorships, given that the Soviet Union was itself a major dictatorship!
 
@@ -932,6 +939,9 @@ One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy
 
 .https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game. 
 video::zndzntIDLFE[youtube,height=400,width=600]
+
+.Westerner: "How is life in China?" Chinese: "Oh, we can't complain." Westerner: "That's awesome." Chinese: "No, seriously... we can't." https://www.taiwannews.com.tw/en/news/3933168[Source]
+image::http://web.archive.org/web/20200514071323im_/https://tnimage.s3.hicloud.net.tw/photos/2020/05/13/1589352986-5ebb9a1ad0a98.jpg[height=400]
 
 === There are bad things happening all over the world, why don't you fight for those causes as well / instead?
 
@@ -3194,11 +3204,17 @@ Falun Gong can be split into two parts, like any other religion:
 * the "self-help" "how to live well" part, including the physical exercises and meditation, which cannot be proven or disproven, like any other self-help and <<democracy-is-a-religion,political opinion>>
 * the metaphysics, most notably, Li Hongzhi is a living God, and all other non verifiable things he claims like aliens, alternate dimensions, etc.: <<flg-verifiable>>
 
-Ciro thinks that FLG's self-help part could be good for you, just like many other meditative practices such as Yoga, Buddhist meditation, Tai chi, deep Catholic prayer, etc.
+Ciro thinks that FLG's self-help part could potentially be good for you, just like many other meditative practices such as Yoga, Buddhist meditation, Tai chi, deep Catholic prayer, etc.
 
 However Ciro believes that the metaphysics is all complete and utter bullshit, child stories made up by Li Hongzhi, and just as real as Father Christmas or the https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster[Flying Spaghetti Monster]. 
-
 Also the "obligation to reach Salvation" is boring like for many other prophetic <<flg-religion,religion>>.
+
+From a purely strategic point of view, the metaphysics is a trade-off:
+
+* some people will believe you are a freaking living God
+* others will laugh at you and say you are a charlatan
+
+It may be argued however that Li played this card beautifully: since all Chinese power is concentrated in the CCP, any non-CCP movement dies out, so he was better off long run playing the metaphysics game. The only other choice would have been joining the CCP.
 
 To Ciro it is obvious that Falun Gong is just one of the many very similar movements that came out of the Qi Gong Boom, such as: <<zhong-gong>>. It just happens to be the one that survived due to better luck and strategy.
 
