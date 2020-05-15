@@ -3996,6 +3996,9 @@ See also: <<orange-papers>> "Promised Powers or Knowledge".
 [[li-hongzhi]]
 ===== FLG is dangerous because Li Hongzhi has too much power over followers 李洪志
 
+* https://en.wikipedia.org/wiki/Li_Hongzhi
+* https://zh.wikipedia.org/wiki/李洪志
+
 Li Hongzhi (LHZ, 李洪志) is the creator of FLG: link:https://en.wikipedia.org/wiki/Li_Hongzhi[].
 
 Falun Gong people call him "master" (师傅), which is a common traditional term used to respectfully address experienced teachers in a disciple (弟子)/teacher relation, e.g. Kung Fu or other crafts.
@@ -4065,13 +4068,43 @@ It could show how:
 Episodes could be split along:
 
 * Episode 1: pre Qi Gong, shows Childhood, workplaces, early motivations. Ends with first contact with a Qi Gong lesson
-* Episode 2: early Falun Gong. Opens an academy. Starts without metaphysics, but grows into it. Show him knowingly lying, but also seething magic things. The first followers, and top lieutenants. Makes some management mistake, but escapes. Could end in a metaphysical scene, or 13 May 1992 initial public lesson.
-* Episode 3: later Falun Gong in China. It grows, show in Chinese news. Power struggles, problems with early lieutenants, and new lieutenants come up. Many people practice on streets. Battle against <<zhong-gong>>.
-* Episode 4: preaching outside of China and emigration. Crackdown. International Falun Gong media.
+* Episode 2: early Falun Gong. Opens an academy. Starts without metaphysics, but grows into it. Show him knowingly lying, but also seething magic things. The first followers, and top lieutenants. Makes some management mistake, but escapes. Could end in a metaphysical scene, or 13 May 1992 initial public lesson. Maybe a scene of Li's visit to Thailand in 1983 (photo from CCP media found on Google).
+* Episode 3: later Falun Gong in China. It grows, show in Chinese news. Power struggles, problems with early lieutenants, and new lieutenants come up. Many people practice on streets. Battle against <<zhong-gong>>. Near 1996, something tips Li off to the fact that the CCP is going to crack down on them, and so he announces that he will be spreading abroad full time. Check out if this was before or after the first Anti FLG newspaper article in 1996-06-17.
+* Episode 4: preaching outside of China and emigration. American permanent residence in 1998. Watches crackdown on television. International Falun Gong media. Show him at Falun Gong New York "Dragon Springs" complex started in the 2000's:
+** http://www.dragonsprings.org/
+** https://www.businessinsider.com/dragon-springs-falun-gong-upstate-new-york-compound-photos-2019-9
+** 1999 https://apnews.com/420a741ec19c4db3993d408747874b2d
 
-The series could be filmed in Taiwan maybe?
+Parts of the series could be filmed in <<taiwan>> maybe?
 
 Source material: <<neutral-books-about-falun-gongs-history>>.
+
+====== Li Hongzhi's family
+
+At least Jesus appeared to value chastity. He was even born from a virgin right? No sex around him at all.
+
+But Li doesn't need that. He's a God right, he can both be Enlightened part time and still have a family part time.
+
+Wife's name: Li Rui (李瑞 according to CCP). Report saying that a follower bought a house and registered it on Li Rui's name as a gift, but Li later returned the gift back: https://www.wsj.com/articles/SB94140245836194819 TODO house address.
+
+<<benjamin-penny-the-religion-of-falun-gong-2012>> gives further family members (some of them are based only on CCP sources however):
+
+* daughter: Li Meige (李美歌) claims born 1982-06
+* brothers and sisters, all younger:
+** Li Jun (李君) older younger sister
+** Li Ping (李平, female) younger younger sister
+*** Notably, Li Ping's alleged husband Sun Senjun (孙森伦) is Chinese-Thai, and allegedly wrote an account of Li Hongzhi's family in the 1980's "我与李洪志一家在泰国的日子——法轮功教主妹夫的自述" This is reproduced on many CCP sources, e.g.: http://lihongzhidaqidi.blogspot.com/2013_09_27_archive.html but it is good reading if you take everything with a grain of salt, does sound believable. TODO find original publishing location. This appears to be an interview: https://www.youtube.com/watch?v=Js0OyNwYw5A (watermarked Kaiwind on top)
+** Li Hui (AKA Li Donghui) younger brother
+* father: Li Dan
+* mother: Lu Shuzhen
+
+
+There are also claims that Li's birth name was Li Lai (李來).
+
+This claims to contain the biography of Li Hongzhi's family (likely all according to CCP sources), including several good pictures: https://kknews.cc/zh-hk/news/bbmz49.html The photo given there for Li Jun appears on this apparently FLG source without mention of the name: https://www.epochweekly.com/b5/103/5805.htm
+
+.Li Hongzhi with his wife and daughter presumably in the late 80's with fixing ships in a shipyard in the background. TODO location. Likely from CCP sources, in many places with <<chinese-government-media,kaiwnd>> watermarks. https://renjianzhengdao2019.blogspot.com/2019/05/blog-post_187.html[Pro-CCP source].
+image::http://web.archive.org/web/20200515122059im_/https://lh3.googleusercontent.com/proxy/4TGKtu8U3klyY_ld6bTpc9PnPOfSZppkEAl7gO6d9PghQbaJii4mykTlbMBtY7GYt_hCbw7Z1h3zohncGGn19vxr3ANWAUZUO6npqJsLlJCND_Nj8BqslNUaQBH1fzyY=s0-d[height=400]
 
 [[flg-telemarketing]]
 ===== Some Falun Gong people make phone telemarketing
@@ -4108,7 +4141,7 @@ Their prophet is https://en.wikipedia.org/wiki/Zhang_Hongbao[Zhang Hongbao] (htt
 
 Interestingly, like <<li-hongzhi>>, Hongbao is also from the Northeast of China (Heilongjiang), there must be a reason why those Qi Gong movements come from that region.
 
-Unlike Falun Gong however, Zhong Gong failed to branch the franchise out of China, and basically died out. He also died in a car crash in 2006 which didn't help.
+Unlike Falun Gong however, Zhong Gong failed to branch the franchise out of China, and basically died out. He also died in a car crash in 2006 which didn't help. Li Hongzhi however played smarter, and started branching abroad full force in 1996, he might have predicted that the crackdown was inevitale.
 
 Wikipedia says it reached 34 million followers in China.
 
@@ -4165,6 +4198,15 @@ Some key events:
 TODO what did he talk about on that Beijing day. This day still celebrated in 2020 as https://en.minghui.org/cc/36/["Falun Dafa Day"], in which the major international "<<orange-papers,Experience Sharing>> Conference" happens in New York.
 +
 He apparently also taught at Chaoyang Park in Changchun: https://goo.gl/maps/BFwKs2xr48AMUAbx8
+
+[[benjamin-penny-the-religion-of-falun-gong-2012]]
+====== The Religion of Falun Gong By Benjamin Penny (2012)
+
+https://www.amazon.co.uk/dp/0226655016
+
+A freely downloadable paper with a subset of the book: https://www.jstor.org/stable/pdf/20059033.pdf
+
+The author: https://en.wikipedia.org/wiki/Benjamin_Penny is an Australian researcher, https://researchers.anu.edu.au/researchers/penny-bdc
 
 [[politicians]]
 == Chinese politicians 中国政治家
