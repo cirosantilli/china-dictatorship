@@ -3046,6 +3046,8 @@ TODO: can anyone comment, without having a Taiwanese university address? This su
 * https://www.quora.com/unanswered/Can-you-comment-on-the-PTT-Bulletin-Board-System-at-ptt-cc-from-Taiwan-without-working-or-studying-at-a-Taiwanese-university
 * https://github.com/cirosantilli/china-dictatorship/issues/92
 
+Maybe the email requirement is the only way to prevent <<wumao,wumaos>> from flooding the website.
+
 Normal people see it on a web viewer hosted on: https://www.ptt.cc/bbs/index.html
 
 However it is fucking impossible to web archive that web interface because there is a cookie I'm 18-years-old confirmation before the first connection.
@@ -3243,6 +3245,7 @@ And you just repeat these truths over and over and over:
 * Non-followers are like this, FLG people are like that. Although non-followers who do good things are actually doing FLG without knowing it. Note: FLG even has a specific terminology for non-believers, which is translated in English as https://falundafa.org/eng/eng/zfl_new_4.html["ordinary people"] (常人). Non-FLG people should call them https://en.wikipedia.org/wiki/Abnormal_psychology[abnormal people] (https://zh.wikipedia.org/wiki/異常心理學[异常人]) in return. Like other aspects of FLG however, this appears in other religions, e.g. my mother mentioned the funny term used by her Protestant's group term but Ciro forgot it, and you can see it in Harry Potter as well: https://en.wikipedia.org/wiki/Muggle[The Muggles].
 * FLG is good
 * FLG is good
+* pre-civilization: civilization is actually much older than what we believe, and was supe radvanced, but https://en.wikipedia.org/wiki/Societal_collapse[societal collapse] events led us to forget about it, a bit like https://en.wikipedia.org/wiki/Atlantis[atlantis].
 * FLG is good
 * xref:flg-religion[Final judgment]
 * FLG is good
@@ -3438,7 +3441,7 @@ Exactly, just like any other <<flg-religion>>, this is why Ciro Santilli is <<do
 
 The closest claims to observable Ciro has heard are:
 
-* when pictures are taken in sacred events, notably Shen Yun, sometimes you can see magic Falun energy wheels in the pictures
+* when pictures are taken in sacred events, notably <<shen-yun>>, sometimes you can see magic Falun energy wheels in the pictures
 * in the homes of some followers, small magic good plants-like fungi-like things have grown
 +
 .Image of the magic good small plants that grew on a believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese. https://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
@@ -3894,6 +3897,16 @@ And some points which Ciro feels apply which were mentioned in some other articl
 Why would a nation state attack a Cult? This could give the impression that it is because there is something powerful and true in the Cult, and actually menaces this nation state.
 +
 For example, Falun Gong puts huge emphasis on its persecution in China, much like the https://en.wikipedia.org/wiki/Martyr[Martyrdom] of the Catholic Saints is highly emphasised.
+* "Careful control of your imsage": the cult leader is a master at controlling how people view him.
++
+One aspect of that, is to limit your public appearances to situations in which you have the most control, and notably being surrounded by your believers.
++
+Li does not announce where he is going, even though he is followed by millions: he just shows up, and local believers whisper to one another and come to see him.
++
+This reminded Ciro of the following 2012 video he watched, in which VICE was allowed to visit and interview <<russia,Siberian>> prophet https://en.wikipedia.org/wiki/Vissarion[Vissarion] (real name Sergey Anatolyevitch Torop Серге́й Анато́льевич То́роп, AKA "The Russian Jesus"), and they note how well he controlled his appearance.
++
+.https://www.youtube.com/watch?v=W2Cv5hZfOmk&t=1177
+video::W2Cv5hZfOmk[youtube,height=400,width=600,start=1177]
 
 This is especially interesting, because the website does not mention Falun Gong at all it seems: it really seems that all those cults are very similar.
 
@@ -3908,7 +3921,7 @@ But it is obvious from the size of the <<falun-gong-media>>, namely:
 
 * NDTV Television Network
 * Epoch Times newspaper
-* Shen Yun
+* <<shen-yun>>
 
 that in practice they do have are a highly organized hierarchical structure, and very likely with <<li-hongzhi,LHZ>> at the very top, e.g.:
 
@@ -4010,6 +4023,10 @@ Furthermore, it also seems to Ciro that FLG is clearly anti-violence and self-ha
 It is also interesting to look into the https://en.wikipedia.org/wiki/Jonestown case. When the suicide order came, most people wanted out! Without physically controlling the followers, I don't think you can make them do much.
 
 It's funny that even though those events happened only 30 years ago, we know about Li just about as much as we know about Jesus! The only things which we can really picture in detail how they are are the well known locations themselves.
+
+Li Honzhi footage:
+
+* 1999-06-12 AP https://www.youtube.com/watch?v=r_onSZlvWSQ USA: "CHINA: FALUN DAFA CULT POSES NO THREAT CLAIMS FOUNDER" Li Hongzhi talks to media in New York
 
 .Li Hongzhi is Falun Gong's prophet/cult leader/living God. He's a cute north-Western 东北人 like <<wife,Ciro's wife>>. https://en.wikipedia.org/wiki/Li_Hongzhi[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/0/06/Li_Hongzhi_1.jpg[height=400]
@@ -4204,7 +4221,7 @@ See also: <<shitpost>>.
 [[xi-jinping-lookalikes]]
 ===== Xi Jinping Lookalikes 习近平撞脸
 
-.2019-06-01 https://en.wikipedia.org/wiki/Sadomasochism[Sadomasochist] Xi Jinping lookalike in https://en.wikipedia.org/wiki/Bondage_suit[bondage suit] (gimp suit, fetish gear) at a cosplay fair. TODO: date, location, first report. Earliest post found so far: 2019-06-01 at https://imgur.com/gallery/TnR8Voo[]. Watermark reads "I am Dasen 郭"
+.2019-05-21 https://en.wikipedia.org/wiki/Sadomasochism[Sadomasochist] https://en.wikipedia.org/wiki/BDSM[BDSM] (SM) Xi Jinping lookalike or photoshop in https://en.wikipedia.org/wiki/Bondage_suit[bondage suit] (gimp suit, fetish gear) at a cosplay fair. TODO: is this a Photoshop and if yes what's the original pic, publish dates, location/event. Earliest post found so far: 2019-05-21 08:49:20 GMT+1 (Imgur timestamp) going wild on <<ptt>>: https://www.ptt.cc/bbs/Gossiping/M.1558424992.A.33B.html[] entitled "這位coser是誰啊？好眼熟。" (Who is this Cosplayer? He looks familiar.) by user "a15568". Watermark reads "I am Dasen 郭"
 image::https://web.archive.org/web/20191009054907if_/https://i.imgur.com/TnR8Voo.jpg[height=500]
 
 .2020-01-01 https://en.wikipedia.org/wiki/Shengjian_mantou[Pan-fried dumpling] Xi Jinping lookalike 生煎包习近平撞脸. Furthermore, this reminded people of <<xi-jinping-memes,習包子>>. A Taiwanese report from 2020-01-01: https://news.tvbs.com.tw/world/1257030 TODO name, location. One of the many videos of him: https://www.youtube.com/watch?v=hTt8Sjer6cc[]
@@ -4871,9 +4888,6 @@ From <<falun-gong>>:
 * New Tang Dynasty Television (NTD)
 ** https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television
 ** https://zh.wikipedia.org/wiki/新德里电视台
-* Shen Yun Performing Arts
-** https://en.wikipedia.org/wiki/Shen_Yun_Performing_Arts
-** https://zh.wikipedia.org/wiki/神韵艺术团
 * https://en.minghui.org/
 ** https://falundafa.org/ links to it
 ** https://www.clearwisdom.net/
@@ -4890,6 +4904,15 @@ From <<falun-gong>>:
 * https://hongzhi.li/ nice https://en.wikipedia.org/wiki/Domain_hack[domain hack]
 * https://www.qi-gong.me/
 * http://www.zhengjian.org/
+
+[[shen-yun]]
+===== Shen Yun Performing Arts 神韵艺术团
+
+* https://en.wikipedia.org/wiki/Shen_Yun_Performing_Arts
+* https://zh.wikipedia.org/wiki/神韵艺术团
+
+.https://youtube.com/watch?v=IAQ14AnAsmU Youtubber under pseudonym "Aarvoll" (TODO full real name, face shown in channel all the time) tells about his experience playing trumpet for Shen Yun in 2013 as a non-believer and Falun Gong in general. Reading the sacred books and doing Falun Gong exercises were mandatory. He also talks about <<flg-organized>>. Ciro agrees/finds what he says convincing. In one interesting anecdote, he tells how although Li Hongzhi claims to be a God, he looked like an average slightly overweight dude, and had a trumpet since he used to play it, but couldn't really play it because he hadn't practiced in so long. He also comments on the obvious fact that Li does not speak English very well, e.g. on the Shen Yun tour bus he was there one day answering questions, and a translator was needed.
+video::IAQ14AnAsmU[youtube,height=400,width=600]
 
 [[jennifer-zeng]]
 ===== Jennifer Zeng 曾錚
@@ -5269,8 +5292,35 @@ See also <<ciro-santilli>>'s answer to https://www.quora.com/What-would-happen-i
 Some cases where that didn't end well for them:
 
 * 2017 Li Xiaoling (李小玲) was arrested and released "on bail" for wearing a <<tiananmen,Tiananmen>> T-shirt: https://www.nchrd.org/2017/10/li-xiaoling/
-* 2000 https://en.minghui.org/emh/articles/2000/11/8/6250.html Autralian Zhang Cuiying went to China to protest against Falun Gong oppression: https://youtu.be/v7cz4Tkbwy8?t=4036 TODO chinese name. TODO non Falun Gong coverage.
 * 1989 <<pu-zhiqiang-shirt,Pu Zhiqiang (浦志强) freedom of speech shirt>> during <<tiananmen>>
+
+Related:
+
+* 2000 https://en.minghui.org/emh/articles/2000/11/8/6250.html Autralian Zhang Cuiying (张翠英) went to China to protest against Falun Gong oppression and was kept 8 months in jail there. When she returned to Australia on 2000-11-04, she wore a t-shirt saying:
++
+____
+为了一句公道话， +
+法轮大法是正法， +
+为此坐牢八个月， +
+历经艰险讨公道， +
+头可断，血可流， +
+浩气丹心留狱中， +
+中国镇压法轮功， +
+将成为千古罪人。
+____
++
+translated as:
++
+____
+Because of the truth I said +
+Falun Dafa is righteous +
+I was imprisoned for 8 months +
+I went through the hardship just to attain the justice +
+I am not afraid of bleeding or other sacrifice +
+My righteous mind was shown in the prison +
+China suppresses Falun Gong +
+Which is unforgivable
+____
 
 .In 2016 activist Quan Ping (Kwon Pyong,权平,https://twitter.com/kwonpyong[BraveJohnny]) was sent to jail for wearing a <<nazi,Xitler>>/<<xi-jinping-memes,習包子/大撒币>> t-shirt in public and posting selfies online. This photo is in front of a Government building (TODO exact location, reports say he is from https://en.wikipedia.org/wiki/Jilin_City[Jilin City 吉林] transcription of the sign on top of building: 诚信立市 https://baike.baidu.com/item/工业强市[工业强市] 依法治...) https://www.nytimes.com/2017/02/16/world/asia/china-xi-jinping-xitler-tshirt-kwon-pyong.html[New York Times coverage]. He was later sentenced and served 18 months in prison because of this: https://www.frontlinedefenders.org/en/profile/kwon-pyong[Front Line Defenders profile]. https://www.rfa.org/english/news/china/xi-jinping-tshirt-activist-confirmed-held-in-northeast-china-detention-center-12082016110338.html[Source].
 image::https://web.archive.org/web/20170630212420im_/http://www.rfa.org/english/news/china/activist-11022016120902.html/china-xitler-nov22016.jpg/image[height=400]
