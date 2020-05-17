@@ -721,12 +721,25 @@ Although they have not been able to produce concrete evidence, which could be ex
 
 If anyone is able to provide further evidence of this relationship, please, please, please get in touch.
 
-The family tree that Ciro has reconstructed orally is:
+One thing to keep in mind is that the Qing dynasty, like the previous Ming dynasty, used https://en.wikipedia.org/wiki/Generation_name[Generation names] (https://zh.wikipedia.org/wiki/行辈[行辈]), such that the first character of the given name is the same for all people in a given generation (counted directly from the first emperor that adopted the rule.
+
+For example, this wiki page contains a good family tree of the most important Qing people: link:++https://en.wikipedia.org/wiki/Family_tree_of_Chinese_monarchs_(late)#Qing_dynasty++[] and we see that many important people around 1861 were Zai 載something, e.g.: Zaichun, Zaiyi, Zaitian, etc.
+
+The last emperor was Puyi, so Pu is the last well known mark. But there were others planned that never got used for after him as shown at: https://en.wikipedia.org/wiki/Aisin_Gioro#List_of_generation_prefixes[].
+
+* Zai (before Pu)
+* Pu (wife's great-grandfather)
+* Yu (wife's grandfather)
+* Heng (wife's father)
+* Qi (wife)
+* Dao (wife's children).  at least one thing is decided from this: Ciro's children Chinese names will all be Ai Dao Something.
+
+The family tree that Ciro has reconstructed orally from his mother-in-law is:
 
 * Ciro's wife:
 ** Father: Ai Dayi (艾大义) born: 1932 in Shenyang
-*** Father: Ai Xikang (艾锡康)
-**** Father: Ai Pushan (艾溥?) (pu character presumed from generation mark, same generation as Puyi, the Last Emperor!). https://en.wikipedia.org/wiki/Zaitao has a Pushen (溥伸), but he died at 13 years old in 1928.
+*** Father: Ai Xikang (艾锡康) So why did he not use Yu?
+**** Father: Ai Pushan (艾溥?), so the Pu character is presumed from the generation name, to be the same generation as Puyi. https://en.wikipedia.org/wiki/Zaitao has a Pushen (溥伸), but he died at 13 years old in 1928, so its not the one.
 **** Younger brother 2: Ai Xiyuan (艾锡?) Professor at https://en.wikipedia.org/wiki/Northeastern_University_(China) Apparently had no Children.
 **** Younger brother 3: Ai Xicong (艾锡?) Graduated in law in Japan in https://en.wikipedia.org/wiki/Waseda_University[Waseda University] Was the top official of the https://en.wikipedia.org/wiki/National_Police_Agency_(Japan) in China when it was occupied by Japan (警察廳长) Passed first by Taiwan.
 **** Younger brother 4: Ai Xiying (艾锡?)
@@ -735,8 +748,6 @@ The family tree that Ciro has reconstructed orally is:
 ** Older brother: Zhao Yingjie. Studied law in Japan also at https://en.wikipedia.org/wiki/Waseda_University[Waseda University].
 
 Many of them have had different names in different places/countries, notably many used the name 肇(Zhao) rather than 艾.
-
-This wiki page contains a good family tree of the most important Qing people: link:++https://en.wikipedia.org/wiki/Family_tree_of_Chinese_monarchs_(late)#Qing_dynasty++[]
 
 Further anecdotal indicators follow.
 
@@ -751,6 +762,7 @@ Bibliography:
 * https://en.wikipedia.org/wiki/Head_of_the_House_of_Aisin_Gioro
 * https://www.zhihu.com/question/34813921 现在清朝皇室的后代现状如何？ What is the current status of the descendants of the Qing royal family?
 * https://www.quora.com/Are-there-any-descendants-of-the-Qing-Dynasty-left-currently
+* https://arxiv.org/pdf/1412.6274.pdf "Y Chromosome of Aisin Gioro, the Imperial House of Qing Dynasty" unknown year. Unfortunately Ciro's wife does not have an Y chromosome like her father. This does however mention the book used as a genealogy reference: https://books.google.co.uk/books/about/愛新覺羅宗譜.html?id=Pj4EAQAAIAAJ 愛新覺羅宗譜 On Douban: https://book.douban.com/subject/4162448/ gives ISBN 9787507713428 On Amazon unavailable: https://www.amazon.com/dp/7507713423
 
 .Ciro Santilli's portrait as Qing emperor. https://en.wikipedia.org/wiki/File:清_郎世宁绘《清高宗乾隆帝朝服像》.jpg[Original image].
 image::{cirosantilli-media-base}/Ciro_Santilli_portrait_as_Qing_emperor.jpg[height=600]
@@ -785,7 +797,7 @@ But of course, this is impossible to answer objectively.
 
 Wouldn't you be rather upset if your <<ciro-santilli-mother-in-law-jail,mother in law were put into jail unfairly for 15 days>>?
 
-But don't you think that <<falun-gong-is-not-important-to-be-worth-discussing,**70 million** people (6% of the total population in 2000!)>> getting completely squashed by the Party illustrates extremely well the dangers of the dictatorship?
+But don't you think that <<flg-important,**70 million** people (6% of the total population in 2000!)>> getting completely squashed by the Party illustrates extremely well the dangers of the dictatorship?
 
 With that in mind, Ciro tries his best to give FLG only the right level of exposure I think it deserves relative to other events, according to these guidelines: <<keyword-choice>>.
 
@@ -2418,9 +2430,6 @@ Some Chinese spy stories:
 They are an entry point to spying, censorship and fake news.
 
 * 2020-02 https://www.reuters.com/article/us-usa-china-media/u-s-imposes-new-rules-on-state-owned-chinese-media-over-propaganda-concerns-idUSKBN20C2G1 U.S. imposes new rules on state-owned Chinese media over propaganda concerns, the companies are: Xinhua News Agency, China Global Television Network, China Radio International, China Daily Distribution Corp. and Hai Tian Development USA, Inc. See also: <<chinese-government-media>>.
-* TikTok https://en.wikipedia.org/wiki/TikTok | https://zh.wikipedia.org/wiki/抖音
-** 2019-11 https://www.theverge.com/platform/amp/2019/11/25/20976964/chinese-americans-censorship-wechat-hong-kong-elections-tiktok
-** https://www.reddit.com/r/China/comments/fug8i1/the_chinese_tiktok_just_began_an_uninterrupted/ "The Chinese Tik-Tok just began an uninterrupted propaganda stream."
 * Zoom https://en.wikipedia.org/wiki/Zoom_Video_Communications | https://zh.wikipedia.org/wiki/Zoom
 ** 2020-04-03 https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/ 'Zoom's encryption is "not suited for secrets" and has surprising links to china, researchers discover"
 
@@ -2466,6 +2475,18 @@ image::https://web.archive.org/web/20200423092410im_/https://retro-blogs.spectat
 
 .Cartoon suggesting that Huawei is a like a https://en.wikipedia.org/wiki/Trojan_Horse[Trojan Horse] being gifted to Europe. TODO: source of original non-China generic Trojan Horse background image that was edited and repurposed. https://twitter.com/DaichiWatanbe/status/1231189285325475840[Source].
 image::https://web.archive.org/web/20200222121210im_/https://pbs.twimg.com/media/ERYQHj_XYAEQsfN.jpg[height=400]
+
+[[tiktok]]
+====== TikTok 抖音 (Douyin)
+
+* https://en.wikipedia.org/wiki/TikTok
+* https://zh.wikipedia.org/wiki/抖音
+
+News:
+
+* 2020-05 <<liu-keqing-singer>>
+* 2019-11 https://www.theverge.com/platform/amp/2019/11/25/20976964/chinese-americans-censorship-wechat-hong-kong-elections-tiktok
+* https://www.reddit.com/r/China/comments/fug8i1/the_chinese_tiktok_just_began_an_uninterrupted/ "The Chinese Tik-Tok just began an uninterrupted propaganda stream."
 
 ===== What should Western media do about China?
 
@@ -2645,6 +2666,8 @@ For this same reason, her father, who Ciro's wife worships, spent around 10 year
 
 * https://en.wikipedia.org/wiki/Campaign_to_Suppress_Counterrevolutionaries https://zh.wikipedia.org/wiki/镇压反革命运动
 * https://en.wikipedia.org/wiki/Anti-Rightist_Campaign https://zh.wikipedia.org/wiki/反右运动
+
+It is also for this reason that many Manchu changed their names to hide their Manchu origins, which makes reconstructing their family tree much harder, as mentioned at: https://www.scmp.com/article/982136/proud-manchu-reclaims-his-rich-heritage for the purposes of <<throne>>.
 
 === How do different websites view Ciro Santilli's profile?
 
@@ -3169,12 +3192,14 @@ image::https://upload.wikimedia.org/wikipedia/commons/8/8a/TAM_Arrest4.jpg[heigh
 .https://www.youtube.com/watch?v=ClvX7ED8UUI Tim and Eric's Zone Theory. If you want to stop <<falun-gong>>, don't put them in jail like the <<dictatorship,dictators>>. Do it the same way you stop dictators: with <<funny,comedy>>. Otherwise, the dictators remain in power, and <<intolerance,next person in jail, will be you>>.
 video::ClvX7ED8UUI[youtube,width=600,height=400]
 
+[[christine-marie]]
 .https://www.youtube.com/watch?v=GwoO7Nekmpw&t=445 Christine Marie, founder of http://voicesfordignity.com/[Voices for Dignity] which takes care of https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints[FLDS] leaves, was interviewed in VICE documentary "Polygamist Mafia: Escaping The Kingston Clan". While Ciro does not believe Falun Gong is as extreme as FLDS, he does really like the things Christine says. E.g., she calls "cult leaders" with the neutral <<flg-religion,religious>> form <<li-hongzhi,prophet>>, just like Ciro, and mentions the important fact that "And the another thing that the public doesn't realise, is that there are also beautiful thing within those communities". This is the mindset of <<intolerance,tolerance>> that the world needs.
 video::GwoO7Nekmpw[youtube,height=400,width=600,start=445]
 
-==== Falun Gong is not important to be worth discussing
+[[flg-important]]
+==== Why is it important to talk about Falun Gong?
 
-The main reason Ciro Santilli emphasize FLG is that it shows how the CCP can mercilessly crush a 70M strong group (according to CCPs own statistics) out of a population of 1.3B in 2000, i.e. 5% of the population, and of course not because of <<flg-bias>>, since Ciro is completely and totally unbiased.
+The main reason <<ciro-santilli>> emphasizes FLG is that it shows how the CCP can mercilessly crush a 70M strong group (according to CCPs own statistics) out of a population of 1.3B in 2000, i.e. 5% of the population, and of course not because of <<flg-bias>>, since Ciro is completely and totally unbiased.
 
 If that number is correct, Ciro wonders curious what you would consider an important movement? :-)
 
@@ -3198,20 +3223,24 @@ image::https://web.archive.org/web/20191108081906im_/http://falunau.org/wp-conte
 .Hundreds of Falun Gong believers in Chengdu, China, 1998. https://faluninfo.net/falun-gong-the-practice/[Source].
 image::https://web.archive.org/web/20200315112422if_/https://faluninfo.net/wp-content/uploads/2012/06/chengdu.jpg[height=500]
 
-==== Does Ciro Santilli believe in or practice Falun Gong?
+[[does-ciro-santilli-believe-in-or-practice-falun-gong]]
+==== Does Ciro Santilli believe in or practice Falun Gong? 三西猴相信法轮功吗？
 
 No, Ciro is https://en.wikipedia.org/wiki/Agnosticism[agnostic] (https://zh.wikipedia.org/wiki/不可知论[不可知论]) and therefore believes that all the metaphysics that <<li-hongzhi>> says is bullshit.
 
 Here are some things that he doesn't like about Falun Gong for example: <<things-ciro-santilli-dislikes-about-falun-gong>>.
 
-Falun Gong can be split into two parts, like any other religion:
+Ciro believes Falun Gong can be split into two parts, like any other <<flg-religion,religion>>:
 
 * the "self-help" "how to live well" part, including the physical exercises and meditation, which cannot be proven or disproven, like any other self-help and <<democracy-is-a-religion,political opinion>>
-* the metaphysics, most notably, Li Hongzhi is a living God, and all other non verifiable things he claims like aliens, alternate dimensions, etc.: <<flg-verifiable>>
+* the metaphysics, most notably, Li Hongzhi is a living God, and all other non verifiable things he claims like aliens, alternate dimensions, etc., see:
+** <<flg-religion>>
+** <<flg-verifiable>>
 
-Ciro thinks that FLG's self-help part could potentially be good for you, just like many other meditative practices such as Yoga, Buddhist meditation, Tai chi, deep Catholic prayer, etc.
+Ciro thinks that FLG's self-help part could potentially be good for you, just like many other meditative practices such as Yoga, Buddhist meditation, Tai chi, deep Catholic prayer, etc. As far as he has heard, all of it sounded good standard religious self-help: be peaceful, be good to others, etc. Like any other well managed religion, FLG does have good things to offer, see also: <<christine-marie>>.
 
 However Ciro believes that the metaphysics is all complete and utter bullshit, child stories made up by Li Hongzhi, and just as real as Father Christmas or the https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster[Flying Spaghetti Monster]. 
+
 Also the "obligation to reach Salvation" is boring like for many other prophetic <<flg-religion,religion>>.
 
 From a purely strategic point of view, the metaphysics is a trade-off:
@@ -3226,30 +3255,6 @@ To Ciro it is obvious that Falun Gong is just one of the many very similar movem
 The absolute truth is already known by the xref:li-hongzhi[prophet], although he does not want to give clear evidence for reasons: <<flg-verifiable>>, and Ciro finds that utterly boring. There's no fun in living in a world where the absolute truth has been found.
 
 For these reasons, Ciro cannot bother to read even into the self-help part: how can you read that when there is so much bullshit every other page?
-
-And you just repeat these truths over and over and over:
-
-* FLG is good
-* FLG is good
-* FLG is good
-* xref:flg-religion[Aliens]
-* FLG is good
-* xref:flg-organized[You can support FLG by doing X and Y, it is not mandatory, but why wouldn't you since you are saving other people?]
-* FLG is good
-* FLG is good
-* xref:flg-religion[Alternate dimensions]
-* FLG is good
-* xref:flg-medication[Maybe FLG will make you healthier, but no promises, but it will make you a better person, and that's why you should do it, but if you really really believe, you get healthier]
-* FLG is good
-* FLG is good
-* Non-followers are like this, FLG people are like that. Although non-followers who do good things are actually doing FLG without knowing it. Note: FLG even has a specific terminology for non-believers, which is translated in English as https://falundafa.org/eng/eng/zfl_new_4.html["ordinary people"] (常人). Non-FLG people should call them https://en.wikipedia.org/wiki/Abnormal_psychology[abnormal people] (https://zh.wikipedia.org/wiki/異常心理學[异常人]) in return. Like other aspects of FLG however, this appears in other religions, e.g. my mother mentioned the funny term used by her Protestant's group term but Ciro forgot it, and you can see it in Harry Potter as well: https://en.wikipedia.org/wiki/Muggle[The Muggles].
-* FLG is good
-* FLG is good
-* pre-civilization: civilization is actually much older than what we believe, and was supe radvanced, but https://en.wikipedia.org/wiki/Societal_collapse[societal collapse] events led us to forget about it, a bit like https://en.wikipedia.org/wiki/Atlantis[atlantis].
-* FLG is good
-* xref:flg-religion[Final judgment]
-* FLG is good
-* <<is-chinese-politician-x-evil,the CCP is evil>>, not figuratively, but literally as in they are representatives of, or evil supernatural beings themselves. E.g. <<jiang-zemin>> is actually an evil frog in some alternate dimension, literally, not just memecally. The Chinese Government is literally responsible for creating <<corona,Covid-19>>. They give the CCP too much credit. The CCP are just a bunch of lazy and greedy people like you and me.
 
 Ciro would really like to know if <<li-hongzhi,LHZ>> really believes in FLG himself, or is just a complete manipulating charlatan, but unfortunately we will never know that. Just imagine if before he died he published a video saying: "it was a joke, gotcha!". Now that would be **epic**!
 
@@ -3267,11 +3272,186 @@ In any case, at least FLG got one thing right: the commies are <<is-the-chinese-
 
 See also: <<flg-fake>>.
 
-===== How much does Ciro Santilli know about Falun Gong?
+[[how-much-does-ciro-santilli-know-about-falun-gong]]
+===== How much does Ciro Santilli know about Falun Gong? 三西猴对法轮功有多熟悉？
 
-He hasn't read their <<flg-canon,canon>> himself, no patience, but he has had constant contact with believers and so has an idea of its content.
+He hasn't read their <<flg-canon,canon>> himself, no patience, but he has had <<flg-bias,constant contact with believers>> and so has an idea of its content.
 
-Ciro has summarized his thoughts about <<falun-gong>> at: <<does-ciro-santilli-believe-in-or-practice-falun-gong>>.
+Ciro has summarized his thoughts about <<falun-gong>> at: <<does-ciro-santilli-believe-in-or-practice-falun-gong>> and <<flg-religion>>
+
+[[flg-religion]]
+==== Is Falun Gong a religion? 法轮功是一个宗教吗？
+
+If asked if they follow a religion, most FLG believers will say "no".
+
+E.g. they call themselves "practitioners" or "students" (学员) instead of "believers", and their peers "practitioner colleagues" (https://baike.baidu.com/item/同修[同修]). And if you say you don't believe in their FLG metaphysics bullshit, they will often reply "he does not understand". To them, it is not about belief, the truth is clear, and you just don't see it yet. To this you should reply: "and you don't understand that <<li-hongzhi,Li Hongzhi>> is a master manipulator dude who deceived you and millions of others".
+
+But <<ciro-santilli>> strongly believes that this is just a language barrier/FLG propaganda question (see also "Different levels of truth" from <<orange-papers>>), and that 99.99% of people in the West would classify FLG as a religion just like <<christianity>> if they are told about FLG's beliefs:
+
+* absolute truth comes from an enlightened <<li-hongzhi,prophet>>, who is perfect and has superhuman abilities
+* weekly meetings (学法 "study the law (of the universe (of <<li-hongzhi>>))"）where they read from a <<flg-canon,sacred book>>, either written by the prophet, or transcribed from his presentations to disciples, including the disciples questions, much like traditional Chinese texts like link:https://en.wikipedia.org/wiki/Analects[The Analects of Confucius], just like Christians read from the Bible over and over again.
++
+In both cases, some believers claim that sometimes even reading the same text again gives them new insight.
+* prescribed daily meditation exercise hours, somewhat like Muslim https://en.wikipedia.org/wiki/Salah[Salah] prayers which they call https://en.wikipedia.org/wiki/Fazhengnian[发正念 (fa1 zheng4 nian4)], which means "send righteous thoughts". They seem to believe that this meditation helps external good magic things happen, so it is half meditation half prayer.
+* longer "less mandatory" https://en.wikipedia.org/wiki/Qigong[Qigong-like] (https://zh.wikipedia.org/wiki/气功[气功]) exercises followed by a meditation (打坐) and which they collectively call https://zh.wikipedia.org/wiki/修道_(道教)[修炼] "practice austerities". note that this term is borrowed from Taoism but possibly with different precise meaning. There are exactly 5 exercises (meditation being the fifth) some with a fun supernatural name:
+** Buddha Stretching a Thousand Arms
+** Falun Standing Stance
+** Penetrating the Cosmic Extremes
+** Falun Cosmic Orbit
+* higher intelligent beings
+* other dimensions, which some select people with vision superpowers can see
+* aliens that look like humans are amongst us, they gave us part of our modern technology, some are evil, others not so evil
+* meetings in which people tell their religious testimonies ("experience sharing" TODO Chinese name, possibly just "分享修炼的美好", e.g. https://www.minghui.org/mh/articles/2015/9/29/分享修炼的美好-印尼召开修炼心得交流会（图）-316838.html[source]): https://en.wikipedia.org/wiki/Testimony#Religion
++
+As Jesus put it in Matthew 18:20:
++
+____
+For where two or three are gathered in my name, there am I among them
+____
++
+which highlights the critical believer mass effect of reinforced beliefs.
+* an impending link:https://en.wikipedia.org/wiki/Last_Judgment[final judgment]-like event, which will happen "very soon" (<<flg-verifiable,unspecified date>>), and in which the just will be rewarded
++
+Ciro predict that when <<li-hongzhi>> dies, the claim will be that he went to another dimension so save us all, therefore putting this final judgment on hold, a bit like Jesus.
+* link:https://en.wikipedia.org/wiki/Open-air_preaching[street preaching] (http://www.minghui.org/mh/glossary.html[讲真相] "truth-telling") with stands and leaflets on the streets exactly like https://en.wikipedia.org/wiki/Jehovah's_Witnesses[Jehovah's Witnesses].
++
+The Falun Gong organization also specifies guidelines on how to preach, although these might not be <<flg-canon,canon>>, even though if they are not, it is extremely likely that <<li-hongzhi,LHZ>> is directly involved in their specification
++
+Falun Gong has also used <<flg-telemarketing,phone call preaching>>.
++
+All of this is part of their effort to "save people (救人)", i.e. convert them to Falun Gong.
+* non-believers are fundamentally different from believers. Although non-followers who do good things are actually doing FLG without knowing it. Note: FLG even has a specific terminology for non-believers, which is translated in English as https://falundafa.org/eng/eng/zfl_new_4.html["ordinary people"] (常人). Non-FLG people should call them https://en.wikipedia.org/wiki/Abnormal_psychology[abnormal people] (https://zh.wikipedia.org/wiki/異常心理學[异常人]) in return. Like other aspects of FLG however, this appears in other religions, e.g. my mother mentioned the funny term used by her Protestant's group term but Ciro forgot it, and you can see it in Harry Potter as well: https://en.wikipedia.org/wiki/Muggle[The Muggles].
+* xref:flg-organized[You can support FLG by doing X and Y, it is not mandatory, but why wouldn't you since you are saving other people?]
+* alternate dimensions
+* pre-civilization: civilization is actually much older than what we believe, and was supe radvanced, but https://en.wikipedia.org/wiki/Societal_collapse[societal collapse] events led us to forget about it, a bit like https://en.wikipedia.org/wiki/Atlantis[atlantis].
+* xref:flg-medication[Maybe FLG will make you healthier, but no promises, but it will make you a better person, and that's why you should do it, but if you really really believe, you get healthier]. But people who seemed to be believers also die, because deep within their hearts, there was a belief problem.
+* <<is-chinese-politician-x-evil,the CCP is evil>>, not figuratively, but literally as in they are representatives of, or evil supernatural beings themselves. E.g. <<jiang-zemin>> is actually an evil frog in some alternate dimension, literally, not just memecally. The Chinese Government is literally responsible for creating <<corona,Covid-19>>. They give the CCP too much credit. The CCP are just a bunch of lazy and greedy people like you and me.
+
+From this, it is obvious that Falun Gong is just a https://en.wikipedia.org/wiki/New_Age[New Age] (ttps://zh.wikipedia.org/wiki/新纪元运动[新纪元运动]) https://en.wikipedia.org/wiki/Syncretism[syncretic] religion combining https://en.wikipedia.org/wiki/Qigong[Qigong], https://en.wikipedia.org/wiki/Buddhism[Buddhism], some aspects of <<christianity>>, and whatever other crazy things <<li-hongzhi>> believes in.
+
+Or you could call Falun Gong a <<flg-cult,cult>>, which is nothing but a new/small religion with negative connotation, and thus meaningless.
+
+FLG is very similar to Scientology in Ciro's view: a new religion that mixes elements of both old and new. And just like any other religion, <<democracy-is-a-religion,their practice must be allowed>>.
+
+But consider this: how to classify what a religion is?
+
+Some would answer: science is what every one can perceive with their own senses.
+
+But FLG followers claim to feel FLG energies when doing the exercises, and a few of them have the power of seeing the other dimensions.
+
+On the other hand, how many of your friends have experienced the laws of quantum field theory or general relativity in a very direct way?
+
+And aren't pro-democracy believers also taking actions based solely on a shared belief, possibly organized by a pro-democracy leader?
+
+From a purely strategic point of view, the "religion" denomination would be:
+
+* good to FLG because the concept of freedom of religion carries considerable weight in the West
+* bad for FLG because people who already have a religion would be less likely to try it out and start believing
++
+Falun Gong's recruitment strategy is to focus on the exercises first, and in particular its <<flg-medication,health benefits>> and then as some people start to feel things, they start introducing the metaphysics.
+
+See also: "Different levels of truth" from <<orange-papers>>.
+
+See also: <<flg-daily>>.
+
+[[flg-cult]]
+===== Is Falun Gong a cult? 法轮功是邪教吗？
+
+Falun Gong does share many many many characteristics with what many people classify as a "cult", see e.g.: <<orange-papers>>, so "yes" could be a reasonably answer.
+
+However, <<ciro-santilli>> strongly believes that so does any other existing religion e.g. <<christianity>>, and that Falun Gong is not any worse or better than those other well known religions.
+
+Ciro therefore believes that the only reasonable stances are to either:
+
+* be against all religions (including Christianity and Falun Gong), and classify all of them as Cults
+* allow both Christianity and Falun Gong to exist, and support religious freedom
+
+but not "oppose Falun Gong" and support Christianity.
+
+Some people will say: Falun Gong is a cult because it is too new and therefore obviously fake!
+
+So, if I tell a lie today, will it become true in a thousand years? Or a truth today become a lie? The Romans called <<christianity>> the "Cult of Jesus"!
+
+Try sending an email to <<li-hongzhi,LHZ>> asking him to <<flg-verifiable,prove his powers to you>> :-)
+
+Others will say: Falun Gong is a cult because its prophet is still alive!
+
+But then, worry not, because Li Hongzhi was born in 1951, and therefore will almost certainly die by 2040, unless he truly is a living God as he claims.
+
+Now, for the really important question of weather Falun Gong is a "good" or "bad" religion, <<ciro-santilli>> has seen absolutely nothing in it that is worse than any <<flg-religion,other major religion>> say, e.g., <<christianity>>.
+
+Some possibly neutral Cult analysts analyzing if FLG is good or bad:
+
+* https://www.icsahome.com/articles/the-prc-and-falun-gong-langone
+
+Against:
+
+* https://www.culteducation.com/group/1254-falun-gong.html
+
+In the end however, since there is nothing obviously completely creepy about FLG, all such discussions are basically equivalent to <<democracy-is-a-religion,"is the Left better than the Right">>, and cannot be answered.
+
+One interesting linguistic aspect is that "cult" normally translates in Chinese as "邪教" which means "Evil religion".
+
+The word "Cult" is much more ambiguous in the West however, and does not necessarily imply "Evil" in certain contexts, just "worship".
+
+For example, People from <<ciro-santilli>>'s mother's Protestant Church in Brazil, all say that they are going "to the cult" when referring to when they are going to church to pray, sing and read the Bible together.
+
+And of obviously, the origin of the word "cult" is exactly the same as that of https://en.wiktionary.org/wiki/cultivate#Etymology["cultivate"] as in "cultivate the crops" (which is also how Falun Gong believers refer to practicing Falun Gong: "cultivation practice"). All of those come from the https://en.wiktionary.org/wiki/cult#Etymology[Latin "colō"], which means simply "to protect".
+
+===== Orange Papers
+
+https://www.orange-papers.org/orange-cult_q0.html
+
+Down as of 2020-04, https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q0.html[2016-02-05 archive]
+
+This is an amazing website talking about Cults and many other things! TODO who is the author? Copyright says by "A. Orange". Is it the real name, or just a pun for "I ate an orange"?
+
+And the website also has a Free Tibet flag at the bottom.
+
+Many of the points highlighted at  are very very interesting and Ciro feels that they apply strongly to <<falun-gong>>:
+
+* "Instant Community" and "Instant intimacy": you instantly join the cult family, and are very very likely to believe or at least consider anything anyone else in the cult says about their religious experiences, no matter how far-fetched, even though it is not <<flg-canon,canon>>
++
+Conversely, this also poses a risk for the Cult Leader, as new community ideas can spread very quickly, and if you try to fight them off, they might create a https://en.wikipedia.org/wiki/Schism[Schism].
+* "Cult-speak": see also "Newspeak" from <<nineteen-eighty-four>> and some common Falun Gong Cult-speak see: <<flg-religion>>
+* "Denigration of competing sects, cults, religions, groups, or organizations": yes, <<li-hongzhi>> does this all the time, see: <<zhong-gong>>
+* "Personal testimonies of earlier converts": see "experience sharing" at <<flg-religion>>
+* "The group and its members are special", "Enemy-making and Devaluing the Outsider": see: "ordinary people (常人)" at <<does-ciro-santilli-believe-in-or-practice-falun-gong>>
+* "Making cult members work long hours for free": yes, many FLG members work long long hours for free. Why wouldn't you if you are saving people's souls?
+* "No Humor": see also <<funny>>
+* "Different Levels of Truth", "Deceptive Recruiting": Falun Gong people don't talk freely about their funny beliefs like <<flg-religion,aliens are amongst us>> to outsiders. Rather, they lure you in with the exercises first. Ciro has personally heard the following said many times: "you should not tell this to non-believers, they are not ready for this truth yet".
+* "Front groups, masquerading recruiters, hidden promoters, and disguised propagandists": <<falun-gong-media>>
+* "Promised Powers or Knowledge" and "It's a con. You don't get the promised goodies": they seem to believe in a <<flg-religion,Judgement Day like event>> and <<flg-medication,health benefits>>
+* "The Guru is always right", "You are always wrong", "No Graduates", "The Guru Is Extra-Special", "Everybody else needs the guru to boss him around, but nobody bosses the guru around", "The guru criticizes everybody else, but nobody criticizes the guru.": obviously: <<li-hongzhi>>
+** "Group-think, Suppression of Dissent, and Enforced Conformity in Thinking"
+
+There are also however some points which Ciro feels don't apply, and Ciro praises Falun Gong for those:
+
+* "Dual Purposes": not much of that, most of their propaganda is "we are persecuted unfairly by China", not "let's help the poor"
+* "The End Justifies The Means": Li has made it clear that believers must follow the laws of their countries. Cults that violate this tend to not last as long, this is the smart move for cult leaders.
+
+And some points which Ciro feels apply which were mentioned in some other article, (or maybe in Orange Papers but he couldn't find them, TODO find reference?)
+
+* "No time for fun": how could you possibly spend leisure time watching television, etc. when you could be saving the world instead?
+* "Focus on the persecution of the Cult": while obviously people who have been persecuted have the right, and almost an obligation, to look for help and share their stories, it is also clear that this is a selling point for the Cult.
++
+Why would a nation state attack a Cult? This could give the impression that it is because there is something powerful and true in the Cult, and actually menaces this nation state.
++
+For example, Falun Gong puts huge emphasis on its persecution in China, much like the https://en.wikipedia.org/wiki/Martyr[Martyrdom] of the Catholic Saints is highly emphasised.
+* "Careful control of your imsage": the cult leader is a master at controlling how people view him.
++
+One aspect of that, is to limit your public appearances to situations in which you have the most control, and notably being surrounded by your believers.
++
+Li does not announce where he is going, even though he is followed by millions: he just shows up, and local believers whisper to one another and come to see him.
++
+This reminded Ciro of the following 2012 video he watched, in which VICE was allowed to visit and interview <<russia,Siberian>> prophet https://en.wikipedia.org/wiki/Vissarion[Vissarion] (real name Sergey Anatolyevitch Torop Серге́й Анато́льевич То́роп, AKA "The Russian Jesus"), and they note how well he controlled his appearance.
++
+.https://www.youtube.com/watch?v=W2Cv5hZfOmk&t=1177
+video::W2Cv5hZfOmk[youtube,height=400,width=600,start=1177]
+
+This is especially interesting, because the website does not mention Falun Gong at all it seems: it really seems that all those cults are very similar.
+
+It should also be mentioned though that these points extend to any type of human organization, e.g. <<flg-religion,other religions>>, <<democracy-is-a-religion,political parties>>, job associations, etc.
 
 [[flg-canon]]
 ==== What are the canonical Falun Gong texts?
@@ -3304,17 +3484,17 @@ Nothing else is canonical. LHZ seems to have said that there are enlightened fol
 
 Notably, <<flg-organized,FLG media>> such as https://www.minghui.org/ is believer led and thus not canonical, even though believers have very high confidence in it, and LHZ <<flg-organized,directly supports it>>.
 
-==== Do you support FLG, or just use it because it is censored?
+==== Does Ciro Santilli support FLG, or just use it because it is censored?
 
-I don't support FLG specifically, only freedom of religion.
+Ciro Santilli doesn't support FLG specifically, only freedom of religion. See of course: <<flg-bias>>.
 
-I use it in my usernames simply because it is the most banned and censored one in China today.
+Ciro uses it in his usernames simply because it is the most banned and censored one in China today.
 
-I believe that <<thoughtcrime,individuals should only be put in jail for what they do, not for what they believe>>.
+He believe that <<thoughtcrime,individuals should only be put in jail for what they do, not for what they believe>>.
 
-I consider FLG <<flg-religion,a religion like any other>>, and I am against its ban, as I am for all other religions.
+He considers FLG <<flg-religion,a religion like any other>>, and he is against its ban, as that of all other religions.
 
-Also I believe that freedom of speech and democracy imply that FLG and other religions will exist. If you want freedom, you have to <<intolerance,accept other people's choices>>.
+He also believes that freedom of speech and democracy imply that FLG and other religions will exist. If you want freedom, you have to <<intolerance,accept other people's choices>>.
 
 Otherwise, <<democracy-is-a-religion,democracy and communism can also be considered as religions>>, and banned.
 
@@ -3323,7 +3503,7 @@ See also: <<flg-verifiable>>.
 [[flg-daily]]
 ==== How is it like to live with Falun Gong believers?
 
-This will obviously vary from believer to believer, but here my experience.
+This will obviously vary from believer to believer, but here is my experience.
 
 Like any other religion that is taken seriously, they spend several hours per week doing their standard religious activities: <<flg-religion>>.
 
@@ -3437,7 +3617,7 @@ See also: <<flg-religion>>
 [[flg-verifiable]]
 ===== FLG never makes any predictions that can be reasonably verified by non-believers
 
-Exactly, just like any other <<flg-religion>>, this is why Ciro Santilli is <<does-ciro-santilli-believe-in-or-practice-falun-gong,agnostic>>.
+Exactly, just like any other <<flg-religion>>, this is why Ciro Santilli is <<does-ciro-santilli-believe-in-or-practice-falun-gong,agnostic>> and things Falun Gong metaphysics is bullshit.
 
 The closest claims to observable Ciro has heard are:
 
@@ -3469,7 +3649,11 @@ so that you will not strike your foot against a stone.'"
 Jesus answered him, "It is also written: 'Do not put the Lord your God to the test.'"
 ____
 
-Ah good old prophets, their tricks haven't changed a bit in 2 thousand years! This is why <<ciro-santilli>> follows instead the religion of <<democracy-is-a-religion,science and freedom of speech>>: those religions instead say: test your God. Test your God a billion times. And if your God proves wrong just once, disbelieve it.
+Ah good old prophets, their tricks haven't changed a bit in 2 thousand years! This is why <<ciro-santilli>> follows instead the religion of <<democracy-is-a-religion,science and freedom of speech>>, because those religions instead say:
+
+____
+Test your God. Test your God a billion times. And if your God proves wrong just once, disbelieve it.
+____
 
 The Pontius Pilate Scene from https://en.wikipedia.org/wiki/The_Last_Temptation_of_Christ_(film)[The Last Temptation of Christ (1988)] comes to mind, quotes:
 
@@ -3494,15 +3678,6 @@ ____
 .https://youtube.com/watch?v=pXGsio9H1xs The Last Temptation of Christ (1988) - Pontius Pilate Scene (5/10) | Movieclips.
 video::pXGsio9H1xs[youtube,height=400,width=600]
 
-[[flg-cult]]
-===== FLG is a very new religion and therefore fake
-
-The Romans called <<christianity>> the "Cult of Jesus".
-
-If I tell a lie today, will it become true in a thousand years? Or a truth today become a lie?
-
-Try sending an email to <<li-hongzhi,LHZ>> asking him to <<flg-verifiable,prove his powers to you>> :-)
-
 [[against-censorship-and-flg]]
 ==== Many people both are against censorship and FLG
 
@@ -3523,7 +3698,7 @@ It is also interesting to note how Falun Gong is a good source of <<censorship-c
 See also: <<flg-bias>>
 
 [[democracy-is-a-religion]]
-===== Why do you say that democracy is a religion just like FLG?
+===== Why does Ciro Santilli say that democracy is a religion just like Falun Gong? 
 
 Because it also specifies irrational and fundamental aspects of how one should live, notably voting and freedom of speech.
 
@@ -3535,11 +3710,13 @@ The Guru, his church, and his teachings are always right, and above criticism, a
 In some cults, the guru is dead, but the principle is the same. I use the word "guru" loosely here; in many cults the charismatic leader has the title of minister, priest, yogi, swami, prophet, or all-knowing wise man. **Or even, "Chairman Mao."** In any case, the leader is always right.
 ____
 
-And they also claim that https://en.wikipedia.org/wiki/Alcoholics_Anonymous[Alcoholics Anonymous] could be characterized as a cult. Very cool. What else could get you off an addiction, right?
+And they also claim that https://en.wikipedia.org/wiki/Alcoholics_Anonymous[Alcoholics Anonymous] could be characterized as a cult. Very cool. What else could be powerful enough to get you off a physical addiction, than a mental addiction, right?
 
 Ban FLG, and you have banned democracy.
 
 Accept democracy, and you will have FLG.
+
+There is no in-between.
 
 [[flg-stability]]
 ===== Falun Gong had to be banned because it was a threat to the stability of the country
@@ -3629,7 +3806,7 @@ Branch Davidians were inspired by <<christianity>>. So should we ban Christianit
 
 How much proof do you think they would be able to get when there is no freedom of the press?
 
-Do you think that forbidding a <<falun-gong-is-not-important-to-be-worth-discussing,70 million>> person religion could have gone smoothly?
+Do you think that forbidding a <<flg-important,70 million>> person religion could have gone smoothly?
 
 Do you think the thousands of personal accounts of human rights violations that exist are all fake, and don't indicate that many, many more have taken place but fallen under censorship?
 
@@ -3703,23 +3880,26 @@ which I think are undeniable.
 
 The only question that matters is: should it be banned or not?
 
-==== Do you believe in the allegations of human rights violations done to Falun Gong believers?
+==== Does Ciro Santilli believe in the allegations of human rights violations done to Falun Gong believers?
+
+Besides the obvious prohibition of their most fundamental belief, so e.g. being tortured.
 
 Let's just focus on the evidence:
 
 * https://www.youtube.com/watch?v=CedVnJOgwg4 "Undercover video reveals brutal treatment of Falun Gong prisoners inside Chinese labor camps" by "FOX 11 Los Angeles" published May 21, 2019. Names mentioned: Fuquan Yin,
 
-===== Do you believe in the allegations of organ harvesting made by Falun Gong believers?
+[[flg-organ-harvesting]]
+===== Does Ciro Santilli believe in the allegations of organ harvesting made by Falun Gong believers?
 
-In short: I believe that it has happened to many people.
+In short: Ciro believes that it has happened to many people.
 
-Long version:
+Long version follows.
 
 It is obviously very hard to prove and quantify it definitely, much like it was hard to prove the Holocaust: bodies were cremated, and bribes were paid.
 
 Even if we had a video showing the whole process, showing the whole money flow from the donor to the prison guard, it would still be hard to quantify it, so I do have some room for doubt in this opinion.
 
-But consider the following, which is based on what I heard.
+But consider the following, which is based on what Ciro has heard.
 
 Even Chinese officials have admitted that in the past, if the body of the executed person is not claimed by family, then the organs can be extracted even without the consent of the prisoner:
 
@@ -3730,7 +3910,7 @@ Perhaps now that they claim that there is a large voluntary organ donor database
 
 From this, even though China does not publish execution statistics, we can imagine that a large part of the organs come from prisoners sentenced to death.
 
-Then, consider that a <<falun-gong-is-not-important-to-be-worth-discussing,70 million>> person religion was banned, leading to a huge influx of prisoners from that religion.
+Then, consider that a <<flg-important,70 million>> person religion was banned, leading to a huge influx of prisoners from that religion.
 
 FLG followers are just de-facto criminals like any other, and so extracting their organs is also de-facto legal.
 
@@ -3753,7 +3933,7 @@ Bibliography:
 
 2018 https://chinatribunal.com/
 
-This is a mock tribunal, without any power of law, and was of course initially lobbied/organized brought up by FLG: https://endtransplantabuse.org/
+This is a mock tribunal, i.e. one without any power of law, and was of course initially lobbied/organized brought up by FLG: https://endtransplantabuse.org/
 
 However, Ciro Santilli believes that none of the lawyers / jury members are FLG believers, and that they are trying to honestly decide if there is enough evidence or not for organ harvesting in China.
 
@@ -3772,145 +3952,13 @@ Bibliography:
 ** 2019 in EU parliament: https://www.youtube.com/watch?v=7n-9n897jIo
 ** 2017 Him speaking in : https://www.youtube.com/watch?v=FoXKMw4slHY at Ireland's https://www.youtube.com/watch?v=FoXKMw4slHY[House of the Oireachtas]
 
-==== Falun Gong overviews
-
-Some possibly neutral overviews.
-
-For:
-
-* https://www.icsahome.com/articles/the-prc-and-falun-gong-langone
-
-Against:
-
-* https://www.culteducation.com/group/1254-falun-gong.html
-
 ==== Things Ciro Santilli dislikes about Falun Gong
 
 But also as explaining why I don't think it justifies the ban.
 
 This section also gives me more credibility as a balanced critic >:-)
 
-[[flg-religion]]
-===== FLG downplays the fact that it is a religion
-
-If asked if they follow a religion, most FLG believers will say "no".
-
-E.g. they call themselves "practitioners" or "students" (学员) instead of "believers", and their peers "practitioner colleagues" (https://baike.baidu.com/item/同修[同修]). And if you say you don't believe in their FLG metaphysics bullshit, they will often reply "he does not understand". To them, it is not about belief, the truth is clear, and you just don't see it yet. To this you should reply: "and you don't understand that <<li-hongzhi,Li Hongzhi>> is a master manipulator dude who deceived you and millions of others".
-
-But Ciro Santilli strongly believes that this is just a language barrier/FLG propaganda question (see also "Different levels of truth" from <<orange-papers>>), and that people in the West would classify FLG as a religion if they are told that for FLG:
-
-* absolute truth comes from an enlightened <<li-hongzhi,prophet>>, who is perfect and has superhuman abilities
-* weekly meetings (学法 "study the law (of the universe (of <<li-hongzhi>>))"）where they read from a <<flg-canon,sacred book>>, either written by the prophet, or transcribed from his presentations to disciples, including the disciples questions, much like traditional Chinese texts like link:https://en.wikipedia.org/wiki/Analects[The Analects of Confucius], just like Christians read from the Bible over and over again.
-+
-In both cases, some believers claim that sometimes even reading the same text again gives them new insight.
-* prescribed daily meditation exercise hours, somewhat like Muslim https://en.wikipedia.org/wiki/Salah[Salah] prayers which they call https://en.wikipedia.org/wiki/Fazhengnian[发正念 (fa1 zheng4 nian4)], which means "send righteous thoughts". They seem to believe that this meditation helps external good magic things happen, so it is half meditation half prayer.
-* longer "less mandatory" https://en.wikipedia.org/wiki/Qigong[Qigong-like] (https://zh.wikipedia.org/wiki/气功[气功]) exercises followed by a meditation (打坐) and which they collectively call https://zh.wikipedia.org/wiki/修道_(道教)[修炼] "practice austerities". note that this term is borrowed from Taoism but possibly with different precise meaning. There are exactly 5 exercises (meditation being the fifth) some with a fun supernatural name:
-** Buddha Stretching a Thousand Arms
-** Falun Standing Stance
-** Penetrating the Cosmic Extremes
-** Falun Cosmic Orbit
-* higher intelligent beings
-* other dimensions, which some select people with vision superpowers can see
-* aliens that look like humans are amongst us, they gave us part of our modern technology, some are evil, others not so evil
-* meetings in which people tell their religious testimonies ("experience sharing" TODO Chinese name, possibly just "分享修炼的美好", e.g. https://www.minghui.org/mh/articles/2015/9/29/分享修炼的美好-印尼召开修炼心得交流会（图）-316838.html[source]): https://en.wikipedia.org/wiki/Testimony#Religion
-+
-As Jesus put it in Matthew 18:20:
-+
-____
-For where two or three are gathered in my name, there am I among them
-____
-+
-which highlights the critical believer mass effect of reinforced beliefs.
-* an impending link:https://en.wikipedia.org/wiki/Last_Judgment[final judgment]-like event, which will happen "very soon" (<<flg-verifiable,unspecified date>>), and in which the just will be rewarded
-+
-I predict that when <<li-hongzhi>> dies, the claim will be that he went to another dimension so save us all, therefore putting this final judgment on hold, a bit like Jesus.
-* link:https://en.wikipedia.org/wiki/Open-air_preaching[street preaching] (http://www.minghui.org/mh/glossary.html[讲真相] "truth-telling") with stands and leaflets on the streets exactly like https://en.wikipedia.org/wiki/Jehovah's_Witnesses[Jehovah's Witnesses].
-+
-The Falun Gong organization also specifies guidelines on how to preach, although these might not be <<flg-canon,canon>>, even though if they are not, it is extremely likely that <<li-hongzhi,LHZ>> is directly involved in their specification
-+
-Falun Gong has also used <<flg-telemarketing,phone call preaching>>.
-+
-All of this is part of their effort to "save people (救人)", i.e. convert them to Falun Gong.
-
-Or a <<flg-cult,cult>>, which is nothing but a new/small religion with negative connotation, and thus meaningless.
-
-FLG is very similar to Scientology in Ciro's view: a new religion that mixes elements of both old and new. And just like any other religion, <<democracy-is-a-religion,their practice must be allowed>>.
-
-But consider this: how to classify what a religion is?
-
-Some would answer: science is what every one can perceive with their own senses.
-
-But FLG followers claim to feel FLG energies when doing the exercises, and a few of them have the power of seeing the other dimensions.
-
-On the other hand, how many of your friends have experienced the laws of quantum field theory or general relativity in a very direct way?
-
-And aren't pro-democracy believers also taking actions based solely on a shared belief, possibly organized by a pro-democracy leader?
-
-From a purely strategic point of view, the "religion" denomination would be:
-
-* good to FLG because the concept of freedom of religion carries considerable weight in the West
-* bad for FLG because people who already have a religion would be less likely to try it out and start believing
-+
-Falun Gong's recruitment strategy is to focus on the exercises first, and in particular its <<flg-medication,health benefits>> and then as some people start to feel things, they start introducing the metaphysics.
-
-See also: "Different levels of truth" from <<orange-papers>>.
-
-See also: <<flg-daily>>.
-
-====== Orange Papers
-
-https://www.orange-papers.org/orange-cult_q0.html
-
-Down as of 2020-04, https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q0.html[2016-02-05 archive]
-
-This is an amazing website talking about Cults and many other things! TODO who is the author? Copyright says by "A. Orange". Is it the real name, or just a pun for "I ate an orange"?
-
-And the website also has a Free Tibet flag at the bottom.
-
-Many of the points highlighted at  are very very interesting and Ciro feels that they apply strongly to <<falun-gong>>:
-
-* "Instant Community" and "Instant intimacy": you instantly join the cult family, and are very very likely to believe or at least consider anything anyone else in the cult says about their religious experiences, no matter how far-fetched, even though it is not <<flg-canon,canon>>
-+
-Conversely, this also poses a risk for the Cult Leader, as new community ideas can spread very quickly, and if you try to fight them off, they might create a https://en.wikipedia.org/wiki/Schism[Schism].
-* "Cult-speak": see also "Newspeak" from <<nineteen-eighty-four>> and some common Falun Gong Cult-speak see: <<flg-religion>>
-* "Denigration of competing sects, cults, religions, groups, or organizations": yes, <<li-hongzhi>> does this all the time, see: <<zhong-gong>>
-* "Personal testimonies of earlier converts": see "experience sharing" at <<flg-religion>>
-* "The group and its members are special", "Enemy-making and Devaluing the Outsider": see: "ordinary people (常人)" at <<does-ciro-santilli-believe-in-or-practice-falun-gong>>
-* "Making cult members work long hours for free": yes, many FLG members work long long hours for free. Why wouldn't you if you are saving people's souls?
-* "No Humor": see also <<funny>>
-* "Different Levels of Truth", "Deceptive Recruiting": Falun Gong people don't talk freely about their funny beliefs like <<flg-religion,aliens are amongst us>> to outsiders. Rather, they lure you in with the exercises first. Ciro has personally heard the following said many times: "you should not tell this to non-believers, they are not ready for this truth yet".
-* "Front groups, masquerading recruiters, hidden promoters, and disguised propagandists": <<falun-gong-media>>
-* "Promised Powers or Knowledge" and "It's a con. You don't get the promised goodies": they seem to believe in a <<flg-religion,Judgement Day like event>> and <<flg-medication,health benefits>>
-* "The Guru is always right", "You are always wrong", "No Graduates", "The Guru Is Extra-Special", "Everybody else needs the guru to boss him around, but nobody bosses the guru around", "The guru criticizes everybody else, but nobody criticizes the guru.": obviously: <<li-hongzhi>>
-** "Group-think, Suppression of Dissent, and Enforced Conformity in Thinking"
-
-There are also however some points which Ciro feels don't apply, and Ciro praises Falun Gong for those:
-
-* "Dual Purposes": not much of that, most of their propaganda is "we are persecuted unfairly by China", not "let's help the poor"
-* "The End Justifies The Means": Li has made it clear that believers must follow the laws of their countries. Cults that violate this tend to not last as long, this is the smart move for cult leaders.
-
-And some points which Ciro feels apply which were mentioned in some other article, (or maybe in Orange Papers but he couldn't find them, TODO find reference?)
-
-* "No time for fun": how could you possibly spend leisure time watching television, etc. when you could be saving the world instead?
-* "Focus on the persecution of the Cult": while obviously people who have been persecuted have the right, and almost an obligation, to look for help and share their stories, it is also clear that this is a selling point for the Cult.
-+
-Why would a nation state attack a Cult? This could give the impression that it is because there is something powerful and true in the Cult, and actually menaces this nation state.
-+
-For example, Falun Gong puts huge emphasis on its persecution in China, much like the https://en.wikipedia.org/wiki/Martyr[Martyrdom] of the Catholic Saints is highly emphasised.
-* "Careful control of your imsage": the cult leader is a master at controlling how people view him.
-+
-One aspect of that, is to limit your public appearances to situations in which you have the most control, and notably being surrounded by your believers.
-+
-Li does not announce where he is going, even though he is followed by millions: he just shows up, and local believers whisper to one another and come to see him.
-+
-This reminded Ciro of the following 2012 video he watched, in which VICE was allowed to visit and interview <<russia,Siberian>> prophet https://en.wikipedia.org/wiki/Vissarion[Vissarion] (real name Sergey Anatolyevitch Torop Серге́й Анато́льевич То́роп, AKA "The Russian Jesus"), and they note how well he controlled his appearance.
-+
-.https://www.youtube.com/watch?v=W2Cv5hZfOmk&t=1177
-video::W2Cv5hZfOmk[youtube,height=400,width=600,start=1177]
-
-This is especially interesting, because the website does not mention Falun Gong at all it seems: it really seems that all those cults are very similar.
-
-It should also be mentioned though that these points extend to any type of human organization, e.g. <<flg-religion,other religions>>, <<democracy-is-a-religion,political parties>>, job associations, etc.
+* <<flg-religion,Falun Gong downplays the fact that they are a religion>>
 
 [[flg-organized]]
 ===== FLG downplays the fact that it is highly organized
@@ -4027,7 +4075,7 @@ It is also interesting to look into the https://en.wikipedia.org/wiki/Jonestown 
 
 It's funny that even though those events happened only 30 years ago, we know about Li just about as much as we know about Jesus! The only things which we can really picture in detail how they are are the well known locations themselves.
 
-Li Honzhi footage:
+Li Hongzhi footage:
 
 * 1999-06-12 AP https://www.youtube.com/watch?v=r_onSZlvWSQ USA: "CHINA: FALUN DAFA CULT POSES NO THREAT CLAIMS FOUNDER" Li Hongzhi talks to media in New York
 
@@ -4070,32 +4118,37 @@ Episodes could be split along:
 * Episode 1: pre Qi Gong, shows Childhood, workplaces, early motivations. Ends with first contact with a Qi Gong lesson
 * Episode 2: early Falun Gong. Opens an academy. Starts without metaphysics, but grows into it. Show him knowingly lying, but also seething magic things. The first followers, and top lieutenants. Makes some management mistake, but escapes. Could end in a metaphysical scene, or 13 May 1992 initial public lesson. Maybe a scene of Li's visit to Thailand in 1983 (photo from CCP media found on Google).
 * Episode 3: later Falun Gong in China. It grows, show in Chinese news. Power struggles, problems with early lieutenants, and new lieutenants come up. Many people practice on streets. Battle against <<zhong-gong>>. Near 1996, something tips Li off to the fact that the CCP is going to crack down on them, and so he announces that he will be spreading abroad full time. Check out if this was before or after the first Anti FLG newspaper article in 1996-06-17.
-* Episode 4: preaching outside of China and emigration. American permanent residence in 1998. Watches crackdown on television. International Falun Gong media. Show him at Falun Gong New York "Dragon Springs" complex started in the 2000's:
+* Episode 4: preaching outside of China and emigration. American permanent residence in 1998. Watches crackdown on television. International Falun Gong media. Show him at Falun Gong New York "Dragon Springs" complex started in the 2000's in New York State:
 ** http://www.dragonsprings.org/
 ** https://www.businessinsider.com/dragon-springs-falun-gong-upstate-new-york-compound-photos-2019-9
 ** 1999 https://apnews.com/420a741ec19c4db3993d408747874b2d
+** https://goo.gl/maps/4bqt18CSBmFSekw89
 
 Parts of the series could be filmed in <<taiwan>> maybe?
 
 Source material: <<neutral-books-about-falun-gongs-history>>.
 
-====== Li Hongzhi's family
+[[li-hongzhis-family]]
+====== Li Hongzhi's family 李洪志的家庭
 
 At least Jesus appeared to value chastity. He was even born from a virgin right? No sex around him at all.
 
-But Li doesn't need that. He's a God right, he can both be Enlightened part time and still have a family part time.
+But Li doesn't need that. He's a God right, he can both be an Enlightened God part time and still have a normal family part time.
+
+Once thing Ciro approves about Li's approach to his family is that he seems to have stated (TODO source) that none of them are Gods like him.
 
 Wife's name: Li Rui (李瑞 according to CCP). Report saying that a follower bought a house and registered it on Li Rui's name as a gift, but Li later returned the gift back: https://www.wsj.com/articles/SB94140245836194819 TODO house address.
 
 <<benjamin-penny-the-religion-of-falun-gong-2012>> gives further family members (some of them are based only on CCP sources however):
 
-* daughter: Li Meige (李美歌) claims born 1982-06. http://www.kaiwind.com/anticult/kfgc/201311/05/t20131105_1188845.shtml (<<chinese-government-media>>) says that she performs in <<shen-yun>> under the name "Christina Li" and even won awards. This Falun Gong sources confirm that "Christina Li" was a Shen Yun lead dancer as of 2011, but does not confirm that she is the daughter of Li Honzhi: https://www.theepochtimes.com/where-are-the-ancient-arts-of-china-part-4_1491935.html If this is true, talk about <<orange-papers,"different levels of truth">>! The article also claims that she has had other pseudonyms, including: "Annie Li" and "Li Jingjing" (李晶晶). Here are web archives of the now broken of course Shen Yun pages Kaiwand links to as evidence of her constant name changing (but no mention of her father):
+* daughter: Li Meige (李美歌) claims born 1982-06. http://www.kaiwind.com/anticult/kfgc/201311/05/t20131105_1188845.shtml (<<chinese-government-media>>) says that she performs in <<shen-yun>> under the name "Christina Li" and even won awards. This Falun Gong sources confirm that a "Christina Li" was a Shen Yun lead dancer as of 2011, but does not confirm that she is the daughter of Li Hongzhi: https://www.theepochtimes.com/where-are-the-ancient-arts-of-china-part-4_1491935.html If this is true, talk about <<orange-papers,"different levels of truth">>! The article also claims that she has had other pseudonyms, including: "Annie Li" and "Li Jingjing" (李晶晶). Here are web archives of the now broken of course Shen Yun pages Kaiwand links to as evidence of her constant name changing (but no mention of her father):
 ** https://web.archive.org/web/20140727034323/http://dance.ntdtv.com/ct/archive/
 ** http://web.archive.org/web/20121211022246/zh-cn.shenyunperformingarts.org/artists/biography/view/WG3gbBQudOg
+** possibly CCP sources report that Meige married in 2017, likely near the Falun Gong Day (13th May): e.g. http://www.saibeifeng.com/kfyd/201705/16/t20170516_5219554.shtml says many felicitation posts were posted on <<falun-gong-media,minghui>>, so this is likely widely known within the Falun Gong community, but the idiots who wrote that page don't know how to link to sources. Ciro could not find the groom's name.
 * brothers and sisters, all younger:
 ** Li Jun (李君) older younger sister
-** Li Ping (李平, female) younger younger sister
-*** Notably, Li Ping's alleged husband Sun Senjun (孙森伦) is Chinese-Thai, and allegedly wrote an account of Li Hongzhi's family in the 1980's "我与李洪志一家在泰国的日子——法轮功教主妹夫的自述" This is reproduced on many CCP sources, e.g.: http://lihongzhidaqidi.blogspot.com/2013_09_27_archive.html but it is good reading if you take everything with a grain of salt, does sound believable. TODO find original publishing location. This appears to be an interview: https://www.youtube.com/watch?v=Js0OyNwYw5A (watermarked Kaiwind on top)
+** Li Ping (李平) younger younger sister
+*** Notably, Li Ping's alleged husband Sun Senjun (孙森伦) is a Chinese-Thai, and allegedly wrote an account of Li Hongzhi's family in the 1980's "我与李洪志一家在泰国的日子——法轮功教主妹夫的自述" ("Diary's of being in Thailand with Li Hongzhi's family") https://www.cp1897.com.hk/product_info.php?BookId=9789996590252[ISBN 9789996590252] This is reproduced on many CCP sources, e.g.: http://lihongzhidaqidi.blogspot.com/2013_09_27_archive.html but it is good reading if you take everything with a grain of salt, does sound believable. TODO find original publishing location. This appears to be an interview: https://www.youtube.com/watch?v=Js0OyNwYw5A (watermarked Kaiwind on top)
 ** Li Hui (AKA Li Donghui) younger brother
 * father: Li Dan
 * mother: Lu Shuzhen
@@ -4104,8 +4157,11 @@ There are also claims that Li's birth name was Li Lai (李來).
 
 This claims to contain the biography of Li Hongzhi's family (likely all according to CCP sources), including several good pictures: https://kknews.cc/zh-hk/news/bbmz49.html The photo given there for Li Jun appears on this apparently FLG source without mention of the name: https://www.epochweekly.com/b5/103/5805.htm
 
-.Li Hongzhi with his wife and daughter presumably in the late 80's with fixing ships in a shipyard in the background. TODO location. Likely from CCP sources, in many places with <<chinese-government-media,kaiwnd>> watermarks. https://renjianzhengdao2019.blogspot.com/2019/05/blog-post_187.html[Pro-CCP source].
+.Li Hongzhi with his wife Lirue and daughter Limeige presumably in the late 80's with fishing ships in a shipyard in the background. TODO location. Likely from CCP sources, in many places with <<chinese-government-media,kaiwnd>> watermarks. https://renjianzhengdao2019.blogspot.com/2019/05/blog-post_187.html[Pro-CCP source].
 image::http://web.archive.org/web/20200515122059im_/https://lh3.googleusercontent.com/proxy/4TGKtu8U3klyY_ld6bTpc9PnPOfSZppkEAl7gO6d9PghQbaJii4mykTlbMBtY7GYt_hCbw7Z1h3zohncGGn19vxr3ANWAUZUO6npqJsLlJCND_Nj8BqslNUaQBH1fzyY=s0-d[height=400]
+
+.Photo of Christina Li from Shen Yun, which the CCP claims to be Li Meige, daughter of Li Hongzhi. That page also claims that she was awarded Bronze in the 2009 and 2010 NDT Chinese Dance Competition. http://web.archive.org/web/20121211022246/zh-cn.shenyunperformingarts.org/artists/biography/view/WG3gbBQudOg[Source].
+image::http://web.archive.org/web/20130704134123im_/http://www.shenyunperformingarts.org/data/image/small/2010/12/09/17326d10d511828f6b34fa6d751739e2.jpg[height=400]
 
 [[flg-telemarketing]]
 ===== Some Falun Gong people make phone telemarketing
@@ -4146,7 +4202,7 @@ Unlike Falun Gong however, Zhong Gong failed to branch the franchise out of Chin
 
 Wikipedia says it reached 34 million followers in China.
 
-Hongbao also has a more spicy history it seems, with sexual allegations and open political goals <<flg-political,unlike Li Honzhi, who hid his goals better>>. Well played, Li, well played.
+Hongbao also has a more spicy history it seems, with sexual allegations and open political goals <<flg-political,unlike Li Hongzhi, who hid his goals better>>. Well played, Li, well played.
 
 <<li-hongzhi>> maintains in <<flg-canon,canon>> that Falun Gong is of course extremely different from all of those other extremely similar Qi Gong religions (not sure if Zhong Gong is mentioned, but is it definitely one of the main targets).
 
@@ -4190,6 +4246,7 @@ AKA Qigong Boom.
 A few non-religious non-CCP resources can be found at:
 
 * https://en.wikipedia.org/wiki/History_of_Falun_Gong
+* Sun Senjun's accounts from the 1980's, see: <<li-hongzhis-family>>
 
 Some key events:
 
@@ -4201,7 +4258,7 @@ TODO what did he talk about on that Beijing day. This day still celebrated in 20
 He apparently also taught at Chaoyang Park in Changchun: https://goo.gl/maps/BFwKs2xr48AMUAbx8
 
 [[benjamin-penny-the-religion-of-falun-gong-2012]]
-====== The Religion of Falun Gong By Benjamin Penny (2012)
+====== The Religion of Falun Gong by Benjamin Penny (2012)
 
 https://www.amazon.co.uk/dp/0226655016
 
@@ -4270,7 +4327,8 @@ image::https://web.archive.org/web/20191009054907if_/https://i.imgur.com/TnR8Voo
 .2020-01-01 https://en.wikipedia.org/wiki/Shengjian_mantou[Pan-fried dumpling] Xi Jinping lookalike 生煎包习近平撞脸. Furthermore, this reminded people of <<xi-jinping-memes,習包子>>. A Taiwanese report from 2020-01-01: https://news.tvbs.com.tw/world/1257030 TODO name, location. One of the many videos of him: https://www.youtube.com/watch?v=hTt8Sjer6cc[]
 image::https://web.archive.org/web/20200513100828/http://pub.creaders.net/upload_files/image/202001/20200102_15779947641028.jpg[height=400]
 
-.2020-05-12 Liu Keqing (刘克清) is an opera singer who had his personal videos taken down from time to time because he looks too much like <<xi-jinping,The One>>. https://chinadigitaltimes.net/chinese/2020/05/【立此存照】只因太像习近平？歌唱家刘克清形/[China Digital Times report]. One of his personal vlogs reuploaded to YouTube where he shared singing techniques and thoughts: https://www.youtube.com/watch?v=yPFKUhJdqzk[]. A video of him performing professionally in a chamber concert: 2018-11-02 https://www.youtube.com/watch?v=Z98-Mqci4ag[].
+[[liu-keqing-singer]]
+.2020-05-12 Liu Keqing (刘克清) is an opera singer who had his personal videos on <<tiktok>> taken down from time to time because he looks too much like <<xi-jinping,The One>>. https://chinadigitaltimes.net/chinese/2020/05/【立此存照】只因太像习近平？歌唱家刘克清形/[China Digital Times report]. One of his personal vlogs reuploaded to YouTube where he shared singing techniques and thoughts: https://www.youtube.com/watch?v=yPFKUhJdqzk[]. A video of him performing professionally in a chamber concert: 2018-11-02 https://www.youtube.com/watch?v=Z98-Mqci4ag[].
 image::https://web.archive.org/web/20200513101848im_/https://chinadigitaltimes.net/chinese/files/2020/05/EXz-fgoU8AA2EHx-e1589305621493.jpeg[height=400]
 
 Less good ones:
@@ -4894,6 +4952,12 @@ I consider the media in this section biased, and never cite it for fact-checking
 ** https://en.wikipedia.org/wiki/Phoenix_Television | https://zh.wikipedia.org/wiki/凤凰卫视
 ** https://freebeacon.com/national-security/cruz-seeks-to-shut-down-chinese-propaganda-station-phoenix-tv/
 
+===== Pro-Chinese government media
+
+These might be independent, but they are clearly pro CCP and thus cannot be trusted:
+
+* https://kknews.cc/ refers to <<falun-gong>> as an "Evil Cult" (反邪教) https://kknews.cc/zh-mo/entertainment/lj4y9yb.html (http://archive.is/osBDv[archive])
+
 [[confucius-institute]]
 ===== Confucius institute 孔子学院
 
@@ -4923,7 +4987,7 @@ A great example of how <<falun-gong>> is <<flg-organized,highly organized>>.
 
 Highly controlled by <<li-hongzhi>>, and extremely lacking clear full disclosure of their affiliation, see also: "Front groups" at <<orange-papers>>.
 
-It could be argued that those media are not "directly" controlled by Li Hongzhi, and possibly were created independently of him initially, but without doubt they are controlled by his devout followers, and if Li Honzhi ever gave directions, which Ciro has no proof he has ever done, then those media would follow.
+It could be argued that those media are not "directly" controlled by Li Hongzhi, and possibly were created independently of him initially, but without doubt they are controlled by his devout followers, and if Li Hongzhi ever gave directions, which Ciro has no proof he has ever done, then those media would follow.
 
 * The Epoch Times
 ** https://en.wikipedia.org/wiki/The_Epoch_Times
@@ -5233,7 +5297,7 @@ The Savage took it. "The Holy Bible, containing the Old and New Testaments" he r
 
 "Nor this." It was a small book and had lost its cover.
 
-"The Imitation of Christ "
+"The Imitation of Christ"
 
 "Nor this." He handed out another volume.
 
@@ -5625,7 +5689,7 @@ ____
 It is impossible to distinguish wumaos, idiots and <<not-chinese,brain washed>> people. So we just call all of them wumaos.
 ____
 
-It has been pointed out to me however that there is a funny slang name for brainwashed CCP commentators supporters: "https://zh.wikipedia.org/wiki/小粉紅[小粉紅]" (little pinks)
+It has been pointed out to me however that there is a funny slang name for brainwashed CCP supporters who are not necessarily paid professional wumaos: "https://zh.wikipedia.org/wiki/小粉紅[小粉紅]" (little pinks)
 
 Notable wumaos should be investigated by intelligence agencies.
 
