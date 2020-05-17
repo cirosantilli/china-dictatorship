@@ -3192,6 +3192,10 @@ image::https://upload.wikimedia.org/wikipedia/commons/8/8a/TAM_Arrest4.jpg[heigh
 .https://www.youtube.com/watch?v=ClvX7ED8UUI Tim and Eric's Zone Theory. If you want to stop <<falun-gong>>, don't put them in jail like the <<dictatorship,dictators>>. Do it the same way you stop dictators: with <<funny,comedy>>. Otherwise, the dictators remain in power, and <<intolerance,next person in jail, will be you>>.
 video::ClvX7ED8UUI[youtube,width=600,height=400]
 
+[[aarvoll-shenyun]]
+.https://youtube.com/watch?v=IAQ14AnAsmU YouTubber under pseudonym "Aarvoll" (TODO full real name, face shown in channel all the time) tells about his experience playing trumpet for Shen Yun in 2013 as a non-believer and Falun Gong in general. Reading the sacred books and doing Falun Gong exercises were mandatory. He also talks about <<flg-organized>>. Ciro agrees/finds what he says convincing. In one interesting anecdote, he tells how although Li Hongzhi claims to be a God, he looked like an average slightly overweight dude, and had a trumpet since he used to play it, but couldn't really play it because he hadn't practiced in so long. He also comments on the obvious fact that Li does not speak English very well, e.g. on the Shen Yun tour bus he was there one day answering questions, and a translator was needed.
+video::IAQ14AnAsmU[youtube,height=400,width=600]
+
 [[christine-marie]]
 .https://www.youtube.com/watch?v=GwoO7Nekmpw&t=445 Christine Marie, founder of http://voicesfordignity.com/[Voices for Dignity] which takes care of https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints[FLDS] leaves, was interviewed in VICE documentary "Polygamist Mafia: Escaping The Kingston Clan". While Ciro does not believe Falun Gong is as extreme as FLDS, he does really like the things Christine says. E.g., she calls "cult leaders" with the neutral <<flg-religion,religious>> form <<li-hongzhi,prophet>>, just like Ciro, and mentions the important fact that "And the another thing that the public doesn't realise, is that there are also beautiful thing within those communities". This is the mindset of <<intolerance,tolerance>> that the world needs.
 video::GwoO7Nekmpw[youtube,height=400,width=600,start=445]
@@ -3264,7 +3268,7 @@ Like any other prophetic religion, FLG gives tiny evidence that you can directly
 
 This becomes especially strong when a critical mass of believers is reached, and then they start interpreting all sorts of events as miracles, and you start to believe other believers without questioning them, and a circle is formed.
 
-This post by a former believer gives what Ciro feels is a realistic account that matches my observations: https://medium.com/@Ben_D_Hurley/-10677166298b "Me and Li" by Ben Hurley published on October 23, 2017.
+This post by a former believer gives what Ciro feels is a realistic account that matches Ciro's observations: <<me-and-li-by-ben-hurley-2017>>.
 
 And yet, all those who love freedom, must oppose FLG ban, or be themselves enslaved by tyrants themselves: <<democracy-is-a-religion>>.
 
@@ -3847,6 +3851,12 @@ Still, those representatives cannot gain power if there is no backing desire fro
 
 The only advantage of <<richer,democracy>>, is that those representatives have to pretend harder to do things for that group to retain their power.
 
+Ciro does not like that Falun Gong tends to not call itself a political force, when it clearly is. But full disclosure is not a legal obligation, and many many media outlets don't really disclose their obvious political connections. See also: <<flg-organized>>.
+
+.https://youtu.be/ArfGyo6HQ_E?t=1175 Ciro really liked what https://www.holycross.edu/academics/programs/religious-studies/faculty/mathew-schmalz[Doctor Matthew N. Schmalz] said on this VICE documentary about https://en.wikipedia.org/wiki/Hyung_Jin_Moon[Hyung Jin Moon]'s and his https://en.wikipedia.org/wiki/Unification_movement[Unification movement] split-off religion. "I think that any new religion needs a constituency. And especially for a group that is new, that is relatively small, making connections with other groups that might have similar commitments is something that can be quite productive if you are a leader of a new religion". As long as everyone plays the democracy game through democracy rules, peace tends to be maintained, and it is easier for multiple different beliefs to coexist. Falun Gong has obviously gone in this political direction, and that is a positive sign about the religion.
+video::ArfGyo6HQ_E[youtube,height=400,width=600,t=1175]
+
+
 [[flg-trump]]
 ===== FLG supports Donald Trump 法轮功支持特朗普
 
@@ -4019,7 +4029,9 @@ See also:
 
 Due to their beliefs in the healing power of FLG, which seems to have a certain level of support on <<flg-canon,canonical texts>> TODO precise quotes.
 
-This is a point that makes me worry, and I do believe that it is true for some believers, that but consider:
+Based on what Ciro saw and heard, he does believe that it has happened in many cases, some Falun Gong believers really do believe that they can be cured without modern medicine.
+
+But consider the following:
 
 * what matters are statistics. Maybe FLG people live longer than non FLG in average. But we will never have statistics because of censorship: https://skeptics.stackexchange.com/questions/27529/have-many-falun-gong-practitioners-forgone-medical-treatment-and-died-of-treatab
 * maybe people should be link:https://en.wikipedia.org/wiki/Suicide_legislation[allowed to choose how they want to die], not to take medication if they don't want to
@@ -4027,7 +4039,7 @@ This is a point that makes me worry, and I do believe that it is true for some b
 * several religions, including <<christianity>> have miraculous cure claims. My impression is that claims were mostly notable in the old times apparently, likely because people noticed that Christians were still dying of all kinds of diseases like everyone else, no matter how devout!
 * maybe the main reason why communists banned FLG is the political threat it posed, but that a ban was unjustified given the situation. Christian crosses are being taken down as of 2016, have they stopped taking their medications as well?
 * maybe many of those people would also have died soon even if they had taken medication
-* maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyway. Who can agree and follow all the innumerable prescriptions of any religious or legal system?
+* maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyway. Who can agree and follow all the innumerable prescriptions of any religious or legal system? See also: <<thoughtcrime>>.
 * all the following also reduce people's lifespan:
 +
 --
@@ -4040,6 +4052,9 @@ This is a point that makes me worry, and I do believe that it is true for some b
 Forbidding them also has huge humanitarian costs (more expensive vehicles, creation of a black market, ...). So why not forbid them as well?
 
 See also: <<orange-papers>> "Promised Powers or Knowledge".
+
+.https://youtu.be/kIpaDW3RwtY?t=244 one random thing ex-KGB spy undercover in the USA Jack Barsky mentioned in this BuzzFeed Multiplayer interview stuck to his mind: "The one thing that you have here, that I believe cannot be found anywhere else in the world is called Freedom, with a capital F".
+video::kIpaDW3RwtY[youtube,height=400,width=600,start=244]
 
 [[li-hongzhi]]
 ===== FLG is dangerous because Li Hongzhi has too much power over followers 李洪志
@@ -4240,6 +4255,13 @@ AKA Qigong Boom.
 * https://www.quora.com/Why-is-the-Chinese-government-against-Falun-Gong
 * https://www.zhihu.com/question/23988890 at <<zhihu>>
 * https://www.orange-papers further developed at: <<flg-cult>>
+
+[[me-and-li-by-ben-hurley-2017]]
+===== Me and Li by Ben Hurley (2017)
+
+https://medium.com/@Ben_D_Hurley/-10677166298b "Me and Li" by Ben Hurley published on October 23, 2017.
+
+This post by a former believer gives what <<ciro-santilli>> feels is a realistic account that matches Ciro's observations.
 
 ===== Neutral books about Falun Gong's history
 
@@ -5018,8 +5040,7 @@ It could be argued that those media are not "directly" controlled by Li Hongzhi,
 * https://en.wikipedia.org/wiki/Shen_Yun_Performing_Arts
 * https://zh.wikipedia.org/wiki/神韵艺术团
 
-.https://youtube.com/watch?v=IAQ14AnAsmU Youtubber under pseudonym "Aarvoll" (TODO full real name, face shown in channel all the time) tells about his experience playing trumpet for Shen Yun in 2013 as a non-believer and Falun Gong in general. Reading the sacred books and doing Falun Gong exercises were mandatory. He also talks about <<flg-organized>>. Ciro agrees/finds what he says convincing. In one interesting anecdote, he tells how although Li Hongzhi claims to be a God, he looked like an average slightly overweight dude, and had a trumpet since he used to play it, but couldn't really play it because he hadn't practiced in so long. He also comments on the obvious fact that Li does not speak English very well, e.g. on the Shen Yun tour bus he was there one day answering questions, and a translator was needed.
-video::IAQ14AnAsmU[youtube,height=400,width=600]
+A good testimony from an ordinary employee from 2013: <<aarvoll-shenyun,Aarvoll's account>>.
 
 [[jennifer-zeng]]
 ===== Jennifer Zeng 曾錚
