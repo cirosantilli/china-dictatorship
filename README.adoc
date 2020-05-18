@@ -3853,7 +3853,7 @@ The only advantage of <<richer,democracy>>, is that those representatives have t
 
 Ciro does not like that Falun Gong tends to not call itself a political force, when it clearly is. But full disclosure is not a legal obligation, and many many media outlets don't really disclose their obvious political connections. See also: <<flg-organized>>.
 
-.https://youtu.be/ArfGyo6HQ_E?t=1175 Ciro really liked what https://www.holycross.edu/academics/programs/religious-studies/faculty/mathew-schmalz[Doctor Matthew N. Schmalz] said on this VICE documentary about https://en.wikipedia.org/wiki/Hyung_Jin_Moon[Hyung Jin Moon]'s and his https://en.wikipedia.org/wiki/Unification_movement[Unification movement] split-off religion. "I think that any new religion needs a constituency. And especially for a group that is new, that is relatively small, making connections with other groups that might have similar commitments is something that can be quite productive if you are a leader of a new religion". As long as everyone plays the democracy game through democracy rules, peace tends to be maintained, and it is easier for multiple different beliefs to coexist. Falun Gong has obviously gone in this political direction, and that is a positive sign about the religion.
+.https://youtu.be/ArfGyo6HQ_E?t=1175 Ciro really liked what https://www.holycross.edu/academics/programs/religious-studies/faculty/mathew-schmalz[Doctor Matthew N. Schmalz] said on this VICE documentary about https://en.wikipedia.org/wiki/Hyung_Jin_Moon[Hyung Jin Moon]'s and his https://en.wikipedia.org/wiki/Unification_movement[Unification movement] ("the Moonies" split-off religion. "I think that any new religion needs a constituency. And especially for a group that is new, that is relatively small, making connections with other groups that might have similar commitments is something that can be quite productive if you are a leader of a new religion". As long as everyone plays the democracy game through democracy rules, peace tends to be maintained, and it is easier for multiple different beliefs to coexist. Falun Gong has obviously gone in this political direction, and that is a positive sign about the religion.
 video::ArfGyo6HQ_E[youtube,height=400,width=600,t=1175]
 
 
@@ -4133,11 +4133,7 @@ Episodes could be split along:
 * Episode 1: pre Qi Gong, shows Childhood, workplaces, early motivations. Ends with first contact with a Qi Gong lesson
 * Episode 2: early Falun Gong. Opens an academy. Starts without metaphysics, but grows into it. Show him knowingly lying, but also seething magic things. The first followers, and top lieutenants. Makes some management mistake, but escapes. Could end in a metaphysical scene, or 13 May 1992 initial public lesson. Maybe a scene of Li's visit to Thailand in 1983 (photo from CCP media found on Google).
 * Episode 3: later Falun Gong in China. It grows, show in Chinese news. Power struggles, problems with early lieutenants, and new lieutenants come up. Many people practice on streets. Battle against <<zhong-gong>>. Near 1996, something tips Li off to the fact that the CCP is going to crack down on them, and so he announces that he will be spreading abroad full time. Check out if this was before or after the first Anti FLG newspaper article in 1996-06-17.
-* Episode 4: preaching outside of China and emigration. American permanent residence in 1998. Watches crackdown on television. International Falun Gong media. Show him at Falun Gong New York "Dragon Springs" complex started in the 2000's in New York State:
-** http://www.dragonsprings.org/
-** https://www.businessinsider.com/dragon-springs-falun-gong-upstate-new-york-compound-photos-2019-9
-** 1999 https://apnews.com/420a741ec19c4db3993d408747874b2d
-** https://goo.gl/maps/4bqt18CSBmFSekw89
+* Episode 4: preaching outside of China and emigration. American permanent residence in 1998. Watches crackdown on television. International Falun Gong media. Show him at Falun Gong New York <<dragon-springs,"Dragon Springs">> complex
 
 Parts of the series could be filmed in <<taiwan>> maybe?
 
@@ -4177,6 +4173,18 @@ image::http://web.archive.org/web/20200515122059im_/https://lh3.googleuserconten
 
 .Photo of Christina Li from Shen Yun, which the CCP claims to be Li Meige, daughter of Li Hongzhi. That page also claims that she was awarded Bronze in the 2009 and 2010 NDT Chinese Dance Competition. http://web.archive.org/web/20121211022246/zh-cn.shenyunperformingarts.org/artists/biography/view/WG3gbBQudOg[Source].
 image::http://web.archive.org/web/20130704134123im_/http://www.shenyunperformingarts.org/data/image/small/2010/12/09/17326d10d511828f6b34fa6d751739e2.jpg[height=400]
+
+====== Dragon Springs
+
+Li Hongzhi's Falun Gong complex in New York state countryside.
+
+https://goo.gl/maps/4bqt18CSBmFSekw89
+
+Started in the 2000's in New York State with money donated by believers.
+
+* http://www.dragonsprings.org/
+* https://www.businessinsider.com/dragon-springs-falun-gong-upstate-new-york-compound-photos-2019-9
+* 1999 https://apnews.com/420a741ec19c4db3993d408747874b2d "Falun Gong US compound’s neighbors fret over expansion plans"
 
 [[flg-telemarketing]]
 ===== Some Falun Gong people make phone telemarketing
@@ -5011,15 +5019,8 @@ Highly controlled by <<li-hongzhi>>, and extremely lacking clear full disclosure
 
 It could be argued that those media are not "directly" controlled by Li Hongzhi, and possibly were created independently of him initially, but without doubt they are controlled by his devout followers, and if Li Hongzhi ever gave directions, which Ciro has no proof he has ever done, then those media would follow.
 
-* The Epoch Times
-** https://en.wikipedia.org/wiki/The_Epoch_Times
-** https://zh.wikipedia.org/wiki/大纪元时报
-* New Tang Dynasty Television (NTD)
-** https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television
-** https://zh.wikipedia.org/wiki/新德里电视台
-* https://en.minghui.org/
-** https://falundafa.org/ links to it
-** https://www.clearwisdom.net/
+Furthermore, Li appears to directly cite some of the main media in Canon or talk at their conferences as Canon.
+
 * https://www.secretchina.com/
 * https://fofg.org/
 * https://en.wikipedia.org/wiki/Sound_of_Hope
@@ -5034,6 +5035,39 @@ It could be argued that those media are not "directly" controlled by Li Hongzhi,
 * https://www.qi-gong.me/
 * http://www.zhengjian.org/
 
+[[epoch-times]]
+===== The Epoch Times 明慧网
+
+* https://en.wikipedia.org/wiki/The_Epoch_Times
+* https://zh.wikipedia.org/wiki/大纪元时报
+
+Falun Gong's newspaper with news for "general public consumption" an no clear affiliation indication.
+
+In <<flg-canon,canon>>: https://gb.falundafa.org/chigb/jiangfa10_3.htm
+
+[[new-tang-dynasty-television]]
+===== New Tang Dynasty Television (NTD, NTDTV) 新唐人電視台
+
+* https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television
+* https://zh.wikipedia.org/wiki/新唐人電視台
+
+Falun Gong's newspaper with news for "general public consumption" an no clear affiliation indication.
+
+Li speaking to New Tang conference in <<flg-canon,canon>>: https://big5.falundafa.org/chibig5/jiangfa9_3.htm 在新唐人電視討論會上的講法
+
+[[minghui]]
+===== Minghui 明慧网
+
+https://en.minghui.org/
+
+Falun Gong's primary "social network"/"Falun Gong"-only news/propaganda website. More Falun Gong specific than <<epoch-times>>.
+
+Literally: clear (明) wisdom (慧) network (网)
+
+Li speaking to Minghui conference in <<flg-canon,canon>>: https://big5.falundafa.org/chibig5/jiangfa10_1.htm
+
+TODO how https://www.clearwisdom.net/ compares?
+
 [[shen-yun]]
 ===== Shen Yun Performing Arts 神韵艺术团
 
@@ -5041,6 +5075,12 @@ It could be argued that those media are not "directly" controlled by Li Hongzhi,
 * https://zh.wikipedia.org/wiki/神韵艺术团
 
 A good testimony from an ordinary employee from 2013: <<aarvoll-shenyun,Aarvoll's account>>.
+
+Openly directly controlled by <<li-hongzhi>>. He features as director on librettos, e.g. the 2013 one (credited "D. F." (Da Fa) and with his photo).
+
+Shen Yun's headquarters are also located in/near <<dragon-springs>>.
+
+Li mentions Shen Yun in <<flg-canon,canon>>: https://gb.falundafa.org/chigb/jiangfa11_2.htm
 
 [[jennifer-zeng]]
 ===== Jennifer Zeng 曾錚
