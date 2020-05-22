@@ -356,6 +356,9 @@ video::sUvBNpkxrJo[youtube,height=400,width=600]
 ** Twitter https://twitter.com/kcrissli
 ** 2020-02-28 https://www.vice.com/en_us/article/qjdejp/a-chinese-citizen-journalist-covering-coronavirus-just-live-streamed-his-own-arrest
 * 2020-04-25: Chen Mei, Cai Wei and his girlfriend, who contributed to <<terminus2049>>
+* 2020-04-14: Zhang Zhan (张展)
+** https://www.youtube.com/channel/UCsNKkvZGMURFmYkfhYa2HOQ
+** https://www.scmp.com/video/coronavirus/3084983/coronavirus-chinese-citizen-journalist-detained-after-live-streaming
 
 [[war]]
 ==== Why would democracy and freedom of speech make China less likely to start a war?
@@ -4997,6 +5000,31 @@ News and reports:
 
 * 2019-09 https://www.bbc.co.uk/news/world-asia-china-49511231 (https://web.archive.org/web/20191013185933/https://www.bbc.co.uk/news/world-asia-china-49511231[archive]) "Confucius Institutes: The growth of China's controversial cultural branch"
 * 2019-01 https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/11/u-s-universities-have-shut-down-confucius-institutes-heres-what-you-need-to-know/ (https://web.archive.org/web/20190616134959/https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/11/u-s-universities-have-shut-down-confucius-institutes-heres-what-you-need-to-know/[archive]) "Why U.S. universities are shutting down China-funded Confucius Institutes"
+
+====== University espionage
+
+Lists:
+
+* https://threadreaderapp.com/thread/1262441045197049856.html List of professors around America caught selling secret research to the Chinese Communist Regime
+
+People:
+
+* 2020 Charles Lieber
+** https://www.nature.com/articles/d41586-020-00291-2
+** https://en.wikipedia.org/wiki/Charles_M._Lieber he had won a Wolf Prize in Chemistry
+* 2019 Shih Yi-chi from UCLA
+** https://www.linkedin.com/in/yi-chi-shih-9884bb20/
+** https://www.scmp.com/news/china/article/3017017/us-federal-court-finds-chinese-american-engineer-shih-yi-chi-guilty
+
+[[thousand-talents-program]]
+====== Thousand Talents Program 千人计划
+
+* https://en.wikipedia.org/wiki/Thousand_Talents_Plan
+* https://zh.wikipedia.org/wiki/海外高层次人才引进计划
+
+<<ciro-santilli>> believes that this is exactly the type of thing that poor countries need to do to get richer: https://cirosantilli.com/#what-poor-countries-have-to-do-to-get-richer[].
+
+But we can't allow China to do it because China is a <<dictatorship,dictatorship>>.
 
 [[cssa]]
 ===== Chinese Students and Scholars Association 中国学生学者联合会
