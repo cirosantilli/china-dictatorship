@@ -955,8 +955,8 @@ One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy
 .https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game. 
 video::zndzntIDLFE[youtube,height=400,width=600]
 
-.Westerner: "How is life in China?" Chinese: "Oh, we can't complain." Westerner: "That's awesome." Chinese: "No, seriously... we can't." https://www.taiwannews.com.tw/en/news/3933168[Source]
-image::http://web.archive.org/web/20200514071323im_/https://tnimage.s3.hicloud.net.tw/photos/2020/05/13/1589352986-5ebb9a1ad0a98.jpg[height=400]
+.Westerner: "How is life in China?" Chinese: "Oh, we can't complain." Westerner: "That's awesome." Chinese: "No, seriously... we can't." is a word play between the more common "we can't complain because everything is great" and "we can't complain because <<xi-jinping,Xi>> will <<censorship,make us disappear>>". https://www.taiwannews.com.tw/en/news/3933168[Source]
+image::http://web.archive.org/web/20200514071323im_/https://tnimage.s3.hicloud.net.tw/photos/2020/05/13/1589352986-5ebb9a1ad0a98.jpg[height=600]
 
 === There are bad things happening all over the world, why don't you fight for those causes as well / instead?
 
@@ -1471,7 +1471,7 @@ Especially since it seems that most Chinese already know what you are talking ab
 See also: <<does-ciro-santilli-speak-chinese>>.
 
 [[slang]]
-===== I am going to use a bunch of Chinese slangs because it makes me feel smart
+===== I am going to use a bunch of Chinese slangs because it makes me feel smart 我知道网络语言，我很聪明
 
 Obviously, if you want to be understood, use simple and standard Chinese.
 
@@ -1481,19 +1481,36 @@ Of course, if you have to read this, you likely are not going to say anything us
 
 Using slangs makes some people feel smart due their advanced knowledge of a specific subculture, or makes them feel part of that subculture to gather allies, or they just want to waste Ciro's time.
 
+They sometimes also like to mix in some emojis for similar reasons.
+
+A Chinese insult tip 101, avoid similar sound euphemisms. If you are going to say shit at least grow some balls or tits and use the proper characters, Ciro will respect you more for it:
+
+* 屄 cunt, most often for https://zh.wikipedia.org/wiki/傻屄[傻屄]
+** 逼
+*** "sb"
+*** "B": https://github.com/cirosantilli/china-dictatorship/issues/105
+* 肏 fuck: 操
+* 傻 idiot: 沙
+* 屌 dick: 雕
+
+Places to try and decript Internet slang when you feel like wasting your time:
+
+* https://zh.wikipedia.org/wiki/中国大陆网络用语列表
+** "网络用语" is the most common word for "Internet Slang", so also useful for Google searches
+** https://en.wikipedia.org/wiki/Chinese_Internet_slang
+
+https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ai-know-slangs-i-smart+
+
+[[vagina]]
+.A https://en.wikipedia.org/wiki/Vagina[Vagina] (https://zh.wikipedia.org/wiki/阴道[阴道]) also known as cunt (屄), is the female reproductive organ, including the naturally occurring black hole that appears in front of it whenever a picture is taken to prevent <<github>> from taking down this page. Even though <<porn,you've never seen one>>, there's no need to be afraid of it, and refer to it in euphemisms like "SB". https://en.wikipedia.org/wiki/File:Rugae_vaginales.jpg[Background source] and https://commons.wikimedia.org/wiki/File:Black_Hole_Milkyway.jpg[black hole source].
+image::{cirosantilli-media-base}/Rugae_vaginales_with_black_hole.jpg[height=400]
+
 [[shitpost]]
 ===== I want to take my chances and make a shitpost in cirosantilli/china-dictatorship
 
 So, have you reached the conclusion that your https://en.wikipedia.org/wiki/Shitposting[shitpost] is link:CONTRIBUTING.md[worth the risk of getting blocked]?
 
 Remember that shitposts can also be creative: if you are going to insult Ciro Santilli, at least do it in a creative way, or else you look like an even bigger idiot than you really are.
-
-A Chinese insult tip 101, avoid similar sound euphemisms. If you are going to say shit at least grow some balls or tits and use the proper characters, Ciro will respect you more for it:
-
-* 屄 cunt: 逼
-* 肏 fuck: 操
-* 傻 idiot: 沙
-* 屌 dick: 雕
 
 A collection of shitposts for you to take inspiration from can be found at: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ashitpost+
 
@@ -1677,6 +1694,7 @@ ____
 爱国恨党
 ____
 
+[[yuyuan-garden]]
 .Round gate at https://en.wikipedia.org/wiki/Yu_Garden[Yu Garden 豫园] in Shanghai. link:++https://commons.wikimedia.org/wiki/File:Shanghai_-_YuYuan_Gardens_and_Old_Town_(584867794).jpg++[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Shanghai_-_YuYuan_Gardens_and_Old_Town_%28584867794%29.jpg/683px-Shanghai_-_YuYuan_Gardens_and_Old_Town_%28584867794%29.jpg[height=600]
 
@@ -3172,7 +3190,8 @@ See also:
 .Lesbian couple kissing in <<tiananmen,Tiananmen Square>> with Mao's painting and confused/disgusted guards in the background who are likely about to call their superiors to ask what they should do. The photo likely surfaced in 2006 https://web.archive.org/web/20200301224434/https://www.salon.com/2006/01/17/lesbians_china/[as mentioned] in link:++https://en.wikipedia.org/wiki/Salon_(website)++[salon.com] which said it came form https://en.wikipedia.org/wiki/Boing_Boing[Boing Boing]. It was not however picked up by any major website. Ciro actually thought this could have been ripped from some television series due to the amazing expression on the guards' faces. TODO: find the original Chinese source, translate the watermarks, and see if their identity is known. https://web.archive.org/web/20200301223317/http://www.chinatoday.com/entertain/tiananmen_kiss.htm[Source].
 image::https://web.archive.org/web/20200301223317im_/http://www.chinatoday.com/entertain/china.funny.pictures/tiananmen.kiss_1.jpg[height=500]
 
-.<<throne,Qing dynasty>> (18th–19th c.) panel from a scroll showing two men engaging in foreplay, apparently located in the https://en.wikipedia.org/wiki/Kinsey_Institute[Kinsey Institute] as of 2005. https://en.wikipedia.org/wiki/File:Love_play_in_China.jpg[Source].
+[[qing-gay-scroll]]
+.<<throne,Qing dynasty>> (18th–19th c.) panel from a scroll showing two men engaging in foreplay, apparently located in the https://en.wikipedia.org/wiki/Kinsey_Institute[Kinsey Institute] as of 2005. For an ancient depiction of heterosexual sexual activity, see <<jin-ping-mei,this image>>. https://en.wikipedia.org/wiki/File:Love_play_in_China.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/8/8d/Love_play_in_China.jpg[height=400]
 
 [[falun-gong]]
@@ -3398,6 +3417,10 @@ Against:
 In the end however, since there is nothing obviously completely creepy about FLG, all such discussions are basically equivalent to <<democracy-is-a-religion,"is the Left better than the Right">>, and cannot be answered.
 
 One interesting linguistic aspect is that "cult" normally translates in Chinese as "邪教" which means "Evil religion".
+
+As mentioned before, Ciro does not believe that FLG is an "Evil Cult", just another "Acceptable Cult", and therefore would not use "邪教" to describe it.
+
+Amuzingly, <<li-honzghi,Li>> calls the communists Communist Evil Party (中共邪党) in cannon, well played: https://gb.falundafa.org/chigb/jiangfa5_2.htm
 
 The word "Cult" is much more ambiguous in the West however, and does not necessarily imply "Evil" in certain contexts, just "worship".
 
@@ -4693,10 +4716,14 @@ https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989 | https://zh.wik
 * AP footage is pretty good, just do a search on the archive:
 ** https://www.aparchive.com/metadata/China-Student-Demonstrations/5d1cd01250c9e5e9397f20ef9f1327df
 ** https://www.aparchive.com/metadata/China-Student-Demonstrations/cfc6890746010c73f9414e20906268aa
-* Zhang Shijun is the most notable soldier who spoke up it seems:
-** https://chinadigitaltimes.net/2009/03/china-detains-writer-of-critical-web-letter-to-hu/
-** https://www.rfa.org/english/news/china/flashbacks-06042018133558.html
-** https://www.theguardian.com/world/2009/mar/20/tiananmen-square-china-zhang-shijun
+* Soldiers who spoke up
+** Zhang Shijun is the most notable soldier who spoke up it seems:
+*** https://chinadigitaltimes.net/2009/03/china-detains-writer-of-critical-web-letter-to-hu/
+*** https://www.rfa.org/english/news/china/flashbacks-06042018133558.html
+*** https://www.theguardian.com/world/2009/mar/20/tiananmen-square-china-zhang-shijun
+** Li Xiaoming
+*** https://www.sbs.com.au/news/soldier-reveals-his-shame-over-tiananmen-square-massacre-30-years-on
+*** 
 * Good photo selections:
 ** 2014 https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/ "Photos: The 1989 Tiananmen Square Protests" 
 ** 2014 http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/  (https://web.archive.org/web/20190607142501/http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[archive]) a few gory photos
@@ -5743,7 +5770,7 @@ In 2014, almost 15 years later, <<russia>> finally caught up, what a relief: <<r
 * https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/
 * https://advox.globalvoices.org/2017/08/27/china-to-ban-anonymous-online-comments-blacklist-users/
 
-[[pornography-ban]]
+[[porn]]
 ===== Pornography ban 色情禁令
 
 This will be the fall of China:
@@ -5755,7 +5782,7 @@ And yet, every single Chinese teenager knows very well the meaning of "AV": Adul
 
 Curious, right?
 
-The <<nineteen-eighty-four>> quote "The sex instinct will be eradicated." comes to mind, see that section for fully context.
+The <<nineteen-eighty-four>> quote "The sex instinct will be eradicated." comes to mind, see that section for fuller context.
 
 Some news coverage:
 
@@ -5765,10 +5792,19 @@ Some news coverage:
 * 2018-01-15 https://www.bbc.co.uk/news/world-asia-china-42640569 "Sora Aoi: Japan's porn star who taught a Chinese generation about sex. When Japanese actress and former porn star Sora Aoi announced her marriage online, it set off a frenzy on Chinese social media."
 * 2017-06-17 https://qz.com/1001366/how-the-chinese-watch-porn-on-chinas-censored-internet/ "Watching porn on China’s censored internet is an infinitely evolving cat-and-mouse game"
 
+[[intercourse]]
+.Human https://en.wikipedia.org/wiki/Human_penis[penis] (https://zh.wikipedia.org/wiki/人類陰莖[陰莖]) penetrating a human <<vagina,vagina>> while wearing a condom during https://en.wikipedia.org/wiki/Sexual_intercourse[human sexual intercourse] (https://zh.wikipedia.org/wiki/性交[性交]), showing the https://en.wikipedia.org/wiki/The_birds_and_the_bees[naturally occuring bees] that automatically appear during the event to obscure the view and prevent <<github>> from taking down this page. This is also basically what all porn looks like (sometimes without the bees), and it is very, very boring to watch. https://commons.wikimedia.org/wiki/File:Coitus20092.JPG[background Source] and https://commons.wikimedia.org/wiki/File:Delivery_Bee.png[bee source].
+image::{cirosantilli-media-base}/Coitus_with_bees.jpg[height=400]
+
+[[jin-ping-mei]]
+.Ming-era dynasty illustration of a scene from the novel https://en.wikipedia.org/wiki/Jin_Ping_Mei[Jin Ping Mei] (https://zh.wikipedia.org/wiki/金瓶梅[金瓶梅]) where Qing Ximen (西門) and Golden Lotus (潘金蓮) are engaging in foreplay in a <<yuyuan-garden,beautiful ancient Chinese house>>. For an old depiction of homosexual male sexual activity, see: <<qing-gay-scroll,this image>>. https://en.wikipedia.org/wiki/File:金瓶梅格子门插图2.JPG[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/3/36/金瓶梅格子门插图2.JPG[height=600]
+
 [[wumao]]
 ==== 50 Cent Party 五毛党 (Wumao Dang)
 
-https://en.wikipedia.org/wiki/50_Cent_Party | https://zh.wikipedia.org/wiki/网络评论员
+* https://en.wikipedia.org/wiki/50_Cent_Party
+* https://zh.wikipedia.org/wiki/网络评论员
 
 They can be classified as a form of https://en.wikipedia.org/wiki/Information_warfare[information warfare] (https://zh.wikipedia.org/wiki/信息战[信息战]).
 
@@ -5793,7 +5829,7 @@ Here are some people completely against blocking wumaos. Those silly Democrats n
 * https://www.nytimes.com/2016/09/22/opinion/how-to-counter-chinas-global-propaganda-offensive.html
 ** it mentions the "Countering Information Warfare Act of 2016" https://www.congress.gov/bill/114th-congress/senate-bill/2692[], which is exactly what Western countries should do
 
-Wumaos are particularly easy to spot on <<censorship-monitoring,Western websites banned in China>> and when written in English, since there is no way that strong pro-CCP opinions would get any support in such circunstances:
+Wumaos are particularly easy to spot on <<censorship-monitoring,Western websites banned in China>> and when written in English, since there is no way that strong pro-CCP opinions would get any support in such circumstances:
 
 * https://www.youtube.com/channel/UCaSlyjhR4WC7QhYuaivxb6g/videos Nathan Rich. As mentioned at: https://medium.com/swlh/how-china-is-influencing-youtubers-into-posting-state-propaganda-db72acf18dfa:
 +
