@@ -5998,7 +5998,9 @@ Or to Ciro's other online presences, due to China activity.
 
 For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
-
+* 2020-05-23: traffic reached 3k views on that day, compared to a normal 150, but the number of individual users is the same as always. The accessed pages were only meta repo pages like "Issues", "Wiki", "Stargazers" so either of:
+** someone attempted a baby DDoS with wget and a single IP
+** someone is scraping repository metadata, e.g. Chinese secret service or some other commercial bot that landed here by chance for the first time
 * 2020-05-09: http://lj.rossia.org/users/perfect_kiss/36513.html Google translated of about in that website: "LJ.Rossia.org (LJR) is a nonprofit project created to support freedom of speech, develop civil society and promote free exchange of views."
 * 2020-04-21: 4 hits from https://raidforums.com/ but can't locate it, maybe coming from their very fast temporary chat wall
 * 2019-10-31: https://www.linkedin.com/feed/update/urn:li:activity:6595454363743981568/ (https://web.archive.org/web/20191101094814/https://www.linkedin.com/feed/update/urn:li:activity:6595454363743981568/[archive]) "Good rundown of all the major news from China you don't see. Notice how you don't see anything about the Hong Kong protests anymore?"
