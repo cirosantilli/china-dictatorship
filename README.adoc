@@ -95,7 +95,7 @@ And by the way, with his https://github.com/cirosantilli[extensive contributions
 See also: <<disturbs>>.
 
 [[meant-to-be-used]]
-=== Politics should not be posted in technical websites such as GitHub or Stack Overflow
+=== Politics should not be posted in technical websites such as GitHub or Stack Overflow 不应该在技术网站例如Stack Overflow和GitHub讨论政治
 
 Is the Chinese government using the Internet the way it was meant to be used, by investing billions in <<censorship>>?
 
