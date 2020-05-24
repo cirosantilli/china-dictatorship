@@ -3420,7 +3420,7 @@ One interesting linguistic aspect is that "cult" normally translates in Chinese 
 
 As mentioned before, Ciro does not believe that FLG is an "Evil Cult", just another "Acceptable Cult", and therefore would not use "邪教" to describe it.
 
-Amuzingly, <<li-honzghi,Li>> calls the communists Communist Evil Party (中共邪党) in cannon, well played: https://gb.falundafa.org/chigb/jiangfa5_2.htm
+Amusingly, <<li-hongzhi,Li>> calls the communists Communist Evil Party (中共邪党) in cannon, well played: https://gb.falundafa.org/chigb/jiangfa5_2.htm
 
 The word "Cult" is much more ambiguous in the West however, and does not necessarily imply "Evil" in certain contexts, just "worship".
 
@@ -7051,7 +7051,16 @@ Translations:
 * <<english-word>>
 ** <<chinese-sentence-containing>>
 
+Sentences:
+
+* <<chinese-sentence-containing>>
+
 Notes: <<random-text>>
+
+Notes:
+
+* <<random-text>>
+* <<random-text>>
 ....
 
 Notes:
@@ -7245,6 +7254,15 @@ Words:
 
 * <<歹人>>
 
+[[单]]
+==== 单 (dan1, bill)
+
+Mnemonic: that lunch **bill** cost as much as buying **eighty** (<<十>> <<八>>) rice **fields** (<<田>>)!
+
+Words:
+
+* TODO 买单
+
 [[旦]]
 ==== 旦 (dan4, dawn)
 
@@ -7263,25 +7281,6 @@ Words:
 
 Mnemonic: I saw a **person** (<<人>>) walking at **dawn** (<<旦>>). It was beautiful, **but** why wouldn't they be sleeping instead?
 
-[[多]]
-==== 多 (duo1, many)
-
-Mnemonic: one **wrap sandwitch** (<<勺>>) is fine for lunch, but two on too **many**
-
-[[的]]
-==== 的 (de, my)
-
-Mnemonic: **my** penis looks like a **white** (<<白>>) **wrap sandwitch** (<<勺>>)
-
-[[动]]
-==== 动 (dong4, move)
-
-Mnemonic: his **superpower** (<<力>>) is to **move** fart **clouds** (<<云>>) with his mind
-
-Words:
-
-* <<运动>>
-
 [[刀]]
 ==== 刀 (dao1, knife)
 
@@ -7292,14 +7291,26 @@ Characters:
 * <<列>>
 * <<尔>>
 
-[[单]]
-==== 单 (dan1, bill)
+[[的]]
+==== 的 (de, my)
 
-Mnemonic: that lunch **bill** cost as much as buying **eighty** (<<十>> <<八>>) rice **fields** (<<田>>)!
+Mnemonic: **my** penis looks like a **white** (<<白>>) **wrap sandwitch** (<<勺>>)
+
+[[等]]
+==== 等 (deng3, etcetera)
+
+Mnemonic: TODO
+
+Words: <<等等>>
+
+[[动]]
+==== 动 (dong4, move)
+
+Mnemonic: his **superpower** (<<力>>) is to **move** fart **clouds** (<<云>>) with his mind
 
 Words:
 
-* TODO 买单
+* <<运动>>
 
 [[对]]
 ==== 对 (dui4, correct)
@@ -7309,6 +7320,11 @@ Mnemonic: to progress slowly, adding **inch** (<<寸>>) by inch, **again** (<<�
 Characters:
 
 * <<树>>
+
+[[多]]
+==== 多 (duo1, many)
+
+Mnemonic: one **wrap sandwitch** (<<勺>>) is fine for lunch, but two on too **many**
 
 [[儿]]
 ==== 儿 (er2, son)
@@ -7357,6 +7373,21 @@ Characters:
 Characters:
 
 * <<幸>>
+
+Sentences:
+
+* <<肺炎疫情下的武汉幸存者我是不幸之中幸运的人>>
+
+[[该]]
+==== 该 (gai1, dry)
+
+Mnemonic: TODO **speak** (<<言>>)
+
+Translations:
+
+* that, the afore mentioned
+** <<目前该网站也和国内外很多大学的图书馆有合作例如武汉大学南京大学等等>>
+*** Here, 该网站 (that website) is referring to a specific website mentioned in previous sentences of the Zhihu answer.
 
 [[根]]
 ==== 根 (gen1, roots)
@@ -7720,12 +7751,22 @@ Mnemonic: **God** <<申>> **spirit** (<<示>>)
 ==== 审 (shen3, inspect)
 
 Mnemonic: if you are going to **inspect** what's making those noises on the **roof** (<<宀>>), you will certainly find that it was **God** (<<申>>)
+
 [[十]]
 ==== 十 (shi2, ten)
 
 Characters:
 
 * <<单>>
+
+[[时]]
+==== 时 (shi2, time)
+
+Mnemonic: if the **sun** (<<日>>) moves an **inch** (<<寸>>) in the sky, then that means that 1 minute of **time** has passed
+
+Words:
+
+* <<临时>>
 
 [[示]]
 ==== 示 (shi4, spirit)
@@ -8002,7 +8043,7 @@ Characters:
 [[之]]
 ==== 之 (zhi1)
 
-Sentences:
+Translations:
 
 * the preceding sentence modifies the following sentence
 ** <<青铜兵器之殳简介>>
@@ -8084,6 +8125,11 @@ Format:
 * <<列表>>
 ** <<现有王位觊觎者列表>>
 
+[[for-example]]
+==== For example (例如)
+
+* <<例如>>
+
 [[unlucky]]
 ==== Unlucky (不幸, bu4 xing4)
 
@@ -8096,11 +8142,6 @@ Format:
 ....
 [[<word>]]
 === <word> (<pinyin>, <main-translation>)
-
-Translations:
-
-* <<english-word>>
-** <<chinese-sentence-containing>>
 
 Characters:
 
@@ -8117,21 +8158,26 @@ Subwords:
 * <word-contained>
 * <word-contained>
 
+Translations:
+
+* <<english-word>>
+** <<chinese-sentence-containing>>
+*** <<note-on-this-sentence>>
+
 Sentences:
 
 * <<chinese-sentence-containing>>
 ** <<note-on-this-sentence>>
 
-Sentences:
+Notes:
 
-* <<sense>>
-** <<chinese-sentence-containing>>
-*** <<note-on-this-sentence>>
+* <<random text>>
 ....
 
 Notes:
 
 * translations is useful if there are multiple possible English translations, and examples if it is more one-to-one with the `main-translation`
+* "Sentences" is like "Translations", but for when the header translation is enough and there are not multiple meanings, so no need to repeat the English word again
 * mnemonics are mostly useful for proper nouns, for common nouns, it is usually obvious from the composing characters. This is why Chinese is amazing.
 
 [[巴西]]
@@ -8161,6 +8207,17 @@ Characters:
 
 * <<歹>>
 * <<人>>
+
+[[等等]]
+==== 等等 (deng3 deng3, etcetera)
+
+Characters:
+
+* <<等>>
+
+Sentences:
+
+* <<目前该网站也和国内外很多大学的图书馆有合作例如武汉大学南京大学等等>>
 
 [[肺炎]]
 ==== 肺炎 (fei4 yan2, pneumonia)
@@ -8210,15 +8267,6 @@ Characters:
 * <<理>>
 * <<论>>
 
-[[时]]
-==== 时 (shi2, time)
-
-Mnemonic: if the **sun** (<<日>>) moves an **inch** (<<寸>>) in the sky, then that means that 1 minute of **time** has passed
-
-Words:
-
-* <<临时>>
-
 [[临时]]
 ==== 临时 (lin2 shi2, temporary)
 
@@ -8239,13 +8287,27 @@ Characters:
 * <<列>>
 * <<表>>
 
-[[审查]]
-==== 审查 (shen3 cha2, censor)
+Sentences:
+
+* <<现有王位觊觎者列表>>
+* <<中国大陆网络用语列表>>
+
+[[例如]]
+==== 例如 (li4 ru2, for example)
+
+Translations:
+
+* <<for-example>>
+** <<目前该网站也和国内外很多大学的图书馆有合作例如武汉大学南京大学等等>>
 
 Characters:
 
-* <<审>>
-* <<查>>
+* 例 TODO
+* 如 TODO
+
+Notes:
+
+* vs 比如 TODO https://chinese.stackexchange.com/questions/17537/what-is-the-difference-between-比如-and-例如
 
 [[木头]]
 ==== 木头 (mu4 tou, wood, timber or log)
@@ -8295,6 +8357,14 @@ Characters:
 Sentences:
 
 * <<青铜兵器之殳简介>>
+
+[[审查]]
+==== 审查 (shen3 cha2, censor)
+
+Characters:
+
+* <<审>>
+* <<查>>
 
 [[台湾]]
 ==== 台湾 (tai2 wan1, Taiwan)
@@ -8456,22 +8526,36 @@ Context: The article is about a man who survived because he asked for help onlin
 Words: <<肺炎>><<疫情>>下<<的>>武汉<<幸存>>者："我是<<不幸>>之中<<幸运>><<的>><<人>>"
 
 [[购物清单APP即使你是购物狂也不用再担心了]]
-==== 购物清单APP，即使你是购物狂也不用再担心了 (With a shopping list APP, even if you are crazy about shopping you don't need to worry anymore)
+==== 购物清单APP，即使你是购物狂也不用再担心了 (gou4 wu4, With a shopping list APP, even if you are crazy about shopping you don't need to worry anymore)
 
 Source: https://zhuanlan.zhihu.com/p/27498655
 
 Words: <<购物清单>>APP，即使<<你>>是购物狂也不用再担心了
 
+[[目前该网站也和国内外很多大学的图书馆有合作例如武汉大学南京大学等等]]
+==== 目前该网站也和国内外很多大学的图书馆有合作，例如武汉大学、南京大学等等 (mu4 qian2, At present, that website also cooperates with the libraries of universities in China and abroad such as Wuhan University, Nanjing University, etc.)
+
+Source: https://www.zhihu.com/question/35931336/answer/228278520 (https://web.archive.org/web/20200502080357/https://www.zhihu.com/question/35931336[archive])
+
+Words: 目前该网站也和国内外很多大学的图书馆有合作，<<例如>>武汉大学、南京大学<<等等>>
+
 [[青铜兵器之殳简介]]
-==== 青铜兵器之“殳”简介 (An introduction to the bronze weapon "shu" (殳))
+==== 青铜兵器之“殳”简介 (qing1 tong2, An introduction to the bronze weapon "shu" (殳))
 
 Source: http://wenzhengwenhua.com/article-2023-1.html
 
 Words: <<青铜>>兵器<<之>>“殳”简介
 
 [[现有王位觊觎者列表]]
-==== 现有王位觊觎者列表 (List of current throne pretenders)
+==== 现有王位觊觎者列表 (xian4 you3, List of current throne pretenders)
 
 Source: https://zh.wikipedia.org/wiki/現有王位覬覦者列表
+
+Words: 现有王位觊觎者<<列表>>
+
+[[中国大陆网络用语列表]]
+==== 中国大陆网络用语列表 (zhog4 guo2, List of Mainland China Internet vocabulary)
+
+Source: https://zh.wikipedia.org/wiki/中国大陆网络用语列表
 
 Words: 现有王位觊觎者<<列表>>
