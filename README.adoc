@@ -453,7 +453,7 @@ Even if it is not, it does not matter, since Ciro spends so little time doing it
 image::https://web.archive.org/save/_embed/http://78.media.tumblr.com/c958931381d9efa62f158d885f3ca811/tumblr_mirhy5eQPY1s6tut4o1_r1_500.gif[height=400]
 
 [[embargo]]
-==== Embargoes make the dictatorship stronger
+==== Embargoes make dictatorships stronger 禁运使独裁更强大
 
 The <<keyword-attack,keyword attack>> is basically an embargo.
 
@@ -7051,7 +7051,7 @@ Format will be very constant, database like. Would therefore be cool to parse it
 
 Base mnemonic components can come more or less directly from the 214 Kangxi radicals: https://en.wikipedia.org/wiki/Kangxi_radical
 
-One key principle is that characters and words often don't have a well translatable meaning: the minimal always translatable unit is a sentence: <<sentences>>!
+One key principle is that characters and words often don't have a well translatable meaning: the minimal always translatable unit is a sentence: <<chinese-sentences>>!
 
 You can't fully learn a language by learning words and characters alone, you must learn sentences.
 
@@ -7799,6 +7799,17 @@ Words:
 
 * <<临时>>
 
+[[使]]
+=== 使 (shi3, TODO)
+
+Mnemonic: TODO <<人>> 吏
+
+Translations:
+
+* make someone become some way
+** <<what-doesn-t-kill-me-makes-me-stronger>>
+*** here we see the common pattern "使 someone 更 something" meaning: "make someone become more something"
+
 [[示]]
 ==== 示 (shi4, spirit)
 
@@ -8502,7 +8513,7 @@ Characters:
 * <<治>>
 * 愈
 
-=== Sentences
+=== Chinese sentences
 
 Format:
 
@@ -8517,11 +8528,16 @@ Context: <<context>>
 Words: <<sentence-with-linked-breakdown>>
 
 Sentences: <<example>>
+
+Translations:
+
+* <<english-translation-1>>
+* <<english-translation-2>>
 ....
 
 Notes
 
-* `Sentences`: is mostly for when you have a smaller collocational phrase that feels too generic for a "word", but which can also go inside a larger "super-sentence"
+* `Sentences`: is mostly for when you have a smaller colloquial phrase that feels too generic for a "word", but which can also go inside a larger "super-sentence"
 
 [[测量体重]]
 ==== 测量体重 (Measure body weight, to weight oneself)
@@ -8577,6 +8593,15 @@ Source: http://wenzhengwenhua.com/article-2023-1.html
 
 Words: <<青铜>>兵器<<之>>“殳”简介
 
+[[任何不能杀死你的都会使你更强大]]
+==== 任何不能杀死你的，都会使你更强大 (ren4 he2, What doesn't kill me makes me stronger)
+
+Source: https://zhidao.baidu.com/question/242761276.html (http://web.archive.org/web/20200525084055/https://zhidao.baidu.com/question/242761276.html[archive])
+
+Words:
+
+* <<使>>
+
 [[现有王位觊觎者列表]]
 ==== 现有王位觊觎者列表 (xian4 you3, List of current throne pretenders)
 
@@ -8590,3 +8615,14 @@ Words: 现有王位觊觎者<<列表>>
 Source: https://zh.wikipedia.org/wiki/中国大陆网络用语列表
 
 Words: 现有王位觊觎者<<列表>>
+
+=== English sentences
+
+[[what-doesn-t-kill-me-makes-me-stronger]]
+==== What doesn't kill me makes me stronger
+
+Source: https://en.wikipedia.org/wiki/What_does_not_kill_me_makes_me_stronger
+
+Translations:
+
+* <<任何不能杀死你的都会使你更强大>>
