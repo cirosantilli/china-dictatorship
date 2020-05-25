@@ -71,7 +71,7 @@ Ciro only wants their <<dictatorship,dictatorial government>> to look bad to des
 
 Even the Chinese that are against their own Government <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship,cannot do much about it openly>>, so it is not their fault.
 
-And even those <<i-like-my-dictatorship,who supported their dictatorship>> must be respected, whoever stupid and <<brainwashed-by-usa,brainwashed>> you might think they are, <<democracy-is-a-religion,since it is impossible to prove who is right or wrong in politics>>.
+And even those <<i-like-my-dictatorship,who supported their dictatorship>> must be respected, whoever <<stupid,stupid>> and <<brainwashed-by-usa,brainwashed>> you might think they are, <<democracy-is-a-religion,since it is impossible to prove who is right or wrong in politics>>.
 
 See also: <<about>>.
 
@@ -93,6 +93,17 @@ Once the firewall is destroyed, which <<dictator-needs-gfw,may destroy the dicta
 And by the way, with his https://github.com/cirosantilli[extensive contributions to open source software], Ciro is already helping China, and all underdeveloped countries, become stronger.
 
 See also: <<disturbs>>.
+
+[[stupid]]
+==== Does Ciro Santilli think that the Chinese are stupid or brainwashed? 三西猴觉得中国人是啥子或被洗脑吗？
+
+Obviously not, if you even thought about this, it is likely because of: <<evil-west>>.
+
+Don't you see that this is just pure and simple politics? And likely ineffective one at that: <<effect>>.
+
+* everyone is brainwashed by their environment: <<brainwashed-by-usa,brainwashed>>
+* it is impossible to prove who is right or wrong in politics: <<democracy-is-a-religion>>
+* not even the CCP is evil: <<ccp-evil>>
 
 [[meant-to-be-used]]
 === Politics should not be posted in technical websites such as GitHub or Stack Overflow 不应该在技术网站例如Stack Overflow和GitHub讨论政治
@@ -494,6 +505,8 @@ To have an idea, in 2015 there are about:
 
 And if we never start somewhere, nothing will ever happen.
 
+Furthermore, even if the <<gfw,GFW>> falls, it is not clear that this will imply the end of the dictatorship: <<effective>>.
+
 [[so-block-cost]]
 ==== Stack Overflow and GitHub could be blocked at no cost by the Chinese government
 
@@ -694,6 +707,7 @@ TODO source.
 
 Duplicate pool: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Aevil-west+
 
+[[henri-meyer]]
 .French political cartoon from 1898 by https://en.wikipedia.org/wiki/Henri_Meyer[Henri Meyer] showing leaders of Western powers, Russia and Japan splitting up China between them. The CCP would arguably <<not-chinese,not have raised to power if not due to Japanese interference>>. Maybe the West deserves the CCP they helped create. https://commons.wikimedia.org/wiki/File:China_imperialism_cartoon.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/China_imperialism_cartoon.jpg/438px-China_imperialism_cartoon.jpg[height=500]
 
@@ -735,7 +749,7 @@ The last emperor was Puyi, so Pu is the last well known mark. But there were oth
 * Yu (wife's grandfather)
 * Heng (wife's father)
 * Qi (wife)
-* Dao (wife's children).  at least one thing is decided from this: Ciro's children Chinese names will all be Ai Dao Something.
+* Dao (wife's children). At least one thing is decided from this: Ciro's children Chinese names will all be Ai Dao Something.
 
 The family tree that Ciro has reconstructed orally from his mother-in-law is:
 
@@ -771,23 +785,25 @@ Bibliography:
 image::{cirosantilli-media-base}/Ciro_Santilli_portrait_as_Qing_emperor.jpg[height=600]
 
 [[preconceived]]
-==== You have a preconceived opinion about China that cannot be changed
+==== Ciro Santilli has a preconceived opinion about China that cannot be changed 三西猴对中国成见很深，无法改变
 
-I try to justify here why I think China would be better with democracy, but I know that ultimately all of this is useless.
+<<ciro-santilli>> tries to justify why he think China would be <<richer,better with democracy>>, but I know that ultimately all of this is useless.
 
-Our opinions are all determined genetically and by bring-up, and there is nothing I can do to change yours, or you change mine.
+Everyone's opinions are all determined genetically and by <<brainwashed-by-usa,bring-up>>, and there is nothing he can do to change yours, or you change his.
 
-From that point of view, all of this is just a cold blooded political game, in which I try to force the CCP to take down the Firewall: <<why-keyword-attack>>.
+From that point of view, all of this is just a cold blooded political game, in which Ciro tries to force the CCP to take down the Firewall: <<why-keyword-attack>>.
 
-Unfortunately I'm still human and do get annoyed or sad sometimes, but never mad, even if your opinion is contrary to mine, and therefore wrong :-) The <<reply-policy,reply policy>> helps reduce such frustrations tremendously however.
+Ciro never gets mad about China, even if your opinion is contrary to his, and therefore wrong.
 
-I also have doubts about certain things I do as expressed throughout this FAQ.
+Using the <<reply-policy,reply policy>> is one of the reasons why Ciro never gets mad.
 
-Also, I have never said that anyone else is wrong.
+Ciro also has doubts about the efficiency of certain things I do as expressed throughout this FAQ, e.g. <<embargo>>.
 
-In the end, I just end up thinking about new replies to things people say to me, and add them to this FAQ so that future replies will be faster to copy paste. See also: <<better-to-do>>.
+Also, Ciro have never said that anyone else is wrong.
 
-The real goal of this FAQ is not to convince people, but rather to determine who is an ally and who is not, and get those allies together to defeat the commies.
+In the end, he just end up thinking about new replies to things people say to him, and add them to this FAQ so that future replies will be faster to copy paste. See also: <<better-to-do>>.
+
+The real goal of any online discussion, is not to convince people, but rather to determine who is an ally and who is not, and get those allies together to defeat the commies.
 
 [[flg-bias]]
 ==== Does Ciro Santilli support FLG just because his wife and mother-in-law do it?
@@ -972,7 +988,7 @@ My <<keyword-choice,SO username>> and <<better-to-do,protest time>> are not infi
 See also: <<western-democracies-are-not-perfect>>
 
 [[western-democracies-are-not-perfect]]
-==== Western democracies are not perfect  西方的民主有很多缺点
+==== Western democracies are not perfect 西方的民主有很多缺点
 
 That is definitely true.
 
@@ -1336,7 +1352,7 @@ Casually barred from the 2018 presidential campaign:
 * https://www.bbc.co.uk/news/world-europe-42479909
 * https://ru.wikipedia.org/wiki/Навальный,_Алексей_Анатольевич#Президентские_выборы_2018_года
 
-His Wiki page does say one  thing of interest though, he has right wing tendencies which scared off liberals:
+His Wiki page does say one thing of interest though, he has right wing tendencies which scared off liberals:
 
 ____
 The BBC noted in a profile of Navalny that his endorsement of a political campaign called "Stop feeding the Caucasus" and his willingness to speak at ultra-nationalist events "have caused concern among liberals". 
@@ -1350,7 +1366,7 @@ Related:
 [[stalin]]
 ===== Stalin 斯大林 (1922-1952)
 
-.https://en.wikipedia.org/wiki/Light_Yagami[Light Yagami] from  https://en.wikipedia.org/wiki/Death_Note[Death Note]: "I can kill anyone by simply writing his name here". Stalin: "Bitch please". https://ifunny.co/picture/1-can-kill-anyone-by-simply-writing-his-name-here-TjXCcyuM2[Source].
+.https://en.wikipedia.org/wiki/Light_Yagami[Light Yagami] from https://en.wikipedia.org/wiki/Death_Note[Death Note]: "I can kill anyone by simply writing his name here". Stalin: "Bitch please". https://ifunny.co/picture/1-can-kill-anyone-by-simply-writing-his-name-here-TjXCcyuM2[Source].
 image::https://web.archive.org/web/20200301233451/https://img.ifunny.co/images/55cb6c5de9cde6ebe7e9d1704c7f83e6d344e8154b44299fec9b9a029aa82c34_1.jpg[height=500]
 
 .https://www.youtube.com/watch?v=ZT2z0nrsQ8o "Rasputin vs Stalin." Epic Rap Battles of History YouTube video. This is fire. https://epicrapbattlesofhistory.fandom.com/wiki/Rasputin_vs_Stalin/Rap_Meanings[Explanations].
@@ -1362,9 +1378,10 @@ video::ZT2z0nrsQ8o[youtube,height=400,width=600]
 * https://www.rferl.org/ Radio Free Europe: USA funded sister media of <<radio-free-asia>>: https://en.wikipedia.org/wiki/Radio_Free_Europe/Radio_Liberty
 * https://meduza.io/en
 
-=== Is the Chinese government evil?
+[[ccp-evil]]
+=== Is the Chinese government evil? 中国共产党是邪恶吗？
 
-No, just <<richer,inefficient>> and <<war,dangerous>>.
+Obviously not, just <<richer,inefficient>> and <<war,dangerous>>.
 
 It is just another non-democratic empire like the Qing Dynasty, we might as well cal it:
 
@@ -1377,7 +1394,9 @@ Expression previously mentioned at: https://web.archive.org/web/20161025220242/h
 
 Like any other organization and individual everywhere in the entire world, they are just doing everything that they can to maintain their own power.
 
-It just happens that China's  the current is political system allows the CCP to do really bad things.
+It just happens that China's the current is political system allows the CCP to do really bad things.
+
+And it should also be noted that <<henri-meyer,it is in part the West's fault>> that China currently has this shitty system.
 
 <<falun-gong>> thinks otherwise of course, they think the CCP is actually made up of devils in some dimension: <<does-ciro-santilli-believe-in-or-practice-falun-gong>>.
 
@@ -1752,6 +1771,10 @@ Duplicate pool:
 ===== Ciro Santilli is doing his China freedom campaign because it makes him feel important
 
 See: <<famous>>.
+
+===== Ciro Santilli is doing his China freedom campaign to vent off his anger
+
+No, he is not angry at all, see also: <<harm-programmers>>.
 
 [[cia-funding]]
 ===== Is Ciro Santilli's china-dictatorship campaign funded or otherwise supported by some organization?
@@ -2879,7 +2902,7 @@ Some interesting questions not related to <<ciro-santilli>>. Ciro related questi
 ** <<flg-changed>>
 *** https://www.zhihu.com/question/23988890 (http://web.archive.org/web/20200429084640/https://www.zhihu.com/signin?next=http%3A%2F%2Fwww.zhihu.com%2Fquestion%2F23988890[blocked as of 2020-04], https://web.archive.org/web/20160311140407/https://www.zhihu.com/question/23988890[2016-03 archive]) "全能神教在境外，法轮功也在境外，为什么他们不祸害境外人民、偏偏只祸害大陆人？"<<eastern-lightning,Eastern Lightning>> exists outside of the country [China], Falun Gong exists outside of the country, so why is is that they don't harm people in those countries, but only harm people in Mainland China?"
 * <<gay-rights>>
-** https://www.zhihu.com/question/370080866/answer/1046195468 "为什么中国影视作品不允许LGBT的出现？"  "Why is it not allowed to show LGBT content in Chinese film and television?" (http://web.archive.org/web/20200429091622/https://www.zhihu.com/question/370080866/answer/1046195468[archive])
+** https://www.zhihu.com/question/370080866/answer/1046195468 "为什么中国影视作品不允许LGBT的出现？" "Why is it not allowed to show LGBT content in Chinese film and television?" (http://web.archive.org/web/20200429091622/https://www.zhihu.com/question/370080866/answer/1046195468[archive])
 
 [[zhihu-purge]]
 ===== Ciro Santilli's Zhihu purge 2019-11-03
@@ -3294,7 +3317,7 @@ This post by a former believer gives what Ciro feels is a realistic account that
 
 And yet, all those who love freedom, must oppose FLG ban, or be themselves enslaved by tyrants themselves: <<democracy-is-a-religion>>.
 
-In any case, at least FLG got one thing right: the commies are <<is-the-chinese-government-evil,evil>>, and we have to get rid of them.
+In any case, at least FLG got one thing right: the commies are <<ccp-evil,evil>>, and we have to get rid of them.
 
 See also: <<flg-fake>>.
 
@@ -3438,7 +3461,7 @@ This is an amazing website talking about Cults and many other things! TODO who i
 
 And the website also has a Free Tibet flag at the bottom.
 
-Many of the points highlighted at  are very very interesting and Ciro feels that they apply strongly to <<falun-gong>>:
+Many of the points highlighted at are very very interesting and Ciro feels that they apply strongly to <<falun-gong>>:
 
 * "Instant Community" and "Instant intimacy": you instantly join the cult family, and are very very likely to believe or at least consider anything anyone else in the cult says about their religious experiences, no matter how far-fetched, even though it is not <<flg-canon,canon>>
 +
@@ -4362,7 +4385,7 @@ See also <<ciro-santilli>>'s answer to https://www.quora.com/What-is-the-net-wor
 * 習包子: https://languagelog.ldc.upenn.edu/nll/?p=29230 says:
 +
 ____
-Xi Jinping got his nickname as "Xí bāozi 習包子" ("steamed stuffed bun Xi") due to the much publicized visit he made to the famous Qìngfēng bāozi pù 庆丰包子铺 ("Qingfeng baozi shop") in Beijing.  During and after his visit to the shop, media swarmed over the place and were eager to portray an image of Xi as being down to earth and close to the people.  Those who dislike Xi use this nickname sarcastically against him for being a hick and for hypocritically "putting on a show" (zuòxiù 作秀).
+Xi Jinping got his nickname as "Xí bāozi 習包子" ("steamed stuffed bun Xi") due to the much publicized visit he made to the famous Qìngfēng bāozi pù 庆丰包子铺 ("Qingfeng baozi shop") in Beijing. During and after his visit to the shop, media swarmed over the place and were eager to portray an image of Xi as being down to earth and close to the people. Those who dislike Xi use this nickname sarcastically against him for being a hick and for hypocritically "putting on a show" (zuòxiù 作秀).
 ____
 +
 See also: <<buns>>.
@@ -4726,7 +4749,7 @@ https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989 | https://zh.wik
 *** 
 * Good photo selections:
 ** 2014 https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/ "Photos: The 1989 Tiananmen Square Protests" 
-** 2014 http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/  (https://web.archive.org/web/20190607142501/http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[archive]) a few gory photos
+** 2014 http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/ (https://web.archive.org/web/20190607142501/http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[archive]) a few gory photos
 ** 2015 https://allthatsinteresting.com/tiananmen-square-massacre "The Hidden History Of The Tiananmen Square Massacre"
 ** 2019 https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary "These Horrifying Pictures Show The Tiananmen Square Protests Like You've Never Seen Them"
 
@@ -4772,7 +4795,7 @@ image::https://web.archive.org/web/20190610212031/https://img.buzzfeed.com/buzzf
 
 English:
 
-* https://www.youtube.com/watch?v=-JTWXqUPQ7I "China" by Joan Baez  from the https://en.wikipedia.org/wiki/Speaking_of_Dreams[Speaking of Dreams (1989) album]. Folk.
+* https://www.youtube.com/watch?v=-JTWXqUPQ7I "China" by Joan Baez from the https://en.wikipedia.org/wiki/Speaking_of_Dreams[Speaking of Dreams (1989) album]. Folk.
 +
 video::-JTWXqUPQ7I[youtube,height=400,width=600]
 * https://www.youtube.com/watch?v=6OOlXJs4I8k "The blood is on the square" by Phillip Morgan from https://www.amazon.com/Blood-Square-Philip-Morgan/dp/B001H5S7OS[1990]. Folk.
@@ -6148,7 +6171,7 @@ Here are the few best I've seen. Not enough to replace the non-free, but pretty 
 
 * https://www.youtube.com/playlist?list=PLcZOZrP1P_V5J2P3ogZNpya0BAuPEgyuE my "Chinese Traditional Music YouTube playlist with all good music videos I found on YouTube. This will give you an initial idea.
 ** Notable longer videos
-*** https://www.youtube.com/watch?v=35ZKN-H7at4 42 minute live Guqin presentation by Chen Leiji published  by "Asia Society" on Jan 23, 2018, recorded in New York, January 20, 2018.
+*** https://www.youtube.com/watch?v=35ZKN-H7at4 42 minute live Guqin presentation by Chen Leiji published by "Asia Society" on Jan 23, 2018, recorded in New York, January 20, 2018.
 ** Channels
 *** https://www.youtube.com/channel/UCltmf0pqjXyLtNsF2vek_wQ 自得琴社 Zi De Guqin Studio. Amazing production.
 *** https://www.youtube.com/user/yukinachang/videos "SoundofChina Guzheng" channel with a lot of guzheng content!
@@ -6222,7 +6245,7 @@ https://en.wikipedia.org/wiki/China_Record_Corporation | https://zh.wikipedia.or
 
 The most important publisher, AKA "CRC Jianian".
 
-<<is-the-chinese-government-evil,Government-owned unfortunately>>, their website takes forever to load: http://www.china-crc.com.cn/[], and features mostly Communist shit, and I can't find the decent traditional music listed there.
+<<ccp-evil,Government-owned unfortunately>>, their website takes forever to load: http://www.china-crc.com.cn/[], and features mostly Communist shit, and I can't find the decent traditional music listed there.
 
 One thing to try is an Amazon advanced search by label "China Record Co": https://www.amazon.com/s?i=digital-music&rh=p_33%3AChina+Record+Co&s=relevancerank&Adv-Srch-MP3-Submit.x=42&Adv-Srch-MP3-Submit.y=4&unfiltered=1&ref=sr_adv_m_digital
 
@@ -6309,7 +6332,7 @@ video::4Zh0TiEd63k[youtube,height=400,width=600]
 
 https://en.wikipedia.org/wiki/Vicia_faba | https://zh.wikipedia.org/wiki/蚕豆
 
-The name of broad bean in Chinese is interesting: it literally means "silkworm bean", because the shape of the bean looks a bit like that of a silkworm  cocoon.
+The name of broad bean in Chinese is interesting: it literally means "silkworm bean", because the shape of the bean looks a bit like that of a silkworm cocoon.
 
 .https://sixfortune.com/en/[Six Fortune (六福)] is a good brand. https://www.tradewindsorientalshop.co.uk/acatalog/Six-Fortune-Prepared-Broad-Bean---170g.html[Source].
 image::https://web.archive.org/save/_embed/https://www.tradewindsorientalshop.co.uk/acatalog/Six-Fortune-Prepared-Broad-Bean-170G.jpg[height=400]
@@ -6363,7 +6386,7 @@ Put the electric rice cooker or a regular pot with a portable electric heater on
 
 Boil the water with the soup, start with the harder to cook meaty things, and eat/add more as they become ready!
 
-Great fun  to do in winter with family and friends!
+Great fun to do in winter with family and friends!
 
 There are also dedicated hot pot restaurants, but <<ciro-santilli>> is not a fun, since it feels much better to do it in the privacy of your home.
 
