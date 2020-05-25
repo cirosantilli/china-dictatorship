@@ -35,7 +35,7 @@ This repo has the following goals:
 == FAQ 常见问答集
 
 [[why-keyword-attack]]
-=== Why attack websites with censored keywords?
+=== Why attack websites with censored keywords? 用审查词攻击网站有什么用呢？
 
 <<keyword-attack, The attack>>.
 
@@ -62,21 +62,8 @@ but not both, since having both means that they will <<war,start WW3 and destroy
 
 Related attack: <<photobombing-like-attacks>>.
 
-[[harm-people]]
-==== Does Ciro Santilli want to make the Chinese people people look bad?
-
-No, the opposite.
-
-Ciro only wants their <<dictatorship,dictatorial government>> to look bad to destroy it, and help China become <<does-ciro-santilli-hate-china,the most awesome country on Earth>>.
-
-Even the Chinese that are against their own Government <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship,cannot do much about it openly>>, so it is not their fault.
-
-And even those <<i-like-my-dictatorship,who supported their dictatorship>> must be respected, whoever <<stupid,stupid>> and <<brainwashed-by-usa,brainwashed>> you might think they are, <<democracy-is-a-religion,since it is impossible to prove who is right or wrong in politics>>.
-
-See also: <<about>>.
-
 [[harm-programmers]]
-===== Does Ciro Santilli want to harm the Chinese programmers?
+==== Does Ciro Santilli want to harm the Chinese programmers? 三西猴想要伤害中国程序员吗？
 
 No.
 
@@ -93,6 +80,19 @@ Once the firewall is destroyed, which <<dictator-needs-gfw,may destroy the dicta
 And by the way, with his https://github.com/cirosantilli[extensive contributions to open source software], Ciro is already helping China, and all underdeveloped countries, become stronger.
 
 See also: <<disturbs>>.
+
+[[harm-people]]
+===== Does Ciro Santilli want to make the Chinese people people look bad?
+
+No, the opposite.
+
+Ciro only wants their <<dictatorship,dictatorial government>> to look bad to destroy it, and help China become <<does-ciro-santilli-hate-china,the most awesome country on Earth>>.
+
+Even the Chinese that are against their own Government <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship,cannot do much about it openly>>, so it is not their fault.
+
+And even those <<i-like-my-dictatorship,who supported their dictatorship>> must be respected, whoever <<stupid,stupid>> and <<brainwashed-by-usa,brainwashed>> you might think they are, <<democracy-is-a-religion,since it is impossible to prove who is right or wrong in politics>>.
+
+See also: <<about>>.
 
 [[stupid]]
 ==== Does Ciro Santilli think that the Chinese are stupid or brainwashed? 三西猴觉得中国人是啥子或被洗脑吗？
@@ -7121,11 +7121,11 @@ Characters:
 
 Mnemonic: the dot indicates something that stays on top of the head of a king (<<王>>)
 
-Notes: there is no "proper" Chinese name for this, it is just known as "the top part of <<青>>" (青字頭) https://en.wiktionary.org/wiki/龶
-
 Characters:
 
 * <<青>>
+
+Notes: there is no "proper" Chinese name for this, it is just known as "the top part of <<青>>" (青字頭) https://en.wiktionary.org/wiki/龶
 
 [[巴]]
 ==== 巴 (ba1, Brazil)
@@ -7148,6 +7148,7 @@ Short forms: 丷
 Characters:
 
 * <<单>>
+* <<六>>
 
 [[白]]
 ==== 白 (bai2, white)
@@ -7252,7 +7253,7 @@ Characters:
 [[存]]
 ==== 存 (cun2, survive)
 
-Mnemonic: the Jewish **child** (<<子>>) **survived** from the Nazis by hidding under a **market stall** (<<top-part-of-存>>)
+Mnemonic: the Jewish **child** (<<子>>) **survived** from the Nazis by hiding under a **market stall** (<<top-part-of-存>>)
 
 Words:
 
@@ -7477,6 +7478,22 @@ Characters:
 
 * <<炎>>
 
+[[几]]
+==== 几 (ji3, side table)
+
+Characters:
+
+* <<殳>>
+
+[[交]]
+==== 交 (jiao1, exchange student)
+
+Mnemonic: we measured **six** <<六>> American **exchange students** <<交>> on a **balance** <<乂>> to see which one was heaviest. Idea comes from 交流 (exchange student).
+
+Words:
+
+* <<性交>.
+
 [[巾]]
 ==== 巾 (jin1, towel)
 
@@ -7486,12 +7503,17 @@ Characters:
 
 * <<巿>>
 
-[[几]]
-==== 几 (ji3, side table)
+* <<禁>>
 
-Characters:
+[[禁]]
+==== 禁 (jin4, forbid)
 
-* <<殳>>
+Mnemonic: the **spirit** <<示>> of the **woods** <<林>> **forbids** <<禁>> burning trees!
+
+Words:
+
+* <<禁止>>
+* <<禁运>>
 
 [[口]]
 ==== 口 (kou3, mouth)
@@ -7537,6 +7559,15 @@ Mnemonic: there must exist a **list** of **supervillains** (<<歹>>) with **kniv
 Words:
 
 * <<列表>>
+
+[[林]]
+==== 林 (lin2, woods)
+
+Mnemonic: there are lots of **trees** <<木>> in the **woods** <<林>>
+
+Characters:
+
+* <<禁>>
 
 [[临]]
 ==== 临 (lin2, temporary)
@@ -7601,6 +7632,7 @@ Characters:
 Characters:
 
 * <<根>>
+* <<林>>
 
 Words:
 
@@ -7783,6 +7815,15 @@ Mnemonic: **God** <<申>> **spirit** (<<示>>)
 
 Mnemonic: if you are going to **inspect** what's making those noises on the **roof** (<<宀>>), you will certainly find that it was **God** (<<申>>)
 
+[[生]]
+==== 生 (sheng1, be born, birth)
+
+Mnemonic: as soon as the prince **was born** <<生>>, only **one** (<<一>>) **crown** <<龶>> was put on his head, not two as expected since he was the child of the rulers of kingdoms
+
+Words:
+
+* <<生存>>
+
 [[十]]
 ==== 十 (shi2, ten)
 
@@ -7800,7 +7841,7 @@ Words:
 * <<临时>>
 
 [[使]]
-=== 使 (shi3, TODO)
+==== 使 (shi3, TODO)
 
 Mnemonic: TODO <<人>> 吏
 
@@ -7918,6 +7959,7 @@ Characters:
 Characters:
 
 * <<言>>
+* <<六>>
 
 [[王]]
 ==== 王 (wang2, king)
@@ -7975,6 +8017,21 @@ Words:
 * <<幸运>>
 * <<幸存>>
 
+[[性]]
+==== 性 (xing4, sex)
+
+Mnemonic: to **give birth** <<生>> to a **person** <<人>> you must first have **sex** <<性>>
+
+Words:
+
+* <<性交>>
+
+Translations:
+
+* suffix randomly added after adjective
+** <<临时性团队的组建和管理>>
+*** here for example, 性 modifies <<临时>>, literally "a group group (团队) of temporary nature"
+
 [[言]]
 ==== 言 (yan2, speak, say)
 
@@ -8007,10 +8064,24 @@ Words: <<衣服>>
 
 Characters: <<表>>
 
+[[乂]]
+==== 乂 (yi4, balance)
+
+Mnemonic: balance. Looks like a balance, and it is the symbol of **justice** <<义>>
+
+Characters:
+
+* <<交>>
+
+[[义]]
+==== 义 (yi4, justice)
+
+Mnemonic: a **balance** <<乂>> is the symbol of **justice** <<义>>
+
 [[疫]]
 ==== 疫 (yi4, epidemic)
 
-Mnemonic: the world's greatest **epidemic** which is making people **sick** (<<疫>>) is **coffee** (<<殳>>) drinking
+Mnemonic: the world's greatest **epidemic** which is making people **sick** (<<疒>>) is **coffee** (<<殳>>) drinking
 
 Words:
 
@@ -8090,6 +8161,7 @@ Translations:
 * the preceding sentence modifies the following sentence
 ** <<青铜兵器之殳简介>>
 *** here for example "青铜兵器" describes "殳" as in "'Shu', the bronze weapon".
+** <<海外生存之惑>>
 
 [[止]]
 ==== 止 (zhi3, stop)
@@ -8147,14 +8219,14 @@ Format:
 [[<<english-word>>]]
 ==== <<english-word>> (<<chinese-translation>>, <<chinese-translation>>)
 
-* <<chinese-translation>>
-** <<sentence containing in that sense>>
-* <<chinese-translation>>
-** <<sentence containing in that sense>>
+* <<chinese-translation>>: <<explanation of this usage>>
+* <<chinese-translation>>: <<explanation of this usage>>
 ....
 
+This section exists mostly to disambiguate the multiple possible Chinese translations of a given English word.
+
 [[close]]
-==== Close (关,合)
+==== Close (关, 合)
 
 * 关 TODO
 * 合 TODO close a book
@@ -8162,18 +8234,22 @@ Format:
 [[list]]
 ==== List (清单, 列表)
 
-* <<清单>>
-** <<购物清单>>
-* <<列表>>
-** <<现有王位觊觎者列表>>
+* <<清单>>: a small list created by one person for a particular purpose as in: <<购物清单>>
+* <<列表>>: an infinite list of all possible things of a given type as in: <<现有王位觊觎者列表>>
 
 [[for-example]]
 ==== For example (例如)
 
 * <<例如>>
 
+[[survive]]
+==== Survive (幸存, 生存)
+
+* <<幸存>>: survive one specific catastrophe as in: <<肺炎疫情下的武汉幸存者我是不幸之中幸运的人>>
+* <<生存>>: survive in more general terms, i.e. to earn enough food/money to live as in: <<生存游戏>>
+
 [[unlucky]]
-==== Unlucky (不幸, bu4 xing4)
+==== Unlucky (不幸)
 
 * <<不幸>>
 
@@ -8298,8 +8374,16 @@ Sentences:
 
 Characters:
 
-* 禁
+* <<禁>>
 * <<止>>
+
+[[禁运]]
+==== 禁运 (jin4 yun4, embargo)
+
+Characters:
+
+* <<禁>>
+* <<运>>
 
 [[理论]]
 ==== 理论 (li3 lun4, logic)
@@ -8316,6 +8400,23 @@ Characters:
 
 * <<临>>
 * <<时>>
+
+Words:
+
+* <<临时工>>
+
+Sentences:
+
+* <<中梵达成主教任命临时协议的背后盘算>>
+
+[[临时工]]
+==== 临时 (lin2 shi2 gong1, temporary work, day labour)
+
+Subwords:
+
+* <<临时>>
+
+Notes: https://en.wikipedia.org/wiki/Day_labor
 
 [[列表]]
 ==== 列表 (lie4 biao3, list)
@@ -8350,6 +8451,15 @@ Characters:
 Notes:
 
 * vs 比如 TODO https://chinese.stackexchange.com/questions/17537/what-is-the-difference-between-比如-and-例如
+
+[[六]]
+==== 六 (liu4, six)
+
+Mnemonic: we had **eight** <<八>> **pan lids** <<亠>>, but two broke, so we have **six** <<六>> left
+
+Characters:
+
+* <<交>>
 
 [[木头]]
 ==== 木头 (mu4 tou, wood, timber or log)
@@ -8408,6 +8518,36 @@ Characters:
 * <<审>>
 * <<查>>
 
+[[生存]]
+==== 生存 (sheng1 cun2, survive)
+
+Translations: <<survive>>
+
+Characters:
+
+* <<生>>
+* <<存>>
+
+Words:
+
+* <<生存游戏>>
+
+Sentences:
+
+* <<有多少人像我一样已经积极囤积生存物资几个月了>>
+
+[[生存游戏]]
+==== 生存游戏 (sheng1 cun2 you2 xi4, survival game)
+
+Subwords:
+
+* <<生存>>
+* 游戏 TODO
+
+Sentences:
+
+* https://zh.wikipedia.org/wiki/生存遊戲_(電子遊戲)
+
 [[台湾]]
 ==== 台湾 (tai2 wan1, Taiwan)
 
@@ -8444,6 +8584,8 @@ Characters:
 [[幸存]]
 ==== 幸运 (xing4 cun2, survive)
 
+Translations: <<survive>>
+
 Characters:
 
 * <<幸>>
@@ -8452,6 +8594,7 @@ Characters:
 Sentences:
 
 * <<肺炎疫情下的武汉幸存者我是不幸之中幸运的人>>
+** we can see that this can be used as in "to survive a specific catastrophe"
 
 [[幸运]]
 ==== 幸运 (xing4 yun4, lucky)
@@ -8460,6 +8603,18 @@ Characters:
 
 * <<幸>>
 * <<运>>
+
+Sentences:
+
+* <<肺炎疫情下的武汉幸存者我是不幸之中幸运的人>>
+
+[[性交]]
+==== 性交 (xing4 jiao1, sexual intercourse)
+
+Characters:
+
+* <<性>>
+* <<交>>
 
 [[衣服]]
 ==== 衣服 (yi1 fu, clothes)
@@ -8579,6 +8734,15 @@ Source: https://zhuanlan.zhihu.com/p/27498655
 
 Words: <<购物清单>>APP，即使<<你>>是购物狂也不用再担心了
 
+[[海外生存之惑]]
+==== 海外生存之惑 (hai3 wai4, The puzzle of surviving abroad (of China))
+
+Source: https://www.bbc.com/ukchina/simp/uk_life/contributions/2013/04/130409_life_foreigner_britain_home.shtml?MOB
+
+Words: 海外生存<<之>>惑
+
+Notes: this is the name of a 2013 series of lifestyle articles by BBC Chinese for Chinese living abroad (in the UK)
+
 [[目前该网站也和国内外很多大学的图书馆有合作例如武汉大学南京大学等等]]
 ==== 目前该网站也和国内外很多大学的图书馆有合作，例如武汉大学、南京大学等等 (mu4 qian2, At present, that website also cooperates with the libraries of universities in China and abroad such as Wuhan University, Nanjing University, etc.)
 
@@ -8609,12 +8773,39 @@ Source: https://zh.wikipedia.org/wiki/現有王位覬覦者列表
 
 Words: 现有王位觊觎者<<列表>>
 
+[[有多少人像我一样已经积极囤积生存物资几个月了]]
+==== 有多少人像我一样已经积极囤积生存物资几个月了？ (you3 duo1, How many people are like me and have been actively hoarding survival supplies for several months?)
+
+Source: https://pincong.rocks/question/22965 (http://web.archive.org/web/20200525111018/https://pincong.rocks/question/22965[archive])
+
+Words: 有多少人像我一样已经积极囤积<<生存>>物资几个月了
+
+Notes: posted in the context of <<corona>>
+
+[[中梵达成主教任命临时协议的背后盘算]]
+==== 中梵达成主教任命临时协议的背后盘算 (zhong1 fan4, The backstory behind the temporary Bishop appointment agreement reached between China and the Vatican)
+
+Source: https://www.bbc.com/zhongwen/simp/chinese-news-45655881 (https://web.archive.org/web/20190615000612/https://www.bbc.com/zhongwen/simp/chinese-news-45655881[archive])
+
+Words:
+
+* 中梵达成主教任命<<临时>>协议的背后盘算
+
+Notes: <<christianity>>
+
 [[中国大陆网络用语列表]]
 ==== 中国大陆网络用语列表 (zhog4 guo2, List of Mainland China Internet vocabulary)
 
 Source: https://zh.wikipedia.org/wiki/中国大陆网络用语列表
 
 Words: 现有王位觊觎者<<列表>>
+
+[[临时性团队的组建和管理]]
+==== 临时性团队的组建和管理 (lin2 shi2, Forming and managing a temporary team)
+
+Source: https://zhuanlan.zhihu.com/p/81708802 (http://web.archive.org/web/20200525113721/https://zhuanlan.zhihu.com/p/81708802[archive])
+
+Words: <<临时>><<性>>团队的组建和管理
 
 === English sentences
 
