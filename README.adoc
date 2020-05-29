@@ -2184,6 +2184,8 @@ The US first caved in in 1972 with the https://en.wikipedia.org/wiki/Shanghai_Co
 
 News:
 
+* 2020-05-26 https://www.taiwannews.com.tw/en/news/3940533 "Brazilian netizens fight back against CCP threats over Taiwan support"
+** It should also be mentioned that this campaign could be being used/created by pro-Bolsanaro politicians as a way to detract focus from the COVID-19 epidemic that is reaching its deadliest phase in Brazil, e.g.: https://twitter.com/PauloMartins10/status/1265038976617984002
 * 2020 <<corona>> and Taiwan:
 ** Taiwan was at a disadvantage during since it was not part of the https://en.wikipedia.org/wiki/World_Health_Organization[World Health Organization] and therefore could not get information as fast and influence decisions
 +
@@ -2304,6 +2306,14 @@ image::https://web.archive.org/web/20191107091847/https://www.rfa.org/english/ne
 ==== Hong Kong 香港
 
 News source: https://www.reddit.com/r/HongKong/ Became larger than `r/china` during the <<2019-hong-kong-anti-extradition-bill-protests>>.
+
+The solution to Hong Kong's problem is: give those people easy VISAs to leave China, with priority to the rich/educated ones. Give them free language courses on the country of arrival, and help them find jobs.
+
+News without sections:
+
+* 2020-05 National Security Law
+** 2020-05-29 https://www.bbc.co.uk/news/uk-52842303 "UK could offer 'path to citizenship' for Hong Kong's British passport holders"
+** 2020-05-24 https://www.theguardian.com/world/2020/may/24/beijing-to-impose-hong-kong-security-laws-without-delay
 
 ===== Hong Kong 97 SNES video game
 
@@ -2499,6 +2509,9 @@ At any point the Chinese government could make a request that they cannot deny.
 
 Some news:
 
+* 2018-12 https://en.wikipedia.org/wiki/Meng_Wanzhou[Meng Wanzhou] (孟晚舟), daughter of Huawei founder Ren Zhengfei (任正非) and Huawei CFO as of 2018, was arrested in Canada because the US accused her of breaking Iran sanctions
+** https://www.theglobeandmail.com/politics/article-michael-kovrig-michael-spavor-canadian-detainees-china-explainer/ "Why are Michael Kovrig and Michael Spavor still detained in China?" in apparent retaliation, under accusation of espionage.
+** 2020-05-27 https://techcrunch.com/2020/05/27/canada-court-finds-against-huawei-cfo-meng-wanzhou-on-double-criminality-extradition-trial-to-continue/ "https://techcrunch.com/2020/05/27/canada-court-finds-against-huawei-cfo-meng-wanzhou-on-double-criminality-extradition-trial-to-continue/"
 * 5G 2019-2020
 ** in 2020 the UK was trying hard to get kicked out of the 5 eyes in 2020 by using 5G equipment from Huawei
 ** https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html (https://web.archive.org/web/20200129023355/https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html[archive]) "UK will allow Huawei to help build its 5G network despite US pressure"
@@ -2568,6 +2581,8 @@ Some hell known companies and events:
 +
 .Chinese flag with Apple characteristics. https://techcrunch.com/2015/08/11/apple-shares-tumble-5-amidst-china-concerns/[Source].
 image::https://web.archive.org/web/20200305101324/https://techcrunch.com/wp-content/uploads/2015/04/apple-china.png?w=1390&crop=1[height=400]
+* JPMorgan
+** 2016-11 "Sons and Daughters" corruption hiring program for chidren of government officials: https://www.forbes.com/sites/antoinegara/2016/11/17/jpmorgan-agrees-to-pay-264-million-fine-for-sons-and-daughters-hiring-program-in-china/#46746e305688
 
 .2019 summary of companies that kowtow to China. https://twitter.com/hoho90272496/status/1182669015937966080[Source].
 image::https://web.archive.org/web/20191013075353if_/https://pbs.twimg.com/media/EGmvMb6XUAQgYq9?format=jpg&name=900x900[height=600]
