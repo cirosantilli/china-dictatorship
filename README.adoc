@@ -2663,6 +2663,8 @@ ____
 Hi <idiot's name>, if you want a reply, please open an issue at: https://github.com/cirosantilli/china-dictatorship/issues
 ____
 
+Note however that this is not possible on idiotic websites like <<quora>> where such comments may be deleted, possibly automatically, who the fuck knows, e.g. as done at: https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli/comment/143227962 In that case just link to sections of the FAQ, or mute people, or maybe just block all comments on the post to not waste time with new useless notifications.
+
 This is because it is not worth answering anywhere else where the information will be scattered and impossible to find later on, and especially on websites that are already blocked in China. Shitposts on Stack Overflow and other non-blocked websites are encouraged however, as they further help to get the website blocked in China.
 
 For outbursts of activity from Chinese websites, usually programming (<<backlinks,v2ex, hacpai, pingcong>>), only post the following canned answer and nothing else, because cowards/people who don't know English from the website might delete your posts, so you shouldn't waste time there with that shit:
@@ -5930,6 +5932,8 @@ Bibliography:
 * 2015-03 China forces real usernames on the net, and provoking ones
 ** https://advox.globalvoices.org/2015/04/16/new-internet-rules-in-china-target-usernames-avatars-as-subversive-tools/ "New Internet Rules in China Target Usernames, Avatars as Subversive Tools"
 ** https://www.engadget.com/2015/02/28/china-username-policy-purge/ "Chinese internet giants purge 60,000 accounts for inappropriate usernames"
+
+And guess which idiotic Western website requires real usernames and no privacy? <<quora>>, of course: https://techcrunch.com/2011/02/14/quora-to-oddly-named-users-papers-please/
 
 [[social-credit-system]]
 === Social Credit System 社会信用体系
