@@ -1104,19 +1104,22 @@ See also: <<richer>>.
 [[snowden]]
 ===== Snowden 斯诺登
 
-https://en.wikipedia.org/wiki/Edward_Snowden | https://zh.wikipedia.org/wiki/爱德华·斯诺登
+* https://en.wikipedia.org/wiki/Edward_Snowden
+* https://zh.wikipedia.org/wiki/爱德华·斯诺登
+
+Censoring anyone who says "my president is shit", which is what China does, is much, much more serious than censoring intelligence leaks.
+
+The problem with dictatorships, is that they make _every_ information that makes them look bad a "state secret". Including any information that hundreds of thousands of people have witnessed, or economic performance metrics! See also: <<internal-censorship>>.
 
 The level of unknown surveillance that Snowden uncovered is a bad thing about the US.
-
-However, it is obvious that the level of surveillance in any dictatorship will be infinitely higher, since the Government has much more power.
 
 Snowden's prosecution was inevitable. Countries need secret services. Secret services need laws that prevent leaking classified information that was produced by government officials.
 
 <<ciro-santilli>> has never and will never criticize China or any other country for spying or prosecuting spies.
 
-The problem with dictatorships, is that they make _every_ information that makes them look bad a "state secret". Including any information that hundreds of thousands of people have witnessed, or economic performance metrics! See also: <<internal-censorship>>.
-
 If Snowden were Chinese, the Chinese government would ban talking about him or anything he uncovered. A <<keyword-attack,keyword attack>> with "Snowden" in the West has no effect.
+
+It is obvious that the level of surveillance in any dictatorship will be infinitely higher, since the Government has much more power and no-one can criticize.
 
 On the West however, the debate Snowden sparked cannot be censored, and has helped to control excessive and secret state power.
 
