@@ -2441,6 +2441,13 @@ The most obvious thing is to go https://en.wikipedia.org/wiki/Tit_for_tat[tit fo
 * https://www.facebook.com/globaltimesnews/
 ** 2020-04-07 https://www.vice.com/en_uk/article/9397v8/chinas-been-flooding-facebook-with-shady-ads-blaming-trump-for-the-coronavirus-crisis "China's Been Flooding Facebook With Shady Ads Blaming Trump for the Coronavirus Crisis"
 
+Some websites have started marking such accounts, which is a great start, but a straight ban would be better:
+
+* YouTube in 2018: https://www.theverge.com/2018/2/2/16964190/youtube-state-funded-broadcasters
+* Facebook in 2020: https://techcrunch.com/2020/06/04/facebook-adds-labels-identifying-state-controlled-media/
+
+But then those websites would lose ad revenue, right? :-)
+
 News about Chinese state media using Western social media:
 
 * 2016 https://qz.com/671211/chinas-propaganda-outlets-have-leaped-the-top-of-facebook-even-though-it-banned-at-home/ "China’s propaganda news outlets are absolutely crushing it on Facebook"
