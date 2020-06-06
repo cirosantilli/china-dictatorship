@@ -4873,7 +4873,7 @@ video::6OOlXJs4I8k[youtube,height=400,width=600]
 
 Chinese:
 
-* https://www.youtube.com/watch?v=m7uk0-vlpP0 "Nothing to My Name (一無所有)" by Cui Jian (崔健) from 1986
+* https://www.youtube.com/watch?v=m7uk0-vlpP0 "Nothing to My Name (一無所有)" by Cui Jian (崔健) from 1986, therefore around the time of <<chinese-student-demonstrations-1986>>
 ** Lyrics and translation https://eastasiastudent.net/china/mandarin/cui-jian-nothing-to-my-name/
 ** Chorus: "你合适跟我走" which translates to "When will you walk with me?" Could be talking directly to the Government.
 ** The singer is/was very popular, the song was composed in 1986, but was very popular at the time of the protests, and became kind of a hymn.
@@ -4963,13 +4963,13 @@ image::https://web.archive.org/web/20200301203622if_/https://66.media.tumblr.com
 
 Words:
 
-* 六四学潮, which is also very close in form to the earlier: <<1986-chinese-student-demonstrations>>
+* 六四学潮, which is also very close in form to the earlier: <<chinese-student-demonstrations-1986>>
 
 Lists:
 
 * https://qz.com/698990/261-ways-to-refer-to-the-tiananmen-square-massacre-in-china/ 261 ways to refer to the Tiananmen Square Massacre in China
 
-[[1986-chinese-student-demonstrations]]
+[[chinese-student-demonstrations-1986]]
 ===== 1986 Chinese student demonstrations 八六学潮
 
 * https://en.wikipedia.org/wiki/1986_Chinese_student_demonstrations
@@ -5066,7 +5066,7 @@ On 2020-06-03, one day before <<tiananmen>> anniversary, he spoke up against the
 
 Reactions:
 
-* https://pincong.rocks/article/19974 "郝海东这个事情，让你匪进退两难"
+* https://pincong.rocks/article/19974 "郝海东这个事情，让你匪进退两难" on <<pincong>>
 
 ===== Zhihu censorship of Hao Haidong
 
