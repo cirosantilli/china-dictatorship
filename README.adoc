@@ -1378,7 +1378,7 @@ video::ZT2z0nrsQ8o[youtube,height=400,width=600]
 [[anti-russia-dictatorship-info-sources]]
 ==== Anti Russia dictatorship sources
 
-* https://www.rferl.org/ Radio Free Europe: USA funded sister media of <<radio-free-asia>>: https://en.wikipedia.org/wiki/Radio_Free_Europe/Radio_Liberty
+* https://www.rferl.org/ Radio Free Europe: USA funded sister media of <<rfa>>: https://en.wikipedia.org/wiki/Radio_Free_Europe/Radio_Liberty
 * https://meduza.io/en
 
 [[ccp-evil]]
@@ -4765,64 +4765,88 @@ video::qMZgoRuPJBg[youtube,height=400,width=600]
 .https://youtube.com/watch?v=3uQcGcGGepw "Latest Spate Of Violent Unrest In Lhasa And The Imposition Of Martial Law" by AP Archive
 video::3uQcGcGGepw[youtube,height=400,width=600]
 * 1978-1979 Beijing Spring
-** https://en.wikipedia.org/wiki/Beijing_Spring | https://zh.wikipedia.org/wiki/北京之春
-** https://en.wikipedia.org/wiki/Xidan[Xidan (西单)] Democracy Wall https://en.wikipedia.org/wiki/Democracy_Wall | https://zh.wikipedia.org/wiki/西单民主墙
+** https://en.wikipedia.org/wiki/Beijing_Spring
+** https://zh.wikipedia.org/wiki/北京之春
+** https://en.wikipedia.org/wiki/Xidan[Xidan (西单)] Democracy Wall
+*** https://en.wikipedia.org/wiki/Democracy_Wall
+*** https://zh.wikipedia.org/wiki/西单民主墙
 +
-.https://en.wikipedia.org/wiki/File:Xidan_Wall,_May_1979.jpg[Source].
+.Xidan democracy wall. https://en.wikipedia.org/wiki/File:Xidan_Wall,_May_1979.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/2/2a/Xidan_Wall%2C_May_1979.jpg[height=400]
 
 [[tiananmen]]
 ==== Tiananmen Square Protests of 1989 六四事件
 
-https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989 | https://zh.wikipedia.org/wiki/六四事件
+* https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989
+* https://zh.wikipedia.org/wiki/六四事件
 
-* https://en.wikipedia.org/wiki/Goddess_of_Democracy https://zh.wikipedia.org/wiki/中国国际广播电台
-* AP footage is pretty good, just do a search on the archive:
+Good photo selections:
+
+* 2014 https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/ "Photos: The 1989 Tiananmen Square Protests". This is one of Ciro's favorite photo selections.
+* 2014 http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/ (https://web.archive.org/web/20190607142501/http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[archive]) a few gory photos
+* 2015 https://allthatsinteresting.com/tiananmen-square-massacre "The Hidden History Of The Tiananmen Square Massacre"
+* 2019 https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary "These Horrifying Pictures Show The Tiananmen Square Protests Like You've Never Seen Them"
+
+AP footage is pretty good, just do a search on the archive:
+
 ** https://www.aparchive.com/metadata/China-Student-Demonstrations/5d1cd01250c9e5e9397f20ef9f1327df
 ** https://www.aparchive.com/metadata/China-Student-Demonstrations/cfc6890746010c73f9414e20906268aa
-* Soldiers who spoke up
-** Zhang Shijun is the most notable soldier who spoke up it seems:
-*** https://chinadigitaltimes.net/2009/03/china-detains-writer-of-critical-web-letter-to-hu/
-*** https://www.rfa.org/english/news/china/flashbacks-06042018133558.html
-*** https://www.theguardian.com/world/2009/mar/20/tiananmen-square-china-zhang-shijun
-** Li Xiaoming
-*** https://www.sbs.com.au/news/soldier-reveals-his-shame-over-tiananmen-square-massacre-30-years-on
-*** 
-* Good photo selections:
-** 2014 https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/ "Photos: The 1989 Tiananmen Square Protests" 
-** 2014 http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/ (https://web.archive.org/web/20190607142501/http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[archive]) a few gory photos
-** 2015 https://allthatsinteresting.com/tiananmen-square-massacre "The Hidden History Of The Tiananmen Square Massacre"
-** 2019 https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary "These Horrifying Pictures Show The Tiananmen Square Protests Like You've Never Seen Them"
 
-.Sea of protesters in Tiananmen Square. No, not even that many people can influence dictatorships if they don't have weapons. https://abcnews.go.com/International/tiananmen-square-29th-anniversary-crackdown/story?id=55564966[Source].
+Soldiers who spoke up:
+
+* Zhang Shijun (张世军) is perhaps the most notable soldier who spoke up:
+** 2018-06-04 RFA interview
+*** https://www.rfa.org/english/news/china/flashbacks-06042018133558.html
+*** https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/ql2-06042018103250.html
+** 2009-03 published an open letter
+*** https://chinadigitaltimes.net/2009/03/china-detains-writer-of-critical-web-letter-to-hu/
+*** https://www.theguardian.com/world/2009/mar/20/tiananmen-square-china-zhang-shijun "Zhang Shijun taken from home in middle of the night after publishing open letter to Chinese president Hu Jintao"
+* Li Xiaoming
+** https://www.sbs.com.au/news/soldier-reveals-his-shame-over-tiananmen-square-massacre-30-years-on
+
+Interesting links:
+
+.Sea of protesters in Tiananmen Square on 2019-05-04. No, not even that many people can influence dictatorships if they don't have weapons. https://abcnews.go.com/International/tiananmen-square-29th-anniversary-crackdown/story?id=55564966[Source].
 image::https://web.archive.org/web/20190714002904im_/https://s.abcnews.com/images/International/tiananmen-massacre-gty-04-jpo-180531_hpEmbed_3x2_992.jpg[height=600]
 
 [[pu-zhiqiang-shirt]]
-.https://en.wikipedia.org/wiki/Pu_Zhiqiang[Pu Zhiqiang (浦志强)], a student demonstrator during the Tiananmen Square protests of 1989. His shirt reads: "Freedom of the press, freedom of association, support the 'https://en.wikipedia.org/wiki/World_Economic_Herald[World Economic Herald (世界经济导报)]', and support just journalists." (辦報自由 結社自由 聲援link:https://zh.wikipedia.org/wiki/世界经济导报[世经导报] 支持正义记者, full quoted https://cinacn.blogspot.com/2001/07/28.html[here]) May 10, 1989. Pu remained in China as a human rights layer, and https://www.bbc.co.uk/news/world-asia-china-35157525[was arrested in 2014] for attending a private meeting commemorating the 25th anniversary of Tiananmen. https://allthatsinteresting.com/tiananmen-square-massacre[Source].
+.https://en.wikipedia.org/wiki/Pu_Zhiqiang[Pu Zhiqiang (浦志强)] was student demonstrator during the Tiananmen Square protests of 1989. His shirt reads: "Freedom of the press, freedom of association, support the 'link:https://en.wikipedia.org/wiki/World_Economic_Herald[World Economic Herald] (link:https://zh.wikipedia.org/wiki/世界经济导报[世界经济导报])', and support just journalists." (辦報自由 結社自由 聲援世经导报 支持正义记者, fully quoted https://cinacn.blogspot.com/2001/07/28.html[here]) Date: 1989-05-10. Pu remained in China as a human rights layer, and https://www.bbc.co.uk/news/world-asia-china-35157525[was arrested in 2014] for attending a private meeting commemorating the 25th anniversary of Tiananmen. https://allthatsinteresting.com/tiananmen-square-massacre[Source].
 image::https://web.archive.org/web/20191123101626im_/https://allthatsinteresting.com/wordpress/wp-content/uploads/2015/06/pu-zhiqiang-protest.jpg[height=500]
 
-.Students from Beijing University stage a huge demonstration in Tiananmen Square as they start an unlimited hunger strike as the part of mass pro-democracy protest against the Chinese government, on May 18, 1989. Catherine Henriette/AFP/Getty Images. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
+.Students from Beijing University stage a huge demonstration in Tiananmen Square as they start an unlimited hunger strike as the part of mass pro-democracy protest against the Chinese government. Photo taken on 1989-05-18 by Catherine Henriette/AFP/Getty Images. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::https://web.archive.org/web/20190816074546im_/https://cdn.theatlantic.com/assets/media/img/photo/2014/06/tiananmen-square-25-years-ago/t04_52017200/main_1200.jpg?1420497899[height=400]
 
-.Happy protesters surround army convoy of 4,000 not so happy soldiers on May 20, 1989. Ciro can't help but to think the politically incorrect idea that the military <<uneducated-masses,look considerably younger and poorer/less uneducated than the Beijing masses>>. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
-image::https://web.archive.org/web/20191104220423im_/https://media.pri.org/s3fs-public/styles/w2304/public/images/2019/06/20190601tiananmen9.jpg?itok=UciBSEHP[]
+.Who said there weren't some cute girls amongst the protesters? Photo taken on 1989-05-19 by AP Photo/Sadayuki Mikami. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
+image::https://web.archive.org/save/_embed/https://cdn.theatlantic.com/thumbor/cZeSbYpJs_khdHf8TAw3Qvbn6B4=/1200x792/media/img/photo/2014/06/tiananmen-square-25-years-ago/t07_05190321/original.jpg[height=500]
 
-.A young woman is caught between civilians and Chinese soldiers, who were trying to remove her from an assembly near the Great Hall of the People in Beijing, on June 3, 1989. AP Photo/Jeff Widener. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
+.Happy protesters surround army convoy of 4,000 not so happy soldiers on 1989-05-20. Ciro can't help but to think the politically incorrect idea that the military <<uneducated-masses,look considerably younger and poorer/less uneducated than the Beijing masses>>. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
+image::https://web.archive.org/web/20191104220423im_/https://media.pri.org/s3fs-public/styles/w2304/public/images/2019/06/20190601tiananmen9.jpg?itok=UciBSEHP[height=500]
+
+.A young woman is caught between civilians and Chinese soldiers, who were trying to remove her from an assembly near the Great Hall of the People in Beijing, on 1989-06-03. AP Photo/Jeff Widener. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::https://web.archive.org/web/20190816074546im_/https://cdn.theatlantic.com/assets/media/img/photo/2014/06/tiananmen-square-25-years-ago/t21_06030443/main_1200.jpg?1420497909[height=400]
+
+.A student from an art institute plasters the neck of the https://en.wikipedia.org/wiki/Goddess_of_Democracy["Goddess of Democracy"] (https://zh.wikipedia.org/wiki/中国国际广播电台[中国国际广播电台]) statue on 1989-05-30. Replicas have of course been erected elsewhere, and when the CCP falls one day, this _will_ be rebuilt, obviously. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
+image::https://web.archive.org/web/20200421010417im_/https://cdn.theatlantic.com/thumbor/oudU4NOY5BeMRSM_98O4YaM6LbY=/1200x848/media/img/photo/2014/06/tiananmen-square-25-years-ago/t15_52017205/original.jpg[height=600]
+
+.An old lady tells those rowdy overpriviledged students that they were complaining for no reason, and that in the <<cultural-revolution,good old Mao days you would be lucky to get any food at all>>, and that they should just go the fuck home  on 1989-05-31 (Ciro might or might not have made up the exact content of the conversation). https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
+image::https://web.archive.org/web/20200421010417im_/https://cdn.theatlantic.com/thumbor/HIH46DVylDqlD1IufGoMFqpr-NQ=/1200x785/media/img/photo/2014/06/tiananmen-square-25-years-ago/t19_05310168/original.jpg[height=500]
+
+.A dissident student asks masses of sitting soldiers to go back home on 1989-06-03. Great shot composition by AP Photo/Jeff Widener. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
+image::https://web.archive.org/web/20200421010417im_/https://cdn.theatlantic.com/thumbor/jIIQWdS_M2KrvQvRUFz1lYXe9Qo=/1200x857/media/img/photo/2014/06/tiananmen-square-25-years-ago/t20_52010900/original.jpg[height=500]
 
 .Godzilla https://en.wikipedia.org/wiki/Li_Peng[Li Peng (李鹏)] crushing the Tiananmen Square protests with his green eye laser beams. https://en.uncyclopedia.co/wiki/File:Li_at_Tiananmen_Eyebeams.jpg[Source].
 image::https://web.archive.org/web/20200313094607if_/https://images.uncyclomedia.co/uncyclopedia/en/d/dd/Li_at_Tiananmen_Eyebeams.jpg[height=400]
 
-.Protester covered in blood holding an army helmet. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
+.Protester covered in blood while holding an army helmet on 1989-06-04. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
 image::https://web.archive.org/web/20191104220423im_/https://media.pri.org/s3fs-public/styles/w2304/public/images/2019/06/20190601tiananmen5.jpg?itok=ex5BwXbv[height=500]
 
-.Bodies by the road in after the Tiananmen Square Protests were crushed. http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[Source].
+.Bodies run over by tanks by the road in after the Tiananmen Square Protests were crushed in the morning of 1989-06-05. The source website is by French journalist https://en.wikipedia.org/wiki/Ursula_Gauthier[Ursula Gauthier], who explains how those photos were taken by one of the students of the group, who later asked her to take the photos abroad to publish them. The students were some of the last to leave after the crackdown, and they were trying to scape through a small street that leads into https://en.wikipedia.org/wiki/Chang%27an_Avenue[Chang'an Avenue] (https://zh.wikipedia.org/wiki/长安街[长安街]) when the tanks came at high speed near Liubukou crossroads (TODO Chinese name) half mile West of Tiananmen square, and not all students were able evade the tanks. https://www.theguardian.com/world/1999/jun/01/china.johngittings2 mentions that some bodies had to be scrapped-off the street. Ursula was later kicked out of China in 2015 after commenting that the CCP had ulterior motives for giving their condolences to the https://en.wikipedia.org/wiki/November_2015_Paris_attacks[November 2015 Paris attacks]. Interesting fact: Ciro was actually less than 1km away from one of the Paris attacks on that night, at his home, and first learnt about what had happened when people started calling to see if he was fine. http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[Source].
 image::https://web.archive.org/web/20190607142501im_/http://www.ursulagauthier.fr/wp-content/uploads/2014/10/Tiananmen-7-715x1024.jpg[height=600]
 
-.Bodies with gun wounds at the mortuary at Shuili hospital. https://www.nytimes.com/2019/05/30/world/asia/tiananmen-square-protest-photos.html[Source].
+.Bodies with gun wounds at the mortuary at Shuili Hospital (水利医院, Hospital of the Ministry of Water Resources of China, https://goo.gl/maps/xAy55T3sydW8X81M6[Google maps], https://bkso.baidu.com/item/水利医院[Baidu], https://cn.nytimes.com/china/20190531/tiananmen-square-protest-photos/[New York Times Chinese report]), about 8km West of Tiananmen Square. https://www.nytimes.com/2019/05/30/world/asia/tiananmen-square-protest-photos.html[Source].
 image::https://web.archive.org/web/20191208063503if_/https://static01.nyt.com/images/2019/05/30/world/00tiananmen-images-15/00tiananmen-images-15-superJumbo.jpg[height=500]
 
-.A Chinese couple on a bicycle take cover beneath an underpass as tanks deploy overhead in eastern Beijing, on June 5, 1989. AP Photo/Liu Heung Shing. This one is almost poetic. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
+.A Chinese couple on a bicycle take cover beneath an underpass as tanks deploy overhead in eastern Beijing on 1989-06-05 by AP Photo/Liu Heung Shing. This photo one is almost poetic. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::https://web.archive.org/web/20190816074546im_/https://cdn.theatlantic.com/assets/media/img/photo/2014/06/tiananmen-square-25-years-ago/t42_06050128/main_1200.jpg?1420497920[height=800]
 
 .Family members try to comfort a mother who has just learned of her son's death after he was killed by soldiers at Tiananmen Square, June 4. https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary[Source].
@@ -4890,11 +4914,11 @@ Good list of all known photos: https://blogs.wsj.com/chinarealtime/2014/05/30/th
 
 A list of Tank Man parodies can be found at: https://knowyourmeme.com/memes/tank-man
 
-CNN video of Tank Man: https://www.youtube.com/watch?v=YeFzeNAHEhU[] but not showing removal, ridiculous, is there a full raw footage somewhere?
+.https://www.youtube.com/watch?v=YeFzeNAHEhU CNN video of Tank Man:  but not showing removal, ridiculous, is there a full raw footage somewhere?
+video::YeFzeNAHEhU[youtube,height=400,width=600]
 
-Several quick cuts by CBS news that give a good overview: https://www.youtube.com/watch?v=vSbx352cn8A
-
-Full lyrics: https://gist.github.com/cirosantilli/698afcd05c5ad94297000f8c60b43473
+.https://www.youtube.com/watch?v=vSbx352cn8A Several quick cuts by CBS news that give a good overview of the incident, including him being pushed away by other protesters at the end.
+video::YeFzeNAHEhU[youtube,height=400,width=600]
 
 The <<tank-man-song,Tank Man song>> is really good:
 
@@ -4905,6 +4929,8 @@ ____
 I am tank man +
 I stand at Tiananmen
 ____
+
+Full lyrics: https://gist.github.com/cirosantilli/698afcd05c5ad94297000f8c60b43473
 
 [[tank-man-song]]
 .https://www.youtube.com/watch?v=z8A623aImt8 Tank Man song (坦克人歌曲) by Xu Lin (徐琳).
@@ -5277,10 +5303,11 @@ Partial support:
 
 * https://en.wikipedia.org/wiki/Boxun https://zh.wikipedia.org/wiki/博讯
 
-[[radio-free-asia]]
-===== Radio Free Asia 自由亚洲电台
+[[rfa]]
+===== Radio Free Asia (RFA) 自由亚洲电台
 
-https://en.wikipedia.org/wiki/Radio_Free_Asia | https://zh.wikipedia.org/wiki/自由亚洲电台
+* https://en.wikipedia.org/wiki/Radio_Free_Asia
+* https://zh.wikipedia.org/wiki/自由亚洲电台
 
 Website: https://www.rfa.org
 
@@ -5357,7 +5384,7 @@ Other cartoonists/illustrators:
 
 Without a doubt, the greatest anti-Communist joke cartoonist of the 2010s.
 
-As of 2019 he does work for xref:radio-free-asia[], so a possible list of all cartoons of this era can be found at: https://www.rfa.org/english/cartoons/story_archive
+As of 2019 he does work for xref:rfa[], so a possible list of all cartoons of this era can be found at: https://www.rfa.org/english/cartoons/story_archive
 
 His best work can be found scattered throughout this document in the relevant sections.
 
@@ -5764,7 +5791,7 @@ It is also worth noting that as mentioned at <<is-stack-overflow-blocked-in-chin
 
 A group that produces tools and websites against censorship in China, central website: https://greatfire.org/
 
-Backed by <<radio-free-asia>> and therefore USA Government.
+Backed by <<rfa>> and therefore USA Government.
 
 Main tools:
 
@@ -6127,6 +6154,21 @@ TODO is is blocked by <<gfw>> or not? <<greatfire>> just hangs forever on it, e.
 
 * https://zh.greatfire.org/test?url=https%3A//pincong.rocks
 * https://zh.greatfire.org/test?url=https%3A//pincong.rocks/question/6601
+
+[[mohu]]
+==== Mohu 膜乎
+
+https://www.mohu.rocks
+
+Website openly anti-CCP, e.g. the signup page has <<xi-jinping>> jokes. Very similar appearance to <<pincong>>, likely same engine. https://pincong.rocks/question/24489 asks what is their relationship "请问一下品葱和膜乎之间是什么关系？"
+
+Backlinks to this page:
+
+* 2020-06-03 https://www.mohu.rocks/article/2227 (http://web.archive.org/web/20200606065812/https://www.mohu.rocks/article/2227[archive]) "专门开一个帖子，以后会把从各处搜刮来的六四学潮的视频、历史、文章之类放在这" (I'm creating this post to collect all the videos, history, articles, etc. that can be found anywhere about the <<tiananmen,Tiananmen Square protests>>)
+** Then one of the replies by "习羊羊与灰战狼" was "https://github.com/cirosantilli/china-dictatorship "提供一个很全的链接，几乎可以算是反共手册。里面的4.7是谈六四的" (Here is one very complete link, it could almost be considered an anti-CCP manual. Section 4.7 of that page is about Tiananmen.)
+
+https://github.com/cirosantilli/china-dictatorship
+提供一个很全的链接，几乎可以算是反共手册。里面的4.7是谈六四的。
 
 == Other sections
 
