@@ -253,7 +253,8 @@ Virus outbreaks and other natural disasters also illustrate this well: <<corona>
 [[corona]]
 ===== Censorship of the 2019 Corona Virus 2019冠状病毒病早期迹象审查
 
-https://en.wikipedia.org/wiki/Coronavirus_disease_2019 | https://zh.wikipedia.org/wiki/2019冠状病毒病
+* https://en.wikipedia.org/wiki/Coronavirus_disease_2019
+* https://zh.wikipedia.org/wiki/2019冠状病毒病
 
 The Chinese Government censored the initial outbreak in January and did not inform Wuhan on January 8, which likely made the situation much worse than what it could have been.
 
@@ -1186,7 +1187,9 @@ While we are at it, some interesting news:
 * 2017 https://www.bbc.co.uk/news/world-europe-40635267 Russia Jehovah's Witnesses banned after they lose appeal
 * 2017 https://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay
 * 2016 https://news.vice.com/en_us/article/kzgkv3/russians-now-need-a-passport-to-watch-pornhub
-* 1995 Vladislav Listyev https://en.wikipedia.org/wiki/Vladislav_Listyev | https://ru.wikipedia.org/wiki/Листьев,_Владислав_Николаевич
+* 1995 Vladislav Listyev
+** https://en.wikipedia.org/wiki/Vladislav_Listyev
+** https://ru.wikipedia.org/wiki/Листьев,_Владислав_Николаевич
 
 Poisonings: Russia apparently has a long list of poisoning political enemies: https://nypost.com/2018/06/23/inside-russias-long-history-of-poisoning-political-enemies/
 
@@ -1216,13 +1219,18 @@ Other random stuff:
 [[putin]]
 ===== Putin Путин 普京 (1999-2008, 2012-∞)
 
-https://en.wikipedia.org/wiki/Vladimir_Putin | https://ru.wikipedia.org/wiki/Путин,_Владимир_Владимирович
+* https://en.wikipedia.org/wiki/Vladimir_Putin
+* https://ru.wikipedia.org/wiki/Путин,_Владимир_Владимирович
+
+Coverage:
 
 * 2019-12-19: Putin proposes abolishing term limits. <<xi-abolishes-term-limits-2018-03,Learnt from Xi>>:
 ** https://www.independent.co.uk/news/world/europe/putin-presidential-term-limit-russia-moscow-conference-today-a9253156.html
 ** https://uk.reuters.com/article/uk-russia-putin-constitution/putin-says-hes-open-to-tweaking-presidential-term-limits-idUKKBN1YN1JO
 ** 2020-03-25 vote delayed due to <<corona>>
-* 2014 https://en.wikipedia.org/wiki/Putin_khuylo! | https://ru.wikipedia.org/wiki/Путин_—_хуйло!
+* 2014 Putin khuylo!
+** https://en.wikipedia.org/wiki/Putin_khuylo!
+** https://ru.wikipedia.org/wiki/Путин_—_хуйло!
 
 [[superputin]]
 ====== Superputin
@@ -1275,7 +1283,8 @@ image::https://web.archive.org/web/20191022004820if_/https://en.euractiv.eu/wp-c
 [[skripal]]
 ====== The poisoning of Sergei and Yulia Skripal Серге́й Ви́кторович Скрипáль (2018-03-04)
 
-https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal | https://ru.wikipedia.org/wiki/Отравление_Сергея_и_Юлии_Скрипаль
+* https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal
+* https://ru.wikipedia.org/wiki/Отравление_Сергея_и_Юлии_Скрипаль
 
 In 4 March 2018, the Russian double agent and his daughter were poisoned with https://en.wikipedia.org/wiki/Novichok_agent[Novichok agent] (https://ru.wikipedia.org/wiki/Новичок_(отравляющие_вещества)[Новичо́к]), a Soviet-era nerve agent, which was likely put on their front door knob in https://en.wikipedia.org/wiki/Salisbury[Salisbury, UK], exact address https://goo.gl/maps/oKASuLWpcSmLqL8F9[Christie Miller Road]! Straight out of a spy novel.
 
@@ -1311,7 +1320,8 @@ Related:
 [[litvinenko]]
 ====== The murder of Alexander Litvinenko Литвиненко, Александр Вальтерович (2006)
 
-https://en.wikipedia.org/wiki/Alexander_Litvinenko | https://ru.wikipedia.org/wiki/Литвиненко,_Александр_Вальтерович
+* https://en.wikipedia.org/wiki/Alexander_Litvinenko
+* https://ru.wikipedia.org/wiki/Литвиненко,_Александр_Вальтерович
 
 Poisoned with polonium-210:
 
@@ -1976,7 +1986,9 @@ Tencent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-ba
 
 ==== Where can I find good words for a keyword attack?
 
-* https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China | https://zh.wikipedia.org/wiki/中华人民共和国网络审查
+* List of blacklisted keywords in China
+** https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China
+** https://zh.wikipedia.org/wiki/中华人民共和国网络审查
 * https://github.com/jasonqng/chinese-keywords
 * https://github.com/cirosantilli/media/raw/master/complete-gfw-rulebook-for-wikipedia-v3.0.pdf[Complete GFW Rulebook for Wikipedia v3.0]
 * https://chinadigitaltimes.net This is was an amazing source, extremely comprehensive and up-to-date, but the series was stopped in September 2018:
@@ -2088,7 +2100,8 @@ Query to find them: https://data.stackexchange.com/stackoverflow/query/312863/me
 
 ===== Notepad++
 
-https://en.wikipedia.org/wiki/Notepad++ | https://en.wikipedia.org/wiki/Notepad++
+* https://en.wikipedia.org/wiki/Notepad++
+* https://en.wikipedia.org/wiki/Notepad++
 
 It might be a newbie text editors for newbie Windows users, but at least they use it to good use by doing keyword attacks:
 
@@ -2122,7 +2135,8 @@ See also: <<western-democracies-have-invaded-other-countries-and-crushed-separat
 [[taiwan]]
 ==== Taiwan 台湾 Republic of China 中華民國
 
-https://en.wikipedia.org/wiki/Taiwan | https://zh.wikipedia.org/wiki/中华民国
+* https://en.wikipedia.org/wiki/Taiwan
+* https://zh.wikipedia.org/wiki/中华民国
 
 If you are interested in Taiwan, one important programmer forum is: <<ptt>>.
 
@@ -2133,7 +2147,8 @@ Some interesting links:
 [[one-china-policy]]
 ===== One China policy 一个中国
 
-https://en.wikipedia.org/wiki/One-China_policy | https://zh.wikipedia.org/wiki/一个中国
+* https://en.wikipedia.org/wiki/One-China_policy
+* https://zh.wikipedia.org/wiki/一个中国
 
 Taiwan is not a case of <<separatism>>.
 
@@ -2320,7 +2335,8 @@ News without sections:
 
 ===== Hong Kong 97 SNES video game
 
-https://en.wikipedia.org/wiki/Hong_Kong_97_(video_game) | https://zh.wikipedia.org/wiki/香港97_(遊戲)
+* https://en.wikipedia.org/wiki/Hong_Kong_97_(video_game)
+* https://zh.wikipedia.org/wiki/香港97_(遊戲)
 
 1995 video game realistically depicts the fight of Hong Kong against the Communist Party predicted to happen https://en.wikipedia.org/wiki/Handover_of_Hong_Kong[at the handover], featuring Bruce Lee (often represented as <<entertainers-who-support-the-ccp,Jackie Chan>>) who returned from the grave to join the fight and kick <<jiang-zemin,Jiang Zemin's>> ass.
 
@@ -2442,7 +2458,7 @@ The most obvious thing is to go https://en.wikipedia.org/wiki/Tit_for_tat[tit fo
 *** 2020-06-12 https://www.theguardian.com/technology/2020/jun/12/twitter-deletes-170000-accounts-linked-to-china-influence-campaign "Twitter deletes 170,000 accounts linked to China influence campaign"
 *** The Chinese government later contested this decision: https://variety.com/2020/digital/asia/china-victim-wants-twitter-to-delete-attackers-1234633860/
 ** Accounts that should be deleted
-*** https://twitter.com/globaltimesnews | https://archive.is/7oshu
+*** https://twitter.com/globaltimesnews https://archive.is/7oshu
 * https://www.youtube.com/user/ChinaViewTV/featured
 * https://www.facebook.com/globaltimesnews/
 ** 2020-04-07 https://www.vice.com/en_uk/article/9397v8/chinas-been-flooding-facebook-with-shady-ads-blaming-trump-for-the-coronavirus-crisis "China's Been Flooding Facebook With Shady Ads Blaming Trump for the Coronavirus Crisis"
@@ -2631,7 +2647,10 @@ https://github.com/caffeine-overload/bandinchina
 
 Contains a "List of companies who have apologized to the Chinese government and implemented censorship requests".
 
-It only lists companies that implemented censorship outside of China however (with Hong Kong, <<taiwan,Taiwan>> and Macau defined as outside of China), therefore it is basically a Taiwan flag takedown + Hong Kong / Taiwan censorship list: https://github.com/caffeine-overload/bandinchina/pull/56#issuecomment-541230090 | https://github.com/caffeine-overload/bandinchina/pull/84
+It only lists companies that implemented censorship outside of China however (with Hong Kong, <<taiwan,Taiwan>> and Macau defined as outside of China), therefore it is basically a Taiwan flag takedown + Hong Kong / Taiwan censorship list:
+
+* https://github.com/caffeine-overload/bandinchina/pull/56#issuecomment-541230090
+* https://github.com/caffeine-overload/bandinchina/pull/84
 
 Other interesting GitHub repositories: <<github-repositories-with-censored-information>>.
 
@@ -4179,7 +4198,7 @@ video::kIpaDW3RwtY[youtube,height=400,width=600,start=244]
 
 Li Hongzhi (LHZ, 李洪志) is the creator of FLG: link:https://en.wikipedia.org/wiki/Li_Hongzhi[].
 
-Falun Gong people call him "master" (师傅), which is a common traditional term used to respectfully address experienced teachers in a disciple (弟子)/teacher relation, e.g. Kung Fu or other crafts.
+Falun Gong people call him "master" (师父), which is a common traditional term used to respectfully address experienced teachers in a disciple (弟子)/teacher relation, e.g. Kung Fu or other crafts.
 
 The term "master" is also used for example in the fictional film The Master (2012), which is likely inspired in <<flg-religion,Scientology>>.
 
@@ -5105,6 +5124,16 @@ Hao's named as <<internal-censorship,nuked form the Chinese Internet>>, this was
 ** https://baike.baidu.com/item/郝润泽
 ** Hao Runze https://baike.baidu.com/item/郝润泽
 *** still up 2020-06-14 but locked, but casually forgets to mention that he is the fucking son of Haidong, which was likely edited out recently, but there is no edit history in Baidu Baike: https://web.archive.org/web/20200614105842/https://baike.baidu.com/item/郝润泽
+* <<peoples-daily>>
+** down as of 2020-06-14
+*** 2016-03-01 http://m.people.cn/%2Fn4%2F2016%2F0301%2Fc1807-6348778.html 媒曝克罗地亚劲旅签郝海东之子 https://webcache.googleusercontent.com/search?q=cache:1elR0wSiJPIJ:m.people.cn/%252Fn4%252F2016%252F0301%252Fc1807-6348778.html+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu
+*** 2016-01-27 IFFHS评选世界足坛48大传奇 郝海东孙继海入围 http://fj.people.cn/n2/2016/0127/c364151-27639502.html https://webcache.googleusercontent.com/search?q=cache:snlknobl8UMJ:fj.people.cn/n2/2016/0127/c364151-27639502.html+&cd=3&hl=en&ct=clnk&gl=uk&client=ubuntu
+*** 2012-02-01 郝海东儿子入选国少队 被赞有天赋 https://webcache.googleusercontent.com/search?q=cache%3Ahttp%3A%2F%2Fjs.people.cn%2Fhtml%2F2012%2F02%2F01%2F73894.html&oq=cache%3Ahttp%3A%2F%2Fjs.people.cn%2Fhtml%2F2012%2F02%2F01%2F73894.html&aqs=chrome..69i57j69i58.1036j0j4&client=ubuntu&sourceid=chrome&ie=UTF-8
+** but they forgot to search and remove from the older versions of website, newbs:
+*** 2003-03-21 http://www.people.cn/GB/channel2/507/4897/4898/4907/200303/21/142115.html 三后卫改四后卫 申花看防郝海东不遗余力
+*** 2003-03-17 http://www.people.cn/GB/channel23/853/854/200303/17/141331.html 僵尸王：恐郝不是恐中
+*** 2001-09-14 http://www.people.cn/digest/200107/14/tt0901401.html 甲A联赛大连队止住连胜势头
+*** 2001-02-21 http://www.people.cn/digest/200102/23/tt022310.html 米卢评点中国足球四大前锋
 
 Online reactions:
 
@@ -5231,13 +5260,6 @@ I consider the media in this section biased, and never cite it for fact-checking
 ** https://en.wikipedia.org/wiki/Xinhua_News_Agency
 ** https://zh.wikipedia.org/wiki/新华社
 ** http://www.xinhuanet.com/
-* People's Daily
-** https://en.wikipedia.org/wiki/People's_Daily
-** https://zh.wikipedia.org/wiki/人民日报
-** http://people.cn/
-**** The website has per-language and per province subsections, e.g.:
-***** http://js.people.cn/ js stands for Jiangsu Province
-***** http://en.people.cn/
 ** https://twitter.com/PDChina
 * China Radio International
 ** https://en.wikipedia.org/wiki/China_Radio_International
@@ -5259,6 +5281,25 @@ I consider the media in this section biased, and never cite it for fact-checking
 ** https://en.wikipedia.org/wiki/Phoenix_Television
 ** https://zh.wikipedia.org/wiki/凤凰卫视
 ** https://freebeacon.com/national-security/cruz-seeks-to-shut-down-chinese-propaganda-station-phoenix-tv/
+
+[[peoples-daily]]
+===== People's Daily
+
+* https://en.wikipedia.org/wiki/People's_Daily
+* https://zh.wikipedia.org/wiki/人民日报
+
+Website: http://people.cn/
+
+The website has per-language and per province subdomains, e.g.:
+
+* http://en.people.cn/
+* Province subdomains
+** http://js.people.cn/ Jiangsu
+* http://fj.people.cn/ Fujian
+
+As of 2020, some deleted articles show the home page instead of the article, without redirection. Some examples can be seen at: <<hao-haidong>>.
+
+But older pages just show 404.
 
 ===== Pro-Chinese government media
 
