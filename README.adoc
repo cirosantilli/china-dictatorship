@@ -5104,7 +5104,7 @@ Hao's named as <<internal-censorship,nuked form the Chinese Internet>>, this was
 *** down 2020-06-14 (redirects to home page) https://web.archive.org/web/20200614105126/http://web.archive.org/screenshot/https://baike.baidu.com/item/%E5%8F%B6%E9%92%8A%E9%A2%96
 ** https://baike.baidu.com/item/郝润泽
 ** Hao Runze https://baike.baidu.com/item/郝润泽
-*** still up 2020-06-14 but locked, but casually forgets to mention that he is the fucking son of Haidong, which was likely edited out recenty, but there is no edit history in Baidu Baike: https://web.archive.org/web/20200614105842/https://baike.baidu.com/item/郝润泽
+*** still up 2020-06-14 but locked, but casually forgets to mention that he is the fucking son of Haidong, which was likely edited out recently, but there is no edit history in Baidu Baike: https://web.archive.org/web/20200614105842/https://baike.baidu.com/item/郝润泽
 
 Online reactions:
 
@@ -5112,7 +5112,7 @@ Online reactions:
 
 https://www.scmp.com/sport/china/article/3087684/chinese-sports-couple-hao-haidong-and-ye-zhaoying-face-being-wiped
 
-.Hao Haidong (in white) playing for the China national team against the Hong Kong's national team in a World Cup Asian zone qualifying match at Siu Sai Wan Sports Ground in 2004. Photo: <<scmp>. https://www.scmp.com/sport/china/article/3087684/chinese-sports-couple-hao-haidong-and-ye-zhaoying-face-being-wiped[Source].
+.Hao Haidong (in white) playing for the China national team against the Hong Kong's national team in a World Cup Asian zone qualifying match at Siu Sai Wan Sports Ground in 2004. Photo: <<scmp>>. https://www.scmp.com/sport/china/article/3087684/chinese-sports-couple-hao-haidong-and-ye-zhaoying-face-being-wiped[Source].
 image::https://web.archive.org/web/20200614100726if_/https://i.stack.imgur.com/sbraK.jpg[height=500]
 
 ===== Zhihu censorship of Hao Haidong
@@ -5138,8 +5138,6 @@ Not nuked yet as of 2020-06, but nuked after, with before-after archives:
 
 Not nuked yet as of 2020-06 as per Ciro Santilli's eyewitness, but nuked a few days after, with before-after archives. Apologies for not properly archiving, Ciro was archiving too much on that day and his archive.org got temporarily blocked!
 
-* https://zhuanlan.zhihu.com/p/128537416
-
 Older archives that were nuked before Ciro managed to archive them on 2020-06-06:
 
 * https://www.zhihu.com/question/22038423
@@ -5148,23 +5146,24 @@ Older archives that were nuked before Ciro managed to archive them on 2020-06-06
 
 Nuked as per Ciro's eyewitness on 2020-06-06 without web archive, but could be found either on Google search or Zhihu search before those engines had properly cleared, taking Google caches and web archiving them + web archiving 404's as of 2020-06-14:
 
-* https://www.zhihu.com/question/23084831
+* https://www.zhihu.com/question/23084831 如何评价足球运动员高峰？他与郝海东比的水平怎么样？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/23084831&client=ubuntu&hs=1uU&strip=1&vwsrc=0
 * https://www.zhihu.com/question/23939434 如果巅峰期的郝海东有机会去欧洲五大联赛踢球会取得什么样的成就？ https://webcache.googleusercontent.com/search?q=cache:OFjOxog6jiwJ:https://www.zhihu.com/question/23939434&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
-* https://www.zhihu.com/question/27060872
+* https://www.zhihu.com/question/27060872 巅峰时期的范志毅、郝海东、李铁、李玮锋、孙继海、郑智 放到现在的中国足球应该出于什么水平？ http://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/27060872&client=ubuntu&hs=fvU&strip=1&vwsrc=0
 * https://www.zhihu.com/question/29833583 如何评价郝海东认为“英国人不会踢球”？ https://webcache.googleusercontent.com/search?q=cache:jk7qxGW7v64J:https://www.zhihu.com/question/29833583&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
-* https://www.zhihu.com/question/34155456
-* https://www.zhihu.com/question/47528985
-* https://www.zhihu.com/question/51867870
+* https://www.zhihu.com/question/34155456 如何评价郝海东？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/34155456&client=ubuntu&hs=0bp&strip=1&vwsrc=0
+* https://www.zhihu.com/question/47528985 郝海东是亚洲第一前锋吗？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/47528985&client=ubuntu&hs=IxU&strip=1&vwsrc=0
+* https://www.zhihu.com/question/51867870 我同学说郝海东不如孙兴民 我该如何说服他？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/51867870&client=ubuntu&hs=MJ&strip=1&vwsrc=0
+* https://www.zhihu.com/question/52500232 武磊和巅峰时期的郝海东比如何？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/52500232&client=ubuntu&hs=kzU&strip=1&vwsrc=0
 * https://www.zhihu.com/question/62419235 如何评价 郝海东怒斥许家印全华班:放屁!不是为了推动国足。 这一观点。？ https://webcache.googleusercontent.com/search?q=cache:4CCnPhViGBUJ:https://www.zhihu.com/question/62419235&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://www.zhihu.com/question/66555590 郝海东是一个什么样的人？ https://webcache.googleusercontent.com/search?q=cache:sunDGY8ULEEJ:https://www.zhihu.com/question/66555590/answer/245224350+&cd=6&hl=en&ct=clnk&gl=uk&client=ubuntu
-* https://www.zhihu.com/question/52500232
 * https://www.zhihu.com/question/282906877 如何看待郝海东两次评价 C 罗？
 * https://www.zhihu.com/question/282934169 怎么看郝海东再评价C罗？ https://webcache.googleusercontent.com/search?q=cache:XfY4ZPvzz7sJ:https://www.zhihu.com/question/282934169&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
-* https://www.zhihu.com/question/345693653
+* https://www.zhihu.com/question/345693653 巅峰时期的范志毅、郝海东相当于五大联赛哪些球员的实力? https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/345693653&client=ubuntu&hs=6gp&strip=1&vwsrc=0
 * https://www.zhihu.com/question/384834709 武磊的水平能超过郝海东吗？ https://webcache.googleusercontent.com/search?q=cache:FXIkLaGzyQoJ:https://www.zhihu.com/question/384834709&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://www.zhihu.com/question/394366737 怎样看待最近郝海东微博频繁开炮怼人？ https://webcache.googleusercontent.com/search?q=cache:_LbOGbsGFQkJ:https://www.zhihu.com/question/394366737&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://www.zhihu.com/question/394503875 为什么有些人黑郝海东？ https://webcache.googleusercontent.com/search?q=cache:GcqkvJGKCJYJ:https://www.zhihu.com/question/394503875&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
-* https://www.zhihu.com/question/395225037
+* https://www.zhihu.com/question/395225037 如何看待郝海东说的：“智慧是天生的”？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/395225037&client=ubuntu&hs=i2U&strip=1&vwsrc=0
+* https://zhuanlan.zhihu.com/p/128537416 C罗粉丝不好惹？郝海东深夜发文教粉丝独立思考，见证历史转折点 https://webcache.googleusercontent.com/search?q=cache:https://zhuanlan.zhihu.com/p/128537416&client=ubuntu&hs=bip&strip=1&vwsrc=0
 * https://zhuanlan.zhihu.com/p/134027258 【球星故事】郝海东为何被称为“郝大炮”？ https://webcache.googleusercontent.com/search?q=cache:zPBVhvs9SsUJ:https://zhuanlan.zhihu.com/p/134027258&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://zhuanlan.zhihu.com/p/138465029 郝海东争议言论登热搜，媒体人：他逐步从大炮变成公知网红 https://webcache.googleusercontent.com/search?q=cache:z7STI_34eocJ:https://zhuanlan.zhihu.com/p/138465029&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://zhuanlan.zhihu.com/p/141049893 郝海东被网友群嘲的五大原因 https://webcache.googleusercontent.com/search?q=cache:pEppZJ8K8VIJ:https://zhuanlan.zhihu.com/p/141049893&strip=1&vwsrc=0
@@ -6049,7 +6048,9 @@ And no, you can't Wayback Machine archive an archive.is, they blocked the domain
 
 https://support.google.com/websearch/answer/1687222?hl=en
 
-Google caches every indexed page that shows up on the searhc, you just have to click on the arrow and select "Cache" to see it.
+Google caches every indexed page that shows up on the search, you just have to click on the arrow and select "Cache" to see it.
+
+The advantage over <<wayback-machine>> is that Google crawls many more pages than the Wayback Machine.
 
 How to get the Google cache for a given URL: https://webapps.stackexchange.com/questions/15633/how-to-modify-a-url-to-get-a-google-cached-version-of-page
 
