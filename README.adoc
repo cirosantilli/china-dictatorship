@@ -336,7 +336,7 @@ Other interesting GitHub repositories: <<github-repositories-with-censored-infor
 ** YouTube: https://www.youtube.com/channel/UCv361SF6FKznoGPKEFG9Yhw
 ** https://edition.cnn.com/2020/02/09/asia/wuhan-citizen-journalist-intl-hnk/index.html "Chen Qiushi spoke out about the Wuhan virus. Now his family and friends fear he's been silenced"
 ** 2020-04-18 https://www.vice.com/en_uk/article/epgek4/he-traveled-to-wuhan-to-report-on-coronavirus-and-hasnt-been-heard-from-since "He Traveled to Wuhan to Report on Coronavirus – and Hasn't Been Heard From Since"
-** https://youtube.com/watch?v=Iwpr55PZEJ8 "Lawyer Chen Qiushi documenting coronavirus epicentre disappears" by "South China Morning Post"
+** https://youtube.com/watch?v=Iwpr55PZEJ8 "Lawyer Chen Qiushi documenting coronavirus epicentre disappears" by <<scmp>>
 +
 video::Iwpr55PZEJ8[youtube,height=400,width=600]
 * Fang Bin (方斌)
@@ -359,7 +359,7 @@ Written (calligraphed) by Fang Bin.
 ____
 +
 video::_7VIG2qp0j4[youtube,height=400,width=600]
-** https://www.youtube.com/watch?v=sUvBNpkxrJo "Fang Bin is second Chinese citizen journalist to vanish while reporting from coronavirus epicentre" by "South China Morning Post"
+** https://www.youtube.com/watch?v=sUvBNpkxrJo "Fang Bin is second Chinese citizen journalist to vanish while reporting from coronavirus epicentre" by <<scmp>>
 +
 video::sUvBNpkxrJo[youtube,height=400,width=600]
 * https://en.wikipedia.org/wiki/Li_Zehua[Li Zehua] (https://zh.wikipedia.org/wiki/李泽华_(记者)[李澤華])
@@ -972,7 +972,7 @@ One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy
 video::zndzntIDLFE[youtube,height=400,width=600]
 
 .Westerner: "How is life in China?" Chinese: "Oh, we can't complain." Westerner: "That's awesome." Chinese: "No, seriously... we can't." is a word play between the more common "we can't complain because everything is great" and "we can't complain because <<xi-jinping,Xi>> will <<censorship,make us disappear>>". https://www.taiwannews.com.tw/en/news/3933168[Source]
-image::http://web.archive.org/web/20200514071323im_/https://tnimage.s3.hicloud.net.tw/photos/2020/05/13/1589352986-5ebb9a1ad0a98.jpg[height=600]
+image::https://web.archive.org/web/20200514071323im_/https://tnimage.s3.hicloud.net.tw/photos/2020/05/13/1589352986-5ebb9a1ad0a98.jpg[height=600]
 
 === There are bad things happening all over the world, why don't you fight for those causes as well / instead?
 
@@ -2436,7 +2436,13 @@ First of all, serious sanctions must be pot on companies that sell sensitive thi
 
 The most obvious thing is to go https://en.wikipedia.org/wiki/Tit_for_tat[tit for tat] on Censorship and completely ban all Chinese-sponsored social media accounts:
 
-* https://twitter.com/globaltimesnews | https://archive.is/7oshu
+* Twitter
+** News
+*** 2020-06-12 https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html
+*** 2020-06-12 https://www.theguardian.com/technology/2020/jun/12/twitter-deletes-170000-accounts-linked-to-china-influence-campaign "Twitter deletes 170,000 accounts linked to China influence campaign"
+*** The Chinese government later contested this decision: https://variety.com/2020/digital/asia/china-victim-wants-twitter-to-delete-attackers-1234633860/
+** Accounts that should be deleted
+*** https://twitter.com/globaltimesnews | https://archive.is/7oshu
 * https://www.youtube.com/user/ChinaViewTV/featured
 * https://www.facebook.com/globaltimesnews/
 ** 2020-04-07 https://www.vice.com/en_uk/article/9397v8/chinas-been-flooding-facebook-with-shady-ads-blaming-trump-for-the-coronavirus-crisis "China's Been Flooding Facebook With Shady Ads Blaming Trump for the Coronavirus Crisis"
@@ -2494,8 +2500,21 @@ Some Chinese spy stories:
 They are an entry point to spying, censorship and fake news.
 
 * 2020-02 https://www.reuters.com/article/us-usa-china-media/u-s-imposes-new-rules-on-state-owned-chinese-media-over-propaganda-concerns-idUSKBN20C2G1 U.S. imposes new rules on state-owned Chinese media over propaganda concerns, the companies are: Xinhua News Agency, China Global Television Network, China Radio International, China Daily Distribution Corp. and Hai Tian Development USA, Inc. See also: <<chinese-government-media>>.
-* Zoom https://en.wikipedia.org/wiki/Zoom_Video_Communications | https://zh.wikipedia.org/wiki/Zoom
 ** 2020-04-03 https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/ 'Zoom's encryption is "not suited for secrets" and has surprising links to china, researchers discover"
+
+====== Zoom
+
+* https://en.wikipedia.org/wiki/Zoom_Video_Communications
+* https://zh.wikipedia.org/wiki/Zoom
+
+American company, with Chinese-born now American Citizen CEO https://en.wikipedia.org/wiki/Eric_Yuan[Eric Yuan] (https://zh.wikipedia.org/wiki/袁征(袁征), migrated to the US around 1997), and development teams largely China-based to reduce costs.
+
+News:
+
+* 2020-06-10 <<zhou-fengsuo>>'s account as blocked after a celebration of <<tiananmen>>, which was attended by many people from China. The account was later reinstated, Zoom said it acted on a CCP request on error, and it won't do this for users outside of China anymore:
+** https://www.reuters.com/article/us-zoom-video-commn-privacy/zoom-says-china-demanded-shutting-activists-accounts-over-tiananmen-event-idUSKBN23I3GP "U.S. lawmakers ask Zoom to clarify China ties after it suspends accounts"
+** https://www.axios.com/zoom-closes-chinese-user-account-tiananmen-square-f218fed1-69af-4bdd-aac4-7eaf67f34084.html "Zoom closed account of U.S.-based Chinese activist 'to comply with local law'".
+** https://docs.google.com/document/d/12DM3ccTe70yzqCDPu9uXlCD7WmfJq-yzvKdKBH0oppc/edit
 
 .2020-03-27 photo showing https://en.wikipedia.org/wiki/Boris_Johnson[UK Prime Minister Boris Johnson] using Zoom on a Cabinet meeting (a high level Government meeting) during <<corona>>. If you don't properly ban risky dictatorship-linked software, it will get used at the highest levels of Government by clueless people. https://news.sky.com/story/coronairus-cabinet-talks-held-on-zoom-days-after-software-was-banned-by-ministry-of-defence-11963889[Source].
 image::https://web.archive.org/web/20200404102642im_/https://e3.365dm.com/20/03/1600x900/skynews-zoom-cabinet-coronavirus_4955732.jpg?20200326102528[height=400]
@@ -2863,13 +2882,15 @@ Non-information but also interesting:
 * https://github.com/Terminus2049/Terminus2049.github.io
 * https://terminus2049.github.io/
 
-Jekyl GitHub Pages repository that saves full text copies of censored articles. Summary:
+Jekyl GitHub Pages repository that saves full text copies of censored articles:
 
 ____
 本仓库存放被删文章
 
 This repository stores deleted articles.
 ____
+
+Also accompanies a dynamic forum https://2049bbs.xyz/ which appears to be where content for the static pages gets discussed and brought up. But it possible that the website has been compromised and is leaking identity of users.
 
 The "Terminus" in the repo name seems to be a reference to Isaac Asimov's fictional https://asimov.fandom.com/wiki/Terminus[Terminus planet] which is called https://zh.wikipedia.org/wiki/端点星[端点星] in Chinese, but it is not clear where the 2049 comes from in that context. Forgetting the Chinese name, Terminus2049 could be a reference to the fictional https://bladerunner.fandom.com/wiki/World_War_Terminus["World War Terminus"] from the https://en.wikipedia.org/wiki/Blade_Runner_2049[Blade Runner 2049 (2019)] movie, which also explains the 2049.
 
@@ -2923,7 +2944,7 @@ The Chinese <<quora,Quora>> clone with Chinese characteristics (<<censorship,pol
 Some interesting questions not related to <<ciro-santilli>>. Ciro related questions at: <<zhihu-questions-related-to-ciro-santilli>>.
 
 * <<censorship>>
-** https://www.zhihu.com/question/29279520/answer/110611566 "为什么有人一边支持审查制度一边还喜欢看美剧、日漫？" "Why are some people in favor of censorship, but at the same time still like to watch American series?" (http://web.archive.org/web/20200429091047/https://www.zhihu.com/question/29279520/answer/110611566[archive])
+** https://www.zhihu.com/question/29279520/answer/110611566 "为什么有人一边支持审查制度一边还喜欢看美剧、日漫？" "Why are some people in favor of censorship, but at the same time still like to watch American series?" (https://web.archive.org/web/20200429091047/https://www.zhihu.com/question/29279520/answer/110611566[archive])
 ** Censorship in Zhihu
 *** https://www.zhihu.com/question/23376181 "你对知乎的审查系统有何意见？" "What is your view of Zhihu's censorship system?" (https://web.archive.org/web/20200329115919/https://www.zhihu.com/question/23376181[archive]) "由于众所周知的原因，知乎上的文章和答案一旦涉及某些字眼，就会触发审查，其方式是让你的文字暂时仅自己可见"
 *** https://www.zhihu.com/question/21099730 从知乎建站以来被封禁的用户都有哪些？Since Zhihu's founding, which accounts have been blocked on the website? (https://web.archive.org/web/20200112103049/https://www.zhihu.com/question/21099730[archive]) (https://archive.is/dH9pK[archive]). The top answer contains a list, and a brief explanation of why some of them were banned:
@@ -2933,12 +2954,15 @@ Some interesting questions not related to <<ciro-santilli>>. Ciro related questi
 **** other accounts are classified as often commenting on politically sensitive material (政治敏感)
 * <<falun-gong>>
 ** <<flg-daily>>
-*** https://www.zhihu.com/question/27659795 (http://web.archive.org/web/20200429084153/https://www.zhihu.com/signin?next=http%3A%2F%2Fwww.zhihu.com%2Fquestion%2F27659795[blocked as of 2020-04], https://web.archive.org/web/20150603025013/http://www.zhihu.com/question/27659795[archive from 2015]) 家里有人练法轮功是一种怎样的体验？ How is it like to live with Falun Gong believers?
+*** https://www.zhihu.com/question/27659795 (https://web.archive.org/web/20200429084153/https://www.zhihu.com/signin?next=http%3A%2F%2Fwww.zhihu.com%2Fquestion%2F27659795[blocked as of 2020-04], https://web.archive.org/web/20150603025013/http://www.zhihu.com/question/27659795[archive from 2015]) 家里有人练法轮功是一种怎样的体验？ How is it like to live with Falun Gong believers?
 ** <<flg-changed>>
-*** https://www.zhihu.com/question/23988890 (http://web.archive.org/web/20200429084640/https://www.zhihu.com/signin?next=http%3A%2F%2Fwww.zhihu.com%2Fquestion%2F23988890[blocked as of 2020-04], https://web.archive.org/web/20160311140407/https://www.zhihu.com/question/23988890[2016-03 archive]) "全能神教在境外，法轮功也在境外，为什么他们不祸害境外人民、偏偏只祸害大陆人？"<<eastern-lightning,Eastern Lightning>> exists outside of the country [China], Falun Gong exists outside of the country, so why is is that they don't harm people in those countries, but only harm people in Mainland China?"
+*** https://www.zhihu.com/question/23988890 (https://web.archive.org/web/20200429084640/https://www.zhihu.com/signin?next=http%3A%2F%2Fwww.zhihu.com%2Fquestion%2F23988890[blocked as of 2020-04], https://web.archive.org/web/20160311140407/https://www.zhihu.com/question/23988890[2016-03 archive]) "全能神教在境外，法轮功也在境外，为什么他们不祸害境外人民、偏偏只祸害大陆人？"<<eastern-lightning,Eastern Lightning>> exists outside of the country [China], Falun Gong exists outside of the country, so why is is that they don't harm people in those countries, but only harm people in Mainland China?"
 * <<gay-rights>>
-** https://www.zhihu.com/question/370080866/answer/1046195468 "为什么中国影视作品不允许LGBT的出现？" "Why is it not allowed to show LGBT content in Chinese film and television?" (http://web.archive.org/web/20200429091622/https://www.zhihu.com/question/370080866/answer/1046195468[archive])
+** https://www.zhihu.com/question/370080866/answer/1046195468 "为什么中国影视作品不允许LGBT的出现？" "Why is it not allowed to show LGBT content in Chinese film and television?" (https://web.archive.org/web/20200429091622/https://www.zhihu.com/question/370080866/answer/1046195468[archive])
 * <<zhihu-censorship-of-hao-haidong>>
+
+.The Zhihu 404 page image. When they take the posts down as of 2020, it shows the 404 page which reads "你似乎来到了没有知识存在的荒原" (you seem to have come to a wasteland about which does does not exist any knowledge), and shows this symbol. https://web.archive.org/web/20200614114534/https://www.zhihu.com/topic/20080590/intro[Source].
+image::https://web.archive.org/web/20200614114535im_/https://static.zhihu.com/heifetz/assets/liukanshan_wire.e7247fbf.svg[height=500]
 
 [[zhihu-purge]]
 ===== Ciro Santilli's Zhihu purge 2019-11-03
@@ -4245,7 +4269,7 @@ Wife's name: Li Rui (李瑞 according to CCP). Report saying that a follower bou
 
 * daughter: Li Meige (李美歌) claims born 1982-06. http://www.kaiwind.com/anticult/kfgc/201311/05/t20131105_1188845.shtml (<<chinese-government-media>>) says that she performs in <<shen-yun>> under the name "Christina Li" and even won awards. This Falun Gong sources confirm that a "Christina Li" was a Shen Yun lead dancer as of 2011, but does not confirm that she is the daughter of Li Hongzhi: https://www.theepochtimes.com/where-are-the-ancient-arts-of-china-part-4_1491935.html If this is true, talk about <<orange-papers,"different levels of truth">>! The article also claims that she has had other pseudonyms, including: "Annie Li" and "Li Jingjing" (李晶晶). Here are web archives of the now broken of course Shen Yun pages Kaiwand links to as evidence of her constant name changing (but no mention of her father):
 ** https://web.archive.org/web/20140727034323/http://dance.ntdtv.com/ct/archive/
-** http://web.archive.org/web/20121211022246/zh-cn.shenyunperformingarts.org/artists/biography/view/WG3gbBQudOg
+** https://web.archive.org/web/20121211022246/zh-cn.shenyunperformingarts.org/artists/biography/view/WG3gbBQudOg
 ** possibly CCP sources report that Meige married in 2017, likely near the Falun Gong Day (13th May): e.g. http://www.saibeifeng.com/kfyd/201705/16/t20170516_5219554.shtml says many felicitation posts were posted on <<falun-gong-media,minghui>>, so this is likely widely known within the Falun Gong community, but the idiots who wrote that page don't know how to link to sources. Ciro could not find the groom's name.
 * brothers and sisters, all younger:
 ** Li Jun (李君) older younger sister
@@ -4260,10 +4284,10 @@ There are also claims that Li's birth name was Li Lai (李來).
 This claims to contain the biography of Li Hongzhi's family (likely all according to CCP sources), including several good pictures: https://kknews.cc/zh-hk/news/bbmz49.html The photo given there for Li Jun appears on this apparently FLG source without mention of the name: https://www.epochweekly.com/b5/103/5805.htm
 
 .Li Hongzhi with his wife Lirue and daughter Limeige presumably in the late 80's with fishing ships in a shipyard in the background. TODO location. Likely from CCP sources, in many places with <<chinese-government-media,kaiwnd>> watermarks. https://renjianzhengdao2019.blogspot.com/2019/05/blog-post_187.html[Pro-CCP source].
-image::http://web.archive.org/web/20200515122059im_/https://lh3.googleusercontent.com/proxy/4TGKtu8U3klyY_ld6bTpc9PnPOfSZppkEAl7gO6d9PghQbaJii4mykTlbMBtY7GYt_hCbw7Z1h3zohncGGn19vxr3ANWAUZUO6npqJsLlJCND_Nj8BqslNUaQBH1fzyY=s0-d[height=400]
+image::https://web.archive.org/web/20200515122059im_/https://lh3.googleusercontent.com/proxy/4TGKtu8U3klyY_ld6bTpc9PnPOfSZppkEAl7gO6d9PghQbaJii4mykTlbMBtY7GYt_hCbw7Z1h3zohncGGn19vxr3ANWAUZUO6npqJsLlJCND_Nj8BqslNUaQBH1fzyY=s0-d[height=400]
 
-.Photo of Christina Li from Shen Yun, which the CCP claims to be Li Meige, daughter of Li Hongzhi. That page also claims that she was awarded Bronze in the 2009 and 2010 NDT Chinese Dance Competition. http://web.archive.org/web/20121211022246/zh-cn.shenyunperformingarts.org/artists/biography/view/WG3gbBQudOg[Source].
-image::http://web.archive.org/web/20130704134123im_/http://www.shenyunperformingarts.org/data/image/small/2010/12/09/17326d10d511828f6b34fa6d751739e2.jpg[height=400]
+.Photo of Christina Li from Shen Yun, which the CCP claims to be Li Meige, daughter of Li Hongzhi. That page also claims that she was awarded Bronze in the 2009 and 2010 NDT Chinese Dance Competition. https://web.archive.org/web/20121211022246/zh-cn.shenyunperformingarts.org/artists/biography/view/WG3gbBQudOg[Source].
+image::https://web.archive.org/web/20130704134123im_/http://www.shenyunperformingarts.org/data/image/small/2010/12/09/17326d10d511828f6b34fa6d751739e2.jpg[height=400]
 
 ====== Dragon Springs
 
@@ -4330,11 +4354,11 @@ Hongbao also has a more spicy history it seems, with sexual allegations and open
 The embassy spokesman says Chinese officials have ample evidence of sect leader Zhang Hongbao's involvement in crimes such as rape and murder.
 
 .Zhang Honbao on a giant flying lotus reaching Enlightenment with a halo. It looks <<li-hongzhi-lotus,exactly like Falun Gong imagery>>. But of course, Zhong Gong is just a "completely unrelated and inferior sect" according to <<li-hongzhi,Li Hongzhi>>. https://blog.boxun.com/hero/201102/tianhuaren/1_1.shtml[Source].
-image::http://web.archive.org/web/20200513103353if_/https://blog.boxun.com/hero/201102/tianhuaren/tianhuaren2011021802234.jpg[height=400]
+image::https://web.archive.org/web/20200513103353if_/https://blog.boxun.com/hero/201102/tianhuaren/tianhuaren2011021802234.jpg[height=400]
 
 [[zhong-gong-blue]]
 .The blue background, the halos, the praying hands, the master Zhang Hongbao flying above. It is just exactly like <<flg-blue,Falun Gong imagery>>. https://www.chinacourt.org/article/detail/2018/08/id/3475129.shtml[Source] (<<chinese-government-media,biased>>)
-image::http://web.archive.org/web/20200513103231im_/http://file.chinacourt.org/f.php?class=imageid&id=1814106[height=400]
+image::https://web.archive.org/web/20200513103231im_/http://file.chinacourt.org/f.php?class=imageid&id=1814106[height=400]
 
 [[flg-blue]]
 .Hungarian Falun Gong propaganda image with woman meditating in with blue sky background for comparison with <<zhong-gong-blue,similar Zhong Gong imagery>>. https://hu.faluninfo.eu/[Source].
@@ -4565,7 +4589,7 @@ video::kXByOrRrO7c[youtube,height=400,width=600]
 
 https://zh.wikipedia.org/wiki/毛主席畅游长江
 
-Good SMCP article: https://www.scmp.com/magazines/post-magazine/long-reads/article/1999098/chairman-maos-historic-swim-glorified-china
+Good <<scmp>> article: https://www.scmp.com/magazines/post-magazine/long-reads/article/1999098/chairman-maos-historic-swim-glorified-china
 
 Mao claimed to have set a swimming record by swimming 15km in 65 minutes at the age of 72 at the Yangtze in Wuhan, or an average of 13.8 km/h.
 
@@ -5055,49 +5079,96 @@ Profiles:
 * 2019-07-24 https://www.scmp.com/news/china/article/3019840/chinese-fugitive-tycoon-and-member-trumps-mar-lago-also-spy "Is Guo Wengui, Chinese fugitive tycoon and member of Trump’s Mar-a-Lago, also a spy?"
 
 [[hao-haidong]]
-==== Hao Haidong 郝海东
+==== Hao Haidong 郝海东 (2020)
 
 * https://en.wikipedia.org/wiki/Hao_Haidong
 * https://zh.wikipedia.org/wiki/郝海东
 
-On 2020-06-03, one day before <<tiananmen>> anniversary, he spoke up against the CCP on <<guo-wengui>>'s YouTube channel: https://www.youtube.com/watch?v=e4aN5h0RqD8&t=4496[]. Coverage:
+On 2020-06-03, one day before <<tiananmen>> anniversary, he appeared with his wife https://en.wikipedia.org/wiki/Ye_Zhaoying[Ye Zhaoying] (https://zh.wikipedia.org/wiki/叶钊颖[叶钊颖]), who was also a badmington star, on <<guo-wengui>>'s YouTube channel: https://www.youtube.com/watch?v=e4aN5h0RqD8&t=4496[], and spoke up against the CCP.
+
+Coverage:
 
 * https://www.washingtonpost.com/9ae91df2-a6ec-11ea-898e-b21b9a83f792_story.html
 
-Reactions:
+As a result, his son https://en.wikipedia.org/wiki/Runze_Hao[Hao Runze] (https://zh.wikipedia.org/wiki/郝潤澤[郝润泽]) who is also a soccer player and had nothing to do with it was also sacked from the Serbian club https://en.wikipedia.org/wiki/FK_Radnički_Niš[Radnicki Nis] in which he played one week later due to pressure from China: https://www.scmp.com/sport/football/article/3088385/hao-haidongs-son-sacked-serbian-club-radnicki-nis-after-pressure
+
+Hao's named as <<internal-censorship,nuked form the Chinese Internet>>, this was a fantastic opportunity to unambiguosly document a censorship event:
+
+* Zhihu: <<zhihu-censorship-of-hao-haidong>>
+* Baidu Baike
+** Hao Haidong https://baike.baidu.com/item/郝海东/357512
+*** up 2020-06-06 https://web.archive.org/web/20200606060916/https://baike.baidu.com/item/郝海东/357512
+*** down 2020-06-14 (say "抱歉，您所访问的页面不存在..." and redirects to home page) https://web.archive.org/web/20200614094144/http://web.archive.org/screenshot/https://baike.baidu.com/item/%E9%83%9D%E6%B5%B7%E4%B8%9C/357512
+** Ye Zhaoying https://baike.baidu.com/item/叶钊颖
+*** up 2020-06-06  https://web.archive.org/web/20200614104922/https://webcache.googleusercontent.com/search?q=cache%3Akp6GBnsRNhQJ%3Ahttps%3A%2F%2Fbaike.baidu.com%2Fitem%2F%E5%8F%B6%E9%92%8A%E9%A2%96
+*** down 2020-06-14 (redirects to home page) https://web.archive.org/web/20200614105126/http://web.archive.org/screenshot/https://baike.baidu.com/item/%E5%8F%B6%E9%92%8A%E9%A2%96
+** https://baike.baidu.com/item/郝润泽
+** Hao Runze https://baike.baidu.com/item/郝润泽
+*** still up 2020-06-14 but locked, but casually forgets to mention that he is the fucking son of Haidong, which was likely edited out recenty, but there is no edit history in Baidu Baike: https://web.archive.org/web/20200614105842/https://baike.baidu.com/item/郝润泽
+
+Online reactions:
 
 * https://pincong.rocks/article/19974 "郝海东这个事情，让你匪进退两难" on <<pincong>>
 
+https://www.scmp.com/sport/china/article/3087684/chinese-sports-couple-hao-haidong-and-ye-zhaoying-face-being-wiped
+
+.Hao Haidong (in white) playing for the China national team against the Hong Kong's national team in a World Cup Asian zone qualifying match at Siu Sai Wan Sports Ground in 2004. Photo: <<scmp>. https://www.scmp.com/sport/china/article/3087684/chinese-sports-couple-hao-haidong-and-ye-zhaoying-face-being-wiped[Source].
+image::https://web.archive.org/web/20200614100726if_/https://i.stack.imgur.com/sbraK.jpg[height=500]
+
 ===== Zhihu censorship of Hao Haidong
 
-<<zhihu>> basically nuked a gazillion articles that mentioned him. Not nuked yet as of 2020-06:
+<<zhihu>> (and the rest of the Chinese Internet) basically nuked a gazillion articles that mentioned him, including old ones that had nothing to do with his political views.
+
+Ciro estimates that very likely thousands of Zhihu posts have been removed, as of 2020-06-14 the Google query "郝海东 site:zhihu.com" had 3,970 results, and every single on Ciro clicked had been taken down.
+
+Not nuked yet as of 2020-06, but nuked after, with before-after archives:
+
+* The Zhihu "Hao Haidong" topic itself https://www.zhihu.com/topic/20080590/intro
+** up 2020-06-06 https://web.archive.org/web/20200606161335/https://www.zhihu.com/topic/20080590/intro
+** down 2020-06-14 https://web.archive.org/web/20200614114534/https://www.zhihu.com/topic/20080590/intro
+* https://zhuanlan.zhihu.com/p/59782534 C罗的每次高光，都让郝海东出尽洋相
+** up 2020-06-06 https://web.archive.org/web/20200606124255/https://zhuanlan.zhihu.com/p/59782534
+** down 2020-06-14 https://web.archive.org/web/20200614094722/https://zhuanlan.zhihu.com/p/59782534
+* https://zhuanlan.zhihu.com/p/133206885 郝海东为什么要炮轰许家印？
+** up 2020-06-06 https://web.archive.org/web/20200606122802/https://zhuanlan.zhihu.com/p/133206885
+** down 2020-06-14 https://web.archive.org/web/20200614092838/https://zhuanlan.zhihu.com/p/133206885
+* https://www.zhihu.com/question/64992079 巅峰期的孙继海 郑智 郝海东 范志毅怎么排名？
+** up 2020-06-06 https://web.archive.org/web/20200606123634/https://www.zhihu.com/question/64992079
+** down 2020-06-14 https://web.archive.org/web/20200606123634/https://www.zhihu.com/question/64992079
+
+Not nuked yet as of 2020-06 as per Ciro Santilli's eyewitness, but nuked a few days after, with before-after archives. Apologies for not properly archiving, Ciro was archiving too much on that day and his archive.org got temporarily blocked!
 
 * https://zhuanlan.zhihu.com/p/128537416
-* https://zhuanlan.zhihu.com/p/133206885
-* https://www.zhihu.com/question/64992079
-* https://zhuanlan.zhihu.com/p/59782534
 
-Searching on Google with an older data range, we can find stuff that is more likely archived
+Older archives that were nuked before Ciro managed to archive them on 2020-06-06:
 
 * https://www.zhihu.com/question/22038423
-** up https://web.archive.org/web/20150615113940/https://www.zhihu.com/question/22038423
-** down http://web.archive.org/web/20200606123519/https://www.zhihu.com/question/22038423
+** up 2015-06-15 https://web.archive.org/web/20150615113940/https://www.zhihu.com/question/22038423
+** down 2015-06-06 https://web.archive.org/web/20200606123519/https://www.zhihu.com/question/22038423
 
-Nuked but mostly not one had archived before, found through Google/Zhihu search:
+Nuked as per Ciro's eyewitness on 2020-06-06 without web archive, but could be found either on Google search or Zhihu search before those engines had properly cleared, taking Google caches and web archiving them + web archiving 404's as of 2020-06-14:
 
 * https://www.zhihu.com/question/23084831
+* https://www.zhihu.com/question/23939434 如果巅峰期的郝海东有机会去欧洲五大联赛踢球会取得什么样的成就？ https://webcache.googleusercontent.com/search?q=cache:OFjOxog6jiwJ:https://www.zhihu.com/question/23939434&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://www.zhihu.com/question/27060872
-* https://www.zhihu.com/question/29833583
+* https://www.zhihu.com/question/29833583 如何评价郝海东认为“英国人不会踢球”？ https://webcache.googleusercontent.com/search?q=cache:jk7qxGW7v64J:https://www.zhihu.com/question/29833583&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://www.zhihu.com/question/34155456
 * https://www.zhihu.com/question/47528985
 * https://www.zhihu.com/question/51867870
+* https://www.zhihu.com/question/62419235 如何评价 郝海东怒斥许家印全华班:放屁!不是为了推动国足。 这一观点。？ https://webcache.googleusercontent.com/search?q=cache:4CCnPhViGBUJ:https://www.zhihu.com/question/62419235&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
+* https://www.zhihu.com/question/66555590 郝海东是一个什么样的人？ https://webcache.googleusercontent.com/search?q=cache:sunDGY8ULEEJ:https://www.zhihu.com/question/66555590/answer/245224350+&cd=6&hl=en&ct=clnk&gl=uk&client=ubuntu
 * https://www.zhihu.com/question/52500232
-* https://www.zhihu.com/question/282906877
+* https://www.zhihu.com/question/282906877 如何看待郝海东两次评价 C 罗？
+* https://www.zhihu.com/question/282934169 怎么看郝海东再评价C罗？ https://webcache.googleusercontent.com/search?q=cache:XfY4ZPvzz7sJ:https://www.zhihu.com/question/282934169&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://www.zhihu.com/question/345693653
-* https://www.zhihu.com/question/384834709
-* https://www.zhihu.com/question/394366737
+* https://www.zhihu.com/question/384834709 武磊的水平能超过郝海东吗？ https://webcache.googleusercontent.com/search?q=cache:FXIkLaGzyQoJ:https://www.zhihu.com/question/384834709&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
+* https://www.zhihu.com/question/394366737 怎样看待最近郝海东微博频繁开炮怼人？ https://webcache.googleusercontent.com/search?q=cache:_LbOGbsGFQkJ:https://www.zhihu.com/question/394366737&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
+* https://www.zhihu.com/question/394503875 为什么有些人黑郝海东？ https://webcache.googleusercontent.com/search?q=cache:GcqkvJGKCJYJ:https://www.zhihu.com/question/394503875&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://www.zhihu.com/question/395225037
-* https://zhuanlan.zhihu.com/p/145740098
+* https://zhuanlan.zhihu.com/p/134027258 【球星故事】郝海东为何被称为“郝大炮”？ https://webcache.googleusercontent.com/search?q=cache:zPBVhvs9SsUJ:https://zhuanlan.zhihu.com/p/134027258&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
+* https://zhuanlan.zhihu.com/p/138465029 郝海东争议言论登热搜，媒体人：他逐步从大炮变成公知网红 https://webcache.googleusercontent.com/search?q=cache:z7STI_34eocJ:https://zhuanlan.zhihu.com/p/138465029&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
+* https://zhuanlan.zhihu.com/p/141049893 郝海东被网友群嘲的五大原因 https://webcache.googleusercontent.com/search?q=cache:pEppZJ8K8VIJ:https://zhuanlan.zhihu.com/p/141049893&strip=1&vwsrc=0
+* https://zhuanlan.zhihu.com/p/145740098 塞超主帅：郝润泽不像郝海东，他更擅长于防守 And here is an archive from 2020-06-06 saying that the article was being modified to meet some guidelines: "文章被建议修改：违反知乎社区管理规定 作者修改内容通过后，文章会重新显示。" https://web.archive.org/web/20200606122827/https://zhuanlan.zhihu.com/p/145740098
 
 [[zhou-fengsuo]]
 === Zhou Fengsuo 周锋锁
@@ -5158,17 +5229,25 @@ I consider the media in this section biased, and never cite it for fact-checking
 ==== Chinese government media 中国政府媒体
 
 * Xinhua News Agency
-** https://en.wikipedia.org/wiki/Xinhua_News_Agency | https://zh.wikipedia.org/wiki/新华社
+** https://en.wikipedia.org/wiki/Xinhua_News_Agency
+** https://zh.wikipedia.org/wiki/新华社
 ** http://www.xinhuanet.com/
 * People's Daily
-** https://en.wikipedia.org/wiki/People's_Daily | https://zh.wikipedia.org/wiki/人民日报
+** https://en.wikipedia.org/wiki/People's_Daily
+** https://zh.wikipedia.org/wiki/人民日报
 ** http://people.cn/
+**** The website has per-language and per province subsections, e.g.:
+***** http://js.people.cn/ js stands for Jiangsu Province
+***** http://en.people.cn/
 ** https://twitter.com/PDChina
 * China Radio International
-** https://en.wikipedia.org/wiki/China_Radio_International | https://zh.wikipedia.org/wiki/中国国际广播电台
-** http://www.cri.cn | http://english.cri.cn/
+** https://en.wikipedia.org/wiki/China_Radio_International
+** https://zh.wikipedia.org/wiki/中国国际广播电台
+** http://www.cri.cn
+** http://english.cri.cn/
 * China Daily
-** https://en.wikipedia.org/wiki/China_Daily | https://zh.wikipedia.org/wiki/孔子学院
+** https://en.wikipedia.org/wiki/China_Daily
+** https://zh.wikipedia.org/wiki/孔子学院
 ** https://www.economist.com/node/17969895
 * https://en.wikipedia.org/wiki/China_Central_Television[China Central Television (CCTV)]
 ** https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg CGTN, CCTV's international branch in English
@@ -5177,8 +5256,9 @@ I consider the media in this section biased, and never cite it for fact-checking
 ** I have no proof that this is linked to the government, but it is very likely, even the Chinese embassy website links to it:
 *** http://www.china-embassy.org/eng/lj/t36322.htm
 *** https://web.archive.org/web/20180414233331/http://www.china-embassy.org/eng/lj/t36322.htm
-* Phoneix TV
-** https://en.wikipedia.org/wiki/Phoenix_Television | https://zh.wikipedia.org/wiki/凤凰卫视
+* Phoenix TV
+** https://en.wikipedia.org/wiki/Phoenix_Television
+** https://zh.wikipedia.org/wiki/凤凰卫视
 ** https://freebeacon.com/national-security/cruz-seeks-to-shut-down-chinese-propaganda-station-phoenix-tv/
 
 ===== Pro-Chinese government media
@@ -5190,7 +5270,8 @@ These might be independent, but they are clearly pro CCP and thus cannot be trus
 [[confucius-institute]]
 ===== Confucius institute 孔子学院
 
-https://en.wikipedia.org/wiki/Confucius_Institute | https://zh.wikipedia.org/wiki/孔子学院
+* https://en.wikipedia.org/wiki/Confucius_Institute
+* https://zh.wikipedia.org/wiki/孔子学院
 
 News and reports:
 
@@ -5199,6 +5280,7 @@ News and reports:
 
 Related about university interference:
 
+* 2020-05-28 https://www.thetimes.co.uk/article/motion-backing-hong-kong-blocked-after-campaign-by-chinese-students-at-warwick-fsdfphr26 "Motion backing Hong Kong blocked after campaign by Chinese students at Warwick". The article mentions that "Just under 1,000 students voted in favour of the motion. Turnout was three times higher than other votes and officials said that it was a new record for participation."
 * 2020-05 Drew Pavlou 柏乐志
 ** https://en.wikipedia.org/wiki/University_of_Queensland[University of Queensland], Australia, was trying to get rid of him for anti-CCP campaign
 ** https://www.theguardian.com/australia-news/2020/may/24/how-a-20-year-old-student-put-the-spotlight-on-australian-universities-cosy-relationship-with-china
@@ -5337,7 +5419,8 @@ TODO who is behind this website? They store full text copies of banned articles,
 [[new-tang-dinasty-television]]
 ===== New Tang Dinasty Television 新唐人電視台
 
-https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television | https://zh.wikipedia.org/wiki/新唐人電視台
+* https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television
+* https://zh.wikipedia.org/wiki/新唐人電視台
 
 Related shows:
 
@@ -5397,12 +5480,23 @@ Just because they are/were funded/founded by the CIA, it doesn't mean that we ca
 [[caixin]]
 ==== Caixin 财新传媒
 
-https://en.wikipedia.org/wiki/Caixin | https://zh.wikipedia.org/wiki/财新传媒
+* https://en.wikipedia.org/wiki/Caixin
+* https://zh.wikipedia.org/wiki/财新传媒
 
 Beijing based, but does publish stuff that seems to be very sensitive:
 
 * <<corona>> Government fuckups
 * https://www.bbc.co.uk/news/world-asia-china-35761277 "China magazine Caixin defiant on censorship of article"
+
+[[scmp]]
+==== South China Morning Post 南华早报
+
+* https://en.wikipedia.org/wiki/South_China_Morning_Post
+* ttps://zh.wikipedia.org/wiki/南華早報
+
+<<hong-kong>> based, but bought by Alibaba in 2016, but it still continued to publish censored stuff widely, e.g.:
+
+* <<hao-haidong>>
 
 [[videos]]
 == Videos 视频
@@ -5413,7 +5507,7 @@ https://www.youtube.com/playlist?list=PLcZOZrP1P_V5d7RMOKXF1PT70fcfYJpgY
 
 Interesting videos that were deleted/made private since he added them:
 
-* 2019-04-17 https://web.archive.org/web/20190424021220/https://www.youtube.com/watch?v=lPnnHCeRH3w the Leica ad: https://www.theverge.com/2019/4/19/18508009/leica-china-censored-ad-tiananmen-square-protests-weibo Re-upload by SCMP: https://www.youtube.com/watch?v=lcuLZDHLFt8
+* 2019-04-17 https://web.archive.org/web/20190424021220/https://www.youtube.com/watch?v=lPnnHCeRH3w the Leica ad: https://www.theverge.com/2019/4/19/18508009/leica-china-censored-ad-tiananmen-square-protests-weibo Re-upload by <<scmp>>: https://www.youtube.com/watch?v=lcuLZDHLFt8
 * 2019-05-18 https://www.youtube.com/watch?v=qAEUafI_lyI not on Web Archive, lesson learned
 
 [[funny]]
@@ -5489,7 +5583,8 @@ Has a more artistic red-black-white-yellow style.
 [[falun-sweden]]
 === Falun, Sweden 法轮，瑞典
 
-https://en.wikipedia.org/wiki/Falun | https://zh.wikipedia.org/wiki/法倫
+* https://en.wikipedia.org/wiki/Falun
+* https://zh.wikipedia.org/wiki/法倫
 
 A Swedish University town called "Falun", with the same "Falun" Chinese characters as those in <<falun-gong>>, which got the town blocked by the <<internal-censorship,GFW>> on some websites, mentioned at:
 
@@ -5506,7 +5601,8 @@ Known primarily for its mine, which was one of the oldest operating companies in
 [[books]]
 == Books 书籍
 
-https://en.wikipedia.org/wiki/Book_censorship_in_China | https://zh.wikipedia.org/wiki/中华人民共和国出版物审查制度
+* https://en.wikipedia.org/wiki/Book_censorship_in_China
+* https://zh.wikipedia.org/wiki/中华人民共和国出版物审查制度
 
 Either banned, or relevant.
 
@@ -5515,7 +5611,8 @@ For other censored material types, see: <<lists-of-material-censored-in-china>>.
 [[nineteen-eighty-four]]
 === Nineteen Eighty-Four: A Novel (AKA "1984") 一九八四 (1949)
 
-https://en.wikipedia.org/wiki/Nineteen_Eighty-Four | https://zh.wikipedia.org/wiki/一九八四
+* https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
+* https://zh.wikipedia.org/wiki/一九八四
 
 Read for free from Project Gutenberg: http://gutenberg.net.au/ebooks01/0100021.txt (https://web.archive.org/web/20200413105623/http://gutenberg.net.au/ebooks01/0100021.txt[archive])
 
@@ -5730,9 +5827,13 @@ image::https://web.archive.org/web/20200309101601im_/http://scd.observers.france
 [[gfw]]
 ==== Great Firewall (GFW) 防火长城
 
-https://en.wikipedia.org/wiki/Great_Firewall | https://zh.wikipedia.org/wiki/防火长城
+* https://en.wikipedia.org/wiki/Great_Firewall
+* https://zh.wikipedia.org/wiki/防火长城
 
-https://en.wikipedia.org/wiki/Golden_Shield_Project | https://zh.wikipedia.org/wiki/全国公安工作信息化工程
+Golden Shield Project:
+
+* https://en.wikipedia.org/wiki/Golden_Shield_Project
+* https://zh.wikipedia.org/wiki/全国公安工作信息化工程
 
 And so, the spirit of Internet freedom that the Chinese themselves had at the start, was crushed :
 
@@ -5909,6 +6010,56 @@ Other tools:
 * https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how made some noise at the time
 * https://twitter.com/GreatFireChina
 
+[[wayback-machine]]
+====== Wayback Machine 网站时光机
+
+Their Wayback Machine tool archive snapshots of webpages and allows youto browse the history of all archives:
+
+* http://web.archive.org/
+* https://en.wikipedia.org/wiki/Wayback_Machine
+* https://zh.wikipedia.org/wiki/网站时光机
+
+By the Internet Archive organization:
+
+* https://en.wikipedia.org/wiki/Internet_Archive
+* https://zh.wikipedia.org/wiki/互联网档案馆
+
+This Chrome extension helps to quickly archive pages: https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak
+
+But remember that if you archive too many in a very quick succession before the previous ones have been archived, even if manually through that plugin, your account/IP might get blocked, so just give a few seconds for the current archive to terminate before starting new ones.
+
+This happed to Ciro in 2020-06-14, but then he emailed the admins as mentioned at: https://help.archive.org/hc/en-us/articles/360016379432-Accounts-Tips-Troubleshooting- and they re-enabled it.
+
+[[archive-today]]
+====== archive.today
+
+http://archive.is/
+
+* https://en.wikipedia.org/wiki/Archive.today
+* https://zh.wikipedia.org/wiki/Archive.is
+
+Like <<wayback-machine>> by uknown shady individuals, so less trustworthy.
+
+But it does not care about robots.txt, so it sometimes works where Wayback Machine fails, so its better than nothing when it does.
+
+And no, you can't Wayback Machine archive an archive.is, they blocked the domain.
+
+[[google-cache]]
+====== Google Cache
+
+https://support.google.com/websearch/answer/1687222?hl=en
+
+Google caches every indexed page that shows up on the searhc, you just have to click on the arrow and select "Cache" to see it.
+
+How to get the Google cache for a given URL: https://webapps.stackexchange.com/questions/15633/how-to-modify-a-url-to-get-a-google-cached-version-of-page
+
+It is not possible however to see old caches, therefore you have to archive the Google caches with <<wayback-machine>> if you find anything interesting in them to not lose it:
+
+* https://webapps.stackexchange.com/questions/45306/how-do-you-view-all-the-cached-versions-of-a-web-page
+* https://support.google.com/websearch/thread/18638126?hl=en
+
+The Google cache also has a text-only mode which is great for more complex webpages like those on <<zhihu>>, which due to JavaScript madness keep showing and disappearing.
+
 ===== Lists of material censored in China
 
 For materials hosted on GitHub, see: <<github-repositories-with-censored-information>>.
@@ -5949,7 +6100,8 @@ It is interesting to note how <<falun-gong>> is a good source of censorship-circ
 [[icp-license]]
 ===== ICP license 非经营性网站备案 (2000)
 
-https://en.wikipedia.org/wiki/ICP_license | https://zh.wikipedia.org/wiki/非经营性网站备案
+* https://en.wikipedia.org/wiki/ICP_license
+* https://zh.wikipedia.org/wiki/非经营性网站备案
 
 Part of the <<internal-censorship,Internet censorship machine>>, although it predates the GFW proper.
 
@@ -6079,7 +6231,10 @@ And guess which idiotic Western website requires real usernames and no privacy? 
 [[social-credit-system]]
 === Social Credit System 社会信用体系
 
-https://en.wikipedia.org/wiki/Social_Credit_System | https://zh.wikipedia.org/wiki/社会信用体系
+* https://en.wikipedia.org/wiki/Social_Credit_System
+* https://zh.wikipedia.org/wiki/社会信用体系
+
+Coverage:
 
 * 2019-06-04 https://www.youtube.com/watch?v=0cGB8dCDf3c "A Look Inside China’s Social Credit System | NBC News Now" by "NBC News"
 * 2018-12-12 https://www.youtube.com/watch?v=Dkw15LkZ_Kw "China’s "Social Credit System" Has Caused More Than Just Public Shaming (HBO)" by "VICE News". https://youtu.be/Dkw15LkZ_Kw?t=238[328s] shows how you can donate money to the party to increase your score. This is not a hidden practice, they were filmed and everyone is showing their faces. What a brilliant idea that could never ever lead to corruption! Ciro's jaw just dropped. How can the commies not hide this kind of shit from the West, but hide other stuff the West couldn't care less about?
@@ -6089,7 +6244,8 @@ video::Dkw15LkZ_Kw[youtube,height=400,width=600]
 [[belt-and-road-initiative]]
 === Belt and Road Initiative 一带一路
 
-https://en.wikipedia.org/wiki/Belt_and_Road_Initiative | https://zh.wikipedia.org/wiki/一带一路
+* https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
+* https://zh.wikipedia.org/wiki/一带一路
 
 [[communist-youth-league]]
 === Communist Youth League of China 中国共产主义青年团
@@ -6123,13 +6279,22 @@ Related news:
 image::https://web.archive.org/web/20200109143505im_/http://www.xinhuanet.com/english/2019-06/01/XxjwshE007055_20190601_CBMFN1A006_11n.jpg[height=500]
 
 [[one-child-policy]]
-=== One-child policy 一孩政策
+=== One-child policy 一孩政策 (1979–2015)
 
-TODO.
+* https://en.wikipedia.org/wiki/One-child_policy
+* https://zh.wikipedia.org/wiki/一孩政策
 
-https://en.wikipedia.org/wiki/One-child_policy | https://zh.wikipedia.org/wiki/一孩政策
+[[rule-of-law]]
+=== Rule of law 法治
 
-1979–2015
+* https://en.wikipedia.org/wiki/Rule_of_law
+* https://zh.wikipedia.org/wiki/法治
+
+The commies keep saying over and over that rule of law is always observed.
+
+But in reality they punish anyone who poses a political threat, even if they did nothing wrong themselves, some cases that come to mind:
+
+* 2020-06 Hao Runze, son of Hao Haidong, lost his job because his father spoke up against the CCP: <<hao-haidong>>. Did the CCP speak up for him, like the speak up whenever a Chinese citizen gets hurt?
 
 [[mirrors]]
 == Mirrors of this page 这个网页的镜像
@@ -6271,7 +6436,7 @@ Website openly anti-CCP, e.g. the signup page has <<xi-jinping>> jokes. Very sim
 
 Backlinks to this page:
 
-* 2020-06-03 https://www.mohu.rocks/article/2227 (http://web.archive.org/web/20200606065812/https://www.mohu.rocks/article/2227[archive]) "专门开一个帖子，以后会把从各处搜刮来的六四学潮的视频、历史、文章之类放在这" (I'm creating this post to collect all the videos, history, articles, etc. that can be found anywhere about the <<tiananmen,Tiananmen Square protests>>)
+* 2020-06-03 https://www.mohu.rocks/article/2227 (https://web.archive.org/web/20200606065812/https://www.mohu.rocks/article/2227[archive]) "专门开一个帖子，以后会把从各处搜刮来的六四学潮的视频、历史、文章之类放在这" (I'm creating this post to collect all the videos, history, articles, etc. that can be found anywhere about the <<tiananmen,Tiananmen Square protests>>)
 ** Then one of the replies by "习羊羊与灰战狼" was "https://github.com/cirosantilli/china-dictatorship "提供一个很全的链接，几乎可以算是反共手册。里面的4.7是谈六四的" (Here is one very complete link, it could almost be considered an anti-CCP manual. Section 4.7 of that page is about Tiananmen.)
 
 https://github.com/cirosantilli/china-dictatorship
@@ -8950,7 +9115,7 @@ Words: <<青铜>>兵器<<之>>“殳”简介
 [[任何不能杀死你的都会使你更强大]]
 ==== 任何不能杀死你的，都会使你更强大 (ren4 he2, What doesn't kill me makes me stronger)
 
-Source: https://zhidao.baidu.com/question/242761276.html (http://web.archive.org/web/20200525084055/https://zhidao.baidu.com/question/242761276.html[archive])
+Source: https://zhidao.baidu.com/question/242761276.html (https://web.archive.org/web/20200525084055/https://zhidao.baidu.com/question/242761276.html[archive])
 
 Words:
 
@@ -8966,7 +9131,7 @@ Words: 现有王位觊觎者<<列表>>
 [[有多少人像我一样已经积极囤积生存物资几个月了]]
 ==== 有多少人像我一样已经积极囤积生存物资几个月了？ (you3 duo1, How many people are like me and have been actively hoarding survival supplies for several months?)
 
-Source: https://pincong.rocks/question/22965 (http://web.archive.org/web/20200525111018/https://pincong.rocks/question/22965[archive])
+Source: https://pincong.rocks/question/22965 (https://web.archive.org/web/20200525111018/https://pincong.rocks/question/22965[archive])
 
 Words: 有多少人像我一样已经积极囤积<<生存>>物资几个月了
 
@@ -8993,7 +9158,7 @@ Words: 现有王位觊觎者<<列表>>
 [[临时性团队的组建和管理]]
 ==== 临时性团队的组建和管理 (lin2 shi2, Forming and managing a temporary team)
 
-Source: https://zhuanlan.zhihu.com/p/81708802 (http://web.archive.org/web/20200525113721/https://zhuanlan.zhihu.com/p/81708802[archive])
+Source: https://zhuanlan.zhihu.com/p/81708802 (https://web.archive.org/web/20200525113721/https://zhuanlan.zhihu.com/p/81708802[archive])
 
 Words: <<临时>><<性>>团队的组建和管理
 
