@@ -4,10 +4,6 @@
 
 set -eux
 
-# Git mirrors.
-git push git@gitlab.com:cirosantilli/china-dictatorship.git
-git push git@bitbucket.org:cirosantilli/china-dictatorship.git
-
 make
 
 # GitHub pages.
@@ -31,23 +27,25 @@ new_version="$(./push-mirrors-bump-package-json-version)"
 npm publish
 git add package.json
 
-## Python package. TODO broken.
-## error: invalid command 'bdist_wheel'
-## fuck you python packaging.
-## Initial setup:
-##sudo apt install python3-testresources
-##python3 -m pip install --user --upgrade setuptools wheel
-#./push-mirrors-bump-setup-py-version
-## Initial one time setup.
-##python3 -m pip install --user setuptools wheel twine
-#cp README.adoc README.html china_dictatorship
-#python setup.py sdist bdist_wheel
-## Asks for username and password every time, unless you setup ~/.pypirc.
-#twine upload dist/*
-#rm -rf build dist *.egg-info
-#git add setup.py
+# Python package.
+# Initial setup:
+#sudo apt install python3-testresources
+#python3 -m pip install --user --upgrade setuptools wheel
+./push-mirrors-bump-setup-py-version
+# Initial one time setup.
+#python3 -m pip install --user setuptools wheel twine
+cp README.adoc README.html china_dictatorship
+python setup.py sdist bdist_wheel
+# Asks for username and password every time, unless you setup ~/.pypirc.
+twine upload dist/*
+rm -rf build dist *.egg-info
+git add setup.py
 
 # Bump package versions
 git commit -m 'bump package version'
 git tag -m "$new_version" "$new_version"
+
+# Push to git mirrors.
 git push --follow-tags
+git push git@gitlab.com:cirosantilli/china-dictatorship.git
+git push git@bitbucket.org:cirosantilli/china-dictatorship.git
