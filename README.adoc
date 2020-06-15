@@ -1377,6 +1377,19 @@ Related:
 * https://www.rferl.org/a/russia-navalny-nationalist-fears/25059277.html
 * https://www.youtube.com/watch?v=oVNJiO10SWw
 
+===== Censorship of images in the Soviet Union
+
+https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union
+
+.Before/after comparison of picture of Stalin with Nikolai Yezhov at the Moscow Canal. Nikolai was edited out form the second picture. (Credit: Fine Art Images/Heritage Images/Getty Images & AFP/GettyImages) https://www.history.com/news/josef-stalin-great-purge-photo-retouching[Source].
+image::https://web.archive.org/web/20191014084357im_/https://www.history.com/.image/c_limit,cs_srgb,q_auto:good,w_860/MTU3ODc4NjAzNTIxNzMwMjcx/image-placeholder-title.webp[height=400]
+
+.A meeting of the St. Petersburg chapter of the Union of Struggle for the Liberation of the Working Class in February 1897, including Lenin and Alexander Malchenko. https://en.wikipedia.org/wiki/File:Union-de-Lucha.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Union-de-Lucha.jpg/640px-Union-de-Lucha.jpg[height=500]
+
+.Same as above, but with Alexander Malchenko edited out. https://en.wikipedia.org/wiki/File:St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Union-de-Lucha.jpg/640px-Union-de-Lucha.jpg[height=500]
+
 [[stalin]]
 ===== Stalin 斯大林 (1922-1952)
 
@@ -5136,6 +5149,8 @@ Profiles:
 
 Hao is widely considered one of the best Chinese soccer players of all time, and he was the top scorer for the Chinese national team of all time as of 2020, and one of the only two Chinese to show on https://iffhs.de/showLegends/men[IFFHS Legends] page which as of 2020 contains only 52 players including the likes of Pelé and Maradona.
 
+He participated in the 1994, 1998, 2002 and 2006 https://en.wikipedia.org/wiki/FIFA_World_Cup[FIFA World Cup] (世界杯) qualifiers, and therefore also at the https://en.wikipedia.org/wiki/2002_FIFA_World_Cup[2002 FIFA World Cup proper] held in South Korea and Japan, which is the only World Cup China classified for as of 2020, and https://en.wikipedia.org/wiki/China_at_the_FIFA_World_Cup[in which it failed to score a single goal].
+
 On 2020-06-03, one day before <<tiananmen>> anniversary, Hao appeared with his wife https://en.wikipedia.org/wiki/Ye_Zhaoying[Ye Zhaoying] (https://zh.wikipedia.org/wiki/叶钊颖[叶钊颖], married 2019), who was also a badmington star, on <<guo-wengui>>'s YouTube channel: https://www.youtube.com/watch?v=e4aN5h0RqD8&t=4496[], and spoke up against the CCP:
 
 * https://www.scmp.com/sport/china/article/3087684/chinese-sports-couple-hao-haidong-and-ye-zhaoying-face-being-wiped
@@ -5143,7 +5158,12 @@ On 2020-06-03, one day before <<tiananmen>> anniversary, Hao appeared with his w
 
 As a result, his son https://en.wikipedia.org/wiki/Runze_Hao[Hao Runze] (https://zh.wikipedia.org/wiki/郝潤澤[郝润泽], from a previous marriage) who is also a soccer player and had nothing to do with it was also sacked from the Serbian club https://en.wikipedia.org/wiki/FK_Radnički_Niš[Radnicki Nis] in which he played one week later due to pressure from China: https://www.scmp.com/sport/football/article/3088385/hao-haidongs-son-sacked-serbian-club-radnicki-nis-after-pressure The wiki page says that https://www.b92.net/sport/fudbal/vesti.php?yyyy=2020&mm=06&dd=09&nav_id=1693254 says the team says it was just a coincidence and that his contract had ended.
 
-The most interesting thing about all of this, is how Hao's name was completely <<internal-censorship,nuked form the Chinese Internet>>, making this a fantastic opportunity to unambiguosly document a censorship event. One is reminded of the <<nineteen-eighty-four>> "Every record has been destroyed or falsified" quote!
+The most interesting thing about all of this, is how Hao's name was completely <<internal-censorship,nuked form the Chinese Internet>>, making this a fantastic opportunity to unambiguously document a censorship event. One is reminded of:
+
+* <<censorship-of-images-in-the-soviet-union>>
+* <<nineteen-eighty-four>> "Every record has been destroyed or falsified" quote
+
+Some examples:
 
 * Zhihu: <<zhihu-censorship-of-hao-haidong>>
 * Baidu Baike: <<baidu-baike-censorship-of-hao-haidong>>
@@ -5157,6 +5177,10 @@ The most interesting thing about all of this, is how Hao's name was completely <
 *** 2003-03-17 http://www.people.cn/GB/channel23/853/854/200303/17/141331.html 僵尸王：恐郝不是恐中
 *** 2001-09-14 http://www.people.cn/digest/200107/14/tt0901401.html 甲A联赛大连队止住连胜势头
 *** 2001-02-21 http://www.people.cn/digest/200102/23/tt022310.html 米卢评点中国足球四大前锋
+
+Not yet taken down:
+
+* http://www.qiuball.com/zgzq/21354.html (https://web.archive.org/web/20191121030909/http://www.qiuball.com/zgzq/21354.html[archive]) Contains squad photo with Hao on top left.
 
 Online reactions:
 
@@ -5189,8 +5213,6 @@ Not nuked yet as of 2020-06, but nuked after, with before-after archives:
 ** up 2020-06-06 https://web.archive.org/web/20200606123634/https://www.zhihu.com/question/64992079
 ** down 2020-06-14 https://web.archive.org/web/20200606123634/https://www.zhihu.com/question/64992079
 
-Not nuked yet as of 2020-06 as per Ciro Santilli's eyewitness, but nuked a few days after, with before-after archives. Apologies for not properly archiving, Ciro was archiving too much on that day and his archive.org got temporarily blocked!
-
 Older archives that were nuked before Ciro managed to archive them on 2020-06-06:
 
 * https://www.zhihu.com/question/22038423
@@ -5222,6 +5244,16 @@ Nuked as per Ciro's eyewitness on 2020-06-06 without web archive, but could be f
 * https://zhuanlan.zhihu.com/p/138465029 郝海东争议言论登热搜，媒体人：他逐步从大炮变成公知网红 https://webcache.googleusercontent.com/search?q=cache:z7STI_34eocJ:https://zhuanlan.zhihu.com/p/138465029&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://zhuanlan.zhihu.com/p/141049893 郝海东被网友群嘲的五大原因 https://webcache.googleusercontent.com/search?q=cache:pEppZJ8K8VIJ:https://zhuanlan.zhihu.com/p/141049893&strip=1&vwsrc=0
 * https://zhuanlan.zhihu.com/p/145740098 塞超主帅：郝润泽不像郝海东，他更擅长于防守 And here is an archive from 2020-06-06 saying that the article was being modified to meet some guidelines: "文章被建议修改：违反知乎社区管理规定 作者修改内容通过后，文章会重新显示。" https://web.archive.org/web/20200606122827/https://zhuanlan.zhihu.com/p/145740098
+
+Nuked answers:
+
+* https://www.zhihu.com/question/19806854  中国队 2002 世界杯为什么会出线？
+** question up 2020-06-15 https://web.archive.org/web/20200615140650/https://www.zhihu.com/question/19806854[archive])
+** 2015 archive: https://web.archive.org/web/20151114093037/https://www.zhihu.com/question/19806854
+** top answer from 2015 archive https://www.zhihu.com/question/19806854/answer/19357252 is dead 2020-06-15 http://web.archive.org/web/20200615142339/http://web.archive.org/screenshot/https://www.zhihu.com/question/19806854/answer/19357252
+** existing answers do show Hao in videos however of course
+
+https://www.zhihu.com/question/19806854/answer/19357252
 
 ===== Baidu Baike censorship of Hao Haidong
 
@@ -5742,6 +5774,11 @@ On Chapter 5, Winston explains the erasing of the past to Julia:
 ____
 Do you realize that the past, starting from yesterday, has been actually abolished? If it survives anywhere, it's in a few solid objects with no words attached to them, like that lump of glass there. Already we know almost literally nothing about the Revolution and the years before the Revolution. Every record has been destroyed or falsified, every book has been rewritten, every picture has been repainted, every statue and street and building has been renamed, every date has been altered. And that process is continuing day by day and minute by minute. History has stopped. Nothing exists except an endless present in which the Party is always right. I know, of course, that the past is falsified, but it would never be possible for me to prove it, even when I did the falsification myself. After the thing is done, no evidence ever remains. The only evidence is inside my own mind, and I don't know with any certainty that any other human being shares my memories.
 ____
+
+See also:
+
+* <<censorship-of-images-in-the-soviet-union>>
+* <<hao-haidong>>
 
 With the advent of the Internet and <<wayback-machine>>, this has become a bit harder though :-)
 
