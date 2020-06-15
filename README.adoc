@@ -1,5 +1,6 @@
 = China Dictatorship 中国独裁统治
 :cirosantilli-media-base: https://raw.githubusercontent.com/cirosantilli/media/master/
+:docinfo: private-head
 :idprefix:
 :idseparator: -
 :sectanchors:
