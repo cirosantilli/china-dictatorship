@@ -1562,6 +1562,14 @@ image::https://web.archive.org/web/20200120095415/https://i.imgur.com/rA0K90g.jp
 .The legendary https://en.wikipedia.org/wiki/Grass_Mud_Horse[Grass Mud Horse 草泥马 (caonima)] is also said to appear in shitposts from time to time.
 image::https://web.archive.org/web/20200209012342if_/https://kpopalypse.files.wordpress.com/2014/01/alca.jpg[height=600]
 
+===== I am going to write a huge text to prove my point
+
+Feel free to do that, but no one will ever read most of it.
+
+If you want your comment to be read, choose your key point well, and deliver it.
+
+It is a shame that most people who are ever able to do that are <<shitpost,shitposters>>, but credit where credit is due.
+
 ==== Has Ciro Santilli you ever lived in China?
 
 Not as of 2019, he has only visited once in 2012, and it was <<does-ciro-santilli-hate-china,amazingly beautiful>>.
@@ -4647,14 +4655,36 @@ How I find them: <<anti-ccp-info-sources>>.
 ** <<biased-media,(biased)>> http://www.xinhuanet.com/english/2019-07/15/c_138229200.htm
 ** the full scanned letter: https://twitter.com/KevinPinner/status/1151868854781526016
 * 2019-07-02 https://www.theguardian.com/world/2019/jul/02/chinese-border-guards-surveillance-app-tourists-phones "Chinese border guards put secret surveillance app on tourists' phones"
-* 2019-05-09 https://www.youtube.com/watch?v=t2hBtXdaYsQ Cynthia Liu, daughter of Liu Changming (刘昌明) pleas freedom on YouTube, commented upload by CBS, TODO can't find original video on YouTube, maybe they sent straight to CBS?
-+
-video::t2hBtXdaYsQ[youtube,height=400,width=600]
-** 2018-11 https://www.businessinsider.com/liu-changming-china-holds-officials-family-hostage-to-force-return-2018-11 China is holding a renegade official's family hostage to pressure him to come back. Western media, for the love of God, include names in Chinese news titles: Liu Changming (刘昌明), wife Sandra Han, children Victor and Cynthia Liu.
 * 2019-04-28 https://www.bbc.co.uk/news/world-asia-48084019 Hong Kong: Thousands protest against China extradition law
 ** https://www.reddit.com/r/China/comments/auqkdl/biotech_giant_thermo_fisher_stops_selling_dna/
 * 2019-01 https://www.apnews.com/40f7cf4c0c6e43f18121af93f1e418f7 Microsoft Bing https://www.bing.com/ search engine blocked in China
 * 2019-01 https://www.nytimes.com/2019/01/02/business/china-internet-censor.html interview with Beyondsoft, a company that offers censorship services
+
+[[liu-changming]]
+==== The detention of Liu Changming's (刘昌明) family (2018)
+
+China imposed an exit ban on the ex-official's family, who are also USA citizens:
+
+* officer Liu Changming (刘昌明)
+* wife Sandra Han
+* children Victor Liu (born July 1999 in the USA) and Cynthia Liu (27 in 2019, born in China, but also American citizen)
+
+China says that the children and wife do have valid Chinese documents, so maybe those idiots did not give up their Chinese citizenship and went to China. Why, why, why would you do that? Don't they know anything about China?
+
+Cynthia claimed her father has left home a long time ago and that they are not in contact with their father.
+
+Liu is a so called https://en.wikipedia.org/wiki/Naked_official[naked official] (https://zh.wikipedia.org/wiki/裸官[裸官]), who let his family go live outside of China to prevent such problems with the CCP.
+
+The wiki page also explains that in 2014 rules were added to prevent promotion of officials whose spouses live abroad.
+
+This reminds Ciro of a Mafia movie, maybe Godfather II, where the bad guy says he "likes doing business with a man that has a family, because he has more collateral".
+
+Coverage:
+
+* 2018-11 https://www.businessinsider.com/liu-changming-china-holds-officials-family-hostage-to-force-return-2018-11
+
+.2019-05-09 https://www.youtube.com/watch?v=t2hBtXdaYsQ Cynthia Liu, daughter of Liu Changming (刘昌明) pleas freedom on YouTube. Commented upload by CBS, TODO can't find original video on YouTube, maybe they sent straight to CBS?
+video::t2hBtXdaYsQ[youtube,height=400,width=600]
 
 [[nine-nine-six-icu]]
 ==== 996.ICU
@@ -5103,27 +5133,19 @@ Profiles:
 * https://en.wikipedia.org/wiki/Hao_Haidong
 * https://zh.wikipedia.org/wiki/郝海东
 
-On 2020-06-03, one day before <<tiananmen>> anniversary, he appeared with his wife https://en.wikipedia.org/wiki/Ye_Zhaoying[Ye Zhaoying] (https://zh.wikipedia.org/wiki/叶钊颖[叶钊颖]), who was also a badmington star, on <<guo-wengui>>'s YouTube channel: https://www.youtube.com/watch?v=e4aN5h0RqD8&t=4496[], and spoke up against the CCP.
+Hao is widely considered one of the best Chinese soccer players of all time, and he was the top scorer for the Chinese national team of all time as of 2020, and one of the only two Chinese to show on https://iffhs.de/showLegends/men[IFFHS Legends] page which as of 2020 contains only 52 players including the likes of Pelé and Maradona.
 
-Coverage:
+On 2020-06-03, one day before <<tiananmen>> anniversary, Hao appeared with his wife https://en.wikipedia.org/wiki/Ye_Zhaoying[Ye Zhaoying] (https://zh.wikipedia.org/wiki/叶钊颖[叶钊颖], married 2019), who was also a badmington star, on <<guo-wengui>>'s YouTube channel: https://www.youtube.com/watch?v=e4aN5h0RqD8&t=4496[], and spoke up against the CCP:
 
+* https://www.scmp.com/sport/china/article/3087684/chinese-sports-couple-hao-haidong-and-ye-zhaoying-face-being-wiped
 * https://www.washingtonpost.com/9ae91df2-a6ec-11ea-898e-b21b9a83f792_story.html
 
-As a result, his son https://en.wikipedia.org/wiki/Runze_Hao[Hao Runze] (https://zh.wikipedia.org/wiki/郝潤澤[郝润泽]) who is also a soccer player and had nothing to do with it was also sacked from the Serbian club https://en.wikipedia.org/wiki/FK_Radnički_Niš[Radnicki Nis] in which he played one week later due to pressure from China: https://www.scmp.com/sport/football/article/3088385/hao-haidongs-son-sacked-serbian-club-radnicki-nis-after-pressure
+As a result, his son https://en.wikipedia.org/wiki/Runze_Hao[Hao Runze] (https://zh.wikipedia.org/wiki/郝潤澤[郝润泽], from a previous marriage) who is also a soccer player and had nothing to do with it was also sacked from the Serbian club https://en.wikipedia.org/wiki/FK_Radnički_Niš[Radnicki Nis] in which he played one week later due to pressure from China: https://www.scmp.com/sport/football/article/3088385/hao-haidongs-son-sacked-serbian-club-radnicki-nis-after-pressure The wiki page says that https://www.b92.net/sport/fudbal/vesti.php?yyyy=2020&mm=06&dd=09&nav_id=1693254 says the team says it was just a coincidence and that his contract had ended.
 
-Hao's named as <<internal-censorship,nuked form the Chinese Internet>>, this was a fantastic opportunity to unambiguosly document a censorship event:
+The most interesting thing about all of this, is how Hao's name was completely <<internal-censorship,nuked form the Chinese Internet>>, making this a fantastic opportunity to unambiguosly document a censorship event. One is reminded of the <<nineteen-eighty-four>> "Every record has been destroyed or falsified" quote!
 
 * Zhihu: <<zhihu-censorship-of-hao-haidong>>
-* Baidu Baike
-** Hao Haidong https://baike.baidu.com/item/郝海东/357512
-*** up 2020-06-06 https://web.archive.org/web/20200606060916/https://baike.baidu.com/item/郝海东/357512
-*** down 2020-06-14 (say "抱歉，您所访问的页面不存在..." and redirects to home page) https://web.archive.org/web/20200614094144/http://web.archive.org/screenshot/https://baike.baidu.com/item/%E9%83%9D%E6%B5%B7%E4%B8%9C/357512
-** Ye Zhaoying https://baike.baidu.com/item/叶钊颖
-*** up 2020-06-06  https://web.archive.org/web/20200614104922/https://webcache.googleusercontent.com/search?q=cache%3Akp6GBnsRNhQJ%3Ahttps%3A%2F%2Fbaike.baidu.com%2Fitem%2F%E5%8F%B6%E9%92%8A%E9%A2%96
-*** down 2020-06-14 (redirects to home page) https://web.archive.org/web/20200614105126/http://web.archive.org/screenshot/https://baike.baidu.com/item/%E5%8F%B6%E9%92%8A%E9%A2%96
-** https://baike.baidu.com/item/郝润泽
-** Hao Runze https://baike.baidu.com/item/郝润泽
-*** still up 2020-06-14 but locked, but casually forgets to mention that he is the fucking son of Haidong, which was likely edited out recently, but there is no edit history in Baidu Baike: https://web.archive.org/web/20200614105842/https://baike.baidu.com/item/郝润泽
+* Baidu Baike: <<baidu-baike-censorship-of-hao-haidong>>
 * <<peoples-daily>>
 ** down as of 2020-06-14
 *** 2016-03-01 http://m.people.cn/%2Fn4%2F2016%2F0301%2Fc1807-6348778.html 媒曝克罗地亚劲旅签郝海东之子 https://webcache.googleusercontent.com/search?q=cache:1elR0wSiJPIJ:m.people.cn/%252Fn4%252F2016%252F0301%252Fc1807-6348778.html+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu
@@ -5139,10 +5161,11 @@ Online reactions:
 
 * https://pincong.rocks/article/19974 "郝海东这个事情，让你匪进退两难" on <<pincong>>
 
-https://www.scmp.com/sport/china/article/3087684/chinese-sports-couple-hao-haidong-and-ye-zhaoying-face-being-wiped
-
 .Hao Haidong (in white) playing for the China national team against the Hong Kong's national team in a World Cup Asian zone qualifying match at Siu Sai Wan Sports Ground in 2004. Photo: <<scmp>>. https://www.scmp.com/sport/china/article/3087684/chinese-sports-couple-hao-haidong-and-ye-zhaoying-face-being-wiped[Source].
 image::https://web.archive.org/web/20200614100726if_/https://i.stack.imgur.com/sbraK.jpg[height=500]
+
+.https://www.youtube.com/watch?v=XgSwRwFBNFA Hao Haidong's top 10 goals, all with CCTV 5 watermark :-)
+video::https://www.youtube.com/watch?v=XgSwRwFBNFA[youtube,height=400,width=600]
 
 ===== Zhihu censorship of Hao Haidong
 
@@ -5176,6 +5199,7 @@ Older archives that were nuked before Ciro managed to archive them on 2020-06-06
 Nuked as per Ciro's eyewitness on 2020-06-06 without web archive, but could be found either on Google search or Zhihu search before those engines had properly cleared, taking Google caches and web archiving them + web archiving 404's as of 2020-06-14:
 
 * https://www.zhihu.com/question/23084831 如何评价足球运动员高峰？他与郝海东比的水平怎么样？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/23084831&client=ubuntu&hs=1uU&strip=1&vwsrc=0
+* https://www.zhihu.com/question/23416213 如何评价孙继海、郝海东、范志毅 ？ https://webcache.googleusercontent.com/search?q=cache:SEWC3OjJEYoJ:https://www.zhihu.com/question/23416213&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://www.zhihu.com/question/23939434 如果巅峰期的郝海东有机会去欧洲五大联赛踢球会取得什么样的成就？ https://webcache.googleusercontent.com/search?q=cache:OFjOxog6jiwJ:https://www.zhihu.com/question/23939434&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://www.zhihu.com/question/27060872 巅峰时期的范志毅、郝海东、李铁、李玮锋、孙继海、郑智 放到现在的中国足球应该出于什么水平？ http://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/27060872&client=ubuntu&hs=fvU&strip=1&vwsrc=0
 * https://www.zhihu.com/question/29833583 如何评价郝海东认为“英国人不会踢球”？ https://webcache.googleusercontent.com/search?q=cache:jk7qxGW7v64J:https://www.zhihu.com/question/29833583&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
@@ -5197,6 +5221,48 @@ Nuked as per Ciro's eyewitness on 2020-06-06 without web archive, but could be f
 * https://zhuanlan.zhihu.com/p/138465029 郝海东争议言论登热搜，媒体人：他逐步从大炮变成公知网红 https://webcache.googleusercontent.com/search?q=cache:z7STI_34eocJ:https://zhuanlan.zhihu.com/p/138465029&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://zhuanlan.zhihu.com/p/141049893 郝海东被网友群嘲的五大原因 https://webcache.googleusercontent.com/search?q=cache:pEppZJ8K8VIJ:https://zhuanlan.zhihu.com/p/141049893&strip=1&vwsrc=0
 * https://zhuanlan.zhihu.com/p/145740098 塞超主帅：郝润泽不像郝海东，他更擅长于防守 And here is an archive from 2020-06-06 saying that the article was being modified to meet some guidelines: "文章被建议修改：违反知乎社区管理规定 作者修改内容通过后，文章会重新显示。" https://web.archive.org/web/20200606122827/https://zhuanlan.zhihu.com/p/145740098
+
+===== Baidu Baike censorship of Hao Haidong
+
+Hao Haidong's page https://baike.baidu.com/item/郝海东/357512[]:
+
+* up 2020-06-06 https://web.archive.org/web/20200606060916/https://baike.baidu.com/item/郝海东/357512
+* down 2020-06-14 (say "抱歉，您所访问的页面不存在..." and redirects to home page) https://web.archive.org/web/20200614094144/http://web.archive.org/screenshot/https://baike.baidu.com/item/%E9%83%9D%E6%B5%B7%E4%B8%9C/357512
+
+Article about the Chinese national soccer team https://baike.baidu.com/item/中国国家男子足球队[]:
+
+* archive of 2020-06-02 <<google-cache>>: https://web.archive.org/web/20200615071212/https://webcache.googleusercontent.com/search?q=cache:M5UlBifrUzsJ:https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E7%94%B7%E5%AD%90%E8%B6%B3%E7%90%83%E9%98%9F
+* archive from 2019-06-24 https://web.archive.org/web/20190624110500/https://baike.baidu.com/item/中国国家男子足球队
+* archive 2020-06-15: https://web.archive.org/web/20200615072004/https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E7%94%B7%E5%AD%90%E8%B6%B3%E7%90%83%E9%98%9F
+
+The article used to mention Hao extensively. He was:
+
+* second on the 知名人物 (famous people)
+* was the 进球最多者 (top scorer), a category which as completely removed
+* the list 射手榜 (top scorers?) is still there but casually starts at 宿茂臻 with 27 goals, and skips Hao which has 41
+* an entire section about Hao was removed entitled "永远的9号——郝海东" and saying how amazing he was, including a picture
+
+Ye Zhaoying's page https://baike.baidu.com/item/叶钊颖[]:
+
+* up 2020-06-06 https://web.archive.org/web/20200614104922/https://webcache.googleusercontent.com/search?q=cache%3Akp6GBnsRNhQJ%3Ahttps%3A%2F%2Fbaike.baidu.com%2Fitem%2F%E5%8F%B6%E9%92%8A%E9%A2%96
+* down 2020-06-14 (redirects to home page) https://web.archive.org/web/20200614105126/http://web.archive.org/screenshot/https://baike.baidu.com/item/%E5%8F%B6%E9%92%8A%E9%A2%96
+
+Ye won the https://en.wikipedia.org/wiki/BWF_World_Championships[BWF World Championships] (https://zh.wikipedia.org/wiki/世界羽毛球锦标赛[世界羽毛球锦标赛]), a biannual tournament that is likely the most prestigious in the world twice in 1995 and 1997, and her name had to be removed from the list of winners in Baidu https://baike.baidu.com/item/世界羽毛球锦标赛[]:
+
+* 2017-11-26 archive: https://web.archive.org/web/20171126131320/https://baike.baidu.com/item/世界羽毛球锦标赛 showing her as winner in 1995 and 1997
+* 2020-06-08 archive of <<google-cache>> https://web.archive.org/web/20200615080701/https://webcache.googleusercontent.com/search?q=cache:llXWVx3NX8kJ:https://baike.baidu.com/item/世界羽毛球锦标赛 before censors nuked her
+* 2020-06-15 archive after censors nuked her: https://web.archive.org/web/20200615080807/https://baike.baidu.com/item/%E4%B8%96%E7%95%8C%E7%BE%BD%E6%AF%9B%E7%90%83%E9%94%A6%E6%A0%87%E8%B5%9B
+
+The fact that badminton is a single player sport is great in this case, as it just puts more emphasis on her name as opposed to Hao's multiplayer soccer game:
+
+* 1995 Ye Zhaoying vs Han Jingna BWF finals: https://www.youtube.com/watch?v=DrO5g58tSUE Bracket: https://en.wikipedia.org/wiki/1995_IBF_World_Championships
+* 1997 Ye Zhaoying vs Gong Zhichao BWF finals: https://www.youtube.com/watch?v=ZiOi1bmZHo4 Bracket: https://en.wikipedia.org/wiki/1997_IBF_World_Championships
+
+Hao Runze's page https://baike.baidu.com/item/郝润泽
+
+* still up 2020-06-14 but locked: https://web.archive.org/web/20200614105842/https://baike.baidu.com/item/郝润泽
+* and casually forgets to mention that he is the fucking son of Haidong, which was likely edited out recently, but there is no edit history in Baidu Baike. <<google-cache>> was already from 2020-06-08 and missed the pre-edit. What a shame
+* The last entry says "2020年5月31日，郝润泽在塞尔维亚超级联赛第27轮尼什工人客场挑战纳普里达克的比赛中，首秀替补出场打入一球，帮助尼什工人实现绝平。" and also casually forgets to mention that he was fired two weeks later.
 
 [[zhou-fengsuo]]
 === Zhou Fengsuo 周锋锁
@@ -5329,6 +5395,7 @@ Related about university interference:
 
 Lists:
 
+* 2020-06-12 https://www.sciencemag.org/news/2020/06/fifty-four-scientists-have-lost-their-jobs-result-nih-probe-foreign-ties "Fifty-four scientists have lost their jobs as a result of NIH probe into foreign ties" and "In 93% of those cases, the hidden funding came from a Chinese institution." and "In the vast majority of cases, Lauer reported, the person being investigated has been an Asian man in his 50s."
 * https://threadreaderapp.com/thread/1262441045197049856.html List of professors around America caught selling secret research to the Chinese Communist Regime
 
 People:
@@ -5663,50 +5730,26 @@ This book is very fun to read, and it is not very long.
 * https://en.wikipedia.org/wiki/Thoughtcrime[Thourhgcrime], see also: <<thoughtcrime>>
 * https://en.wikipedia.org/wiki/Newspeak[Newspeak], see also "Cult-speak" from <<orange-papers>>
 
+Chapter 3, O'Brien explains the system to Winston:
+
+____
+In our world there will be no emotions except fear, rage, triumph, and self-abasement. Everything else we shall destroy--everything. Already we are breaking down the habits of thought which have survived from before the Revolution. We have cut the links between child and parent, and between man and man, and between man and woman. No one dares trust a wife or a child or a friend any longer. But in the future there will be no wives and no friends. Children will be taken from their mothers at birth, as one takes eggs from a hen. The sex instinct will be eradicated. Procreation will be an annual formality like the renewal of a ration card. We shall abolish the orgasm. Our neurologists are at work upon it now. There will be no loyalty, except loyalty towards the Party. There will be no love, except the love of Big Brother. There will be no laughter, except the laugh of triumph over a defeated enemy. There will be no art, no literature, no science. When we are omnipotent we shall have no more need of science. There will be no distinction between beauty and ugliness. There will be no curiosity, no enjoyment of the process of life. All competing pleasures will be destroyed. But always--do not forget this, Winston--always there will be the intoxication of power, constantly increasing and constantly growing subtler. Always, at every moment, there will be the thrill of victory, the sensation of trampling on an enemy who is helpless. If you want a picture of the future, imagine a boot stamping on a human face--for ever.'
+____
+
+On Chapter 5, Winston explains the erasing of the past to Julia:
+
+____
+Do you realize that the past, starting from yesterday, has been actually abolished? If it survives anywhere, it's in a few solid objects with no words attached to them, like that lump of glass there. Already we know almost literally nothing about the Revolution and the years before the Revolution. Every record has been destroyed or falsified, every book has been rewritten, every picture has been repainted, every statue and street and building has been renamed, every date has been altered. And that process is continuing day by day and minute by minute. History has stopped. Nothing exists except an endless present in which the Party is always right. I know, of course, that the past is falsified, but it would never be possible for me to prove it, even when I did the falsification myself. After the thing is done, no evidence ever remains. The only evidence is inside my own mind, and I don't know with any certainty that any other human being shares my memories.
+____
+
+With the advent of the Internet and <<wayback-machine>>, this has become a bit harder though :-)
+
 There is also a decent movie made released in the year, you guessed, 1984: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four_(1984_film) starring https://en.wikipedia.org/wiki/John_Hurt[John Hurt].
 
-The Law of gravity quote perfectly illustrates the CCPs approach to lying:
+On Chapter 4, The Law of Gravity quote perfectly illustrates the CCPs approach to lying:
 
 ____
-Anything could be true. The so-called laws of Nature were nonsense. The
-law of gravity was nonsense. 'If I wished,' O'Brien had said, 'I could
-float off this floor like a soap bubble.' Winston worked it out. 'If he
-THINKS he floats off the floor, and if I simultaneously THINK I see him
-do it, then the thing happens.' Suddenly, like a lump of submerged wreckage
-breaking the surface of water, the thought burst into his mind: 'It doesn't
-really happen. We imagine it. It is hallucination.' He pushed the thought
-under instantly. The fallacy was obvious. It presupposed that somewhere
-or other, outside oneself, there was a 'real' world where 'real' things
-happened. But how could there be such a world? What knowledge have we of
-anything, save through our own minds? All happenings are in the mind.
-Whatever happens in all minds, truly happens.
-____
-
-Another good one:
-
-____
-In our world
-there will be no emotions except fear, rage, triumph, and self-abasement.
-Everything else we shall destroy--everything. Already we are breaking down
-the habits of thought which have survived from before the Revolution. We
-have cut the links between child and parent, and between man and man, and
-between man and woman. No one dares trust a wife or a child or a friend
-any longer. But in the future there will be no wives and no friends.
-Children will be taken from their mothers at birth, as one takes eggs from
-a hen. The sex instinct will be eradicated. Procreation will be an annual
-formality like the renewal of a ration card. We shall abolish the orgasm.
-Our neurologists are at work upon it now. There will be no loyalty, except
-loyalty towards the Party. There will be no love, except the love of
-Big Brother. There will be no laughter, except the laugh of triumph over
-a defeated enemy. There will be no art, no literature, no science. When
-we are omnipotent we shall have no more need of science. There will be
-no distinction between beauty and ugliness. There will be no curiosity,
-no enjoyment of the process of life. All competing pleasures will be
-destroyed. But always--do not forget this, Winston--always there will be
-the intoxication of power, constantly increasing and constantly growing
-subtler. Always, at every moment, there will be the thrill of victory,
-the sensation of trampling on an enemy who is helpless. If you want a
-picture of the future, imagine a boot stamping on a human face--for ever.'
+Anything could be true. The so-called laws of Nature were nonsense. The law of gravity was nonsense. 'If I wished,' O'Brien had said, 'I could float off this floor like a soap bubble.' Winston worked it out. 'If he THINKS he floats off the floor, and if I simultaneously THINK I see him do it, then the thing happens.' Suddenly, like a lump of submerged wreckage breaking the surface of water, the thought burst into his mind: 'It doesn't really happen. We imagine it. It is hallucination.' He pushed the thought under instantly. The fallacy was obvious. It presupposed that somewhere or other, outside oneself, there was a 'real' world where 'real' things happened. But how could there be such a world? What knowledge have we of anything, save through our own minds? All happenings are in the mind. Whatever happens in all minds, truly happens.
 ____
 
 .https://youtube.com/watch?v=flhggnpCeHw Gravity scene from the 1984 movie.
@@ -6445,6 +6488,8 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 https://zh.wikipedia.org/wiki/V2EX
 
+Website: https://v2ex.com/
+
 Anything goes forum, but largely programmer dominated. Had <<icp-license>> in 2016, but lost it in 2019 to move servers back to USA, so shady. https://zh.greatfire.org/v2ex.com[Blocked in China as of 2020-06] according to <<greatfire>>.
 
 * 2015-12-23: https://v2ex.com/t/245507 (link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-12.html[Chromium CTRL-S save]) "搜 StackOverflow，无意间发现了这个，重点在那个评论" by https://v2ex.com/member/happypy1
@@ -6455,6 +6500,8 @@ Anything goes forum, but largely programmer dominated. Had <<icp-license>> in 20
 === Pincong 品葱
 
 https://zh.wikipedia.org/wiki/品葱
+
+Website: https://pincong.rocks/
 
 * 2019-10-30: https://www.pincong.rocks/question/id-10294__sort_key-agree_count__sort-ASC (https://web.archive.org/web/20191101091242/https://www.pincong.rocks/question/id-10294__sort_key-agree_count__sort-ASC[archive]) "怎么让大陆把 Github 墙了？" How to get GitHub blocked by the Firewall? OP apparently really wants to block it? If yes, <<so-block-cost,LOL>>. Trigerred by some 2019-10 <<notepad>> activity.
 * 2019-04-09: https://pincong.rocks/question/3383 | https://web.archive.org/web/20190413063930/https://pincong.rocks/question/3383 "【小众问题】为何 Stack Overflow 2019 开发者调查报告中，来自中国的开发者最为积极乐观？"
@@ -6479,7 +6526,7 @@ Website openly anti-CCP, e.g. the signup page has <<xi-jinping>> jokes. Very sim
 Backlinks to this page:
 
 * 2020-06-03 https://www.mohu.rocks/article/2227 (https://web.archive.org/web/20200606065812/https://www.mohu.rocks/article/2227[archive]) "专门开一个帖子，以后会把从各处搜刮来的六四学潮的视频、历史、文章之类放在这" (I'm creating this post to collect all the videos, history, articles, etc. that can be found anywhere about the <<tiananmen,Tiananmen Square protests>>)
-** Then one of the replies by "习羊羊与灰战狼" was "https://github.com/cirosantilli/china-dictatorship "提供一个很全的链接，几乎可以算是反共手册。里面的4.7是谈六四的" (Here is one very complete link, it could almost be considered an anti-CCP manual. Section 4.7 of that page is about Tiananmen.)
+** Then one of the replies by "习羊羊与灰战狼" was "https://github.com/cirosantilli/china-dictatorship "提供一个很全的链接，几乎可以算是反共手册。里面的4.7是谈六四的" (Here is one very complete link, it could almost be considered an anti-CCP manual. Section 4.7 of that page is about Tiananmen.) Ciro liked the sound of that very much :-)
 
 https://github.com/cirosantilli/china-dictatorship
 提供一个很全的链接，几乎可以算是反共手册。里面的4.7是谈六四的。
