@@ -2961,7 +2961,12 @@ People:
 * Cai Wei (蔡伟)
 * Xiao Tang (小唐), who is also Cai Wei's girlfriend
 
-In 2020-06-14 their families received calls saying that they had been charged with <<picking-quarrels>>: https://www.scmp.com/news/china/society/article/3089002/coronavirus-chinese-activists-held-posting-censored-articles
+In 2020-06-12 their families received calls saying that they had been charged with <<picking-quarrels>>:
+
+* https://www.scmp.com/news/china/society/article/3089002/coronavirus-chinese-activists-held-posting-censored-articles
+* https://www.rfa.org/mandarin/Xinwen/10-06122020154234.html
+
+Ciro's petition to free them: https://github.com/cirosantilli/chen-mei-cai-wei-ziyou
 
 TODO what are their GitHub accounts? Contributions appear to be anonymized behind: https://github.com/TerminusBot That appears to be just a shared account though, not an actual bot. So how did the police find their true identities? https://github.com/Terminus2049/Terminus2049.github.io/issues/598
 
