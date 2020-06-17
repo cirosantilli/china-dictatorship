@@ -964,7 +964,7 @@ It is amusing to see Soviet series criticizing dictatorships, given that the Sov
 [[most-chinese-people-like-their-dictatorship]]
 ===== Most Chinese people like their dictatorship 中国大众支持他们的独裁
 
-It is easy to reach an agreement, when everyone who disagrees goes to jail or gets killed due to https://en.wikipedia.org/wiki/Inciting_subversion_of_state_power[Inciting subversion of state power 煽动颠覆国家政权罪] or https://en.wikipedia.org/wiki/Picking_quarrels_and_provoking_trouble[Picking quarrels nad provoking trouble] (https://zh.wikipedia.org/wiki/寻衅滋事罪[寻衅滋事罪]).
+It is easy to reach an agreement, when everyone who disagrees goes to jail or gets killed due to https://en.wikipedia.org/wiki/Inciting_subversion_of_state_power[Inciting subversion of state power 煽动颠覆国家政权罪] or <<picking-quarrels>>.
 
 Also ask the millions of people who were affected by <<tiananmen>>, <<falun-gong>>, <<xinjiang>> or <<dissidents>>.
 
@@ -2922,6 +2922,7 @@ Non-information but also interesting:
 
 * https://github.com/Terminus2049/Terminus2049.github.io
 * https://terminus2049.github.io/
+* https://zh.wikipedia.org/wiki/端点星事件
 
 Jekyl GitHub Pages repository that saves full text copies of censored articles:
 
@@ -2959,6 +2960,8 @@ People:
 ** https://www.linkedin.com/in/玫-陈-1607b735/ a LinkedIn account with matching photo and name
 * Cai Wei (蔡伟)
 * Xiao Tang (小唐), who is also Cai Wei's girlfriend
+
+In 2020-06-14 their families received calls saying that they had been charged with <<picking-quarrels>>: https://www.scmp.com/news/china/society/article/3089002/coronavirus-chinese-activists-held-posting-censored-articles
 
 TODO what are their GitHub accounts? Contributions appear to be anonymized behind: https://github.com/TerminusBot That appears to be just a shared account though, not an actual bot. So how did the police find their true identities? https://github.com/Terminus2049/Terminus2049.github.io/issues/598
 
@@ -5419,6 +5422,7 @@ News and reports:
 
 Related about university interference:
 
+* 2020-06-17 https://asia.nikkei.com/Business/Technology/US-blacklists-China-s-MIT-as-tech-war-enters-new-phase Harbin Institute of Technology denied MATLAB support for being in the entity list, apparenty since may: https://www.commerce.gov/news/press-releases/2020/05/commerce-department-add-two-dozen-chinese-companies-ties-wmd-and
 * 2020-05-28 https://www.thetimes.co.uk/article/motion-backing-hong-kong-blocked-after-campaign-by-chinese-students-at-warwick-fsdfphr26 "Motion backing Hong Kong blocked after campaign by Chinese students at Warwick". The article mentions that "Just under 1,000 students voted in favour of the motion. Turnout was three times higher than other votes and officials said that it was a new record for participation."
 * 2020-05 Drew Pavlou 柏乐志
 ** https://en.wikipedia.org/wiki/University_of_Queensland[University of Queensland], Australia, was trying to get rid of him for anti-CCP campaign
@@ -6418,6 +6422,12 @@ The commies keep saying over and over that rule of law is always observed.
 But in reality they punish anyone who poses a political threat, even if they did nothing wrong themselves, some cases that come to mind:
 
 * 2020-06 Hao Runze, son of Hao Haidong, lost his job because his father spoke up against the CCP: <<hao-haidong>>. Did the CCP speak up for him, like the speak up whenever a Chinese citizen gets hurt?
+
+[[picking-quarrels]]
+==== Picking quarrels and provoking trouble 寻衅滋事罪
+
+* https://en.wikipedia.org/wiki/Picking_quarrels_and_provoking_trouble
+* https://zh.wikipedia.org/wiki/寻衅滋事罪
 
 [[mirrors]]
 == Mirrors of this page 这个网页的镜像
