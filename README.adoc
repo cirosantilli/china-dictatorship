@@ -6556,6 +6556,8 @@ https://zh.wikipedia.org/wiki/品葱
 
 Website: https://pincong.rocks/
 
+Uses a virtual currency system (游戏币): https://pincong.rocks/currency/rule/ Posting articles costs 20 points, and doing stuff like replying gives you a few points.
+
 * 2019-10-30: https://www.pincong.rocks/question/id-10294__sort_key-agree_count__sort-ASC (https://web.archive.org/web/20191101091242/https://www.pincong.rocks/question/id-10294__sort_key-agree_count__sort-ASC[archive]) "怎么让大陆把 Github 墙了？" How to get GitHub blocked by the Firewall? OP apparently really wants to block it? If yes, <<so-block-cost,LOL>>. Trigerred by some 2019-10 <<notepad>> activity.
 * 2019-04-09: https://pincong.rocks/question/3383 | https://web.archive.org/web/20190413063930/https://pincong.rocks/question/3383 "【小众问题】为何 Stack Overflow 2019 开发者调查报告中，来自中国的开发者最为积极乐观？"
 ** 2019-05: https://community.riskiq.com/search/pincong.rocks Pingong people deciding if they should ban Ciro Santilli? :-) commented there once: https://pincong.rocks/question/3383 (https://web.archive.org/web/20190810213122/https://pincong.rocks/question/3383[archive]) This also suggests that https://en.wikipedia.org/wiki/RiskIQ helps censorship in China
