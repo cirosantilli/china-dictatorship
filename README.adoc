@@ -2539,6 +2539,9 @@ Some Chinese spy stories:
 * 2019-11: Jerry Chun Shing Lee, naturalized American, convicted for being double agent while working at CIA after being in custody for 2 years
 ** https://www.nbcnews.com/politics/justice-department/former-cia-officer-sentenced-19-years-conspiring-chinese-spies-n1089341
 
+.<<rebel-pepper>> 2016-09-07 "宽衣<<xi-jinping-memes,撒币>>" depicting <<xi-jinping>> as a https://en.wikipedia.org/wiki/Pole_dance[pole dancer] and throwing money at other world leaders during the https://en.wikipedia.org/wiki/2016_G20_Hangzhou_summit[2016 G20 Hangzhou summit] is a reference to how China buys political influence in other countries by promising profitable trade deals with those countries. https://www.rfa.org/mandarin/biantailajiaomanhua/biantailajiaomanhua-09072016131637.html[Source].
+image::http://web.archive.org/web/20200618091710im_/https://www.rfa.org/mandarin/biantailajiaomanhua/biantailajiaomanhua-09072016131637.html/Untitled.jpg/image[height=400]
+
 ===== The West must ban the Chinese telecommunications software and hardware
 
 They are an entry point to spying, censorship and fake news.
@@ -5707,6 +5710,13 @@ Other cartoonists/illustrators:
 [[rebel-pepper]]
 ==== Rebel Pepper 变态辣椒
 
+* https://en.wikipedia.org/wiki/Rebel_Pepper
+* https://zh.wikipedia.org/wiki/王立銘
+
+Real name: Wang Liming (王立铭)
+
+Personal media:
+
 * https://twitter.com/remonwangxt
 * https://rebelpeppercartoons.com/
 
@@ -5715,6 +5725,9 @@ Without a doubt, the greatest anti-Communist joke cartoonist of the 2010s.
 As of 2019 he does work for xref:rfa[], so a possible list of all cartoons of this era can be found at: https://www.rfa.org/english/cartoons/story_archive
 
 His best work can be found scattered throughout this document in the relevant sections.
+
+.Rebel Pepper's self portrait as a perverted pepper (the literal translation of his Chinese name "变态辣椒") used in his Sina and Tencent accounts before those got deleted https://www.bbc.com/zhongwen/simp/china_watch/2014/08/140827_china_cartoonist[according to the BBC].
+image::http://web.archive.org/web/20200618092827if_/https://vignette.wikia.nocookie.net/cndissidents/images/a/ab/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92.jpg/revision/latest?cb=20161211033427&path-prefix=zh[height=400]
 
 ==== Paresh Nath
 
