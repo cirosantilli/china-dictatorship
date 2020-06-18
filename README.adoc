@@ -6373,7 +6373,7 @@ Bibliography:
 * https://chinese.stackexchange.com/questions/8355/角-毛-10-cents-for-money-why
 * https://forum.duolingo.com/comment/26832834/六元四角-vs-六块四毛钱
 
-.50-cent coin from the https://en.wikipedia.org/wiki/Fourth_series_of_the_renminbi[fourth series of renminbi] (https://zh.wikipedia.org/wiki/第四套人民币[第四套人民币], 1987-1997). This image is going to be very useful. Note the beautiful plum blossom drawings reminiscent of <<chinese-traditional-painting>> which <<ciro-santilli>> loves. https://en.wikipedia.org/wiki/File:5-chinese-jiao-coin-national-emblem-obverse-1.jpg[Source].
+.50-cent coin (五角) from the https://en.wikipedia.org/wiki/Fourth_series_of_the_renminbi[fourth series of renminbi] (https://zh.wikipedia.org/wiki/第四套人民币[第四套人民币], 1987-1997). This image is going to be very useful. Note the beautiful plum blossom drawings reminiscent of <<chinese-traditional-painting>> which <<ciro-santilli>> loves. Note how it uses 角 (jiao3) instead of 毛 (mao2). https://en.wikipedia.org/wiki/File:5-chinese-jiao-coin-national-emblem-obverse-1.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/2/2e/5-chinese-jiao-coin-national-emblem-obverse-1.jpg[height=400]
 
 [[how-to-deal-with-wumaos]]
