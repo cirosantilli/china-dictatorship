@@ -5828,7 +5828,7 @@ The Savage took it. "The Holy Bible, containing the Old and New Testaments" he r
 
 "The Varieties of Religious Experience. By William James."
 
-"And I've got plenty more," Mustapha Mond continued, resuming his seat. "A whole collection of pornographic old books. God in the safe and Ford on the shelves." He pointed with a laugh to his avowed li- brary-to the shelves of books, the rack full of reading-machine bob- bins and sound-track rolls.
+"And I've got plenty more," Mustapha Mond continued, resuming his seat. "A whole collection of pornographic old books. God in the safe and Ford on the shelves." He pointed with a laugh to his avowed library to the shelves of books, the rack full of reading-machine bobbins and soundtrack rolls.
 
 "But if you know about God, why don't you tell them?"
 ____
@@ -6351,6 +6351,17 @@ Bibliography:
 * 2015-05-20 https://www.rfa.org/english/news/china/files-05202015150018.html "Hackers Leak Files Showing Inner Workings of 'China's 50-Cent Army'", hacker group name "Unicorn Nocturne". TODO material, silly reporters that don't give links
 * 2014 emails of some Wumaos were hacked/phished and leaked at https://xiaolan.me/50-cent-party-jxgzzg.html (down, no web archive, but https://archive.is/BNNQe[]) revealing operational details
 ** https://qz.com/311832/hacked-emails-reveal-chinas-elaborate-and-absurd-internet-propaganda-machine/
+
+毛 (mao2) is a colloquial form of 角 (jiao3) both meaning "one-tenth". Coins actually use 角. See also:
+
+* https://en.wikipedia.org/wiki/Renminbi#Coins The fourth and fifth series Wikipedia currently have a 50 cent picture:
+** https://en.wikipedia.org/wiki/Fourth_series_of_the_renminbi
+** https://en.wikipedia.org/wiki/Fifth_series_of_the_renminbi
+* https://chinese.stackexchange.com/questions/8355/角-毛-10-cents-for-money-why
+* https://forum.duolingo.com/comment/26832834/六元四角-vs-六块四毛钱
+
+.50-cent coin from the https://en.wikipedia.org/wiki/Fourth_series_of_the_renminbi[fourth series of renminbi] (https://zh.wikipedia.org/wiki/第四套人民币[第四套人民币], 1987-1997). This image is going to be very useful. Note the beautiful plum blossom drawings reminiscent of <<chinese-traditional-painting>> which <<ciro-santilli>> loves. https://en.wikipedia.org/wiki/File:5-chinese-jiao-coin-national-emblem-obverse-1.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/2/2e/5-chinese-jiao-coin-national-emblem-obverse-1.jpg[height=400]
 
 [[how-to-deal-with-wumaos]]
 ===== How to deal with wumaos 如何应对五毛
