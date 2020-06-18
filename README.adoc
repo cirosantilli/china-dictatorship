@@ -2540,7 +2540,7 @@ Some Chinese spy stories:
 ** https://www.nbcnews.com/politics/justice-department/former-cia-officer-sentenced-19-years-conspiring-chinese-spies-n1089341
 
 .<<rebel-pepper>> 2016-09-07 "宽衣<<xi-jinping-memes,撒币>>" depicting <<xi-jinping>> as a https://en.wikipedia.org/wiki/Pole_dance[pole dancer] and throwing money at other world leaders during the https://en.wikipedia.org/wiki/2016_G20_Hangzhou_summit[2016 G20 Hangzhou summit] is a reference to how China buys political influence in other countries by promising profitable trade deals with those countries. https://www.rfa.org/mandarin/biantailajiaomanhua/biantailajiaomanhua-09072016131637.html[Source].
-image::http://web.archive.org/web/20200618091710im_/https://www.rfa.org/mandarin/biantailajiaomanhua/biantailajiaomanhua-09072016131637.html/Untitled.jpg/image[height=400]
+image::https://web.archive.org/web/20200618091710im_/https://www.rfa.org/mandarin/biantailajiaomanhua/biantailajiaomanhua-09072016131637.html/Untitled.jpg/image[height=400]
 
 ===== The West must ban the Chinese telecommunications software and hardware
 
@@ -5241,7 +5241,7 @@ Nuked as per Ciro's eyewitness on 2020-06-06 without web archive, but could be f
 * https://www.zhihu.com/question/23084831 如何评价足球运动员高峰？他与郝海东比的水平怎么样？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/23084831&client=ubuntu&hs=1uU&strip=1&vwsrc=0
 * https://www.zhihu.com/question/23416213 如何评价孙继海、郝海东、范志毅 ？ https://webcache.googleusercontent.com/search?q=cache:SEWC3OjJEYoJ:https://www.zhihu.com/question/23416213&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://www.zhihu.com/question/23939434 如果巅峰期的郝海东有机会去欧洲五大联赛踢球会取得什么样的成就？ https://webcache.googleusercontent.com/search?q=cache:OFjOxog6jiwJ:https://www.zhihu.com/question/23939434&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
-* https://www.zhihu.com/question/27060872 巅峰时期的范志毅、郝海东、李铁、李玮锋、孙继海、郑智 放到现在的中国足球应该出于什么水平？ http://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/27060872&client=ubuntu&hs=fvU&strip=1&vwsrc=0
+* https://www.zhihu.com/question/27060872 巅峰时期的范志毅、郝海东、李铁、李玮锋、孙继海、郑智 放到现在的中国足球应该出于什么水平？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/27060872&client=ubuntu&hs=fvU&strip=1&vwsrc=0
 * https://www.zhihu.com/question/29833583 如何评价郝海东认为“英国人不会踢球”？ https://webcache.googleusercontent.com/search?q=cache:jk7qxGW7v64J:https://www.zhihu.com/question/29833583&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://www.zhihu.com/question/34155456 如何评价郝海东？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/34155456&client=ubuntu&hs=0bp&strip=1&vwsrc=0
 * https://www.zhihu.com/question/47528985 郝海东是亚洲第一前锋吗？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/47528985&client=ubuntu&hs=IxU&strip=1&vwsrc=0
@@ -5267,7 +5267,7 @@ Nuked answers:
 * https://www.zhihu.com/question/19806854  中国队 2002 世界杯为什么会出线？
 ** question up 2020-06-15 https://web.archive.org/web/20200615140650/https://www.zhihu.com/question/19806854[archive])
 ** 2015 archive: https://web.archive.org/web/20151114093037/https://www.zhihu.com/question/19806854
-** top answer from 2015 archive https://www.zhihu.com/question/19806854/answer/19357252 is dead 2020-06-15 http://web.archive.org/web/20200615142339/http://web.archive.org/screenshot/https://www.zhihu.com/question/19806854/answer/19357252
+** top answer from 2015 archive https://www.zhihu.com/question/19806854/answer/19357252 is dead 2020-06-15 https://web.archive.org/web/20200615142339/http://web.archive.org/screenshot/https://www.zhihu.com/question/19806854/answer/19357252
 ** existing answers do show Hao in videos however of course
 
 https://www.zhihu.com/question/19806854/answer/19357252
@@ -5726,8 +5726,8 @@ As of 2019 he does work for xref:rfa[], so a possible list of all cartoons of th
 
 His best work can be found scattered throughout this document in the relevant sections.
 
-.Rebel Pepper's self portrait as a perverted pepper (the literal translation of his Chinese name "变态辣椒") used in his Sina and Tencent accounts before those got deleted https://www.bbc.com/zhongwen/simp/china_watch/2014/08/140827_china_cartoonist[according to the BBC].
-image::http://web.archive.org/web/20200618092827if_/https://vignette.wikia.nocookie.net/cndissidents/images/a/ab/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92.jpg/revision/latest?cb=20161211033427&path-prefix=zh[height=400]
+.Rebel Pepper's self portrait as a perverted pepper (the literal translation of his Chinese name "变态辣椒") used in his Sina and Tencent accounts before those got deleted https://www.bbc.com/zhongwen/simp/china_watch/2014/08/140827_china_cartoonist[according to the BBC]. https://ecdm.fandom.com/zh/wiki/变态辣椒[Source].
+image::https://web.archive.org/web/20200618092827if_/https://vignette.wikia.nocookie.net/cndissidents/images/a/ab/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92.jpg/revision/latest?cb=20161211033427&path-prefix=zh[height=400]
 
 ==== Paresh Nath
 
@@ -6164,7 +6164,7 @@ Other tools:
 
 Their Wayback Machine tool archive snapshots of webpages and allows youto browse the history of all archives:
 
-* http://web.archive.org/
+* https://web.archive.org/
 * https://en.wikipedia.org/wiki/Wayback_Machine
 * https://zh.wikipedia.org/wiki/网站时光机
 
