@@ -2280,6 +2280,7 @@ In 2017 - 2018, details of https://en.wikipedia.org/wiki/Uyghurs[Uyghur] internm
 .<<rebel-pepper,Rebel Pepper>> 2017-04 cartoon showing that Xinjiang is like a prison inside a greater prison, which is China itself. Chinese characters read: 新疆(Xinjiang) and 中国(China). TODO source.
 image::https://web.archive.org/web/20191013085312if_/https://i.stack.imgur.com/mQFKa.png[height=600]
 
+* 2020-06-17 https://www.reuters.com/article/idUSKBN23O3EW "Trump signs bill pressuring China over Uighur Muslim crackdown"
 * 2019-12: https://www.youtube.com/watch?v=dEkliuqQo-g "A Secret Look Inside a Chinese Labor Program for Uighurs | Visual Investigations" by "The New York Times" published on Dec 30, 2019. Description: "China is relocating Uighurs and other Muslim minorities to urban areas as part of a contentious labor program. The Times obtained rare footage taken inside one."
 +
 video::dEkliuqQo-g[youtube,height=400,width=600]
@@ -5200,13 +5201,16 @@ Some examples:
 *** 2001-09-14 http://www.people.cn/digest/200107/14/tt0901401.html 甲A联赛大连队止住连胜势头
 *** 2001-02-21 http://www.people.cn/digest/200102/23/tt022310.html 米卢评点中国足球四大前锋
 
-Not yet taken down:
-
-* http://www.qiuball.com/zgzq/21354.html (https://web.archive.org/web/20191121030909/http://www.qiuball.com/zgzq/21354.html[archive]) Contains squad photo with Hao on top left.
-
 Online reactions:
 
 * https://pincong.rocks/article/19974 "郝海东这个事情，让你匪进退两难" on <<pincong>>
+
+Listings of the 2002 squad:
+
+* https://www.fifa.com/worldcup/archive/koreajapan2002/teams/team/43812/
+* https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads#China_PR
+* https://www.gettyimages.ae/detail/news-photo/china-line-up-for-a-team-photo-13-june-2002-at-the-seoul-news-photo/51528311 is the best photo available, clearly showing Hao first on top left, and https://www.gettyimages.co.uk/detail/news-photo/the-china-team-line-up-before-the-fifa-2002-world-cup-news-photo/969574 from the qualifiers with Hao on top right
+* http://www.qiuball.com/zgzq/21354.html (https://web.archive.org/web/20191121030909/http://www.qiuball.com/zgzq/21354.html[archive]) Contains squad photo with Hao on top left.
 
 .Hao Haidong (in white) playing for the China national team against the Hong Kong's national team in a World Cup Asian zone qualifying match at Siu Sai Wan Sports Ground in 2004. Photo: <<scmp>>. https://www.scmp.com/sport/china/article/3087684/chinese-sports-couple-hao-haidong-and-ye-zhaoying-face-being-wiped[Source].
 image::https://web.archive.org/web/20200614100726if_/https://i.stack.imgur.com/sbraK.jpg[height=500]
@@ -5275,7 +5279,10 @@ Nuked answers:
 ** top answer from 2015 archive https://www.zhihu.com/question/19806854/answer/19357252 is dead 2020-06-15 https://web.archive.org/web/20200615142339/http://web.archive.org/screenshot/https://www.zhihu.com/question/19806854/answer/19357252
 ** existing answers do show Hao in videos however of course
 
-https://www.zhihu.com/question/19806854/answer/19357252
+Ye also nuked:
+
+* https://web.archive.org/web/20200618190141/https://www.zhihu.com/topic/20058377
+* https://web.archive.org/web/20200618190052/http://webcache.googleusercontent.com/search?q=cache:JF35Ecar-a8J:https://www.zhihu.com/topic/20058377&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 
 ===== Baidu Baike censorship of Hao Haidong
 
@@ -5306,12 +5313,14 @@ Ye won the https://en.wikipedia.org/wiki/BWF_World_Championships[BWF World Champ
 
 * 2017-11-26 archive: https://web.archive.org/web/20171126131320/https://baike.baidu.com/item/世界羽毛球锦标赛 showing her as winner in 1995 and 1997
 * 2020-06-08 archive of <<google-cache>> https://web.archive.org/web/20200615080701/https://webcache.googleusercontent.com/search?q=cache:llXWVx3NX8kJ:https://baike.baidu.com/item/世界羽毛球锦标赛 before censors nuked her
-* 2020-06-15 archive after censors nuked her: https://web.archive.org/web/20200615080807/https://baike.baidu.com/item/%E4%B8%96%E7%95%8C%E7%BE%BD%E6%AF%9B%E7%90%83%E9%94%A6%E6%A0%87%E8%B5%9B
+* 2020-06-15 archive after censors nuked her: https://web.archive.org/web/20200615080807/https://baike.baidu.com/item/%E4%B8%96%E7%95%8C%E7%BE%BD%E6%AF%9B%E7%90%83%E9%94%A6%E6%A0%87%E8%B5%9B[]. In 1995 and 1997 it seems that one the female singles (女子单打), even though they did happen in 1993 and 1997. How curious!
 
 The fact that badminton is a single player sport is great in this case, as it just puts more emphasis on her name as opposed to Hao's multiplayer soccer game:
 
 * 1995 Ye Zhaoying vs Han Jingna BWF finals: https://www.youtube.com/watch?v=DrO5g58tSUE Bracket: https://en.wikipedia.org/wiki/1995_IBF_World_Championships
 * 1997 Ye Zhaoying vs Gong Zhichao BWF finals: https://www.youtube.com/watch?v=ZiOi1bmZHo4 Bracket: https://en.wikipedia.org/wiki/1997_IBF_World_Championships
++
+Hunan website about Gong Zhichao confirming that: https://web.archive.org/web/20200618174728/http://www.enghunan.gov.cn/hneng/AboutHunan/HistoryCulture/Celebrities/201508/t20150807_1816328.html
 
 Hao Runze's page https://baike.baidu.com/item/郝润泽
 
@@ -6320,7 +6329,9 @@ image::https://upload.wikimedia.org/wikipedia/commons/3/36/金瓶梅格子门插
 
 They can be classified as a form of https://en.wikipedia.org/wiki/Information_warfare[information warfare] (https://zh.wikipedia.org/wiki/信息战[信息战]).
 
-To a large extent, wumao's goals are to dillute useful conversation with shit. Therefore, it is crucial to have a working algorithmic policy to handle them: <<how-to-deal-with-wumaos>>.
+To a large extent, wumao's goals are to dilute useful conversation with shit, normally <<evil-west>> and <<western-democracies-are-not-perfect>>
+
+Therefore, it is crucial to have a working algorithmic policy to handle them: <<how-to-deal-with-wumaos>>.
 
 A wise person once said:
 
