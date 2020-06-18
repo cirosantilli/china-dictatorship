@@ -926,7 +926,9 @@ See: <<seventeen-moments-of-spring>>
 * https://en.wikipedia.org/wiki/Seventeen_Moments_of_Spring
 * https://ru.wikipedia.org/wiki/Семнадцать_мгновений_весны_(телефильм)
 
-<<russia,Soviet>> mini-series about about Stierlitz, who is an undercover Soviet spy acting as a Nazi officer in <<nazi,Nazi Germany during WW2>>..
+<<russia,Soviet>> mini-series about about Stierlitz, who is an undercover Soviet spy acting as a Nazi officer in <<nazi,Nazi Germany during WW2>>.
+
+As a fun note, it seems that <<putin>> is a Stierlitz fan: https://en.wikipedia.org/wiki/Stierlitz#cite_note-Sakwa-5[], and Putin also served in Germany like Stierlitz, but in Dresden, which was in East Germany.
 
 A scene from the awesome mini-series comes to mind when thinking about <<i-like-my-dictatorship>>.
 
@@ -2600,7 +2602,7 @@ image::https://web.archive.org/web/20190814074955/https://i.redd.it/nodgcqmwtcg3
 .<<rebel-pepper>> 2018-12-10 "Why does the whole world hate me" Huawei cartoon, where Huawei's shadow shows the https://en.wikipedia.org/wiki/Hammer_and_sickle[hammer and sickle] to suggest that Huawei is controlled by the CCP. https://www.rfa.org/english/cartoons/Huawei-cartoon-12102018152050.html[Source].
 image::https://web.archive.org/web/20181211133001im_/https://www.rfa.org/english/cartoons/Huawei-cartoon-12102018152050.html/181210RFA-Huawei.jpg/@@images/7cbd8e6e-aede-4c53-98be-3c9a8d40e293.jpeg[height=400]
 
-.<<rebel-pepper>> 2019-03-08 showing Huawei slapping the Statue of Liberty with "The Constitution of the United States" when Huawei sued the US Government for violating the Constitution. This illustrates the usual dilemma where <<what-should-western-countries-do-about-china,China uses Western freedom of speech as a weapon against the West itself>>. https://www.rfa.org/english/cartoons/chinashuawei-03082019162541.html[Source].
+.<<rebel-pepper>> 2019-03-08 showing Huawei slapping the Statue of Liberty with "The Constitution of the United States" when Huawei sued the US Government for violating the Constitution when it banned government agencies from buying Huawei equipment. This illustrates the usual dilemma where <<what-should-western-countries-do-about-china,China uses Western freedom of speech as a weapon against the West itself>>. https://www.rfa.org/english/cartoons/chinashuawei-03082019162541.html[Source].
 image::https://web.archive.org/web/20200423092420im_/https://www.rfa.org/english/cartoons/chinashuawei-03082019162541.html/190308RFA-en1.jpg/@@images/90bf4dbb-1019-40a5-b58a-865672f6c808.jpeg[height=400]
 
 .Cartoon showing a huge China flag branded USB sucking up Western personal and military information like a vacuum cleaner in 2019-04-29 article entitled "Britain will regret doing business with Huawei". TODO cartoon author. https://retro-blogs.spectator.co.uk/2019/04/britain-will-regret-doing-business-with-huawei/[Source].
@@ -2608,6 +2610,9 @@ image::https://web.archive.org/web/20200423092410im_/https://retro-blogs.spectat
 
 .Cartoon suggesting that Huawei is a like a https://en.wikipedia.org/wiki/Trojan_Horse[Trojan Horse] being gifted to Europe. TODO: source of original non-China generic Trojan Horse background image that was edited and repurposed. https://twitter.com/DaichiWatanbe/status/1231189285325475840[Source].
 image::https://web.archive.org/web/20200222121210im_/https://pbs.twimg.com/media/ERYQHj_XYAEQsfN.jpg[height=400]
+
+.<<rebel-pepper>> 2019-06-22 cartoon depicting Germany, Hungary and the United Kingdom as https://en.wikipedia.org/wiki/Gollum[Gollum]s from https://en.wikipedia.org/wiki/The_Lord_of_the_Rings[The Lord of The Rings] and China as https://en.wikipedia.org/wiki/Sauron[Sauron] offering a ring which reads "5G to rule them" and "Huawei" to the Gollums who are eager to obtain it. This is a reference to The Lord of the Rings backstory in which Sauron bribed and controlled the rulers of the world by giving them https://en.wikipedia.org/wiki/Rings_of_Power[rings of power]. Now that Ciro thinks about it, maybe this was actually Tolkien making a reference to the political situation of his time. https://twitter.com/RadioFreeAsia/status/1100504518142365698[Source].
+image::https://pbs.twimg.com/media/D0XHAnBWkAIP8nj?format=jpg&name=small[height=400]
 
 [[tiktok]]
 ====== TikTok 抖音 (Douyin)
