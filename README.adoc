@@ -996,7 +996,7 @@ That is definitely true.
 
 Nothing is perfect in this world.
 
-I just think that they are way better than dictatorships.
+Ciro just believes that they are way better than a <<dictatorship>> like China.
 
 As link:https://en.wikipedia.org/wiki/Argument_from_authority[Churchill] once brilliantly link:https://richardlangworth.com/worst-form-of-government[put it]:
 
@@ -1066,6 +1066,12 @@ extraordinary rendition 非凡的演绎 +
 Abu Ghraib torture and prison abuse 阿布格莱布的酷刑和监狱虐待 +
 Henry Kissinger 亨利·基辛格
 ____
+
+Some quick replies to the idiotic things wumaos like to post:
+
+* https://en.wikipedia.org/wiki/Killing_of_George_Floyd[George Floyd] https://zh.wikipedia.org/wiki/乔治·弗洛伊德之死[乔治·弗洛伊德之死]: the murder video went viral and was not taken down (would have been in China), all four officers were charged, and the event sparked nation wide protests
++
+Wumao example: https://web.archive.org/web/20200618071130/https://github.com/cirosantilli/china-dictatorship/issues/112#issuecomment-645716105
 
 See also:
 
@@ -2714,7 +2720,7 @@ If you are not a wumao, consider this:
 * Ciro has in the past tried to be nice to stupid people, and they gave nasty replies
 * all discussion is useless, <<effect,only the keyword attack has any chance of having any effect, and even that is slim>>
 
-In order to not waste too much time on those, Ciro Santilli use the following strategy.
+In order to not waste too much time on those, Ciro Santilli uses the following strategy.
 
 If the original thread post is not very interesting, try to parse it quickly and reply once, always <<better-to-do,linking to the FAQ>>, and then unfollow the thread. This shows that you're still alive, and takes little effort.
 
@@ -6296,13 +6302,15 @@ image::https://upload.wikimedia.org/wikipedia/commons/3/36/金瓶梅格子门插
 
 They can be classified as a form of https://en.wikipedia.org/wiki/Information_warfare[information warfare] (https://zh.wikipedia.org/wiki/信息战[信息战]).
 
+To a large extent, wumao's goals are to dillute useful conversation with shit. Therefore, it is crucial to have a working algorithmic policy to handle them: <<how-to-deal-with-wumaos>>.
+
 A wise person once said:
 
 ____
 It is impossible to distinguish wumaos, idiots and <<not-chinese,brain washed>> people. So we just call all of them wumaos.
 ____
 
-It has been pointed out to me however that there is a funny slang name for brainwashed CCP supporters who are not necessarily paid professional wumaos: "https://zh.wikipedia.org/wiki/小粉紅[小粉紅]" (little pinks)
+It has been pointed out however that there is a funny slang name for brainwashed CCP supporters who are not necessarily paid professional wumaos: "https://zh.wikipedia.org/wiki/小粉紅[小粉紅]" (little pinks)
 
 Notable wumaos should be investigated by intelligence agencies.
 
@@ -6346,6 +6354,8 @@ Bibliography:
 
 [[how-to-deal-with-wumaos]]
 ===== How to deal with wumaos 如何应对五毛
+
+Above all, never reply intelligently to wumaos. Ignore all their notifications, and ignore their profile wherever possible. And if they start generating too many notifications, block them.
 
 * <<reply-policy>>
 * https://github.com/ckhung[C.K. Hung]'s wumao reply strategy: https://ckhung0.blogspot.com/2017/07/50-cents-party.html "為什麼我不刪五毛的回應反而要刪你的回應? 因為你只能跟人類講道理， 沒辦法跟原始物種講道理啊!" "Why I delete your posts, but I don't delete wumao's posts? Because it is only possible to reason with humans, it is not possible to reason with primitive animals!"
