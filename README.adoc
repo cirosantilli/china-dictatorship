@@ -1286,7 +1286,7 @@ Coverage:
 .The possibly Gay Putin clown image banned in 2017. https://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay[Source].
 image::https://web.archive.org/web/20200312233919if_/https://cdn1.i-scmp.com/sites/default/files/styles/1200x800/public/images/methode/2017/04/06/0a2ae706-1a94-11e7-b4ed-ac719e54b474_1280x720_145124.jpg[height=400]
 
-.Possibly Gay Putin kissing possibly Gay <<flg-trump,Trump>> mural entitled https://en.wikipedia.org/wiki/Make_Everything_Great_Again[Make Everything Great Again] painted in Lithuania in 2016 by by artists Dominykas Čečkauskas and Mindaugas Bonanu. It references the https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections[Russian interference in the 2016 United States elections]. It was https://www.theguardian.com/world/2016/aug/12/vandals-censor-image-of-putin-snogging-trump-lithuania[later vandalized]. Now we just need a Putin <<xi-jinping>> kiss. https://www.euractiv.com/section/global-europe/opinion/putin-will-pay-a-high-price-for-trumps-friendship/[Source].
+.Possibly Gay Putin kissing possibly Gay <<flg-trump,Trump>> mural entitled https://en.wikipedia.org/wiki/Make_Everything_Great_Again[Make Everything Great Again] painted in Lithuania in 2016 by by artists Dominykas Čečkauskas and Mindaugas Bonanu. It references the https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections[Russian interference in the 2016 United States elections]. It was https://www.theguardian.com/world/2016/aug/12/vandals-censor-image-of-putin-snogging-trump-lithuania[later vandalized]. Now we just need a Putin <<xi-jinping>> kiss. Trump Xi kiss https://www.dw.com/en/sierens-china-survival-of-the-fittest/a-49498499[can be found here]. https://www.euractiv.com/section/global-europe/opinion/putin-will-pay-a-high-price-for-trumps-friendship/[Source].
 image::https://web.archive.org/web/20191022004820if_/https://en.euractiv.eu/wp-content/uploads/sites/2/2016/11/Putin-Trump-kiss-800x450.jpg[height=400]
 
 [[skripal]]
@@ -5092,6 +5092,8 @@ For example, Cui Jian (崔健) <<nothing-to-my-name,"Nothing to My Name (一無�
 [[dissidents]]
 == Dissidents 持不同政见者
 
+=== Chinese dissidents
+
 Other sections:
 
 * <<people-arrested-for-reporting-on-the-2019-corona-virus>>
@@ -5099,14 +5101,15 @@ Other sections:
 
 Other lists:
 
-* https://en.wikipedia.org/wiki/List_of_Chinese_dissidents
+* Wikipedia list of Chinese dissidents
+** https://en.wikipedia.org/wiki/List_of_Chinese_dissidents
 ** https://zh.wikipedia.org/wiki/中华人民共和国被捕政治犯列表
 * https://www.frontlinedefenders.org/en/location/china Front Line Defenders
 * https://www.nchrd.org/ Chinese Human Rights Defenders
 * https://cppc1989.blogspot.com/ 中國政治犯關注 China Political Prisoner Concern. Chinese blog with an infinite list of Chinese political prisoners.
 
 [[xu-xiaodong]]
-=== Xu Xiaodong "Mad Dog" 徐晓冬
+==== Xu Xiaodong "Mad Dog" 徐晓冬
 
 https://en.wikipedia.org/wiki/Xu_Xiaodong | https://zh.wikipedia.org/wiki/徐晓冬
 
@@ -5131,7 +5134,7 @@ image::https://web.archive.org/web/20200201020038if_/https://cdn.i-scmp.com/site
 video::0XwXaCbfIGw[youtube,height=400,width=600]
 
 [[programthink]]
-=== Programthink 编程随想
+==== Programthink 编程随想
 
 Very popular Chinese language anonymous blogger that publishes software programming tutorials and political content since 2009, often negative about the CCP, in particular <<censorship,anti-censorship>> and <<brainwashed-by-usa,anti-CCP-brainwashing>>.
 
@@ -5151,7 +5154,7 @@ The project is also known as "zhao" which is another slang reference to "太子�
 image::https://web.archive.org/web/20191218082236if_/https://avatars0.githubusercontent.com/u/4027957?s=400&v=4[height=400]
 
 [[guo-wengui]]
-=== Guo Wengui 郭文贵
+==== Guo Wengui 郭文贵
 
 * https://en.wikipedia.org/wiki/Guo_Wengui
 * https://zh.wikipedia.org/wiki/郭文贵
@@ -5165,7 +5168,7 @@ Profiles:
 * 2019-07-24 https://www.scmp.com/news/china/article/3019840/chinese-fugitive-tycoon-and-member-trumps-mar-lago-also-spy "Is Guo Wengui, Chinese fugitive tycoon and member of Trump’s Mar-a-Lago, also a spy?"
 
 [[hao-haidong]]
-==== Hao Haidong 郝海东 (2020)
+===== Hao Haidong 郝海东 (2020)
 
 * https://en.wikipedia.org/wiki/Hao_Haidong
 * https://zh.wikipedia.org/wiki/郝海东
@@ -5218,7 +5221,7 @@ image::https://web.archive.org/web/20200614100726if_/https://i.stack.imgur.com/s
 .https://www.youtube.com/watch?v=XgSwRwFBNFA Hao Haidong's top 10 goals, all with CCTV 5 watermark :-)
 video::https://www.youtube.com/watch?v=XgSwRwFBNFA[youtube,height=400,width=600]
 
-===== Zhihu censorship of Hao Haidong
+====== Zhihu censorship of Hao Haidong
 
 <<zhihu>> (and the rest of the Chinese Internet) basically nuked a gazillion articles that mentioned him, including old ones that had nothing to do with his political views.
 
@@ -5284,7 +5287,7 @@ Ye also nuked:
 * https://web.archive.org/web/20200618190141/https://www.zhihu.com/topic/20058377
 * https://web.archive.org/web/20200618190052/http://webcache.googleusercontent.com/search?q=cache:JF35Ecar-a8J:https://www.zhihu.com/topic/20058377&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 
-===== Baidu Baike censorship of Hao Haidong
+====== Baidu Baike censorship of Hao Haidong
 
 Hao Haidong's page https://baike.baidu.com/item/郝海东/357512[]:
 
@@ -5329,7 +5332,7 @@ Hao Runze's page https://baike.baidu.com/item/郝润泽
 * The last entry says "2020年5月31日，郝润泽在塞尔维亚超级联赛第27轮尼什工人客场挑战纳普里达克的比赛中，首秀替补出场打入一球，帮助尼什工人实现绝平。" and also casually forgets to mention that he was fired two weeks later.
 
 [[zhou-fengsuo]]
-=== Zhou Fengsuo 周锋锁
+==== Zhou Fengsuo 周锋锁
 
 https://en.wikipedia.org/wiki/Zhou_Fengsuo | https://zh.wikipedia.org/wiki/周锋锁
 
@@ -5341,8 +5344,12 @@ The commies have messed with the wrong guy's <<ciro-santilli-mother-in-law-jail,
 一个程序员在专业网站上发布六四和法轮功的消息，目的是触怒中共，封杀网站，从而激起程序员的反抗。因为岳母被抓半个月。
 ____
 
+=== Western dissidents
+
+* LeLe Farley 乐乐法利: https://www.youtube.com/channel/UCyYlGTZL-HnnX_UcGkVFH7A
+
 [[serpentza-laowhy86]]
-=== Winston Sterzel (SerpentZA) and Matthew Tye (laowhy86)
+==== Winston Sterzel (SerpentZA) and Matthew Tye (laowhy86)
 
 https://en.wikipedia.org/wiki/Winston_Sterzel
 
@@ -6329,10 +6336,6 @@ image::https://upload.wikimedia.org/wikipedia/commons/3/36/金瓶梅格子门插
 
 They can be classified as a form of https://en.wikipedia.org/wiki/Information_warfare[information warfare] (https://zh.wikipedia.org/wiki/信息战[信息战]).
 
-To a large extent, wumao's goals are to dilute useful conversation with shit, normally <<evil-west>> and <<western-democracies-are-not-perfect>>
-
-Therefore, it is crucial to have a working algorithmic policy to handle them: <<how-to-deal-with-wumaos>>.
-
 A wise person once said:
 
 ____
@@ -6341,7 +6344,23 @@ ____
 
 It has been pointed out however that there is a funny slang name for brainwashed CCP supporters who are not necessarily paid professional wumaos: "https://zh.wikipedia.org/wiki/小粉紅[小粉紅]" (little pinks)
 
-Notable wumaos should be investigated by intelligence agencies.
+To a large extent, wumao's goals are to dilute useful conversation with shit, normally <<evil-west>> and <<western-democracies-are-not-perfect>>.
+
+This leads to endless idiotic conversions of type:
+
+____
+You: Chinese friend, your house is on fire, let's try to put the fire out!
+
+Wumao: I don't care, your house is also on fire!
+
+You: that's true, that fire is also very serious, and I'm trying to put it out!
+
+Wumao: look everyone, his house is on fire! Mine isn't!
+____
+
+Therefore, it is crucial to have a working algorithmic policy to handle them: <<how-to-deal-with-wumaos>>.
+
+Notable wumaos <<what-should-western-countries-do-about-china,should be investigated by intelligence agencies>>.
 
 If it is determined that they are knowingly funded by China, they should be put into jail as foreign agents.
 

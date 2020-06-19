@@ -2,15 +2,23 @@
 
 Forbidden:
 
--   swearing / being very aggressive, specially when there is no real content.
+-   at mention @cirosantilli unless there is moderation need.
 
-    Keep in mind that my Chinese sucks, so I may not get the full nuance of your comment.
+    If Ciro unsubscribed from a thread, it means that he does not want to reply there anymore.
 
--   generating lots of notifications for me that don't teach me anything new.
+    Create a new issues instead if it makes sense.
 
-    I don't have that much time to waste.
+-   generate lots of notifications that don't teach people anything new.
 
-    If I can unsubscribe from your notifications however, you are free to comment away.
+    If you want to shitpost, fine, but keep the number of issues and comments small.
+
+    People don't have that much time to waste.
+
+-   swearing/being very aggressive on a [`not-shitpost`](https://github.com/cirosantilli/china-dictatorship) post.
+
+    Keep in mind that [Ciro's Chinese sucks](https://github.com/cirosantilli/china-dictatorship#does-ciro-santilli-speak-chinese), so he may not get the full nuance of your comment, especially if you use a ton of [slang](https://github.com/cirosantilli/china-dictatorship#slang).
+
+    On `shitpost` posts however, you can be as aggressive as you want.
 
 Punitive measures, from least serious to most serious:
 
