@@ -5346,7 +5346,7 @@ ____
 
 === Western dissidents
 
-* LeLe Farley 乐乐法利: https://www.youtube.com/channel/UCyYlGTZL-HnnX_UcGkVFH7A
+* LeLe Farley (乐乐法利): https://www.youtube.com/channel/UCyYlGTZL-HnnX_UcGkVFH7A
 
 [[serpentza-laowhy86]]
 ==== Winston Sterzel (SerpentZA) and Matthew Tye (laowhy86)
@@ -5546,6 +5546,51 @@ Falun Gong's newspaper with news for "general public consumption" an no clear af
 
 Li speaking to New Tang conference in <<flg-canon,canon>>: https://big5.falundafa.org/chibig5/jiangfa9_3.htm 在新唐人電視討論會上的講法
 
+Related shows:
+
+* https://www.youtube.com/user/Laowaikanzhongguo Laowai kan Zhongguo 老外看中國
+* https://www.youtube.com/user/NTDOffTheGreatWall Off the Great Wall
+
+====== China Uncensored YouTube channel
+
+https://www.youtube.com/channel/UCgFP46yVT-GG4o1TgXn-04Q
+
+Hosted by Chris Chappell.
+
+Older shows had an "ndt.tv" water mark on top right, e.g. a 2013 video: https://www.youtube.com/watch?v=nmMvS3lgJBs
+
+The video description also links to http://e.ntd.tv/NTDChinaUncensored which is now down, but has archives such as https://web.archive.org/web/20130321071835/http://e.ntd.tv/NTDChinaUncensored which suggest a redirect back to the YouTube channel:
+
+____
+Redirecting to...
+
+http://www.youtube.com/playlist?list=PLZZhVHPaO1ziCc9dRPrgbz2KU0aZF7CJ-
+____
+
+TODO why did newer videos remove the water mark and clear link? Did they break links, or just to hide Falun Gong influence?
+
+Home page gives extremely unusual importance to Falun Gong resources, e.g.:
+
+* http://www.chinauncensored.tv/about/ (https://web.archive.org/web/20190426203719/http://www.chinauncensored.tv/about/[archive]) "China Uncensored is available to watch on this website, on YouTube, on New Tang Dynasty Television"
+* http://www.chinauncensored.tv/campaigns/ (https://web.archive.org/web/20190512160736/http://www.chinauncensored.tv/campaigns/[archive]) "Chinese police illegally arrested Canadian citizen Sun Qian from her home in Beijing for practicing Falun Gong."
+
+Website credits as of 2020:
+
+* Host Chris Chappell
+* Producer Matt Gnaizda: his LinkedIn https://www.linkedin.com/in/matt-gnaizda-6598a75/ has a gap from 2009 to 2017, after having graduated from University of California, Berkeley, and worked "regular" jobs. This gap could have been when he converted to Falun Gong and started working for Falun Gong media
+** https://twitter.com/mattgnaizda
+** https://www.theepochtimes.com/author-matt-gnaizda <<epoch-times>> credits him with several articles between 2005 and 2014
+* Humor Ninja Shelley Zhang. She appears  appears to be a professional comedy writer:
+** https://twitter.com/shelzhang
+** https://www.linkedin.com/in/shelley-zhang-a5741a56/
+** https://thechinagirls.wordpress.com/
+
+Related:
+
+* https://www.quora.com/How-is-the-YouTube-show-China-Uncensored-funded/answer/Ciro-Santilli
+* https://www.quora.com/Is-the-YouTube-channel-China-Uncensored-a-trustworthy-source-of-information-on-China
+* https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html (https://web.archive.org/web/20190119083517/https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html[archive]) Epoch Times highlights the channel "Why YouTube’s Most Popular Channel on China Politics Doesn’t Show in Search Suggestions"
+
 [[minghui]]
 ===== Minghui 明慧网
 
@@ -5594,44 +5639,6 @@ From this we deduce that the "banned book" in the domain name originally likely 
 Once again, <<flg-transparent>> is in need.
 
 TODO who is behind this website? They store full text copies of banned articles, e.g. https://www.bannedbook.org/bnews/baitai/20190816/1175647.html is a full text copy of http://yashalong.blog.caixin.com/archives/188877 which is mentioned at: <<nazi>>.
-
-[[new-tang-dinasty-television]]
-===== New Tang Dinasty Television 新唐人電視台
-
-* https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television
-* https://zh.wikipedia.org/wiki/新唐人電視台
-
-Related shows:
-
-* https://www.youtube.com/user/Laowaikanzhongguo Laowai kan Zhongguo 老外看中國
-* https://www.youtube.com/user/NTDOffTheGreatWall Off the Great Wall
-
-====== China Uncensored YouTube channel
-
-https://www.youtube.com/channel/UCgFP46yVT-GG4o1TgXn-04Q
-
-Older shows had ndt.tv water mark on top right, e.g. a 2013 video: https://www.youtube.com/watch?v=nmMvS3lgJBs
-
-The video description also links to http://e.ntd.tv/NTDChinaUncensored which is now down, but has archives such as https://web.archive.org/web/20130321071835/http://e.ntd.tv/NTDChinaUncensored which suggest a redirect back to the YouTube channel:
-
-____
-Redirecting to...
-
-http://www.youtube.com/playlist?list=PLZZhVHPaO1ziCc9dRPrgbz2KU0aZF7CJ-
-____
-
-TODO why did newer videos remove the water mark and clear link? Did they break links, or just to hide Falun Gong influence?
-
-Home page gives extremely unusual importance to Falun Gong resources, e.g.:
-
-* http://www.chinauncensored.tv/about/ (https://web.archive.org/web/20190426203719/http://www.chinauncensored.tv/about/[archive]) "China Uncensored is available to watch on this website, on YouTube, on New Tang Dynasty Television"
-* http://www.chinauncensored.tv/campaigns/ (https://web.archive.org/web/20190512160736/http://www.chinauncensored.tv/campaigns/[archive]) "Chinese police illegally arrested Canadian citizen Sun Qian from her home in Beijing for practicing Falun Gong."
-
-Related:
-
-* https://www.quora.com/How-is-the-YouTube-show-China-Uncensored-funded/answer/Ciro-Santilli
-* https://www.quora.com/Is-the-YouTube-channel-China-Uncensored-a-trustworthy-source-of-information-on-China
-* https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html (https://web.archive.org/web/20190119083517/https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html[archive]) Epoch Times highlights the channel "Why YouTube’s Most Popular Channel on China Politics Doesn’t Show in Search Suggestions"
 
 ==== USA government media 美国政府媒体
 
@@ -6375,19 +6382,6 @@ Here are some people completely against blocking wumaos. Those silly Democrats n
 
 Wumaos are particularly easy to spot on <<censorship-monitoring,Western websites banned in China>> and when written in English, since there is no way that strong pro-CCP opinions would get any support in such circumstances:
 
-* https://www.youtube.com/channel/UCaSlyjhR4WC7QhYuaivxb6g/videos Nathan Rich. As mentioned at: https://medium.com/swlh/how-china-is-influencing-youtubers-into-posting-state-propaganda-db72acf18dfa:
-+
-____
-His vlogging career is inexplicably successful. He has 385,000 subscribers on his channel, a huge amount for someone with so little time and so few videos on the platform.".
-____
-+
-https://www.reddit.com/r/China/comments/au8az3/exscientologist_nathan_rich_is_a_convicted_felon/ mentions another interesting very strong evidence:
-+
-____
-His videos feature perfect Chinese in the subtitles along with Chinese video titles, meaning that he is almost certainly having these videos produced by someone else/and or a group of people. I can guarantee that based on his pronunciation of the few Chinese words he says in the video, his Chinese ability should not be anywhere close to fluent.
-____
-+
-And at https://www.youtube.com/watch?v=GRqcA04FtmM he says <<serpentza-laowhy86,SerpentZA>> is a fraud "because he criticizes China".
 * <<quora>> is completely infested by wumaos as of 2020, see more information on that section
 
 Bibliography:
@@ -6419,6 +6413,47 @@ Above all, never reply intelligently to wumaos. Ignore all their notifications, 
 * <<reply-policy>>
 * https://github.com/ckhung[C.K. Hung]'s wumao reply strategy: https://ckhung0.blogspot.com/2017/07/50-cents-party.html "為什麼我不刪五毛的回應反而要刪你的回應? 因為你只能跟人類講道理， 沒辦法跟原始物種講道理啊!" "Why I delete your posts, but I don't delete wumao's posts? Because it is only possible to reason with humans, it is not possible to reason with primitive animals!"
 * https://chinadigitaltimes.net/chinese/2019/08/【麻辣总局】新型敏感词武器：赵弹磁铁/
+
+[[ccp-apologists]]
+===== CCP apologists 中共辩护士
+
+If it is ever proven that those people are directly supported by the Chinese government, their nationalities should be revoked.
+
+* 伏拉夫 (fu2 la1 fu1): Russian, says I love China in ridiculously enthusiastic tone which is despised even by the Chinese, samples: https://www.youtube.com/watch?v=YMVRdeUrk-8[]
++
+Video by <<western-dissidents,Lele Farley>> making fun of him and <<nathan-rich>>: https://www.youtube.com/watch?v=DSM2_HgXKsM
++
+It does not feel like he is paid by the Chinese government, but rather that he is just trying to get some views.
++
+https://www.zhihu.com/question/334923127 如何评价俄罗斯籍中国网红伏拉夫？ on <<zhihu>> with 17k likes as of 2020-06.
+
+[[nathan-rich]]
+====== Nathan Rich 火锅大王
+
+* https://en.wikipedia.org/wiki/Nathan_Rich
+* https://zh.wikipedia.org/wiki/内森·瑞克
+
+YouTube channel: https://www.youtube.com/channel/UCaSlyjhR4WC7QhYuaivxb6g/videos
+
+As mentioned at: https://medium.com/swlh/how-china-is-influencing-youtubers-into-posting-state-propaganda-db72acf18dfa[]:
+
+____
+His vlogging career is inexplicably successful. He has 385,000 subscribers on his channel, a huge amount for someone with so little time and so few videos on the platform.".
+____
+
+https://www.reddit.com/r/China/comments/au8az3/exscientologist_nathan_rich_is_a_convicted_felon/ mentions another interesting very strong circumstantial evidence:
+
+____
+His videos feature perfect Chinese in the subtitles along with Chinese video titles, meaning that he is almost certainly having these videos produced by someone else/and or a group of people. I can guarantee that based on his pronunciation of the few Chinese words he says in the video, his Chinese ability should not be anywhere close to fluent.
+____
+
+It does feel possible that his content is prepared by the Government and that most of his followers are bots.
+
+And at https://www.youtube.com/watch?v=GRqcA04FtmM he says <<serpentza-laowhy86,SerpentZA>> is a fraud "because he criticizes China".
+
+Reception:
+
+* https://www.zhihu.com/question/310502367 "如何评价 B 站 UP 主「NathanRich火锅大王」？" on <<zhihu>>. TODO what is "B站UP"?
 
 [[real-username-law]]
 ==== Real username law (2015)
