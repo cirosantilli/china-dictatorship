@@ -1031,7 +1031,7 @@ Occupy WallStreet 占领华尔街 +
 My Lai Massacre 我的大屠杀 +
 St. Petersburg, Florida 佛罗里达州圣彼得堡 +
 Kandahar Massacre 坎大哈屠杀 +
-1992Washington Heights riots 1992年华盛顿高地暴动 +
+1992 Washington Heights riots 1992年华盛顿高地暴动 +
 No Gun Ri Massacre 无枪杀案 +
 L.A. Rodney King riots 洛杉矶罗德尼·金暴动 +
 1979 Greensboro Massacre 1979年格林斯伯勒大屠杀 +
@@ -4232,6 +4232,8 @@ Forbidding them also has huge humanitarian costs (more expensive vehicles, creat
 
 See also: <<orange-papers>> "Promised Powers or Knowledge".
 
+It is also interesting to note how the Chinese government itself supported Falun Gong and <<zhong-gong,other Qi Gong practices>> for their health benefits, which is why they grew so large in the first place. <<li-hongzhi>> was even <<history-of-falun-gong,awarded prizes and recognized as a Qi Gong master by state backed organizations in 1992 and 1993>>. And the CCP still has a tendency to support certain non-scientific traditional practices: <<support-for-non-scientific-traditional-practices>>.
+
 .https://youtu.be/kIpaDW3RwtY?t=244 one random thing ex-KGB spy undercover in the USA Jack Barsky mentioned in this BuzzFeed Multiplayer interview stuck to his mind: "The one thing that you have here, that I believe cannot be found anywhere else in the world is called Freedom, with a capital F".
 video::kIpaDW3RwtY[youtube,height=400,width=600,start=244]
 
@@ -4316,7 +4318,7 @@ Episodes could be split along:
 
 Parts of the series could be filmed in <<taiwan>> maybe?
 
-Source material: <<neutral-books-about-falun-gongs-history>>.
+Source material: <<history-of-falun-gong>>.
 
 [[li-hongzhis-family]]
 ====== Li Hongzhi's family 李洪志的家庭
@@ -4450,7 +4452,11 @@ https://medium.com/@Ben_D_Hurley/-10677166298b "Me and Li" by Ben Hurley publish
 
 This post by a former believer gives what <<ciro-santilli>> feels is a realistic account that matches Ciro's observations.
 
-===== Neutral books about Falun Gong's history
+[[history-of-falun-gong]]
+===== History of Falun Gong 法轮功历史
+
+* https://en.wikipedia.org/wiki/History_of_Falun_Gong
+* https://zh.wikipedia.org/wiki/法輪功歷史
 
 A few non-religious non-CCP resources can be found at:
 
@@ -5111,7 +5117,8 @@ Other lists:
 [[xu-xiaodong]]
 ==== Xu Xiaodong "Mad Dog" 徐晓冬
 
-https://en.wikipedia.org/wiki/Xu_Xiaodong | https://zh.wikipedia.org/wiki/徐晓冬
+* https://en.wikipedia.org/wiki/Xu_Xiaodong
+* https://zh.wikipedia.org/wiki/徐晓冬
 
 MMA fighter who beat up some kung-fu masters to prove that MMA is more effective than their traditional styles.
 
@@ -5462,6 +5469,7 @@ Related about university interference:
 * 2020-05 Drew Pavlou 柏乐志
 ** https://en.wikipedia.org/wiki/University_of_Queensland[University of Queensland], Australia, was trying to get rid of him for anti-CCP campaign
 ** https://www.theguardian.com/australia-news/2020/may/24/how-a-20-year-old-student-put-the-spotlight-on-australian-universities-cosy-relationship-with-china
+** https://www.youtube.com/watch?v=_o1sZefER0E <<china-uncensored-youtube-channel,China Unscripted>> interview
 
 ====== University espionage
 
@@ -5556,6 +5564,8 @@ Related shows:
 https://www.youtube.com/channel/UCgFP46yVT-GG4o1TgXn-04Q
 
 Hosted by Chris Chappell.
+
+Syster interview podcast channel: China Unscripted: https://www.youtube.com/watch?v=_o1sZefER0E The three makers of China Uncesored appear on the videos.
 
 Older shows had an "ndt.tv" water mark on top right, e.g. a 2013 video: https://www.youtube.com/watch?v=nmMvS3lgJBs
 
@@ -6530,6 +6540,7 @@ The commies keep saying over and over that rule of law is always observed.
 
 But in reality they punish anyone who poses a political threat, even if they did nothing wrong themselves, some cases that come to mind:
 
+* <<xinjiang>>: millions were jailed/forced to live with a spy in their homes, even though they were not terrorists themselves
 * 2020-06 Hao Runze, son of Hao Haidong, lost his job because his father spoke up against the CCP: <<hao-haidong>>. Did the CCP speak up for him, like the speak up whenever a Chinese citizen gets hurt?
 
 [[picking-quarrels]]
@@ -6537,6 +6548,13 @@ But in reality they punish anyone who poses a political threat, even if they did
 
 * https://en.wikipedia.org/wiki/Picking_quarrels_and_provoking_trouble
 * https://zh.wikipedia.org/wiki/寻衅滋事罪
+
+=== Support for non-scientific traditional practices
+
+This is especially interesting given that one of the main propaganda reasons for banning <<falun-gong>> was <<flg-medication>>:
+
+* <<xu-xiaodong>> reveals support for Tai Chi
+* 2020-06-03 Beijing considering censoring anti Chinese traditional medicine https://www.theguardian.com/world/2020/jun/03/beijing-draws-up-plans-to-outlaw-criticism-of-traditional-chinese-medicine
 
 [[mirrors]]
 == Mirrors of this page 这个网页的镜像
