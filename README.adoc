@@ -2075,10 +2075,6 @@ Notable ones only here (high rep or innovative criticism):
 ** https://stackoverflow.com/users/1009479/yu-hao
 ** https://archive.is/76FCb
 ** "<<gfw,GFW (Great Firewall of China)>> is one of the most notorious inventions in the history of Internet. Anyone working for it should be ashamed."
-* iBug
-** https://stackoverflow.com/users/5958455/ibug
-** iBug https://web.archive.org/web/20190507140910/https://stackoverflow.com/users/5958455/ibug
-** "The Communist Party of China is a state criminal that is continuously committing state crime to ordinary Chinese citizens!" followed by an event list.
 * gotqn
 ** "Free Tibet From China Domination"
 ** https://stackoverflow.com/users/1080354/gotqn
@@ -2275,7 +2271,9 @@ See also: <<photobombing-like-attacks>>.
 
 https://en.wikipedia.org/wiki/Xinjiang_re-education_camps
 
-In 2017 - 2018, details of https://en.wikipedia.org/wiki/Uyghurs[Uyghur] internment camps are emerging.
+In 2017-2018, details of https://en.wikipedia.org/wiki/Uyghurs[Uyghur] internment camps are emerging.
+
+The keyword is <<rule-of-law>>: because of a few terrorists, every single Muslim was fucked even if they did not commit any crime.
 
 .<<rebel-pepper,Rebel Pepper>> 2017-04 cartoon showing that Xinjiang is like a prison inside a greater prison, which is China itself. Chinese characters read: 新疆(Xinjiang) and 中国(China). TODO source.
 image::https://web.archive.org/web/20191013085312if_/https://i.stack.imgur.com/mQFKa.png[height=600]
@@ -2345,6 +2343,36 @@ video::Eak3WRtcdko[youtube,height=400,width=600]
 +
 .Image of prisionners wearing blue sitting down in Xinjiang concentration camp, with some prisionners identified to indicate that they are not criminals but rather detained purely for political reasons. https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[Source].
 image::https://web.archive.org/web/20191107091847/https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html/uyghur-photo.jpg/@@images/58e9361a-f0e3-4886-a80a-6c9668ee678f.jpeg[height=400]
+
+Older events:
+
+* 2014 something very serious happened in Xinjiang.
+** https://www.reddit.com/r/China/comments/4hmhzt/xinjiang_massacre_2014_resulted_in_30005000_deaths/
+* 2010 Xinjiang 10 month Internet blackout
+** https://news.bbc.co.uk/2/hi/asia-pacific/8682145.stm
+* 2009 Ürümqi riots
+** https://en.wikipedia.org/wiki/July_2009_Ürümqi_riots
+** https://zh.wikipedia.org/wiki/乌鲁木齐七五事件
+** 2009 Shaoguan incident
+*** https://en.m.wikipedia.org/wiki/Shaoguan_incident
+*** https://zh.wikipedia.org/wiki/旭日玩具厂群体斗殴事件
+
+Terrorist attacks done by Xinjiang separatists:
+
+* https://en.wikipedia.org/wiki/Terrorism_in_China#Chronology_of_major_events
+
+Notable ones:
+
+* 2014 Kunming attack
+** https://en.wikipedia.org/wiki/2014_Kunming_attack
+** photo of 8 bodies lined up after the attack: https://www.nytimes.com/2014/03/05/world/asia/chinese-officials-seek-to-shift-attention-from-rampage.html
+** Interestingly, https://chinadigitaltimes.net/2014/03/sensitive-words-attack-kunming/ points out that http://www.globaltimes.cn/content/845642.shtml#.UxYZgeddVRG said that:
++
+____
+The public must realize that a handful of extremists are far from qualified to represent tens of millions of local residents in Xinjiang. It is not only an irrational and biased mindset to put the blame on the entire Uyghur community or the Muslim world, but the idea will also abet and aid those separatists and terrorists who are desperate to take advantage of ethnic and religious conflicts.
+____
++
+and yet as of the 2017 Internment camps, all Xinjiang Muslims were fucked. <<rule-of-law>> comes to mind.
 
 [[other-islam-countries-speak-up-for-uyghur]]
 ===== Why don't other Islamic countries speak up for the Uyghur persecution?
@@ -3782,6 +3810,8 @@ This might be a bad law that should be changed.
 
 It was perfectly legal for <<nazi,Nazis>> to kill Jews. Does it make that right?
 
+But many times, the commies don't even bother passing a law, they just fuck people anyways without one: <<rule-of-law>>.
+
 [[flg-fake]]
 ==== FLG is fake 法轮功是假的
 
@@ -4216,7 +4246,7 @@ But consider the following:
 * maybe people should be link:https://en.wikipedia.org/wiki/Suicide_legislation[allowed to choose how they want to die], not to take medication if they don't want to
 * maybe the number of people killed during persecution vastly outnumbers those who died because they would not take medication
 * several religions, including <<christianity>> have miraculous cure claims. My impression is that claims were mostly notable in the old times apparently, likely because people noticed that Christians were still dying of all kinds of diseases like everyone else, no matter how devout!
-* maybe the main reason why communists banned FLG is the political threat it posed, but that a ban was unjustified given the situation. Christian crosses are being taken down as of 2016, have they stopped taking their medications as well?
+* maybe the main reason why communists banned FLG is the political threat it posed, but that a ban was unjustified given the situation. Christian crosses are being taken down as of 2016, have they stopped taking their medications as well? See also <<rule-of-law>>.
 * maybe many of those people would also have died soon even if they had taken medication
 * maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyway. Who can agree and follow all the innumerable prescriptions of any religious or legal system? See also: <<thoughtcrime>>.
 * all the following also reduce people's lifespan:
@@ -4683,7 +4713,7 @@ Trying to keep only "neutral" sources here, let me know if you spot something to
 
 How I find them: <<anti-ccp-info-sources>>.
 
-=== News 2019
+=== News 2020
 
 * 2020-01 https://www.scmp.com/news/china/politics/article/3045657/china-human-rights-activist-ding-jiaxi-under-investigation one more human rights person Ding Jiaxi. The list is endless, should we care?
 
@@ -4853,12 +4883,10 @@ Se also: <<intolerance>>
 
 === News pre-2015
 
-* 2014 https://www.reddit.com/r/China/comments/4hmhzt/xinjiang_massacre_2014_resulted_in_30005000_deaths/ something very serious happened in Xinjiang.
 * 2014 https://www.theguardian.com/world/2014/nov/28/china-media-watchdog-bans-wordplay-puns "China bans wordplay in attempt at pun control"
 * 2013 https://www.ft.com/content/db8b9e36-1119-11e8-940e-08320fc2a277 Peter Humphrey
 * 2012 https://en.wikipedia.org/wiki/Nuctech. One of the most blocked on Wikipedia according to: link:complete-gfw-rulebook-for-wikipedia-v3.0.pdf[] Nutech Namibia Hu Haifeng corruption scandal 纳米比亚威视胡海峰腐败丑闻
 * 2011 2011 Chinese pro-democracy protests https://en.wikipedia.org/wiki/2011_Chinese_pro-democracy_protests | https://zh.wikipedia.org/wiki/中国茉莉花活动
-* 2010 https://news.bbc.co.uk/2/hi/asia-pacific/8682145.stm 10 month Xinjiang Internet blackout
 * 2009 https://en.wikipedia.org/wiki/Tan_Zuoren#2009_court_case Ai Weiwei documentary about it: https://aiweiwei.com/documentaries/disturbing-the-peace/index.html
 * 2008 https://en.wikipedia.org/wiki/Tofu-dreg_project | https://zh.wikipedia.org/wiki/豆腐渣工程 https://en.wikipedia.org/wiki/China%27s_Unnatural_Disaster:_The_Tears_of_Sichuan_Province
 * 2008 Wenzhou train collision https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response https://zh.wikipedia.org/wiki/2011年甬台温铁路列车追尾事故
@@ -5159,6 +5187,22 @@ The project is also known as "zhao" which is another slang reference to "太子�
 
 .Programthink uses https://en.wikipedia.org/wiki/The_Thinker[Rodin's The Thinker sculpture] as its avatar, to encourage people to think for themselves rather than <<censorship,blindly believe the Party>>. https://github.com/programthink/[Source].
 image::https://web.archive.org/web/20191218082236if_/https://avatars0.githubusercontent.com/u/4027957?s=400&v=4[height=400]
+
+[[liu-xiaobo]]
+==== Liu Xiaobo 刘晓波 1955-2017
+
+* https://en.wikipedia.org/wiki/Liu_Xiaobo
+* https://zh.wikipedia.org/wiki/刘晓波
+
+He was abroad in the 80' as a scholar, and then he came back to china in 1989 to support <<tiananmen>>, then he was in and out of jail until he died in 2017.
+
+2020-06 https://baike.baidu.com/item/刘晓波/14900221 (https://web.archive.org/web/20200627130112/https://baike.baidu.com/item/%E5%88%98%E6%99%93%E6%B3%A2/14900221[]) casually forgot to mention that he might have won the fucking 2010 Nobel Peace Prize, but he seems to be too big to delete the entire page?
+
+It is interesting how <<hao-haidong>> was fully deleted, the page was only locked. It also does not mention all the times he was in jail, notably after Tiananmen, only some of them.
+
+2017-11 Baidu did mention the Nobel prize however: https://web.archive.org/web/20171114165644/https://baike.baidu.com/item/%E5%88%98%E6%99%93%E6%B3%A2/14900221 it was edited out later.
+
+The article also makes it very clear that his 2009 sentence was "a fair one", and that the organization he worked for in the 90', https://en.wikipedia.org/wiki/Federation_for_a_Democratic_China[Federation fora Democratic China] (https://zh.wikipedia.org/wiki/民主中国阵线[民主中国阵线]) was funded by the CIA. Wikipedia does not mention that however, and of course, Baidu content does not need citations.
 
 [[guo-wengui]]
 ==== Guo Wengui 郭文贵
@@ -6188,6 +6232,8 @@ And some interesting random stuff that is hard to understand why its blocked, so
 * weirdly named <<google,Google>>. Do the names mean anything? Are they owned? The fact that they are Alexa top 1000 domains is just so funny, Google redirects for China.
 ** https://gdl5vtbbv0lj.com
 ** https://au79nt5wic4x.com
+** Not yet blocked Google proxies:
+*** http://o.poetpalace.org/
 * https://www.jw.org/en/ Jehovah's Witness
 * https://www.yodobashi.com/ https://en.wikipedia.org/wiki/Yodobashi_Camera a Japanese Electronics retailer
 
@@ -6538,9 +6584,12 @@ image::https://web.archive.org/web/20200109143505im_/http://www.xinhuanet.com/en
 
 The commies keep saying over and over that rule of law is always observed.
 
+Of course, some times shitty laws are passed, and we must fight those as well: <<follow-the-law>>. But many times, the commies don't even bother setting up a bad law, they just fuck a million people and that's it.
+
 But in reality they punish anyone who poses a political threat, even if they did nothing wrong themselves, some cases that come to mind:
 
 * <<xinjiang>>: millions were jailed/forced to live with a spy in their homes, even though they were not terrorists themselves
+* <<falun-gong>>: what did they do wrong to other people that deserves putting them in jail? Is <<flg-medication>> enough to justify that? Are you sure that it is not a political motivation?
 * 2020-06 Hao Runze, son of Hao Haidong, lost his job because his father spoke up against the CCP: <<hao-haidong>>. Did the CCP speak up for him, like the speak up whenever a Chinese citizen gets hurt?
 
 [[picking-quarrels]]
