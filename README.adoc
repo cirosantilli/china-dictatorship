@@ -5486,6 +5486,7 @@ Media coverage:
 ** says they are a student from https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences[UCAS] studying abroad, claims family name is 季 and male, Twitter says they are <<gay-rights,non-binary/pansexual>>
 * https://www.dwnews.com/中国/60201684/疑有学生在海外发辱华言论中国科学院大学发紧急声明图 contains real photos taken from some public account, appearing dressed as female
 ** the university UCAS issued a statement on this saying that would be punished
+* BIASED MEDIA <<global-times>> accused them of "reviling the victims of the Nanjing Massacre" https://www.globaltimes.cn/content/1192875.shtml true or false?
 
 Reactions:
 
@@ -5493,7 +5494,7 @@ Reactions:
 * https://www.zhihu.com/question/403769563 "如何评价中国科学院大学硕士生季子越在社交媒体发表恨国精日言论？" on <<zhihu>>
 
 [[tian-jialiang]]
-===== Tian Jialiang (田佳良)
+===== Tian Jialiang (田佳良, 2018)
 
 https://zh.wikipedia.org/wiki/田佳良事件
 
@@ -5592,6 +5593,12 @@ The website has per-language and per province subdomains, e.g.:
 As of 2020, some deleted articles show the home page instead of the article, without redirection. Some examples can be seen at: <<hao-haidong>>.
 
 But older pages just show 404.
+
+[[global-times]]
+===== Global Times 环球时报
+
+* https://en.wikipedia.org/wiki/Global_Times
+* https://zh.wikipedia.org/wiki/环球时报
 
 ===== Pro-Chinese government media
 
