@@ -2060,68 +2060,6 @@ I am currently trying to maintain in my Stack Overflow Location a ranking of eve
 
 If you think that this list can be improved, please open an issue explaining how and why.
 
-==== Are there other openly dissident users on Stack Overflow?
-
-Query to find them: https://data.stackexchange.com/stackoverflow/query/312860/chinese-dissidents-by-keyword-aboutme-or-displayname
-
-Notable ones only here (high rep or innovative criticism):
-
-* "GNUSupporter 8964民主女神 地下教會"
-** Real name: Vincent Tam from social media links.
-** https://math.stackexchange.com/users/290189/gnusupporter-8964民主女神-地下教會#
-** https://web.archive.org/web/20180924203410/https://math.stackexchange.com/users/290189/gnusupporter-8964%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E-%E5%9C%B0%E4%B8%8B%E6%95%99%E6%9C%83
-** Keyword attack inspired by me
-* Yu Hao
-** https://stackoverflow.com/users/1009479/yu-hao
-** https://archive.is/76FCb
-** "<<gfw,GFW (Great Firewall of China)>> is one of the most notorious inventions in the history of Internet. Anyone working for it should be ashamed."
-* gotqn
-** "Free Tibet From China Domination"
-** https://stackoverflow.com/users/1080354/gotqn
-** https://web.archive.org/web/20190821105901/https://stackoverflow.com/users/1080354/gotqn
-* Scott 混合理论
-+
-https://stackoverflow.com/users/1230329/scott-混合理论
-+
-The same message as Yu Hao, I wonder if it is an external thing or direct copy of Yu, but no Google hits besides them.
-* Terry Wang
-** https://stackoverflow.com/users/1801697/terry-wang
-** https://archive.is/V0aSK
-** Lego recreation of Tankman on the profile picture: <<lego-tank-man>>
-
-Users who had <<gfw,GFW>> references but removed it:
-
-* https://stackoverflow.com/users/4594532/gnimuc-key
-** https://web.archive.org/web/20170331144256/https://stackoverflow.com/users/4594532/gnimuc
-* https://stackoverflow.com/users/651907/jclin
-** https://web.archive.org/web/20160516065151/https://stackoverflow.com/users/651907/jclin
-
-Misc interesting stuff:
-
-* <location>火车站酒店小姐 (about 20 accounts with that pattern)
-** https://stackoverflow.com/users/7040504/莆田火车站酒店小姐
-** https://web.archive.org/web/20190428090348/https://stackoverflow.com/users/7040504/%E8%8E%86%E7%94%B0%E7%81%AB%E8%BD%A6%E7%AB%99%E9%85%92%E5%BA%97%E5%B0%8F%E5%A7%90
-** Interesting list of prostitution spam/sockpuppets? All have the exact same profile information.
-** Hitting query due to "审查", but the usage is unrelated to the Firewall.
-
-Anti-dissident users:
-
-* https://stackoverflow.com/users/815408
-** https://web.archive.org/web/20170602054631/https://stackoverflow.com/users/815408/%E8%AF%B7%E5%B0%81%E6%8E%89ciro-santilli-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%87%E5%B2%81
-** username: "请封掉Ciro Santilli 中国共产党万岁"
-** profile: "中国万岁！ 中国共产党万岁！ 法轮功，民运，台独在中国共产党的铁蹄下不过是螳臂当车！"
-* https://stackoverflow.com/users/9393161
-** https://web.archive.org/save/https://stackoverflow.com/users/9393161/ciro-santilli-%E7%9A%84%E9%80%A0%E8%B0%A3%E6%98%AF%E5%8F%AF%E8%80%BB%E8%A1%8C%E4%B8%BA
-** username: "Ciro Santilli 的造谣是可耻行为" https://web.archive.org/save/https://stackoverflow.com/users/9393161/ciro-santilli-%E7%9A%84%E9%80%A0%E8%B0%A3%E6%98%AF%E5%8F%AF%E8%80%BB%E8%A1%8C%E4%B8%BA
-* https://stackoverflow.com/users/8454187
-** username: "Snowden Assange Wounded Knee"
-** profile: "燃(ri)烧(si)您(ni)的(de)梦(ma)，Ciro Santilli. StackOverflow上的一个用户. The Oliver Stone Experience"
-** explanation:
-*** "燃烧您的梦": http://www.nq6.com/dj/1674.html
-*** "Wounded Knee": https://en.wikipedia.org/wiki/Wounded_Knee_Massacre
-
-Query to find them: https://data.stackexchange.com/stackoverflow/query/312863/mentioned-ciro-santilli-on-aboutme-or-displayname
-
 ==== Other notable keyword attacks
 
 ===== Notepad++
@@ -2869,6 +2807,70 @@ The current consensus says that keyword attacks are allowed:
 
 The Chinese law doesn't I'm afraid: <<real-username-law>>
 
+===== Other openly dissident users on Stack Overflow
+
+For non-Stack Overflow specific ones see: <<chinese-dissidents>>
+
+Query to find them: https://data.stackexchange.com/stackoverflow/query/312860/chinese-dissidents-by-keyword-aboutme-or-displayname
+
+Notable ones only here (high rep or innovative criticism):
+
+* "GNUSupporter 8964民主女神 地下教會"
+** Real name: Vincent Tam from social media links.
+** https://math.stackexchange.com/users/290189/gnusupporter-8964民主女神-地下教會#
+** https://web.archive.org/web/20180924203410/https://math.stackexchange.com/users/290189/gnusupporter-8964%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E-%E5%9C%B0%E4%B8%8B%E6%95%99%E6%9C%83
+** Keyword attack inspired by me
+* Yu Hao
+** https://stackoverflow.com/users/1009479/yu-hao
+** https://archive.is/76FCb
+** "<<gfw,GFW (Great Firewall of China)>> is one of the most notorious inventions in the history of Internet. Anyone working for it should be ashamed."
+* gotqn
+** "Free Tibet From China Domination"
+** https://stackoverflow.com/users/1080354/gotqn
+** https://web.archive.org/web/20190821105901/https://stackoverflow.com/users/1080354/gotqn
+* Scott 混合理论
++
+https://stackoverflow.com/users/1230329/scott-混合理论
++
+The same message as Yu Hao, I wonder if it is an external thing or direct copy of Yu, but no Google hits besides them.
+* Terry Wang
+** https://stackoverflow.com/users/1801697/terry-wang
+** https://archive.is/V0aSK
+** Lego recreation of Tankman on the profile picture: <<lego-tank-man>>
+
+Users who had <<gfw,GFW>> references but removed it:
+
+* https://stackoverflow.com/users/4594532/gnimuc-key
+** https://web.archive.org/web/20170331144256/https://stackoverflow.com/users/4594532/gnimuc
+* https://stackoverflow.com/users/651907/jclin
+** https://web.archive.org/web/20160516065151/https://stackoverflow.com/users/651907/jclin
+
+Misc interesting stuff:
+
+* <location>火车站酒店小姐 (about 20 accounts with that pattern)
+** https://stackoverflow.com/users/7040504/莆田火车站酒店小姐
+** https://web.archive.org/web/20190428090348/https://stackoverflow.com/users/7040504/%E8%8E%86%E7%94%B0%E7%81%AB%E8%BD%A6%E7%AB%99%E9%85%92%E5%BA%97%E5%B0%8F%E5%A7%90
+** Interesting list of prostitution spam/sockpuppets? All have the exact same profile information.
+** Hitting query due to "审查", but the usage is unrelated to the Firewall.
+
+Anti-dissident users:
+
+* https://stackoverflow.com/users/815408
+** https://web.archive.org/web/20170602054631/https://stackoverflow.com/users/815408/%E8%AF%B7%E5%B0%81%E6%8E%89ciro-santilli-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%87%E5%B2%81
+** username: "请封掉Ciro Santilli 中国共产党万岁"
+** profile: "中国万岁！ 中国共产党万岁！ 法轮功，民运，台独在中国共产党的铁蹄下不过是螳臂当车！"
+* https://stackoverflow.com/users/9393161
+** https://web.archive.org/save/https://stackoverflow.com/users/9393161/ciro-santilli-%E7%9A%84%E9%80%A0%E8%B0%A3%E6%98%AF%E5%8F%AF%E8%80%BB%E8%A1%8C%E4%B8%BA
+** username: "Ciro Santilli 的造谣是可耻行为" https://web.archive.org/save/https://stackoverflow.com/users/9393161/ciro-santilli-%E7%9A%84%E9%80%A0%E8%B0%A3%E6%98%AF%E5%8F%AF%E8%80%BB%E8%A1%8C%E4%B8%BA
+* https://stackoverflow.com/users/8454187
+** username: "Snowden Assange Wounded Knee"
+** profile: "燃(ri)烧(si)您(ni)的(de)梦(ma)，Ciro Santilli. StackOverflow上的一个用户. The Oliver Stone Experience"
+** explanation:
+*** "燃烧您的梦": http://www.nq6.com/dj/1674.html
+*** "Wounded Knee": https://en.wikipedia.org/wiki/Wounded_Knee_Massacre
+
+Query to find them: https://data.stackexchange.com/stackoverflow/query/312863/mentioned-ciro-santilli-on-aboutme-or-displayname
+
 ==== GitHub
 
 GitHub's site policy can be seen at: https://help.github.com/en/github/site-policy
@@ -3031,7 +3033,7 @@ Explores several sentitive topics through interesting timelines with many pictur
 
 https://en.wikipedia.org/wiki/Zhihu
 
-The Chinese <<quora,Quora>> clone with Chinese characteristics (<<censorship,political censorship>> https://www.quora.com/How-strict-is-Zhihus-content-censorship[]).
+The Chinese <<quora,Quora>> clone, but highly censored: <<zhihu-censorship>>.
 
 Some interesting questions not related to <<ciro-santilli>>. Ciro related questions at: <<zhihu-questions-related-to-ciro-santilli>>.
 
@@ -3054,7 +3056,20 @@ Some interesting questions not related to <<ciro-santilli>>. Ciro related questi
 * <<zhihu-censorship-of-hao-haidong>>
 
 .The Zhihu 404 page image. When they take the posts down as of 2020, it shows the 404 page which reads "你似乎来到了没有知识存在的荒原" (you seem to have come to a wasteland about which does does not exist any knowledge), and shows this symbol. https://web.archive.org/web/20200614114534/https://www.zhihu.com/topic/20080590/intro[Source].
-image::https://web.archive.org/web/20200614114535im_/https://static.zhihu.com/heifetz/assets/liukanshan_wire.e7247fbf.svg[height=500]
+i mage::https://web.archive.org/web/20200614114535im_/https://static.zhihu.com/heifetz/assets/liukanshan_wire.e7247fbf.svg[height=500]
+
+==== Zhihu censorship
+
+More general censorship discussion at: <<censorship>>.
+
+Examples of Zhihu censorship:
+
+* <<zhihu-purge>>
+* <<zhihu-censorship-of-hao-haidong>>
+
+Other discussions:
+
+* https://www.quora.com/How-strict-is-Zhihus-content-censorship
 
 [[zhihu-purge]]
 ===== Ciro Santilli's Zhihu purge 2019-11-03
@@ -5126,6 +5141,10 @@ For example, Cui Jian (崔健) <<nothing-to-my-name,"Nothing to My Name (一無�
 [[dissidents]]
 == Dissidents 持不同政见者
 
+Releated sections:
+
+* <<other-openly-dissident-users-on-stack-overflow>>
+
 === Chinese dissidents
 
 Other sections:
@@ -5394,6 +5413,40 @@ The commies have messed with the wrong guy's <<ciro-santilli-mother-in-law-jail,
 
 一个程序员在专业网站上发布六四和法轮功的消息，目的是触怒中共，封杀网站，从而激起程序员的反抗。因为岳母被抓半个月。
 ____
+
+==== University student dissidents
+
+[[opengl106]]
+===== Ji Ziyue 季子越 (2020-06, opengl106, 神楽坂梓月)
+
+Aliases: opengl106 神楽坂梓月
+
+Accounts:
+
+* https://github.com/opengl106
+** most projects are university course assignments: https://github.com/opengl106/UCAS-assignments-19 | https://github.com/cirosantilli/UCAS-assignments-20 and are generic computer science topics, so maybe not so specialized in bioinformatics
+* https://twitter.com/opengl106
+** https://web.archive.org/web/20200627190104/https://twitter.com/opengl106 apology post
+** 4k followers on Twitter a the time, but small GitHub, so any other external fame source?
+
+Media coverage:
+
+* https://tw.news.yahoo.com/陸生罵-支那廢物-事後歉-辜負祖國-155037705.html
+** says they are a student from https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences[UCAS] studying abroad, claims family name is 季 and male, Twitter says they are non-binary/pansexual
+* https://www.dwnews.com/中国/60201684/疑有学生在海外发辱华言论中国科学院大学发紧急声明图 contains real photos taken from some public account, appearing dressed as female
+** the university UCAS issued a statement on this saying that would be punished
+
+Reactions:
+
+* https://www.pincong.rocks/article/20899 <<pingcong>> "洁洁良第二？疑似中科院大学学生因推特发表「不当言论」被校方关切", commentary compares the case <<tian-jialiang>>
+* https://www.zhihu.com/question/403769563 "如何评价中国科学院大学硕士生季子越在社交媒体发表恨国精日言论？" on <<zhihu>>
+
+[[tian-jialiang]]
+===== Tian Jialiang (田佳良)
+
+https://zh.wikipedia.org/wiki/田佳良事件
+
+Alias: 洁洁良
 
 === Western dissidents
 
