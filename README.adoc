@@ -2789,6 +2789,9 @@ image::https://web.archive.org/web/20191113231107if_/https://imgs.xkcd.com/comic
 
 Original creator of https://github.com/cirosantilli/china-dictatorship[]: https://cirosantilli.com/
 
+.Ciro testing his webcam for https://askubuntu.com/questions/348838/how-to-check-available-webcams-from-the-command-line/848390#848390[an Ask Ubuntu answer].
+image::https://web.archive.org/web/20200628143715/https://i.stack.imgur.com/21BFR.png[height=400]
+
 [[wife]]
 ===== Ciro Santilli's wife 三西猴的老婆
 
@@ -2805,7 +2808,26 @@ For this same reason, her father, who Ciro's wife worships, spent around 10 year
 
 It is also for this reason that many Manchu changed their names to hide their Manchu origins, which makes reconstructing their family tree much harder, as mentioned at: https://www.scmp.com/article/982136/proud-manchu-reclaims-his-rich-heritage for the purposes of <<throne>>.
 
-Ciro met his wife when they were in university in France (arguably the https://en.wikipedia.org/wiki/École_Polytechnique[best engineering university in France]), and she was in one of the best universities of China, and she obtained a PhD in https://en.wikipedia.org/wiki/Number_theory[number theory] in one of the best mathematics universities in the world, and she is way smarter than Ciro. <<wumao,wumaos>> could say many things about her, but claiming that she is not intelligent or has no culture or would have any difficulty in obtaining a qualified worker VISA without a marriage, is a losing argument.
+Ciro's wife:
+
+* studied in https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China[one of the best universities of China]
+* met Ciro his wife when they were in possibly the https://en.wikipedia.org/wiki/École_Polytechnique[best engineering university in France] after she had refused opportunities to go to the USA
+* obtained a PhD in https://en.wikipedia.org/wiki/Number_theory[number theory] in one of the https://en.wikipedia.org/wiki/Pierre_and_Marie_Curie_University[best mathematics universities in the world]
+
+and is way smarter than Ciro.
+
+<<wumao,Wumaos>> can say many things about her, but claiming that she is not intelligent or has no culture or would have any difficulty in obtaining a qualified worker VISA without a marriage, is a lost argument from the start, she would likely kick your butt in a raw intelligence competition.
+
+Ciro is actually the lucky one for having found her!
+
+The fake Obama story comes to mind https://www.snopes.com/fact-check/spousal-success-story/[]:
+
+____
+
+One night President Obama and his wife Michelle decided to do something out of routine and go for a casual dinner at a restaurant that wasn't too luxurious. When they were seated, the owner of the restaurant asked the President’s Secret Service if he could please speak to the First Lady in private. They obliged and Michelle had a conversation with the owner.
+
+Following this conversation President Obama asked Michelle, "Why was he so interested in talking to you?" She mentioned that in her teenage years, he had been madly in love with her. President Obama then said, "So if you had married him, you would now be the owner of this lovely restaurant," to which Michelle responded, "No. If I had married him, he would now be the President."
+____
 
 === How do different websites view Ciro Santilli's profile?
 
