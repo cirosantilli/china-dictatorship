@@ -1668,9 +1668,14 @@ Yes Chinese characters are beautiful, yes, https://chinese.stackexchange.com/que
 
 But they just take too much time for any sane adult to learn, it's harder than C++!
 
+It should also be mentioned that Ciro also feels that it would be better if all countries more officially adopted English as an international language that everyone should learn for reasons explained at: https://cirosantilli.com/#having-more-than-one-natural-language-is-bad-for-the-world
+
 Posts that express similar ideas:
 
 * <<evil-chinese-characters-by-ted-chiang>>
+
+.The Sweet Brown https://en.wikipedia.org/wiki/Ain%27t_Nobody_Got_Time_for_That[Ain't Nobody Got Time for That] meme (https://knowyourmeme.com/memes/sweet-brown-aint-nobody-got-time-for-that[knowyourmeme]) fits perfectly into how Ciro feels about learning Chinese characters.
+image::{cirosantilli-media-base}/Sweet_brown_chinese_characters_meme.jpg[height=500]
 
 [[evil-chinese-characters-by-ted-chiang]]
 ===== 坏汉字 by Ted Chiang
@@ -5456,7 +5461,7 @@ Accounts:
 Media coverage:
 
 * https://tw.news.yahoo.com/陸生罵-支那廢物-事後歉-辜負祖國-155037705.html
-** says they are a student from https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences[UCAS] studying abroad, claims family name is 季 and male, Twitter says they are non-binary/pansexual
+** says they are a student from https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences[UCAS] studying abroad, claims family name is 季 and male, Twitter says they are <<gay-rights,non-binary/pansexual>>
 * https://www.dwnews.com/中国/60201684/疑有学生在海外发辱华言论中国科学院大学发紧急声明图 contains real photos taken from some public account, appearing dressed as female
 ** the university UCAS issued a statement on this saying that would be punished
 
