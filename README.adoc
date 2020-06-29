@@ -44,7 +44,7 @@ To <<effective,destroy the firewall>>.
 
 This would then end <<censorship>>.
 
-And then <<dictator-needs-gfw,I believe>> that this would also <<why-end-dictatorship,end the dictatorship>>.
+And then <<dictator-needs-gfw,Ciro believes>> that this would also <<why-end-dictatorship,end the dictatorship>>.
 
 The keyword attacks increase the cost of censorship.
 
@@ -1647,7 +1647,7 @@ Phonetics wise, Ciro can't distinguish or produce a few sounds, notably `-ing` v
 
 Ciro reads with link:https://www.perapera.org/[Perapera], write with a mixture of link:https://www.pleco.com/[Pleco], Google translate and Googling to see if Chinese actually say the sentences that way.
 
-He <<characters,hasn't tried to learn characters>> because <<chinese-characters-are-insane,too much effort>>, but he did learn the most common ones without trying.
+He <<characters,hasn't tried to learn characters>> because <<chinese-characters-are-insane,too much effort>>, but he did learn some of the most common ones without trying.
 
 Ciro really wishes he could learn more, but he has other more important endeavors at the moment :-(
 
@@ -1662,41 +1662,41 @@ and there is no useless crap like https://en.wikipedia.org/wiki/Grammatical_conj
 
 Ciro loves this language.
 
-Please just get rid of the Chinese characters and move to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export.
-
 Yes Chinese characters are beautiful, yes, https://chinese.stackexchange.com/questions/2003/can-chinese-readers-scan-large-amounts-of-text-faster-more-accurately-than-their[maybe you can read faster], and yes, https://en.wikipedia.org/wiki/Horizontal_and_vertical_writing_in_East_Asian_scripts[vertical text (纵排)] is awesome (but is it more efficient? https://www.zhihu.com/question/22104723[Zhihu], https://www.quora.com/Can-literate-Chinese-people-easily-read-vertical-writing[Quora]).
 
 But they just take too much time for any sane adult to learn, it's harder than C++!
 
 It should also be mentioned that Ciro also feels that it would be better if all countries more officially adopted English as an international language that everyone should learn for reasons explained at: https://cirosantilli.com/#having-more-than-one-natural-language-is-bad-for-the-world
 
-Posts that express similar ideas:
-
-* <<evil-chinese-characters-by-ted-chiang>>
-
 .The Sweet Brown https://en.wikipedia.org/wiki/Ain%27t_Nobody_Got_Time_for_That[Ain't Nobody Got Time for That] meme (https://knowyourmeme.com/memes/sweet-brown-aint-nobody-got-time-for-that[knowyourmeme]) fits perfectly into how Ciro feels about learning Chinese characters.
 image::{cirosantilli-media-base}/Sweet_brown_chinese_characters_meme.jpg[height=500]
 
-[[evil-chinese-characters-by-ted-chiang]]
-===== 坏汉字 by Ted Chiang
-
-https://www.douban.com/group/topic/162835411/
-
-Ciro's <<does-ciro-santilli-speak-chinese>> was mentioned in a related Zhihu answer: <<zhihu-ted-chiang-answer>>.
-
-===== Chinese characters are insane
+[[chinese-characters-are-insane]]
+===== Chinese characters are insane 汉字是疯狂的
 
 Maybe the commies for once <<richer,did something good>> by introducing https://en.wikipedia.org/wiki/Simplified_Chinese_characters[simplified Chinese characters (简化字)]?
 
-They should have gone further and reduced it to pinyin like the Viets did though.
+But they should have gone further and reduced it to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export.
 
-<<ciro-santilli>> smirked when he came across "蒄" in Pleco, and the translation was: "meaning unknown (herb mentioned in old books)". Yes, at the word level, the same like exists in phonetic systems, but that it takes up a modern dictionary and Unicode slot is still funny.
+<<ciro-santilli>> smirked when he came across the character "蒄" in Pleco, and the translation was: "meaning unknown (herb mentioned in old books)". Yes, at the word level, the same like exists in phonetic systems, but that it takes up a modern dictionary and Unicode slot is still funny.
+
+
+Posts that express similar ideas:
+
+* <<evil-chinese-characters-by-ted-chiang>>
 
 .The "fictional" Chinese character "Dou" from https://en.wikipedia.org/wiki/Uncyclopedia[Uncyclopedia] is roughly translated as "Impossibly complex pictogram-based writing system that takes a person a thousand thousand years to learn." and illustrates well why pictograms are a bad idea. https://uncyclopedia.ca/wiki/File:Chinese_character_extreme.svg[Source].
 image::https://uncyclopedia.ca/w/images/e/e1/Chinese_character_extreme.svg[height=400]
 
 .https://www.youtube.com/watch?v=t_cbW5JK9WM "The most complex Chinese character" by Vladimir Skultety does a reasonable analysis of which Chinese character is the most complex
 video::t_cbW5JK9WM[youtube,height=400,width=600]
+
+[[evil-chinese-characters-by-ted-chiang]]
+====== 坏汉字 by Ted Chiang
+
+https://www.douban.com/group/topic/162835411/
+
+Ciro's <<does-ciro-santilli-speak-chinese>> was mentioned in a related Zhihu answer: <<zhihu-ted-chiang-answer>>.
 
 [[radical]]
 ==== Are you a radical?
@@ -5635,6 +5635,7 @@ Lists:
 
 People:
 
+* 2020 Hao Zhang: https://www.voanews.com/usa/chinese-professor-convicted-stealing-trade-secrets-china from Avago and Skyworks
 * 2020 Charles Lieber
 ** https://www.nature.com/articles/d41586-020-00291-2
 ** https://en.wikipedia.org/wiki/Charles_M._Lieber he had won a Wolf Prize in Chemistry
