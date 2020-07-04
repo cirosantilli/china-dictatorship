@@ -316,6 +316,9 @@ Can you manage? +
 Do you understand?
 ____
 
+.https://en.wikipedia.org/wiki/Assemblage_(art)[Assemblage] of a https://en.wikipedia.org/wiki/Respirator[respirator mask] with a https://en.wikipedia.org/wiki/Gag_(BDSM)[BDSM gag ball] attached to it, suggesting that citizen reports of COVID-19 in China have been censored. https://twitter.com/FakeNewsOfChina/status/1221396086033530880[Source].
+image::https://web.archive.org/web/20200704094048if_/https://pbs.twimg.com/media/EPNFQ6IUcAAGo6s?format=jpg&name=large[height=600]
+
 .Selfie of Li Wenliang on his hospital bed before he died. https://www.bbc.com/news/world-asia-china-51409801[Source].
 image::https://web.archive.org/web/20200209173001im_/https://ichef.bbci.co.uk/news/320/cpsprodpb/10FFE/production/_110803696_drli1.jpg[height=400]
 
@@ -5471,7 +5474,8 @@ ____
 * 2020-07 Dong Wuyuan 洞物员 (alias Horror Zoo)
 ** TODO real name? 洞物员 is the same sound as zoo in Chinese (动物园) which matches the English alias
 ** https://twitter.com/horror_zoo
-** https://twitter.com/FakeNewsOfChina
+** https://twitter.com/FakeNewsOfChina account run by Dong, with many funny anti-CCP images
+** https://www.voachinese.com/a/the-reach-of-the-state-07032020/5487187.html "党国的手伸向海外每一个角落，要你封口"
 ** https://hk.appledaily.com/us/20200703/AFQNIBP76SMDK7KXJIR5Q2QAXQ/ "Police try to silence Chinese students abroad with threats to families"
 ** https://hk.appledaily.com/china/20200703/VR4EYZ4UHTECBUILPY5UBJILSQ/
 
