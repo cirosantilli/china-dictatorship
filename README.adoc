@@ -2570,13 +2570,14 @@ At any point the Chinese government could make a request that they cannot deny.
 
 Some news:
 
+* 5G 2019-2020
+** in 2020 the UK was trying hard to get kicked out of the 5 eyes in 2020 by using 5G equipment from Huawei
+** 2020-06-25 https://www.bbc.co.uk/news/uk-england-cambridgeshire-53178998 "Huawei's £1bn research centre near Cambridge approved" so despite all the 5G stuff, the UK still allows them to create a new research center in the UK... are they blind?
+** https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html (https://web.archive.org/web/20200129023355/https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html[archive]) "UK will allow Huawei to help build its 5G network despite US pressure"
+** 2020-04-17 only after more than 10 thousand people died in the country during <<corona>> did the brits finally change their minds: https://nypost.com/2020/04/17/uk-moves-to-drop-huawei-as-5g-vendor-citing-china-coronavirus-transparency/ "UK moves to drop Huawei as 5G vendor, citing China coronavirus transparency"
 * 2018-12 https://en.wikipedia.org/wiki/Meng_Wanzhou[Meng Wanzhou] (孟晚舟), daughter of Huawei founder Ren Zhengfei (任正非) and Huawei CFO as of 2018, was arrested in Canada because the US accused her of breaking Iran sanctions
 ** https://www.theglobeandmail.com/politics/article-michael-kovrig-michael-spavor-canadian-detainees-china-explainer/ "Why are Michael Kovrig and Michael Spavor still detained in China?" in apparent retaliation, under accusation of espionage.
 ** 2020-05-27 https://techcrunch.com/2020/05/27/canada-court-finds-against-huawei-cfo-meng-wanzhou-on-double-criminality-extradition-trial-to-continue/ "https://techcrunch.com/2020/05/27/canada-court-finds-against-huawei-cfo-meng-wanzhou-on-double-criminality-extradition-trial-to-continue/"
-* 5G 2019-2020
-** in 2020 the UK was trying hard to get kicked out of the 5 eyes in 2020 by using 5G equipment from Huawei
-** https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html (https://web.archive.org/web/20200129023355/https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html[archive]) "UK will allow Huawei to help build its 5G network despite US pressure"
-** 2020-04-17 only after more than 10 thousand people died in the country during <<corona>> did the brits finally change their minds: https://nypost.com/2020/04/17/uk-moves-to-drop-huawei-as-5g-vendor-citing-china-coronavirus-transparency/ "UK moves to drop Huawei as 5G vendor, citing China coronavirus transparency"
 * 2019-11 https://www.forbes.com/sites/zakdoffman/2019/11/29/has-huaweis-darkest-secret-just-been-exposed-by-this-new-report/#7896db9d4061 "Has Huawei’s Darkest Secret Just Been Exposed By This New Surveillance Report?" Xinjiang Papers reveal the extent of Huawei's involvement in <<xinjiang>>
 
 ."When you send a good joke from your Huawei phone", <<xi-jinping>> is also listening and laughing with you, girls. https://i.redd.it/nodgcqmwtcg31.jpg[Source].
@@ -2605,6 +2606,7 @@ image::https://pbs.twimg.com/media/D0XHAnBWkAIP8nj?format=jpg&name=small[height=
 
 News:
 
+* 2020-06 https://www.bbc.co.uk/news/technology-53225720 India bans TikTok after Ladakh border tensions
 * 2020-05 <<liu-keqing-singer>>
 * 2019-11 https://www.theverge.com/platform/amp/2019/11/25/20976964/chinese-americans-censorship-wechat-hong-kong-elections-tiktok
 * https://www.reddit.com/r/China/comments/fug8i1/the_chinese_tiktok_just_began_an_uninterrupted/ "The Chinese Tik-Tok just began an uninterrupted propaganda stream."
@@ -2841,7 +2843,6 @@ The current consensus says that keyword attacks are allowed:
 
 * https://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u
 * https://meta.stackoverflow.com/questions/267368/are-political-avatars-and-profiles-ok
-* https://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam
 * https://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam
 * https://meta.stackoverflow.com/questions/349131/users-political-display-name-triggering-government-action-against-users-who-vie
 
@@ -5465,7 +5466,14 @@ The commies have messed with the wrong guy's <<ciro-santilli-mother-in-law-jail,
 一个程序员在专业网站上发布六四和法轮功的消息，目的是触怒中共，封杀网站，从而激起程序员的反抗。因为岳母被抓半个月。
 ____
 
-==== University student dissidents
+==== University student dissidents abroad
+
+* 2020-07 Dong Wuyuan 洞物员 (alias Horror Zoo)
+** TODO real name? 洞物员 is the same sound as zoo in Chinese (动物园) which matches the English alias
+** https://twitter.com/horror_zoo
+** https://twitter.com/FakeNewsOfChina
+** https://hk.appledaily.com/us/20200703/AFQNIBP76SMDK7KXJIR5Q2QAXQ/ "Police try to silence Chinese students abroad with threats to families"
+** https://hk.appledaily.com/china/20200703/VR4EYZ4UHTECBUILPY5UBJILSQ/
 
 [[opengl106]]
 ===== Ji Ziyue 季子越 (2020-06, opengl106, 神楽坂梓月)
@@ -6811,7 +6819,9 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 * 2018-05-20:
 ** https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684 Archive: https://web.archive.org/web/20190701085047/https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684
 ** https://web.archive.org/web/20180520210006/http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684&pid=3954113&page=1&extra=
-* 2018-04-13: traffic peak, but no linkbacks. Many new Chinese followers, but few new stars on this repo, maybe they are afraid to star? Also someone (bot?) subscribed me to a hundred GovDelivery mailing lists, possibly linked? I also blocked a user from on GitHub due to impolite post. Also possibly linked to me posting a link to the FAQ more clearly on my home page recently: https://github.com/cirosantilli/cirosantilli.github.io/commit/f31d1651c0e7fef587e5910ff2dc1e2aba9a5763
+* 2018-04-13: traffic peak, but no linkbacks. Many new Chinese followers, but few new stars on this repo, maybe they are afraid to star. I also blocked a user from on GitHub due to impolite post. Also possibly linked to me posting a link to the FAQ more clearly on my home page recently: https://github.com/cirosantilli/cirosantilli.github.io/commit/f31d1651c0e7fef587e5910ff2dc1e2aba9a5763
++
+Someone subscribed me to a hundred GovDelivery mailing lists. This bullshit is also mentioned at: https://en.wikipedia.org/wiki/Talk:GovLoop[]. This is the URL you can use to subscribe someone to dozens and dozens of emails by clicking checkboxes: https://public.govdelivery.com/accounts/USEERE/subscriber/new[] without email verification, those idiots. I have to say, this was a good attack. I just mark everything from them as spam nowadays, and only get a few every other month.
 * 2018-03-11: got a large traffic peak (60 vs 10 average), but no linkbacks to match. Likely source: parcerier pinged me at: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/267723#comment562812_288497 and I revamped the and FAQ replied with https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/267723#comment562840_320914 Someone also made: https://archive.is/jcZCA which points to: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/267723#comment562810_267723 . This issue was opened that day as well: https://github.com/cirosantilli/china-dictatorship/issues/12
 * 2018-01: https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1088&context=cs_etds this site appears on the reference of a PhD thesis paper haha, links to complete-gfw-rulebook-for-wikipedia-v3.0.pdf.
 * 2017-05: https://t.co/AosRq06akz TODO where from. "Measuring Decentralization of Chinese Censorship in Three Industry Segments" by Jeffrey Knockel. Now at Citizenlab: https://www.cs.unm.edu/~jeffk/
