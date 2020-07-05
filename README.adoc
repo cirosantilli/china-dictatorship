@@ -1534,11 +1534,11 @@ Obviously, if you want to be understood, use simple and standard Chinese.
 
 Avoid slangs, otherwise Ciro might not have patience to Google your useless slangs down <<zhihu,Zhihu>> questions.
 
-Of course, if you have to read this, you likely are not going to say anything useful in the first place, so not reading your post is likely fine.
+Of course, if you have to read this, you likely are not going to say anything useful in the first place, so not reading your post is likely fine, just make sure to mark it as a [[shitpost]] if you don't want Ciro to think you are a complete idiot.
 
-Using slangs makes some people feel smart due their advanced knowledge of a specific subculture, or makes them feel part of that subculture to gather allies, or they just want to waste Ciro's time.
+Using slangs makes some people feel smart due their advanced knowledge of a specific subculture, or makes them feel part of that subculture to gather allies, or they just want to waste Ciro's time. It mainly comes down to a way of avoiding any rational conversation about China's obvious problems by highlighting <<not-chinese>>.
 
-They sometimes also like to mix in some emojis for similar reasons.
+Such idiots don't see however that every major slang is Googleable, and that every overly obscure slang is already not understandable by a large part of the Chinese population, and won't be understood by anybody in 5 years, so that you are wasting your time writing this gibberish. But since you are an idiot, it's not like you have anything better to do with your time, so maybe it doesn't matter.
 
 A Chinese insult tip 101, avoid similar sound euphemisms. If you are going to say shit at least grow some balls or tits and use the proper characters, Ciro will respect you more for it:
 
@@ -1550,7 +1550,7 @@ A Chinese insult tip 101, avoid similar sound euphemisms. If you are going to sa
 * 傻 idiot: 沙
 * 屌 dick: 雕
 
-Places to try and decript Internet slang when you feel like wasting your time:
+Places to try and decrypt Internet slang when you feel like wasting your time:
 
 * https://zh.wikipedia.org/wiki/中国大陆网络用语列表
 ** "网络用语" is the most common word for "Internet Slang", so also useful for Google searches
