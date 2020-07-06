@@ -1530,15 +1530,24 @@ See also: <<does-ciro-santilli-speak-chinese>>.
 [[slang]]
 ===== I am going to use a bunch of Chinese slangs because it makes me feel smart 我知道网络语言，我很聪明
 
-Obviously, if you want to be understood, use simple and standard Chinese.
+Obviously, if you want to be understood, use simple and standard Chinese, since as Ciro has already stated clearly, his Chinese sucks: <<does-ciro-santilli-speak-chinese>>.
 
 Avoid slangs, otherwise Ciro might not have patience to Google your useless slangs down <<zhihu,Zhihu>> questions.
 
-Of course, if you have to read this, you likely are not going to say anything useful in the first place, so not reading your post is likely fine, just make sure to mark it as a [[shitpost]] if you don't want Ciro to think you are a complete idiot.
+Of course, if you have to read this, you likely are not going to say anything useful in the first place, so not reading your post is likely fine, just make sure to mark it as a <<shitpost>> if you don't want Ciro to think you are a complete idiot.
 
-Using slangs makes some people feel smart due their advanced knowledge of a specific subculture, or makes them feel part of that subculture to gather allies, or they just want to waste Ciro's time. It mainly comes down to a way of avoiding any rational conversation about China's obvious problems by highlighting <<not-chinese>>.
+Using slangs makes some people feel smart due their advanced knowledge of a specific subculture, or makes them feel part of that subculture to gather allies, or they just want to waste Ciro's time.
+
+It mainly comes down to a way of avoiding any rational conversation about China's obvious problems by highlighting <<not-chinese>>.
 
 Such idiots don't see however that every major slang is Googleable, and that every overly obscure slang is already not understandable by a large part of the Chinese population, and won't be understood by anybody in 5 years, so that you are wasting your time writing this gibberish. But since you are an idiot, it's not like you have anything better to do with your time, so maybe it doesn't matter.
+
+If you want to efficiently prevent anyone from understanding your stuff, Ciro recommends that you just use SHA-256 instead:
+
+....
+$ printf 'heil xi' | sha256sum
+286b183bf41d6c9de5315bbd64f1ca35a58157ae2e7f38086978c108e67c4882  -
+....
 
 A Chinese insult tip 101, avoid similar sound euphemisms. If you are going to say shit at least grow some balls or tits and use the proper characters, Ciro will respect you more for it:
 
@@ -2638,7 +2647,10 @@ See also: <<western-companies-that-sell-censorship-technology-to-dictatorships>>
 
 Some hell known companies and events:
 
-* https://en.wikipedia.org/wiki/Bloomberg_L.P.[Bloomberg L.P.]: https://theintercept.com/2020/02/18/mike-bloomberg-lp-nda-china/ "When Bloomberg News’s Reporting on China Was Challenged, Bloomberg Tried to Ruin Me for Speaking Out"
+* https://en.wikipedia.org/wiki/HSBC[HSBC]
+** 2020-06 https://en.wikipedia.org/wiki/HSBC#Support_for_China's_Security_Law_for_Hong_Kong_(2020)[Support for China's Security Law for Hong Kong (2020)]
+* https://en.wikipedia.org/wiki/Bloomberg_L.P.[Bloomberg L.P.]
+** 2020-02 https://theintercept.com/2020/02/18/mike-bloomberg-lp-nda-china/ "When Bloomberg News’s Reporting on China Was Challenged, Bloomberg Tried to Ruin Me for Speaking Out"
 * 2019-12 Shutterstock implements censorship for searches from China https://techcrunch.com/2019/12/08/in-wake-of-shutterstocks-chinese-censorship-american-companies-need-to-relearn-american-values/
 * LinkedIn
 ** 2019-01-04 https://www.scmp.com/news/china/article/2180620/linkedin-adhering-beijings-rules-censors-chinese-profile-page-us-based "LinkedIn reverses course after censoring Chinese profile page of US-based human rights activist Zhou Fengsuo", see also: <<zhou-fengsuo>>
@@ -3364,6 +3376,50 @@ luit -encoding big5 telnet ptt2.cc
 Then there is a registration process that seem to require you to prove that you work at Taiwanese university, but not sure it is mandatory to post.
 
 But I couldn't find Gossiping there either, which is the only board that matters, so not sure it is on this server.
+
+[[google]]
+==== Google 谷歌
+
+Related subjects:
+
+* <<google-china>>
+* <<google-cache>>
+
+[[google-mirrors]]
+===== Google mirrors 谷歌镜像
+
+Do the names mean anything? Are they owned? The fact that they are Alexa top 1000 domains is just so funny, Google redirects for China.
+
+Alexa top 1000 domains and blocked in China as per <<greatfire>>:
+
+* https://gdl5vtbbv0lj.com
+* https://au79nt5wic4x.com
+
+https://library.ac.cn/ large list of university Google/Google Scholar/Wikipedia/Twitter mirrors maintained by Chinese university students under an unified system. Each one asks for verification that you are from that university via some little known fact about the university:
+
+* https://g.luciaz.me from https://en.wikipedia.org/wiki/Zhejiang_University[Zhejiang University] "需要验证您是否来自浙江大学". Question: "请问浙江大学内网最大的论坛中, 每天发帖量最大的版块是哪个?" (Ask your colleagues on the internal forum, what is the most popular section of the forum every day?)
+* https://g0.njuu.cf/ from https://en.wikipedia.org/wiki/Nanjing_University[Nanjing University] "需要验证您是否来自南京大学" Question: "西大楼是哪个系的?" (Which department is in the big Western building?)
+* https://g0.library.edu.eu.org/
+
+Other mirrors:
+
+* https://chacha.design/
+* https://g0.nuaa.cf/
+* https://g1.liuxiongb.in/
+* https://google.zenith.workers.dev/
+* https://proxy.juchiahau.com/
+* https://seeres.com 闭站维护中
+* https://www.muzhiso.net/
+* https://www.sanzhima.com/
+
+No HTTPS?!?! Brains?!?!
+
+* https://g.histsci.org/
+* http://o.poetpalace.org/
+
+Lists of mirrors:
+
+* https://cjh0613.github.io/blog/GoogleMirror.html
 
 [[christianity]]
 === Christianity 基督教
@@ -6234,7 +6290,7 @@ ____
 If you open the window, both fresh air and flies will enter.
 ____
 
-[[google]]
+[[google-china]]
 ====== Google China 谷歌中国
 
 * https://en.wikipedia.org/wiki/Google_China
@@ -6353,11 +6409,7 @@ And some interesting random stuff that is hard to understand why its blocked, so
 
 * https://sourceforge.net/ interesting! The ex-<<github>> was blocked unlike GitHub as of 2020: https://www.quora.com/Is-SourceForge-still-relevant-to-open-source-projects/answer/Ciro-Santilli
 * https://www.homedepot.com
-* weirdly named <<google,Google>>. Do the names mean anything? Are they owned? The fact that they are Alexa top 1000 domains is just so funny, Google redirects for China.
-** https://gdl5vtbbv0lj.com
-** https://au79nt5wic4x.com
-** Not yet blocked Google proxies:
-*** http://o.poetpalace.org/
+* weirdly named <<google-mirror,Google mirrors>>
 * https://www.jw.org/en/ Jehovah's Witness
 * https://www.yodobashi.com/ https://en.wikipedia.org/wiki/Yodobashi_Camera a Japanese Electronics retailer
 
