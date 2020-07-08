@@ -1051,7 +1051,7 @@ However, this is all obviously subjective, and believing that dictatorship is a 
 
 If you find an event on a Western democracy that you would like to highlight, send a pull request. We will not however include events that are not currently censored. Every country did fucked-up things in the past, the question is if they currently allow discussion about it or not.
 
-This "Western censorship string" https://www.reddit.com/r/China/comments/gct0ox/all_moderation_services_suspended_for_the_next_24/fpeends/[was posted automatically] by a bot during <<anti-ccp-info-sources,r/China>> purge day:
+This "Western censorship https://en.wikipedia.org/wiki/Copypasta[copypasta] string" https://www.reddit.com/r/China/comments/gct0ox/all_moderation_services_suspended_for_the_next_24/fpeends/[was posted automatically] by a bot during <<anti-ccp-info-sources,r/China>> purge day:
 
 ____
 North Dakota Access Pipeline Protests 北达科他州接入管道抗议 +
@@ -2536,6 +2536,7 @@ The most obvious thing is to go https://en.wikipedia.org/wiki/Tit_for_tat[tit fo
 
 * Twitter
 ** News
+*** 2020-06: Twitter has also implicated in receiving advertising money from <<china-daily>>, see also: <<china-watch>>
 *** 2020-06-12 https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html
 *** 2020-06-12 https://www.theguardian.com/technology/2020/jun/12/twitter-deletes-170000-accounts-linked-to-china-influence-campaign "Twitter deletes 170,000 accounts linked to China influence campaign"
 *** The Chinese government later contested this decision: https://variety.com/2020/digital/asia/china-victim-wants-twitter-to-delete-attackers-1234633860/
@@ -2551,6 +2552,11 @@ Some websites have started marking such accounts, which is a great start, but a 
 * Facebook in 2020: https://techcrunch.com/2020/06/04/facebook-adds-labels-identifying-state-controlled-media/
 
 But then those websites would lose ad revenue, right? :-)
+
+Related approaches taken by the CCP that should also be stopped dead by strict enforcement of the https://en.wikipedia.org/wiki/Foreign_Agents_Registration_Act[Foreign Agents Registration Act (FARA)]:
+
+* <<chinese-interference-in-western-media>>, notably <<china-watch>>
+* <<ccp-apologists>>
 
 News about Chinese state media using Western social media:
 
@@ -2733,6 +2739,41 @@ image::https://web.archive.org/web/20191013080151if_/https://www.rfa.org/english
 
 .https://www.youtube.com/watch?v=V4WBsahU3X4 https://en.wikipedia.org/wiki/Stephen_Colbert[Stephen Colbert] comments in 2015 on how American films make a good image of China to be allowed in China by censors to increase sales.
 video::V4WBsahU3X4[youtube,height=400,width=600]
+
+===== Chinese interference in Western media
+
+This lists links between owners of several US media outlets and China: https://thefederalist.com/2020/05/04/has-china-compromised-every-major-mainstream-media-entity/[]. No direct evidence that this has affected the news however.
+
+[[china-watch]]
+====== China watch (2011-)
+
+Campaign by <<china-daily>> to add paid articles/ads that read like news in/distributed with Western newspapers. They appeared to be marked as China watch ads, but still, they should be crushed.
+
+* 2020-06: https://en.wikipedia.org/wiki/The_Washington_Post[Washington Post], https://en.wikipedia.org/wiki/The_Wall_Street_Journal[Wall Street Journal] and others figure on official fillings of newspapers paid by China Daily: https://efile.fara.gov/docs/3457-Amendment-20200601-2.pdf[].
++
+https://www.opindia.com/2020/06/china-propaganda-daily-washington-post-new-york-times-wall-street-journal-millions-dollars-justice-department-newspapers-paid-content/ summarizes:
++
+____
+As per the documents filed by China Daily with the Justice Department, the Communist party mouthpiece had paid over $6 million to the Wall Street Journal (WSJ), $4.6 million to the Washington Post, $2,40,000 to Foreign Policy, $50,000 to the New York Times, $34,600 to The Des Moines Register and $76,000 to CQ-Roll Call.
+
+Besides, spending $11 million in advertising on prominent US papers, China Daily shelled out an additional $7.6 million to The Chicago Tribune, Los Angeles Times, The Seattle Times, The Atlanta Journal-Constitution, The Houston Chronicle, and The Boston Globe for printing copies of its own paper. For instance, the Los Angeles Times reportedly received $657,523 for printing services. The Communist party-mouthpiece had also spent $2,65,822 on advertising on Twitter.
+____
++
+The Washington Post is the one that had received the most attention earlier on since 2011:
++
+** https://en.wikipedia.org/wiki/The_Washington_Post#China_Daily_advertising_supplements
+** https://www.theatlantic.com/international/archive/2011/02/official-chinese-propaganda-now-online-from-the-wapo/70690/ "Official Chinese Propaganda: Now Online from the WaPo!"
++
+They even had online distribution channel: http://chinawatch.washingtonpost.com/ It is https://web.archive.org/web/20200708133054/http://chinawatch.washingtonpost.com/[dead as of 2020-07], but https://web.archive.org/web/20180330150602/http://chinawatch.washingtonpost.com/[was alive in 2018]
+* https://en.wikipedia.org/wiki/The_Daily_Telegraph[Daily Telegraph]: UK Daily Telegraph stops publishing section paid for by China[piece of shit] tabloid, it comes as no surprise that they would sell out to any dictatorship
++
+2020-04-14 https://www.theguardian.com/media/2020/apr/14/daily-telegraph-stops-publishing-section-paid-for-by-china "Daily Telegraph stops publishing section paid for by China"
+
+China Daily itself claims certain partnerships: <<china-daily,BIASED MEDIA >> https://www.chinadaily.com.cn/static_e/global.html[]:
+
+____
+China Daily has also developed diversified cooperation with over 40 media organizations around the world, including The Washington Post, The Wall Street Journal, The Daily Telegraph, the Guardian, etc.
+____
 
 ===== bandinchina GitHub repository
 
@@ -5703,6 +5744,8 @@ But older pages just show 404.
 
 English-language propaganda newspaper.
 
+Responsible for <<china-watch>>.
+
 ===== Pro-Chinese government media
 
 These might be independent, but they are clearly pro CCP and thus cannot be trusted:
@@ -6690,7 +6733,7 @@ Some of them, especially the ones that speak Chinese, might be just idiots tryin
 
 Part of Ciro feels like their nationalities should also be revoked, since they are making a living out of helping an Evil government.
 
-But likely we won't ever be able to distinguish those who really think that way or are just trying to get more views, so it is hard to stopping them without quenching freedom of expression in that case.
+But likely we won't ever be able to distinguish those who really think that way or are just trying to get more views, so it is hard to stopping them without quenching freedom of expression in that case. Related discussion at: <<what-should-western-countries-do-about-china>>.
 
 * 伏拉夫 (fu2 la1 fu1): Russian, says I love China in ridiculously enthusiastic tone which is despised even by the Chinese, samples: https://www.youtube.com/watch?v=YMVRdeUrk-8[]
 +
