@@ -446,8 +446,46 @@ The reason is obvious: with censorship, corrupt politicians can <<internal-censo
 In George Bernard Shaw's "Maxims for Revolutionists" words:
 
 ____
-Democracy substitutes election <<uneducated-masses,by the incompetent many>> for corruption,appointment by the corrupt few.
+Democracy substitutes election <<uneducated-masses,by the incompetent many>> for appointment by the corrupt few.
 ____
+
+Related events:
+
+* <<panama-papers>>
+
+===== Operation Fox Hunt
+
+https://en.wikipedia.org/wiki/Operation_Fox_Hunt
+
+Trying to prevent corruption is fine, but violating the laws of other countries in doing so, or the <<rule-of-law>> of their family is not.
+
+Publicized by China itself: <<china-daily,BIASED MEDIA>> http://www.chinadaily.com.cn/china/2015-11/05/content_22375920.htm
+
+[[liu-changming]]
+====== The detention of Liu Changming's (刘昌明) family (2018)
+
+China imposed an exit ban on the ex-official's family, who are also USA citizens:
+
+* officer Liu Changming (刘昌明)
+* wife Sandra Han
+* children Victor Liu (born July 1999 in the USA) and Cynthia Liu (27 in 2019, born in China, but also American citizen)
+
+China says that the children and wife do have valid Chinese documents, so maybe those idiots did not give up their Chinese citizenship and went to China. Why, why, why would you do that? Don't they know anything about China?
+
+Cynthia claimed her father has left home a long time ago and that they are not in contact with their father.
+
+Liu is a so called https://en.wikipedia.org/wiki/Naked_official[naked official] (https://zh.wikipedia.org/wiki/裸官[裸官]), who let his family go live outside of China to prevent such problems with the CCP.
+
+The wiki page also explains that in 2014 rules were added to prevent promotion of officials whose spouses live abroad.
+
+This reminds Ciro of a Mafia movie, maybe Godfather II, where the bad guy says he "likes doing business with a man that has a family, because he has more collateral".
+
+Coverage:
+
+* 2018-11 https://www.businessinsider.com/liu-changming-china-holds-officials-family-hostage-to-force-return-2018-11
+
+.2019-05-09 https://www.youtube.com/watch?v=t2hBtXdaYsQ Cynthia Liu, daughter of Liu Changming (刘昌明) pleas freedom on YouTube. Commented upload by CBS, TODO can't find original video on YouTube, maybe they sent straight to CBS?
+video::t2hBtXdaYsQ[youtube,height=400,width=600]
 
 [[effective]]
 === Will the keyword attacks really help to destroy the firewall?
@@ -2074,7 +2112,7 @@ These are some of my prioritization guidelines:
 E.g., I've heard there is even some opening towards acknowledging the Great Famine, thus 烏坎事件 (and others from my previous profile names)
 * words must refer to a precise event, and must be clearly summarizable in very few chars, for increased impact, and profile name length limitations.
 +
-E.g. "High corruption rates, high pollution", although very serious, feel too generic.
+E.g. "High <<corruption,corruption>> rates, high pollution", although very serious, feel too generic.
 * events that relate directly to freedom of speech receive a prime, since they can only happen in China and very few other countries.
 +
 E.g.: <<falun-gong>>, <<tiananmen>>.
@@ -2350,13 +2388,12 @@ and yet as of the 2017 Internment camps, all Xinjiang Muslims were fucked. <<rul
 
 News source: https://www.reddit.com/r/HongKong/ Became larger than `r/china` during the <<2019-hong-kong-anti-extradition-bill-protests>>.
 
-The solution to Hong Kong's problem is: give those people easy VISAs to leave China, with priority to the rich/educated ones. Give them free language courses on the country of arrival, and help them find jobs.
+There is only one solution to Hong Kong's problem:
 
-News without sections:
+* give inhabitants people easy VISAs to leave China, with priority to the rich/educated ones. Give them free language courses on the country of arrival, and help them find jobs
+* treat Hong Kong exactly like any other part of China, removing any special commercial treaty with the reagion, which it has enjoyed for many years
 
-* 2020-05 National Security Law
-** 2020-05-29 https://www.bbc.co.uk/news/uk-52842303 "UK could offer 'path to citizenship' for Hong Kong's British passport holders"
-** 2020-05-24 https://www.theguardian.com/world/2020/may/24/beijing-to-impose-hong-kong-security-laws-without-delay
+These have started happening seriously in response to the <<hong-kong-national-security-law>>.
 
 ===== Hong Kong 97 SNES video game
 
@@ -2388,6 +2425,26 @@ image::https://upload.wikimedia.org/wikipedia/en/a/a8/Hong_Kong_97_cover.jpg[hei
 
 .https://www.youtube.com/watch?v=M_aXcH1zDEE The venerable https://en.wikipedia.org/wiki/Angry_Video_Game_Nerd[Angry Video Game Nerd] made a review of Hong Kong 97. 
 video::M_aXcH1zDEE[youtube,height=400,width=600]
+
+[[hong-kong-national-security-law]]
+===== Hong Kong National Security Law 香港国安法 (2020)
+
+* https://en.wikipedia.org/wiki/Hong_Kong_national_security_law
+* https://zh.wikipedia.org/wiki/中華人民共和國香港特別行政區維護國家安全法
+
+News:
+
+* 2020-07-08 https://www.reuters.com/article/us-hongkong-protests-china-security/china-converts-hong-kong-hotel-into-new-national-security-office-idUSKBN24903Z "China converts Hong Kong hotel into new national security office"
++
+The name of the hotel is Metropark Hotel (維景酒店), address: 148 Tung Lo Wan Rd, Causeway Bay, Hong Kong: https://goo.gl/maps/1uR4RntpLMFaCYpq6
+* 2020-06-29 https://www.commerce.gov/news/press-releases/2020/06/statement-us-secretary-commerce-wilbur-ross-revocation-hong-kong ""
++
+____
+With the Chinese Communist Party’s imposition of new security measures on Hong Kong, the risk that sensitive U.S. technology will be diverted to the People’s Liberation Army or Ministry of State Security has increased, all while undermining the territory’s autonomy. Those are risks the U.S. refuses to accept and have resulted in the revocation of Hong Kong’s special status.
+____
+* 2020-06-03 https://www.theguardian.com/world/2020/jun/03/britain-could-change-immigration-rules-for-hong-kong-citizens "Boris Johnson lays out visa offer to nearly 3m Hong Kong citizens"
+* 2020-05-29 https://www.bbc.co.uk/news/uk-52842303 "UK could offer 'path to citizenship' for Hong Kong's British passport holders"
+* 2020-05-24 https://www.theguardian.com/world/2020/may/24/beijing-to-impose-hong-kong-security-laws-without-delay
 
 ===== 2019 Hong Kong anti-extradition bill protests
 
@@ -2837,7 +2894,7 @@ and is way smarter than Ciro.
 
 Ciro is actually the lucky one for having found her!
 
-The fake Obama story comes to mind https://www.snopes.com/fact-check/spousal-success-story/[]:
+The fake "the woman makes the man" Obama story comes to mind https://www.snopes.com/fact-check/spousal-success-story/[] (Obama would never say that in public):
 
 ____
 
@@ -4263,7 +4320,7 @@ Also, people from that religion don't drink alcohol, smoke or take drugs, and th
 
 Furthermore, FLG prisoners continue to not bow down to the government even in prison, e.g. by doing their <<flg-religion,Falun Gong meditation>>, which makes them clearly identifiable and dangerous to the system.
 
-Finally, add to that mix the huge level of corruption found in dictatorships.
+Finally, add to that mix the <<corruption,huge level of corruption found in dictatorships>>.
 
 Don't you think, then, that it is extremely likely that it has happened many times that such people have been selected to be executed earlier than others on average, due to the monetary value of their organs?
 
@@ -4665,7 +4722,7 @@ image::https://web.archive.org/web/20200225220314/https://pbs.twimg.com/media/BJ
 
 https://en.wikipedia.org/wiki/Panama_Papers | https://zh.wikipedia.org/wiki/巴拿馬文件
 
-Leak of financial data implicating many corruption scandals.
+Leak of financial data implicating <<corruption,many corruption scandals>>.
 
 Mentions <<xi-jinping>>'s brother-in-law https://en.wikipedia.org/wiki/Deng_Jiagui[Deng Jiagui] (https://zh.wikipedia.org/wiki/邓家贵[邓家贵]).
 
@@ -4858,32 +4915,6 @@ How I find them: <<anti-ccp-info-sources>>.
 ** https://www.reddit.com/r/China/comments/auqkdl/biotech_giant_thermo_fisher_stops_selling_dna/
 * 2019-01 https://www.apnews.com/40f7cf4c0c6e43f18121af93f1e418f7 Microsoft Bing https://www.bing.com/ search engine blocked in China
 * 2019-01 https://www.nytimes.com/2019/01/02/business/china-internet-censor.html interview with Beyondsoft, a company that offers censorship services
-
-[[liu-changming]]
-==== The detention of Liu Changming's (刘昌明) family (2018)
-
-China imposed an exit ban on the ex-official's family, who are also USA citizens:
-
-* officer Liu Changming (刘昌明)
-* wife Sandra Han
-* children Victor Liu (born July 1999 in the USA) and Cynthia Liu (27 in 2019, born in China, but also American citizen)
-
-China says that the children and wife do have valid Chinese documents, so maybe those idiots did not give up their Chinese citizenship and went to China. Why, why, why would you do that? Don't they know anything about China?
-
-Cynthia claimed her father has left home a long time ago and that they are not in contact with their father.
-
-Liu is a so called https://en.wikipedia.org/wiki/Naked_official[naked official] (https://zh.wikipedia.org/wiki/裸官[裸官]), who let his family go live outside of China to prevent such problems with the CCP.
-
-The wiki page also explains that in 2014 rules were added to prevent promotion of officials whose spouses live abroad.
-
-This reminds Ciro of a Mafia movie, maybe Godfather II, where the bad guy says he "likes doing business with a man that has a family, because he has more collateral".
-
-Coverage:
-
-* 2018-11 https://www.businessinsider.com/liu-changming-china-holds-officials-family-hostage-to-force-return-2018-11
-
-.2019-05-09 https://www.youtube.com/watch?v=t2hBtXdaYsQ Cynthia Liu, daughter of Liu Changming (刘昌明) pleas freedom on YouTube. Commented upload by CBS, TODO can't find original video on YouTube, maybe they sent straight to CBS?
-video::t2hBtXdaYsQ[youtube,height=400,width=600]
 
 [[nine-nine-six-icu]]
 ==== 996.ICU
@@ -5627,10 +5658,6 @@ I consider the media in this section biased, and never cite it for fact-checking
 ** https://zh.wikipedia.org/wiki/中国国际广播电台
 ** http://www.cri.cn
 ** http://english.cri.cn/
-* China Daily
-** https://en.wikipedia.org/wiki/China_Daily
-** https://zh.wikipedia.org/wiki/孔子学院
-** https://www.economist.com/node/17969895
 * https://en.wikipedia.org/wiki/China_Central_Television[China Central Television (CCTV)]
 ** https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg CGTN, CCTV's international branch in English
 * http://facts.org.cn/ anti <<falun-gong>> website
@@ -5667,6 +5694,14 @@ But older pages just show 404.
 
 * https://en.wikipedia.org/wiki/Global_Times
 * https://zh.wikipedia.org/wiki/环球时报
+
+[[china-daily]]
+===== China Daily
+
+* https://en.wikipedia.org/wiki/China_Daily
+* https://zh.wikipedia.org/wiki/孔子学院
+
+English-language propaganda newspaper.
 
 ===== Pro-Chinese government media
 
@@ -6409,7 +6444,7 @@ And some interesting random stuff that is hard to understand why its blocked, so
 
 * https://sourceforge.net/ interesting! The ex-<<github>> was blocked unlike GitHub as of 2020: https://www.quora.com/Is-SourceForge-still-relevant-to-open-source-projects/answer/Ciro-Santilli
 * https://www.homedepot.com
-* weirdly named <<google-mirror,Google mirrors>>
+* weirdly named <<google-mirrors,Google mirrors>>
 * https://www.jw.org/en/ Jehovah's Witness
 * https://www.yodobashi.com/ https://en.wikipedia.org/wiki/Yodobashi_Camera a Japanese Electronics retailer
 
@@ -6651,9 +6686,11 @@ Above all, never reply intelligently to wumaos. Ignore all their notifications, 
 
 If it is ever proven that those people are directly supported by the Chinese government, their nationalities should be revoked.
 
-Some of them, especially the ones that speak Chinese, might be just idiots trying to milk views though. Maybe their nationalities should also be revoked.
+Some of them, especially the ones that speak Chinese, might be just idiots trying to intentionally milk views though, without any Government links.
 
-Some might actually be just idiots who really believe what they say and unwittingly milk views.
+Part of Ciro feels like their nationalities should also be revoked, since they are making a living out of helping an Evil government.
+
+But likely we won't ever be able to distinguish those who really think that way or are just trying to get more views, so it is hard to stopping them without quenching freedom of expression in that case.
 
 * 伏拉夫 (fu2 la1 fu1): Russian, says I love China in ridiculously enthusiastic tone which is despised even by the Chinese, samples: https://www.youtube.com/watch?v=YMVRdeUrk-8[]
 +
