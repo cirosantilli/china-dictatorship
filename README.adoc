@@ -646,10 +646,16 @@ But isn't it better to be annoyed than having <<war,war>>, <<richer,being poor>>
 
 If the truth is too much for you to bear, worry not, you can use either:
 
-* this cool browser extension to clean up Stack Overflow: https://greasyfork.org/en/scripts/32236-stackoverflow净化器 "StackOverflow净化器"
-** GitHub user with the same username: https://github.com/EternalPhane
-** https://web.archive.org/web/20181211094818/https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8
-** https://web.archive.org/web/20181211094917/https://greasyfork.org/en/forum/discussion/47981
+* Greasyfork browser extensions
+** https://greasyfork.org/en/scripts/32236-stackoverflow净化器 "StackOverflow净化器" (Stack Overflow cleanup)
+*** GitHub user with the same username: https://github.com/EternalPhane
+*** https://web.archive.org/web/20181211094818/https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8
+*** https://web.archive.org/web/20181211094917/https://greasyfork.org/en/forum/discussion/47981
+** 2020-07-09 https://greasyfork.org/en/scripts/406756-ciro-santilli "Ciro Santilli"
+*** https://greasyfork.org/en/scripts/406756-ciro-santilli/discussions/53697
+*** Some possible authors (of course, with that name, there must be 10 thousand Chinese people at least):
+**** https://english.meta.stackexchange.com/users/156741/li-xiaodong
+**** https://github.com/DoyleLi from Intel
 * a custom ad terminator expression shown at: https://github.com/cirosantilli/china-dictatorship/issues/87 `stackoverflow.com##a[href="/users/895245/ciro-santilli-%e6%96%b0%e7%96%86%e6%94%b9%e9%80%a0%e4%b8%ad%e5%bf%83%e6%b3%95%e8%bd%ae%e5%8a%9f%e5%85%ad%e5%9b%9b%e4%ba%8b%e4%bb%b6"]`
 
 Installing any of those immediately give you <<social-credit-system,10 Sesame Points>>, <<xi-abolishes-term-limits-2018-03,习万岁>>, 
@@ -2685,6 +2691,12 @@ News:
 * 2020-05 <<liu-keqing-singer>>
 * 2019-11 https://www.theverge.com/platform/amp/2019/11/25/20976964/chinese-americans-censorship-wechat-hong-kong-elections-tiktok
 * https://www.reddit.com/r/China/comments/fug8i1/the_chinese_tiktok_just_began_an_uninterrupted/ "The Chinese Tik-Tok just began an uninterrupted propaganda stream."
+
+Reports:
+
+* https://twitter.com/JoshuaDummer/status/1280877750245453828 "Wife trying livestreaming on Douyin. Comes over to me in the middle of a stream and puts me on camera. After about a minute, notice pops up saying that foreigners are not allowed to appear on livestreams 'without permission'."
+** https://twitter.com/JoshuaDummer/status/1280881420047511552/photo/1
+** https://twitter.com/JoshuaDummer/status/1280882119913291776/photo/1
 
 ===== What should Western media do about China?
 
@@ -5660,6 +5672,12 @@ SerpentZA YouTube channel: https://www.youtube.com/channel/UCl7mAGnY4jh4Ps8rhhh8
 laowhy86 YouTube channel: https://www.youtube.com/channel/UChvithwOECK5g_19TjldMKw
 
 ADVChina joint YouTube channel: https://www.youtube.com/channel/UCwNPa8fSXzzAZuT9859GVhg
+
+.https://www.youtube.com/watch?v=kDV4s9c9sfQ "How I Got my Family Out of China" published by laowhy86 on 2020-07-08.
+video::kDV4s9c9sfQ[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=z7CPqROtanA "How I Escaped From China - The Untold Story" published by laowhy86 on 2020-07-01.
+video::kDV4s9c9sfQ[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=kDV4s9c9sfQ "#65 China Is Getting Worse | Laowhy86 and SerpentZA" published on 2020-04-05. SerpentZA and laowhy86 interview on "China Unscripted", a sister channel of <<china-uncensored-youtube-channel>>. This marks them clearly on the side of "openly criticizing the Chinese government".
 video::kDV4s9c9sfQ[youtube,height=400,width=600]
