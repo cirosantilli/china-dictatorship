@@ -571,18 +571,31 @@ It worth noting however that as mentioned at <<is-stack-overflow-blocked-in-chin
 
 For example, Stack Overflow relied on Google for some of its JavaScript and on Imgur for images, both of which are blocked in China.
 
-=== This is your personal problem, we have nothing to do with it, stop punishing us for it
+[[disturbs]]
+==== Keyword attack profiles disturb me
 
-We have to fight for justice for our fellows, or else when injustice happens to us, no one will fight for use either.
+But isn't it better to be annoyed than having <<war,war>>, <<richer,being poor>> or <<xinjiang,put into jail unfairly>>?
 
-Every form of protest incurs some damage. E.g., if we manifest on the street, it generates a traffic jam.
+If the truth is too much for you to bear, worry not, you can use either:
 
-I don't like it, but I think it is worth it.
+* Greasyfork browser extensions
+** https://greasyfork.org/en/scripts/32236-stackoverflow净化器 "StackOverflow净化器" (Stack Overflow cleanup)
+*** GitHub user with the same username: https://github.com/EternalPhane
+*** https://web.archive.org/web/20181211094818/https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8
+*** https://web.archive.org/web/20181211094917/https://greasyfork.org/en/forum/discussion/47981
+** 2020-07-09 https://greasyfork.org/en/scripts/406756-ciro-santilli "Ciro Santilli"
+*** https://greasyfork.org/en/scripts/406756-ciro-santilli/discussions/53697
+*** Some possible authors (of course, with that name, there must be 10 thousand Chinese people at least):
+**** https://english.meta.stackexchange.com/users/156741/li-xiaodong
+**** https://github.com/DoyleLi from Intel
+* a custom ad terminator expression shown at: https://github.com/cirosantilli/china-dictatorship/issues/87 `stackoverflow.com##a[href="/users/895245/ciro-santilli-%e6%96%b0%e7%96%86%e6%94%b9%e9%80%a0%e4%b8%ad%e5%bf%83%e6%b3%95%e8%bd%ae%e5%8a%9f%e5%85%ad%e5%9b%9b%e4%ba%8b%e4%bb%b6"]`
 
-If you just work to make money and have a good life, without any plans to improve the government, you are just making the economy of the dictatorship stronger, then when they start a <<war,war>> or kill yet another minority, blood will also be on your hands. See also: <<what-should-western-countries-do-about-china>>.
+Installing any of those immediately give you <<social-credit-system,10 Sesame Points>>, <<xi-abolishes-term-limits-2018-03,习万岁>>.
+
+See also: <<harm-programmers>>.
 
 [[intolerance]]
-==== Most Chinese people don't care about the minorities
+=== Most Chinese people don't care about the minorities
 
 How can you be that certain that your children won't have dissident ideas and be punished unfairly for them?
 
@@ -612,10 +625,30 @@ Then they came for me +
 and there was no one left to speak for me.
 ____
 
-See also: https://en.wikipedia.org/wiki/Intolerance_(film)[Intolerance (1916) film]
+See also:
+
+* <<rule-of-law>>
+* https://en.wikipedia.org/wiki/Intolerance_(film)[Intolerance (1916) film]
+
+==== This is your personal problem, we have nothing to do with it, stop punishing us for it
+
+We have to fight for justice for our fellows, or else when injustice happens to us, no one will fight for use either: <<intolerance>>.
+
+Every form of protest incurs some damage. E.g., if we manifest on the street, it generates a traffic jam.
+
+I don't like it, but I think it is worth it.
+
+If you just work to make money and have a good life, without any plans to improve the government, you are just making the economy of the dictatorship stronger, then when they start a <<war,war>> or kill yet another minority, blood will also be on your hands. See also: <<what-should-western-countries-do-about-china>>.
+
+[[overlook-human-rights-for-profit]]
+==== As long as China is developping economically, it is fine to violate the human rights of a few million people
+
+This argument can be made, but it is a risky way to live: <<intolerance>> and borderline <<nazi>>. Do the <<violence,ends always justify the means>>?
+
+<<ciro-santilli>> argues that China would be even richer if it weren't for the CCP: <<richer>>, and that the CCP only violates people's human rights as a tool to stay in power: <<ccp-evil>>.
 
 [[stability]]
-=== If anyone disagrees with the government they must be punished to keep the stability of the country
+==== If anyone disagrees with the government they must be punished to keep the stability of the country
 
 Destroying diversity is the best way to reach a point where everyone can agree to start <<war,a new big war and destroy everything>>.
 
@@ -638,29 +671,6 @@ See also:
 
 .https://www.youtube.com/watch?v=dXRG7yiqR3I Passage of Kennedy's discourse that contains the quote "Those who make peaceful revolution impossible will make violent revolution inevitable".
 video::Iwpr55PZEJ8[youtube,height=400,width=600]
-
-[[disturbs]]
-==== Keyword attack profiles disturb me
-
-But isn't it better to be annoyed than having <<war,war>>, <<richer,being poor>> or <<xinjiang,put into jail unfairly>>?
-
-If the truth is too much for you to bear, worry not, you can use either:
-
-* Greasyfork browser extensions
-** https://greasyfork.org/en/scripts/32236-stackoverflow净化器 "StackOverflow净化器" (Stack Overflow cleanup)
-*** GitHub user with the same username: https://github.com/EternalPhane
-*** https://web.archive.org/web/20181211094818/https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8
-*** https://web.archive.org/web/20181211094917/https://greasyfork.org/en/forum/discussion/47981
-** 2020-07-09 https://greasyfork.org/en/scripts/406756-ciro-santilli "Ciro Santilli"
-*** https://greasyfork.org/en/scripts/406756-ciro-santilli/discussions/53697
-*** Some possible authors (of course, with that name, there must be 10 thousand Chinese people at least):
-**** https://english.meta.stackexchange.com/users/156741/li-xiaodong
-**** https://github.com/DoyleLi from Intel
-* a custom ad terminator expression shown at: https://github.com/cirosantilli/china-dictatorship/issues/87 `stackoverflow.com##a[href="/users/895245/ciro-santilli-%e6%96%b0%e7%96%86%e6%94%b9%e9%80%a0%e4%b8%ad%e5%bf%83%e6%b3%95%e8%bd%ae%e5%8a%9f%e5%85%ad%e5%9b%9b%e4%ba%8b%e4%bb%b6"]`
-
-Installing any of those immediately give you <<social-credit-system,10 Sesame Points>>, <<xi-abolishes-term-limits-2018-03,习万岁>>, 
-
-See also: <<harm-programmers>>.
 
 [[not-chinese]]
 === Non-Chinese people should not interfere in Chinese politics 外国人不应该干预中国政治
@@ -1490,7 +1500,9 @@ Sometimes people say Ciro Santilli is naive.
 
 Politicians are the same all over the world.
 
-Some are good, some are evil.
+Some might have good intentions, but don't give a shit about anyone else.
+
+But all must play a careful political game, and sometimes betray their own beliefs to not lose power entirely.
 
 China's problem is not its politicians.
 
@@ -1977,19 +1989,16 @@ In an ideal world, Ciro Santilli is of course "against violence".
 
 But what if you could prevent a lot of future violence with some violence today?
 
-.One baby <<nazi,Hitler>> or 5 Million Jews https://en.wikipedia.org/wiki/Trolley_problem[trolley problem].
-image::{cirosantilli-media-base}/Baby_Hitler_vs_5_million_Jews_trolley_problem.jpg[height=400]
-
 Ah, the eternal question which only God can answer:
 
-* https://www.quora.com/What-is-the-origin-of-the-quote-The-end-justifies-the-means[the ends justify the means]
-** https://en.wikipedia.org/wiki/Consequentialism[consequentialism]
-** https://en.wikipedia.org/wiki/Trolley_problem[trolley problem]
-* link:https://en.wikipedia.org/wiki/Nonviolent_resistance[nonviolent resistance]
+* https://www.quora.com/What-is-the-origin-of-the-quote-The-end-justifies-the-means "What is the origin of the quote 'The end justifies the means?'"
+** https://en.wikipedia.org/wiki/Consequentialism[Consequentialism]
+** https://en.wikipedia.org/wiki/Trolley_problem[Trolley problem]
+* link:https://en.wikipedia.org/wiki/Nonviolent_resistance[Nonviolent-resistance]
 
-Do you really think that the communists will step down if you ask them nicely enough?
+Do you really think that the communists will step down if you ask them nicely enough? Even after <<tiananmen>>?
 
-A quote from https://en.wikipedia.org/wiki/V_for_Vendetta_(film)[V for Vendetta (2005)]:
+A quote from https://en.wikipedia.org/wiki/V_for_Vendetta_(film)[V for Vendetta (2005)] comes to mind:
 
 ____
 Q: If they do, what do you think will happen [the people protest against their Government]?
@@ -2000,13 +2009,18 @@ ____
 .https://youtube.com/watch?v=TcoBv6ibh8M V for Vendetta (2005) "What you think will happen" scene.
 video::TcoBv6ibh8M[youtube,height=400,width=600]
 
-How do you think the CCP or any other party got into power and maintained that power in the first place? Violence.
+How do you think the CCP or any other party got into power and maintained that power in the first place? Obviously through violence.
 
-The question of if violence is right or wrong makes no sense. All that matters is: what is the most <<richer,efficient form of government>> and who has the power to do what.
+And the CCP actually uses "the ends justify the means" as an argument to justify its own actions: <<overlook-human-rights-for-profit>>.
+
+The question of if anything is morally right or wrong makes no sense. All that matters is: what is the government that maximizes the happines of its own people, and who has the power to do what? <<richer,Getting richer,>> is part of the equation, but so is <<rule-of-law,not being constantly affraid that you will be randomly put in jail for no good reason>>.
 
 If you do decide to strike though, <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship,stay safe, gather your forces on the Internet, and only strike when victory seems certain>>.
 
 For "violence is illegal" arguments, see also: <<follow-the-law>>.
+
+.One baby <<nazi,Hitler>> or 5 Million Jews https://en.wikipedia.org/wiki/Trolley_problem[trolley problem] illustrates well the moral dillema of https://en.wikipedia.org/wiki/Consequentialism["the ends justify the means"].
+image::{cirosantilli-media-base}/Baby_Hitler_vs_5_million_Jews_trolley_problem.jpg[height=400]
 
 ==== It is fine for the CCP to treat some of its citizens unfairly if the majority is better off
 
@@ -2853,7 +2867,7 @@ Never block users for an initial <<shitpost,shitposts>>, just reply with a stupi
 If a shitpost is made on most other social media except GitHub issues in this repository, e.g. Twitter, Facebook, YouTube, immediately block the user on that website if you have the permission to do that, with a canned reply:
 
 ____
-Hi <idiot's name>, if you want a reply, please open an issue at: https://github.com/cirosantilli/china-dictatorship/issues
+Hi <idiot's name>, I don't reply to China issues here, please open an issue at: https://github.com/cirosantilli/china-dictatorship/issues instead, cheers.
 ____
 
 Note however that this is not possible on idiotic websites like <<quora>> where such comments may be deleted, possibly automatically, who the fuck knows, e.g. as done at: https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli/comment/143227962 In that case just link to sections of the FAQ, or mute people, or maybe just block all comments on the post to not waste time with new useless notifications.
