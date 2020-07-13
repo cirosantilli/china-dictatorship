@@ -2009,7 +2009,7 @@ ____
 .https://youtube.com/watch?v=TcoBv6ibh8M V for Vendetta (2005) "What you think will happen" scene.
 video::TcoBv6ibh8M[youtube,height=400,width=600]
 
-How do you think the CCP or any other party got into power and maintained that power in the first place? Obviously through violence.
+How do you think the CCP or any other party got into power and maintained that power in the first place? Obviously https://en.wikipedia.org/wiki/Chinese_Communist_Revolution[through violence]. And likely due to earlier <<not-chinese,Japanese invasions which weakened the Guomindang>>.
 
 And the CCP actually uses "the ends justify the means" as an argument to justify its own actions: <<overlook-human-rights-for-profit>>.
 
