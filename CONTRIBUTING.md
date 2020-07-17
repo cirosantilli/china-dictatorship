@@ -2,7 +2,7 @@
 
 Forbidden:
 
--   at mention @cirosantilli unless there is moderation need.
+-   at mention @cirosantilli (or other unsubscribed users) unless there is moderation need.
 
     If Ciro unsubscribed from a thread, it means that he does not want to reply there anymore.
 
@@ -14,6 +14,8 @@ Forbidden:
 
     People don't have that much time to waste.
 
+    If you are still certain that you want really want to shitpost, first see some tips at: https://github.com/cirosantilli/china-dictatorship#shitpost
+
 -   swearing/being very aggressive on a [`not-shitpost`](https://github.com/cirosantilli/china-dictatorship) post.
 
     Keep in mind that [Ciro's Chinese sucks](https://github.com/cirosantilli/china-dictatorship#does-ciro-santilli-speak-chinese), so he may not get the full nuance of your comment, especially if you use a ton of [slang](https://github.com/cirosantilli/china-dictatorship#slang).
@@ -21,6 +23,10 @@ Forbidden:
     On `shitpost` posts however, you can be as aggressive as you want.
 
 Punitive measures, from least serious to most serious:
+
+-   if you make a comment and delete, people who received notifications can still find your username: https://github.com/isaacs/github/issues/1833#issuecomment-660128741 so think twice before doing that on a non-shitpost thread that Ciro is subscribed to.
+
+    Shitposting and owning up to it is one thing, but shitposting, generating notifications, and being a coward by immediately deleting your comment, makes you getting blocked much more likely.
 
 -   block user on one website. This may have the unintended side effect of deleting previous useful comments the user made on the websites. 
 
@@ -41,5 +47,3 @@ If OP someone shitposts on GitHub and gets blocked, I will just make that clear 
 Other blocked users:
 
 - https://github.com/brglng | https://github.com/cirosantilli/china-dictatorship/issues/42#event-2319426123 | https://github.com/isaacs/github/issues/1570 | http://web.archive.org/web/20190505072320/https://github.com/cirosantilli/china-dictatorship/issues/42
-
-If you are still certain that you want really want to shitpost, first see some tips at: https://github.com/cirosantilli/china-dictatorship#shitpost

@@ -2053,13 +2053,17 @@ But Ciro did it only when his brain was too tired of technical stuff and unable 
 
 Telling the CCP to fuck off is surprisingly relaxing, you should try it some time too. It uses a different part of your brain other than the programming one. It is, one could say, an art form.
 
-=== Were you influenced by the Cute cat theory of digital activism?
+=== Was Ciro Santilli influenced by the Cute cat theory of digital activism?
 
 https://en.wikipedia.org/wiki/Cute_cat_theory_of_digital_activism
 
-Nope, someone told me about it after a while, but it is basically what I'm doing.
+Nope, someone told him about it after a while, but it is basically what he's doing.
 
-You can never invent anything new anymore nowadays.
+You can never invent anything new anymore nowadays!
+
+Related:
+
+* https://en.wikipedia.org/wiki/Internet_activism
 
 === People in China have already considered democracy, and rejected it
 
@@ -2488,6 +2492,9 @@ ____
 +
 and yet as of the 2017 Internment camps, all Xinjiang Muslims were fucked. <<rule-of-law>> comes to mind.
 
+.https://www.youtube.com/watch?v=Mx0JFgwATho&t=128 "New footage shows Uyghurs bussed across China for forced labour in factories". At the given timestamp, contains 30 seconds of footage extracted from 3 social media posts showing Uyghurs being sent in busses to work in far way regions.
+video::M_aXcH1zDEE[youtube,height=400,width=600,start=128]
+
 [[other-islam-countries-speak-up-for-uyghur]]
 ===== Why don't other Islamic countries speak up for the Uyghur persecution?
 
@@ -2794,11 +2801,12 @@ News:
 * 2020-07 https://www.forbes.com/sites/zakdoffman/2020/06/26/warning-apple-suddenly-catches-tiktok-secretly-spying-on-millions-of-iphone-users/#5265c8d734ef "pple Suddenly Catches TikTok Secretly Spying On Millions Of iPhone Users" by reading from the clipboard
 * 2020-06 https://www.bbc.co.uk/news/technology-53225720 India bans TikTok after Ladakh border tensions
 * 2020-05 <<liu-keqing-singer>>
+* 2019-11-28 https://www.theguardian.com/technology/2019/nov/28/tiktok-says-sorry-to-us-teenager-blocked-after-sharing-xinjiang-videos[]: "TikTok sorry for blocking teenager who disguised Xinjiang video as make-up tutorial". Subtitle: "Chinese-owned video sharing platform blocked Feroza Aziz after she posted film disguised as makeup tutorial"
 * 2019-11 https://www.theverge.com/platform/amp/2019/11/25/20976964/chinese-americans-censorship-wechat-hong-kong-elections-tiktok
-* 2020-03 https://www.reddit.com/r/China/comments/fug8i1/the_chinese_tiktok_just_began_an_uninterrupted/ "The Chinese Tik-Tok just began an uninterrupted propaganda stream." during <<corona>>
 
 Reports:
 
+* 2020-03 https://www.reddit.com/r/China/comments/fug8i1/the_chinese_tiktok_just_began_an_uninterrupted/ "The Chinese Tik-Tok just began an uninterrupted propaganda stream." during <<corona>>
 * https://twitter.com/JoshuaDummer/status/1280877750245453828 "Wife trying livestreaming on Douyin. Comes over to me in the middle of a stream and puts me on camera. After about a minute, notice pops up saying that foreigners are not allowed to appear on livestreams 'without permission'."
 ** https://twitter.com/JoshuaDummer/status/1280881420047511552/photo/1
 ** https://twitter.com/JoshuaDummer/status/1280882119913291776/photo/1
@@ -5989,6 +5997,7 @@ Related shows:
 * https://www.youtube.com/user/Laowaikanzhongguo Laowai kan Zhongguo 老外看中國
 * https://www.youtube.com/user/NTDOffTheGreatWall Off the Great Wall
 * https://www.youtube.com/channel/UCVWMVBg1RPrDlakdmbyTKBA Zooming In with Simone Gao
+* https://www.youtube.com/channel/UC3HxxpOJ0WWIuZsb7FtSLWQ The BL (The Beauty of Life) No clear indication, but obvious since intro video shows Falun Gong images.
 
 ====== China Uncensored YouTube channel
 
