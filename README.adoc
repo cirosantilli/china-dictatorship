@@ -76,7 +76,7 @@ But he believes that this harm is a necessary means to reach his real goal, whic
 
 Don't you think it is worth a try? Destroying the firewall, would <<why-end-dictatorship,enormously benefit>> not only Chinese programmers, but every single other Chinese person too.
 
-Once the firewall is destroyed, which <<dictator-needs-gfw,may destroy the dictatorship>>, he want China to develop the best science and technology in the world, and <<would-you-like-to-live-in-china>>.
+Once the firewall is destroyed, which <<dictator-needs-gfw,may destroy the dictatorship>>, he want China to develop the best science and technology in the world, and <<would-ciro-santilli-like-to-live-in-china>>.
 
 And by the way, with his https://github.com/cirosantilli[extensive contributions to open source software], Ciro is already helping China, and all underdeveloped countries, become stronger.
 
@@ -420,6 +420,26 @@ Some arguments include:
 * dictators have huge power, so if they put it in their heads that they want to start a war, it is much harder for sensible people to stop them
 * dictators need <<evil-west,to keep the people in fear all the time to keep their power>>, and a war is a great way to achieve that
 
+Of course China won't say that they are starting a war when they do.
+
+They will of course start with territories which they claim as theirs, to add to <<separatism,other recent additions which were not theirs>> until the recent past, even though their inhabitants desperately want to leave China:
+* https://en.wikipedia.org/wiki/2020_China–India_skirmishes
+
+Which reminds us of... <<nazi>>:
+
+* 1939 https://en.wikipedia.org/wiki/Gleiwitz_incident[Gleiwitz incident], a https://en.wikipedia.org/wiki/False_flag[false flag attack]
+* 1938 Annexation of https://en.wikipedia.org/wiki/Sudetenland[Sudetenland] from Czechoslovakia. https://en.wikipedia.org/wiki/Causes_of_World_War_II explains:
++
+____
+A decisive proximate event was the 1938 https://en.wikipedia.org/wiki/Munich_Agreement[Munich Conference], which formally approved Germany's annexation of the Sudetenland from Czechoslovakia. Hitler promised it was his last territorial claim, but in early 1939 he became even more aggressive, and European governments finally realized that appeasement was not guaranteeing peace."
+____
+* 1935-1938 https://en.wikipedia.org/w/index.php?title=Causes_of_World_War_II&oldid=968409781#Expansionism_and_militarism comments:
++
+____
+In Italy, Benito Mussolini sought to create a https://en.wikipedia.org/wiki/Italian_Empire[New Roman Empire], based around the Mediterranean. It invaded Ethiopia as early as 1935, Albania in early 1938, and later Greece. That provoked angry words and an oil embargo from the League of Nations, which failed.
+____
+* 1931 https://en.wikipedia.org/wiki/Japanese_invasion_of_Manchuria[1931 Japanese invasion of Manchuria], with one false flag event preceding it: https://en.wikipedia.org/wiki/Mukden_Incident[Mikden Incident].
+
 [[uneducated-masses]]
 ==== The Chinese masses are still uneducated, and not fit for free speech and democracy 中国大众愚昧，不能好好选领导
 
@@ -489,6 +509,11 @@ In George Bernard Shaw's "Maxims for Revolutionists" words:
 ____
 Democracy substitutes election <<uneducated-masses,by the incompetent many>> for appointment by the corrupt few.
 ____
+
+Well known corruption cases:
+
+* 2012 https://en.wikipedia.org/wiki/Ling_Jihua[Ling Jihua] (https://zh.wikipedia.org/wiki/令计划[令计划]): son died in Ferrari crash with two women on the car, which put the spotlight on him
+* 2012 https://en.wikipedia.org/wiki/Bo_Xilai[Bo Xilai] (https://zh.wikipedia.org/wiki/薄熙来[薄熙来]): trigerred by the murder of https://en.wikipedia.org/wiki/Neil_Heywood[Neil Heywood], of which Bo's wife was accused
 
 Related events:
 
@@ -1760,9 +1785,13 @@ But he doesn't think it is a good idea for him to do that now, in case his Visa 
 
 He knows that if you don't mind contributing to making <<war,WW3>> deadlier and shut up and obey the CCP, China is already a fine place to live as much as any other developing country.
 
-===== Would you like to live in China?
+===== Would Ciro Santilli like to live in China?
 
-If the dictatorship ends, I would like to <<does-ciro-santilli-hate-china,migrate to China>> if given a decent job to help you develop and become awesomer.
+If the dictatorship ends, <<ciro-santilli>> would like to <<does-ciro-santilli-hate-china,migrate to China>> if given a decent job to help China develop and become awesomer.
+
+Before the Dictatorship, Ciro likely won't be able to enter/it wouldn't be a good idea: <<would-ciro-santilli-be-able-to-visit-china-before-the-ccp-ends>>.
+
+And it is immoral to help make dictatorships richer by working for their companies: <<what-should-western-countries-do-about-china>>.
 
 ===== Would Ciro Santilli be able to visit China before the CCP ends?
 
@@ -1914,7 +1943,7 @@ On the contrary. China has his favorite:
 It is hard to understand how the same people have not managed to speak up when <<flg-persecution,70 million old ladies were put into jail when Falun Gong was banned>>. Only the extreme fear of also going to jail could explain it. Living in China is living in constant fear if you can think for yourself.
 ** enormous importance given to education. One must not forget however: grades are useless, and all that matters is how much you improve society
 
-And because of that: <<would-you-like-to-live-in-china>>.
+And because of that: <<would-ciro-santilli-like-to-live-in-china>>.
 
 As link:https://en.wikipedia.org/wiki/Bjarne_Stroustrup[Bjarne] said:
 
@@ -2259,7 +2288,7 @@ The creator appears to be a Vietnamese immigrant or descendant living in France.
 [[separatism]]
 === Separatism 分离主义
 
-If a large number of people in a given region want to leave an country strongly or have greater autonomy, I believe that they should be allowed to do so.
+If a large number of people in a given region want to leave an country strongly or have greater autonomy, <<ciro-santilli>> believes that they should be allowed to do so.
 
 Rationale:
 
@@ -2270,7 +2299,7 @@ Which in turn implies terrorist backslash.
 +
 All of which are against my principles.
 
-What makes me the most mad is the censorship. If you are going to put people in jail, write a clear law about it, and let international reporters come to see the situation.
+What makes Ciro the maddest is the censorship. If you are going to put people in jail, write a clear law about it, and let international reporters come to see the situation.
 
 But why do you do something and then hide it? Maybe because you are not doing the right thing?
 
@@ -2430,6 +2459,7 @@ image::https://ia601505.us.archive.org/27/items/cirosantilli/Video_still_of_2019
 .<<rebel-pepper>> 2019-07 cartoon showing <<xi-jinping>> claiming to have won the global opinion on the Xinjiang re-education camps because all other dictatorships support him, including <<other-islam-countries-speak-up-for-uyghur,Islamic dictatorships>>. https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source].
 image::https://web.archive.org/web/20191012074352im_/https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html/190716RFA-en-1000.jpg/@@images/c8c9143a-3a01-4116-9322-6aeb4857100f.jpeg[height=400]
 * 2019-07-04 https://www.bbc.co.uk/news/world-asia-china-48825090 "China Muslims: Xinjiang schools used to separate children from families"
+** https://www.hrw.org/news/2019/09/15/china-xinjiang-children-separated-families#
 * 2019-06-18 https://www.youtube.com/watch?v=WmId2ZP3h0c "Inside China's 'thought transformation' camps - BBC News" China gives BBC "access" to a chosen show camp where everyone claims they are happy and willing to stay. They are however clearly adults being treated like children, taking courses and even having to sing and dance for the camera. https://youtu.be/WmId2ZP3h0c?t=486[486s] is also golden, when the CCP officer Zhang Zhisheng explains how they are <<thoughtcrime,just preventing future crime from happening>>. How can they be so stupid? How can they not see that this is not what the West wants to hear? Amazing dark-comedy like stuff.
 +
 video::WmId2ZP3h0c[youtube,height=400,width=600]
