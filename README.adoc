@@ -406,6 +406,12 @@ video::sUvBNpkxrJo[youtube,height=400,width=600]
 ** https://www.youtube.com/channel/UCsNKkvZGMURFmYkfhYa2HOQ
 ** https://www.scmp.com/video/coronavirus/3084983/coronavirus-chinese-citizen-journalist-detained-after-live-streaming
 
+TODO maybe not arrested but relevant:
+
+* https://en.wikipedia.org/wiki/Fang_Fang[Fang Fang] (https://zh.wikipedia.org/wiki/方方_(作家)[方方]) published in 2020 https://en.wikipedia.org/wiki/Wuhan_Diary[Wuhan Diary] (https://zh.wikipedia.org/wiki/方方日記[方方日記], 方方日记)
++
+Possible free Chinese version: https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGF5YWJvb2suY29tfHd3d3xneDo3ZGUzZWZjZDgyZDkxNjc0 (http://web.archive.org/web/20200720084342/https://doc-10-bk-apps-viewer.googleusercontent.com/viewer/secure/pdf/3nb9bdfcv3e2h2k1cmql0ee9cvc5lole/0cr4s4veutmm50d7alffk68perm7us3s/1595234550000/lantern/%2A/ACFrOgDGbspvoNIJBVI1N2-EwaZHJPCTgPKmJeFaWgposQKpu5Eu0aqwA_CIZfLkobNVy1-xKcxKzw2CMAyxH4aUPjcHsp2w1JB2fwoX1g_39gVGh38SxfK-UrQyhy_3n19wbWhWErj_a41hMVR4?print=true[archive])
+
 [[war]]
 ==== Why would democracy and freedom of speech make China less likely to start a war?
 
@@ -2459,7 +2465,7 @@ image::https://ia601505.us.archive.org/27/items/cirosantilli/Video_still_of_2019
 .<<rebel-pepper>> 2019-07 cartoon showing <<xi-jinping>> claiming to have won the global opinion on the Xinjiang re-education camps because all other dictatorships support him, including <<other-islam-countries-speak-up-for-uyghur,Islamic dictatorships>>. https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source].
 image::https://web.archive.org/web/20191012074352im_/https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html/190716RFA-en-1000.jpg/@@images/c8c9143a-3a01-4116-9322-6aeb4857100f.jpeg[height=400]
 * 2019-07-04 https://www.bbc.co.uk/news/world-asia-china-48825090 "China Muslims: Xinjiang schools used to separate children from families"
-** https://www.hrw.org/news/2019/09/15/china-xinjiang-children-separated-families#
+** https://www.hrw.org/news/2019/09/15/china-xinjiang-children-separated-families
 * 2019-06-18 https://www.youtube.com/watch?v=WmId2ZP3h0c "Inside China's 'thought transformation' camps - BBC News" China gives BBC "access" to a chosen show camp where everyone claims they are happy and willing to stay. They are however clearly adults being treated like children, taking courses and even having to sing and dance for the camera. https://youtu.be/WmId2ZP3h0c?t=486[486s] is also golden, when the CCP officer Zhang Zhisheng explains how they are <<thoughtcrime,just preventing future crime from happening>>. How can they be so stupid? How can they not see that this is not what the West wants to hear? Amazing dark-comedy like stuff.
 +
 video::WmId2ZP3h0c[youtube,height=400,width=600]
@@ -3545,7 +3551,7 @@ https://www.quora.com/profile/Ciro-Santilli
 
 Quora is a generally shitty website, with mechanisms that allow <<wumao,wumaos>> to quench freedom of speech.
 
-Ironically, is it also blocked in China:
+Ironically, as usual, is it also blocked in China:
 
 * according to <<greatfire>>: https://en.greatfire.org/https/www.quora.com
 * 2018-03 news coverage https://www.businessinsider.com/china-banned-zhihu-over-censorship-2018-3?r=US&IR=T
@@ -3572,6 +3578,7 @@ While there is some probability that the answers themselves are not wumaos, thei
 
 Other shitty aspects of Quora include:
 
+* block <<wayback-machine>> archives with their robots.txt, gotta use archive.is
 * automatically add random topics that you don't care about to your suggestions, with no easy way to prevent that.
 * questions cannot have more than one sentence. There used to be a question body, but it was replaced with a "link for context". Ridiculous.
 
@@ -3579,6 +3586,10 @@ As a result, on the few occasions that Ciro posts on Quora, all content will als
 
 * https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli[What would happen if I walked around Beijing with a t-shirt that said "freedom of speech is pretty great"?] (https://archive.is/PxjJA[archive]) see also: <<t-shirt>>
 * https://www.quora.com/What-is-the-net-worth-of-Xi-Jinping/answer/Ciro-Santilli[What is the net worth of Xi Jinping?] see also: <<panama-papers>>
+
+Some <<wumao,wumaos>>:
+
+* http://archive.is/WzIcg[]: a Han supremacist!
 
 [[ptt]]
 ==== PTT Bulletin Board System 批踢踢實業坊
@@ -5865,8 +5876,6 @@ I consider the media in this section biased, and never cite it for fact-checking
 ** https://zh.wikipedia.org/wiki/中国国际广播电台
 ** http://www.cri.cn
 ** http://english.cri.cn/
-* https://en.wikipedia.org/wiki/China_Central_Television[China Central Television (CCTV)]
-** https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg CGTN, CCTV's international branch in English
 * http://facts.org.cn/ anti <<falun-gong>> website
 ** http://wap.kaiwind.com/
 ** I have no proof that this is linked to the government, but it is very likely, even the Chinese embassy website links to it:
@@ -5876,6 +5885,20 @@ I consider the media in this section biased, and never cite it for fact-checking
 ** https://en.wikipedia.org/wiki/Phoenix_Television
 ** https://zh.wikipedia.org/wiki/凤凰卫视
 ** https://freebeacon.com/national-security/cruz-seeks-to-shut-down-chinese-propaganda-station-phoenix-tv/
+
+[[cctv]]
+===== China Central Television (CCTV, 中国中央电视台)
+
+* https://en.wikipedia.org/wiki/China_Central_Television
+* https://zh.wikipedia.org/wiki/中国中央电视台
+
+[[cgtn]]
+====== China Global Television Network (CGTN)
+
+* https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg
+* https://zh.wikipedia.org/wiki/中国环球电视网
+
+CCTV's international branch in English, China's <<voa>>.
 
 [[peoples-daily]]
 ===== People's Daily
@@ -6122,7 +6145,6 @@ TODO who is behind this website? They store full text copies of banned articles,
 
 ==== USA government media 美国政府媒体
 
-* https://en.wikipedia.org/wiki/Voice_of_America
 ** https://www.voa.com/
 ** https://www.voachinese.com/
 ** https://www.voacantonese.com/
@@ -6130,6 +6152,12 @@ TODO who is behind this website? They store full text copies of banned articles,
 Partial support:
 
 * https://en.wikipedia.org/wiki/Boxun https://zh.wikipedia.org/wiki/博讯
+
+[[voa]]
+===== Voice of america (VOA, 美国之音)
+
+* https://en.wikipedia.org/wiki/Voice_of_America
+* https://zh.wikipedia.org/wiki/美国之音
 
 [[rfa]]
 ===== Radio Free Asia (RFA) 自由亚洲电台
@@ -6701,6 +6729,10 @@ But remember that if you archive too many in a very quick succession before the 
 
 This happed to Ciro in 2020-06-14, but then he emailed the admins as mentioned at: https://help.archive.org/hc/en-us/articles/360016379432-Accounts-Tips-Troubleshooting- and they re-enabled it.
 
+Some website specific techniques:
+
+* Google Docs: visit the page while logged off (e.g. via browser private mode), click the print button, and then archive the resulting PDF URL
+
 [[archive-today]]
 ====== archive.today
 
@@ -6913,11 +6945,21 @@ Above all, never reply intelligently to wumaos. Ignore all their notifications, 
 
 If it is ever proven that those people are directly supported by the Chinese government, their nationalities should be revoked.
 
-Some of them, especially the ones that speak Chinese, might be just idiots trying to intentionally milk views though, without any Government links.
+The problem however is that it is impossible to distinguish between:
 
-Part of Ciro feels like their nationalities should also be revoked, since they are making a living out of helping an Evil government.
+* idiots who are saying what the CCP supporters want to hear from foreigners to get more views
+* even bigger idiots who actually believe the CCP is good
+* if any of those are directly supported by the CCP or not. Ciro feels that more likely not, because that would be too risky.
 
-But likely we won't ever be able to distinguish those who really think that way or are just trying to get more views, so it is hard to stopping them without quenching freedom of expression in that case. Related discussion at: <<what-should-western-countries-do-about-china>>.
+  As those channels grow however, the CCP is extremelly very likely to at least indirectly support the channel, e.g. with bots on YouTube or more direct means on Chinese Government Chinese Internet companies, as a way of indirectly paying those creators.
+
+  For example, <<cgtn>> directly quoted a video from <<nathan-rich>>.
+
+It is also interesting to note that many of them don't speak a word of Chinese. It is fine when you say "the CCP is great" as a foreigner, but if you say "the CCP is bad", then <<not-chinese>>.
+
+Part of <<ciro-santilli>> feels like the nationalities of such YouTubbers should still be revoked, since they are making a living out of helping an Evil government.
+
+But it is hard to stopping them without quenching freedom of expression in that case. Related discussion at: <<what-should-western-countries-do-about-china>>.
 
 * 伏拉夫 (fu2 la1 fu1): Russian, says I love China in ridiculously enthusiastic tone which is despised even by the Chinese, samples: https://www.youtube.com/watch?v=YMVRdeUrk-8[]
 +
@@ -6939,7 +6981,7 @@ Sample videos:
 * https://www.youtube.com/watch?v=Fq1mCL7EQrM "China Doesn't Have Free Speech!"
 
 [[nathan-rich]]
-====== Nathan Rich 火锅大王
+====== Nathan Rich (Hotpot King, 火锅大王)
 
 * https://en.wikipedia.org/wiki/Nathan_Rich
 * https://zh.wikipedia.org/wiki/内森·瑞克
@@ -6958,13 +7000,14 @@ ____
 His videos feature perfect Chinese in the subtitles along with Chinese video titles, meaning that he is almost certainly having these videos produced by someone else/and or a group of people. I can guarantee that based on his pronunciation of the few Chinese words he says in the video, his Chinese ability should not be anywhere close to fluent.
 ____
 
-It does feel possible that his content is prepared by the Government and that most of his followers are bots.
+Sample videos:
 
-And at https://www.youtube.com/watch?v=GRqcA04FtmM he says <<serpentza-laowhy86,SerpentZA>> is a fraud "because he criticizes China".
+* https://www.youtube.com/watch?v=GRqcA04FtmM he says <<serpentza-laowhy86,SerpentZA>> is a fraud "because he criticizes China".
 
 Reception:
 
 * https://www.zhihu.com/question/310502367 "如何评价 B 站 UP 主「NathanRich火锅大王」？" on <<zhihu>>. TODO what is "B站UP"?
+* 2020-07-05 BIASED MEDIA <<cgtn>> approves: https://www.youtube.com/watch?v=YRK1XDlZkng "Nathan Rich: 'Hotpot King' delivering truth about HK to the world"
 
 [[real-username-law]]
 ==== Real username law (2015)
