@@ -3168,12 +3168,15 @@ Misc interesting stuff:
 ** Interesting list of prostitution spam/sockpuppets? All have the exact same profile information.
 ** Hitting query due to "审查", but the usage is unrelated to the Firewall.
 
-Anti-dissident users:
+Query to find them: https://data.stackexchange.com/stackoverflow/query/312863/mentioned-ciro-santilli-on-aboutme-or-displayname
+
+====== Stack Overflow anti-dissident users
 
 * https://stackoverflow.com/users/815408
 ** https://web.archive.org/web/20170602054631/https://stackoverflow.com/users/815408/%E8%AF%B7%E5%B0%81%E6%8E%89ciro-santilli-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%87%E5%B2%81
 ** username: "请封掉Ciro Santilli 中国共产党万岁"
 ** profile: "中国万岁！ 中国共产党万岁！ 法轮功，民运，台独在中国共产党的铁蹄下不过是螳臂当车！"
+** mentioned at https://v2ex.com/t/378274 from <<v2ex>>
 * https://stackoverflow.com/users/9393161
 ** https://web.archive.org/save/https://stackoverflow.com/users/9393161/ciro-santilli-%E7%9A%84%E9%80%A0%E8%B0%A3%E6%98%AF%E5%8F%AF%E8%80%BB%E8%A1%8C%E4%B8%BA
 ** username: "Ciro Santilli 的造谣是可耻行为" https://web.archive.org/save/https://stackoverflow.com/users/9393161/ciro-santilli-%E7%9A%84%E9%80%A0%E8%B0%A3%E6%98%AF%E5%8F%AF%E8%80%BB%E8%A1%8C%E4%B8%BA
@@ -3183,8 +3186,6 @@ Anti-dissident users:
 ** explanation:
 *** "燃烧您的梦": http://www.nq6.com/dj/1674.html
 *** "Wounded Knee": https://en.wikipedia.org/wiki/Wounded_Knee_Massacre
-
-Query to find them: https://data.stackexchange.com/stackoverflow/query/312863/mentioned-ciro-santilli-on-aboutme-or-displayname
 
 ==== GitHub
 
@@ -7216,6 +7217,7 @@ Website: https://v2ex.com/
 
 Anything goes forum, but largely programmer dominated. Had <<icp-license>> in 2016, but lost it in 2019 to move servers back to USA, so shady. https://zh.greatfire.org/v2ex.com[Blocked in China as of 2020-06] according to <<greatfire>>.
 
+* 2017-07-27 https://v2ex.com/t/378274 "stackoverflow 上的较量。。" http://web.archive.org/web/20200723082356/https://v2ex.com/t/378274 talks about https://stackoverflow.com/users/815408 which is mentioned at <<stack-overflow-anti-dissident-users>>
 * 2015-12-23: https://v2ex.com/t/245507 (link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-12.html[Chromium CTRL-S save]) "搜 StackOverflow，无意间发现了这个，重点在那个评论" by https://v2ex.com/member/happypy1
 * http://v2ex.com/t/214015 TODO restricted without mobile phone confirmation, while most other threads still work. So they must have some kind of restricted posts.
 * 2015-04-10: https://v2ex.com/t/182766 (cannot archive, login requires CAPTCHA, link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-04.html[Chromium CTRL-S save]) "Stack Overflow 上看到一个丧心病狂的程序员" by https://v2ex.com/member/cloudhunter
