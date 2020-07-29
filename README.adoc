@@ -2739,21 +2739,50 @@ Unfair Chinese commercial practices must be reciprocated. Chinese companies shou
 * https://www.msn.com/zh-hk/news/other/us-entrepreneurs-make-a-choice-rewards-of-doing-business-in-china-often-outweigh-risks-of-losing-trade-secrets/ar-BBSPC69 (https://web.archive.org/web/20190905071456/https://www.msn.com/zh-hk/news/other/us-entrepreneurs-make-a-choice-rewards-of-doing-business-in-china-often-outweigh-risks-of-losing-trade-secrets/ar-BBSPC69:[archive])
 * https://www.chinalawblog.com/2019/02/china-joint-ventures-the-long-version.html (https://web.archive.org/web/20190905071738/https://www.chinalawblog.com/2019/02/china-joint-ventures-the-long-version.html:[archive])
 
+University espionage
+
+.<<rebel-pepper>> 2016-09-07 cartoon entitled "宽衣<<xi-jinping-memes,撒币>>" depicting <<xi-jinping>> as a https://en.wikipedia.org/wiki/Pole_dance[pole dancer] and throwing money at other world leaders during the https://en.wikipedia.org/wiki/2016_G20_Hangzhou_summit[2016 G20 Hangzhou summit] is a reference to how China buys political influence in other countries by promising profitable trade deals with those countries. https://www.rfa.org/mandarin/biantailajiaomanhua/biantailajiaomanhua-09072016131637.html[Source].
+image::https://web.archive.org/web/20200618091710im_/https://www.rfa.org/mandarin/biantailajiaomanhua/biantailajiaomanhua-09072016131637.html/Untitled.jpg/image[height=400]
+
+[[spy]]
+===== China spy stories
+
+https://en.wikipedia.org/wiki/Chinese_intelligence_activity_abroad
+
 Do not underestimate the CCP and its control over every Chinese companies and people. Every Chinese company and person is a potential spy.
 
-This is true for all countries however, and we do not reproach China for its secret service, e.g. <<snowden>> used https://en.wikipedia.org/wiki/Edward_Snowden#NSA_sub-contractee_as_an_employee_for_Dell[Dell] as an NSA front-end.
+This is true for all countries however, and we do not reproach China specifically for its secret service, e.g. <<snowden>> used https://en.wikipedia.org/wiki/Edward_Snowden#NSA_sub-contractee_as_an_employee_for_Dell[Dell] as an NSA front-end.
 
 The point is that the West should not underestimate this menace that comes from a <<dictatorship>>.
 
 Some Chinese spy stories:
 
+* 2019-01-15 Kevin Mallory
+** 2019-01-15 https://www.bbc.co.uk/news/world-us-canada-46557096 "Kevin Mallory: The churchgoing patriot who spied for China"
++
+Good profile. He was first approached via LinkedIn. As a related case, Jun Wei Yeo was arrested as LinkedIn spy recruiter in 2020: https://www.bbc.co.uk/news/world-asia-53544505
++
+And those stupid Chines handlers gave him a phone that was supposed to be encrypted, but it crashed and then rebooted unencrypted, right when the FBI agents were around.
++
+____
+But after the 2008 real estate crash, his fortunes changed. His house plummeted in value, and later he lost his job.
+____
+** 2019-04-04 https://www.nbcnews.com/politics/national-security/how-230-000-debt-linkedin-message-led-ex-cia-officer-n990691 "How a $230,000 debt and a LinkedIn message led an ex-CIA officer to spy for China"
++
+Good profile, gives important points: he was 230k in debt, and "Mallory began reaching out to former CIA colleagues in an apparent effort to pump them for information. The ex-colleagues grew suspicious and contacted the CIA, prosecutors say."
+** 2019-05-18 https://www.bbc.co.uk/news/world-us-canada-48319058 "Kevin Mallory: Ex-CIA agent jailed for spying for China".
++
+The article also contains a good summary section "CIA spy operation in China: Key dates".
 * 2019-11: Wang Liqiang spy defection to Australia
 ** https://www.smh.com.au/national/defecting-chinese-spy-offers-information-trove-to-australian-government-20191122-p53d1l.html
 * 2019-11: Jerry Chun Shing Lee, naturalized American, convicted for being double agent while working at CIA after being in custody for 2 years
 ** https://www.nbcnews.com/politics/justice-department/former-cia-officer-sentenced-19-years-conspiring-chinese-spies-n1089341
+* 2018-06-05 Ron Rockwell Hansen
+** https://www.bbc.co.uk/news/world-us-canada-44364437
+* 2010-2012 about 20 CIA spies in China were killed. One was shot right in the courtyard of a government building as a message to others.
+** https://www.reuters.com/article/us-usa-china-espionage-idUSKCN18G0UM "China killed CIA sources, hobbled U.S. spying from 2010 to 2012: NYT"
 
-.<<rebel-pepper>> 2016-09-07 cartoon entitled "宽衣<<xi-jinping-memes,撒币>>" depicting <<xi-jinping>> as a https://en.wikipedia.org/wiki/Pole_dance[pole dancer] and throwing money at other world leaders during the https://en.wikipedia.org/wiki/2016_G20_Hangzhou_summit[2016 G20 Hangzhou summit] is a reference to how China buys political influence in other countries by promising profitable trade deals with those countries. https://www.rfa.org/mandarin/biantailajiaomanhua/biantailajiaomanhua-09072016131637.html[Source].
-image::https://web.archive.org/web/20200618091710im_/https://www.rfa.org/mandarin/biantailajiaomanhua/biantailajiaomanhua-09072016131637.html/Untitled.jpg/image[height=400]
+See also: <<university-espionage>>.
 
 ===== The West must ban the Chinese telecommunications software and hardware
 
@@ -2834,6 +2863,7 @@ image::https://pbs.twimg.com/media/D0XHAnBWkAIP8nj?format=jpg&name=small[height=
 
 News:
 
+* 2020-07 https://techcrunch.com/2020/07/23/tiktok-creator-fund-200-million-us/ "TikTok unveils $200 million fund for U.S. creators": TikTok is trying to buy their stay in the West.
 * 2020-07 https://www.forbes.com/sites/zakdoffman/2020/06/26/warning-apple-suddenly-catches-tiktok-secretly-spying-on-millions-of-iphone-users/#5265c8d734ef "pple Suddenly Catches TikTok Secretly Spying On Millions Of iPhone Users" by reading from the clipboard
 * 2020-06 https://www.bbc.co.uk/news/technology-53225720 India bans TikTok after Ladakh border tensions
 * 2020-05 <<liu-keqing-singer>>
@@ -3874,7 +3904,11 @@ Ciro has summarized his thoughts about <<falun-gong>> at: <<does-ciro-santilli-b
 [[flg-religion]]
 ==== Is Falun Gong a religion? 法轮功是一个宗教吗？
 
-If asked if they follow a religion, most FLG believers will say "no".
+If asked if they follow a religion, most FLG believers will say "no", and <<li-hongzhi>> explicitly says that in <<flg-canon>>, e.g. https://falundafa.org/eng/eng/jjyz52.htm
+
+____
+Falun Dafa is not a religion, but future generations will regard it as one.
+____
 
 E.g. they call themselves "practitioners" or "students" (学员) instead of "believers", and their peers "practitioner colleagues" (https://baike.baidu.com/item/同修[同修]). And if you say you don't believe in their FLG metaphysics bullshit, they will often reply "he does not understand". To them, it is not about belief, the truth is clear, and you just don't see it yet. To this you should reply: "and you don't understand that <<li-hongzhi,Li Hongzhi>> is a master manipulator dude who deceived you and millions of others".
 
@@ -4451,11 +4485,22 @@ Still, those representatives cannot gain power if there is no backing desire fro
 
 The only advantage of <<richer,democracy>>, is that those representatives have to pretend harder to do things for that group to retain their power.
 
-Ciro does not like that Falun Gong tends to not call itself a political force, when it clearly is. But full disclosure is not a legal obligation, and many many media outlets don't really disclose their obvious political connections. See also: <<flg-organized>>.
+Falun Gong believers obviously have the right to do politics, just like any other person, and Ciro greatly encourages this.
+
+But Ciro does not like that Falun Gong tends to not call itself a political force, when it clearly is. But full disclosure is not a legal obligation, and many many media outlets don't really disclose their obvious political connections. See also: <<flg-organized>>.
+
+Falun Gong directly contacts Government officials, http://www.clearharmony.net/articles/a25124-European-Falun-Gong-Practitioners-held-an-Anti-torture-Exhibition-during-the-European-Union-Meeting-in-France.html#.XyHSa2OYWV4[demonstrates in front of government buildings] and <<flg-trump,supports Trump>>, how can that not be politics?!?! Just call it for what it is, and no one will be able to criticize you for it!
+
+<<li-hongzhi>> directly says that FLG should not be involved in politics in <<flg-canon>>, e.g. https://falundafa.org/eng/eng/jjyz52.htm[]:
+
+____
+Never get involved in politics, nor interfere with state affairs.
+____
+
+But at the same, he also greatly encourages <<falun-gong-media>>, which obviously a political influence method.
 
 .https://youtu.be/ArfGyo6HQ_E?t=1175 Ciro really liked what https://www.holycross.edu/academics/programs/religious-studies/faculty/mathew-schmalz[Doctor Matthew N. Schmalz] said on this VICE documentary about https://en.wikipedia.org/wiki/Hyung_Jin_Moon[Hyung Jin Moon]'s and his https://en.wikipedia.org/wiki/Unification_movement[Unification movement] ("the Moonies" split-off religion. "I think that any new religion needs a constituency. And especially for a group that is new, that is relatively small, making connections with other groups that might have similar commitments is something that can be quite productive if you are a leader of a new religion". As long as everyone plays the democracy game through democracy rules, peace tends to be maintained, and it is easier for multiple different beliefs to coexist. Falun Gong has obviously gone in this political direction, and that is a positive sign about the religion.
 video::ArfGyo6HQ_E[youtube,height=400,width=600,t=1175]
-
 
 [[flg-trump]]
 ===== FLG supports Donald Trump 法轮功支持特朗普
@@ -5872,9 +5917,6 @@ I consider the media in this section biased, and never cite it for fact-checking
 ** https://zh.wikipedia.org/wiki/新华社
 ** http://www.xinhuanet.com/
 ** https://twitter.com/PDChina
-* China Radio International
-** https://en.wikipedia.org/wiki/China_Radio_International
-** https://zh.wikipedia.org/wiki/中国国际广播电台
 ** http://www.cri.cn
 ** http://english.cri.cn/
 * http://facts.org.cn/ anti <<falun-gong>> website
@@ -5936,6 +5978,14 @@ English-language propaganda newspaper.
 
 Responsible for <<china-watch>>.
 
+[[china-radio-international]]
+===== China Radio International 中国国际广播电台
+
+* https://en.wikipedia.org/wiki/China_Radio_International
+* https://zh.wikipedia.org/wiki/中国国际广播电台
+
+Operates for example: https://en.wikipedia.org/wiki/WCRW which is mentioned at: https://www.bbc.co.uk/news/world-us-canada-46557096 from <<spy>>. WTF, you have to obviously block them!
+
 ===== Pro-Chinese government media
 
 These might be independent, but they are clearly pro CCP and thus cannot be trusted:
@@ -5971,6 +6021,9 @@ Lists:
 
 People:
 
+* 2020-07 Juan Tang
+** https://www.theguardian.com/world/2020/jul/23/chinese-researcher-wanted-by-fbi-flees-to-san-francisco-consulate-as-us-china-row-deepens "Chinese researcher wanted by FBI flees to San Francisco consulate as US-China row deepens"
+** https://www.scmp.com/news/china/diplomacy/article/3094511/us-charges-four-scientists-hiding-ties-chinese-government has her PLA photos
 * 2020 Hao Zhang: https://www.voanews.com/usa/chinese-professor-convicted-stealing-trade-secrets-china from Avago and Skyworks
 * 2020 Charles Lieber
 ** https://www.nature.com/articles/d41586-020-00291-2
