@@ -2587,6 +2587,7 @@ video::M_aXcH1zDEE[youtube,height=400,width=600]
 
 News:
 
+* 2020-08-30 https://edition.cnn.com/2020/07/29/asia/hong-kong-security-law-election-intl-hnk/index.html "Four Hong Kong student activists arrested for 'secession' over social media posts": the arrests against online freedom of speech begin
 * 2020-07-08 https://www.reuters.com/article/us-hongkong-protests-china-security/china-converts-hong-kong-hotel-into-new-national-security-office-idUSKBN24903Z "China converts Hong Kong hotel into new national security office"
 +
 The name of the hotel is Metropark Hotel (維景酒店), address: 148 Tung Lo Wan Rd, Causeway Bay, Hong Kong: https://goo.gl/maps/1uR4RntpLMFaCYpq6
@@ -3915,7 +3916,7 @@ E.g. they call themselves "practitioners" or "students" (学员) instead of "bel
 But <<ciro-santilli>> strongly believes that this is just a language barrier/FLG propaganda question (see also "Different levels of truth" from <<orange-papers>>), and that 99.99% of people in the West would classify FLG as a religion just like <<christianity>> if they are told about FLG's beliefs:
 
 * absolute truth comes from an enlightened <<li-hongzhi,prophet>>, who is perfect and has superhuman abilities
-* weekly meetings (学法 "study the law (of the universe (of <<li-hongzhi>>))"）where they read from a <<flg-canon,sacred book>>, either written by the prophet, or transcribed from his presentations to disciples, including the disciples questions, much like traditional Chinese texts like link:https://en.wikipedia.org/wiki/Analects[The Analects of Confucius], just like Christians read from the Bible over and over again.
+* weekly in-person meetings (学法 "study the Fa", or more verbosely "study the law (of the universe (of <<li-hongzhi>>))"）or daily online meetings where they read from a <<flg-canon,sacred book>>, either written by the prophet, or transcribed from his presentations to disciples, including the disciples questions, much like traditional Chinese texts like link:https://en.wikipedia.org/wiki/Analects[The Analects of Confucius], just like Christians read from the Bible over and over again.
 +
 In both cases, some believers claim that sometimes even reading the same text again gives them new insight.
 * prescribed daily meditation exercise hours, somewhat like Muslim https://en.wikipedia.org/wiki/Salah[Salah] prayers which they call https://en.wikipedia.org/wiki/Fazhengnian[发正念 (fa1 zheng4 nian4)], which means "send righteous thoughts". They seem to believe that this meditation helps external good magic things happen, so it is half meditation half prayer.
@@ -3956,6 +3957,8 @@ ____
 ____
 Science, however, is not something gods imparted to humans. Instead, it was passed down to humans by alien beings inside the Three Realms, and for the purpose of controlling humankind. People’s belief in it has surpassed everything. But I tell you that precisely because of its shallowness, this science has caused the degeneration of morality in human society.
 ____
++
+Despite this however, Falun Gong benefits from information technology enormously. For example, many believers use the Internet daily to study the Fa, and to organize their <<falun-gong-media,media outlets>>.
 * meetings in which people tell their religious testimonies ("experience sharing" TODO Chinese name, possibly just "分享修炼的美好", e.g. https://www.minghui.org/mh/articles/2015/9/29/分享修炼的美好-印尼召开修炼心得交流会（图）-316838.html[source]): https://en.wikipedia.org/wiki/Testimony#Religion
 +
 As Jesus put it in Matthew 18:20:
@@ -4061,9 +4064,9 @@ The word "Cult" is much more ambiguous in the West however, and does not necessa
 
 For example, People from <<ciro-santilli>>'s mother's Protestant Church in Brazil, all say that they are going "to the cult" when referring to when they are going to church to pray, sing and read the Bible together.
 
-And of obviously, the origin of the word "cult" is exactly the same as that of https://en.wiktionary.org/wiki/cultivate#Etymology["cultivate"] as in "cultivate the crops" (which is also how Falun Gong believers refer to practicing Falun Gong: "cultivation practice"). All of those come from the https://en.wiktionary.org/wiki/cult#Etymology[Latin "colō"], which means simply "to protect".
+And obviously, the origin of the word "cult" is exactly the same as that of https://en.wiktionary.org/wiki/cultivate#Etymology["cultivate"] as in "cultivate the crops" (which is also how Falun Gong believers refer to practicing Falun Gong: "cultivation practice"). All of those come from the https://en.wiktionary.org/wiki/cult#Etymology[Latin "colō"], which means simply "to protect".
 
-===== Orange Papers
+====== Orange Papers
 
 https://www.orange-papers.org/orange-cult_q0.html
 
