@@ -319,7 +319,7 @@ News coverage:
 
 Some believe that the Chinese government grossly under-reported death counts. Official figures were about only 3300 deaths, in the insanely densely populated Wuhan area, while Italy had reached 10000 deaths:
 
-* 2020-04-19 https://www.youtube.com/watch?v=Nr280LWjJT0&t=2198 Trump says on a White House briefing he does not believe China's case count due 
+* 2020-04-19 https://www.youtube.com/watch?v=Nr280LWjJT0&t=2198 Trump says on a White House briefing he does not believe China's case count
 * 2020-04-01 https://www.bloomberg.com/news/articles/2020-04-01/china-concealed-extent-of-virus-outbreak-u-s-intelligence-says CIA speaks
 * 2020-03-29 https://www.dailymail.co.uk/news/article-8165717/Locals-Wuhan-believe-42-000-people-died-coronavirus.html Reports of funerary urns sold
 
@@ -1131,7 +1131,7 @@ Also ask the millions of people who were affected by <<tiananmen>>, <<falun-gong
 
 One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy Few" (2018)], which which people are forced to be happy. <<nineteen-eighty-four>> also comes to mind of course.
 
-.https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game. 
+.https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game.
 video::zndzntIDLFE[youtube,height=400,width=600]
 
 .Westerner: "How is life in China?" Chinese: "Oh, we can't complain." Westerner: "That's awesome." Chinese: "No, seriously... we can't." is a word play between the more common "we can't complain because everything is great" and "we can't complain because <<xi-jinping,Xi>> will <<censorship,make us disappear>>". https://www.taiwannews.com.tw/en/news/3933168[Source]
@@ -1554,7 +1554,7 @@ Casually barred from the 2018 presidential campaign:
 His Wiki page does say one thing of interest though, he has right wing tendencies which scared off liberals:
 
 ____
-The BBC noted in a profile of Navalny that his endorsement of a political campaign called "Stop feeding the Caucasus" and his willingness to speak at ultra-nationalist events "have caused concern among liberals". 
+The BBC noted in a profile of Navalny that his endorsement of a political campaign called "Stop feeding the Caucasus" and his willingness to speak at ultra-nationalist events "have caused concern among liberals".
 ____
 
 Related:
@@ -2576,7 +2576,7 @@ Full song: https://www.youtube.com/watch?v=Is_Z2K7guKs
 .Cover of the Hong Kong 97. https://en.wikipedia.org/wiki/File:Hong_Kong_97_cover.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/en/a/a8/Hong_Kong_97_cover.jpg[height=400]
 
-.https://www.youtube.com/watch?v=M_aXcH1zDEE The venerable https://en.wikipedia.org/wiki/Angry_Video_Game_Nerd[Angry Video Game Nerd] made a review of Hong Kong 97. 
+.https://www.youtube.com/watch?v=M_aXcH1zDEE The venerable https://en.wikipedia.org/wiki/Angry_Video_Game_Nerd[Angry Video Game Nerd] made a review of Hong Kong 97.
 video::M_aXcH1zDEE[youtube,height=400,width=600]
 
 [[hong-kong-national-security-law]]
@@ -3245,7 +3245,7 @@ This makes that repo into a list of fun things.
 
 As of 2019-05 there had only been only two takedowns by China however, compared to dozens by <<russia>>. The Chinese commies are not big fans of transparency it seems.
 
-As of 2020-03, besides the Zhao takedown, all other takedowns happened in 2019, and most seem to be <<falun-gong,Falun Gong>>/<<falun-gong-media,Epoch Times>> sponsored ways to <<censorship-circumvention,climb the wall>>.
+As of 2020-03, besides the Zhao takedown, all other takedowns happened in 2019, and most seem to be <<falun-gong>>/<<epoch-times>> sponsored ways to <<censorship-circumvention,climb the wall>>.
 
 The message GitHub shows on the blocked countries is:
 
@@ -3861,7 +3861,7 @@ Ciro believes Falun Gong can be split into two parts, like any other <<flg-relig
 
 Ciro thinks that FLG's self-help part could potentially be good for you, just like many other meditative practices such as Yoga, Buddhist meditation, Tai chi, deep Catholic prayer, etc. As far as he has heard, all of it sounded good standard religious self-help: be peaceful, be good to others, etc. Like any other well managed religion, FLG does have good things to offer, see also: <<christine-marie>>.
 
-However Ciro believes that the metaphysics is all complete and utter bullshit, child stories made up by Li Hongzhi, and just as real as Father Christmas or the https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster[Flying Spaghetti Monster]. 
+However Ciro believes that the metaphysics is all complete and utter bullshit, child stories made up by Li Hongzhi, and just as real as Father Christmas or the https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster[Flying Spaghetti Monster].
 
 Also the "obligation to reach Salvation" is boring like for many other prophetic <<flg-religion,religion>>.
 
@@ -3904,7 +3904,7 @@ Ciro has summarized his thoughts about <<falun-gong>> at: <<does-ciro-santilli-b
 [[flg-religion]]
 ==== Is Falun Gong a religion? 法轮功是一个宗教吗？
 
-If asked if they follow a religion, most FLG believers will say "no", and <<li-hongzhi>> explicitly says that in <<flg-canon>>, e.g. https://falundafa.org/eng/eng/jjyz52.htm
+If asked if they follow a religion, most FLG believers will say "no", and <<li-hongzhi>> explicitly says that in <<flg-canon>>, e.g. https://falundafa.org/eng/eng/jjyz52.htm[]:
 
 ____
 Falun Dafa is not a religion, but future generations will regard it as one.
@@ -3919,14 +3919,43 @@ But <<ciro-santilli>> strongly believes that this is just a language barrier/FLG
 +
 In both cases, some believers claim that sometimes even reading the same text again gives them new insight.
 * prescribed daily meditation exercise hours, somewhat like Muslim https://en.wikipedia.org/wiki/Salah[Salah] prayers which they call https://en.wikipedia.org/wiki/Fazhengnian[发正念 (fa1 zheng4 nian4)], which means "send righteous thoughts". They seem to believe that this meditation helps external good magic things happen, so it is half meditation half prayer.
-* longer "less mandatory" https://en.wikipedia.org/wiki/Qigong[Qigong-like] (https://zh.wikipedia.org/wiki/气功[气功]) exercises followed by a meditation (打坐) and which they collectively call https://zh.wikipedia.org/wiki/修道_(道教)[修炼] "practice austerities". note that this term is borrowed from Taoism but possibly with different precise meaning. There are exactly 5 exercises (meditation being the fifth) some with a fun supernatural name:
+* longer "less mandatory" https://en.wikipedia.org/wiki/Qigong[Qigong-like] (https://zh.wikipedia.org/wiki/气功[气功]) exercises followed by a meditation (打坐) and which they collectively call https://zh.wikipedia.org/wiki/修道_(道教)[修炼] "practice austerities". note that this term is borrowed from Taoism but possibly with different precise meaning. There are exactly 5 exercises (meditation being the fifth) some with a fun supernatural name, on <<flg-canon>> https://www.falundafa.org/book/eng/flg_2006_4.htm[] "The Falun Gong Practice System":
 ** Buddha Stretching a Thousand Arms
 ** Falun Standing Stance
 ** Penetrating the Cosmic Extremes
 ** Falun Cosmic Orbit
 * higher intelligent beings
-* other dimensions, which some select people with vision superpowers can see
-* aliens that look like humans are amongst us, they gave us part of our modern technology, some are evil, others not so evil
+* some believers who practice really well can also get some "supernatural powers" (功能), but not everyone develops them (luckily only so many people are that manipulable!), and you are <<flg-verifiable,not allowed to show your poweres to "ordinary people">> of course, from <<flg-canon>> https://falundafa.org/eng/eng/zfl_34.htm[]:
++
+____
+What will one develop in the course of his cultivation? He will develop supernatural powers which are called supernormal capabilities for short.
+
+Do you want to use them among ordinary people? You are absolutely not allowed to use them among ordinary people at will.
+____
++
+See also "You don't get the promised goodies" from <<orange-papers>>
+** other dimensions, which some select people with vision superpowers can see, this being one of the supernatural powers that may be developed, the "Celestial Eye" https://falundafa.org/eng/eng/zfl_21.htm[]:
++
+____
+A cultivator of a particular attainment level can only see the scenes on that level. He cannot see or believe the truth beyond that level. Therefore, he only believes what he has seen on his own level. When he has not gone up to such a high level of cultivation, he would think those things do not exist and are incredible.
+____
++
+and the "Supernormal Capability of Remote Sight" is a closely related ability: https://falundafa.org/eng/eng/zfl_22.htm:
++
+____
+A supernormal capability directly connected with the Celestial Eye is called the Remote Sight. Someone says that he can see scenes in Beijing, in America or scenes on the other side of the earth while sitting here.
+____
++
+And finally there is also the past-future vision ability "Supernormal Capability of Total Recall" https://falundafa.org/eng/eng/zfl_23.htm[]:
++
+____
+ There is another supernormal capability which has a direct relation with the Celestial Eye. It is called Total Recall. Now there are six supernormal capabilities which are generally recognized in the world. They include the Celestial Eye, Remote Sight, and Total Recall. What is Total Recall? It is a supernormal capability with which one can know a person's future and past; if the ability is great, one can know the rise and decline of a society; if the ability is even greater, one can see the Law of the change of the whole celestial body.
+____
+* aliens that look like humans are amongst us, they gave us part of our modern technology, some are evil, others not so evil. E.g. https://falundafa.org/eng/eng/lectures/19980530L.html[]:
++
+____
+Science, however, is not something gods imparted to humans. Instead, it was passed down to humans by alien beings inside the Three Realms, and for the purpose of controlling humankind. People’s belief in it has surpassed everything. But I tell you that precisely because of its shallowness, this science has caused the degeneration of morality in human society.
+____
 * meetings in which people tell their religious testimonies ("experience sharing" TODO Chinese name, possibly just "分享修炼的美好", e.g. https://www.minghui.org/mh/articles/2015/9/29/分享修炼的美好-印尼召开修炼心得交流会（图）-316838.html[source]): https://en.wikipedia.org/wiki/Testimony#Religion
 +
 As Jesus put it in Matthew 18:20:
@@ -3953,7 +3982,7 @@ FLG has a specific terminology for non-believers, which is translated in English
 Non-FLG people should therefore logically call Falun Gong believers https://en.wikipedia.org/wiki/Abnormal_psychology[abnormal people] (https://zh.wikipedia.org/wiki/異常心理學[异常人]) in return, much like Ciro likes to call the Chinese who call him 老外 as "老内".
 +
 Like other aspects of FLG however, this appears in other religions, e.g. my mother mentioned the funny term used by her Protestant's group term but Ciro forgot it, and you can see it in Harry Potter as well: https://en.wikipedia.org/wiki/Muggle[The Muggles].
-* xref:flg-organized[You can support FLG by doing X and Y, it is not mandatory, but why wouldn't you since you are saving other people?]
+* xref:flg-organized[You can support FLG by doing X and Y, it is not mandatory, but why wouldn't you since you are saving other people?]. Explaining that Falun Gong is good contrary to CCP propaganda also known as "Fa-rectification" in the English translation jargon.
 * alternate dimensions
 * pre-civilization: civilization is actually much older than what we believe, and was supe radvanced, but https://en.wikipedia.org/wiki/Societal_collapse[societal collapse] events led us to forget about it, a bit like https://en.wikipedia.org/wiki/Atlantis[atlantis].
 * xref:flg-medication[Maybe FLG will make you healthier, but no promises, but it will make you a better person, and that's why you should do it, but if you really really believe, you get healthier]. But people who seemed to be believers also die, because deep within their hearts, there was a belief problem.
@@ -4092,7 +4121,24 @@ It should also be mentioned though that these points extend to any type of human
 [[flg-canon]]
 ==== What are the canonical Falun Gong texts?
 
+https://en.wikipedia.org/wiki/Teachings_of_Falun_Gong
+
 It appears that Falun Gong cannon is present at: https://falundafa.org/
+
+The two main books are:
+
+* "Falun Gong", 2006 English translation https://www.falundafa.org/book/eng/flg_2006.htm[]:
++
+____
+Falun Gong is an introductory book that discusses qigong, introduces the principles of the practice, and provides illustrations and explanations of the exercises.
+____
+* https://en.wikipedia.org/wiki/Teachings_of_Falun_Gong#Zhuan_Falun,_the_main_book[Zhuan Falun], 1998 English version: https://falundafa.org/eng/eng/zfl_01.htm[]:
++
+According to Wikipedia:
++
+____
+Zhuan Falun is the main teaching and the most comprehensive work; it is an edited version of Li's nine-lecture series, 54 of which he taught across China between 1992 and 1994.
+____
 
 It contains <<li-hongzhi,LHZ>>'s approved texts/speech transcriptions, which are sacred.
 
@@ -4336,7 +4382,7 @@ It is also interesting to note how Falun Gong is a good source of <<censorship-c
 See also: <<flg-bias>>
 
 [[democracy-is-a-religion]]
-===== Why does Ciro Santilli say that democracy is a religion just like Falun Gong? 
+===== Why does Ciro Santilli say that democracy is a religion just like Falun Gong?
 
 Because it also specifies irrational and fundamental aspects of how one should live, notably voting and freedom of speech.
 
@@ -4507,7 +4553,7 @@ video::ArfGyo6HQ_E[youtube,height=400,width=600,t=1175]
 
 <<ciro-santilli>> believes he has heard praises to Trump directly in <<li-hongzhi,Li Hongzhi>>'s speeches, but could not find a source.
 
-Also, the <<flg-organized,Epoch Times Falun Gong controlled newspaper>> has donated: $1.5 million https://www.nbcnews.com/tech/tech-news/trump-qanon-impending-judgment-day-behind-facebook-fueled-rise-epoch-n1044121
+Also, the <<epoch-times,Falun Gong controlled newspaper>> has donated to Trump propaganda: $1.5 million https://www.nbcnews.com/tech/tech-news/trump-qanon-impending-judgment-day-behind-facebook-fueled-rise-epoch-n1044121
 
 But of course, so long as those respect the laws of the country, they are free to do it and must not be interfered. As if other major American media didn't have political agendas.
 
@@ -4622,9 +4668,9 @@ Many FLG practitioners claim that they are not at all organized, or that they ha
 
 But it is obvious from the size of the <<falun-gong-media>>, namely:
 
-* NDTV Television Network
-* Epoch Times newspaper
-* <<shen-yun>>
+* <<new-tang-dynasty-television>>
+* <<epoch-times>> newspaper
+* <<shen-yun>> dance troupe
 
 that in practice they do have are a highly organized hierarchical structure, and very likely with <<li-hongzhi,LHZ>> at the very top, e.g.:
 
@@ -4672,7 +4718,11 @@ See also:
 [[flg-medication]]
 ===== FLG believers are less likely to take necessary medication
 
-Due to their beliefs in the healing power of FLG, which seems to have a certain level of support on <<flg-canon,canonical texts>> TODO precise quotes.
+Due to their beliefs in the healing power of FLG, which seems to have a certain level of support on <<flg-canon,canonical texts>> TODO precise quotes, e.g. https://falundafa.org/eng/eng/zfl_74.htm[] "On the Issue of Healing Illnesses"
+
+____
+ Let us talk about the most common illnesses, like tumors, infections or osteoproliferation etc., found in the human body. In another space, a very deep space, there lies an evil intelligent entity.
+____
 
 Based on what Ciro saw and heard, he does believe that it has happened in many cases, some Falun Gong believers really do believe that they can be cured without modern medicine.
 
@@ -4860,7 +4910,7 @@ https://www.scmp.com/comment/insight-opinion/article/1940394/how-rampant-phone-s
 * https://en.wikipedia.org/wiki/Zhong_Gong
 * https://zh.wikipedia.org/wiki/中华养生益智功
 
-A very similar religion to <<falun-gong>>, that also emerged during the https://en.wikipedia.org/wiki/Qigong_fever[Qigong fever] (气功热) of the '80s and '90s. 
+A very similar religion to <<falun-gong>>, that also emerged during the https://en.wikipedia.org/wiki/Qigong_fever[Qigong fever] (气功热) of the '80s and '90s.
 
 The similarity of their imagery as seen from propaganda videos is striking. To <<ciro-santilli>>, this makes Zhong Gong a perfect example of why <<does-ciro-santilli-believe-in-or-practice-falun-gong,FLG metaphysics is bullshit>>: it is obvious that both Zhong Gong and Falun Gong and many others were just random dudes who took advantage of the Qigong fever to create their religions.
 
@@ -5588,7 +5638,7 @@ video::0XwXaCbfIGw[youtube,height=400,width=600]
 Very popular Chinese language anonymous blogger that publishes software programming tutorials and political content since 2009, often negative about the CCP, in particular <<censorship,anti-censorship>> and <<brainwashed-by-usa,anti-CCP-brainwashing>>.
 
 * https://zh.wikipedia.org/wiki/编程随想的博客 (there is no English page as of January 2020)
-* https://program-think.blogspot.com/ The blog. Blocked in China with the rest of 
+* https://program-think.blogspot.com/ The blog. Blocked in China with the <<censorship,rest of Blogspot>>:
 ** 2020 categorized summary of the best posts of all time: https://program-think.blogspot.com/2020/01/11-years-blogging.html
 * https://github.com/programthink
 ** https://github.com/programthink/zhao manually curated database of maps relationships between Chinese politicians, this was the first <<github-gov-takedowns,GitHub gov-takedown from china>>: https://github.com/github/gov-takedowns/blob/36e76c34682d2b52eef405ca6f57e1b9ddde3086/China/2016/2016-06-08-programthink-zhao.md
@@ -6087,7 +6137,12 @@ Furthermore, Li appears to directly cite some of the main media in Canon or talk
 
 Falun Gong's newspaper with news for "general public consumption" an no clear affiliation indication.
 
-In <<flg-canon,canon>>: https://gb.falundafa.org/chigb/jiangfa10_3.htm
+In <<flg-canon,canon>>: https://gb.falundafa.org/chigb/jiangfa10_3.htm or https://falundafa.org/eng/eng/lectures/20091017L.html "Fa Teaching Given at the Epoch Times Meeting" from 2009-10-17:
+
+____
+There are so many things you have to do. You have to do your ordinary job and do it well, you have to manage your family’s affairs, and as Dafa disciples you need to make time for Fa-study and exercises; you also need to clarify the truth, as well as participate in Dafa projects, such as The Epoch Times.
+____
+
 
 [[new-tang-dynasty-television]]
 ===== New Tang Dynasty Television (NTD, NTDTV) 新唐人電視台
@@ -6097,7 +6152,11 @@ In <<flg-canon,canon>>: https://gb.falundafa.org/chigb/jiangfa10_3.htm
 
 Falun Gong's newspaper with news for "general public consumption" an no clear affiliation indication.
 
-Li speaking to New Tang conference in <<flg-canon,canon>>: https://big5.falundafa.org/chibig5/jiangfa9_3.htm 在新唐人電視討論會上的講法
+Li speaking to New Tang conference in <<flg-canon,canon>>: https://big5.falundafa.org/chibig5/jiangfa9_3.htm 在新唐人電視討論會上的講法 or https://falundafa.org/eng/eng/jjyz3_73.htm "Fa Teaching Given at the NTDTV Meeting" from 2009-06-06:
+
+____
+Things are changing rapidly as the Fa-rectification forges ahead and as Dafa disciples’ righteous thoughts grow stronger. The energy emitted by NTDTV is very strong
+____
 
 Related shows:
 
@@ -6146,7 +6205,7 @@ Related:
 
 * https://www.quora.com/How-is-the-YouTube-show-China-Uncensored-funded/answer/Ciro-Santilli
 * https://www.quora.com/Is-the-YouTube-channel-China-Uncensored-a-trustworthy-source-of-information-on-China
-* https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html (https://web.archive.org/web/20190119083517/https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html[archive]) Epoch Times highlights the channel "Why YouTube’s Most Popular Channel on China Politics Doesn’t Show in Search Suggestions"
+* https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html (https://web.archive.org/web/20190119083517/https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html[archive]) <<epoch-times>> highlights the channel "Why YouTube’s Most Popular Channel on China Politics Doesn’t Show in Search Suggestions"
 
 [[minghui]]
 ===== Minghui 明慧网
@@ -6189,7 +6248,7 @@ https://twitter.com/jenniferatntd
 
 The main Chinese name is 禁闻网 which stands for "banned news network", and is more accurate than the domain name "bannedbook" since the majority of material published appears to be recent banned articles.
 
-Classifying this as Falun Gong media because most or possibly all of the sidebar recommended websites 推荐网站 are also Falun Gong media e.g. as of 2020-04: https://web.archive.org/web/20200427221744/https://www.bannedbook.org/[] includes Epoch times and https://hongzhi.li/[], so yeah, not much doubt.
+Classifying this as Falun Gong media because most or possibly all of the sidebar recommended websites 推荐网站 are also Falun Gong media e.g. as of 2020-04: https://web.archive.org/web/20200427221744/https://www.bannedbook.org/[] includes <<epoch-times>> and https://hongzhi.li/[], so yeah, not much doubt.
 
 From this we deduce that the "banned book" in the domain name originally likely referred more specifically to the banned Falun Gong sacred books: <<flg-canon>>.
 
@@ -6530,7 +6589,7 @@ Then create an account on an American website, and start posting about censored 
 
 Here is one concrete and well documented example: <<zhihu-purge>>.
 
-Or maybe why not <<t-shirt,go out on the street in China with a T-shirt with censored words and share some photos online>>? 
+Or maybe why not <<t-shirt,go out on the street in China with a T-shirt with censored words and share some photos online>>?
 
 .https://www.youtube.com/watch?v=c1HdCIW2Xtk 2016-10-18 BBC stopped from visiting China independent candidate for local elections, Liu Huizhen (刘惠珍). They returned a few days later when the thugs weren't there: https://www.youtube.com/watch?v=eroTCMRn2yQ[].
 video::c1HdCIW2Xtk[youtube,height=400,width=600]
@@ -7598,7 +7657,7 @@ Just stay away from the Chicken flavoured one. https://www.urbandictionary.com/d
 .You can even buy Laoganma on Amazon! https://www.amazon.com/Laoganma-Crispy-Chilli-Oil-Grams/dp/B003WC0RME[Source].
 image::https://web.archive.org/web/20190412211211if_/https://images-na.ssl-images-amazon.com/images/I/91t77uD2UiL._SL1500_.jpg[height=400]
 
-.https://www.youtube.com/watch?v=nkTQTS2RSCU "What is Lao Gan Ma, and can you make it at home?" by "Chinese Cooking Demystified" published on Nov 19, 2019. Explains how it comes from Guizhou province cuisine (neighbours Sichuan). 
+.https://www.youtube.com/watch?v=nkTQTS2RSCU "What is Lao Gan Ma, and can you make it at home?" by "Chinese Cooking Demystified" published on Nov 19, 2019. Explains how it comes from Guizhou province cuisine (neighbours Sichuan).
 video::nkTQTS2RSCU[youtube,height=400,width=600]
 
 [[fansaoguang-wild-brake-pickles]]
@@ -8634,7 +8693,7 @@ Words:
 [[巿]]
 ==== 巿 (fu2, lung)
 
-Mnemonic: due to an infection, doctors had to dry up **one** (<<一>>) of his **lung** with a **towel** (<<巾>>) 
+Mnemonic: due to an infection, doctors had to dry up **one** (<<一>>) of his **lung** with a **towel** (<<巾>>)
 
 Characters:
 
@@ -8954,7 +9013,7 @@ Characters: <<状>>
 [[青]]
 ==== 青 (qing1, blue)
 
-Mnemonic: the **crown** (<<龶>>) of the king was **blue** and **moon-shaped** (<<月>>) 
+Mnemonic: the **crown** (<<龶>>) of the king was **blue** and **moon-shaped** (<<月>>)
 
 Notes: it is more like https://en.wikipedia.org/wiki/Cyan[green-blue/Cyan], see also https://zh.wikipedia.org/wiki/青色 but let's call it blue because it will be used in many constructs.
 
@@ -9129,7 +9188,7 @@ Mnemonic: **privacy** is all about storing your precious **grain** (<<禾>>) in 
 [[殳]]
 ==== 殳 (shu1, coffee)
 
-Mnemonic: his **coffee** keeps falling from the **side table** (<<几>>) on the floor **again** (<<又>>) and again 
+Mnemonic: his **coffee** keeps falling from the **side table** (<<几>>) on the floor **again** (<<又>>) and again
 
 Characters:
 
