@@ -3928,6 +3928,7 @@ In both cases, some believers claim that sometimes even reading the same text ag
 * higher intelligent beings
 * some believers who practice really well can also get some "supernatural powers" (功能), but not everyone develops them (luckily only so many people are that manipulable!), and you are <<flg-verifiable,not allowed to show your poweres to "ordinary people">> of course, from <<flg-canon>> https://falundafa.org/eng/eng/zfl_34.htm[]:
 +
+[[flg-supernatural-powers]]
 ____
 What will one develop in the course of his cultivation? He will develop supernatural powers which are called supernormal capabilities for short.
 
@@ -3937,6 +3938,7 @@ ____
 See also "You don't get the promised goodies" from <<orange-papers>>
 ** other dimensions, which some select people with vision superpowers can see, this being one of the supernatural powers that may be developed, the "Celestial Eye" https://falundafa.org/eng/eng/zfl_21.htm[]:
 +
+[[flg-cross-dimensional-vision]]
 ____
 A cultivator of a particular attainment level can only see the scenes on that level. He cannot see or believe the truth beyond that level. Therefore, he only believes what he has seen on his own level. When he has not gone up to such a high level of cultivation, he would think those things do not exist and are incredible.
 ____
@@ -4304,7 +4306,9 @@ See also: <<flg-religion>>
 [[flg-verifiable]]
 ===== FLG never makes any predictions that can be reasonably verified by non-believers
 
-Exactly, just like any other <<flg-religion>>, this is why Ciro Santilli is <<does-ciro-santilli-believe-in-or-practice-falun-gong,agnostic>> and things Falun Gong metaphysics is bullshit.
+Exactly, just like any other <<flg-religion>>, this is why <<ciro-santilli>> is <<does-ciro-santilli-believe-in-or-practice-falun-gong,agnostic>> and things Falun Gong metaphysics is bullshit.
+
+Notably, <<li-hongzhi>> explicitly forbids display of magical powers gained by believers to non-believers: <<flg-supernatural-powers>> for "reasons". What a convenient coincidence, that prevents any verifiability!
 
 The closest claims to observable Ciro has heard are:
 
@@ -4336,7 +4340,7 @@ so that you will not strike your foot against a stone.'"
 Jesus answered him, "It is also written: 'Do not put the Lord your God to the test.'"
 ____
 
-Ah good old prophets, their tricks haven't changed a bit in 2 thousand years! This is why <<ciro-santilli>> follows instead the religion of <<democracy-is-a-religion,science and freedom of speech>>, because those religions instead say:
+Ah good old <<li-hongzhi,prophets>>, their tricks haven't changed a bit in 2 thousand years! This is why <<ciro-santilli>> follows instead the religion of <<democracy-is-a-religion,science and freedom of speech>>, because those religions instead say:
 
 ____
 Test your God. Test your God a billion times. And if your God proves wrong just once, disbelieve it.
@@ -4721,20 +4725,14 @@ See also:
 [[flg-medication]]
 ===== FLG believers are less likely to take necessary medication
 
-Due to their beliefs in the healing power of FLG, which seems to have a certain level of support on <<flg-canon,canonical texts>> TODO precise quotes, e.g. https://falundafa.org/eng/eng/zfl_74.htm[] "On the Issue of Healing Illnesses"
-
-____
- Let us talk about the most common illnesses, like tumors, infections or osteoproliferation etc., found in the human body. In another space, a very deep space, there lies an evil intelligent entity.
-____
-
-Based on what Ciro saw and heard, he does believe that it has happened in many cases, some Falun Gong believers really do believe that they can be cured without modern medicine.
+Based on what <<ciro-santilli>> saw and heard, he does believe, without any clear statistical evidence, that it is very likely that it hs happened to in many cases that some Falun Gong believers refused to take modern medications and died of diseases that could be otherwise cured.
 
 But consider the following:
 
 * what matters are statistics. Maybe FLG people live longer than non FLG in average. But we will never have statistics because of censorship: https://skeptics.stackexchange.com/questions/27529/have-many-falun-gong-practitioners-forgone-medical-treatment-and-died-of-treatab
 * maybe people should be link:https://en.wikipedia.org/wiki/Suicide_legislation[allowed to choose how they want to die], not to take medication if they don't want to
 * maybe the number of people killed during persecution vastly outnumbers those who died because they would not take medication
-* several religions, including <<christianity>> have miraculous cure claims. My impression is that claims were mostly notable in the old times apparently, likely because people noticed that Christians were still dying of all kinds of diseases like everyone else, no matter how devout!
+* several <<flg-religion,religions>>, including <<christianity>> have miraculous cure claims. My impression is that claims were mostly notable in the old times apparently, likely because people noticed that Christians were still dying of all kinds of diseases like everyone else, no matter how devout!
 * maybe the main reason why communists banned FLG is the political threat it posed, but that a ban was unjustified given the situation. Christian crosses are being taken down as of 2016, have they stopped taking their medications as well? See also <<rule-of-law>>.
 * maybe many of those people would also have died soon even if they had taken medication
 * maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyway. Who can agree and follow all the innumerable prescriptions of any religious or legal system? See also: <<thoughtcrime>>.
@@ -4749,11 +4747,36 @@ But consider the following:
 +
 Forbidding them also has huge humanitarian costs (more expensive vehicles, creation of a black market, ...). So why not forbid them as well?
 
-See also: <<orange-papers>> "Promised Powers or Knowledge".
+Especially In the beginning, Falun Gong did put a lot of emphasis on its health benefits, just <<zhong-gong,like all the other contemporaneous Qi Gong practices>>, and it is likely that especially many in the first generation of believers do believe it more than others.
+
+For example, the main initial public announcement of Falun Gong was at a <<history-of-falun-gong,Health Exposition in Beijing>>.
+
+In <<flg-canon>> itself, this is not super explicit and emphasised as far as Ciro can see. Zhuan Falun https://falundafa.org/eng/eng/zfl_74.htm[] has a chapter entitled "On the Issue of Healing Illnesses", that contains:
+
+____
+ Let us talk about the most common illnesses, like tumors, infections or osteoproliferation etc., found in the human body. In another space, a very deep space, there lies an evil intelligent entity.
+____
+
+and the general very beaty-around-the-bush suggestion that if you do master Falun Gong fully, you will be healthy. But with the usual disclaimer that "you have to become a master", and since "there are no graduates", no one is ever a master for sure, and as usual "you don't get the promised goodies", as as mentioned at: <<orange-papers>>.
+
+Ciro does however believe that newer generations believe in this much less, notably because the first believer generation is all basically old or dead, and soon will be entirely dead. This might also have been de-emphasised to reduce the bullshit aspects and help the international spread of Falun Gong. Not even Falun Gong believers are that blind. And this perfectly mimics the beginning of Christianism, where the first generations gave much more emphasis to miraculous cures.
+
+<<me-and-li-by-ben-hurley-2017>> has an anecdote on this, which Ciro feels sounds believable:
+
+[[me-and-li-tumor]]
+____
+I think it was Lynn's* death that finally made me realise it was time to leave. I'd seen the writing on the wall about a year prior when I saw her at a yearly "Fa conference" for believers of Falun Gong, otherwise known as Falun Dafa, to exchange experiences and grow spiritually together. An executive assistant at a Queensland valuation firm, I'd gotten to know her over the years in various events as a warm and level-headed lady who had time for everyone. But I'd noticed she had developed a bulge on the side of her head and I was trying not to look at it when I talked to her. I saw, or at least I believed I saw, some pain in her smile. She was probably questioning herself over and over again what "attachments" she hadn't let go of that were causing this sickness to spread through her body and endanger her life. I wanted to tell her to just go to a hospital, although I wasn't at this stage resolute enough in my gradual return to logic. Another part of me feared that by looking at it I was acknowledging it — something you don't do with illnesses in Falun Gong because Master Li Hongzhi teaches that his pupils don't get illnesses. He can cure you but only if you don't have any loopholes in your belief in him and his teachings. Some people with solid beliefs can actually die due to others around them having flaws in their thinking, Li says. Just thinking the wrong way is perilous when you're a Falun Gong practitioner.
+
+I later heard through the grapevine of Lynn’s death. The cancer went into her brain and she passed away in extreme pain, probably believing to the end that it was her fault she was in this awful predicament. In a way, I guess it was.
+____
+
+and more interesting anecdotes follow, see source.
+
+And Ciro has felt this first hand with his <<wife,mother-in-law>>. Whenever she has a health worry, first she tries to hide it. But then she casually mentions it without much thought because she speaks all the time the poor lady, may she be blessed. And then, when Ciro says: OK, let's try and treat it, even for trivial things that might have simple treatments, she immediately smiles a compassionate smile of "I'm a Falun Gong believer, I don't need that". This makes Ciro really mad. He tries to not show it, because he thinks people should be able to choose how they die. But Li promises the powers of <<flg-cross-dimensional-vision,remote, cross dimensional and past/future vision>>. to some believers, and yet, blinds some of them to the obvious fact that they are aging, and, slowly but surely, their own bodies are starting to fail, like everyone else's will at one point.
 
 It is also interesting to note how the Chinese government itself supported Falun Gong and <<zhong-gong,other Qi Gong practices>> for their health benefits, which is why they grew so large in the first place. <<li-hongzhi>> was even <<history-of-falun-gong,awarded prizes and recognized as a Qi Gong master by state backed organizations in 1992 and 1993>>. And the CCP still has a tendency to support certain non-scientific traditional practices: <<support-for-non-scientific-traditional-practices>>.
 
-.https://youtu.be/kIpaDW3RwtY?t=244 one random thing ex-KGB spy undercover in the USA Jack Barsky mentioned in this BuzzFeed Multiplayer interview stuck to his mind: "The one thing that you have here, that I believe cannot be found anywhere else in the world is called Freedom, with a capital F".
+.https://youtu.be/kIpaDW3RwtY?t=244 one random thing ex-KGB spy undercover in the USA Jack Barsky mentioned in this BuzzFeed Multiplayer interview stuck to his mind: "The one thing that you have here, that I believe cannot be found anywhere else in the world is called Freedom, with a capital F". If people want to die in a certain way, or believe that some bullshit will cure them, they should be allowed. Natural selection will take care of the rest.
 video::kIpaDW3RwtY[youtube,height=400,width=600,start=244]
 
 [[li-hongzhi]]
@@ -4852,14 +4875,14 @@ Wife's name: Li Rui (李瑞 according to CCP). Report saying that a follower bou
 
 <<benjamin-penny-the-religion-of-falun-gong-2012>> gives further family members (some of them are based only on CCP sources however):
 
-* daughter: Li Meige (李美歌) claims born 1982-06. http://www.kaiwind.com/anticult/kfgc/201311/05/t20131105_1188845.shtml (<<chinese-government-media>>) says that she performs in <<shen-yun>> under the name "Christina Li" and even won awards. This Falun Gong sources confirm that a "Christina Li" was a Shen Yun lead dancer as of 2011, but does not confirm that she is the daughter of Li Hongzhi: https://www.theepochtimes.com/where-are-the-ancient-arts-of-china-part-4_1491935.html If this is true, talk about <<orange-papers,"different levels of truth">>! The article also claims that she has had other pseudonyms, including: "Annie Li" and "Li Jingjing" (李晶晶). Here are web archives of the now broken of course Shen Yun pages Kaiwand links to as evidence of her constant name changing (but no mention of her father):
+* daughter: Li Meige (李美歌) claims born 1982-06 on <<kaiwind>> http://www.kaiwind.com/anticult/kfgc/201311/05/t20131105_1188845.shtml says that she performs in <<shen-yun>> under the name "Christina Li" and even won awards. This Falun Gong sources confirm that a "Christina Li" was a Shen Yun lead dancer as of 2011, but does not confirm that she is the daughter of Li Hongzhi: https://www.theepochtimes.com/where-are-the-ancient-arts-of-china-part-4_1491935.html If this is true, talk about <<orange-papers,"different levels of truth">>! The article also claims that she has had other pseudonyms, including: "Annie Li" and "Li Jingjing" (李晶晶). Here are web archives of the now broken of course Shen Yun pages Kaiwand links to as evidence of her constant name changing (but no mention of her father):
 ** https://web.archive.org/web/20140727034323/http://dance.ntdtv.com/ct/archive/
 ** https://web.archive.org/web/20121211022246/zh-cn.shenyunperformingarts.org/artists/biography/view/WG3gbBQudOg
 ** possibly CCP sources report that Meige married in 2017, likely near the Falun Gong Day (13th May): e.g. http://www.saibeifeng.com/kfyd/201705/16/t20170516_5219554.shtml says many felicitation posts were posted on <<falun-gong-media,minghui>>, so this is likely widely known within the Falun Gong community, but the idiots who wrote that page don't know how to link to sources. Ciro could not find the groom's name.
 * brothers and sisters, all younger:
 ** Li Jun (李君) older younger sister
 ** Li Ping (李平) younger younger sister
-*** Notably, Li Ping's alleged husband Sun Senjun (孙森伦) is a Chinese-Thai, and allegedly wrote an account of Li Hongzhi's family in the 1980's "我与李洪志一家在泰国的日子——法轮功教主妹夫的自述" ("Diary's of being in Thailand with Li Hongzhi's family") https://www.cp1897.com.hk/product_info.php?BookId=9789996590252[ISBN 9789996590252] This is reproduced on many CCP sources, e.g.: http://lihongzhidaqidi.blogspot.com/2013_09_27_archive.html but it is good reading if you take everything with a grain of salt, does sound believable. TODO find original publishing location. This appears to be an interview: https://www.youtube.com/watch?v=Js0OyNwYw5A (watermarked Kaiwind on top)
+*** Notably, Li Ping's alleged husband Sun Senjun (孙森伦) is a Chinese-Thai, and allegedly wrote an account of Li Hongzhi's family in the 1980's "我与李洪志一家在泰国的日子——法轮功教主妹夫的自述" ("Diary's of being in Thailand with Li Hongzhi's family") https://www.cp1897.com.hk/product_info.php?BookId=9789996590252[ISBN 9789996590252] This is reproduced on many CCP sources, e.g.: http://lihongzhidaqidi.blogspot.com/2013_09_27_archive.html but it is good reading if you take everything with a grain of salt, does sound believable. TODO find original publishing location. This appears to be an interview: https://www.youtube.com/watch?v=Js0OyNwYw5A (watermarked <<kaiwind>> on top)
 ** Li Hui (AKA Li Donghui) younger brother
 * father: Li Dan
 * mother: Lu Shuzhen
@@ -4971,6 +4994,10 @@ https://medium.com/@Ben_D_Hurley/-10677166298b "Me and Li" by Ben Hurley publish
 
 This post by a former believer gives what <<ciro-santilli>> feels is a realistic account that matches Ciro's observations.
 
+Interesting quotes:
+
+* <<me-and-li-tumor>>
+
 [[history-of-falun-gong]]
 ===== History of Falun Gong 法轮功历史
 
@@ -4982,14 +5009,20 @@ A few non-religious non-CCP resources can be found at:
 * https://en.wikipedia.org/wiki/History_of_Falun_Gong
 * Sun Senjun's accounts from the 1980's, see: <<li-hongzhis-family>>
 
+but those are very rare, because where else would the information come form, right?
+
 Some key events:
 
 * 1989: initial private beta courses. TODO key interesting moment.
-* 1992-05-13: initial public lecture at the 1992 International Health Exposition in Beijing, and opening main academy on No. 5 MIddle School in Changchun, Jilin Province (capital.
+* 1992-05-13: initial public lecture at the 1992 International Health Exposition in Beijing, and opening main academy on No. 5 Middle School in Changchun, Jilin Province (capital.
 +
 TODO what did he talk about on that Beijing day. This day still celebrated in 2020 as https://en.minghui.org/cc/36/["Falun Dafa Day"], in which the major international "<<orange-papers,Experience Sharing>> Conference" happens in New York.
 +
 He apparently also taught at Chaoyang Park in Changchun: https://goo.gl/maps/BFwKs2xr48AMUAbx8
+
+====== Li Hongzhi's hagiography
+
+TODO <<benjamin-penny-the-religion-of-falun-gong-2012>> mentions that there was mystical auto-biography of Li Hongzhi in <<flg-canon,Zhuan Falun>>, which the Wiki page for <<history-of-falun-gong>> cites. But Penny says that it was removed in 1999 (presumably to remove some more glaring magical bullshit help with internationalization). Where can that be found? Are we going to have to resort to <<kaiwind>> again?
 
 [[benjamin-penny-the-religion-of-falun-gong-2012]]
 ====== The Religion of Falun Gong by Benjamin Penny (2012)
@@ -5972,11 +6005,6 @@ I consider the media in this section biased, and never cite it for fact-checking
 ** https://twitter.com/PDChina
 ** http://www.cri.cn
 ** http://english.cri.cn/
-* http://facts.org.cn/ anti <<falun-gong>> website
-** http://wap.kaiwind.com/
-** I have no proof that this is linked to the government, but it is very likely, even the Chinese embassy website links to it:
-*** http://www.china-embassy.org/eng/lj/t36322.htm
-*** https://web.archive.org/web/20180414233331/http://www.china-embassy.org/eng/lj/t36322.htm
 * Phoenix TV
 ** https://en.wikipedia.org/wiki/Phoenix_Television
 ** https://zh.wikipedia.org/wiki/凤凰卫视
@@ -6044,6 +6072,23 @@ Operates for example: https://en.wikipedia.org/wiki/WCRW which is mentioned at: 
 These might be independent, but they are clearly pro CCP and thus cannot be trusted:
 
 * https://kknews.cc/ refers to <<falun-gong>> as an "Evil Cult" (反邪教) https://kknews.cc/zh-mo/entertainment/lj4y9yb.html (http://archive.is/osBDv[archive])
+* http://facts.org.cn/ anti-religion website in English, basically an English <<kaiwind>>
+
+[[kaiwind]]
+====== Kaiwind (BIASED MEDIA)
+
+http://kaiwind.com/
+
+Anti-religion, and notably, anti-<<falun-gong>> website in Chinese.
+
+It must be said however that they do contain at least some information that seems to be true/interesting.
+
+Including open secrets that every Falun Gong believer knows about but does discuss much publicly, e.g. details of <<li-hongzhis-family>>, and Sun Senjun's account.
+
+Ciro has no proof that this is linked to the government, but it is very likely, even the Chinese embassy website links to it:
+
+* http://www.china-embassy.org/eng/lj/t36322.htm
+* https://web.archive.org/web/20180414233331/http://www.china-embassy.org/eng/lj/t36322.htm
 
 [[confucius-institute]]
 ===== Confucius institute 孔子学院
