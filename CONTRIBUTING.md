@@ -10,11 +10,13 @@ Forbidden:
 
 -   generate lots of notifications that don't teach people anything new.
 
-    If you want to shitpost, fine, but keep the number of issues and comments small.
+    If you want to shitpost, fine, but keep the number of issues and comments small, and try to be creative.
 
     People don't have that much time to waste.
 
     If you are still certain that you want really want to shitpost, first see some tips at: https://github.com/cirosantilli/china-dictatorship#shitpost
+
+    Remember, you are threading dangerous waters, it is "one Ciro against one million wumaos", and so Ciro doesn't even blink anymore when a block might apply.
 
 -   swearing/being very aggressive on a [`not-shitpost`](https://github.com/cirosantilli/china-dictatorship) post.
 
