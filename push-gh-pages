@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+# https://github.com/cirosantilli/china-dictatorship#mirrors
+
+set -eux
+make
+git push --follow-tags
+
+# GitHub pages.
+# One time initial setup.
+# git checkout --orphan gh-pages
+# and copy over https://github.com/cirosantilli/jekyll-min
+gh_pages_dir=out/gh-pages
+if [ ! -d "$gh_pages_dir" ]; then
+  mkdir -p "$gh_pages_dir"
+  git clone --branch gh-pages "$(git remote get-url origin)"
+fi
+cp README.html "${gh_pages_dir}/index.html"
+git -C "$gh_pages_dir" add index.html
+if git -C "$gh_pages_dir" commit -m "$(git log -1 --format="%H")"; then
+  git -C "$gh_pages_dir" push
+fi

@@ -4,22 +4,7 @@
 
 set -eux
 
-make
-
-# GitHub pages.
-# One time initial setup.
-# git checkout --orphan gh-pages
-# and copy over https://github.com/cirosantilli/jekyll-min
-gh_pages_dir=out/gh-pages
-if [ ! -d "$gh_pages_dir" ]; then
-  mkdir -p "$gh_pages_dir"
-  git clone --branch gh-pages "$(git remote get-url origin)"
-fi
-cp README.html "${gh_pages_dir}/index.html"
-git -C "$gh_pages_dir" add index.html
-if git -C "$gh_pages_dir" commit -m "$(git log -1 --format="%H")"; then
-  git -C "$gh_pages_dir" push
-fi
+./push-gh-pages
 
 # NPM package.
 # Updates package.json version, which other systems read if possible.
@@ -36,7 +21,9 @@ git add package.json
 #python3 -m pip install --user setuptools wheel twine
 cp README.adoc README.html china_dictatorship
 python setup.py sdist bdist_wheel
-# Asks for username and password every time, unless you setup ~/.pypirc.
+# Asks for password every time, unless you setup ~/.pypirc.
+# But I don't want to put a plaintext password in there.
+# https://stackoverflow.com/questions/57935191/twine-is-asking-for-my-password-each-time-how-to-use-the-pypirc
 twine upload dist/*
 rm -rf build dist *.egg-info
 git add setup.py
