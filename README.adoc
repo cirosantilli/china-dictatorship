@@ -11,9 +11,11 @@
 :toclevels: 6
 :toc-title:
 
+https://cirosantilli.com/china-dictatorship
+
 Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
-Video and images may be better viewed at https://cirosantilli.com/china-dictatorship or by cloning locally, see also: <<mirrors>>.
+This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on github.com: https://github.com/cirosantilli/china-dictatorship[]. You can view it fully at https://github.com/isaacs/github/issues/1610[] or by cloning and converting it locally to HTML, see also: <<mirrors>>.
 
 image:https://web.archive.org/web/20191013080128if_/http://i.redd.it/c9q6vdybr7i31.jpg[height=300]
 
