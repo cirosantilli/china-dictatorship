@@ -15,7 +15,7 @@ https://cirosantilli.com/china-dictatorship
 
 Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
-This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on github.com: https://github.com/cirosantilli/china-dictatorship[]. You can view it fully at https://github.com/isaacs/github/issues/1610[] or by cloning and converting it locally to HTML, see also: <<mirrors>>.
+This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on github.com: https://github.com/cirosantilli/china-dictatorship[]. You can view it fully at https://cirosantilli.com/china-dictatorship[] or by cloning and converting it locally to HTML as shown at: <<mirrors>>.
 
 image:https://web.archive.org/web/20191013080128if_/http://i.redd.it/c9q6vdybr7i31.jpg[height=300]
 
@@ -33,6 +33,70 @@ This repo has the following goals:
 * highlight positive about China's culture outside of its shitty government, such as <<the-best-chinese-supermarket-food-products,food>> and <<music>>. This has two goals:
 ** teach foreigners (maybe even Chinese people on certain points) about amazing Chinese things that they can consume
 ** show wumaos that <<ciro-santilli>> is not as clueless about China as they think
+
+[[mirrors]]
+=== Mirrors of this page 这个网页的镜像
+
+The cool thing about Git is that we can maintain several mirrors on multiple websites very easily:
+
+* https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
+* https://gitlab.com/cirosantilli/china-dictatorship Maybe some day https://gitlab.cn/ ? :-)
+* https://bitbucket.org/cirosantilli/china-dictatorship
+
+GitHub Pages: https://cirosantilli.com/china-dictatorship Trade-offs with https://github.com/cirosantilli/china-dictatorship[]
+
+* pro
+** https://help.github.com/en/github/authenticating-to-github/about-anonymized-image-urls[GitHub's camo] keeps hiccuping and not showing images
+** and YouTube videos show inline there
+* cons
+** Camo bypasses the need for VPN, since most images are served from https://en.wikipedia.org/wiki/Internet_Archive[Internet Archive] which is <<censorship,blocked in China>>.
+
+The perfect solution might be to download all images and upload them to https://github.com/cirosantilli/media since GitHub content does not go through Camo, we have to see if such images don't fail to load as often.
+
+You can also view the GitHub pages version locally with:
+
+....
+git clone https://github.com/cirosantilli/china-dictatorship
+cd china-dictatorship
+git checkout gh-pages
+xdg-open README.html
+....
+
+or built it yourself:
+
+....
+gem install asciidoctor
+make
+xdg-open README.html
+....
+
+We also have a NPM Node.js package https://www.npmjs.com/package/china-dictatorship[]. After https://askubuntu.com/questions/594656/how-to-install-the-latest-versions-of-nodejs-and-npm/971612#971612[installing NPM], you can be use it as:
+
+....
+npm i -g china-dictatorship
+china-dictatorship > README.html
+....
+
+This would force China to also block/curate package managers to block this repo. The package is already available in this Chinese Taobao mirror: https://registry.npm.taobao.org/china-dictatorship (https://web.archive.org/web/20200406081433/http://registry.npm.taobao.org/china-dictatorship[archive]).
+
+We also managed to upload a Python PyPi package at: https://pypi.org/project/china-dictatorship/ Is as:
+
+....
+python3 -m pip install --user --upgrade china-dictatorship
+china-dictatorship.py > README.html
+....
+
+We later found on Google by chance that libraries.io picked it up and rendered the README.adoc nicely as well: https://libraries.io/pypi/china-dictatorship (https://web.archive.org/web/20200318043050/https://libraries.io/pypi/china-dictatorship[archive]). This is why packaging is a good idea.
+
+TODO: create an Ubuntu PPA and Ruby gem as well.
+
+Update all mirrors in one go with: link:push-mirrors[]:
+
+....
+./push-mirrors
+....
+
+There is no need to update package versions or add git tags, all of that gets done automatically by the script!
 
 [[faq]]
 == FAQ 常见问答集
@@ -7265,70 +7329,6 @@ This is especially interesting given that one of the main propaganda reasons for
 
 * <<xu-xiaodong>> reveals support for Tai Chi
 * 2020-06-03 Beijing considering censoring anti Chinese traditional medicine https://www.theguardian.com/world/2020/jun/03/beijing-draws-up-plans-to-outlaw-criticism-of-traditional-chinese-medicine
-
-[[mirrors]]
-== Mirrors of this page 这个网页的镜像
-
-The cool thing about Git is that we can maintain several mirrors on multiple websites very easily:
-
-* https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
-* https://gitlab.com/cirosantilli/china-dictatorship Maybe some day https://gitlab.cn/ ? :-)
-* https://bitbucket.org/cirosantilli/china-dictatorship
-
-GitHub Pages: https://cirosantilli.com/china-dictatorship Trade-offs with https://github.com/cirosantilli/china-dictatorship[]
-
-* pro
-** https://help.github.com/en/github/authenticating-to-github/about-anonymized-image-urls[GitHub's camo] keeps hiccuping and not showing images
-** and YouTube videos show inline there
-* cons
-** Camo bypasses the need for VPN, since most images are served from https://en.wikipedia.org/wiki/Internet_Archive[Internet Archive] which is <<censorship,blocked in China>>.
-
-The perfect solution might be to download all images and upload them to https://github.com/cirosantilli/media since GitHub content does not go through Camo, we have to see if such images don't fail to load as often.
-
-You can also view the GitHub pages version locally with:
-
-....
-git clone https://github.com/cirosantilli/china-dictatorship
-cd china-dictatorship
-git checkout gh-pages
-xdg-open README.html
-....
-
-or built it yourself:
-
-....
-gem install asciidoctor
-make
-xdg-open README.html
-....
-
-We also have a NPM Node.js package https://www.npmjs.com/package/china-dictatorship[]. After https://askubuntu.com/questions/594656/how-to-install-the-latest-versions-of-nodejs-and-npm/971612#971612[installing NPM], you can be use it as:
-
-....
-npm i -g china-dictatorship
-china-dictatorship > README.html
-....
-
-This would force China to also block/curate package managers to block this repo. The package is already available in this Chinese Taobao mirror: https://registry.npm.taobao.org/china-dictatorship (https://web.archive.org/web/20200406081433/http://registry.npm.taobao.org/china-dictatorship[archive]).
-
-We also managed to upload a Python PyPi package at: https://pypi.org/project/china-dictatorship/ Is as:
-
-....
-python3 -m pip install --user --upgrade china-dictatorship
-china-dictatorship.py > README.html
-....
-
-We later found on Google by chance that libraries.io picked it up and rendered the README.adoc nicely as well: https://libraries.io/pypi/china-dictatorship (https://web.archive.org/web/20200318043050/https://libraries.io/pypi/china-dictatorship[archive]). This is why packaging is a good idea.
-
-TODO: create an Ubuntu PPA and Ruby gem as well.
-
-Update all mirrors in one go with: link:push-mirrors[]:
-
-....
-./push-mirrors
-....
-
-There is no need to update package versions or add git tags, all of that gets done automatically by the script!
 
 [[backlinks]]
 == Backlinks to this page 连接到这个网页的网页
