@@ -1,2 +1,2 @@
 README.html: README.adoc
-	asciidoctor -o '$@' -v '$<'
+	bundle exec asciidoctor -o '$@' -v '$<'

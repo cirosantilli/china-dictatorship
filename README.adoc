@@ -49,7 +49,7 @@ xdg-open README.html
 or built it yourself:
 
 ....
-gem install asciidoctor
+bundle install
 make
 xdg-open README.html
 ....
@@ -4443,6 +4443,11 @@ ____
 .https://youtube.com/watch?v=pXGsio9H1xs The Last Temptation of Christ (1988) - Pontius Pilate Scene (5/10) | Movieclips.
 video::pXGsio9H1xs[youtube,height=400,width=600]
 
+https://en.wikipedia.org/wiki/Futurama[Futurama] also has an interesting take:
+
+.https://www.youtube.com/watch?v=ObbVO3A3BvA https://en.wikipedia.org/wiki/Bender_(Futurama)[Bender] meets God in Futurama S03E20 "https://en.wikipedia.org/wiki/Godfellas[Godfellas]". In their talk, they comment on how "if as God you give them everything, they will grow dependent on you, and if you give them nothing, they will despise you". And so the best approach as a God might be "to influence things as if you weren't there".
+video::ObbVO3A3BvA[youtube,height=400,width=600]
+
 [[against-censorship-and-flg]]
 ==== Many people both are against censorship and FLG
 
@@ -7089,7 +7094,7 @@ Some news coverage:
 * 2017-06-17 https://qz.com/1001366/how-the-chinese-watch-porn-on-chinas-censored-internet/ "Watching porn on China’s censored internet is an infinitely evolving cat-and-mouse game"
 
 [[intercourse]]
-.Human https://en.wikipedia.org/wiki/Human_penis[penis] (https://zh.wikipedia.org/wiki/人類陰莖[陰莖]) penetrating a human <<vagina,vagina>> while wearing a condom during https://en.wikipedia.org/wiki/Sexual_intercourse[human sexual intercourse] (https://zh.wikipedia.org/wiki/性交[性交]), showing the https://en.wikipedia.org/wiki/The_birds_and_the_bees[naturally occuring bees] that automatically appear during the event to obscure the view and prevent <<github>> from taking down this page. This is also basically what all porn looks like (sometimes without the bees), and it is very, very boring to watch. https://commons.wikimedia.org/wiki/File:Coitus20092.JPG[background Source] and https://commons.wikimedia.org/wiki/File:Delivery_Bee.png[bee source].
+.Human https://en.wikipedia.org/wiki/Human_penis[penis] (https://zh.wikipedia.org/wiki/人類陰莖[陰莖]) penetrating a human <<vagina,vagina>> while wearing a condom during https://en.wikipedia.org/wiki/Sexual_intercourse[human sexual intercourse] (https://zh.wikipedia.org/wiki/性交[性交]), showing the https://en.wikipedia.org/wiki/The_birds_and_the_bees[naturally occuring bees] that automatically appear during the event to obscure the view and prevent <<github>> from taking down this page. This is also basically what all porn looks like (sometimes without the bees), and it is very, very boring to watch. https://commons.wikimedia.org/wiki/File:Coitus20092.JPG[Background source] and https://commons.wikimedia.org/wiki/File:Delivery_Bee.png[bee source].
 image::{cirosantilli-media-base}/Coitus_with_bees.jpg[height=400]
 
 [[jin-ping-mei]]
