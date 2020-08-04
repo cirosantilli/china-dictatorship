@@ -37,22 +37,6 @@ This repo has the following goals:
 [[mirrors]]
 === Mirrors of this page 这个网页的镜像
 
-The cool thing about Git is that we can maintain several mirrors on multiple websites very easily:
-
-* https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
-* https://gitlab.com/cirosantilli/china-dictatorship Maybe some day https://gitlab.cn/ ? :-)
-* https://bitbucket.org/cirosantilli/china-dictatorship
-
-GitHub Pages: https://cirosantilli.com/china-dictatorship Trade-offs with https://github.com/cirosantilli/china-dictatorship[]
-
-* pro
-** https://help.github.com/en/github/authenticating-to-github/about-anonymized-image-urls[GitHub's camo] keeps hiccuping and not showing images
-** and YouTube videos show inline there
-* cons
-** Camo bypasses the need for VPN, since most images are served from https://en.wikipedia.org/wiki/Internet_Archive[Internet Archive] which is <<censorship,blocked in China>>.
-
-The perfect solution might be to download all images and upload them to https://github.com/cirosantilli/media since GitHub content does not go through Camo, we have to see if such images don't fail to load as often.
-
 You can also view the GitHub pages version locally with:
 
 ....
@@ -69,6 +53,22 @@ gem install asciidoctor
 make
 xdg-open README.html
 ....
+
+The cool thing about Git is that we can maintain several mirrors on multiple websites very easily:
+
+* https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
+* https://gitlab.com/cirosantilli/china-dictatorship Maybe some day https://gitlab.cn/ ? :-)
+* https://bitbucket.org/cirosantilli/china-dictatorship
+
+GitHub Pages: https://cirosantilli.com/china-dictatorship Trade-offs with https://github.com/cirosantilli/china-dictatorship[]
+
+* pro
+** https://help.github.com/en/github/authenticating-to-github/about-anonymized-image-urls[GitHub's camo] keeps hiccuping and not showing images
+** and YouTube videos show inline there
+* cons
+** Camo bypasses the need for VPN, since most images are served from https://en.wikipedia.org/wiki/Internet_Archive[Internet Archive] which is <<censorship,blocked in China>>.
+
+The perfect solution might be to download all images and upload them to https://github.com/cirosantilli/media since GitHub content does not go through Camo, we have to see if such images don't fail to load as often.
 
 We also have a NPM Node.js package https://www.npmjs.com/package/china-dictatorship[]. After https://askubuntu.com/questions/594656/how-to-install-the-latest-versions-of-nodejs-and-npm/971612#971612[installing NPM], you can be use it as:
 
