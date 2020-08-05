@@ -4229,18 +4229,20 @@ It appears that Falun Gong cannon is present at: https://falundafa.org/
 
 The two main books are:
 
-* "Falun Gong", 2006 English translation https://www.falundafa.org/book/eng/flg_2006.htm[]:
+* "China Falun Gong" (中国法轮功) AKA just "Falun Gong" published in April 1993. 2006 English translation https://www.falundafa.org/book/eng/flg_2006.htm[]. Wikipedia comments:
 +
 ____
 Falun Gong is an introductory book that discusses qigong, introduces the principles of the practice, and provides illustrations and explanations of the exercises.
 ____
-* https://en.wikipedia.org/wiki/Teachings_of_Falun_Gong#Zhuan_Falun,_the_main_book[Zhuan Falun], 1998 English version: https://falundafa.org/eng/eng/zfl_01.htm[]:
+* https://en.wikipedia.org/wiki/Teachings_of_Falun_Gong#Zhuan_Falun,_the_main_book[Zhuan Falun] (转法轮), published in January 1995. 1998 English version: https://falundafa.org/eng/eng/zfl_01.htm[]:
 +
 According to Wikipedia:
 +
 ____
 Zhuan Falun is the main teaching and the most comprehensive work; it is an edited version of Li's nine-lecture series, 54 of which he taught across China between 1992 and 1994.
 ____
++
+Believers very often read from this text when they <<flg-religion,"study the Fa">> in their gatherings. They often read one chapter per session, and can often just say "we read the Nth teaching" (第N讲, so apparently each chapter corresponds to a separate talk).
 
 It contains <<li-hongzhi,LHZ>>'s approved texts/speech transcriptions, which are sacred.
 
@@ -5124,7 +5126,35 @@ He apparently also taught at Chaoyang Park in Changchun: https://goo.gl/maps/BFw
 
 ====== Li Hongzhi's hagiography
 
-TODO <<benjamin-penny-the-religion-of-falun-gong-2012>> mentions that there was mystical auto-biography of Li Hongzhi in <<flg-canon,Zhuan Falun>>, which the Wiki page for <<history-of-falun-gong>> cites. But Penny says that it was removed in 1999 (presumably to remove some more glaring magical bullshit help with internationalization). Where can that be found? Are we going to have to resort to <<kaiwind>> again?
+https://en.wikipedia.org/wiki/Li_Hongzhi mentions that there are two versions of the biography:
+
+* An unofficial biography appeared in the first of Li's major publications, Zhongguo Falun Gong, supposedly authored by journalist Zhu Huiguang (朱慧光).
++
+The full text appears to be at available at: http://qingqing.freebbs.tw/viewthread.php?tid=130### (God bless <<taiwan>> piracy, https://web.archive.org/web/20200805093333/http://qingqing.freebbs.tw/viewthread.php?tid=130###[archive])
++
+<<benjamin-penny-the-life-and-times-of-li-hongzhi-2003>> gives the full title of the section + a translation (originally in pinyin, but why?!?! :-)):
++
+____
+法輪旋轉新天地-記李洪志先生和他創立的法輪功 +
+"The wheel of the law revolves the new cosmos - on Li Hongzhi and the Falun Gong he founded".
+____
+
+* A second, official spiritual biography appeared in early editions of <<flg-canon,Falun Gong's primary text, Zhuan Falun>>.
++
+It is shorter than the first, and is marked as authored by the "Falun Dafa Research Society's President" (法轮功研究会会长).
++
+The Wiki quotes <<benjamin-penny-the-religion-of-falun-gong-2012>>.
++
+Penny says that it was removed in 1999 (presumably to remove some more glaring magical bullshit help with internationalization).
++
+A possible Chinese copy might be found at: http://qingqing.freebbs.tw/viewthread.php?tid=165### inside a 1994 version of Zhuan Falun.
++
+The section is entitled "中国法轮功创始人、法轮功研究会会长 李洪志先生小传", so literally tranlated as a "profile" (小传) rather than a full biography. The index marks it as 附 (addendum), and it comes at the end of the book.
+
+[[benjamin-penny-the-life-and-times-of-li-hongzhi-2003]]
+====== The Life and times of Li Hongzhi by Benjamin Penny (2003)
+
+Free to read at: https://www.jstor.org/stable/20059033
 
 [[benjamin-penny-the-religion-of-falun-gong-2012]]
 ====== The Religion of Falun Gong by Benjamin Penny (2012)
@@ -5289,6 +5319,23 @@ What could be a better reminder that <<xi-jinping,dictatorships are dangerous>> 
 
 .Mao Zedong in Yan'an in the 1930's thinking deeply. This funny looking picture is meme ready and https://uncyclopedia.ca/wiki/Chairman_Mao[much loved by Uncyclopedia]. https://commons.wikimedia.org/wiki/File:Mao_Zedong_in_Yan%27an.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/9/9d/Mao_Zedong_in_Yan%27an.jpg[height=400]
+
+[[hundred-flowers-campaign]]
+==== Hundred Flowers Campaign 百花齐放 (1956-1957)
+
+* https://en.wikipedia.org/wiki/Hundred_Flowers_Campaign
+* https://zh.wikipedia.org/wiki/百花齐放、百家争鸣
+
+Some possible quotes from Mao saying that people should be able to protest, original share: https://www.reddit.com/r/China/comments/i2z5ss/maos_propaganda_poster_saying_protest_and_strike/
+
+____
+允许群众示威。 +
+Citizens should be allowed to protest.
+____
+
+claims from from some 毛泽东选集第五卷 (selected works from Mao Zedong) in speech from the https://en.wikipedia.org/wiki/8th_Central_Committee_of_the_Communist_Party_of_China[8th Central Committee of the Communist Party of China]. https://twitter.com/shijianxingzou/status/1158421996755128323 mentions the anthology was published in 1977.
+
+Even <<pro-chinese-government-media,kknews>> confirms: https://kknews.cc/zh-my/news/ql9k4ag.html
 
 [[great-leap-forward]]
 ==== Great Leap Forward 大跃进 (1958-1960)
@@ -6169,7 +6216,8 @@ Responsible for <<china-watch>>.
 
 Operates for example: https://en.wikipedia.org/wiki/WCRW which is mentioned at: https://www.bbc.co.uk/news/world-us-canada-46557096 from <<spy>>. WTF, you have to obviously block them!
 
-===== Pro-Chinese government media
+[[pro-chinese-government-media]]
+===== Pro-Chinese government media (BIASED MEDIA)
 
 These might be independent, but they are clearly pro CCP and thus cannot be trusted:
 
@@ -6207,6 +6255,7 @@ Related about university interference:
 
 * 2020-06-17 https://asia.nikkei.com/Business/Technology/US-blacklists-China-s-MIT-as-tech-war-enters-new-phase Harbin Institute of Technology denied MATLAB support for being in the entity list, apparenty since may: https://www.commerce.gov/news/press-releases/2020/05/commerce-department-add-two-dozen-chinese-companies-ties-wmd-and
 * 2020-05-28 https://www.thetimes.co.uk/article/motion-backing-hong-kong-blocked-after-campaign-by-chinese-students-at-warwick-fsdfphr26 "Motion backing Hong Kong blocked after campaign by Chinese students at Warwick". The article mentions that "Just under 1,000 students voted in favour of the motion. Turnout was three times higher than other votes and officials said that it was a new record for participation."
+* 2020-08 https://www.theage.com.au/politics/federal/craven-cowardice-unsw-condemned-for-deleting-posts-critical-of-beijing-20200803-p55hy5.html "'Craven cowardice': UNSW condemned for deleting posts critical of Beijing" University of New South Wales
 * 2020-05 Drew Pavlou 柏乐志
 ** https://en.wikipedia.org/wiki/University_of_Queensland[University of Queensland], Australia, was trying to get rid of him for anti-CCP campaign
 ** https://www.theguardian.com/australia-news/2020/may/24/how-a-20-year-old-student-put-the-spotlight-on-australian-universities-cosy-relationship-with-china
