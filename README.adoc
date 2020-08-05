@@ -757,6 +757,7 @@ Minorities are put in jail because the CCP fears them. Dictatorships can only su
 
 The famous https://en.wikipedia.org/wiki/First_they_came_...[First they came ...] text comes to mind in which <<nazi,the priest Martin Niemöller regrets not having supported the rights of his opponents that were unfairly treated by the Nazi Government>>:
 
+[[first-they-came]]
 ____
 First they came for the socialists, and I did not speak out +
 Because I was not a socialist.
@@ -1721,6 +1722,8 @@ Keywords:
 * Chinazi (赤纳粹). TODO why 赤. Means Red, but where else is it used?
 * link:https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum[Reductio ad Hitlerum]
 
+The most notable aspect is the persecution of minorities of course, notably <<xinjiang>> and <<falun-gong>> which closely ressembles that of the Jews, see also: <<first-they-came>>.
+
 Articles:
 
 * http://yashalong.blog.caixin.com/archives/188877 这么好的人民，不倒点霉都对不起他们 "These are such good people, if they have a bit of bad luck, excuse them." article by yashalong 押沙龙 published on <<caixin>>. The article discusses how Nazi Germany propaganda worked, without mention to the CCP, but it was still apparently https://www.bannedbook.org/bnews/baitai/20190816/1175647.html[banned in China].
@@ -2505,6 +2508,7 @@ The keyword is <<rule-of-law>>: because of a few terrorists, every single Muslim
 .<<rebel-pepper,Rebel Pepper>> 2017-04 cartoon showing that Xinjiang is like a prison inside a greater prison, which is China itself. Chinese characters read: 新疆(Xinjiang) and 中国(China). TODO source.
 image::https://web.archive.org/web/20191013085312if_/https://i.stack.imgur.com/mQFKa.png[height=600]
 
+* 2020-06-29 https://apnews.com/269b3de1af34e17c1941a514f78d764c "China cuts Uighur births with IUDs, abortion, sterilization"
 * 2020-06-17 https://www.reuters.com/article/idUSKBN23O3EW "Trump signs bill pressuring China over Uighur Muslim crackdown"
 * 2019-12: https://www.youtube.com/watch?v=dEkliuqQo-g "A Secret Look Inside a Chinese Labor Program for Uighurs | Visual Investigations" by "The New York Times" published on Dec 30, 2019. Description: "China is relocating Uighurs and other Muslim minorities to urban areas as part of a contentious labor program. The Times obtained rare footage taken inside one."
 +
@@ -2605,10 +2609,29 @@ and yet as of the 2017 Internment camps, all Xinjiang Muslims were fucked. <<rul
 .https://www.youtube.com/watch?v=Mx0JFgwATho&t=128 "New footage shows Uyghurs bussed across China for forced labour in factories". At the given timestamp, contains 30 seconds of footage extracted from 3 social media posts showing Uyghurs being sent in busses to work in far way regions.
 video::M_aXcH1zDEE[youtube,height=400,width=600,start=128]
 
+===== Merdan Ghappar's video (2020-08-05)
+
+https://www.bbc.co.uk/news/world-asia-china-53650246
+
+Self made video shows the ex-model chained to a bed in a camp. Text messages give further details.
+
+Text messages and translation: https://medium.com/@millwarj/wear-your-mask-under-your-hood-an-account-of-prisoner-abuse-in-xinjiang-during-the-2020-3007a1f7437d
+
+++++
+<iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/news/av/embed/p08mr1tm/53650246"></iframe>
+++++
+
 [[other-islam-countries-speak-up-for-uyghur]]
-===== Why don't other Islamic countries speak up for the Uyghur persecution?
+===== Why don't many other Islamic countries speak up for the Uyghur persecution?
+
+Because those countries are also dictatprships and completely corrupt to the brim:
 
 * https://nationalinterest.org/feature/plight-uyghurs-why-muslims-wont-speak-their-brethren-112466
+
+Related:
+
+* 2020-07-11: https://www.nytimes.com/2020/07/11/world/asia/china-iran-trade-military-deal.html "Defying U.S., China and Iran Near Trade and Military Partnership"
+* https://www.jpost.com/diaspora/uk-muslim-activist-praises-jewish-community-for-speaking-out-for-uyghurs-635626 even the Jews are speaking lowder in some cases
 
 [[hong-kong]]
 ==== Hong Kong 香港
