@@ -3895,7 +3895,7 @@ image::https://upload.wikimedia.org/wikipedia/commons/8/8d/Love_play_in_China.jp
 * https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong
 * https://en.wikipedia.org/wiki/610_Office
 
-<<flg-religion,Religion>> created in the '80s by a Chinese dude called <<li-hongzhi,Li Hongzhi>>.
+<<flg-religion,Religion>> created in the '80s by a Chinese dude called <<li-hongzhi>>.
 
 With the support of the Communist Party to Qigong movements, it reached 70 million believers in 1999, at which point the commies decided they had to be shut down and banned the religion.
 
@@ -3913,7 +3913,7 @@ video::ClvX7ED8UUI[youtube,width=600,height=400]
 video::IAQ14AnAsmU[youtube,height=400,width=600]
 
 [[christine-marie]]
-.https://www.youtube.com/watch?v=GwoO7Nekmpw&t=445 Christine Marie, founder of http://voicesfordignity.com/[Voices for Dignity] which takes care of https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints[FLDS] leaves, was interviewed in VICE documentary "Polygamist Mafia: Escaping The Kingston Clan". While Ciro does not believe Falun Gong is as extreme as FLDS, he does really like the things Christine says. E.g., she calls "cult leaders" with the neutral <<flg-religion,religious>> form <<li-hongzhi,prophet>>, just like Ciro, and mentions the important fact that "And the another thing that the public doesn't realise, is that there are also beautiful thing within those communities". This is the mindset of <<intolerance,tolerance>> that the world needs.
+.https://www.youtube.com/watch?v=GwoO7Nekmpw&t=445 Christine Marie, founder of http://voicesfordignity.com/[Voices for Dignity] which takes care of https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints[FLDS] leaves, was interviewed in VICE documentary "Polygamist Mafia: Escaping The Kingston Clan". While Ciro does not believe Falun Gong is as extreme as FLDS, he does really like the things Christine says. E.g., she calls "cult leaders" with the neutral <<flg-religion,religious>> form "<<li-hongzhi,prophet>>", just like Ciro, and mentions the important fact that "And the another thing that the public doesn't realise, is that there are also beautiful thing within those communities". This is the mindset of <<intolerance,tolerance>> that the world needs.
 video::GwoO7Nekmpw[youtube,height=400,width=600,start=445]
 
 [[flg-important]]
@@ -3972,11 +3972,11 @@ It may be argued however that Li played this card beautifully: since all Chinese
 
 To Ciro it is obvious that Falun Gong is just one of the many very similar movements that came out of the Qi Gong Boom, such as: <<zhong-gong>>. It just happens to be the one that survived due to better luck and strategy.
 
-The absolute truth is already known by the xref:li-hongzhi[prophet], although he does not want to give clear evidence for reasons: <<flg-verifiable>>, and Ciro finds that utterly boring. There's no fun in living in a world where the absolute truth has been found.
+The absolute truth is already known by the <<li-hongzhi,prophet>>, although he does not want to give clear evidence for reasons: <<flg-verifiable>>, and Ciro finds that utterly boring. There's no fun in living in a world where the absolute truth has been found.
 
 For these reasons, Ciro cannot bother to read even into the self-help part: how can you read that when there is so much bullshit every other page?
 
-Ciro would really like to know if <<li-hongzhi,LHZ>> really believes in FLG himself, or is just a complete manipulating charlatan, but unfortunately we will never know that. Just imagine if before he died he published a video saying: "it was a joke, gotcha!". Now that would be **epic**!
+Ciro would really like to know if <<li-hongzhi>> really believes in FLG himself, or is just a complete manipulating charlatan, but unfortunately we will never know that. Just imagine if before he died he published a video saying: "it was a joke, gotcha!". Now that would be **epic**!
 
 Since Ciro is good-natured, it's hard for him to believe that he doesn't believe in anything, how can anyone be that evil? Maybe he believes in part of it, but made up some stuff to sell it better, maybe with good intentions that selling the fake part would also lead more people to see the good part?
 
@@ -4213,6 +4213,7 @@ Li does not announce where he is going, even though he is followed by millions: 
 +
 This reminded Ciro of the following 2012 video he watched, in which VICE was allowed to visit and interview <<russia,Siberian>> prophet https://en.wikipedia.org/wiki/Vissarion[Vissarion] (real name Sergey Anatolyevitch Torop Серге́й Анато́льевич То́роп, AKA "The Russian Jesus"), and they note how well he controlled his appearance.
 +
+[[vissarion]]
 .https://www.youtube.com/watch?v=W2Cv5hZfOmk&t=1177
 video::W2Cv5hZfOmk[youtube,height=400,width=600,start=1177]
 
@@ -4884,7 +4885,7 @@ It is also interesting to note how the Chinese government itself supported Falun
 video::kIpaDW3RwtY[youtube,height=400,width=600,start=244]
 
 [[li-hongzhi]]
-===== FLG is dangerous because Li Hongzhi has too much power over followers 李洪志
+===== Li Hongzhi (LHZ, 李洪志)
 
 * https://en.wikipedia.org/wiki/Li_Hongzhi
 * https://zh.wikipedia.org/wiki/李洪志
@@ -4893,9 +4894,36 @@ Li Hongzhi (LHZ, 李洪志) is the creator of FLG: link:https://en.wikipedia.org
 
 Falun Gong people call him "master" (师父), which is a common traditional term used to respectfully address experienced teachers in a disciple (弟子)/teacher relation, e.g. Kung Fu or other crafts.
 
+However they also believe that he has many many God-like powers and is comparable figures such as Jesus and Buddha himself.
+
+Notably they believe that he has superpowers, and that everything that he says is the absolute truth of the universe, see also: <<flg-religion>>.
+
 The term "master" is also used for example in the fictional film The Master (2012), which is likely inspired in <<flg-religion,Scientology>>.
 
-<<ciro-santilli>> prefers to call him <<flg-religion,prophet>>, since he feels LHZ is indistinguishable from <<flg-religion,any other religion>>.
+<<ciro-santilli>> however prefers to call him <<flg-religion,prophet>>, since he feels LHZ is indistinguishable from <<flg-religion,any other religion>>. Guru/<<flg-cult,cult leader>> could also apply.
+
+It's funny that even though Falun Gong only came up recently in the 80's, we still know relatively little about Li. One is kind of reminded of Jesus! See also <<li-hongzhis-family>> and <<li-hongzhis-hagiography>>.
+
+One should note however that this is partly by design: at some point in the 90's, Li relatively stepped away from public view. This is because once you reach a critical mass of followers, it is better to let them to the preaching for you, while you hide your obvious human defects in a corner. See also comments at <<vissarion>>.
+
+Li Hongzhi footage:
+
+* 1999-06-12 AP https://www.youtube.com/watch?v=r_onSZlvWSQ USA: "CHINA: FALUN DAFA CULT POSES NO THREAT CLAIMS FOUNDER" Li Hongzhi talks to media in New York
+
+.Li Hongzhi is Falun Gong's prophet/cult leader/living God. He's a cute North-Westerner 东北人 like <<wife,Ciro's wife>>. https://en.wikipedia.org/wiki/Li_Hongzhi[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/0/06/Li_Hongzhi_1.jpg[height=400]
+
+.Li Hongzhi practicing one of his exercises with one of his cute prophet outfits in an extremely nice Chinese <<does-ciro-santilli-hate-china,stone garden>>. TODO exact location and date. https://commons.wikimedia.org/wiki/File:Li_Hongzhi_Falun_Gong.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/5/51/Li_Hongzhi_Falun_Gong.jpg[height=600]
+
+[[li-hongzhi-lotus]]
+.Li going https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] while casually sitting on a https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art[giant Lotus flower] with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] on his head. https://www.pinterest.fr/pin/8022105562347289/[Source].
+image::https://web.archive.org/web/20200226083545/https://i.pinimg.com/564x/32/fc/95/32fc954e99d658751da18a0b20ae2894.jpg[height=600]
+
+.Dubstep Li can liangong at https://en.wikipedia.org/wiki/Dubstep[dubstep] speed. https://giphy.com/gifs/dubstep-gifs-dubstepgifs-xUOwFY1prqgUdPuFvW[Source].
+image::https://web.archive.org/web/20200229161316if_/https://i.giphy.com/media/xUOwFY1prqgUdPuFvW/giphy.webp[height=400]
+
+====== FLG is dangerous because Li Hongzhi has too much power over followers
 
 Ciro agrees that there is danger in every religion, and especially new religions.
 
@@ -4915,24 +4943,32 @@ Furthermore, it also seems to Ciro that FLG is clearly anti-violence and self-ha
 
 It is also interesting to look into the https://en.wikipedia.org/wiki/Jonestown case. When the suicide order came, most people wanted out! Without physically controlling the followers, I don't think you can make them do much.
 
-It's funny that even though those events happened only 30 years ago, we know about Li just about as much as we know about Jesus! The only things which we can really picture in detail how they are are the well known locations themselves.
+====== Li Hongzhi's hagiography
 
-Li Hongzhi footage:
+https://en.wikipedia.org/wiki/Li_Hongzhi mentions that there are two versions of the biography:
 
-* 1999-06-12 AP https://www.youtube.com/watch?v=r_onSZlvWSQ USA: "CHINA: FALUN DAFA CULT POSES NO THREAT CLAIMS FOUNDER" Li Hongzhi talks to media in New York
+* An unofficial biography appeared in the first of Li's major publications, Zhongguo Falun Gong, supposedly authored by journalist Zhu Huiguang (朱慧光).
++
+The full text appears to be at available at: http://qingqing.freebbs.tw/viewthread.php?tid=130### (God bless <<taiwan>> piracy, https://web.archive.org/web/20200805093333/http://qingqing.freebbs.tw/viewthread.php?tid=130###[archive])
++
+<<benjamin-penny-the-life-and-times-of-li-hongzhi-2003>> gives the full title of the section + a translation (originally in pinyin, but why?!?! :-)):
++
+____
+法輪旋轉新天地-記李洪志先生和他創立的法輪功 +
+"The wheel of the law revolves the new cosmos - on Li Hongzhi and the Falun Gong he founded".
+____
 
-.Li Hongzhi is Falun Gong's prophet/cult leader/living God. He's a cute north-Western 东北人 like <<wife,Ciro's wife>>. https://en.wikipedia.org/wiki/Li_Hongzhi[Source].
-image::https://upload.wikimedia.org/wikipedia/commons/0/06/Li_Hongzhi_1.jpg[height=400]
-
-.Li Hongzhi practicing one of his exercises with one of his cute prophet outfits in an extremely nice Chinese <<does-ciro-santilli-hate-china,stone garden>>. TODO exact location and date. https://commons.wikimedia.org/wiki/File:Li_Hongzhi_Falun_Gong.jpg[Source].
-image::https://upload.wikimedia.org/wikipedia/commons/5/51/Li_Hongzhi_Falun_Gong.jpg[height=600]
-
-[[li-hongzhi-lotus]]
-.Li going https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] while casually sitting on a https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art[giant Lotus flower] with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] on his head. https://www.pinterest.fr/pin/8022105562347289/[Source].
-image::https://web.archive.org/web/20200226083545/https://i.pinimg.com/564x/32/fc/95/32fc954e99d658751da18a0b20ae2894.jpg[height=600]
-
-.Dubstep Li can liangong at https://en.wikipedia.org/wiki/Dubstep[dubstep] speed. https://giphy.com/gifs/dubstep-gifs-dubstepgifs-xUOwFY1prqgUdPuFvW[Source].
-image::https://web.archive.org/web/20200229161316if_/https://i.giphy.com/media/xUOwFY1prqgUdPuFvW/giphy.webp[height=400]
+* A second, official spiritual biography appeared in early editions of <<flg-canon,Falun Gong's primary text, Zhuan Falun>>.
++
+It is shorter than the first, and is marked as authored by the "Falun Dafa Research Society's President" (法轮功研究会会长).
++
+The Wiki quotes <<benjamin-penny-the-religion-of-falun-gong-2012>>.
++
+Penny says that it was removed in 1999 (presumably to remove some more glaring magical bullshit help with internationalization).
++
+A possible Chinese copy might be found at: http://qingqing.freebbs.tw/viewthread.php?tid=165### inside a 1994 version of Zhuan Falun.
++
+The section is entitled "中国法轮功创始人、法轮功研究会会长 李洪志先生小传", so literally tranlated as a "profile" (小传) rather than a full biography. The index marks it as 附 (addendum), and it comes at the end of the book.
 
 ====== Let's make a mini series about Li Hongzhi's life
 
@@ -5065,7 +5101,7 @@ Hongbao also has a more spicy history it seems, with sexual allegations and open
 
 The embassy spokesman says Chinese officials have ample evidence of sect leader Zhang Hongbao's involvement in crimes such as rape and murder.
 
-.Zhang Honbao on a giant flying lotus reaching Enlightenment with a halo. It looks <<li-hongzhi-lotus,exactly like Falun Gong imagery>>. But of course, Zhong Gong is just a "completely unrelated and inferior sect" according to <<li-hongzhi,Li Hongzhi>>. https://blog.boxun.com/hero/201102/tianhuaren/1_1.shtml[Source].
+.Zhang Honbao on a giant flying lotus reaching Enlightenment with a halo. It looks <<li-hongzhi-lotus,exactly like Falun Gong imagery>>. But of course, Zhong Gong is just a "completely unrelated and inferior sect" according to <<li-hongzhi>>. https://blog.boxun.com/hero/201102/tianhuaren/1_1.shtml[Source].
 image::https://web.archive.org/web/20200513103353if_/https://blog.boxun.com/hero/201102/tianhuaren/tianhuaren2011021802234.jpg[height=400]
 
 [[zhong-gong-blue]]
@@ -5124,33 +5160,6 @@ TODO what did he talk about on that Beijing day. This day still celebrated in 20
 +
 He apparently also taught at Chaoyang Park in Changchun: https://goo.gl/maps/BFwKs2xr48AMUAbx8
 
-====== Li Hongzhi's hagiography
-
-https://en.wikipedia.org/wiki/Li_Hongzhi mentions that there are two versions of the biography:
-
-* An unofficial biography appeared in the first of Li's major publications, Zhongguo Falun Gong, supposedly authored by journalist Zhu Huiguang (朱慧光).
-+
-The full text appears to be at available at: http://qingqing.freebbs.tw/viewthread.php?tid=130### (God bless <<taiwan>> piracy, https://web.archive.org/web/20200805093333/http://qingqing.freebbs.tw/viewthread.php?tid=130###[archive])
-+
-<<benjamin-penny-the-life-and-times-of-li-hongzhi-2003>> gives the full title of the section + a translation (originally in pinyin, but why?!?! :-)):
-+
-____
-法輪旋轉新天地-記李洪志先生和他創立的法輪功 +
-"The wheel of the law revolves the new cosmos - on Li Hongzhi and the Falun Gong he founded".
-____
-
-* A second, official spiritual biography appeared in early editions of <<flg-canon,Falun Gong's primary text, Zhuan Falun>>.
-+
-It is shorter than the first, and is marked as authored by the "Falun Dafa Research Society's President" (法轮功研究会会长).
-+
-The Wiki quotes <<benjamin-penny-the-religion-of-falun-gong-2012>>.
-+
-Penny says that it was removed in 1999 (presumably to remove some more glaring magical bullshit help with internationalization).
-+
-A possible Chinese copy might be found at: http://qingqing.freebbs.tw/viewthread.php?tid=165### inside a 1994 version of Zhuan Falun.
-+
-The section is entitled "中国法轮功创始人、法轮功研究会会长 李洪志先生小传", so literally tranlated as a "profile" (小传) rather than a full biography. The index marks it as 附 (addendum), and it comes at the end of the book.
-
 [[benjamin-penny-the-life-and-times-of-li-hongzhi-2003]]
 ====== The Life and times of Li Hongzhi by Benjamin Penny (2003)
 
@@ -5172,6 +5181,12 @@ The author: https://en.wikipedia.org/wiki/Benjamin_Penny is an Australian resear
 === Xi Jinping 习近平 (2012-∞)
 
 https://en.wikipedia.org/wiki/Xi_Jinping | https://zh.wikipedia.org/wiki/习近平
+
+.Golden heart shaped souvenir with a picture of Xi Jinping that was sold in Tiananmen Square in 2018. https://www.telegraph.co.uk/news/2018/02/26/endowing-role-endless-rule-shows-xis-imperial-ambitions/[Source].
+image::http://web.archive.org/save/_embed/https://www.telegraph.co.uk/content/dam/news/2018/02/26/TELEMMGLPICT000155655751_trans_NvBQzQNjv4BqzjD0Mh_LNt5Bhy1HYuGzFnpm3nqQSSR1BkomPrzwAI0.jpeg?imwidth=1400[height=400]
+
+.Xi Jinping in 2019 wearing his cute compassionate face. Do you think that such a cute cute North-Westerner 东北人 would ever to terrible things like <<xinjiang,commiting cultural genocide of a million people>> or <<xi-abolishes-term-limits-2018-03,trying to become ruler for life>>? Impossible, it must be <<evil-west,American lies>>.
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Xi_Jinping_2019.jpg/448px-Xi_Jinping_2019.jpg[height=400]
 
 [[xi-abolishes-term-limits-2018-03]]
 ==== Xi abolishes term limits 2018-03 习近平取消席连任不得超过两届的限制规则
