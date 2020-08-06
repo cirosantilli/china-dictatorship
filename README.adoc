@@ -5337,6 +5337,8 @@ claims from from some 毛泽东选集第五卷 (selected works from Mao Zedong) 
 
 Even <<pro-chinese-government-media,kknews>> confirms: https://kknews.cc/zh-my/news/ql9k4ag.html
 
+<<liu-shihui-one-party-rule>> also comes to mind.
+
 [[great-leap-forward]]
 ==== Great Leap Forward 大跃进 (1958-1960)
 
@@ -6834,7 +6836,8 @@ ____
 .In 2016 activist Quan Ping (Kwon Pyong,权平,https://twitter.com/kwonpyong[BraveJohnny]) was sent to jail for wearing a <<nazi,Xitler>>/<<xi-jinping-memes,習包子/大撒币>> t-shirt in public and posting selfies online. This photo is in front of a Government building (TODO exact location, reports say he is from https://en.wikipedia.org/wiki/Jilin_City[Jilin City 吉林] transcription of the sign on top of building: 诚信立市 https://baike.baidu.com/item/工业强市[工业强市] 依法治...) https://www.nytimes.com/2017/02/16/world/asia/china-xi-jinping-xitler-tshirt-kwon-pyong.html[New York Times coverage]. He was later sentenced and served 18 months in prison because of this: https://www.frontlinedefenders.org/en/profile/kwon-pyong[Front Line Defenders profile]. https://www.rfa.org/english/news/china/xi-jinping-tshirt-activist-confirmed-held-in-northeast-china-detention-center-12082016110338.html[Source].
 image::https://web.archive.org/web/20170630212420im_/http://www.rfa.org/english/news/china/activist-11022016120902.html/china-xitler-nov22016.jpg/image[height=400]
 
-.In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/【历史的先声】一党独裁，遍地是灾/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang’s one-party dictatorship, but the CP will not establish a one-party dictatorship". This interesting <<zhihu>> page has many other similar quotes BTW: https://zhuanlan.zhihu.com/p/59503784[] (https://web.archive.org/web/20200331202252/https://zhuanlan.zhihu.com/p/59503784[archive]). He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
+[[liu-shihui-one-party-rule]]
+.In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a t-shirt saying "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/【历史的先声】一党独裁，遍地是灾/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang’s one-party dictatorship, but the CP will not establish a one-party dictatorship". This interesting <<zhihu>> page has many other similar quotes BTW: https://zhuanlan.zhihu.com/p/59503784[] (https://web.archive.org/web/20200331202252/https://zhuanlan.zhihu.com/p/59503784[archive]). He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. Quotes from the <<hundred-flowers-campaign>> also come to mind. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
 image::https://web.archive.org/web/20200309101601im_/http://scd.observers.france24.com/files/images/090521%20china%20I.preview.jpg[height=500]
 
 [[gfw]]
@@ -6933,7 +6936,7 @@ image::https://web.archive.org/web/20200315112507if_/http://media2.s-nbcnews.com
 .Angry Chinese cop cartoons extracted from https://web.archive.org/web/20191209021646/http://encyclopediadramatica.rs/China[Encyclopedia Dramatica] with the racist subtitles removed. It is hard to be sure what is the original image that they were Photoshopped from, but they are very similar to the Beijing Jingjing and Chacha although this is not a direct copy paste of the above since several details differ. The image was uploaded in 2011 to ED. https://web.archive.org/web/20170525180028/https://encyclopediadramatica.rs/File:Preasetoshowpapers.jpg[Source].
 image::{cirosantilli-media-base}Jingjing_Chacha_angry.jpg[height=400]
 
-.The Qatar friendly censorship page likely from around 2011. China is not alone in this "cute censorship" technique. https://commons.wikimedia.org/wiki/File:Qatar_filtering_message._Qtel_network.jpg[Source].
+.The Qatar friendly censorship page likely from around 2011 sowing that China is not alone in this "cute censorship mascots" technique. https://commons.wikimedia.org/wiki/File:Qatar_filtering_message._Qtel_network.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/d/d6/Qatar_filtering_message._Qtel_network.jpg[height=600]
 
 ===== Western companies that sell censorship technology to dictatorships
@@ -7173,6 +7176,22 @@ image::{cirosantilli-media-base}/Coitus_with_bees.jpg[height=400]
 .Ming-era dynasty illustration of a scene from the novel https://en.wikipedia.org/wiki/Jin_Ping_Mei[Jin Ping Mei] (https://zh.wikipedia.org/wiki/金瓶梅[金瓶梅]) where Qing Ximen (西門) and Golden Lotus (潘金蓮) are engaging in foreplay in a <<yuyuan-garden,beautiful ancient Chinese house>>. For an old depiction of homosexual male sexual activity, see: <<qing-gay-scroll,this image>>. https://en.wikipedia.org/wiki/File:金瓶梅格子门插图2.JPG[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/3/36/金瓶梅格子门插图2.JPG[height=600]
 
+[[cac]]
+===== Cyberspace Administration of China (CAC, 国家互联网信息办公室)
+
+* https://en.wikipedia.org/wiki/Cyberspace_Administration_of_China
+* ttps://zh.wikipedia.org/wiki/中央网络安全和信息化委员会办公室
+
+This is where the Internet censors work.
+
+Reports such as https://www.theage.com.au/world/asia/china-exporting-ccp-speech-controls-to-australia-as-second-university-caught-in-row-20200805-p55irf.html highlighted that this website has a "report harmful or garbage information" entry, which can notably be used by Chinese expats to report people who badmouth the CCP, and in particular other Chinese nationals.
+
+Typing "国家互联网信息办公室" on Google autocompleted to "国家互联网信息办公室举报" (举报 == report), and finds http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm[].
+
+And one of the categories of report on that page is: "网络不良与垃圾信息举报受理中心" (center for reporting harmful or garbage information, https://web.archive.org/web/20200704135840/http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm[archive]).
+
+Notably, there is one separate entry for illegal activity as well (网络违法犯罪举报网站) and another one for <<porn,pornography (中国扫黄打非网)>>, so it is interesting to see that there is one specifically for "misinformation".
+
 [[wumao]]
 ==== 50 Cent Party 五毛党 (Wumao Dang)
 
@@ -7224,7 +7243,7 @@ Wumaos are particularly easy to spot on <<censorship-monitoring,Western websites
 
 Bibliography:
 
-* 2020-03-12 https://twitter.com/jenniferatntd/status/1238076579466674178 <<jennifer-zeng>>'s publishing of purported Wumao guidelines with translation. Translated title: "CAC (https://en.wikipedia.org/wiki/Cyberspace_Administration_of_China[Cyberspace Administration of China]) Internal Documentation for Internet Commentators (no spreading)"
+* 2020-03-12 https://twitter.com/jenniferatntd/status/1238076579466674178 <<jennifer-zeng>>'s publishing of purported Wumao guidelines with translation. Translated title: "<<cac,CAC>> (https://en.wikipedia.org/wiki/Cyberspace_Administration_of_China[Cyberspace Administration of China]) Internal Documentation for Internet Commentators (no spreading)"
 * 2018-09-27 https://www.youtube.com/watch?v=yCnnPf2OnHo "Chinese Internet Trolls Get Paid 50 Cents For Every Comment" by <<serpentza-laowhy86,laowhy86>>
 * 2017-04-09 https://gking.harvard.edu/files/gking/files/50c.pdf "How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument" by "Gary King, Jennifer Pan, Margaret E. Roberts"
 * https://www.rfa.org/english/news/china/files-05202015150018.html
