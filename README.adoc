@@ -2801,6 +2801,9 @@ Some websites have started marking such accounts, which is a great start, but a 
 
 * YouTube in 2018: https://www.theverge.com/2018/2/2/16964190/youtube-state-funded-broadcasters
 * Facebook in 2020: https://techcrunch.com/2020/06/04/facebook-adds-labels-identifying-state-controlled-media/
+* Twitter in 2020:
+** report https://www.scmp.com/news/world/united-states-canada/article/3096380/twitter-begin-labelling-state-affiliated-media
+** example from https://twitter.com/PDChina <<peoples-daily>> marked as "China state-affiliated media" and links to https://help.twitter.com/en/rules-and-policies/state-affiliated-china
 
 But then those websites would lose ad revenue, right? :-)
 
@@ -2821,6 +2824,10 @@ Their websites should also be blocked, see: <<chinese-government-media>>. This d
 * those censorship mechanisms could be reused to block good websites by Western governments that are becoming Evil
 
 But anything that pisses off the CCP is worth it, like there's much we can learn from their bullshit.
+
+Chinese social media must be banned. This is less serious than regular websites, because you can always repost on Western social media but without getting spied on:
+
+* 2020-08-07 https://www.engadget.com/tiktok-wechat-executive-order-014615752.html "Trump executive order seeks to ban <<tiktok,TikTok>>, WeChat 'transactions' in 45 days"
 
 Whenever China kicks out a western journalist who is in China and reports there, the Western country must do the same and kick out a Chinese journalists for a Chinese media.
 
@@ -2974,6 +2981,41 @@ Reports:
 * https://twitter.com/JoshuaDummer/status/1280877750245453828 "Wife trying livestreaming on Douyin. Comes over to me in the middle of a stream and puts me on camera. After about a minute, notice pops up saying that foreigners are not allowed to appear on livestreams 'without permission'."
 ** https://twitter.com/JoshuaDummer/status/1280881420047511552/photo/1
 ** https://twitter.com/JoshuaDummer/status/1280882119913291776/photo/1
+
+[[baidu]]
+====== Baidu 百度
+
+https://en.wikipedia.org/wiki/Baidu
+
+The "Google of China":
+
+* Search engine: original business and still served at the toplevel domain
+** https://www.baidu.com/
+** Autocomplete suggestion for "Ciro Santilli": "cirosantilli的妻子" (Ciro Santilli's wife and Children)
+** Clearly and obviously censors pages with <<keyword-attack,keywords>>, e.g.:
+*** https://www.baidu.com/s?wd=Ciro%20Santilli%20Stack%20Overflow["Ciro Santilli Stack Overflow"] hits https://stackoverflow.com/users/9160762/ciro-santilli and not https://stackoverflow.com/users/895245/ciro-santilli-郝海东冠状病六四事件法轮功 which has way greater reputation (https://web.archive.org/web/20200807071610/https://www.baidu.com/s?wd=Ciro%20Santilli%20Stack%20Overflow[archive]). For example, a much smaller account with a much more common name hits: https://stackoverflow.com/users/763246/james-hill | https://web.archive.org/web/20200807072446/https://www.baidu.com/s?wd=james%20hill%20stack%20overflow
+*** https://www.baidu.com/s?wd=cirosantilli%20github["cirosantilli github"] does not hit https://github.com/cirosantilli (https://web.archive.org/web/20200807071807/https://www.baidu.com/s?wd=cirosantilli%20github[archive])
+*** but there does appear to be a manual aspect to the block possibly. For example, Ciro's top answer does hit, even though he has keywords in the page: https://www.baidu.com/s?&wd=dependencies%20devDependencies%20peerDependencies to https://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies (https://web.archive.org/web/20200807072151/https://www.baidu.com/s?&wd=dependencies%20devDependencies%20peerDependencies[archive])
+*** Pages censored in China do hit outside of China at least however, e.g.: https://www.baidu.com/s?wd=twitter first hits https://twitter.com (https://web.archive.org/web/20200807071312/https://www.baidu.com/s?wd=twitter[archive])
+* Tieba blogging
+** https://en.wikipedia.org/wiki/Baidu_Tieba
+** https://zh.wikipedia.org/wiki/百度贴吧
+** https://tieba.baidu.com
+* Maps
+** https://en.wikipedia.org/wiki/Baidu_Maps
+** https://zh.wikipedia.org/wiki/百度地图
+** Google Maps is not allowed to film in China for Streetview, so Baidu has its own
+* Analytics
+** https://tongji.baidu.com/web/help/article?id=174
+** 百度统计代码介绍
+** the <<cac>> uses their analytics as of 2020
+* Baike wiki
+** https://baike.baidu.com/
+** The leading Chinese Wikipedia
+** https://en.wikipedia.org/wiki/Baidu_Baike
+** https://zh.wikipedia.org/wiki/百度百科
+** obviously completely censored, e.g.: <<baidu-baike-censorship-of-hao-haidong>>
+** seems to not have edit history. That would be bad for censorship :-)
 
 ===== What should Western media do about China?
 
@@ -6011,6 +6053,8 @@ Ye also nuked:
 
 ====== Baidu Baike censorship of Hao Haidong
 
+This served as good evidence of the obvious fact that <<baidu,Baidu>> Baike is highly censored.
+
 Hao Haidong's page https://baike.baidu.com/item/郝海东/357512[]:
 
 * up 2020-06-06 https://web.archive.org/web/20200606060916/https://baike.baidu.com/item/郝海东/357512
@@ -6191,7 +6235,7 @@ I consider the media in this section biased, and never cite it for fact-checking
 CCTV's international branch in English, China's <<voa>>.
 
 [[peoples-daily]]
-===== People's Daily
+===== People's Daily (人民日报, BIASED MEDIA)
 
 * https://en.wikipedia.org/wiki/People's_Daily
 * https://zh.wikipedia.org/wiki/人民日报
@@ -6204,6 +6248,7 @@ The website has per-language and per province subdomains, e.g.:
 * Province subdomains
 ** http://js.people.cn/ Jiangsu
 * http://fj.people.cn/ Fujian
+* https://twitter.com/PDChina
 
 As of 2020, some deleted articles show the home page instead of the article, without redirection. Some examples can be seen at: <<hao-haidong>>.
 
@@ -7206,6 +7251,14 @@ Typing "国家互联网信息办公室" on Google autocompleted to "国家互联
 And one of the categories of report on that page is: "网络不良与垃圾信息举报受理中心" (center for reporting harmful or garbage information, https://web.archive.org/web/20200704135840/http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm[archive]).
 
 Notably, there is one separate entry for illegal activity as well (网络违法犯罪举报网站) and another one for <<porn,pornography (中国扫黄打非网)>>, so it is interesting to see that there is one specifically for "misinformation".
+
+The harmful information page redirects to: https://www.12321.cn/ which has further categories.
+
+The "report website" (举报不良网站) category links to https://www.12321.cn/web and then has a "https://en.wikipedia.org/wiki/Reactionary[reactonary] and politically sensitive" (ttps://zh.wikipedia.org/wiki/反动[反动]及政治敏感) checkbox.
+
+After you submit, it leads you to: https://www.12321.cn/suc in which you can optionally provide further contact details: https://www.12321.cn/reg[]. This appears to be no link with the previous page, so they might just do it via IP. Registration requires both a cell phone and an email.
+
+From the website source code (very simple, hand written, we see that it uses <<baidu,Baidu Analytics>>. The CCP obviously trusts Baidu a lot :-)
 
 [[wumao]]
 ==== 50 Cent Party 五毛党 (Wumao Dang)
