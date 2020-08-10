@@ -387,7 +387,7 @@ News coverage:
 ** https://www.caixinglobal.com/2020-02-29/in-depth-how-early-signs-of-a-sars-like-virus-were-spotted-spread-and-throttled-101521745.html (paywall) "In Depth: How Early Signs of a SARS-Like Virus Were Spotted, Spread, and Throttled"
 ** https://www.thetimes.co.uk/article/chinese-scientists-destroyed-proof-of-virus-in-december-rz055qjnj "Chinese scientists destroyed proof of virus in December". Paywall skip: https://archive.md/xOKiu Terrible copy paste of some Caixin article with no sources/precise names.
 * https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1 "China spent the crucial first days of the Wuhan coronavirus outbreak arresting people who posted about it online and threatening journalists" (https://web.archive.org/web/20200124113400/https://www.businessinsider.com/china-information-crackdown-on-wuhan-coronavirus-2020-1?r=US&IR=T[archive])
-* https://www.vice.com/en_us/article/g5xykx/you-can-now-go-to-jail-in-china-for-criticizing-beijings-coronavirus-response "You Can Now Go to Jail in China for Criticizing Beijing’s Coronavirus Response"
+* https://www.vice.com/en_us/article/g5xykx/you-can-now-go-to-jail-in-china-for-criticizing-beijings-coronavirus-response "You Can Now Go to Jail in China for Criticizing Beijing's Coronavirus Response"
 * https://www.vice.com/en_us/article/qjdn4d/doctors-in-wuhan-are-still-dying-and-beijing-is-still-trying-to-silence-them Ai Fen's (艾芬) report of how the situation was mishandling was censored
 * 2020-04-13 https://edition.cnn.com/2020/04/12/asia/china-coronavirus-research-restrictions-intl-hnk/index.html "Beijing tightens grip over coronavirus research, amid US-China row on virus origin". The Government can now veto papers from being published on the subject of the origin of COVID-19.
 
@@ -703,11 +703,13 @@ Hitting the block button has, of course, no cost.
 
 The cost of blocking Stack Overflow lies of course in the loss of information, and slower technological development, see also: <<why-keyword-attack>>
 
-Remember that it is not possible for the Chinese government to block only certain pages of HTTPS websites due to encryption: either the entire IP / domain name is blocked, or nothing.
+Remember that it is not possible for the Chinese government to block only certain pages of HTTPS websites due to encryption: either the entire IP/domain name is blocked, or nothing.
 
 The 2019 <<nine-nine-six-icu>> event however brought to my attention that Chinese (usually WebKit-based) browsers are already censoring HTTPS websites selectively of course, see e.g.: https://github.com/996browser/996.BROWSER/tree/77f28a36a862e3cc4d238dc47c19872156096bc4
 
-But I doubt developers use those browsers, right? The only way would be for China to forbid foreign browsers entirely.
+But Ciro doubt developers use those browsers, right? The only way would be for China to forbid foreign browsers entirely.
+
+BTW, <<ensi>> brings a whole new dimension to HTTPS by encrypting the domain name as well!
 
 ===== Is Stack Overflow blocked in China?
 
@@ -1399,7 +1401,7 @@ In 2019 China amusingly censored passages Snowden's "Permanent Record" autobiogr
 As a https://www.reddit.com/r/China/comments/dv5q8o/china_censors_edward_snowdens_new_book_he/f7axckl/[Redditor put it]:
 
 ____
-I don’t think they understand that what Snowden stands for is completely the opposite of what the Chinese gov is lol
+I don't think they understand that what Snowden stands for is completely the opposite of what the Chinese gov is lol
 ____
 
 Snowden then later released the entire Chinese version of the book for free online with the censored parts underlined: https://www.theregister.co.uk/2020/02/10/snowden_china_censorship (https://web.archive.org/web/20200213001653/https://www.theregister.co.uk/2020/02/10/snowden_china_censorship[archive]), link to the book: link:++https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf++[] (https://web.archive.org/web/20200212144108/https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf[archive]). One wonders why he didn't just do that in the first place for all versions, maybe he needed to pay the writer that helped him?
@@ -2249,8 +2251,8 @@ Even <<mao-zedong>> admits it and put it into the constitution: https://en.wikip
 
 Well known <<evil-west,Evil Western media>> that also call China a dictatorship:
 
-* 2020-01-29 https://www.nytimes.com/2020/01/29/opinion/coronavirus-china-government.html "Coronavirus Spreads, and the World Pays for China’s Dictatorship"
-* 2018-03-04 https://www.theguardian.com/world/2018/mar/04/xi-jinping-from-president-to-china-new-dictator "Xi Jinping’s power play: from president to China’s new dictator?"
+* 2020-01-29 https://www.nytimes.com/2020/01/29/opinion/coronavirus-china-government.html "Coronavirus Spreads, and the World Pays for China's Dictatorship"
+* 2018-03-04 https://www.theguardian.com/world/2018/mar/04/xi-jinping-from-president-to-china-new-dictator "Xi Jinping's power play: from president to China's new dictator?"
 * 2017-10-11 https://www.ft.com/content/cb2c8578-adb4-11e7-aab9-abaa44b1e130 "Under Xi Jinping, China is turning back to dictatorship"
 
 Further discussions about this useless terminology question:
@@ -2537,7 +2539,7 @@ video::gGYoeJ5U7cQ[youtube,height=400,width=600]
 +
 .Video still of 2019-10 drone footage of blindfolded Xinjiang prisoners being marched taken at time 00:30. https://www.youtube.com/watch?v=gGYoeJ5U7cQ[Source].
 image::https://ia601505.us.archive.org/27/items/cirosantilli/Video_still_of_2019-10_drone_footage_of_blindfolded_Xinjiang_prisoners_being_marched_taken_at_time_00%3A30.png[height=400]
-* 2019-07-31 https://www.nytimes.com/2019/07/30/world/asia/china-xinjiang.html "Doubt Greets China’s Claim That Muslims Have Been Released From Camps"
+* 2019-07-31 https://www.nytimes.com/2019/07/30/world/asia/china-xinjiang.html "Doubt Greets China's Claim That Muslims Have Been Released From Camps"
 * 2019-07-19 https://www.france24.com/en/20190712-37-countries-defend-china-over-xinjiang-un-letter "37 countries defend China over Xinjiang in UN letter"
 +
 .<<rebel-pepper>> 2019-07 cartoon showing <<xi-jinping>> claiming to have won the global opinion on the Xinjiang re-education camps because all other dictatorships support him, including <<other-islam-countries-speak-up-for-uyghur,Islamic dictatorships>>. https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source].
@@ -2684,14 +2686,25 @@ video::M_aXcH1zDEE[youtube,height=400,width=600]
 
 News:
 
-* 2020-08-30 https://edition.cnn.com/2020/07/29/asia/hong-kong-security-law-election-intl-hnk/index.html "Four Hong Kong student activists arrested for 'secession' over social media posts": the arrests against online freedom of speech begin
+* 2020-08-10 https://www.bloomberg.com/news/articles/2020-08-10/hong-kong-media-tycoon-jimmy-lai-arrested-apple-daily-reports[] "Hong Kong Media Tycoon Arrested in Latest Blow to Democracy Camp"
++
+He is the owner of Apple Daily, the flagship newspaper under Next Digital and the biggest pro-democracy paper in Hong Kong, reported that nearly 200 officers were entering their offices. 
++
+The CCP is not even pretending anymore.
+* 2020-08-30 https://edition.cnn.com/2020/07/29/asia/hong-kong-security-law-election-intl-hnk/index.html "Four Hong Kong student activists arrested for 'secession' over social media posts": the arrests against online freedom of speech begin https://www.bbc.co.uk/news/world-asia-china-53616583 gives the names, all are abroad it seems:
++
+____
+Police in Hong Kong are seeking the arrest of six pro-democracy activists living in exile in Western countries, including the UK, media reports say.
+
+The group reportedly includes former UK consulate worker Simon Cheng, well-known activist Nathan Law and US citizen Samuel Chu.
+____
 * 2020-07-08 https://www.reuters.com/article/us-hongkong-protests-china-security/china-converts-hong-kong-hotel-into-new-national-security-office-idUSKBN24903Z "China converts Hong Kong hotel into new national security office"
 +
 The name of the hotel is Metropark Hotel (維景酒店), address: 148 Tung Lo Wan Rd, Causeway Bay, Hong Kong: https://goo.gl/maps/1uR4RntpLMFaCYpq6
 * 2020-06-29 https://www.commerce.gov/news/press-releases/2020/06/statement-us-secretary-commerce-wilbur-ross-revocation-hong-kong ""
 +
 ____
-With the Chinese Communist Party’s imposition of new security measures on Hong Kong, the risk that sensitive U.S. technology will be diverted to the People’s Liberation Army or Ministry of State Security has increased, all while undermining the territory’s autonomy. Those are risks the U.S. refuses to accept and have resulted in the revocation of Hong Kong’s special status.
+With the Chinese Communist Party's imposition of new security measures on Hong Kong, the risk that sensitive U.S. technology will be diverted to the People's Liberation Army or Ministry of State Security has increased, all while undermining the territory's autonomy. Those are risks the U.S. refuses to accept and have resulted in the revocation of Hong Kong's special status.
 ____
 * 2020-06-03 https://www.theguardian.com/world/2020/jun/03/britain-could-change-immigration-rules-for-hong-kong-citizens "Boris Johnson lays out visa offer to nearly 3m Hong Kong citizens"
 * 2020-05-29 https://www.bbc.co.uk/news/uk-52842303 "UK could offer 'path to citizenship' for Hong Kong's British passport holders"
@@ -2761,19 +2774,21 @@ An appropriation attack is one where the attackers attempt to associate an exist
 
 For example during the <<2019-hong-kong-anti-extradition-bill-protests>> attackers attempted to use this technique to associate a generic https://en.wikipedia.org/wiki/Chun-Li[Chinese Chun-Li-like] character Mei from Blizzard's link:++https://en.wikipedia.org/wiki/Overwatch_(video_game)++[Overwatch game] to try and get it blocked in China after the gaming company punished a pro gamer for defending the Hong Kong protests. Coverage https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10 (https://web.archive.org/web/20191012094950/https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10[archive]).
 
-.Mei from Blizzard’s Overwatch was used in an attempted <<appropriation-attack>> during the <<2019-hong-kong-anti-extradition-bill-protests>>. https://twitter.com/marnofavonlea/status/1182557311539150849[Source].
+.Mei from Blizzard's Overwatch was used in an attempted <<appropriation-attack>> during the <<2019-hong-kong-anti-extradition-bill-protests>>. https://twitter.com/marnofavonlea/status/1182557311539150849[Source].
 image::https://web.archive.org/web/20191013075823if_/https://pbs.twimg.com/media/EGlJmSEUYAE7F7G?format=jpg&name=900x900[height=600]
 
 ===== Sport event live broadcast image attacks
 
 NBA in particular is super popular in China, and people sitting at the front row can easily bomb emissions due to the small court size:
 
-* China’s Tencent halts NBA live broadcast over <<taiwan,Taiwanese>> flag
+* China's Tencent halts NBA live broadcast over <<taiwan,Taiwanese>> flag
 * https://www.taiwannews.com.tw/en/news/3813842
 
 Started in particular due to the <<daryl-morey-tweet>>
 
 ==== What should Western countries do about China?
+
+Force all their Western servers to accept <<ensi>> connections only: <<ensi>>.
 
 Western governments must reciprocate unfair Chinese practices: https://politics.stackexchange.com/questions/18508/why-dont-western-countries-penalize-chinese-companies-in-the-same-way-that-chin
 
@@ -2814,7 +2829,7 @@ Related approaches taken by the CCP that should also be stopped dead by strict e
 
 News about Chinese state media using Western social media:
 
-* 2016 https://qz.com/671211/chinas-propaganda-outlets-have-leaped-the-top-of-facebook-even-though-it-banned-at-home/ "China’s propaganda news outlets are absolutely crushing it on Facebook"
+* 2016 https://qz.com/671211/chinas-propaganda-outlets-have-leaped-the-top-of-facebook-even-though-it-banned-at-home/ "China's propaganda news outlets are absolutely crushing it on Facebook"
 
 Accounts that are not labelled as being from the Chinese government, but which support the CCP, must be investigated to determine if they are actually funded by the Chinese government.
 
@@ -2844,7 +2859,9 @@ Unfair Chinese commercial practices must be reciprocated. Chinese companies shou
 * https://www.msn.com/zh-hk/news/other/us-entrepreneurs-make-a-choice-rewards-of-doing-business-in-china-often-outweigh-risks-of-losing-trade-secrets/ar-BBSPC69 (https://web.archive.org/web/20190905071456/https://www.msn.com/zh-hk/news/other/us-entrepreneurs-make-a-choice-rewards-of-doing-business-in-china-often-outweigh-risks-of-losing-trade-secrets/ar-BBSPC69:[archive])
 * https://www.chinalawblog.com/2019/02/china-joint-ventures-the-long-version.html (https://web.archive.org/web/20190905071738/https://www.chinalawblog.com/2019/02/china-joint-ventures-the-long-version.html:[archive])
 
-University espionage
+Sanctions must be imposed directly on Chinese officials. They must not be allowed to "escape to a better life or have investments in the West":
+
+* 2020-08-08 https://www.bbc.co.uk/news/world-us-canada-53699084 "Hong Kong: US imposes sanctions on chief executive Carrie Lam"
 
 .<<rebel-pepper>> 2016-09-07 cartoon entitled "宽衣<<xi-jinping-memes,撒币>>" depicting <<xi-jinping>> as a https://en.wikipedia.org/wiki/Pole_dance[pole dancer] and throwing money at other world leaders during the https://en.wikipedia.org/wiki/2016_G20_Hangzhou_summit[2016 G20 Hangzhou summit] is a reference to how China buys political influence in other countries by promising profitable trade deals with those countries. https://www.rfa.org/mandarin/biantailajiaomanhua/biantailajiaomanhua-09072016131637.html[Source].
 image::https://web.archive.org/web/20200618091710im_/https://www.rfa.org/mandarin/biantailajiaomanhua/biantailajiaomanhua-09072016131637.html/Untitled.jpg/image[height=400]
@@ -2940,7 +2957,7 @@ Some news:
 * 2018-12 https://en.wikipedia.org/wiki/Meng_Wanzhou[Meng Wanzhou] (孟晚舟), daughter of Huawei founder Ren Zhengfei (任正非) and Huawei CFO as of 2018, was arrested in Canada because the US accused her of breaking Iran sanctions
 ** https://www.theglobeandmail.com/politics/article-michael-kovrig-michael-spavor-canadian-detainees-china-explainer/ "Why are Michael Kovrig and Michael Spavor still detained in China?" in apparent retaliation, under accusation of espionage.
 ** 2020-05-27 https://techcrunch.com/2020/05/27/canada-court-finds-against-huawei-cfo-meng-wanzhou-on-double-criminality-extradition-trial-to-continue/ "link:https://techcrunch.com/2020/05/27/canada-court-finds-against-huawei-cfo-meng-wanzhou-on-double-criminality-extradition-trial-to-continue/[]"
-* 2019-11 https://www.forbes.com/sites/zakdoffman/2019/11/29/has-huaweis-darkest-secret-just-been-exposed-by-this-new-report/#7896db9d4061 "Has Huawei’s Darkest Secret Just Been Exposed By This New Surveillance Report?" Xinjiang Papers reveal the extent of Huawei's involvement in <<xinjiang>>
+* 2019-11 https://www.forbes.com/sites/zakdoffman/2019/11/29/has-huaweis-darkest-secret-just-been-exposed-by-this-new-report/#7896db9d4061 "Has Huawei's Darkest Secret Just Been Exposed By This New Surveillance Report?" Xinjiang Papers reveal the extent of Huawei's involvement in <<xinjiang>>
 
 ."When you send a good joke from your Huawei phone", <<xi-jinping>> is also listening and laughing with you, girls. https://i.redd.it/nodgcqmwtcg31.jpg[Source].
 image::https://web.archive.org/web/20190814074955/https://i.redd.it/nodgcqmwtcg31.jpg[height=600]
@@ -3044,7 +3061,7 @@ Some hell known companies and events:
 * https://en.wikipedia.org/wiki/HSBC[HSBC]
 ** 2020-06 https://en.wikipedia.org/wiki/HSBC#Support_for_China's_Security_Law_for_Hong_Kong_(2020)[Support for China's Security Law for Hong Kong (2020)]
 * https://en.wikipedia.org/wiki/Bloomberg_L.P.[Bloomberg L.P.]
-** 2020-02 https://theintercept.com/2020/02/18/mike-bloomberg-lp-nda-china/ "When Bloomberg News’s Reporting on China Was Challenged, Bloomberg Tried to Ruin Me for Speaking Out"
+** 2020-02 https://theintercept.com/2020/02/18/mike-bloomberg-lp-nda-china/ "When Bloomberg News's Reporting on China Was Challenged, Bloomberg Tried to Ruin Me for Speaking Out"
 * 2019-12 Shutterstock implements censorship for searches from China https://techcrunch.com/2019/12/08/in-wake-of-shutterstocks-chinese-censorship-american-companies-need-to-relearn-american-values/
 * LinkedIn
 ** 2019-01-04 https://www.scmp.com/news/china/article/2180620/linkedin-adhering-beijings-rules-censors-chinese-profile-page-us-based "LinkedIn reverses course after censoring Chinese profile page of US-based human rights activist Zhou Fengsuo", see also: <<zhou-fengsuo>>
@@ -3192,7 +3209,7 @@ ____
 Finally, don't forget the golden rule from https://biblehub.com/proverbs/26-4.htm[Proverbs 26:4]:
 
 ____
-Don’t answer the foolish arguments of fools, or you will become as foolish as they are.
+Don't answer the foolish arguments of fools, or you will become as foolish as they are.
 ____
 
 which is now usually seen in the form https://english.stackexchange.com/questions/66460/origin-of-do-not-argue-with-idiots[of unclear attribution]:
@@ -3270,7 +3287,7 @@ The fake "the woman makes the man" Obama story comes to mind https://www.snopes.
 
 ____
 
-One night President Obama and his wife Michelle decided to do something out of routine and go for a casual dinner at a restaurant that wasn't too luxurious. When they were seated, the owner of the restaurant asked the President’s Secret Service if he could please speak to the First Lady in private. They obliged and Michelle had a conversation with the owner.
+One night President Obama and his wife Michelle decided to do something out of routine and go for a casual dinner at a restaurant that wasn't too luxurious. When they were seated, the owner of the restaurant asked the President's Secret Service if he could please speak to the First Lady in private. They obliged and Michelle had a conversation with the owner.
 
 Following this conversation President Obama asked Michelle, "Why was he so interested in talking to you?" She mentioned that in her teenage years, he had been madly in love with her. President Obama then said, "So if you had married him, you would now be the owner of this lovely restaurant," to which Michelle responded, "No. If I had married him, he would now be the President."
 ____
@@ -3423,7 +3440,7 @@ Content outside of GitHub: <<lists-of-material-censored-in-china>>.
 ** https://github.com/taibangle/awesome-china
 ** https://github.com/taibangle/lennon-wall
 * https://github.com/sikaozhe1997/Xin-Yue
-** Open letter by student activist https://en.wikipedia.org/wiki/Yue_Xin_(activist)[Yue Xin] (https://zh.wikipedia.org/wiki/岳昕[岳昕]) about the events described at https://web.archive.org/web/20200104064812/https://www.nytimes.com/2018/04/09/world/asia/china-metoo-gao-yan.html["China’s #MeToo: How a 20-Year-Old Rape Case Became a Rallying Cry"]
+** Open letter by student activist https://en.wikipedia.org/wiki/Yue_Xin_(activist)[Yue Xin] (https://zh.wikipedia.org/wiki/岳昕[岳昕]) about the events described at https://web.archive.org/web/20200104064812/https://www.nytimes.com/2018/04/09/world/asia/china-metoo-gao-yan.html["China's #MeToo: How a 20-Year-Old Rape Case Became a Rallying Cry"]
 ** https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md in-tree translation
 ** 2018-04 https://chinadigitaltimes.net/2018/04/translation-open-letter-on-peking-university-metoo-case/ "TRANSLATION: OPEN LETTER ON PKU #METOO CASE"
 
@@ -3668,7 +3685,7 @@ All Zhihu posts related to Ciro Santilli were deleted following <<zhihu-purge>>.
 * 2019-03: https://www.zhihu.com/question/316700162 (https://archive.is/ewxqb[archive before deletion], (https://web.archive.org/web/20191103065512/https://web.archive.org/screenshot/https://www.zhihu.com/question/316700162[archive after deletion])) "如何看待Github Trending上Ciro Santilli的众多开源项目？". Due to: https://github.com/cirosantilli/x86-bare-metal-examples being featured on Hacker News: https://news.ycombinator.com/item?id=19428700
 * 2018-11: https://www.zhihu.com/question/302738350 (https://archive.is/lkQxS[archive before deletion], (https://web.archive.org/web/20191103065759/https://www.zhihu.com/question/302738350[archive after deletion])) "如何评价Ciro Santilli对Stack Overflow和GitHub的扰乱？"
 * 2017-03-07: https://zhuanlan.zhihu.com/p/25600138 (https://archive.is/DkooN[archive before deletion], (https://web.archive.org/web/20191103065808/https://zhuanlan.zhihu.com/p/25600138[archive after deletion])) "StackOverflow 上的一个智障用户"
-** 2017-03 https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow (https://web.archive.org/save/https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow/[archive]) by https://github.com/brglng/ (https://web.archive.org/web/20180802090918/https://github.com/brglng/[archive]) "StackOverflow 上的一个智障用户"
+** 2017-03 https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow (https://web.archive.org/save/https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow/[archive]) by https://github.com/brglng/ (https://web.archive.org/web/20180802090918/https://github.com/brglng/[archive]) "StackOverflow 上的一个智障用户" contains a copy of the post by the same author. It just makes Ciro smile whenever he thinks that their post criticizing Ciro was deleted by the CCP, and they still might support the CCP, <<meant-to-be-used,Stockholm syndrome comes to mind>>.
 * 2015-08-18: https://www.zhihu.com/question/34775392 (https://web.archive.org/web/20160219094646/https://www.zhihu.com/question/34775392[archive before deletion], (https://web.archive.org/web/20191103065816/https://www.zhihu.com/question/34775392[archive after deletion])) "你们怎么看stackoverflow上某人故意屏蔽中国访问的事件？"
 
 A random control question that shows that archive.org 404's are actually deleted questions: https://www.zhihu.com/question/316700165 (https://web.archive.org/web/20191103065449/https://www.zhihu.com/question/316700165[archive]).
@@ -4096,7 +4113,7 @@ ____
 * aliens that look like humans are amongst us, they gave us part of our modern technology, some are evil, others not so evil. E.g. https://falundafa.org/eng/eng/lectures/19980530L.html[]:
 +
 ____
-Science, however, is not something gods imparted to humans. Instead, it was passed down to humans by alien beings inside the Three Realms, and for the purpose of controlling humankind. People’s belief in it has surpassed everything. But I tell you that precisely because of its shallowness, this science has caused the degeneration of morality in human society.
+Science, however, is not something gods imparted to humans. Instead, it was passed down to humans by alien beings inside the Three Realms, and for the purpose of controlling humankind. People's belief in it has surpassed everything. But I tell you that precisely because of its shallowness, this science has caused the degeneration of morality in human society.
 ____
 +
 Despite this however, Falun Gong benefits from information technology enormously. For example, many believers use the Internet daily to study the Fa, and to organize their <<falun-gong-media,media outlets>>.
@@ -4779,7 +4796,7 @@ Don't you think, then, that it is extremely likely that it has happened many tim
 
 Bibliography:
 
-* https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-019-0406-6 (https://web.archive.org/web/20191118135832/https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-019-0406-6[archive]) "Analysis of official deceased organ donation data casts doubt on the credibility of China’s organ transplant reform" by Matthew P. Robertson, Raymond L. Hinde and Jacob Lavee published at "BMC Medical Ethics" which is part of Springer Nature in 14 November 2019
+* https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-019-0406-6 (https://web.archive.org/web/20191118135832/https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-019-0406-6[archive]) "Analysis of official deceased organ donation data casts doubt on the credibility of China's organ transplant reform" by Matthew P. Robertson, Raymond L. Hinde and Jacob Lavee published at "BMC Medical Ethics" which is part of Springer Nature in 14 November 2019
 * The Slaughter: Mass Killings, Organ Harvesting, and China's Secret Solution to Its Dissident Problem, by Ethan Gutmann, 2014
 ** <https://www.amazon.com/Slaughter-Killings-Harvesting-Solution-Dissident/dp/161614940X>
 ** <https://en.wikipedia.org/wiki/Ethan_Gutmann#The_Slaughter:_Mass_Killings,_Organ_Harvesting,_and_China's_Secret_Solution_to_Its_Dissident_Problem>
@@ -4914,7 +4931,7 @@ Ciro does however believe that newer generations believe in this much less, nota
 ____
 I think it was Lynn's* death that finally made me realise it was time to leave. I'd seen the writing on the wall about a year prior when I saw her at a yearly "Fa conference" for believers of Falun Gong, otherwise known as Falun Dafa, to exchange experiences and grow spiritually together. An executive assistant at a Queensland valuation firm, I'd gotten to know her over the years in various events as a warm and level-headed lady who had time for everyone. But I'd noticed she had developed a bulge on the side of her head and I was trying not to look at it when I talked to her. I saw, or at least I believed I saw, some pain in her smile. She was probably questioning herself over and over again what "attachments" she hadn't let go of that were causing this sickness to spread through her body and endanger her life. I wanted to tell her to just go to a hospital, although I wasn't at this stage resolute enough in my gradual return to logic. Another part of me feared that by looking at it I was acknowledging it — something you don't do with illnesses in Falun Gong because Master Li Hongzhi teaches that his pupils don't get illnesses. He can cure you but only if you don't have any loopholes in your belief in him and his teachings. Some people with solid beliefs can actually die due to others around them having flaws in their thinking, Li says. Just thinking the wrong way is perilous when you're a Falun Gong practitioner.
 
-I later heard through the grapevine of Lynn’s death. The cancer went into her brain and she passed away in extreme pain, probably believing to the end that it was her fault she was in this awful predicament. In a way, I guess it was.
+I later heard through the grapevine of Lynn's death. The cancer went into her brain and she passed away in extreme pain, probably believing to the end that it was her fault she was in this awful predicament. In a way, I guess it was.
 ____
 
 and more interesting anecdotes follow, see source.
@@ -5089,7 +5106,7 @@ Started in the 2000's in New York State with money donated by believers.
 
 * http://www.dragonsprings.org/
 * https://www.businessinsider.com/dragon-springs-falun-gong-upstate-new-york-compound-photos-2019-9
-* 1999 https://apnews.com/420a741ec19c4db3993d408747874b2d "Falun Gong US compound’s neighbors fret over expansion plans"
+* 1999 https://apnews.com/420a741ec19c4db3993d408747874b2d "Falun Gong US compound's neighbors fret over expansion plans"
 
 [[flg-telemarketing]]
 ===== Some Falun Gong people make phone telemarketing
@@ -5242,7 +5259,7 @@ image::https://web.archive.org/web/20191013080140if_/https://www.rfa.org/english
 .1977 photo showing Mao's actual glass tomb during his funeral, with famous politicians in the background. It is interesting to see that Mao https://mummipedia.fandom.com/wiki/Mao_Zedong[features on the "Fandom Mummipedia Wiki"]. https://apnews.com/a94a0d7a824b474fb11545e8c4481c21[Source].
 image::https://web.archive.org/web/20200121105502if_/https://storage.googleapis.com/afs-prod/media/media:c65bb5f4e2664bb88aae7881f8adbba0/800.jpeg[height=400]
 
-.https://en.wikipedia.org/wiki/The_Economist[The Economist] "Let’s party like it’s 1793" cover from May 4th – 10th 2013 depicting a painting of Xi Jinping dressed as emperor of China. The famous https://en.wikipedia.org/wiki/Qianlong_Empero[Qianlong Emperor] was in power at that time. The title is likely a joke based on the more well known https://www.independent.co.uk/arts-entertainment/music/features/party-like-its-1969-woodstock-forty-years-on-1722695.html["Let's party like it's 1969"] due to the legendary https://en.wikipedia.org/wiki/Woodstock[Woodstock festival]. Party is also a play on words between the Communist Party and a night party. TODO why 1793 specifically. https://twitter.com/TheEconomist/status/329929668155293696[Source].
+.https://en.wikipedia.org/wiki/The_Economist[The Economist] "Let's party like it's 1793" cover from May 4th – 10th 2013 depicting a painting of Xi Jinping dressed as emperor of China. The famous https://en.wikipedia.org/wiki/Qianlong_Empero[Qianlong Emperor] was in power at that time. The title is likely a joke based on the more well known https://www.independent.co.uk/arts-entertainment/music/features/party-like-its-1969-woodstock-forty-years-on-1722695.html["Let's party like it's 1969"] due to the legendary https://en.wikipedia.org/wiki/Woodstock[Woodstock festival]. Party is also a play on words between the Communist Party and a night party. TODO why 1793 specifically. https://twitter.com/TheEconomist/status/329929668155293696[Source].
 image::https://web.archive.org/web/20200225220314/https://pbs.twimg.com/media/BJQlSP_CQAA52BG?format=jpg[height=600]
 
 [[panama-papers]]
@@ -5532,7 +5549,7 @@ image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercon
 * 2016-09: https://qz.com/783026/china-censorship-chinese-citizens-are-being-arrested-for-sharing-news-about-the-wukan-village-rebellion-online/ https://qz.com/781989/foreign-journalists-are-wanted-for-3000-by-chinese-authorities-for-inciting-unrest-in-a-village/ https://en.wikipedia.org/wiki/Wukan_protests
 * 2016-06 https://www.theguardian.com/music/2016/jun/28/china-lady-gaga-ban-list-hostile-foreign-forces-meeting-dalai-lama
 * 2016-06 https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md first GitHub takedown, see also: <<programthink>>
-* 2016 https://www.nytimes.com/2016/05/12/world/asia/china-britain-queen-xi-jinping.html?_r=0 "Queen Elizabeth II Says Chinese Officials Were ‘Very Rude’ on State Visit"
+* 2016 https://www.nytimes.com/2016/05/12/world/asia/china-britain-queen-xi-jinping.html?_r=0 "Queen Elizabeth II Says Chinese Officials Were 'Very Rude' on State Visit"
 * 2016 https://shanghaiist.com/2016/05/06/dont_eat_that_banana.php Sexy banana eating forbidden
 * 2016-04 https://blogs.reuters.com/great-debate/2016/01/26/china-threatens-sanctions-against-u-s-companies-is-this-the-future/ China economic sanctions companies that sell weapons to <<taiwan,Taiwan>> (some of those companies also sell civilian products to China)
 * 2016-04 https://www.hollywoodreporter.com/news/china-demands-shutdown-disneylife-service-887599 Disney Life blocked
@@ -5929,7 +5946,7 @@ Social media:
 
 Profiles:
 
-* 2019-07-24 https://www.scmp.com/news/china/article/3019840/chinese-fugitive-tycoon-and-member-trumps-mar-lago-also-spy "Is Guo Wengui, Chinese fugitive tycoon and member of Trump’s Mar-a-Lago, also a spy?"
+* 2019-07-24 https://www.scmp.com/news/china/article/3019840/chinese-fugitive-tycoon-and-member-trumps-mar-lago-also-spy "Is Guo Wengui, Chinese fugitive tycoon and member of Trump's Mar-a-Lago, also a spy?"
 
 [[hao-haidong]]
 ===== Hao Haidong 郝海东 (2020)
@@ -6199,6 +6216,7 @@ The following offer interesting commentary, but not to be used as primary source
 
 * https://china-journal.org
 * https://www.chinafile.com Some good articles. "ChinaFile is an online magazine published by the Center on U.S.-China Relations at Asia Society", based in New York.
+* https://www.iyouport.org/
 
 [[biased-media]]
 === Biased media 偏见媒体
@@ -6401,7 +6419,7 @@ Falun Gong's newspaper with news for "general public consumption" an no clear af
 In <<flg-canon,canon>>: https://gb.falundafa.org/chigb/jiangfa10_3.htm or https://falundafa.org/eng/eng/lectures/20091017L.html "Fa Teaching Given at the Epoch Times Meeting" from 2009-10-17:
 
 ____
-There are so many things you have to do. You have to do your ordinary job and do it well, you have to manage your family’s affairs, and as Dafa disciples you need to make time for Fa-study and exercises; you also need to clarify the truth, as well as participate in Dafa projects, such as The Epoch Times.
+There are so many things you have to do. You have to do your ordinary job and do it well, you have to manage your family's affairs, and as Dafa disciples you need to make time for Fa-study and exercises; you also need to clarify the truth, as well as participate in Dafa projects, such as The Epoch Times.
 ____
 
 
@@ -6416,7 +6434,7 @@ Falun Gong's newspaper with news for "general public consumption" an no clear af
 Li speaking to New Tang conference in <<flg-canon,canon>>: https://big5.falundafa.org/chibig5/jiangfa9_3.htm 在新唐人電視討論會上的講法 or https://falundafa.org/eng/eng/jjyz3_73.htm "Fa Teaching Given at the NTDTV Meeting" from 2009-06-06:
 
 ____
-Things are changing rapidly as the Fa-rectification forges ahead and as Dafa disciples’ righteous thoughts grow stronger. The energy emitted by NTDTV is very strong
+Things are changing rapidly as the Fa-rectification forges ahead and as Dafa disciples' righteous thoughts grow stronger. The energy emitted by NTDTV is very strong
 ____
 
 Related shows:
@@ -6466,7 +6484,7 @@ Related:
 
 * https://www.quora.com/How-is-the-YouTube-show-China-Uncensored-funded/answer/Ciro-Santilli
 * https://www.quora.com/Is-the-YouTube-channel-China-Uncensored-a-trustworthy-source-of-information-on-China
-* https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html (https://web.archive.org/web/20190119083517/https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html[archive]) <<epoch-times>> highlights the channel "Why YouTube’s Most Popular Channel on China Politics Doesn’t Show in Search Suggestions"
+* https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html (https://web.archive.org/web/20190119083517/https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html[archive]) <<epoch-times>> highlights the channel "Why YouTube's Most Popular Channel on China Politics Doesn't Show in Search Suggestions"
 
 [[minghui]]
 ===== Minghui 明慧网
@@ -6897,7 +6915,7 @@ ____
 image::https://web.archive.org/web/20170630212420im_/http://www.rfa.org/english/news/china/activist-11022016120902.html/china-xitler-nov22016.jpg/image[height=400]
 
 [[liu-shihui-one-party-rule]]
-.In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a t-shirt saying "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/【历史的先声】一党独裁，遍地是灾/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang’s one-party dictatorship, but the CP will not establish a one-party dictatorship". This interesting <<zhihu>> page has many other similar quotes BTW: https://zhuanlan.zhihu.com/p/59503784[] (https://web.archive.org/web/20200331202252/https://zhuanlan.zhihu.com/p/59503784[archive]). He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. Quotes from the <<hundred-flowers-campaign>> also come to mind. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
+.In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a t-shirt saying "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/【历史的先声】一党独裁，遍地是灾/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang's one-party dictatorship, but the CP will not establish a one-party dictatorship". This interesting <<zhihu>> page has many other similar quotes BTW: https://zhuanlan.zhihu.com/p/59503784[] (https://web.archive.org/web/20200331202252/https://zhuanlan.zhihu.com/p/59503784[archive]). He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. Quotes from the <<hundred-flowers-campaign>> also come to mind. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
 image::https://web.archive.org/web/20200309101601im_/http://scd.observers.france24.com/files/images/090521%20china%20I.preview.jpg[height=500]
 
 [[gfw]]
@@ -7043,6 +7061,8 @@ Projects that attempt to understand how the Great Firewall works and what it blo
 ** https://gking.harvard.edu/publications/randomized-experimental-study-censorship-china
 * https://github.com/phoeagon/gfw-sim GFW emulation
 * https://github.com/citizenlab/chat-censorship data on Censorship
+* https://gfw.report/
+* https://geneva.cs.umd.edu/ from the Geneva Project of the University of Maryland. Source: https://github.com/kkevsterrr/geneva
 
 It is also worth noting that as mentioned at <<is-stack-overflow-blocked-in-china>> that websites can become non-functional if CDNs they rely on are taken down, instead of the website being taken down itself.
 
@@ -7226,7 +7246,7 @@ Some news coverage:
 ** https://foreignpolicy.com/2020/03/06/internet-sex-coronavirus-no-porn-for-chinese-stuck-under-virus-lockdown/ FP report
 ** (<<chinese-government-media,biased>>) http://www.xinhuanet.com/english/2019-12/25/c_138657340.htm "China intensifies crackdown on pornography, illegal publications"
 * 2018-01-15 https://www.bbc.co.uk/news/world-asia-china-42640569 "Sora Aoi: Japan's porn star who taught a Chinese generation about sex. When Japanese actress and former porn star Sora Aoi announced her marriage online, it set off a frenzy on Chinese social media."
-* 2017-06-17 https://qz.com/1001366/how-the-chinese-watch-porn-on-chinas-censored-internet/ "Watching porn on China’s censored internet is an infinitely evolving cat-and-mouse game"
+* 2017-06-17 https://qz.com/1001366/how-the-chinese-watch-porn-on-chinas-censored-internet/ "Watching porn on China's censored internet is an infinitely evolving cat-and-mouse game"
 
 [[intercourse]]
 .Human https://en.wikipedia.org/wiki/Human_penis[penis] (https://zh.wikipedia.org/wiki/人類陰莖[陰莖]) penetrating a human <<vagina,vagina>> while wearing a condom during https://en.wikipedia.org/wiki/Sexual_intercourse[human sexual intercourse] (https://zh.wikipedia.org/wiki/性交[性交]), showing the https://en.wikipedia.org/wiki/The_birds_and_the_bees[naturally occuring bees] that automatically appear during the event to obscure the view and prevent <<github>> from taking down this page. This is also basically what all porn looks like (sometimes without the bees), and it is very, very boring to watch. https://commons.wikimedia.org/wiki/File:Coitus20092.JPG[Background source] and https://commons.wikimedia.org/wiki/File:Delivery_Bee.png[bee source].
@@ -7235,6 +7255,33 @@ image::{cirosantilli-media-base}/Coitus_with_bees.jpg[height=400]
 [[jin-ping-mei]]
 .Ming-era dynasty illustration of a scene from the novel https://en.wikipedia.org/wiki/Jin_Ping_Mei[Jin Ping Mei] (https://zh.wikipedia.org/wiki/金瓶梅[金瓶梅]) where Qing Ximen (西門) and Golden Lotus (潘金蓮) are engaging in foreplay in a <<yuyuan-garden,beautiful ancient Chinese house>>. For an old depiction of homosexual male sexual activity, see: <<qing-gay-scroll,this image>>. https://en.wikipedia.org/wiki/File:金瓶梅格子门插图2.JPG[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/3/36/金瓶梅格子门插图2.JPG[height=600]
+
+[[tattoo]]
+===== Tattoo television ban 刺青电视禁令 (2018)
+
+https://www.forbes.com/sites/augustrick/2018/03/27/china-just-banned-tattoos-on-its-soccer-players-and-it-could-cost-them/#1ff82fa07db2 notably shows soccer players covering up their tattoos. <<hao-haidong>> must have loved this!
+
+And more generally, anything "cringey" was also banned from television in 2018-2019 https://www.nytimes.com/2019/03/27/business/china-war-on-fun-earrings-tattoos.html[]:
+
+____
+Men's earrings aren't the only objectionable material that China's censors are blurring, covering up or cutting out. Soccer players wear long sleeves to cover their tattoos. Women in costumes at a racy video game convention have been told to raise their necklines. Rappers can rhyme only about peace and harmony.
+____
+
+No wonder that China basically unable to produce a lot of worthwhile art with such restrictions.
+
+[[ensi]]
+===== TLS 1.3 ENSI
+
+* https://blog.cloudflare.com/encrypted-sni
+* https://en.wikipedia.org/wiki/Server_Name_Indication#Encrypted_Client_Hello
+
+This amazing standardized feature encrypts the domain as well as the URL.
+
+This means that censors are unable to block only certain websites!!!
+
+In 2020-08, it was reported that the firewall was already blocking it: https://www.zdnet.com/article/china-is-now-blocking-all-encrypted-https-traffic-using-tls-1-3-and-esni/
+
+Therefore, <<what-should-western-countries-do-about-china,all the West has to do>> is to force all of its websites to serve ENSI-only!
 
 [[cac]]
 ===== Cyberspace Administration of China (CAC, 国家互联网信息办公室)
@@ -7408,6 +7455,8 @@ Reception:
 * https://www.zhihu.com/question/310502367 "如何评价 B 站 UP 主「NathanRich火锅大王」？" on <<zhihu>>. TODO what is "B站UP"?
 * 2020-07-05 BIASED MEDIA <<cgtn>> approves: https://www.youtube.com/watch?v=YRK1XDlZkng "Nathan Rich: 'Hotpot King' delivering truth about HK to the world"
 
+2020-06-01  https://www.taiwannews.com.tw/en/news/3941420 "China propagandist Nathan Rich's criminal record revealed" contains an outline of Richs criminal records, with including mugshots. Most of this was already likely known, but it gives good detail. In particular, it comments on the fact that in 2013 Beijing started to more strictly do criminal background checks for VISA applicants: https://www.china-briefing.com/news/non-criminal-record-certificate-required-for-employment-license-application-in-beijing/[], and that Rich managed to get the VISA two years later nonetheless, notably including a drug trafficking charge.
+
 [[real-username-law]]
 ==== Real username law (2015)
 
@@ -7425,8 +7474,8 @@ And guess which idiotic Western website requires real usernames and no privacy? 
 
 Coverage:
 
-* 2019-06-04 https://www.youtube.com/watch?v=0cGB8dCDf3c "A Look Inside China’s Social Credit System | NBC News Now" by "NBC News"
-* 2018-12-12 https://www.youtube.com/watch?v=Dkw15LkZ_Kw "China’s "Social Credit System" Has Caused More Than Just Public Shaming (HBO)" by "VICE News". https://youtu.be/Dkw15LkZ_Kw?t=238[328s] shows how you can donate money to the party to increase your score. This is not a hidden practice, they were filmed and everyone is showing their faces. What a brilliant idea that could never ever lead to corruption! Ciro's jaw just dropped. How can the commies not hide this kind of shit from the West, but hide other stuff the West couldn't care less about?
+* 2019-06-04 https://www.youtube.com/watch?v=0cGB8dCDf3c "A Look Inside China's Social Credit System | NBC News Now" by "NBC News"
+* 2018-12-12 https://www.youtube.com/watch?v=Dkw15LkZ_Kw "China's "Social Credit System" Has Caused More Than Just Public Shaming (HBO)" by "VICE News". https://youtu.be/Dkw15LkZ_Kw?t=238[328s] shows how you can donate money to the party to increase your score. This is not a hidden practice, they were filmed and everyone is showing their faces. What a brilliant idea that could never ever lead to corruption! Ciro's jaw just dropped. How can the commies not hide this kind of shit from the West, but hide other stuff the West couldn't care less about?
 +
 video::Dkw15LkZ_Kw[youtube,height=400,width=600]
 
@@ -7487,7 +7536,8 @@ But in reality they punish anyone who poses a political threat, even if they did
 
 * <<xinjiang>>: millions were jailed/forced to live with a spy in their homes, even though they were not terrorists themselves
 * <<falun-gong>>: what did they do wrong to other people that deserves putting them in jail? Is <<flg-medication>> enough to justify that? Are you sure that it is not a political motivation?
-* 2020-06 Hao Runze, son of Hao Haidong, lost his job because his father spoke up against the CCP: <<hao-haidong>>. Did the CCP speak up for him, like the speak up whenever a Chinese citizen gets hurt?
+* <<the-709-crackdown>>: even lawyers who support anyone who went against the state are imprisoned. How can there be any justice when lawyers are put in jail due to their choice of clients?
+* 2020-06 Hao Runze, son of <<hao-haidong>>, lost his job because his father spoke up against the CCP. Did the CCP speak up for him, like the speak up whenever a Chinese citizen gets hurt?
 
 [[picking-quarrels]]
 ==== Picking quarrels and provoking trouble 寻衅滋事罪
@@ -7520,7 +7570,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 * 2019-09: https://admin.github.com Someone from GitHub has been thinking about us. s2 to you.
 * "link:https://www.linkedin.com/pulse/thoughts-github-going-china-kevin-xu/[]" https://twitter.com/sang_what/status/1172692888766959619 (https://archive.is/taPpH[archive]) https://t.co/qag5ekL12F
 * 2019-06: https://gking.harvard.edu/ interesting. OK, likely due to: https://gking.harvard.edu/category/research-interests/applications/information-control-by-authoritarian-governments but no direct links found though.
-* 2019-05: someone used the FAQ to answer a question: https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/ | https://web.archive.org/web/20190527072431/https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/ "‘If I disappear’: Chinese students make farewell messages amid crackdowns over labor activism"
+* 2019-05: someone used the FAQ to answer a question: https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/ | https://web.archive.org/web/20190527072431/https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/ "'If I disappear': Chinese students make farewell messages amid crackdowns over labor activism"
 * 2019-04-10: https://twitter.com/jnzst/status/1115824398961913857 gGTYgFulPg
 ** https://twitter.com/jnzst/status/1111395254408613888
 * 2019-01-10: https://twitter.com/ninoseki/statuses/1083512317952704512 | https://archive.is/vCwep 1300 followers.
