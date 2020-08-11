@@ -2690,6 +2690,9 @@ News:
 +
 He is the owner of Apple Daily, the flagship newspaper under Next Digital and the biggest pro-democracy paper in Hong Kong, reported that nearly 200 officers were entering their offices. 
 +
+Other notable arrests:
+** https://en.wikipedia.org/wiki/Agnes_Chow[Agnes Chow] https://zh.wikipedia.org/wiki/周庭[周庭] https://www.washingtonpost.com/world/2020/08/10/who-are-jimmy-lai-agnes-chow-two-hong-kong-democracy-advocates-arrested-monday/
++
 The CCP is not even pretending anymore.
 * 2020-08-30 https://edition.cnn.com/2020/07/29/asia/hong-kong-security-law-election-intl-hnk/index.html "Four Hong Kong student activists arrested for 'secession' over social media posts": the arrests against online freedom of speech begin https://www.bbc.co.uk/news/world-asia-china-53616583 gives the names, all are abroad it seems:
 +
@@ -2945,6 +2948,20 @@ How can the West not see this?
 
 No proof is needed. They belong to a <<dictatorship>>, and therefore must not be trusted. Doing so is always a risk which we should not take.
 
+Also have a look at their Wikipedia page:
+
+____
+Ren sought to reverse engineer foreign technologies with local researchers. At a time when all of China's telecommunications technology was imported from abroad, Ren hoped to build a domestic Chinese telecommunication company that could compete with, and ultimately replace, foreign competitors.
+
+During its first several years the company's business model consisted mainly of reselling private branch exchange (PBX) switches imported from Hong Kong. Meanwhile, it was reverse-engineering imported switches and investing heavily in research and development to manufacture its own technologies. By 1990 the company had approximately 600 R&D staff and began its own independent commercialization of PBX switches targeting hotels and small enterprises.
+
+The company's first major breakthrough came in 1993 when it launched its C&C08 program controlled telephone switch. It was by far the most powerful switch available in China at the time. By initially deploying in small cities and rural areas and placing emphasis on service and customizability, the company gained market share and made its way into the mainstream market.
+
+Huawei also won a key contract to build the first national telecommunications network for the People's Liberation Army, a deal one employee described as "small in terms of our overall business, but large in terms of our relationships". In 1994, founder Ren Zhengfei had a meeting with Party general secretary Jiang Zemin, telling him that "switching equipment technology was related to national security, and that a nation that did not have its own switching equipment was like one that lacked its own military." Jiang reportedly agreed with this assessment.
+
+Another major turning point for the company came in 1996 when the government in Beijing adopted an explicit policy of supporting domestic telecommunications manufacturers and restricting access to foreign competitors. Huawei was promoted by both the government and the military as a national champion, and established new research and development offices.
+____
+
 At any point the Chinese government could make a request that they cannot deny.
 
 Some news:
@@ -2994,6 +3011,7 @@ News:
 
 Reports:
 
+* 2020-08 https://www.taiwannews.com.tw/en/news/3982027 photo of ByteDance top brass with CCP members in Beijing and description of their meeting. Because obviously they have strong ties with the CCP like any other Chinese company.
 * 2020-03 https://www.reddit.com/r/China/comments/fug8i1/the_chinese_tiktok_just_began_an_uninterrupted/ "The Chinese Tik-Tok just began an uninterrupted propaganda stream." during <<corona>>
 * https://twitter.com/JoshuaDummer/status/1280877750245453828 "Wife trying livestreaming on Douyin. Comes over to me in the middle of a stream and puts me on camera. After about a minute, notice pops up saying that foreigners are not allowed to appear on livestreams 'without permission'."
 ** https://twitter.com/JoshuaDummer/status/1280881420047511552/photo/1
