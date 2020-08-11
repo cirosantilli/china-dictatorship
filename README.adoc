@@ -2647,6 +2647,8 @@ There is only one solution to Hong Kong's problem:
 
 These have started happening seriously in response to the <<hong-kong-national-security-law>>.
 
+Hong Kong related posts at: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ahong-kong+
+
 ===== Hong Kong 97 SNES video game
 
 * https://en.wikipedia.org/wiki/Hong_Kong_97_(video_game)
