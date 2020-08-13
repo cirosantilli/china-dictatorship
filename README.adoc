@@ -503,6 +503,7 @@ Some arguments include:
 Of course China won't say that they are starting a war when they do.
 
 They will of course start with territories which they claim as theirs, to add to <<separatism,other recent additions which were not theirs>> until the recent past, even though their inhabitants desperately want to leave China:
+
 * https://en.wikipedia.org/wiki/2020_China–India_skirmishes
 
 Which reminds us of... <<nazi>>:
@@ -817,33 +818,28 @@ video::Iwpr55PZEJ8[youtube,height=400,width=600]
 [[not-chinese]]
 === Non-Chinese people should not interfere in Chinese politics 外国人不应该干预中国政治
 
-. We live in the same world.
+* For better or worse, China and other countries happen to be located in the same planet.
 +
-If China's <<richer,economy>> is bad, my economy is worse.
+If China's <<richer,economy>> is bad, the economy gets worse in other countries.
 +
-If China's environment is bad, my environment is worse.
+If China's environment is bad, the environment gets worse in other countries.
 +
-If China's environment is bad, my environment is worse.
+If China <<war,starts a war>>, other countries will have to fight it.
 +
-If China <<war,starts a war>>, I might have to fight it.
+If China <<corona,fails to control a viral outbreak>>, other countries might get infected.
+* <<tiananmen,Millions of Chinese people>> disagree with their government, but can't say anything about it, otherwise <<t-shirt,they will go straight to jail>>. See also: xref:most-chinese-people-like-their-dictatorship[xrefstyle=full]
+* The CCP would likely be in power today if the link:https://china-journal.org/2018/02/26/why-did-chiang-kai-shek-lose-china-the-guomindang-regime-and-the-victory-of-the-chinese-communist-party[Japanese hadn't weakened the Guomindang] and the link:https://www.wilsoncenter.org/blog-post/how-stalin-elevated-the-chinese-communist-party-to-power-xinjiang-1949[Soviet Union helped out Mao].
 +
-If China <<corona,fails to control a viral outbreak>>, I might get infected.
-. If I lived under a dictatorship, I would welcome foreign intervention.
+And Chine would be much much less technologically advanced had it come in contact with the West, from which it is still trying to learn/steal from: <<university-espionage>>.
 +
-Even if you don't, I know several Chinese who do.
+Foreign influence can be both good or bad.
+* Chinese people have been brainwashed by the <<evil-west,commies who say that all foreigners are bad>>, more than the West has been brainwashed to think that he CCP is bad: <<brainwashed-by-usa>>
+* China would never ever try to influence foreign countries, would it? E.g. <<belt-and-road-initiative>>, <<confucius-institute>>, <<cgtn>>.
+* You can't do anything about it.
 +
-Are you certain that your beloved CCP would be in power today if the link:https://china-journal.org/2018/02/26/why-did-chiang-kai-shek-lose-china-the-guomindang-regime-and-the-victory-of-the-chinese-communist-party[Japanese hadn't weakened the Guomindang] and the link:https://www.wilsoncenter.org/blog-post/how-stalin-elevated-the-chinese-communist-party-to-power-xinjiang-1949[Soviet Union helped out Mao]?
-. You have been brainwashed by the commies who say that all foreigners are bad :-)
+In the end, this is what all politics comes down to: power.
 +
-The commies do this because most foreign countries are telling the Chinese to get rid of the dictatorship.
-+
-Most foreigners actually want what is best for China.
-. Oh, China xref:belt-and-road-initiative[would never ever do anything like that], would it?
-. You can't do anything about it.
-+
-I don't like this argument, but in the end, this is what all politics comes down to: power.
-+
-I recognize that in that sense, I may be similar to the CCP and any other political party.
+In some sense, this may be similar to the CCP and any other political party.
 +
 But conversely: <<effective>>.
 +
@@ -858,7 +854,6 @@ Why don't you go instead <<shitpost,shitpost>> in one of the following repositor
 See also:
 
 * <<is-ciro-santilli-chinese>>
-* <<evil-west>>
 
 Duplicate pool: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ayou-are-not-chinese-argument
 
@@ -1446,6 +1441,7 @@ See also: <<communist-youth-league>>
 
 While we are at it, some interesting news:
 
+* 2019-12-14 https://www.bbc.co.uk/news/technology-50902496 "Russia 'successfully tests' its unplugged internet". Russia's <<gfw>> is ready?
 * 2018-04 https://www.bbc.co.uk/news/technology-43752337 "Russia to block Telegram app over encryption"
 * 2017 https://www.bbc.co.uk/news/world-europe-40635267 Russia Jehovah's Witnesses banned after they lose appeal
 * 2017 https://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay
@@ -1638,6 +1634,17 @@ Related:
 
 * https://www.rferl.org/a/russia-navalny-nationalist-fears/25059277.html
 * https://www.youtube.com/watch?v=oVNJiO10SWw
+
+[[2020-khabarovsk-krai-protests]]
+====== 2020 Khabarovsk Krai protests (Протесты в Хабаровском крае)
+
+* https://en.wikipedia.org/wiki/2020_Khabarovsk_Krai_protests
+* https://ru.wikipedia.org/wiki/Протесты_в_Хабаровском_крае
+
+In support to:
+
+* https://en.wikipedia.org/wiki/Sergei_Furgal
+* https://ru.wikipedia.org/wiki/Фургал,_Сергей_Иванович
 
 ===== Censorship of images in the Soviet Union
 
