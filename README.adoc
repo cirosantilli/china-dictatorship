@@ -2506,7 +2506,7 @@ video::vTqZ9xrxhHk[youtube,height=400,width=600]
 See also: <<photobombing-like-attacks>>.
 
 [[xinjiang]]
-==== Xinjiang 新疆
+==== Xinjiang (新疆)
 
 https://en.wikipedia.org/wiki/Xinjiang_re-education_camps
 
@@ -2580,6 +2580,11 @@ video::Eak3WRtcdko[youtube,height=400,width=600]
 ** https://apnews.com/6e151296fb194f85ba69a8babd972e4b
 ** https://www.washingtonpost.com/world/asia_pacific/former-inmates-of-chinas-muslim-re-education-camps-tell-of-brainwashing-torture/2018/05/16/32b330e8-5850-11e8-8b92-45fdd7aaef3c_story.html?utm_term=.df8ea170b18f
 ** https://uk.businessinsider.com/what-is-life-like-in-xinjiang-reeducation-camps-china-2018-5
+* 2017-04 https://www.nytimes.com/2017/04/25/world/asia/china-xinjiang-ban-muslim-names-muhammad-jihad.html "China Bans 'Muhammad' and 'Jihad' as Baby Names in Heavily Muslim Region".
++
+Note that Muhammad is incredibly popular in Islamic countries, and thought to be the most popular name in the world with 150m people sharing it: https://en.wikipedia.org/wiki/Muhammad_(name)#Transliterations
++
+It is so prevalent, that it is often shortened to just "Md." and people are just called by their second name to reduce ambiguity: https://en.wikipedia.org/wiki/Arabic_name#Ism
 * 2017-04 https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html
 +
 .Image of prisionners wearing blue sitting down in Xinjiang concentration camp, with some prisionners identified to indicate that they are not criminals but rather detained purely for political reasons. https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[Source].
@@ -2643,7 +2648,7 @@ Related:
 * https://www.jpost.com/diaspora/uk-muslim-activist-praises-jewish-community-for-speaking-out-for-uyghurs-635626 even the Jews are speaking lowder in some cases
 
 [[hong-kong]]
-==== Hong Kong 香港
+==== Hong Kong (香港)
 
 News source: https://www.reddit.com/r/HongKong/ Became larger than `r/china` during the <<2019-hong-kong-anti-extradition-bill-protests>>.
 
@@ -2697,12 +2702,14 @@ News:
 
 * 2020-08-10 https://www.bloomberg.com/news/articles/2020-08-10/hong-kong-media-tycoon-jimmy-lai-arrested-apple-daily-reports[] "Hong Kong Media Tycoon Arrested in Latest Blow to Democracy Camp"
 +
-He is the owner of Apple Daily, the flagship newspaper under Next Digital and the biggest pro-democracy paper in Hong Kong, reported that nearly 200 officers were entering their offices. 
+<<jimmy-lai>> is the founder of <<apple-daily>>, the flagship newspaper under Next Digital and the biggest pro-democracy paper in Hong Kong, reported that nearly 200 officers were entering their offices. 
 +
 Other notable arrests:
-** https://en.wikipedia.org/wiki/Agnes_Chow[Agnes Chow] https://zh.wikipedia.org/wiki/周庭[周庭] https://www.washingtonpost.com/world/2020/08/10/who-are-jimmy-lai-agnes-chow-two-hong-kong-democracy-advocates-arrested-monday/
+** <<agnes-chow>> https://www.washingtonpost.com/world/2020/08/10/who-are-jimmy-lai-agnes-chow-two-hong-kong-democracy-advocates-arrested-monday/
 +
 The CCP is not even pretending anymore.
++
+2020-08-12: https://www.aljazeera.com/news/2020/08/hong-kong-media-tycoon-lai-released-bail-arrest-200811173810887.html[]: they were released on bail
 * 2020-08-30 https://edition.cnn.com/2020/07/29/asia/hong-kong-security-law-election-intl-hnk/index.html "Four Hong Kong student activists arrested for 'secession' over social media posts": the arrests against online freedom of speech begin https://www.bbc.co.uk/news/world-asia-china-53616583 gives the names, all are abroad it seems:
 +
 ____
@@ -2721,6 +2728,9 @@ ____
 * 2020-06-03 https://www.theguardian.com/world/2020/jun/03/britain-could-change-immigration-rules-for-hong-kong-citizens "Boris Johnson lays out visa offer to nearly 3m Hong Kong citizens"
 * 2020-05-29 https://www.bbc.co.uk/news/uk-52842303 "UK could offer 'path to citizenship' for Hong Kong's British passport holders"
 * 2020-05-24 https://www.theguardian.com/world/2020/may/24/beijing-to-impose-hong-kong-security-laws-without-delay
+
+.Over 100 police officers raid the Apple Daily Hong Kong newspaper soon after the <<hong-kong-national-security-law>> started. https://hongkongfp.com/2020/08/10/scores-of-police-raid-office-of-hong-kong-pro-democracy-newspaper-apple-daily/[Source].
+image::https://web.archive.org/web/20200812152857im_/https://i1.wp.com/hongkongfp.com/wp-content/uploads/2020/08/EfBoo_nUYAEtqV7.jpg?resize=706%2C358&ssl=1[height=600]
 
 ===== 2019 Hong Kong anti-extradition bill protests
 
@@ -3949,6 +3959,10 @@ But <<intolerance,like all minorities>>, they are generally more fucked in <<dic
 
 Therefore, all gay people must be against the CCP:
 
+* 2020-08-14 https://www.scmp.com/news/china/society/article/3097377/shanghai-pride-cancelled-after-11-years-blow-lgbt-community "Shanghai Pride cancelled after 11 years in blow to China’s LGBT community". "
+Organisers are 'taking a break from scheduling any future events', they say in social media message".
+** the Tweet: https://twitter.com/ShanghaiPride/status/1293897794919510016 "上海骄傲节终止所有活动" (Shanhai Pride will be stopping all activities)
+** https://en.wikipedia.org/wiki/Shanghai_Pride
 * 2020-01-07 https://www.nbcnews.com/feature/nbc-out/why-china-raising-prospect-same-sex-marriage-n1109471 "Why is China raising the prospect of same-sex marriage?"
 * 2018 Weibo temporary homosexual ban:
 ** 2018-04-16 https://www.theguardian.com/world/2018/apr/16/china-weibo-bans-homosexual-content-protest "China's Weibo reverses ban on 'homosexual' content after outcry", hashtags `#iamgay` and `#iamgaynotapervert`
@@ -4094,9 +4108,15 @@ ____
 Falun Dafa is not a religion, but future generations will regard it as one.
 ____
 
-E.g. they call themselves "practitioners" or "students" (学员) instead of "believers", and their peers "practitioner colleagues" (https://baike.baidu.com/item/同修[同修]). And if you say you don't believe in their FLG metaphysics bullshit, they will often reply "he does not understand". To them, it is not about belief, the truth is clear, and you just don't see it yet. To this you should reply: "and you don't understand that <<li-hongzhi,Li Hongzhi>> is a master manipulator dude who deceived you and millions of others".
+E.g. they call themselves "practitioners" or "students" (学员) or "disciples of the Great Law" (大法弟子, or mare accurately, of <<li-hongzhi>>'s Law) instead of "believers", and their peers "practitioner colleagues" (https://baike.baidu.com/item/同修[同修]).
 
-But <<ciro-santilli>> strongly believes that this is just a language barrier/FLG propaganda question (see also "Different levels of truth" from <<orange-papers>>), and that 99.99% of people in the West would classify FLG as a religion just like <<christianity>> if they are told about FLG's beliefs:
+And if you say you don't believe in their FLG metaphysics bullshit, they will often reply "he does not understand".
+
+To them, it is not about belief, the truth is clear, and you just don't see it yet.
+
+To this you should reply: "and you don't understand that <<li-hongzhi,Li Hongzhi>> is a master manipulator dude who deceived you and millions of others".
+
+But <<ciro-santilli>> strongly believes that this is just a language barrier/FLG propaganda question (see also "Different levels of truth" from <<orange-papers>>), and that 99.9999% of people in the West would classify FLG as a religion just like <<christianity>> if they are told about FLG's beliefs:
 
 * absolute truth comes from an enlightened <<li-hongzhi,prophet>>, who is perfect and has superhuman abilities
 * weekly in-person meetings (学法 "study the Fa", or more verbosely "study the law (of the universe (of <<li-hongzhi>>))"）or daily online meetings where they read from a <<flg-canon,sacred book>>, either written by the prophet, or transcribed from his presentations to disciples, including the disciples questions, much like traditional Chinese texts like link:https://en.wikipedia.org/wiki/Analects[The Analects of Confucius], just like Christians read from the Bible over and over again.
@@ -6197,6 +6217,36 @@ https://zh.wikipedia.org/wiki/田佳良事件
 
 Alias: 洁洁良
 
+=== Hong Kong dissidents
+
+[[joshua-wong]]
+==== Joshua wong (黄之锋)
+
+* https://en.wikipedia.org/wiki/Joshua_Wong
+* https://zh.wikipedia.org/wiki/黃之鋒
+
+Social media:
+
+* https://twitter.com/joshuawongcf
+
+[[agnes-chow]]
+==== Agnes Chow (周庭)
+
+* https://en.wikipedia.org/wiki/Agnes_Chow
+* https://zh.wikipedia.org/wiki/周庭
+
+Social media:
+
+* https://twitter.com/chowtingagnes
+
+[[jimmy-lai]]
+==== Jimmy Lai (黎智英)
+
+* https://en.wikipedia.org/wiki/Jimmy_Lai
+* https://zh.wikipedia.org/wiki/黎智英
+
+Founder of <<apple-daily>>.
+
 === Western dissidents
 
 * LeLe Farley (乐乐法利): https://www.youtube.com/channel/UCyYlGTZL-HnnX_UcGkVFH7A
@@ -6562,7 +6612,7 @@ Once again, <<flg-transparent>> is in need.
 
 TODO who is behind this website? They store full text copies of banned articles, e.g. https://www.bannedbook.org/bnews/baitai/20190816/1175647.html is a full text copy of http://yashalong.blog.caixin.com/archives/188877 which is mentioned at: <<nazi>>.
 
-==== USA government media 美国政府媒体
+==== USA government media (美国政府媒体)
 
 ** https://www.voa.com/
 ** https://www.voachinese.com/
@@ -6579,7 +6629,7 @@ Partial support:
 * https://zh.wikipedia.org/wiki/美国之音
 
 [[rfa]]
-===== Radio Free Asia (RFA) 自由亚洲电台
+===== Radio Free Asia (RFA) (自由亚洲电台)
 
 * https://en.wikipedia.org/wiki/Radio_Free_Asia
 * https://zh.wikipedia.org/wiki/自由亚洲电台
@@ -6588,10 +6638,35 @@ Website: https://www.rfa.org
 
 Just because they are/were funded/founded by the CIA, it doesn't mean that we can't use their xref:rebel-pepper[amazing satirical cartoons] to fight xref:dictatorship[], right?
 
+[[hong-kong-media]]
+=== Hong kong media (香港媒体)
+
+[[scmp]]
+==== South China Morning Post (南华早报)
+
+* https://en.wikipedia.org/wiki/South_China_Morning_Post
+* https://zh.wikipedia.org/wiki/南華早報
+
+<<hong-kong>> based, but bought by Alibaba in 2016, but it still continued to publish censored stuff widely, e.g.:
+
+* <<hao-haidong>>
+
+[[apple-daily]]
+==== Apple Daily (蘋果日報)
+
+* https://en.wikipedia.org/wiki/Apple_Daily
+* https://zh.wikipedia.org/wiki/蘋果日報_(香港)
+
+Website: https://hk.appledaily.com/
+
+Founded by <<jimmy-lai>>.
+
+Pro-democracy. Raided soon after <<hong-kong-national-security-law>> started.
+
 === Media that we are not sure is biased or not
 
 [[caixin]]
-==== Caixin 财新传媒
+==== Caixin (财新传媒)
 
 * https://en.wikipedia.org/wiki/Caixin
 * https://zh.wikipedia.org/wiki/财新传媒
@@ -6600,16 +6675,6 @@ Beijing based, but does publish stuff that seems to be very sensitive:
 
 * <<corona>> Government fuckups
 * https://www.bbc.co.uk/news/world-asia-china-35761277 "China magazine Caixin defiant on censorship of article"
-
-[[scmp]]
-==== South China Morning Post 南华早报
-
-* https://en.wikipedia.org/wiki/South_China_Morning_Post
-* ttps://zh.wikipedia.org/wiki/南華早報
-
-<<hong-kong>> based, but bought by Alibaba in 2016, but it still continued to publish censored stuff widely, e.g.:
-
-* <<hao-haidong>>
 
 [[videos]]
 == Videos 视频
@@ -6624,7 +6689,7 @@ Interesting videos that were deleted/made private since he added them:
 * 2019-05-18 https://www.youtube.com/watch?v=qAEUafI_lyI not on Web Archive, lesson learned
 
 [[funny]]
-== Funny 搞笑
+== Funny (搞笑)
 
 Humour is the greatest weapon against <<dictatorship,dictators>>:
 
@@ -6649,7 +6714,7 @@ See also:
 .Weibo logo vs Sauron's eye 微博标志vs索倫魔眼 by Ciro Santilli.
 image::https://web.archive.org/web/20191013080406if_/https://i.imgur.com/eKPmYyz.png[height=400]
 
-=== Cartoonists 漫画家
+=== Cartoonists (漫画家)
 
 Reasonable lists:
 
@@ -7314,7 +7379,7 @@ Therefore, <<what-should-western-countries-do-about-china,all the West has to do
 ===== Cyberspace Administration of China (CAC, 国家互联网信息办公室)
 
 * https://en.wikipedia.org/wiki/Cyberspace_Administration_of_China
-* ttps://zh.wikipedia.org/wiki/中央网络安全和信息化委员会办公室
+* https://zh.wikipedia.org/wiki/中央网络安全和信息化委员会办公室
 
 This is where the Internet censors work.
 
