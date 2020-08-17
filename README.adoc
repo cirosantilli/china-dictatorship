@@ -521,6 +521,8 @@ In Italy, Benito Mussolini sought to create a https://en.wikipedia.org/wiki/Ital
 ____
 * 1931 https://en.wikipedia.org/wiki/Japanese_invasion_of_Manchuria[1931 Japanese invasion of Manchuria], with one false flag event preceding it: https://en.wikipedia.org/wiki/Mukden_Incident[Mikden Incident].
 
+When China <<evil-west,calls the USA Imperialist>> (帝国主义), there is of course some truth to it, but it is also very ironic, because as https://youtu.be/GiVs05yq9-o?t=74[Lindybeige mentions], China is obviously the largest empire on Earth! Despite its <<xinjiang,uniformization>> efforts, China is highly diverse since it is obviously made up of a https://en.wikipedia.org/wiki/List_of_ethnic_groups_in_China[large stitched up carpet of nations that were conquered by a single empire].
+
 [[uneducated-masses]]
 ==== The Chinese masses are still uneducated, and not fit for free speech and democracy 中国大众愚昧，不能好好选领导
 
@@ -1471,9 +1473,69 @@ Some other interesting political suppression lists:
 * https://en.wikipedia.org/wiki/List_of_Soviet_and_Russian_assassinations[List of Soviet and Russian assassinations]
 * 2017 https://www.washingtonpost.com/news/worldviews/wp/2017/03/23/here-are-ten-critics-of-vladimir-putin-who-died-violently-or-in-suspicious-ways/ "Here are 10 critics of Vladimir Putin who died violently or in suspicious ways"
 
+Freedom of speech reports:
+
+* 2017-07-18 https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-freedom-expression "Online and On All Fronts Russia's Assault on Freedom of Expression"
+
 Other random stuff:
 
 * <<seventeen-moments-of-spring>>
+
+[[federal-list-of-extremist-materials]]
+===== Federal List of Extremist Materials (Федеральный список экстремистских материалов)
+
+* https://en.wikipedia.org/wiki/Federal_List_of_Extremist_Materials
+* https://ru.wikipedia.org/wiki/Федеральный_список_экстремистских_материалов
+
+<<censorship-monitoring,Unlike the Chinese>>, they have a public list, each entry had a numerical ID even. This is the best thing ever made! The dream for <<keyword-attack,keyword attackers>>!
+
+Most of it appears to be anti/<<nazi>>, and notably anti-anti-semitic but several items are purely political anti-freedoms.
+
+One wonders if the majority of the items are just fillers to hide the really juicy anti-freedom ones.
+
+We need to make a GitHub mirror of all of those some day!
+
+The list: http://minjust.gov.ru/ru/extremist-materials[] Here's an archive: http://web.archive.org/web/20200817142035/http://minjust.gov.ru/ru/extremist-materials/export.csv?attach=page[]. The website has a CSV for download with all entries at the bottom. Enca says the encoding is "MS-Windows code page 1251", convert to UTF-8 with:
+
+....
+iconv -f WINDOWS-1251 -t UTF-8//IGNORE export.csv
+....
+
+`//IGNORE` is needed because their fucking CSV export has a bug and otherwise `iconv` stops at the first error.
+
+Result at: https://github.com/cirosantilli/media/blob/039ed572f61866655fc6ea3333b199527df4f3eb/russian-federal-list-of-extremist-materials-utf8-2020-08-17.csv
+
+From this we can grep, and then to overcome translation limits as there is no offline option yet: https://askubuntu.com/questions/380847/is-it-possible-to-translate-words-via-terminal[], dump your selection on a gist and use Google translate on the Gist.
+
+A website "dedicated" to bypassing censorship of the list: http://zapretno.info/[]. TODO much of that website's content is not clearly marked as being on the list.
+
+Some notable additions:
+
+* 2791: "Blowing up Russia: Terror from Within" by <<litvinenko>>
+* Religion
+** 1171, 1172, 1173: "What is Scientology", which likely refers to this L. Ron Hubbard book. https://www.amazon.co.uk/What-Scientology-L-Ron-Hubbard/dp/1573181226[] and two other books. Coverage: https://www.businessinsider.com/russia-officially-bans-scientology-books-brands-them-extremist-2012-3?r=US&IR=T
+** 2904: Jehovah's Witnesses website https://www.jw.org/en/[]. Coverage: https://www.state.gov/reports/2017-report-on-international-religious-freedom/russia/
+* Ukraine due to <<russo-ukrainian-war>>
+** 2596: A. M. Byvshev's poem "Ukrainian patriots", where he disagreed with Russian intervention in Donbass and supported military resistance by Ukrainians.
+** searching for "суда" (Crimea) has dozens of hits
+* Anti-Putin and apparently non hate-crime:
+** 1000:
+*** Leaflets with the following content: "Down with the power of the Cheka-nuty Putin and Medvedev", "Down with the power of the Cheka-nuty Putin"
+*** Листовки следующего содержания: «Долой власть ЧК-нутых Путина и Медведева», «Долой власть ЧК-нутого Путина»
+** 4071: <<gay-putin>>
+** 4914:
+*** The book "Where did Mr. Putin take Russia?" author Yu.E. Kozenkov (M., 2005 - 208 p.)
+*** "Книга «Куда завел Россию мистер Путин?» автор Ю.Е. Козенков (М., 2005 – 208 с.)
+
+[[roskomnadzor]]
+====== Roskomnadzor (Роскомнадзор)
+
+* https://en.wikipedia.org/wiki/Federal_Service_for_Supervision_of_Communications,_Information_Technology_and_Mass_Media
+* https://ru.wikipedia.org/wiki/Роскомнадзор
+
+The Russian censorship body under <<putin>>. The Russian <<cac>>.
+
+They are the ones who make Russian takedowns on <<github-gov-takedowns>>, e.g. https://github.com/github/gov-takedowns/tree/master/Russia/2020
 
 [[putin]]
 ===== Putin Путин 普京 (1999-2008, 2012-∞)
@@ -1523,6 +1585,8 @@ image::https://web.archive.org/web/20200412093551if_/https://qph.fs.quoracdn.net
 
 [[gay-putin]]
 ====== Gay Putin (2017)
+
+Added to the <<federal-list-of-extremist-materials>>.
 
 Coverage:
 
@@ -1593,6 +1657,8 @@ Poisoned with polonium-210:
 * 2007-01-26 UK police says they had found a teapot at Millenium Hotel containing extremely high Poloninum-210 traces
 * 2010-12 US leaked cables show that Dmitry Kovtun left "positive traces" of radioactive polonium-210 in Germany before departing for Britain https://www.theguardian.com/world/2010/dec/11/wilileaks-cables-litvinenko-murder
 
+His 2002 book https://en.wikipedia.org/wiki/Blowing_Up_Russia[Blowing up Russia: Terror from Within] (https://ru.wikipedia.org/wiki/ФСБ_взрывает_Россию[ФСБ взрывает Россию: Федеральная служба безопасности — организатор террористических актов, похищений и убийств]) accuses the FSB of setting up false flag bombing operations, and figures on the <<federal-list-of-extremist-materials>>.
+
 .Litvinenko in his death bed.
 image::https://web.archive.org/web/20200404123347im_/https://i.guim.co.uk/img/static/sys-images/guardian/About/General/2010/12/11/1292079941381/Former-Russian-Agent-Pois-006.jpg?width=620&quality=85&auto=format&fit=max&s=2a623e83efa1042cc1cd07295d54a57b[height=400]
 
@@ -1629,6 +1695,8 @@ His Wiki page does say one thing of interest though, he has right wing tendencie
 ____
 The BBC noted in a profile of Navalny that his endorsement of a political campaign called "Stop feeding the Caucasus" and his willingness to speak at ultra-nationalist events "have caused concern among liberals".
 ____
+
+This video of his https://www.youtube.com/watch?v=RQZr2NgKPiU might have been added to the <<federal-list-of-extremist-materials>>, wiki: https://en.wikipedia.org/wiki/Oleg_Deripaska#Navalny_video[], coverage: https://www.rferl.org/a/russia-deripaska-prikhodko-rybka-nuland-yacht/29028148.html but I can't find where it is in the list exactly.
 
 Related:
 
@@ -1668,11 +1736,36 @@ image::https://web.archive.org/web/20200301233451/https://img.ifunny.co/images/5
 .https://www.youtube.com/watch?v=ZT2z0nrsQ8o "Rasputin vs Stalin." Epic Rap Battles of History YouTube video. This is fire. https://epicrapbattlesofhistory.fandom.com/wiki/Rasputin_vs_Stalin/Rap_Meanings[Explanations].
 video::ZT2z0nrsQ8o[youtube,height=400,width=600]
 
-[[anti-russia-dictatorship-info-sources]]
-==== Anti Russia dictatorship sources
+[[russo-ukrainian-war]]
+===== Russo-Ukrainian War (2014-)
 
-* https://www.rferl.org/ Radio Free Europe: USA funded sister media of <<rfa>>: https://en.wikipedia.org/wiki/Radio_Free_Europe/Radio_Liberty
+* https://en.wikipedia.org/wiki/Russo-Ukrainian_War
+* https://uk.wikipedia.org/wiki/Російсько-українська_війна_(з_2014)
+
+[[Mykola Semena]]
+====== Mykola Semena (Семена Микола Михайлович)
+
+* https://en.wikipedia.org/wiki/Mykola_Semena
+* https://uk.wikipedia.org/wiki/Семена_Микола_Михайлович
+
+Ukrainina, worked for <<rferl>> previously, and published against the annexation of Ukraina territories.
+
+https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-freedom-expression suggests that one of her articles was added to the <<federal-list-of-extremist-materials>>, possibly "Blockade–the Necessary First Step for Liberation of Crimea", but I can't find the entry.
+
+[[anti-russia-dictatorship-info-sources]]
+===== Anti Russia dictatorship sources
+
 * https://meduza.io/en
+
+[[rferl]]
+====== Radio Free Europe (Радио_«Свобода»)
+
+* https://en.wikipedia.org/wiki/Radio_Free_Europe/Radio_Liberty
+* https://ru.wikipedia.org/wiki/Радио_«Свобода»
+
+Website: https://www.rferl.org/
+
+USA funded sister media of the <<rfa>>.
 
 [[ccp-evil]]
 === Is the Chinese government evil? 中国共产党是邪恶吗？
@@ -1760,8 +1853,8 @@ image::https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Adolf_Hitler_-_
 .Photoshopped photo of Hitler giving the Nazi salute from a car with Himmler on the background with Xi's face on top of Hitler's. https://chinhdangvu1.blogspot.com/2017/09/xitler-chinazism.html[Source].
 image::https://web.archive.org/web/20191013080031if_/https://pbs.twimg.com/media/DGlPeEmXcAAaeQa.jpg[height=400]
 
-.Original photo of Hitler giving the Nazi salute from a car with Himmler on the background. https://en.wikipedia.org/wiki/File:Hitler-car.jpg[Source].
-image::https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Hitler-car.jpg/640px-Hitler-car.jpg[height=400]
+.Original photo of Hitler giving the Nazi salute from a car with Himmler on the background. https://www.nationalww2museum.org/war/articles/heinrich-himmler-holocaust[Source].
+image::http://web.archive.org/web/20200817214254im_/https://www.nationalww2museum.org/sites/default/files/2020-05/HItler%20and%20HImmler%20salute%20SS%20troops%20USHMM%20-%20Connie%20Gentry.jpg[height=400]
 
 .Chinazi flag by <<2019-hong-kong-anti-extradition-bill-protests,Hong Kong protesters>>. Seen https://chinadigitaltimes.net/chinese/2019/08/【盛世一景】赤纳粹旗（chinazi-flag）/[on streets]. https://www.reddit.com/r/HongKong/comments/dbrken/google_bomb_china_flag_search_query_into_chinazi/[Source].
 image::https://web.archive.org/web/20191003190442if_/https://i.redd.it/c0d340rtswp31.png[height=400]
@@ -1917,32 +2010,39 @@ But <<why-does-ciro-santilli-love-china-so-much,his wife is>>.
 
 As of 2019, oral enough for daily things, but not understand most natural casual dinner conversation or watch TV series, because they go too quickly into vocabulary subject areas that he doesn't know.
 
-When it matters, and with some patience, Can can make himself understood though with https://xkcd.com/thing-explainer/[some analogies] (https://web.archive.org/web/20190908144612/https://xkcd.com/thing-explainer/[archive]) and a dictionary.
+When it matters, and with some patience, he can make himself understood though with https://xkcd.com/thing-explainer/[some analogies] (https://web.archive.org/web/20190908144612/https://xkcd.com/thing-explainer/[archive]) and a dictionary.
 
-From the HSK vocabulary list, he estimates that ihe is definitely HSK 3, but not quite HSK 4. This would likely equate A2 / B1 in the https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages[European system].
+From the HSK vocabulary list, he estimates that he is definitely HSK 3, but not quite HSK 4. This would likely equate A2/B1 in the https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages[European system].
 
-Phonetics wise, Ciro can't distinguish or produce a few sounds, notably `-ing` vs `-in` and his off-tone rate is high, but it tends to not matter at all compared to the lack of vocabulary.
+Phonetics wise, Ciro can't distinguish or produce a few sounds, notably `-ing` vs `-in` and his off-tone rate is high, but it tends to not matter at all compared to his lack of vocabulary.
 
-Ciro reads with link:https://www.perapera.org/[Perapera], write with a mixture of link:https://www.pleco.com/[Pleco], Google translate and Googling to see if Chinese actually say the sentences that way.
+Ciro reads with link:https://www.perapera.org/[Perapera] when he wants to learn new words/has patience/something is very important, and can basically understand everything in that way.
 
-He <<characters,hasn't tried to learn characters>> because <<chinese-characters-are-insane,too much effort>>, but he did learn some of the most common ones without trying.
+When he has no patience or for larger not very important chunks of text though, he reads with Google Translate as it tends to work, and then if there is an important sentence that was translated to garbage with Perapera.
 
-Ciro really wishes he could learn more, but he has other more important endeavors at the moment :-(
+Ciro writes with a mixture of link:https://www.pleco.com/[Pleco], Google translate and Googling to see if Chinese actually say the sentences that way, never Google translate alone as it would be too imprecise.
 
-He initially learnt from book that come with audio recordings in the first 6-months to 1 year in 2010, but that got impossibly boring afterward, so he later moved to just basically talking as much as possible non-important things to <<why-does-ciro-santilli-love-china-so-much,his wife in Chinese>>, and whenever he reaches one that he doesn't know that seems useful, he Plecos it up or just 怎么说 to his <<wife>> and then Pleco.
+Ciro really wishes he could learn more Chinese. Ciro really loves the Chinese language. But he has other more important endeavors at the moment. There simply aren't enough hours in a day.
 
 Spoken Chinese is in Ciro's opinion a relatively easy language to learn from scratch, because word formation is so often logical:, e.g.:
 
 * volcano = fire + mountain: 火山(huo shan)
 * train = fire + car: 火车 (huo che), a reference to old https://en.wikipedia.org/wiki/Steam_locomotive[steam locomotives]
 
-and there is no useless crap like https://en.wikipedia.org/wiki/Grammatical_conjugation[verb grammatical conjugation], https://en.wikipedia.org/wiki/Grammatical_gender[grammatical gender], https://en.wikipedia.org/wiki/Plural[plural inflection], capitalization, etc.
+and there is no useless crap like https://en.wikipedia.org/wiki/Grammatical_conjugation[verb grammatical conjugation], https://en.wikipedia.org/wiki/Grammatical_gender[grammatical gender], https://en.wikipedia.org/wiki/Plural[plural inflection], capitalization, etc. (https://en.wikipedia.org/wiki/Latino_sine_flexione[latino sine flexione] anyone?)
 
-Ciro loves this language.
+Ciro <<characters,hasn't tried to learn characters>> because <<chinese-characters-are-insane,too much effort>>, but he did learn some of the most common ones without trying.
 
-Yes Chinese characters are beautiful, yes, https://chinese.stackexchange.com/questions/2003/can-chinese-readers-scan-large-amounts-of-text-faster-more-accurately-than-their[maybe you can read faster], and yes, https://en.wikipedia.org/wiki/Horizontal_and_vertical_writing_in_East_Asian_scripts[vertical text (纵排)] is awesome (but is it more efficient? https://www.zhihu.com/question/22104723[Zhihu], https://www.quora.com/Can-literate-Chinese-people-easily-read-vertical-writing[Quora]).
+Yes, Chinese characters are:
 
-But they just take too much time for any sane adult to learn, it's harder than C++!
+* beautiful
+* https://chinese.stackexchange.com/questions/2003/can-chinese-readers-scan-large-amounts-of-text-faster-more-accurately-than-their[maybe you can read faster]
+* https://en.wikipedia.org/wiki/Horizontal_and_vertical_writing_in_East_Asian_scripts[vertical text (纵排)] is awesome (but is it more efficient? https://www.zhihu.com/question/22104723[Zhihu], https://www.quora.com/Can-literate-Chinese-people-easily-read-vertical-writing[Quora]).
+* more historically stable, and you can still read/learn more or less quickly to read https://en.wikipedia.org/wiki/History_of_the_Chinese_language[texts written more than two thousand years ago]
+
+but they just take too much time for any sane person adult to learn, it's harder than C++!
+
+Ciro initially learnt from book that come with audio recordings in the first 6-months to 1 year in 2010, but that got impossibly boring afterward, so he later moved to just basically talking as much as possible non-important things to <<why-does-ciro-santilli-love-china-so-much,his wife in Chinese>>, and whenever he reaches one that he doesn't know that seems useful, he Plecos it up or just 怎么说 to his <<wife>> and then Pleco.
 
 It should also be mentioned that Ciro also feels that it would be better if all countries more officially adopted English as an international language that everyone should learn for reasons explained at: https://cirosantilli.com/#having-more-than-one-natural-language-is-bad-for-the-world
 
@@ -1958,7 +2058,6 @@ But they should have gone further and reduced it to pinyin like the Korean and V
 
 <<ciro-santilli>> smirked when he came across the character "蒄" in Pleco, and the translation was: "meaning unknown (herb mentioned in old books)". Yes, at the word level, the same like exists in phonetic systems, but that it takes up a modern dictionary and Unicode slot is still funny.
 
-
 Posts that express similar ideas:
 
 * <<evil-chinese-characters-by-ted-chiang>>
@@ -1966,8 +2065,10 @@ Posts that express similar ideas:
 .The "fictional" Chinese character "Dou" from https://en.wikipedia.org/wiki/Uncyclopedia[Uncyclopedia] is roughly translated as "Impossibly complex pictogram-based writing system that takes a person a thousand thousand years to learn." and illustrates well why pictograms are a bad idea. https://uncyclopedia.ca/wiki/File:Chinese_character_extreme.svg[Source].
 image::https://uncyclopedia.ca/w/images/e/e1/Chinese_character_extreme.svg[height=400]
 
+////
 .https://www.youtube.com/watch?v=t_cbW5JK9WM "The most complex Chinese character" by Vladimir Skultety does a reasonable analysis of which Chinese character is the most complex
 video::t_cbW5JK9WM[youtube,height=400,width=600]
+////
 
 [[evil-chinese-characters-by-ted-chiang]]
 ====== 坏汉字 by Ted Chiang
@@ -2370,6 +2471,7 @@ If you think that this list can be improved, please open an issue explaining how
 
 It might be a newbie text editors for newbie Windows users, but at least they use it to good use by doing keyword attacks:
 
+* 2020-08: https://techcrunch.com/2020/08/17/notepad-plus-plus-blocked-in-china/ "Text editor Notepad++ banned in China after ‘Stand With Hong Kong’ update" where "banned" means "the download page where they keywords are shown is now blocked in Chinese browsers". The rest of the website is still up. So no domain block due to HTTPS, browser only action for now.
 * 2019-10: "In October 2019 Notepad++'s GitHub issue tracker was flooded with pro-Chinese and anti-western messages after a version codenamed "Free Uyghur" (v7.8.1) was released"
 ** https://www.theregister.co.uk/2019/10/31/notepad_china_spam/
 ** https://www.reddit.com/r/China/comments/dp3icm/notepad_after_voicing_their_support_for_the/ "Notepad++, after voicing their support for the Uyghurs, is now being bombarded by Chinese nationalists on Github." See e.g.: https://github.com/notepad-plus-plus/notepad-plus-plus/issues/7489 and earlier issues
@@ -2467,6 +2569,7 @@ The US first caved in in 1972 with the https://en.wikipedia.org/wiki/Shanghai_Co
 
 News:
 
+* https://www.channelnewsasia.com/news/asia/taiwan-finalises-62-billion-purchase-of-f-16-jets-lockheed-13023336 "Taiwan finalises purchase of F-16 jets from Lockheed Martin". 90 jets, 8 billion USD.
 * 2020-05-26 https://www.taiwannews.com.tw/en/news/3940533 "Brazilian netizens fight back against CCP threats over Taiwan support"
 ** It should also be mentioned that this campaign could be being used/created by pro-Bolsanaro politicians as a way to detract focus from the COVID-19 epidemic that is reaching its deadliest phase in Brazil, e.g.: https://twitter.com/PauloMartins10/status/1265038976617984002
 * 2020 <<corona>> and Taiwan:
@@ -2556,6 +2659,9 @@ image::https://web.archive.org/web/20191012074352im_/https://www.rfa.org/english
 * 2019-06-18 https://www.youtube.com/watch?v=WmId2ZP3h0c "Inside China's 'thought transformation' camps - BBC News" China gives BBC "access" to a chosen show camp where everyone claims they are happy and willing to stay. They are however clearly adults being treated like children, taking courses and even having to sing and dance for the camera. https://youtu.be/WmId2ZP3h0c?t=486[486s] is also golden, when the CCP officer Zhang Zhisheng explains how they are <<thoughtcrime,just preventing future crime from happening>>. How can they be so stupid? How can they not see that this is not what the West wants to hear? Amazing dark-comedy like stuff.
 +
 video::WmId2ZP3h0c[youtube,height=400,width=600]
++
+.Propaganda picture where an adult man wearing traditional Xinjiang clothing and playing a traditional instrument inside a classroom setting inside a prison camp, as the CCP tries to show the world that they are happy and their culture is being respected, and only makes things worse. https://www.bbc.co.uk/news/blogs-china-blog-48700786[Source].
+image::https://web.archive.org/web/20200518075230im_/https://ichef.bbci.co.uk/news/320/cpsprodpb/1FAB/production/_107470180_dsc05820.jpg[height=400]
 * 2019-05-07 https://www.theguardian.com/world/2019/may/07/revealed-new-evidence-of-chinas-mission-to-raze-the-mosques-of-xinjiang
 * 2019-05-07 https://www.youtube.com/watch?v=ULaJVWOr4ko CNN does a few Xinjiang interviews and sends reporter to visit some of the concentration camps
 +
@@ -5137,15 +5243,16 @@ There are also claims that Li's birth name was Li Lai (李來).
 
 This claims to contain the biography of Li Hongzhi's family (likely all according to CCP sources), including several good pictures: https://kknews.cc/zh-hk/news/bbmz49.html The photo given there for Li Jun appears on this apparently FLG source without mention of the name: https://www.epochweekly.com/b5/103/5805.htm
 
-.Li Hongzhi with his wife Lirue and daughter Limeige presumably in the late 80's with fishing ships in a shipyard in the background. TODO location. Likely from CCP sources, in many places with <<chinese-government-media,kaiwnd>> watermarks. https://renjianzhengdao2019.blogspot.com/2019/05/blog-post_187.html[Pro-CCP source].
-image::https://web.archive.org/web/20200515122059im_/https://lh3.googleusercontent.com/proxy/4TGKtu8U3klyY_ld6bTpc9PnPOfSZppkEAl7gO6d9PghQbaJii4mykTlbMBtY7GYt_hCbw7Z1h3zohncGGn19vxr3ANWAUZUO6npqJsLlJCND_Nj8BqslNUaQBH1fzyY=s0-d[height=400]
+.Li Hongzhi with his wife Li Rui and daughter Li Meige presumably in the late 80's with fishing ships in a shipyard in the background. TODO location. Likely from CCP sources, in many places with <<chinese-government-media,kaiwnd>> watermarks. http://www.toppk.net/art/2016/3/9/art_7328_304365.html[Anti-FLG source].
+image::http://web.archive.org/web/20200817215528im_/http://www.toppk.net/picture/0/W020160308589690343847.jpg[height=400]
 
 .Photo of Christina Li from Shen Yun, which the CCP claims to be Li Meige, daughter of Li Hongzhi. That page also claims that she was awarded Bronze in the 2009 and 2010 NDT Chinese Dance Competition. https://web.archive.org/web/20121211022246/zh-cn.shenyunperformingarts.org/artists/biography/view/WG3gbBQudOg[Source].
 image::https://web.archive.org/web/20130704134123im_/http://www.shenyunperformingarts.org/data/image/small/2010/12/09/17326d10d511828f6b34fa6d751739e2.jpg[height=400]
 
-====== Dragon Springs
+[[dragon-springs]]
+====== Dragon Springs (龙泉)
 
-Li Hongzhi's Falun Gong complex in New York state countryside.
+Li Hongzhi's Falun Gong complex in New York state countryside, where he lives, and organizes <<shen-yun>>.
 
 https://goo.gl/maps/4bqt18CSBmFSekw89
 
@@ -5637,6 +5744,8 @@ Hundreds of human rights activists put into jail in quick succession. Short form
 * 709大抓捕
 * 710律师劫
 
+709 refers to the date when the arrests started: 09 July 2015. There were about 200 arrests.
+
 News coverage:
 
 * 2015
@@ -5644,10 +5753,14 @@ News coverage:
 ** https://edition.cnn.com/2015/07/13/china/china-activists-arrests/
 ** https://time.com/3954935/china-arrests-lawyers-human-rights/
 ** https://program-think.blogspot.com/2015/07/weekly-share-90.html from <<programthink>>
+** 2015-11-24 https://www.youtube.com/watch?v=VOlLxL3UZL8 "回首2015：709律师大抓捕" by <<rfa>>
 * 2017
 ** 2017-04 https://citizenlab.ca/2017/04/we-cant-chat-709-crackdown-discussions-blocked-on-weibo-and-wechat/
 
 Se also: <<intolerance>>
+
+.<<badiucao>> cartoon of about 40 of the arrested lawyers. TODO full name list. https://twitter.com/badiucao/status/884005207830544385[Source].
+image::http://web.archive.org/web/20200817222815im_/https://pbs.twimg.com/media/DESdgVpUQAAOZUc.jpg[height=400]
 
 === News pre-2015
 
@@ -6380,6 +6493,19 @@ These might be independent, but they are clearly pro CCP and thus cannot be trus
 
 * https://kknews.cc/ refers to <<falun-gong>> as an "Evil Cult" (反邪教) https://kknews.cc/zh-mo/entertainment/lj4y9yb.html (http://archive.is/osBDv[archive])
 * http://facts.org.cn/ anti-religion website in English, basically an English <<kaiwind>>
+
+[[guancha]]
+====== Guancha News (观察者网)
+
+https://zh.wikipedia.org/wiki/观察者网
+
+Website: https://www.guancha.cn/
+
+YouTube channel, mostly Chinese commentary videos: https://www.youtube.com/channel/UCJncdiH3BQUBgCroBmhsUhQ
+
+Ideology:
+
+* anti-<<falun-gong>>: https://www.guancha.cn/politics/2019_09_18_518339.shtml
 
 [[kaiwind]]
 ====== Kaiwind (BIASED MEDIA)
@@ -7466,8 +7592,8 @@ Bibliography:
 * https://chinese.stackexchange.com/questions/8355/角-毛-10-cents-for-money-why
 * https://forum.duolingo.com/comment/26832834/六元四角-vs-六块四毛钱
 
-.50-cent coin (五角) from the https://en.wikipedia.org/wiki/Fourth_series_of_the_renminbi[fourth series of renminbi] (https://zh.wikipedia.org/wiki/第四套人民币[第四套人民币], 1987-1997). This image is going to be very useful. Note the beautiful plum blossom drawings reminiscent of <<chinese-traditional-painting>> which <<ciro-santilli>> loves. Note how it uses 角 (jiao3) instead of 毛 (mao2). https://en.wikipedia.org/wiki/File:5-chinese-jiao-coin-national-emblem-obverse-1.jpg[Source].
-image::https://upload.wikimedia.org/wikipedia/commons/2/2e/5-chinese-jiao-coin-national-emblem-obverse-1.jpg[height=400]
+.50-cent coin (五角) from the https://en.wikipedia.org/wiki/Fourth_series_of_the_renminbi[fourth series of renminbi] (https://zh.wikipedia.org/wiki/第四套人民币[第四套人民币], 1987-1997). This image is going to be very useful. Note the beautiful plum blossom drawings reminiscent of <<chinese-traditional-painting>> which <<ciro-santilli>> loves. Note how it uses 角 (jiao3) instead of 毛 (mao2). http://www.bjzxcp.com/article-41679.html[Source].
+image::http://web.archive.org/web/20200817213230im_/http://image.bjzxcp.com/images/upload/2019/08/0829/1567065533546271.png[height=400]
 
 [[how-to-deal-with-wumaos]]
 ===== How to deal with wumaos 如何应对五毛
@@ -7613,6 +7739,8 @@ image::https://web.archive.org/web/20200109143505im_/http://www.xinhuanet.com/en
 
 * https://en.wikipedia.org/wiki/One-child_policy
 * https://zh.wikipedia.org/wiki/一孩政策
+
+http://ftp.iza.org/dp3214.pdf suggests that a 1% increase in the male/female sex ratio raised violent and property crime rates by some 3%, mentioned with percentage error at https://youtu.be/DytBlcScGNk?t=1304
 
 [[rule-of-law]]
 === Rule of law 法治
@@ -9826,6 +9954,8 @@ Translations:
 ** <<青铜兵器之殳简介>>
 *** here for example "青铜兵器" describes "殳" as in "'Shu', the bronze weapon".
 ** <<海外生存之惑>>
+
+Notes: https://en.wiktionary.org/wiki/の[の] (no) in Japanese, as can be seen from <<agnes-chow>>'s Japanese nickname "民主の女神".
 
 [[止]]
 ==== 止 (zhi3, stop)
