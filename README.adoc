@@ -59,6 +59,8 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 * https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
 * https://gitlab.com/cirosantilli/china-dictatorship Maybe some day https://gitlab.cn/ ? :-)
 * https://bitbucket.org/cirosantilli/china-dictatorship
+* <<gitee>> https://gitee.com/cirosantilli/china-dictatorship
+** https://web.archive.org/web/20200821202450if_/https://gitee.com/cirosantilli/china-dictatorship archive immediately after creation
 
 GitHub Pages: https://cirosantilli.com/china-dictatorship Trade-offs with https://github.com/cirosantilli/china-dictatorship[]
 
@@ -3535,6 +3537,26 @@ The only thing that would work is if the Chinese government makes a gov-takedown
 
 China's GitHub censorship history is documented at: https://en.wikipedia.org/wiki/Censorship_of_GitHub#China
 
+* 2019-07-29 https://techcrunch.com/2019/07/29/github-ban-sanctioned-countries/ "GitHub confirms it has blocked developers in Iran, Syria and Crimea". "As part of the push, Friedman said GitHub has enforced new restrictions to prevent users in sanctioned countries from accessing private repositories and GitHub Marketplace, as well as maintaining private paid organization accounts"
+
+===== Gitee
+
+For our mirror there, see: <<mirrors>>.
+
+Linked to "Open Source China" (开源中国) according to TechCrunch:
+
+____
+The project will be carried out by a consortium led by Open Source China, the Shenzhen-based firm behind its namesake open-source community and Gitee.
+____
+
+* https://github.com/oschina GitHub OAuth goes through that organization
+* https://www.oschina.net/ their website
+
+News:
+
+* 2020-08-21 https://techcrunch.com/2020/08/21/china-is-building-its-github-alternative-gitee/ "China is building a GitHub alternative called Gitee"
+** https://github.com/1995parham/github-do-not-ban-us protest repo against the sanctions, archived as of 2020-08
+
 ===== GitHub gov-takedowns
 
 https://github.com/github/gov-takedowns
@@ -6012,6 +6034,10 @@ Related sections:
 * <<other-openly-dissident-users-on-stack-overflow>>
 
 === Chinese dissidents
+
+Smaller ones:
+
+* https://www.rfa.org/english/news/china/monitor-08182020091653.html "Jailed WeChat User Says Chinese Police Monitor Overseas Accounts Too". Gao Zhigang.
 
 Other sections:
 

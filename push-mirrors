@@ -36,3 +36,5 @@ git tag -m "$new_version" "$new_version"
 git push --follow-tags
 git push git@gitlab.com:cirosantilli/china-dictatorship.git
 git push git@bitbucket.org:cirosantilli/china-dictatorship.git
+# Nah.
+#git push https://gitee.com/cirosantilli/china-dictatorship.git
