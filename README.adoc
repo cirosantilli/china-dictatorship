@@ -2924,11 +2924,11 @@ Western governments must reciprocate unfair Chinese practices: https://politics.
 
 Companies only care about money and have no long term view, the following must be imposed by governments on Western companies.
 
-First of all, serious sanctions must be pot on companies that sell sensitive things to dictatorships:
+Serious sanctions must be pot on companies that sell sensitive things to dictatorships:
 
 * <<western-companies-that-sell-censorship-technology-to-dictatorships,censorship or anti-privacy software>>
 
-The most obvious thing is to go https://en.wikipedia.org/wiki/Tit_for_tat[tit for tat] on Censorship and completely ban all Chinese-sponsored social media accounts:
+All posts of all Chinese-sponsored social media accounts must be clearly market as such. Even better, they should add funny censored images on top of them. Related news:
 
 * Twitter
 ** News
@@ -2950,12 +2950,16 @@ Some websites have started marking such accounts, which is a great start, but a 
 ** report https://www.scmp.com/news/world/united-states-canada/article/3096380/twitter-begin-labelling-state-affiliated-media
 ** example from https://twitter.com/PDChina <<peoples-daily>> marked as "China state-affiliated media" and links to https://help.twitter.com/en/rules-and-policies/state-affiliated-china
 
-But then those websites would lose ad revenue, right? :-)
+Marked media must be forbidden to both monetize and pay to promote its content.
+
+Any outlets that do not announce themselves as state sponsored but are, must be punshed/banned forever when they are found out.
 
 Related approaches taken by the CCP that should also be stopped dead by strict enforcement of the https://en.wikipedia.org/wiki/Foreign_Agents_Registration_Act[Foreign Agents Registration Act (FARA)]:
 
-* <<chinese-interference-in-western-media>>, notably <<china-watch>>
+* <<chinese-interference-in-western-media>>, notably <<china-watch>>, must 
 * <<ccp-apologists>>
+
+Physical presence influence must be completely blocked, e.g. cultural centers that report directly to the CCP such as <<confucius-institute>> and <<cssa>> must be banned.
 
 News about Chinese state media using Western social media:
 
@@ -2963,24 +2967,22 @@ News about Chinese state media using Western social media:
 
 Accounts that are not labelled as being from the Chinese government, but which support the CCP, must be investigated to determine if they are actually funded by the Chinese government.
 
-Their websites should also be blocked, see: <<chinese-government-media>>. This does have the downsides that:
+TODO what to do with websites of: <<chinese-government-media>>? Blocking them has the downsides that:
 
 * it would be harder to monitor what crazy shit the commies are doing
 * those censorship mechanisms could be reused to block good websites by Western governments that are becoming Evil
 
-But anything that pisses off the CCP is worth it, like there's much we can learn from their bullshit.
+Let's just leave them up to start with.
 
-Chinese social media must be banned. This is less serious than regular websites, because you can always repost on Western social media but without getting spied on:
+Chinese social media such as WeChat and <<tiktok>> must be banned. This is less serious than regular websites, because you can always repost on Western social media but without getting spied on:
 
 * 2020-08-07 https://www.engadget.com/tiktok-wechat-executive-order-014615752.html "Trump executive order seeks to ban <<tiktok,TikTok>>, WeChat 'transactions' in 45 days"
 
 Whenever China kicks out a western journalist who is in China and reports there, the Western country must do the same and kick out a Chinese journalists for a Chinese media.
 
-Another upside is that this would also hugely bolster <<censorship-circumvention>> technologies, as every Chinese expat would need to buy a VPN.
+An upside of restricting Chinese servies is that it would hugely bolster <<censorship-circumvention>> technologies, as every Chinese expat would need to buy a VPN.
 
 * https://politics.stackexchange.com/questions/18508/why-dont-western-countries-penalize-chinese-companies-in-the-same-way-that-chin
-
-And the same must be done for cultural centers that report directly to the CCP such as <<confucius-institute>> and <<cssa,CSSAs>>.
 
 Western governments must identify raw material dependencies on China, and reduce them, while at the same time forbidding technology transfer to China. China has been trading cheap resources for technology, and we must stop that now.
 
