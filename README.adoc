@@ -2396,7 +2396,7 @@ See also: <<photobombing-like-attacks>>.
 
 https://www.reddit.com/r/China[], see also: <<reddit>>
 
-Catches all the important news
+Catches all the important news.
 
 A large part of the posts has controversial material.
 
@@ -2414,8 +2414,37 @@ Tencent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-ba
 * https://www.reddit.com/r/China is arguably the best as of 2020, see also: <<anti-ccp-info-sources>>
 * https://www.reddit.com/r/fucktheccp/ small as of 2020 but promising
 * https://www.reddit.com/r/HongKong had 3x more users than r/china as of 2020 after <<2019-hong-kong-anti-extradition-bill-protests>>.
-* https://www.reddit.com/r/Sino/ TODO understand what that bullshit sub is about
 * https://www.reddit.com/r/CCP_virus/ for <<corona>>
+
+====== r/sino
+
+https://www.reddit.com/r/Sino/
+
+Any comment critical of China and mods immediately ban you, e.g. on 2020-08-21 at https://www.reddit.com/r/Sino/comments/ie0mak/china_is_building_a_github_alternative_called/ which is related to <<gitee>>, <<ciro-santilli>> commented:
+
+____
+Let's see how long it takes them to block my repo/account: https://gitee.com/cirosantilli/china-dictatorship | http://web.archive.org/web/20200821202450/https://gitee.com/cirosantilli/china-dictatorship
+____
+
+The ban message is:
+
+____
+You have been permanently banned from participating in r/Sino. You can still view and subscribe to r/Sino, but you won't be able to post or comment.
+
+Try https://www.reddit.com/r/westerner/[r/westerner] TRASH doesn't get by mods here. Tiananmen Square is vindicated by China's development. Anti terror system in Xinjiang is working. End result for HK is the same since 1997, regardless of rioters. Scientology-esque FLG/Shen Yun cult show has failed for decades, if you believe their claims, it's all of them losing badly.
+
+Dec 31 China informed WHO about mysterious pneumonia. Jan 11 Chinese reveal virus genome Jan 23 Wuhan quarantine - businessinsider/sciencemag
+
+You had the genome and saw the lengths China went to. Don't blame others for failing months later.
+
+US accused of 'modern piracy' after diversion of masks meant for Europe - theguardian
+
+Democracies Are Better at Fighting Outbreaks - theatlantic XD
+
+The US leads in coronavirus cases, but not pandemic response - sciencemag XD
+
+Beliefs of founder cultleader of Falun Gong from own lectures on official falundafa site https://redd.it/42wlvf
+____
 
 ==== Where can I find good words for a keyword attack?
 
