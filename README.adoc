@@ -1343,9 +1343,12 @@ See also:
 * <<separatism>>
 * <<richer>>
 
+[[hate-speech]]
 ===== Western democracies also censor subjects such as child porn and hate speech
 
 First, if you don't think child porn should be banned, there isn't much point in arguing with you.
+
+Hate speech is much more complex. <<ciro-santilli>> does feel that we should be very careful when banning hate speech, and that perhaps it shouldn't be banned at all as it might just make matters worse.
 
 But of course, there is censorship in Western democracies, and there is a gray area between what should be censored or not.
 
@@ -4380,6 +4383,12 @@ Like other aspects of FLG however, this appears in other religions, e.g. my moth
 * xref:flg-organized[You can support FLG by doing X and Y, it is not mandatory, but why wouldn't you since you are saving other people?]. Explaining that Falun Gong is good contrary to CCP propaganda also known as "Fa-rectification" in the English translation jargon.
 * alternate dimensions
 * pre-civilization: civilization is actually much older than what we believe, and was supe radvanced, but https://en.wikipedia.org/wiki/Societal_collapse[societal collapse] events led us to forget about it, a bit like https://en.wikipedia.org/wiki/Atlantis[atlantis].
++
+Notably, this also implies that the https://en.wikipedia.org/wiki/Evolution[theory of evolution] is wrong, since there existed modern humans hundred of millions of years ago (the current scientific estimates for anatomically modern humans is https://en.wikipedia.org/wiki/Early_modern_human[500,000 years]): https://falundafa.org/eng/eng/zfl_14.htm
++
+____
+Archaeologists have found in the world a kind of organism called "three-leaves insect", which came into being between 600 million and 260 million years ago, and became extinct thereafter. An American scientist found a fossil of "three-leaves insect", on which there was also a human footprint, left by a shoe he was wearing, and clearly printed on the fossil. Aren't they joking with the historians? How could there possibly have been human beings 260 million years ago according to Darwin's theory of evolution?
+____
 * xref:flg-medication[Maybe FLG will make you healthier, but no promises, but it will make you a better person, and that's why you should do it, but if you really really believe, you get healthier]. But people who seemed to be believers also die, because deep within their hearts, there was a belief problem.
 * <<is-chinese-politician-x-evil,the CCP is evil>>, not figuratively, but literally as in they are representatives of, or evil supernatural beings themselves. E.g. <<jiang-zemin>> is actually an evil frog in some alternate dimension, literally, not just memecally. The Chinese Government is literally responsible for creating <<corona,Covid-19>>. They give the CCP too much credit. The CCP are just a bunch of lazy and greedy people like you and me.
 
@@ -5101,9 +5110,17 @@ But the media is not legally obliged to state their affiliation.
 And if that were the case, then we should force _all_ newspapers to start taking polls of how many employees follow which religion and support which political party, and then put that in their print.
 
 [[flg-intolerance]]
-===== FLG dislikes several other groups like homosexuals and some other religions
+===== Falun Gong dislikes several other groups like homosexuals and some other religions
 
-Like most <<flg-religion,old religions>>.
+Like most <<flg-religion,old religions>>, related: <<hate-speech>>.
+
+<<flg-canon,Canon quote>> from https://falundafa.org/eng/eng/lectures/19980904L.html[]:
+
+____
+Question: Why is homosexuality considered immoral?
+
+Teacher: Think about it, everyone: Is homosexuality human behavior? Heaven created man and woman. What was the purpose? To procreate future generations. A man being with a man, or a woman with a woman—it doesn’t take much thought to know whether that’s right or wrong. When minor things are done incorrectly, a person is said to be wrong. When major things are done incorrectly, it’s a case of people no longer having the moral code of human beings, and then they are unworthy of being human.
+____
 
 Democracy dislikes dictators.
 
@@ -5119,6 +5136,30 @@ See also:
 
 * <<intolerance>>
 * <<gay-rights>>
+
+====== Falun Gong on races
+
+<<li-hongzhi>> clearly classifies races as a metaphysical concept e.g. on <<flg-canon>> https://falundafa.org/eng/eng/lectures/19990502L.html[]:
+
+____
+Strictly speaking, Indians, Egyptians, Persians, the yellow race, the white race, and the black race are the six major races of the present Earth. All the other ones are mixed races.
+____
+
+Mixed race people seem to have some metaphysical defect/peculiarity, https://falundafa.org/eng/eng/lectures/1997L.html[]:
+
+___
+Question: What did you say last time that a person of mixed race has lost?
+
+Teacher: He has lost the body that comes from the top down through to here. Let me put it this way: People of the yellow race have people of the yellow race up there, and people of the white race have people of the white race up there. He’s lost this thread.
+___
+
+but they can still go to Heaven:
+
+____
+Question: Can a person of mixed race succeed in cultivation?
+
+Teacher: Whether someone can cultivate and whether he can succeed in cultivation are all up to the person himself. If a person of mixed race can persist in cultivation, he can reach Consummation just the same. When he succeeds in cultivation his Primordial Spirit will return to wherever he came from.
+____
 
 [[flg-medication]]
 ===== FLG believers are less likely to take necessary medication
@@ -5156,6 +5197,14 @@ ____
 ____
 
 and the general very beaty-around-the-bush suggestion that if you do master Falun Gong fully, you will be healthy. But with the usual disclaimer that "you have to become a master", and since "there are no graduates", no one is ever a master for sure, and as usual "you don't get the promised goodies", as as mentioned at: <<orange-papers>>.
+
+https://www.falundafa.org/book/eng/mgjf.htm contains some more direct quotes that suggest that you can take medicine, but you have to try and bear the pain first, and if you can't, it's a sign that you haven't practiced Falun Gong well enough:
+
+____
+So when you take medicine now you’re killing this sickness or the virus at the surface. Medicine can truly kill viruses at the surface. Yet a practitioner’s gong[7] is automatically destroying viruses and karma. But as soon as medicine kills the surface virus that has seeped over from other dimensions, the virus—karma—over on the other side will know, since everything is alive, and it will stop coming over. Then you feel that you’ve recovered because you took the medicine. But let me tell you that it nonetheless accumulates over there. Life after life human beings are accumulating this stuff. When the accumulation reaches a certain extent, the person becomes incurable and when he dies he’s totally destroyed. He loses his life—forever loses his life. That’s how horrifying it is. So here I’ve explained to you the relationship. It’s not that people aren’t allowed to take medicine. When an everyday person gets sick he definitely needs medical treatment.
+
+But how do we cultivators deal with it? Aren’t we purifying your body? Like the annual rings of a tree, there is karma at the very core, and at every layer, life after life, of your body. When you practice cultivation, I keep pushing this karma outward from the center; I push, and push, and push, and push until I completely push the karma out for you. And not all of this can go through the surface of our bodies. You wouldn’t be able to bear it if all of it were to go through the surface of your body. Only a portion of it comes out through the surface. But you still feel that you’re suddenly getting sick, you find it terribly uncomfortable and painful, can’t bear it, regard yourself as an everyday person, and go take medicine. Then you can go ahead and take medicine, as we’ve never said that everyday people can’t take medicine. We only say that your enlightenment quality isn’t up to par and that you didn’t pass this test well.
+____
 
 Ciro does however believe that newer generations believe in this much less, notably because the first believer generation is all basically old or dead, and soon will be entirely dead. This might also have been de-emphasised to reduce the bullshit aspects and help the international spread of Falun Gong. Not even Falun Gong believers are that blind. And this perfectly mimics the beginning of Christianism, where the first generations gave much more emphasis to miraculous cures.
 
@@ -7097,7 +7146,7 @@ ____
 [[censorship]]
 === Censorship 审查
 
-Related: <<western-democracies-also-censor-subjects-such-as-child-porn-and-hate-speech>>.
+Related: <<hate-speech>>.
 
 .https://en.wikipedia.org/wiki/Eric_Drooker[Eric Drooker]'s "Censorship" (TODO year) has become one of the most recognizable censorship symbols as of 2020. https://www.drooker.com/illustrations[Source].
 image::https://web.archive.org/web/20200313090742if_/https://images.squarespace-cdn.com/content/v1/56b6ef88a3360c8cda5f4ec5/1455664972210-ZH3TLGYYZ2ACRHT3SG32/ke17ZwdGBToddI8pDm48kPC_zjTA3UYFvUlg9ipOEJx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URB8do3-7hcAcpn6rB6iKr1pTef0AlszvevyZwBc1CWewPPt5b224fdRayPxZIHRuA/censorship.jpg?format=1500w[height=400]
