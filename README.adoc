@@ -59,8 +59,7 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 * https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
 * https://gitlab.com/cirosantilli/china-dictatorship Maybe some day https://gitlab.cn/ ? :-)
 * https://bitbucket.org/cirosantilli/china-dictatorship
-* <<gitee>> https://gitee.com/cirosantilli/china-dictatorship
-** https://web.archive.org/web/20200821202450if_/https://gitee.com/cirosantilli/china-dictatorship archive immediately after creation
+* https://gitee.com/cirosantilli/china-dictatorship on <<gitee>> blocked after 12 hours: <<gitee-censorship>>
 
 GitHub Pages: https://cirosantilli.com/china-dictatorship Trade-offs with https://github.com/cirosantilli/china-dictatorship[]
 
@@ -2972,7 +2971,7 @@ TODO what to do with websites of: <<chinese-government-media>>? Blocking them ha
 * it would be harder to monitor what crazy shit the commies are doing
 * those censorship mechanisms could be reused to block good websites by Western governments that are becoming Evil
 
-Let's just leave them up to start with.
+Let's just leave them up to start with, who gives a fuck about them? :-) If they are getting too many page views, we can make search engines add the disclaimer too.
 
 Chinese social media such as WeChat and <<tiktok>> must be banned. This is less serious than regular websites, because you can always repost on Western social media but without getting spied on:
 
@@ -3558,6 +3557,35 @@ News:
 
 * 2020-08-21 https://techcrunch.com/2020/08/21/china-is-building-its-github-alternative-gitee/ "China is building a GitHub alternative called Gitee"
 ** https://github.com/1995parham/github-do-not-ban-us protest repo against the sanctions, archived as of 2020-08
+
+====== Gitee censorship
+
+After posting our <<mirrors>> there, it was blocked in 12 hours:
+
+* https://gitee.com/cirosantilli/china-dictatorship
+** archive immediately after: creation: https://web.archive.org/web/20200821202450if_/https://gitee.com/cirosantilli/china-dictatorship
+** blocked archive 12 hours later: https://web.archive.org/web/20200822111436/https://gitee.com/cirosantilli/china-dictatorship
++
+____
+{"status":404,"data":null,"message":"404 Not Found"}
+____
+* https://gitee.com/cirosantilli
+** archive immediately after: https://web.archive.org/web/20200821202055/https://gitee.com/cirosantilli
+** archive 12 hours later: https://web.archive.org/web/20200822111721/https://gitee.com/cirosantilli
++
+____
+{"status":403,"data":null,"message":"The user has been blocked"}
+____
+
+The block email is:
+
+____
+通知
+
+仓库 cirosantilli/China Dictatorship 已被锁定
+
+原因： 根据相关法律法规和政策，本仓库暂停访问。
+____
 
 ===== GitHub gov-takedowns
 
