@@ -1367,6 +1367,26 @@ Otherwise, this leads to extremely serious problems:
 
 See also: <<richer>>.
 
+===== Life of Brian (1979)
+
+https://en.wikipedia.org/wiki/Monty_Python%27s_Life_of_Brian
+
+This movie was almost banned in Britain at the time due to lobbying by Christian groups as shown in <<the-secret-life-of-brian-2007>>.
+
+Key scenes:
+
+* <<life-of-brian-nazi-jew>>
+
+====== The secret Life of Brian (2007)
+
+Documentary about <<life-of-brian-1979>>.
+
+Key points:
+
+* <<sacred-cows>>
+
+video::hdU_6jUQI9s[youtube,height=400,width=600]
+
 [[snowden]]
 ===== Snowden 斯诺登
 
@@ -1776,6 +1796,15 @@ USA funded sister media of the <<rfa>>.
 ==== Thailand (泰国)
 
 It is a crime to criticize the royal family: https://en.wikipedia.org/wiki/Lèse_majesté_in_Thailand
+
+As https://en.wikipedia.org/wiki/Terry_Gilliam[Terry Gilliam] brilliantly says in the <<the-secret-life-of-brian-2007>> https://youtu.be/hdU_6jUQI9s?t=492[]:
+
+[[sacred-cows]]
+____
+I was always convinced that there is no where you should't go. There are no https://en.wikipedia.org/wiki/Sacred_cow_(idiom)[sacred cows]. And if there are, if they are really sacred, let's see how much we puncture them and see if they still float.
+____
+
+Everyone must know how to be laughed at criticized.
 
 * 2020-08-24 https://techcrunch.com/2020/08/24/after-restricting-a-group-critical-of-thailands-monarchy-facebook-says-it-will-take-legal-action-against-the-government/ "After restricting a group critical of Thailand’s monarchy, Facebook says it will take legal action against the government"
 
@@ -4147,8 +4176,8 @@ image::https://web.archive.org/web/20191012075042im_/https://www.rfa.org/english
 .https://en.wikipedia.org/wiki/Zhang_Hongtu[Zhang Hongtu] cartoon showing <<mao-zedong,Mao Zedong>> and other communist officials at the Last Supper instead of Jesus and the Apostles. https://musicandculture.blogspot.com/2010/03/massive-last-supper-parodies-post.html[Source].
 image::https://web.archive.org/web/20191107094724if_/http://4.bp.blogspot.com/_W8pwMnZMNuQ/S5YAJmo1Q1I/AAAAAAAAC_A/YKRCKXUiSAM/s1600/meal.jpg[height=400]
 
-[[life-of-brian]]
-.https://youtu.be/wthHB3iTC7M?t=556 Nazi Jew deleted scene from https://en.wikipedia.org/wiki/Monty_Python%27s_Life_of_Brian[Monty Python's Life of Brian] (1979). This movie was https://www.youtube.com/watch?v=hdU_6jUQI9s[almost banned in Britain at the time due to lobbying by Christian groups]. If you want to stop <<christianity>>, don't put them in jail like the <<dictatorship,dictators>>. Do it the same way you stop dictators: with <<funny,comedy>>. Otherwise, the dictators remain in power, and <<intolerance,next person in jail, will be you>>.
+[[life-of-brian-nazi-jew]]
+.https://youtu.be/wthHB3iTC7M?t=556 Nazi Jew deleted scene from <<life-of-brian-1979>>. If you want to stop <<christianity>>, don't put them in jail like the <<dictatorship,dictators>>. Do it the same way you stop dictators: with <<funny,comedy>>. Otherwise, the dictators remain in power, and <<intolerance,next person in jail, will be you>>. <<the-secret-life-of-brian-2007>> is a good documentary about it.
 video::wthHB3iTC7M[youtube,width=600,height=400,start=556]
 
 [[eastern-lightning]]
@@ -6995,7 +7024,7 @@ Humour is the greatest weapon against <<dictatorship,dictators>>:
 
 See also:
 
-* <<life-of-brian>>
+* <<life-of-brian-1979>>
 * <<zone-theory>>
 
 .Weibo logo vs Sauron's eye 微博标志vs索倫魔眼 by Ciro Santilli.
