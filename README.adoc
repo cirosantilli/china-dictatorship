@@ -11,7 +11,7 @@
 :toclevels: 6
 :toc-title:
 
-https://cirosantilli.com/china-dictatorship
+https://cirosantilli.com/china-dictatorship | https://github.com/cirosantilli/china-dictatorship
 
 Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
@@ -286,6 +286,7 @@ For:
 +
 This greatly increase the probability of dealing bad with situations. See e.g.: <<corona>.
 * governments are monopolies, and the more powerful they are, the worst it is for competition an efficiency in general. E.g.: the startup with better government ties wins, instead of the most efficient one.
+* people in dictatorships tend to <<real-username-law,hide their true identities online>> and in life in general. It is best not to stand out, because if you make any mistake, you are really fucked. As a result, for example, if you do something awesome like a creating an open source project, but do it anonymously, you won't get as much fame. And therefore everyone does less of such awesome things on average.
 
 Against:
 
@@ -505,7 +506,7 @@ Of course China won't say that they are starting a war when they do.
 
 They will of course start with territories which they claim as theirs, to add to <<separatism,other recent additions which were not theirs>> until the recent past, even though their inhabitants desperately want to leave China:
 
-* https://en.wikipedia.org/wiki/2020_China–India_skirmishes
+* https://en.wikipedia.org/wiki/2020_China–India_skirmishes | https://www.asiasentinel.com/p/beijing-said-to-fund-separatist-india "Beijing Said to Fund Separatist India Movement"
 
 Which reminds us of... <<nazi>>:
 
@@ -522,7 +523,7 @@ In Italy, Benito Mussolini sought to create a https://en.wikipedia.org/wiki/Ital
 ____
 * 1931 https://en.wikipedia.org/wiki/Japanese_invasion_of_Manchuria[1931 Japanese invasion of Manchuria], with one false flag event preceding it: https://en.wikipedia.org/wiki/Mukden_Incident[Mikden Incident].
 
-When China <<evil-west,calls the USA Imperialist>> (帝国主义), there is of course some truth to it, but it is also very ironic, because as https://youtu.be/GiVs05yq9-o?t=74[Lindybeige mentions], China is obviously the largest empire on Earth! Despite its <<xinjiang,uniformization>> efforts, China is highly diverse since it is obviously made up of a https://en.wikipedia.org/wiki/List_of_ethnic_groups_in_China[large stitched up carpet of nations that were conquered by a single empire].
+When China <<evil-west,calls the USA Imperialist>> (帝国主义), there is of course some truth to it, but it is also very ironic, because as https://youtu.be/GiVs05yq9-o?t=74[Lindybeige mentions], China is obviously the largest empire on Earth! Despite its <<xinjiang,uniformization>> efforts, China is highly diverse since it is obviously made up of a https://en.wikipedia.org/wiki/List_of_ethnic_groups_in_China[large stitched up carpet of nations that were conquered by a single empire]. E.g. <<xinjiang>> translates literally as "The New Frontier"!
 
 [[uneducated-masses]]
 ==== The Chinese masses are still uneducated, and not fit for free speech and democracy 中国大众愚昧，不能好好选领导
@@ -2500,7 +2501,7 @@ If you think that this list can be improved, please open an issue explaining how
 ===== Notepad++
 
 * https://en.wikipedia.org/wiki/Notepad++
-* https://en.wikipedia.org/wiki/Notepad++
+* https://zh.wikipedia.org/wiki/Notepad++
 
 It might be a newbie text editors for newbie Windows users, but at least they use it to good use by doing keyword attacks:
 
@@ -2759,6 +2760,12 @@ ____
 +
 and yet as of the 2017 Internment camps, all Xinjiang Muslims were fucked. <<rule-of-law>> comes to mind.
 
+.Advertisement published by Qingdao Decai Decoration Co. claiming to supply government-sponsored Uyghur workers from Xinjiang to other provinces. Source of translation: https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report]. Original website archive from  16 Jan 2020: http://archive.ph/r7T8r[]. The ad features a caricature of two dancing Uyghurs in traditional clothing. This is evidence of the CCP's mass forced eviction and slavery of Uyghurs.
+image::https://web.archive.org/web/20200823174155im_/https://s3-ap-southeast-2.amazonaws.com/ad-aspi/2020-02/ufs-fig8.jpg[height=400]
+
+.Uyghur workers at Taekwang Shoe Manufacturing waving the Chinese flag, October 2019. Viewable on the pro-CCP China Ethnic Religion Net (中国民族宗教网) website: http://www.mzb.com.cn/html/report/191130765-1.htm[], and also shown in the https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report].
+image::https://web.archive.org/web/20200825073415im_/http://www.mzb.com.cn/res/Home/1911/191130764.jpg[height=400]
+
 .https://www.youtube.com/watch?v=Mx0JFgwATho&t=128 "New footage shows Uyghurs bussed across China for forced labour in factories". At the given timestamp, contains 30 seconds of footage extracted from 3 social media posts showing Uyghurs being sent in busses to work in far way regions.
 video::M_aXcH1zDEE[youtube,height=400,width=600,start=128]
 
@@ -2839,6 +2846,7 @@ video::M_aXcH1zDEE[youtube,height=400,width=600]
 
 News:
 
+* 2020-08-22 https://hk.appledaily.com/us/20200822/QS26FF4DBFE7PG2LJJEO4NSQTQ/ they are already trying to remove sensitive materials from history textbooks
 * 2020-08-10 https://www.bloomberg.com/news/articles/2020-08-10/hong-kong-media-tycoon-jimmy-lai-arrested-apple-daily-reports[] "Hong Kong Media Tycoon Arrested in Latest Blow to Democracy Camp"
 +
 <<jimmy-lai>> is the founder of <<apple-daily>>, the flagship newspaper under Next Digital and the biggest pro-democracy paper in Hong Kong, reported that nearly 200 officers were entering their offices. 
@@ -6143,10 +6151,6 @@ Related sections:
 
 === Chinese dissidents
 
-Smaller ones:
-
-* https://www.rfa.org/english/news/china/monitor-08182020091653.html "Jailed WeChat User Says Chinese Police Monitor Overseas Accounts Too". Gao Zhigang.
-
 Other sections:
 
 * <<people-arrested-for-reporting-on-the-2019-corona-virus>>
@@ -6160,6 +6164,18 @@ Other lists:
 * https://www.frontlinedefenders.org/en/location/china Front Line Defenders
 * https://www.nchrd.org/ Chinese Human Rights Defenders
 * https://cppc1989.blogspot.com/ 中國政治犯關注 China Political Prisoner Concern. Chinese blog with an infinite list of Chinese political prisoners.
+
+Other dissidents:
+
+* Cai Xia (https://zh.wikipedia.org/wiki/蔡霞[蔡霞]), https://chinadigitaltimes.net/space/Cai_Xia
++
+Retired teacher at <<central-party-school>> living in the USA.
++
+** 2020-06-12 https://chinadigitaltimes.net/2020/06/translation-former-party-professor-calls-ccp-a-political-zombie/ "TRANSLATION: FORMER PARTY PROFESSOR CALLS CCP A 'POLITICAL ZOMBIE'"
++
+She criticized Xi Jinping in private online meeting, and the audio was leaked: https://www.youtube.com/watch?v=hEBHVsHlPeI
+** 2020-08-21 https://www.taiwannews.com.tw/en/news/3992140 she was expelled from from the CCP, and she said she was happy.
+* https://www.rfa.org/english/news/china/monitor-08182020091653.html "Jailed WeChat User Says Chinese Police Monitor Overseas Accounts Too". Gao Zhigang.
 
 [[xu-xiaodong]]
 ==== Xu Xiaodong "Mad Dog" 徐晓冬
@@ -7401,6 +7417,11 @@ See also: <<western-companies-that-comply-with-chinese-censorship-requests>>.
 .Cartoon showing how Amesys systems are used to suppress citizens in Egypt. Do you want the logo of your company to figure there instead? https://www.fidh.org/en/region/north-africa-middle-east/egypt/sale-of-surveillance-equipment-to-egypt-by-french-company-amesys[Source].
 image::https://web.archive.org/web/20200315112732if_/https://www.fidh.org/local/cache-gd2/86/564727cb219a210145a0dd6a1b7561.jpg?1556188970[height=400]
 
+===== Chinese companies that sell censorship technology to dictatorships
+
+.Slide from a presentation of the Knowlesys Hong Kong social media censorship/misinformation company with words "Social Media as Weapons", "Your Enemy", leaked by the CCP_Unmasked hacker group on 2020/08/20. The leaks also contained data on  Yunrun Big Data Service, a company based in Guangzhou, and OneSight, based in Beijing. From this hack they apparently also managed obtained passwords used by those companies to manage CCP social media, and they posted some messages about their efforst through those accounts. Western countries have also used terrorism as an excuse way to reduce privacy/start wars, but of course, things are much worse in dictatorships where there is no freedom of speech, related <<evil-west>>. https://www.vice.com/en_in/article/dyzewz/hackers-leak-alleged-internal-files-of-chinese-social-media-monitoring-firmscv[Source].
+image::http://web.archive.org/web/20200823183109if_/https://video-images.vice.com/_uncategorized/1597950511175-screen-shot-2020-08-20-at-10317-pm.png?resize=800:*[height=400]
+
 ===== Censorship monitoring
 
 Projects that attempt to understand how the Great Firewall works and what it blocks:
@@ -7777,6 +7798,28 @@ Their tone is natural unlike others more exaggerated like <<nathan-rich>>, so ma
 Sample videos:
 +
 * https://www.youtube.com/watch?v=Fq1mCL7EQrM "China Doesn't Have Free Speech!"
+* Daniel Dumbrill
++
+Channel: https://www.youtube.com/channel/UC6Bl8MTbW9M9MQoPhxbarpw
++
+Clip featured in <<cgtn>>: https://www.youtube.com/watch?v=TUjatX2p0dA (http://archive.is/gCeIk[archive]) "Daniel Dumbrill: Hong Kong is far freer since its return to China" supporting <<hong-kong-national-security-law>>
++
+Another one: https://www.youtube.com/watch?v=wMUA3GeScUI "Daniel Dumbrill: I want my children to be proud of being Chinese"
++
+https://www.youtube.com/watch?v=gygxrdNmzUQ "Speaking With a Uyghur Activist About Xinjiang Abuse" interviews https://twitter.com/arslan_hidayat[Arslan Hidayat], who was also interviewed by <<china-uncensored-youtube-channel,China Unscripted>>: https://www.youtube.com/watch?v=fUTUVxw7VXc and appears to be denouncing the oppression. Video description is filled to the brim with links about how the West is using Xinjiang for fake news. TODO how can he make a video with that guy and still live in China? This suggests strongly that his videos obtain direct CCP approval.
++
+https://www.youtube.com/watch?v=9nNZbDF75dc "Daniel the Pro-China 'Shill'" replies to accusations of being pro-China
+* https://en.wikipedia.org/wiki/Allan_Zeman Carrie Lam supporter
+
+<<nazi>>-related people that come to mind:
+
+* https://en.wikipedia.org/wiki/William_Joyce William Joyce
++
+____
+William Brooke Joyce (24 April 1906 – 3 January 1946), nicknamed Lord Haw-Haw, was an American-born British fascist politician and Nazi propaganda broadcaster to the United Kingdom during World War II. He took German citizenship in 1940.
+
+Joyce was convicted of one count of high treason in 1945 and sentenced to death, with the Court of Appeal and the House of Lords both upholding his conviction. He was hanged on 3 January 1946, making him the last person to be executed for treason in the United Kingdom.
+____
 
 [[nathan-rich]]
 ====== Nathan Rich (Hotpot King, 火锅大王)
@@ -7905,6 +7948,22 @@ This is especially interesting given that one of the main propaganda reasons for
 
 * <<xu-xiaodong>> reveals support for Tai Chi
 * 2020-06-03 Beijing considering censoring anti Chinese traditional medicine https://www.theguardian.com/world/2020/jun/03/beijing-draws-up-plans-to-outlaw-criticism-of-traditional-chinese-medicine
+
+[[drink-tea]]
+=== Police invite to drink tea (被请喝茶)
+
+* <<zhihu>> https://www.zhihu.com/question/60504957 "被请喝茶是怎样的体验？"
+* <<pincong>> https://pincong.rocks/question/7226 "请大家都来曝光下身边被请喝茶或者拘留的例子，让葱油们引以为戒，让更多的人看到土共的凶残"
+
+[[central-party-school]]
+=== Central Party School of the Communist Party of China (Central Party School, 中共中央党校, 中央党校))
+
+* https://en.wikipedia.org/wiki/Central_Party_School_of_the_Communist_Party_of_China
+* https://zh.wikipedia.org/wiki/中共中央党校
+
+University to train the next dictators
+
+Website: http://www.ccps.gov.cn/ (Central Committee Party School).
 
 [[backlinks]]
 == Backlinks to this page 连接到这个网页的网页
