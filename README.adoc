@@ -1772,6 +1772,17 @@ Website: https://www.rferl.org/
 
 USA funded sister media of the <<rfa>>.
 
+[[thailand]]
+==== Thailand (泰国)
+
+It is a crime to criticize the royal family: https://en.wikipedia.org/wiki/Lèse_majesté_in_Thailand
+
+* 2020-08-24 https://techcrunch.com/2020/08/24/after-restricting-a-group-critical-of-thailands-monarchy-facebook-says-it-will-take-legal-action-against-the-government/ "After restricting a group critical of Thailand’s monarchy, Facebook says it will take legal action against the government"
+
+[[thai-king-hamtaro]]
+.Side-by-side comparison between https://en.wikipedia.org/wiki/Vajiralongkorn[Thai King Vajiralongkorn] and https://en.wikipedia.org/wiki/Hamtaro[Hamtaro]. This is the Thai version of <<winnie-the-pooh>>. It https://asia.nikkei.com/Politics/Japanese-cartoon-Hamtaro-used-by-Thai-protesters-to-mock-government[has been used by protesters] as part of the  https://en.wikipedia.org/wiki/2020_Thai_protests[2020 Thai protests]. Left https://en.wikipedia.org/wiki/2020_Thai_protests[photo source].
+image::{cirosantilli-media-base}/Side_by_side_comparison_between_Thai_king_Vajiralongkorn_and_Hamtaro.jpg[height=400]
+
 [[ccp-evil]]
 === Is the Chinese government evil? 中国共产党是邪恶吗？
 
