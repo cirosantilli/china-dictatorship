@@ -1729,8 +1729,8 @@ image::https://web.archive.org/web/20191014084357im_/https://www.history.com/.im
 .A meeting of the St. Petersburg chapter of the Union of Struggle for the Liberation of the Working Class in February 1897, including Lenin and Alexander Malchenko. https://en.wikipedia.org/wiki/File:Union-de-Lucha.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Union-de-Lucha.jpg/640px-Union-de-Lucha.jpg[height=500]
 
-.Same as above, but with Alexander Malchenko edited out. https://en.wikipedia.org/wiki/File:St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg[Source].
-image::https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Union-de-Lucha.jpg/640px-Union-de-Lucha.jpg[height=500]
+.Same as above, but with Alexander Malchenko edited out. link:++https://en.wikipedia.org/wiki/File:St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg++[Source].
+image::https://web.archive.org/web/20170224022141if_/https://upload.wikimedia.org/wikipedia/commons/1/1f/St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg[height=500]
 
 [[stalin]]
 ===== Stalin 斯大林 (1922-1952)
