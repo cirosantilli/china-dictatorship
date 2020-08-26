@@ -6,7 +6,15 @@ Forbidden:
 
     If Ciro unsubscribed from a thread, it means that he does not want to reply there anymore.
 
-    Create a new issues instead if it makes sense.
+    Create a new issues instead if you are arriving at a thread created by someone else and a have a new relevant point.
+
+-   [Evil West](https://github.com/cirosantilli/china-dictatorship#evil-west) posts are OK, but they *must* explain why you think a dictatorship would better solve the problem.
+
+    Posting several random evil-West news without explaining why dictatorships handle it better will get you banned, because it is noise: there is freedom of speech in the West and people can already see that information on newspapers who have a million times more viewers than this repo, there's no need to repeat that here. Flooding such posts is a primary [wumao tactic](https://github.com/cirosantilli/china-dictatorship#wumao).
+
+    Bad China news are OK because those are all censored in China and help Chinese people learn about it.
+
+    Any political material that is censored in any country in the West will be accepted.
 
 -   generate lots of notifications that don't teach people anything new.
 
