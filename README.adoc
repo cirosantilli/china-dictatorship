@@ -1394,6 +1394,7 @@ For example, which of the following do you think should be banned:
 
 * This scientific study suggests that white people do less well in IQ tests.
 * This scientific study suggests that black people do less well in IQ tests.
+* I'm an idiotic irrational racist and I dislike white/black people. I won't kill them, but I dislike them, and I can't change that, I'm really sorry.
 * Let's all gather together and kill our black/white/gay/straight/Muslim/Christian neighbours tomorrow.
 * Let's all gather together and kill our oppressive dictator/president tomorrow.
 
@@ -1403,6 +1404,9 @@ Recent cases in which Ciro feel that Western countries have gotten it wrong:
 * 2020-08 Kevin Cernekee fired from Google for conservative views
 ** 2020-08-27 https://www.cnbc.com/2019/08/06/google-whistleblower-cernekee-pushed-alt-right-views-former-colleague.html "Internal Google memo claimed conservative whistleblower promoted alt-right views"
 ** It appears to be legal in the US for companies to fire employees based on political beliefs:
++
+<<ciro-santilli>> however believes that discussing politics at work is not an efficient way to go about it, because you will be discussion amongst a small group of people since companies are opaque to the outside. Unless maybe if you feel that you employee is directly attempting to influence politics in a way that you feel is unfair.
++
 *** https://www.nolo.com/legal-encyclopedia/can-employers-discriminate-based-on-political-beliefs-or-affiliation.html
 
 See also:
