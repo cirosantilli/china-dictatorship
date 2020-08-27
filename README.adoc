@@ -1352,7 +1352,7 @@ image::https://web.archive.org/web/20180319052924if_/http://www.cartoonistgroup.
 
 ===== Western democracies have invaded other countries and crushed separatism
 
-Yes, Western democracies are not perfect.
+Yes, <<western-democracies-are-not-perfect,Western democracies are not perfect>>.
 
 What matters is that citizens can disagree with those actions, publicly say it, vote accordingly, and not go to jail, so that policy will be changed if the majority so wants.
 
@@ -1368,13 +1368,15 @@ See also:
 [[hate-speech]]
 ===== Western democracies also censor subjects such as child porn and hate speech
 
-First, if you don't think child porn should be banned, there isn't much point in arguing with you.
+First, child porn and hate speech are also banned in China, so shut up. <<china-has-more-freedom-of-speech-than-the-usa,Every type of speech>> is less free in <<dictatorship>>.
 
-Hate speech is much more complex. <<ciro-santilli>> does feel that we should be very careful when banning hate speech, and that perhaps it shouldn't be banned at all as it might just make matters worse.
+Second, if you don't think child porn should be banned, there isn't much point in arguing with you.
+
+Now, hate speech is a very complex subject. <<ciro-santilli>> does feel that we should be very careful when banning hate speech, and he is not sure if it should be banned at all, as perhaps it might just make matters worse.
 
 But of course, there is censorship in Western democracies, and there is a gray area between what should be censored or not.
 
-<<ciro-santilli>> only argues that there is on type of speech that must never be <<censorship,censored>>: political speech.
+<<ciro-santilli>> only argues that there is on type of speech that must never ever be <<censorship,censored>>: political speech.
 
 This way, the majority can always discuss and vote to change what can be censored or not.
 
@@ -1386,11 +1388,33 @@ Otherwise, this leads to extremely serious problems:
 * <<war>>: if the CCP leaders decide that a war must be made, everyone who opposes it will go to jail, and the war will be made
 * <<intolerance>>: if the CCP decides that <<xinjiang,some minority>> is <<falun-gong,a danger to their power>>, this minority gets fucked
 
-See also: <<richer>>.
+Deciding on hate speech, means having to decide what level of hardcoreness we are willing to accept, and there is no clear right or wrong answer.
 
-===== Life of Brian (1979)
+For example, which of the following do you think should be banned:
 
-https://en.wikipedia.org/wiki/Monty_Python%27s_Life_of_Brian
+* This scientific study suggests that white people do less well in IQ tests.
+* This scientific study suggests that black people do less well in IQ tests.
+* Let's all gather together and kill our black/white/gay/straight/Muslim/Christian neighbours tomorrow.
+* Let's all gather together and kill our oppressive dictator/president tomorrow.
+
+Recent cases in which Ciro feel that Western countries have gotten it wrong:
+
+* 2020-05-29 https://www.bbc.co.uk/news/technology-52846679 Twitter "hides Trump tweet for 'glorifying violence'". The people elected that idiot, Twitter leftists have to swallow that.
+* 2020-08 Kevin Cernekee fired from Google for conservative views
+** 2020-08-27 https://www.cnbc.com/2019/08/06/google-whistleblower-cernekee-pushed-alt-right-views-former-colleague.html "Internal Google memo claimed conservative whistleblower promoted alt-right views"
+** It appears to be legal in the US for companies to fire employees based on political beliefs:
+*** https://www.nolo.com/legal-encyclopedia/can-employers-discriminate-based-on-political-beliefs-or-affiliation.html
+
+See also:
+
+* <<richer>>
+* <<intolerance>>
+
+[[life-of-brian-1979]]
+===== Life of Brian (布莱恩的一生, 1979)
+
+* https://en.wikipedia.org/wiki/Monty_Python%27s_Life_of_Brian
+* https://zh.wikipedia.org/wiki/蒙提·派森之布莱恩的一生
 
 This movie was almost banned in Britain at the time due to lobbying by Christian groups as shown in <<the-secret-life-of-brian-2007>>.
 
@@ -4074,7 +4098,7 @@ While there is some probability that the answers themselves are not wumaos, thei
 
 Other shitty aspects of Quora include:
 
-* block <<wayback-machine>> archives with their robots.txt, gotta use archive.is
+* block <<wayback-machine>> archives with their robots.txt, gotta use <<archive-today>>
 * automatically add random topics that you don't care about to your suggestions, with no easy way to prevent that.
 * questions cannot have more than one sentence. There used to be a question body, but it was replaced with a "link for context". Ridiculous.
 
@@ -5602,15 +5626,10 @@ The author: https://en.wikipedia.org/wiki/Benjamin_Penny is an Australian resear
 == Chinese politicians 中国政治家
 
 [[xi-jinping]]
-=== Xi Jinping 习近平 (2012-∞)
+=== Xi Jinping (习近平, 2012-∞, Heil卐!)
 
-https://en.wikipedia.org/wiki/Xi_Jinping | https://zh.wikipedia.org/wiki/习近平
-
-.Golden heart shaped souvenir with a picture of Xi Jinping that was sold in Tiananmen Square in 2018. https://www.telegraph.co.uk/news/2018/02/26/endowing-role-endless-rule-shows-xis-imperial-ambitions/[Source].
-image::http://web.archive.org/save/_embed/https://www.telegraph.co.uk/content/dam/news/2018/02/26/TELEMMGLPICT000155655751_trans_NvBQzQNjv4BqzjD0Mh_LNt5Bhy1HYuGzFnpm3nqQSSR1BkomPrzwAI0.jpeg?imwidth=1400[height=400]
-
-.Xi Jinping in 2019 wearing his cute compassionate face. Do you think that such a cute cute North-Westerner 东北人 would ever to terrible things like <<xinjiang,commiting cultural genocide of a million people>> or <<xi-abolishes-term-limits-2018-03,trying to become ruler for life>>? Impossible, it must be <<evil-west,American lies>>.
-image::https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Xi_Jinping_2019.jpg/448px-Xi_Jinping_2019.jpg[height=400]
+* https://en.wikipedia.org/wiki/Xi_Jinping
+* https://zh.wikipedia.org/wiki/习近平
 
 [[xi-abolishes-term-limits-2018-03]]
 ==== Xi abolishes term limits 2018-03 习近平取消席连任不得超过两届的限制规则
@@ -5644,7 +5663,7 @@ See also <<ciro-santilli>>'s answer to https://www.quora.com/What-is-the-net-wor
 * 習包子: https://languagelog.ldc.upenn.edu/nll/?p=29230 says:
 +
 ____
-Xi Jinping got his nickname as "Xí bāozi 習包子" ("steamed stuffed bun Xi") due to the much publicized visit he made to the famous Qìngfēng bāozi pù 庆丰包子铺 ("Qingfeng baozi shop") in Beijing. During and after his visit to the shop, media swarmed over the place and were eager to portray an image of Xi as being down to earth and close to the people. Those who dislike Xi use this nickname sarcastically against him for being a hick and for hypocritically "putting on a show" (zuòxiù 作秀).
+Xi Jinping got his nickname as "Xi baozi 習包子" ("<<buns,steamed stuffed bun Xi>>") due to the much publicized visit he made to the famous Qìngfēng bāozi pù 庆丰包子铺 ("Qingfeng baozi shop") in Beijing. During and after his visit to the shop, media swarmed over the place and were eager to portray an image of Xi as being down to earth and close to the people. Those who dislike Xi use this nickname sarcastically against him for being a hick and for hypocritically "putting on a show" (zuòxiù 作秀).
 ____
 +
 See also: <<buns>>.
@@ -5680,6 +5699,8 @@ Got censored due to comparisons between Xi Jinping and Winnie in 2017: https://e
 
 Thailand has their own version: <<thai-king-hamtaro>>.
 
+In <<xi-dada>> we see that a <<peoples-daily>> video actually interviews someone who mentions that, so the meme has had a positive connotation at least some point in the past.
+
 Some good photoshops:
 
 .Comparison image between Xi Jinping waking with then USA president https://en.wikipedia.org/wiki/Barack_Obama[Barack Obama] with a Winnie-the-Pooh cartoon still of Winnie walking with https://en.wikipedia.org/wiki/Tigger[Tigger, the tiger]. The original photo is from https://www.abc.net.au/news/2013-06-09/obama2c-xi-forge-rapport-in-debut-summit/4742616[Xi's 2013 visit to the Annenberg Retreat at Sunnylands, California]. https://www.telegraph.co.uk/news/2017/07/17/oh-bother-chinese-censors-block-winnie-pooh-meme-comparing-xi/[Source].
@@ -5693,6 +5714,27 @@ image::https://web.archive.org/web/20191012100855oe_/https://ichef.bbci.co.uk/ne
 
 .Real photo of Xi Jinping edited to look like Winnie the Pooh. https://www.reddit.com/r/pics/comments/dcabzh/this_image_of_xi_jiping_as_winnie_the_pooh_is/[Source].
 image::https://web.archive.org/web/20191009075747if_/https://external-preview.redd.it/lqDFDXXvfqMs7kyQ9y1FrGcQzdCE23uMPlcxFqo_oYE.png?auto=webp&s=02b97678eaaa104d58af8e3a5b59563113d7a5b9[height=400]
+
+[[xi-dada]]
+====== Xi Dada (习大大, 2015)
+
+Benevolent https://en.wikipedia.org/wiki/Personification[personification] of <<xi-jinping>>.
+
+2015-09-23 https://www.bbc.co.uk/news/blogs-china-blog-34338832 "Who is Xi Dada"?
+
+That article comments on https://www.youtube.com/watch?v=PnRo9AMT8FI "Who is Xi Dada?" by <<peoples-daily>> (2015-09-23) in which several foreign students in China praise <<xi-jinping>> in English. https://youtu.be/PnRo9AMT8FI?t=47 notably states: "They also refer to him as <<winnie-the-pooh,Winnie-the-Pooh>>". Priceless.
+
+What does dada mean: https://www.quora.com/Why-is-Xí-Jìnpíng-called-Xí-Dàdà
+
+Some other sources:
+
+* 2015-03-08 https://cn.nytimes.com/china/20150308/c08xi/ "“习大大”再次燃起中国人的领袖崇拜之情" (Xi Dada reignties Chinese Leader's cult once again)
+
+.Golden heart shaped souvenir with a picture of Xi Jinping that was sold in <<tiananmen,Tiananmen Square>> in 2018. https://www.telegraph.co.uk/news/2018/02/26/endowing-role-endless-rule-shows-xis-imperial-ambitions/[Source].
+image::http://web.archive.org/save/_embed/https://www.telegraph.co.uk/content/dam/news/2018/02/26/TELEMMGLPICT000155655751_trans_NvBQzQNjv4BqzjD0Mh_LNt5Bhy1HYuGzFnpm3nqQSSR1BkomPrzwAI0.jpeg?imwidth=1400[height=400]
+
+.Xi Jinping in 2019 wearing his cute compassionate face. Do you think that such a cute cute North-Westerner 东北人 would ever to terrible things like <<xinjiang,commiting cultural genocide of a million people>> or <<xi-abolishes-term-limits-2018-03,trying to become ruler for life>>? Impossible, it must be <<evil-west,American lies>>.
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Xi_Jinping_2019.jpg/448px-Xi_Jinping_2019.jpg[height=400]
 
 [[chrysanthemium-xi-jinping]]
 ===== Chrysanthemium Xi Jinping 菊花习近平 (2015)
@@ -6251,6 +6293,7 @@ Retired teacher at <<central-party-school>> living in the USA.
 She criticized Xi Jinping in private online meeting, and the audio was leaked: https://www.youtube.com/watch?v=hEBHVsHlPeI
 ** 2020-08-21 https://www.taiwannews.com.tw/en/news/3992140 she was expelled from from the CCP, and she said she was happy.
 * https://www.rfa.org/english/news/china/monitor-08182020091653.html "Jailed WeChat User Says Chinese Police Monitor Overseas Accounts Too". Gao Zhigang.
+* https://en.wikipedia.org/wiki/Chen_Guangcheng[Chen Guangcheng] (陈光诚). The blind dude. https://www.youtube.com/watch?v=zDqYMXxH09Y "Chinese dissident tells story of escaping tyranny and finding hope in America" by "Fox News" (2020-08-26) supporting Trump's reelection.
 
 [[xu-xiaodong]]
 ==== Xu Xiaodong "Mad Dog" 徐晓冬
@@ -7570,7 +7613,9 @@ This Chrome extension helps to quickly archive pages: https://chrome.google.com/
 
 But remember that if you archive too many in a very quick succession before the previous ones have been archived, even if manually through that plugin, your account/IP might get blocked, so just give a few seconds for the current archive to terminate before starting new ones.
 
-This happed to Ciro in 2020-06-14, but then he emailed the admins as mentioned at: https://help.archive.org/hc/en-us/articles/360016379432-Accounts-Tips-Troubleshooting- and they re-enabled it.
+This happened to Ciro in 2020-06-14, but then he emailed the admins as mentioned at: https://help.archive.org/hc/en-us/articles/360016379432-Accounts-Tips-Troubleshooting- and they re-enabled it.
+
+It is possible to request social media pages you own to be removed from the archive in some circumstances: https://webapps.stackexchange.com/questions/143529/is-it-possible-to-request-to-remove-page-snapshots-from-a-personal-social-media
 
 Some website specific techniques:
 
@@ -7584,9 +7629,11 @@ http://archive.is/
 * https://en.wikipedia.org/wiki/Archive.today
 * https://zh.wikipedia.org/wiki/Archive.is
 
-Like <<wayback-machine>> by uknown shady individuals, so less trustworthy.
+Like <<wayback-machine>> by unknown shady individuals, so less trustworthy.
 
-But it does not care about robots.txt, so it sometimes works where Wayback Machine fails, so its better than nothing when it does.
+CrunchBase claims without source New York based: https://webapps.stackexchange.com/questions/145817/on-which-country-are-the-creators-and-servers-of-archive-today-archive-is-base
+
+does not care about robots.txt, so it sometimes works where Wayback Machine fails, so its better than nothing when it does. E.g. it is a good option for <<quora>>.
 
 And no, you can't Wayback Machine archive an archive.is, they blocked the domain.
 
@@ -8323,7 +8370,8 @@ For more daily needs, when you don't want to spend more money and time at a rest
 [[dumplings]]
 === Dumplings 饺子 (jiao3 zi)
 
-https://en.wikipedia.org/wiki/Jiaozi | https://zh.wikipedia.org/wiki/饺子
+* https://en.wikipedia.org/wiki/Jiaozi
+* https://zh.wikipedia.org/wiki/饺子
 
 A staple food of North-east China.
 
