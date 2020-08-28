@@ -67,7 +67,7 @@ GitHub Pages: https://cirosantilli.com/china-dictatorship Trade-offs with https:
 ** https://help.github.com/en/github/authenticating-to-github/about-anonymized-image-urls[GitHub's camo] keeps hiccuping and not showing images
 ** and YouTube videos show inline there
 * cons
-** Camo bypasses the need for VPN, since most images are served from https://en.wikipedia.org/wiki/Internet_Archive[Internet Archive] which is <<censorship,blocked in China>>.
+** Camo bypasses the need for VPN, since most images are served from <<wayback-machine>> which is <<censorship,blocked in China>>.
 
 The perfect solution might be to download all images and upload them to https://github.com/cirosantilli/media since GitHub content does not go through Camo, we have to see if such images don't fail to load as often.
 
@@ -284,7 +284,7 @@ For:
 * society becomes richer when people know that they can do their startups, get rich, and stay in the country without fear of being persecuted unfairly and losing everything instead of migrating to Canada, see also: <<rule-of-law>>
 * it is much harder to fix problems if you can't talk about the. Any criticism of the government, even if constructive, <<censorship,is taken as menace to power, and more likely to be shut down>>, which makes the government and just becomes less efficient since there is less feedback.
 +
-This greatly increase the probability of dealing bad with situations. See e.g.: <<corona>.
+This greatly increase the probability of dealing bad with situations. See e.g.: <<corona>>.
 * governments are monopolies, and the more powerful they are, the worst it is for competition an efficiency in general. E.g.: the startup with better government ties wins, instead of the most efficient one.
 * people in dictatorships tend to <<real-username-law,hide their true identities online>> and in life in general. It is best not to stand out, because if you make any mistake, you are really fucked. As a result, for example, if you do something awesome like a creating an open source project, but do it anonymously, you won't get as much fame. And therefore everyone does less of such awesome things on average.
 
@@ -1777,16 +1777,13 @@ Related:
 * https://www.rferl.org/a/russia-navalny-nationalist-fears/25059277.html
 * https://www.youtube.com/watch?v=oVNJiO10SWw
 
-[[2020-khabarovsk-krai-protests]]
+[[khabarovsk-krai-protests-2020]]
 ====== 2020 Khabarovsk Krai protests (Протесты в Хабаровском крае)
 
 * https://en.wikipedia.org/wiki/2020_Khabarovsk_Krai_protests
 * https://ru.wikipedia.org/wiki/Протесты_в_Хабаровском_крае
 
-In support to:
-
-* https://en.wikipedia.org/wiki/Sergei_Furgal
-* https://ru.wikipedia.org/wiki/Фургал,_Сергей_Иванович
+In support to https://en.wikipedia.org/wiki/Sergei_Furgal[Sergei Furgal] (https://ru.wikipedia.org/wiki/Фургал,_Сергей_Иванович[Фургал, Сергей Иванович]).
 
 ===== Censorship of images in the Soviet Union
 
@@ -1814,9 +1811,9 @@ video::ZT2z0nrsQ8o[youtube,height=400,width=600]
 ===== Russo-Ukrainian War (2014-)
 
 * https://en.wikipedia.org/wiki/Russo-Ukrainian_War
-* https://uk.wikipedia.org/wiki/Російсько-українська_війна_(з_2014)
+* link:++https://uk.wikipedia.org/wiki/Російсько-українська_війна_(з_2014)++[]
 
-[[Mykola Semena]]
+[[mykola-semena]]
 ====== Mykola Semena (Семена Микола Михайлович)
 
 * https://en.wikipedia.org/wiki/Mykola_Semena
@@ -1867,7 +1864,7 @@ image::{cirosantilli-media-base}/Side_by_side_comparison_between_Thai_king_Vajir
 .Leading Thai politicians prostrate themselves before Vajiralongkorn in 2016, presumably during his ascention to the throne. https://www.independent.co.uk/news/world/asia/bbc-investigation-thailand-king-defamation-a7460046.html[Source].
 image::https://web.archive.org/web/20200825181647/https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/06/09/new-thai-king-6-0.jpg?w968[height=400]
 
-.Suthida Tidjai, Vajiralongkorn's wife, prostrated before him during their marriage in 2016 before he officially ascended to the throne. Yes, prostation is a big thing in Thailand. An older king, Rama V, had apparently even https://en.wikipedia.org/wiki/Chulalongkorn#Abolition_of_prostration[abolished this practice in 1873]. https://web.archive.org/web/20190723095722/https://www.theguardian.com/world/2019/may/03/thailand-coronation-king-maha-vajiralongkorn-rama-x[Source].
+.Suthida Tidjai, Vajiralongkorn's wife, prostrated before him during their marriage in 2016 before he officially ascended to the throne. Yes, prostation is a big thing in Thailand. An older king, Rama V, had apparently even https://en.wikipedia.org/wiki/Chulalongkorn#Abolition_of_prostration[abolished this practice in 1873]. Clearly, <<xi-jinping>> could learn a thing or two from a proper monarch like Vajiralongkorn. https://web.archive.org/web/20190723095722/https://www.theguardian.com/world/2019/may/03/thailand-coronation-king-maha-vajiralongkorn-rama-x[Source].
 image::https://web.archive.org/web/20200825181647/https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/06/09/new-thai-king-6-0.jpg?w968[height=400]
 
 [[ccp-evil]]
@@ -1966,7 +1963,7 @@ image::https://web.archive.org/web/20191003190442if_/https://i.redd.it/c0d340rts
 .Xi Jinping basically <<nazi,Nazi saluting>> kids from <<young-pioneers-of-china>> in Beijing, June 1, 2015. http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[Source] (http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[biased]).
 image::https://web.archive.org/web/20200109143505im_/http://www.xinhuanet.com/english/2019-06/01/XxjwshE007055_20190601_CBMFN1A006_11n.jpg[height=500]
 
-.https://www.youtube.com/watch?v=wD53MEbLDIE <<serpentza-laowhy86,laowhy86>> video "Can We Compare China to Nazi Germany?" published on 2020-04-29. Good side-by-side video comparisons. Says that China is mor like Nazi than <<russia>>, but Ciro disagrees, all three are <is-chinese-politician-x-evil,evil dictatorships>>.
+.https://www.youtube.com/watch?v=wD53MEbLDIE <<serpentza-laowhy86,laowhy86>> video "Can We Compare China to Nazi Germany?" published on 2020-04-29. Good side-by-side video comparisons. Says that China is mor like Nazi than <<russia>>, but Ciro disagrees, all three are <<is-chinese-politician-x-evil,evil dictatorships>>.
 video::wD53MEbLDIE[youtube,height=400,width=600]
 
 === Personal questions about Ciro Santilli
@@ -2752,6 +2749,7 @@ The keyword is <<rule-of-law>>: because of a few terrorists, every single Muslim
 .<<rebel-pepper,Rebel Pepper>> 2017-04 cartoon showing that Xinjiang is like a prison inside a greater prison, which is China itself. Chinese characters read: 新疆(Xinjiang) and 中国(China). TODO source.
 image::https://web.archive.org/web/20191013085312if_/https://i.stack.imgur.com/mQFKa.png[height=600]
 
+* 2020-08-27 https://www.buzzfeednews.com/article/alison_killing/satellite-images-investigation-xinjiang-detention-camps "Blanked-Out Spots On China's Maps Helped Us Uncover Xinjiang's Camps". Good technique.
 * 2020-06-29 https://apnews.com/269b3de1af34e17c1941a514f78d764c "China cuts Uighur births with IUDs, abortion, sterilization"
 * 2020-06-17 https://www.reuters.com/article/idUSKBN23O3EW "Trump signs bill pressuring China over Uighur Muslim crackdown"
 * 2019-12: https://www.youtube.com/watch?v=dEkliuqQo-g "A Secret Look Inside a Chinese Labor Program for Uighurs | Visual Investigations" by "The New York Times" published on Dec 30, 2019. Description: "China is relocating Uighurs and other Muslim minorities to urban areas as part of a contentious labor program. The Times obtained rare footage taken inside one."
@@ -7895,10 +7893,10 @@ The problem however is that it is impossible to distinguish between:
 * idiots who are saying what the CCP supporters want to hear from foreigners to get more views
 * even bigger idiots who actually believe the CCP is good
 * if any of those are directly supported by the CCP or not. Ciro feels that more likely not, because that would be too risky.
-
-  As those channels grow however, the CCP is extremelly very likely to at least indirectly support the channel, e.g. with bots on YouTube or more direct means on Chinese Government Chinese Internet companies, as a way of indirectly paying those creators.
-
-  For example, <<cgtn>> directly quoted a video from <<nathan-rich>>.
++
+As those channels grow however, the CCP is extremelly very likely to at least indirectly support the channel, e.g. with bots on YouTube or more direct means on Chinese Government Chinese Internet companies, as a way of indirectly paying those creators.
++
+For example, <<cgtn>> directly quoted a video from <<nathan-rich>>.
 
 It is also interesting to note that many of them don't speak a word of Chinese. It is fine when you say "the CCP is great" as a foreigner, but if you say "the CCP is bad", then <<not-chinese>>.
 
@@ -8194,9 +8192,6 @@ Backlinks to this page:
 
 * 2020-06-03 https://www.mohu.rocks/article/2227 (https://web.archive.org/web/20200606065812/https://www.mohu.rocks/article/2227[archive]) "专门开一个帖子，以后会把从各处搜刮来的六四学潮的视频、历史、文章之类放在这" (I'm creating this post to collect all the videos, history, articles, etc. that can be found anywhere about the <<tiananmen,Tiananmen Square protests>>)
 ** Then one of the replies by "习羊羊与灰战狼" was "link:https://github.com/cirosantilli/china-dictatorship[] "提供一个很全的链接，几乎可以算是反共手册。里面的4.7是谈六四的" (Here is one very complete link, it could almost be considered an anti-CCP manual. Section 4.7 of that page is about Tiananmen.) Ciro liked the sound of that very much :-)
-
-https://github.com/cirosantilli/china-dictatorship
-提供一个很全的链接，几乎可以算是反共手册。里面的4.7是谈六四的。
 
 == Other sections
 
