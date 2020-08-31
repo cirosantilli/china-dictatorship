@@ -1244,7 +1244,11 @@ What is worse is a subjective choice. For <<ciro-santilli>>:
 
 My <<keyword-choice,SO username>> and <<better-to-do,protest time>> are not infinite.
 
-See also: <<western-democracies-are-not-perfect>>
+See also:
+
+* <<russia>>
+* <<thailand>>
+* <<western-democracies-are-not-perfect>>
 
 [[western-democracies-are-not-perfect]]
 ==== Western democracies are not perfect 西方的民主有很多缺点
@@ -1501,371 +1505,6 @@ What democracy do is to protect its own people against its own government. Becau
 Here are some images that <<wumao>>'s like to post:
 
 * Left Right Slaughterhouse comic: https://9gag.com/gag/ayn7KmW?ref=fbp
-
-[[russia]]
-==== Russia 俄罗斯
-
-Russia is clearly the number 2 <<dictatorship>> in the world by population / GDP and the link:https://www.ploughshares.org/world-nuclear-stockpile-report[#1 nuclear arsenal], so here we go.
-
-Ciro has always been curious about how Russia can be both oppressive and a appear democratic, unlike China which doesn't even try to pretend. This is what he gathers:
-
-* the government controls all major media. If any media says bad things against them, the government finds pretexts to create lawsuits or increase taxes against such companies. Therefore all people end up thinking that the government is good.
-* just like China, <<evil-west,they emphasize the threat of the foreign countries>>, especially the US, as a justification for having an oppressive power.
-* the government puts pressure on any significant opposition candidate. One technique is to find some reason to put them in jail for two months, which by Russian law forbids them from participating in further elections. Only candidates that don't really stand a chance are left as a fake opposition. But if you reach some prominence, you start taking the same risks as politicians, although you are more likely to face more brutal illegal gangster violence threats as you are less visible
-
-See also: <<communist-youth-league>>
-
-While we are at it, some interesting news:
-
-* 2019-12-14 https://www.bbc.co.uk/news/technology-50902496 "Russia 'successfully tests' its unplugged internet". Russia's <<gfw>> is ready?
-* 2018-04 https://www.bbc.co.uk/news/technology-43752337 "Russia to block Telegram app over encryption"
-* 2017 https://www.bbc.co.uk/news/world-europe-40635267 Russia Jehovah's Witnesses banned after they lose appeal
-* 2017 https://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay
-* 2016 https://news.vice.com/en_us/article/kzgkv3/russians-now-need-a-passport-to-watch-pornhub
-* 1995 Vladislav Listyev
-** https://en.wikipedia.org/wiki/Vladislav_Listyev
-** https://ru.wikipedia.org/wiki/Листьев,_Владислав_Николаевич
-
-Poisonings: Russia apparently has a long list of poisoning political enemies: https://nypost.com/2018/06/23/inside-russias-long-history-of-poisoning-political-enemies/
-
-* https://en.wikipedia.org/wiki/Poison_laboratory_of_the_Soviet_secret_services[Poison laboratory of the Soviet secret services] (link:++https://ru.wikipedia.org/wiki/Токсикологическая_лаборатория_НКВД_—_НКГБ_—_МГБ++[Токсикологическая лаборатория НКВД — НКГБ — МГБ])
-* <<skripal>>
-* 2012 Alexander Perepilichny Перепеличный, Александр Юрьевич https://en.wikipedia.org/wiki/Alexander_Perepilichny | https://ru.wikipedia.org/wiki/Перепеличный,_Александр_Юрьевич
-* 2004 Anna Politkovskaya Анна Политковская https://en.wikipedia.org/wiki/Anna_Politkovskaya | https://ru.wikipedia.org/wiki/Политковская,_Анна_Степановна
-* 2004 Viktor Yushchenko Ющенко, Виктор Андреевич https://en.wikipedia.org/wiki/Viktor_Yushchenko | https://ru.wikipedia.org/wiki/Ющенко,_Виктор_Андреевич
-* <<litvinenko>>
-
-The Russians have very different style to the Chinese, who are much more subtle, and just put people in jail or handicap them in several ways without killing them.
-
-Other political murders or attempts:
-
-* 2015 Boris Nemtsov Немцов, Борис Ефимович https://en.wikipedia.org/wiki/Boris_Nemtsov | https://ru.wikipedia.org/wiki/Немцов,_Борис_Ефимович
-
-Some other interesting political suppression lists:
-
-* https://en.wikipedia.org/wiki/List_of_journalists_killed_in_Russia[list of journalists killed in Russia] (https://ru.wikipedia.org/wiki/Список_журналистов,_убитых_в_России[Список журналистов, убитых в России]).
-* https://en.wikipedia.org/wiki/List_of_Soviet_and_Russian_assassinations[List of Soviet and Russian assassinations]
-* 2017 https://www.washingtonpost.com/news/worldviews/wp/2017/03/23/here-are-ten-critics-of-vladimir-putin-who-died-violently-or-in-suspicious-ways/ "Here are 10 critics of Vladimir Putin who died violently or in suspicious ways"
-
-Freedom of speech reports:
-
-* 2017-07-18 https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-freedom-expression "Online and On All Fronts Russia's Assault on Freedom of Expression"
-
-Other random stuff:
-
-* <<seventeen-moments-of-spring>>
-
-[[federal-list-of-extremist-materials]]
-===== Federal List of Extremist Materials (Федеральный список экстремистских материалов)
-
-* https://en.wikipedia.org/wiki/Federal_List_of_Extremist_Materials
-* https://ru.wikipedia.org/wiki/Федеральный_список_экстремистских_материалов
-
-<<censorship-monitoring,Unlike the Chinese>>, they have a public list, each entry had a numerical ID even. This is the best thing ever made! The dream for <<keyword-attack,keyword attackers>>!
-
-Most of it appears to be anti/<<nazi>>, and notably anti-anti-semitic but several items are purely political anti-freedoms.
-
-One wonders if the majority of the items are just fillers to hide the really juicy anti-freedom ones.
-
-We need to make a GitHub mirror of all of those some day!
-
-The list: http://minjust.gov.ru/ru/extremist-materials[] Here's an archive: http://web.archive.org/web/20200817142035/http://minjust.gov.ru/ru/extremist-materials/export.csv?attach=page[]. The website has a CSV for download with all entries at the bottom. Enca says the encoding is "MS-Windows code page 1251", convert to UTF-8 with:
-
-....
-iconv -f WINDOWS-1251 -t UTF-8//IGNORE export.csv
-....
-
-`//IGNORE` is needed because their fucking CSV export has a bug and otherwise `iconv` stops at the first error.
-
-Result at: https://github.com/cirosantilli/media/blob/039ed572f61866655fc6ea3333b199527df4f3eb/russian-federal-list-of-extremist-materials-utf8-2020-08-17.csv
-
-From this we can grep, and then to overcome translation limits as there is no offline option yet: https://askubuntu.com/questions/380847/is-it-possible-to-translate-words-via-terminal[], dump your selection on a gist and use Google translate on the Gist.
-
-A website "dedicated" to bypassing censorship of the list: http://zapretno.info/[]. TODO much of that website's content is not clearly marked as being on the list.
-
-Some notable additions:
-
-* 2791: "Blowing up Russia: Terror from Within" by <<litvinenko>>
-* Religion
-** 1171, 1172, 1173: "What is Scientology", which likely refers to this L. Ron Hubbard book. https://www.amazon.co.uk/What-Scientology-L-Ron-Hubbard/dp/1573181226[] and two other books. Coverage: https://www.businessinsider.com/russia-officially-bans-scientology-books-brands-them-extremist-2012-3?r=US&IR=T
-** 2904: Jehovah's Witnesses website https://www.jw.org/en/[]. Coverage: https://www.state.gov/reports/2017-report-on-international-religious-freedom/russia/
-* Ukraine due to <<russo-ukrainian-war>>
-** 2596: A. M. Byvshev's poem "Ukrainian patriots", where he disagreed with Russian intervention in Donbass and supported military resistance by Ukrainians.
-** searching for "суда" (Crimea) has dozens of hits
-* Anti-Putin and apparently non hate-crime:
-** 1000:
-*** Leaflets with the following content: "Down with the power of the Cheka-nuty Putin and Medvedev", "Down with the power of the Cheka-nuty Putin"
-*** Листовки следующего содержания: «Долой власть ЧК-нутых Путина и Медведева», «Долой власть ЧК-нутого Путина»
-** 4071: <<gay-putin>>
-** 4914:
-*** The book "Where did Mr. Putin take Russia?" author Yu.E. Kozenkov (M., 2005 - 208 p.)
-*** "Книга «Куда завел Россию мистер Путин?» автор Ю.Е. Козенков (М., 2005 – 208 с.)
-
-[[roskomnadzor]]
-====== Roskomnadzor (Роскомнадзор)
-
-* https://en.wikipedia.org/wiki/Federal_Service_for_Supervision_of_Communications,_Information_Technology_and_Mass_Media
-* https://ru.wikipedia.org/wiki/Роскомнадзор
-
-The Russian censorship body under <<putin>>. The Russian <<cac>>.
-
-They are the ones who make Russian takedowns on <<github-gov-takedowns>>, e.g. https://github.com/github/gov-takedowns/tree/master/Russia/2020
-
-[[putin]]
-===== Putin Путин 普京 (1999-2008, 2012-∞)
-
-* https://en.wikipedia.org/wiki/Vladimir_Putin
-* https://ru.wikipedia.org/wiki/Путин,_Владимир_Владимирович
-
-Coverage:
-
-* 2019-12-19: Putin proposes abolishing term limits. <<xi-abolishes-term-limits-2018-03,Learnt from Xi>>:
-** https://www.independent.co.uk/news/world/europe/putin-presidential-term-limit-russia-moscow-conference-today-a9253156.html
-** https://uk.reuters.com/article/uk-russia-putin-constitution/putin-says-hes-open-to-tweaking-presidential-term-limits-idUKKBN1YN1JO
-** 2020-03-25 vote delayed due to <<corona>>
-* 2014 Putin khuylo!
-** https://en.wikipedia.org/wiki/Putin_khuylo!
-** https://ru.wikipedia.org/wiki/Путин_—_хуйло!
-
-[[superputin]]
-====== Superputin
-
-Meme partially supported by Putin himself, showing how physically strong and <<gay-putin,manly>> the president is.
-
-Similar to https://en.wikipedia.org/wiki/Chuck_Norris_facts[Chuck Norris facts].
-
-"Putin does manly things" photo galleries:
-
-* 2017-06-07 https://mashable.com/2017/08/07/the-swaggering-masculinity-of-vladimir-putin/?europe=true (https://web.archive.org/web/20200412092201/https://mashable.com/2017/08/07/the-swaggering-masculinity-of-vladimir-putin/?europe=true[archive])
-* https://www.cbsnews.com/pictures/vladimir-putin-doing-manly-things/
-
-.Putin swims Butterfly stroke in a Siberian lake around August 2009. The Telegraph https://web.archive.org/web/20200412090316/https://www.telegraph.co.uk/news/worldnews/europe/russia/6175324/Vladimir-Putin-gives-strong-signal-he-may-be-president-again.html[correctly interpreted this as a sign that he would be re-elected in 2012]. For reference https://en.wikipedia.org/wiki/Lake_Baikal[Lake Baikal in Siberia has a maximum temperature of 14 °C in summer]. Other dictators have used similar swim tactics before, the most notable possibly being <<mao-swim>>. https://web.archive.org/web/20200412090316/https://www.telegraph.co.uk/news/worldnews/europe/russia/6175324/Vladimir-Putin-gives-strong-signal-he-may-be-president-again.html[Source].
-image::https://web.archive.org/web/20200412090316im_/https://secure.i.telegraph.co.uk/multimedia/archive/01472/Vladimir-Putin_1472816c.jpg[height=400]
-
-.Putin riding a horse shirtless https://nypost.com/2014/08/29/putin-its-best-not-to-mess-with-us/[near Lake Seliger in August 2009]. https://www.huffpost.com/entry/worl-photo-caption-contest-shirtless-putin_n_3263512[Source].
-image::https://web.archive.org/web/20200412092919im_/https://i.huffpost.com/gen/1133558/original.jpg[height=500]
-
-.Putin riding a bear. https://www.pinterest.fr/pin/469429961142687422/[Source].
-image::https://web.archive.org/web/20200412094400if_/https://i.pinimg.com/564x/07/68/05/076805e00f6ad771818d36ccef62cfd3.jpg[height=400]
-
-.Putin riding a shark. https://sharkdivers.blogspot.com/2011/05/russian-pm-putin-rides-great-white.html[Source].
-image::https://web.archive.org/web/20160614201455if_/http://1.bp.blogspot.com/-FYfgqjECs1I/TeJoA2899DI/AAAAAAAAEII/7js84oWpRPk/s400/tumblr_kuxr34jtOb1qzeu38o1_400.png[height=400]
-
-.Putin riding a giant eagle. https://www.quora.com/Is-this-picture-of-Vladimir-Putin-riding-a-bear-fake-or-real[Source].
-image::https://web.archive.org/web/20200412093557if_/https://qph.fs.quoracdn.net/main-qimg-71e8b8cddfce751d8e0a8ed45b316731.webp[height=400]
-
-.Putin riding a meteor. https://www.quora.com/Is-this-picture-of-Vladimir-Putin-riding-a-bear-fake-or-real[Source].
-image::https://web.archive.org/web/20200412093551if_/https://qph.fs.quoracdn.net/main-qimg-ae21d615c5a8738a7321478bc1b686c5.webp[height=400]
-
-[[gay-putin]]
-====== Gay Putin (2017)
-
-Added to the <<federal-list-of-extremist-materials>>.
-
-Coverage:
-
-* https://www.independent.co.uk/news/world/europe/russia-putin-gay-clown-memes-internet-extremism-opposition-president-kremlin-a7669486.html
-
-<<gay-rights,Homosexuality>> is not super popular in Russia in general:
-
-* https://en.wikipedia.org/wiki/LGBT_rights_in_Russia
-* 2013 https://en.wikipedia.org/wiki/Russian_gay_propaganda_law Russian gay propaganda law (2013) forbids the favorable depiction of homosexuality to minors
-
-.The possibly Gay Putin clown image banned in 2017. https://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay[Source].
-image::https://web.archive.org/web/20200312233919if_/https://cdn1.i-scmp.com/sites/default/files/styles/1200x800/public/images/methode/2017/04/06/0a2ae706-1a94-11e7-b4ed-ac719e54b474_1280x720_145124.jpg[height=400]
-
-.Possibly Gay Putin kissing possibly Gay <<flg-trump,Trump>> mural entitled https://en.wikipedia.org/wiki/Make_Everything_Great_Again[Make Everything Great Again] painted in Lithuania in 2016 by by artists Dominykas Čečkauskas and Mindaugas Bonanu. It references the https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections[Russian interference in the 2016 United States elections]. It was https://www.theguardian.com/world/2016/aug/12/vandals-censor-image-of-putin-snogging-trump-lithuania[later vandalized]. Now we just need a Putin <<xi-jinping>> kiss. Trump Xi kiss https://www.dw.com/en/sierens-china-survival-of-the-fittest/a-49498499[can be found here]. https://www.euractiv.com/section/global-europe/opinion/putin-will-pay-a-high-price-for-trumps-friendship/[Source].
-image::https://web.archive.org/web/20191022004820if_/https://en.euractiv.eu/wp-content/uploads/sites/2/2016/11/Putin-Trump-kiss-800x450.jpg[height=400]
-
-[[skripal]]
-====== The poisoning of Sergei and Yulia Skripal Серге́й Ви́кторович Скрипáль (2018-03-04)
-
-* https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal
-* https://ru.wikipedia.org/wiki/Отравление_Сергея_и_Юлии_Скрипаль
-
-In 4 March 2018, the Russian double agent and his daughter were poisoned with https://en.wikipedia.org/wiki/Novichok_agent[Novichok agent] (https://ru.wikipedia.org/wiki/Новичок_(отравляющие_вещества)[Новичо́к]), a Soviet-era nerve agent, which was likely put on their front door knob in https://en.wikipedia.org/wiki/Salisbury[Salisbury, UK], exact address https://goo.gl/maps/oKASuLWpcSmLqL8F9[Christie Miller Road]! Straight out of a spy novel.
-
-On 30 June 2018, the man of an unlucky drug addict couple found the counterfeit expensive looking https://en.wikipedia.org/wiki/Nina_Ricci_(brand)[Nina Ricci] Premier Jour perfume bottle containing the poison, and gave it to the woman who died. How unlucky can you fucking be, as if heavy drug addiction weren't enough, you still have to deal with fucking Russian Novichok!
-
-.The assassination suspects Alexander Mishkin (Алекса́ндр Евге́ньевич Ми́шкин, alias Alexander Petrov) and Anatoliy Chepiga (Анатолий Владимирович Чепига, alias Ruslan Boshirov) in a CCTV still at Salisbury Station on 3rd March 2018 the day before the assassination. Both GRU and Alexander being a doctor, which is consistent with a poisoning assassination attempt. They later explained on an RT interview that they were visiting the https://en.wikipedia.org/wiki/Salisbury_Cathedral[world renowned Salisbury Cathedral] in their 3 day trip to the UK, and that they <<gay-putin,were not gay>>. Some Western sources interpreted this as an intentional suggestion that they are gay, which for many Russians would imply that they cannot be FSB agents. https://www.theguardian.com/uk-news/2018/sep/05/planes-trains-and-fake-names-the-trail-left-by-skripal-suspects[Source].
-image::https://web.archive.org/web/20200313103134if_/https://i.guim.co.uk/img/media/31a18fa18d2fedb11136fc3d2c39952e4aec1ce5/0_97_1114_668/master/1114.jpg?width=620&quality=85&auto=format&fit=max&s=19c40235440efb1be4b1b8d9ef1b87d7[height=400]
-
-.Counterfeit Nina Ricci Premier Jour packet that contained the Novichok. https://www.npr.org/2018/09/05/644782096/u-k-charges-2-russians-suspected-of-poison-attack-on-skripals[Source].
-image::https://web.archive.org/web/20200404112526im_/https://media.npr.org/assets/img/2018/09/05/skripal-perfume_wide-8e5147ab76a27976e4bde6adffce910f4f297d25-s1100-c15.jpg[height=400]
-
-.https://www.youtube.com/watch?v=Ku8OQNyI2i0 "Full Skripal case interview with the UK's suspects (EXCLUSIVE)" by RT with Alexander Petrov and Ruslan Boshirov. Not gay moment at: https://youtu.be/Ku8OQNyI2i0?t=461[461s].
-video::Ku8OQNyI2i0[youtube,height=400,width=600]
-
-====== Electoral fraud in Russian elections
-
-Besides barring opposition from participating such as <<alexei-navalny>>, electoral fraud was off the charts:
-
-.https://www.youtube.com/watch?v=-KQlCRLCw_I 2019-09-12 CCTV footage of Vasily Dyachenko (Василий Дьяченко), who had reported electoral fraud concerns regional 2019 elections, getting surprise punched in the stomach at the St. Petersburg polling station 1619, while the police who is right in front of it do nothing about it. English coverage: https://www.rferl.org/a/russian-police-stand-idly-by-as-election-observer-sucker-punched/30160427.html
-video::-KQlCRLCw_I[youtube,height=400,width=600]
-
-.https://www.youtube.com/watch?v=3oSeRyaFllY 2018-03-18 alleged https://en.wikipedia.org/wiki/Electoral_fraud#Ballot_stuffing[ballot stuffing electoral fraud] caught on CCTV in Lyubertsy, Moscow Oblast
-video::3oSeRyaFllY[youtube,height=400,width=600]
-
-https://www.youtube.com/watch?v=WMEqv-NNLW4 Мусора избили ребёнка и наблюдателей на выборах TODO find English version
-
-Related:
-
-* Golos (Голос) is the main independent election monitor organization in Russia:
-** https://en.wikipedia.org/wiki/Golos_(election_monitor)
-** https://ru.wikipedia.org/wiki/Голос_(мониторинг_выборов)
-
-[[litvinenko]]
-====== The murder of Alexander Litvinenko Литвиненко, Александр Вальтерович (2006)
-
-* https://en.wikipedia.org/wiki/Alexander_Litvinenko
-* https://ru.wikipedia.org/wiki/Литвиненко,_Александр_Вальтерович
-
-Poisoned with polonium-210:
-
-* 2006-10-29
-** meets with two former FSB agents Dmitry Kovtun and Andrey Lugovoy at Millenium Hotel London TODO exact address
-** eats with https://en.wikipedia.org/wiki/Mario_Scaramella[Mario Scaramella] at an Itsu in London TODO exact address. <<ciro-santilli>> believes the https://en.wikipedia.org/wiki/Itsu[Itsu] food to be the real cause of death.
-* 2006-11-01 falls ill
-* 2006-11-03 admitted into hospital
-* 2006-11-23 dies
-* 2007-01-26 UK police says they had found a teapot at Millenium Hotel containing extremely high Poloninum-210 traces
-* 2010-12 US leaked cables show that Dmitry Kovtun left "positive traces" of radioactive polonium-210 in Germany before departing for Britain https://www.theguardian.com/world/2010/dec/11/wilileaks-cables-litvinenko-murder
-
-His 2002 book https://en.wikipedia.org/wiki/Blowing_Up_Russia[Blowing up Russia: Terror from Within] (https://ru.wikipedia.org/wiki/ФСБ_взрывает_Россию[ФСБ взрывает Россию: Федеральная служба безопасности — организатор террористических актов, похищений и убийств]) accuses the FSB of setting up false flag bombing operations, and figures on the <<federal-list-of-extremist-materials>>.
-
-.Litvinenko in his death bed.
-image::https://web.archive.org/web/20200404123347im_/https://i.guim.co.uk/img/static/sys-images/guardian/About/General/2010/12/11/1292079941381/Former-Russian-Agent-Pois-006.jpg?width=620&quality=85&auto=format&fit=max&s=2a623e83efa1042cc1cd07295d54a57b[height=400]
-
-[[russia-mandatory-registration-of-bloggers]]
-====== Mandatory registration of bloggers (2014)
-
-https://www.bbc.co.uk/news/technology-28583669
-
-Bloggers with more than 3000 daily readers must register and cannot be anonymous.
-
-The following Chinese policies come to mind:
-
-* <<icp-license>>
-* <<anonymous-accounts-ban>>
-
-===== Putin opposition
-
-https://en.wikipedia.org/wiki/Opposition_to_Vladimir_Putin_in_Russia
-
-[[alexei-navalny]]
-====== Alexei Navalny Алексе́й Анато́льевич Нава́льный
-
-* https://en.wikipedia.org/wiki/Alexei_Navalny
-* https://ru.wikipedia.org/wiki/Навальный,_Алексей_Анатольевич
-
-Casually barred from the 2018 presidential campaign:
-
-* https://en.wikipedia.org/wiki/2018_Alexei_Navalny_presidential_campaign
-* https://www.bbc.co.uk/news/world-europe-42479909
-* https://ru.wikipedia.org/wiki/Навальный,_Алексей_Анатольевич#Президентские_выборы_2018_года
-
-His Wiki page does say one thing of interest though, he has right wing tendencies which scared off liberals:
-
-____
-The BBC noted in a profile of Navalny that his endorsement of a political campaign called "Stop feeding the Caucasus" and his willingness to speak at ultra-nationalist events "have caused concern among liberals".
-____
-
-This video of his https://www.youtube.com/watch?v=RQZr2NgKPiU might have been added to the <<federal-list-of-extremist-materials>>, wiki: https://en.wikipedia.org/wiki/Oleg_Deripaska#Navalny_video[], coverage: https://www.rferl.org/a/russia-deripaska-prikhodko-rybka-nuland-yacht/29028148.html but I can't find where it is in the list exactly.
-
-Related:
-
-* https://www.rferl.org/a/russia-navalny-nationalist-fears/25059277.html
-* https://www.youtube.com/watch?v=oVNJiO10SWw
-
-[[khabarovsk-krai-protests-2020]]
-====== 2020 Khabarovsk Krai protests (Протесты в Хабаровском крае)
-
-* https://en.wikipedia.org/wiki/2020_Khabarovsk_Krai_protests
-* https://ru.wikipedia.org/wiki/Протесты_в_Хабаровском_крае
-
-In support to https://en.wikipedia.org/wiki/Sergei_Furgal[Sergei Furgal] (https://ru.wikipedia.org/wiki/Фургал,_Сергей_Иванович[Фургал, Сергей Иванович]).
-
-===== Censorship of images in the Soviet Union
-
-https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union
-
-.Before/after comparison of picture of Stalin with Nikolai Yezhov at the Moscow Canal. Nikolai was edited out form the second picture. (Credit: Fine Art Images/Heritage Images/Getty Images & AFP/GettyImages) https://www.history.com/news/josef-stalin-great-purge-photo-retouching[Source].
-image::https://web.archive.org/web/20191014084357im_/https://www.history.com/.image/c_limit,cs_srgb,q_auto:good,w_860/MTU3ODc4NjAzNTIxNzMwMjcx/image-placeholder-title.webp[height=400]
-
-.A meeting of the St. Petersburg chapter of the Union of Struggle for the Liberation of the Working Class in February 1897, including Lenin and Alexander Malchenko. https://en.wikipedia.org/wiki/File:Union-de-Lucha.jpg[Source].
-image::https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Union-de-Lucha.jpg/640px-Union-de-Lucha.jpg[height=500]
-
-.Same as above, but with Alexander Malchenko edited out. link:++https://en.wikipedia.org/wiki/File:St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg++[Source].
-image::https://web.archive.org/web/20170224022141if_/https://upload.wikimedia.org/wikipedia/commons/1/1f/St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg[height=500]
-
-[[stalin]]
-===== Stalin 斯大林 (1922-1952)
-
-.https://en.wikipedia.org/wiki/Light_Yagami[Light Yagami] from https://en.wikipedia.org/wiki/Death_Note[Death Note]: "I can kill anyone by simply writing his name here". Stalin: "Bitch please". https://ifunny.co/picture/1-can-kill-anyone-by-simply-writing-his-name-here-TjXCcyuM2[Source].
-image::https://web.archive.org/web/20200301233451/https://img.ifunny.co/images/55cb6c5de9cde6ebe7e9d1704c7f83e6d344e8154b44299fec9b9a029aa82c34_1.jpg[height=500]
-
-.https://www.youtube.com/watch?v=ZT2z0nrsQ8o "Rasputin vs Stalin." Epic Rap Battles of History YouTube video. This is fire. https://epicrapbattlesofhistory.fandom.com/wiki/Rasputin_vs_Stalin/Rap_Meanings[Explanations].
-video::ZT2z0nrsQ8o[youtube,height=400,width=600]
-
-[[russo-ukrainian-war]]
-===== Russo-Ukrainian War (2014-)
-
-* https://en.wikipedia.org/wiki/Russo-Ukrainian_War
-* link:++https://uk.wikipedia.org/wiki/Російсько-українська_війна_(з_2014)++[]
-
-[[mykola-semena]]
-====== Mykola Semena (Семена Микола Михайлович)
-
-* https://en.wikipedia.org/wiki/Mykola_Semena
-* https://uk.wikipedia.org/wiki/Семена_Микола_Михайлович
-
-Ukrainina, worked for <<rferl>> previously, and published against the annexation of Ukraina territories.
-
-https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-freedom-expression suggests that one of her articles was added to the <<federal-list-of-extremist-materials>>, possibly "Blockade–the Necessary First Step for Liberation of Crimea", but I can't find the entry.
-
-[[anti-russia-dictatorship-info-sources]]
-===== Anti Russia dictatorship sources
-
-* https://meduza.io/en
-
-[[rferl]]
-====== Radio Free Europe (Радио_«Свобода»)
-
-* https://en.wikipedia.org/wiki/Radio_Free_Europe/Radio_Liberty
-* https://ru.wikipedia.org/wiki/Радио_«Свобода»
-
-Website: https://www.rferl.org/
-
-USA funded sister media of the <<rfa>>.
-
-[[thailand]]
-==== Thailand (泰国)
-
-It is a crime to criticize the royal family:
-
-* https://en.wikipedia.org/wiki/Lèse_majesté_in_Thailand
-* ttps://en.wikipedia.org/wiki/Lèse-majesté
-
-As https://en.wikipedia.org/wiki/Terry_Gilliam[Terry Gilliam] brilliantly says in the <<the-secret-life-of-brian-2007>> https://youtu.be/hdU_6jUQI9s?t=492[]:
-
-[[sacred-cows]]
-____
-I was always convinced that there is no where you should't go. There are no https://en.wikipedia.org/wiki/Sacred_cow_(idiom)[sacred cows]. And if there are, if they are really sacred, let's see how much we puncture them and see if they still float.
-____
-
-Everyone who has political power must know how to be laughed at criticized, otherwise <<dictatorship,dicatorship>> follows.
-
-* 2020-08-24 https://techcrunch.com/2020/08/24/after-restricting-a-group-critical-of-thailands-monarchy-facebook-says-it-will-take-legal-action-against-the-government/ "After restricting a group critical of Thailand’s monarchy, Facebook says it will take legal action against the government"
-
-[[thai-king-hamtaro]]
-.Side-by-side comparison between https://en.wikipedia.org/wiki/Vajiralongkorn[Thai King Vajiralongkorn] and https://en.wikipedia.org/wiki/Hamtaro[Hamtaro]. This is the Thai version of <<winnie-the-pooh>>. It https://asia.nikkei.com/Politics/Japanese-cartoon-Hamtaro-used-by-Thai-protesters-to-mock-government[has been used by protesters] as part of the  https://en.wikipedia.org/wiki/2020_Thai_protests[2020 Thai protests]. Left https://en.wikipedia.org/wiki/2020_Thai_protests[photo source].
-image::{cirosantilli-media-base}/Side_by_side_comparison_between_Thai_king_Vajiralongkorn_and_Hamtaro.jpg[height=400]
-
-.Leading Thai politicians prostrate themselves before Vajiralongkorn in 2016, presumably during his ascention to the throne. https://www.independent.co.uk/news/world/asia/bbc-investigation-thailand-king-defamation-a7460046.html[Source].
-image::https://web.archive.org/web/20200825181647/https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/06/09/new-thai-king-6-0.jpg?w968[height=400]
-
-.Suthida Tidjai, Vajiralongkorn's wife, prostrated before him during their marriage in 2016 before he officially ascended to the throne. Yes, prostation is a big thing in Thailand. An older king, Rama V, had apparently even https://en.wikipedia.org/wiki/Chulalongkorn#Abolition_of_prostration[abolished this practice in 1873]. Clearly, <<xi-jinping>> could learn a thing or two from a proper monarch like Vajiralongkorn. https://web.archive.org/web/20190723095722/https://www.theguardian.com/world/2019/may/03/thailand-coronation-king-maha-vajiralongkorn-rama-x[Source].
-image::https://web.archive.org/web/20200825181647/https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/06/09/new-thai-king-6-0.jpg?w968[height=400]
 
 [[ccp-evil]]
 === Is the Chinese government evil? 中国共产党是邪恶吗？
@@ -2887,7 +2526,17 @@ Because those countries are also dictatprships and completely corrupt to the bri
 Related:
 
 * 2020-07-11: https://www.nytimes.com/2020/07/11/world/asia/china-iran-trade-military-deal.html "Defying U.S., China and Iran Near Trade and Military Partnership"
+* 2018: vice-president https://en.wikipedia.org/wiki/Jusuf_Kalla[Jusuf Kalla] said "we don't want to intervene in the domestic affairs of another country": https://www.abc.net.au/news/2018-12-23/muslim-governments-stayed-silent-on-chinese-minority-uyghur/10630822
 * https://www.jpost.com/diaspora/uk-muslim-activist-praises-jewish-community-for-speaking-out-for-uyghurs-635626 even the Jews are speaking lowder in some cases
+
+[[inner-mongolia]]
+==== Inner mongolia (内蒙古)
+
+* 2020-08-31 https://www.rfa.org/english/news/china/language-08242020101614.html "China 'Will End' Mongolian-Language Education Starting This Semester: Reports"
+* 2011 Inner Mongolia unrest
+** https://en.wikipedia.org/wiki/2011_Inner_Mongolia_unrest
+** ttps://zh.wikipedia.org/wiki/2011年内蒙古抗议示威事件
+
 
 [[hong-kong]]
 ==== Hong Kong (香港)
@@ -2942,6 +2591,7 @@ video::M_aXcH1zDEE[youtube,height=400,width=600]
 
 News:
 
+* 2020-08-30 https://www.youtube.com/watch?v=eWxuzuBXh1U "Chinese Police Arrest Hong Kong Activist Andy Li (李宇轩), 11 Others, for Attempting to Flee to Taiwan"
 * 2020-08-22 https://hk.appledaily.com/us/20200822/QS26FF4DBFE7PG2LJJEO4NSQTQ/ they are already trying to remove sensitive materials from history textbooks
 ** 2020-08-21 https://www.bbc.com/zhongwen/trad/chinese-news-53846482 "香港通識科課本大幅度修改涉政治取向內容引發爭議" appears to give more concrete details. An English infographic at: https://www.reddit.com/r/China/comments/ig9xca/some_censorship_examples_of_the_latest_changes/
 * 2020-08-10 https://www.bloomberg.com/news/articles/2020-08-10/hong-kong-media-tycoon-jimmy-lai-arrested-apple-daily-reports[] "Hong Kong Media Tycoon Arrested in Latest Blow to Democracy Camp"
@@ -4284,6 +3934,411 @@ image::https://web.archive.org/web/20200301223317im_/http://www.chinatoday.com/e
 [[qing-gay-scroll]]
 .<<throne,Qing dynasty>> (18th–19th c.) panel from a scroll showing two men engaging in foreplay, apparently located in the https://en.wikipedia.org/wiki/Kinsey_Institute[Kinsey Institute] as of 2005. For an ancient depiction of heterosexual sexual activity, see <<jin-ping-mei,this image>>. https://en.wikipedia.org/wiki/File:Love_play_in_China.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/8/8d/Love_play_in_China.jpg[height=400]
+
+[[russia]]
+== Russia 俄罗斯
+
+Russia is clearly the number 2 <<dictatorship>> in the world by population / GDP and the link:https://www.ploughshares.org/world-nuclear-stockpile-report[#1 nuclear arsenal], so here we go.
+
+Ciro has always been curious about how Russia can be both oppressive and a appear democratic, unlike China which doesn't even try to pretend. This is what he gathers:
+
+* the government controls all major media. If any media says bad things against them, the government finds pretexts to create lawsuits or increase taxes against such companies. Therefore all people end up thinking that the government is good.
+* just like China, <<evil-west,they emphasize the threat of the foreign countries>>, especially the US, as a justification for having an oppressive power.
+* the government puts pressure on any significant opposition candidate. One technique is to find some reason to put them in jail for two months, which by Russian law forbids them from participating in further elections. Only candidates that don't really stand a chance are left as a fake opposition. But if you reach some prominence, you start taking the same risks as politicians, although you are more likely to face more brutal illegal gangster violence threats as you are less visible
+
+See also: <<communist-youth-league>>
+
+While we are at it, some interesting news:
+
+* 2019-12-14 https://www.bbc.co.uk/news/technology-50902496 "Russia 'successfully tests' its unplugged internet". Russia's <<gfw>> is ready?
+* 2018-04 https://www.bbc.co.uk/news/technology-43752337 "Russia to block Telegram app over encryption"
+* 2017 https://www.bbc.co.uk/news/world-europe-40635267 Russia Jehovah's Witnesses banned after they lose appeal
+* 2017 https://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay
+* 2016 https://news.vice.com/en_us/article/kzgkv3/russians-now-need-a-passport-to-watch-pornhub
+* 1995 Vladislav Listyev
+** https://en.wikipedia.org/wiki/Vladislav_Listyev
+** https://ru.wikipedia.org/wiki/Листьев,_Владислав_Николаевич
+
+The Russians have very different style to the Chinese, who are much more subtle, and just put people in jail or handicap them in several ways without killing them.
+
+Other political murders or attempts:
+
+* 2015 Boris Nemtsov Немцов, Борис Ефимович https://en.wikipedia.org/wiki/Boris_Nemtsov | https://ru.wikipedia.org/wiki/Немцов,_Борис_Ефимович
+
+Some other interesting political suppression lists:
+
+* https://en.wikipedia.org/wiki/List_of_journalists_killed_in_Russia[list of journalists killed in Russia] (https://ru.wikipedia.org/wiki/Список_журналистов,_убитых_в_России[Список журналистов, убитых в России]).
+* https://en.wikipedia.org/wiki/List_of_Soviet_and_Russian_assassinations[List of Soviet and Russian assassinations]
+* 2017 https://www.washingtonpost.com/news/worldviews/wp/2017/03/23/here-are-ten-critics-of-vladimir-putin-who-died-violently-or-in-suspicious-ways/ "Here are 10 critics of Vladimir Putin who died violently or in suspicious ways"
+
+Freedom of speech reports:
+
+* 2017-07-18 https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-freedom-expression "Online and On All Fronts Russia's Assault on Freedom of Expression"
+
+Other random stuff:
+
+* <<seventeen-moments-of-spring>>
+
+[[federal-list-of-extremist-materials]]
+=== Federal List of Extremist Materials (Федеральный список экстремистских материалов)
+
+* https://en.wikipedia.org/wiki/Federal_List_of_Extremist_Materials
+* https://ru.wikipedia.org/wiki/Федеральный_список_экстремистских_материалов
+
+<<censorship-monitoring,Unlike the Chinese>>, they have a public list, each entry had a numerical ID even. This is the best thing ever made! The dream for <<keyword-attack,keyword attackers>>!
+
+Most of it appears to be anti/<<nazi>>, and notably anti-anti-semitic but several items are purely political anti-freedoms.
+
+One wonders if the majority of the items are just fillers to hide the really juicy anti-freedom ones.
+
+We need to make a GitHub mirror of all of those some day!
+
+The list: http://minjust.gov.ru/ru/extremist-materials[] Here's an archive: http://web.archive.org/web/20200817142035/http://minjust.gov.ru/ru/extremist-materials/export.csv?attach=page[]. The website has a CSV for download with all entries at the bottom. Enca says the encoding is "MS-Windows code page 1251", convert to UTF-8 with:
+
+....
+iconv -f WINDOWS-1251 -t UTF-8//IGNORE export.csv
+....
+
+`//IGNORE` is needed because their fucking CSV export has a bug and otherwise `iconv` stops at the first error.
+
+Result at: https://github.com/cirosantilli/media/blob/039ed572f61866655fc6ea3333b199527df4f3eb/russian-federal-list-of-extremist-materials-utf8-2020-08-17.csv
+
+From this we can grep, and then to overcome translation limits as there is no offline option yet: https://askubuntu.com/questions/380847/is-it-possible-to-translate-words-via-terminal[], dump your selection on a gist and use Google translate on the Gist.
+
+A website "dedicated" to bypassing censorship of the list: http://zapretno.info/[]. TODO much of that website's content is not clearly marked as being on the list.
+
+Some notable additions:
+
+* 2791: "Blowing up Russia: Terror from Within" by <<litvinenko>>
+* Religion
+** 1171, 1172, 1173: "What is Scientology", which likely refers to this L. Ron Hubbard book. https://www.amazon.co.uk/What-Scientology-L-Ron-Hubbard/dp/1573181226[] and two other books. Coverage: https://www.businessinsider.com/russia-officially-bans-scientology-books-brands-them-extremist-2012-3?r=US&IR=T
+** 2904: Jehovah's Witnesses website https://www.jw.org/en/[]. Coverage: https://www.state.gov/reports/2017-report-on-international-religious-freedom/russia/
+* Ukraine due to <<russo-ukrainian-war>>
+** 2596: A. M. Byvshev's poem "Ukrainian patriots", where he disagreed with Russian intervention in Donbass and supported military resistance by Ukrainians.
+** searching for "суда" (Crimea) has dozens of hits
+* Anti-Putin and apparently non hate-crime:
+** 1000:
+*** Leaflets with the following content: "Down with the power of the Cheka-nuty Putin and Medvedev", "Down with the power of the Cheka-nuty Putin"
+*** Листовки следующего содержания: «Долой власть ЧК-нутых Путина и Медведева», «Долой власть ЧК-нутого Путина»
+** 4071: <<gay-putin>>
+** 4914:
+*** The book "Where did Mr. Putin take Russia?" author Yu.E. Kozenkov (M., 2005 - 208 p.)
+*** "Книга «Куда завел Россию мистер Путин?» автор Ю.Е. Козенков (М., 2005 – 208 с.)
+
+[[roskomnadzor]]
+==== Roskomnadzor (Роскомнадзор)
+
+* https://en.wikipedia.org/wiki/Federal_Service_for_Supervision_of_Communications,_Information_Technology_and_Mass_Media
+* https://ru.wikipedia.org/wiki/Роскомнадзор
+
+The Russian censorship body under <<putin>>. The Russian <<cac>>.
+
+They are the ones who make Russian takedowns on <<github-gov-takedowns>>, e.g. https://github.com/github/gov-takedowns/tree/master/Russia/2020
+
+[[putin]]
+=== Putin Путин 普京 (1999-2008, 2012-∞)
+
+* https://en.wikipedia.org/wiki/Vladimir_Putin
+* https://ru.wikipedia.org/wiki/Путин,_Владимир_Владимирович
+
+Coverage:
+
+* 2019-12-19: Putin proposes abolishing term limits. <<xi-abolishes-term-limits-2018-03,Learnt from Xi>>:
+** https://www.independent.co.uk/news/world/europe/putin-presidential-term-limit-russia-moscow-conference-today-a9253156.html
+** https://uk.reuters.com/article/uk-russia-putin-constitution/putin-says-hes-open-to-tweaking-presidential-term-limits-idUKKBN1YN1JO
+** 2020-03-25 vote delayed due to <<corona>>
+* 2014 Putin khuylo!
+** https://en.wikipedia.org/wiki/Putin_khuylo!
+** https://ru.wikipedia.org/wiki/Путин_—_хуйло!
+
+==== Putin-sponsored poisonings
+
+Russia apparently has a long list of poisoning political enemies: https://nypost.com/2018/06/23/inside-russias-long-history-of-poisoning-political-enemies/
+
+* 2020 <<the-poisoning-of-alexei-navalny-2020>>
+* 2018 <<skripal>>
+* 2012 Alexander Perepilichny Перепеличный, Александр Юрьевич https://en.wikipedia.org/wiki/Alexander_Perepilichny | https://ru.wikipedia.org/wiki/Перепеличный,_Александр_Юрьевич
+* 2006 <<litvinenko>>
+* 2004 Anna Politkovskaya Анна Политковская https://en.wikipedia.org/wiki/Anna_Politkovskaya | https://ru.wikipedia.org/wiki/Политковская,_Анна_Степановна
+* 2004 Viktor Yushchenko Ющенко, Виктор Андреевич https://en.wikipedia.org/wiki/Viktor_Yushchenko | https://ru.wikipedia.org/wiki/Ющенко,_Виктор_Андреевич
+
+News:
+
+* https://en.wikipedia.org/wiki/Poison_laboratory_of_the_Soviet_secret_services[Poison laboratory of the Soviet secret services] (link:++https://ru.wikipedia.org/wiki/Токсикологическая_лаборатория_НКВД_—_НКГБ_—_МГБ++[Токсикологическая лаборатория НКВД — НКГБ — МГБ])
+
+[[superputin]]
+==== Superputin
+
+Meme partially supported by Putin himself, showing how physically strong and <<gay-putin,manly>> the president is.
+
+Similar to https://en.wikipedia.org/wiki/Chuck_Norris_facts[Chuck Norris facts].
+
+"Putin does manly things" photo galleries:
+
+* 2017-06-07 https://mashable.com/2017/08/07/the-swaggering-masculinity-of-vladimir-putin/?europe=true (https://web.archive.org/web/20200412092201/https://mashable.com/2017/08/07/the-swaggering-masculinity-of-vladimir-putin/?europe=true[archive])
+* https://www.cbsnews.com/pictures/vladimir-putin-doing-manly-things/
+
+.Putin swims Butterfly stroke in a Siberian lake around August 2009. The Telegraph https://web.archive.org/web/20200412090316/https://www.telegraph.co.uk/news/worldnews/europe/russia/6175324/Vladimir-Putin-gives-strong-signal-he-may-be-president-again.html[correctly interpreted this as a sign that he would be re-elected in 2012]. For reference https://en.wikipedia.org/wiki/Lake_Baikal[Lake Baikal in Siberia has a maximum temperature of 14 °C in summer]. Other dictators have used similar swim tactics before, the most notable possibly being <<mao-swim>>. https://web.archive.org/web/20200412090316/https://www.telegraph.co.uk/news/worldnews/europe/russia/6175324/Vladimir-Putin-gives-strong-signal-he-may-be-president-again.html[Source].
+image::https://web.archive.org/web/20200412090316im_/https://secure.i.telegraph.co.uk/multimedia/archive/01472/Vladimir-Putin_1472816c.jpg[height=400]
+
+.Putin riding a horse shirtless https://nypost.com/2014/08/29/putin-its-best-not-to-mess-with-us/[near Lake Seliger in August 2009]. https://www.huffpost.com/entry/worl-photo-caption-contest-shirtless-putin_n_3263512[Source].
+image::https://web.archive.org/web/20200412092919im_/https://i.huffpost.com/gen/1133558/original.jpg[height=500]
+
+.Putin riding a bear. https://www.pinterest.fr/pin/469429961142687422/[Source].
+image::https://web.archive.org/web/20200412094400if_/https://i.pinimg.com/564x/07/68/05/076805e00f6ad771818d36ccef62cfd3.jpg[height=400]
+
+.Putin riding a shark. https://sharkdivers.blogspot.com/2011/05/russian-pm-putin-rides-great-white.html[Source].
+image::https://web.archive.org/web/20160614201455if_/http://1.bp.blogspot.com/-FYfgqjECs1I/TeJoA2899DI/AAAAAAAAEII/7js84oWpRPk/s400/tumblr_kuxr34jtOb1qzeu38o1_400.png[height=400]
+
+.Putin riding a giant eagle. https://www.quora.com/Is-this-picture-of-Vladimir-Putin-riding-a-bear-fake-or-real[Source].
+image::https://web.archive.org/web/20200412093557if_/https://qph.fs.quoracdn.net/main-qimg-71e8b8cddfce751d8e0a8ed45b316731.webp[height=400]
+
+.Putin riding a meteor. https://www.quora.com/Is-this-picture-of-Vladimir-Putin-riding-a-bear-fake-or-real[Source].
+image::https://web.archive.org/web/20200412093551if_/https://qph.fs.quoracdn.net/main-qimg-ae21d615c5a8738a7321478bc1b686c5.webp[height=400]
+
+[[gay-putin]]
+==== Gay Putin (2017)
+
+Added to the <<federal-list-of-extremist-materials>>.
+
+Coverage:
+
+* https://www.independent.co.uk/news/world/europe/russia-putin-gay-clown-memes-internet-extremism-opposition-president-kremlin-a7669486.html
+
+<<gay-rights,Homosexuality>> is not super popular in Russia in general:
+
+* https://en.wikipedia.org/wiki/LGBT_rights_in_Russia
+* 2013 https://en.wikipedia.org/wiki/Russian_gay_propaganda_law Russian gay propaganda law (2013) forbids the favorable depiction of homosexuality to minors
+
+.The possibly Gay Putin clown image banned in 2017. https://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay[Source].
+image::https://web.archive.org/web/20200312233919if_/https://cdn1.i-scmp.com/sites/default/files/styles/1200x800/public/images/methode/2017/04/06/0a2ae706-1a94-11e7-b4ed-ac719e54b474_1280x720_145124.jpg[height=400]
+
+.Possibly Gay Putin kissing possibly Gay <<flg-trump,Trump>> mural entitled https://en.wikipedia.org/wiki/Make_Everything_Great_Again[Make Everything Great Again] painted in Lithuania in 2016 by by artists Dominykas Čečkauskas and Mindaugas Bonanu. It references the https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections[Russian interference in the 2016 United States elections]. It was https://www.theguardian.com/world/2016/aug/12/vandals-censor-image-of-putin-snogging-trump-lithuania[later vandalized]. Now we just need a Putin <<xi-jinping>> kiss. Trump Xi kiss https://www.dw.com/en/sierens-china-survival-of-the-fittest/a-49498499[can be found here]. https://www.euractiv.com/section/global-europe/opinion/putin-will-pay-a-high-price-for-trumps-friendship/[Source].
+image::https://web.archive.org/web/20191022004820if_/https://en.euractiv.eu/wp-content/uploads/sites/2/2016/11/Putin-Trump-kiss-800x450.jpg[height=400]
+
+[[skripal]]
+==== The poisoning of Sergei and Yulia Skripal Серге́й Ви́кторович Скрипáль (2018-03-04)
+
+* https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal
+* https://ru.wikipedia.org/wiki/Отравление_Сергея_и_Юлии_Скрипаль
+
+For more poisonings see: <<putin-sponsored-poisonings>>.
+
+In 4 March 2018, the Russian double agent and his daughter were poisoned with https://en.wikipedia.org/wiki/Novichok_agent[Novichok agent] (https://ru.wikipedia.org/wiki/Новичок_(отравляющие_вещества)[Новичо́к]), a Soviet-era nerve agent, which was likely put on their front door knob in https://en.wikipedia.org/wiki/Salisbury[Salisbury, UK], exact address https://goo.gl/maps/oKASuLWpcSmLqL8F9[Christie Miller Road]! Straight out of a spy novel.
+
+On 30 June 2018, the man of an unlucky drug addict couple found the counterfeit expensive looking https://en.wikipedia.org/wiki/Nina_Ricci_(brand)[Nina Ricci] Premier Jour perfume bottle containing the poison, and gave it to the woman who died. How unlucky can you fucking be, as if heavy drug addiction weren't enough, you still have to deal with fucking Russian Novichok!
+
+.The assassination suspects Alexander Mishkin (Алекса́ндр Евге́ньевич Ми́шкин, alias Alexander Petrov) and Anatoliy Chepiga (Анатолий Владимирович Чепига, alias Ruslan Boshirov) in a CCTV still at Salisbury Station on 3rd March 2018 the day before the assassination. Both GRU and Alexander being a doctor, which is consistent with a poisoning assassination attempt. They later explained on an RT interview that they were visiting the https://en.wikipedia.org/wiki/Salisbury_Cathedral[world renowned Salisbury Cathedral] in their 3 day trip to the UK, and that they <<gay-putin,were not gay>>. Some Western sources interpreted this as an intentional suggestion that they are gay, which for many Russians would imply that they cannot be FSB agents. https://www.theguardian.com/uk-news/2018/sep/05/planes-trains-and-fake-names-the-trail-left-by-skripal-suspects[Source].
+image::https://web.archive.org/web/20200313103134if_/https://i.guim.co.uk/img/media/31a18fa18d2fedb11136fc3d2c39952e4aec1ce5/0_97_1114_668/master/1114.jpg?width=620&quality=85&auto=format&fit=max&s=19c40235440efb1be4b1b8d9ef1b87d7[height=400]
+
+.Counterfeit Nina Ricci Premier Jour packet that contained the Novichok. https://www.npr.org/2018/09/05/644782096/u-k-charges-2-russians-suspected-of-poison-attack-on-skripals[Source].
+image::https://web.archive.org/web/20200404112526im_/https://media.npr.org/assets/img/2018/09/05/skripal-perfume_wide-8e5147ab76a27976e4bde6adffce910f4f297d25-s1100-c15.jpg[height=400]
+
+.https://www.youtube.com/watch?v=Ku8OQNyI2i0 "Full Skripal case interview with the UK's suspects (EXCLUSIVE)" by RT with Alexander Petrov and Ruslan Boshirov. Not gay moment at: https://youtu.be/Ku8OQNyI2i0?t=461[461s].
+video::Ku8OQNyI2i0[youtube,height=400,width=600]
+
+==== Electoral fraud in Russian elections
+
+Besides barring opposition from participating such as <<alexei-navalny>>, electoral fraud was off the charts:
+
+.https://www.youtube.com/watch?v=-KQlCRLCw_I 2019-09-12 CCTV footage of Vasily Dyachenko (Василий Дьяченко), who had reported electoral fraud concerns regional 2019 elections, getting surprise punched in the stomach at the St. Petersburg polling station 1619, while the police who is right in front of it do nothing about it. English coverage: https://www.rferl.org/a/russian-police-stand-idly-by-as-election-observer-sucker-punched/30160427.html
+video::-KQlCRLCw_I[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=3oSeRyaFllY 2018-03-18 alleged https://en.wikipedia.org/wiki/Electoral_fraud#Ballot_stuffing[ballot stuffing electoral fraud] caught on CCTV in Lyubertsy, Moscow Oblast
+video::3oSeRyaFllY[youtube,height=400,width=600]
+
+https://www.youtube.com/watch?v=WMEqv-NNLW4 Мусора избили ребёнка и наблюдателей на выборах TODO find English version
+
+Related:
+
+* Golos (Голос) is the main independent election monitor organization in Russia:
+** https://en.wikipedia.org/wiki/Golos_(election_monitor)
+** https://ru.wikipedia.org/wiki/Голос_(мониторинг_выборов)
+
+[[litvinenko]]
+==== The murder of Alexander Litvinenko Литвиненко, Александр Вальтерович (2006)
+
+* https://en.wikipedia.org/wiki/Alexander_Litvinenko
+* https://ru.wikipedia.org/wiki/Литвиненко,_Александр_Вальтерович
+
+Poisoned with polonium-210, for more poisonings see: <<putin-sponsored-poisonings>>:
+
+* 2006-10-29
+** meets with two former FSB agents Dmitry Kovtun and Andrey Lugovoy at Millenium Hotel London TODO exact address
+** eats with https://en.wikipedia.org/wiki/Mario_Scaramella[Mario Scaramella] at an Itsu in London TODO exact address. <<ciro-santilli>> believes the https://en.wikipedia.org/wiki/Itsu[Itsu] food to be the real cause of death.
+* 2006-11-01 falls ill
+* 2006-11-03 admitted into hospital
+* 2006-11-23 dies
+* 2007-01-26 UK police says they had found a teapot at Millenium Hotel containing extremely high Poloninum-210 traces
+* 2010-12 US leaked cables show that Dmitry Kovtun left "positive traces" of radioactive polonium-210 in Germany before departing for Britain https://www.theguardian.com/world/2010/dec/11/wilileaks-cables-litvinenko-murder
+
+His 2002 book https://en.wikipedia.org/wiki/Blowing_Up_Russia[Blowing up Russia: Terror from Within] (https://ru.wikipedia.org/wiki/ФСБ_взрывает_Россию[ФСБ взрывает Россию: Федеральная служба безопасности — организатор террористических актов, похищений и убийств]) accuses the FSB of setting up false flag bombing operations, and figures on the <<federal-list-of-extremist-materials>>.
+
+.Litvinenko in his death bed.
+image::https://web.archive.org/web/20200404123347im_/https://i.guim.co.uk/img/static/sys-images/guardian/About/General/2010/12/11/1292079941381/Former-Russian-Agent-Pois-006.jpg?width=620&quality=85&auto=format&fit=max&s=2a623e83efa1042cc1cd07295d54a57b[height=400]
+
+[[russia-mandatory-registration-of-bloggers]]
+==== Mandatory registration of bloggers (2014)
+
+https://www.bbc.co.uk/news/technology-28583669
+
+Bloggers with more than 3000 daily readers must register and cannot be anonymous.
+
+The following Chinese policies come to mind:
+
+* <<icp-license>>
+* <<anonymous-accounts-ban>>
+
+=== Putin opposition
+
+* https://en.wikipedia.org/wiki/Opposition_to_Vladimir_Putin_in_Russia
+* https://ru.wikipedia.org/wiki/Политическая_оппозиция_в_Российской_Федерации
+
+List:
+
+* https://en.wikipedia.org/wiki/Yegor_Zhukov[Yegor Zhukov]: 2020-08-31 https://www.bbc.co.uk/news/world-europe-53972592 "Yegor Zhukov: Leading Russian opposition blogger beaten up", good photo of swallen face
+
+[[alexei-navalny]]
+==== Alexei Navalny (Навальный, Алексей Анатольевич)
+
+* https://en.wikipedia.org/wiki/Alexei_Navalny
+* https://ru.wikipedia.org/wiki/Навальный,_Алексей_Анатольевич
+
+Casually barred from the 2018 presidential campaign:
+
+* https://en.wikipedia.org/wiki/2018_Alexei_Navalny_presidential_campaign
+* https://www.bbc.co.uk/news/world-europe-42479909
+* https://ru.wikipedia.org/wiki/Навальный,_Алексей_Анатольевич#Президентские_выборы_2018_года
+
+His Wiki page does say one thing of interest though, he has right wing tendencies which scared off liberals:
+
+____
+The BBC noted in a profile of Navalny that his endorsement of a political campaign called "Stop feeding the Caucasus" and his willingness to speak at ultra-nationalist events "have caused concern among liberals".
+____
+
+This video of his https://www.youtube.com/watch?v=RQZr2NgKPiU might have been added to the <<federal-list-of-extremist-materials>>, wiki: https://en.wikipedia.org/wiki/Oleg_Deripaska#Navalny_video[], coverage: https://www.rferl.org/a/russia-deripaska-prikhodko-rybka-nuland-yacht/29028148.html but I can't find where it is in the list exactly.
+
+Related:
+
+* https://www.rferl.org/a/russia-navalny-nationalist-fears/25059277.html
+* https://www.youtube.com/watch?v=oVNJiO10SWw
+
+===== The poisoning of Alexei Navalny (2020)
+
+* https://en.wikipedia.org/wiki/Poisoning_of_Alexei_Navalny_(2020)
+* https://ru.wikipedia.org/wiki/Отравление_Алексея_Навального
+
+For more poisonings see: <<putin-sponsored-poisonings>>.
+
+The second one! The first one was in 2019, but this one is more serious.
+
+* https://www.bbc.co.uk/news/world-europe-53892900
+
+He was forcibly kept in Russia for a few days to make the poison effect undetectable before they allowed him to be flown to Berlin.
+
+Several policemen prevented family access to him while in Russia.
+
+First doctors told family he was poisoned, but then soon after they changed their minds to some random excuse.
+
+Poison effects consistent with https://en.wikipedia.org/wiki/Cholinesterase_inhibitor[cholinesterase inhibitors], but the exact substance was not identified in tests.
+
+https://uk.reuters.com/article/uk-russia-politics-navalny-probe/russian-prosecutors-say-no-need-for-criminal-investigation-in-navalny-affair-idUKKBN25N14A
+
+[[khabarovsk-krai-protests-2020]]
+==== 2020 Khabarovsk Krai protests (Протесты в Хабаровском крае)
+
+* https://en.wikipedia.org/wiki/2020_Khabarovsk_Krai_protests
+* https://ru.wikipedia.org/wiki/Протесты_в_Хабаровском_крае
+
+In support to https://en.wikipedia.org/wiki/Sergei_Furgal[Sergei Furgal] (https://ru.wikipedia.org/wiki/Фургал,_Сергей_Иванович[Фургал, Сергей Иванович]).
+
+=== Censorship of images in the Soviet Union
+
+https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union
+
+.Before/after comparison of picture of Stalin with Nikolai Yezhov at the Moscow Canal. Nikolai was edited out form the second picture. (Credit: Fine Art Images/Heritage Images/Getty Images & AFP/GettyImages) https://www.history.com/news/josef-stalin-great-purge-photo-retouching[Source].
+image::https://web.archive.org/web/20191014084357im_/https://www.history.com/.image/c_limit,cs_srgb,q_auto:good,w_860/MTU3ODc4NjAzNTIxNzMwMjcx/image-placeholder-title.webp[height=400]
+
+.A meeting of the St. Petersburg chapter of the Union of Struggle for the Liberation of the Working Class in February 1897, including Lenin and Alexander Malchenko. https://en.wikipedia.org/wiki/File:Union-de-Lucha.jpg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Union-de-Lucha.jpg/640px-Union-de-Lucha.jpg[height=500]
+
+.Same as above, but with Alexander Malchenko edited out. link:++https://en.wikipedia.org/wiki/File:St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg++[Source].
+image::https://web.archive.org/web/20170224022141if_/https://upload.wikimedia.org/wikipedia/commons/1/1f/St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg[height=500]
+
+[[stalin]]
+=== Stalin 斯大林 (1922-1952)
+
+.https://en.wikipedia.org/wiki/Light_Yagami[Light Yagami] from https://en.wikipedia.org/wiki/Death_Note[Death Note]: "I can kill anyone by simply writing his name here". Stalin: "Bitch please". https://ifunny.co/picture/1-can-kill-anyone-by-simply-writing-his-name-here-TjXCcyuM2[Source].
+image::https://web.archive.org/web/20200301233451/https://img.ifunny.co/images/55cb6c5de9cde6ebe7e9d1704c7f83e6d344e8154b44299fec9b9a029aa82c34_1.jpg[height=500]
+
+.https://www.youtube.com/watch?v=ZT2z0nrsQ8o "Rasputin vs Stalin." Epic Rap Battles of History YouTube video. This is fire. https://epicrapbattlesofhistory.fandom.com/wiki/Rasputin_vs_Stalin/Rap_Meanings[Explanations].
+video::ZT2z0nrsQ8o[youtube,height=400,width=600]
+
+[[russo-ukrainian-war]]
+=== Russo-Ukrainian War (2014-)
+
+* https://en.wikipedia.org/wiki/Russo-Ukrainian_War
+* link:++https://uk.wikipedia.org/wiki/Російсько-українська_війна_(з_2014)++[]
+
+[[mykola-semena]]
+==== Mykola Semena (Семена Микола Михайлович)
+
+* https://en.wikipedia.org/wiki/Mykola_Semena
+* https://uk.wikipedia.org/wiki/Семена_Микола_Михайлович
+
+Ukrainina, worked for <<rferl>> previously, and published against the annexation of Ukraina territories.
+
+https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-freedom-expression suggests that one of her articles was added to the <<federal-list-of-extremist-materials>>, possibly "Blockade–the Necessary First Step for Liberation of Crimea", but I can't find the entry.
+
+[[anti-russia-dictatorship-info-sources]]
+=== Anti Russia dictatorship sources
+
+* https://meduza.io/en
+
+[[rferl]]
+==== Radio Free Europe (Радио_«Свобода»)
+
+* https://en.wikipedia.org/wiki/Radio_Free_Europe/Radio_Liberty
+* https://ru.wikipedia.org/wiki/Радио_«Свобода»
+
+Website: https://www.rferl.org/
+
+USA funded sister media of the <<rfa>>.
+
+[[thailand]]
+== Thailand (泰国)
+
+It is a crime to criticize the royal family:
+
+* https://en.wikipedia.org/wiki/Lèse_majesté_in_Thailand
+* ttps://en.wikipedia.org/wiki/Lèse-majesté
+
+As https://en.wikipedia.org/wiki/Terry_Gilliam[Terry Gilliam] brilliantly says in the <<the-secret-life-of-brian-2007>> https://youtu.be/hdU_6jUQI9s?t=492[]:
+
+[[sacred-cows]]
+____
+I was always convinced that there is no where you should't go. There are no https://en.wikipedia.org/wiki/Sacred_cow_(idiom)[sacred cows]. And if there are, if they are really sacred, let's see how much we puncture them and see if they still float.
+____
+
+Or in other word:
+
+___
+Vajiralongkorn, you little piece of shit, grow some balls and learn how to take an insult. A man who cannot take an insult is not a man, but a big pussy.
+___
+
+Everyone who has political power must know how to be laughed at criticized, otherwise <<dictatorship,dicatorship>> follows.
+
+* 2020-08-24 https://techcrunch.com/2020/08/24/after-restricting-a-group-critical-of-thailands-monarchy-facebook-says-it-will-take-legal-action-against-the-government/ "After restricting a group critical of Thailand’s monarchy, Facebook says it will take legal action against the government"
+
+[[thai-king-hamtaro]]
+.Side-by-side comparison between https://en.wikipedia.org/wiki/Vajiralongkorn[Thai King Vajiralongkorn] and https://en.wikipedia.org/wiki/Hamtaro[Hamtaro]. This is the Thai version of <<winnie-the-pooh>>. It https://asia.nikkei.com/Politics/Japanese-cartoon-Hamtaro-used-by-Thai-protesters-to-mock-government[has been used by protesters] as part of the  https://en.wikipedia.org/wiki/2020_Thai_protests[2020 Thai protests]. Left https://en.wikipedia.org/wiki/2020_Thai_protests[photo source].
+image::{cirosantilli-media-base}/Side_by_side_comparison_between_Thai_king_Vajiralongkorn_and_Hamtaro.jpg[height=400]
+
+.Leading Thai politicians prostrate themselves before Vajiralongkorn in 2016, presumably during his ascention to the throne. https://www.independent.co.uk/news/world/asia/bbc-investigation-thailand-king-defamation-a7460046.html[Source].
+image::https://web.archive.org/web/20200825181647/https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/06/09/new-thai-king-6-0.jpg?w968[height=400]
+
+.Suthida Tidjai, Vajiralongkorn's wife, prostrated before him during their marriage in 2016 before he officially ascended to the throne. Yes, prostation is a big thing in Thailand. An older king, Rama V, had apparently even https://en.wikipedia.org/wiki/Chulalongkorn#Abolition_of_prostration[abolished this practice in 1873]. Clearly, <<xi-jinping>> could learn a thing or two from a proper monarch like Vajiralongkorn. https://web.archive.org/web/20190723095722/https://www.theguardian.com/world/2019/may/03/thailand-coronation-king-maha-vajiralongkorn-rama-x[Source].
+image::https://web.archive.org/web/20200825181647/https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/06/09/new-thai-king-6-0.jpg?w968[height=400]
 
 [[falun-gong]]
 === Falun Gong 法輪大法
