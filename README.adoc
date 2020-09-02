@@ -1785,9 +1785,6 @@ Ciro initially learnt from book that come with audio recordings in the first 6-m
 
 It should also be mentioned that Ciro also feels that it would be better if all countries more officially adopted English as an international language that everyone should learn for reasons explained at: https://cirosantilli.com/#having-more-than-one-natural-language-is-bad-for-the-world
 
-.The Sweet Brown https://en.wikipedia.org/wiki/Ain%27t_Nobody_Got_Time_for_That[Ain't Nobody Got Time for That] meme (https://knowyourmeme.com/memes/sweet-brown-aint-nobody-got-time-for-that[knowyourmeme]) fits perfectly into how Ciro feels about learning Chinese characters.
-image::{cirosantilli-media-base}/Sweet_brown_chinese_characters_meme.jpg[height=500]
-
 [[chinese-characters-are-insane]]
 ===== Chinese characters are insane 汉字是疯狂的
 
@@ -1795,7 +1792,11 @@ Maybe the commies for once <<richer,did something good>> by introducing https://
 
 But they should have gone further and reduced it to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export.
 
+No foreign adult will every learn to read and write Chinese unless they are completely obsessed by the culture or need it as part of their jobs. And even then, they will avoid it at all costs, because life is just too short!
+
 <<ciro-santilli>> smirked when he came across the character "蒄" in Pleco, and the translation was: "meaning unknown (herb mentioned in old books)". Yes, at the word level, the same like exists in phonetic systems, but that it takes up a modern dictionary and Unicode slot is still funny.
+
+Japanese https://en.wikipedia.org/wiki/Furigana[furigana] also comes to mind. The characters are so insane that you need a well specified and widely used phonetic reading aid!
 
 Posts that express similar ideas:
 
@@ -1803,6 +1804,9 @@ Posts that express similar ideas:
 
 .The "fictional" Chinese character "Dou" from https://en.wikipedia.org/wiki/Uncyclopedia[Uncyclopedia] is roughly translated as "Impossibly complex pictogram-based writing system that takes a person a thousand thousand years to learn." and illustrates well why pictograms are a bad idea. https://uncyclopedia.ca/wiki/File:Chinese_character_extreme.svg[Source].
 image::https://uncyclopedia.ca/w/images/e/e1/Chinese_character_extreme.svg[height=400]
+
+.The Sweet Brown https://en.wikipedia.org/wiki/Ain%27t_Nobody_Got_Time_for_That[Ain't Nobody Got Time for That] meme (https://knowyourmeme.com/memes/sweet-brown-aint-nobody-got-time-for-that[knowyourmeme]) fits perfectly into how Ciro feels about learning Chinese characters.
+image::{cirosantilli-media-base}/Sweet_brown_chinese_characters_meme.jpg[height=500]
 
 ////
 .https://www.youtube.com/watch?v=t_cbW5JK9WM "The most complex Chinese character" by Vladimir Skultety does a reasonable analysis of which Chinese character is the most complex
