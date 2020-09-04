@@ -6884,6 +6884,7 @@ Lists:
 
 People:
 
+* 2020-09 Haizhou Hu from University of Virginia: https://www.cbs19news.com/story/42560934/uva-researcher-arrested-on-federal-charges
 * 2020-07 Houston consulate closed due to alllegations of facilitating intellectual property theft without public proof
 ** https://www.bbc.co.uk/news/world-us-canada-53497193
 ** https://edition.cnn.com/2020/09/02/politics/us-chinese-diplomat-restrictions/index.html "US imposes new restrictions on Chinese diplomats" has been another direct effect of this most likely
