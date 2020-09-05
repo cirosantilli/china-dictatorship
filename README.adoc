@@ -2157,6 +2157,9 @@ Tencent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-ba
 * https://www.reddit.com/r/fucktheccp/ small as of 2020 but promising
 * https://www.reddit.com/r/HongKong had 3x more users than r/china as of 2020 after <<2019-hong-kong-anti-extradition-bill-protests>>.
 * https://www.reddit.com/r/CCP_virus/ for <<corona>>
+* China Circle Jerk subs (CCJ). TODO: these appear to be politically incorrect subs, but they do seem to allow anti-commit info. As of 2020, they were either banned or private:
+** https://www.reddit.com/r/CCJ
+** https://www.reddit.com/r/CCJ2
 
 ====== r/sino
 
@@ -2555,6 +2558,11 @@ There is only one solution to Hong Kong's problem:
 These have started happening seriously in response to the <<hong-kong-national-security-law>>.
 
 Hong Kong related posts at: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ahong-kong+
+
+Related:
+
+* <<hong-kong-dissidents>>
+* <<lihkg>>
 
 ===== Hong Kong 97 SNES video game
 
@@ -3770,7 +3778,8 @@ Some <<wumao,wumaos>>:
 [[ptt]]
 ==== PTT Bulletin Board System 批踢踢實業坊
 
-https://en.wikipedia.org/wiki/PTT_Bulletin_Board_System | https://zh.wikipedia.org/wiki/批踢踢
+* https://en.wikipedia.org/wiki/PTT_Bulletin_Board_System
+* https://zh.wikipedia.org/wiki/批踢踢
 
 Popular <<taiwan,Taiwanese>> forum system and server from 1995, pre HTML, works from telnet terminal, so likely very programmer heavy, and obviously anti-CCP, as of 2020 often shows <<falun-gong>> ads.
 
@@ -3816,6 +3825,24 @@ luit -encoding big5 telnet ptt2.cc
 Then there is a registration process that seem to require you to prove that you work at Taiwanese university, but not sure it is mandatory to post.
 
 But I couldn't find Gossiping there either, which is the only board that matters, so not sure it is on this server.
+
+[[lihkg]]
+==== LIHKG (連登)
+
+* https://en.wikipedia.org/wiki/LIHKG
+* https://zh.wikipedia.org/wiki/LIHKG討論區
+
+URL: https://lihkg.com
+
+<<hong-kong>> Reddit. Requires a Hong Kong IP or university address to login, a bit in the spirit of <<ptt>> to avoid <<wumao>>.
+
+TODO meaning of "LI"?
+
+<<ciro-santilli>> mentions:
+
+* 2018-07-31 https://lihkg.com/thread/762440/page/1 https://archive.is/7REOi. Title: "依條友都幾屈機, 係Stack overflow撚共匪". I'm unable to understand the first sentence, but the end is something along "to play tricks on the commies". First comment (likely by OP): "佢個個人home page好多5毛留言, 唔知會唔會搞到block堆stackoverflow". The entire thread is about Ciro's <<stack-overflow>>.
+* 2019-10-05 https://lihkg.com/thread/1625310/page/1 "聽講GitHub好好用" (Attending lectures on GitHub is very useful.). But likely some slang for politics, because on first comment "可以好好上去發表下愛國論". Then someone links to <<nine-nine-six-icu>>, then to the GitHub <<mirrors,mirror of this page>>, and then to <<gitee>>.
+* 2019-10-31 https://lihkg.com/thread/1685513/page/3 "Notepad++新版代號「自由維吾爾」，GitHub網頁被灌爆，網站遭DDoS" about <<notepad>> "Free Uyghur" version. On page 3 comment links to Ciro's <<stack-overflow>> account. Big thread with 500+ likes.
 
 [[google]]
 ==== Google 谷歌
@@ -6663,6 +6690,8 @@ Alias: 洁洁良
 
 === Hong Kong dissidents
 
+Related: <<hong-kong>>.
+
 [[joshua-wong]]
 ==== Joshua wong (黄之锋)
 
@@ -8126,10 +8155,16 @@ But in reality they punish anyone who poses a political threat, even if they did
 * 2020-06 Hao Runze, son of <<hao-haidong>>, lost his job because his father spoke up against the CCP. Did the CCP speak up for him, like the speak up whenever a Chinese citizen gets hurt?
 
 [[picking-quarrels]]
-==== Picking quarrels and provoking trouble 寻衅滋事罪
+==== Picking quarrels and provoking trouble (寻衅滋事罪)
 
 * https://en.wikipedia.org/wiki/Picking_quarrels_and_provoking_trouble
 * https://zh.wikipedia.org/wiki/寻衅滋事罪
+
+[[hurt-the-feelings-of-the-chinese-people]]
+===== Hurt the feelings of the Chinese people (伤害中国人民的感情)
+
+* https://en.wikipedia.org/wiki/Hurt_the_feelings_of_the_Chinese_people
+* https://zh.wikipedia.org/wiki/傷害中國人民的感情
 
 === Support for non-scientific traditional practices
 
@@ -8177,7 +8212,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 ** https://twitter.com/jnzst/status/1111395254408613888
 * 2019-01-10: https://twitter.com/ninoseki/statuses/1083512317952704512 | https://archive.is/vCwep 1300 followers.
 * 2018-08: https://www.reddit.com/r/CCJ2/comments/93klir/moron_tries_to_dismantle_chinese_government_by | https://archive.is/HtYng "moron tries to dismantle chinese government by putting a few moon runes on some websites" Peak of 100 unique visitors/day from the base rate of 5
-** led to: https://lihkg.com/thread/762440/page/1 | https://archive.is/7REOi "佢個個人home page好多5毛留言, 唔知會唔會搞到block堆stackoverflow"
+** led to: https://lihkg.com/thread/762440/page/1 <<lihkg>> https://archive.is/7REOi "佢個個人home page好多5毛留言, 唔知會唔會搞到block堆stackoverflow"
 * 2018-07: http://4-ch.net/general/kareha.pl/1531480621/l50 | https://web.archive.org/web/20180815081351/http://4-ch.net/general/kareha.pl/1531480621/l50 "No more Xi Jinping"
 * 2018-06: https://medarc.org/pac.txt | https://web.archive.org/web/20180712094944/http://medarc.org/pac.txt puts cirosantilli.com in a blacklist containing the likes of asianpiss.com and clearwisdom.net. Awesome. Then I grepped the main one https://github.com/gfwlist/gfwlist with `while true; do git checkout HEAD~; if ! base64 -d gfwlist.txt | grep -q cirosan; then break; fi; done` and found that I was added in 24a6f6f29e24d1d7eb27946bf51d7a072ddb3e6d Tue Apr 24 2018. That is input data for https://addons.mozilla.org/en-US/firefox/addon/autoproxy/ which turns on a proxy only for certain websites. Therefore that is a definitive list of interesting stuff. I wonder how it is curated.
 * 2018-05: a few hits from https://chinadigitaltimes.net but Google cannot find any links
