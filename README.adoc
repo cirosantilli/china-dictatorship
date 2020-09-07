@@ -399,6 +399,7 @@ That is great when they make good decisions, but it sucks when they make <<war,b
 
 <<ciro-santilli>> really likes https://web.archive.org/web/20180923192824/https://www.becker-posner-blog.com/2011/05/can-poor-countries-afford-democracy-becker.html[Posners'] way of putting it:
 
+[[dictatorship-variability]]
 ____
 While average rate of growth do not appear to differ much between democracies and authoritarian regimes, the variability in performance does differ more among authoritarian governments. China has had remarkable growth since the 1980s, but the prolonged devastation and hardship produced by China's "<<great-leap-forward>>" (when millions of farmers starved to death) and its Cultural Revolution would unlikely have occurred in a democratic country like say India. Nor is it likely that say Cuba and many African nations would have suffered so long with such terrible economic policies if they had reasonably democratic institutions.
 ____
@@ -408,6 +409,9 @@ Maybe China was poor because of Mao's crazy communist regime. Similar regimes al
 Definitely, the current regime is better than Mao's, but just imagine how rich China could be if it had more freedom and justice.
 
 Imperial China lost the race for the Industrial Revolution. Will another dictatorship be able to stay on top of the next technological revolution?
+
+.XKCD 937 "TornadoGuard" comes to mind in relationship to the <<dictatorship-variability,variable performance of dictatorships>>. https://xkcd.com/937/[Source].
+image:https://web.archive.org/web/20200825230502im_/https://imgs.xkcd.com/comics/tornadoguard.png[height=600]
 
 ==== Censorship makes countries poorer
 
@@ -8415,7 +8419,7 @@ On the website of a https://en.wikipedia.org/wiki/Hainan_Medical_University[Medi
 +
 Related: <<xi-jinping-thought>>.
 
-Typing that on Google also suggested "People also searched for: 网络审查利弊" (What are the pros and cons of censorship?) Priceless.
+Typing that on Google also suggested "People also searched for: 网络审查利弊" (What are the pros and cons of censorship?) Priceless. Bomb at: https://github.com/cirosantilli/china-dictatorship/issues/150
 
 === Support for non-scientific traditional practices
 
