@@ -4794,11 +4794,41 @@ image:https://web.archive.org/web/20200907151448/https://preview.redd.it/f2q3txu
 
 ===== Orange Papers
 
+Amazing website talking about Cults and many other things!
+
 https://www.orange-papers.org/orange-cult_q0.html
 
-Down as of 2020-04, https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q0.html[2016-02-05 archive]
+Down as of 2020-04 archive:
 
-This is an amazing website talking about Cults and many other things! TODO who is the author? Copyright says by "A. Orange". Is it the real name, or just a pun for "I ate an orange"?
+* 2016 archive of the Cult Test, which is the key page of the website:https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q0.html
+* latest working homepage archive from 2017: http://web.archive.org/web/20170121225657/https://www.orange-papers.org/
+
+TODO who is the author? Copyright says by "A. Orange". Is it the real name, or just a pun for "I ate an orange"?
+
+https://www.reddit.com/r/Orangepapers/comments/5sh7kg/any_info_on_what_happened_to_the_orange_papers/ mentions the creator's first name is "Terry", and that the website went down due to financial trouble.
+
+Claimed interview with him on the 2013 SAFE RECOVERY podcast: https://podfanatic.com/podcast/safe-recovery/episode/orange-papers-founder-terry-talks-about-the-truth-about-aa-1
+
+The website also offered compressed archives, but those were not on Wayback Machine (it is harder because there are many different timestamps available):
+
+____
+Get this entire web site in a set of compressed packages so that you can read it later offline (and burn CDs and give copies to friends).
+
+Archives are available in both Unix/Linux tarred-gzipped format, or Micro$uck Windoze winzip format.
+
+Current as of 2016-12-07 (yyyy-mm-dd).
+
+Total Size = 900 MB compressed (1.7 GB uncompressed), but no file is larger than 14 MB, to prevent file size problems with some systems, like Comcast.
+
+Get either set; you don't need both, as the files contained are identical.
+____
+
+File names are of form:
+
+* `Orange_Papers-alpha-2016-12-07.tar.gz`
+* `Orange_Papers-imgs000-2011-01-01.tar.gz`
+
+A mirror with many broken links and images: http://aorange1.tripod.com/
 
 And the website also has a Free Tibet flag at the bottom.
 
