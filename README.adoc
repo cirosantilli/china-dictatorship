@@ -4774,19 +4774,18 @@ For example, People from <<ciro-santilli>>'s mother's Protestant Church in Brazi
 
 And obviously, the origin of the word "cult" is exactly the same as that of https://en.wiktionary.org/wiki/cultivate#Etymology["cultivate"] as in "cultivate the crops" (which is also how Falun Gong believers refer to practicing Falun Gong: "cultivation practice"). All of those come from the https://en.wiktionary.org/wiki/cult#Etymology[Latin "colō"], which means simply "to protect".
 
-[[ccp-cult]]
-===== The CCP is a cult
+===== CCP cult
 
-The CCP also has many cult-like characteristics, e.g. from <<orange-papers>>:
+The CCP also has many cult-like characteristics, notably <<xi-jinping,"The Guru is always right">>, which is mentioned on <<orange-papers>> itself "Or even, '<<mao-zedong,Chairman Mao>>.'"
 
-* <<xi-jinping,"The Guru is always right">>. Mentioned mentioned in the <<orange-papers>> itself "Or even, '<<mao-zedong,Chairman Mao>>.'"
-+
-Also, both Mao and Xi have produced their own sacred books which must be revered, much like <<li-hongzhi>>'s <<flg-canon>>:
-+
-** Xi's: <<xi-jinping-thought>>
-** Mao's: <<little-red-book>>
-+
+Both Mao and Xi have produced their own sacred books which must be revered, much like <<li-hongzhi>>'s <<flg-canon>>:
+
+* Xi's: <<xi-jinping-thought>>
+* Mao's: <<little-red-book>>
+
 Furthermore, both of those books are based on speeches, just like just like Li Hongzhi's speeches become instant canon.
+
+This devotion can also be seen in Xi's benevoltent personification: <<xi-dada>>.
 
 [[xi-halo]]
 .Xi Jinping with a Halo to make <<ccp-cult,the obvious more obvious>>. Reads <<xi-jinping-thought,"习近平思想" (Xi Jinping Thought)>>. Watermark reads "Gucci Minh @Laborwave", so presumably from https://www.instagram.com/laborwavedesigns/[], but I didn't have the patience to find the picture, but it very likey comes from there, a ton of great communist memes in that account. https://www.reddit.com/r/LateStageCapitalism/comments/77vfi8/uphold_xi_jinping_thought/[Source].
@@ -4931,6 +4930,11 @@ But funnily the Canon books appear to all be copyrighted, likely "to avoid other
 Nothing else is canonical. LHZ seems to have said that there are enlightened followers, but has not specified who, so we can't derive canon from anyone else.
 
 Notably, <<flg-organized,FLG media>> such as https://www.minghui.org/ is believer led and thus not canonical, even though believers have very high confidence in it, and LHZ <<flg-organized,directly supports it>>.
+
+CCP <<ccp-cult,cult leaders>> such as <<xi-jinping>> and <<mao-zedong>> have also published their own canon books, e.g.:
+
+* Xi's: <<xi-jinping-thought>>
+* Mao's: <<little-red-book>>
 
 .Front and back cover of <<flg-canon,Zhuan Falun>>, first edition (1994). It is said amongst believers that <<flg-verifiable,the Lotus flower on the back of these books have magically opened progressively as time passed>>. http://qingqing.freebbs.tw/viewthread.php?tid=165###[Source].
 image::https://web.archive.org/web/20200805120557if_/https://i.imgur.com/PNCJExp.jpg[height=400]
@@ -5621,6 +5625,10 @@ image::https://upload.wikimedia.org/wikipedia/commons/0/06/Li_Hongzhi_1.jpg[heig
 .<<li-hongzhi>> practicing one of his exercises with one of his cute prophet outfits in an extremely nice Chinese <<does-ciro-santilli-hate-china,stone garden>>. TODO exact location and date. https://commons.wikimedia.org/wiki/File:Li_Hongzhi_Falun_Gong.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/5/51/Li_Hongzhi_Falun_Gong.jpg[height=600]
 
+[[li-hongzhi-blue-halo]]
+.<<li-hongzhi,Li>> in front of a light blue background (similar to <<xi-jinping-portrait-blue,CCP official portraits>>) with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] suggestion around his head. https://www.epochtimes.com/gb/11/5/12/n3254555.htm[Lower quality version] on <<epoch-times>> itself. https://www.epochweekly.com/144/7046pg.htm[Source].
+image::https://web.archive.org/web/20200907164939if_/https://www.epochweekly.com/144/30-02.jpg[height=400]
+
 [[li-hongzhi-lotus]]
 .<<li-hongzhi,Li>> going https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] while casually sitting on a https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art[giant Lotus flower] with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] on his head. https://www.pinterest.fr/pin/8022105562347289/[Source].
 image::https://web.archive.org/web/20200226083545/https://i.pinimg.com/564x/32/fc/95/32fc954e99d658751da18a0b20ae2894.jpg[height=600]
@@ -5978,7 +5986,7 @@ image::https://web.archive.org/web/20191009075747if_/https://external-preview.re
 [[xi-dada]]
 ====== Xi Dada (习大大, 2015)
 
-Benevolent https://en.wikipedia.org/wiki/Personification[personification] of <<xi-jinping>>.
+Benevolent https://en.wikipedia.org/wiki/Personification[personification] of <<xi-jinping>>. Part of the <<ccp-cult>>.
 
 2015-09-23 https://www.bbc.co.uk/news/blogs-china-blog-34338832 "Who is Xi Dada"?
 
@@ -6010,6 +6018,7 @@ image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_a
 .Original Chrysanthemum Xi Jinping by Dai Jianyong published in 2015. https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/[Source].
 image::https://web.archive.org/web/20200113200256im_/https://chinadigitaltimes.net/wp-content/uploads/2015/05/daijianyong.jpeg[height=400]
 
+[[xi-jinping-portrait-blue]]
 .Possible original Xi Jinping photo used for Chrysanthemum Xi, possibly from 2012. The light blue gradient background was used for the official photos of many Communist officials of the era. https://content.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112111,00.html[Source].
 image::https://web.archive.org/web/20190417164247im_/http://img.timeinc.net/time/2012/t100/t100_xi_alt.jpg[height=400]
 
@@ -7194,6 +7203,9 @@ ____
 There are so many things you have to do. You have to do your ordinary job and do it well, you have to manage your family's affairs, and as Dafa disciples you need to make time for Fa-study and exercises; you also need to clarify the truth, as well as participate in Dafa projects, such as The Epoch Times.
 ____
 
+Related:
+
+* https://www.epochweekly.com/
 
 [[new-tang-dynasty-television]]
 ===== New Tang Dynasty Television (NTD, NTDTV) 新唐人電視台
