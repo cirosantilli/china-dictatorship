@@ -2643,7 +2643,7 @@ Related:
 * 2020-08-31 https://www.rfa.org/english/news/china/language-08242020101614.html "China 'Will End' Mongolian-Language Education Starting This Semester: Reports"
 * 2011 Inner Mongolia unrest
 ** https://en.wikipedia.org/wiki/2011_Inner_Mongolia_unrest
-** ttps://zh.wikipedia.org/wiki/2011年内蒙古抗议示威事件
+** https://zh.wikipedia.org/wiki/2011年内蒙古抗议示威事件
 
 
 [[hong-kong]]
@@ -2949,7 +2949,7 @@ They are an entry point to spying, censorship and fake news.
 * https://en.wikipedia.org/wiki/Zoom_Video_Communications
 * https://zh.wikipedia.org/wiki/Zoom
 
-American company, with Chinese-born now American Citizen CEO https://en.wikipedia.org/wiki/Eric_Yuan[Eric Yuan] (https://zh.wikipedia.org/wiki/袁征(袁征), migrated to the US around 1997), and development teams largely China-based to reduce costs.
+American company, with Chinese-born now American Citizen CEO https://en.wikipedia.org/wiki/Eric_Yuan[Eric Yuan] (https://zh.wikipedia.org/wiki/袁征[袁征]), migrated to the US around 1997), and development teams largely China-based to reduce costs.
 
 News:
 
@@ -3001,7 +3001,7 @@ Some news:
 ** 2020-04-17 only after more than 10 thousand people died in the country during <<corona>> did the brits finally change their minds: https://nypost.com/2020/04/17/uk-moves-to-drop-huawei-as-5g-vendor-citing-china-coronavirus-transparency/ "UK moves to drop Huawei as 5G vendor, citing China coronavirus transparency"
 * 2018-12 https://en.wikipedia.org/wiki/Meng_Wanzhou[Meng Wanzhou] (孟晚舟), daughter of Huawei founder Ren Zhengfei (任正非) and Huawei CFO as of 2018, was arrested in Canada because the US accused her of breaking Iran sanctions
 ** https://www.theglobeandmail.com/politics/article-michael-kovrig-michael-spavor-canadian-detainees-china-explainer/ "Why are Michael Kovrig and Michael Spavor still detained in China?" in apparent retaliation, under accusation of espionage.
-** 2020-05-27 https://techcrunch.com/2020/05/27/canada-court-finds-against-huawei-cfo-meng-wanzhou-on-double-criminality-extradition-trial-to-continue/ "link:https://techcrunch.com/2020/05/27/canada-court-finds-against-huawei-cfo-meng-wanzhou-on-double-criminality-extradition-trial-to-continue/[]"
+** 2020-05-27 https://techcrunch.com/2020/05/27/canada-court-finds-against-huawei-cfo-meng-wanzhou-on-double-criminality-extradition-trial-to-continue/ "Canada court finds against Huawei CFO Meng Wanzhou on double criminality; extradition trial to continue"
 * 2019-11 https://www.forbes.com/sites/zakdoffman/2019/11/29/has-huaweis-darkest-secret-just-been-exposed-by-this-new-report/#7896db9d4061 "Has Huawei's Darkest Secret Just Been Exposed By This New Surveillance Report?" Xinjiang Papers reveal the extent of Huawei's involvement in <<xinjiang>>
 
 ."When you send a good joke from your Huawei phone", <<xi-jinping>> is also listening and laughing with you, girls. https://i.redd.it/nodgcqmwtcg31.jpg[Source].
@@ -4457,7 +4457,7 @@ USA funded sister media of the <<rfa>>.
 It is a crime to criticize the royal family:
 
 * https://en.wikipedia.org/wiki/Lèse_majesté_in_Thailand
-* ttps://en.wikipedia.org/wiki/Lèse-majesté
+* https://en.wikipedia.org/wiki/Lèse-majesté
 
 As https://en.wikipedia.org/wiki/Terry_Gilliam[Terry Gilliam] brilliantly says in the <<the-secret-life-of-brian-2007>> https://youtu.be/hdU_6jUQI9s?t=492[]:
 
@@ -4700,7 +4700,7 @@ ____
 * xref:flg-medication[Maybe FLG will make you healthier, but no promises, but it will make you a better person, and that's why you should do it, but if you really really believe, you get healthier]. But people who seemed to be believers also die, because deep within their hearts, there was a belief problem.
 * <<is-chinese-politician-x-evil,the CCP is evil>>, not figuratively, but literally as in they are representatives of, or evil supernatural beings themselves. E.g. <<jiang-zemin>> is actually an evil frog in some alternate dimension, literally, not just memecally. The Chinese Government is literally responsible for creating <<corona,Covid-19>>. They give the CCP too much credit. The CCP are just a bunch of lazy and greedy people like you and me.
 
-From this, it is obvious that Falun Gong is just a https://en.wikipedia.org/wiki/New_Age[New Age] (ttps://zh.wikipedia.org/wiki/新纪元运动[新纪元运动]) https://en.wikipedia.org/wiki/Syncretism[syncretic] religion combining https://en.wikipedia.org/wiki/Qigong[Qigong], https://en.wikipedia.org/wiki/Buddhism[Buddhism], some aspects of <<christianity>>, and whatever other crazy things <<li-hongzhi>> believes in.
+From this, it is obvious that Falun Gong is just a https://en.wikipedia.org/wiki/New_Age[New Age] (link:https://zh.wikipedia.org/wiki/新纪元运动[新纪元运动]) https://en.wikipedia.org/wiki/Syncretism[syncretic] religion combining https://en.wikipedia.org/wiki/Qigong[Qigong], https://en.wikipedia.org/wiki/Buddhism[Buddhism], some aspects of <<christianity>>, and whatever other crazy things <<li-hongzhi>> believes in.
 
 Or you could call Falun Gong a <<flg-cult,cult>>, which is nothing but a new/small religion with negative connotation, and thus meaningless.
 
@@ -5081,7 +5081,7 @@ video::pXGsio9H1xs[youtube,height=400,width=600]
 
 https://en.wikipedia.org/wiki/Futurama[Futurama] also has an interesting take:
 
-.https://www.youtube.com/watch?v=ObbVO3A3BvA https://en.wikipedia.org/wiki/Bender_(Futurama)[Bender] meets God in Futurama S03E20 "https://en.wikipedia.org/wiki/Godfellas[Godfellas]". In their talk, they comment on how "if as God you give them everything, they will grow dependent on you, and if you give them nothing, they will despise you". And so the best approach as a God might be "to influence things as if you weren't there".
+.https://www.youtube.com/watch?v=ObbVO3A3BvA https://en.wikipedia.org/wiki/Bender_(Futurama)[Bender] meets God in Futurama S03E20 "link:https://en.wikipedia.org/wiki/Godfellas[Godfellas]". In their talk, they comment on how "if as God you give them everything, they will grow dependent on you, and if you give them nothing, they will despise you". And so the best approach as a God might be "to influence things as if you weren't there".
 video::ObbVO3A3BvA[youtube,height=400,width=600]
 
 [[against-censorship-and-flg]]
@@ -5599,7 +5599,7 @@ https://en.wikipedia.org/wiki/Li_Hongzhi mentions that there are two versions of
 
 * An unofficial biography appeared in the first of Li's major publications, Zhongguo Falun Gong, supposedly authored by journalist Zhu Huiguang (朱慧光).
 +
-The full text appears to be at available at: http://qingqing.freebbs.tw/viewthread.php?tid=130### (God bless <<taiwan>> piracy, https://web.archive.org/web/20200805093333/http://qingqing.freebbs.tw/viewthread.php?tid=130###[archive])
+The full text appears to be at available at: http://qingqing.freebbs.tw/viewthread.php?tid=130### (God bless <<taiwan>> piracy, link:++https://web.archive.org/web/20200805093333/http://qingqing.freebbs.tw/viewthread.php?tid=130###++[archive])
 +
 <<benjamin-penny-the-life-and-times-of-li-hongzhi-2003>> gives the full title of the section + a translation (originally in pinyin, but why?!?! :-)):
 +
@@ -7529,7 +7529,7 @@ With internal censorship, leaders inevitably become <<xi-jinping,Gods>>, and soo
 
 [[man-in-the-high-castle]]
 .https://www.youtube.com/watch?v=SymuEg6NRp0 Scene from https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle_(TV_series)[The Man in the High Castle] S04E06 in which the devoted young Thomas Smith hands himself in to be killed by the Nazis whom he worships after discovering that he has a disease, which is not acceptable in <<nazi,Nazi>> America.
-video::ttps://ru.wikipedia.org/wiki/Семнадцать_мгновений_весны_(телефильм)[youtube,height=400,width=600]
+video::SymuEg6NRp0[youtube,height=400,width=600]
 
 The famous https://en.wikipedia.org/wiki/Heinrich_Heine[Heinrich Heine] (German but from the 19th century, before the Nazis) saying also comes to mind:
 
@@ -8006,7 +8006,7 @@ Notably, there is one separate entry for illegal activity as well (网络违法�
 
 The harmful information page redirects to: https://www.12321.cn/ which has further categories.
 
-The "report website" (举报不良网站) category links to https://www.12321.cn/web and then has a "https://en.wikipedia.org/wiki/Reactionary[reactonary] and politically sensitive" (ttps://zh.wikipedia.org/wiki/反动[反动]及政治敏感) checkbox.
+The "report website" (举报不良网站) category links to https://www.12321.cn/web and then has a "link:https://en.wikipedia.org/wiki/Reactionary[reactonary] and politically sensitive" (link:https://zh.wikipedia.org/wiki/反动[反动]及政治敏感) checkbox.
 
 After you submit, it leads you to: https://www.12321.cn/suc in which you can optionally provide further contact details: https://www.12321.cn/reg[]. This appears to be no link with the previous page, so they might just do it via IP. Registration requires both a cell phone and an email.
 
@@ -8018,7 +8018,7 @@ From the website source code (very simple, hand written, we see that it uses <<b
 * https://en.wikipedia.org/wiki/50_Cent_Party
 * https://zh.wikipedia.org/wiki/网络评论员
 
-They can be classified as a form of https://en.wikipedia.org/wiki/Information_warfare[information warfare] (https://zh.wikipedia.org/wiki/信息战[信息战]).
+They can be classified as a form of https://en.wikipedia.org/wiki/Information_warfare[information warfare] (link:https://zh.wikipedia.org/wiki/信息战[信息战]).
 
 A wise person once said:
 
@@ -8063,7 +8063,7 @@ Wumaos are particularly easy to spot on <<censorship-monitoring,Western websites
 
 Bibliography:
 
-* 2020-03-12 https://twitter.com/jenniferatntd/status/1238076579466674178 <<jennifer-zeng>>'s publishing of purported Wumao guidelines with translation. Translated title: "<<cac,CAC>> (https://en.wikipedia.org/wiki/Cyberspace_Administration_of_China[Cyberspace Administration of China]) Internal Documentation for Internet Commentators (no spreading)"
+* 2020-03-12 https://twitter.com/jenniferatntd/status/1238076579466674178 <<jennifer-zeng>>'s publishing of purported Wumao guidelines with translation. Translated title: "<<cac,CAC>> (link:https://en.wikipedia.org/wiki/Cyberspace_Administration_of_China[Cyberspace Administration of China]) Internal Documentation for Internet Commentators (no spreading)"
 * 2018-09-27 https://www.youtube.com/watch?v=yCnnPf2OnHo "Chinese Internet Trolls Get Paid 50 Cents For Every Comment" by <<serpentza-laowhy86,laowhy86>>
 * 2017-04-09 https://gking.harvard.edu/files/gking/files/50c.pdf "How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument" by "Gary King, Jennifer Pan, Margaret E. Roberts"
 * https://www.rfa.org/english/news/china/files-05202015150018.html
@@ -8319,7 +8319,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 * 2019-10 https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/blob/7131e2c1158a806f41c8f55308977048b02d2959/README-Part2.md Automatically generated list of repos with Chinese characters in their descriptions with the most upvotes per programming language. TODO why is this repo on their README-Part2 only? Has more stars than some stuff on main README.
 * 2019-10-12: https://hacpai.com/article/1570686552645 Login required, cowards. Post title: "更新 GitHub 官方 Repo 的人，竟然是个反华分子". Manual page dump after my replies with links to this FAQ: https://ia801505.us.archive.org/27/items/cirosantilli/hacpai_1570686552645.html OP then deleted my comments because they don't speak English "HacPai 是个文明的社区，不会发生辱骂的现象，你有你的观点，我们有我们的观点。但抱歉，我们的水平有限，没有阅读英文的能力，还请发送有效回复，否则只能折叠处理". It is some developper website: https://hacpai.com/article/1440573175609 (https://web.archive.org/web/20190811205230/https://hacpai.com/article/1440573175609[archive]) linked to https://github.com/b3log/solo[]. OP then made an useless post here: https://github.com/cirosantilli/china-dictatorship/issues/70 As of 2019-10-12, I can't login there anymore, either because the website is shitty, or I was blocked. GitHub login just fails silently, cannot reset password. If blocked, cowards. This led me to update: <<reply-policy>> with the canned reply.
 * 2019-09: https://admin.github.com Someone from GitHub has been thinking about us. s2 to you.
-* "link:https://www.linkedin.com/pulse/thoughts-github-going-china-kevin-xu/[]" https://twitter.com/sang_what/status/1172692888766959619 (https://archive.is/taPpH[archive]) https://t.co/qag5ekL12F
+* 2019-09-13 https://twitter.com/sang_what/status/1172692888766959619 (https://archive.is/taPpH[archive]) https://t.co/qag5ekL12F link:https://www.linkedin.com/pulse/thoughts-github-going-china-kevin-xu/
 * 2019-06: https://gking.harvard.edu/ interesting. OK, likely due to: https://gking.harvard.edu/category/research-interests/applications/information-control-by-authoritarian-governments but no direct links found though.
 * 2019-05: someone used the FAQ to answer a question: https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/ | https://web.archive.org/web/20190527072431/https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/ "'If I disappear': Chinese students make farewell messages amid crackdowns over labor activism"
 * 2019-04-10: https://twitter.com/jnzst/status/1115824398961913857 gGTYgFulPg
@@ -8382,7 +8382,7 @@ Website: https://pincong.rocks/
 
 Uses a virtual currency system (游戏币): https://pincong.rocks/currency/rule/ Posting articles costs 20 points, and doing stuff like replying gives you a few points.
 
-* 2019-10-30: https://www.pincong.rocks/question/id-10294__sort_key-agree_count__sort-ASC (https://web.archive.org/web/20191101091242/https://www.pincong.rocks/question/id-10294__sort_key-agree_count__sort-ASC[archive]) "怎么让大陆把 Github 墙了？" How to get GitHub blocked by the Firewall? OP apparently really wants to block it? If yes, <<so-block-cost,LOL>>. Trigerred by some 2019-10 <<notepad>> activity.
+* 2019-10-30: link:++https://www.pincong.rocks/question/id-10294__sort_key-agree_count__sort-ASC++[] (link:++https://web.archive.org/web/20191101091242/https://www.pincong.rocks/question/id-10294__sort_key-agree_count__sort-ASC++[archive]) "怎么让大陆把 Github 墙了？" How to get GitHub blocked by the Firewall? OP apparently really wants to block it? If yes, <<so-block-cost,LOL>>. Trigerred by some 2019-10 <<notepad>> activity.
 * 2019-04-09: https://pincong.rocks/question/3383 | https://web.archive.org/web/20190413063930/https://pincong.rocks/question/3383 "【小众问题】为何 Stack Overflow 2019 开发者调查报告中，来自中国的开发者最为积极乐观？"
 ** 2019-05: https://community.riskiq.com/search/pincong.rocks Pingong people deciding if they should ban Ciro Santilli? :-) commented there once: https://pincong.rocks/question/3383 (https://web.archive.org/web/20190810213122/https://pincong.rocks/question/3383[archive]) This also suggests that https://en.wikipedia.org/wiki/RiskIQ helps censorship in China
 
@@ -9294,7 +9294,7 @@ A good place to start are the canonical TV adaptations of the https://en.wikiped
 ** https://zh.wikipedia.org/wiki/红楼梦_(1987年电视剧)
 ** https://www.youtube.com/watch?v=_qmiajb1H6E the soundtrack is mindblowing, see also: <<music-free>>
 ** https://www.youtube.com/playlist?list=PLIj4BzSwQ-_vuHKAr64vPbDQpE0-iQGGZ official CCTV电视剧 upload without english subtitles by the channel
-* 1986 Outlaws of the Marsh by https://en.wikipedia.org/wiki/Shandong_Television[Shandong Television] (https://zh.wikipedia.org/wiki/山东广播电视台[])
+* 1986 Outlaws of the Marsh by https://en.wikipedia.org/wiki/Shandong_Television[Shandong Television] (link:https://zh.wikipedia.org/wiki/山东广播电视台[山东广播电视台])
 ** https://en.wikipedia.org/wiki/Outlaws_of_the_Marsh_(TV_series)
 ** https://zh.wikipedia.org/wiki/水浒_(电视剧)
 ** https://www.youtube.com/watch?v=lnshzmF6sY4&list=PLIj4BzSwQ-_sEAJsZnbcxV7sBc51XE8Z5 official CCTV电视剧 upload without english subtitles by the channel
