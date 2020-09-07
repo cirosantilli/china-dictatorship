@@ -26,6 +26,8 @@ Forbidden:
 
     Remember, you are threading dangerous waters, it is "one Ciro against one million wumaos", and so Ciro doesn't even blink anymore when a block might apply.
 
+    But as long as you follow our [shitiquette](https://en.wikipedia.org/wiki/Etiquette), you should be fine.
+
 -   swearing/being very aggressive on a [`not-shitpost`](https://github.com/cirosantilli/china-dictatorship) post.
 
     Keep in mind that [Ciro's Chinese sucks](https://github.com/cirosantilli/china-dictatorship#does-ciro-santilli-speak-chinese), so he may not get the full nuance of your comment, especially if you use a ton of [slang](https://github.com/cirosantilli/china-dictatorship#slang).

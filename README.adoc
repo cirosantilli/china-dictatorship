@@ -1,6 +1,5 @@
 = China Dictatorship 中国独裁统治
 :cirosantilli-media-base: https://raw.githubusercontent.com/cirosantilli/media/master/
-:docinfo: private-head
 :idprefix:
 :idseparator: -
 :sectanchors:
@@ -3645,7 +3644,7 @@ Some interesting questions not related to <<ciro-santilli>>. Ciro related questi
 **** Ciro Santilli: S/O 红人 (fStack Overflow celebrity)
 **** "ww" in explanations means "big laugh" according to: https://hinative.com/zh-CN/questions/8349706 because a single "w" means a small laugh
 **** several accounts are linked to one specific answer or comment
-**** other accounts are classified as often commenting on politically sensitive material (政治敏感)
+**** other accounts are classified as often commenting on <<politically-sensitive>> material
 * <<falun-gong>>
 ** <<flg-daily>>
 *** https://www.zhihu.com/question/27659795 (https://web.archive.org/web/20200429084153/https://www.zhihu.com/signin?next=http%3A%2F%2Fwww.zhihu.com%2Fquestion%2F27659795[blocked as of 2020-04], https://web.archive.org/web/20150603025013/http://www.zhihu.com/question/27659795[archive from 2015]) 家里有人练法轮功是一种怎样的体验？ How is it like to live with Falun Gong believers?
@@ -3705,7 +3704,7 @@ Interestingly however, the following answer came up later on: <<zhihu-ted-chiang
 
 ====== Ciro Santilli's Zhihu ban 2018-06-25
 
-<<ciro-santilli>> was banned from Zhihu on 2018-06-25 for "politically sensitive" content.
+<<ciro-santilli>> was banned from Zhihu on 2018-06-25 for "<<politically-sensitive>>" content.
 
 As a result, since that time I will be answering Zhihu questions as issues in this repo with the `zhihu` label: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Azhihu+
 
@@ -3736,7 +3735,7 @@ Obviously, the only effect of such ban is that I will create an <<anonymous-acco
 The private messages the website sends while banning you are:
 
 ____
-知乎管理员 ：您好，根据用户举报，您的帐号发布了「政治敏感」内容，帐号已根据知乎社区规范被永久禁言。处理详情可查看社区服务中心。具体规范请查看知乎社区管理规定。 6月25日 16:37 回复 | 删除
+知乎管理员 ：您好，根据用户举报，您的帐号发布了「<<politically-sensitive,政治敏感>>」内容，帐号已根据知乎社区规范被永久禁言。处理详情可查看社区服务中心。具体规范请查看知乎社区管理规定。 6月25日 16:37 回复 | 删除
 
 知乎管理员 ：您好，根据用户举报，您的部分个人信息由于不符合知乎用户信息管理规范已被重置。用户名可以在设置页面中修改，修改后会自动进入审核等待通过；其他个人信息可以在个人主页中编辑。感谢您对知乎社区的理解和支持。 6月25日 16:37 回复 | 删除
 ____
@@ -4487,7 +4486,7 @@ image::https://web.archive.org/web/20200825181647/https://static.independent.co.
 image::https://web.archive.org/web/20200825181647/https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/06/09/new-thai-king-6-0.jpg?w968[height=400]
 
 [[falun-gong]]
-=== Falun Gong 法輪大法
+== Falun Gong 法輪大法
 
 * https://en.wikipedia.org/wiki/Falun_Gong
 * https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong
@@ -4515,7 +4514,7 @@ video::IAQ14AnAsmU[youtube,height=400,width=600]
 video::GwoO7Nekmpw[youtube,height=400,width=600,start=445]
 
 [[flg-important]]
-==== Why is it important to talk about Falun Gong?
+=== Why is it important to talk about Falun Gong?
 
 The main reason <<ciro-santilli>> emphasizes FLG is that it shows how the CCP can mercilessly crush a 70M strong group (according to CCPs own statistics) out of a population of 1.3B in 2000, i.e. 5% of the population, and of course not because of <<flg-bias>>, since Ciro is completely and totally unbiased.
 
@@ -4542,7 +4541,7 @@ image::https://web.archive.org/web/20191108081906im_/http://falunau.org/wp-conte
 image::https://web.archive.org/web/20200315112422if_/https://faluninfo.net/wp-content/uploads/2012/06/chengdu.jpg[height=500]
 
 [[does-ciro-santilli-believe-in-or-practice-falun-gong]]
-==== Does Ciro Santilli believe in or practice Falun Gong? 三西猴相信法轮功吗？
+=== Does Ciro Santilli believe in or practice Falun Gong? 三西猴相信法轮功吗？
 
 No, Ciro is https://en.wikipedia.org/wiki/Agnosticism[agnostic] (https://zh.wikipedia.org/wiki/不可知论[不可知论]) and therefore believes that all the metaphysics that <<li-hongzhi>> says is bullshit.
 
@@ -4591,14 +4590,14 @@ In any case, at least FLG got one thing right: the commies are <<ccp-evil,evil>>
 See also: <<flg-fake>>.
 
 [[how-much-does-ciro-santilli-know-about-falun-gong]]
-===== How much does Ciro Santilli know about Falun Gong? 三西猴对法轮功有多熟悉？
+==== How much does Ciro Santilli know about Falun Gong? 三西猴对法轮功有多熟悉？
 
 He hasn't read their <<flg-canon,canon>> himself, no patience, but he has had <<flg-bias,constant contact with believers>> and so has an idea of its content.
 
 Ciro has summarized his thoughts about <<falun-gong>> at: <<does-ciro-santilli-believe-in-or-practice-falun-gong>> and <<flg-religion>>
 
 [[flg-religion]]
-==== Is Falun Gong a religion? 法轮功是一个宗教吗？
+=== Is Falun Gong a religion? 法轮功是一个宗教吗？
 
 If asked if they follow a religion, most FLG believers will say "no", and <<li-hongzhi>> explicitly says that in <<flg-canon>>, e.g. https://falundafa.org/eng/eng/jjyz52.htm[]:
 
@@ -4621,7 +4620,7 @@ But <<ciro-santilli>> strongly believes that this is just a language barrier/FLG
 +
 In both cases, some believers claim that sometimes even reading the same text again gives them new insight.
 * prescribed daily meditation exercise hours, somewhat like Muslim https://en.wikipedia.org/wiki/Salah[Salah] prayers which they call https://en.wikipedia.org/wiki/Fazhengnian[发正念 (fa1 zheng4 nian4)], which means "send righteous thoughts". They seem to believe that this meditation helps external good magic things happen, so it is half meditation half prayer.
-* longer "less mandatory" https://en.wikipedia.org/wiki/Qigong[Qigong-like] (https://zh.wikipedia.org/wiki/气功[气功]) exercises followed by a meditation (打坐) and which they collectively call https://zh.wikipedia.org/wiki/修道_(道教)[修炼] "practice austerities". note that this term is borrowed from Taoism but possibly with different precise meaning. There are exactly 5 exercises (meditation being the fifth) some with a fun supernatural name, on <<flg-canon>> https://www.falundafa.org/book/eng/flg_2006_4.htm[] "The Falun Gong Practice System":
+* longer "less mandatory" https://en.wikipedia.org/wiki/Qigong[Qigong-like] (https://zh.wikipedia.org/wiki/气功[气功]) exercises (lian4 gong1, 练功) followed by a meditation (打坐) and which they collectively call https://zh.wikipedia.org/wiki/修道_(道教)[修炼] "practice austerities". note that this term is borrowed from Taoism but possibly with different precise meaning. There are exactly 5 exercises (meditation being the fifth) some with a fun supernatural name, on <<flg-canon>> https://www.falundafa.org/book/eng/flg_2006_4.htm[] "The Falun Gong Practice System":
 ** Buddha Stretching a Thousand Arms
 ** Falun Standing Stance
 ** Penetrating the Cosmic Extremes
@@ -4728,7 +4727,7 @@ See also: "Different levels of truth" from <<orange-papers>>.
 See also: <<flg-daily>>.
 
 [[flg-cult]]
-===== Is Falun Gong a cult? 法轮功是邪教吗？
+==== Is Falun Gong a cult? 法轮功是邪教吗？
 
 Falun Gong does share many many many characteristics with what many people classify as a "cult", see e.g.: <<orange-papers>>, so "yes" could be a reasonably answer.
 
@@ -4775,7 +4774,25 @@ For example, People from <<ciro-santilli>>'s mother's Protestant Church in Brazi
 
 And obviously, the origin of the word "cult" is exactly the same as that of https://en.wiktionary.org/wiki/cultivate#Etymology["cultivate"] as in "cultivate the crops" (which is also how Falun Gong believers refer to practicing Falun Gong: "cultivation practice"). All of those come from the https://en.wiktionary.org/wiki/cult#Etymology[Latin "colō"], which means simply "to protect".
 
-====== Orange Papers
+[[ccp-cult]]
+===== The CCP is a cult
+
+The CCP also has many cult-like characteristics, e.g. from <<orange-papers>>:
+
+* <<xi-jinping,"The Guru is always right">>. Mentioned mentioned in the <<orange-papers>> itself "Or even, '<<mao-zedong,Chairman Mao>>.'"
++
+Also, both Mao and Xi have produced their own sacred books which must be revered, much like <<li-hongzhi>>'s <<flg-canon>>:
++
+** Xi's: <<xi-jinping-thought>>
+** Mao's: <<little-red-book>>
++
+Furthermore, both of those books are based on speeches, just like just like Li Hongzhi's speeches become instant canon.
+
+[[xi-halo]]
+.Xi Jinping with a Halo to make <<ccp-cult,the obvious more obvious>>. Reads <<xi-jinping-thought,"习近平思想" (Xi Jinping Thought)>>. Watermark reads "Gucci Minh @Laborwave", so presumably from https://www.instagram.com/laborwavedesigns/[], but I didn't have the patience to find the picture, but it very likey comes from there, a ton of great communist memes in that account. https://www.reddit.com/r/LateStageCapitalism/comments/77vfi8/uphold_xi_jinping_thought/[Source].
+image:https://web.archive.org/web/20200907151448/https://preview.redd.it/f2q3txu0i8tz.jpg?width=640&crop=smart&auto=webp&s=4edb61b3454487e43683c367ea014d9f2ec605e4[height=400]
+
+===== Orange Papers
 
 https://www.orange-papers.org/orange-cult_q0.html
 
@@ -4832,7 +4849,7 @@ This is especially interesting, because the website does not mention Falun Gong 
 It should also be mentioned though that these points extend to any type of human organization, e.g. <<flg-religion,other religions>>, <<democracy-is-a-religion,political parties>>, job associations, etc.
 
 [[flg-canon]]
-==== What are the canonical Falun Gong texts?
+=== What are the canonical Falun Gong texts?
 
 https://en.wikipedia.org/wiki/Teachings_of_Falun_Gong
 
@@ -4845,6 +4862,8 @@ The two main books are:
 ____
 Falun Gong is an introductory book that discusses qigong, introduces the principles of the practice, and provides illustrations and explanations of the exercises.
 ____
++
+The first edition contains one of http://qingqing.freebbs.tw/viewthread.php?tid=130###
 * https://en.wikipedia.org/wiki/Teachings_of_Falun_Gong#Zhuan_Falun,_the_main_book[Zhuan Falun] (转法轮), published in January 1995. 1998 English version: https://falundafa.org/eng/eng/zfl_01.htm[]:
 +
 According to Wikipedia:
@@ -4853,7 +4872,9 @@ ____
 Zhuan Falun is the main teaching and the most comprehensive work; it is an edited version of Li's nine-lecture series, 54 of which he taught across China between 1992 and 1994.
 ____
 +
-Believers very often read from this text when they <<flg-religion,"study the Fa">> in their gatherings. They often read one chapter per session, and can often just say "we read the Nth teaching" (第N讲, so apparently each chapter corresponds to a separate talk).
+Believers very often read from this text when they <<flg-religion,"study the Fa">> in their gatherings. They often read one chapter per session, and can often just say "we read the Nth teaching" (第N讲, so apparently each chapter corresponds to a separate talk). Just like <<xi-jinping-thought>>!
+
+The initial versions of both of those texts contained versions of <<li-hongzhis-hagiography>>.
 
 It contains <<li-hongzhi,LHZ>>'s approved texts/speech transcriptions, which are sacred.
 
@@ -4881,7 +4902,10 @@ Nothing else is canonical. LHZ seems to have said that there are enlightened fol
 
 Notably, <<flg-organized,FLG media>> such as https://www.minghui.org/ is believer led and thus not canonical, even though believers have very high confidence in it, and LHZ <<flg-organized,directly supports it>>.
 
-==== Does Ciro Santilli support FLG, or just use it because it is censored?
+.Front and back cover of <<flg-canon,Zhuan Falun>>, first edition (1994). It is said amongst believers that <<flg-verifiable,the Lotus flower on the back of these books have magically opened progressively as time passed>>. http://qingqing.freebbs.tw/viewthread.php?tid=165###[Source].
+image::https://web.archive.org/web/20200805120557if_/https://i.imgur.com/PNCJExp.jpg[height=400]
+
+=== Does Ciro Santilli support FLG, or just use it because it is censored?
 
 Ciro Santilli doesn't support FLG specifically, only freedom of religion. See of course: <<flg-bias>>.
 
@@ -4898,7 +4922,7 @@ Otherwise, <<democracy-is-a-religion,democracy and communism can also be conside
 See also: <<flg-verifiable>>.
 
 [[flg-daily]]
-==== How is it like to live with Falun Gong believers?
+=== How is it like to live with Falun Gong believers?
 
 This will obviously vary from believer to believer, but here is my experience.
 
@@ -4936,12 +4960,12 @@ Bibliography:
 
 * https://www.zhihu.com/question/27659795 at <<zhihu>>
 
-==== In the Tweet about his mother in law, Ciro Santilli says "correctional facility", but reeducation through labour has been abolished
+=== In the Tweet about his mother in law, Ciro Santilli says "correctional facility", but reeducation through labour has been abolished
 
 He was not very precise https://twitter.com/cirosantilli/status/579270450984984576[here], the precise term is "jail". He was _not_ talking about: https://en.wikipedia.org/wiki/Re-education_through_labor Unfortunately it is not possible to edit a Tweet.
 
 [[flg-changed]]
-==== Falun Gong is completely different in the West than it was in China
+=== Falun Gong is completely different in the West than it was in China
 
 I believe that it has changed.
 
@@ -4975,7 +4999,7 @@ See also:
 
 * https://www.zhihu.com/question/23988890 at <<zhihu>>
 
-==== FLG has been funded by the US government at least once, therefore it is evil
+=== FLG has been funded by the US government at least once, therefore it is evil
 
 1.5M USD in 2010 for a FLG controlled internet freedom group https://news.bbc.co.uk/1/hi/world/americas/8678760.stm
 
@@ -4990,7 +5014,7 @@ Every government funds groups it supports, it is an all out war I suppose. Compa
 What about the funding of political campaigns, which vastly outnumbers 1.5M USD every year?
 
 [[follow-the-law]]
-==== FLG is illegal in China, we must follow the law
+=== FLG is illegal in China, we must follow the law
 
 This might be a bad law that should be changed.
 
@@ -4999,7 +5023,7 @@ It was perfectly legal for <<nazi,Nazis>> to kill Jews. Does it make that right?
 But many times, the commies don't even bother passing a law, they just fuck people anyways without one: <<rule-of-law>>.
 
 [[flg-fake]]
-==== FLG is fake 法轮功是假的
+=== FLG is fake 法轮功是假的
 
 The same can be argued about any other religion or political belief of type: it is better if we organize society in this or that way.
 
@@ -5014,7 +5038,7 @@ Also do let me know when you have achieved irrefutable proof that democracy/free
 See also: <<flg-religion>>
 
 [[flg-verifiable]]
-===== FLG never makes any predictions that can be reasonably verified by non-believers
+==== FLG never makes any predictions that can be reasonably verified by non-believers
 
 Exactly, just like any other <<flg-religion>>, this is why <<ciro-santilli>> is <<does-ciro-santilli-believe-in-or-practice-falun-gong,agnostic>> and things Falun Gong metaphysics is bullshit.
 
@@ -5025,6 +5049,7 @@ The closest claims to observable Ciro has heard are:
 * when pictures are taken in sacred events, notably <<shen-yun>>, sometimes you can see magic Falun energy wheels in the pictures
 * in the homes of some followers, small magic good plants-like fungi-like things have grown
 +
+[[flg-fungi]]
 .Image of the magic good small plants that grew on a believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese. https://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
 image::https://web.archive.org/web/20200312085051im_/http://en.minghui.org/u/article_images/e9c2b07e224d28984998a094deb53f85.jpg[height=400]
 * the <<flg-canon,sacred books>> of some believers had a closed lotus flower when they were bought, and after several years, the flower opened
@@ -5085,7 +5110,7 @@ https://en.wikipedia.org/wiki/Futurama[Futurama] also has an interesting take:
 video::ObbVO3A3BvA[youtube,height=400,width=600]
 
 [[against-censorship-and-flg]]
-==== Many people both are against censorship and FLG
+=== Many people both are against censorship and FLG
 
 Ciro know that, and that supporting FLG is "bad" for his public image with most Chinese, including those that are against censorship.
 
@@ -5104,7 +5129,7 @@ It is also interesting to note how Falun Gong is a good source of <<censorship-c
 See also: <<flg-bias>>
 
 [[democracy-is-a-religion]]
-===== Why does Ciro Santilli say that democracy is a religion just like Falun Gong?
+==== Why does Ciro Santilli say that democracy is a religion just like Falun Gong?
 
 Because it also specifies irrational and fundamental aspects of how one should live, notably voting and freedom of speech.
 
@@ -5113,7 +5138,7 @@ Like the Cult of CCP has one fundamental belief: <<stability,the Party is always
 ____
 The Guru, his church, and his teachings are always right, and above criticism, and beyond reproach.
 
-In some cults, the guru is dead, but the principle is the same. I use the word "guru" loosely here; in many cults the charismatic leader has the title of minister, priest, yogi, swami, prophet, or all-knowing wise man. **Or even, "Chairman Mao."** In any case, the leader is always right.
+In some cults, the guru is dead, but the principle is the same. I use the word "guru" loosely here; in many cults the charismatic leader has the title of minister, priest, yogi, swami, prophet, or all-knowing wise man. **Or even, "<<mao-zedong,Chairman Mao>>."** In any case, the leader is always right.
 ____
 
 And they also claim that https://en.wikipedia.org/wiki/Alcoholics_Anonymous[Alcoholics Anonymous] could be characterized as a cult. Very cool. What else could be powerful enough to get you off a physical addiction, than a mental addiction, right?
@@ -5125,7 +5150,7 @@ Accept democracy, and you will have FLG.
 There is no in-between.
 
 [[flg-stability]]
-===== Falun Gong had to be banned because it was a threat to the stability of the country
+==== Falun Gong had to be banned because it was a threat to the stability of the country
 
 Then they link to the Taping Rebellion:
 
@@ -5145,7 +5170,7 @@ Anything that goes against a dictatorship is a threat to the stability of the co
 
 Now read: <<stability>>
 
-==== Many people say they do FLG only to get VISAs to the USA
+=== Many people say they do FLG only to get VISAs to the USA
 
 <<ciro-santilli>> heard this a few times, and I believe it has happened.
 
@@ -5159,7 +5184,7 @@ Sample news:
 * https://www.npr.org/sections/money/2018/09/28/652218318/thousands-could-be-deported-as-government-targets-asylum-mills-clients
 
 [[flg-witness]]
-==== I have personally seen people do bad things because of Falun Gong
+=== I have personally seen people do bad things because of Falun Gong
 
 Either direct suicide or <<flg-medication,dying because of not taking medication>>.
 
@@ -5208,7 +5233,7 @@ Branch Davidians were inspired by <<christianity>>. So should we ban Christianit
 * if we ask for FLG believers to compile a list of horrors they have suffered, which they have already been doing since the start of the persecution, I bet that their list will be much longer than yours, because they are so <<flg-organized,well organized>>
 
 [[flg-persecution]]
-==== FLG does not have proof of their persecution claims
+=== FLG does not have proof of their persecution claims
 
 How much proof do you think they would be able to get when there is no freedom of the press?
 
@@ -5219,7 +5244,7 @@ Do you think the thousands of personal accounts of human rights violations that 
 Conversely, there is no reliable proof that FLG is bad as claimed by CCP that has been verified by international media.
 
 [[thoughtcrime]]
-==== Someone from movement X did something bad, therefore the movement should be banned
+=== Someone from movement X did something bad, therefore the movement should be banned
 
 By this logic, everyone should go to jail. The law should only punish individuals.
 
@@ -5233,7 +5258,7 @@ See also: "thoughtcrime" from <<nineteen-eighty-four>>.
 
 Or if you like shitty movies: https://en.wikipedia.org/wiki/Minority_Report_(film)[Minority Report (2002)].
 
-===== Movement X tells people to do something bad, therefore the movement should be banned
+==== Movement X tells people to do something bad, therefore the movement should be banned
 
 E.g. kill.
 
@@ -5245,7 +5270,7 @@ Now proceed to prove that FLG made and will continue making people do bad things
 * <<flg-changed>>
 
 [[flg-political]]
-==== People from movement X are only in it for political power
+=== People from movement X are only in it for political power
 
 For every desire of the masses, there will be amoral representatives that will step to use that power.
 
@@ -5271,7 +5296,7 @@ But at the same, he also greatly encourages <<falun-gong-media>>, which obviousl
 video::ArfGyo6HQ_E[youtube,height=400,width=600,t=1175]
 
 [[flg-trump]]
-===== FLG supports Donald Trump 法轮功支持特朗普
+==== FLG supports Donald Trump 法轮功支持特朗普
 
 <<ciro-santilli>> believes he has heard praises to Trump directly in <<li-hongzhi,Li Hongzhi>>'s speeches, but could not find a source.
 
@@ -5289,7 +5314,7 @@ Trump's immigration policies have turned Asian Americans towards the democrat op
 
 One saving point of the republicans for Asians is the opposition to university quotas instance, which many Asians feel blocks their high performing kids from top schools for less deserving Black students. This also plays into possible cross Asian-Black racism tensions.
 
-==== Western media has exaggerated reports on FLG for propaganda reasons
+=== Western media has exaggerated reports on FLG for propaganda reasons
 
 Possibly true, but which reports are you talking about specifically?
 
@@ -5303,7 +5328,7 @@ which I think are undeniable.
 
 The only question that matters is: should it be banned or not?
 
-==== Does Ciro Santilli believe in the allegations of human rights violations done to Falun Gong believers?
+=== Does Ciro Santilli believe in the allegations of human rights violations done to Falun Gong believers?
 
 Besides the obvious prohibition of their most fundamental belief, so e.g. being tortured.
 
@@ -5312,7 +5337,7 @@ Let's just focus on the evidence:
 * https://www.youtube.com/watch?v=CedVnJOgwg4 "Undercover video reveals brutal treatment of Falun Gong prisoners inside Chinese labor camps" by "FOX 11 Los Angeles" published May 21, 2019. Names mentioned: Fuquan Yin,
 
 [[flg-organ-harvesting]]
-===== Does Ciro Santilli believe in the allegations of organ harvesting made by Falun Gong believers?
+==== Does Ciro Santilli believe in the allegations of organ harvesting made by Falun Gong believers?
 
 In short: Ciro believes that it has happened to many people.
 
@@ -5352,7 +5377,7 @@ Bibliography:
 ** <https://www.amazon.com/Slaughter-Killings-Harvesting-Solution-Dissident/dp/161614940X>
 ** <https://en.wikipedia.org/wiki/Ethan_Gutmann#The_Slaughter:_Mass_Killings,_Organ_Harvesting,_and_China's_Secret_Solution_to_Its_Dissident_Problem>
 
-====== 2018 China Tribunal
+===== 2018 China Tribunal
 
 2018 https://chinatribunal.com/
 
@@ -5375,7 +5400,7 @@ Bibliography:
 ** 2019 in EU parliament: https://www.youtube.com/watch?v=7n-9n897jIo
 ** 2017 Him speaking in : https://www.youtube.com/watch?v=FoXKMw4slHY at Ireland's https://www.youtube.com/watch?v=FoXKMw4slHY[House of the Oireachtas]
 
-==== Things Ciro Santilli dislikes about Falun Gong
+=== Things Ciro Santilli dislikes about Falun Gong
 
 But also as explaining why I don't think it justifies the ban.
 
@@ -5384,7 +5409,7 @@ This section also gives me more credibility as a balanced critic >:-)
 * <<flg-religion,Falun Gong downplays the fact that they are a religion>>
 
 [[flg-organized]]
-===== FLG downplays the fact that it is highly organized
+==== FLG downplays the fact that it is highly organized
 
 Many FLG practitioners claim that they are not at all organized, or that they have no political interest, and I truly believe that they mean it.
 
@@ -5409,7 +5434,7 @@ Like any other religion, they have all the right to take those actions, and it i
 The only thing that annoys me is their lack of self perception on this matter: the large majority of Western people would definitely classify them as an organized political force after having observed their activities. When they say otherwise, they are hurting their own credibility.
 
 [[flg-transparent]]
-====== FLG media is not transparent about its affiliation
+===== FLG media is not transparent about its affiliation
 
 Agreed, and it is a point that hurts more than helps their cause.
 
@@ -5418,7 +5443,7 @@ But the media is not legally obliged to state their affiliation.
 And if that were the case, then we should force _all_ newspapers to start taking polls of how many employees follow which religion and support which political party, and then put that in their print.
 
 [[flg-intolerance]]
-===== Falun Gong dislikes several other groups like homosexuals and some other religions
+==== Falun Gong dislikes several other groups like homosexuals and some other religions
 
 Like most <<flg-religion,old religions>>, related: <<hate-speech>>.
 
@@ -5445,7 +5470,7 @@ See also:
 * <<intolerance>>
 * <<gay-rights>>
 
-====== Falun Gong on races
+===== Falun Gong on races
 
 <<li-hongzhi>> clearly classifies races as a metaphysical concept e.g. on <<flg-canon>> https://falundafa.org/eng/eng/lectures/19990502L.html[]:
 
@@ -5470,7 +5495,7 @@ Teacher: Whether someone can cultivate and whether he can succeed in cultivation
 ____
 
 [[flg-medication]]
-===== FLG believers are less likely to take necessary medication
+==== FLG believers are less likely to take necessary medication
 
 Based on what <<ciro-santilli>> saw and heard, he does believe, without any clear statistical evidence, that it is very likely that it hs happened to in many cases that some Falun Gong believers refused to take modern medications and died of diseases that could be otherwise cured.
 
@@ -5535,7 +5560,7 @@ It is also interesting to note how the Chinese government itself supported Falun
 video::kIpaDW3RwtY[youtube,height=400,width=600,start=244]
 
 [[li-hongzhi]]
-===== Li Hongzhi (LHZ, 李洪志)
+==== Li Hongzhi (LHZ, 李洪志)
 
 * https://en.wikipedia.org/wiki/Li_Hongzhi
 * https://zh.wikipedia.org/wiki/李洪志
@@ -5560,20 +5585,23 @@ Li Hongzhi footage:
 
 * 1999-06-12 AP https://www.youtube.com/watch?v=r_onSZlvWSQ USA: "CHINA: FALUN DAFA CULT POSES NO THREAT CLAIMS FOUNDER" Li Hongzhi talks to media in New York
 
-.Li Hongzhi is Falun Gong's prophet/cult leader/living God. He's a cute North-Westerner 东北人 like <<wife,Ciro's wife>>. https://en.wikipedia.org/wiki/Li_Hongzhi[Source].
+.<<li-hongzhi>> is Falun Gong's prophet/cult leader/living God. He's a cute North-Westerner 东北人 like <<wife,Ciro's wife>>. https://en.wikipedia.org/wiki/Li_Hongzhi[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/0/06/Li_Hongzhi_1.jpg[height=400]
 
-.Li Hongzhi practicing one of his exercises with one of his cute prophet outfits in an extremely nice Chinese <<does-ciro-santilli-hate-china,stone garden>>. TODO exact location and date. https://commons.wikimedia.org/wiki/File:Li_Hongzhi_Falun_Gong.jpg[Source].
+.<<li-hongzhi>> practicing one of his exercises with one of his cute prophet outfits in an extremely nice Chinese <<does-ciro-santilli-hate-china,stone garden>>. TODO exact location and date. https://commons.wikimedia.org/wiki/File:Li_Hongzhi_Falun_Gong.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/5/51/Li_Hongzhi_Falun_Gong.jpg[height=600]
 
 [[li-hongzhi-lotus]]
-.Li going https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] while casually sitting on a https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art[giant Lotus flower] with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] on his head. https://www.pinterest.fr/pin/8022105562347289/[Source].
+.<<li-hongzhi,Li>> going https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] while casually sitting on a https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art[giant Lotus flower] with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] on his head. https://www.pinterest.fr/pin/8022105562347289/[Source].
 image::https://web.archive.org/web/20200226083545/https://i.pinimg.com/564x/32/fc/95/32fc954e99d658751da18a0b20ae2894.jpg[height=600]
 
-.Dubstep Li can liangong at https://en.wikipedia.org/wiki/Dubstep[dubstep] speed. https://giphy.com/gifs/dubstep-gifs-dubstepgifs-xUOwFY1prqgUdPuFvW[Source].
+.<<li-hongzhi>> really turning into a proper Buddha, including https://en.wikipedia.org/wiki/Physical_characteristics_of_the_Buddha[physical signs] such as the https://en.wikipedia.org/wiki/Ushnisha[Ushnisha] on the head and the https://en.wikipedia.org/w/index.php?title=Physical_characteristics_of_the_Buddha&oldid=972021136#The_80_secondary_characteristics["ears as longs as lotus petals"]. <<bannedbook>> https://www.bannedbook.org/bnews/tculture/xiulian/20190123/1068931.html[source].
+image::https://web.archive.org/web/20200507070029im_/https://hongzhi.li/wp-content/uploads/2018/04/p4479361a342145429.jpg[height=400]
+
+.Dubstep <<li-hongzhi,Li>> can <<flg-religion,liangong (练功)>> at https://en.wikipedia.org/wiki/Dubstep[dubstep] speed. https://giphy.com/gifs/dubstep-gifs-dubstepgifs-xUOwFY1prqgUdPuFvW[Source].
 image::https://web.archive.org/web/20200229161316if_/https://i.giphy.com/media/xUOwFY1prqgUdPuFvW/giphy.webp[height=400]
 
-====== FLG is dangerous because Li Hongzhi has too much power over followers
+===== FLG is dangerous because Li Hongzhi has too much power over followers
 
 Ciro agrees that there is danger in every religion, and especially new religions.
 
@@ -5593,13 +5621,13 @@ Furthermore, it also seems to Ciro that FLG is clearly anti-violence and self-ha
 
 It is also interesting to look into the https://en.wikipedia.org/wiki/Jonestown case. When the suicide order came, most people wanted out! Without physically controlling the followers, I don't think you can make them do much.
 
-====== Li Hongzhi's hagiography
+===== Li Hongzhi's hagiography
 
 https://en.wikipedia.org/wiki/Li_Hongzhi mentions that there are two versions of the biography:
 
-* An unofficial biography appeared in the first of Li's major publications, Zhongguo Falun Gong, supposedly authored by journalist Zhu Huiguang (朱慧光).
+* An unofficial biography appeared in the first of Li's major publications, <<flg-canon,Zhongguo Falun Gong>>, supposedly authored by journalist Zhu Huiguang (朱慧光).
 +
-The full text appears to be at available at: http://qingqing.freebbs.tw/viewthread.php?tid=130### (God bless <<taiwan>> piracy, link:++https://web.archive.org/web/20200805093333/http://qingqing.freebbs.tw/viewthread.php?tid=130###++[archive])
+The full text appears to be at available at: http://qingqing.freebbs.tw/viewthread.php?tid=130### (God bless <<taiwan,Taiwanese>> piracy, link:++https://web.archive.org/web/20200805093333/http://qingqing.freebbs.tw/viewthread.php?tid=130###++[archive])
 +
 <<benjamin-penny-the-life-and-times-of-li-hongzhi-2003>> gives the full title of the section + a translation (originally in pinyin, but why?!?! :-)):
 +
@@ -5607,7 +5635,6 @@ ____
 法輪旋轉新天地-記李洪志先生和他創立的法輪功 +
 "The wheel of the law revolves the new cosmos - on Li Hongzhi and the Falun Gong he founded".
 ____
-
 * A second, official spiritual biography appeared in early editions of <<flg-canon,Falun Gong's primary text, Zhuan Falun>>.
 +
 It is shorter than the first, and is marked as authored by the "Falun Dafa Research Society's President" (法轮功研究会会长).
@@ -5620,7 +5647,7 @@ A possible Chinese copy might be found at: http://qingqing.freebbs.tw/viewthread
 +
 The section is entitled "中国法轮功创始人、法轮功研究会会长 李洪志先生小传", so literally tranlated as a "profile" (小传) rather than a full biography. The index marks it as 附 (addendum), and it comes at the end of the book.
 
-====== Let's make a mini series about Li Hongzhi's life
+===== Let's make a mini series about Li Hongzhi's life
 
 Ciro can't help but to imagine how Falun Gong came about in detail.
 
@@ -5653,7 +5680,7 @@ Parts of the series could be filmed in <<taiwan>> maybe?
 Source material: <<history-of-falun-gong>>.
 
 [[li-hongzhis-family]]
-====== Li Hongzhi's family 李洪志的家庭
+===== Li Hongzhi's family 李洪志的家庭
 
 At least Jesus appeared to value chastity. He was even born from a virgin right? No sex around him at all.
 
@@ -5688,7 +5715,7 @@ image::http://web.archive.org/web/20200817215528im_/http://www.toppk.net/picture
 image::https://web.archive.org/web/20130704134123im_/http://www.shenyunperformingarts.org/data/image/small/2010/12/09/17326d10d511828f6b34fa6d751739e2.jpg[height=400]
 
 [[dragon-springs]]
-====== Dragon Springs (龙泉)
+===== Dragon Springs (龙泉)
 
 Li Hongzhi's Falun Gong complex in New York state countryside, where he lives, and organizes <<shen-yun>>.
 
@@ -5701,7 +5728,7 @@ Started in the 2000's in New York State with money donated by believers.
 * 1999 https://apnews.com/420a741ec19c4db3993d408747874b2d "Falun Gong US compound's neighbors fret over expansion plans"
 
 [[flg-telemarketing]]
-===== Some Falun Gong people make phone telemarketing
+==== Some Falun Gong people make phone telemarketing
 
 Ciro Santilli has seen Falun Gong people making phone calls to people in China with to explain why FLG is with his own eyes, and therefore is sure it has happened on some scale.
 
@@ -5722,7 +5749,7 @@ Ciro has not however seen them talking about making automated phone calls.
 https://www.scmp.com/comment/insight-opinion/article/1940394/how-rampant-phone-scams-highlight-chinas-need-tighter also mentions that Falun Gong makes telemarketing in passing without any reference.
 
 [[zhong-gong]]
-==== Zhong Gong 中华养生益智功 (中功)
+=== Zhong Gong 中华养生益智功 (中功)
 
 * https://en.wikipedia.org/wiki/Zhong_Gong
 * https://zh.wikipedia.org/wiki/中华养生益智功
@@ -5764,7 +5791,7 @@ image::https://web.archive.org/web/20200513103231im_/http://file.chinacourt.org/
 image::https://web.archive.org/web/20181009052816if_/http://hu.faluninfo.eu//images/201709/slide01-hu.jpg[height=400]
 
 [[qigong-fever]]
-===== Qigong fever Boom 气功热 (1980's)
+==== Qigong fever Boom 气功热 (1980's)
 
 https://en.wikipedia.org/wiki/Qigong_fever
 
@@ -5772,14 +5799,14 @@ AKA Qigong Boom.
 
 * https://zhuanlan.zhihu.com/p/26268612 特异功能、法功灭火、铝锅传功……80年代的气功热究竟有多疯狂？ How crazy was the Qi Gong boom after all?
 
-==== Falun Gong bibliography
+=== Falun Gong bibliography
 
 * https://www.quora.com/Why-is-the-Chinese-government-against-Falun-Gong
 * https://www.zhihu.com/question/23988890 at <<zhihu>>
 * https://www.orange-papers further developed at: <<flg-cult>>
 
 [[me-and-li-by-ben-hurley-2017]]
-===== Me and Li by Ben Hurley (2017)
+==== Me and Li by Ben Hurley (2017)
 
 https://medium.com/@Ben_D_Hurley/-10677166298b "Me and Li" by Ben Hurley published on October 23, 2017.
 
@@ -5790,7 +5817,7 @@ Interesting quotes:
 * <<me-and-li-tumor>>
 
 [[history-of-falun-gong]]
-===== History of Falun Gong 法轮功历史
+==== History of Falun Gong 法轮功历史
 
 * https://en.wikipedia.org/wiki/History_of_Falun_Gong
 * https://zh.wikipedia.org/wiki/法輪功歷史
@@ -5812,12 +5839,12 @@ TODO what did he talk about on that Beijing day. This day still celebrated in 20
 He apparently also taught at Chaoyang Park in Changchun: https://goo.gl/maps/BFwKs2xr48AMUAbx8
 
 [[benjamin-penny-the-life-and-times-of-li-hongzhi-2003]]
-====== The Life and times of Li Hongzhi by Benjamin Penny (2003)
+===== The Life and times of Li Hongzhi by Benjamin Penny (2003)
 
 Free to read at: https://www.jstor.org/stable/20059033
 
 [[benjamin-penny-the-religion-of-falun-gong-2012]]
-====== The Religion of Falun Gong by Benjamin Penny (2012)
+===== The Religion of Falun Gong by Benjamin Penny (2012)
 
 https://www.amazon.co.uk/dp/0226655016
 
@@ -5940,7 +5967,7 @@ image::https://web.archive.org/web/20200806133204im_/https://www.telegraph.co.uk
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Xi_Jinping_2019.jpg/448px-Xi_Jinping_2019.jpg[height=400]
 
 [[chrysanthemium-xi-jinping]]
-===== Chrysanthemium Xi Jinping 菊花习近平 (2015)
+===== Chrysanthemium Xi Jinping (菊花习近平, 2015)
 
 Got creator Dai Jianyong (戴建勇) arrested in 2015:
 
@@ -5956,8 +5983,25 @@ image::https://web.archive.org/web/20200113200256im_/https://chinadigitaltimes.n
 .Possible original Xi Jinping photo used for Chrysanthemum Xi, possibly from 2012. The light blue gradient background was used for the official photos of many Communist officials of the era. https://content.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112111,00.html[Source].
 image::https://web.archive.org/web/20190417164247im_/http://img.timeinc.net/time/2012/t100/t100_xi_alt.jpg[height=400]
 
+[[xi-jinping-thought]]
+==== Xi Jinping Thought (习近平新时代中国特色社会主义思想, 2017)
+
+* https://en.wikipedia.org/wiki/Xi_Jinping_Thought
+* https://zh.wikipedia.org/wiki/习近平新时代中国特色社会主义思想
+
+Added to the Constitution in preparation for <<xi-abolishes-term-limits-2018-03,eternal rule>>.
+
+<<xi-jinping>>'s <<little-red-book>>.
+
+Online video version courtesy of <<xinhua>>: http://www.xinhuanet.com/politics/xjpsxkj/index.html[]. Contains <<ccp-cult,devotional>> videos, not text: http://www.xinhuanet.com/politics/xjpsxkj/1.html
+
+Notably, it consists of 14 chapters, which are called "talks" (讲), e.g. the first talk (第一讲) etc. This is exactly like <<li-hongzhi>>'s <<flg-canon,Zhuan Falun>> (and likely like other ancient Chinese religious texts).
+
+.<<ccp-cult,Devotional>> image of <<xi-jinping>> on the cover of the https://en.wikipedia.org/wiki/The_Governance_of_China[The Governance of China] (link:https://zh.wikipedia.org/wiki/习近平谈治国理政[习近平谈治国理政], 2020) book which is part of <<xi-jinping-thought>>. The similarity to <<li-hongzhi>> devotional images <<li-hongzhi-lotus,is striking>>. Related: <<xi-halo>>. https://www.amazon.co.uk/Governance-China-Xi-Jinping/dp/1602204098[Source].
+image::https://web.archive.org/web/20200304121547if_/https://images-na.ssl-images-amazon.com/images/I/71xrbnzJC9L.jpg[height=400]
+
 [[jiang-zemin]]
-=== Jiang Zemin 江泽民 (1989-2002)
+=== Jiang Zemin (江泽民, 1989-2002)
 
 https://en.wikipedia.org/wiki/Jiang_Zemin | https://zh.wikipedia.org/wiki/江泽民
 
@@ -6005,6 +6049,14 @@ What could be a better reminder that <<xi-jinping,dictatorships are dangerous>> 
 
 .Mao Zedong in Yan'an in the 1930's thinking deeply. This funny looking picture is meme ready and https://uncyclopedia.ca/wiki/Chairman_Mao[much loved by Uncyclopedia]. https://commons.wikimedia.org/wiki/File:Mao_Zedong_in_Yan%27an.jpg[Source].
 image::https://upload.wikimedia.org/wikipedia/commons/9/9d/Mao_Zedong_in_Yan%27an.jpg[height=400]
+
+[[little-red-book]]
+==== Quotations from Chairman Mao Tse-tung (Little Red Book, 毛主席语录, 1976)
+
+* https://en.wikipedia.org/wiki/Quotations_from_Chairman_Mao_Tse-tung
+* https://zh.wikipedia.org/wiki/毛主席语录
+
+<<mao-zedong>>'s <<flg-canon>>. Like <<li-hongzhi>>'s, also extracted from talks, see also: <<ccp-cult>>.
 
 [[hundred-flowers-campaign]]
 ==== Hundred Flowers Campaign 百花齐放 (1956-1957)
@@ -6890,17 +6942,21 @@ I consider the media in this section biased, and never cite it for fact-checking
 [[chinese-government-media]]
 ==== Chinese government media 中国政府媒体
 
-* Xinhua News Agency
-** https://en.wikipedia.org/wiki/Xinhua_News_Agency
-** https://zh.wikipedia.org/wiki/新华社
-** http://www.xinhuanet.com/
-** https://twitter.com/PDChina
-** http://www.cri.cn
-** http://english.cri.cn/
 * Phoenix TV
 ** https://en.wikipedia.org/wiki/Phoenix_Television
 ** https://zh.wikipedia.org/wiki/凤凰卫视
 ** https://freebeacon.com/national-security/cruz-seeks-to-shut-down-chinese-propaganda-station-phoenix-tv/
+
+[[xinhua]]
+==== Xinhua News Agency (新华社, BIASED)
+
+* https://en.wikipedia.org/wiki/Xinhua_News_Agency
+* https://zh.wikipedia.org/wiki/新华社
+
+Links:
+
+* http://www.xinhuanet.com/
+* https://twitter.com/PDChina
 
 [[cctv]]
 ===== China Central Television (CCTV, 中国中央电视台)
@@ -6917,7 +6973,7 @@ I consider the media in this section biased, and never cite it for fact-checking
 CCTV's international branch in English, China's <<voa>>.
 
 [[peoples-daily]]
-===== People's Daily (人民日报, BIASED MEDIA)
+===== People's Daily (人民日报, BIASED)
 
 * https://en.wikipedia.org/wiki/People's_Daily
 * https://zh.wikipedia.org/wiki/人民日报
@@ -6937,31 +6993,36 @@ As of 2020, some deleted articles show the home page instead of the article, wit
 But older pages just show 404.
 
 [[global-times]]
-===== Global Times 环球时报
+===== Global Times (环球时报, BIASED)
 
 * https://en.wikipedia.org/wiki/Global_Times
 * https://zh.wikipedia.org/wiki/环球时报
 
 [[china-daily]]
-===== China Daily
+===== China Daily (中国日报, BIASED)
 
 * https://en.wikipedia.org/wiki/China_Daily
-* https://zh.wikipedia.org/wiki/孔子学院
+* https://zh.wikipedia.org/wiki/中国日报
 
 English-language propaganda newspaper.
 
 Responsible for <<china-watch>>.
 
 [[china-radio-international]]
-===== China Radio International 中国国际广播电台
+===== China Radio International (CRI, 中国国际广播电台, BIASED)
 
 * https://en.wikipedia.org/wiki/China_Radio_International
 * https://zh.wikipedia.org/wiki/中国国际广播电台
 
+Websites:
+
+* http://www.cri.cn
+* http://english.cri.cn/
+
 Operates for example: https://en.wikipedia.org/wiki/WCRW which is mentioned at: https://www.bbc.co.uk/news/world-us-canada-46557096 from <<spy>>. WTF, you have to obviously block them!
 
 [[pro-chinese-government-media]]
-===== Pro-Chinese government media (BIASED MEDIA)
+===== Pro-Chinese government media (BIASED)
 
 These might be independent, but they are clearly pro CCP and thus cannot be trusted:
 
@@ -6982,7 +7043,7 @@ Ideology:
 * anti-<<falun-gong>>: https://www.guancha.cn/politics/2019_09_18_518339.shtml
 
 [[kaiwind]]
-====== Kaiwind (BIASED MEDIA)
+====== Kaiwind (BIASED)
 
 http://kaiwind.com/
 
@@ -7118,6 +7179,8 @@ ____
 Things are changing rapidly as the Fa-rectification forges ahead and as Dafa disciples' righteous thoughts grow stronger. The energy emitted by NTDTV is very strong
 ____
 
+"Fa-rectification", amazing jargon.
+
 Related shows:
 
 * https://www.youtube.com/user/Laowaikanzhongguo Laowai kan Zhongguo 老外看中國
@@ -7181,7 +7244,7 @@ Li speaking to Minghui conference in <<flg-canon,canon>>: https://big5.falundafa
 TODO how https://www.clearwisdom.net/ compares?
 
 [[shen-yun]]
-===== Shen Yun Performing Arts 神韵艺术团
+===== Shen Yun Performing Arts (神韵艺术团)
 
 * https://en.wikipedia.org/wiki/Shen_Yun_Performing_Arts
 * https://zh.wikipedia.org/wiki/神韵艺术团
@@ -7195,7 +7258,7 @@ Shen Yun's headquarters are also located in/near <<dragon-springs>>.
 Li mentions Shen Yun in <<flg-canon,canon>>: https://gb.falundafa.org/chigb/jiangfa11_2.htm
 
 [[jennifer-zeng]]
-===== Jennifer Zeng 曾錚
+===== Jennifer Zeng (曾錚)
 
 * https://en.wikipedia.org/wiki/Jennifer_Zeng
 
@@ -7203,8 +7266,8 @@ https://twitter.com/jenniferatntd
 
 2005 book: https://www.amazon.co.uk/Witnessing-History-Womans-Fight-Freedom/dp/1741144000
 
-[[bannedbook-org]]
-===== bannedbook.org 禁闻网
+[[bannedbook]]
+===== bannedbook.org (禁闻网)
 
 The main Chinese name is 禁闻网 which stands for "banned news network", and is more accurate than the domain name "bannedbook" since the majority of material published appears to be recent banned articles.
 
@@ -7874,7 +7937,7 @@ For books, see: <<books>>
 Websites:
 
 * <<falun-gong-media>> contains a few:
-** <<bannedbook-org>>
+** <<bannedbook>>
 
 ===== gfwlist
 
@@ -7996,6 +8059,8 @@ Therefore, <<what-should-western-countries-do-about-china,all the West has to do
 
 This is where the Internet censors work.
 
+====== CAC dissident report website
+
 Reports such as https://www.theage.com.au/world/asia/china-exporting-ccp-speech-controls-to-australia-as-second-university-caught-in-row-20200805-p55irf.html highlighted that this website has a "report harmful or garbage information" entry, which can notably be used by Chinese expats to report people who badmouth the CCP, and in particular other Chinese nationals.
 
 Typing "国家互联网信息办公室" on Google autocompleted to "国家互联网信息办公室举报" (举报 == report), and finds http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm[].
@@ -8006,7 +8071,7 @@ Notably, there is one separate entry for illegal activity as well (网络违法�
 
 The harmful information page redirects to: https://www.12321.cn/ which has further categories.
 
-The "report website" (举报不良网站) category links to https://www.12321.cn/web and then has a "link:https://en.wikipedia.org/wiki/Reactionary[reactonary] and politically sensitive" (link:https://zh.wikipedia.org/wiki/反动[反动]及政治敏感) checkbox.
+The "report website" (举报不良网站) category links to https://www.12321.cn/web and then has a "link:https://en.wikipedia.org/wiki/Reactionary[reactonary] and <<politically-sensitive,politically sensitive>>" (link:https://zh.wikipedia.org/wiki/反动[反动]及<<politically-sensitive,政治敏感>>) checkbox.
 
 After you submit, it leads you to: https://www.12321.cn/suc in which you can optionally provide further contact details: https://www.12321.cn/reg[]. This appears to be no link with the previous page, so they might just do it via IP. Registration requires both a cell phone and an email.
 
@@ -8279,6 +8344,28 @@ But in reality they punish anyone who poses a political threat, even if they did
 
 * https://en.wikipedia.org/wiki/Hurt_the_feelings_of_the_Chinese_people
 * https://zh.wikipedia.org/wiki/傷害中國人民的感情
+
+[[politically-sensitive]]
+===== Politically sensitive (政治敏感)
+
+That's how the censors refer to stuff <<censorship,censored>> for political reasons, e.g.:
+
+* <<ciro-santillis-zhihu-ban-2018-06-25>>
+* <<cac-dissident-report-website>>
+
+See also:
+
+* 知乎的“政治敏感”，到底是谁的“政治敏感”呢？ (Zhihu's "politically sensitive" is "politically sensitive" to whom?)
+* https://jikipedia.com/definition/145472014 "政治敏感"
+* http://www.hainmc.edu.cn/news/info/1018/1870.htm "习近平三招教你培养政治敏感性、预见性" (Xi Jinping's three methods teach you to <<flg-cult,cultivate>> political sensitivity and predictability).
++
+This stuff could have come directly out of <<nineteen-eighty-four>>'s "thoughcrime" references.
++
+On the website of a https://en.wikipedia.org/wiki/Hainan_Medical_University[Medical University], the CCP is infiltrated everywhere.
++
+Related: <<xi-jinping-thought>>.
+
+Typing that on Google also suggested "People also searched for: 网络审查利弊" (What are the pros and cons of censorship?) Priceless.
 
 === Support for non-scientific traditional practices
 

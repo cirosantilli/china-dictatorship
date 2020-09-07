@@ -6,7 +6,12 @@ BODY = README.body.html
 FOOT = foot.html
 
 $(OUT): README.adoc $(HEAD) $(FOOT)
-	bundle exec asciidoctor --embedded -o $(BODY) -v '$<'
+	bundle exec asciidoctor \
+	  --embedded \
+	  --failure-level info \
+	  -o $(BODY) \
+	  -v \
+	  '$<'
 	cat $(HEAD) $(BODY) $(FOOT) > '$@'
 
 clean:
