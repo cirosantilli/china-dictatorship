@@ -123,6 +123,8 @@ image::https://web.archive.org/web/20200312233919if_/https://cdn1.i-scmp.com/sit
 
 **Vajiralongkorn Hamtaro**
 
+https://cirosantilli.com/china-dictatorship#thai-king-hamtaro
+
 image::https://raw.githubusercontent.com/cirosantilli/media/master//Side_by_side_comparison_between_Thai_king_Vajiralongkorn_and_Hamtaro.jpg[height=400]
 
 [[mirrors]]
