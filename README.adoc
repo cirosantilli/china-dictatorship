@@ -1321,7 +1321,7 @@ It is amusing to see Soviet series criticizing dictatorships, given that the Sov
 [[most-chinese-people-like-their-dictatorship]]
 ===== Most Chinese people like their dictatorship 中国大众支持他们的独裁
 
-It is easy to reach an agreement, when everyone who disagrees goes to jail or gets killed due to https://en.wikipedia.org/wiki/Inciting_subversion_of_state_power[Inciting subversion of state power 煽动颠覆国家政权罪] or <<picking-quarrels>>.
+It is easy to reach an agreement, when everyone who disagrees goes to jail or gets killed for to <<inciting-subversion>> or <<picking-quarrels>>.
 
 Also ask the millions of people who were affected by <<tiananmen>>, <<falun-gong>>, <<xinjiang>> or <<dissidents>>.
 
@@ -8368,6 +8368,14 @@ But in reality they punish anyone who poses a political threat, even if they did
 
 * https://en.wikipedia.org/wiki/Picking_quarrels_and_provoking_trouble
 * https://zh.wikipedia.org/wiki/寻衅滋事罪
+
+[[inciting-subversion]]
+===== Inciting subversion of state power (煽动颠覆国家政权罪)
+
+* https://en.wikipedia.org/wiki/Inciting_subversion_of_state_power
+* https://zh.wikipedia.org/wiki/煽动颠覆国家政权罪
+
+Also known in the West as <<richer,voting>>.
 
 [[hurt-the-feelings-of-the-chinese-people]]
 ===== Hurt the feelings of the Chinese people (伤害中国人民的感情)
