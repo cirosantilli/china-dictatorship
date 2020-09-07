@@ -871,78 +871,6 @@ Installing any of those immediately give you <<social-credit-system,10 Sesame Po
 
 See also: <<harm-programmers>>.
 
-[[intolerance]]
-=== Most Chinese people don't care about the minorities
-
-How can you be that certain that your children won't have dissident ideas and be punished unfairly for them?
-
-Intolerance is a risky way to live. Everyone is part of one minority in one way. If all minorities were oppressed, everyone would be oppressed.
-
-Dictatorships crush minorities much more than democracies.
-
-Do think the majority of the Chinese people would vote to put 50 year old <<falun-gong>> meditating <<ciro-santilli-mother-in-law-jail,aunties in jail>>, if the CCP hadn't made a huge propaganda campaign and used an iron fist?
-
-Are the Chinese really that selfish to vote for this oppression, even as the <<censorship,free media>> would show videos of meditating old ladies in jail on national television? <<ciro-santilli>> does not believe this.
-
-Minorities are put in jail because the CCP fears them. Dictatorships can only survive if there is zero difference in opinion in the population.
-
-The famous https://en.wikipedia.org/wiki/First_they_came_...[First they came ...] text comes to mind in which <<nazi,the priest Martin Niemöller regrets not having supported the rights of his opponents that were unfairly treated by the Nazi Government>>:
-
-[[first-they-came]]
-____
-First they came for the socialists, and I did not speak out +
-Because I was not a socialist.
-
-Then they came for the trade unionists, and I did not speak out +
-Because I was not a trade unionist.
-
-Then they came for the Jews, and I did not speak out +
-Because I was not a Jew.
-
-Then they came for me +
-and there was no one left to speak for me.
-____
-
-See also:
-
-* <<rule-of-law>>
-* https://en.wikipedia.org/wiki/Intolerance_(film)[Intolerance (1916) film]
-
-==== This is your personal problem, we have nothing to do with it, stop punishing us for it
-
-We have to fight for justice for our fellows, or else when injustice happens to us, no one will fight for use either: <<intolerance>>.
-
-Every form of protest incurs some damage. E.g., if we manifest on the street, it generates a traffic jam.
-
-I don't like it, but I think it is worth it.
-
-If you just work to make money and have a good life, without any plans to improve the government, you are just making the economy of the dictatorship stronger, then when they start a <<war,war>> or kill yet another minority, blood will also be on your hands. See also: <<what-should-western-countries-do-about-china>>.
-
-[[stability]]
-==== If anyone disagrees with the government they must be punished to keep the stability of the country
-
-Destroying diversity is the best way to reach a point where everyone can agree to start <<war,a new big war and destroy everything>>.
-
-The CCP thrives on the excessive <<evil-west,fear it instigates into its own people>>.
-
-How can society improve, if we are never allowed to try new things out?
-
-Change in democracies does not require <<violence,violence>>. Violence happens because the government punishes any dissidence, even if pacific, to retain its own power.
-
-In democracies, radical policy changes happen without dropping a single drop of blood. People vote, and policies change, end of the story. In https://en.wikipedia.org/wiki/John_F._Kennedy[JFK's] words:
-
-____
-Those who make peaceful revolution impossible will make violent revolution inevitable
-____
-
-See also:
-
-* https://en.wikipedia.org/wiki/Nonviolent_revolution#As_it_relates_to_democracy
-* https://en.wikisource.org/wiki/Address_on_the_First_Anniversary_of_the_Alliance_for_Progress
-
-.https://www.youtube.com/watch?v=dXRG7yiqR3I Passage of Kennedy's discourse that contains the quote "Those who make peaceful revolution impossible will make violent revolution inevitable".
-video::Iwpr55PZEJ8[youtube,height=400,width=600]
-
 [[not-chinese]]
 === Non-Chinese people should not interfere in Chinese politics 外国人不应该干预中国政治
 
@@ -1336,6 +1264,78 @@ video::zndzntIDLFE[youtube,height=400,width=600]
 
 .Westerner: "How is life in China?" Chinese: "Oh, we can't complain." Westerner: "That's awesome." Chinese: "No, seriously... we can't." is a word play between the more common "we can't complain because everything is great" and "we can't complain because <<xi-jinping,Xi>> will <<censorship,make us disappear>>". https://www.taiwannews.com.tw/en/news/3933168[Source]
 image::https://web.archive.org/web/20200514071323im_/https://tnimage.s3.hicloud.net.tw/photos/2020/05/13/1589352986-5ebb9a1ad0a98.jpg[height=600]
+
+[[intolerance]]
+===== Most Chinese people don't care about the minorities
+
+How can you be that certain that your children won't have dissident ideas and be punished unfairly for them?
+
+Intolerance is a risky way to live. Everyone is part of one minority in one way. If all minorities were oppressed, everyone would be oppressed.
+
+Dictatorships crush minorities much more than democracies.
+
+Do think the majority of the Chinese people would vote to put 50 year old <<falun-gong>> meditating <<ciro-santilli-mother-in-law-jail,aunties in jail>>, if the CCP hadn't made a huge propaganda campaign and used an iron fist?
+
+Are the Chinese really that selfish to vote for this oppression, even as the <<censorship,free media>> would show videos of meditating old ladies in jail on national television? <<ciro-santilli>> does not believe this.
+
+Minorities are put in jail because the CCP fears them. Dictatorships can only survive if there is zero difference in opinion in the population.
+
+The famous https://en.wikipedia.org/wiki/First_they_came_...[First they came ...] text comes to mind in which <<nazi,the priest Martin Niemöller regrets not having supported the rights of his opponents that were unfairly treated by the Nazi Government>>:
+
+[[first-they-came]]
+____
+First they came for the socialists, and I did not speak out +
+Because I was not a socialist.
+
+Then they came for the trade unionists, and I did not speak out +
+Because I was not a trade unionist.
+
+Then they came for the Jews, and I did not speak out +
+Because I was not a Jew.
+
+Then they came for me +
+and there was no one left to speak for me.
+____
+
+See also:
+
+* <<rule-of-law>>
+* https://en.wikipedia.org/wiki/Intolerance_(film)[Intolerance (1916) film]
+
+====== This is Ciro Santilli's personal problem, we have nothing to do with it, stop punishing us for it
+
+We have to fight for justice for our fellows, or else when injustice happens to us, no one will fight for use either: <<intolerance>>.
+
+Every form of protest incurs some damage. E.g., if we manifest on the street, it generates a traffic jam.
+
+<<ciro-santilli>> doesn't like it, but he thinks it is worth it.
+
+If you just work to make money and have a good life, without any plans to improve the government, you are just making the economy of the dictatorship stronger, then when they start a <<war,war>> or kill yet another minority, blood will also be on your hands. See also: <<what-should-western-countries-do-about-china>>.
+
+[[stability]]
+====== If anyone disagrees with the government they must be punished to keep the stability of the country
+
+Destroying diversity is the best way to reach a point where everyone can agree to start <<war,a new big war and destroy everything>>.
+
+The CCP thrives on the excessive <<evil-west,fear it instigates into its own people>>.
+
+How can society improve, if we are never allowed to try new things out?
+
+Change in democracies does not require <<violence,violence>>. Violence happens because the government punishes any dissidence, even if pacific, to retain its own power.
+
+In democracies, radical policy changes happen without dropping a single drop of blood. People vote, and policies change, end of the story. In https://en.wikipedia.org/wiki/John_F._Kennedy[JFK's] words:
+
+____
+Those who make peaceful revolution impossible will make violent revolution inevitable
+____
+
+See also:
+
+* https://en.wikipedia.org/wiki/Nonviolent_revolution#As_it_relates_to_democracy
+* https://en.wikisource.org/wiki/Address_on_the_First_Anniversary_of_the_Alliance_for_Progress
+
+.https://www.youtube.com/watch?v=dXRG7yiqR3I Passage of Kennedy's discourse that contains the quote "Those who make peaceful revolution impossible will make violent revolution inevitable".
+video::Iwpr55PZEJ8[youtube,height=400,width=600]
 
 === There are bad things happening all over the world, why doesn't Ciro Santilli fight for those causes as well/instead?
 
@@ -7167,6 +7167,16 @@ News and reports:
 
 * 2019-10-13 https://www.abc.net.au/news/2019-10-13/cssa-influence-australian-universities-documents-revealed/11587454 (https://web.archive.org/web/20191014032348/https://www.abc.net.au/news/2019-10-13/cssa-influence-australian-universities-documents-revealed/11587454[archive]) "Chinese Students and Scholars Association's deep links to the embassy revealed" in Australia.
 * 2018-03-07 https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/ (https://web.archive.org/web/20191012103953/https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/[archive])
+
+[[united-front-work-department]]
+=====  United Front Work Department (中共中央统一战线工作部)
+
+* https://en.wikipedia.org/wiki/United_Front_Work_Department
+* https://zh.wikipedia.org/wiki/中共中央统一战线工作部
+
+China's "Diaspora management" organ.
+
+The likely organizers behind <<confucius-institute>> and <<cssa>>.
 
 [[falun-gong-media]]
 ==== Falun Gong media 法轮功媒体
