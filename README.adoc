@@ -137,7 +137,11 @@ image::https://raw.githubusercontent.com/cirosantilli/media/master//Side_by_side
 [[mirrors]]
 == Mirrors of this page 这个网页的镜像
 
-You can also view the GitHub pages version locally with:
+You can download the webpage locally from GitHub at: https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip
+
+Note that media such as images are not stored in this repository, but mostly in <<wayback-machine>> which is <<gfw,blocked in China>>.
+
+You can also clone locally with Git:
 
 ....
 git clone https://github.com/cirosantilli/china-dictatorship
@@ -159,7 +163,7 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 * https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
 * https://gitlab.com/cirosantilli/china-dictatorship Maybe some day https://gitlab.cn/ ? :-)
 * https://bitbucket.org/cirosantilli/china-dictatorship
-* https://gitee.com/cirosantilli/china-dictatorship on <<gitee>> blocked after 12 hours: <<gitee-censorship>>
+* https://gitee.com/cirosantilli/china-dictatorship on <<gitee>>, blocked after 12 hours: <<gitee-censorship>>
 
 GitHub Pages: https://cirosantilli.com/china-dictatorship Trade-offs with https://github.com/cirosantilli/china-dictatorship[]
 
@@ -167,7 +171,10 @@ GitHub Pages: https://cirosantilli.com/china-dictatorship Trade-offs with https:
 ** https://help.github.com/en/github/authenticating-to-github/about-anonymized-image-urls[GitHub's camo] keeps hiccuping and not showing images
 ** and YouTube videos show inline there
 * cons
+** domain will eventually get blocked in China. <<greatfire>> https://zh.greatfire.org/https/cirosantilli.com shows that in 2020-01-19 the domain was unblocked, but on the next text at 2020-05-23 it was "contractictory".
 ** Camo bypasses the need for VPN, since most images are served from <<wayback-machine>> which is <<censorship,blocked in China>>.
+
+GitHub Pages was first enabled in 2020-03-22 at https://github.com/cirosantilli/china-dictatorship/commit/0b362a83fb5dd55f67b9d351551d0c18e7f3229a[].
 
 The perfect solution might be to download all images and upload them to https://github.com/cirosantilli/media since GitHub content does not go through Camo, we have to see if such images don't fail to load as often.
 
@@ -2940,6 +2947,12 @@ The article also contains a good summary section "CIA spy operation in China: Ke
 
 See also: <<university-espionage>>.
 
+[[mss]]
+====== Ministry of State Security (Guoanbu, 国安部)
+
+* https://en.wikipedia.org/wiki/Ministry_of_State_Security_(China)
+* https://zh.wikipedia.org/wiki/中华人民共和国国家安全部
+
 ===== The West must ban the Chinese telecommunications software and hardware
 
 They are an entry point to spying, censorship and fake news.
@@ -3443,6 +3456,10 @@ China's GitHub censorship history is documented at: https://en.wikipedia.org/wik
 
 * 2019-07-29 https://techcrunch.com/2019/07/29/github-ban-sanctioned-countries/ "GitHub confirms it has blocked developers in Iran, Syria and Crimea". "As part of the push, Friedman said GitHub has enforced new restrictions to prevent users in sanctioned countries from accessing private repositories and GitHub Marketplace, as well as maintaining private paid organization accounts"
 ** https://github.com/1995parham/github-do-not-ban-us protest repo against the sanctions, archived as of 2020-08
+
+Related:
+
+* https://techcrunch.com/2020/09/07/scratch-ban-in-china/ Scratch visual programming language for children website blocked
 
 ===== Gitee
 
@@ -6043,6 +6060,13 @@ Notably, it consists of 14 chapters, which are called "talks" (讲), e.g. the fi
 .<<ccp-cult,Devotional>> image of <<xi-jinping>> on the cover of the https://en.wikipedia.org/wiki/The_Governance_of_China[The Governance of China] (link:https://zh.wikipedia.org/wiki/习近平谈治国理政[习近平谈治国理政], 2020) book which is part of <<xi-jinping-thought>>. The similarity to <<li-hongzhi>> devotional images <<li-hongzhi-lotus,is striking>>. Related: <<xi-halo>>. https://www.amazon.co.uk/Governance-China-Xi-Jinping/dp/1602204098[Source].
 image::https://web.archive.org/web/20200304121547if_/https://images-na.ssl-images-amazon.com/images/I/71xrbnzJC9L.jpg[height=400]
 
+[[two-safegards]]
+===== Two safegards (两个维护, 2018)
+
+https://zh.wikipedia.org/wiki/兩個維護
+
+<<newspeak,Xi-speak>>.
+
 [[jiang-zemin]]
 === Jiang Zemin (江泽民, 1989-2002)
 
@@ -7168,8 +7192,8 @@ News and reports:
 * 2019-10-13 https://www.abc.net.au/news/2019-10-13/cssa-influence-australian-universities-documents-revealed/11587454 (https://web.archive.org/web/20191014032348/https://www.abc.net.au/news/2019-10-13/cssa-influence-australian-universities-documents-revealed/11587454[archive]) "Chinese Students and Scholars Association's deep links to the embassy revealed" in Australia.
 * 2018-03-07 https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/ (https://web.archive.org/web/20191012103953/https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/[archive])
 
-[[united-front-work-department]]
-=====  United Front Work Department (中共中央统一战线工作部)
+[[ufwd]]
+=====  United Front Work Department (UFWD, 中共中央统一战线工作部)
 
 * https://en.wikipedia.org/wiki/United_Front_Work_Department
 * https://zh.wikipedia.org/wiki/中共中央统一战线工作部
@@ -7235,7 +7259,7 @@ ____
 Things are changing rapidly as the Fa-rectification forges ahead and as Dafa disciples' righteous thoughts grow stronger. The energy emitted by NTDTV is very strong
 ____
 
-"Fa-rectification", amazing jargon.
+"Fa-rectification", amazing jargon, see also "Cult-speak" from <<orange-papers>>.
 
 Related shows:
 
@@ -7538,7 +7562,7 @@ This book is very fun to read, and it is not very long.
 1984 has coined some amazing terms which perfectly describe aspects of dictatorships:
 
 * https://en.wikipedia.org/wiki/Thoughtcrime[Thourhgcrime], see also: <<thoughtcrime>>
-* https://en.wikipedia.org/wiki/Newspeak[Newspeak], see also "Cult-speak" from <<orange-papers>>
+* <<newspeak>>
 
 Quotes present in other sections:
 
@@ -7577,6 +7601,13 @@ video::flhggnpCeHw[youtube,height=400,width=600]
 Related:
 
 * https://ibisbill.wordpress.com/2014/01/02/nineteen-eighty-four-in-chinese/ asks how much George Orwell thought about China at the time
+
+==== Newspeak
+
+* https://en.wikipedia.org/wiki/Newspeak
+* https://zh.wikipedia.org/wiki/新語_(一九八四)
+
+See also "Cult-speak" from <<orange-papers>>, related <<ccp-cult>>.
 
 [[brave-new-world]]
 === Brave New World 美丽新世界 (1932)
@@ -8115,23 +8146,51 @@ Therefore, <<what-should-western-countries-do-about-china,all the West has to do
 
 This is where the Internet censors work.
 
-====== CAC dissident report website
+====== CAC report website
+
+Summary:
+
+* http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm
+* https://www.12321.cn/web
+* http://12377.cn
 
 Reports such as https://www.theage.com.au/world/asia/china-exporting-ccp-speech-controls-to-australia-as-second-university-caught-in-row-20200805-p55irf.html highlighted that this website has a "report harmful or garbage information" entry, which can notably be used by Chinese expats to report people who badmouth the CCP, and in particular other Chinese nationals.
 
 Typing "国家互联网信息办公室" on Google autocompleted to "国家互联网信息办公室举报" (举报 == report), and finds http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm[].
 
-And one of the categories of report on that page is: "网络不良与垃圾信息举报受理中心" (center for reporting harmful or garbage information, https://web.archive.org/web/20200704135840/http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm[archive]).
+This is clearly an official government website due to the `gov.cn` URL, and it also has an <<icp-license>>.
+
+One of the categories of report on that page is: "网络不良与垃圾信息举报受理中心" (center for reporting harmful or garbage information, https://web.archive.org/web/20200704135840/http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm[archive]).
 
 Notably, there is one separate entry for illegal activity as well (网络违法犯罪举报网站) and another one for <<porn,pornography (中国扫黄打非网)>>, so it is interesting to see that there is one specifically for "misinformation".
 
-The harmful information page redirects to: https://www.12321.cn/ which has further categories.
+The harmful information page redirects to: https://www.12321.cn/ (https://web.archive.org/web/20200907150310/https://www.12321.cn/[archive]) which has further categories.
 
-The "report website" (举报不良网站) category links to https://www.12321.cn/web and then has a "link:https://en.wikipedia.org/wiki/Reactionary[reactonary] and <<politically-sensitive,politically sensitive>>" (link:https://zh.wikipedia.org/wiki/反动[反动]及<<politically-sensitive,政治敏感>>) checkbox.
+The "report website" (举报不良网站) category links to https://www.12321.cn/web (https://web.archive.org/web/20200807060758/https://www.12321.cn/web[archive]) and then has a "link:https://en.wikipedia.org/wiki/Reactionary[reactonary] and <<politically-sensitive,politically sensitive>>" (link:https://zh.wikipedia.org/wiki/反动[反动]及<<politically-sensitive,政治敏感>>) checkbox.
 
-After you submit, it leads you to: https://www.12321.cn/suc in which you can optionally provide further contact details: https://www.12321.cn/reg[]. This appears to be no link with the previous page, so they might just do it via IP. Registration requires both a cell phone and an email.
+After you submit, it leads you to: https://www.12321.cn/suc (https://web.archive.org/web/20200807063330/https://www.12321.cn/suc[archive]) in which you can optionally provide further contact details: https://www.12321.cn/reg[]. This appears to be no link with the previous page, so they might just do it via IP. Registration requires both a cell phone and an email.
 
 From the website source code (very simple, hand written, we see that it uses <<baidu,Baidu Analytics>>. The CCP obviously trusts Baidu a lot :-)
+
+On 2020-09-07, <<mirrors,cirosantilli.com/china-dictatorship>>'s Google Analytics had a hit coming from http://jbcz.12377.cn/report/center/web.index[] ("This site can't be reached" on Chrome). This was soon after <<ciro-santilli>> mentioned <<cac-report-website>> at https://github.com/cirosantilli/china-dictatorship/issues/149#issuecomment-688084645[]. This is presumably the censor's web UI to review reports. "jb" from jbcz presumably means Ju Bao (举报), the CZ Ciro couldn't guess.
+
+The toplevel http://12377.cn (https://web.archive.org/web/20200907235842/https://www.12377.cn/[archive]) is entitled "中央网信办（国家互联网信息办公室）违法和不良信息举报中心" and is another report website. It is also linked to from http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm under different categories, so it is also official.
+
+The first category in that page is "政治类" (political category). From there we have some awesome information.
+
+First it links to the report guidelines (举报指南) https://www.12377.cn/jbzn.html?tab=4 (https://web.archive.org/web/20200902094911/https://www.12377.cn/jbzn.html?tab=4[archive])
+
+____
+涉攻击党和国家制度及重大方针政策，攻击"<<two-safegards,two safeguards,两个维护>>"，危害国家安全、泄露国家秘密，破坏国家统一和领土完整，损害国家形象荣誉利益，破坏国家民族宗教政策、宣扬邪教，诋毁英雄烈士等内容的互联网违法和不良信息，请在此举报。
+____
+
+which states:
+
+____
+Involved in attacking the party and state system and major policies, attacking the "<<two-safegards,two safeguards>>", endangering national security, leaking state secrets, undermining national unity and territorial integrity, damaging national image, honor and interests, undermining national and religious policies, promoting cults, and vilifying heroes. Please report illegal and harmful information on the Internet of martyrs and other content.
+____
+
+so yes, attacking the party and major policies is illegal in China, big news, right? "Involved in attacking the party and state system and major policies" is then one of the categories in the report page.
 
 [[wumao]]
 ==== 50 Cent Party 五毛党 (Wumao Dang)
@@ -8415,7 +8474,7 @@ Also known in the West as <<richer,voting>>.
 That's how the censors refer to stuff <<censorship,censored>> for political reasons, e.g.:
 
 * <<ciro-santillis-zhihu-ban-2018-06-25>>
-* <<cac-dissident-report-website>>
+* <<cac-report-website>>
 
 See also:
 
@@ -8429,7 +8488,7 @@ On the website of a https://en.wikipedia.org/wiki/Hainan_Medical_University[Medi
 +
 Related: <<xi-jinping-thought>>.
 
-Typing that on Google also suggested "People also searched for: 网络审查利弊" (What are the pros and cons of censorship?) Priceless. Bomb at: https://github.com/cirosantilli/china-dictatorship/issues/150
+Typing that on Google also suggested "People also searched for: 网络审查利弊" (What are the pros and cons of censorship?) Priceless. Bomb at: https://github.com/cirosantilli/china-dictatorship/issues/150[]. <<dictatorship-variability>> comes to mind.
 
 === Support for non-scientific traditional practices
 
