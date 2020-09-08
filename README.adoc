@@ -3461,54 +3461,6 @@ Related:
 
 * https://techcrunch.com/2020/09/07/scratch-ban-in-china/ Scratch visual programming language for children website blocked
 
-===== Gitee
-
-For our mirror there, see: <<mirrors>>.
-
-Linked to "Open Source China" (开源中国) according to TechCrunch:
-
-____
-The project will be carried out by a consortium led by Open Source China, the Shenzhen-based firm behind its namesake open-source community and Gitee.
-____
-
-* https://github.com/oschina GitHub OAuth goes through that organization
-* https://www.oschina.net/ their website
-
-News:
-
-* 2020-08-21 https://techcrunch.com/2020/08/21/china-is-building-its-github-alternative-gitee/ "China is building a GitHub alternative called Gitee"
-+
-<<ciro-santilli>> commented about his <<gitee-censorship>> experiment there, it got 26 upvotes 13 downvotes, and as removed as "This post violated our policy.". There is no way to appeal that in that idiotic system. It is absed on: https://www.openweb.com/ It is also bugged as fuck. Sometimes says violates policy, then there's a JavaScript update andthe comment shows.
-
-====== Gitee censorship
-
-After posting our <<mirrors>> there, it was blocked in 12 hours:
-
-* https://gitee.com/cirosantilli/china-dictatorship
-** archive immediately after: creation: https://web.archive.org/web/20200821202450if_/https://gitee.com/cirosantilli/china-dictatorship
-** blocked archive 12 hours later: https://web.archive.org/web/20200822111436/https://gitee.com/cirosantilli/china-dictatorship
-+
-____
-{"status":404,"data":null,"message":"404 Not Found"}
-____
-* https://gitee.com/cirosantilli
-** archive immediately after: https://web.archive.org/web/20200821202055/https://gitee.com/cirosantilli
-** archive 12 hours later: https://web.archive.org/web/20200822111721/https://gitee.com/cirosantilli
-+
-____
-{"status":403,"data":null,"message":"The user has been blocked"}
-____
-
-The block email is:
-
-____
-通知
-
-仓库 cirosantilli/China Dictatorship 已被锁定
-
-原因： 根据相关法律法规和政策，本仓库暂停访问。
-____
-
 ===== GitHub gov-takedowns
 
 https://github.com/github/gov-takedowns
@@ -3560,6 +3512,7 @@ Content outside of GitHub: <<lists-of-material-censored-in-china>>.
 ** Open letter by student activist https://en.wikipedia.org/wiki/Yue_Xin_(activist)[Yue Xin] (https://zh.wikipedia.org/wiki/岳昕[岳昕]) about the events described at https://web.archive.org/web/20200104064812/https://www.nytimes.com/2018/04/09/world/asia/china-metoo-gao-yan.html["China's #MeToo: How a 20-Year-Old Rape Case Became a Rallying Cry"]
 ** https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md in-tree translation
 ** 2018-04 https://chinadigitaltimes.net/2018/04/translation-open-letter-on-peking-university-metoo-case/ "TRANSLATION: OPEN LETTER ON PKU #METOO CASE"
+* https://github.com/Project-Gutenberg/Pincong see also <<pincong>>
 
 Mentioned in other sections:
 
@@ -3647,6 +3600,54 @@ Explores several sentitive topics through interesting timelines with many pictur
 * <<tiananmen>>: https://chinatimeline.github.io/tiananmen/
 * <<corona>>: https://chinatimeline.github.io/wuhan-coronavirus/
 * religious persecution, including <<falun-gong>>: https://chinatimeline.github.io/religion_tl1/
+
+===== Gitee
+
+For our mirror there, see: <<mirrors>>.
+
+Linked to "Open Source China" (开源中国) according to TechCrunch:
+
+____
+The project will be carried out by a consortium led by Open Source China, the Shenzhen-based firm behind its namesake open-source community and Gitee.
+____
+
+* https://github.com/oschina GitHub OAuth goes through that organization
+* https://www.oschina.net/ their website
+
+News:
+
+* 2020-08-21 https://techcrunch.com/2020/08/21/china-is-building-its-github-alternative-gitee/ "China is building a GitHub alternative called Gitee"
++
+<<ciro-santilli>> commented about his <<gitee-censorship>> experiment there, it got 26 upvotes 13 downvotes, and as removed as "This post violated our policy.". There is no way to appeal that in that idiotic system. It is absed on: https://www.openweb.com/ It is also bugged as fuck. Sometimes says violates policy, then there's a JavaScript update andthe comment shows.
+
+====== Gitee censorship
+
+After posting our <<mirrors>> there, it was blocked in 12 hours:
+
+* https://gitee.com/cirosantilli/china-dictatorship
+** archive immediately after: creation: https://web.archive.org/web/20200821202450if_/https://gitee.com/cirosantilli/china-dictatorship
+** blocked archive 12 hours later: https://web.archive.org/web/20200822111436/https://gitee.com/cirosantilli/china-dictatorship
++
+____
+{"status":404,"data":null,"message":"404 Not Found"}
+____
+* https://gitee.com/cirosantilli
+** archive immediately after: https://web.archive.org/web/20200821202055/https://gitee.com/cirosantilli
+** archive 12 hours later: https://web.archive.org/web/20200822111721/https://gitee.com/cirosantilli
++
+____
+{"status":403,"data":null,"message":"The user has been blocked"}
+____
+
+The block email is:
+
+____
+通知
+
+仓库 cirosantilli/China Dictatorship 已被锁定
+
+原因： 根据相关法律法规和政策，本仓库暂停访问。
+____
 
 [[zhihu]]
 ==== Zhihu 知乎
@@ -6747,6 +6748,8 @@ Listings of the 2002 squad:
 * https://www.gettyimages.ae/detail/news-photo/china-line-up-for-a-team-photo-13-june-2002-at-the-seoul-news-photo/51528311 is the best photo available, clearly showing Hao first on top left, and https://www.gettyimages.co.uk/detail/news-photo/the-china-team-line-up-before-the-fifa-2002-world-cup-news-photo/969574 from the qualifiers with Hao on top right
 * http://www.qiuball.com/zgzq/21354.html (https://web.archive.org/web/20191121030909/http://www.qiuball.com/zgzq/21354.html[archive]) Contains squad photo with Hao on top left.
 
+Google bomb at: https://github.com/cirosantilli/china-dictatorship/issues/111
+
 .Hao Haidong (in white) playing for the China national team against the Hong Kong's national team in a World Cup Asian zone qualifying match at Siu Sai Wan Sports Ground in 2004. Photo: <<scmp>>. https://www.scmp.com/sport/china/article/3087684/chinese-sports-couple-hao-haidong-and-ye-zhaoying-face-being-wiped[Source].
 image::https://web.archive.org/web/20200614100726if_/https://i.stack.imgur.com/sbraK.jpg[height=500]
 
@@ -8604,6 +8607,8 @@ TODO is is blocked by <<gfw>> or not? <<greatfire>> just hangs forever on it, e.
 
 * https://zh.greatfire.org/test?url=https%3A//pincong.rocks
 * https://zh.greatfire.org/test?url=https%3A//pincong.rocks/question/6601
+
+<<github>> mirror of selected threads: https://github.com/Project-Gutenberg/Pincong
 
 [[mohu]]
 ==== Mohu 膜乎
