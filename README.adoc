@@ -282,7 +282,7 @@ See also: <<about>>.
 
 Obviously not, if you even thought about this, it is likely because of: <<evil-west>>.
 
-Don't you see that this is just pure and simple politics? And likely ineffective one at that: <<effect>>.
+Don't you see that this is just pure and simple politics? And likely ineffective one at that: <<effective>>.
 
 * everyone is brainwashed by their environment: <<brainwashed-by-usa,brainwashed>>
 * it is impossible to prove who is right or wrong in politics: <<democracy-is-a-religion>>
@@ -344,21 +344,21 @@ Infinite duplicate pool:
 * https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ameant-to-be-used+
 * https://github.com/caffeine-overload/bandinchina/issues/89
 
-==== Is Ciro Santilli making programming contributions with the main intent of promoting your political agenda?
+==== Is Ciro Santilli making programming contributions with the main intent of promoting his political agenda?
 
 No, that is just a side effect.
 
-If that were the case, I would definitely target more widely technologies, in particular Web and JavaScript, instead of obscure things like C and assembly in which I have spent tons of my time.
+For example, if that were the case, he would definitely target more widely used technologies, in particular Web and JavaScript, instead of obscure things like C and assembly in which I have spent tons of my time.
 
-Also, as I've said elsewhere, my actions are very unlikely to have any actions. Much more likely to have any action, would be for me to become rich and powerful first, and the best way to do that is to invest in whatever I think is most useful.
+Also, <<effective,any attempt to influence a billin people is unlikely to have any effect>>. Much more likely to have any effect, would be for <<ciro-santilli>> to become rich and powerful first, and the best way to do that is to invest in whatever he thinks is most useful.
 
-Actually, it can even be argued that I'm somewhat irrational, since I would be much more likely to become rich and powerful by bowing down to the CCP and trying to get their money instead.
+Actually, it can even be argued that Ciro's somewhat irrational, since he would be much more likely to become rich and powerful by bowing down to the CCP and trying to get their money instead.
 
-On the other hand, becoming rich and powerful is also highly unlikely, so maybe I'm just taking a low-risk low-reward path?
+On the other hand, becoming rich and powerful is also highly unlikely, so maybe it's justa matter of taking a low-risk low-reward path?
 
-I have very little free time, and will never do something for political reasons, only things that interest me technically.
+Ciro has have very little free time, and he will never do something for political reasons, only things that interest me technically.
 
-Finally, do you really think I'd be able to do such awesome projects if I had primarily political considerations in mind? XD
+Finally, do you really think he'd be able to do such awesome projects if he had primarily political considerations in mind? XD
 
 ===== Is Ciro Santilli making trivial edits on questions just to spam your name further?
 
@@ -772,7 +772,30 @@ video::t2hBtXdaYsQ[youtube,height=400,width=600]
 [[effective]]
 === Will the keyword attacks really help to destroy the firewall?
 
-Even if it is not, it does not matter, since Ciro spends so little time doing it: <<better-to-do>>.
+It is both unlikely, and hard to be sure.
+
+Just like it is unlikely that the activity of on individual can have a big influence in any group of 1 billion people.
+
+Every action is statistical: I just push the balance a little bit towards freedom.
+
+This FAQ and any talk is useless. You and I are wasting our time here.
+
+The possibility of blocking Stack Overflow and GitHub is 1000x more useful than any talk, but it is still useless.
+
+However, potentially blocking those websites takes <<better-to-do,0 of my time>>, I just leave the content there, so it is worth my time.
+
+To have an idea, in 2015 there are about:
+
+* 20M developers in the world
+* 2M in China : https://www.quora.com/Approximately-how-many-programmers-are-there-in-the-world https://www.techrepublic.com/blog/european-technology/there-are-185-million-software-developers-in-the-world-but-which-country-has-the-most/
+* 5M Stack Overflow users https://data.stackexchange.com/stackoverflow/query/227868/select-count-from-users
+* TODO I wonder what percentage of GDP those programmers control. I'll bet any programmer on Stack Overflow is at least 5x more powerful than the average Chinese.
+
+And if we never start somewhere, nothing will ever happen.
+
+Furthermore, even if the <<gfw,GFW>> falls, it is not clear that this will imply the end of the dictatorship: <<effective>>.
+
+Even if it is not, it does not matter, since <<ciro-santilli>> spends so little time doing it: <<better-to-do>> and has fun in doing it.
 
 .https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)[House of Cards] S01E02 "Nobody can hear you. Nobody cares about you. Nothing will come of this." GIF. https://houseoflessons.tumblr.com/post/43967209684/on-protesters-nobody-can-hear-you-nobody-cares[Source].
 image::https://web.archive.org/web/20200423081002im_/http://78.media.tumblr.com/c958931381d9efa62f158d885f3ca811/tumblr_mirhy5eQPY1s6tut4o1_r1_500.gif[height=400]
@@ -807,30 +830,6 @@ Trump's link:https://www.theguardian.com/commentisfree/2019/jun/02/trump-banning
 ===== Keyword attacks could be used by certain CCP political groups to justify blocking off the entire external Internet, and make the dictatorship even more pervasive
 
 It is a risk, but it would make China drastically <<richer,less powerful>>, so at least they wouldn't be able to start or sustain <<war,WW3>>. So I don't think it will go that way.
-
-[[effect]]
-==== Keyword attacks on programming websites will never have any effect
-
-That is true with high probability, just like any other individual who tries to influence 1B people.
-
-Every action is statistical: I just push the balance a little bit towards freedom.
-
-This FAQ and any talk is useless. You and I are wasting our time here.
-
-The possibility of blocking Stack Overflow and GitHub is 1000x more useful than any talk, but it is still useless.
-
-However, potentially blocking those websites takes <<better-to-do,0 of my time>>, I just leave the content there, so it is worth my time.
-
-To have an idea, in 2015 there are about:
-
-* 20M developers in the world
-* 2M in China : https://www.quora.com/Approximately-how-many-programmers-are-there-in-the-world https://www.techrepublic.com/blog/european-technology/there-are-185-million-software-developers-in-the-world-but-which-country-has-the-most/
-* 5M Stack Overflow users https://data.stackexchange.com/stackoverflow/query/227868/select-count-from-users
-* TODO I wonder what percentage of GDP those programmers control. I'll bet any programmer on Stack Overflow is at least 5x more powerful than the average Chinese.
-
-And if we never start somewhere, nothing will ever happen.
-
-Furthermore, even if the <<gfw,GFW>> falls, it is not clear that this will imply the end of the dictatorship: <<effective>>.
 
 [[so-block-cost]]
 ==== Stack Overflow and GitHub could be blocked at no cost by the Chinese government
@@ -2123,7 +2122,7 @@ This is how much time Ciro spends on this project to give you an idea:
 
 Then Ciro just contributes to programming websites exactly as he would if he weren't making this campaign, and voila.
 
-Edit: to be fair, the end of 2019 and start of 2020 was such as hot year with <<2019-hong-kong-anti-extradition-bill-protests>> and <<corona>> that Ciro might have spent a tiny little bit more.
+Edit: to be fair, the end of 2019 and start of 2020 was such as hot year with <<2019-hong-kong-anti-extradition-bill-protests>> and <<corona>> that Ciro might have spent a tiny little bit more ;-)
 
 But Ciro did it only when his brain was too tired of technical stuff and unable to do more, or as a brain warm up routine in the morning.
 
@@ -2271,6 +2270,12 @@ Tencent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-ba
 * China Circle Jerk subs (CCJ). TODO: these appear to be politically incorrect subs, but they do seem to allow anti-commit info. As of 2020, they were either banned or private:
 ** https://www.reddit.com/r/CCJ
 ** https://www.reddit.com/r/CCJ2
+* https://www.reddit.com/r/tibet/ 3k subs 2020
+
+TODO review:
+
+* https://www.reddit.com/r/taiwan/
+* https://www.reddit.com/r/China_Flu/
 
 ====== r/sino
 
@@ -3234,7 +3239,7 @@ If you are not a wumao, consider this:
 
 * Ciro Santilli is one, and antagonists are millions. It is therefore not possible to reply to all antagonists.
 * Ciro has in the past tried to be nice to stupid people, and they gave nasty replies
-* all discussion is useless, <<effect,only the keyword attack has any chance of having any effect, and even that is slim>>
+* all discussion is useless, <<effective,only the keyword attack has any chance of having any effect, and even that is slim>>
 
 In order to not waste too much time on those, Ciro Santilli uses the following strategy.
 
@@ -7029,13 +7034,13 @@ Links:
 * https://twitter.com/PDChina
 
 [[cctv]]
-===== China Central Television (CCTV, 中国中央电视台)
+===== China Central Television (CCTV, 中国中央电视台, BIASED)
 
 * https://en.wikipedia.org/wiki/China_Central_Television
 * https://zh.wikipedia.org/wiki/中国中央电视台
 
 [[cgtn]]
-====== China Global Television Network (CGTN)
+====== China Global Television Network (CGTN, BIASED)
 
 * https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg
 * https://zh.wikipedia.org/wiki/中国环球电视网
@@ -8194,6 +8199,8 @@ Involved in attacking the party and state system and major policies, attacking t
 ____
 
 so yes, attacking the party and major policies is illegal in China, big news, right? "Involved in attacking the party and state system and major policies" is then one of the categories in the report page.
+
+Soon after the previous events in 2020-09-08, anaytics got a hit from http://openurls.com.cn/ to cirosantilli.com/china-dictatorship. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of https://www.openallurls.com/[] but with an <<icp-license>> :-)
 
 [[wumao]]
 ==== 50 Cent Party 五毛党 (Wumao Dang)
