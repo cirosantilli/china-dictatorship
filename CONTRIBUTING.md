@@ -8,13 +8,9 @@ Forbidden:
 
     Create a new issues instead if you are arriving at a thread created by someone else and a have a new relevant point.
 
--   [Evil West](https://github.com/cirosantilli/china-dictatorship#evil-west) posts are OK, but they *must* explain why you think a dictatorship would better solve the problem.
+-   [Evil West](https://.cirosantilli.com/china-dictatorship#evil-west) posts are OK, but they *must* explain why you think a dictatorship would better solve the problem.
 
-    Posting several random evil-West news without explaining why dictatorships handle it better will get you banned, because it is noise: there is freedom of speech in the West and people can already see that information on newspapers who have a million times more viewers than this repo, there's no need to repeat that here. Flooding such posts is a primary [wumao tactic](https://github.com/cirosantilli/china-dictatorship#wumao).
-
-    Bad China news are OK because those are all censored in China and help Chinese people learn about it.
-
-    Any political material that is censored in any country in the West will be accepted.
+    Further rationale at: https://.cirosantilli.com/china-dictatorship#bias
 
 -   generate lots of notifications that don't teach people anything new.
 
@@ -22,15 +18,15 @@ Forbidden:
 
     People don't have that much time to waste.
 
-    If you are still certain that you want really want to shitpost, first see some tips at: https://github.com/cirosantilli/china-dictatorship#shitpost
+    If you are still certain that you want really want to shitpost, first see some tips at: https://.cirosantilli.com/china-dictatorship#shitpost
 
     Remember, you are threading dangerous waters, it is "one Ciro against one million wumaos", and so Ciro doesn't even blink anymore when a block might apply.
 
     But as long as you follow our [shitiquette](https://en.wikipedia.org/wiki/Etiquette), you should be fine.
 
--   swearing/being very aggressive on a [`not-shitpost`](https://github.com/cirosantilli/china-dictatorship) post.
+-   swearing/being very aggressive on a [`not-shitpost`](https://.cirosantilli.com/china-dictatorship#shitpost) post.
 
-    Keep in mind that [Ciro's Chinese sucks](https://github.com/cirosantilli/china-dictatorship#does-ciro-santilli-speak-chinese), so he may not get the full nuance of your comment, especially if you use a ton of [slang](https://github.com/cirosantilli/china-dictatorship#slang).
+    Keep in mind that [Ciro's Chinese sucks](https://.cirosantilli.com/china-dictatorship#does-ciro-santilli-speak-chinese), so he may not get the full nuance of your comment, especially if you use a ton of [slang](https://.cirosantilli.com/china-dictatorship#slang).
 
     On `shitpost` posts however, you can be as aggressive as you want.
 
@@ -55,7 +51,3 @@ If you wish to appeal a punitive measure, please contact me through some unblock
 I will not reply anything non-trivial on Chinese websites, since all of those will be taken down sooner or later, therefore wasting my time. I will just tell you to recontact on a non-Chinese website, or re-post your question with the answer on a Western website.
 
 If OP someone shitposts on GitHub and gets blocked, I will just make that clear by taking a web archive, posting a link on my comment, and setting the `op-block` label on the person's post: https://github.com/cirosantilli/china-dictatorship/labels/op-block
-
-Other blocked users:
-
-- https://github.com/brglng | https://github.com/cirosantilli/china-dictatorship/issues/42#event-2319426123 | https://github.com/isaacs/github/issues/1570 | http://web.archive.org/web/20190505072320/https://github.com/cirosantilli/china-dictatorship/issues/42

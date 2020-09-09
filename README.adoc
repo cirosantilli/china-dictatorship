@@ -1011,13 +1011,28 @@ image::https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/China_imperiali
 
 <<ciro-santilli>> prefers the term focused :-)
 
-That being said, Ciro takes the agenda of information sources very seriously.
+That being said, <<ciro-santilli>> takes the agenda of information sources very seriously.
 
 E.g. he tries to clearly classify Communist Party, Falun Gong, and Western government linked sources.
 
-Any evidence of positive political progress will also be added to this repo, e.g. people openly discussing politics online, human rights activists doing political stuff and not being put into jail, etc.
+If we had more <<western-democracies-are-not-perfect>> content, then maybe this repository would be considered a more reputable source by Chinese people.
 
-Party promises do not count, only reports of activities by individuals.
+However, there are a few practical problems to that:
+
+* there is freedom of speech in the West and people can already see that information on newspapers who have a million times more viewers than this repo (and still obviously no conclusion was reached), there's no need to repeat that here
+
+  Conversely, bad China news are always OK because, because those are all censored in China and help Chinese people learn about it.
+* flooding <<evil-west>> posts is a primary <<wumao>> tactic
+* <<evil-west>> information is already abundantly accessible to Chinese people in Chinese via any CCP media: <<chinese-government-media>>.
+* <<preconceived,people's minds cannot be changed>>, and notably <<effective,not in a language that most people of a country don't understand>>. This is why the primary goal of this repo is the <<keyword-attack>>: it does not require changing people's opinions.
+
+For those reasons, we currently forbid, posting several evil-West news without explaining why dictatorships handle it better. It would just generates more noise than signal.
+
+If you do explain however why dictatorships/China handle it better, then the post is welcome.
+
+Any political material that is censored by any country besides China, will also be readily accepted.
+
+Any evidence of positive political progress towards freedom will also be added to this repo, e.g. people openly discussing politics online, human rights activists doing political stuff and not being put into jail, etc.
 
 See also:
 
