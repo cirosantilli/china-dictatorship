@@ -1220,7 +1220,7 @@ See also:
 
 Ciro Santilli can understand that.
 
-It must feel good to have <<li-hongzhi,absolute truth>> in the <<democracy-is-a-religion,Cult of Xi>>, and let the black police <<against-censorship-and-flg,get rid of weirdos for you>>.
+It must feel good to have <<li-hongzhi,absolute truth>> in the <<ccp-cult,Cult of Xi>>, and let the black police <<against-censorship-and-flg,get rid of weirdos for you>>.
 
 But when the dictatorship turns again you our your family, will you fight, or will you just let them do whatever they want because they can never be wrong? See also: <<intolerance>>.
 
@@ -2659,6 +2659,7 @@ Text messages and translation: https://medium.com/@millwarj/wear-your-mask-under
 
 Because those countries are also dictatprships and completely corrupt to the brim:
 
+* https://www.foreignaffairs.com/articles/china/2020-09-10/long-shadow-xinjiang "The Long Shadow of Xinjiang"
 * https://nationalinterest.org/feature/plight-uyghurs-why-muslims-wont-speak-their-brethren-112466
 
 Related:
@@ -3446,7 +3447,7 @@ Query to find them: https://data.stackexchange.com/stackoverflow/query/312863/me
 *** username: "请封掉Ciro Santilli 中国共产党万岁"
 *** profile: "中国万岁！ 中国共产党万岁！ 法轮功，民运，台独在中国共产党的铁蹄下不过是螳臂当车！"
 ** https://web.archive.org/web/20200830192811/https://stackoverflow.com/users/815408/lookintoeast became a coward, renamed to "LookIntoEast"
-*** https://web.archive.org/web/20200910172706/https://stackoverflow.com/questions/63464732/how-to-set-a-custom-image-height-for-an-image-in-asciidoctor more shitcomments "可惜啊中国一天比一天强大繁荣，中国的实力碾压你们轮子跟捏死一只蚂蚁那么简单。哈哈哈哈", <<intolerance>>
+*** https://web.archive.org/web/20200910172706/https://stackoverflow.com/questions/63464732/how-to-set-a-custom-image-height-for-an-image-in-asciidoctor more shitcomments "可惜啊中国一天比一天强大繁荣，中国的实力碾压你们轮子跟捏死一只蚂蚁那么简单。哈哈哈哈", Yes, the CCP is very good at <<intolerance,putting old ladies in jail>>. A great thing to be proud of.
 ** mentioned at https://v2ex.com/t/378274 from <<v2ex>>
 ** a questions only account, not many intelligent CCP supporters out there of course. 2020 edit mentions: https://web.archive.org/web/20200910173714/https://stackoverflow.com/questions/7152762/how-to-redirect-print-output-to-a-file-using-python mentions "How time flies. Almost 10 years ago I started to work on bioinformatics without any coding skills. Then I gave up my PhD and previous career and becomes a pure software engineer."
 * https://stackoverflow.com/users/9393161
@@ -3639,6 +3640,11 @@ ____
 
 News:
 
+* <<huawei>> open sourced is https://en.wikipedia.org/wiki/Harmony_OS[Harmony OS] "IoT operating system" in Gitee: https://openharmony.gitee.com/openharmony
++
+The name of that OS is pure gold considering the Chinese origin, since "to harmonize" is often used as a way to say "to censor negative CCP information".
++
+That URL also likely highlights Huawei's intense influence on Gitee, the as the custom domain redirects to it: https://openharmony.gitee.com[], as opposed to what normal users can likely create https://gitee.com/openharmony[].
 * 2020-08-21 https://techcrunch.com/2020/08/21/china-is-building-its-github-alternative-gitee/ "China is building a GitHub alternative called Gitee"
 +
 <<ciro-santilli>> commented about his <<gitee-censorship>> experiment there, it got 26 upvotes 13 downvotes, and as removed as "This post violated our policy.". There is no way to appeal that in that idiotic system. It is absed on: https://www.openweb.com/ It is also bugged as fuck. Sometimes says violates policy, then there's a JavaScript update andthe comment shows.
@@ -4419,7 +4425,9 @@ President Donald Trump has refused to condemn Russia over the poisoning of oppos
 He said the case was "tragic" but urged reporters to focus instead on China, which he said was a bigger threat to the world than Russia.
 ____
 +
-Even after Germany and NATO said it was Novichok for sure... He must be sucking <<putin>>'s cock to have more nukes pointed against China. Perhaps not a bad strategy, but does completely disregard human rights. Do <<violence,the ends justify the means>>?
+Even after Germany and NATO said it was Novichok for sure... He must be sucking <<putin>>'s cock to have more nukes pointed against China, or maybe with some cyberhacking for the reelection campaign. Perhaps not a bad strategy, but does completely disregard human rights. Do <<violence,the ends justify the means>>?
++
+https://www.bbc.co.uk/news/world-us-canada-54097162 Pompeo then condemned.
 * 2020-09-04 https://www.bbc.co.uk/news/world-europe-54012278 good timeline of events so far
 * 2020-09-02 https://www.nytimes.com/2020/09/02/world/europe/navalny-poison-novichok.html "Aleksei Navalny Was Poisoned With Novichok, Germany Says". Tests done on a military weapons facility, which the German government said was based on "unequivocal evidence".
 * 2020-08-24 https://www.bbc.co.uk/news/world-europe-53892900 "Alexei Navalny: Putin critic 'probably poisoned' - doctors"
@@ -4821,7 +4829,21 @@ And obviously, the origin of the word "cult" is exactly the same as that of http
 
 ===== CCP cult
 
-The CCP also has many cult-like characteristics, notably <<xi-jinping,"The Guru is always right">>, which is mentioned on <<orange-papers>> itself "Or even, '<<mao-zedong,Chairman Mao>>.'"
+The CCP also has many cult-like characteristics, notably <<xi-jinping,"The Guru is always right">>, which is mentioned on <<orange-papers>> itself under "The Guru is always right." (highlight by <<ciro-santilli,Ciro>>):
+
+____
+The Guru, his church, and his teachings are always right, and above criticism, and beyond reproach.
+
+In some cults, the guru is dead, but the principle is the same. I use the word "guru" loosely here; in many cults the charismatic leader has the title of minister, priest, yogi, swami, prophet, or all-knowing wise man. **Or even, "<<mao-zedong,Chairman Mao>>."** In any case, the leader is always right.
+____
+
+And they also claim that https://en.wikipedia.org/wiki/Alcoholics_Anonymous[Alcoholics Anonymous] could be characterized as a cult. Very cool. What else could be powerful enough to get you off a physical addiction, than a mental addiction, right?
+
+____
+<<mao-zedong,Mao>> is the Father +
+<<xi-jinping,Xi>> is the Son +
+The CCP is the Holy Spirit
+____
 
 Both Mao and Xi have produced their own sacred books which must be revered, much like <<li-hongzhi>>'s <<flg-canon>>:
 
@@ -4831,6 +4853,10 @@ Both Mao and Xi have produced their own sacred books which must be revered, much
 Furthermore, both of those books are based on speeches, just like just like Li Hongzhi's speeches become instant canon.
 
 This devotion can also be seen in Xi's benevoltent personification: <<xi-dada>>.
+
+See also:
+
+* <<democracy-is-a-religion>>
 
 [[xi-halo]]
 .Xi Jinping with a Halo to make <<ccp-cult,the obvious more obvious>>. Reads <<xi-jinping-thought,"习近平思想" (Xi Jinping Thought)>>. Watermark reads "Gucci Minh @Laborwave", so presumably from https://www.instagram.com/laborwavedesigns/[], but I didn't have the patience to find the picture, but it very likey comes from there, a ton of great communist memes in that account. https://www.reddit.com/r/LateStageCapitalism/comments/77vfi8/uphold_xi_jinping_thought/[Source].
@@ -5212,19 +5238,11 @@ See also: <<flg-bias>>
 
 Because it also specifies irrational and fundamental aspects of how one should live, notably voting and freedom of speech.
 
-Like the Cult of CCP has one fundamental belief: <<stability,the Party is always right>>, or as mentioned in <<orange-papers>> section "The Guru is always right." (highlight by Ciro):
+Just like the <<ccp-cult>> has one fundamental belief: <<stability,the Party is always right>>.
 
-____
-The Guru, his church, and his teachings are always right, and above criticism, and beyond reproach.
+Ban <<falun-gong>>, and you have banned democracy.
 
-In some cults, the guru is dead, but the principle is the same. I use the word "guru" loosely here; in many cults the charismatic leader has the title of minister, priest, yogi, swami, prophet, or all-knowing wise man. **Or even, "<<mao-zedong,Chairman Mao>>."** In any case, the leader is always right.
-____
-
-And they also claim that https://en.wikipedia.org/wiki/Alcoholics_Anonymous[Alcoholics Anonymous] could be characterized as a cult. Very cool. What else could be powerful enough to get you off a physical addiction, than a mental addiction, right?
-
-Ban FLG, and you have banned democracy.
-
-Accept democracy, and you will have FLG.
+Accept democracy, and you will have <<falun-gong>>.
 
 There is no in-between.
 
@@ -7435,6 +7453,14 @@ Website: https://hk.appledaily.com/
 Founded by <<jimmy-lai>>.
 
 Pro-democracy. Raided soon after <<hong-kong-national-security-law>> started.
+
+[[hkfp]]
+==== Hong Kong Free Press
+
+* https://en.wikipedia.org/wiki/Hong_Kong_Free_Press
+* https://zh.wikipedia.org/wiki/香港自由新聞
+
+Website: https://hongkongfp.com/
 
 === Media that we are not sure is biased or not
 
