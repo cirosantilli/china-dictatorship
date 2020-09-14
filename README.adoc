@@ -1,4 +1,5 @@
 = China Dictatorship 中国独裁统治
+:china-dictatorship-media-base: https://raw.githubusercontent.com/cirosantilli/china-dictatorship/master/
 :cirosantilli-media-base: https://raw.githubusercontent.com/cirosantilli/media/master/
 :idprefix:
 :idseparator: -
@@ -10,11 +11,11 @@
 :toclevels: 6
 :toc-title:
 
-https://cirosantilli.com/china-dictatorship | https://github.com/cirosantilli/china-dictatorship
+https://cirosantilli.com/china-dictatorship | https://github.com/cirosantilli/china-dictatorship | https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip
 
 Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
-This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on github.com: https://github.com/cirosantilli/china-dictatorship[]. You can view it fully at https://cirosantilli.com/china-dictatorship[] or by cloning and converting it locally to HTML as shown at: <<mirrors>>.
+This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on github.com: https://github.com/cirosantilli/china-dictatorship[]. You can view it fully at https://cirosantilli.com/china-dictatorship[] or by downloading it locally to HTML as shown at: <<mirrors>>.
 
 image:https://web.archive.org/web/20191013080128if_/http://i.redd.it/c9q6vdybr7i31.jpg[height=300]
 
@@ -139,7 +140,7 @@ image::https://raw.githubusercontent.com/cirosantilli/media/master//Side_by_side
 
 You can download the webpage locally from GitHub at: https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip
 
-Note that media such as images are not stored in this repository, but mostly in <<wayback-machine>> which is <<gfw,blocked in China>>.
+Note that media such as images are not stored in this repository, but rather at https://github.com/cirosantilli/china-dictatorship-media to keep the lightweight clone. The locally downloaded HTML will then read images from that repository.
 
 You can also clone locally with Git:
 
@@ -195,6 +196,23 @@ china-dictatorship.py > README.html
 ....
 
 We later found on Google by chance that libraries.io picked it up and rendered the README.adoc nicely as well: https://libraries.io/pypi/china-dictatorship (https://web.archive.org/web/20200318043050/https://libraries.io/pypi/china-dictatorship[archive]). This is why packaging is a good idea.
+
+A programmatic inferface is also exposed on those packages, making it easy to quickly add a `--china` option to your project, e.g. from Python:
+
+....
+import china_dictatorship
+
+print(china_dictatorship.get_data())
+....
+
+This outputs the rendered HTML, which end users should the pipe into a file:
+
+....
+./your-program --china > README.html
+xdg-open README.html
+....
+
+Here's a concrete example: https://github.com/cirosantilli/linux-kernel-module-cheat/commit/082166a360c56990662c715196229016d8806ab3
 
 TODO: create an Ubuntu PPA and Ruby gem as well.
 
@@ -2676,6 +2694,36 @@ Related:
 ** https://en.wikipedia.org/wiki/2011_Inner_Mongolia_unrest
 ** https://zh.wikipedia.org/wiki/2011年内蒙古抗议示威事件
 
+[[tibet]]
+==== Tibet (西藏)
+
+Events linked to reducing the teaching of the Tibetan language in schools and replacing it with Mandarin:
+
+* 2020-04 https://www.languagemagazine.com/2020/04/23/tibetan-language-phased-out-as-schools-switch-to-mandarin/
+* 2010 https://en.wikipedia.org/wiki/2010_Tibetan_language_protest
+
+[[2008-tibetan-unrest]]
+===== 2008 Tibetan unrest (2008年西藏骚乱)
+
+* https://en.wikipedia.org/wiki/2008_Tibetan_unrest
+* https://zh.wikipedia.org/wiki/2008年西藏骚乱
+
+Good gory photos from the event: https://file.wikileaks.org/file/tibet-protest-photos/ (https://web.archive.org/web/20200410200709/https://file.wikileaks.org/file/tibet-protest-photos/[archive])
+
+.https://youtube.com/watch?v=B-tEi4uLM_E "Hundreds of Tibetan protesters clash with police after anti-China protest" published by AP Archive.
+video::B-tEi4uLM_E[youtube,height=400,width=600]
+
+[[1987-1989-tibetan-unrest]]
+===== 1987-1989 Tibetan unrest (1989年拉萨骚乱)
+
+* https://en.wikipedia.org/wiki/1987–1989_Tibetan_unrest
+* https://zh.wikipedia.org/wiki/1989年拉萨骚乱
+
+.https://youtube.com/watch?v=qMZgoRuPJBg "Troops stormed the Tibetan holy site the Jokhang Temple and beat monks"
+video::qMZgoRuPJBg[youtube,height=400,width=600]
+
+.https://youtube.com/watch?v=3uQcGcGGepw "Latest Spate Of Violent Unrest In Lhasa And The Imposition Of Martial Law" by AP Archive
+video::3uQcGcGGepw[youtube,height=400,width=600]
 
 [[hong-kong]]
 ==== Hong Kong (香港)
@@ -3832,7 +3880,11 @@ All Zhihu posts related to Ciro Santilli were deleted following <<zhihu-purge>>.
 * 2019-03: https://www.zhihu.com/question/316700162 (https://archive.is/ewxqb[archive before deletion], (https://web.archive.org/web/20191103065512/https://web.archive.org/screenshot/https://www.zhihu.com/question/316700162[archive after deletion])) "如何看待Github Trending上Ciro Santilli的众多开源项目？". Due to: https://github.com/cirosantilli/x86-bare-metal-examples being featured on Hacker News: https://news.ycombinator.com/item?id=19428700
 * 2018-11: https://www.zhihu.com/question/302738350 (https://archive.is/lkQxS[archive before deletion], (https://web.archive.org/web/20191103065759/https://www.zhihu.com/question/302738350[archive after deletion])) "如何评价Ciro Santilli对Stack Overflow和GitHub的扰乱？"
 * 2017-03-07: https://zhuanlan.zhihu.com/p/25600138 (https://archive.is/DkooN[archive before deletion], (https://web.archive.org/web/20191103065808/https://zhuanlan.zhihu.com/p/25600138[archive after deletion])) "StackOverflow 上的一个智障用户"
-** 2017-03 https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow (https://web.archive.org/save/https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow/[archive]) by https://github.com/brglng/ (https://web.archive.org/web/20180802090918/https://github.com/brglng/[archive]) "StackOverflow 上的一个智障用户" contains a copy of the post by the same author. It just makes Ciro smile whenever he thinks that their post criticizing Ciro was deleted by the CCP, and they still might support the CCP, <<meant-to-be-used,Stockholm syndrome comes to mind>>.
+** 2017-03 https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow (https://web.archive.org/save/https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow/[archive]) by https://github.com/brglng/ (https://web.archive.org/web/20180802090918/https://github.com/brglng/[archive]) "StackOverflow 上的一个智障用户" contains a copy of the post by the same author.
++
+It just makes Ciro smile whenever he thinks that their post criticizing Ciro was deleted by the CCP, and they still might support the CCP, <<meant-to-be-used,Stockholm syndrome comes to mind>>.
++
+As of 2020, that website generates a constant stream of incoming traffic to the issue it links to: https://github.com/cirosantilli/chat/issues/26[]. Unfortunately brglng was a coward and removed his comments leaving the conversation a bit broken, and this was before Ciro <<wayback-machine,web archived obsessively>>.
 * 2015-08-18: https://www.zhihu.com/question/34775392 (https://web.archive.org/web/20160219094646/https://www.zhihu.com/question/34775392[archive before deletion], (https://web.archive.org/web/20191103065816/https://www.zhihu.com/question/34775392[archive after deletion])) "你们怎么看stackoverflow上某人故意屏蔽中国访问的事件？"
 
 A random control question that shows that archive.org 404's are actually deleted questions: https://www.zhihu.com/question/316700165 (https://web.archive.org/web/20191103065449/https://www.zhihu.com/question/316700165[archive]).
@@ -4428,6 +4480,8 @@ ____
 Even after Germany and NATO said it was Novichok for sure... He must be sucking <<putin>>'s cock to have more nukes pointed against China, or maybe with some cyberhacking for the reelection campaign. Perhaps not a bad strategy, but does completely disregard human rights. Do <<violence,the ends justify the means>>?
 +
 https://www.bbc.co.uk/news/world-us-canada-54097162 Pompeo then condemned.
++
+2020-09-14: laboratories in France and Sweden independently confirmed: https://www.dw.com/en/french-swedish-labs-confirm-navalny-poisoned-with-novichok/a-54918924
 * 2020-09-04 https://www.bbc.co.uk/news/world-europe-54012278 good timeline of events so far
 * 2020-09-02 https://www.nytimes.com/2020/09/02/world/europe/navalny-poison-novichok.html "Aleksei Navalny Was Poisoned With Novichok, Germany Says". Tests done on a military weapons facility, which the German government said was based on "unequivocal evidence".
 * 2020-08-24 https://www.bbc.co.uk/news/world-europe-53892900 "Alexei Navalny: Putin critic 'probably poisoned' - doctors"
@@ -6390,24 +6444,8 @@ image::http://web.archive.org/web/20200817222815im_/https://pbs.twimg.com/media/
 * 2009 https://en.wikipedia.org/wiki/Tan_Zuoren#2009_court_case Ai Weiwei documentary about it: https://aiweiwei.com/documentaries/disturbing-the-peace/index.html
 * 2008 https://en.wikipedia.org/wiki/Tofu-dreg_project | https://zh.wikipedia.org/wiki/豆腐渣工程 https://en.wikipedia.org/wiki/China%27s_Unnatural_Disaster:_The_Tears_of_Sichuan_Province
 * 2008 Wenzhou train collision https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response https://zh.wikipedia.org/wiki/2011年甬台温铁路列车追尾事故
-* 2008 Tibetan unrest
-** https://en.wikipedia.org/wiki/2008_Tibetan_unrest | https://zh.wikipedia.org/wiki/2008年西藏骚乱
-** Videos:
-+
-.https://youtube.com/watch?v=B-tEi4uLM_E "Hundreds of Tibetan protesters clash with police after anti-China protest" published by AP Archive.
-video::B-tEi4uLM_E[youtube,height=400,width=600]
-** https://file.wikileaks.org/file/tibet-protest-photos/ (https://web.archive.org/web/20200410200709/https://file.wikileaks.org/file/tibet-protest-photos/[archive]) Good gory photos from the event.
 * 2005 https://en.wikipedia.org/wiki/Dongzhou_protests | https://zh.wikipedia.org/wiki/东洲事件 Dongzhou protests
 * 1999 https://www.lionsroar.com/apple-thinks-different-about-the-dalai-lama-in-china-2/ Apple censors Dalai Lama for China
-* 1987-1989 Tibetan unrest
-** https://en.wikipedia.org/wiki/1987–1989_Tibetan_unrest | https://zh.wikipedia.org/wiki/1989年拉萨骚乱
-** Videos:
-+
-.https://youtube.com/watch?v=qMZgoRuPJBg "Troops stormed the Tibetan holy site the Jokhang Temple and beat monks"
-video::qMZgoRuPJBg[youtube,height=400,width=600]
-+
-.https://youtube.com/watch?v=3uQcGcGGepw "Latest Spate Of Violent Unrest In Lhasa And The Imposition Of Martial Law" by AP Archive
-video::3uQcGcGGepw[youtube,height=400,width=600]
 * 1978-1979 Beijing Spring
 ** https://en.wikipedia.org/wiki/Beijing_Spring
 ** https://zh.wikipedia.org/wiki/北京之春
