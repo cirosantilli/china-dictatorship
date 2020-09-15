@@ -22,5 +22,5 @@
   "scripts": {
     "prepublishOnly": "cp README.adoc README;make"
   },
-  "version": "0.0.65"
+  "version": "0.0.66"
 }
