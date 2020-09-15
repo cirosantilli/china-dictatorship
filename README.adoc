@@ -140,7 +140,7 @@ image::{china-dictatorship-media-base}/Side_by_side_comparison_between_Thai_king
 
 You can download the webpage locally from GitHub at: https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip
 
-Note that media such as images are not stored in this repository, but rather at https://github.com/cirosantilli/china-dictatorship-media to keep the lightweight clone. The locally downloaded HTML will then read images from that repository.
+Media such as images are not stored in this repository, but rather at https://github.com/cirosantilli/china-dictatorship-media to keep the lightweight clone. The locally downloaded HTML will then read images from that repository.
 
 You can also clone locally with Git:
 
@@ -178,6 +178,7 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 GitHub Pages: https://cirosantilli.com/china-dictatorship Trade-offs with https://github.com/cirosantilli/china-dictatorship[]
 
 * pro
+** cut up to 512KB of source, and therefor unacceptable as the only source: https://github.com/isaacs/github/issues/1610[]
 ** https://help.github.com/en/github/authenticating-to-github/about-anonymized-image-urls[GitHub's camo] keeps hiccuping and not showing images
 ** and YouTube videos show inline there
 * cons
@@ -5904,9 +5905,9 @@ Interestingly however, many of the callees seemed interesting in what they had t
 
 Also, of course, the callers received call scripts and guidelines to makes those calls, because obviously <<flg-organized>>.
 
-It also seems that this telemarketing had <<li-hongzhi>>'s direct approval, although Ciro does not have proof of that.
-
 Ciro strongly disapproves of this, Just like for any product, visual ads on the street are impossible to prevent, but any kind of advertising that generates notifications on feeds, or takes people's time, is unacceptable.
+
+As you can easily find on <<google>>/<<baidu>>, such calls may be reported in the <<cac-report-website>>.
 
 Ciro has not however seen them talking about making automated phone calls.
 
