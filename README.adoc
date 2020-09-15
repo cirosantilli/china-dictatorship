@@ -2678,7 +2678,7 @@ Self made video shows the ex-model chained to a bed in a camp. Text messages giv
 Text messages and translation: https://medium.com/@millwarj/wear-your-mask-under-your-hood-an-account-of-prisoner-abuse-in-xinjiang-during-the-2020-3007a1f7437d
 
 ++++
-<iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/news/av/embed/p08mr1tm/53650246"></iframe>
+<iframe loading="lazy" width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/news/av/embed/p08mr1tm/53650246"></iframe>
 ++++
 
 [[other-islam-countries-speak-up-for-uyghur]]

@@ -12,12 +12,14 @@ else
 	MEDIA_CMD = -a china-dictatorship-media-base='$(MEDIA)'
 endif
 
-$(OUT): README.adoc $(HEAD) $(FOOT)
+$(OUT): README.adoc $(HEAD) $(FOOT) template_dir/*
 	bundle exec asciidoctor \
 		$(MEDIA_CMD) \
 	  --embedded \
 	  --failure-level info \
 	  -o $(BODY) \
+		--template-dir template_dir \
+		--trace \
 	  -v \
 	  '$<'
 	cat $(HEAD) $(BODY) $(FOOT) > '$@'
