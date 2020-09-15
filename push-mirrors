@@ -4,19 +4,23 @@
 
 set -eux
 
+# Update repo.
+new_version="$(./push-mirrors-bump-package-json-version)"
+./push-mirrors-bump-setup-py-version
+git add package.json
+git add setup.py
+git commit -m 'bump package version'
+git tag -m "$new_version" "$new_version"
 ./push-gh-pages
 
 # NPM package.
 # Updates package.json version, which other systems read if possible.
-new_version="$(./push-mirrors-bump-package-json-version)"
 npm publish
-git add package.json
 
 # Python package.
 # Initial setup:
 #sudo apt install python3-testresources
 #python3 -m pip install --user --upgrade setuptools wheel
-./push-mirrors-bump-setup-py-version
 # Initial one time setup.
 #python3 -m pip install --user setuptools wheel twine
 cp README.adoc README.html china_dictatorship
@@ -26,14 +30,8 @@ python setup.py sdist bdist_wheel
 # https://stackoverflow.com/questions/57935191/twine-is-asking-for-my-password-each-time-how-to-use-the-pypirc
 twine upload dist/*
 rm -rf build dist *.egg-info
-git add setup.py
-
-# Bump package versions
-git commit -m 'bump package version'
-git tag -m "$new_version" "$new_version"
 
 # Push to git mirrors.
-git push --follow-tags
 git push git@gitlab.com:cirosantilli/china-dictatorship.git
 git push git@bitbucket.org:cirosantilli/china-dictatorship.git
 # Nah.
