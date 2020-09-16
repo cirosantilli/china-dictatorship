@@ -2527,7 +2527,7 @@ image::{china-dictatorship-media-base}/Taiwan_White_House.jpg[height=400]
 image::{china-dictatorship-media-base}/Countries_that_recognize_Taiwan.jpg[height=400]
 
 .Washington DC TECRO. Instead of "embassies", Taiwan has https://en.wikipedia.org/wiki/Taipei_Economic_and_Cultural_Representative_Office["Taipei Economic and Cultural Representative Offices" (TECROs)] https://zh.wikipedia.org/wiki/臺北經濟文化代表處[(台北经济文化代表处|臺北經濟文化代表處)] The just happen to issue VISAs and passports like embassies, but remember, they are not embassies. No flag you see? This is because idiotic countries don't allow TECROs to have the Taiwan flag. In 2019 Senator Ted Cruz planned on passing a law to allow that though: https://www.taiwannews.com.tw/en/news/3825086[]. https://en.wikipedia.org/wiki/File:Taipei_Economic_and_Cultural_Representative_Office_in_the_United_States_from_VOA_(1).jpg[Source].
-image::{china-dictatorship-media-base}/Taipei_Economic_and_Cultural_Representative_Office_in_the_United_States_from_VOA_%281%29.jpg[height=400]
+image::{china-dictatorship-media-base}/TECRO_Washington.jpg[height=400]
 
 .2014 cartoon by D Nguyen summarizing the Taiwan China relationship in history. Featuring: fatter and fatter <<mao-zedong>> on first three cartoons to the left, likely <<deng-xiaoping>> to left on the last, and https://en.wikipedia.org/wiki/Chiang_Kai-shek[Chiang Kai-shiek] (https://zh.wikipedia.org/wiki/蔣中正[蔣中正]) to the right. TODO middle figure on last cartoon. TODO find proper attribution source, originally seen at: https://i.redd.it/xb5qr3asfns41.jpg[].
 image::{china-dictatorship-media-base}/Taiwan_we_are_China_cartoon.jpg[height=600]
@@ -6244,7 +6244,7 @@ image::{china-dictatorship-media-base}/Jiang_Zemin_emoticons_montage.png[height=
 What could be a better reminder that <<xi-jinping,dictatorships are dangerous>> than the catastrophes that Mao created such as the <<great-leap-forward>> and <<cultural-revolution>>?
 
 .Mao Zedong in Yan'an in the 1930's thinking deeply. This funny looking picture is meme ready and https://uncyclopedia.ca/wiki/Chairman_Mao[much loved by Uncyclopedia]. https://commons.wikimedia.org/wiki/File:Mao_Zedong_in_Yan%27an.jpg[Source].
-image::{china-dictatorship-media-base}/Mao_Zedong_in_Yan%27an.jpg[height=400]
+image::{china-dictatorship-media-base}/Mao_Zedong_in_Yanan.jpg[height=400]
 
 [[little-red-book]]
 ==== Quotations from Chairman Mao Tse-tung (Little Red Book, 毛主席语录, 1976)
