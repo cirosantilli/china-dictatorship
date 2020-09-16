@@ -11,11 +11,11 @@
 :toclevels: 6
 :toc-title:
 
-https://cirosantilli.com/china-dictatorship | https://github.com/cirosantilli/china-dictatorship | https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip
+https://cirosantilli.com/china-dictatorship[GitHub Pages] | https://github.com/cirosantilli/china-dictatorship[GitHub project] | https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip[HTML download]
 
 Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
-This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on github.com: https://github.com/cirosantilli/china-dictatorship[]. You can view it fully at https://cirosantilli.com/china-dictatorship[] or by downloading it locally as shown at: <<mirrors>>.
+This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com]. You can view it fully at https://cirosantilli.com/china-dictatorship[] or by downloading it locally as shown at: <<mirrors>>.
 
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China_photo.jpg[height=600]
 
