@@ -81,9 +81,9 @@ image::{china-dictatorship-media-base}/mQFKa.jpg[height=600]
 
 https://cirosantilli.com/china-dictatorship#winnie-the-pooh
 
-image::{china-dictatorship-media-base}/TIGGER_2590531b.jpg[height=400]
+image::{china-dictatorship-media-base}/TIGGER_2590531b.webp[height=400]
 
-image::{china-dictatorship-media-base}/752.jpg[height=400]
+image::{china-dictatorship-media-base}/752.webp[height=400]
 
 image::{china-dictatorship-media-base}/TELEMMGLPICT000155655751_trans_NvBQzQNjv4BqzjD0Mh_LNt5Bhy1HYuGzFnpm3nqQSSR1BkomPrzwAI0.jpeg[height=400]
 
@@ -2826,7 +2826,7 @@ ____
 * 2020-05-24 https://www.theguardian.com/world/2020/may/24/beijing-to-impose-hong-kong-security-laws-without-delay
 
 .Over 100 police officers raid the Apple Daily Hong Kong newspaper soon after the <<hong-kong-national-security-law>> started. https://hongkongfp.com/2020/08/10/scores-of-police-raid-office-of-hong-kong-pro-democracy-newspaper-apple-daily/[Source].
-image::{china-dictatorship-media-base}/EfBoo_nUYAEtqV7.jpg[height=600]
+image::{china-dictatorship-media-base}/EfBoo_nUYAEtqV7.webp[height=600]
 
 ===== 2019 Hong Kong anti-extradition bill protests
 
@@ -3448,7 +3448,9 @@ The current consensus says that keyword attacks are allowed:
 * https://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam
 * https://meta.stackoverflow.com/questions/349131/users-political-display-name-triggering-government-action-against-users-who-vie
 
-The Chinese law doesn't I'm afraid: <<real-username-law>>
+The Chinese law doesn't unfortunately: <<real-username-law>>
+
+Since you will fail through Stack Overflow moderation, please consider instead making a report on the <<cac-report-website>>.
 
 ===== Other openly dissident users on Stack Overflow
 
@@ -3533,6 +3535,8 @@ It will be fun to watch you try, and fail.
 This is because you do not understand how important the concept of <<richer,freedom of speech is>> in the West, and how amazing it feels when you are right, and it protects you.
 
 The only thing that would work is if the Chinese government makes a gov-takedown on this repo: <<github-gov-takedowns>>, in which case: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>.
+
+In order to get this repository in gov-takedown, your best bet is to use the <<cac-report-website>>.
 
 China's GitHub censorship history is documented at: https://en.wikipedia.org/wiki/Censorship_of_GitHub#China
 
@@ -4422,7 +4426,7 @@ Poisoned with polonium-210, for more poisonings see: <<putin-sponsored-poisoning
 His 2002 book https://en.wikipedia.org/wiki/Blowing_Up_Russia[Blowing up Russia: Terror from Within] (https://ru.wikipedia.org/wiki/ФСБ_взрывает_Россию[ФСБ взрывает Россию: Федеральная служба безопасности — организатор террористических актов, похищений и убийств]) accuses the FSB of setting up false flag bombing operations, and figures on the <<federal-list-of-extremist-materials>>.
 
 .Litvinenko in his death bed.
-image::{china-dictatorship-media-base}/Former-Russian-Agent-Pois-006.jpg[height=400]
+image::{china-dictatorship-media-base}/Former-Russian-Agent-Pois-006.webp[height=400]
 
 [[russia-mandatory-registration-of-bloggers]]
 ==== Mandatory registration of bloggers (2014)
@@ -6076,7 +6080,7 @@ See also: <<shitpost>>.
 .2019-05-21 https://en.wikipedia.org/wiki/Sadomasochism[Sadomasochist] https://en.wikipedia.org/wiki/BDSM[BDSM] (SM) Xi Jinping lookalike or photoshop in https://en.wikipedia.org/wiki/Bondage_suit[bondage suit] (gimp suit, fetish gear) at a cosplay fair. TODO: is this a Photoshop and if yes what's the original pic, publish dates, location/event. Earliest post found so far: 2019-05-21 08:49:20 GMT+1 (Imgur timestamp) going wild on <<ptt>>: https://www.ptt.cc/bbs/Gossiping/M.1558424992.A.33B.html[] entitled "這位coser是誰啊？好眼熟。" (Who is this Cosplayer? He looks familiar.) by user "a15568". Watermark reads "I am Dasen 郭"
 image::{china-dictatorship-media-base}/TnR8Voo.jpg[height=500]
 
-.2020-01-01 https://en.wikipedia.org/wiki/Shengjian_mantou[Pan-fried dumpling] Xi Jinping lookalike 生煎包习近平撞脸. Furthermore, this reminded people of <<xi-jinping-memes,習包子>>. A Taiwanese report from 2020-01-01: https://news.tvbs.com.tw/world/1257030 TODO name, location. One of the many videos of him: https://www.youtube.com/watch?v=hTt8Sjer6cc[]
+.2020-01-01 https://en.wikipedia.org/wiki/Shengjian_mantou[Pan-fried dumpling] Xi Jinping lookalike 生煎包习近平撞脸. Furthermore, this reminded people of <<xi-jinping-memes,習包子>>. A <<taiwan,Taiwanese>> report from 2020-01-01: https://news.tvbs.com.tw/world/1257030 TODO name, location. One of the many videos of him: https://www.youtube.com/watch?v=hTt8Sjer6cc[]
 image::{china-dictatorship-media-base}/20200102_15779947641028.jpg[height=400]
 
 [[liu-keqing-singer]]
@@ -6099,7 +6103,7 @@ In <<xi-dada>> we see that a <<peoples-daily>> video actually interviews someone
 Some good photoshops:
 
 .Comparison image between Xi Jinping waking with then USA president https://en.wikipedia.org/wiki/Barack_Obama[Barack Obama] with a Winnie-the-Pooh cartoon still of Winnie walking with https://en.wikipedia.org/wiki/Tigger[Tigger, the tiger]. The original photo is from https://www.abc.net.au/news/2013-06-09/obama2c-xi-forge-rapport-in-debut-summit/4742616[Xi's 2013 visit to the Annenberg Retreat at Sunnylands, California]. https://www.telegraph.co.uk/news/2017/07/17/oh-bother-chinese-censors-block-winnie-pooh-meme-comparing-xi/[Source].
-image::{china-dictatorship-media-base}/TIGGER_2590531b.jpg[height=400]
+image::{china-dictatorship-media-base}/TIGGER_2590531b.webp[height=400]
 
 .Comparison image between Xi Jinping shaking hands with https://en.wikipedia.org/wiki/Shinzo_Abe[the Japanese prime minister Shinzo Abe] and a Winnie-the-Pooh cartoon still of Winnie shaking hands with the https://en.wikipedia.org/wiki/Eeyore[Eeyore, the donkey]. The original photo is from https://www.nytimes.com/2014/11/11/world/asia/leaders-of-china-and-japan-hold-long-awaited-meeting.html[Abe's lacklustre 2014 visit to Beijing]. https://www.theguardian.com/world/2018/aug/07/china-bans-winnie-the-pooh-film-to-stop-comparisons-to-president-xi[Source].
 image::{china-dictatorship-media-base}/752.jpg[height=400]
@@ -6546,10 +6550,10 @@ image::{china-dictatorship-media-base}/00tiananmen-images-15-superJumbo.jpg[heig
 image::{china-dictatorship-media-base}/Tiananmen_bicycle_bridge.jpg[height=400]
 
 .Family members try to comfort a mother who has just learned of her son's death after he was killed by soldiers at Tiananmen Square, June 4. https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary[Source].
-image::{china-dictatorship-media-base}/sub-buzz-30462-1559664775-8.jpg[height=500]
+image::{china-dictatorship-media-base}/sub-buzz-30462-1559664775-8.webp[height=500]
 
 .The morning after the military crackdown of the pro-democracy protesters in Tiananmen Square, workers clean their posters from bulletin boards. Resume <<censorship>> as usual. https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary[Source].
-image::{china-dictatorship-media-base}/sub-buzz-11644-1559664808-1.jpg[height=500]
+image::{china-dictatorship-media-base}/sub-buzz-11644-1559664808-1.webp[height=500]
 
 [[tiananmen-songs]]
 ===== Tiananmen Square Protests songs 六四事件歌曲
@@ -6650,7 +6654,7 @@ image::{china-dictatorship-media-base}/duckytankman.jpg[height=600]
 image::{china-dictatorship-media-base}/29f.png[height=400]
 
 .it8Bit https://en.wikipedia.org/wiki/Final_Fantasy_VI[Final Fantasy 6] battle screen style depiction of tank man by Cody Walton. https://www.it8bit.com/post/25860395424/unknown-rebel[Source].
-image::{china-dictatorship-media-base}/tumblr_m66n5i3smc1qbw2q1o1_1280.png[height=600]
+image::{china-dictatorship-media-base}/tumblr_m66n5i3smc1qbw2q1o1_1280.jpg[height=600]
 
 ===== Tiananmen Square Protests keywords
 
@@ -7926,7 +7930,7 @@ ____
 * https://zh.wikipedia.org/wiki/谷歌中国
 
 .Faithful Google China users/employees made a funeral-like flower tribute on the company's entry sign in Beijing https://en.wikipedia.org/wiki/Tuspark[Tsinghua Science Park] when the company was https://en.wikipedia.org/wiki/Operation_Aurora[kicked/hacked out of China in the 2010 Operation Aurora]. This was one example of the unfair <<what-should-western-countries-do-about-china,joint venture technique imposed on foreign companies>> by China. https://qz.com/1352137/why-internet-users-chose-baidu-over-google-when-it-was-in-china/[Source].
-image::{china-dictatorship-media-base}/google-china-flowers-baidu.jpg[height=400]
+image::{china-dictatorship-media-base}/google-china-flowers-baidu.webp[height=400]
 
 [[jingjing-chacha]]
 ===== Jingjing and Chacha 警警察察
@@ -7998,7 +8002,7 @@ image::{china-dictatorship-media-base}/564727cb219a210145a0dd6a1b7561.jpg[height
 ===== Chinese companies that sell censorship technology to dictatorships
 
 .Slide from a presentation of the Knowlesys Hong Kong social media censorship/misinformation company with words "Social Media as Weapons", "Your Enemy", leaked by the CCP_Unmasked hacker group on 2020/08/20. The leaks also contained data on  Yunrun Big Data Service, a company based in Guangzhou, and OneSight, based in Beijing. From this hack they apparently also managed obtained passwords used by those companies to manage CCP social media, and they posted some messages about their efforst through those accounts. Western countries have also used terrorism as an excuse way to reduce privacy/start wars, but of course, things are much worse in dictatorships where there is no freedom of speech, related <<evil-west>>. https://www.vice.com/en_in/article/dyzewz/hackers-leak-alleged-internal-files-of-chinese-social-media-monitoring-firmscv[Source].
-image::{china-dictatorship-media-base}/1597950511175-screen-shot-2020-08-20-at-10317-pm.png[height=400]
+image::{china-dictatorship-media-base}/1597950511175-screen-shot-2020-08-20-at-10317-pm.webp[height=400]
 
 ===== Censorship monitoring
 
@@ -8246,7 +8250,8 @@ Therefore, <<what-should-western-countries-do-about-china,all the West has to do
 
 This is where the Internet censors work.
 
-====== CAC report website
+[[cac-report-website]]
+====== CAC report website (中央网信办举报网站)
 
 Summary:
 
@@ -8254,7 +8259,7 @@ Summary:
 * https://www.12321.cn/web
 * http://12377.cn
 
-Reports such as https://www.theage.com.au/world/asia/china-exporting-ccp-speech-controls-to-australia-as-second-university-caught-in-row-20200805-p55irf.html highlighted that this website has a "report harmful or garbage information" entry, which can notably be used by Chinese expats to report people who badmouth the CCP, and in particular other Chinese nationals.
+Reports such as https://www.theage.com.au/world/asia/china-exporting-ccp-speech-controls-to-australia-as-second-university-caught-in-row-20200805-p55irf.html highlighted that these websites has a "report harmful or garbage information" entry, which can notably be used by Chinese expats to report people who badmouth the CCP, and in particular other Chinese nationals.
 
 Typing "国家互联网信息办公室" on Google autocompleted to "国家互联网信息办公室举报" (举报 == report), and finds http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm[].
 
