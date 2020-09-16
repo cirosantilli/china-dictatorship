@@ -17,7 +17,7 @@ Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主�
 
 This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on github.com: https://github.com/cirosantilli/china-dictatorship[]. You can view it fully at https://cirosantilli.com/china-dictatorship[] or by downloading it locally as shown at: <<mirrors>>.
 
-image:https://web.archive.org/web/20191013080128if_/http://i.redd.it/c9q6vdybr7i31.jpg[height=300]
+image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China.jpg[height=400]
 
 toc::[]
 
@@ -53,51 +53,51 @@ Music!
 
 image::{china-dictatorship-media-base}/Tiananmen_students_sitting.jpg[height=400]
 
-image::{china-dictatorship-media-base}/BN-CZ715_tam2_G_20140529081612.jpg[height=400]
+image::{china-dictatorship-media-base}/Tank_Man.jpg[height=400]
 
-image::{china-dictatorship-media-base}/Tiananmen-8-692x1024.jpg[height=600]
+image::{china-dictatorship-media-base}/Tianmen_crushed_dead.jpg[height=600]
 
 **法轮功 Falun Gong 1999 70M believer religion banned**
 
 https://cirosantilli.com/cirosantilli/china-dictatorship#falun-gong
 
-image::{china-dictatorship-media-base}/GuangzhouPractice_big-700x420.jpg[height=600]
+image::{china-dictatorship-media-base}/Falun_Gong_Ghuangzhou.jpg[height=600]
 
-image::{china-dictatorship-media-base}/TAM_Arrest4.jpg[height=600]
+image::{china-dictatorship-media-base}/Falun_Gong_lady_silenced.jpg[height=600]
 
 **新疆改造中心 Xinjiang re-education camps 2018**
 
 https://cirosantilli.com/china-dictatorship#xinjiang
 
-image::{china-dictatorship-media-base}/58e9361a-f0e3-4886-a80a-6c9668ee678f.jpeg[height=400]
+image::{china-dictatorship-media-base}/Xinjiang_prisoners_sitting_identified.jpeg[height=400]
 
 image::{china-dictatorship-media-base}/Xinjiang_prisoners_march.jpg[height=400]
 
-image::{china-dictatorship-media-base}/ufs-fig8.jpg[height=500]
+image::{china-dictatorship-media-base}/Uyghur_sale_website.jpg[height=500]
 
-image::{china-dictatorship-media-base}/mQFKa.jpg[height=600]
+image::{china-dictatorship-media-base}/Xinjiang_camp_in_camp.jpg[height=600]
 
 **小熊维尼 Winnie the Pooh 2018**
 
 https://cirosantilli.com/china-dictatorship#winnie-the-pooh
 
-image::{china-dictatorship-media-base}/TIGGER_2590531b.webp[height=400]
+image::{china-dictatorship-media-base}/Xi_Pooh_Obama.webp[height=400]
 
-image::{china-dictatorship-media-base}/752.webp[height=400]
+image::{china-dictatorship-media-base}/Xi_Abe_Pooh.webp[height=400]
 
-image::{china-dictatorship-media-base}/TELEMMGLPICT000155655751_trans_NvBQzQNjv4BqzjD0Mh_LNt5Bhy1HYuGzFnpm3nqQSSR1BkomPrzwAI0.jpeg[height=400]
+image::{china-dictatorship-media-base}/Xi_Jinping_heart.jpeg[height=400]
 
 **郝海东 Hao Haidong Chinese soccer superstar turns against the CCP 2020**
 
 https://cirosantilli.com/china-dictatorship#hao-haidong
 
-image::{china-dictatorship-media-base}/sbraK.jpg[height=500]
+image::{china-dictatorship-media-base}/Hao_Haidong_kick.jpg[height=500]
 
 **冠状病毒审查 Censorship of the 2019 Corona Virus**
 
 https://cirosantilli.com/china-dictatorship#corona
 
-image::{china-dictatorship-media-base}/_110803696_drli1.jpg[height=400]
+image::{china-dictatorship-media-base}/Li_Wenliang_covid.jpg[height=400]
 
 **基督迫害 Christian persecution 2018**
 
@@ -107,15 +107,15 @@ image::{china-dictatorship-media-base}/Church_demolition.jpg[height=400]
 
 image::{china-dictatorship-media-base}/meal.jpg[height=400]
 
-image::{china-dictatorship-media-base}/190bb54e-d6be-4c98-9599-b4a88aa6b959.jpeg[height=400]
+image::{china-dictatorship-media-base}/Pope_CCP_deal.jpeg[height=400]
 
 **LGBT权利 The suppression of homosexuality**
 
 https://cirosantilli.com/china-dictatorship#gay-rights
 
-image::{china-dictatorship-media-base}/tiananmen.kiss_1.jpg[height=500]
+image::{china-dictatorship-media-base}/Tianmen_lesbian_kiss.jpg[height=500]
 
-image::{china-dictatorship-media-base}/1809.jpg[height=400]
+image::{china-dictatorship-media-base}/Addicted_bed.jpg[height=400]
 
 **996.ICU**
 
@@ -127,7 +127,7 @@ image::{china-dictatorship-media-base}/996ICU.png[height=400]
 
 https://cirosantilli.com/china-dictatorship#gay-putin
 
-image::{china-dictatorship-media-base}/0a2ae706-1a94-11e7-b4ed-ac719e54b474_1280x720_145124.jpg[height=400]
+image::{china-dictatorship-media-base}/Gay_Putin.jpg[height=400]
 
 **Vajiralongkorn Hamtaro**
 
@@ -473,7 +473,7 @@ This is also well illustrated in the link:https://en.wikipedia.org/wiki/Chernoby
 video::ocBVLMHK6c8[youtube,height=400,width=600]
 
 .Photo of a CDV-717 radioactivity meter that maxes out at 3.6 Roentgen like the one that would have been used in Chernobyl. https://www.reddit.com/r/ChernobylTV/comments/bnio6n/36_roentgen_on_a_cdv717/[Source].
-image::{china-dictatorship-media-base}/f806kp316ox21.jpg[height=400]
+image::{china-dictatorship-media-base}/3_6_Roentgen.jpg[height=400]
 
 This suggestion is even more explicit in the fictional https://en.wikipedia.org/wiki/World_War_Z[World War Z] 2006 novel by https://en.wikipedia.org/wiki/Max_Brooks[Max Brooks] about a <<corona,virus>> outbreak in China. It was later adapted into the https://en.wikipedia.org/wiki/World_War_Z_(film)[World War Z (2013)] movie by https://en.wikipedia.org/wiki/Paramount_Pictures[Paramount]:
 
@@ -565,10 +565,10 @@ ____
 image::{china-dictatorship-media-base}/Covid_gag_mask.jpg[height=600]
 
 .Selfie of Li Wenliang on his hospital bed before he died. https://www.bbc.com/news/world-asia-china-51409801[Source].
-image::{china-dictatorship-media-base}/_110803696_drli1.jpg[height=400]
+image::{china-dictatorship-media-base}/Li_Wenliang_covid.jpg[height=400]
 
 .Corona Xi mural of <<xi-jinping>> morphed into a Coronavirus by https://en.wikipedia.org/wiki/Lushsux[Lushux]. Fuller composition view: https://twitter.com/lushsux/status/1243830638966235136[]. Reddit called it https://www.reddit.com/r/pics/comments/fqku03/winnie_the_flu/[Winnie the Flu] in a reference to <<winnie-the-pooh>>. https://www.reddit.com/r/pics/comments/fqku03/winnie_the_flu/[Source].
-image::{china-dictatorship-media-base}/ulqhu0q38fp41.jpg[height=500]
+image::{china-dictatorship-media-base}/Covid_Xi.jpg[height=500]
 
 ====== nCovMemory
 
@@ -734,7 +734,7 @@ What is the point of having all that wealth, when you risk <<rule-of-law,being p
 <<ciro-santilli>> argues that China would be even richer if it weren't for the CCP: <<richer>>, and that the CCP only violates people's human rights as a tool to stay in power: <<ccp-evil>>.
 
 .<<rebel-pepper>> cartoon about a pig who does not care about politics because it cannot be eaten. 民主又不能当饭吃 https://twitter.com/remonwangxt/status/1131398147253710850[Source].
-image::{china-dictatorship-media-base}/D7OImmpWsAEYXEN.jpg[height=600]
+image::{china-dictatorship-media-base}/Pig_politics_Chinese.jpg[height=600]
 
 .Translation by Ciro Santilli of the Rebel Pepper cartoon about the pig who does not care about politics because it cannot be eaten.
 image::{cirosantilli-media-base}/Rebel_pepper_pig_can%27t_eat_democracy_cartoon_translated_to_English_by_Ciro_Santilli.jpg[height=600]
@@ -826,7 +826,7 @@ Furthermore, even if the <<gfw,GFW>> falls, it is not clear that this will imply
 Even if it is not, it does not matter, since <<ciro-santilli>> spends so little time doing it: <<better-to-do>> and has fun in doing it.
 
 .https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)[House of Cards] S01E02 "Nobody can hear you. Nobody cares about you. Nothing will come of this." GIF. https://houseoflessons.tumblr.com/post/43967209684/on-protesters-nobody-can-hear-you-nobody-cares[Source].
-image::{china-dictatorship-media-base}/tumblr_mirhy5eQPY1s6tut4o1_r1_500.gif[height=400]
+image::{china-dictatorship-media-base}/Nobody_can_hear_you.gif[height=400]
 
 [[embargo]]
 ==== Embargoes make dictatorships stronger 禁运使独裁更强大
@@ -934,7 +934,7 @@ In some sense, this may be similar to the CCP and any other political party.
 But conversely: <<effective>>.
 +
 .https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)[House of Cards] S01E02 "Nobody can hear you. Nobody cares about you. Nothing will come of this." GIF. https://houseoflessons.tumblr.com/post/43967209684/on-protesters-nobody-can-hear-you-nobody-cares[Source].
-image::{china-dictatorship-media-base}/tumblr_mirhy5eQPY1s6tut4o1_r1_500.gif[height=400]
+image::{china-dictatorship-media-base}/Nobody_can_hear_you.gif[height=400]
 +
 .https://youtube.com/watch?v=SRPiE59e8NU House of Cards S01E02 Officer: "Some guy was trying to get into the building, when we said "no" he started tearing his clothes off." Frank: "Nobody can hear you. Nobody cares about you. Nothing will come of this. Why don't you let these nice gentlemen take you home?" video clip. Interpretation: https://movies.stackexchange.com/questions/94608/what-can-we-make-out-of-the-final-scene-from-house-of-cards-season-1-ep-2
 video::SRPiE59e8NU[youtube,height=400,width=600]
@@ -1032,7 +1032,7 @@ Duplicate pool: https://github.com/cirosantilli/china-dictatorship/issues?q=labe
 
 [[henri-meyer]]
 .French political cartoon from 1898 by https://en.wikipedia.org/wiki/Henri_Meyer[Henri Meyer] showing leaders of Western powers, Russia and Japan splitting up China between them. The CCP would arguably <<not-chinese,not have raised to power if not due to Japanese interference>>. Maybe the West deserves the CCP they helped create. https://commons.wikimedia.org/wiki/File:China_imperialism_cartoon.jpg[Source].
-image::{china-dictatorship-media-base}/438px-China_imperialism_cartoon.jpg[height=500]
+image::{china-dictatorship-media-base}/China_imperialism_cartoon.jpg[height=500]
 
 [[bias]]
 === Ciro Santilli and this page are completely biased against the Chinese Government!
@@ -1312,7 +1312,7 @@ One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy
 video::zndzntIDLFE[youtube,height=400,width=600]
 
 .Westerner: "How is life in China?" Chinese: "Oh, we can't complain." Westerner: "That's awesome." Chinese: "No, seriously... we can't." is a word play between the more common "we can't complain because everything is great" and "we can't complain because <<xi-jinping,Xi>> will <<censorship,make us disappear>>". https://www.taiwannews.com.tw/en/news/3933168[Source]
-image::{china-dictatorship-media-base}/1589352986-5ebb9a1ad0a98.jpg[height=600]
+image::{china-dictatorship-media-base}/We_cant_complain.jpg[height=600]
 
 [[intolerance]]
 ===== Most Chinese people don't care about the minorities
@@ -1392,10 +1392,12 @@ We have to choose the one we think is the worst, and focus on it.
 
 What is worse is a subjective choice. For <<ciro-santilli>>:
 
-* he <<why-does-ciro-santilli-love-china-so-much,loves China and my Chinese wife>>, see also: <<bias>>, and doesn't want it to get fucked further by the CCP
+* he <<why-does-ciro-santilli-love-china-so-much,loves China and Ciro's Chinese wife>>, see also: <<bias>>, and doesn't want it to get fucked further by the CCP
 * he hates dictatorships, and China is the largest one by population/GDP/link:https://www.ploughshares.org/world-nuclear-stockpile-report[nuclear stockpile], and therefore <<war,the most dangerous>>
 
-My <<keyword-choice,SO username>> and <<better-to-do,protest time>> are not infinite.
+Ciro <<keyword-choice,SO username>> and <<better-to-do,protest time>> are not infinite.
+
+However, it is good that different people have different interests, and someone will surely be fighting for whatever cause you care about.
 
 See also:
 
@@ -1505,7 +1507,7 @@ See also:
 * <<the-united-states-has-recently-started-several-wars-and-killed-millions>>
 
 .https://en.wikipedia.org/wiki/Signe_Wilkinson[Signe Wilkinson] 2017 Free Speech "Can you just move it so it doesn't cover them?" umbrella cartoon. Ciro once saw a <<wumao>> post this. It made him smile. If the cartoon were about <<dictatorship,dictatorships>>, https://en.wikipedia.org/wiki/Uncle_Sam[Uncle Sam] would be instead <<intolerance,decapitating and raping the people on one half of the umbrella>>. Of course humans are <<flg-intolerance,shit in democracies as well>>, but at least that system makes it harder for them to oppress each other. http://www.cartoonistgroup.com/store/add.php?iid=161799[Source].
-image::{china-dictatorship-media-base}/cg599721e743615.jpg[height=400]
+image::{china-dictatorship-media-base}/Free_speech_umbrella.jpg[height=400]
 
 ===== Western democracies have invaded other countries and crushed separatism
 
@@ -1635,7 +1637,7 @@ ____
 Snowden then later released the entire Chinese version of the book for free online with the censored parts underlined: https://www.theregister.co.uk/2020/02/10/snowden_china_censorship (https://web.archive.org/web/20200213001653/https://www.theregister.co.uk/2020/02/10/snowden_china_censorship[archive]), link to the book: link:++https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf++[] (https://web.archive.org/web/20200212144108/https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf[archive]). One wonders why he didn't just do that in the first place for all versions, maybe he needed to pay the writer that helped him?
 
 .Snowden highlighted defects on abuses of power in a Western democracy, and the discussion he sparked helped to control such abuses. https://en.wikipedia.org/wiki/File:Edward_Snowden-2.jpg[Source].
-image::{china-dictatorship-media-base}/Edward_Snowden-2.jpg[height=400]
+image::{china-dictatorship-media-base}/Space_program_Change.jpg[height=400]
 
 ===== Fake news
 
@@ -1725,35 +1727,35 @@ Articles:
 See also: <<communist-youth-league>>.
 
 .Photoshopped <<xi-jinping>> with raised fist with Nazi uniform and flag on the background. https://www.reddit.com/r/HongKong/comments/cuf3p7/chinazi_xitler/[Source].
-image::{china-dictatorship-media-base}/c9q6vdybr7i31.jpg[height=400]
+image::{china-dictatorship-media-base}/Xi_Nazi_war_flag.jpg[height=400]
 
 .Likely original or similar image of <<xi-jinping>> with raised fist as he took oath when coming into or renewing office. http://www.china.org.cn/opinion/2018-03/19/content_50723040.htm[Source].
-image::{china-dictatorship-media-base}/18f2dcae-19f4-459a-be06-016dd13c5a1d.jpg[height=400]
+image::{china-dictatorship-media-base}/Xi_raised_fist.jpg[height=400]
 
 .German's 1938-1945 war flag called the "War Ensign of Germany" in English or "Reichskriegsflagge" in German. https://en.wikipedia.org/wiki/Reichskriegsflagge[Source].
-image::{china-dictatorship-media-base}/320px-War_Ensign_of_Germany_%281938%E2%80%931945%29.svg.png[height=400]
+image::{china-dictatorship-media-base}/Nazi_war_flag.png[height=400]
 
 .Hitler has of course a few raised fists on Google Images, but they tend to be more aggressive, and less compatible with Xi's apathic poker face. https://bodylanguageproject.com/xarticles/wp-content/uploads/2019/07/Hitler-4.jpg[Source].
-image::{china-dictatorship-media-base}/mouth-open.jpg[height=400]
+image::{china-dictatorship-media-base}/Hitler_angry_rehearsal[height=400]
 
 .Photoshopped cover of Mein Kampf with Xi's face on top of Hitler's and other modifications such as Mian instead of Mein, likely the same 面 (mian4, face) as the Chinese character at the bottom right. https://foreignerinformosa.typepad.com/the_foreigner_in_formosa/2017/07/president-xitler-of-china-murders-political-dissident-liu-xiaobo.html[Source].
 image::{china-dictatorship-media-base}/Xi_mein_kampf.jpg[height=400]
 
 .Original cover of Mein Kampf. link:++https://commons.wikimedia.org/wiki/File:Adolf_Hitler_-_Mein_Kampf_(855._Auflage,_1943).pdf++[Source].
-image::{china-dictatorship-media-base}/page1-423px-Adolf_Hitler_-_Mein_Kampf_%28855._Auflage%2C_1943%29.pdf.jpg[height=400]
+image::{china-dictatorship-media-base}/Mein_kampf.jpg[height=400]
 
 .Photoshopped photo of Hitler giving the Nazi salute from a car with Himmler on the background with Xi's face on top of Hitler's. https://chinhdangvu1.blogspot.com/2017/09/xitler-chinazism.html[Source].
-image::{china-dictatorship-media-base}/DGlPeEmXcAAaeQa.jpg[height=400]
+image::{china-dictatorship-media-base}/Xi_Nazi_car_salute_photoshop.jpg[height=400]
 
 .Original photo of Hitler giving the Nazi salute from a car with Himmler on the background. https://www.nationalww2museum.org/war/articles/heinrich-himmler-holocaust[Source].
 image::{china-dictatorship-media-base}/Hitler_Himmler_salute.jpg[height=400]
 
 .Chinazi flag by <<2019-hong-kong-anti-extradition-bill-protests,Hong Kong protesters>>. Seen https://chinadigitaltimes.net/chinese/2019/08/【盛世一景】赤纳粹旗（chinazi-flag）/[on streets]. https://www.reddit.com/r/HongKong/comments/dbrken/google_bomb_china_flag_search_query_into_chinazi/[Source].
-image::{china-dictatorship-media-base}/c0d340rtswp31.png[height=400]
+image::{china-dictatorship-media-base}/Chinazi_flag.png[height=400]
 
 [[xi-salute-young-pioneers-nazi]]
 .Xi Jinping basically <<nazi,Nazi saluting>> kids from <<young-pioneers-of-china>> in Beijing, June 1, 2015. http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[Source] (http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[biased]).
-image::{china-dictatorship-media-base}/XxjwshE007055_20190601_CBMFN1A006_11n.jpg[height=500]
+image::{china-dictatorship-media-base}/Xi_scout_salute.jpg[height=500]
 
 .https://www.youtube.com/watch?v=wD53MEbLDIE <<serpentza-laowhy86,laowhy86>> video "Can We Compare China to Nazi Germany?" published on 2020-04-29. Good side-by-side video comparisons. Says that China is mor like Nazi than <<russia>>, but Ciro disagrees, all three are <<is-chinese-politician-x-evil,evil dictatorships>>.
 video::wD53MEbLDIE[youtube,height=400,width=600]
@@ -1832,16 +1834,16 @@ Also, when opening a shitpost you may mark it clearly such with the shitpost iss
 While we require polite replies to polite posts, no matter what which side they are defending, if a post is marked as a shitpost, things are much more relaxed and fun, and you can generally get away with telling the OP to fuck themselves link:CONTRIBUTING.md[without getting blocked].
 
 .Real shit photos may be posted in reply to shitposts. https://commons.wikimedia.org/wiki/File:Human_Feces_(cropped).jpg[Source].
-image::{china-dictatorship-media-base}/517px-Human_Feces_%28cropped%29.jpg[height=400]
+image::{china-dictatorship-media-base}/Shit.jpg[height=400]
 
 .Amazing shitposts may recieve a Golden Shit award. The image is from a Japanese https://en.wikipedia.org/wiki/Kin_no_unko[Kin no unko (金のうんこ)], which is likely inspired by https://en.wikipedia.org/wiki/Sycee[golden Sycees]. https://en.wikipedia.org/wiki/File:Kin_no_unko.jpg[Source].
-image::{china-dictatorship-media-base}/450px-Kin_no_unko.jpg[height=500]
+image::{china-dictatorship-media-base}/Kin_no_unko.jpg[height=500]
 
 .To censor or not to censor good shitposts: that is not the question, <<ciro-santilli>> will never censor them! https://imgur.com/gallery/rA0K90g[Source].
-image::{china-dictatorship-media-base}/rA0K90g.jpg[height=600]
+image::{china-dictatorship-media-base}/Like_shitposts.jpg[height=600]
 
 .The legendary https://en.wikipedia.org/wiki/Grass_Mud_Horse[Grass Mud Horse 草泥马 (caonima)] is also said to appear in shitposts from time to time.
-image::{china-dictatorship-media-base}/alca.jpg[height=600]
+image::{china-dictatorship-media-base}/Caonima.jpg[height=600]
 
 ===== I am going to write a huge text to prove my point
 
@@ -2049,7 +2051,7 @@ ____
 
 [[yuyuan-garden]]
 .Round gate at https://en.wikipedia.org/wiki/Yu_Garden[Yu Garden 豫园] in Shanghai. link:++https://commons.wikimedia.org/wiki/File:Shanghai_-_YuYuan_Gardens_and_Old_Town_(584867794).jpg++[Source].
-image::{china-dictatorship-media-base}/683px-Shanghai_-_YuYuan_Gardens_and_Old_Town_%28584867794%29.jpg[height=600]
+image::{china-dictatorship-media-base}/Yuyuan_garden_door.jpg[height=600]
 
 [[chinese-traditional-painting]]
 ===== Chinese traditional painting 中国传统绘画
@@ -2062,7 +2064,7 @@ Some free online collections:
 ** https://collections.si.edu/search/results.htm?q=&fq=online_visual_material%3Atrue&fq=online_media_type%3A%22Images%22&fq=culture%3A%22Chinese%22&fq=object_type%3A%22Paintings%22&view=list&date.slider=300s%2C1800s
 
 ."Plum, orchid, bamboo, chrysanthemum" (梅兰竹菊) painting by https://en.wikipedia.org/wiki/Zheng_Xie[Zheng Xie (郑燮)] representing the https://en.wikipedia.org/wiki/Four_Gentlemen[four gentlemen (四君子)]. Ciro is a big fan of https://en.wikipedia.org/wiki/Bird-and-flower_painting[traditional Chinese bird-and-flower painting (花鸟画)] like this. https://www.pinterest.co.uk/pin/315744623848820315/[Source].
-image::{china-dictatorship-media-base}/9c1fa.jpg[height=600]
+image::{china-dictatorship-media-base}/Four_gentlemen.jpg[height=600]
 
 ===== Why does Ciro Santilli love China so much?
 
@@ -2518,16 +2520,16 @@ video::fASh2_RzMuE[youtube,height=400,width=600]
 image::{china-dictatorship-media-base}/Flag_of_the_Republic_of_China.svg[height=400]
 
 .https://en.wikipedia.org/wiki/Presidential_Office_Building[Presidential Office Building of Taiwan] (https://zh.wikipedia.org/wiki/總統府_(臺灣)[總統府_(臺灣) | 总统府 (台湾)]). What is that flag we see on top of the central government building of Taiwan? It appears to have a blue rectangle on the top left! https://en.wikipedia.org/wiki/File:TaipeiROCPresidentialOfficeBuilding.jpg[Source].
-image::{china-dictatorship-media-base}/800px-TaipeiROCPresidentialOfficeBuilding.jpg[height=400]
+image::{china-dictatorship-media-base}/Taiwan_White_House.jpg[height=400]
 
 .It is fun to see that some small random Latin American countries https://en.wikipedia.org/wiki/Paraguay–Taiwan_relations[like Paraguay] recognize only Taiwan and not Mainland China. Brave warriors!!! https://en.wikipedia.org/wiki/File:Two_Chinas.svg[Source].
-image::{china-dictatorship-media-base}/Two_Chinas.jpg[height=400]
+image::{china-dictatorship-media-base}/Countries_that_recognize_Taiwan.jpg[height=400]
 
 .Washington DC TECRO. Instead of "embassies", Taiwan has https://en.wikipedia.org/wiki/Taipei_Economic_and_Cultural_Representative_Office["Taipei Economic and Cultural Representative Offices" (TECROs)] https://zh.wikipedia.org/wiki/臺北經濟文化代表處[(台北经济文化代表处|臺北經濟文化代表處)] The just happen to issue VISAs and passports like embassies, but remember, they are not embassies. No flag you see? This is because idiotic countries don't allow TECROs to have the Taiwan flag. In 2019 Senator Ted Cruz planned on passing a law to allow that though: https://www.taiwannews.com.tw/en/news/3825086[]. https://en.wikipedia.org/wiki/File:Taipei_Economic_and_Cultural_Representative_Office_in_the_United_States_from_VOA_(1).jpg[Source].
 image::{china-dictatorship-media-base}/Taipei_Economic_and_Cultural_Representative_Office_in_the_United_States_from_VOA_%281%29.jpg[height=400]
 
 .2014 cartoon by D Nguyen summarizing the Taiwan China relationship in history. Featuring: fatter and fatter <<mao-zedong>> on first three cartoons to the left, likely <<deng-xiaoping>> to left on the last, and https://en.wikipedia.org/wiki/Chiang_Kai-shek[Chiang Kai-shiek] (https://zh.wikipedia.org/wiki/蔣中正[蔣中正]) to the right. TODO middle figure on last cartoon. TODO find proper attribution source, originally seen at: https://i.redd.it/xb5qr3asfns41.jpg[].
-image::{china-dictatorship-media-base}/xb5qr3asfns41.jpg[height=600]
+image::{china-dictatorship-media-base}/Taiwan_we_are_China_cartoon.jpg[height=600]
 
 [[taiwan-number-one]]
 ===== Taiwan #1 (2915)
@@ -2545,14 +2547,49 @@ See also: <<photobombing-like-attacks>>.
 [[xinjiang]]
 ==== Xinjiang (新疆)
 
-https://en.wikipedia.org/wiki/Xinjiang_re-education_camps
+* https://en.wikipedia.org/wiki/Xinjiang
+* https://zh.wikipedia.org/wiki/新疆维吾尔自治区
 
-In 2017-2018, details of https://en.wikipedia.org/wiki/Uyghurs[Uyghur] internment camps are emerging.
+Events:
 
-The keyword is <<rule-of-law>>: because of a few terrorists, every single Muslim was fucked even if they did not commit any crime.
+* 2014 something very serious happened in Xinjiang.
+** https://www.reddit.com/r/China/comments/4hmhzt/xinjiang_massacre_2014_resulted_in_30005000_deaths/
+* 2010 Xinjiang 10 month Internet blackout
+** https://news.bbc.co.uk/2/hi/asia-pacific/8682145.stm
+* 2009 Ürümqi riots
+** https://en.wikipedia.org/wiki/July_2009_Ürümqi_riots
+** https://zh.wikipedia.org/wiki/乌鲁木齐七五事件
+** 2009 Shaoguan incident
+*** https://en.m.wikipedia.org/wiki/Shaoguan_incident
+*** https://zh.wikipedia.org/wiki/旭日玩具厂群体斗殴事件
+
+Terrorist attacks done by Xinjiang separatists:
+
+* https://en.wikipedia.org/wiki/Terrorism_in_China#Chronology_of_major_events
+
+Notable ones:
+
+* 2014 Kunming attack
+** https://en.wikipedia.org/wiki/2014_Kunming_attack
+** photo of 8 bodies lined up after the attack: https://www.nytimes.com/2014/03/05/world/asia/chinese-officials-seek-to-shift-attention-from-rampage.html
+** Interestingly, https://chinadigitaltimes.net/2014/03/sensitive-words-attack-kunming/ points out that http://www.globaltimes.cn/content/845642.shtml#.UxYZgeddVRG said that:
++
+____
+The public must realize that a handful of extremists are far from qualified to represent tens of millions of local residents in Xinjiang. It is not only an irrational and biased mindset to put the blame on the entire Uyghur community or the Muslim world, but the idea will also abet and aid those separatists and terrorists who are desperate to take advantage of ethnic and religious conflicts.
+____
++
+and yet as of the 2017 Internment camps, all Xinjiang Muslims were fucked. <<rule-of-law>> comes to mind.
 
 .<<rebel-pepper,Rebel Pepper>> 2017-04 cartoon showing that Xinjiang is like a prison inside a greater prison, which is China itself. Chinese characters read: 新疆(Xinjiang) and 中国(China). TODO source.
-image::{china-dictatorship-media-base}/mQFKa.jpg[height=600]
+image::{china-dictatorship-media-base}/Xinjiang_camp_in_camp.jpg[height=600]
+
+[[xinjiang-re-education-camps]]
+===== Xinjiang re-education camps (新疆再教育營, 2017-)
+
+* https://en.wikipedia.org/wiki/Xinjiang_re-education_camps
+* https://zh.wikipedia.org/wiki/新疆再教育營
+
+The keyword is <<rule-of-law>>: because of a few terrorists, every single Muslim was fucked even if they did not commit any crime.
 
 * 2020-08-27 https://www.buzzfeednews.com/article/alison_killing/satellite-images-investigation-xinjiang-detention-camps "Blanked-Out Spots On China's Maps Helped Us Uncover Xinjiang's Camps". Good technique.
 * 2020-06-29 https://apnews.com/269b3de1af34e17c1941a514f78d764c "China cuts Uighur births with IUDs, abortion, sterilization"
@@ -2586,9 +2623,6 @@ video::gGYoeJ5U7cQ[youtube,height=400,width=600]
 image::{china-dictatorship-media-base}/Xinjiang_prisoners_march.jpg[height=400]
 * 2019-07-31 https://www.nytimes.com/2019/07/30/world/asia/china-xinjiang.html "Doubt Greets China's Claim That Muslims Have Been Released From Camps"
 * 2019-07-19 https://www.france24.com/en/20190712-37-countries-defend-china-over-xinjiang-un-letter "37 countries defend China over Xinjiang in UN letter"
-+
-.<<rebel-pepper>> 2019-07 cartoon showing <<xi-jinping>> claiming to have won the global opinion on the Xinjiang re-education camps because all other dictatorships support him, including <<other-islam-countries-speak-up-for-uyghur,Islamic dictatorships>>. https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source].
-image::{china-dictatorship-media-base}/c8c9143a-3a01-4116-9322-6aeb4857100f.jpeg[height=400]
 * 2019-07-04 https://www.bbc.co.uk/news/world-asia-china-48825090 "China Muslims: Xinjiang schools used to separate children from families"
 ** https://www.hrw.org/news/2019/09/15/china-xinjiang-children-separated-families
 * 2019-06-18 https://www.youtube.com/watch?v=WmId2ZP3h0c "Inside China's 'thought transformation' camps - BBC News" China gives BBC "access" to a chosen show camp where everyone claims they are happy and willing to stay. They are however clearly adults being treated like children, taking courses and even having to sing and dance for the camera. https://youtu.be/WmId2ZP3h0c?t=486[486s] is also golden, when the CCP officer Zhang Zhisheng explains how they are <<thoughtcrime,just preventing future crime from happening>>. How can they be so stupid? How can they not see that this is not what the West wants to hear? Amazing dark-comedy like stuff.
@@ -2629,48 +2663,18 @@ It is so prevalent, that it is often shortened to just "Md." and people are just
 * 2017-04 https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html
 +
 .Image of prisoners wearing blue sitting down in Xinjiang concentration camp, with some prisoners identified to indicate that they are not criminals but rather detained purely for political reasons. https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[Source].
-image::{china-dictatorship-media-base}/58e9361a-f0e3-4886-a80a-6c9668ee678f.jpeg[height=400]
-
-Older events:
-
-* 2014 something very serious happened in Xinjiang.
-** https://www.reddit.com/r/China/comments/4hmhzt/xinjiang_massacre_2014_resulted_in_30005000_deaths/
-* 2010 Xinjiang 10 month Internet blackout
-** https://news.bbc.co.uk/2/hi/asia-pacific/8682145.stm
-* 2009 Ürümqi riots
-** https://en.wikipedia.org/wiki/July_2009_Ürümqi_riots
-** https://zh.wikipedia.org/wiki/乌鲁木齐七五事件
-** 2009 Shaoguan incident
-*** https://en.m.wikipedia.org/wiki/Shaoguan_incident
-*** https://zh.wikipedia.org/wiki/旭日玩具厂群体斗殴事件
-
-Terrorist attacks done by Xinjiang separatists:
-
-* https://en.wikipedia.org/wiki/Terrorism_in_China#Chronology_of_major_events
-
-Notable ones:
-
-* 2014 Kunming attack
-** https://en.wikipedia.org/wiki/2014_Kunming_attack
-** photo of 8 bodies lined up after the attack: https://www.nytimes.com/2014/03/05/world/asia/chinese-officials-seek-to-shift-attention-from-rampage.html
-** Interestingly, https://chinadigitaltimes.net/2014/03/sensitive-words-attack-kunming/ points out that http://www.globaltimes.cn/content/845642.shtml#.UxYZgeddVRG said that:
-+
-____
-The public must realize that a handful of extremists are far from qualified to represent tens of millions of local residents in Xinjiang. It is not only an irrational and biased mindset to put the blame on the entire Uyghur community or the Muslim world, but the idea will also abet and aid those separatists and terrorists who are desperate to take advantage of ethnic and religious conflicts.
-____
-+
-and yet as of the 2017 Internment camps, all Xinjiang Muslims were fucked. <<rule-of-law>> comes to mind.
+image::{china-dictatorship-media-base}/Xinjiang_prisoners_sitting_identified.jpeg[height=400]
 
 .Advertisement published by Qingdao Decai Decoration Co. claiming to supply government-sponsored Uyghur workers from Xinjiang to other provinces. Source of translation: https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report]. Original website archive from  16 Jan 2020: http://archive.ph/r7T8r[]. The ad features a caricature of two dancing Uyghurs in traditional clothing. This is evidence of the CCP's mass forced eviction and slavery of Uyghurs.
-image::{china-dictatorship-media-base}/ufs-fig8.jpg[height=500]
+image::{china-dictatorship-media-base}/Uyghur_sale_website.jpg[height=500]
 
 .Uyghur workers at Taekwang Shoe Manufacturing waving the Chinese flag, October 2019. Viewable on the pro-CCP China Ethnic Religion Net (中国民族宗教网) website: http://www.mzb.com.cn/html/report/191130765-1.htm[], and also shown in the https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report].
-image::{china-dictatorship-media-base}/191130764.jpg[height=400]
+image::{china-dictatorship-media-base}/Uyghur_workers_waving_China_flag.jpg[height=400]
 
 .https://www.youtube.com/watch?v=Mx0JFgwATho&t=128 "New footage shows Uyghurs bussed across China for forced labour in factories". At the given timestamp, contains 30 seconds of footage extracted from 3 social media posts showing Uyghurs being sent in busses to work in far way regions.
 video::M_aXcH1zDEE[youtube,height=400,width=600,start=128]
 
-===== Merdan Ghappar's video (2020-08-05)
+====== Merdan Ghappar's video (2020-08-05)
 
 https://www.bbc.co.uk/news/world-asia-china-53650246
 
@@ -2683,7 +2687,7 @@ Text messages and translation: https://medium.com/@millwarj/wear-your-mask-under
 ++++
 
 [[other-islam-countries-speak-up-for-uyghur]]
-===== Why don't many other Islamic countries speak up for the Uyghur persecution?
+====== Why don't many other Islamic countries speak up for the Uyghur persecution?
 
 Because those countries are also dictatprships and completely corrupt to the brim:
 
@@ -2696,10 +2700,14 @@ Related:
 * 2018: vice-president https://en.wikipedia.org/wiki/Jusuf_Kalla[Jusuf Kalla] said "we don't want to intervene in the domestic affairs of another country": https://www.abc.net.au/news/2018-12-23/muslim-governments-stayed-silent-on-chinese-minority-uyghur/10630822
 * https://www.jpost.com/diaspora/uk-muslim-activist-praises-jewish-community-for-speaking-out-for-uyghurs-635626 even the Jews are speaking lowder in some cases
 
+.<<rebel-pepper>> 2019-07 cartoon showing <<xi-jinping>> claiming to have won the global opinion on the Xinjiang re-education camps because all other dictatorships support him, including <<other-islam-countries-speak-up-for-uyghur,Islamic dictatorships>>. https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source].
+image::{china-dictatorship-media-base}/Xinjiang_I_won.jpeg[height=400]
+
 [[inner-mongolia]]
 ==== Inner mongolia (内蒙古)
 
 * 2020-08-31 https://www.rfa.org/english/news/china/language-08242020101614.html "China 'Will End' Mongolian-Language Education Starting This Semester: Reports"
+** 2020-09-04 https://www.smhric.org/news_681.htm "Southern Mongolia turns to police state as full-blown cultural genocide unfolds" contains images of arrest orders and the like
 * 2011 Inner Mongolia unrest
 ** https://en.wikipedia.org/wiki/2011_Inner_Mongolia_unrest
 ** https://zh.wikipedia.org/wiki/2011年内蒙古抗议示威事件
@@ -2826,7 +2834,7 @@ ____
 * 2020-05-24 https://www.theguardian.com/world/2020/may/24/beijing-to-impose-hong-kong-security-laws-without-delay
 
 .Over 100 police officers raid the Apple Daily Hong Kong newspaper soon after the <<hong-kong-national-security-law>> started. https://hongkongfp.com/2020/08/10/scores-of-police-raid-office-of-hong-kong-pro-democracy-newspaper-apple-daily/[Source].
-image::{china-dictatorship-media-base}/EfBoo_nUYAEtqV7.webp[height=600]
+image::{china-dictatorship-media-base}/Apple_Daily_raid.webp[height=600]
 
 ===== 2019 Hong Kong anti-extradition bill protests
 
@@ -2850,7 +2858,7 @@ NBA is huge in China.
 * 2019-10-07 Lakers vs. Heat NBA Tencent Live Stream cancelled due to fan wearing the <<taiwan,Taiwanese>> flag
 +
 .Fan wearing Taiwan flag in 2019-10-07 Lakers vs. Heat showing fan and text (TODO from Tencent?) saying that the match will be cancelled. https://www.reddit.com/r/China/comments/dtrx4b/tencent_nba_live_broadcast_got_cancelled_because[Source].
-image::{china-dictatorship-media-base}/y8y7esngllx31.jpg[height=600]
+image::{china-dictatorship-media-base}/NBA_Taiwan_flag.jpg[height=600]
 ** https://www.bbc.co.uk/news/business-49956385
 ** https://edition.cnn.com/2019/10/07/business/houston-rockets-nba-china-daryl-morey/index.html
 
@@ -2871,7 +2879,7 @@ Désobéir c'est servir.
 ____
 
 ."Obéir c'est trahir. Désobéir c'est servir." flyer featuring the https://en.wikipedia.org/wiki/Cross_of_Lorraine[cross of Lorraine] https://www.larousse.fr/encyclopedie/images/Obéir_cest_trahir_Désobéir_cest_servir/1314227[Source].
-image::{china-dictatorship-media-base}/1314227-Obéir_cest_trahir_Désobéir_cest_servir.jpg[height=400]
+image::{china-dictatorship-media-base}/To_obey_is_to_betray.jpg[height=400]
 
 ==== Photobombing-like attacks
 
@@ -3054,7 +3062,7 @@ News:
 ** https://docs.google.com/document/d/12DM3ccTe70yzqCDPu9uXlCD7WmfJq-yzvKdKBH0oppc/edit
 
 .2020-03-27 photo showing https://en.wikipedia.org/wiki/Boris_Johnson[UK Prime Minister Boris Johnson] using Zoom on a Cabinet meeting (a high level Government meeting) during <<corona>>. If you don't properly ban risky dictatorship-linked software, it will get used at the highest levels of Government by clueless people. https://news.sky.com/story/coronairus-cabinet-talks-held-on-zoom-days-after-software-was-banned-by-ministry-of-defence-11963889[Source].
-image::{china-dictatorship-media-base}/skynews-zoom-cabinet-coronavirus_4955732.jpg[height=400]
+image::{china-dictatorship-media-base}/Zoom_Boris.jpg[height=400]
 
 [[huawei]]
 ====== Huawei 华为
@@ -3100,19 +3108,19 @@ Some news:
 * 2019-11 https://www.forbes.com/sites/zakdoffman/2019/11/29/has-huaweis-darkest-secret-just-been-exposed-by-this-new-report/#7896db9d4061 "Has Huawei's Darkest Secret Just Been Exposed By This New Surveillance Report?" Xinjiang Papers reveal the extent of Huawei's involvement in <<xinjiang>>
 
 ."When you send a good joke from your Huawei phone", <<xi-jinping>> is also listening and laughing with you, girls. https://i.redd.it/nodgcqmwtcg31.jpg[Source].
-image::{china-dictatorship-media-base}/nodgcqmwtcg31.jpg[height=600]
+image::{china-dictatorship-media-base}/When_you_send_a_good_joke_from_your_Huawei_phone.jpg[height=600]
 
 .<<rebel-pepper>> 2018-12-10 "Why does the whole world hate me" Huawei cartoon, where Huawei's shadow shows the https://en.wikipedia.org/wiki/Hammer_and_sickle[hammer and sickle] to suggest that Huawei is controlled by the CCP. https://www.rfa.org/english/cartoons/Huawei-cartoon-12102018152050.html[Source].
-image::{china-dictatorship-media-base}/7cbd8e6e-aede-4c53-98be-3c9a8d40e293.jpeg[height=400]
+image::{china-dictatorship-media-base}/Huawei_why_does_the_whole_world_hate_me.jpeg[height=400]
 
 .<<rebel-pepper>> 2019-03-08 showing Huawei slapping the Statue of Liberty with "The Constitution of the United States" when Huawei sued the US Government for violating the Constitution when it banned government agencies from buying Huawei equipment. This illustrates the usual dilemma where <<what-should-western-countries-do-about-china,China uses Western freedom of speech as a weapon against the West itself>>. https://www.rfa.org/english/cartoons/chinashuawei-03082019162541.html[Source].
-image::{china-dictatorship-media-base}/90bf4dbb-1019-40a5-b58a-865672f6c808.jpeg[height=400]
+image::{china-dictatorship-media-base}/Huawei_Statue_of_Liberty.jpeg[height=400]
 
 .Cartoon showing a huge China flag branded USB sucking up Western personal and military information like a vacuum cleaner in 2019-04-29 article entitled "Britain will regret doing business with Huawei". TODO cartoon author. https://retro-blogs.spectator.co.uk/2019/04/britain-will-regret-doing-business-with-huawei/[Source].
-image::{china-dictatorship-media-base}/6507703-1.jpg[height=400]
+image::{china-dictatorship-media-base}/China_USB_theft.jpg[height=400]
 
-.Cartoon suggesting that Huawei is a like a https://en.wikipedia.org/wiki/Trojan_Horse[Trojan Horse] being gifted to Europe. TODO: source of original non-China generic Trojan Horse background image that was edited and repurposed. https://twitter.com/DaichiWatanbe/status/1231189285325475840[Source].
-image::{china-dictatorship-media-base}/ERYQHj_XYAEQsfN.jpg[height=400]
+.Cartoon suggesting that Huawei's 5G is a like a https://en.wikipedia.org/wiki/Trojan_Horse[Trojan Horse] being gifted to Europe. TODO: source of original non-China generic Trojan Horse background image that was edited and repurposed. https://twitter.com/DaichiWatanbe/status/1231189285325475840[Source].
+image::{china-dictatorship-media-base}/Huawei_5G_Trojan.jpg[height=400]
 
 .<<rebel-pepper>> 2019-06-22 cartoon depicting Germany, Hungary and the United Kingdom as https://en.wikipedia.org/wiki/Gollum[Gollum]s from https://en.wikipedia.org/wiki/The_Lord_of_the_Rings[The Lord of The Rings] and China as https://en.wikipedia.org/wiki/Sauron[Sauron] offering a ring which reads "5G to rule them" and "Huawei" to the Gollums who are eager to obtain it. This is a reference to The Lord of the Rings backstory in which Sauron bribed and controlled the rulers of the world by giving them https://en.wikipedia.org/wiki/Rings_of_Power[rings of power]. Now that Ciro thinks about it, maybe this was actually Tolkien making a reference to the political situation of his time. https://twitter.com/RadioFreeAsia/status/1100504518142365698[Source].
 image::{china-dictatorship-media-base}/Huawei_5G_my_precious.jpg[height=400]
@@ -3213,7 +3221,7 @@ Some hell known companies and events:
 ** 2019-04-12 https://www.theverge.com/2019/4/12/18305087/congress-apple-criticism-china-communist-tiananmen-pro-democracy "Lawmakers lash out at Apple for censoring a song about <<tiananmen,Tiananmen Square protests>>"
 +
 .Chinese flag with Apple characteristics. https://techcrunch.com/2015/08/11/apple-shares-tumble-5-amidst-china-concerns/[Source].
-image::{china-dictatorship-media-base}/apple-china.png[height=400]
+image::{china-dictatorship-media-base}/Apple_China_flag.png[height=400]
 * JPMorgan
 ** 2016-11 "Sons and Daughters" corruption hiring program for chidren of government officials: https://www.forbes.com/sites/antoinegara/2016/11/17/jpmorgan-agrees-to-pay-264-million-fine-for-sons-and-daughters-hiring-program-in-china/#46746e305688
 
@@ -3224,7 +3232,7 @@ image::{china-dictatorship-media-base}/Brand_censorship_chart.jpg[height=600]
 image::{china-dictatorship-media-base}/Xi_bat.jpg[height=400]
 
 .<<rebel-pepper>> 2017-07 showing <<xi-jinping>> eating an Apple Inc. logo referring to the many events where Apple gave in to Chinese demands to have access to the Chinese market. https://www.rfa.org/english/cartoons/China-Apple-cartoon-08242017103540.html[Source].
-image::{china-dictatorship-media-base}/170731Apple-700.jpg[height=400]
+image::{china-dictatorship-media-base}/Xi_Apple.jpg[height=400]
 
 .https://www.youtube.com/watch?v=V4WBsahU3X4 https://en.wikipedia.org/wiki/Stephen_Colbert[Stephen Colbert] comments in 2015 on how American films make a good image of China to be allowed in China by censors to increase sales.
 video::V4WBsahU3X4[youtube,height=400,width=600]
@@ -3384,7 +3392,7 @@ More <<wumao,wumao>> focused strategies at: <<how-to-deal-with-wumaos>>.
 image::{china-dictatorship-media-base}/Play_qin_to_cow.png[height=600]
 
 .XKCD 386 "Duty Calls" and the famous "Someone is wrong on the Internet" quote. It is a waste of time to be like that. https://xkcd.com/386/[Source].
-image::{china-dictatorship-media-base}/duty_calls.png[height=400]
+image::{china-dictatorship-media-base}/Someone_is_wrong_on_the_Internet.png[height=400]
 
 === Who is behind this amazing FAQ?
 
@@ -3394,7 +3402,7 @@ image::{china-dictatorship-media-base}/duty_calls.png[height=400]
 Original creator of https://github.com/cirosantilli/china-dictatorship[]: https://cirosantilli.com/
 
 .Ciro testing his webcam for https://askubuntu.com/questions/348838/how-to-check-available-webcams-from-the-command-line/848390#848390[an Ask Ubuntu answer].
-image::{china-dictatorship-media-base}/21BFR.png[height=400]
+image::{china-dictatorship-media-base}/Ciro_Santilli.png[height=400]
 
 [[wife]]
 ===== Ciro Santilli's wife 三西猴的老婆
@@ -3675,7 +3683,7 @@ Ciro's petition to free them: https://github.com/cirosantilli/chen-mei-cai-wei-z
 TODO what are their GitHub accounts? Contributions appear to be anonymized behind: https://github.com/TerminusBot That appears to be just a shared account though, not an actual bot. So how did the police find their true identities? https://github.com/Terminus2049/Terminus2049.github.io/issues/598
 
 .Side-by-side photos of Chen Mei (陈玫) and Cai Wei (蔡伟). https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html[Source].
-image::{china-dictatorship-media-base}/6a3e66d5-bf3d-41c1-9add-21dd48ac0b87.png[height=400]
+image::{china-dictatorship-media-base}/Chenmei_Caowei.png[height=400]
 
 ====== chinatimeline
 
@@ -4118,7 +4126,7 @@ As mentioned at https://en.wikipedia.org/wiki/Christianity_in_China there are on
 https://en.wikipedia.org/wiki/China–Holy_See_relations#September_2018_Holy_See–China_Agreement
 +
 .<<rebel-pepper>> 2018-09 cartoon showing the Pope with a Christian cross containing the Hammer and Sickle communist symbol, in reference to one of the accords that the Vatican struck with the Chinese government. https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html[Source].
-image::{china-dictatorship-media-base}/190bb54e-d6be-4c98-9599-b4a88aa6b959.jpeg[height=400]
+image::{china-dictatorship-media-base}/Pope_CCP_deal.jpeg[height=400]
 * 2018-01 Chinese authorities demolish Christian mega-church "Golden Lampstand" sparking fears of religious persecution
 ** https://www.businessinsider.com/chinese-authorities-demolish-christian-mega-church-in-crackdown-2018-1
 +
@@ -4128,10 +4136,10 @@ image::{china-dictatorship-media-base}/Church_demolition.jpg[height=400]
 * 2015 https://www.washingtonpost.com/world/asia_pacific/christians-in-china-feel-full-force-of-authorities-repression/2015/12/23/7dd0ec5a-a736-11e5-b596-113f59ee069a_story.html
 
 .<<rebel-pepper>> 2018-09 cartoon showing Jesus and the Apostles in the Last Supper being arrested by CCP guards. https://www.rfa.org/english/cartoons/china-crackddown-Christianity-cartoon-09072018150421.html[Source].
-image::{china-dictatorship-media-base}/ac0553ed-a46d-43f6-98d8-288ce76901af.jpeg[height=400]
+image::{china-dictatorship-media-base}/Last_Supper_arrest.jpeg[height=400]
 
 .https://en.wikipedia.org/wiki/Zhang_Hongtu[Zhang Hongtu] cartoon showing <<mao-zedong,Mao Zedong>> and other communist officials at the Last Supper instead of Jesus and the Apostles. https://musicandculture.blogspot.com/2010/03/massive-last-supper-parodies-post.html[Source].
-image::{china-dictatorship-media-base}/meal.jpg[height=400]
+image::{china-dictatorship-media-base}/Last_Supper_Mao.jpg[height=400]
 
 [[life-of-brian-nazi-jew]]
 .https://youtu.be/wthHB3iTC7M?t=556 Nazi Jew deleted scene from <<life-of-brian-1979>>. If you want to stop <<christianity>>, don't put them in jail like the <<dictatorship,dictators>>. Do it the same way you stop dictators: with <<funny,comedy>>. Otherwise, the dictators remain in power, and <<intolerance,next person in jail, will be you>>. <<the-secret-life-of-brian-2007>> is a good documentary about it.
@@ -4170,7 +4178,7 @@ Organisers are 'taking a break from scheduling any future events', they say in s
 * 2016-03-04 https://www.theguardian.com/tv-and-radio/2016/mar/04/china-bans-gay-people-television-clampdown-xi-jinping-censorship "China bans depictions of gay people on television". One of the most prominent series banned was link:++https://en.wikipedia.org/wiki/Addicted_(web_series)++[Addicted (2016, 上瘾)].
 +
 .Widely distributed still from the Addicted 2016 series which was banned showing a presumably gay couple lying in bed. https://www.theguardian.com/tv-and-radio/2016/mar/04/china-bans-gay-people-television-clampdown-xi-jinping-censorship[Source].
-image::{china-dictatorship-media-base}/1809.jpg[height=400]
+image::{china-dictatorship-media-base}/Addicted_bed.jpg[height=400]
 
 See also:
 
@@ -4180,11 +4188,11 @@ See also:
 * https://www.zhihu.com/question/370080866/answer/1046195468 at <<zhihu>>
 
 .Lesbian couple kissing in <<tiananmen,Tiananmen Square>> with Mao's painting and confused/disgusted guards in the background who are likely about to call their superiors to ask what they should do. The photo likely surfaced in 2006 https://web.archive.org/web/20200301224434/https://www.salon.com/2006/01/17/lesbians_china/[as mentioned] in link:++https://en.wikipedia.org/wiki/Salon_(website)++[salon.com] which said it came form https://en.wikipedia.org/wiki/Boing_Boing[Boing Boing]. It was not however picked up by any major website. Ciro actually thought this could have been ripped from some television series due to the amazing expression on the guards' faces. TODO: find the original Chinese source, translate the watermarks, and see if their identity is known. https://web.archive.org/web/20200301223317/http://www.chinatoday.com/entertain/tiananmen_kiss.htm[Source].
-image::{china-dictatorship-media-base}/tiananmen.kiss_1.jpg[height=500]
+image::{china-dictatorship-media-base}/Tianmen_lesbian_kiss.jpg[height=500]
 
 [[qing-gay-scroll]]
 .<<throne,Qing dynasty>> (18th–19th c.) panel from a scroll showing two men engaging in foreplay, apparently located in the https://en.wikipedia.org/wiki/Kinsey_Institute[Kinsey Institute] as of 2005. For an ancient depiction of heterosexual sexual activity, see <<jin-ping-mei,this image>>. https://en.wikipedia.org/wiki/File:Love_play_in_China.jpg[Source].
-image::{china-dictatorship-media-base}/Love_play_in_China.jpg[height=400]
+image::{china-dictatorship-media-base}/Qing_Dinasty_gay_foreplay.jpg[height=400]
 
 [[russia]]
 == Russia 俄罗斯
@@ -4320,7 +4328,7 @@ News:
 [[superputin]]
 ==== Superputin
 
-Meme partially supported by Putin himself, showing how physically strong and <<gay-putin,manly>> the president is.
+Meme partially supported by Putin himself, showing how physically strong and <<gay-putin,manly>> the president is. A form of <<ccp-cult,personality cult>>.
 
 Similar to https://en.wikipedia.org/wiki/Chuck_Norris_facts[Chuck Norris facts].
 
@@ -4330,22 +4338,25 @@ Similar to https://en.wikipedia.org/wiki/Chuck_Norris_facts[Chuck Norris facts].
 * https://www.cbsnews.com/pictures/vladimir-putin-doing-manly-things/
 
 .Putin swims Butterfly stroke in a Siberian lake around August 2009. The Telegraph https://web.archive.org/web/20200412090316/https://www.telegraph.co.uk/news/worldnews/europe/russia/6175324/Vladimir-Putin-gives-strong-signal-he-may-be-president-again.html[correctly interpreted this as a sign that he would be re-elected in 2012]. For reference https://en.wikipedia.org/wiki/Lake_Baikal[Lake Baikal in Siberia has a maximum temperature of 14 °C in summer]. Other dictators have used similar swim tactics before, the most notable possibly being <<mao-swim>>. https://web.archive.org/web/20200412090316/https://www.telegraph.co.uk/news/worldnews/europe/russia/6175324/Vladimir-Putin-gives-strong-signal-he-may-be-president-again.html[Source].
-image::{china-dictatorship-media-base}/Vladimir-Putin_1472816c.jpg[height=400]
+image::{china-dictatorship-media-base}/Putin_swim.jpg[height=400]
 
 .Putin riding a horse shirtless https://nypost.com/2014/08/29/putin-its-best-not-to-mess-with-us/[near Lake Seliger in August 2009]. https://www.huffpost.com/entry/worl-photo-caption-contest-shirtless-putin_n_3263512[Source].
 image::{china-dictatorship-media-base}/Putin_horse.jpg[height=500]
 
 .Putin riding a bear. https://www.pinterest.fr/pin/469429961142687422/[Source].
-image::{china-dictatorship-media-base}/076805e00f6ad771818d36ccef62cfd3.jpg[height=400]
+image::{china-dictatorship-media-base}/Putin_bear.jpg[height=400]
 
 .Putin riding a shark. https://sharkdivers.blogspot.com/2011/05/russian-pm-putin-rides-great-white.html[Source].
-image::{china-dictatorship-media-base}/tumblr_kuxr34jtOb1qzeu38o1_400.png[height=400]
+image::{china-dictatorship-media-base}/Xi_sadomasochist.png[height=400]
 
 .Putin riding a giant eagle. https://www.quora.com/Is-this-picture-of-Vladimir-Putin-riding-a-bear-fake-or-real[Source].
-image::{china-dictatorship-media-base}/main-qimg-71e8b8cddfce751d8e0a8ed45b316731.webp[height=400]
+image::{china-dictatorship-media-base}/Putin_eagle.webp[height=400]
 
 .Putin riding a meteor. https://www.quora.com/Is-this-picture-of-Vladimir-Putin-riding-a-bear-fake-or-real[Source].
-image::{china-dictatorship-media-base}/main-qimg-ae21d615c5a8738a7321478bc1b686c5.webp[height=400]
+image::{china-dictatorship-media-base}/Putin_meteor.webp[height=400]
+
+.Putin riding a dinosaur in a Sci-Fi planet. https://9gag.com/gag/a5K5jLG[Source].
+image::{china-dictatorship-media-base}/Putin_dinosaur.webp[height=400]
 
 [[gay-putin]]
 ==== Gay Putin (2017)
@@ -4362,10 +4373,11 @@ Coverage:
 * 2013 https://en.wikipedia.org/wiki/Russian_gay_propaganda_law Russian gay propaganda law (2013) forbids the favorable depiction of homosexuality to minors
 
 .The possibly Gay Putin clown image banned in 2017. https://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay[Source].
-image::{china-dictatorship-media-base}/0a2ae706-1a94-11e7-b4ed-ac719e54b474_1280x720_145124.jpg[height=400]
+image::{china-dictatorship-media-base}/Gay_Putin.jpg[height=400]
 
+[[putin-trump-kiss]]
 .Possibly Gay Putin kissing possibly Gay <<flg-trump,Trump>> mural entitled https://en.wikipedia.org/wiki/Make_Everything_Great_Again[Make Everything Great Again] painted in Lithuania in 2016 by by artists Dominykas Čečkauskas and Mindaugas Bonanu. It references the https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections[Russian interference in the 2016 United States elections]. It was https://www.theguardian.com/world/2016/aug/12/vandals-censor-image-of-putin-snogging-trump-lithuania[later vandalized]. Now we just need a Putin <<xi-jinping>> kiss. Trump Xi kiss https://www.dw.com/en/sierens-china-survival-of-the-fittest/a-49498499[can be found here]. https://www.euractiv.com/section/global-europe/opinion/putin-will-pay-a-high-price-for-trumps-friendship/[Source].
-image::{china-dictatorship-media-base}/Putin-Trump-kiss-800x450.jpg[height=400]
+image::{china-dictatorship-media-base}/Putin_Trump_kiss.jpg[height=400]
 
 [[skripal]]
 ==== The poisoning of Sergei and Yulia Skripal Серге́й Ви́кторович Скрипáль (2018-03-04)
@@ -4380,10 +4392,10 @@ In 4 March 2018, the Russian double agent and his daughter were poisoned with ht
 On 30 June 2018, the man of an unlucky drug addict couple found the counterfeit expensive looking https://en.wikipedia.org/wiki/Nina_Ricci_(brand)[Nina Ricci] Premier Jour perfume bottle containing the poison, and gave it to the woman who died. How unlucky can you fucking be, as if heavy drug addiction weren't enough, you still have to deal with fucking Russian Novichok!
 
 .The assassination suspects Alexander Mishkin (Алекса́ндр Евге́ньевич Ми́шкин, alias Alexander Petrov) and Anatoliy Chepiga (Анатолий Владимирович Чепига, alias Ruslan Boshirov) in a CCTV still at Salisbury Station on 3rd March 2018 the day before the assassination. Both GRU and Alexander being a doctor, which is consistent with a poisoning assassination attempt. They later explained on an RT interview that they were visiting the https://en.wikipedia.org/wiki/Salisbury_Cathedral[world renowned Salisbury Cathedral] in their 3 day trip to the UK, and that they <<gay-putin,were not gay>>. Some Western sources interpreted this as an intentional suggestion that they are gay, which for many Russians would imply that they cannot be FSB agents. https://www.theguardian.com/uk-news/2018/sep/05/planes-trains-and-fake-names-the-trail-left-by-skripal-suspects[Source].
-image::{china-dictatorship-media-base}/1114.jpg[height=400]
+image::{china-dictatorship-media-base}/Skripal_assassins_station.jpg[height=400]
 
 .Counterfeit Nina Ricci Premier Jour packet that contained the Novichok. https://www.npr.org/2018/09/05/644782096/u-k-charges-2-russians-suspected-of-poison-attack-on-skripals[Source].
-image::{china-dictatorship-media-base}/skripal-perfume_wide-8e5147ab76a27976e4bde6adffce910f4f297d25-s1100-c15.jpg[height=400]
+image::{china-dictatorship-media-base}/Skripal_perfume.jpg[height=400]
 
 .https://www.youtube.com/watch?v=Ku8OQNyI2i0 "Full Skripal case interview with the UK's suspects (EXCLUSIVE)" by RT with Alexander Petrov and Ruslan Boshirov. Not gay moment at: https://youtu.be/Ku8OQNyI2i0?t=461[461s].
 video::Ku8OQNyI2i0[youtube,height=400,width=600]
@@ -4426,7 +4438,7 @@ Poisoned with polonium-210, for more poisonings see: <<putin-sponsored-poisoning
 His 2002 book https://en.wikipedia.org/wiki/Blowing_Up_Russia[Blowing up Russia: Terror from Within] (https://ru.wikipedia.org/wiki/ФСБ_взрывает_Россию[ФСБ взрывает Россию: Федеральная служба безопасности — организатор террористических актов, похищений и убийств]) accuses the FSB of setting up false flag bombing operations, and figures on the <<federal-list-of-extremist-materials>>.
 
 .Litvinenko in his death bed.
-image::{china-dictatorship-media-base}/Former-Russian-Agent-Pois-006.webp[height=400]
+image::{china-dictatorship-media-base}/Litvinenko_hospital_bed.webp[height=400]
 
 [[russia-mandatory-registration-of-bloggers]]
 ==== Mandatory registration of bloggers (2014)
@@ -4491,7 +4503,7 @@ President Donald Trump has refused to condemn Russia over the poisoning of oppos
 He said the case was "tragic" but urged reporters to focus instead on China, which he said was a bigger threat to the world than Russia.
 ____
 +
-Even after Germany and NATO said it was Novichok for sure... He must be sucking <<putin>>'s cock to have more nukes pointed against China, or maybe with some cyberhacking for the reelection campaign. Perhaps not a bad strategy, but does completely disregard human rights. Do <<violence,the ends justify the means>>?
+Even after Germany and NATO said it was Novichok for sure... He must be <<putin-trump-kiss,sucking Putin's cock>> to have more nukes pointed against China, or maybe with some cyberhacking for the reelection campaign. Perhaps not a bad strategy, but does completely disregard human rights. Do <<violence,the ends justify the means>>?
 +
 https://www.bbc.co.uk/news/world-us-canada-54097162 Pompeo then condemned.
 +
@@ -4510,6 +4522,9 @@ Poison effects consistent with https://en.wikipedia.org/wiki/Cholinesterase_inhi
 
 https://uk.reuters.com/article/uk-russia-politics-navalny-probe/russian-prosecutors-say-no-need-for-criminal-investigation-in-navalny-affair-idUKKBN25N14A
 
+.Photo published on <<alexei-navalny,Navalny>>'s Twitter on 2020-09-15 of him sitting awake in a hospital bed in Germany with his family. https://www.bbc.co.uk/news/world-europe-54163389[Source].
+image::{china-dictatorship-media-base}/Navalny_hospital_sitting.jpg[height=400]
+
 [[khabarovsk-krai-protests-2020]]
 ==== 2020 Khabarovsk Krai protests (Протесты в Хабаровском крае)
 
@@ -4523,19 +4538,19 @@ In support to https://en.wikipedia.org/wiki/Sergei_Furgal[Sergei Furgal] (https:
 https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union
 
 .Before/after comparison of picture of Stalin with Nikolai Yezhov at the Moscow Canal. Nikolai was edited out form the second picture. (Credit: Fine Art Images/Heritage Images/Getty Images & AFP/GettyImages) https://www.history.com/news/josef-stalin-great-purge-photo-retouching[Source].
-image::{china-dictatorship-media-base}/image-placeholder-title.webp[height=400]
+image::{china-dictatorship-media-base}/Nikolai_Yezhov_Stalin_canal_edit.webp[height=400]
 
 .A meeting of the St. Petersburg chapter of the Union of Struggle for the Liberation of the Working Class in February 1897, including Lenin and Alexander Malchenko. https://en.wikipedia.org/wiki/File:Union-de-Lucha.jpg[Source].
-image::{china-dictatorship-media-base}/640px-Union-de-Lucha.jpg[height=500]
+image::{china-dictatorship-media-base}/Malchenko.jpg[height=500]
 
 .Same as above, but with Alexander Malchenko edited out. link:++https://en.wikipedia.org/wiki/File:St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg++[Source].
-image::{china-dictatorship-media-base}/St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg[height=500]
+image::{china-dictatorship-media-base}/No_Malchenko.jpg[height=500]
 
 [[stalin]]
 === Stalin 斯大林 (1922-1952)
 
 .https://en.wikipedia.org/wiki/Light_Yagami[Light Yagami] from https://en.wikipedia.org/wiki/Death_Note[Death Note]: "I can kill anyone by simply writing his name here". Stalin: "Bitch please". https://ifunny.co/picture/1-can-kill-anyone-by-simply-writing-his-name-here-TjXCcyuM2[Source].
-image::{china-dictatorship-media-base}/55cb6c5de9cde6ebe7e9d1704c7f83e6d344e8154b44299fec9b9a029aa82c34_1.jpg[height=500]
+image::{china-dictatorship-media-base}/Stalin_bitch_please.jpg[height=500]
 
 .https://www.youtube.com/watch?v=ZT2z0nrsQ8o "Rasputin vs Stalin." Epic Rap Battles of History YouTube video. This is fire. https://epicrapbattlesofhistory.fandom.com/wiki/Rasputin_vs_Stalin/Rap_Meanings[Explanations].
 video::ZT2z0nrsQ8o[youtube,height=400,width=600]
@@ -4604,12 +4619,13 @@ image::{cirosantilli-media-base}/Side_by_side_comparison_between_Thai_king_Vajir
 image::{china-dictatorship-media-base}/new-thai-king-6-0.jpg[height=400]
 
 .Suthida Tidjai, Vajiralongkorn's wife, prostrated before him during their marriage in 2016 before he officially ascended to the throne. Yes, prostation is a big thing in Thailand. An older king, Rama V, had apparently even https://en.wikipedia.org/wiki/Chulalongkorn#Abolition_of_prostration[abolished this practice in 1873]. Clearly, <<xi-jinping>> could learn a thing or two from a proper monarch like Vajiralongkorn. https://web.archive.org/web/20190723095722/https://www.theguardian.com/world/2019/may/03/thailand-coronation-king-maha-vajiralongkorn-rama-x[Source].
-image::{china-dictatorship-media-base}/new-thai-king-6-0.jpg[height=400]
+image::{china-dictatorship-media-base}/Thai_king_prostrated_officers.jpg[height=400]
 
 [[falun-gong]]
-== Falun Gong 法輪大法
+== Falun Gong (法轮功)
 
 * https://en.wikipedia.org/wiki/Falun_Gong
+* https://zh.wikipedia.org/wiki/法轮功
 * https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong
 * https://en.wikipedia.org/wiki/610_Office
 
@@ -4620,7 +4636,7 @@ With the support of the Communist Party to Qigong movements, it reached 70 milli
 Li fled to the USA and lives near New York, where he continues to run the religion as of 2020.
 
 .Falun Gong believer arrested by police in Beijing <<tiananmen,Tiananmen Square>> in 15 August 2001. https://en.wikipedia.org/wiki/File:TAM_Arrest4.jpg[Source].
-image::{china-dictatorship-media-base}/TAM_Arrest4.jpg[height=600]
+image::{china-dictatorship-media-base}/Falun_Gong_lady_silenced.jpg[height=600]
 
 [[zone-theory]]
 .https://www.youtube.com/watch?v=ClvX7ED8UUI Tim and Eric's Zone Theory. If you want to stop <<falun-gong>>, don't put them in jail like the <<dictatorship,dictators>>. Do it the same way you stop dictators: with <<funny,comedy>>. Otherwise, the dictators remain in power, and <<intolerance,next person in jail, will be you>>.
@@ -4653,13 +4669,13 @@ Let's try to gather some well sourced footage showing huge numbers of believers 
 ** https://www.youtube.com/watch?v=DDRUp50XkSs Chinese with English subs, above is rehashed from this one most likely
 
 .Thousands of Falun Gong practitioners in Guangzhou, China, 1998. https://www.theepochtimes.com/finding-the-balance-between-ancient-and-modern_2248694.html[Source].
-image::{china-dictatorship-media-base}/GuangzhouPractice_big-700x420.jpg[height=600]
+image::{china-dictatorship-media-base}/Falun_Gong_Ghuangzhou.jpg[height=600]
 
 .Thousands of Falun Gong practitioners in Liaoning Industrial Exhibition, China, likely 1998. https://en.minghui.org/html/articles/2016/5/21/157091.html[Source].
-image::{china-dictatorship-media-base}/1a1744bca5595d8dc0c0aa3ca1280f04.jpg[height=600]
+image::{china-dictatorship-media-base}/Falun_Gong_Liaoning.jpg[height=600]
 
 .Hundreds of Falun Gong believers in Chengdu, China, 1998. https://faluninfo.net/falun-gong-the-practice/[Source].
-image::{china-dictatorship-media-base}/chengdu.jpg[height=500]
+image::{china-dictatorship-media-base}/Falun_Gong_Chengdu.jpg[height=500]
 
 [[does-ciro-santilli-believe-in-or-practice-falun-gong]]
 === Does Ciro Santilli believe in or practice Falun Gong? 三西猴相信法轮功吗？
@@ -5076,7 +5092,7 @@ CCP <<ccp-cult,cult leaders>> such as <<xi-jinping>> and <<mao-zedong>> have als
 * Mao's: <<little-red-book>>
 
 .Front and back cover of <<flg-canon,Zhuan Falun>>, first edition (1994). It is said amongst believers that <<flg-verifiable,the Lotus flower on the back of these books have magically opened progressively as time passed>>. http://qingqing.freebbs.tw/viewthread.php?tid=165###[Source].
-image::{china-dictatorship-media-base}/PNCJExp.jpg[height=400]
+image::{china-dictatorship-media-base}/Zhuan_Falun.jpg[height=400]
 
 === Does Ciro Santilli support FLG, or just use it because it is censored?
 
@@ -5224,7 +5240,7 @@ The closest claims to observable Ciro has heard are:
 +
 [[flg-fungi]]
 .Image of the magic good small plants that grew on a believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese. https://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
-image::{china-dictatorship-media-base}/e9c2b07e224d28984998a094deb53f85.jpg[height=400]
+image::{china-dictatorship-media-base}/Falun_Gong_magic_fungi.jpg[height=400]
 * the <<flg-canon,sacred books>> of some believers had a closed lotus flower when they were bought, and after several years, the flower opened
 
 but Ciro suspects they are not even <<flg-canon,canon>>, just believer oral culture.
@@ -5751,24 +5767,24 @@ Li Hongzhi footage:
 * 1999-06-12 AP https://www.youtube.com/watch?v=r_onSZlvWSQ USA: "CHINA: FALUN DAFA CULT POSES NO THREAT CLAIMS FOUNDER" Li Hongzhi talks to media in New York
 
 .<<li-hongzhi>> is Falun Gong's prophet/cult leader/living God. He's a cute North-Westerner 东北人 like <<wife,Ciro's wife>>. https://en.wikipedia.org/wiki/Li_Hongzhi[Source].
-image::{china-dictatorship-media-base}/Li_Hongzhi_1.jpg[height=400]
+image::{china-dictatorship-media-base}/Li_Hongzhi.jpg[height=400]
 
 .<<li-hongzhi>> practicing one of his exercises with one of his cute prophet outfits in an extremely nice Chinese <<does-ciro-santilli-hate-china,stone garden>>. TODO exact location and date. https://commons.wikimedia.org/wiki/File:Li_Hongzhi_Falun_Gong.jpg[Source].
-image::{china-dictatorship-media-base}/Li_Hongzhi_Falun_Gong.jpg[height=600]
+image::{china-dictatorship-media-base}/Li_Hongzhi_stone_garden.jpg[height=600]
 
 [[li-hongzhi-blue-halo]]
 .<<li-hongzhi,Li>> in front of a light blue background (similar to <<xi-jinping-portrait-blue,CCP official portraits>>) with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] suggestion around his head. https://www.epochtimes.com/gb/11/5/12/n3254555.htm[Lower quality version] on <<epoch-times>> itself. https://www.epochweekly.com/144/7046pg.htm[Source].
-image::{china-dictatorship-media-base}/30-02.jpg[height=400]
+image::{china-dictatorship-media-base}/Li_Hongzhi_Blue.jpg[height=400]
 
 [[li-hongzhi-lotus]]
 .<<li-hongzhi,Li>> going https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] while casually sitting on a https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art[giant Lotus flower] with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] on his head. https://www.pinterest.fr/pin/8022105562347289/[Source].
-image::{china-dictatorship-media-base}/32fc954e99d658751da18a0b20ae2894.jpg[height=600]
+image::{china-dictatorship-media-base}/Li_Hongzhi_lotus.jpg[height=600]
 
 .<<li-hongzhi>> really turning into a proper Buddha, including https://en.wikipedia.org/wiki/Physical_characteristics_of_the_Buddha[physical signs] such as the https://en.wikipedia.org/wiki/Ushnisha[Ushnisha] on the head and the https://en.wikipedia.org/w/index.php?title=Physical_characteristics_of_the_Buddha&oldid=972021136#The_80_secondary_characteristics["ears as longs as lotus petals"]. <<bannedbook>> https://www.bannedbook.org/bnews/tculture/xiulian/20190123/1068931.html[source].
-image::{china-dictatorship-media-base}/p4479361a342145429.jpg[height=400]
+image::{china-dictatorship-media-base}/Li_Hongzhi_Buddha.jpg[height=400]
 
 .Dubstep <<li-hongzhi,Li>> can <<flg-religion,liangong (练功)>> at https://en.wikipedia.org/wiki/Dubstep[dubstep] speed. https://giphy.com/gifs/dubstep-gifs-dubstepgifs-xUOwFY1prqgUdPuFvW[Source].
-image::{china-dictatorship-media-base}/giphy.webp[height=400]
+image::{china-dictatorship-media-base}/Li_Hongzhi_dubstep.webp[height=400]
 
 ===== FLG is dangerous because Li Hongzhi has too much power over followers
 
@@ -5878,10 +5894,10 @@ There are also claims that Li's birth name was Li Lai (李來).
 This claims to contain the biography of Li Hongzhi's family (likely all according to CCP sources), including several good pictures: https://kknews.cc/zh-hk/news/bbmz49.html The photo given there for Li Jun appears on this apparently FLG source without mention of the name: https://www.epochweekly.com/b5/103/5805.htm
 
 .Li Hongzhi with his wife Li Rui and daughter Li Meige presumably in the late 80's with fishing ships in a shipyard in the background. TODO location. Likely from CCP sources, in many places with <<chinese-government-media,kaiwnd>> watermarks. http://www.toppk.net/art/2016/3/9/art_7328_304365.html[Anti-FLG source].
-image::{china-dictatorship-media-base}/W020160308589690343847.jpg[height=400]
+image::{china-dictatorship-media-base}/Li_Hongzhi_with_wife_and_daughter.jpg[height=400]
 
 .Photo of Christina Li from Shen Yun, which the CCP claims to be Li Meige, daughter of Li Hongzhi. That page also claims that she was awarded Bronze in the 2009 and 2010 NDT Chinese Dance Competition. https://web.archive.org/web/20121211022246/zh-cn.shenyunperformingarts.org/artists/biography/view/WG3gbBQudOg[Source].
-image::{china-dictatorship-media-base}/17326d10d511828f6b34fa6d751739e2.jpg[height=400]
+image::{china-dictatorship-media-base}/Li_Meige_Shenyun.jpg[height=400]
 
 [[dragon-springs]]
 ===== Dragon Springs (龙泉)
@@ -5949,7 +5965,7 @@ Hongbao also has a more spicy history it seems, with sexual allegations and open
 The embassy spokesman says Chinese officials have ample evidence of sect leader Zhang Hongbao's involvement in crimes such as rape and murder.
 
 .Zhang Honbao on a giant flying lotus reaching Enlightenment with a halo. It looks <<li-hongzhi-lotus,exactly like Falun Gong imagery>>. But of course, Zhong Gong is just a "completely unrelated and inferior sect" according to <<li-hongzhi>>. https://blog.boxun.com/hero/201102/tianhuaren/1_1.shtml[Source].
-image::{china-dictatorship-media-base}/tianhuaren2011021802234.jpg[height=400]
+image::{china-dictatorship-media-base}/Zhong_Gong_lotus.jpg[height=400]
 
 [[zhong-gong-blue]]
 .The blue background, the halos, the praying hands, the master Zhang Hongbao flying above. It is just exactly like <<flg-blue,Falun Gong imagery>>. https://www.chinacourt.org/article/detail/2018/08/id/3475129.shtml[Source] (<<chinese-government-media,biased>>)
@@ -5957,7 +5973,7 @@ image::{china-dictatorship-media-base}/Zhong_gong_blue.jpg[height=400]
 
 [[flg-blue]]
 .Hungarian Falun Gong propaganda image with woman meditating in with blue sky background for comparison with <<zhong-gong-blue,similar Zhong Gong imagery>>. https://hu.faluninfo.eu/[Source].
-image::{china-dictatorship-media-base}/slide01-hu.jpg[height=400]
+image::{china-dictatorship-media-base}/Falun_Gong_sky_advertisement.jpg[height=400]
 
 [[qigong-fever]]
 ==== Qigong fever Boom 气功热 (1980's)
@@ -6031,16 +6047,16 @@ The author: https://en.wikipedia.org/wiki/Benjamin_Penny is an Australian resear
 * https://zh.wikipedia.org/wiki/习近平
 
 [[xi-abolishes-term-limits-2018-03]]
-==== Xi abolishes term limits 2018-03 习近平取消席连任不得超过两届的限制规则
+==== Xi abolishes term limits (习近平取消席连任不得超过两届的限制规则, 2018-03)
 
 * 包子露宪 https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution
 * https://www.nytimes.com/2018/03/10/world/asia/china-xi-jinping-term-limit-explainer.html
 
 .<<rebel-pepper>> cartoon showing Xi Jinping preparing to sleep in https://en.wikipedia.org/wiki/Mausoleum_of_Mao_Zedong[Mao Zedong's tomb], meaning that Xi also wants to reach Mao's "eternal ruler" status when he abolished term limits in 2018. https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html[Source].
-image::{china-dictatorship-media-base}/180227RFA-XiJinping-Eternity.jpg[height=400]
+image::{china-dictatorship-media-base}/Xi_sleep_Mao.jpg[height=400]
 
 .1977 photo showing Mao's actual glass tomb during his funeral, with famous politicians in the background. It is interesting to see that Mao https://mummipedia.fandom.com/wiki/Mao_Zedong[features on the "Fandom Mummipedia Wiki"]. https://apnews.com/a94a0d7a824b474fb11545e8c4481c21[Source].
-image::{china-dictatorship-media-base}/800.jpeg[height=400]
+image::{china-dictatorship-media-base}/Mao_coffin.jpeg[height=400]
 
 .https://en.wikipedia.org/wiki/The_Economist[The Economist] "Let's party like it's 1793" cover from May 4th – 10th 2013 depicting a painting of Xi Jinping dressed as emperor of China. The famous https://en.wikipedia.org/wiki/Qianlong_Empero[Qianlong Emperor] was in power at that time. The title is likely a joke based on the more well known https://www.independent.co.uk/arts-entertainment/music/features/party-like-its-1969-woodstock-forty-years-on-1722695.html["Let's party like it's 1969"] due to the legendary https://en.wikipedia.org/wiki/Woodstock[Woodstock festival]. Party is also a play on words between the Communist Party and a night party. TODO why 1793 specifically. https://twitter.com/TheEconomist/status/329929668155293696[Source].
 image::{china-dictatorship-media-base}/Lets_party_like_its_1793.jpg[height=600]
@@ -6078,14 +6094,14 @@ See also: <<shitpost>>.
 ===== Xi Jinping Lookalikes 习近平撞脸
 
 .2019-05-21 https://en.wikipedia.org/wiki/Sadomasochism[Sadomasochist] https://en.wikipedia.org/wiki/BDSM[BDSM] (SM) Xi Jinping lookalike or photoshop in https://en.wikipedia.org/wiki/Bondage_suit[bondage suit] (gimp suit, fetish gear) at a cosplay fair. TODO: is this a Photoshop and if yes what's the original pic, publish dates, location/event. Earliest post found so far: 2019-05-21 08:49:20 GMT+1 (Imgur timestamp) going wild on <<ptt>>: https://www.ptt.cc/bbs/Gossiping/M.1558424992.A.33B.html[] entitled "這位coser是誰啊？好眼熟。" (Who is this Cosplayer? He looks familiar.) by user "a15568". Watermark reads "I am Dasen 郭"
-image::{china-dictatorship-media-base}/TnR8Voo.jpg[height=500]
+image::{china-dictatorship-media-base}/Xi_sadomasochist.jpg[height=500]
 
 .2020-01-01 https://en.wikipedia.org/wiki/Shengjian_mantou[Pan-fried dumpling] Xi Jinping lookalike 生煎包习近平撞脸. Furthermore, this reminded people of <<xi-jinping-memes,習包子>>. A <<taiwan,Taiwanese>> report from 2020-01-01: https://news.tvbs.com.tw/world/1257030 TODO name, location. One of the many videos of him: https://www.youtube.com/watch?v=hTt8Sjer6cc[]
-image::{china-dictatorship-media-base}/20200102_15779947641028.jpg[height=400]
+image::{china-dictatorship-media-base}/Mantou_Xi_lookalike.jpg[height=400]
 
 [[liu-keqing-singer]]
 .2020-05-12 Liu Keqing (刘克清) is an opera singer who had his personal videos on <<tiktok>> taken down from time to time because he looks too much like <<xi-jinping,The One>>. https://chinadigitaltimes.net/chinese/2020/05/【立此存照】只因太像习近平？歌唱家刘克清形/[China Digital Times report]. One of his personal vlogs reuploaded to YouTube where he shared singing techniques and thoughts: https://www.youtube.com/watch?v=yPFKUhJdqzk[]. A video of him performing professionally in a chamber concert: 2018-11-02 https://www.youtube.com/watch?v=Z98-Mqci4ag[].
-image::{china-dictatorship-media-base}/EXz-fgoU8AA2EHx-e1589305621493.jpeg[height=400]
+image::{china-dictatorship-media-base}/Liu_Keqing_singer_Xi_lookalike.jpeg[height=400]
 
 Less good ones:
 
@@ -6103,16 +6119,16 @@ In <<xi-dada>> we see that a <<peoples-daily>> video actually interviews someone
 Some good photoshops:
 
 .Comparison image between Xi Jinping waking with then USA president https://en.wikipedia.org/wiki/Barack_Obama[Barack Obama] with a Winnie-the-Pooh cartoon still of Winnie walking with https://en.wikipedia.org/wiki/Tigger[Tigger, the tiger]. The original photo is from https://www.abc.net.au/news/2013-06-09/obama2c-xi-forge-rapport-in-debut-summit/4742616[Xi's 2013 visit to the Annenberg Retreat at Sunnylands, California]. https://www.telegraph.co.uk/news/2017/07/17/oh-bother-chinese-censors-block-winnie-pooh-meme-comparing-xi/[Source].
-image::{china-dictatorship-media-base}/TIGGER_2590531b.webp[height=400]
+image::{china-dictatorship-media-base}/Xi_Pooh_Obama.webp[height=400]
 
 .Comparison image between Xi Jinping shaking hands with https://en.wikipedia.org/wiki/Shinzo_Abe[the Japanese prime minister Shinzo Abe] and a Winnie-the-Pooh cartoon still of Winnie shaking hands with the https://en.wikipedia.org/wiki/Eeyore[Eeyore, the donkey]. The original photo is from https://www.nytimes.com/2014/11/11/world/asia/leaders-of-china-and-japan-hold-long-awaited-meeting.html[Abe's lacklustre 2014 visit to Beijing]. https://www.theguardian.com/world/2018/aug/07/china-bans-winnie-the-pooh-film-to-stop-comparisons-to-president-xi[Source].
-image::{china-dictatorship-media-base}/752.jpg[height=400]
+image::{china-dictatorship-media-base}/Xi_Abe_Pooh.jpg[height=400]
 
 .Comparison image between Xi Jinping on a car in a 2015 military parade and a toy Winnie-the-Pooh on a car. https://www.bbc.co.uk/news/blogs-china-blog-40627855[Source].
-image::{china-dictatorship-media-base}/_96970665_4587b36b-011f-4007-b16f-34389d385aec.jpg[height=400]
+image::{china-dictatorship-media-base}/Xi_Pooh_car.jpg[height=400]
 
 .Real photo of Xi Jinping edited to look like Winnie the Pooh. https://www.reddit.com/r/pics/comments/dcabzh/this_image_of_xi_jiping_as_winnie_the_pooh_is/[Source].
-image::{china-dictatorship-media-base}/lqDFDXXvfqMs7kyQ9y1FrGcQzdCE23uMPlcxFqo_oYE.webp[height=400]
+image::{china-dictatorship-media-base}/Xi_Pooh_Photoshop.webp[height=400]
 
 [[xi-dada]]
 ====== Xi Dada (习大大, 2015)
@@ -6130,10 +6146,10 @@ Some other sources:
 * 2015-03-08 https://cn.nytimes.com/china/20150308/c08xi/ "“习大大”再次燃起中国人的领袖崇拜之情" (Xi Dada reignties Chinese Leader's cult once again)
 
 .Golden heart shaped souvenir with a picture of Xi Jinping that was sold in <<tiananmen,Tiananmen Square>> in 2018. https://www.telegraph.co.uk/news/2018/02/26/endowing-role-endless-rule-shows-xis-imperial-ambitions/[Source].
-image::{china-dictatorship-media-base}/TELEMMGLPICT000155655751_trans_NvBQzQNjv4BqzjD0Mh_LNt5Bhy1HYuGzFnpm3nqQSSR1BkomPrzwAI0.jpeg[height=400]
+image::{china-dictatorship-media-base}/Xi_Jinping_heart.jpeg[height=400]
 
 .Xi Jinping in 2019 wearing his cute compassionate face. Do you think that such a cute cute North-Westerner 东北人 would ever to terrible things like <<xinjiang,commiting cultural genocide of a million people>> or <<xi-abolishes-term-limits-2018-03,trying to become ruler for life>>? Impossible, it must be <<evil-west,American lies>>.
-image::{china-dictatorship-media-base}/448px-Xi_Jinping_2019.jpg[height=400]
+image::{china-dictatorship-media-base}/Xi_dada.jpg[height=400]
 
 [[chrysanthemium-xi-jinping]]
 ===== Chrysanthemium Xi Jinping (菊花习近平, 2015)
@@ -6147,11 +6163,11 @@ Got creator Dai Jianyong (戴建勇) arrested in 2015:
 image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
 
 .Original Chrysanthemum Xi Jinping by Dai Jianyong published in 2015. https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/[Source].
-image::{china-dictatorship-media-base}/daijianyong.jpeg[height=400]
+image::{china-dictatorship-media-base}/Chrysanthemum_Xi.jpeg[height=400]
 
 [[xi-jinping-portrait-blue]]
 .Possible original Xi Jinping photo used for Chrysanthemum Xi, possibly from 2012. The light blue gradient background was used for the official photos of many Communist officials of the era. https://content.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112111,00.html[Source].
-image::{china-dictatorship-media-base}/t100_xi_alt.jpg[height=400]
+image::{china-dictatorship-media-base}/Xi_Jinping_portrait_2012.jpg[height=400]
 
 [[xi-jinping-thought]]
 ==== Xi Jinping Thought (习近平新时代中国特色社会主义思想, 2017)
@@ -6168,7 +6184,7 @@ Online video version courtesy of <<xinhua>>: http://www.xinhuanet.com/politics/x
 Notably, it consists of 14 chapters, which are called "talks" (讲), e.g. the first talk (第一讲) etc. This is exactly like <<li-hongzhi>>'s <<flg-canon,Zhuan Falun>> (and likely like other ancient Chinese religious texts).
 
 .<<ccp-cult,Devotional>> image of <<xi-jinping>> on the cover of the https://en.wikipedia.org/wiki/The_Governance_of_China[The Governance of China] (link:https://zh.wikipedia.org/wiki/习近平谈治国理政[习近平谈治国理政], 2020) book which is part of <<xi-jinping-thought>>. The similarity to <<li-hongzhi>> devotional images <<li-hongzhi-lotus,is striking>>. Related: <<xi-halo>>. https://www.amazon.co.uk/Governance-China-Xi-Jinping/dp/1602204098[Source].
-image::{china-dictatorship-media-base}/71xrbnzJC9L.jpg[height=400]
+image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China.jpg[height=400]
 
 [[two-safegards]]
 ===== Two safegards (两个维护, 2018)
@@ -6201,26 +6217,28 @@ video::y-JPLzj2poY[youtube,height=400,width=600,start=57]
 Jiang also has an amazing array of meme-ready funny expressions.
 
 .Comparison between Jiang Zemin and a 72-feet-tall inflatable toad in a Beijing park seen in 2014 made the rounds on Weibo and led to some <<censorship,censorship>>. https://edition.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html[Source].
-image::{china-dictatorship-media-base}/140801124717-toad-jiang-zemin-split-horizontal-large-gallery.jpg[height=400]
+image::{china-dictatorship-media-base}/Jiang_Zemin_frog.jpg[height=400]
 
 .Jiang picking his nose. https://pieceofmindful.com/2013/12/12/chinese-exceptionalism/[Source].
-image::{china-dictatorship-media-base}/jiang-zemin-former-president-china.jpg[height=400]
+image::{china-dictatorship-media-base}/Jiang_Zemin_nose_picking.jpg[height=400]
 
 .Jiang reading through comically large magnifying glass during the opening ceremony of the https://en.wikipedia.org/wiki/19th_National_Congress_of_the_Communist_Party_of_China[19th Party Congress] in 2017. https://www.theguardian.com/world/2017/oct/18/back-from-the-dead-chinas-internet-goes-wild-over-youthful-jiang-zemin[Source].
-image::{china-dictatorship-media-base}/2048.jpg[height=400]
+image::{china-dictatorship-media-base}/Jaign_zemin_magnify.jpg[height=400]
 
 .More Jiang funny expressions and Photoshops from a Research Gate page! https://www.researchgate.net/figure/Jiang-as-emoticons-often-used-in-chats_fig4_325864518[Source].
-image::{china-dictatorship-media-base}/Jiang-as-emoticons-often-used-in-chats.png[height=400]
+image::{china-dictatorship-media-base}/Jiang_Zemin_emoticons_montage.png[height=400]
 
 [[deng-xiaoping]]
 === Deng Xiaoping 邓小平 (1982-1987)
 
-https://en.wikipedia.org/wiki/Deng_Xiaoping | https://zh.wikipedia.org/wiki/邓小平
+* https://en.wikipedia.org/wiki/Deng_Xiaoping
+* https://zh.wikipedia.org/wiki/邓小平
 
 [[mao-zedong]]
 === Mao Zedong 毛泽东 (1954–1976)
 
-https://en.wikipedia.org/wiki/Mao_Zedong | https://zh.wikipedia.org/wiki/毛泽东
+* https://en.wikipedia.org/wiki/Mao_Zedong
+* https://zh.wikipedia.org/wiki/毛泽东
 
 What could be a better reminder that <<xi-jinping,dictatorships are dangerous>> than the catastrophes that Mao created such as the <<great-leap-forward>> and <<cultural-revolution>>?
 
@@ -6261,7 +6279,7 @@ Even <<pro-chinese-government-media,kknews>> confirms: https://kknews.cc/zh-my/n
 * https://zh.wikipedia.org/wiki/大跃进
 
 .A high tower of https://en.wikipedia.org/wiki/Wax_gourd[winter gourds] "冬瓜上高楼" propaganda poster for the Great Leap Forward by https://chineseposters.net/artists/jinmeisheng.php[Jin Meisheng] published in 1959. <<western-democracies-are-not-perfect,Even in democracies>>, politicians promise the fat gourds. But when there is <<censorship,no free media to control their>> lies, things can get really out of hand. http://www.iisg.nl/exhibitions/chairman/chn11.php[Source].
-image::{china-dictatorship-media-base}/4754681204_1784cd9f89_w.jpg[height=600]
+image::{china-dictatorship-media-base}/Winter_gourd.jpg[height=600]
 
 [[cultural-revolution]]
 ==== Cultural Revolution 文化大革命 (1966-1976)
@@ -6273,7 +6291,7 @@ image::{china-dictatorship-media-base}/4754681204_1784cd9f89_w.jpg[height=600]
 video::kXByOrRrO7c[youtube,height=400,width=600]
 
 [[mao-swim]]
-===== Mao swim across the Yangtze river 毛主席畅游长江 (1966-07-16)
+===== Mao swim across the Yangtze river (毛主席畅游长江, 1966-07-16)
 
 https://zh.wikipedia.org/wiki/毛主席畅游长江
 
@@ -6292,7 +6310,7 @@ And idiots today still celebrate this event that preceded the <<cultural-revolut
 <<superputin>> learnt from this and also showed off his swimming skills in 2009.
 
 .https://zh.wikipedia.org/wiki/File:1966-10_1966年毛泽东游长江2.jpg[Source].
-image::{china-dictatorship-media-base}/1966-10_1966年毛泽东游长江2.jpg[height=400]
+image::{china-dictatorship-media-base}/Mao_swim_wave.jpg[height=400]
 
 [[news]]
 == News 新闻
@@ -6447,7 +6465,7 @@ News coverage:
 Se also: <<intolerance>>
 
 .<<badiucao>> cartoon of about 40 of the arrested lawyers. TODO full name list. https://twitter.com/badiucao/status/884005207830544385[Source].
-image::{china-dictatorship-media-base}/DESdgVpUQAAOZUc.jpg[height=400]
+image::{china-dictatorship-media-base}/709_lawyers.jpg[height=400]
 
 === News pre-2015
 
@@ -6468,7 +6486,7 @@ image::{china-dictatorship-media-base}/DESdgVpUQAAOZUc.jpg[height=400]
 *** https://zh.wikipedia.org/wiki/西单民主墙
 +
 .Xidan democracy wall. https://en.wikipedia.org/wiki/File:Xidan_Wall,_May_1979.jpg[Source].
-image::{china-dictatorship-media-base}/Xidan_Wall%2C_May_1979.jpg[height=400]
+image::{china-dictatorship-media-base}/Xidan_Wall.jpg[height=400]
 
 [[tiananmen]]
 ==== Tiananmen Square Protests of 1989 六四事件
@@ -6506,11 +6524,11 @@ Other interesting links:
 * https://www.rfa.org/mandarin/june4_poetry Chinese poetry anthology about Tiananmen collected by <<rfa>>
 
 .Sea of protesters in Tiananmen Square on 2019-05-04. No, not even that many people can influence dictatorships if they don't have weapons. https://abcnews.go.com/International/tiananmen-square-29th-anniversary-crackdown/story?id=55564966[Source].
-image::{china-dictatorship-media-base}/tiananmen-massacre-gty-04-jpo-180531_hpEmbed_3x2_992.jpg[height=600]
+image::{china-dictatorship-media-base}/Tianmen_sea.jpg[height=600]
 
 [[pu-zhiqiang-shirt]]
 .https://en.wikipedia.org/wiki/Pu_Zhiqiang[Pu Zhiqiang (浦志强)] was student demonstrator during the Tiananmen Square protests of 1989. His shirt reads: "Freedom of the press, freedom of association, support the 'link:https://en.wikipedia.org/wiki/World_Economic_Herald[World Economic Herald] (link:https://zh.wikipedia.org/wiki/世界经济导报[世界经济导报])', and support just journalists." (辦報自由 結社自由 聲援世经导报 支持正义记者, fully quoted https://cinacn.blogspot.com/2001/07/28.html[here]) Date: 1989-05-10. Pu remained in China as a human rights layer, and https://www.bbc.co.uk/news/world-asia-china-35157525[was arrested in 2014] for attending a private meeting commemorating the 25th anniversary of Tiananmen. https://allthatsinteresting.com/tiananmen-square-massacre[Source].
-image::{china-dictatorship-media-base}/pu-zhiqiang-protest.jpg[height=500]
+image::{china-dictatorship-media-base}/Pu_Zhiqiang_tshirt.jpg[height=500]
 
 .Students from Beijing University stage a huge demonstration in Tiananmen Square as they start an unlimited hunger strike as the part of mass pro-democracy protest against the Chinese government. Photo taken on 1989-05-18 by Catherine Henriette/AFP/Getty Images. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_students_sitting.jpg[height=400]
@@ -6519,7 +6537,7 @@ image::{china-dictatorship-media-base}/Tiananmen_students_sitting.jpg[height=400
 image::{china-dictatorship-media-base}/Tiananmen_cute_girls.jpg[height=500]
 
 .Happy protesters surround army convoy of 4,000 not so happy soldiers on 1989-05-20. Ciro can't help but to think the politically incorrect idea that the military <<uneducated-masses,look considerably younger and poorer/less uneducated than the Beijing masses>>. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
-image::{china-dictatorship-media-base}/20190601tiananmen9.jpg[height=500]
+image::{china-dictatorship-media-base}/Tiananmen_troop_truck_night.jpg[height=500]
 
 .A young woman is caught between civilians and Chinese soldiers, who were trying to remove her from an assembly near the Great Hall of the People in Beijing, on 1989-06-03. AP Photo/Jeff Widener. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_girl_strife.jpg[height=400]
@@ -6537,23 +6555,23 @@ image::{china-dictatorship-media-base}/Tiananmen_announce_soldiers.webp[height=5
 image::{china-dictatorship-media-base}/Li_at_Tiananmen_Eyebeams.jpg[height=400]
 
 .Protester covered in blood while holding an army helmet on 1989-06-04. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
-image::{china-dictatorship-media-base}/20190601tiananmen5.jpg[height=500]
+image::{china-dictatorship-media-base}/Tiananmen_helmet.jpg[height=500]
 
 [[liubukou]]
 .Bodies run over by tanks by the road in after the Tiananmen Square Protests were crushed in the morning of 1989-06-05. The source website is by French journalist https://en.wikipedia.org/wiki/Ursula_Gauthier[Ursula Gauthier], who explains how those photos were taken by one of the students of the group, who later asked her to take the photos abroad to publish them. The students were some of the last to leave after the crackdown, and they were trying to escape through a small street that leads into https://en.wikipedia.org/wiki/Chang%27an_Avenue[Chang'an Avenue] (https://zh.wikipedia.org/wiki/长安街[长安街]) when the tanks came at high speed near Liubukou crossroads (TODO Chinese name) half mile West of Tiananmen square, and not all students were able evade the tanks. https://www.theguardian.com/world/1999/jun/01/china.johngittings2 mentions that some bodies had to be scrapped-off the street. Ursula was later kicked out of China in 2015 after commenting that the CCP had ulterior motives for giving their condolences to the https://en.wikipedia.org/wiki/November_2015_Paris_attacks[November 2015 Paris attacks]. Interesting fact: Ciro was actually less than 1km away from one of the Paris attacks on that night, at his home, and first learnt about what had happened when people started calling to see if he was fine. http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[Source].
-image::{china-dictatorship-media-base}/Tiananmen-8-692x1024.jpg[height=600]
+image::{china-dictatorship-media-base}/Tianmen_crushed_dead.jpg[height=600]
 
 .Bodies with gun wounds at the mortuary at Shuili Hospital (水利医院, Hospital of the Ministry of Water Resources of China, https://goo.gl/maps/xAy55T3sydW8X81M6[Google maps], https://bkso.baidu.com/item/水利医院[Baidu], https://cn.nytimes.com/china/20190531/tiananmen-square-protest-photos/[New York Times Chinese report]), about 8km West of Tiananmen Square. https://www.nytimes.com/2019/05/30/world/asia/tiananmen-square-protest-photos.html[Source].
-image::{china-dictatorship-media-base}/00tiananmen-images-15-superJumbo.jpg[height=500]
+image::{china-dictatorship-media-base}/Tiananmen_Shuili_Hospital_dead.jpg[height=500]
 
 .A Chinese couple on a bicycle take cover beneath an underpass as tanks deploy overhead in eastern Beijing on 1989-06-05 by AP Photo/Liu Heung Shing. This photo one is almost poetic. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_bicycle_bridge.jpg[height=400]
 
-.Family members try to comfort a mother who has just learned of her son's death after he was killed by soldiers at Tiananmen Square, June 4. https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary[Source].
-image::{china-dictatorship-media-base}/sub-buzz-30462-1559664775-8.webp[height=500]
+.Family members try to comfort a mother who has just learned of her son's death after he was killed by soldiers at Tiananmen Square, June 4. TODO what's her name? An association https://en.wikipedia.org/wiki/Tiananmen_Mothers[Tiananmen Mothers] (https://zh.wikipedia.org/wiki/天安门母亲运动[天安门母亲运动]) was created after the events. https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary[Source].
+image::{china-dictatorship-media-base}/Tiananmen_crying_mother.webp[height=500]
 
 .The morning after the military crackdown of the pro-democracy protesters in Tiananmen Square, workers clean their posters from bulletin boards. Resume <<censorship>> as usual. https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary[Source].
-image::{china-dictatorship-media-base}/sub-buzz-11644-1559664808-1.webp[height=500]
+image::{china-dictatorship-media-base}/Tiananmen_message_board_cleanup.webp[height=500]
 
 [[tiananmen-songs]]
 ===== Tiananmen Square Protests songs 六四事件歌曲
@@ -6607,7 +6625,7 @@ Other good lists:
 For non-Tiananmen songs see: <<anti-dictatorship-songs>>.
 
 [[tank-man]]
-===== Tank Man 坦克人
+===== Tank Man (坦克人)
 
 https://en.wikipedia.org/wiki/Tank_Man | https://zh.wikipedia.org/wiki/坦克人
 
@@ -6638,23 +6656,23 @@ Full lyrics: https://gist.github.com/cirosantilli/698afcd05c5ad94297000f8c60b434
 video::z8A623aImt8[youtube,height=400,width=600]
 
 .Arthur Tsang's photo of Tank Man. https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/[Source].
-image::{china-dictatorship-media-base}/BN-CZ715_tam2_G_20140529081612.jpg[height=400]
+image::{china-dictatorship-media-base}/Tank_Man.jpg[height=400]
 
 .Stuart Franklin's wider view photo of Tank Man. https://en.wikipedia.org/wiki/File:Tankman_new_longshot_StuartFranklin.jpg[Source].
 image::{china-dictatorship-media-base}/Tankman_new_longshot_StuartFranklin.jpg[height=600]
 
 .Terril Jones photo taken at ground level with Tank Man on background and men running away on the foreground. The photo was only published in 2009. https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/[Source].
-image::{china-dictatorship-media-base}/BN-CZ712_TAM_G_20140529081150.jpg[height=600]
+image::{china-dictatorship-media-base}/Tank_Man_ground_level.jpg[height=600]
 
 .Photoshop of Arthur Tsang's photo of Tank Man with huge rubber ducks replacing the tanks. Inspired by a https://www.youtube.com/watch?v=rSo5MqQVwCY[huge inflatable rubber duck sculpture floating in Hong Kong in 2013]. https://petapixel.com/2013/06/05/yellow-duck-version-of-tank-man-photo-goes-viral-amidst-chinese-censorship[Source].
-image::{china-dictatorship-media-base}/duckytankman.jpg[height=600]
+image::{china-dictatorship-media-base}/Tank_Man_ducks.jpg[height=600]
 
 [[lego-tank-man]]
 .Rough https://en.wikipedia.org/wiki/Lego[Lego] model of the Tank Man scene. https://knowyourmeme.com/photos/1499216-tank-man[Source].
-image::{china-dictatorship-media-base}/29f.png[height=400]
+image::{china-dictatorship-media-base}/Lego_Tank_Man.png[height=400]
 
-.it8Bit https://en.wikipedia.org/wiki/Final_Fantasy_VI[Final Fantasy 6] battle screen style depiction of tank man by Cody Walton. https://www.it8bit.com/post/25860395424/unknown-rebel[Source].
-image::{china-dictatorship-media-base}/tumblr_m66n5i3smc1qbw2q1o1_1280.jpg[height=600]
+.https://en.wikipedia.org/wiki/Final_Fantasy_VI[Final Fantasy 6] battle screen style depiction of tank man by Cody Walton by it8Bit. https://www.it8bit.com/post/25860395424/unknown-rebel[Source].
+image::{china-dictatorship-media-base}/Tank_Man_FF6.jpg[height=600]
 
 ===== Tiananmen Square Protests keywords
 
@@ -6727,13 +6745,13 @@ Profiles and news:
 * 2020-01-28 https://www.inkstonenews.com/society/chinas-mma-fighter-xu-xiaodong-fight-survival/article/3047417
 
 .Uphold science, eradicate superstition "崇尚科学 破除迷信" 1999 poster by the CCP created as an <<falun-gong,anti-Falun Gong>> propaganda likely based on a http://www.people.com.cn/GB/channel1/10/20000710/137317.html[more widely widespread slogan] (https://web.archive.org/web/20090428155413/http://www.people.com.cn/GB/channel1/10/20000710/137317.html[archive]). So why is Xiaodong not being supported by the CCP now that he is beating superstition back into its place? Once again, <<censorship-makes-countries-poorer>>. The poster features images related to the https://en.wikipedia.org/wiki/Chinese_space_program[Chinese space program 中华人民共和国航天], which is a major undertaking of the CCP and widely used propaganda point. https://chineseposters.net/themes/falun-gong.php[Source].
-image::{china-dictatorship-media-base}/e13-891.jpg[height=600]
+image::{china-dictatorship-media-base}/Uphold_science.jpg[height=600]
 
 .1962 propaganda poster for the Chinese Space program. "Uphold science, eradicate superstition"? Nah, the moon is obviously populated by https://en.wikipedia.org/wiki/Chang'e[Chang'e (嫦娥)], the Chinese Goddess of the moon, which is one of the names for the https://en.wikipedia.org/wiki/Chinese_Lunar_Exploration_Program[Chinese Lunar Exploration Program (中国探月工程,嫦娥工程)]. Other good https://chineseposters.net/themes/space-program.php[Chinese space program posters]. Also note the emphasis on making babies, the <<one-child-policy>> comes to mind. https://chineseposters.net/posters/e15-824.php[Source].
-image::{china-dictatorship-media-base}/e15-824.jpg[height=500]
+image::{china-dictatorship-media-base}/Space_program_Change.jpg[height=500]
 
 .2017 Xu Xiaodong (MMA) Vs. Wei Lei (Tai Chi) summary GIF. https://www.inkstonenews.com/society/chinas-mma-fighter-xu-xiaodong-fight-survival/article/3047417[Source].
-image::{china-dictatorship-media-base}/01.gif[height=400]
+image::{china-dictatorship-media-base}/Xu_Xiaodong_taichi.gif[height=400]
 
 .https://www.youtube.com/watch?v=0XwXaCbfIGw 2017 Xu Xiaodong (MMA) Vs. Wei Lei (Tai Chi) full fight.
 video::0XwXaCbfIGw[youtube,height=400,width=600]
@@ -6844,7 +6862,7 @@ Listings of the 2002 squad:
 Google bomb at: https://github.com/cirosantilli/china-dictatorship/issues/111
 
 .Hao Haidong (in white) playing for the China national team against the Hong Kong's national team in a World Cup Asian zone qualifying match at Siu Sai Wan Sports Ground in 2004. Photo: <<scmp>>. https://www.scmp.com/sport/china/article/3087684/chinese-sports-couple-hao-haidong-and-ye-zhaoying-face-being-wiped[Source].
-image::{china-dictatorship-media-base}/sbraK.jpg[height=500]
+image::{china-dictatorship-media-base}/Hao_Haidong_kick.jpg[height=500]
 
 .https://www.youtube.com/watch?v=XgSwRwFBNFA Hao Haidong's top 10 goals, all with CCTV 5 watermark :-)
 video::https://www.youtube.com/watch?v=XgSwRwFBNFA[youtube,height=400,width=600]
@@ -7299,7 +7317,7 @@ China's "Diaspora management" organ.
 The likely organizers behind <<confucius-institute>> and <<cssa>>.
 
 [[falun-gong-media]]
-==== Falun Gong media 法轮功媒体
+==== Falun Gong media (法轮功媒体)
 
 A great example of how <<falun-gong>> is <<flg-organized,highly organized>>.
 
@@ -7563,7 +7581,7 @@ See also:
 * <<zone-theory>>
 
 .Weibo logo vs Sauron's eye 微博标志vs索倫魔眼 by Ciro Santilli.
-image::{china-dictatorship-media-base}/eKPmYyz.jpg[height=400]
+image::{china-dictatorship-media-base}/Weibo_Sauron.jpg[height=400]
 
 === Cartoonists (漫画家)
 
@@ -7747,7 +7765,7 @@ ____
 Related: <<hate-speech>>.
 
 .https://en.wikipedia.org/wiki/Eric_Drooker[Eric Drooker]'s "Censorship" (TODO year) has become one of the most recognizable censorship symbols as of 2020. https://www.drooker.com/illustrations[Source].
-image::{china-dictatorship-media-base}/censorship.jpg[height=400]
+image::{china-dictatorship-media-base}/Eric_Drooker_censorship.jpg[height=400]
 
 [[internal-censorship]]
 ==== Internal censorship is necessary to prevent fake USA accounts from creating harmful propaganda
@@ -7800,13 +7818,13 @@ ____
 It is actually easier for the USA to manipulate a dictatorship than a democracy, because then all you have to do is buy/blackmail a few key corrupt politicians instead of manipulating millions of people's feeds.
 
 .Internal censorship is so strong, that many Chinese people who leave China to live abroad continue to believe that the CCP is always right, despite having access evidence that suggests otherwise. This <<rebel-pepper>> 2019-08 cartoon shows frogs coming out of a big well still remain inside their own small wells made up of Chinese media such as <<zhihu-purge,Zhihu>> and CCTV. It is a reference to the Chinese proverb https://zh.wikipedia.org/wiki/井底之蛙[井底之蛙] which means that a frog in the bottom of the well can only see a very limited portion of the sky. https://www.rfa.org/mandarin/biantailajiaomanhua/lj-08302019111414.html[Source].
-image::{china-dictatorship-media-base}/82a29858-e5b4-4ae1-88ae-fa54737588e1.jpeg[height=500]
+image::{china-dictatorship-media-base}/Frog_in_well.jpeg[height=500]
 
 .<<nazi,Nazis>> burning books in Berlin in 1933. https://en.wikipedia.org/wiki/Nazi_book_burnings[Source].
-image::{china-dictatorship-media-base}/603px-1933-may-10-berlin-book-burning.JPG[height=400]
+image::{china-dictatorship-media-base}/Nazi_book_burning.jpg[height=400]
 
 .<<falun-gong>> books being destroyed with a https://en.wikipedia.org/wiki/Road_roller[road roller] in 1999 in China in an extremely low quality early Internet still of a video TODO Ciro saw a 3s sequence in https://www.youtube.com/watch?v=v7cz4Tkbwy8[], find timestamp again. How far do you think mass jailings and torture would be? One wonders why they didn't burn the books though. https://en.wikipedia.org/wiki/File:Destruction_d'ouvrages_du_Falun_Gong_lors_de_la_répression_de_1999_en_Chine.jpg[Source].
-image::{china-dictatorship-media-base}/Destruction_d'ouvrages_du_Falun_Gong_lors_de_la_répression_de_1999_en_Chine.jpg[height=400]
+image::{china-dictatorship-media-base}/Falun_Gong_road_roller_book_destruction.jpg[height=400]
 
 ==== China has more freedom of speech than the USA!
 
@@ -7866,7 +7884,7 @@ image::{china-dictatorship-media-base}/Quan_Ping_tshirt.jpg[height=400]
 
 [[liu-shihui-one-party-rule]]
 .In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a t-shirt saying "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/【历史的先声】一党独裁，遍地是灾/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang's one-party dictatorship, but the CP will not establish a one-party dictatorship". This interesting <<zhihu>> page has many other similar quotes BTW: https://zhuanlan.zhihu.com/p/59503784[] (https://web.archive.org/web/20200331202252/https://zhuanlan.zhihu.com/p/59503784[archive]). He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. Quotes from the <<hundred-flowers-campaign>> also come to mind. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
-image::{china-dictatorship-media-base}/090521%20china%20I.preview.jpg[height=500]
+image::{china-dictatorship-media-base}/Liu_Shihui_tshirt.jpg[height=500]
 
 [[gfw]]
 ==== Great Firewall (GFW) 防火长城
@@ -7930,7 +7948,7 @@ ____
 * https://zh.wikipedia.org/wiki/谷歌中国
 
 .Faithful Google China users/employees made a funeral-like flower tribute on the company's entry sign in Beijing https://en.wikipedia.org/wiki/Tuspark[Tsinghua Science Park] when the company was https://en.wikipedia.org/wiki/Operation_Aurora[kicked/hacked out of China in the 2010 Operation Aurora]. This was one example of the unfair <<what-should-western-countries-do-about-china,joint venture technique imposed on foreign companies>> by China. https://qz.com/1352137/why-internet-users-chose-baidu-over-google-when-it-was-in-china/[Source].
-image::{china-dictatorship-media-base}/google-china-flowers-baidu.webp[height=400]
+image::{china-dictatorship-media-base}/Google_funeral.webp[height=400]
 
 [[jingjing-chacha]]
 ===== Jingjing and Chacha 警警察察
@@ -7947,25 +7965,25 @@ https://youtu.be/ZB8ODpw_om8?t=583 "Roger Dingledine - The Tor Censorship Arms R
 The images were https://en.wikipedia.org/w/index.php?title=Jingjing_and_Chacha&oldid=917408711[removed from Wikipedia] presumably due to fair use concerns, so Ciro asked how to check that at: https://webapps.stackexchange.com/questions/137977/how-to-check-why-a-fair-use-image-was-removed-from-wikipedia After understanding the case, Ciro https://en.wikipedia.org/w/index.php?title=Jingjing_and_Chacha&oldid=936842199[reuploaded the images], hopefully for good.
 
 .Jinjing (警警) is the male cop. https://web.archive.org/web/20070825092952/http://www.e-gov.org.cn/Article/news003/2006-01-02/15229.html[Source].
-image::{china-dictatorship-media-base}/20060102092326277.jpg[height=400]
+image::{china-dictatorship-media-base}/Jingjing.jpg[height=400]
 
 .Chacha (警警) is the female cop. https://web.archive.org/web/20070825092952/http://www.e-gov.org.cn/Article/news003/2006-01-02/15229.html[Source].
-image::{china-dictatorship-media-base}/20060102092327204.jpg[height=400]
+image::{china-dictatorship-media-base}/Chacha.jpg[height=400]
 
 .Jingjing and Chacha picture shown on the street, presumably in China. https://www.vice.com/en_us/article/bnvy38/jingjing-and-chacha[Source].
-image::{china-dictatorship-media-base}/jingjing-and-chacha-1413461637268.jpeg[height=400]
+image::{china-dictatorship-media-base}/Jingjing_Chacha_street.jpeg[height=400]
 
 .Image with Jingjing and Chacha together and explanations (深圳网络警察,Shenzhen Network Police), good for copy pasting. TODO a bit small. https://www.reddit.com/r/Cyberpunk/comments/84vbut/cute_official_mascot_design_of_chinese_internet/[Source]..
-image::{china-dictatorship-media-base}/ns9jhaeel4m01.jpg[height=400]
+image::{china-dictatorship-media-base}/Jingjing_Chacha_Shenzhen_police.jpg[height=400]
 
 .Beijing version of the Shenzhen-created Jingjing and Chacha. TODO what does it say on the images? On car "XX网络110" (XX Internet 110) so it must be the phone number of the Internet police department. At bottom right something like (联合新作, joint XX), so likely means it is a joint action between two departments. https://www.nbcnews.com/id/20477258/ns/technology_and_science-internet/t/beijing-police-launch-virtual-web-patrol/[Source].
-image::{china-dictatorship-media-base}/bej10508281134.grid-6x2.jpg[height=400]
+image::{china-dictatorship-media-base}/Jingjing_Chacha_Beijing.jpg[height=400]
 
 .Angry Chinese cop cartoons extracted from https://web.archive.org/web/20191209021646/http://encyclopediadramatica.rs/China[Encyclopedia Dramatica] with the racist subtitles removed. It is hard to be sure what is the original image that they were Photoshopped from, but they are very similar to the Beijing Jingjing and Chacha although this is not a direct copy paste of the above since several details differ. The image was uploaded in 2011 to ED. https://web.archive.org/web/20170525180028/https://encyclopediadramatica.rs/File:Preasetoshowpapers.jpg[Source].
 image::{cirosantilli-media-base}/Jingjing_Chacha_angry.jpg[height=400]
 
 .The Qatar friendly censorship page likely from around 2011 sowing that China is not alone in this "cute censorship mascots" technique. https://commons.wikimedia.org/wiki/File:Qatar_filtering_message._Qtel_network.jpg[Source].
-image::{china-dictatorship-media-base}/Qatar_filtering_message._Qtel_network.jpg[height=600]
+image::{china-dictatorship-media-base}/Qatar_web_censorship_page.jpg[height=600]
 
 ===== Western companies that sell censorship technology to dictatorships
 
@@ -7997,12 +8015,12 @@ In 2019, the European Union was considering making stricter laws about cyber sur
 See also: <<western-companies-that-comply-with-chinese-censorship-requests>>.
 
 .Cartoon showing how Amesys systems are used to suppress citizens in Egypt. Do you want the logo of your company to figure there instead? https://www.fidh.org/en/region/north-africa-middle-east/egypt/sale-of-surveillance-equipment-to-egypt-by-french-company-amesys[Source].
-image::{china-dictatorship-media-base}/564727cb219a210145a0dd6a1b7561.jpg[height=400]
+image::{china-dictatorship-media-base}/Amesys.jpg[height=400]
 
 ===== Chinese companies that sell censorship technology to dictatorships
 
 .Slide from a presentation of the Knowlesys Hong Kong social media censorship/misinformation company with words "Social Media as Weapons", "Your Enemy", leaked by the CCP_Unmasked hacker group on 2020/08/20. The leaks also contained data on  Yunrun Big Data Service, a company based in Guangzhou, and OneSight, based in Beijing. From this hack they apparently also managed obtained passwords used by those companies to manage CCP social media, and they posted some messages about their efforst through those accounts. Western countries have also used terrorism as an excuse way to reduce privacy/start wars, but of course, things are much worse in dictatorships where there is no freedom of speech, related <<evil-west>>. https://www.vice.com/en_in/article/dyzewz/hackers-leak-alleged-internal-files-of-chinese-social-media-monitoring-firmscv[Source].
-image::{china-dictatorship-media-base}/1597950511175-screen-shot-2020-08-20-at-10317-pm.webp[height=400]
+image::{china-dictatorship-media-base}/Social_Media_as_Weapons.webp[height=400]
 
 ===== Censorship monitoring
 
@@ -8367,7 +8385,7 @@ Bibliography:
 * https://forum.duolingo.com/comment/26832834/六元四角-vs-六块四毛钱
 
 .50-cent coin (五角) from the https://en.wikipedia.org/wiki/Fourth_series_of_the_renminbi[fourth series of renminbi] (https://zh.wikipedia.org/wiki/第四套人民币[第四套人民币], 1987-1997). This image is going to be very useful. Note the beautiful plum blossom drawings reminiscent of <<chinese-traditional-painting>> which <<ciro-santilli>> loves. Note how it uses 角 (jiao3) instead of 毛 (mao2). http://www.bjzxcp.com/article-41679.html[Source].
-image::{china-dictatorship-media-base}/1567065533546271.png[height=400]
+image::{china-dictatorship-media-base}/Wujiao.png[height=400]
 
 [[how-to-deal-with-wumaos]]
 ===== How to deal with wumaos 如何应对五毛
@@ -8528,7 +8546,7 @@ Related news:
 
 [[xi-salute-young-pioneers]]
 .Xi Jinping basically <<nazi,Nazi saluting>> representatives attending the 7th National Congress of the Chinese Young Pioneers in Beijing, June 1, 2015. http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[Source] (http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[biased]).
-image::{china-dictatorship-media-base}/XxjwshE007055_20190601_CBMFN1A006_11n.jpg[height=500]
+image::{china-dictatorship-media-base}/Xi_scout_salute.jpg[height=500]
 
 [[one-child-policy]]
 === One-child policy 一孩政策 (1979–2015)
@@ -8926,7 +8944,7 @@ Can also be made by hand if you have the patience.
 <<ciro-santilli>> could basically eat those every 3-4 days and not get tired.
 
 .Fresh Asia Brand (香源) product line "hand crafted water dumplings" (手工水餃) is a good brand to buy if you can get it. https://www.orientalmart.co.uk/fresh-asia-brand-dumplings-pork-and-chinese-leaf-[Source].
-image::{china-dictatorship-media-base}/1523115362-020452000.jpg[height=400]
+image::{china-dictatorship-media-base}/Jiaozi.jpg[height=400]
 
 .https://www.youtube.com/watch?v=YQkXA1xglU8 How to Cook Frozen Dumplings (Boil) by "Yongle Kitchen" shows the cool water pouring process.
 video::YQkXA1xglU8[youtube,height=400,width=600]
@@ -8981,7 +8999,7 @@ https://en.wikipedia.org/wiki/Vicia_faba | https://zh.wikipedia.org/wiki/蚕豆
 The name of broad bean in Chinese is interesting: it literally means "silkworm bean", because the shape of the bean looks a bit like that of a silkworm cocoon.
 
 .https://sixfortune.com/en/[Six Fortune (六福)] is a good brand. https://www.tradewindsorientalshop.co.uk/acatalog/Six-Fortune-Prepared-Broad-Bean---170g.html[Source].
-image::{china-dictatorship-media-base}/Six-Fortune-Prepared-Broad-Bean-170G.jpg[height=400]
+image::{china-dictatorship-media-base}/Six_Fortune_broad_bean.jpg[height=400]
 
 [[laoganma]]
 === Lao Gan Ma crispy chilly oil 老干妈 (lao3 gan1 ma1)
@@ -8995,7 +9013,7 @@ The one with peanuts or black beans is also good.
 Just stay away from the Chicken flavoured one. https://www.urbandictionary.com/define.php?term=eww[Eww].
 
 .You can even buy Laoganma on Amazon! https://www.amazon.com/Laoganma-Crispy-Chilli-Oil-Grams/dp/B003WC0RME[Source].
-image::{china-dictatorship-media-base}/91t77uD2UiL._SL1500_.jpg[height=400]
+image::{china-dictatorship-media-base}/Laoganma.jpg[height=400]
 
 .https://www.youtube.com/watch?v=nkTQTS2RSCU "What is Lao Gan Ma, and can you make it at home?" by "Chinese Cooking Demystified" published on Nov 19, 2019. Explains how it comes from Guizhou province cuisine (neighbours Sichuan).
 video::nkTQTS2RSCU[youtube,height=400,width=600]
@@ -9012,7 +9030,7 @@ Some other flavours of the same brand are also very much worth trying, e.g. the 
 Oily, spicy and sour.
 
 .Photo of the Fansaoguang Wild Brake Pickles jar. https://52piepie.com/products/饭扫光野蕨菜-fsg-wild-brake-pickles[Source].
-image::{china-dictatorship-media-base}/WeChat_Image_20180912222515_1024x1024@2x.jpg[height=400]
+image::{china-dictatorship-media-base}/Fan_sao_guang.jpg[height=400]
 
 [[hot-pot]]
 === Hot pot 火锅 (huo3 guo1)
@@ -9070,7 +9088,7 @@ Then, to eat it, you will want to add salty side dishes, all of which can be bou
 * https://en.wikipedia.org/wiki/Fermented_bean_curd[fermented bean curd] (https://zh.wikipedia.org/wiki/腐乳[腐乳]). Wangzhihe (https://zh.wikipedia.org/wiki/王致和[王致和]) is a good brand, <<ciro-santilli>> prefers the red ones instead of the white ones. https://www.amazon.com/Wangzhihe-Fermented-Traditional-Bean-DragonMall/dp/B00786YL72[Sample Amazon link].
 
 .The HONOR brand (康樂, full name: Honor Products, 康樂產品) Eight treasure congee (八寶粥) is a good brand to buy if you can find it. https://www.hiyou.co/product/honor-eight-treasure-porridge/[Source].
-image::{china-dictatorship-media-base}/3723_G_1512738516831.jpg[height=500]
+image::{china-dictatorship-media-base}/Eight_treasture_congee.jpg[height=500]
 
 .https://www.youtube.com/watch?v=DIxbJxNRpX0 Video showing how to make eight treasure congee from scratch by "Asian garden 2 table" published on Feb 2, 2020.
 video::DIxbJxNRpX0[youtube,height=400,width=600]
