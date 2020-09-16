@@ -1048,8 +1048,8 @@ If we had more <<western-democracies-are-not-perfect>> content, then maybe this 
 However, there are a few practical problems to that:
 
 * there is freedom of speech in the West and people can already see that information on newspapers who have a million times more viewers than this repo (and still obviously no conclusion was reached), there's no need to repeat that here
-
-  Conversely, bad China news are always OK because, because those are all censored in China and help Chinese people learn about it.
++
+Conversely, bad China news are always OK because, because those are all censored in China and help Chinese people learn about it.
 * flooding <<evil-west>> posts is a primary <<wumao>> tactic
 * <<evil-west>> information is already abundantly accessible to Chinese people in Chinese via any CCP media: <<chinese-government-media>>.
 * <<preconceived,people's minds cannot be changed>>, and notably <<effective,not in a language that most people of a country don't understand>>. This is why the primary goal of this repo is the <<keyword-attack>>: it does not require changing people's opinions.
@@ -1934,7 +1934,7 @@ Yes, Chinese characters are:
 * https://en.wikipedia.org/wiki/Horizontal_and_vertical_writing_in_East_Asian_scripts[vertical text (纵排)] is awesome (but is it more efficient? https://www.zhihu.com/question/22104723[Zhihu], https://www.quora.com/Can-literate-Chinese-people-easily-read-vertical-writing[Quora]).
 * more historically stable, and you can still read/learn more or less quickly to read https://en.wikipedia.org/wiki/History_of_the_Chinese_language[texts written more than two thousand years ago]
 
-but they just take too much time for any sane person adult to learn, it's harder than C++!
+but they just take too much time for any sane person adult to learn, it's harder than {cpp}!
 
 Ciro initially learnt from book that come with audio recordings in the first 6-months to 1 year in 2010, but that got impossibly boring afterward, so he later moved to just basically talking as much as possible non-important things to <<why-does-ciro-santilli-love-china-so-much,his wife in Chinese>>, and whenever he reaches one that he doesn't know that seems useful, he Plecos it up or just 怎么说 to his <<wife>> and then Pleco.
 
@@ -2400,6 +2400,7 @@ If you think that this list can be improved, please open an issue explaining how
 
 ==== Other notable keyword attacks
 
+[[notepad]]
 ===== Notepad++
 
 * https://en.wikipedia.org/wiki/Notepad++
@@ -2407,11 +2408,11 @@ If you think that this list can be improved, please open an issue explaining how
 
 It might be a newbie text editors for newbie Windows users, but at least they use it to good use by doing keyword attacks:
 
-* 2020-08: https://techcrunch.com/2020/08/17/notepad-plus-plus-blocked-in-china/ "Text editor Notepad++ banned in China after ‘Stand With Hong Kong’ update" where "banned" means "the download page where they keywords are shown is now blocked in Chinese browsers". The rest of the website is still up. So no domain block due to HTTPS, browser only action for now.
-* 2019-10: "In October 2019 Notepad++'s GitHub issue tracker was flooded with pro-Chinese and anti-western messages after a version codenamed "Free Uyghur" (v7.8.1) was released"
+* 2020-08: https://techcrunch.com/2020/08/17/notepad-plus-plus-blocked-in-china/ "Text editor Notepad{plus}{plus} banned in China after ‘Stand With Hong Kong’ update" where "banned" means "the download page where they keywords are shown is now blocked in Chinese browsers". The rest of the website is still up. So no domain block due to HTTPS, browser only action for now.
+* 2019-10: "In October 2019 Notepad{plus}{plus}'s GitHub issue tracker was flooded with pro-Chinese and anti-western messages after a version codenamed "Free Uyghur" (v7.8.1) was released"
 ** https://www.theregister.co.uk/2019/10/31/notepad_china_spam/
-** https://www.reddit.com/r/China/comments/dp3icm/notepad_after_voicing_their_support_for_the/ "Notepad++, after voicing their support for the Uyghurs, is now being bombarded by Chinese nationalists on Github." See e.g.: https://github.com/notepad-plus-plus/notepad-plus-plus/issues/7489 and earlier issues
-* 2008-03: "In March 2008 the "Boycott Beijing 2008" banner was placed on Notepad++'s SourceForge.net homepage": https://en.wikipedia.org/wiki/Concerns_and_controversies_over_the_2008_Summer_Olympics#Boycotts
+** https://www.reddit.com/r/China/comments/dp3icm/notepad_after_voicing_their_support_for_the/ "Notepad{plus}{plus}, after voicing their support for the Uyghurs, is now being bombarded by Chinese nationalists on Github." See e.g.: https://github.com/notepad-plus-plus/notepad-plus-plus/issues/7489 and earlier issues
+* 2008-03: "In March 2008 the "Boycott Beijing 2008" banner was placed on Notepad{plus}{plus}'s SourceForge.net homepage": https://en.wikipedia.org/wiki/Concerns_and_controversies_over_the_2008_Summer_Olympics#Boycotts
 
 The creator appears to be a Vietnamese immigrant or descendant living in France. There are many such immigrants due to Vietnam being an ex-colony: https://github.com/donho Also he must have good reason to dislike the commies due to similar commit bullshit in Vietnam. He was at https://en.wikipedia.org/wiki/Paris_Diderot_University[Paris Diderot] in 2000: https://donho.github.io/#education (https://web.archive.org/web/20190424004100/https://donho.github.io/#education[archive]).
 
@@ -4067,7 +4068,7 @@ TODO meaning of "LI"?
 
 * 2018-07-31 https://lihkg.com/thread/762440/page/1 https://archive.is/7REOi. Title: "依條友都幾屈機, 係Stack overflow撚共匪". I'm unable to understand the first sentence, but the end is something along "to play tricks on the commies". First comment (likely by OP): "佢個個人home page好多5毛留言, 唔知會唔會搞到block堆stackoverflow". The entire thread is about Ciro's <<stack-overflow>>.
 * 2019-10-05 https://lihkg.com/thread/1625310/page/1 "聽講GitHub好好用" (Attending lectures on GitHub is very useful.). But likely some slang for politics, because on first comment "可以好好上去發表下愛國論". Then someone links to <<nine-nine-six-icu>>, then to the GitHub <<mirrors,mirror of this page>>, and then to <<gitee>>.
-* 2019-10-31 https://lihkg.com/thread/1685513/page/3 "Notepad++新版代號「自由維吾爾」，GitHub網頁被灌爆，網站遭DDoS" about <<notepad>> "Free Uyghur" version. On page 3 comment links to Ciro's <<stack-overflow>> account. Big thread with 500+ likes.
+* 2019-10-31 https://lihkg.com/thread/1685513/page/3 "Notepad{plus}{plus}新版代號「自由維吾爾」，GitHub網頁被灌爆，網站遭DDoS" about <<notepad>> "Free Uyghur" version. On page 3 comment links to Ciro's <<stack-overflow>> account. Big thread with 500+ likes.
 
 [[google]]
 ==== Google 谷歌
@@ -10150,7 +10151,7 @@ Mnemonic: we measured **six** <<六>> American **exchange students** <<交>> on 
 
 Words:
 
-* <<性交>.
+* <<性交>>.
 
 [[巾]]
 ==== 巾 (jin1, towel)
