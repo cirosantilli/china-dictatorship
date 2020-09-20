@@ -2286,11 +2286,31 @@ Someone told <<ciro-santilli>> a while after he had started doing his <<keyword-
 
 You can never invent anything new anymore nowadays!
 
-As mentioned at https://www.wired.com/story/china-github-free-speech-covid-information/[], this is especially relevant to <<github>>. GitHub's mascot is also a cat ;-)
+This is especially relevant to <<github>>! And GitHub's mascot is also a cat ;-) Some mentions of this:
+
+* 2020-09-09 https://www.wired.com/story/china-github-free-speech-covid-information/
+* 2020-09-09 https://www.xataka.com/servicios/github-inesperado-ultimo-reducto-libertad-expresion-gran-firewall-que-pone-jaque-intereses-china
 
 Related:
 
 * https://en.wikipedia.org/wiki/Internet_activism
+
+===== Collateral Freedom
+
+<<greatfire>> people called a <<cute-cat-theory-of-digital-activism>>-related project of theirs "Collateral Freedom" https://techcrunch.com/2015/03/30/greatfire/ in which they seem to be trying to forward censored websites somehow through AWS to force the Chinese Government to block the entire AWS in China:
+
+____
+Collateral Freedom ties access to information to the Chinese economy. If [authorities] truly want to block access to this information, then they must give up certain access to economic freedoms.
+____
+
+There's an useless Wiki page for that: https://en.wikipedia.org/wiki/Collateral_freedom
+
+https://www.theregister.com/2019/05/10/amazon_backtracks_on_s3/ clarifies that on Amazon S3 the question is about:
+
+* `https://s3.amazonaws.com/<bucket_name>/<object_key_name>`
+* `https://<bucket_name>.s3.amazonaws.com/<object_key_name>`
+
+the second of which can be easily blocked by domain, but the first can't, and how amazon was planning on killing the first option.
 
 [[anti-ccp-info-sources]]
 ==== What are the best sources of anti-CCP news?
@@ -3601,12 +3621,12 @@ ____
 Here are some examples of people reacting to the blocking of https://github.com/programthink/zhao/issues/38 as per https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md from China (and likely on the entire repository, which appears to be the block granularity implemented):
 
 * https://github.com/programthink/books/issues/31 (https://web.archive.org/web/20191023093618/https://github.com/programthink/books/issues/31[archive])
-* https://www.zhihu.com/question/284445884/
+* https://www.zhihu.com/question/284445884/ corresponding Google bomb at: https://github.com/cirosantilli/china-dictatorship/issues/71
 * https://program-think.blogspot.com/2018/04/Zhao-at-GitHub.html?comment=1524671692761#1524671692761
 
 See also: <<programthink>>
 
-To check China only takedowns such as this, we cannot use <<censorship-monitoring,Great Fire Analyzer>>, which reports the page as accessible: the only tool I could find so far to capture a page from China a bit like Web Archive was: https://www.geoscreenshot.com which takes screenshots of the websites, but the free trial is very limited, and you can't share the screenshots. See also: <<censorship-monitoring>>.
+To check China only takedowns such as this, we cannot use <<censorship-monitoring,Great Fire Analyzer>>, which reports the page as accessible: the only tool <<ciro-santilli>> could find so far to capture a page from China a bit like Web Archive was: https://www.geoscreenshot.com which takes screenshots of the websites, but the free trial is very limited, and you can't share the screenshots on a public URL. See also: <<censorship-monitoring>>.
 
 ====== Strategy if this repo gets added to GitHub gov-takedowns
 
@@ -3761,7 +3781,7 @@ That URL also likely highlights Huawei's intense influence on Gitee, the as the 
 After posting our <<mirrors>> there, it was blocked in 12 hours:
 
 * https://gitee.com/cirosantilli/china-dictatorship
-** archive immediately after: creation: https://web.archive.org/web/20200821202450if_/https://gitee.com/cirosantilli/china-dictatorship
+** archive immediately after creation: https://web.archive.org/web/20200821202450if_/https://gitee.com/cirosantilli/china-dictatorship
 ** blocked archive 12 hours later: https://web.archive.org/web/20200822111436/https://gitee.com/cirosantilli/china-dictatorship
 +
 ____
@@ -8108,13 +8128,18 @@ And some interesting random stuff that is hard to understand why its blocked, so
 * https://www.jw.org/en/ Jehovah's Witness
 * https://www.yodobashi.com/ https://en.wikipedia.org/wiki/Yodobashi_Camera a Japanese Electronics retailer
 
-Other tools:
+Other tools and projects:
 
 * https://freeweibo.com a Weibo archive to overcome deleted posts
 * https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how made some noise at the time
 * https://twitter.com/GreatFireChina
+* <<collateral-freedom>>
 
 Their repo https://github.com/greatfire/wiki has been added to <<gov-takedowns-china>>.
+
+Who is behind them:
+
+* https://techcrunch.com/2015/03/30/greatfire/ from 2015 says "Started in 2011 by three anonymous individuals", and "Charlie Smith" is the pseudonym of the CEO.
 
 [[wayback-machine]]
 ====== Wayback Machine 网站时光机
@@ -8684,6 +8709,7 @@ Or to Ciro's other online presences, due to China activity.
 
 For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
+* 2020-09-09 https://www.xataka.com/servicios/github-inesperado-ultimo-reducto-libertad-expresion-gran-firewall-que-pone-jaque-intereses-china "Github, el inesperado último reducto de libertad de expresión ante el 'Gran Firewall' pone en jaque los intereses de China", Spanish for "Github, the unexpected last stronghold of freedom of expression before the 'Great Firewall' puts the interests of China in check" basically talking about <<cute-cat-theory-of-digital-activism>>. Links to https://github.com/cirosantilli/chenmei-caiwei-ziyou under link text "Terminus2049" which is a bit misleading, could be a link mistake, led to 15 unique clicks. Contacted author at: https://twitter.com/cirosantilli/status/1307717620863467522
 * 2020-05-23: traffic reached 3k views on that day, compared to a normal 150, but the number of individual users is the same as always. The accessed pages were only meta repo pages like "Issues", "Wiki", "Stargazers" so either of:
 ** someone attempted a baby DDoS with wget and a single IP
 ** someone is scraping repository metadata, e.g. Chinese secret service or some other commercial bot that landed here by chance for the first time
