@@ -2173,18 +2173,6 @@ But Ciro did it only when his brain was too tired of technical stuff and unable 
 
 Telling the CCP to fuck off is surprisingly relaxing, you should try it some time too. It uses a different part of your brain other than the programming one. It is, one could say, an art form.
 
-=== Was Ciro Santilli influenced by the Cute cat theory of digital activism?
-
-https://en.wikipedia.org/wiki/Cute_cat_theory_of_digital_activism
-
-Nope, someone told him about it after a while, but it is basically what he's doing.
-
-You can never invent anything new anymore nowadays!
-
-Related:
-
-* https://en.wikipedia.org/wiki/Internet_activism
-
 === People in China have already considered democracy, and rejected it
 
 OK, shall we put that to an anonymous vote just to make sure?
@@ -2287,6 +2275,22 @@ image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_a
 This type of attack is essentially an <<embargo>>.
 
 See also: <<photobombing-like-attacks>>.
+
+[[cute-cat-theory-of-digital-activism]]
+==== Cute cat theory of digital activism (可愛貓理論)
+
+* https://en.wikipedia.org/wiki/Cute_cat_theory_of_digital_activism
+* https://zh.wikipedia.org/wiki/可愛貓理論
+
+Someone told <<ciro-santilli>> a while after he had started doing his <<keyword-attack>> on <<stack-overflow>>, he didn't know about it before, but it is basically what he was doing.
+
+You can never invent anything new anymore nowadays!
+
+As mentioned at https://www.wired.com/story/china-github-free-speech-covid-information/[], this is especially relevant to <<github>>. GitHub's mascot is also a cat ;-)
+
+Related:
+
+* https://en.wikipedia.org/wiki/Internet_activism
 
 [[anti-ccp-info-sources]]
 ==== What are the best sources of anti-CCP news?
@@ -2592,6 +2596,23 @@ image::{china-dictatorship-media-base}/Xinjiang_camp_in_camp.jpg[height=600]
 
 The keyword is <<rule-of-law>>: because of a few terrorists, every single Muslim was fucked even if they did not commit any crime.
 
+* 2020-09-19 https://www.scmp.com/news/china/politics/article/3101986/china-claims-vocational-training-given-nearly-13-million-people "Chinese authorities “indirectly” confirm the scale of the camps. China claims 1.3 million Xinjiang residents given 'vocational training' each year"
++
+The document: http://www.scio.gov.cn/zfbps/32832/Document/1687588/1687588.htm also quoted on <<peoples-daily>>: http://politics.people.com.cn/n1/2020/0918/c1001-31865875.html
++
+Official English translation: http://english.scio.gov.cn/whitepapers/2020-09/17/content_76712251.htm
++
+Title: 新疆的劳动就业保障 (Employment and Labor Rights in Xinjiang)
++
+Quote:
+____
+全疆年均培训城乡各类劳动者128.8万人次，其中，南疆地区年均培训45.14万人次。参训人员至少掌握1项就业技能，绝大多数取得了职业资格证书、职业技能等级证书或专项职业能力证书，实现稳定就业。
+____
++
+Google translation:
+____
+The average annual training for all kinds of workers in urban and rural areas in Xinjiang is 1.288 million, of which 451,400 are trained in southern Xinjiang. Participants have mastered at least one employment skill, and most of them have obtained vocational qualification certificates, vocational skill level certificates or special vocational ability certificates to achieve stable employment.
+____
 * 2020-08-27 https://www.buzzfeednews.com/article/alison_killing/satellite-images-investigation-xinjiang-detention-camps "Blanked-Out Spots On China's Maps Helped Us Uncover Xinjiang's Camps". Good technique.
 * 2020-06-29 https://apnews.com/269b3de1af34e17c1941a514f78d764c "China cuts Uighur births with IUDs, abortion, sterilization"
 * 2020-06-17 https://www.reuters.com/article/idUSKBN23O3EW "Trump signs bill pressuring China over Uighur Muslim crackdown"
@@ -2721,7 +2742,7 @@ Events linked to reducing the teaching of the Tibetan language in schools and re
 * 2020-04 https://www.languagemagazine.com/2020/04/23/tibetan-language-phased-out-as-schools-switch-to-mandarin/
 * 2010 https://en.wikipedia.org/wiki/2010_Tibetan_language_protest
 
-[[2008-tibetan-unrest]]
+[[tibetan-unrest-2008]]
 ===== 2008 Tibetan unrest (2008年西藏骚乱)
 
 * https://en.wikipedia.org/wiki/2008_Tibetan_unrest
@@ -2732,7 +2753,7 @@ Good gory photos from the event: https://file.wikileaks.org/file/tibet-protest-p
 .https://youtube.com/watch?v=B-tEi4uLM_E "Hundreds of Tibetan protesters clash with police after anti-China protest" published by AP Archive.
 video::B-tEi4uLM_E[youtube,height=400,width=600]
 
-[[1987-1989-tibetan-unrest]]
+[[tibetan-unrest-1987-1989]]
 ===== 1987-1989 Tibetan unrest (1989年拉萨骚乱)
 
 * https://en.wikipedia.org/wiki/1987–1989_Tibetan_unrest
@@ -3554,6 +3575,7 @@ China's GitHub censorship history is documented at: https://en.wikipedia.org/wik
 
 Related:
 
+* <<cute-cat-theory-of-digital-activism>>
 * https://techcrunch.com/2020/09/07/scratch-ban-in-china/ Scratch visual programming language for children website blocked
 
 ===== GitHub gov-takedowns
@@ -3566,7 +3588,7 @@ This makes that repo into a list of fun things.
 
 As of 2019-05 there had only been only two takedowns by China however, compared to dozens by <<russia>>. The Chinese commies are not big fans of transparency it seems.
 
-As of 2020-03, besides the Zhao takedown, all other takedowns happened in 2019, and most seem to be <<falun-gong>>/<<epoch-times>> sponsored ways to <<censorship-circumvention,climb the wall>>.
+As of 2020-03, besides the <<programthink,Zhao>> takedown, all other takedowns happened in 2019, and most seem to be <<falun-gong>>/<<epoch-times>> sponsored ways to <<censorship-circumvention,climb the wall>>.
 
 The message GitHub shows on the blocked countries is:
 
@@ -3593,6 +3615,19 @@ If this happens, we well proceed to create alternative repos `china-dictatorship
 Can they add an entire user to gov-takedowns?
 
 But remember that we also have: <<mirrors>>, and that this can be easily rendered as a single HTML page and uploaded to any static website host.
+
+[[gov-takedowns-china]]
+====== gov-takedowns/China
+
+Skipping all <<falun-gong>>/<<epoch-times>> repos with very few stars, mostly some <<gfw>> skip methods, those are noise, and possibly added only to dilute the real deal.
+
+* 2016
+** https://github.com/github/gov-takedowns/blob/master/China/2016/2016-06-08-programthink-zhao.md[] https://github.com/programthink/zhao[]. <<programthink,Zhao>>
+* 2019
+** https://github.com/github/gov-takedowns/blob/master/China/2019/2019-11-06-MPS.md
+*** https://github.com/greatfire/wiki Wiki of <<greatfire>>. <<censorship-circumvention>>. Precise issue: https://github.com/greatfire/wiki/issues/166[] (no archives). 
+** https://github.com/github/gov-takedowns/blob/master/China/2019/2019-12-12-MPS.md
+*** https://github.com/gfw-breaker[], see also: <<github-repositories-with-censored-information>>
 
 ===== GitHub repositories with censored information
 
@@ -3623,6 +3658,7 @@ Interesting users:
 ** appears to give a lot of focus to <<falun-gong>>, e.g.:
 *** https://github.com/gfw-breaker/truth Falun Gong information repository
 *** https://github.com/gfw-breaker/banned-news1 automatic scraper of news from banned websites into the repository, with top sites being <<falun-gong-media>>
+** present in <<gov-takedowns-china>>
 * https://github.com/bannedbook
 ** https://github.com/bannedbook/fanqiang is the main repository, TODO what it contains exactly? Code, or just documentation of existing methods?
 
@@ -8041,7 +8077,7 @@ Projects that attempt to understand how the Great Firewall works and what it blo
 It is also worth noting that as mentioned at <<is-stack-overflow-blocked-in-china>> that websites can become non-functional if CDNs they rely on are taken down, instead of the website being taken down itself.
 
 [[greatfire]]
-====== GreatFire 自由微博
+====== GreatFire (自由微博)
 
 * https://en.wikipedia.org/wiki/GreatFire
 * https://zh.wikipedia.org/wiki/自由微博
@@ -8077,6 +8113,8 @@ Other tools:
 * https://freeweibo.com a Weibo archive to overcome deleted posts
 * https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how made some noise at the time
 * https://twitter.com/GreatFireChina
+
+Their repo https://github.com/greatfire/wiki has been added to <<gov-takedowns-china>>.
 
 [[wayback-machine]]
 ====== Wayback Machine 网站时光机
