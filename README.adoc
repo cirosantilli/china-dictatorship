@@ -739,6 +739,9 @@ image::{china-dictatorship-media-base}/Pig_politics_Chinese.jpg[height=600]
 .Translation by Ciro Santilli of the Rebel Pepper cartoon about the pig who does not care about politics because it cannot be eaten.
 image::{cirosantilli-media-base}/Rebel_pepper_pig_can%27t_eat_democracy_cartoon_translated_to_English_by_Ciro_Santilli.jpg[height=600]
 
+.https://knowyourmeme.com/memes/shut-up-and-take-my-money[Shut up and take my freedom] meme by <<ciro-santilli>>.
+image::{cirosantilli-media-base}/Shut_up_and_take_my_freedom.jpg[height=400]
+
 [[corruption]]
 ==== Democracies have less corruption than dictatorships
 
