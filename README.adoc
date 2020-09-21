@@ -419,7 +419,7 @@ For:
 * society becomes richer when people know that they can do their startups, get rich, and stay in the country without fear of being persecuted unfairly and losing everything instead of migrating to Canada, see also: <<rule-of-law>>
 * it is much harder to fix problems if you can't talk about the. Any criticism of the government, even if constructive, <<censorship,is taken as menace to power, and more likely to be shut down>>, which makes the government and just becomes less efficient since there is less feedback.
 +
-This greatly increase the probability of dealing bad with situations. See e.g.: <<corona>>.
+This greatly increase the probability of dealing poorly with such problems, see e.g. all the global problems listed at: <<not-chinese>>.
 * governments are monopolies, and the more powerful they are, the worst it is for competition an efficiency in general. E.g.: the startup with better government ties wins, instead of the most efficient one.
 * people in dictatorships tend to <<real-username-law,hide their true identities online>> and in life in general. It is best not to stand out, because if you make any mistake, you are really fucked. As a result, for example, if you do something awesome like a creating an open source project, but do it anonymously, you won't get as much fame. And therefore everyone does less of such awesome things on average.
 
@@ -906,13 +906,13 @@ Installing any of those immediately give you <<social-credit-system,10 Sesame Po
 See also: <<harm-programmers>>.
 
 [[not-chinese]]
-=== Non-Chinese people should not interfere in Chinese politics 外国人不应该干预中国政治
+=== Non-Chinese people should not interfere in Chinese politics (外国人不应该干预中国政治)
 
 * For better or worse, China and other countries happen to be located in the same planet.
 +
 If China's <<richer,economy>> is bad, the economy gets worse in other countries.
 +
-If China's environment is bad, the environment gets worse in other countries.
+If China's <<howey-ou,environment is bad>>, the environment gets worse in other countries.
 +
 If China <<war,starts a war>>, other countries will have to fight it.
 +
@@ -1637,7 +1637,7 @@ ____
 Snowden then later released the entire Chinese version of the book for free online with the censored parts underlined: https://www.theregister.co.uk/2020/02/10/snowden_china_censorship (https://web.archive.org/web/20200213001653/https://www.theregister.co.uk/2020/02/10/snowden_china_censorship[archive]), link to the book: link:++https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf++[] (https://web.archive.org/web/20200212144108/https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf[archive]). One wonders why he didn't just do that in the first place for all versions, maybe he needed to pay the writer that helped him?
 
 .Snowden highlighted defects on abuses of power in a Western democracy, and the discussion he sparked helped to control such abuses. https://en.wikipedia.org/wiki/File:Edward_Snowden-2.jpg[Source].
-image::{china-dictatorship-media-base}/Space_program_Change.jpg[height=400]
+image::{china-dictatorship-media-base}/Snowden.jpg[height=400]
 
 ===== Fake news
 
@@ -1736,7 +1736,7 @@ image::{china-dictatorship-media-base}/Xi_raised_fist.jpg[height=400]
 image::{china-dictatorship-media-base}/Nazi_war_flag.png[height=400]
 
 .Hitler has of course a few raised fists on Google Images, but they tend to be more aggressive, and less compatible with Xi's apathic poker face. https://bodylanguageproject.com/xarticles/wp-content/uploads/2019/07/Hitler-4.jpg[Source].
-image::{china-dictatorship-media-base}/Hitler_angry_rehearsal[height=400]
+image::{china-dictatorship-media-base}/Hitler_angry_rehearsal.jpg[height=400]
 
 .Photoshopped cover of Mein Kampf with Xi's face on top of Hitler's and other modifications such as Mian instead of Mein, likely the same 面 (mian4, face) as the Chinese character at the bottom right. https://foreignerinformosa.typepad.com/the_foreigner_in_formosa/2017/07/president-xitler-of-china-murders-political-dissident-liu-xiaobo.html[Source].
 image::{china-dictatorship-media-base}/Xi_mein_kampf.jpg[height=400]
@@ -4404,7 +4404,7 @@ image::{china-dictatorship-media-base}/Putin_horse.jpg[height=500]
 image::{china-dictatorship-media-base}/Putin_bear.jpg[height=400]
 
 .Putin riding a shark. https://sharkdivers.blogspot.com/2011/05/russian-pm-putin-rides-great-white.html[Source].
-image::{china-dictatorship-media-base}/Xi_sadomasochist.png[height=400]
+image::{china-dictatorship-media-base}/Putin_shark.png[height=400]
 
 .Putin riding a giant eagle. https://www.quora.com/Is-this-picture-of-Vladimir-Putin-riding-a-bear-fake-or-real[Source].
 image::{china-dictatorship-media-base}/Putin_eagle.webp[height=400]
@@ -4692,7 +4692,7 @@ With the support of the Communist Party to Qigong movements, it reached 70 milli
 
 Li fled to the USA and lives near New York, where he continues to run the religion as of 2020.
 
-.Falun Gong believer arrested by police in Beijing <<tiananmen,Tiananmen Square>> in 15 August 2001. https://en.wikipedia.org/wiki/File:TAM_Arrest4.jpg[Source].
+.<<falun-gong>> believer arrested by police in Beijing <<tiananmen,Tiananmen Square>> in 15 August 2001. https://en.wikipedia.org/wiki/File:TAM_Arrest4.jpg[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_lady_silenced.jpg[height=600]
 
 [[zone-theory]]
@@ -4725,13 +4725,13 @@ Let's try to gather some well sourced footage showing huge numbers of believers 
 ** https://www.youtube.com/watch?v=v7cz4Tkbwy8 contains old good footage
 ** https://www.youtube.com/watch?v=DDRUp50XkSs Chinese with English subs, above is rehashed from this one most likely
 
-.Thousands of Falun Gong practitioners in Guangzhou, China, 1998. https://www.theepochtimes.com/finding-the-balance-between-ancient-and-modern_2248694.html[Source].
+.Thousands of <<falun-gong>> practitioners in Guangzhou, China, 1998. https://www.theepochtimes.com/finding-the-balance-between-ancient-and-modern_2248694.html[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_Ghuangzhou.jpg[height=600]
 
-.Thousands of Falun Gong practitioners in Liaoning Industrial Exhibition, China, likely 1998. https://en.minghui.org/html/articles/2016/5/21/157091.html[Source].
+.Thousands of <<falun-gong>> practitioners in Liaoning Industrial Exhibition, China, likely 1998. https://en.minghui.org/html/articles/2016/5/21/157091.html[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_Liaoning.jpg[height=600]
 
-.Hundreds of Falun Gong believers in Chengdu, China, 1998. https://faluninfo.net/falun-gong-the-practice/[Source].
+.Hundreds of <<falun-gong>> believers in Chengdu, China, 1998. https://faluninfo.net/falun-gong-the-practice/[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_Chengdu.jpg[height=500]
 
 [[does-ciro-santilli-believe-in-or-practice-falun-gong]]
@@ -5296,7 +5296,7 @@ The closest claims to observable Ciro has heard are:
 * in the homes of some followers, small magic good plants-like fungi-like things have grown
 +
 [[flg-fungi]]
-.Image of the magic good small plants that grew on a believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese. https://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
+.Image of the magic good small plants that grew on a <<falun-gong>> believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese. https://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_magic_fungi.jpg[height=400]
 * the <<flg-canon,sacred books>> of some believers had a closed lotus flower when they were bought, and after several years, the flower opened
 
@@ -5831,7 +5831,7 @@ image::{china-dictatorship-media-base}/Li_Hongzhi_stone_garden.jpg[height=600]
 
 [[li-hongzhi-blue-halo]]
 .<<li-hongzhi,Li>> in front of a light blue background (similar to <<xi-jinping-portrait-blue,CCP official portraits>>) with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] suggestion around his head. https://www.epochtimes.com/gb/11/5/12/n3254555.htm[Lower quality version] on <<epoch-times>> itself. https://www.epochweekly.com/144/7046pg.htm[Source].
-image::{china-dictatorship-media-base}/Li_Hongzhi_Blue.jpg[height=400]
+image::{china-dictatorship-media-base}/Li_Hongzhi_blue.jpg[height=400]
 
 [[li-hongzhi-lotus]]
 .<<li-hongzhi,Li>> going https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] while casually sitting on a https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art[giant Lotus flower] with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] on his head. https://www.pinterest.fr/pin/8022105562347289/[Source].
@@ -6029,7 +6029,7 @@ image::{china-dictatorship-media-base}/Zhong_Gong_lotus.jpg[height=400]
 image::{china-dictatorship-media-base}/Zhong_gong_blue.jpg[height=400]
 
 [[flg-blue]]
-.Hungarian Falun Gong propaganda image with woman meditating in with blue sky background for comparison with <<zhong-gong-blue,similar Zhong Gong imagery>>. https://hu.faluninfo.eu/[Source].
+.Hungarian <<falun-gong>> propaganda image with woman meditating in with blue sky background for comparison with <<zhong-gong-blue,similar Zhong Gong imagery>>. https://hu.faluninfo.eu/[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_sky_advertisement.jpg[height=400]
 
 [[qigong-fever]]
@@ -6179,7 +6179,7 @@ Some good photoshops:
 image::{china-dictatorship-media-base}/Xi_Pooh_Obama.webp[height=400]
 
 .Comparison image between Xi Jinping shaking hands with https://en.wikipedia.org/wiki/Shinzo_Abe[the Japanese prime minister Shinzo Abe] and a Winnie-the-Pooh cartoon still of Winnie shaking hands with the https://en.wikipedia.org/wiki/Eeyore[Eeyore, the donkey]. The original photo is from https://www.nytimes.com/2014/11/11/world/asia/leaders-of-china-and-japan-hold-long-awaited-meeting.html[Abe's lacklustre 2014 visit to Beijing]. https://www.theguardian.com/world/2018/aug/07/china-bans-winnie-the-pooh-film-to-stop-comparisons-to-president-xi[Source].
-image::{china-dictatorship-media-base}/Xi_Abe_Pooh.jpg[height=400]
+image::{china-dictatorship-media-base}/Xi_Abe_Pooh.webp[height=400]
 
 .Comparison image between Xi Jinping on a car in a 2015 military parade and a toy Winnie-the-Pooh on a car. https://www.bbc.co.uk/news/blogs-china-blog-40627855[Source].
 image::{china-dictatorship-media-base}/Xi_Pooh_car.jpg[height=400]
@@ -6410,7 +6410,7 @@ The name refers to:
 
 Reached 180k stars in a week, and was the second most starred repository as of 2019-10 https://github.com/search?q=stars%3A%3E100&s=stars&type=Repositories[] (https://web.archive.org/web/20191023084929/https://github.com/search?q=stars%3A%3E100&s=stars&type=Repositories[archive])!!!
 
-This is therefore the best example for Chinese tech workers that freedom of speech is a good thing.
+This is therefore the best example for Chinese tech workers that <<richer,freedom of speech is a good thing>>.
 
 Coverage:
 
@@ -6460,7 +6460,6 @@ image::{china-dictatorship-media-base}/996ICU.png[height=400]
 
 === News 2016
 
-* 2016-11 https://www.bbc.co.uk/news/video_and_audio/headlines/38005603 Election china style, BBC interview with Chinese candidate, while thugs block him physically from nocking the door: Funny / scary stuff. https://www.reddit.com/r/China/comments/5dfigb/this_is_democracy_chinesestyle/
 * 2016-11 https://www.reddit.com/r/China/comments/5ai1s6/chinese_citizen_arrested_after_wearing_xitler/ https://wqw2010.blogspot.co.uk/2016/10/101.html Possible Twitter: https://twitter.com/kwonpyong
 * 2016-09: https://qz.com/783026/china-censorship-chinese-citizens-are-being-arrested-for-sharing-news-about-the-wukan-village-rebellion-online/ https://qz.com/781989/foreign-journalists-are-wanted-for-3000-by-chinese-authorities-for-inciting-unrest-in-a-village/ https://en.wikipedia.org/wiki/Wukan_protests
 * 2016-06 https://www.theguardian.com/music/2016/jun/28/china-lady-gaga-ban-list-hostile-foreign-forces-meeting-dalai-lama
@@ -6869,7 +6868,7 @@ Profiles:
 * 2019-07-24 https://www.scmp.com/news/china/article/3019840/chinese-fugitive-tycoon-and-member-trumps-mar-lago-also-spy "Is Guo Wengui, Chinese fugitive tycoon and member of Trump's Mar-a-Lago, also a spy?"
 
 [[hao-haidong]]
-===== Hao Haidong 郝海东 (2020)
+===== Hao Haidong (郝海东, 2020)
 
 * https://en.wikipedia.org/wiki/Hao_Haidong
 * https://zh.wikipedia.org/wiki/郝海东
@@ -7036,8 +7035,27 @@ Hao Runze's page https://baike.baidu.com/item/郝润泽
 * and casually forgets to mention that he is the fucking son of Haidong, which was likely edited out recently, but there is no edit history in Baidu Baike. <<google-cache>> was already from 2020-06-08 and missed the pre-edit. What a shame
 * The last entry says "2020年5月31日，郝润泽在塞尔维亚超级联赛第27轮尼什工人客场挑战纳普里达克的比赛中，首秀替补出场打入一球，帮助尼什工人实现绝平。" and also casually forgets to mention that he was fired two weeks later.
 
+[[howey-ou]]
+==== Howey Ou (欧泓奕, 2019)
+
+The Chinese https://en.wikipedia.org/wiki/Greta_Thunberg[Great Thunberg]. Environment activist. She speakes English too.
+
+Mandatory <<zhihu>> question: https://www.zhihu.com/question/354163461 "如何看待中国首位气候活动家欧泓奕?"
+
+Social media:
+
+* https://twitter.com/howey_ou
+* https://weibo.com/u/7305598806
+
+News coverage:
+
+* 2020-06-20 https://www.theguardian.com/world/2020/jul/20/chinas-first-climate-striker-cant-return-to-school "China's first climate striker warned: give it up or you can't go back to school"
+
+.Howey Ou skipped classes for a week to protest about climate change in front of the local government office in Guilin in 2019. https://www.scmp.com/news/china/society/article/3094873/howey-ou-chinas-version-greta-thunberg-pays-price-climate[Source].
+image::{china-dictatorship-media-base}/Howey_Ou_2019.jpg[height=400]
+
 [[zhou-fengsuo]]
-==== Zhou Fengsuo 周锋锁
+==== Zhou Fengsuo (周锋锁)
 
 https://en.wikipedia.org/wiki/Zhou_Fengsuo | https://zh.wikipedia.org/wiki/周锋锁
 
@@ -7814,10 +7832,10 @@ The Savage took it. "The Holy Bible, containing the Old and New Testaments" he r
 ____
 
 [[policies]]
-== Policies 政策
+== Policies (政策)
 
 [[censorship]]
-=== Censorship 审查
+=== Censorship (审查)
 
 Related: <<hate-speech>>.
 
@@ -7895,7 +7913,8 @@ Here is one concrete and well documented example: <<zhihu-purge>>.
 
 Or maybe why not <<t-shirt,go out on the street in China with a T-shirt with censored words and share some photos online>>?
 
-.https://www.youtube.com/watch?v=c1HdCIW2Xtk 2016-10-18 BBC stopped from visiting China independent candidate for local elections, Liu Huizhen (刘惠珍). They returned a few days later when the thugs weren't there: https://www.youtube.com/watch?v=eroTCMRn2yQ[].
+[[video-bbc-local-election-interview-block-2016]]
+.https://www.youtube.com/watch?v=c1HdCIW2Xtk 2016-10-18 BBC reporter stopped from visiting China local election independent candidate Liu Huizhen (刘惠珍) by local thugs who block him physically from nocking the door. Funny/scary stuff. The BBC returned a few days later when the thugs weren't there: https://www.youtube.com/watch?v=eroTCMRn2yQ[]. Accompaging article: https://www.bbc.co.uk/news/world-asia-china-37997706[] "China elections: Independent candidates fight for the ballot".
 video::c1HdCIW2Xtk[youtube,height=400,width=600]
 
 [[t-shirt]]
@@ -8561,6 +8580,14 @@ Reception:
 ** https://www.engadget.com/2015/02/28/china-username-policy-purge/ "Chinese internet giants purge 60,000 accounts for inappropriate usernames"
 
 And guess which idiotic Western website requires real usernames and no privacy? <<quora>>, of course: https://techcrunch.com/2011/02/14/quora-to-oddly-named-users-papers-please/
+
+==== Journalism
+
+===== Western journalists in China
+
+* 2020-09-21 https://www.abc.net.au/news/2020-09-21/matthew-carney-foreign-journalist-china-intimidation-birtles/12678610 "'You will be put into detention': Former ABC bureau chief tells story of fleeing China for first time"
+* 2016 <<video-bbc-local-election-interview-block-2016>>
+* 2015 Ursula Gauthier from <<liubukou>>
 
 [[social-credit-system]]
 === Social Credit System 社会信用体系
