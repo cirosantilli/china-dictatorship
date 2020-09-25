@@ -151,7 +151,7 @@ git checkout gh-pages
 xdg-open README.html
 ....
 
-or built it yourself:
+or build it yourself:
 
 ....
 bundle install
@@ -175,15 +175,17 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 * https://bitbucket.org/cirosantilli/china-dictatorship
 * https://gitee.com/cirosantilli/china-dictatorship on <<gitee>>, blocked after 12 hours: <<gitee-censorship>>
 
-GitHub Pages: https://cirosantilli.com/china-dictatorship Trade-offs with https://github.com/cirosantilli/china-dictatorship[]
+GitHub Pages: https://cirosantilli.com/china-dictatorship trade-offs with https://github.com/cirosantilli/china-dictatorship[]:
 
-* pro
+* pros
 ** cut up to 512KB of source, and therefor unacceptable as the only source: https://github.com/isaacs/github/issues/1610[]
 ** https://help.github.com/en/github/authenticating-to-github/about-anonymized-image-urls[GitHub's camo] keeps hiccuping and not showing images
 ** and YouTube videos show inline there
 * cons
 ** domain will eventually get blocked in China. <<greatfire>> https://zh.greatfire.org/https/cirosantilli.com shows that in 2020-01-19 the domain was unblocked, but on the next text at 2020-05-23 it was "contractictory".
 ** Camo bypasses the need for VPN, since most images are served from <<wayback-machine>> which is <<censorship,blocked in China>>.
+
+It is really interesting to see how many people star the GitHub repository, and then a few minutes later they think about how they might get put in jail, and then unstar it. Talk about <<chilling-effect>>!
 
 GitHub Pages was first enabled in 2020-03-22 at https://github.com/cirosantilli/china-dictatorship/commit/0b362a83fb5dd55f67b9d351551d0c18e7f3229a[].
 
@@ -759,6 +761,10 @@ ____
 
 Well known corruption cases:
 
+* 2020 Ren Zhiqiang
+** https://en.wikipedia.org/wiki/Ren_Zhiqiang
+** https://zh.wikipedia.org/wiki/任志强
+** https://edition.cnn.com/2020/09/22/asia/china-ren-zhiqiang-xi-jinping-intl-hnk/index.html "Chinese tycoon who criticized Xi Jinping's handling of <<corona,coronavirus>> jailed for 18 years"
 * 2012 https://en.wikipedia.org/wiki/Ling_Jihua[Ling Jihua] (https://zh.wikipedia.org/wiki/令计划[令计划]): son died in Ferrari crash with two women on the car, which put the spotlight on him
 * 2012 https://en.wikipedia.org/wiki/Bo_Xilai[Bo Xilai] (https://zh.wikipedia.org/wiki/薄熙来[薄熙来]): trigerred by the murder of https://en.wikipedia.org/wiki/Neil_Heywood[Neil Heywood], of which Bo's wife was accused
 
@@ -903,6 +909,8 @@ If the truth is too much for you to bear, worry not, you can use either:
 **** https://english.meta.stackexchange.com/users/156741/li-xiaodong
 **** https://github.com/DoyleLi from Intel
 * a custom ad terminator expression shown at: https://github.com/cirosantilli/china-dictatorship/issues/87 `stackoverflow.com##a[href="/users/895245/ciro-santilli-%e6%96%b0%e7%96%86%e6%94%b9%e9%80%a0%e4%b8%ad%e5%bf%83%e6%b3%95%e8%bd%ae%e5%8a%9f%e5%85%ad%e5%9b%9b%e4%ba%8b%e4%bb%b6"]`
+
+Another good option is to use the trusty <<cac-report-website>>.
 
 Installing any of those immediately give you <<social-credit-system,10 Sesame Points>>, <<xi-abolishes-term-limits-2018-03,习万岁>>.
 
@@ -1319,6 +1327,14 @@ video::zndzntIDLFE[youtube,height=400,width=600]
 
 .Westerner: "How is life in China?" Chinese: "Oh, we can't complain." Westerner: "That's awesome." Chinese: "No, seriously... we can't." is a word play between the more common "we can't complain because everything is great" and "we can't complain because <<xi-jinping,Xi>> will <<censorship,make us disappear>>". https://www.taiwannews.com.tw/en/news/3933168[Source]
 image::{china-dictatorship-media-base}/We_cant_complain.jpg[height=600]
+
+[[chilling-effect]]
+====== Chilling effect (寒蝉效应)
+
+* https://en.wikipedia.org/wiki/Chilling_effect
+* https://zh.wikipedia.org/wiki/寒蟬效應_(法律)
+
+It is really interesting to see how many people star the <<mirrors,GitHub repository>>, and then a few minutes later they think about how they might get put in jail, and then unstar it. <<ciro-santilli>> is able to see this because the star notification remains in the GitHub dashboard even after unstarring. This is very rare in his other repositories.
 
 [[intolerance]]
 ===== Most Chinese people don't care about the minorities
@@ -2303,11 +2319,13 @@ Related:
 
 ===== Collateral Freedom
 
-<<greatfire>> people called a <<cute-cat-theory-of-digital-activism>>-related project of theirs "Collateral Freedom" https://techcrunch.com/2015/03/30/greatfire/ in which they seem to be trying to forward censored websites somehow through AWS to force the Chinese Government to block the entire AWS in China:
+<<greatfire>> people called a <<cute-cat-theory-of-digital-activism>>-related project of theirs "Collateral Freedom" (a reference to https://en.wikipedia.org/wiki/Collateral_damage[collateral damage]), in which they seem to be trying to forward censored websites somehow through AWS to force the Chinese Government to block the entire AWS in China:
 
 ____
 Collateral Freedom ties access to information to the Chinese economy. If [authorities] truly want to block access to this information, then they must give up certain access to economic freedoms.
 ____
+
+2015 coverage: https://techcrunch.com/2015/03/30/greatfire/
 
 There's an useless Wiki page for that: https://en.wikipedia.org/wiki/Collateral_freedom
 
@@ -2609,7 +2627,7 @@ ____
 The public must realize that a handful of extremists are far from qualified to represent tens of millions of local residents in Xinjiang. It is not only an irrational and biased mindset to put the blame on the entire Uyghur community or the Muslim world, but the idea will also abet and aid those separatists and terrorists who are desperate to take advantage of ethnic and religious conflicts.
 ____
 +
-and yet as of the 2017 Internment camps, all Xinjiang Muslims were fucked. <<rule-of-law>> comes to mind.
+and yet as of the \x[xinjiang-re-education-camps], all Xinjiang Muslims were fucked. <<rule-of-law>> comes to mind.
 
 .<<rebel-pepper,Rebel Pepper>> 2017-04 cartoon showing that Xinjiang is like a prison inside a greater prison, which is China itself. Chinese characters read: 新疆(Xinjiang) and 中国(China). TODO source.
 image::{china-dictatorship-media-base}/Xinjiang_camp_in_camp.jpg[height=600]
@@ -2621,6 +2639,14 @@ image::{china-dictatorship-media-base}/Xinjiang_camp_in_camp.jpg[height=600]
 * https://zh.wikipedia.org/wiki/新疆再教育營
 
 The keyword is <<rule-of-law>>: because of a few terrorists, every single Muslim was fucked even if they did not commit any crime.
+
+Overview projects:
+
+* https://xjdp.aspi.org.au/ The Xinjiang Data Project by the https://en.wikipedia.org/wiki/Australian_Strategic_Policy_Institute[Australian Strategic Policy Institute]
++
+Also includes the <<uyghurs-for-sale>> report.
+
+News:
 
 * 2020-09-19 https://www.scmp.com/news/china/politics/article/3101986/china-claims-vocational-training-given-nearly-13-million-people "Chinese authorities “indirectly” confirm the scale of the camps. China claims 1.3 million Xinjiang residents given 'vocational training' each year"
 +
@@ -2713,6 +2739,7 @@ It is so prevalent, that it is often shortened to just "Md." and people are just
 .Image of prisoners wearing blue sitting down in Xinjiang concentration camp, with some prisoners identified to indicate that they are not criminals but rather detained purely for political reasons. https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[Source].
 image::{china-dictatorship-media-base}/Xinjiang_prisoners_sitting_identified.jpeg[height=400]
 
+[[uyghurs-for-sale]]
 .Advertisement published by Qingdao Decai Decoration Co. claiming to supply government-sponsored Uyghur workers from Xinjiang to other provinces. Source of translation: https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report]. Original website archive from  16 Jan 2020: http://archive.ph/r7T8r[]. The ad features a caricature of two dancing Uyghurs in traditional clothing. This is evidence of the CCP's mass forced eviction and slavery of Uyghurs.
 image::{china-dictatorship-media-base}/Uyghur_sale_website.jpg[height=500]
 
@@ -3053,8 +3080,12 @@ This is true for all countries however, and we do not reproach China specificall
 
 The point is that the West should not underestimate this menace that comes from a <<dictatorship>>.
 
+For university espionage see: <<university-espionage>>.
+
 Some Chinese spy stories:
 
+* 2020-09-21 Baimadajie Angwang
+** https://www.cnbc.com/amp/2020/09/21/nypd-cop-charged-with-acting-as-china-agent.html "New York City police officer spied on fellow Tibetans for China, prosecutors charge"
 * 2019-01-15 Kevin Mallory
 ** 2019-01-15 https://www.bbc.co.uk/news/world-us-canada-46557096 "Kevin Mallory: The churchgoing patriot who spied for China"
 +
@@ -3079,8 +3110,6 @@ The article also contains a good summary section "CIA spy operation in China: Ke
 ** https://www.bbc.co.uk/news/world-us-canada-44364437
 * 2010-2012 about 20 CIA spies in China were killed. One was shot right in the courtyard of a government building as a message to others.
 ** https://www.reuters.com/article/us-usa-china-espionage-idUSKCN18G0UM "China killed CIA sources, hobbled U.S. spying from 2010 to 2012: NYT"
-
-See also: <<university-espionage>>.
 
 [[mss]]
 ====== Ministry of State Security (Guoanbu, 国安部)
@@ -4698,7 +4727,7 @@ With the support of the Communist Party to Qigong movements, it reached 70 milli
 
 Li fled to the USA and lives near New York, where he continues to run the religion as of 2020.
 
-.<<falun-gong>> believer arrested by police in Beijing <<tiananmen,Tiananmen Square>> in 15 August 2001. https://en.wikipedia.org/wiki/File:TAM_Arrest4.jpg[Source].
+.<<falun-gong>> believer arrested by police in Beijing <<tiananmen,Tiananmen Square>> in 2000-01-10. https://www.theepochtimes.com/spiritual-practice-continues-to-be-persecuted-in-china-amid-the-ccp-virus-pandemic_3296045.html[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_lady_silenced.jpg[height=600]
 
 [[zone-theory]]
@@ -6923,7 +6952,7 @@ Listings of the 2002 squad:
 
 Google bomb at: https://github.com/cirosantilli/china-dictatorship/issues/111
 
-.Hao Haidong (in white) playing for the China national team against the Hong Kong's national team in a World Cup Asian zone qualifying match at Siu Sai Wan Sports Ground in 2004. Photo: <<scmp>>. https://www.scmp.com/sport/china/article/3087684/chinese-sports-couple-hao-haidong-and-ye-zhaoying-face-being-wiped[Source].
+.Hao Haidong (in white) playing for the China national team against the Hong Kong's national team in a World Cup Asian zone qualifying match at Siu Sai Wan Sports Ground in 2004. Request for https://twitter.com/fjamie013[James Fridman] to remove Haidong from the picture in reference to <<censorship-of-images-in-the-soviet-union>>: https://twitter.com/cirosantilli/status/1308670186640289792[]. Photo by: <<scmp>>. https://www.scmp.com/sport/china/article/3087684/chinese-sports-couple-hao-haidong-and-ye-zhaoying-face-being-wiped[Source].
 image::{china-dictatorship-media-base}/Hao_Haidong_kick.jpg[height=500]
 
 .https://www.youtube.com/watch?v=XgSwRwFBNFA Hao Haidong's top 10 goals, all with CCTV 5 watermark :-)
@@ -7121,7 +7150,7 @@ Alias: 洁洁良
 Related: <<hong-kong>>.
 
 [[joshua-wong]]
-==== Joshua wong (黄之锋)
+==== Joshua Wong (黄之锋)
 
 * https://en.wikipedia.org/wiki/Joshua_Wong
 * https://zh.wikipedia.org/wiki/黃之鋒
@@ -7129,6 +7158,10 @@ Related: <<hong-kong>>.
 Social media:
 
 * https://twitter.com/joshuawongcf
+
+News coverage:
+
+* 2020-09-24 arrested: https://hongkongfp.com/2020/09/24/breaking-hong-kong-activist-joshua-wong-arrested-on-suspicion-of-participating-in-an-unauthorised-assembly/
 
 [[agnes-chow]]
 ==== Agnes Chow (周庭)
@@ -7864,7 +7897,7 @@ What if this person is right, and wants to express this publicly to get support 
 
 Should this person just be put into jail as is done currently? Do you really think that the CCP can never do anything seriously wrong? <<chinese-politicians-really-care-about-the-chinese-citizens>>?
 
-When citizens stop trying to contribute due to fear, this is known as the https://en.wikipedia.org/wiki/Chilling_effect[chilling effect (寒蝉效应)].
+When citizens stop trying to contribute due to fear, this is known as the <<chilling-effect>>.
 
 What if a <<is-chinese-politician-x-evil,politician>> does something bad, and <<corruption,suppresses the news to protect themselves>>?
 
