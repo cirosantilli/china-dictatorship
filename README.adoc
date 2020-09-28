@@ -3293,6 +3293,7 @@ Some hell known companies and events:
 ** 2019-01-04 https://www.scmp.com/news/china/article/2180620/linkedin-adhering-beijings-rules-censors-chinese-profile-page-us-based "LinkedIn reverses course after censoring Chinese profile page of US-based human rights activist Zhou Fengsuo", see also: <<zhou-fengsuo>>
 ** 2014-06-04 https://money.cnn.com/2014/06/04/technology/linkedin-china-censorship/ "LinkedIn draws fire for China censorship" mentions: "Some LinkedIn (LNKD) users have received emails from the company in recent days informing them that their posts will not be shown in mainland China."
 * Apple
+** https://applecensorship.com App Store monitoring by <<greatfire>>, source: https://github.com/greatfire/applecensorship
 ** 2020-03-01 https://techcrunch.com/2020/03/01/china-roundup-apple-closes-app-store-loophole/ "China Roundup: Apple closes a 4-year-old App Store loophole"
 ** 2020-02-25 https://www.theguardian.com/technology/2020/feb/25/apple-censorship-requests-china-shareholder-groups-proposal
 ** 2019-04-12 https://www.theverge.com/2019/4/12/18305087/congress-apple-criticism-china-communist-tiananmen-pro-democracy "Lawmakers lash out at Apple for censoring a song about <<tiananmen,Tiananmen Square protests>>"
@@ -3623,15 +3624,29 @@ The only thing that would work is if the Chinese government makes a gov-takedown
 
 In order to get this repository in gov-takedown, your best bet is to use the <<cac-report-website>>.
 
-China's GitHub censorship history is documented at: https://en.wikipedia.org/wiki/Censorship_of_GitHub#China
+China's GitHub censorship history is documented at: https://en.wikipedia.org/wiki/Censorship_of_GitHub#China[], some events:
 
 * 2019-07-29 https://techcrunch.com/2019/07/29/github-ban-sanctioned-countries/ "GitHub confirms it has blocked developers in Iran, Syria and Crimea". "As part of the push, Friedman said GitHub has enforced new restrictions to prevent users in sanctioned countries from accessing private repositories and GitHub Marketplace, as well as maintaining private paid organization accounts"
 ** https://github.com/1995parham/github-do-not-ban-us protest repo against the sanctions, archived as of 2020-08
+** https://github.com/1995parham/github-do-not-ban-us/issues/1010 "Use gitee from china" recommending <<gitee>>
 
 Related:
 
 * <<cute-cat-theory-of-digital-activism>>
 * https://techcrunch.com/2020/09/07/scratch-ban-in-china/ Scratch visual programming language for children website blocked
+* https://www.quora.com/Is-GitHub-com-allowed-in-China/answer/Ciro-Santilli
+
+===== GitHub censored subdomains
+
+It appears according to <<greatfire>> however that there are some important GitHub censored subdomains, notably:
+
+* https://raw.githubusercontent.com[], from which images and other downloads are served. Therefore all images served from GitHub should be broken in China
+* https://gist.github.com[]: meh, that's useless, just create a github.com/notes repo and dump your stuff there
+
+More information:
+
+* https://webapps.stackexchange.com/questions/146517/how-it-is-possible-that-some-pages-of-an-https-website-like-github-are-marked-as
+* https://twitter.com/cirosantilli/status/1310461733325148160
 
 ===== GitHub gov-takedowns
 
@@ -3706,6 +3721,7 @@ Mentioned in other sections:
 * <<bandinchina-github-repository>>
 * https://github.com/jasonqng/chinese-keywords mentioned at <<where-can-i-find-good-words-for-a-keyword-attack>>
 * https://github.com/programthink/zhao from <<programthink>>
+* <<censorship-monitoring-tools-on-github>>
 
 Interesting users:
 
@@ -8147,12 +8163,18 @@ Projects that attempt to understand how the Great Firewall works and what it blo
 ** https://gking.harvard.edu/50c#
 ** https://gking.harvard.edu/publications/how-Censorship-China-Allows-Government-Criticism-Silences-Collective-Expression
 ** https://gking.harvard.edu/publications/randomized-experimental-study-censorship-china
-* https://github.com/phoeagon/gfw-sim GFW emulation
-* https://github.com/citizenlab/chat-censorship data on Censorship
 * https://gfw.report/
 * https://geneva.cs.umd.edu/ from the Geneva Project of the University of Maryland. Source: https://github.com/kkevsterrr/geneva
 
 It is also worth noting that as mentioned at <<is-stack-overflow-blocked-in-china>> that websites can become non-functional if CDNs they rely on are taken down, instead of the website being taken down itself.
+
+====== Censorship monitoring tools on GitHub
+
+More interesting GitHub repositories: <<github-repositories-with-censored-information>>
+
+* https://github.com/phoeagon/gfw-sim GFW emulation
+* https://github.com/citizenlab/chat-censorship data on Censorship
+* https://github.com/mothran/mongol "A simple python tool to pinpoint the IP addresses of machines working for the Great Firewall of China."
 
 [[greatfire]]
 ====== GreatFire (自由微博)
@@ -8292,6 +8314,9 @@ See also:
 [[censorship-circumvention]]
 ===== Censorship circumvention 翻墙
 
+* https://en.wikipedia.org/wiki/Lantern_(software)
+** https://github.com/getlantern/lantern on <<github>>
+* https://github.com/yinghuocho/firefly-proxy "A proxy software to help circumventing the Great Firewall."
 * https://www.bypasscensorship.org
 
 It is interesting to note how <<falun-gong>> is a good source of censorship-circumvention material, see e.g.: <<github-gov-takedowns>>.
