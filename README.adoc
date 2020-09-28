@@ -140,7 +140,7 @@ image::{china-dictatorship-media-base}/Side_by_side_comparison_between_Thai_king
 
 You can download the webpage locally from GitHub at: https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip
 
-Media such as images are not stored in this repository, but rather at https://github.com/cirosantilli/china-dictatorship-media to keep the lightweight clone. The locally downloaded HTML will then read images from that repository.
+Media such as images are not stored in this repository, but rather at https://github.com/cirosantilli/china-dictatorship-media to keep the lightweight clone. The locally downloaded HTML will then read images from that repository. But we've learnt after creating that repository that the subdomain that serves the images is censored: <<github-censored-subdomains>>, so they might still be broken.
 
 You can also clone locally with Git:
 
@@ -167,6 +167,8 @@ git clone https://github.com/cirosantilli/china-dictatorship-media
 cd china-dictatorship
 make MEDIA=../china-dictatorship-media
 ....
+
+Given <<github-censored-subdomains>>, this might be the only way to view the images from China.
 
 The cool thing about Git is that we can maintain several mirrors on multiple websites very easily:
 
