@@ -3682,6 +3682,9 @@ See also: <<programthink>>
 
 To check China only takedowns such as this, we cannot use <<censorship-monitoring,Great Fire Analyzer>>, which reports the page as accessible: the only tool <<ciro-santilli>> could find so far to capture a page from China a bit like Web Archive was: <<geoscreenshot>>
 
+.<<geoscreenshot>> of https://github.com/programthink/zhao/issues/38 from <<programthink>> taken on 2020-09-31 from China. The "Repository unavailable in your location" message shows, since https://github.com/github/gov-takedowns/blob/master/China/2016/2016-06-08-programthink-zhao.md[this repository is in gov-takedowns/china].
+image::{china-dictatorship-media-base}/GitHub_Programthink_Zhao_issue_38_China_geoscreenshot_2020_09_31.png[height=400]
+
 ====== Strategy if this repo gets added to GitHub gov-takedowns
 
 If this happens, we well proceed to create alternative repos `china-dictatorship-2`, `china-dictatorship-3`, etc. and it would be fun to see how that gets handled.
@@ -3696,7 +3699,7 @@ But remember that we also have: <<mirrors>>, and that this can be easily rendere
 Skipping all <<falun-gong>>/<<epoch-times>> repos with very few stars, mostly some <<gfw>> skip methods, those are noise, and possibly added only to dilute the real deal.
 
 * 2016
-** https://github.com/github/gov-takedowns/blob/master/China/2016/2016-06-08-programthink-zhao.md[] https://github.com/programthink/zhao[]. <<programthink,Zhao>>
+** https://github.com/github/gov-takedowns/blob/caef002cb19309c318ea01afb4d3cec98bcd4042/China/2016/2016-06-08-programthink-zhao.md[] https://github.com/programthink/zhao[]. <<programthink,Zhao>>
 * 2019
 ** https://github.com/github/gov-takedowns/blob/master/China/2019/2019-11-06-MPS.md
 *** https://github.com/greatfire/wiki Wiki of <<greatfire>>. <<censorship-circumvention>>. Precise issue: https://github.com/greatfire/wiki/issues/166[] (no archives). 
