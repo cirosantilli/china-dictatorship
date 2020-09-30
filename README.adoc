@@ -3643,7 +3643,9 @@ Related:
 It appears according to <<greatfire>> however that there are some important GitHub censored subdomains, notably:
 
 * https://raw.githubusercontent.com[], from which images and other downloads are served. Therefore all images served from GitHub should be broken in China
-* https://gist.github.com[]: meh, that's useless, just create a github.com/notes repo and dump your stuff there
+* https://gist.github.com[], https://en.greatfire.org/https/gist.github.com[]: meh, that's useless, just create a github.com/notes repo and dump your stuff there
+
+However, at least for raw, <<geoscreenshot>> disagrees, the images do show according to them: 2020-09-30 https://github.com/cirosantilli/china-dictatorship | http://web.archive.org/web/20200930075102/https://s3.amazonaws.com/geoscreenshot-static/d3fdb97d-2ac3-4f57-a737-6fab2997fb1a.html
 
 More information:
 
@@ -3678,7 +3680,7 @@ Here are some examples of people reacting to the blocking of https://github.com/
 
 See also: <<programthink>>
 
-To check China only takedowns such as this, we cannot use <<censorship-monitoring,Great Fire Analyzer>>, which reports the page as accessible: the only tool <<ciro-santilli>> could find so far to capture a page from China a bit like Web Archive was: https://www.geoscreenshot.com which takes screenshots of the websites, but the free trial is very limited, and you can't share the screenshots on a public URL. See also: <<censorship-monitoring>>.
+To check China only takedowns such as this, we cannot use <<censorship-monitoring,Great Fire Analyzer>>, which reports the page as accessible: the only tool <<ciro-santilli>> could find so far to capture a page from China a bit like Web Archive was: <<geoscreenshot>>
 
 ====== Strategy if this repo gets added to GitHub gov-takedowns
 
@@ -6874,7 +6876,9 @@ Very popular Chinese language anonymous blogger that publishes software programm
 * https://program-think.blogspot.com/ The blog. Blocked in China with the <<censorship,rest of Blogspot>>:
 ** 2020 categorized summary of the best posts of all time: https://program-think.blogspot.com/2020/01/11-years-blogging.html
 * https://github.com/programthink
-** https://github.com/programthink/zhao manually curated database of maps relationships between Chinese politicians, this was the first <<github-gov-takedowns,GitHub gov-takedown from china>>: https://github.com/github/gov-takedowns/blob/36e76c34682d2b52eef405ca6f57e1b9ddde3086/China/2016/2016-06-08-programthink-zhao.md
+** https://github.com/programthink/zhao manually curated database of maps relationships between Chinese politicians, this was the first <<github-gov-takedowns,GitHub gov-takedown from china>>: https://github.com/github/gov-takedowns/blob/36e76c34682d2b52eef405ca6f57e1b9ddde3086/China/2016/2016-06-08-programthink-zhao.md[], which specifically points to https://github.com/programthink/zhao/issues/38[].
++
+<<geoscreenshot>>: 2020-09-30 https://github.com/programthink/zhao/issues/38 | https://archive.vn/QKCMi
 +
 The full project name is: 太子党关系网络 (network of relations of https://en.wikipedia.org/wiki/Princelings[CCP princelings]).
 +
@@ -8282,6 +8286,19 @@ It is not possible however to see old caches, therefore you have to archive the 
 * https://support.google.com/websearch/thread/18638126?hl=en
 
 The Google cache also has a text-only mode which is great for more complex webpages like those on <<zhihu>>, which due to JavaScript madness keep showing and disappearing.
+
+====== geoscreenshot
+
+https://www.geoscreenshot.com
+
+Takes screenshots of the websites much like <<wayback-machine>>, but you can select the location.
+
+Once the screenshot is made, you can "view the HTML", and that gives an Amazon AWS link, and warns that JavaScript and CSS might/will be disabled. The screenshot does not state what the origin URL/data is, so it cannot be used as a proof. But we can <<wayback-machine>> archive it to make sure it remains visible. E.g.:
+
+* 2020-09-30 https://github.com/cirosantilli/china-dictatorship | http://web.archive.org/web/20200930075102/https://s3.amazonaws.com/geoscreenshot-static/d3fdb97d-2ac3-4f57-a737-6fab2997fb1a.html see also <<github-censored-subdomains>>
+* 2020-09-30 https://github.com/programthink/zhao/issues/38 | https://archive.vn/QKCMi see alo <<programthink>>
+
+The free trial is very limited, and you can't share the screenshots on a public URL. See also: <<censorship-monitoring>>.
 
 ===== Lists of material censored in China
 
