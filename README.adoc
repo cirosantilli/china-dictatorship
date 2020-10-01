@@ -780,7 +780,7 @@ https://en.wikipedia.org/wiki/Operation_Fox_Hunt
 
 Trying to prevent corruption is fine, but violating the laws of other countries in doing so, or the <<rule-of-law>> of their family is not.
 
-Publicized by China itself: <<china-daily,BIASED MEDIA>> http://www.chinadaily.com.cn/china/2015-11/05/content_22375920.htm
+Publicized by China itself: <<china-daily>> http://www.chinadaily.com.cn/china/2015-11/05/content_22375920.htm
 
 [[liu-changming]]
 ====== The detention of Liu Changming's (刘昌明) family (2018)
@@ -3346,7 +3346,7 @@ They even had online distribution channel: http://chinawatch.washingtonpost.com/
 +
 2020-04-14 https://www.theguardian.com/media/2020/apr/14/daily-telegraph-stops-publishing-section-paid-for-by-china "Daily Telegraph stops publishing section paid for by China"
 
-China Daily itself claims certain partnerships: <<china-daily,BIASED MEDIA >> https://www.chinadaily.com.cn/static_e/global.html[]:
+China Daily itself claims certain partnerships: <<china-daily>> https://www.chinadaily.com.cn/static_e/global.html[]:
 
 ____
 China Daily has also developed diversified cooperation with over 40 media organizations around the world, including The Washington Post, The Wall Street Journal, The Daily Telegraph, the Guardian, etc.
@@ -3645,7 +3645,10 @@ It appears according to <<greatfire>> however that there are some important GitH
 * https://raw.githubusercontent.com[], from which images and other downloads are served. Therefore all images served from GitHub should be broken in China
 * https://gist.github.com[], https://en.greatfire.org/https/gist.github.com[]: meh, that's useless, just create a github.com/notes repo and dump your stuff there
 
-However, at least for raw, <<geoscreenshot>> disagrees, the images do show according to them: 2020-09-30 https://github.com/cirosantilli/china-dictatorship | http://web.archive.org/web/20200930075102/https://s3.amazonaws.com/geoscreenshot-static/d3fdb97d-2ac3-4f57-a737-6fab2997fb1a.html
+However, at least for raw, <<geoscreenshot>> disagrees:
+
+* 2020-09-30 https://github.com/cirosantilli/china-dictatorship | http://web.archive.org/web/20200930075102/https://s3.amazonaws.com/geoscreenshot-static/d3fdb97d-2ac3-4f57-a737-6fab2997fb1a.html
+* 2020-09-30 https://gist.github.com/ | https://archive.vn/wip/VUNU4
 
 More information:
 
@@ -4925,13 +4928,6 @@ which highlights the critical believer mass effect of reinforced beliefs.
 * an impending link:https://en.wikipedia.org/wiki/Last_Judgment[final judgment]-like event, which will happen "very soon" (<<flg-verifiable,unspecified date>>), and in which the just will be rewarded
 +
 Ciro predict that when <<li-hongzhi>> dies, the claim will be that he went to another dimension so save us all, therefore putting this final judgment on hold, a bit like Jesus.
-* link:https://en.wikipedia.org/wiki/Open-air_preaching[street preaching] (http://www.minghui.org/mh/glossary.html[讲真相] "truth-telling") with stands and leaflets on the streets exactly like https://en.wikipedia.org/wiki/Jehovah's_Witnesses[Jehovah's Witnesses].
-+
-The Falun Gong organization also specifies guidelines on how to preach, although these might not be <<flg-canon,canon>>, even though if they are not, it is extremely likely that <<li-hongzhi,LHZ>> is directly involved in their specification
-+
-Falun Gong has also used <<flg-telemarketing,phone call preaching>>.
-+
-All of this is part of their effort to "save people (救人)", i.e. convert them to Falun Gong.
 * non-believers are fundamentally different from believers. Although non-followers who do good things are actually doing FLG without knowing it.
 +
 FLG has a specific terminology for non-believers, which is translated in English as https://falundafa.org/eng/eng/zfl_new_4.html["ordinary people"] (常人), as opposed to Falun Gong Believers, which Li calls Falun Gong disciples (大法弟子).
@@ -4977,6 +4973,47 @@ Falun Gong's recruitment strategy is to focus on the exercises first, and in par
 See also: "Different levels of truth" from <<orange-papers>>.
 
 See also: <<flg-daily>>.
+
+==== Falun Gong preaching
+
+link:https://en.wikipedia.org/wiki/Open-air_preaching[Street preaching] is an important aspect of Falun Gong, using stands and leaflets on the streets much like https://en.wikipedia.org/wiki/Jehovah's_Witnesses[Jehovah's Witnesses].
+
+Jargon:
+
+* http://www.minghui.org/mh/glossary.html[讲真相]: "truth-telling"
+* hongfa (TODO characters?)
+
+The Falun Gong organization also specifies guidelines on how to preach, although these might not be <<flg-canon,canon>>, even though if they are not, it is extremely likely that <<li-hongzhi,LHZ>> is directly involved in their specification
+
+Falun Gong has also used <<flg-telemarketing,phone call preaching>>.
+
+All of this is part of their effort to "save people (救人)", i.e. convert them to Falun Gong.
+
+<<li-hongzhi>> personally heavily emphasices the importance of preaching in <<flg-canon>>.
+
+.Falun Gong believers preaching on the street in London in 2016. This image taken from a believer website shows a typical local regular gathering of believers on weekends, or even week days if there are enough retired believers in the group. They will put on their exercise music, and do exercises to attract more followers. Someone will also stand on their stall giving out propaganda flyers, or asking people to sign petitions for Western governemnts to support Falun Gong, e.g. opposing their alledged <<flg-organ-harvesting,organ harvesting>>. In the case of touristic areas with Chinese people walking around, they will also ask the Chinese tourists to <<tuidang,quit the their CCP membership, possibly using a fake name>>. <<ciro-santilli>> has to say: it is very amuzing to see those Chinese pepole trying to pretend to ignore the censored religion, when some of them are clearly curious about it, especially the younger ones who didn't see it live. Some just get mad, and say how the CCP is so great to them. https://truthinchina.wordpress.com/2012/06/16/london-uk-practitioners-explain-the-facts-about-falun-gong-in-st-martins-place-photos/[Source].
+image::{china-dictatorship-media-base}/Falun_Gong_street_preaching_2016_London.jpg[height=400]
+
+[[flg-telemarketing]]
+===== Some Falun Gong people make phone telemarketing
+
+Ciro Santilli has seen Falun Gong people making phone calls to people in China with to explain why FLG is with his own eyes, and therefore is sure it has happened on some scale.
+
+Particularly during <<corona>>, Falun Gong ramped up the telemarketing calls and some voluntary believers were making calls all day nonstop.
+
+Ciro does not know how the called numbers were obtained and if callees voluntarily signed up for it, but that feels extremely unlikely.
+
+Interestingly however, many of the callees seemed interesting in what they had to say, and they often had long chats, Ciro was surprised by that. Maybe they were just bored senseless due to the Corona lockdown. Or maybe <<most-chinese-people-like-their-dictatorship,many Chinese People actually don't like their Government>> and the CCP is fucked.
+
+Also, of course, the callers received call scripts and guidelines to makes those calls, because obviously <<flg-organized>>.
+
+Ciro strongly disapproves of this, Just like for any product, visual ads on the street are impossible to prevent, but any kind of advertising that generates notifications on feeds, or takes people's time, is unacceptable.
+
+As you can easily find on <<google>>/<<baidu>>, such calls may be reported in the <<cac-report-website>>.
+
+Ciro has not however seen them talking about making automated phone calls.
+
+https://www.scmp.com/comment/insight-opinion/article/1940394/how-rampant-phone-scams-highlight-chinas-need-tighter also mentions that Falun Gong makes telemarketing in passing without any reference.
 
 [[flg-cult]]
 ==== Is Falun Gong a cult? 法轮功是邪教吗？
@@ -6026,27 +6063,6 @@ Started in the 2000's in New York State with money donated by believers.
 * http://www.dragonsprings.org/
 * https://www.businessinsider.com/dragon-springs-falun-gong-upstate-new-york-compound-photos-2019-9
 * 1999 https://apnews.com/420a741ec19c4db3993d408747874b2d "Falun Gong US compound's neighbors fret over expansion plans"
-
-[[flg-telemarketing]]
-==== Some Falun Gong people make phone telemarketing
-
-Ciro Santilli has seen Falun Gong people making phone calls to people in China with to explain why FLG is with his own eyes, and therefore is sure it has happened on some scale.
-
-Particularly during <<corona>>, Falun Gong ramped up the telemarketing calls and some voluntary believers were making calls all day nonstop.
-
-Ciro does not know how the called numbers were obtained and if callees voluntarily signed up for it, but that feels extremely unlikely.
-
-Interestingly however, many of the callees seemed interesting in what they had to say, and they often had long chats, Ciro was surprised by that. Maybe they were just bored senseless due to the Corona lockdown. Or maybe <<most-chinese-people-like-their-dictatorship,many Chinese People actually don't like their Government>> and the CCP is fucked.
-
-Also, of course, the callers received call scripts and guidelines to makes those calls, because obviously <<flg-organized>>.
-
-Ciro strongly disapproves of this, Just like for any product, visual ads on the street are impossible to prevent, but any kind of advertising that generates notifications on feeds, or takes people's time, is unacceptable.
-
-As you can easily find on <<google>>/<<baidu>>, such calls may be reported in the <<cac-report-website>>.
-
-Ciro has not however seen them talking about making automated phone calls.
-
-https://www.scmp.com/comment/insight-opinion/article/1940394/how-rampant-phone-scams-highlight-chinas-need-tighter also mentions that Falun Gong makes telemarketing in passing without any reference.
 
 [[zhong-gong]]
 === Zhong Gong 中华养生益智功 (中功)
@@ -7109,6 +7125,7 @@ Social media:
 
 News coverage:
 
+* 2020-09-25 https://www.scmp.com/news/china/society/article/3103548/greta-thunberg-criticises-china-after-climate-striker-ou-hongyi "Greta Thunberg criticises China after climate striker Ou Hongyi held over protest" detained in Shanghai 
 * 2020-06-20 https://www.theguardian.com/world/2020/jul/20/chinas-first-climate-striker-cant-return-to-school "China's first climate striker warned: give it up or you can't go back to school"
 
 .Howey Ou skipped classes for a week to protest about climate change in front of the local government office in Guilin in 2019. https://www.scmp.com/news/china/society/article/3094873/howey-ou-chinas-version-greta-thunberg-pays-price-climate[Source].
@@ -7156,7 +7173,7 @@ Media coverage:
 ** says they are a student from https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences[UCAS] studying abroad, claims family name is 季 and male, Twitter says they are <<gay-rights,non-binary/pansexual>>
 * https://www.dwnews.com/中国/60201684/疑有学生在海外发辱华言论中国科学院大学发紧急声明图 contains real photos taken from some public account, appearing dressed as female
 ** the university UCAS issued a statement on this saying that would be punished
-* BIASED MEDIA <<global-times>> accused them of "reviling the victims of the Nanjing Massacre" https://www.globaltimes.cn/content/1192875.shtml true or false?
+* <<global-times>> accused them of "reviling the victims of the Nanjing Massacre" https://www.globaltimes.cn/content/1192875.shtml true or false?
 
 Reactions:
 
@@ -7233,7 +7250,7 @@ video::kDV4s9c9sfQ[youtube,height=400,width=600]
 .https://www.youtube.com/watch?v=z7CPqROtanA "How I Escaped From China - The Untold Story" published by laowhy86 on 2020-07-01.
 video::kDV4s9c9sfQ[youtube,height=400,width=600]
 
-.https://www.youtube.com/watch?v=kDV4s9c9sfQ "#65 China Is Getting Worse | Laowhy86 and SerpentZA" published on 2020-04-05. SerpentZA and laowhy86 interview on "China Unscripted", a sister channel of <<china-uncensored-youtube-channel>>. This marks them clearly on the side of "openly criticizing the Chinese government".
+.https://www.youtube.com/watch?v=kDV4s9c9sfQ "#65 China Is Getting Worse | Laowhy86 and SerpentZA" published on 2020-04-05. SerpentZA and laowhy86 interview on "China Unscripted", a sister channel of <<china-uncensored>>. This marks them clearly on the side of "openly criticizing the Chinese government".
 video::kDV4s9c9sfQ[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=b6PI91n2f9o "China Expels Foreign Press to Protect Its Lies" published on 2020-03-23 during/just after <<corona>>.
@@ -7242,7 +7259,7 @@ video::b6PI91n2f9o[youtube,height=400,width=600]
 .https://www.youtube.com/watch?v=NXpPpFzLcZg "China's Winnie The Pooh BAN Explained" published on 2019-10-28 discusses <<winnie-the-pooh>>.
 video::NXpPpFzLcZg[youtube,height=400,width=600]
 
-== Media 媒体
+== Media (媒体)
 
 Sources of information pertinent to this repository.
 
@@ -7255,7 +7272,7 @@ The following offer interesting commentary, but not to be used as primary source
 * https://www.iyouport.org/
 
 [[biased-media]]
-=== Biased media 偏见媒体
+=== Biased media (偏见媒体)
 
 I consider the media in this section biased, and never cite it for fact-checking.
 
@@ -7268,7 +7285,7 @@ I consider the media in this section biased, and never cite it for fact-checking
 ** https://freebeacon.com/national-security/cruz-seeks-to-shut-down-chinese-propaganda-station-phoenix-tv/
 
 [[xinhua]]
-==== Xinhua News Agency (新华社, BIASED)
+==== Xinhua News Agency (新华社, CCP media)
 
 * https://en.wikipedia.org/wiki/Xinhua_News_Agency
 * https://zh.wikipedia.org/wiki/新华社
@@ -7277,15 +7294,16 @@ Links:
 
 * http://www.xinhuanet.com/
 * https://twitter.com/PDChina
+* https://www.youtube.com/user/ChinaViewTV "New China TV"
 
 [[cctv]]
-===== China Central Television (CCTV, 中国中央电视台, BIASED)
+===== China Central Television (CCTV, 中国中央电视台, CCP media)
 
 * https://en.wikipedia.org/wiki/China_Central_Television
 * https://zh.wikipedia.org/wiki/中国中央电视台
 
 [[cgtn]]
-====== China Global Television Network (CGTN, BIASED)
+====== China Global Television Network (CGTN, CCP media)
 
 * https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg
 * https://zh.wikipedia.org/wiki/中国环球电视网
@@ -7293,7 +7311,7 @@ Links:
 CCTV's international branch in English, China's <<voa>>.
 
 [[peoples-daily]]
-===== People's Daily (人民日报, BIASED)
+===== People's Daily (人民日报, CCP media)
 
 * https://en.wikipedia.org/wiki/People's_Daily
 * https://zh.wikipedia.org/wiki/人民日报
@@ -7313,13 +7331,13 @@ As of 2020, some deleted articles show the home page instead of the article, wit
 But older pages just show 404.
 
 [[global-times]]
-===== Global Times (环球时报, BIASED)
+===== Global Times (环球时报, CCP media)
 
 * https://en.wikipedia.org/wiki/Global_Times
 * https://zh.wikipedia.org/wiki/环球时报
 
 [[china-daily]]
-===== China Daily (中国日报, BIASED)
+===== China Daily (中国日报, CCP media)
 
 * https://en.wikipedia.org/wiki/China_Daily
 * https://zh.wikipedia.org/wiki/中国日报
@@ -7329,7 +7347,7 @@ English-language propaganda newspaper.
 Responsible for <<china-watch>>.
 
 [[china-radio-international]]
-===== China Radio International (CRI, 中国国际广播电台, BIASED)
+===== China Radio International (CRI, 中国国际广播电台, CCP media)
 
 * https://en.wikipedia.org/wiki/China_Radio_International
 * https://zh.wikipedia.org/wiki/中国国际广播电台
@@ -7342,7 +7360,7 @@ Websites:
 Operates for example: https://en.wikipedia.org/wiki/WCRW which is mentioned at: https://www.bbc.co.uk/news/world-us-canada-46557096 from <<spy>>. WTF, you have to obviously block them!
 
 [[pro-chinese-government-media]]
-===== Pro-Chinese government media (BIASED)
+===== Pro-Chinese government media (pro-CCP media)
 
 These might be independent, but they are clearly pro CCP and thus cannot be trusted:
 
@@ -7363,7 +7381,7 @@ Ideology:
 * anti-<<falun-gong>>: https://www.guancha.cn/politics/2019_09_18_518339.shtml
 
 [[kaiwind]]
-====== Kaiwind (BIASED)
+====== Kaiwind (pro-CCP media)
 
 http://kaiwind.com/
 
@@ -7379,7 +7397,7 @@ Ciro has no proof that this is linked to the government, but it is very likely, 
 * https://web.archive.org/web/20180414233331/http://www.china-embassy.org/eng/lj/t36322.htm
 
 [[confucius-institute]]
-===== Confucius institute 孔子学院
+===== Confucius institute (孔子学院)
 
 * https://en.wikipedia.org/wiki/Confucius_Institute
 * https://zh.wikipedia.org/wiki/孔子学院
@@ -7397,7 +7415,7 @@ Related about university interference:
 * 2020-05 Drew Pavlou 柏乐志
 ** https://en.wikipedia.org/wiki/University_of_Queensland[University of Queensland], Australia, was trying to get rid of him for anti-CCP campaign
 ** https://www.theguardian.com/australia-news/2020/may/24/how-a-20-year-old-student-put-the-spotlight-on-australian-universities-cosy-relationship-with-china
-** https://www.youtube.com/watch?v=_o1sZefER0E <<china-uncensored-youtube-channel,China Unscripted>> interview
+** https://www.youtube.com/watch?v=_o1sZefER0E <<china-uncensored,China Unscripted>> interview
 
 ====== University espionage
 
@@ -7472,8 +7490,6 @@ Furthermore, Li appears to directly cite some of the main media in Canon or talk
 ** https://www.soundofhope.org/
 ** https://www.bayvoice.net/gb/
 * http://lotus-sacre.com/
-* https://en.tuidang.org/
-** https://en.wikipedia.org/wiki/Tuidang_movement
 * http://dongtaiwang.com
 ** https://en.wikipedia.org/wiki/Freegate
 * https://hongzhi.li/ nice https://en.wikipedia.org/wiki/Domain_hack[domain hack]
@@ -7481,7 +7497,7 @@ Furthermore, Li appears to directly cite some of the main media in Canon or talk
 * http://www.zhengjian.org/
 
 [[epoch-times]]
-===== The Epoch Times 明慧网
+===== The Epoch Times (明慧网, Falun Gong media)
 
 * https://en.wikipedia.org/wiki/The_Epoch_Times
 * https://zh.wikipedia.org/wiki/大纪元时报
@@ -7499,7 +7515,7 @@ Related:
 * https://www.epochweekly.com/
 
 [[new-tang-dynasty-television]]
-===== New Tang Dynasty Television (NTD, NTDTV) 新唐人電視台
+===== New Tang Dynasty Television (NTD, NTDTV, 新唐人電視台, Falun Gong media)
 
 * https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television
 * https://zh.wikipedia.org/wiki/新唐人電視台
@@ -7521,7 +7537,8 @@ Related shows:
 * https://www.youtube.com/channel/UCVWMVBg1RPrDlakdmbyTKBA Zooming In with Simone Gao
 * https://www.youtube.com/channel/UC3HxxpOJ0WWIuZsb7FtSLWQ The BL (The Beauty of Life) No clear indication, but obvious since intro video shows Falun Gong images.
 
-====== China Uncensored YouTube channel
+[[china-uncensored]]
+====== China Uncensored (pro-Falun Gong media)
 
 https://www.youtube.com/channel/UCgFP46yVT-GG4o1TgXn-04Q
 
@@ -7564,7 +7581,7 @@ Related:
 * https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html (https://web.archive.org/web/20190119083517/https://www.theepochtimes.com/youtube-scraped-most-popular-channel-on-china-politics-from-search-suggestions_2675796.html[archive]) <<epoch-times>> highlights the channel "Why YouTube's Most Popular Channel on China Politics Doesn't Show in Search Suggestions"
 
 [[minghui]]
-===== Minghui 明慧网
+===== Minghui (明慧网, Falun Gong media)
 
 https://en.minghui.org/
 
@@ -7577,7 +7594,7 @@ Li speaking to Minghui conference in <<flg-canon,canon>>: https://big5.falundafa
 TODO how https://www.clearwisdom.net/ compares?
 
 [[shen-yun]]
-===== Shen Yun Performing Arts (神韵艺术团)
+===== Shen Yun Performing Arts (神韵艺术团, Falun Gong media)
 
 * https://en.wikipedia.org/wiki/Shen_Yun_Performing_Arts
 * https://zh.wikipedia.org/wiki/神韵艺术团
@@ -7591,7 +7608,7 @@ Shen Yun's headquarters are also located in/near <<dragon-springs>>.
 Li mentions Shen Yun in <<flg-canon,canon>>: https://gb.falundafa.org/chigb/jiangfa11_2.htm
 
 [[jennifer-zeng]]
-===== Jennifer Zeng (曾錚)
+===== Jennifer Zeng (曾錚, pro-Falun Gong media)
 
 * https://en.wikipedia.org/wiki/Jennifer_Zeng
 
@@ -7600,7 +7617,7 @@ https://twitter.com/jenniferatntd
 2005 book: https://www.amazon.co.uk/Witnessing-History-Womans-Fight-Freedom/dp/1741144000
 
 [[bannedbook]]
-===== bannedbook.org (禁闻网)
+===== bannedbook.org (禁闻网, pro-Falun Gong media)
 
 The main Chinese name is 禁闻网 which stands for "banned news network", and is more accurate than the domain name "bannedbook" since the majority of material published appears to be recent banned articles.
 
@@ -7611,6 +7628,18 @@ From this we deduce that the "banned book" in the domain name originally likely 
 Once again, <<flg-transparent>> is in need.
 
 TODO who is behind this website? They store full text copies of banned articles, e.g. https://www.bannedbook.org/bnews/baitai/20190816/1175647.html is a full text copy of http://yashalong.blog.caixin.com/archives/188877 which is mentioned at: <<nazi>>.
+
+[[tuidang]]
+===== Tuidang movement (退党, Falun Gong media)
+
+* https://tuidang.org/
+* https://en.tuidang.org/
+
+Falun Gong campaign asking Chinese people to revoke their CCP membership.
+
+Extremelly common when <<falun-gong-preaching>> on the streets in touristic areas where Chinese tourists will be present. Fake names will be accepted, so it is obviously just a symbolic act.
+
+A bit less than 10% of the Chinese population are registered CCP members: https://en.wikipedia.org/wiki/Chinese_Communist_Party[]. So it is not obligatory, and there likely restrictions. But there must also be some kind of benefits involved. See also: https://daily.jstor.org/communist-party-of-china/
 
 ==== USA government media (美国政府媒体)
 
@@ -7623,13 +7652,13 @@ Partial support:
 * https://en.wikipedia.org/wiki/Boxun https://zh.wikipedia.org/wiki/博讯
 
 [[voa]]
-===== Voice of america (VOA, 美国之音)
+===== Voice of america (VOA, 美国之音, USA government media)
 
 * https://en.wikipedia.org/wiki/Voice_of_America
 * https://zh.wikipedia.org/wiki/美国之音
 
 [[rfa]]
-===== Radio Free Asia (RFA) (自由亚洲电台)
+===== Radio Free Asia (RFA) (自由亚洲电台, USA government media)
 
 * https://en.wikipedia.org/wiki/Radio_Free_Asia
 * https://zh.wikipedia.org/wiki/自由亚洲电台
@@ -7685,11 +7714,9 @@ Beijing based, but does publish stuff that seems to be very sensitive:
 * https://www.bbc.co.uk/news/world-asia-china-35761277 "China magazine Caixin defiant on censorship of article"
 
 [[videos]]
-== Videos 视频
+== Videos (视频)
 
-https://www.youtube.com/playlist?list=PLcZOZrP1P_V5d7RMOKXF1PT70fcfYJpgY
-
-<<ciro-santilli>>'s "China Politics" playlist is a collection of all sensitive videos I have ever found on YouTube: Ping him if you find any he hasn't included.
+https://www.youtube.com/playlist?list=PLcZOZrP1P_V5d7RMOKXF1PT70fcfYJpgY[]: <<ciro-santilli>>'s "China Politics" playlist. It is a collection of all sensitive videos he has ever found on YouTube. Ping him if you find any he hasn't included.
 
 Interesting videos that were deleted/made private since he added them:
 
@@ -8300,6 +8327,7 @@ Once the screenshot is made, you can "view the HTML", and that gives an Amazon A
 
 * 2020-09-30 https://github.com/cirosantilli/china-dictatorship | http://web.archive.org/web/20200930075102/https://s3.amazonaws.com/geoscreenshot-static/d3fdb97d-2ac3-4f57-a737-6fab2997fb1a.html see also <<github-censored-subdomains>>
 * 2020-09-30 https://github.com/programthink/zhao/issues/38 | https://archive.vn/QKCMi see alo <<programthink>>
+* 2020-09-30 https://cirosantilli.com/china-dictatorship/ | https://archive.vn/bIzkH see alo <<mirrors>>
 
 The free trial is very limited, and you can't share the screenshots on a public URL. See also: <<censorship-monitoring>>.
 
@@ -8616,7 +8644,7 @@ Clip featured in <<cgtn>>: https://www.youtube.com/watch?v=TUjatX2p0dA (http://a
 +
 Another one: https://www.youtube.com/watch?v=wMUA3GeScUI "Daniel Dumbrill: I want my children to be proud of being Chinese"
 +
-https://www.youtube.com/watch?v=gygxrdNmzUQ "Speaking With a Uyghur Activist About Xinjiang Abuse" interviews https://twitter.com/arslan_hidayat[Arslan Hidayat], who was also interviewed by <<china-uncensored-youtube-channel,China Unscripted>>: https://www.youtube.com/watch?v=fUTUVxw7VXc and appears to be denouncing the oppression. Video description is filled to the brim with links about how the West is using Xinjiang for fake news. TODO how can he make a video with that guy and still live in China? This suggests strongly that his videos obtain direct CCP approval.
+https://www.youtube.com/watch?v=gygxrdNmzUQ "Speaking With a Uyghur Activist About Xinjiang Abuse" interviews https://twitter.com/arslan_hidayat[Arslan Hidayat], who was also interviewed by <<china-uncensored,China Unscripted>>: https://www.youtube.com/watch?v=fUTUVxw7VXc and appears to be denouncing the oppression. Video description is filled to the brim with links about how the West is using Xinjiang for fake news. TODO how can he make a video with that guy and still live in China? This suggests strongly that his videos obtain direct CCP approval.
 +
 https://www.youtube.com/watch?v=9nNZbDF75dc "Daniel the Pro-China 'Shill'" replies to accusations of being pro-China
 * https://en.wikipedia.org/wiki/Allan_Zeman Carrie Lam supporter
@@ -8658,7 +8686,7 @@ Sample videos:
 Reception:
 
 * https://www.zhihu.com/question/310502367 "如何评价 B 站 UP 主「NathanRich火锅大王」？" on <<zhihu>>. TODO what is "B站UP"?
-* 2020-07-05 BIASED MEDIA <<cgtn>> approves: https://www.youtube.com/watch?v=YRK1XDlZkng "Nathan Rich: 'Hotpot King' delivering truth about HK to the world"
+* 2020-07-05 <<cgtn>> approves: https://www.youtube.com/watch?v=YRK1XDlZkng "Nathan Rich: 'Hotpot King' delivering truth about HK to the world"
 
 2020-06-01  https://www.taiwannews.com.tw/en/news/3941420 "China propagandist Nathan Rich's criminal record revealed" contains an outline of Richs criminal records, with including mugshots. Most of this was already likely known, but it gives good detail. In particular, it comments on the fact that in 2013 Beijing started to more strictly do criminal background checks for VISA applicants: https://www.china-briefing.com/news/non-criminal-record-certificate-required-for-employment-license-application-in-beijing/[], and that Rich managed to get the VISA two years later nonetheless, notably including a drug trafficking charge.
 
