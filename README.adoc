@@ -1581,6 +1581,16 @@ For example, which of the following do you think should be banned:
 * Let's all gather together and kill our black/white/gay/straight/Muslim/Christian neighbours tomorrow.
 * Let's all gather together and kill our oppressive dictator/president tomorrow.
 
+Ciro believes that none of the above should ever be censored, because any form of "hate-speech censorship" immediately opens a precedent for political censorship.
+
+If someone is idiotic enough to organize illegal acts like hurting someone publicly before doing it, it will just make it easier for them to get caught.
+
+And if its just empty words, just block those idiots to not see their posts, or downvotes their posts to reduce their impact.
+
+And if the majority supports idiotic acts like killing someone because of their race, it will get done in a democracy regardless, because that's what democracies do: they cater to what the majority wants.
+
+There's not point in censoring them. Such censorship only makes things worse, as the perpetrators will use that as publicity for their cause.
+
 Recent cases in which Ciro feel that Western countries have gotten it wrong:
 
 * 2020-05-29 https://www.bbc.co.uk/news/technology-52846679 Twitter "hides Trump tweet for 'glorifying violence'". The people elected that idiot, Twitter leftists have to swallow that.
@@ -1588,9 +1598,11 @@ Recent cases in which Ciro feel that Western countries have gotten it wrong:
 ** 2020-08-27 https://www.cnbc.com/2019/08/06/google-whistleblower-cernekee-pushed-alt-right-views-former-colleague.html "Internal Google memo claimed conservative whistleblower promoted alt-right views"
 ** It appears to be legal in the US for companies to fire employees based on political beliefs:
 +
+*** https://www.nolo.com/legal-encyclopedia/can-employers-discriminate-based-on-political-beliefs-or-affiliation.html
++
 <<ciro-santilli>> however believes that discussing politics at work is not an efficient way to go about it, because you will be discussion amongst a small group of people since companies are opaque to the outside. Unless maybe if you feel that you employee is directly attempting to influence politics in a way that you feel is unfair.
 +
-*** https://www.nolo.com/legal-encyclopedia/can-employers-discriminate-based-on-political-beliefs-or-affiliation.html
+Ciro believes without evidence that unfortunately anti-discrimination-hiring laws are likely inefficient, as it is too hard to convict anyone. And that providing equal education through scholarships to unprivileged groups and university entry selection where examiners cannot see the applicant's race is the only way.
 
 See also:
 
