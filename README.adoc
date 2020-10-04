@@ -840,11 +840,11 @@ Even if it is not, it does not matter, since <<ciro-santilli>> spends so little 
 image::{china-dictatorship-media-base}/Nobody_can_hear_you.gif[height=400]
 
 [[embargo]]
-==== Embargoes make dictatorships stronger 禁运使独裁更强大
+==== Embargoes make dictatorships stronger (禁运使独裁更强大)
 
 The <<keyword-attack,keyword attack>> is basically an embargo.
 
-There is already a lot of literature about this, especially in the cases of Cuba and North Korea. It is basically a libertarian vs conservative / Cato vs Heritage thing in the US:
+There is already a lot of literature about this, especially in the cases of Cuba and North Korea. It is basically a libertarian vs conservative/Cato vs Heritage thing in the US:
 
 * https://www.cato.org/publications/commentary/no-embargo-harms-cubans-gives-castro-excuse-policy-failures-regime
 * https://www.heritage.org/trade/report/why-the-cuban-trade-embargo-should-be-maintained
@@ -2936,24 +2936,46 @@ Wiki page of the event: https://en.wikipedia.org/wiki/Blitzchung_controversy
 .https://youtube.com/watch?v=YhN6jipSHFI Hong Kong Yoga - Sammy J S2 (ep31) published by ABC Comedy on 2019-09-19. Very good.
 video::YhN6jipSHFI[youtube,height=400,width=600]
 
-====== Daryl Morey Tweet
-
-2019-10 Daryl Morey, NBA's Houston Rockets manager sent tweet supporting the Hong Kong protests.
-
-But then he was a coward, removed this tweet, and apologized: https://twitter.com/dmorey/status/1181000808399114240 (https://archive.is/6Sdpn[archive]).
+====== LeBron James opposes Hong Kong anti-extradition bill protests (2019)
 
 NBA is huge in China.
 
+On 2019-10-05 (Friday) 7:41PM Daryl Morey, NBA's Houston Rockets manager sent a tweet with an image that read:
+
+____
+Fight for Freedom. Stand with Hong Kong.
+____
+
+Archive: https://web.archive.org/web/20191005025317if_/https://twitter.com/dmorey/status/1180312072027947008
+
+Then Daryl was a coward, removed this tweet, and apologized on 2019-10-07 (Monday) 1:18 AM  https://twitter.com/dmorey/status/1181000808399114240 (https://archive.is/6Sdpn[archive]), so by then it was already deleted.
+
+____
+I did not intend my tweet to cause any offense to Rockets fans and friends of mine in China
+____
+
+Then TODO date the uberstar https://en.wikipedia.org/wiki/LeBron_James[LeBron James] (not a Houston Rockets player), a big supporter of black rights in the US, criticized this.
+
+https://apnews.com/article/dd96d002394f45a6859c280c889afcb7[LeBron's words]:
+
+____
+I don't want to get into a word or sentence feud with Daryl Morey, but I believe he wasn't educated on the situation
+____
+
+Related video of LeBron saying similar things on interview (TODO same?): 2019-10-15 https://www.youtube.com/watch?v=UjM43blzaRc "LeBron addresses Daryl Morey’s tweet and Lakers’ trip to China | NBA on ESPN"
+
+Led to: <<sport-event-live-broadcast-image-attacks>>.
+
+* 2020-10-04 American billboard company https://en.wikipedia.org/wiki/Outfront_Media[Outfront Media] refuses to post ad critical of LeBron James' stand on China with words showing the superstar with a Chinese flag covering his mouth and the message, "Silence is Violence."
+** https://www.foxnews.com/sports/billboard-company-refuses-to-post-ad-critical-of-lebron-james-stand-on-china
+* 2019-10-15 https://apnews.com/article/dd96d002394f45a6859c280c889afcb7 "LeBron: Rockets' Morey 'wasn't educated' on China tweet"
+* 2019-10-07 (Monday) "Rockets’ general manager’s Hong Kong comments anger China"
 * 2019-10-07 Lakers vs. Heat NBA Tencent Live Stream cancelled due to fan wearing the <<taiwan,Taiwanese>> flag
 +
 .Fan wearing Taiwan flag in 2019-10-07 Lakers vs. Heat showing fan and text (TODO from Tencent?) saying that the match will be cancelled. https://www.reddit.com/r/China/comments/dtrx4b/tencent_nba_live_broadcast_got_cancelled_because[Source].
 image::{china-dictatorship-media-base}/NBA_Taiwan_flag.jpg[height=600]
 ** https://www.bbc.co.uk/news/business-49956385
 ** https://edition.cnn.com/2019/10/07/business/houston-rockets-nba-china-daryl-morey/index.html
-
-https://web.archive.org/web/20191109172810/https://i.redd.it/y8y7esngllx31.jpg
-
-Led to: <<sport-event-live-broadcast-image-attacks>>.
 
 === What should all pro-democracy people do about China?
 
@@ -2999,7 +3021,7 @@ NBA in particular is super popular in China, and people sitting at the front row
 * China's Tencent halts NBA live broadcast over <<taiwan,Taiwanese>> flag
 * https://www.taiwannews.com.tw/en/news/3813842
 
-Started in particular due to the <<daryl-morey-tweet>>
+Started in particular due to the <<lebron-james-opposes-hong-kong-anti-extradition-bill-protests-2019>>
 
 ==== What should Western countries do about China?
 
@@ -3298,6 +3320,7 @@ See also: <<western-companies-that-sell-censorship-technology-to-dictatorships>>
 
 Some hell known companies and events:
 
+* 2020 Outfront Media, see: <<lebron-james-opposes-hong-kong-anti-extradition-bill-protests-2019>>
 * https://en.wikipedia.org/wiki/HSBC[HSBC]
 ** 2020-06 https://en.wikipedia.org/wiki/HSBC#Support_for_China's_Security_Law_for_Hong_Kong_(2020)[Support for China's Security Law for Hong Kong (2020)]
 * https://en.wikipedia.org/wiki/Bloomberg_L.P.[Bloomberg L.P.]
@@ -3786,7 +3809,7 @@ Most articles appear to be taken from recent news at the time of writting, altho
 
 * <<gay-rights>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2018-04-14-LGBTRights-advocacy-china.md
 * <<nine-nine-six-icu>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2019-04-04-996-ICU.md
-* <<daryl-morey-tweet>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2019-10-11-NBA.md
+* <<lebron-james-opposes-hong-kong-anti-extradition-bill-protests-2019>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2019-10-11-NBA.md
 
 They use Jekyll tags a lot, which makes for a good grouping of the topics.
 
@@ -7289,7 +7312,7 @@ The following offer interesting commentary, but not to be used as primary source
 I consider the media in this section biased, and never cite it for fact-checking.
 
 [[chinese-government-media]]
-==== Chinese government media 中国政府媒体
+==== Chinese government media (中国政府媒体)
 
 * Phoenix TV
 ** https://en.wikipedia.org/wiki/Phoenix_Television
@@ -7653,6 +7676,7 @@ Extremelly common when <<falun-gong-preaching>> on the streets in touristic area
 
 A bit less than 10% of the Chinese population are registered CCP members: https://en.wikipedia.org/wiki/Chinese_Communist_Party[]. So it is not obligatory, and there likely restrictions. But there must also be some kind of benefits involved. See also: https://daily.jstor.org/communist-party-of-china/
 
+[[usa-government-media]]
 ==== USA government media (美国政府媒体)
 
 ** https://www.voa.com/
@@ -7662,6 +7686,10 @@ A bit less than 10% of the Chinese population are registered CCP members: https:
 Partial support:
 
 * https://en.wikipedia.org/wiki/Boxun https://zh.wikipedia.org/wiki/博讯
+
+==== USA media bias
+
+2018 graph that everyone needs to see: https://ei.marketwatch.com/Multimedia/2018/02/28/Photos/NS/MW-GE557_MediaB_20180228115701_NS.jpg
 
 [[voa]]
 ===== Voice of america (VOA, 美国之音, USA government media)
@@ -8294,6 +8322,8 @@ It is possible to request social media pages you own to be removed from the arch
 Some website specific techniques:
 
 * Google Docs: visit the page while logged off (e.g. via browser private mode), click the print button, and then archive the resulting PDF URL
+
+How to search by prefix/pattern: https://webapps.stackexchange.com/questions/146661/how-to-search-the-internet-archives-wayback-machine-by-url-prefix-or-pattern
 
 [[archive-today]]
 ====== archive.today
