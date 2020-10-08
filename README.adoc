@@ -275,8 +275,9 @@ The goal is to put them in a position where they have to choose between either:
 
 but not both, since having both means that they will <<war,start WW3 and destroy humanity>>.
 
-Related attack: <<photobombing-like-attacks>>.
+Closely related/identical ideas are <<cute-cat-theory-of-digital-activism>> and <<collateral-freedom>>.
 
+Related attack: <<photobombing-like-attacks>>.
 [[harm-programmers]]
 ==== Does Ciro Santilli want to harm the Chinese programmers? 三西猴想要伤害中国程序员吗？
 
@@ -319,6 +320,68 @@ Don't you see that this is just pure and simple politics? And likely ineffective
 * everyone is brainwashed by their environment: <<brainwashed-by-usa,brainwashed>>
 * it is impossible to prove who is right or wrong in politics: <<democracy-is-a-religion>>
 * not even the CCP is evil: <<ccp-evil>>
+
+[[keyword-attack]]
+==== What is a screen name keyword attack?
+
+Adding censored words to your username: https://stackoverflow.com/users/895245
+
+This only works on websites that show usernames everywhere.
+
+This then leads to your username appearing on thousands of pages, depending on how much you contribute to the website.
+
+It is also possible to do it with images, although this is less effective in taking down websites since images are harder for the firewall to track automatically. But:
+
+* they are more memorable than words
+* they also work on websites like GitHub where your real name does not show on most pages, only slug
+
+so maybe the most effective approach is to use both keywords and images to get the best of both worlds ;-)
+
+.<<chrysanthemium-xi-jinping>> has been used by Ciro Santilli as a profile picture censored image attack
+image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
+
+This type of attack is essentially an <<embargo>>.
+
+See also: <<photobombing-like-attacks>>.
+
+[[cute-cat-theory-of-digital-activism]]
+==== Cute cat theory of digital activism (可愛貓理論)
+
+* https://en.wikipedia.org/wiki/Cute_cat_theory_of_digital_activism
+* https://zh.wikipedia.org/wiki/可愛貓理論
+
+Someone told <<ciro-santilli>> a while after he had started doing his <<keyword-attack>> on <<stack-overflow>>, he didn't know about it before, but it is basically what he was doing.
+
+You can never invent anything new anymore nowadays!
+
+This is especially relevant to <<github>>! And GitHub's mascot is also a cat ;-) Some mentions of this:
+
+* 2020-09-09 https://www.wired.com/story/china-github-free-speech-covid-information/
+* 2020-09-09 https://www.xataka.com/servicios/github-inesperado-ultimo-reducto-libertad-expresion-gran-firewall-que-pone-jaque-intereses-china
+
+Related:
+
+* https://en.wikipedia.org/wiki/Internet_activism
+
+===== Collateral Freedom
+
+<<greatfire>> people called a <<cute-cat-theory-of-digital-activism>>-related project of theirs "Collateral Freedom" (a reference to https://en.wikipedia.org/wiki/Collateral_damage[collateral damage]), in which they seem to be trying to forward censored websites somehow through AWS to force the Chinese Government to block the entire AWS in China:
+
+____
+Collateral Freedom ties access to information to the Chinese economy. If [authorities] truly want to block access to this information, then they must give up certain access to economic freedoms.
+____
+
+2015 coverage: https://techcrunch.com/2015/03/30/greatfire/
+
+There's an useless Wiki page for that: https://en.wikipedia.org/wiki/Collateral_freedom
+
+https://www.theregister.com/2019/05/10/amazon_backtracks_on_s3/ clarifies that on Amazon S3 the question is about:
+
+* `https://s3.amazonaws.com/<bucket_name>/<object_key_name>`
+* `https://<bucket_name>.s3.amazonaws.com/<object_key_name>`
+
+the second of which can be easily blocked by domain, but the first can't, and how amazon was planning on killing the first option.
+
 
 [[meant-to-be-used]]
 === Politics should not be posted in technical websites such as GitHub or Stack Overflow 不应该在技术网站例如Stack Overflow和GitHub讨论政治
@@ -931,7 +994,10 @@ If China <<war,starts a war>>, other countries will have to fight it.
 +
 If China <<corona,fails to control a viral outbreak>>, other countries might get infected.
 * <<tiananmen,Millions of Chinese people>> disagree with their government, but can't say anything about it, otherwise <<t-shirt,they will go straight to jail>>. See also: xref:most-chinese-people-like-their-dictatorship[xrefstyle=full]
-* The CCP would likely be in power today if the link:https://china-journal.org/2018/02/26/why-did-chiang-kai-shek-lose-china-the-guomindang-regime-and-the-victory-of-the-chinese-communist-party[Japanese hadn't weakened the Guomindang] and the link:https://www.wilsoncenter.org/blog-post/how-stalin-elevated-the-chinese-communist-party-to-power-xinjiang-1949[Soviet Union helped out Mao].
+* The CCP would likely not be in power today if the Japanese hadn't weakened the Guomindang and the link:https://www.wilsoncenter.org/blog-post/how-stalin-elevated-the-chinese-communist-party-to-power-xinjiang-1949[Soviet Union helped out Mao]:
++
+** https://www.quora.com/How-much-is-Japan-to-blame-for-the-KMT-losing-control-of-the-Chinese-mainland
+** https://china-journal.org/2018/02/26/why-did-chiang-kai-shek-lose-china-the-guomindang-regime-and-the-victory-of-the-chinese-communist-party
 +
 And Chine would be much much less technologically advanced had it come in contact with the West, from which it is still trying to learn/steal from: <<university-espionage>>.
 +
@@ -1593,6 +1659,7 @@ There's not point in censoring them. Such censorship only makes things worse, as
 
 Recent cases in which Ciro feel that Western countries have gotten it wrong:
 
+* 2020 https://www.forbes.com/sites/andrewsolender/2020/06/20/trump-says-he-wants-to-punish-flag-burning-with-a-year-in-prison/#4d00781b3404 "Trump Says He Wants To Punish Flag Burning With A Year In Prison". https://en.wikipedia.org/wiki/Flag_desecration#United_States[]. If this were to pass, Ciro would be very temped to upload a GIF. Flag dessacration laws are bullshit.
 * 2020-05-29 https://www.bbc.co.uk/news/technology-52846679 Twitter "hides Trump tweet for 'glorifying violence'". The people elected that idiot, Twitter leftists have to swallow that.
 * 2020-08 Kevin Cernekee fired from Google for conservative views
 ** 2020-08-27 https://www.cnbc.com/2019/08/06/google-whistleblower-cernekee-pushed-alt-right-views-former-colleague.html "Internal Google memo claimed conservative whistleblower promoted alt-right views"
@@ -2289,67 +2356,6 @@ Further discussions about this useless terminology question:
 
 * https://www.quora.com/Is-China-a-dictatorship
 
-[[keyword-attack]]
-=== What is a screen name keyword attack?
-
-Adding censored words to your username: https://stackoverflow.com/users/895245
-
-This only works on websites that show usernames everywhere.
-
-This then leads to your username appearing on thousands of pages, depending on how much you contribute to the website.
-
-It is also possible to do it with images, although this is less effective in taking down websites since images are harder for the firewall to track automatically. But:
-
-* they are more memorable than words
-* they also work on websites like GitHub where your real name does not show on most pages, only slug
-
-so maybe the most effective approach is to use both keywords and images to get the best of both worlds ;-)
-
-.<<chrysanthemium-xi-jinping>> has been used by Ciro Santilli as a profile picture censored image attack
-image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
-
-This type of attack is essentially an <<embargo>>.
-
-See also: <<photobombing-like-attacks>>.
-
-[[cute-cat-theory-of-digital-activism]]
-==== Cute cat theory of digital activism (可愛貓理論)
-
-* https://en.wikipedia.org/wiki/Cute_cat_theory_of_digital_activism
-* https://zh.wikipedia.org/wiki/可愛貓理論
-
-Someone told <<ciro-santilli>> a while after he had started doing his <<keyword-attack>> on <<stack-overflow>>, he didn't know about it before, but it is basically what he was doing.
-
-You can never invent anything new anymore nowadays!
-
-This is especially relevant to <<github>>! And GitHub's mascot is also a cat ;-) Some mentions of this:
-
-* 2020-09-09 https://www.wired.com/story/china-github-free-speech-covid-information/
-* 2020-09-09 https://www.xataka.com/servicios/github-inesperado-ultimo-reducto-libertad-expresion-gran-firewall-que-pone-jaque-intereses-china
-
-Related:
-
-* https://en.wikipedia.org/wiki/Internet_activism
-
-===== Collateral Freedom
-
-<<greatfire>> people called a <<cute-cat-theory-of-digital-activism>>-related project of theirs "Collateral Freedom" (a reference to https://en.wikipedia.org/wiki/Collateral_damage[collateral damage]), in which they seem to be trying to forward censored websites somehow through AWS to force the Chinese Government to block the entire AWS in China:
-
-____
-Collateral Freedom ties access to information to the Chinese economy. If [authorities] truly want to block access to this information, then they must give up certain access to economic freedoms.
-____
-
-2015 coverage: https://techcrunch.com/2015/03/30/greatfire/
-
-There's an useless Wiki page for that: https://en.wikipedia.org/wiki/Collateral_freedom
-
-https://www.theregister.com/2019/05/10/amazon_backtracks_on_s3/ clarifies that on Amazon S3 the question is about:
-
-* `https://s3.amazonaws.com/<bucket_name>/<object_key_name>`
-* `https://<bucket_name>.s3.amazonaws.com/<object_key_name>`
-
-the second of which can be easily blocked by domain, but the first can't, and how amazon was planning on killing the first option.
-
 [[anti-ccp-info-sources]]
 ==== What are the best sources of anti-CCP news?
 
@@ -2932,6 +2938,12 @@ image::{china-dictatorship-media-base}/Apple_Daily_raid.webp[height=600]
 ** 2019-10 https://twitter.com/Slasher/status/1181442535962632193 Blizzard bans top Hearthstone esports player Blitzchung (Ng Wai Chung) for pro Hong Kong message in interview
 +
 Wiki page of the event: https://en.wikipedia.org/wiki/Blitzchung_controversy
+
+Songs:
+
+* Glory to Hong Kong
+** https://en.wikipedia.org/wiki/Glory_to_Hong_Kong
+** https://zh.wikipedia.org/wiki/願榮光歸香港
 
 .https://youtube.com/watch?v=YhN6jipSHFI Hong Kong Yoga - Sammy J S2 (ep31) published by ABC Comedy on 2019-09-19. Very good.
 video::YhN6jipSHFI[youtube,height=400,width=600]
