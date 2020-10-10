@@ -981,6 +981,9 @@ Installing any of those immediately give you <<social-credit-system,10 Sesame Po
 
 See also: <<harm-programmers>>.
 
+.https://www.youtube.com/watch?v=GwCyQINNXwE "What is more obscene: sex or war?" scene from https://en.wikipedia.org/wiki/The_People_vs._Larry_Flynt[The People vs. Larry Flynt (1996)]. Ciro just can't stop thinking about that scene when someone tells him that <<disturbs,his profile disturbs them>>. What is more obscene? <<xi-jinping-memes>> or human rights violations?
+video::SRPiE59e8NU[youtube,height=400,width=600]
+
 [[not-chinese]]
 === Non-Chinese people should not interfere in Chinese politics (外国人不应该干预中国政治)
 
@@ -2982,8 +2985,6 @@ Related video of LeBron saying similar things on interview (TODO same?): 2019-10
 
 Led to: <<sport-event-live-broadcast-image-attacks>>.
 
-* 2020-10-04 American billboard company https://en.wikipedia.org/wiki/Outfront_Media[Outfront Media] refuses to post ad critical of LeBron James' stand on China with words showing the superstar with a Chinese flag covering his mouth and the message, "Silence is Violence."
-** https://www.foxnews.com/sports/billboard-company-refuses-to-post-ad-critical-of-lebron-james-stand-on-china
 * 2019-10-15 https://apnews.com/article/dd96d002394f45a6859c280c889afcb7 "LeBron: Rockets' Morey 'wasn't educated' on China tweet"
 * 2019-10-07 (Monday) "Rockets’ general manager’s Hong Kong comments anger China"
 * 2019-10-07 Lakers vs. Heat NBA Tencent Live Stream cancelled due to fan wearing the <<taiwan,Taiwanese>> flag
@@ -2992,6 +2993,9 @@ Led to: <<sport-event-live-broadcast-image-attacks>>.
 image::{china-dictatorship-media-base}/NBA_Taiwan_flag.jpg[height=600]
 ** https://www.bbc.co.uk/news/business-49956385
 ** https://edition.cnn.com/2019/10/07/business/houston-rockets-nba-china-daryl-morey/index.html
+
+.In 2020-10-04 American billboard company https://en.wikipedia.org/wiki/Outfront_Media[Outfront Media] refused to post this ad by the https://en.wikipedia.org/wiki/National_Legal_and_Policy_Center[NLPC conservative think tank] critical of LeBron James' stand on Hong Kong. The ad shows the NBA superstar with a Chinese flag covering his mouth and the message "Silence is Violence." and URL http://freedom4china.com/[]. https://www.foxnews.com/sports/billboard-company-refuses-to-post-ad-critical-of-lebron-james-stand-on-china[Source].
+image::{china-dictatorship-media-base}/Silence_is_violence.jpg[height=400]
 
 === What should all pro-democracy people do about China?
 
@@ -4796,6 +4800,26 @@ image::{china-dictatorship-media-base}/Thai_king_prostrated_officers.jpg[height=
 .Suthida Tidjai, Vajiralongkorn's wife, prostrated before him during their marriage in 2016 before he officially ascended to the throne. Yes, prostation is a big thing in Thailand. An older king, Rama V, had apparently even https://en.wikipedia.org/wiki/Chulalongkorn#Abolition_of_prostration[abolished this practice in 1873]. Clearly, <<xi-jinping>> could learn a thing or two from a proper monarch like Vajiralongkorn. https://web.archive.org/web/20190723095722/https://www.theguardian.com/world/2019/may/03/thailand-coronation-king-maha-vajiralongkorn-rama-x[Source].
 image::{china-dictatorship-media-base}/Thai_king_prostrated_wife.jpg[height=400]
 
+[[military-dictatorship-in-brazil]]
+== Military dictatorship in Brazil (1964-1985)
+
+https://en.wikipedia.org/wiki/Military_dictatorship_in_Brazil
+
+One of Ciro's favorite stories about the dictatorship is how cake recipes or classical https://en.wikipedia.org/wiki/Luís_de_Camões[Luís_de_Camões (1524-1580)] poetry were introduced in newspapers to replace news that had been <<censorship,censored>> in the last minute:
+
+* https://www.vice.com/en/article/j57exd/how-cake-became-a-form-of-resistance-under-brazils-military-dictatorship
+* (pt) http://www.memorialdademocracia.com.br/card/noticia-censurada-da-lugar-a-camoes
+
+Who would have thought that even the limiting and ancient limitations of https://en.wikipedia.org/wiki/Pagination[pagination] would have their usefulness!!! Today's Chinese censors have it easy, as they can just remove the stuff and that damned HTML reflow automatically to fit.
+
+[[apesar-de-voce]]
+.https://www.youtube.com/watch?v=33-bMTOlvx0 Apesar de Você (In spite of you [the Dictatorship])] by https://en.wikipedia.org/wiki/Chico_Buarque[Chico Buarque] (1970). This is one of the many anti-Brazilian-dictatorship songs of the time, and Ciro really enjoys it. https://www.musixmatch.com/lyrics/Chico-Buarque/Apesar-De-Voc%C3%AA/translation/english[Lyrics with translation]. Top quotes: "You [the dictatorship] who invented this State, who invented sin, forgot to invent forgiveness." and "Where will you hide, from the enormous euphoria [of a revolution]? How will you prohibit it when the rooster insists in singing?". Slideshows with that song have been made for several events, e.g. https://www.youtube.com/watch?v=WOqaF3shq6o[the Syrian civil war], and Ciro would like to do a China-themed one as well one day.
+video::33-bMTOlvx0[youtube,height=400,width=600]
+
+[[os-problemas-da-imprensa-livre]]
+.https://en.wikipedia.org/wiki/Jornal_da_Tarde[Jornal da Tarde] (Afternoon Newspaper) issue entitled on top "Os problemas da imprensa livre nas Américas" (The problems of the Free Press), followed by small rectangles with coverage of several countries such as the USA, Cuba, and others, but not Brazil. The bottom half of the page however hilariously contains recipes for "Doces" (Sweets) and "Salgados" (Dishes), instead of the presumed coverage about Brazil. http://www.memorialdademocracia.com.br/card/noticia-censurada-da-lugar-a-camoes[Source].
+image::{china-dictatorship-media-base}/Os_problemas_da_imprensa_livre.jpg[height=600]
+
 [[falun-gong]]
 == Falun Gong (法轮功)
 
@@ -6156,7 +6180,7 @@ The embassy spokesman says Chinese officials have ample evidence of sect leader 
 image::{china-dictatorship-media-base}/Zhong_Gong_lotus.jpg[height=400]
 
 [[zhong-gong-blue]]
-.The blue background, the halos, the praying hands, the master Zhang Hongbao flying above. It is just exactly like <<flg-blue,Falun Gong imagery>>. https://www.chinacourt.org/article/detail/2018/08/id/3475129.shtml[Source] (<<chinese-government-media,biased>>)
+.The blue background, the halos, the praying hands, the master Zhang Hongbao flying above. It is just exactly like <<flg-blue,Falun Gong imagery>>. https://www.chinacourt.org/article/detail/2018/08/id/3475129.shtml[Source] (<<chinese-government-media>>)
 image::{china-dictatorship-media-base}/Zhong_gong_blue.jpg[height=400]
 
 [[flg-blue]]
@@ -7535,11 +7559,13 @@ The likely organizers behind <<confucius-institute>> and <<cssa>>.
 
 A great example of how <<falun-gong>> is <<flg-organized,highly organized>>.
 
-Highly controlled by <<li-hongzhi>>, and extremely lacking clear full disclosure of their affiliation, see also: "Front groups" at <<orange-papers>>.
+Likely highly controlled by <<li-hongzhi>>, and extremely lacking clear full disclosure of their affiliation, see also: "Front groups" at <<orange-papers>>.
 
 It could be argued that those media are not "directly" controlled by Li Hongzhi, and possibly were created independently of him initially, but without doubt they are controlled by his devout followers, and if Li Hongzhi ever gave directions, which Ciro has no proof he has ever done, then those media would follow.
 
 Furthermore, Li appears to directly cite some of the main media in Canon or talk at their conferences as Canon.
+
+One thing must be said in their favour however: they are incorruptible in their fight against the CCP.
 
 * https://www.secretchina.com/
 * https://fofg.org/
@@ -7709,7 +7735,7 @@ Partial support:
 
 * https://en.wikipedia.org/wiki/Boxun https://zh.wikipedia.org/wiki/博讯
 
-==== USA media bias
+==== USA-based media bias
 
 2018 graph that everyone needs to see: https://ei.marketwatch.com/Multimedia/2018/02/28/Photos/NS/MW-GE557_MediaB_20180228115701_NS.jpg
 
@@ -7990,7 +8016,10 @@ ____
 [[censorship]]
 === Censorship (审查)
 
-Related: <<hate-speech>>.
+Related:
+
+* <<hate-speech>>
+* <<os-problemas-da-imprensa-livre>>
 
 .https://en.wikipedia.org/wiki/Eric_Drooker[Eric Drooker]'s "Censorship" (TODO year) has become one of the most recognizable censorship symbols as of 2020. https://www.drooker.com/illustrations[Source].
 image::{china-dictatorship-media-base}/Eric_Drooker_censorship.jpg[height=400]
@@ -9040,10 +9069,7 @@ Not necessarily in Chinese or about China specifically.
 
 For Tiananmen songs, see: <<tiananmen-songs>>.
 
-Brazil had a dictatorship from 1964 to 1985, and some amazing songs were made in Portuguese in that era. <<ciro-santilli>>, who is Brazillian, just cannot stop thinking about some of them in relation to China.
-
-.https://www.youtube.com/watch?v=33-bMTOlvx0 Apesar de Você (In spite of you [the Dictatorship])] by https://en.wikipedia.org/wiki/Chico_Buarque[Chico Buarque] published in 1970. https://www.musixmatch.com/lyrics/Chico-Buarque/Apesar-De-Voc%C3%AA/translation/english[Lyrics with translation]. Top quotes: "You [the dictatorship] who invented this State, who invented sin, forgot to invent forgiveness." and "Where will you hide, from the enormous euphoria [of a revolution]? How will you prohibit it when the rooster insists in singing?"
-video::33-bMTOlvx0[youtube,height=400,width=600]
+Brazil had a <<military-dictatorship-in-brazil,dictatorship from 1964 to 1985>>, and some amazing songs were made in Portuguese in that era. <<ciro-santilli>>, who is Brazilian, just cannot stop thinking about some of them in relation to China, notably: <<apesar-de-voce,Apesar de você>>.
 
 [[do-you-hear-the-people-sing]]
 === Do you hear the people sing (Les Miserables (musical), 1980)
