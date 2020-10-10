@@ -293,7 +293,7 @@ Don't you think it is worth a try? Destroying the firewall, would <<why-end-dict
 
 Once the firewall is destroyed, which <<dictator-needs-gfw,may destroy the dictatorship>>, he want China to develop the best science and technology in the world, and <<would-ciro-santilli-like-to-live-in-china>>.
 
-And by the way, with his https://github.com/cirosantilli[extensive contributions to open source software], Ciro is already helping China, and all underdeveloped countries, become stronger.
+And by the way, with his https://github.com/cirosantilli[extensive contributions to open source software], Ciro is already helping China, and all underdeveloped countries, to become stronger. His hope is that if poor countries become richer and better educated, that they will be less likely to be influenced by the CCP's money, and therefore are more likely to be allies of democracy.
 
 See also: <<disturbs>>.
 
@@ -1863,21 +1863,52 @@ image::{china-dictatorship-media-base}/Xi_scout_salute.jpg[height=500]
 .https://www.youtube.com/watch?v=wD53MEbLDIE <<serpentza-laowhy86,laowhy86>> video "Can We Compare China to Nazi Germany?" published on 2020-04-29. Good side-by-side video comparisons. Says that China is mor like Nazi than <<russia>>, but Ciro disagrees, all three are <<is-chinese-politician-x-evil,evil dictatorships>>.
 video::wD53MEbLDIE[youtube,height=400,width=600]
 
-=== Personal questions about Ciro Santilli
+=== Contributing guidelines
 
-==== Can I contact you in Chinese?
+[[shitpost]]
+==== I want to take my chances and make a shitpost in cirosantilli/china-dictatorship
 
-If you don't know English well enough, that's fine though, go for Chinese.
+So, have you reached the conclusion that your https://en.wikipedia.org/wiki/Shitposting[shitpost] is link:CONTRIBUTING.md[worth the risk of getting blocked]?
+
+Remember that shitposts can also be creative: if you are going to insult Ciro Santilli, at least do it in a creative way, or else you look like an even bigger idiot than you really are.
+
+A collection of shitposts for you to take inspiration from can be found at: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ashitpost+
+
+Also, when opening a shitpost you may mark it clearly such with the shitpost issue template which automatically assigns the shitpost label. Doing so will make you look like less of an idiot.
+
+While we require polite replies to polite posts, no matter what which side they are defending, if a post is marked as a shitpost, things are much more relaxed and fun, and you can generally get away with telling the OP to fuck themselves link:CONTRIBUTING.md[without getting blocked].
+
+.Real shit photos may be posted in reply to shitposts. https://commons.wikimedia.org/wiki/File:Human_Feces_(cropped).jpg[Source].
+image::{china-dictatorship-media-base}/Shit.jpg[height=400]
+
+.Amazing shitposts may recieve a Golden Shit award. The image is from a Japanese https://en.wikipedia.org/wiki/Kin_no_unko[Kin no unko (金のうんこ)], which is likely inspired by https://en.wikipedia.org/wiki/Sycee[golden Sycees]. https://en.wikipedia.org/wiki/File:Kin_no_unko.jpg[Source].
+image::{china-dictatorship-media-base}/Kin_no_unko.jpg[height=500]
+
+.To censor or not to censor good shitposts: that is not the question, <<ciro-santilli>> will never censor them! https://imgur.com/gallery/rA0K90g[Source].
+image::{china-dictatorship-media-base}/Like_shitposts.jpg[height=600]
+
+.The legendary https://en.wikipedia.org/wiki/Grass_Mud_Horse[Grass Mud Horse 草泥马 (caonima)] is also said to appear in shitposts from time to time.
+image::{china-dictatorship-media-base}/Caonima.jpg[height=600]
+
+==== I am going to write a huge wall of text to prove my point
+
+Feel free to do that, but no one will ever read most of it.
+
+If you want your comment to be read, choose your key point well, and deliver it.
+
+It is a shame that most people who are ever able to do that are <<shitpost,shitposters>>, but credit where credit is due.
+
+==== Can I contact Ciro Santilli in Chinese?
+
+If you don't know English well enough, that's fine though, go for Chinese, Ciro Santilli will likely understand it: <<does-ciro-santilli-speak-chinese>>.
 
 But if you do, use English.
 
-I am not going to learn Chinese because of your message.
+Ciro is not going to learn Chinese because of your message.
 
 It is more productive for you to write in English, so that the rest of the West can also learn something new.
 
-Especially since it seems that most Chinese already know what you are talking about.
-
-See also: <<does-ciro-santilli-speak-chinese>>.
+Especially since it seems that most Chinese already know what you are talking about, so you are better off teaching Western people about it.
 
 [[slang]]
 ===== I am going to use a bunch of Chinese slangs because it makes me feel smart 我知道网络语言，我很聪明
@@ -1917,44 +1948,17 @@ Places to try and decrypt Internet slang when you feel like wasting your time:
 ** "网络用语" is the most common word for "Internet Slang", so also useful for Google searches
 ** https://en.wikipedia.org/wiki/Chinese_Internet_slang
 
-https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ai-know-slangs-i-smart+
+Random slangs of interest and related concepts:
+
+* https://zh.wikipedia.org/wiki/火星文[火星文] (https://en.wikipedia.org/wiki/Martian_language[Martian language]). This figures for example in the language rules of the <<ptt>> joke board: https://www.ptt.cc/bbs/joke/M.1602005687.A.E4D.html (禁止使用簡體字、注音文、火星文、外國語言或其他無法直觀理解之內容作為文章主體).
+
+GitHub issue label: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ai-know-slangs-i-smart+
 
 [[vagina]]
 .A https://en.wikipedia.org/wiki/Vagina[Vagina] (https://zh.wikipedia.org/wiki/阴道[阴道]) also known as cunt (屄), is the female reproductive organ, including the naturally occurring black hole that appears in front of it whenever a picture is taken to prevent <<github>> from taking down this page. Even though <<porn,you've never seen one>>, there's no need to be afraid of it, and refer to it in euphemisms like "SB". https://en.wikipedia.org/wiki/File:Rugae_vaginales.jpg[Background source] and https://commons.wikimedia.org/wiki/File:Black_Hole_Milkyway.jpg[black hole source].
 image::{cirosantilli-media-base}/Rugae_vaginales_with_black_hole.jpg[height=400]
 
-[[shitpost]]
-===== I want to take my chances and make a shitpost in cirosantilli/china-dictatorship
-
-So, have you reached the conclusion that your https://en.wikipedia.org/wiki/Shitposting[shitpost] is link:CONTRIBUTING.md[worth the risk of getting blocked]?
-
-Remember that shitposts can also be creative: if you are going to insult Ciro Santilli, at least do it in a creative way, or else you look like an even bigger idiot than you really are.
-
-A collection of shitposts for you to take inspiration from can be found at: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ashitpost+
-
-Also, when opening a shitpost you may mark it clearly such with the shitpost issue template which automatically assigns the shitpost label. Doing so will make you look like less of an idiot.
-
-While we require polite replies to polite posts, no matter what which side they are defending, if a post is marked as a shitpost, things are much more relaxed and fun, and you can generally get away with telling the OP to fuck themselves link:CONTRIBUTING.md[without getting blocked].
-
-.Real shit photos may be posted in reply to shitposts. https://commons.wikimedia.org/wiki/File:Human_Feces_(cropped).jpg[Source].
-image::{china-dictatorship-media-base}/Shit.jpg[height=400]
-
-.Amazing shitposts may recieve a Golden Shit award. The image is from a Japanese https://en.wikipedia.org/wiki/Kin_no_unko[Kin no unko (金のうんこ)], which is likely inspired by https://en.wikipedia.org/wiki/Sycee[golden Sycees]. https://en.wikipedia.org/wiki/File:Kin_no_unko.jpg[Source].
-image::{china-dictatorship-media-base}/Kin_no_unko.jpg[height=500]
-
-.To censor or not to censor good shitposts: that is not the question, <<ciro-santilli>> will never censor them! https://imgur.com/gallery/rA0K90g[Source].
-image::{china-dictatorship-media-base}/Like_shitposts.jpg[height=600]
-
-.The legendary https://en.wikipedia.org/wiki/Grass_Mud_Horse[Grass Mud Horse 草泥马 (caonima)] is also said to appear in shitposts from time to time.
-image::{china-dictatorship-media-base}/Caonima.jpg[height=600]
-
-===== I am going to write a huge text to prove my point
-
-Feel free to do that, but no one will ever read most of it.
-
-If you want your comment to be read, choose your key point well, and deliver it.
-
-It is a shame that most people who are ever able to do that are <<shitpost,shitposters>>, but credit where credit is due.
+=== Personal questions about Ciro Santilli
 
 ==== Has Ciro Santilli you ever lived in China?
 
@@ -2005,13 +2009,13 @@ But <<why-does-ciro-santilli-love-china-so-much,his wife is>>.
 [[does-ciro-santilli-speak-chinese]]
 ==== Does Ciro Santilli speak Chinese? 三西猴会说中文吗？
 
-As of 2019, oral enough for daily things, but not understand most natural casual dinner conversation or watch TV series, because they go too quickly into vocabulary subject areas that he doesn't know.
+As of 2019, oral enough for daily things, but not understand most natural casual dinner conversation or watch TV series, because they go too quickly into vocabulary subject areas that he doesn't know. And obviously, using <<slang,slangs>> just makes things really hard.
 
 When it matters, and with some patience, he can make himself understood though with https://xkcd.com/thing-explainer/[some analogies] (https://web.archive.org/web/20190908144612/https://xkcd.com/thing-explainer/[archive]) and a dictionary.
 
 From the HSK vocabulary list, he estimates that he is definitely HSK 3, but not quite HSK 4. This would likely equate A2/B1 in the https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages[European system].
 
-Phonetics wise, Ciro can't distinguish or produce a few sounds, notably `-ing` vs `-in` and his off-tone rate is high, but it tends to not matter at all compared to his lack of vocabulary.
+Phonetics wise, Ciro can't distinguish or produce a few sounds, notably `-ing` vs `-in` and his off-tone rate is high, but it tends to not matter at all compared to his lack of vocabulary. Except for his <<wife,mother-in-law>>, who sometimes does not understand it at all without correct tones!
 
 Ciro reads with link:https://www.perapera.org/[Perapera] when he wants to learn new words/has patience/something is very important, and can basically understand everything in that way.
 
@@ -4173,18 +4177,24 @@ Some <<wumao,wumaos>>:
 
 Popular <<taiwan,Taiwanese>> forum system and server from 1995, pre HTML, works from telnet terminal, so likely very programmer heavy, and obviously anti-CCP, as of 2020 often shows <<falun-gong>> ads.
 
-Ciro Santilli's appearances on PTT:
+<<ciro-santilli>>'s appearances on PTT:
 
+* 2020-10-09: https://www.ptt.cc/bbs/joke/M.1602211516.A.3FB.html 如何一秒惹怒中國人 (how to provoke a Chinese person in one second) by https://pttweb.tw/user/abc60575986/[abc60575986] saying "台灣是一個國家" (Taiwan is a country). Then https://pttweb.tw/user/kugwa/[kugwa] linked to <<keyword-attack,Ciro Santilli's Stack Overflow profile>>
 * 2020-01-31: https://www.ptt.cc/bbs/Gossiping/M.1580484253.A.37A.html "stackoverflow菁英卻痛恨中國" by https://pttweb.tw/user/Eric0605/["Eric0605 (我還有點餓)"] on the Gossiping board
 * 2017-06-19 https://pttweb.tw/s/2K9zV "Ciro Santilli <<the-709-crackdown,709大抓捕>> 六四事件 法轮" on the Gossiping board
 * 2016-10-03 https://www.ptt.cc/bbs/Soft_Job/M.1478104872.A.916.html "Github也出現網軍了嗎?" by gocreating on the Soft_Job board
 
-Archaic, fucking impossible to learn how to use. Ciro Santilli hasn't managed yet, so if you want a reply from him, open an issue on this repo instead.
+Archaic, fucking impossible to learn how to use. Ciro Santilli hasn't managed yet, so if you want a reply from him, open an issue on this repo instead. Some tips:
+
+* on the web UI rendering replies can be either likes (推 as in 推荐), dislikes (噓, hush!) or neutral (right arrow)
+* per-page threads are basically flat. You can however reply to another post with a "Re:" post. One application of this seems to be to post images which might only be allowed on the thread starters, e.g.: https://www.ptt.cc/bbs/joke/M.1602324724.A.CA0.html is a "Re:" to https://www.ptt.cc/bbs/joke/M.1602211516.A.3FB.html It is not clear if Re: and original posts are interlinked in any way.
 
 TODO: can anyone comment, without having a Taiwanese university address? This suggests no: https://www.reddit.com/r/taiwan/comments/1etbvb/anyone_on_pttcc_advice_suggestions/ Also asked at:
 
 * https://www.quora.com/unanswered/Can-you-comment-on-the-PTT-Bulletin-Board-System-at-ptt-cc-from-Taiwan-without-working-or-studying-at-a-Taiwanese-university
 * https://github.com/cirosantilli/china-dictatorship/issues/92
+
+A source informed Ciro that now only https://en.wikipedia.org/wiki/National_Taiwan_University[NTU] alumni can have an account.
 
 Maybe the email requirement is the only way to prevent <<wumao,wumaos>> from flooding the website.
 
@@ -4231,7 +4241,7 @@ TODO meaning of "LI"?
 <<ciro-santilli>> mentions:
 
 * 2018-07-31 https://lihkg.com/thread/762440/page/1 https://archive.is/7REOi. Title: "依條友都幾屈機, 係Stack overflow撚共匪". I'm unable to understand the first sentence, but the end is something along "to play tricks on the commies". First comment (likely by OP): "佢個個人home page好多5毛留言, 唔知會唔會搞到block堆stackoverflow". The entire thread is about Ciro's <<stack-overflow>>.
-* 2019-10-05 https://lihkg.com/thread/1625310/page/1 "聽講GitHub好好用" (Attending lectures on GitHub is very useful.). But likely some slang for politics, because on first comment "可以好好上去發表下愛國論". Then someone links to <<nine-nine-six-icu>>, then to the GitHub <<mirrors,mirror of this page>>, and then to <<gitee>>.
+* 2019-10-05 https://lihkg.com/thread/1625310/page/1 "聽講GitHub好好用" (Attending lectures on GitHub is very useful.). But likely some <<slang,slang>> for politics, because on first comment "可以好好上去發表下愛國論". Then someone links to <<nine-nine-six-icu>>, then to the GitHub <<mirrors,mirror of this page>>, and then to <<gitee>>.
 * 2019-10-31 https://lihkg.com/thread/1685513/page/3 "Notepad{plus}{plus}新版代號「自由維吾爾」，GitHub網頁被灌爆，網站遭DDoS" about <<notepad>> "Free Uyghur" version. On page 3 comment links to Ciro's <<stack-overflow>> account. Big thread with 500+ likes.
 
 [[google]]
@@ -6948,7 +6958,7 @@ Very popular Chinese language anonymous blogger that publishes software programm
 +
 The full project name is: 太子党关系网络 (network of relations of https://en.wikipedia.org/wiki/Princelings[CCP princelings]).
 +
-The project is also known as "zhao" which is another slang reference to "太子党": "赵家人" (zhaojiaren == zhao family): https://en.wikipedia.org/wiki/Zhao_family | https://zh.wikipedia.org/wiki/趙家人zh, which is in turn a reference to https://en.wikipedia.org/wiki/Zhao_(state) or https://en.wikipedia.org/wiki/House_of_Zhao[].
+The project is also known as "zhao" which is another <<slang,slang>> reference to "太子党": "赵家人" (zhaojiaren == zhao family): https://en.wikipedia.org/wiki/Zhao_family | https://zh.wikipedia.org/wiki/趙家人zh, which is in turn a reference to https://en.wikipedia.org/wiki/Zhao_(state) or https://en.wikipedia.org/wiki/House_of_Zhao[].
 * https://twitter.com/programthink
 * DW coverage (Chinese): https://www.dw.com/zh/2013德国之声国际博客大赛中文提名博客揭晓/a-16716065 (https://web.archive.org/web/20191202233838/https://www.dw.com/zh/2013%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%E5%9B%BD%E9%99%85%E5%8D%9A%E5%AE%A2%E5%A4%A7%E8%B5%9B%E4%B8%AD%E6%96%87%E6%8F%90%E5%90%8D%E5%8D%9A%E5%AE%A2%E6%8F%AD%E6%99%93/a-16716065[archive])
 * Programthink has also shown interest in <<nineteen-eighty-four>> as mentioned in that section.
@@ -8584,7 +8594,7 @@ ____
 It is impossible to distinguish wumaos, idiots and <<not-chinese,brain washed>> people. So we just call all of them wumaos.
 ____
 
-It has been pointed out however that there is a funny slang name for brainwashed CCP supporters who are not necessarily paid professional wumaos: "link:https://zh.wikipedia.org/wiki/小粉紅[小粉紅]" (little pinks)
+It has been pointed out however that there is a funny <<slang,slang>> name for brainwashed CCP supporters who are not necessarily paid professional wumaos: "link:https://zh.wikipedia.org/wiki/小粉紅[小粉紅]" (little pinks)
 
 But of course, the <<ccp-cult,CCP is a cult>> (and <<democracy-is-a-religion,democracy, a religion>>), and therefore <<preconceived,any discussion is also pointless>> in general.
 
