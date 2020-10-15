@@ -1001,8 +1001,9 @@ If China <<corona,fails to control a viral outbreak>>, other countries might get
 +
 ** https://www.quora.com/How-much-is-Japan-to-blame-for-the-KMT-losing-control-of-the-Chinese-mainland
 ** https://china-journal.org/2018/02/26/why-did-chiang-kai-shek-lose-china-the-guomindang-regime-and-the-victory-of-the-chinese-communist-party
+** https://zh.wikipedia.org/wiki/毛泽东感谢日本争议
 +
-And Chine would be much much less technologically advanced had it come in contact with the West, from which it is still trying to learn/steal from: <<university-espionage>>.
+And China would be much much less technologically advanced had it come in contact with the West, from which it is still trying to learn/steal from: <<university-espionage>>.
 +
 Foreign influence can be both good or bad.
 * Chinese people have been brainwashed by the <<evil-west,commies who say that all foreigners are bad>>, more than the West has been brainwashed to think that he CCP is bad: <<brainwashed-by-usa>>
@@ -1252,7 +1253,17 @@ The last straw that led <<ciro-santilli>> to start the <<keyword-attack>> on <<s
 * https://twitter.com/cirosantilli/status/579270450984984576
 * https://www.facebook.com/cirosantilli/posts/952661734753174
 
-I then continued because I hate political <<censorship,censorship>>, and because <<does-ciro-santilli-hate-china,I love China>>.
+He then continued because he hate political <<censorship,censorship>>, and because <<does-ciro-santilli-hate-china,I love China>>.
+
+Every time Ciro thinks about this, he notices how stupid humans are. We see the forest fire smoke, and just never think that it will ever reach your home on the border of the forest.
+
+Until it actually does, and then you are really fucked.
+
+So in a sense it was a good thing that Ciro had this little backyard fire with this mother-in-law, as it woke him up further to how serious the CCP thread was, and led him to action.
+
+Because before that, he was one of the majority who just constantly hears about the increasing mountain of evidence of human rights violations, and does nothing about it.
+
+The https://en.wikipedia.org/wiki/Darkest_Hour_(film)[Darkest Hour (2017) film] comes to mind: https://www.youtube.com/watch?v=xA1Uz_TMzhs[]. The movie shows that Britain was truly hesitant whether to negotiate or fight Hitler, even after the Nazis had already started invading other European countries, and would clearly not stop. Luckily, we are not at a position of war yet, and might never be due to nuclear weapons. But still, a similar blindness applies. <<corona>> woke up many people, but even then some haven't faced it.
 
 [[ciro-santilli-mother-in-law-jail]]
 ===== Ciro Santilli's post when his mother-in-law was put into jail
@@ -1390,6 +1401,8 @@ It is amusing to see Soviet series criticizing dictatorships, given that the Sov
 It is easy to reach an agreement, when everyone who disagrees goes to jail or gets killed for to <<inciting-subversion>> or <<picking-quarrels>>.
 
 Also ask the millions of people who were affected by <<tiananmen>>, <<falun-gong>>, <<xinjiang>> or <<dissidents>>.
+
+See also: <<seventeen-moments-of-spring>>.
 
 One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy Few" (2018)], which which people are forced to be happy. <<nineteen-eighty-four>> also comes to mind of course.
 
@@ -1620,21 +1633,21 @@ See also:
 [[hate-speech]]
 ===== Western democracies also censor subjects such as child porn and hate speech
 
-First, child porn and hate speech are also banned in China, so shut up. <<china-has-more-freedom-of-speech-than-the-usa,Every type of speech>> is less free in <<dictatorship>>.
+First, child porn and hate speech are also banned in China, so shut up. <<china-has-more-freedom-of-speech-than-the-usa,every type of speech>> is less free in <<dictatorship>>.
 
 Second, if you don't think child porn should be banned, there isn't much point in arguing with you.
 
 Now, hate speech is a very complex subject. <<ciro-santilli>> does feel that we should be very careful when banning hate speech, and he is not sure if it should be banned at all, as perhaps it might just make matters worse.
 
-But of course, there is censorship in Western democracies, and there is a gray area between what should be censored or not.
+But of course, there is also censorship in Western democracies, and there is a gray area between what should be censored or not.
 
 <<ciro-santilli>> only argues that there is on type of speech that must never ever be <<censorship,censored>>: political speech.
 
 This way, the majority can always discuss and vote to change what can be censored or not.
 
-In China, trying to discuss such changes in laws <<internal-censorship,puts you in jail>>, so bad laws cannot be changed.
+In China, however, trying to discuss such changes in laws <<internal-censorship,puts you in jail>>, so bad laws cannot be changed. This lack of freedom <<most-chinese-people-like-their-dictatorship,also gives the impression to many brainwashed Chinese>> that dicatorships are better because you see less conflict online. Which is great, until your human rights are violated, and you've got no one to talk to.
 
-Otherwise, this leads to extremely serious problems:
+The lack of ability to discuss political problems leads to extremely serious problems:
 
 * <<corruption>>: politicians can <<internal-censorship,censor>> anything bad that they did to stay in power
 * <<war>>: if the CCP leaders decide that a war must be made, everyone who opposes it will go to jail, and the war will be made
@@ -1662,6 +1675,7 @@ There's not point in censoring them. Such censorship only makes things worse, as
 
 Recent cases in which Ciro feel that Western countries have gotten it wrong:
 
+* 2020-10-12 https://techcrunch.com/2020/10/12/facebook-in-a-reversal-will-now-ban-holocaust-denial-content-under-its-hate-speech-policy/
 * 2020 https://www.forbes.com/sites/andrewsolender/2020/06/20/trump-says-he-wants-to-punish-flag-burning-with-a-year-in-prison/#4d00781b3404 "Trump Says He Wants To Punish Flag Burning With A Year In Prison". https://en.wikipedia.org/wiki/Flag_desecration#United_States[]. If this were to pass, Ciro would be very temped to upload a GIF. Flag dessacration laws are bullshit.
 * 2020-05-29 https://www.bbc.co.uk/news/technology-52846679 Twitter "hides Trump tweet for 'glorifying violence'". The people elected that idiot, Twitter leftists have to swallow that.
 * 2020-08 Kevin Cernekee fired from Google for conservative views
@@ -2993,6 +3007,11 @@ Led to: <<sport-event-live-broadcast-image-attacks>>.
 image::{china-dictatorship-media-base}/NBA_Taiwan_flag.jpg[height=600]
 ** https://www.bbc.co.uk/news/business-49956385
 ** https://edition.cnn.com/2019/10/07/business/houston-rockets-nba-china-daryl-morey/index.html
+
+Some good LeBron cartoons:
+
+* https://twitter.com/Christi71386739/status/1312730174497058816/photo/1 <<rebel-pepper>> 2019-10-15 "You are the king"
+* https://twitter.com/Christi71386739/status/1312730174497058816/photo/2 Adam Zyglis "Kneeling", NFL vs NBA
 
 .In 2020-10-04 American billboard company https://en.wikipedia.org/wiki/Outfront_Media[Outfront Media] refused to post this ad by the https://en.wikipedia.org/wiki/National_Legal_and_Policy_Center[NLPC conservative think tank] critical of LeBron James' stand on Hong Kong. The ad shows the NBA superstar with a Chinese flag covering his mouth and the message "Silence is Violence." and URL http://freedom4china.com/[]. https://www.foxnews.com/sports/billboard-company-refuses-to-post-ad-critical-of-lebron-james-stand-on-china[Source].
 image::{china-dictatorship-media-base}/Silence_is_violence.jpg[height=400]
@@ -5346,37 +5365,37 @@ See also: <<flg-verifiable>>.
 [[flg-daily]]
 === How is it like to live with Falun Gong believers?
 
-This will obviously vary from believer to believer, but here is my experience.
+This will obviously vary from believer to believer, but here is <<ciro-santilli>>'s experience.
 
 Like any other religion that is taken seriously, they spend several hours per week doing their standard religious activities: <<flg-religion>>.
 
-I never seen them, or anyone we know from FLG say or do something that I consider morally incorrect because of FLG.
+Ciro has never seen them, or anyone we know from FLG say or do something that he consider morally incorrect because of FLG.
 
-This does not prevent <<wife,my wife>> from working normally.
+This does not prevent <<wife,his wife>> from working normally.
 
-My mother-in-law, who is retired, dedicates all her time to Falun Gong when she is not taking care of the house.
+Ciro's mother-in-law, who is retired, dedicates all her time to Falun Gong when she is not taking care of the house.
 
-My mother is also religious (link:https://en.wikipedia.org/wiki/Protestantism[Protestant]), and I get a very similar feeling about both groups.
+Ciro's mother is also religious (link:https://en.wikipedia.org/wiki/Protestantism[Protestant]), and he gets a very similar feeling about both groups.
 
-Like other religions, Falun Gong gives them meaning in life, and I admire that they pursue their belief energetically.
+Like other religions, Falun Gong gives them meaning in life, and Ciro admires that they pursue their belief energetically, just as he persues his beliefs energetically.
 
-I much prefer that my mother-in-law does Falun Gong, which is a noble meaningful goal, rather than watch stupid crap on television.
+Ciro much prefers that Ciro's mother-in-law does Falun Gong, which is a noble meaningful goal, rather than watch stupid crap on television.
 
-Also, although I am <<does-ciro-santilli-believe-in-or-practice-falun-gong,agnostic>>, I also live in a similar way.
+Also, although he is <<does-ciro-santilli-believe-in-or-practice-falun-gong,agnostic>>, Ciro also lives in a similar way.
 
-My religion is that of science and technology, and I pursue it fervently by trying to learn and teach it and spend several hours a week doing that, even when it does not give me money immediately.
+Ciro's religion is that of science and technology, and he pursue it fervently by trying to learn and teach it and spend several hours a week doing that, even when it does not give him money immediately.
 
-If I pursue my meaning, why should I prevent anyone from pursuing theirs?
+If Ciro pursue his meaning, why should he prevent anyone from pursuing theirs?
 
-Previously, my wife and mother-in-law would sometimes try to persuade me to learn FLG, which was annoying.
+Previously, Ciro's wife and mother-in-law would sometimes try to persuade him to learn Falun Gong, which was annoying.
 
-But every time I told them very clearly that I know where to download the books if I want to, and that I may never want to read them, and that my wife must either accept this fact or leave me.
+But every time he told them very clearly that he knows where to download the books if I want to, and that he may never want to read them, and that his wife must either accept this fact or leave him.
 
-And they have accepted that: they think I'm a good person, and they can accept that you can also be a good person even without doing FLG.
+And they have accepted that: they think Ciro's a good person, and they can accept that you can also be a good person even without doing Falun Gong.
 
-I do feel Falun Gong makes my mother-in-law more reluctant to use or actively search for <<flg-medication,medication or treatment>>. But I think it is also linked to the fact that she didn't have a very good education or a good health system around. However, if we give her something, she will take it. My wife does not have any resistance to medication.
+Ciro does feel Falun Gong makes Ciro's mother-in-law more reluctant to use or actively search for <<flg-medication,medication or treatment>>. But he thinks it is also linked to the fact that she didn't have a very good education or a good health system around. However, if Ciro and his wife give her something, she will take it. Ciro's wife does not have any resistance to medication.
 
-One thing that does worry me is that my mother in law sleeps too little every night, doing one of the Falun Gong meditations late in the evening, and then waking up very early to a long series of reading and exercise sessions.
+One thing that does worry Ciro is that Ciro's mother in law sleeps too little every night, doing one of the Falun Gong meditations late in the evening, and then waking up very early to a long series of reading and exercise sessions. But it is hard to say if she would be any different without Falun Gong, it could just be her nature.
 
 Bibliography:
 
@@ -8585,7 +8604,7 @@ After you submit, it leads you to: https://www.12321.cn/suc (https://web.archive
 
 From the website source code (very simple, hand written, we see that it uses <<baidu,Baidu Analytics>>. The CCP obviously trusts Baidu a lot :-)
 
-On 2020-09-07, <<mirrors,cirosantilli.com/china-dictatorship>>'s Google Analytics had a hit coming from http://jbcz.12377.cn/report/center/web.index[] ("This site can't be reached" on Chrome). This was soon after <<ciro-santilli>> mentioned <<cac-report-website>> at https://github.com/cirosantilli/china-dictatorship/issues/149#issuecomment-688084645[]. This is presumably the censor's web UI to review reports. "jb" from jbcz presumably means Ju Bao (举报), the CZ Ciro couldn't guess.
+On 2020-09-07, <<mirrors,cirosantilli.com/china-dictatorship>>'s Google Analytics had a hit coming from http://jbcz.12377.cn/report/center/web.index[] ("This site can't be reached" on Chrome). This was soon after <<ciro-santilli>> mentioned <<cac-report-website>> at https://github.com/cirosantilli/china-dictatorship/issues/149#issuecomment-688084645[]. This is presumably the censor's web UI to review reports. "jb" from jbcz presumably means Ju Bao (举报), the CZ Ciro couldn't guess. 2020-10-14 had another hit from: http://jbcz.12377.cn/report/load/operate.index[].
 
 The toplevel http://12377.cn (https://web.archive.org/web/20200907235842/https://www.12377.cn/[archive]) is entitled "中央网信办（国家互联网信息办公室）违法和不良信息举报中心" and is another report website. It is also linked to from http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm under different categories, so it is also official.
 
