@@ -607,6 +607,8 @@ Some believe that the Chinese government grossly under-reported death counts. Of
 
 Maybe China is saying the truth this time. Maybe the rapid Dictatorship response worked. But maybe the most important lesson to take out of this is: no one trusts a Dictatorship, after an infinitely long history of lies and no freedom of the press.
 
+<<li-hongzhi>> of course doubts those number :-) <<falun-gongs-view-of-epidemics>>.
+
 On the other hand, one may argue that the "city closure" measures were stronger/faster than in democracies.
 
 Doctor Li Wenliang (李文亮) reported the virus, but was told by authorities to stay quiet, and later died from the virus, becoming somewhat of a martyr:
@@ -2668,7 +2670,7 @@ ____
 The public must realize that a handful of extremists are far from qualified to represent tens of millions of local residents in Xinjiang. It is not only an irrational and biased mindset to put the blame on the entire Uyghur community or the Muslim world, but the idea will also abet and aid those separatists and terrorists who are desperate to take advantage of ethnic and religious conflicts.
 ____
 +
-and yet as of the \x[xinjiang-re-education-camps], all Xinjiang Muslims were fucked. <<rule-of-law>> comes to mind.
+and yet as of the <<xinjiang-re-education-camps>>, all Xinjiang Muslims were fucked. <<rule-of-law>> comes to mind.
 
 .<<rebel-pepper,Rebel Pepper>> 2017-04 cartoon showing that Xinjiang is like a prison inside a greater prison, which is China itself. Chinese characters read: 新疆(Xinjiang) and 中国(China). TODO source.
 image::{china-dictatorship-media-base}/Xinjiang_camp_in_camp.jpg[height=600]
@@ -5991,6 +5993,22 @@ It is also interesting to note how the Chinese government itself supported Falun
 
 .https://youtu.be/kIpaDW3RwtY?t=244 one random thing ex-KGB spy undercover in the USA Jack Barsky mentioned in this BuzzFeed Multiplayer interview stuck to his mind: "The one thing that you have here, that I believe cannot be found anywhere else in the world is called Freedom, with a capital F". If people want to die in a certain way, or believe that some bullshit will cure them, they should be allowed. Natural selection will take care of the rest.
 video::kIpaDW3RwtY[youtube,height=400,width=600,start=244]
+
+===== Falun Gong's view of epidemics
+
+<<li-hongzhi>> has said in <<flg-canon,canon>> things that lead certain believers (including e.g. <<wife,Ciro's mother in law>>) to believe that because they are good Falun Gong believers, that they are more safe from disease from evil people.
+
+For example, in the 2003 "Fa conference" at the time of https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome[SARS] he https://falundafa.org/eng/eng/lectures/20030420L.html[said]:
+
+____
+You must have seen the epidemic that's come along in China now, right? Hasn't a huge epidemic arrived? To put it in human terms, it's Heaven punishing people. What it's targeting, we Dafa disciples know full well: it's targeting those who don't deserve to be saved, who are impossible to save while Dafa disciples clarify the truth, and who aren't useful to the evil rotten spirits. This is the first round of cleansing. Heaven is punishing the evil, yet China is still lying to cover up the number of deaths, and I'll tell you, it's huge, and it hasn't peaked yet. 
+____
+
+Such beliefs have of course carried over directly to <<corona,COVID-19>>.
+
+Epidemics are also likely moments where religious grow due to more people being more desperate and looking for solace that cannot be found in this shitty world.
+
+It is indeed tempting to believe that the virus magically kills only the Evil. What reality could be so fucked up where the innocent suffocate to their death? And yet, here we are.
 
 [[li-hongzhi]]
 ==== Li Hongzhi (LHZ, 李洪志)
