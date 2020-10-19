@@ -1977,6 +1977,26 @@ GitHub issue label: https://github.com/cirosantilli/china-dictatorship/issues?q=
 .A https://en.wikipedia.org/wiki/Vagina[Vagina] (https://zh.wikipedia.org/wiki/阴道[阴道]) also known as cunt (屄), is the female reproductive organ, including the naturally occurring black hole that appears in front of it whenever a picture is taken to prevent <<github>> from taking down this page. Even though <<porn,you've never seen one>>, there's no need to be afraid of it, and refer to it in euphemisms like "SB". https://en.wikipedia.org/wiki/File:Rugae_vaginales.jpg[Background source] and https://commons.wikimedia.org/wiki/File:Black_Hole_Milkyway.jpg[black hole source].
 image::{cirosantilli-media-base}/Rugae_vaginales_with_black_hole.jpg[height=400]
 
+[[internet-number-slang]]
+====== Internet number slang (网络数字语言)
+
+* https://en.wikipedia.org/wiki/Chinese_Internet_slang#Numeronyms
+* https://baike.baidu.com/item/网络数字语言#2 on <<baidu>>
+* https://en.wikipedia.org/wiki/Numeronym
+
+https://newrepublic.com/article/117608/chinese-number-websites-secret-meaning-urls highlights how numeric emails and URLs are especially popular in China, in part due to the ASCII/West-centrism of web standards: https://www.quora.com/What-is-126-com-and-why-are-they-the-owner-of-millions-of-good-domain-names/answer/Ciro-Santilli
+
+Examples in this page:
+
+* <<nine-nine-six-icu>> is an example that is not phonetic, but just about meaning
+* 六四 used to refer to <<tiananmen>>
+* https://www.12321.cn/web and http://12377.cn from <<cac-report-website>> are likely examples where older well known official phone numbers were just directly converted to URLs
+
+Bibliography:
+
+* https://www.fluentu.com/blog/chinese/2017/10/16/chinese-number-slang/
+* https://www.quora.com/What-does-126-and-163-mean-in-Chinese-language
+
 === Personal questions about Ciro Santilli
 
 ==== Has Ciro Santilli you ever lived in China?
@@ -2676,7 +2696,7 @@ and yet as of the <<xinjiang-re-education-camps>>, all Xinjiang Muslims were fuc
 image::{china-dictatorship-media-base}/Xinjiang_camp_in_camp.jpg[height=600]
 
 [[xinjiang-re-education-camps]]
-===== Xinjiang re-education camps (新疆再教育營, 2017-)
+===== Xinjiang "re-education" camps (新疆再教育營, 2017-)
 
 * https://en.wikipedia.org/wiki/Xinjiang_re-education_camps
 * https://zh.wikipedia.org/wiki/新疆再教育營
@@ -2691,6 +2711,7 @@ Also includes the <<uyghurs-for-sale>> report.
 
 News:
 
+* 2020-10-17 (paywall) https://www.economist.com/china/2020/10/17/how-xinjiangs-gulag-tears-families-apart "How Xinjiang’s gulag tears families apart". "So many parents have been locked up that officials struggle to cope with the left-behind children"
 * 2020-09-19 https://www.scmp.com/news/china/politics/article/3101986/china-claims-vocational-training-given-nearly-13-million-people "Chinese authorities “indirectly” confirm the scale of the camps. China claims 1.3 million Xinjiang residents given 'vocational training' each year"
 +
 The document: http://www.scio.gov.cn/zfbps/32832/Document/1687588/1687588.htm also quoted on <<peoples-daily>>: http://politics.people.com.cn/n1/2020/0918/c1001-31865875.html
@@ -6597,7 +6618,7 @@ Repository published in 2019-04 protesting against excessive work hours by Chine
 
 The name refers to:
 
-* "996": work from 9AM to 9PM 6 days a week
+* "996": work from 9AM to 9PM 6 days a week. This is part of a wider tendency of Chinese netizens to use <<internet-number-slang>>
 * "ICU": https://en.wikipedia.org/wiki/Intensive_care_unit[Intensive Care Unit]
 
 Reached 180k stars in a week, and was the second most starred repository as of 2019-10 https://github.com/search?q=stars%3A%3E100&s=stars&type=Repositories[] (https://web.archive.org/web/20191023084929/https://github.com/search?q=stars%3A%3E100&s=stars&type=Repositories[archive])!!!
@@ -6737,7 +6758,7 @@ image::{china-dictatorship-media-base}/709_lawyers.jpg[height=400]
 image::{china-dictatorship-media-base}/Xidan_Wall.jpg[height=400]
 
 [[tiananmen]]
-==== Tiananmen Square Protests of 1989 六四事件
+==== Tiananmen Square Protests of 1989 (六四事件)
 
 * https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989
 * https://zh.wikipedia.org/wiki/六四事件
