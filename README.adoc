@@ -4579,6 +4579,9 @@ image::{china-dictatorship-media-base}/Putin_meteor.webp[height=400]
 .Putin riding a dinosaur in a Sci-Fi planet. https://9gag.com/gag/a5K5jLG[Source].
 image::{china-dictatorship-media-base}/Putin_dinosaur.webp[height=400]
 
+.https://www.youtube.com/watch?v=YgGzAKP_HuM "RASPUTIN - Vladimir Putin - Love The Way You Move (Funk Overload) @slocband" by Pace Audio (2016). Somewhere in the 2010's the https://en.wikipedia.org/wiki/Rasputin_(song)[Rasputin 1978 song] by https://en.wikipedia.org/wiki/Boney_M.[Boney M.] saw a https://knowyourmeme.com/memes/ra-ra-rasputin[meme resurgence] by adapting the song to refer to Vladmir Putin instead of the original song's originally intended https://en.wikipedia.org/wiki/Grigori_Rasputin[Grigori Rasputin]. This video adds amazing cute animations of Russian scientists trying to create the perfect funk dancing machine, and highlights the <<superputin>> meme as Putin himself is the perfect dancing machine in the end.
+video::YgGzAKP_HuM[youtube,height=400,width=600]
+
 [[gay-putin]]
 ==== Gay Putin (2017)
 
@@ -4716,6 +4719,7 @@ For more poisonings see: <<putin-sponsored-poisonings>>.
 
 The second one! The first one was in 2019, but this one is more serious, the German government said tests confirmed it unequivocally that it was Novichok, which was also recently used in <<skripal>>.
 
+* 2020-10-18 https://www.cbsnews.com/news/alexey-navalny-poisoning-putin-russia-60-minutes-2020-10-18/ 60 Minutes interview, they flew over to Germany to interview him. He looks normal.
 * 2020-09-05 https://www.bbc.co.uk/news/world-us-canada-54039710 "Alexei Navalny: Trump refuses to condemn Russia over poisoning"
 +
 ____
