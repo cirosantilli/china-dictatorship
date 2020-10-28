@@ -605,7 +605,7 @@ Some believe that the Chinese government grossly under-reported death counts. Of
 * 2020-04-01 https://www.bloomberg.com/news/articles/2020-04-01/china-concealed-extent-of-virus-outbreak-u-s-intelligence-says CIA speaks
 * 2020-03-29 https://www.dailymail.co.uk/news/article-8165717/Locals-Wuhan-believe-42-000-people-died-coronavirus.html Reports of funerary urns sold
 
-Maybe China is saying the truth this time. Maybe the rapid Dictatorship response worked. But maybe the most important lesson to take out of this is: no one trusts a Dictatorship, after an infinitely long history of lies and no freedom of the press.
+Maybe China is saying the truth this time. Maybe the rapid Dictatorship response worked. But maybe the most important lesson to take out of this is: https://www.theguardian.com/world/2020/oct/27/china-loses-trust-internationally-over-coronavirus-handling[no one trusts a Dictatorship], after an infinitely long history of lies and no freedom of the press.
 
 <<li-hongzhi>> of course doubts those number :-) <<falun-gongs-view-of-epidemics>>.
 
@@ -2539,11 +2539,34 @@ Rationale:
 +
 Which in turn implies terrorist backslash.
 +
-All of which are against my principles.
+All of which are against <<ciro-santilli>>'s principles.
++
+.https://youtube.com/watch?v=eouBCMPtNDQ?t=1170 "It happened in ... Luxor" by Al Jazeera English (2011) is a short documentary about the https://en.wikipedia.org/wiki/Luxor_massacre[Luxor massacre in Egypt (1997)]. At this timestamp, survivor https://de.wikipedia.org/wiki/Felix_E._Müller[Felix Mueller] whose girlfriend was killed in the attack comments that it is when people don't have an official way to express their needs due to censorship that they are more likely to turn to terrorism to express themselves.
+video::fASh2_RzMuE[youtube,height=400,width=600,start=1170]
 
 What makes Ciro the maddest is the censorship. If you are going to put people in jail, write a clear law about it, and let international reporters come to see the situation.
 
 But why do you do something and then hide it? Maybe because you are not doing the right thing?
+
+Ciro also believes that although terrorists must be fought with all our strength, they must also be given some degree respect (interspersed simultaneously <<sacred-cows,with humour>>). He sometimes prefers the term "warriors" or "fighters", because their actions are largely indistinguishable from many ideological or purely greed based actions that larger nation states have done many times over and over. It is just a war, plain and simple.
+
+The reason why they kill mostly civilians is that they don't have the means to kill the presidents those civilians elected. An amazing scene from https://en.wikipedia.org/wiki/The_Battle_of_Algiers[The Battle of Algiers (1966)] comes to mind. After the head of the https://en.wikipedia.org/wiki/Algerian_War[Algerian independence] movement and terrorist, https://en.wikipedia.org/wiki/Larbi_Ben_M%27hidi[Larbi Ben M'hidi] is arrested, the French military let him be interviewed by the press on 4 March 1967 https://youtu.be/uHWZkiBuKGY?t=5312 (TODO real words? Cannot find source):
+
+Translation:
+
+____
+Journalist: Don't you think that it is cowardly to use the handbags and pushchairs of your women to transport your bombs? Those bombs that make so many innocent victims? [Earlier in the movie, we saw women carriying bombs into the French areas of Algiers through those means]
+
+Larbi Ben M'hidi: And you, don't you think that it is much more cowardly to drop on defenseless villages your napalm bombs that kill thousands times more? Obviously, with airplanes, it would have been much more convenient for us. Give us your bombers, and we will give you the pushchairs.
+____
+
+Original text:
+
+____
+Journalist: Ne trouvez-vous pas plutôt lâche d'utiliser les sacs et les couffins de vos femmes pour transporter vos bombes? Ces bombes qui font tant de victimes innocentes?
+
+Larbi Ben M'hidi: Et vous, ne vous semble t-il beacoup plus lache de larguer sur des vilages sans défence vos bombes au napalme qui tuent mille fois plus d'innocents? Évidement, avec des avions, ca aurait été beaucoup plus comode pour nous. Donnez vous vos bombardiers monsieur, et on vous donnera les couffins.
+____
 
 See also: <<western-democracies-have-invaded-other-countries-and-crushed-separatism>>.
 
@@ -2711,6 +2734,7 @@ Also includes the <<uyghurs-for-sale>> report.
 
 News:
 
+* 2020-10-28 <<global-times>> https://www.globaltimes.cn/content/1203861.shtml in response to https://en.wikipedia.org/wiki/Murder_of_Samuel_Paty[The Murder of Ssamuel Paty] clarifies that the best way to counter terrorism is preventive mass incarceration and brainwashing: "Eradicating extremism is a huge challenge of governance for all countries. China has proactively explored feasible ways in its Xinjiang governance and generated positive outcomes."
 * 2020-10-17 (paywall) https://www.economist.com/china/2020/10/17/how-xinjiangs-gulag-tears-families-apart "How Xinjiang’s gulag tears families apart". "So many parents have been locked up that officials struggle to cope with the left-behind children"
 * 2020-09-19 https://www.scmp.com/news/china/politics/article/3101986/china-claims-vocational-training-given-nearly-13-million-people "Chinese authorities “indirectly” confirm the scale of the camps. China claims 1.3 million Xinjiang residents given 'vocational training' each year"
 +
@@ -3322,6 +3346,8 @@ Reports:
 * https://twitter.com/JoshuaDummer/status/1280877750245453828 "Wife trying livestreaming on Douyin. Comes over to me in the middle of a stream and puts me on camera. After about a minute, notice pops up saying that foreigners are not allowed to appear on livestreams 'without permission'."
 ** https://twitter.com/JoshuaDummer/status/1280881420047511552/photo/1
 ** https://twitter.com/JoshuaDummer/status/1280882119913291776/photo/1
+
+Douyin does not seem to have a web interface: https://www.zhihu.com/question/269102675 "有没有抖音网页版或者抖音电脑版？"
 
 [[baidu]]
 ====== Baidu 百度
@@ -7584,6 +7610,11 @@ People:
 ** https://www.linkedin.com/in/yi-chi-shih-9884bb20/
 ** https://www.scmp.com/news/china/article/3017017/us-federal-court-finds-chinese-american-engineer-shih-yi-chi-guilty
 
+Related:
+
+.https://www.youtube.com/watch?v=aOArB434ykU 2020-10-04 YET UNCONFIRMED VIDEO ripped from https://twitter.com/SDeutschlands/status/1312682617888796673 by "Voice From Germany 德國之音" showing what seems to be Chinese a high school dorm coordinator saying that their Chinese exchange students must staty away from ideas democracy and freedom. Also commented at: https://www.reddit.com/r/China/comments/jhx2mc/chinese_student_coordinator_in_germany_talking_to/ | https://m.yorkbbs.ca/forum/chat/5228712.aspx[]. Key markings: "德国学校开班会4", "This man is a coordinator of Chinese high school students who study in Germany", "We have to say there's some problems in our dorm right now". <<tiktok,Douyin>> screnshots mention the uploader's username (TODO same person that features on video? is Michael_c118, and reported screenshots of Douyin from yorkbbs link him to "北京智享德意国际教育" (Beijing Zhixiang German/Italian International Education). Googling "北京智享德意国际教育 linkedin" leads to UNCONFIRMED a Yun Xiao https://www.linkedin.com/in/xiaoyun79/ | https://archive.vn/CzZft which is not marked as working in the above organization, but could be the person in the video based on the profile picture (uncertain), and also works with education, thus the Google hit at his current organization (北京智晗未来教育咨询有限公司). Searching for Google exact hits to "北京智享德意国际教育" leads to https://www.tianyancha.com/company/3283146644 which rejects foreign visits as of 2020-10-26, shows up on Google cache at https://webcache.googleusercontent.com/search?q=cache:AihPPyAAZr8J:https://www.tianyancha.com/company/3283146644+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu[on 2020-10-21] (https://archive.vn/xCfBQ[archive]).
+video::aOArB434ykU[youtube,height=400,width=600
+
 [[thousand-talents-program]]
 ====== Thousand Talents Program 千人计划
 
@@ -8667,7 +8698,7 @@ ____
 
 so yes, attacking the party and major policies is illegal in China, big news, right? "Involved in attacking the party and state system and major policies" is then one of the categories in the report page.
 
-Soon after the previous events in 2020-09-08, anaytics got a hit from http://openurls.com.cn/ to cirosantilli.com/china-dictatorship. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of https://www.openallurls.com/[] but with an <<icp-license>> :-)
+Soon after the previous events in 2020-09-08, anaytics got a hit from http://openurls.com.cn/ to cirosantilli.com/china-dictatorship. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of https://www.openallurls.com/[] but with an <<icp-license>> :-) The 2020-10-14 hit from http://jbcz.12377.cn was followed by another hit from http://openurls.com.cn/[], further reinforcing that this is part of their review procedure.
 
 [[wumao]]
 ==== Wumao (五毛)
