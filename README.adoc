@@ -4312,9 +4312,10 @@ TODO meaning of "LI"?
 
 <<ciro-santilli>> mentions:
 
-* 2018-07-31 https://lihkg.com/thread/762440/page/1 https://archive.is/7REOi. Title: "依條友都幾屈機, 係Stack overflow撚共匪". I'm unable to understand the first sentence, but the end is something along "to play tricks on the commies". First comment (likely by OP): "佢個個人home page好多5毛留言, 唔知會唔會搞到block堆stackoverflow". The entire thread is about Ciro's <<stack-overflow>>.
-* 2019-10-05 https://lihkg.com/thread/1625310/page/1 "聽講GitHub好好用" (Attending lectures on GitHub is very useful.). But likely some <<slang,slang>> for politics, because on first comment "可以好好上去發表下愛國論". Then someone links to <<nine-nine-six-icu>>, then to the GitHub <<mirrors,mirror of this page>>, and then to <<gitee>>.
+* 2020-08-24 https://lihkg.com/thread/2171918/page/1 "工信部培植代碼平台取代GitHub" (The Ministry of Industry and Information Technology cultivates a code platform to replace GitHub) linking to: https://hk.appledaily.com/china/20200823/AOAQRQURIRCT3D2DNPLMXUVC2M/ Then 菱川六花 linked to this page on a comment. Too young, too naive, they did not know about the more specific and interesting https://gitee.com/cirosantilli/china-dictatorship from <<gitee-censorship>>
 * 2019-10-31 https://lihkg.com/thread/1685513/page/3 "Notepad{plus}{plus}新版代號「自由維吾爾」，GitHub網頁被灌爆，網站遭DDoS" about <<notepad>> "Free Uyghur" version. On page 3 comment links to Ciro's <<stack-overflow>> account. Big thread with 500+ likes.
+* 2019-10-05 https://lihkg.com/thread/1625310/page/1 "聽講GitHub好好用" (Attending lectures on GitHub is very useful.). But likely some <<slang,slang>> for politics, because on first comment "可以好好上去發表下愛國論". Then someone links to <<nine-nine-six-icu>>, then to the GitHub <<mirrors,mirror of this page>>, and then to <<gitee>>.
+* 2018-07-31 https://lihkg.com/thread/762440/page/1 https://archive.is/7REOi. Title: "依條友都幾屈機, 係Stack overflow撚共匪". I'm unable to understand the first sentence, but the end is something along "to play tricks on the commies". First comment (likely by OP): "佢個個人home page好多5毛留言, 唔知會唔會搞到block堆stackoverflow". The entire thread is about Ciro's <<stack-overflow>>.
 
 [[google]]
 ==== Google 谷歌
@@ -7612,6 +7613,7 @@ People:
 
 Related:
 
+[[german-high-school-coordinator-2020]]
 .https://www.youtube.com/watch?v=aOArB434ykU 2020-10-04 YET UNCONFIRMED VIDEO ripped from https://twitter.com/SDeutschlands/status/1312682617888796673 by "Voice From Germany 德國之音" showing what seems to be Chinese a high school dorm coordinator saying that their Chinese exchange students must staty away from ideas democracy and freedom. Also commented at: https://www.reddit.com/r/China/comments/jhx2mc/chinese_student_coordinator_in_germany_talking_to/ | https://m.yorkbbs.ca/forum/chat/5228712.aspx[]. Key markings: "德国学校开班会4", "This man is a coordinator of Chinese high school students who study in Germany", "We have to say there's some problems in our dorm right now". <<tiktok,Douyin>> screnshots mention the uploader's username (TODO same person that features on video? is Michael_c118, and reported screenshots of Douyin from yorkbbs link him to "北京智享德意国际教育" (Beijing Zhixiang German/Italian International Education). Googling "北京智享德意国际教育 linkedin" leads to UNCONFIRMED a Yun Xiao https://www.linkedin.com/in/xiaoyun79/ | https://archive.vn/CzZft which is not marked as working in the above organization, but could be the person in the video based on the profile picture (uncertain), and also works with education, thus the Google hit at his current organization (北京智晗未来教育咨询有限公司). Searching for Google exact hits to "北京智享德意国际教育" leads to https://www.tianyancha.com/company/3283146644 which rejects foreign visits as of 2020-10-26, shows up on Google cache at https://webcache.googleusercontent.com/search?q=cache:AihPPyAAZr8J:https://www.tianyancha.com/company/3283146644+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu[on 2020-10-21] (https://archive.vn/xCfBQ[archive]).
 video::aOArB434ykU[youtube,height=400,width=600
 
