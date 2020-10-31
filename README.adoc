@@ -2418,8 +2418,9 @@ Reddit was banned in China in August 2018: https://www.reddit.com/r/China/commen
 
 Tencent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-banned-in-china-is-reportedly-set-to-land-150-1832375439 See also: <<biased-media>>.
 
-[[reddit]]
-===== Reddit subs with lots of anti-commie info
+===== Reddit
+
+Subs with lots of anti-commie info:
 
 * https://www.reddit.com/r/China is arguably the best as of 2020, see also: <<anti-ccp-info-sources>>
 * https://www.reddit.com/r/fucktheccp/ small as of 2020 but promising
@@ -2665,7 +2666,7 @@ image::{china-dictatorship-media-base}/Countries_that_recognize_Taiwan.jpg[heigh
 .Washington DC TECRO. Instead of "embassies", Taiwan has https://en.wikipedia.org/wiki/Taipei_Economic_and_Cultural_Representative_Office["Taipei Economic and Cultural Representative Offices" (TECROs)] https://zh.wikipedia.org/wiki/臺北經濟文化代表處[(台北经济文化代表处|臺北經濟文化代表處)] The just happen to issue VISAs and passports like embassies, but remember, they are not embassies. No flag you see? This is because idiotic countries don't allow TECROs to have the Taiwan flag. In 2019 Senator Ted Cruz planned on passing a law to allow that though: https://www.taiwannews.com.tw/en/news/3825086[]. https://en.wikipedia.org/wiki/File:Taipei_Economic_and_Cultural_Representative_Office_in_the_United_States_from_VOA_(1).jpg[Source].
 image::{china-dictatorship-media-base}/TECRO_Washington.jpg[height=400]
 
-.2014 cartoon by D Nguyen summarizing the Taiwan China relationship in history. Featuring: fatter and fatter <<mao-zedong>> on first three cartoons to the left, likely <<deng-xiaoping>> to left on the last, and https://en.wikipedia.org/wiki/Chiang_Kai-shek[Chiang Kai-shiek] (https://zh.wikipedia.org/wiki/蔣中正[蔣中正]) to the right. TODO middle figure on last cartoon. TODO find proper attribution source, originally seen at: https://i.redd.it/xb5qr3asfns41.jpg[].
+.2014 cartoon by D Nguyen summarizing the Taiwan China relationship in history. Featuring: fatter and fatter <<mao-zedong>> on first three cartoons to the left, likely <<deng-xiaoping>> to left on the last, and <<chiang-kai-shek>> to the right. TODO middle figure on last cartoon. TODO find proper attribution source, originally seen at: https://i.redd.it/xb5qr3asfns41.jpg[].
 image::{china-dictatorship-media-base}/Taiwan_we_are_China_cartoon.jpg[height=600]
 
 [[taiwan-number-one]]
@@ -2680,6 +2681,22 @@ image::{china-dictatorship-media-base}/Taiwan_we_are_China_cartoon.jpg[height=60
 video::vTqZ9xrxhHk[youtube,height=400,width=600]
 
 See also: <<photobombing-like-attacks>>.
+
+===== Internal politics of Taiwan
+
+* https://en.wikipedia.org/wiki/Politics_of_the_Republic_of_China
+* https://zh.wikipedia.org/wiki/中華民國政治
+
+As of 2020, there are two relevant parties:
+
+* https://en.wikipedia.org/wiki/Kuomintang["Kuomintang"], which have become a bunch of pussies, and prefer to keep the ambiguous <<one-china-policy>> status quo, to not get bombed, and do some commerce with China. Those people make <<chiang-kai-shek>> turn in his grave of shame.
+* https://en.wikipedia.org/wiki/Democratic_Progressive_Party[], which wants independence, and was winning as of 2020
+
+[[chiang-kai-shek]]
+===== Chiang Kai-shek (蔣介石, 蔣中正)
+
+* https://en.wikipedia.org/wiki/Chiang_Kai-shek
+* https://zh.wikipedia.org/wiki/蔣中正
 
 [[xinjiang]]
 ==== Xinjiang (新疆)
@@ -3499,6 +3516,120 @@ Boycott those:
 ** https://www.thestandard.com.hk/section-news/fc/21/216376/Police-chief-says-Jackie-Chan-made-him
 * https://en.wikipedia.org/wiki/Liu_Yifei#Controversy[Liu Yifei 刘亦菲] who starred in the https://en.wikipedia.org/wiki/Mulan_(2020_film)[Mulan 2020] Disney movie. To make matters more fun, some scenes were shot in <<xinjiang>>: https://www.taiwannews.com.tw/en/news/4004891
 ** https://www.theguardian.com/world/2019/aug/16/disneys-mulan-star-sparks-call-for-boycott-with-hong-kong-stance opposed the <<2019-hong-kong-anti-extradition-bill-protests>>, notably saying "What a shame for Hong Kong". The <<chinese-government-media,People's Daily>> later quoted her: https://web.archive.org/web/20190816162331/http://en.people.cn/n3/2019/0816/c90000-9606859.html[]
+
+=== Chinese Interference in the Western education systems
+
+[[confucius-institute]]
+==== Confucius institute (孔子学院)
+
+* https://en.wikipedia.org/wiki/Confucius_Institute
+* https://zh.wikipedia.org/wiki/孔子学院
+
+News and reports:
+
+* 2019-09 https://www.bbc.co.uk/news/world-asia-china-49511231 (https://web.archive.org/web/20191013185933/https://www.bbc.co.uk/news/world-asia-china-49511231[archive]) "Confucius Institutes: The growth of China's controversial cultural branch"
+* 2019-01 https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/11/u-s-universities-have-shut-down-confucius-institutes-heres-what-you-need-to-know/ (https://web.archive.org/web/20190616134959/https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/11/u-s-universities-have-shut-down-confucius-institutes-heres-what-you-need-to-know/[archive]) "Why U.S. universities are shutting down China-funded Confucius Institutes"
+
+Related about university interference:
+
+* 2020-06-17 https://asia.nikkei.com/Business/Technology/US-blacklists-China-s-MIT-as-tech-war-enters-new-phase Harbin Institute of Technology denied MATLAB support for being in the entity list, apparenty since may: https://www.commerce.gov/news/press-releases/2020/05/commerce-department-add-two-dozen-chinese-companies-ties-wmd-and
+* 2020-05-28 https://www.thetimes.co.uk/article/motion-backing-hong-kong-blocked-after-campaign-by-chinese-students-at-warwick-fsdfphr26 "Motion backing Hong Kong blocked after campaign by Chinese students at Warwick". The article mentions that "Just under 1,000 students voted in favour of the motion. Turnout was three times higher than other votes and officials said that it was a new record for participation."
+* 2020-08 https://www.theage.com.au/politics/federal/craven-cowardice-unsw-condemned-for-deleting-posts-critical-of-beijing-20200803-p55hy5.html "'Craven cowardice': UNSW condemned for deleting posts critical of Beijing" University of New South Wales
+* 2020-05 Drew Pavlou 柏乐志
+** https://en.wikipedia.org/wiki/University_of_Queensland[University of Queensland], Australia, was trying to get rid of him for anti-CCP campaign
+** https://www.theguardian.com/australia-news/2020/may/24/how-a-20-year-old-student-put-the-spotlight-on-australian-universities-cosy-relationship-with-china
+** https://www.youtube.com/watch?v=_o1sZefER0E <<china-uncensored,China Unscripted>> interview
+
+==== University espionage
+
+Lists:
+
+* 2020-06-12 https://www.sciencemag.org/news/2020/06/fifty-four-scientists-have-lost-their-jobs-result-nih-probe-foreign-ties "Fifty-four scientists have lost their jobs as a result of NIH probe into foreign ties" and "In 93% of those cases, the hidden funding came from a Chinese institution." and "In the vast majority of cases, Lauer reported, the person being investigated has been an Asian man in his 50s."
+* https://threadreaderapp.com/thread/1262441045197049856.html List of professors around America caught selling secret research to the Chinese Communist Regime
+
+People:
+
+* 2020-09 Haizhou Hu from University of Virginia: https://www.cbs19news.com/story/42560934/uva-researcher-arrested-on-federal-charges
+* 2020-07 Houston consulate closed due to alllegations of facilitating intellectual property theft without public proof
+** https://www.bbc.co.uk/news/world-us-canada-53497193
+** https://edition.cnn.com/2020/09/02/politics/us-chinese-diplomat-restrictions/index.html "US imposes new restrictions on Chinese diplomats" has been another direct effect of this most likely
+* 2020-07 Juan Tang
+** https://www.theguardian.com/world/2020/jul/23/chinese-researcher-wanted-by-fbi-flees-to-san-francisco-consulate-as-us-china-row-deepens "Chinese researcher wanted by FBI flees to San Francisco consulate as US-China row deepens"
+** https://www.scmp.com/news/china/diplomacy/article/3094511/us-charges-four-scientists-hiding-ties-chinese-government has her PLA photos
+* 2020 Hao Zhang: https://www.voanews.com/usa/chinese-professor-convicted-stealing-trade-secrets-china from Avago and Skyworks
+* 2020 Charles Lieber
+** https://www.nature.com/articles/d41586-020-00291-2
+** https://en.wikipedia.org/wiki/Charles_M._Lieber he had won a Wolf Prize in Chemistry
+* 2019 Shih Yi-chi from UCLA
+** https://www.linkedin.com/in/yi-chi-shih-9884bb20/
+** https://www.scmp.com/news/china/article/3017017/us-federal-court-finds-chinese-american-engineer-shih-yi-chi-guilty
+
+==== German high school coordinator 2020
+
+YET UNCONFIRMED VIDEO, we have to find who that person is exactly.
+
+The video shows what seems to be Chinese a high school dorm coordinator saying that their Chinese exchange students must staty away from ideas democracy and freedom.
+
+.https://www.youtube.com/watch?v=aOArB434ykU
+video::aOArB434ykU[youtube,height=400,width=600]
+
+First ripped from uploader's <<tiktok,Douyin>> account named Michael_c118, who also appears to be the person on the video.
+
+Original proeminent report on the West: 2020-10-04 https://twitter.com/SDeutschlands/status/1312682617888796673 by "Voice From Germany 德國之音"
+
+https://m.yorkbbs.ca/forum/chat/5228712.aspx contains reported screenshots of the Douyin profile (no web interface it seems), include a clear face shot.
+
+Video also commented at:
+
+* 2020-10-31 https://forum.gamer.com.tw/C.php?bsn=60076&snA=5984833 from our friends from <<taiwan>>
+* 2020-10-25 https://www.reddit.com/r/China/comments/jhx2mc/chinese_student_coordinator_in_germany_talking_to/ on <<reddit>>
+* 2020-19-04 https://twitter.com/HKokbore/status/1312802503956848641
+
+Key markings:
+
+* "德国学校开班会4"
+* "This man is a coordinator of Chinese high school students who study in Germany"
+* "We have to say there's some problems in our dorm right now"
+
+https://twitter.com/Hujo_DR/status/1312793758203748357/photo/1 is a screenshot of the Douyin profile showing a phone number, which looks like a Chinese number due to prefix 139: https://en.wikipedia.org/wiki/Telephone_numbers_in_China#Mobile_phones
+
+The screnshots posted on yorkbbs link him to "北京智享德意国际教育" (Beijing Zhixiang German/Italian International Education).
+
+Googling "北京智享德意国际教育 linkedin" leads to UNCONFIRMED a Yun Xiao https://www.linkedin.com/in/xiaoyun79/ | https://archive.vn/CzZft which is not marked as working in the above organization, but could be the person in the video based on the profile picture (uncertain), and also works with education, thus the Google hit at his current organization (北京智晗未来教育咨询有限公司).
+
+Searching for Google exact hits to "北京智享德意国际教育" leads to https://www.tianyancha.com/company/3283146644 which rejects foreign visits as of 2020-10-26, shows up on Google cache at https://webcache.googleusercontent.com/search?q=cache:AihPPyAAZr8J:https://www.tianyancha.com/company/3283146644+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu[on 2020-10-21] (https://archive.vn/xCfBQ[archive]).
+
+[[thousand-talents-program]]
+==== Thousand Talents Program 千人计划
+
+* https://en.wikipedia.org/wiki/Thousand_Talents_Plan
+* https://zh.wikipedia.org/wiki/海外高层次人才引进计划
+
+<<ciro-santilli>> believes that this is exactly the type of thing that poor countries need to do to get richer: https://cirosantilli.com/#what-poor-countries-have-to-do-to-get-richer[].
+
+But we can't allow China to do it because China is a <<dictatorship,dictatorship>>.
+
+[[cssa]]
+===== Chinese Students and Scholars Association 中国学生学者联合会
+
+https://en.wikipedia.org/wiki/Chinese_Students_and_Scholars_Association
+
+Abbreviation: CSSA.
+
+News and reports:
+
+* 2019-10-13 https://www.abc.net.au/news/2019-10-13/cssa-influence-australian-universities-documents-revealed/11587454 (https://web.archive.org/web/20191014032348/https://www.abc.net.au/news/2019-10-13/cssa-influence-australian-universities-documents-revealed/11587454[archive]) "Chinese Students and Scholars Association's deep links to the embassy revealed" in Australia.
+* 2018-03-07 https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/ (https://web.archive.org/web/20191012103953/https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/[archive])
+
+[[ufwd]]
+=====  United Front Work Department (UFWD, 中共中央统一战线工作部)
+
+* https://en.wikipedia.org/wiki/United_Front_Work_Department
+* https://zh.wikipedia.org/wiki/中共中央统一战线工作部
+
+China's "Diaspora management" organ.
+
+The likely organizers behind <<confucius-institute>> and <<cssa>>.
 
 === What should pro-democracy Chinese living in China do about the dictatorship?
 
@@ -7568,89 +7699,6 @@ Ciro has no proof that this is linked to the government, but it is very likely, 
 * http://www.china-embassy.org/eng/lj/t36322.htm
 * https://web.archive.org/web/20180414233331/http://www.china-embassy.org/eng/lj/t36322.htm
 
-[[confucius-institute]]
-===== Confucius institute (孔子学院)
-
-* https://en.wikipedia.org/wiki/Confucius_Institute
-* https://zh.wikipedia.org/wiki/孔子学院
-
-News and reports:
-
-* 2019-09 https://www.bbc.co.uk/news/world-asia-china-49511231 (https://web.archive.org/web/20191013185933/https://www.bbc.co.uk/news/world-asia-china-49511231[archive]) "Confucius Institutes: The growth of China's controversial cultural branch"
-* 2019-01 https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/11/u-s-universities-have-shut-down-confucius-institutes-heres-what-you-need-to-know/ (https://web.archive.org/web/20190616134959/https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/11/u-s-universities-have-shut-down-confucius-institutes-heres-what-you-need-to-know/[archive]) "Why U.S. universities are shutting down China-funded Confucius Institutes"
-
-Related about university interference:
-
-* 2020-06-17 https://asia.nikkei.com/Business/Technology/US-blacklists-China-s-MIT-as-tech-war-enters-new-phase Harbin Institute of Technology denied MATLAB support for being in the entity list, apparenty since may: https://www.commerce.gov/news/press-releases/2020/05/commerce-department-add-two-dozen-chinese-companies-ties-wmd-and
-* 2020-05-28 https://www.thetimes.co.uk/article/motion-backing-hong-kong-blocked-after-campaign-by-chinese-students-at-warwick-fsdfphr26 "Motion backing Hong Kong blocked after campaign by Chinese students at Warwick". The article mentions that "Just under 1,000 students voted in favour of the motion. Turnout was three times higher than other votes and officials said that it was a new record for participation."
-* 2020-08 https://www.theage.com.au/politics/federal/craven-cowardice-unsw-condemned-for-deleting-posts-critical-of-beijing-20200803-p55hy5.html "'Craven cowardice': UNSW condemned for deleting posts critical of Beijing" University of New South Wales
-* 2020-05 Drew Pavlou 柏乐志
-** https://en.wikipedia.org/wiki/University_of_Queensland[University of Queensland], Australia, was trying to get rid of him for anti-CCP campaign
-** https://www.theguardian.com/australia-news/2020/may/24/how-a-20-year-old-student-put-the-spotlight-on-australian-universities-cosy-relationship-with-china
-** https://www.youtube.com/watch?v=_o1sZefER0E <<china-uncensored,China Unscripted>> interview
-
-====== University espionage
-
-Lists:
-
-* 2020-06-12 https://www.sciencemag.org/news/2020/06/fifty-four-scientists-have-lost-their-jobs-result-nih-probe-foreign-ties "Fifty-four scientists have lost their jobs as a result of NIH probe into foreign ties" and "In 93% of those cases, the hidden funding came from a Chinese institution." and "In the vast majority of cases, Lauer reported, the person being investigated has been an Asian man in his 50s."
-* https://threadreaderapp.com/thread/1262441045197049856.html List of professors around America caught selling secret research to the Chinese Communist Regime
-
-People:
-
-* 2020-09 Haizhou Hu from University of Virginia: https://www.cbs19news.com/story/42560934/uva-researcher-arrested-on-federal-charges
-* 2020-07 Houston consulate closed due to alllegations of facilitating intellectual property theft without public proof
-** https://www.bbc.co.uk/news/world-us-canada-53497193
-** https://edition.cnn.com/2020/09/02/politics/us-chinese-diplomat-restrictions/index.html "US imposes new restrictions on Chinese diplomats" has been another direct effect of this most likely
-* 2020-07 Juan Tang
-** https://www.theguardian.com/world/2020/jul/23/chinese-researcher-wanted-by-fbi-flees-to-san-francisco-consulate-as-us-china-row-deepens "Chinese researcher wanted by FBI flees to San Francisco consulate as US-China row deepens"
-** https://www.scmp.com/news/china/diplomacy/article/3094511/us-charges-four-scientists-hiding-ties-chinese-government has her PLA photos
-* 2020 Hao Zhang: https://www.voanews.com/usa/chinese-professor-convicted-stealing-trade-secrets-china from Avago and Skyworks
-* 2020 Charles Lieber
-** https://www.nature.com/articles/d41586-020-00291-2
-** https://en.wikipedia.org/wiki/Charles_M._Lieber he had won a Wolf Prize in Chemistry
-* 2019 Shih Yi-chi from UCLA
-** https://www.linkedin.com/in/yi-chi-shih-9884bb20/
-** https://www.scmp.com/news/china/article/3017017/us-federal-court-finds-chinese-american-engineer-shih-yi-chi-guilty
-
-Related:
-
-[[german-high-school-coordinator-2020]]
-.https://www.youtube.com/watch?v=aOArB434ykU 2020-10-04 YET UNCONFIRMED VIDEO ripped from https://twitter.com/SDeutschlands/status/1312682617888796673 by "Voice From Germany 德國之音" showing what seems to be Chinese a high school dorm coordinator saying that their Chinese exchange students must staty away from ideas democracy and freedom. Also commented at: https://www.reddit.com/r/China/comments/jhx2mc/chinese_student_coordinator_in_germany_talking_to/ | https://m.yorkbbs.ca/forum/chat/5228712.aspx[]. Key markings: "德国学校开班会4", "This man is a coordinator of Chinese high school students who study in Germany", "We have to say there's some problems in our dorm right now". <<tiktok,Douyin>> screnshots mention the uploader's username (TODO same person that features on video? is Michael_c118, and reported screenshots of Douyin from yorkbbs link him to "北京智享德意国际教育" (Beijing Zhixiang German/Italian International Education). Googling "北京智享德意国际教育 linkedin" leads to UNCONFIRMED a Yun Xiao https://www.linkedin.com/in/xiaoyun79/ | https://archive.vn/CzZft which is not marked as working in the above organization, but could be the person in the video based on the profile picture (uncertain), and also works with education, thus the Google hit at his current organization (北京智晗未来教育咨询有限公司). Searching for Google exact hits to "北京智享德意国际教育" leads to https://www.tianyancha.com/company/3283146644 which rejects foreign visits as of 2020-10-26, shows up on Google cache at https://webcache.googleusercontent.com/search?q=cache:AihPPyAAZr8J:https://www.tianyancha.com/company/3283146644+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu[on 2020-10-21] (https://archive.vn/xCfBQ[archive]).
-video::aOArB434ykU[youtube,height=400,width=600]
-
-[[thousand-talents-program]]
-====== Thousand Talents Program 千人计划
-
-* https://en.wikipedia.org/wiki/Thousand_Talents_Plan
-* https://zh.wikipedia.org/wiki/海外高层次人才引进计划
-
-<<ciro-santilli>> believes that this is exactly the type of thing that poor countries need to do to get richer: https://cirosantilli.com/#what-poor-countries-have-to-do-to-get-richer[].
-
-But we can't allow China to do it because China is a <<dictatorship,dictatorship>>.
-
-[[cssa]]
-===== Chinese Students and Scholars Association 中国学生学者联合会
-
-https://en.wikipedia.org/wiki/Chinese_Students_and_Scholars_Association
-
-Abbreviation: CSSA.
-
-News and reports:
-
-* 2019-10-13 https://www.abc.net.au/news/2019-10-13/cssa-influence-australian-universities-documents-revealed/11587454 (https://web.archive.org/web/20191014032348/https://www.abc.net.au/news/2019-10-13/cssa-influence-australian-universities-documents-revealed/11587454[archive]) "Chinese Students and Scholars Association's deep links to the embassy revealed" in Australia.
-* 2018-03-07 https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/ (https://web.archive.org/web/20191012103953/https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/[archive])
-
-[[ufwd]]
-=====  United Front Work Department (UFWD, 中共中央统一战线工作部)
-
-* https://en.wikipedia.org/wiki/United_Front_Work_Department
-* https://zh.wikipedia.org/wiki/中共中央统一战线工作部
-
-China's "Diaspora management" organ.
-
-The likely organizers behind <<confucius-institute>> and <<cssa>>.
-
 [[falun-gong-media]]
 ==== Falun Gong media (法轮功媒体)
 
@@ -8948,7 +8996,7 @@ Related news:
 image::{china-dictatorship-media-base}/Xi_scout_salute.jpg[height=500]
 
 [[one-child-policy]]
-=== One-child policy 一孩政策 (1979–2015)
+=== One-child policy (一孩政策, 1979–2015)
 
 * https://en.wikipedia.org/wiki/One-child_policy
 * https://zh.wikipedia.org/wiki/一孩政策
