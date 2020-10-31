@@ -847,6 +847,8 @@ Trying to prevent corruption is fine, but violating the laws of other countries 
 
 Publicized by China itself: <<china-daily>> http://www.chinadaily.com.cn/china/2015-11/05/content_22375920.htm
 
+* 2020-10-28 "Eight Individuals Charged With Conspiring to Act as Illegal Agents of the People’s Republic of China" https://www.justice.gov/opa/pr/eight-individuals-charged-conspiring-act-illegal-agents-people-s-republic-china
+
 [[liu-changming]]
 ====== The detention of Liu Changming's (刘昌明) family (2018)
 
@@ -7615,7 +7617,7 @@ Related:
 
 [[german-high-school-coordinator-2020]]
 .https://www.youtube.com/watch?v=aOArB434ykU 2020-10-04 YET UNCONFIRMED VIDEO ripped from https://twitter.com/SDeutschlands/status/1312682617888796673 by "Voice From Germany 德國之音" showing what seems to be Chinese a high school dorm coordinator saying that their Chinese exchange students must staty away from ideas democracy and freedom. Also commented at: https://www.reddit.com/r/China/comments/jhx2mc/chinese_student_coordinator_in_germany_talking_to/ | https://m.yorkbbs.ca/forum/chat/5228712.aspx[]. Key markings: "德国学校开班会4", "This man is a coordinator of Chinese high school students who study in Germany", "We have to say there's some problems in our dorm right now". <<tiktok,Douyin>> screnshots mention the uploader's username (TODO same person that features on video? is Michael_c118, and reported screenshots of Douyin from yorkbbs link him to "北京智享德意国际教育" (Beijing Zhixiang German/Italian International Education). Googling "北京智享德意国际教育 linkedin" leads to UNCONFIRMED a Yun Xiao https://www.linkedin.com/in/xiaoyun79/ | https://archive.vn/CzZft which is not marked as working in the above organization, but could be the person in the video based on the profile picture (uncertain), and also works with education, thus the Google hit at his current organization (北京智晗未来教育咨询有限公司). Searching for Google exact hits to "北京智享德意国际教育" leads to https://www.tianyancha.com/company/3283146644 which rejects foreign visits as of 2020-10-26, shows up on Google cache at https://webcache.googleusercontent.com/search?q=cache:AihPPyAAZr8J:https://www.tianyancha.com/company/3283146644+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu[on 2020-10-21] (https://archive.vn/xCfBQ[archive]).
-video::aOArB434ykU[youtube,height=400,width=600
+video::aOArB434ykU[youtube,height=400,width=600]
 
 [[thousand-talents-program]]
 ====== Thousand Talents Program 千人计划
