@@ -3283,7 +3283,7 @@ News:
 image::{china-dictatorship-media-base}/Zoom_Boris.jpg[height=400]
 
 [[huawei]]
-====== Huawei 华为
+====== Huawei (华为)
 
 * https://en.wikipedia.org/wiki/Huawei
 * https://zh.wikipedia.org/wiki/华为
@@ -3344,7 +3344,7 @@ image::{china-dictatorship-media-base}/Huawei_5G_Trojan.jpg[height=400]
 image::{china-dictatorship-media-base}/Huawei_5G_my_precious.jpg[height=400]
 
 [[tiktok]]
-====== TikTok 抖音 (Douyin)
+====== TikTok (Douyin, 抖音)
 
 * https://en.wikipedia.org/wiki/TikTok
 * https://zh.wikipedia.org/wiki/抖音
@@ -3369,7 +3369,7 @@ Reports:
 Douyin does not seem to have a web interface: https://www.zhihu.com/question/269102675 "有没有抖音网页版或者抖音电脑版？"
 
 [[baidu]]
-====== Baidu 百度
+====== Baidu (百度)
 
 https://en.wikipedia.org/wiki/Baidu
 
@@ -3600,7 +3600,7 @@ Googling "北京智享德意国际教育 linkedin" leads to UNCONFIRMED a Yun Xi
 Searching for Google exact hits to "北京智享德意国际教育" leads to https://www.tianyancha.com/company/3283146644 which rejects foreign visits as of 2020-10-26, shows up on Google cache at https://webcache.googleusercontent.com/search?q=cache:AihPPyAAZr8J:https://www.tianyancha.com/company/3283146644+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu[on 2020-10-21] (https://archive.vn/xCfBQ[archive]).
 
 [[thousand-talents-program]]
-==== Thousand Talents Program 千人计划
+==== Thousand Talents Program (千人计划)
 
 * https://en.wikipedia.org/wiki/Thousand_Talents_Plan
 * https://zh.wikipedia.org/wiki/海外高层次人才引进计划
@@ -3610,7 +3610,7 @@ Searching for Google exact hits to "北京智享德意国际教育" leads to htt
 But we can't allow China to do it because China is a <<dictatorship,dictatorship>>.
 
 [[cssa]]
-===== Chinese Students and Scholars Association 中国学生学者联合会
+==== Chinese Students and Scholars Association (CSSA, 中国学生学者联合会)
 
 https://en.wikipedia.org/wiki/Chinese_Students_and_Scholars_Association
 
@@ -3622,7 +3622,7 @@ News and reports:
 * 2018-03-07 https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/ (https://web.archive.org/web/20191012103953/https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/[archive])
 
 [[ufwd]]
-=====  United Front Work Department (UFWD, 中共中央统一战线工作部)
+====  United Front Work Department (UFWD, 中共中央统一战线工作部)
 
 * https://en.wikipedia.org/wiki/United_Front_Work_Department
 * https://zh.wikipedia.org/wiki/中共中央统一战线工作部
@@ -3649,7 +3649,7 @@ If you don't manage to do either of the above, don't do any technological work. 
 And regardless: remember your kids that the commies are bastards every day.
 
 [[reply-policy]]
-=== Ciro Santilli's reply policy 三西猴的回答政策
+=== Ciro Santilli's reply policy (三西猴的回答政策)
 
 People get kind of passionate sometimes about politics. And some of them might also be just malicious <<wumao,wumaos>>, although it is generally not possible to distinguish between them.
 
@@ -3733,7 +3733,7 @@ image::{china-dictatorship-media-base}/Someone_is_wrong_on_the_Internet.png[heig
 === Who is behind this amazing FAQ?
 
 [[ciro-santilli]]
-==== Ciro Santilli 三西猴
+==== Ciro Santilli (三西猴)
 
 Original creator of https://github.com/cirosantilli/china-dictatorship[]: https://cirosantilli.com/
 
@@ -3741,7 +3741,7 @@ Original creator of https://github.com/cirosantilli/china-dictatorship[]: https:
 image::{china-dictatorship-media-base}/Ciro_Santilli.png[height=400]
 
 [[wife]]
-===== Ciro Santilli's wife 三西猴的老婆
+===== Ciro Santilli's wife (三西猴的老婆)
 
 Born and raised in China: <<why-does-ciro-santilli-love-china-so-much>>.
 
@@ -4676,7 +4676,7 @@ The Russian censorship body under <<putin>>. The Russian <<cac>>.
 They are the ones who make Russian takedowns on <<github-gov-takedowns>>, e.g. https://github.com/github/gov-takedowns/tree/master/Russia/2020
 
 [[putin]]
-=== Putin Путин 普京 (1999-2008, 2012-∞)
+=== Putin (Путин, 普京, 1999-2008, 2012-∞)
 
 * https://en.wikipedia.org/wiki/Vladimir_Putin
 * https://ru.wikipedia.org/wiki/Путин,_Владимир_Владимирович
@@ -4970,6 +4970,23 @@ https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-free
 Website: https://www.rferl.org/
 
 USA funded sister media of the <<rfa>>.
+
+=== Mini-Russias
+
+==== Belarus
+
+https://en.wikipedia.org/wiki/Belarus
+
+The dictator: https://en.wikipedia.org/wiki/Alexander_Lukashenko[Alexander Lukashenko]. Close ties to his buddy <<putin>>.
+
+https://en.wikipedia.org/wiki/2020_Belarusian_protests[2020 Belarusian protests].
+
+==== Kazakhstan
+
+https://en.wikipedia.org/wiki/Kazakhstan
+
+.https://www.youtube.com/watch?v=eB9O4PU5Nnk "How Much Do You Know About The Real Kazakhstan?" by Journeyman Pictures (2016) shows how Western leaders turn a blind eye to Kazakhstan's dictator at the time, https://en.wikipedia.org/wiki/Nursultan_Nazarbayev[Nursultan Nazarbayev], because they have oil and are willing to cooperate with the West on the war in Afghanistan. In 2019 he was replaced by https://en.wikipedia.org/wiki/Kassym-Jomart_Tokayev[Kassym-Jomart Tokayev], gotta learn more about the new one. Includes interviews with https://en.wikipedia.org/wiki/Pamela_L._Spratlen[Pamela L. Spratlen], an US diplomat, where she diplomatically refuses to say anything meaningful.
+video::eB9O4PU5Nnk[youtube,height=400,width=600]
 
 [[thailand]]
 == Thailand (泰国)
@@ -7606,7 +7623,7 @@ Links:
 * https://zh.wikipedia.org/wiki/中国中央电视台
 
 [[cgtn]]
-====== China Global Television Network (CGTN, CCP media)
+====== China Global Television Network (CGTN, 中国环球电视网, CCP media)
 
 * https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg
 * https://zh.wikipedia.org/wiki/中国环球电视网
@@ -8420,11 +8437,6 @@ See also: <<western-companies-that-comply-with-chinese-censorship-requests>>.
 .Cartoon showing how Amesys systems are used to suppress citizens in Egypt. Do you want the logo of your company to figure there instead? https://www.fidh.org/en/region/north-africa-middle-east/egypt/sale-of-surveillance-equipment-to-egypt-by-french-company-amesys[Source].
 image::{china-dictatorship-media-base}/Amesys.jpg[height=400]
 
-===== Chinese companies that sell censorship technology to dictatorships
-
-.Slide from a presentation of the Knowlesys Hong Kong social media censorship/misinformation company with words "Social Media as Weapons", "Your Enemy", leaked by the CCP_Unmasked hacker group on 2020/08/20. The leaks also contained data on  Yunrun Big Data Service, a company based in Guangzhou, and OneSight, based in Beijing. From this hack they apparently also managed obtained passwords used by those companies to manage CCP social media, and they posted some messages about their efforst through those accounts. Western countries have also used terrorism as an excuse way to reduce privacy/start wars, but of course, things are much worse in dictatorships where there is no freedom of speech, related <<evil-west>>. https://www.vice.com/en_in/article/dyzewz/hackers-leak-alleged-internal-files-of-chinese-social-media-monitoring-firmscv[Source].
-image::{china-dictatorship-media-base}/Social_Media_as_Weapons.webp[height=400]
-
 ===== Censorship monitoring
 
 Projects that attempt to understand how the Great Firewall works and what it blocks:
@@ -9085,8 +9097,60 @@ University to train the next dictators
 
 Website: http://www.ccps.gov.cn/ (Central Committee Party School).
 
+== Chinese censorship companies
+
+[[dahua-technology]]
+=== Dahua Technology (大华股份)
+
+* https://en.wikipedia.org/wiki/Dahua_Technology
+* https://zh.wikipedia.org/wiki/大华股份
+
+Facial recognition, used in <<xinjiang>>.
+
+==== EM_NATION_TYPE_UYGUR (2020)
+
+https://twitter.com/q3k/status/1322943395497680897 highlighted a snippet of code:
+
+....
+    //民族
+    public static class EM_NATION_TYPE extends MyStructure
+    {
+      public static final int EM_NATION_TYPE_UNKNOWN = 0;                   // 未知
+      public static final int EM_NATION_TYPE_UYGUR = 1;                     // 维族(新疆)
+      public static final int EM_NATION_TYPE_OTHER = 2;                     // 其他
+      public static final int EM_NATION_TYPE_UNIDENTIFIED = 3;              // 设备未识别
+    }
+....
+
+indicating that <<xinjiang,Uyghurs>> are particularly targeted for facial recognition by Dahua.
+
+The code is present in official downloads from:
+
+* https://dahuasecurity.s3-ap-southeast-1.amazonaws.com/uploads/soft/20200421/General_NetSDK_ChnEng_JAVA_Linux64_IS_V3.052.0000001.0.R.200407.zip
+* http://web.archive.org/save/https://dahuasecurity.s3-ap-southeast-1.amazonaws.com/uploads/soft/20200421/General_NetSDK_ChnEng_JAVA_Linux64_IS_V3.052.0000001.0.R.200407.zip
+* SHA256: f8052a5d19db090d155eae05ce5bf39177d4151ab46f7c454a1670b7b62a5d81
+
+which was visible from: https://www.dahuasecurity.com/support/downloadCenter/softwares?child=3&page=2 under download name "General_NetSDK_ChnEng_JAVA_Linux64_IS_V3.052.0000001.0.R.200407" before being taken down after the reports:
+
+* up 2020-11-03 https://web.archive.org/web/20201103025846/https://www.dahuasecurity.com/support/downloadCenter/softwares?child=3&page=2
+* down 2020-11-04 https://web.archive.org/web/20201103025846/https://www.dahuasecurity.com/support/downloadCenter/softwares?child=3&page=2
+
+The code was spotted mirrored on GitHub, likely unofficially, but it was soon taken down, archive: https://web.archive.org/web/20201102065525/https://raw.githubusercontent.com/gaomingbo/dahua-netsdk/master/src/main/java/com/dahua/lib/NetSDKLib.java
+
+<<ciro-santilli>> downloaded it from the official website and verified that the code in question was there.
+
+Discussions:
+
+* https://www.reddit.com/r/China/comments/jmo42m/china_makes_use_of_video_software_tailored_for/
+* https://news.ycombinator.com/item?id=24960749
+
+=== Knowlesys
+
+.Slide from a presentation of the Knowlesys Hong Kong social media censorship/misinformation company with words "Social Media as Weapons", "Your Enemy", leaked by the CCP_Unmasked hacker group on 2020/08/20. The leaks also contained data on  Yunrun Big Data Service, a company based in Guangzhou, and OneSight, based in Beijing. From this hack they apparently also managed obtained passwords used by those companies to manage CCP social media, and they posted some messages about their efforst through those accounts. Western countries have also used terrorism as an excuse way to reduce privacy/start wars, but of course, things are much worse in dictatorships where there is no freedom of speech, related <<evil-west>>. https://www.vice.com/en_in/article/dyzewz/hackers-leak-alleged-internal-files-of-chinese-social-media-monitoring-firmscv[Source].
+image::{china-dictatorship-media-base}/Social_Media_as_Weapons.webp[height=400]
+
 [[backlinks]]
-== Backlinks to this page 连接到这个网页的网页
+== Backlinks to this page (连接到这个网页的网页)
 
 Or to Ciro's other online presences, due to China activity.
 
