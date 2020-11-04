@@ -9133,7 +9133,7 @@ The code is present in official downloads from:
 which was visible from: https://www.dahuasecurity.com/support/downloadCenter/softwares?child=3&page=2 under download name "General_NetSDK_ChnEng_JAVA_Linux64_IS_V3.052.0000001.0.R.200407" before being taken down after the reports:
 
 * up 2020-11-03 https://web.archive.org/web/20201103025846/https://www.dahuasecurity.com/support/downloadCenter/softwares?child=3&page=2
-* down 2020-11-04 https://web.archive.org/web/20201103025846/https://www.dahuasecurity.com/support/downloadCenter/softwares?child=3&page=2
+* down 2020-11-04 https://web.archive.org/web/20201104220410/https://www.dahuasecurity.com/support/downloadCenter/softwares?child=3&page=2
 
 The code was spotted mirrored on GitHub, likely unofficially, but it was soon taken down, archive: https://web.archive.org/web/20201102065525/https://raw.githubusercontent.com/gaomingbo/dahua-netsdk/master/src/main/java/com/dahua/lib/NetSDKLib.java
 
