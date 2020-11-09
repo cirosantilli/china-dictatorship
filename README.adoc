@@ -1697,6 +1697,20 @@ See also:
 * <<richer>>
 * <<intolerance>>
 
+===== Fake news
+
+When a government controls all information to make it look good, and no one can challenge it, you cannot trust _any_ of the news produced by that country, as anything could be fake.
+
+It is much better to have some fake news, but also few sources that are likely telling the truth.
+
+<<ciro-santilli>> is also extremely critical of Western social media companies such as Twitter and Facebook which have censored "fake news" from real legitimate accounts.
+
+If it is from a Chinese/Russian botent, sure, destroy those accounts.
+
+But from legitimate accounts? The people have to decide for themselves what is fake or real, not you Twitter and Facebook. If the majority is made of idiots who believe fake news, then so be it, that's how democracy works.
+
+More interesting case is: https://en.wikipedia.org/wiki/Knight_First_Amendment_Institute_v._Trump[]. Part of Ciro feels that people who try to have meaningful discussions on Twitter should automatically lose a lawsuit, and that people should be able to block whoever they want.
+
 [[life-of-brian-1979]]
 ===== Life of Brian (布莱恩的一生, 1979)
 
@@ -1762,12 +1776,6 @@ Snowden then later released the entire Chinese version of the book for free onli
 
 .Snowden highlighted defects on abuses of power in a Western democracy, and the discussion he sparked helped to control such abuses. https://en.wikipedia.org/wiki/File:Edward_Snowden-2.jpg[Source].
 image::{china-dictatorship-media-base}/Snowden.jpg[height=400]
-
-===== Fake news
-
-When a government controls all information to make it look good, and no one can challenge it, you cannot trust _any_ of the news produced by that country, as anything could be fake.
-
-It is much better to have some fake news, but also few sources that are likely telling the truth.
 
 ===== Bad things have been done in the name of freedom
 
@@ -2976,7 +2984,7 @@ image::{china-dictatorship-media-base}/Hong_Kong_97_cover.jpg[height=400]
 video::M_aXcH1zDEE[youtube,height=400,width=600]
 
 [[hong-kong-national-security-law]]
-===== Hong Kong National Security Law 香港国安法 (2020)
+===== Hong Kong National Security Law (香港国安法, 2020)
 
 * https://en.wikipedia.org/wiki/Hong_Kong_national_security_law
 * https://zh.wikipedia.org/wiki/中華人民共和國香港特別行政區維護國家安全法
@@ -3017,6 +3025,25 @@ ____
 
 .Over 100 police officers raid the Apple Daily Hong Kong newspaper soon after the <<hong-kong-national-security-law>> started. https://hongkongfp.com/2020/08/10/scores-of-police-raid-office-of-hong-kong-pro-democracy-newspaper-apple-daily/[Source].
 image::{china-dictatorship-media-base}/Apple_Daily_raid.webp[height=600]
+
+====== Hong kong national security department hotline
+
+2020-11-06 https://www.bbc.co.uk/news/world-asia-china-54835955 "Hong Kong: Snitch hotline gets more than 1,000 calls"
+
+An official source: https://www.police.gov.hk/ppp_en/03_police_message/nsdrh.html (https://web.archive.org/web/20201106164104/https://www.police.gov.hk/ppp_en/03_police_message/nsdrh.html[archive]).
+
+The contacts:
+
+* Wechat id: NSD62717171
+* SMS: 62717171
+* Email: nsd-public@police.gov.hk
+
+Related: <<cac-report-website>>
+
+Discussion:
+
+* https://www.reddit.com/r/China/comments/jp3s8a/hong_kong_snitch_hotline_to_report_people/ on <<reddit>>
+* https://lihkg.com/thread/2272029/page/1 on <<lihkg>>
 
 ===== 2019 Hong Kong anti-extradition bill protests
 
@@ -3351,6 +3378,7 @@ image::{china-dictatorship-media-base}/Huawei_5G_my_precious.jpg[height=400]
 
 News:
 
+* 2020-11-05  https://www.businessinsider.com/tiktok-censor-china-critical-content-uighur-uighurs-2020-11?r=US&IR=T "A senior TikTok executive admitted the company used to censor content critical of China, 'specifically with regard to the Uighur situation'", related to: <<xinjiang-re-education-camps>>
 * 2020-07 https://techcrunch.com/2020/07/23/tiktok-creator-fund-200-million-us/ "TikTok unveils $200 million fund for U.S. creators": TikTok is trying to buy their stay in the West.
 * 2020-07 https://www.forbes.com/sites/zakdoffman/2020/06/26/warning-apple-suddenly-catches-tiktok-secretly-spying-on-millions-of-iphone-users/#5265c8d734ef "pple Suddenly Catches TikTok Secretly Spying On Millions Of iPhone Users" by reading from the clipboard
 * 2020-06 https://www.bbc.co.uk/news/technology-53225720 India bans TikTok after Ladakh border tensions
@@ -5933,23 +5961,29 @@ But at the same, he also greatly encourages <<falun-gong-media>>, which obviousl
 video::ArfGyo6HQ_E[youtube,height=400,width=600,t=1175]
 
 [[flg-trump]]
-==== FLG supports Donald Trump 法轮功支持特朗普
+==== Falun Gong supports Donald (Trump, 法轮功支持特朗普)
 
-<<ciro-santilli>> believes he has heard praises to Trump directly in <<li-hongzhi,Li Hongzhi>>'s speeches, but could not find a source.
+<<ciro-santilli>> believes that the huge majoarity of Falun Gong believers strongly supports Trump.
 
-Also, the <<epoch-times,Falun Gong controlled newspaper>> has donated to Trump propaganda: $1.5 million https://www.nbcnews.com/tech/tech-news/trump-qanon-impending-judgment-day-behind-facebook-fueled-rise-epoch-n1044121
+Like everything else concrete, it is not clear if Li Hongzhi has directly supported this or not.
 
-But of course, so long as those respect the laws of the country, they are free to do it and must not be interfered. As if other major American media didn't have political agendas.
+Ciro feels without proof however that it is very likely that he has given such directives to his top tenants, which then flows through the rest of the media.
 
-It is therefore extremely likely that 99.999% of Falun Gong believers also support Trump.
+Trump has been vocal about China's threat, and correclty so in Ciro's opinion, and therefore is a much needed ally of the movement.
 
-This is exactly the same, in fact, as <<flg-religion,Christian groups>> which always gather behind "the right".
+For example, NBC News claims that the <<epoch-times>> has donated to Trump propaganda: $1.5 million https://www.nbcnews.com/tech/tech-news/trump-qanon-impending-judgment-day-behind-facebook-fueled-rise-epoch-n1044121
 
-In the case of the Falun Gong however, Trump has been vocal about China's threat, and therefore is a much needed ally of the movement.
+And they have always undoubtedly been very favorable to Trump in their news coverage.
+
+Of course, so long as those campaigns respect the laws of the country, they are free to do it and must not be interfered. As if other major American media didn't have political agendas: <<usa-based-media-bias>>.
+
+This is exactly the same, in fact, as <<flg-religion,Christian groups>>, which always gather behind "the right".
 
 Trump's immigration policies have turned Asian Americans towards the democrat opposition however as of 2019: https://www.vox.com/policy-and-politics/2019/5/13/18308137/asian-american-voters-immigration-democrats-donald-trump
 
-One saving point of the republicans for Asians is the opposition to university quotas instance, which many Asians feel blocks their high performing kids from top schools for less deserving Black students. This also plays into possible cross Asian-Black racism tensions.
+One saving point of the republicans for Asians is the opposition to university quotas instance, which many Asians feel blocks their high performing kids from top schools for less deserving students. This is suggested for example at: https://www.theatlantic.com/politics/archive/2020/02/yang-asian-americans-affirmative-action/605917/ "Opposition to affirmative action was pulling Asians toward the GOP. Then Yang’s campaign began to gather momentum."
+
+In 2020-11-08 https://www.epochtimes.com/gb/20/11/8/n12534746.htm the <<epoch-times>> published a poem by <<li-hongzhi>>, just after Trump was announced to lose the presidential elections, amidst claims of electoral fraud under investigation. The Epoch Times was one of the few newspapers at the time to give importance to those claims, e.g.: https://web.archive.org/web/20201107223813/https://www.theepochtimes.com/[], which mentions for example: "Why The Epoch Times Won’t Call the Presidential Race Until All Challenges Are Resolved".
 
 === Western media has exaggerated reports on FLG for propaganda reasons
 
@@ -7755,6 +7789,8 @@ ____
 There are so many things you have to do. You have to do your ordinary job and do it well, you have to manage your family's affairs, and as Dafa disciples you need to make time for Fa-study and exercises; you also need to clarify the truth, as well as participate in Dafa projects, such as The Epoch Times.
 ____
 
+In 2020-11-08 https://www.epochtimes.com/gb/20/11/8/n12534746.htm the Epoch Times published a poem by Li Hongzhi, just after Trump was announced to lose the presidential elections, see also:  <<flg-trump>>.
+
 Related:
 
 * https://www.epochweekly.com/
@@ -8763,6 +8799,8 @@ ____
 so yes, attacking the party and major policies is illegal in China, big news, right? "Involved in attacking the party and state system and major policies" is then one of the categories in the report page.
 
 Soon after the previous events in 2020-09-08, anaytics got a hit from http://openurls.com.cn/ to cirosantilli.com/china-dictatorship. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of https://www.openallurls.com/[] but with an <<icp-license>> :-) The 2020-10-14 hit from http://jbcz.12377.cn was followed by another hit from http://openurls.com.cn/[], further reinforcing that this is part of their review procedure.
+
+Related: <<hong-kong-national-security-department-hotline>>
 
 [[wumao]]
 ==== Wumao (五毛)
