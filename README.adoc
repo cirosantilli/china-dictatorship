@@ -1681,7 +1681,6 @@ Recent cases in which Ciro feel that Western countries have gotten it wrong:
 
 * 2020-10-12 https://techcrunch.com/2020/10/12/facebook-in-a-reversal-will-now-ban-holocaust-denial-content-under-its-hate-speech-policy/
 * 2020 https://www.forbes.com/sites/andrewsolender/2020/06/20/trump-says-he-wants-to-punish-flag-burning-with-a-year-in-prison/#4d00781b3404 "Trump Says He Wants To Punish Flag Burning With A Year In Prison". https://en.wikipedia.org/wiki/Flag_desecration#United_States[]. If this were to pass, Ciro would be very temped to upload a GIF. Flag dessacration laws are bullshit.
-* 2020-05-29 https://www.bbc.co.uk/news/technology-52846679 Twitter "hides Trump tweet for 'glorifying violence'". The people elected that idiot, Twitter leftists have to swallow that.
 * 2020-08 Kevin Cernekee fired from Google for conservative views
 ** 2020-08-27 https://www.cnbc.com/2019/08/06/google-whistleblower-cernekee-pushed-alt-right-views-former-colleague.html "Internal Google memo claimed conservative whistleblower promoted alt-right views"
 ** It appears to be legal in the US for companies to fire employees based on political beliefs:
@@ -1703,13 +1702,19 @@ When a government controls all information to make it look good, and no one can 
 
 It is much better to have some fake news, but also few sources that are likely telling the truth.
 
-<<ciro-santilli>> is also extremely critical of Western social media companies such as Twitter and Facebook which have censored "fake news" from real legitimate accounts.
+<<ciro-santilli>> is also extremely critical of Western social media companies such as Twitter and Facebook which have censored "fake news" from real legitimate accounts or real people.
 
 If it is from a Chinese/Russian botent, sure, destroy those accounts.
 
 But from legitimate accounts? The people have to decide for themselves what is fake or real, not you Twitter and Facebook. If the majority is made of idiots who believe fake news, then so be it, that's how democracy works.
 
-More interesting case is: https://en.wikipedia.org/wiki/Knight_First_Amendment_Institute_v._Trump[]. Part of Ciro feels that people who try to have meaningful discussions on Twitter should automatically lose a lawsuit, and that people should be able to block whoever they want.
+More interesting case is: https://en.wikipedia.org/wiki/Knight_First_Amendment_Institute_v._Trump[]. Part of Ciro feels that people who try to have meaningful discussions on Twitter should automatically lose a lawsuit, and that people should be able to block whoever they want,
+
+Related news:
+
+* 2020-11-10 gthttps://techcrunch.com/2020/11/09/parler-app-store-facebook/ "'Free speech' social network Parler tops app store rankings following Biden's election win"
+* 202010-06 https://www.vox.com/recode/2020/5/28/21273241/section-230-explained-trump-social-media-twitter-facebook "Section 230, the internet free speech law Trump wants to repeal, explained". While repealing the law entirely would be stupid, Trump is right that it has given platforms too much control over the media. <<mark-government-controlled-social-media,Except for dictatorial foreign governments>>, or explicitly illegal material, social media platforms should never remove or comment on any content.
+* 2020-05-29 https://www.bbc.co.uk/news/technology-52846679 Twitter "hides Trump tweet for 'glorifying violence'". The people elected that idiot, Twitter leftists have to swallow that.
 
 [[life-of-brian-1979]]
 ===== Life of Brian (布莱恩的一生, 1979)
@@ -1813,7 +1818,11 @@ It just happens that China's the current is political system allows the CCP to d
 
 And it should also be noted that <<henri-meyer,it is in part the West's fault>> that China currently has this shitty system.
 
-<<falun-gong>> thinks otherwise of course, they think the CCP is actually made up of devils in some dimension: <<does-ciro-santilli-believe-in-or-practice-falun-gong>>.
+<<falun-gong>> thinks otherwise of course, they think the CCP is actually made up of real actual devils in some dimension: <<does-ciro-santilli-believe-in-or-practice-falun-gong>>. E.g. on the https://endccp.com/ Falun Gong lead campaign:
+
+____
+The demon CCP has plundered the ancient land of China
+____
 
 ==== Chinese politicians really care about the Chinese citizens
 
@@ -1852,11 +1861,20 @@ Keywords:
 
 The most notable aspect is the persecution of minorities of course, notably <<xinjiang>> and <<falun-gong>> which closely ressembles that of the Jews, see also: <<first-they-came>>.
 
+See also: <<communist-youth-league>>.
+
 Articles:
 
 * http://yashalong.blog.caixin.com/archives/188877 这么好的人民，不倒点霉都对不起他们 "These are such good people, if they have a bit of bad luck, excuse them." article by yashalong 押沙龙 published on <<caixin>>. The article discusses how Nazi Germany propaganda worked, without mention to the CCP, but it was still apparently https://www.bannedbook.org/bnews/baitai/20190816/1175647.html[banned in China].
 
-See also: <<communist-youth-league>>.
+https://www.southbankresearch.com/wp-content/uploads/sites/9/2020/01/ZHA-issue-2510-free.pdf has a good quote:
+____
+Would you have stood up to Hitler when he came to power? Or would you have been an appeaser, like Chamberlain? Or perhaps even a supporter of fascism, like the Daily Mail’s owner at the time?
+
+We all like to imagine we’re courageous enough to stand up to tyranny and persecution. That we would have stood up to the villains of the past. Seen them for what they really were, even helped rescue their victims from danger. We certainly don’t like to think we would have bought their goods or funded, invested in their economies...
+
+Well today, you’re going to find out what you’re made of
+____
 
 .Photoshopped <<xi-jinping>> with raised fist with Nazi uniform and flag on the background. https://www.reddit.com/r/HongKong/comments/cuf3p7/chinazi_xitler/[Source].
 image::{china-dictatorship-media-base}/Xi_Nazi_war_flag.jpg[height=400]
@@ -3017,7 +3035,7 @@ The name of the hotel is Metropark Hotel (維景酒店), address: 148 Tung Lo Wa
 * 2020-06-29 https://www.commerce.gov/news/press-releases/2020/06/statement-us-secretary-commerce-wilbur-ross-revocation-hong-kong ""
 +
 ____
-With the Chinese Communist Party's imposition of new security measures on Hong Kong, the risk that sensitive U.S. technology will be diverted to the People's Liberation Army or Ministry of State Security has increased, all while undermining the territory's autonomy. Those are risks the U.S. refuses to accept and have resulted in the revocation of Hong Kong's special status.
+With the Chinese Communist Party's imposition of new security measures on Hong Kong, the risk that sensitive U.S. technology will be diverted to the People's Liberation Army or <<ministry-of-state-security,Ministry of State Security>> has increased, all while undermining the territory's autonomy. Those are risks the U.S. refuses to accept and have resulted in the revocation of Hong Kong's special status.
 ____
 * 2020-06-03 https://www.theguardian.com/world/2020/jun/03/britain-could-change-immigration-rules-for-hong-kong-citizens "Boris Johnson lays out visa offer to nearly 3m Hong Kong citizens"
 * 2020-05-29 https://www.bbc.co.uk/news/uk-52842303 "UK could offer 'path to citizenship' for Hong Kong's British passport holders"
@@ -3167,32 +3185,6 @@ Serious sanctions must be pot on companies that sell sensitive things to dictato
 
 * <<western-companies-that-sell-censorship-technology-to-dictatorships,censorship or anti-privacy software>>
 
-All posts of all Chinese-sponsored social media accounts must be clearly market as such. Even better, they should add funny censored images on top of them. Related news:
-
-* Twitter
-** News
-*** 2020-06: Twitter has also implicated in receiving advertising money from <<china-daily>>, see also: <<china-watch>>
-*** 2020-06-12 https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html
-*** 2020-06-12 https://www.theguardian.com/technology/2020/jun/12/twitter-deletes-170000-accounts-linked-to-china-influence-campaign "Twitter deletes 170,000 accounts linked to China influence campaign"
-*** The Chinese government later contested this decision: https://variety.com/2020/digital/asia/china-victim-wants-twitter-to-delete-attackers-1234633860/
-** Accounts that should be deleted
-*** https://twitter.com/globaltimesnews https://archive.is/7oshu
-* https://www.youtube.com/user/ChinaViewTV/featured
-* https://www.facebook.com/globaltimesnews/
-** 2020-04-07 https://www.vice.com/en_uk/article/9397v8/chinas-been-flooding-facebook-with-shady-ads-blaming-trump-for-the-coronavirus-crisis "China's Been Flooding Facebook With Shady Ads Blaming Trump for the Coronavirus Crisis"
-
-Some websites have started marking such accounts, which is a great start, but a straight ban would be better:
-
-* YouTube in 2018: https://www.theverge.com/2018/2/2/16964190/youtube-state-funded-broadcasters
-* Facebook in 2020: https://techcrunch.com/2020/06/04/facebook-adds-labels-identifying-state-controlled-media/
-* Twitter in 2020:
-** report https://www.scmp.com/news/world/united-states-canada/article/3096380/twitter-begin-labelling-state-affiliated-media
-** example from https://twitter.com/PDChina <<peoples-daily>> marked as "China state-affiliated media" and links to https://help.twitter.com/en/rules-and-policies/state-affiliated-china
-
-Marked media must be forbidden to both monetize and pay to promote its content.
-
-Any outlets that do not announce themselves as state sponsored but are, must be punshed/banned forever when they are found out.
-
 Related approaches taken by the CCP that should also be stopped dead by strict enforcement of the https://en.wikipedia.org/wiki/Foreign_Agents_Registration_Act[Foreign Agents Registration Act (FARA)]:
 
 * <<chinese-interference-in-western-media>>, notably <<china-watch>>, must 
@@ -3237,6 +3229,36 @@ Sanctions must be imposed directly on Chinese officials. They must not be allowe
 .<<rebel-pepper>> 2016-09-07 cartoon entitled "宽衣<<xi-jinping-memes,撒币>>" depicting <<xi-jinping>> as a https://en.wikipedia.org/wiki/Pole_dance[pole dancer] and throwing money at other world leaders during the https://en.wikipedia.org/wiki/2016_G20_Hangzhou_summit[2016 G20 Hangzhou summit] is a reference to how China buys political influence in other countries by promising profitable trade deals with those countries. https://www.rfa.org/mandarin/biantailajiaomanhua/biantailajiaomanhua-09072016131637.html[Source].
 image::{china-dictatorship-media-base}/Xi_pole.jpg[height=400]
 
+===== Mark government controlled social media
+
+All posts of all state-sponsored social media accounts must be clearly marked as such.
+
+This should be done not only for China, but of all countries, including Western democracies.
+
+Even better, they should add funny censored images on top of those that are from dictatorship countries.
+
+Furthermore, marked media from dictatorships must be forbidden to both monetize and pay to promote its content.
+
+Any outlets that do not announce themselves as state sponsored but are, must be banned forever when they are found out.
+
+What to do about personal accounts is much harder to decide however, and especially so in the case of <<ccp-apologists>>, where they might really not be state sponsored, and the creator's nationality won't help make the decision either.
+
+Some websites have started marking such accounts, which is a great start.
+
+* YouTube in 2018: https://www.theverge.com/2018/2/2/16964190/youtube-state-funded-broadcasters
+* Facebook in 2020: https://techcrunch.com/2020/06/04/facebook-adds-labels-identifying-state-controlled-media/
+* Twitter in 2020:
+** report https://www.scmp.com/news/world/united-states-canada/article/3096380/twitter-begin-labelling-state-affiliated-media
+** example from https://twitter.com/PDChina <<peoples-daily>> marked as "China state-affiliated media" and links to https://help.twitter.com/en/rules-and-policies/state-affiliated-china
+
+Reports of Chinese influence on social media:
+
+* 2020-06 Twitter has also implicated in receiving advertising money from <<china-daily>>, see also: <<china-watch>>
+** 2020-06-12 https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html
+** 2020-06-12 https://www.theguardian.com/technology/2020/jun/12/twitter-deletes-170000-accounts-linked-to-china-influence-campaign "Twitter deletes 170,000 accounts linked to China influence campaign"
+** The Chinese government later contested this decision: https://variety.com/2020/digital/asia/china-victim-wants-twitter-to-delete-attackers-1234633860/
+* 2020-04-07 https://www.vice.com/en_uk/article/9397v8/chinas-been-flooding-facebook-with-shady-ads-blaming-trump-for-the-coronavirus-crisis "China's Been Flooding Facebook With Shady Ads Blaming Trump for the Coronavirus Crisis"
+
 [[spy]]
 ===== China spy stories
 
@@ -3244,11 +3266,11 @@ https://en.wikipedia.org/wiki/Chinese_intelligence_activity_abroad
 
 Do not underestimate the CCP and its control over every Chinese companies and people. Every Chinese company and person is a potential spy.
 
-This is true for all countries however, and we do not reproach China specifically for its secret service, e.g. <<snowden>> used https://en.wikipedia.org/wiki/Edward_Snowden#NSA_sub-contractee_as_an_employee_for_Dell[Dell] as an NSA front-end.
+This is <<evil-west,true for all countries however>>, and <<ciro-santilli>> does not not reproach China specifically for its secret service, e.g. <<snowden>> used https://en.wikipedia.org/wiki/Edward_Snowden#NSA_sub-contractee_as_an_employee_for_Dell[Dell] as an NSA front-end.
 
-The point is that the West should not underestimate this menace that comes from a <<dictatorship>>.
+The point is just that the West should not underestimate this menace that comes from a <<dictatorship>>.
 
-For university espionage see: <<university-espionage>>.
+For university espionage in particular see: <<university-espionage>>.
 
 Some Chinese spy stories:
 
@@ -3279,11 +3301,25 @@ The article also contains a good summary section "CIA spy operation in China: Ke
 * 2010-2012 about 20 CIA spies in China were killed. One was shot right in the courtyard of a government building as a message to others.
 ** https://www.reuters.com/article/us-usa-china-espionage-idUSKCN18G0UM "China killed CIA sources, hobbled U.S. spying from 2010 to 2012: NYT"
 
-[[mss]]
-====== Ministry of State Security (Guoanbu, 国安部)
+[[ministry-of-state-security]]
+====== Ministry of State Security (MSS, Guoanbu, 国安部)
 
-* https://en.wikipedia.org/wiki/Ministry_of_State_Security_(China)
+* link:++https://en.wikipedia.org/wiki/Ministry_of_State_Security_(China)++
 * https://zh.wikipedia.org/wiki/中华人民共和国国家安全部
+
+The Chinese <<snowden,counterintelligence>> organ.
+
+Report website launched in 2018 https://www.12339.gov.cn/[], some coverage:
+
+* https://www.scmp.com/news/china/policies-politics/article/2141910/china-launches-website-report-foreign-spies-corrupt
+
+[[pla]]
+====== People's Liberation Army (PLA, 中国人民解放军)
+
+* https://en.wikipedia.org/wiki/People%27s_Liberation_Army
+* https://zh.wikipedia.org/wiki/中国人民解放军
+
+The Chinese army, and also one of the central intelligence agencies, notably on cyberattacks.
 
 ===== The West must ban the Chinese telecommunications software and hardware
 
@@ -7690,6 +7726,11 @@ But older pages just show 404.
 * https://en.wikipedia.org/wiki/Global_Times
 * https://zh.wikipedia.org/wiki/环球时报
 
+Accounts:
+
+* https://twitter.com/globaltimesnews https://archive.is/7oshu
+* https://www.facebook.com/globaltimesnews/
+
 [[china-daily]]
 ===== China Daily (中国日报, CCP media)
 
@@ -7887,6 +7928,8 @@ Openly directly controlled by <<li-hongzhi>>. He features as director on librett
 Shen Yun's headquarters are also located in/near <<dragon-springs>>.
 
 Li mentions Shen Yun in <<flg-canon,canon>>: https://gb.falundafa.org/chigb/jiangfa11_2.htm
+
+https://www.youtube.com/watch?v=2mQ8plzWl9g "They tried to get me to post Chinese propaganda"  by J.J. McCullough (2019) talks about Shen Yun and Falun Gong in general, and how he was offered to post anti-Shen Yun propaganda for 500 dollars.
 
 [[jennifer-zeng]]
 ===== Jennifer Zeng (曾錚, pro-Falun Gong media)
@@ -8800,7 +8843,10 @@ so yes, attacking the party and major policies is illegal in China, big news, ri
 
 Soon after the previous events in 2020-09-08, anaytics got a hit from http://openurls.com.cn/ to cirosantilli.com/china-dictatorship. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of https://www.openallurls.com/[] but with an <<icp-license>> :-) The 2020-10-14 hit from http://jbcz.12377.cn was followed by another hit from http://openurls.com.cn/[], further reinforcing that this is part of their review procedure.
 
-Related: <<hong-kong-national-security-department-hotline>>
+Other report websites:
+
+* https://www.12339.gov.cn/ spy report website, see also: <<ministry-of-state-security>>
+* <<hong-kong-national-security-department-hotline>>
 
 [[wumao]]
 ==== Wumao (五毛)
@@ -8886,7 +8932,7 @@ Above all, never reply intelligently to wumaos. Ignore all their notifications, 
 * https://chinadigitaltimes.net/chinese/2019/08/【麻辣总局】新型敏感词武器：赵弹磁铁/
 
 [[ccp-apologists]]
-===== CCP apologists 中共辩护士
+===== CCP apologists (中共辩护士)
 
 If it is ever proven that those people are directly supported by the Chinese government, their nationalities should be revoked.
 
@@ -8947,6 +8993,12 @@ William Brooke Joyce (24 April 1906 – 3 January 1946), nicknamed Lord Haw-Haw,
 Joyce was convicted of one count of high treason in 1945 and sentenced to death, with the Court of Appeal and the House of Lords both upholding his conviction. He was hanged on 3 January 1946, making him the last person to be executed for treason in the United Kingdom.
 ____
 
+On <<quora>>: https://www.quora.com/Why-does-there-seem-to-be-an-upsurge-in-CCP-apologists-and-apologism/answer/Ciro-Santilli
+
+Bibliography:
+
+* https://medium.com/swlh/how-china-is-influencing-youtubers-into-posting-state-propaganda-db72acf18dfa "EXCLUSIVE: How China is Influencing YouTubers into Posting State Propaganda" mentions https://youtu.be/2mQ8plzWl9g?t=520 "They tried to get me to post Chinese propaganda"  by J.J. McCullough (2019) was approached to publish an anti-<<shen-yun>> video by what was likely a Chinese agent.
+
 [[nathan-rich]]
 ====== Nathan Rich (Hotpot King, 火锅大王)
 
@@ -8977,6 +9029,13 @@ Reception:
 * 2020-07-05 <<cgtn>> approves: https://www.youtube.com/watch?v=YRK1XDlZkng "Nathan Rich: 'Hotpot King' delivering truth about HK to the world"
 
 2020-06-01  https://www.taiwannews.com.tw/en/news/3941420 "China propagandist Nathan Rich's criminal record revealed" contains an outline of Richs criminal records, with including mugshots. Most of this was already likely known, but it gives good detail. In particular, it comments on the fact that in 2013 Beijing started to more strictly do criminal background checks for VISA applicants: https://www.china-briefing.com/news/non-criminal-record-certificate-required-for-employment-license-application-in-beijing/[], and that Rich managed to get the VISA two years later nonetheless, notably including a drug trafficking charge.
+
+白https://secure.avaaz.org/community_petitions/en/youtubers_social_commentators_anybody_interested_i_remove_youtube_user_nathan_rich_from_google_services/ characterises him as "左五无毛". While this does not seems like a specific expression, and maybe is not even accurate, learning the meaning of "左五" is of interest:
+
+* https://en.wiktionary.org/wiki/白左
+* https://www.zhihu.com/question/52409116
+* https://zhuanlan.zhihu.com/p/40252469
+* https://pincong.rocks/question/3559
 
 [[real-username-law]]
 ==== Real username law (2015)
