@@ -689,6 +689,7 @@ video::sUvBNpkxrJo[youtube,height=400,width=600]
 * 2020-04-14: Zhang Zhan (张展)
 ** https://www.youtube.com/channel/UCsNKkvZGMURFmYkfhYa2HOQ
 ** https://www.scmp.com/video/coronavirus/3084983/coronavirus-chinese-citizen-journalist-detained-after-live-streaming
+*** 2020-11-16 https://www.theguardian.com/world/2020/nov/16/citizen-journalist-facing-jail-in-china-for-wuhan-covid-reporting-zhang-zhan[], finally accused of <<picking-quarrels>>
 
 TODO maybe not arrested but relevant:
 
@@ -2107,6 +2108,7 @@ Yes, Chinese characters are:
 * https://chinese.stackexchange.com/questions/2003/can-chinese-readers-scan-large-amounts-of-text-faster-more-accurately-than-their[maybe you can read faster]
 * https://en.wikipedia.org/wiki/Horizontal_and_vertical_writing_in_East_Asian_scripts[vertical text (纵排)] is awesome (but is it more efficient? https://www.zhihu.com/question/22104723[Zhihu], https://www.quora.com/Can-literate-Chinese-people-easily-read-vertical-writing[Quora]).
 * more historically stable, and you can still read/learn more or less quickly to read https://en.wikipedia.org/wiki/History_of_the_Chinese_language[texts written more than two thousand years ago]
+* single character emoticons like "https://en.wikipedia.org/wiki/Jiong[囧]", before the https://en.wikipedia.org/wiki/Emoticons_(Unicode_block)[Emoticons Unicode block]! Yes, when your language has a character so useless that it becomes an emoticon, maybe you should start to worry that something went wrong somewhere.
 
 but they just take too much time for any sane person adult to learn, it's harder than {cpp}!
 
@@ -2115,7 +2117,7 @@ Ciro initially learnt from book that come with audio recordings in the first 6-m
 It should also be mentioned that Ciro also feels that it would be better if all countries more officially adopted English as an international language that everyone should learn for reasons explained at: https://cirosantilli.com/#having-more-than-one-natural-language-is-bad-for-the-world
 
 [[chinese-characters-are-insane]]
-===== Chinese characters are insane 汉字是疯狂的
+===== Chinese characters are insane (汉字是疯狂的)
 
 Maybe the commies for once <<richer,did something good>> by introducing https://en.wikipedia.org/wiki/Simplified_Chinese_characters[simplified Chinese characters (简化字)]?
 
@@ -3009,6 +3011,7 @@ video::M_aXcH1zDEE[youtube,height=400,width=600]
 
 News:
 
+* 2020-11-12 https://www.bbc.co.uk/news/world-asia-china-54899171 "Hong Kong pro-democracy lawmakers resign after China ruling"
 * 2020-08-30 https://www.youtube.com/watch?v=eWxuzuBXh1U "Chinese Police Arrest Hong Kong Activist Andy Li (李宇轩), 11 Others, for Attempting to Flee to Taiwan"
 * 2020-08-22 https://hk.appledaily.com/us/20200822/QS26FF4DBFE7PG2LJJEO4NSQTQ/ they are already trying to remove sensitive materials from history textbooks
 ** 2020-08-21 https://www.bbc.com/zhongwen/trad/chinese-news-53846482 "香港通識科課本大幅度修改涉政治取向內容引發爭議" appears to give more concrete details. An English infographic at: https://www.reddit.com/r/China/comments/ig9xca/some_censorship_examples_of_the_latest_changes/
@@ -3032,6 +3035,9 @@ ____
 * 2020-07-08 https://www.reuters.com/article/us-hongkong-protests-china-security/china-converts-hong-kong-hotel-into-new-national-security-office-idUSKBN24903Z "China converts Hong Kong hotel into new national security office"
 +
 The name of the hotel is Metropark Hotel (維景酒店), address: 148 Tung Lo Wan Rd, Causeway Bay, Hong Kong: https://goo.gl/maps/1uR4RntpLMFaCYpq6
++
+Using hotels as a base of operations is of coures common in occupied regions, see e.g.:
+** https://en.wikipedia.org/wiki/The_Peninsula_Paris[The Peninsula Paris] (previously Hotel Majestique), which was used by the <<nazi,Gestapo>> and figures in the movie https://en.wikipedia.org/wiki/Army_of_Shadows[Army of the Shadows (1969)]
 * 2020-06-29 https://www.commerce.gov/news/press-releases/2020/06/statement-us-secretary-commerce-wilbur-ross-revocation-hong-kong ""
 +
 ____
@@ -4451,7 +4457,7 @@ Popular <<taiwan,Taiwanese>> forum system and server from 1995, pre HTML, works 
 * 2020-10-09: https://www.ptt.cc/bbs/joke/M.1602211516.A.3FB.html 如何一秒惹怒中國人 (how to provoke a Chinese person in one second) by https://pttweb.tw/user/abc60575986/[abc60575986] saying "台灣是一個國家" (Taiwan is a country). Then https://pttweb.tw/user/kugwa/[kugwa] linked to <<keyword-attack,Ciro Santilli's Stack Overflow profile>>
 * 2020-01-31: https://www.ptt.cc/bbs/Gossiping/M.1580484253.A.37A.html "stackoverflow菁英卻痛恨中國" by https://pttweb.tw/user/Eric0605/["Eric0605 (我還有點餓)"] on the Gossiping board
 * 2017-06-19 https://pttweb.tw/s/2K9zV "Ciro Santilli <<the-709-crackdown,709大抓捕>> 六四事件 法轮" on the Gossiping board
-* 2016-10-03 https://www.ptt.cc/bbs/Soft_Job/M.1478104872.A.916.html "Github也出現網軍了嗎?" by gocreating on the Soft_Job board
+* 2016-10-03 https://www.ptt.cc/bbs/Soft_Job/M.1478104872.A.916.html "Github也出現網軍了嗎?" (Is there an emerging wumao army on GitHub?) by gocreating on the Soft_Job board
 
 Archaic, fucking impossible to learn how to use. Ciro Santilli hasn't managed yet, so if you want a reply from him, open an issue on this repo instead. Some tips:
 
@@ -5076,6 +5082,8 @@ ___
 Everyone who has political power must know how to be laughed at criticized, otherwise <<dictatorship,dicatorship>> follows.
 
 * 2020-08-24 https://techcrunch.com/2020/08/24/after-restricting-a-group-critical-of-thailands-monarchy-facebook-says-it-will-take-legal-action-against-the-government/ "After restricting a group critical of Thailand’s monarchy, Facebook says it will take legal action against the government"
+* 2017-05-17 https://www.thesun.co.uk/news/3578661/from-fake-tattoos-and-crop-tops-to-making-a-poodle-air-force-chief-the-king-of-thailands-maddest-moments-revealed/ "As  Thai monarch Maha Vajiralongkorn attempts to sue Facebook over photos posted online, we look at the wacky royal's bizarre life" TODO real? Erm, video by 60-minutes Australia: https://youtu.be/HfF3CGVwrs4?t=84
+* 2015 https://en.wikipedia.org/wiki/Fufu_(dog). Topless wife birthday celebration video: https://youtu.be/HfF3CGVwrs4?t=311
 
 [[thai-king-hamtaro]]
 .Side-by-side comparison between https://en.wikipedia.org/wiki/Vajiralongkorn[Thai King Vajiralongkorn] and https://en.wikipedia.org/wiki/Hamtaro[Hamtaro]. This is the Thai version of <<winnie-the-pooh>>. It https://asia.nikkei.com/Politics/Japanese-cartoon-Hamtaro-used-by-Thai-protesters-to-mock-government[has been used by protesters] as part of the  https://en.wikipedia.org/wiki/2020_Thai_protests[2020 Thai protests]. Left https://en.wikipedia.org/wiki/2020_Thai_protests[photo source].
@@ -8900,6 +8908,10 @@ Here are some people completely against blocking wumaos. Those silly Democrats n
 Wumaos are particularly easy to spot on <<censorship-monitoring,Western websites banned in China>> and when written in English, since there is no way that strong pro-CCP opinions would get any support in such circumstances:
 
 * <<quora>> is completely infested by wumaos as of 2020, see more information on that section
+
+Other names:
+
+* https://zh.wikipedia.org/wiki/网军 (online army), example: https://www.ptt.cc/bbs/Soft_Job/M.1478104872.A.916.html "Github也出現網軍了嗎?" (Is there an emerging wumao army on GitHub?) on <<ptt>>
 
 Bibliography:
 
