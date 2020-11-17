@@ -3037,8 +3037,13 @@ ____
 The name of the hotel is Metropark Hotel (維景酒店), address: 148 Tung Lo Wan Rd, Causeway Bay, Hong Kong: https://goo.gl/maps/1uR4RntpLMFaCYpq6
 +
 Using hotels as a base of operations is of coures common in occupied regions, see e.g.:
-** https://en.wikipedia.org/wiki/The_Peninsula_Paris[The Peninsula Paris] (previously Hotel Majestique), which was used by the <<nazi,Gestapo>> and figures in the movie https://en.wikipedia.org/wiki/Army_of_Shadows[Army of the Shadows (1969)]
-* 2020-06-29 https://www.commerce.gov/news/press-releases/2020/06/statement-us-secretary-commerce-wilbur-ross-revocation-hong-kong ""
+** https://en.wikipedia.org/wiki/The_Peninsula_Paris[The Peninsula Paris] (previously Hotel Majestique), which was used by the <<nazi,Gestapo>> and figures in the movie https://en.wikipedia.org/wiki/Army_of_Shadows[Army of the Shadows (1969)]. An important quote from that movie when a prisoner of the Nazis dies, his friend says:
++
+____
+All debts will be paid. +
+Toutes les dettes se paieront.
+____
+* 2020-06-29 https://www.commerce.gov/news/press-releases/2020/06/statement-us-secretary-commerce-wilbur-ross-revocation-hong-kong "Statement from U.S. Secretary of Commerce Wilbur Ross on Revocation of Hong Kong Special Status"
 +
 ____
 With the Chinese Communist Party's imposition of new security measures on Hong Kong, the risk that sensitive U.S. technology will be diverted to the People's Liberation Army or <<ministry-of-state-security,Ministry of State Security>> has increased, all while undermining the territory's autonomy. Those are risks the U.S. refuses to accept and have resulted in the revocation of Hong Kong's special status.
@@ -3619,6 +3624,9 @@ Lists:
 
 People:
 
+* 2020-11-17 Song Guo Zheng, Ohio State University
+** https://www.linkedin.com/in/song-guo-zheng-md-phd-48893641/
+** https://scholar.google.com/citations?user=MhjbiKIAAAAJ&hl=en
 * 2020-09 Haizhou Hu from University of Virginia: https://www.cbs19news.com/story/42560934/uva-researcher-arrested-on-federal-charges
 * 2020-07 Houston consulate closed due to alllegations of facilitating intellectual property theft without public proof
 ** https://www.bbc.co.uk/news/world-us-canada-53497193
@@ -5061,7 +5069,7 @@ video::eB9O4PU5Nnk[youtube,height=400,width=600]
 [[thailand]]
 == Thailand (泰国)
 
-It is a crime to criticize the royal family:
+It is a crime to criticize the royal family (Lèse majesté):
 
 * https://en.wikipedia.org/wiki/Lèse_majesté_in_Thailand
 * https://en.wikipedia.org/wiki/Lèse-majesté
@@ -5073,17 +5081,25 @@ ____
 I was always convinced that there is no where you should't go. There are no https://en.wikipedia.org/wiki/Sacred_cow_(idiom)[sacred cows]. And if there are, if they are really sacred, let's see how much we puncture them and see if they still float.
 ____
 
-Or in other word:
+Or in other words:
 
 ___
 Vajiralongkorn, you little piece of shit, grow some balls and learn how to take an insult. A man who cannot take an insult is not a man, but a big pussy.
 ___
 
-Everyone who has political power must know how to be laughed at criticized, otherwise <<dictatorship,dicatorship>> follows.
+Everyone who has political power must know how to be laughed at criticized, otherwise <<dictatorship,dicatorship>> follows:
 
 * 2020-08-24 https://techcrunch.com/2020/08/24/after-restricting-a-group-critical-of-thailands-monarchy-facebook-says-it-will-take-legal-action-against-the-government/ "After restricting a group critical of Thailand’s monarchy, Facebook says it will take legal action against the government"
 * 2017-05-17 https://www.thesun.co.uk/news/3578661/from-fake-tattoos-and-crop-tops-to-making-a-poodle-air-force-chief-the-king-of-thailands-maddest-moments-revealed/ "As  Thai monarch Maha Vajiralongkorn attempts to sue Facebook over photos posted online, we look at the wacky royal's bizarre life" TODO real? Erm, video by 60-minutes Australia: https://youtu.be/HfF3CGVwrs4?t=84
-* 2015 https://en.wikipedia.org/wiki/Fufu_(dog). Topless wife birthday celebration video: https://youtu.be/HfF3CGVwrs4?t=311
+** 2015 https://en.wikipedia.org/wiki/Fufu_(dog).
+** Topless wife birthday celebration video: https://youtu.be/HfF3CGVwrs4?t=311
+
+Dissidents:
+
+* Rap Against Dictatorship
+** https://www.youtube.com/channel/UCukIPSb0N6_vRVD_5VlzqQg
+** https://www.aljazeera.com/news/2020/8/20/rap-against-dictatorship-artist-arrested-in-thailand "‘Rap Against Dictatorship’ artist arrested in Thailand", artist Dechathorn Bamrungmuang arrested
+** https://foreignpolicy.com/2020/11/16/rap-against-dictatorship-protests-thailand/
 
 [[thai-king-hamtaro]]
 .Side-by-side comparison between https://en.wikipedia.org/wiki/Vajiralongkorn[Thai King Vajiralongkorn] and https://en.wikipedia.org/wiki/Hamtaro[Hamtaro]. This is the Thai version of <<winnie-the-pooh>>. It https://asia.nikkei.com/Politics/Japanese-cartoon-Hamtaro-used-by-Thai-protesters-to-mock-government[has been used by protesters] as part of the  https://en.wikipedia.org/wiki/2020_Thai_protests[2020 Thai protests]. Left https://en.wikipedia.org/wiki/2020_Thai_protests[photo source].
@@ -5092,8 +5108,11 @@ image::{cirosantilli-media-base}/Side_by_side_comparison_between_Thai_king_Vajir
 .Leading Thai politicians prostrate themselves before Vajiralongkorn in 2016, presumably during his ascention to the throne. https://www.independent.co.uk/news/world/asia/bbc-investigation-thailand-king-defamation-a7460046.html[Source].
 image::{china-dictatorship-media-base}/Thai_king_prostrated_officers.jpg[height=400]
 
-.Suthida Tidjai, Vajiralongkorn's wife, prostrated before him during their marriage in 2016 before he officially ascended to the throne. Yes, prostation is a big thing in Thailand. An older king, Rama V, had apparently even https://en.wikipedia.org/wiki/Chulalongkorn#Abolition_of_prostration[abolished this practice in 1873]. Clearly, <<xi-jinping>> could learn a thing or two from a proper monarch like Vajiralongkorn. https://web.archive.org/web/20190723095722/https://www.theguardian.com/world/2019/may/03/thailand-coronation-king-maha-vajiralongkorn-rama-x[Source].
+.Suthida Tidjai, Vajiralongkorn's wife, prostrated before him during their marriage in 2016 before he officially ascended to the throne. Yes, prostration is a big thing in Thailand. An older king, Rama V, had apparently even https://en.wikipedia.org/wiki/Chulalongkorn#Abolition_of_prostration[abolished this practice in 1873]. Clearly, <<xi-jinping>> could learn a thing or two from a proper monarch like Vajiralongkorn. https://web.archive.org/web/20190723095722/https://www.theguardian.com/world/2019/may/03/thailand-coronation-king-maha-vajiralongkorn-rama-x[Source].
 image::{china-dictatorship-media-base}/Thai_king_prostrated_wife.jpg[height=400]
+
+.Thai king Vajiralongkorn wearing a https://en.wikipedia.org/wiki/Crop_top[crop top] so tight that it could be called a bra, and accompanied by one of his girlfriends, in a shopping center in Munich. He can wear whatever he wants, but to both wear that and enforce Lèse majesté? That's the ultimate torture for the Thai people. TODO date, exact location, original report. Here is one of the many reports,  https://www.thesun.co.uk/news/3578661/from-fake-tattoos-and-crop-tops-to-making-a-poodle-air-force-chief-the-king-of-thailands-maddest-moments-revealed/[sample report from 2017 in a British tabloid].
+image::{china-dictatorship-media-base}/Thai_king_crop_top.jpg[height=400]
 
 [[military-dictatorship-in-brazil]]
 == Military dictatorship in Brazil (1964-1985)
