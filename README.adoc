@@ -563,8 +563,24 @@ although like any other political argument, https://www.nytimes.com/2003/03/01/a
 
 Virus outbreaks and other natural disasters also illustrate this well: <<corona>>.
 
+===== Censorship makes no one trust your country
+
+Who would trust a government that does not <<censorship,trust its own journalists and citizens>>?
+
+Even democracies cannot be trusted, but dictatorships? No one ever believes what they say, even when it's true.
+
+The boy https://en.wikipedia.org/wiki/The_Boy_Who_Cried_Wolf[just called wolf far too many times].
+
+And as a result, this makes it very difficult to have allies.
+
+Sure, other dictatorships will seem to become allies with your dictatorship and collaborate.
+
+But deep down, you know that they are all just waiting patiently to put a knife in one other's backs.
+
+Dictators will always live in fear.
+
 [[corona]]
-===== Censorship of the 2019 Corona Virus 2019冠状病毒病早期迹象审查
+===== Censorship of the 2019 Corona Virus (2019冠状病毒病早期迹象审查)
 
 * https://en.wikipedia.org/wiki/Coronavirus_disease_2019
 * https://zh.wikipedia.org/wiki/2019冠状病毒病
@@ -605,7 +621,7 @@ Some believe that the Chinese government grossly under-reported death counts. Of
 * 2020-04-01 https://www.bloomberg.com/news/articles/2020-04-01/china-concealed-extent-of-virus-outbreak-u-s-intelligence-says CIA speaks
 * 2020-03-29 https://www.dailymail.co.uk/news/article-8165717/Locals-Wuhan-believe-42-000-people-died-coronavirus.html Reports of funerary urns sold
 
-Maybe China is saying the truth this time. Maybe the rapid Dictatorship response worked. But maybe the most important lesson to take out of this is: https://www.theguardian.com/world/2020/oct/27/china-loses-trust-internationally-over-coronavirus-handling[no one trusts a Dictatorship], after an infinitely long history of lies and no freedom of the press.
+Maybe China is saying the truth this time. Maybe the rapid Dictatorship response worked. But maybe the most important lesson to take out of this is that https://www.theguardian.com/world/2020/oct/27/china-loses-trust-internationally-over-coronavirus-handling[no one] trusts <<censorship-makes-no-one-trust-your-country,in a Dictatorship], after an infinitely long history of lies and <<censorship,the lack of freedom of the press>>.
 
 <<li-hongzhi>> of course doubts those number :-) <<falun-gongs-view-of-epidemics>>.
 
@@ -848,7 +864,7 @@ Trying to prevent corruption is fine, but violating the laws of other countries 
 
 Publicized by China itself: <<china-daily>> http://www.chinadaily.com.cn/china/2015-11/05/content_22375920.htm
 
-* 2020-10-28 "Eight Individuals Charged With Conspiring to Act as Illegal Agents of the People’s Republic of China" https://www.justice.gov/opa/pr/eight-individuals-charged-conspiring-act-illegal-agents-people-s-republic-china
+* 2020-10-28 "Eight Individuals Charged With Conspiring to Act as Illegal Agents of the People's Republic of China" https://www.justice.gov/opa/pr/eight-individuals-charged-conspiring-act-illegal-agents-people-s-republic-china
 
 [[liu-changming]]
 ====== The detention of Liu Changming's (刘昌明) family (2018)
@@ -1870,11 +1886,11 @@ Articles:
 
 https://www.southbankresearch.com/wp-content/uploads/sites/9/2020/01/ZHA-issue-2510-free.pdf has a good quote:
 ____
-Would you have stood up to Hitler when he came to power? Or would you have been an appeaser, like Chamberlain? Or perhaps even a supporter of fascism, like the Daily Mail’s owner at the time?
+Would you have stood up to Hitler when he came to power? Or would you have been an appeaser, like Chamberlain? Or perhaps even a supporter of fascism, like the Daily Mail's owner at the time?
 
-We all like to imagine we’re courageous enough to stand up to tyranny and persecution. That we would have stood up to the villains of the past. Seen them for what they really were, even helped rescue their victims from danger. We certainly don’t like to think we would have bought their goods or funded, invested in their economies...
+We all like to imagine we're courageous enough to stand up to tyranny and persecution. That we would have stood up to the villains of the past. Seen them for what they really were, even helped rescue their victims from danger. We certainly don't like to think we would have bought their goods or funded, invested in their economies...
 
-Well today, you’re going to find out what you’re made of
+Well today, you're going to find out what you're made of
 ____
 
 .Photoshopped <<xi-jinping>> with raised fist with Nazi uniform and flag on the background. https://www.reddit.com/r/HongKong/comments/cuf3p7/chinazi_xitler/[Source].
@@ -2550,7 +2566,7 @@ If you think that this list can be improved, please open an issue explaining how
 
 It might be a newbie text editors for newbie Windows users, but at least they use it to good use by doing keyword attacks:
 
-* 2020-08: https://techcrunch.com/2020/08/17/notepad-plus-plus-blocked-in-china/ "Text editor Notepad{plus}{plus} banned in China after ‘Stand With Hong Kong’ update" where "banned" means "the download page where they keywords are shown is now blocked in Chinese browsers". The rest of the website is still up. So no domain block due to HTTPS, browser only action for now.
+* 2020-08: https://techcrunch.com/2020/08/17/notepad-plus-plus-blocked-in-china/ "Text editor Notepad{plus}{plus} banned in China after ‘Stand With Hong Kong' update" where "banned" means "the download page where they keywords are shown is now blocked in Chinese browsers". The rest of the website is still up. So no domain block due to HTTPS, browser only action for now.
 * 2019-10: "In October 2019 Notepad{plus}{plus}'s GitHub issue tracker was flooded with pro-Chinese and anti-western messages after a version codenamed "Free Uyghur" (v7.8.1) was released"
 ** https://www.theregister.co.uk/2019/10/31/notepad_china_spam/
 ** https://www.reddit.com/r/China/comments/dp3icm/notepad_after_voicing_their_support_for_the/ "Notepad{plus}{plus}, after voicing their support for the Uyghurs, is now being bombarded by Chinese nationalists on Github." See e.g.: https://github.com/notepad-plus-plus/notepad-plus-plus/issues/7489 and earlier issues
@@ -2782,7 +2798,7 @@ Also includes the <<uyghurs-for-sale>> report.
 News:
 
 * 2020-10-28 <<global-times>> https://www.globaltimes.cn/content/1203861.shtml in response to https://en.wikipedia.org/wiki/Murder_of_Samuel_Paty[The Murder of Ssamuel Paty] clarifies that the best way to counter terrorism is preventive mass incarceration and brainwashing: "Eradicating extremism is a huge challenge of governance for all countries. China has proactively explored feasible ways in its Xinjiang governance and generated positive outcomes."
-* 2020-10-17 (paywall) https://www.economist.com/china/2020/10/17/how-xinjiangs-gulag-tears-families-apart "How Xinjiang’s gulag tears families apart". "So many parents have been locked up that officials struggle to cope with the left-behind children"
+* 2020-10-17 (paywall) https://www.economist.com/china/2020/10/17/how-xinjiangs-gulag-tears-families-apart "How Xinjiang's gulag tears families apart". "So many parents have been locked up that officials struggle to cope with the left-behind children"
 * 2020-09-19 https://www.scmp.com/news/china/politics/article/3101986/china-claims-vocational-training-given-nearly-13-million-people "Chinese authorities “indirectly” confirm the scale of the camps. China claims 1.3 million Xinjiang residents given 'vocational training' each year"
 +
 The document: http://www.scio.gov.cn/zfbps/32832/Document/1687588/1687588.htm also quoted on <<peoples-daily>>: http://politics.people.com.cn/n1/2020/0918/c1001-31865875.html
@@ -3117,12 +3133,12 @@ ____
 I don't want to get into a word or sentence feud with Daryl Morey, but I believe he wasn't educated on the situation
 ____
 
-Related video of LeBron saying similar things on interview (TODO same?): 2019-10-15 https://www.youtube.com/watch?v=UjM43blzaRc "LeBron addresses Daryl Morey’s tweet and Lakers’ trip to China | NBA on ESPN"
+Related video of LeBron saying similar things on interview (TODO same?): 2019-10-15 https://www.youtube.com/watch?v=UjM43blzaRc "LeBron addresses Daryl Morey's tweet and Lakers' trip to China | NBA on ESPN"
 
 Led to: <<sport-event-live-broadcast-image-attacks>>.
 
 * 2019-10-15 https://apnews.com/article/dd96d002394f45a6859c280c889afcb7 "LeBron: Rockets' Morey 'wasn't educated' on China tweet"
-* 2019-10-07 (Monday) "Rockets’ general manager’s Hong Kong comments anger China"
+* 2019-10-07 (Monday) "Rockets' general manager's Hong Kong comments anger China"
 * 2019-10-07 Lakers vs. Heat NBA Tencent Live Stream cancelled due to fan wearing the <<taiwan,Taiwanese>> flag
 +
 .Fan wearing Taiwan flag in 2019-10-07 Lakers vs. Heat showing fan and text (TODO from Tencent?) saying that the match will be cancelled. https://www.reddit.com/r/China/comments/dtrx4b/tencent_nba_live_broadcast_got_cancelled_because[Source].
@@ -4624,7 +4640,7 @@ But <<intolerance,like all minorities>>, they are generally more fucked in <<dic
 
 Therefore, all gay people must be against the CCP:
 
-* 2020-08-14 https://www.scmp.com/news/china/society/article/3097377/shanghai-pride-cancelled-after-11-years-blow-lgbt-community "Shanghai Pride cancelled after 11 years in blow to China’s LGBT community". "
+* 2020-08-14 https://www.scmp.com/news/china/society/article/3097377/shanghai-pride-cancelled-after-11-years-blow-lgbt-community "Shanghai Pride cancelled after 11 years in blow to China's LGBT community". "
 Organisers are 'taking a break from scheduling any future events', they say in social media message".
 ** the Tweet: https://twitter.com/ShanghaiPride/status/1293897794919510016 "上海骄傲节终止所有活动" (Shanhai Pride will be stopping all activities)
 ** https://en.wikipedia.org/wiki/Shanghai_Pride
@@ -5089,7 +5105,7 @@ ___
 
 Everyone who has political power must know how to be laughed at criticized, otherwise <<dictatorship,dicatorship>> follows:
 
-* 2020-08-24 https://techcrunch.com/2020/08/24/after-restricting-a-group-critical-of-thailands-monarchy-facebook-says-it-will-take-legal-action-against-the-government/ "After restricting a group critical of Thailand’s monarchy, Facebook says it will take legal action against the government"
+* 2020-08-24 https://techcrunch.com/2020/08/24/after-restricting-a-group-critical-of-thailands-monarchy-facebook-says-it-will-take-legal-action-against-the-government/ "After restricting a group critical of Thailand's monarchy, Facebook says it will take legal action against the government"
 * 2017-05-17 https://www.thesun.co.uk/news/3578661/from-fake-tattoos-and-crop-tops-to-making-a-poodle-air-force-chief-the-king-of-thailands-maddest-moments-revealed/ "As  Thai monarch Maha Vajiralongkorn attempts to sue Facebook over photos posted online, we look at the wacky royal's bizarre life" TODO real? Erm, video by 60-minutes Australia: https://youtu.be/HfF3CGVwrs4?t=84
 ** 2015 https://en.wikipedia.org/wiki/Fufu_(dog).
 ** Topless wife birthday celebration video: https://youtu.be/HfF3CGVwrs4?t=311
@@ -5098,7 +5114,7 @@ Dissidents:
 
 * Rap Against Dictatorship
 ** https://www.youtube.com/channel/UCukIPSb0N6_vRVD_5VlzqQg
-** https://www.aljazeera.com/news/2020/8/20/rap-against-dictatorship-artist-arrested-in-thailand "‘Rap Against Dictatorship’ artist arrested in Thailand", artist Dechathorn Bamrungmuang arrested
+** https://www.aljazeera.com/news/2020/8/20/rap-against-dictatorship-artist-arrested-in-thailand "‘Rap Against Dictatorship' artist arrested in Thailand", artist Dechathorn Bamrungmuang arrested
 ** https://foreignpolicy.com/2020/11/16/rap-against-dictatorship-protests-thailand/
 
 [[thai-king-hamtaro]]
@@ -5240,7 +5256,7 @@ In any case, at least FLG got one thing right: the commies are <<ccp-evil,evil>>
 See also: <<flg-fake>>.
 
 [[how-much-does-ciro-santilli-know-about-falun-gong]]
-==== How much does Ciro Santilli know about Falun Gong? 三西猴对法轮功有多熟悉？
+==== How much does Ciro Santilli know about Falun Gong? (三西猴对法轮功有多熟悉？)
 
 He hasn't read their <<flg-canon,canon>> himself, no patience, but he has had <<flg-bias,constant contact with believers>> and so has an idea of its content.
 
@@ -5978,9 +5994,9 @@ By this logic, everyone should go to jail. The law should only punish individual
 
 The communist party, which has had continuous power since 1949, killed millions during the <<cultural-revolution>>. Surely they must be banned, no?
 
-But the CCP has changed so much since those days, I hear you say.
+But the CCP has changed so much since those days, Ciro hears you say.
 
-I agree. And <<flg-changed,so has Falun Gong>>.
+Ciro agrees. And <<flg-changed,so has Falun Gong>>.
 
 See also: "thoughtcrime" from <<nineteen-eighty-four>>.
 
@@ -5996,6 +6012,33 @@ Now proceed to prove that FLG made and will continue making people do bad things
 
 * <<flg-witness>>
 * <<flg-changed>>
+
+[[tiananmen-square-self-immolation-incident]]
+===== Tiananmen Square self-immolation incident (天安门自焚事件, 2001)
+
+* https://en.wikipedia.org/wiki/Tiananmen_Square_self-immolation_incident
+* https://zh.wikipedia.org/wiki/天安门自焚事件
+
+This has been one of the major anti-Falun Gong propaganda pieces by the CCP, and one of the most refuted by Falun Gong propaganda even as of 2020.
+
+<<ciro-santilli>> believes that:
+
+* as usual from the pre-Internet age, we will never know the truth for sure, because China has <<censorship,no freedom of the press>>, and <<censorship-makes-no-one-trust-your-country,no one believes anything that the Chinese government says>>
+* it is possible that they were Falun Gong believers. What would expect from <<flg-important,banning a 70 million person religion?>>
+* it is very unlikely that they had approval or instructions from <<li-hongzhi>>. Li Hongzhi's literature maintains that suicide is very bad for you, e.g.: from 2003 <<flg-canon,canon>> https://falundafa.org/eng/eng/lectures/20030420L.html
++
+____
+Question: Some people can't give up Dafa, but also can't let go of their humanness. On the surface they are cultivating and doing some Fa-rectification things, but they are in fact stirring up trouble and creating disturbances, with some even committing suicide or being gay. What will become of these people? Will they go to the dimension of demons? And what will happen to those who stick up for them?
+
+Teacher: I know about all of that. Unless I have absolutely no choice I don't want to expel them, so I'm observing and watching these things. It's best that these people, if they want to do themselves justice, wake up quickly--wake up quickly! If you're determined to do that, then tell Dafa disciples about the things you've done, and that could help. Time is running short. I'm really worried about you. Don't take Master's mercy so lightly. The Fa has standards.
+____
++
+and from 1998 canon https://falundafa.org/eng/eng/lectures/19980329L.html
++
+____
+Many people who are capable of cultivating get sucked into them, and some of them engage in suicide - it's a mess
+____
+* maybe people should be allowed to choose how they want to die, see also: <<flg-medication>>
 
 [[flg-political]]
 === People from movement X are only in it for political power
@@ -6044,9 +6087,9 @@ This is exactly the same, in fact, as <<flg-religion,Christian groups>>, which a
 
 Trump's immigration policies have turned Asian Americans towards the democrat opposition however as of 2019: https://www.vox.com/policy-and-politics/2019/5/13/18308137/asian-american-voters-immigration-democrats-donald-trump
 
-One saving point of the republicans for Asians is the opposition to university quotas instance, which many Asians feel blocks their high performing kids from top schools for less deserving students. This is suggested for example at: https://www.theatlantic.com/politics/archive/2020/02/yang-asian-americans-affirmative-action/605917/ "Opposition to affirmative action was pulling Asians toward the GOP. Then Yang’s campaign began to gather momentum."
+One saving point of the republicans for Asians is the opposition to university quotas instance, which many Asians feel blocks their high performing kids from top schools for less deserving students. This is suggested for example at: https://www.theatlantic.com/politics/archive/2020/02/yang-asian-americans-affirmative-action/605917/ "Opposition to affirmative action was pulling Asians toward the GOP. Then Yang's campaign began to gather momentum."
 
-In 2020-11-08 https://www.epochtimes.com/gb/20/11/8/n12534746.htm the <<epoch-times>> published a poem by <<li-hongzhi>>, just after Trump was announced to lose the presidential elections, amidst claims of electoral fraud under investigation. The Epoch Times was one of the few newspapers at the time to give importance to those claims, e.g.: https://web.archive.org/web/20201107223813/https://www.theepochtimes.com/[], which mentions for example: "Why The Epoch Times Won’t Call the Presidential Race Until All Challenges Are Resolved".
+In 2020-11-08 https://www.epochtimes.com/gb/20/11/8/n12534746.htm the <<epoch-times>> published a poem by <<li-hongzhi>>, just after Trump was announced to lose the presidential elections, amidst claims of electoral fraud under investigation. The Epoch Times was one of the few newspapers at the time to give importance to those claims, e.g.: https://web.archive.org/web/20201107223813/https://www.theepochtimes.com/[], which mentions for example: "Why The Epoch Times Won't Call the Presidential Race Until All Challenges Are Resolved".
 
 === Western media has exaggerated reports on FLG for propaganda reasons
 
@@ -6186,7 +6229,7 @@ Like most <<flg-religion,old religions>>, related: <<hate-speech>>.
 ____
 Question: Why is homosexuality considered immoral?
 
-Teacher: Think about it, everyone: Is homosexuality human behavior? Heaven created man and woman. What was the purpose? To procreate future generations. A man being with a man, or a woman with a woman—it doesn’t take much thought to know whether that’s right or wrong. When minor things are done incorrectly, a person is said to be wrong. When major things are done incorrectly, it’s a case of people no longer having the moral code of human beings, and then they are unworthy of being human.
+Teacher: Think about it, everyone: Is homosexuality human behavior? Heaven created man and woman. What was the purpose? To procreate future generations. A man being with a man, or a woman with a woman - it doesn't take much thought to know whether that's right or wrong. When minor things are done incorrectly, a person is said to be wrong. When major things are done incorrectly, it's a case of people no longer having the moral code of human beings, and then they are unworthy of being human.
 ____
 
 Democracy dislikes dictators.
@@ -6217,7 +6260,7 @@ Mixed race people seem to have some metaphysical defect/peculiarity, https://fal
 ___
 Question: What did you say last time that a person of mixed race has lost?
 
-Teacher: He has lost the body that comes from the top down through to here. Let me put it this way: People of the yellow race have people of the yellow race up there, and people of the white race have people of the white race up there. He’s lost this thread.
+Teacher: He has lost the body that comes from the top down through to here. Let me put it this way: People of the yellow race have people of the yellow race up there, and people of the white race have people of the white race up there. He's lost this thread.
 ___
 
 but they can still go to Heaven:
@@ -6268,9 +6311,9 @@ and the general very beaty-around-the-bush suggestion that if you do master Falu
 https://www.falundafa.org/book/eng/mgjf.htm contains some more direct quotes that suggest that you can take medicine, but you have to try and bear the pain first, and if you can't, it's a sign that you haven't practiced Falun Gong well enough:
 
 ____
-So when you take medicine now you’re killing this sickness or the virus at the surface. Medicine can truly kill viruses at the surface. Yet a practitioner’s gong[7] is automatically destroying viruses and karma. But as soon as medicine kills the surface virus that has seeped over from other dimensions, the virus—karma—over on the other side will know, since everything is alive, and it will stop coming over. Then you feel that you’ve recovered because you took the medicine. But let me tell you that it nonetheless accumulates over there. Life after life human beings are accumulating this stuff. When the accumulation reaches a certain extent, the person becomes incurable and when he dies he’s totally destroyed. He loses his life—forever loses his life. That’s how horrifying it is. So here I’ve explained to you the relationship. It’s not that people aren’t allowed to take medicine. When an everyday person gets sick he definitely needs medical treatment.
+So when you take medicine now you're killing this sickness or the virus at the surface. Medicine can truly kill viruses at the surface. Yet a practitioner's gong[7] is automatically destroying viruses and karma. But as soon as medicine kills the surface virus that has seeped over from other dimensions, the virus—karma—over on the other side will know, since everything is alive, and it will stop coming over. Then you feel that you've recovered because you took the medicine. But let me tell you that it nonetheless accumulates over there. Life after life human beings are accumulating this stuff. When the accumulation reaches a certain extent, the person becomes incurable and when he dies he's totally destroyed. He loses his life—forever loses his life. That's how horrifying it is. So here I've explained to you the relationship. It's not that people aren't allowed to take medicine. When an everyday person gets sick he definitely needs medical treatment.
 
-But how do we cultivators deal with it? Aren’t we purifying your body? Like the annual rings of a tree, there is karma at the very core, and at every layer, life after life, of your body. When you practice cultivation, I keep pushing this karma outward from the center; I push, and push, and push, and push until I completely push the karma out for you. And not all of this can go through the surface of our bodies. You wouldn’t be able to bear it if all of it were to go through the surface of your body. Only a portion of it comes out through the surface. But you still feel that you’re suddenly getting sick, you find it terribly uncomfortable and painful, can’t bear it, regard yourself as an everyday person, and go take medicine. Then you can go ahead and take medicine, as we’ve never said that everyday people can’t take medicine. We only say that your enlightenment quality isn’t up to par and that you didn’t pass this test well.
+But how do we cultivators deal with it? Aren't we purifying your body? Like the annual rings of a tree, there is karma at the very core, and at every layer, life after life, of your body. When you practice cultivation, I keep pushing this karma outward from the center; I push, and push, and push, and push until I completely push the karma out for you. And not all of this can go through the surface of our bodies. You wouldn't be able to bear it if all of it were to go through the surface of your body. Only a portion of it comes out through the surface. But you still feel that you're suddenly getting sick, you find it terribly uncomfortable and painful, can't bear it, regard yourself as an everyday person, and go take medicine. Then you can go ahead and take medicine, as we've never said that everyday people can't take medicine. We only say that your enlightenment quality isn't up to par and that you didn't pass this test well.
 ____
 
 Ciro does however believe that newer generations believe in this much less, notably because the first believer generation is all basically old or dead, and soon will be entirely dead. This might also have been de-emphasised to reduce the bullshit aspects and help the international spread of Falun Gong. Not even Falun Gong believers are that blind. And this perfectly mimics the beginning of Christianism, where the first generations gave much more emphasis to miraculous cures.
@@ -6482,12 +6525,14 @@ Started in the 2000's in New York State with money donated by believers.
 * 1999 https://apnews.com/420a741ec19c4db3993d408747874b2d "Falun Gong US compound's neighbors fret over expansion plans"
 
 [[zhong-gong]]
-=== Zhong Gong 中华养生益智功 (中功)
+=== Zhong Gong (中功,中华养生益智功)
 
 * https://en.wikipedia.org/wiki/Zhong_Gong
 * https://zh.wikipedia.org/wiki/中华养生益智功
 
 A very similar religion to <<falun-gong>>, that also emerged during the https://en.wikipedia.org/wiki/Qigong_fever[Qigong fever] (气功热) of the '80s and '90s.
+
+Zhong Gong was the second most sucessful Qigong Boom religion after Falun Gong.
 
 The similarity of their imagery as seen from propaganda videos is striking. To <<ciro-santilli>>, this makes Zhong Gong a perfect example of why <<does-ciro-santilli-believe-in-or-practice-falun-gong,FLG metaphysics is bullshit>>: it is obvious that both Zhong Gong and Falun Gong and many others were just random dudes who took advantage of the Qigong fever to create their religions.
 
@@ -6495,16 +6540,22 @@ Their prophet is https://en.wikipedia.org/wiki/Zhang_Hongbao[Zhang Hongbao] (htt
 
 Interestingly, like <<li-hongzhi>>, Hongbao is also from the Northeast of China (Heilongjiang), there must be a reason why those Qi Gong movements come from that region.
 
-Unlike Falun Gong however, Zhong Gong failed to branch the franchise out of China, and basically died out. He also died in a car crash in 2006 which didn't help. Li Hongzhi however played smarter, and started branching abroad full force in 1996, he might have predicted that the crackdown was inevitale.
+Unlike Falun Gong however, Zhong Gong failed to branch the franchise out of China, and basically died out. Hongbao also died in a car crash in 2006 which didn't help. Li Hongzhi however played smarter, and started branching abroad full force in 1996, he likely predicted that the crackdown was inevitale.
 
 Wikipedia says it reached 34 million followers in China.
 
 Hongbao also has a more spicy history it seems, with sexual allegations and open political goals <<flg-political,unlike Li Hongzhi, who hid his goals better>>. Well played, Li, well played.
 
-<<li-hongzhi>> maintains in <<flg-canon,canon>> that Falun Gong is of course extremely different from all of those other extremely similar Qi Gong religions (not sure if Zhong Gong is mentioned, but is it definitely one of the main targets).
+<<li-hongzhi>> maintains in <<flg-canon,canon>> that Falun Gong is of course extremely different from all of those other extremely similar Qi Gong religions. Zhong Gong is likely not mentioned by name, but it is also likely one of the main targets. E.g. in 1998 <<flg-canon,canon>> https://falundafa.org/eng/eng/lectures/19980329L.html[]:
+
+____
+Dafa can't be obtained lightly. For example, the diversity of cults and the number of false qigongs are large these days, and they lead people astray. Many people who are capable of cultivating get sucked into them, and some of them engage in suicide - it's a mess.
+____
+
+Zhong Gong videos:
 
 * https://www.youtube.com/watch?v=cX72zfEP_zs googd Zhong Gong playlist
-* https://youtu.be/uYH8Y_1UmrY?list=PLQM6pSUVxrEhL1Zf2Hg9J87HAlgOS1RXy&t=1445 Zhong Gong people "experience sharing". It truly is exactly like Falun Gong.
+* https://www.youtube.com/watch?v=uYH8Y_1UmrY&t=1445 Zhong Gong people "experience sharing". It truly is exactly like Falun Gong.
 * https://www.youtube.com/watch?v=t2GxSJK9c-A this appears to be positive mainstream media coverage of Zhong Gong
 * https://www.youtube.com/watch?v=9Ziluy_AlEI video of Hongbao giving a lecture dated 1994 and commented "Qiling kylin Tianhua culture"
 * https://www.youtube.com/watch?v=aQKCtPSfdR4 video dated January 21st, 2007 of Monks praying after his death
