@@ -22,7 +22,7 @@ image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China_photo.
 toc::[]
 
 [[about]]
-== About 关于
+== About (关于)
 
 This repo has the following goals:
 
@@ -41,6 +41,16 @@ Here's an image/sentence https://en.wikipedia.org/wiki/Copypasta[copypasta]/summ
 Another advantage of this is that since it comes first in the repo, it ensures that key elements show up on github.com despite file size cutups: https://github.com/isaacs/github/issues/1610[].
 
 Each summary section contains a link to the main section, which contains sources and description of each image.
+
+Text only:
+
+* <<xi-abolishes-term-limits-2018-03>> (2018包子露宪)
+* <<the-709-crackdown>>
+* <<panama-papers>> (邓家贵)
+* <<low-end-population>>
+* <<tibetan-unrest-2008>>
+
+Text and image:
 
 **六四事件 Tiananmen square protests 1989**
 
@@ -252,7 +262,7 @@ There is no need to update package versions or add git tags, all of that gets do
 [[why-keyword-attack]]
 === Why attack websites with censored keywords? 用审查词攻击网站有什么用呢？
 
-<<keyword-attack, The attack>>.
+The attack: <<keyword-attack>>.
 
 To <<effective,destroy the firewall>>.
 
@@ -322,7 +332,7 @@ Don't you see that this is just pure and simple politics? And likely ineffective
 * not even the CCP is evil: <<ccp-evil>>
 
 [[keyword-attack]]
-==== What is a screen name keyword attack?
+==== Screen name keyword attack
 
 Adding censored words to your username: https://stackoverflow.com/users/895245
 
@@ -675,6 +685,8 @@ Other interesting GitHub repositories: <<github-repositories-with-censored-infor
 +
 video::Iwpr55PZEJ8[youtube,height=400,width=600]
 * Fang Bin (方斌)
+** https://en.wikipedia.org/wiki/Fang_Bin
+** https://zh.wikipedia.org/wiki/方斌
 ** Twitter: https://twitter.com/GuqZJRTOvbqbGub
 ** YouTube: https://www.youtube.com/channel/UCRItarzSwqakT-EZkSvuy3A
 *** The last YouTube video simply says:
@@ -1146,7 +1158,7 @@ image::{china-dictatorship-media-base}/China_imperialism_cartoon.jpg[height=500]
 
 That being said, <<ciro-santilli>> takes the agenda of information sources very seriously.
 
-E.g. he tries to clearly classify Communist Party, Falun Gong, and Western government linked sources.
+E.g. he tries to clearly classify <<biased-media,Communist Party, Falun Gong, and Western government-linked information sources>>.
 
 If we had more <<western-democracies-are-not-perfect>> content, then maybe this repository would be considered a more reputable source by Chinese people.
 
@@ -1719,19 +1731,25 @@ When a government controls all information to make it look good, and no one can 
 
 It is much better to have some fake news, but also few sources that are likely telling the truth.
 
-<<ciro-santilli>> is also extremely critical of Western social media companies such as Twitter and Facebook which have censored "fake news" from real legitimate accounts or real people.
+<<ciro-santilli>> is also extremely critical of Western social media companies such as Twitter and Facebook which have censored "fake news" from real legitimate accounts or real people, which is a point that Trump has justly criticized in Ciro's opinion.
 
-If it is from a Chinese/Russian botent, sure, destroy those accounts.
+If it is from a Chinese/Russian botnet, sure, destroy those accounts.
 
-But from legitimate accounts? The people have to decide for themselves what is fake or real, not you Twitter and Facebook. If the majority is made of idiots who believe fake news, then so be it, that's how democracy works.
+But from legitimate accounts of citizens? The people have to decide for themselves what is fake or real, not you, Twitter and Facebook. If the majority is made of idiots who believe in fake news, then so be it, that's how democracy works.
 
-More interesting case is: https://en.wikipedia.org/wiki/Knight_First_Amendment_Institute_v._Trump[]. Part of Ciro feels that people who try to have meaningful discussions on Twitter should automatically lose a lawsuit, and that people should be able to block whoever they want,
+Censoring any citizen, no matter how stupid you think they are, creates a precedent for dictatorship, and even an <<luxor,incentive to terrorism>>.
+
+More interesting case is: https://en.wikipedia.org/wiki/Knight_First_Amendment_Institute_v._Trump[]. Ciro feels strongly that people who try to have meaningful discussions on Twitter should automatically lose a lawsuit, and that people should be able to block whoever they want from their personal controlled accounts or forums. It is only the companies who provide the forum service that must be neutral.
 
 Related news:
 
-* 2020-11-10 gthttps://techcrunch.com/2020/11/09/parler-app-store-facebook/ "'Free speech' social network Parler tops app store rankings following Biden's election win"
-* 202010-06 https://www.vox.com/recode/2020/5/28/21273241/section-230-explained-trump-social-media-twitter-facebook "Section 230, the internet free speech law Trump wants to repeal, explained". While repealing the law entirely would be stupid, Trump is right that it has given platforms too much control over the media. <<mark-government-controlled-social-media,Except for dictatorial foreign governments>>, or explicitly illegal material, social media platforms should never remove or comment on any content.
-* 2020-05-29 https://www.bbc.co.uk/news/technology-52846679 Twitter "hides Trump tweet for 'glorifying violence'". The people elected that idiot, Twitter leftists have to swallow that.
+* YouTube
+** https://techcrunch.com/2020/11/24/youtube-suspends-and-demonetizes-one-america-news-network-over-covid-19-video/ "YouTube suspends and demonetizes One America News Network over COVID-19 video"
+* Facebook
+** 2020-11-10 https://techcrunch.com/2020/11/09/parler-app-store-facebook/ "'Free speech' social network Parler tops app store rankings following Biden's election win"
+* Twitter
+** 2020-10-06 https://www.vox.com/recode/2020/5/28/21273241/section-230-explained-trump-social-media-twitter-facebook "Section 230, the internet free speech law Trump wants to repeal, explained". While repealing the law entirely would be stupid, Trump is right that it has given platforms too much control over the media. <<mark-government-controlled-social-media,Except for dictatorial foreign governments>>, or explicitly illegal material, social media platforms should never remove or comment on any content.
+** 2020-05-29 https://www.bbc.co.uk/news/technology-52846679 Twitter "hides Trump tweet for 'glorifying violence'". The people elected that idiot, Twitter leftists have to swallow that.
 
 [[life-of-brian-1979]]
 ===== Life of Brian (布莱恩的一生, 1979)
@@ -1756,7 +1774,7 @@ Key points:
 video::hdU_6jUQI9s[youtube,height=400,width=600]
 
 [[snowden]]
-===== Snowden 斯诺登
+===== Snowden (斯诺登)
 
 * https://en.wikipedia.org/wiki/Edward_Snowden
 * https://zh.wikipedia.org/wiki/爱德华·斯诺登
@@ -2176,7 +2194,7 @@ If you want to say something useful, give specific reasons why you think one spe
 
 Do you consider him a radical because it is unthinkable that China is not perfect?
 
-Or just because he's trying to <<keyword-attack,take down,>> some more websites that your dictatorship still does not dislike enough to block: <<china-is-fine-as-it-is-stop-making-it-worse>>?
+Or just because he's trying to <<keyword-attack,take down>> some more websites that your dictatorship still does not dislike enough to block: <<china-is-fine-as-it-is-stop-making-it-worse>>?
 
 Don't you think that it is much more radical to <<intolerance,be put in jail for your beliefs>> and <<censorship,silenced if you disagree with anything the government says>>?
 
@@ -2588,6 +2606,7 @@ Which in turn implies terrorist backslash.
 +
 All of which are against <<ciro-santilli>>'s principles.
 +
+[[luxor]]
 .https://youtube.com/watch?v=eouBCMPtNDQ?t=1170 "It happened in ... Luxor" by Al Jazeera English (2011) is a short documentary about the https://en.wikipedia.org/wiki/Luxor_massacre[Luxor massacre in Egypt (1997)]. At this timestamp, survivor https://de.wikipedia.org/wiki/Felix_E._Müller[Felix Mueller] whose girlfriend was killed in the attack comments that it is when people don't have an official way to express their needs due to censorship that they are more likely to turn to terrorism to express themselves.
 video::fASh2_RzMuE[youtube,height=400,width=600,start=1170]
 
@@ -2915,13 +2934,20 @@ Text messages and translation: https://medium.com/@millwarj/wear-your-mask-under
 [[other-islam-countries-speak-up-for-uyghur]]
 ====== Why don't many other Islamic countries speak up for the Uyghur persecution?
 
-Because those countries are also dictatprships and completely corrupt to the brim:
+Either because those countries:
+
+* are also dictatorships and completely corrupt to the brim
+* or because Muslim schisms make them hate split groups even more than they hate other religions doe to the https://en.wikipedia.org/wiki/Uncanny_valley[uncanny valley effect]
+
+Analyses:
 
 * https://www.foreignaffairs.com/articles/china/2020-09-10/long-shadow-xinjiang "The Long Shadow of Xinjiang"
 * https://nationalinterest.org/feature/plight-uyghurs-why-muslims-wont-speak-their-brethren-112466
 
 Related:
 
+* 2020-11-23 "Uighur scholar arrested in Saudi Arabia at risk of deportation to China", "Activists and human rights advocates have raised concerns that Aimadoula Waili may be tortured in a ‘re-education’ camp if sent back to China"
+* 2020-10-01 https://www.youtube.com/watch?v=M9CIZ9x3pIs "Uighurs in Exile: Arrested and deported back to China – BBC Newsnight", "Newsnight has found that Uighur people in the Middle East have been targeted by nations including Saudi Arabia"
 * 2020-07-11: https://www.nytimes.com/2020/07/11/world/asia/china-iran-trade-military-deal.html "Defying U.S., China and Iran Near Trade and Military Partnership"
 * 2018: vice-president https://en.wikipedia.org/wiki/Jusuf_Kalla[Jusuf Kalla] said "we don't want to intervene in the domestic affairs of another country": https://www.abc.net.au/news/2018-12-23/muslim-governments-stayed-silent-on-chinese-minority-uyghur/10630822
 * https://www.jpost.com/diaspora/uk-muslim-activist-praises-jewish-community-for-speaking-out-for-uyghurs-635626 even the Jews are speaking lowder in some cases
@@ -4178,6 +4204,7 @@ ____
 
 News:
 
+* 2020-11-10 https://www.theregister.com/2020/11/10/gitee_linux_foundation_china_mirror/ "China’s government-anointed Git operator says it will become a Linux Foundation mirror"
 * <<huawei>> open sourced is https://en.wikipedia.org/wiki/Harmony_OS[Harmony OS] "IoT operating system" in Gitee: https://openharmony.gitee.com/openharmony
 +
 The name of that OS is pure gold considering the Chinese origin, since "to harmonize" is often used as a way to say "to censor negative CCP information".
@@ -4589,18 +4616,19 @@ Lists of mirrors:
 * https://cjh0613.github.io/blog/GoogleMirror.html
 
 [[christianity]]
-=== Christianity 基督教
+=== Christianity (基督教)
 
 The commies are not a fan. But as someone once told me: the commies are not a fan of a bunch of things!
 
 As mentioned at https://en.wikipedia.org/wiki/Christianity_in_China there are only a few state approved churches under total CCP control, and the others are forbidden. For example one of them is called the https://en.wikipedia.org/wiki/Chinese_Patriotic_Catholic_Association[Chinese Patriotic Catholic Association]! God and CCP on the same sentence. https://en.wikipedia.org/wiki/Pope_Pius_XII[Pope Pius XII] excommunicated people from that organization who were appointing new Bishops!
 
+* 2020-11-24 https://www.theguardian.com/world/2020/nov/24/pope-says-for-first-time-that-chinas-uighurs-are-persecuted "Pope says for first time that China's Uighurs are 'persecuted'"
 * 2018-12 https://www.youtube.com/watch?v=zzWApdCNdik "100 Christians detained in China crackdown" published by CNN
 * 2018-09 Vatican Christian pope makes deal with China
 +
 https://en.wikipedia.org/wiki/China–Holy_See_relations#September_2018_Holy_See–China_Agreement
 +
-.<<rebel-pepper>> 2018-09 cartoon showing the Pope with a Christian cross containing the Hammer and Sickle communist symbol, in reference to one of the accords that the Vatican struck with the Chinese government. https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html[Source].
+.<<rebel-pepper>> 2018-09 cartoon showing the Pope Francis with a Christian cross containing the Hammer and Sickle communist symbol, in reference to one of the accords that the Vatican struck with the Chinese government. https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html[Source].
 image::{china-dictatorship-media-base}/Pope_CCP_deal.jpeg[height=400]
 * 2018-01 Chinese authorities demolish Christian mega-church "Golden Lampstand" sparking fears of religious persecution
 ** https://www.businessinsider.com/chinese-authorities-demolish-christian-mega-church-in-crackdown-2018-1
@@ -6116,6 +6144,9 @@ Let's just focus on the evidence:
 [[flg-organ-harvesting]]
 ==== Does Ciro Santilli believe in the allegations of organ harvesting made by Falun Gong believers?
 
+* https://en.wikipedia.org/wiki/Organ_harvesting_from_Falun_Gong_practitioners_in_China
+* https://zh.wikipedia.org/wiki/對中國共產黨摘取法輪功學員及良心犯器官的指控
+
 In short: Ciro believes that it has happened to many people.
 
 Long version follows.
@@ -6128,6 +6159,7 @@ But consider the following, which is based on what Ciro has heard.
 
 Even Chinese officials have admitted that in the past, if the body of the executed person is not claimed by family, then the organs can be extracted even without the consent of the prisoner:
 
+* 2014-12-04 https://www.bbc.co.uk/news/world-asia-china-30324440 "China to stop harvesting executed prisoners' organs"
 * https://www.theguardian.com/world/2017/feb/07/china-still-using-executed-prisoners-organs-transplants-vatican
 * https://www.washingtonpost.com/world/asia_pacific/in-the-face-of-criticism-china-has-been-cleaning-up-its-organ-transplant-industry/2017/09/14/d689444e-e1a2-11e6-a419-eefe8eff0835_story.html
 
@@ -6153,6 +6185,10 @@ Bibliography:
 * The Slaughter: Mass Killings, Organ Harvesting, and China's Secret Solution to Its Dissident Problem, by Ethan Gutmann, 2014
 ** <https://www.amazon.com/Slaughter-Killings-Harvesting-Solution-Dissident/dp/161614940X>
 ** <https://en.wikipedia.org/wiki/Ethan_Gutmann#The_Slaughter:_Mass_Killings,_Organ_Harvesting,_and_China's_Secret_Solution_to_Its_Dissident_Problem>
+
+Related:
+
+* 2020-11-29 (not of prisoners) https://www.bbc.co.uk/news/world-asia-china-55097424 "Chinese doctors jailed for illegal organ harvesting"
 
 ===== 2018 China Tribunal
 
@@ -6670,7 +6706,7 @@ image::{china-dictatorship-media-base}/Mao_coffin.jpeg[height=400]
 image::{china-dictatorship-media-base}/Lets_party_like_its_1793.jpg[height=600]
 
 [[panama-papers]]
-==== Panama papers 巴拿马文件 (2016)
+==== Panama papers (巴拿马文件, 2016)
 
 https://en.wikipedia.org/wiki/Panama_Papers | https://zh.wikipedia.org/wiki/巴拿馬文件
 
@@ -6993,8 +7029,6 @@ image::{china-dictatorship-media-base}/996ICU.png[height=400]
 === News 2017
 
 * 2017-12 https://www.nytimes.com/2017/12/25/world/asia/china-wu-gan-sentence.html
-* 2017-11 低端人口 Low-end population
-** https://qz.com/1138395/low-end-population-what-you-need-to-know-about-chinas-crackdown-on-migrant-workers/
 * 2017-11 https://www.reddit.com/r/China/comments/7a7hf9/the_worlds_largest_academic_publisher_blocks/ Springer nature pulls sensitive articles. TODO article list.
 * 2017-09 https://www.nytimes.com/2017/09/25/business/china-whatsapp-blocked.html
 * 2017-08 https://www.independent.co.uk/news/world/asia/china-muslim-minority-school-language-ban-han-xinjiang-uyghur-hotan-hetian-government-communist-a7873446.html
@@ -7008,6 +7042,11 @@ image::{china-dictatorship-media-base}/996ICU.png[height=400]
 * 2017-05 https://ktar.com/story/1564381/ap-exclusive-china-lawyers-family-says-us-helped-them-flee
 * 2017-04 https://chinachange.org/2017/05/03/breaking-lawyer-chen-jiangang-with-family-and-two-friends-seized-by-armed-police-in-yunnan/
 * 2017-03 https://www.bbc.co.uk/news/world-asia-china-39137293 "China congress: BBC team forced to sign confession"
+
+[[low-end-population]]
+==== Low-end population (低端人口, 2017)
+
+* https://qz.com/1138395/low-end-population-what-you-need-to-know-about-chinas-crackdown-on-migrant-workers/
 
 === News 2016
 
@@ -7682,6 +7721,9 @@ News coverage:
 
 * 2020-09-24 arrested: https://hongkongfp.com/2020/09/24/breaking-hong-kong-activist-joshua-wong-arrested-on-suspicion-of-participating-in-an-unauthorised-assembly/
 
+https://www.youtube.com/watch?v=kMl1jDjptDk Lessons in Dissent: How One Hong Kong Schoolboy Started A Revolution by Journeyman Pictures (2019)
+video::kMl1jDjptDk[youtube,height=400,width=600]
+
 [[agnes-chow]]
 ==== Agnes Chow (周庭)
 
@@ -7778,6 +7820,10 @@ Links:
 
 * https://en.wikipedia.org/wiki/China_Central_Television
 * https://zh.wikipedia.org/wiki/中国中央电视台
+
+Reports:
+
+* 2011 https://www.bbc.co.uk/news/world-asia-pacific-12321492 "China TV 'substitutes Top Gun for air force footage'"
 
 [[cgtn]]
 ====== China Global Television Network (CGTN, 中国环球电视网, CCP media)
@@ -8778,7 +8824,9 @@ See also:
 * https://github.com/gfwlist/gfwlist/issues/1141 "Add categories tags to each entry"
 
 [[censorship-circumvention]]
-===== Censorship circumvention 翻墙
+===== Censorship circumvention (翻墙)
+
+Lists:
 
 * https://en.wikipedia.org/wiki/Lantern_(software)
 ** https://github.com/getlantern/lantern on <<github>>
@@ -8786,6 +8834,10 @@ See also:
 * https://www.bypasscensorship.org
 
 It is interesting to note how <<falun-gong>> is a good source of censorship-circumvention material, see e.g.: <<github-gov-takedowns>>.
+
+Projects:
+
+* https://github.com/Loyalsoldier/v2ray-rules-dat | https://github.com/v2ray/v2ray-core
 
 [[icp-license]]
 ===== ICP license 非经营性网站备案 (2000)
