@@ -3636,6 +3636,22 @@ Boycott those:
 
 === Chinese Interference in the Western education systems
 
+Related about university interference:
+
+* 2020-12-05 https://www.reuters.com/article/idUSKBN28F05U "U.S. ends exchange programs with China, calling them 'propaganda'". Only five of the programs were terminated:
+** Policymakers Educational China Trip Program
+** U.S.-China Friendship Program
+** U.S.-China Leadership Exchange Program
+** U.S.-China Transpacific Exchange Program
+** Hong Kong Educational and Cultural Program
+* 2020-06-17 https://asia.nikkei.com/Business/Technology/US-blacklists-China-s-MIT-as-tech-war-enters-new-phase Harbin Institute of Technology denied MATLAB support for being in the entity list, apparenty since may: https://www.commerce.gov/news/press-releases/2020/05/commerce-department-add-two-dozen-chinese-companies-ties-wmd-and
+* 2020-05-28 https://www.thetimes.co.uk/article/motion-backing-hong-kong-blocked-after-campaign-by-chinese-students-at-warwick-fsdfphr26 "Motion backing Hong Kong blocked after campaign by Chinese students at Warwick". The article mentions that "Just under 1,000 students voted in favour of the motion. Turnout was three times higher than other votes and officials said that it was a new record for participation."
+* 2020-08 https://www.theage.com.au/politics/federal/craven-cowardice-unsw-condemned-for-deleting-posts-critical-of-beijing-20200803-p55hy5.html "'Craven cowardice': UNSW condemned for deleting posts critical of Beijing" University of New South Wales
+* 2020-05 Drew Pavlou 柏乐志
+** https://en.wikipedia.org/wiki/University_of_Queensland[University of Queensland], Australia, was trying to get rid of him for anti-CCP campaign
+** https://www.theguardian.com/australia-news/2020/may/24/how-a-20-year-old-student-put-the-spotlight-on-australian-universities-cosy-relationship-with-china
+** https://www.youtube.com/watch?v=_o1sZefER0E <<china-uncensored,China Unscripted>> interview
+
 [[confucius-institute]]
 ==== Confucius institute (孔子学院)
 
@@ -3646,16 +3662,6 @@ News and reports:
 
 * 2019-09 https://www.bbc.co.uk/news/world-asia-china-49511231 (https://web.archive.org/web/20191013185933/https://www.bbc.co.uk/news/world-asia-china-49511231[archive]) "Confucius Institutes: The growth of China's controversial cultural branch"
 * 2019-01 https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/11/u-s-universities-have-shut-down-confucius-institutes-heres-what-you-need-to-know/ (https://web.archive.org/web/20190616134959/https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/11/u-s-universities-have-shut-down-confucius-institutes-heres-what-you-need-to-know/[archive]) "Why U.S. universities are shutting down China-funded Confucius Institutes"
-
-Related about university interference:
-
-* 2020-06-17 https://asia.nikkei.com/Business/Technology/US-blacklists-China-s-MIT-as-tech-war-enters-new-phase Harbin Institute of Technology denied MATLAB support for being in the entity list, apparenty since may: https://www.commerce.gov/news/press-releases/2020/05/commerce-department-add-two-dozen-chinese-companies-ties-wmd-and
-* 2020-05-28 https://www.thetimes.co.uk/article/motion-backing-hong-kong-blocked-after-campaign-by-chinese-students-at-warwick-fsdfphr26 "Motion backing Hong Kong blocked after campaign by Chinese students at Warwick". The article mentions that "Just under 1,000 students voted in favour of the motion. Turnout was three times higher than other votes and officials said that it was a new record for participation."
-* 2020-08 https://www.theage.com.au/politics/federal/craven-cowardice-unsw-condemned-for-deleting-posts-critical-of-beijing-20200803-p55hy5.html "'Craven cowardice': UNSW condemned for deleting posts critical of Beijing" University of New South Wales
-* 2020-05 Drew Pavlou 柏乐志
-** https://en.wikipedia.org/wiki/University_of_Queensland[University of Queensland], Australia, was trying to get rid of him for anti-CCP campaign
-** https://www.theguardian.com/australia-news/2020/may/24/how-a-20-year-old-student-put-the-spotlight-on-australian-universities-cosy-relationship-with-china
-** https://www.youtube.com/watch?v=_o1sZefER0E <<china-uncensored,China Unscripted>> interview
 
 ==== University espionage
 
@@ -6925,6 +6931,9 @@ Even <<pro-chinese-government-media,kknews>> confirms: https://kknews.cc/zh-my/n
 .A high tower of https://en.wikipedia.org/wiki/Wax_gourd[winter gourds] "冬瓜上高楼" propaganda poster for the Great Leap Forward by https://chineseposters.net/artists/jinmeisheng.php[Jin Meisheng] published in 1959. <<western-democracies-are-not-perfect,Even in democracies>>, politicians promise the fat gourds. But when there is <<censorship,no free media to control their>> lies, things can get really out of hand. http://www.iisg.nl/exhibitions/chairman/chn11.php[Source].
 image::{china-dictatorship-media-base}/Winter_gourd.jpg[height=600]
 
+.Communist Children Catch Pokemon: the true meaning of https://en.wikipedia.org/wiki/Soviet_Union[CCCP]. Edited from the original poster with a <<little-red-book>> instead of Pokeball and no "CCCP" shown at <<https://www.pinterest.fr/pin/360428776411504491/ By Volaran Cadires. https://www.pinterest.fr/pin/405253666454984678/[Source].
+image::{china-dictatorship-media-base}/Communist_children_catch_pokemon.jpg[height=600]
+
 [[cultural-revolution]]
 ==== Cultural Revolution 文化大革命 (1966-1976)
 
@@ -8279,9 +8288,59 @@ A Swedish University town called "Falun", with the same "Falun" Chinese characte
 Known primarily for its mine, which was one of the oldest operating companies in the world: https://en.wikipedia.org/wiki/Falun_Mine
 
 [[art]]
-== Art 艺术
+== Art (艺术)
 
 * https://www.yuumeiart.com/fisheye-placebo-chapters Fisheye Placebo by Wenqing Yan. Webcomic that talks a lot about climbing the xref:censorship[great wall]. Artist obviously pro-democracy: https://twitter.com/Yuumei_Art/status/1174394851179167744
+
+=== Dictatorships are bad for the arts
+
+Ermm, fear of going to jail for not kissing up to dictators well enough? Part of <<censorship>>.
+
+.https://youtu.be/MCxzMYVvHBg?t=227 Shostakovich - How to Compose Music Despite [ R E D A C T E D ] by Tantacrul (2019) highlights how the famous Russian composer https://en.wikipedia.org/wiki/Dmitri_Shostakovich[Dimitri Shostakovich] had to continually work around the <<russia,Soviet Union>>'s censorship in his compositions.
+video::MCxzMYVvHBg[youtube,height=400,width=600,start=227]
+
+[[porn]]
+==== Pornography ban (色情禁令)
+
+This will be the fall of China:
+
+* https://en.wikipedia.org/wiki/Pornography_in_China
+* https://www.quora.com/Why-is-pornography-banned-in-China
+
+And yet, every single Chinese teenager knows very well the meaning of "AV": Adult Video, the term https://en.wikipedia.org/wiki/Chronology_of_adult_videos_in_Japan[originating notably from Japan] (the Chinese really), which is one of the most common ways of referring to vide pornography.
+
+Curious, right?
+
+The <<nineteen-eighty-four>> quote "The sex instinct will be eradicated." comes to mind, see that section for fuller context.
+
+Some news coverage:
+
+* 2020 during <<corona>>, while https://www.pornhub.com/press/show?id=1951[Pornhub was offering free premium subscriptions], China was cracking down on porn harder than usual
+** https://foreignpolicy.com/2020/03/06/internet-sex-coronavirus-no-porn-for-chinese-stuck-under-virus-lockdown/ FP report
+** (<<chinese-government-media,biased>>) http://www.xinhuanet.com/english/2019-12/25/c_138657340.htm "China intensifies crackdown on pornography, illegal publications"
+* 2018-01-15 https://www.bbc.co.uk/news/world-asia-china-42640569 "Sora Aoi: Japan's porn star who taught a Chinese generation about sex. When Japanese actress and former porn star Sora Aoi announced her marriage online, it set off a frenzy on Chinese social media."
+* 2017-06-17 https://qz.com/1001366/how-the-chinese-watch-porn-on-chinas-censored-internet/ "Watching porn on China's censored internet is an infinitely evolving cat-and-mouse game"
+
+[[intercourse]]
+.Human https://en.wikipedia.org/wiki/Human_penis[penis] (https://zh.wikipedia.org/wiki/人類陰莖[陰莖]) penetrating a human <<vagina,vagina>> while wearing a condom during https://en.wikipedia.org/wiki/Sexual_intercourse[human sexual intercourse] (https://zh.wikipedia.org/wiki/性交[性交]), showing the https://en.wikipedia.org/wiki/The_birds_and_the_bees[naturally occuring bees] that automatically appear during the event to obscure the view and prevent <<github>> from taking down this page. This is also basically what all porn looks like (sometimes without the bees), and it is very, very boring to watch. https://commons.wikimedia.org/wiki/File:Coitus20092.JPG[Background source] and https://commons.wikimedia.org/wiki/File:Delivery_Bee.png[bee source].
+image::{cirosantilli-media-base}/Coitus_with_bees.jpg[height=400]
+
+[[jin-ping-mei]]
+.Ming-era dynasty illustration of a scene from the novel https://en.wikipedia.org/wiki/Jin_Ping_Mei[Jin Ping Mei] (https://zh.wikipedia.org/wiki/金瓶梅[金瓶梅]) where Qing Ximen (西門) and Golden Lotus (潘金蓮) are engaging in foreplay in a <<yuyuan-garden,beautiful ancient Chinese house>>. For an old depiction of homosexual male sexual activity, see: <<qing-gay-scroll,this image>>. https://en.wikipedia.org/wiki/File:金瓶梅格子门插图2.JPG[Source].
+image::{china-dictatorship-media-base}/Jin_ping_mei.jpg[height=600]
+
+[[tattoo]]
+==== Tattoo television ban 刺青电视禁令 (2018)
+
+https://www.forbes.com/sites/augustrick/2018/03/27/china-just-banned-tattoos-on-its-soccer-players-and-it-could-cost-them/#1ff82fa07db2 notably shows soccer players covering up their tattoos. <<hao-haidong>> must have loved this!
+
+And more generally, anything "cringey" was also banned from television in 2018-2019 https://www.nytimes.com/2019/03/27/business/china-war-on-fun-earrings-tattoos.html[]:
+
+____
+Men's earrings aren't the only objectionable material that China's censors are blurring, covering up or cutting out. Soccer players wear long sleeves to cover their tattoos. Women in costumes at a racy video game convention have been told to raise their necklines. Rappers can rhyme only about peace and harmony.
+____
+
+No wonder that China basically unable to produce a lot of worthwhile art with such restrictions.
 
 [[books]]
 == Books 书籍
@@ -8394,6 +8453,7 @@ Related:
 
 * <<hate-speech>>
 * <<os-problemas-da-imprensa-livre>>
+* <<dictatorships-are-bad-for-the-arts>>
 
 .https://en.wikipedia.org/wiki/Eric_Drooker[Eric Drooker]'s "Censorship" (TODO year) has become one of the most recognizable censorship symbols as of 2020. https://www.drooker.com/illustrations[Source].
 image::{china-dictatorship-media-base}/Eric_Drooker_censorship.jpg[height=400]
@@ -8867,49 +8927,6 @@ In 2014, almost 15 years later, <<russia>> finally caught up, what a relief: <<r
 * https://www.rfa.org/english/news/china/ban-08282017112633.html
 * https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/
 * https://advox.globalvoices.org/2017/08/27/china-to-ban-anonymous-online-comments-blacklist-users/
-
-[[porn]]
-===== Pornography ban 色情禁令
-
-This will be the fall of China:
-
-* https://en.wikipedia.org/wiki/Pornography_in_China
-* https://www.quora.com/Why-is-pornography-banned-in-China
-
-And yet, every single Chinese teenager knows very well the meaning of "AV": Adult Video, the term https://en.wikipedia.org/wiki/Chronology_of_adult_videos_in_Japan[originating notably from Japan] (the Chinese really), which is one of the most common ways of referring to vide pornography.
-
-Curious, right?
-
-The <<nineteen-eighty-four>> quote "The sex instinct will be eradicated." comes to mind, see that section for fuller context.
-
-Some news coverage:
-
-* 2020 during <<corona>>, while https://www.pornhub.com/press/show?id=1951[Pornhub was offering free premium subscriptions], China was cracking down on porn harder than usual
-** https://foreignpolicy.com/2020/03/06/internet-sex-coronavirus-no-porn-for-chinese-stuck-under-virus-lockdown/ FP report
-** (<<chinese-government-media,biased>>) http://www.xinhuanet.com/english/2019-12/25/c_138657340.htm "China intensifies crackdown on pornography, illegal publications"
-* 2018-01-15 https://www.bbc.co.uk/news/world-asia-china-42640569 "Sora Aoi: Japan's porn star who taught a Chinese generation about sex. When Japanese actress and former porn star Sora Aoi announced her marriage online, it set off a frenzy on Chinese social media."
-* 2017-06-17 https://qz.com/1001366/how-the-chinese-watch-porn-on-chinas-censored-internet/ "Watching porn on China's censored internet is an infinitely evolving cat-and-mouse game"
-
-[[intercourse]]
-.Human https://en.wikipedia.org/wiki/Human_penis[penis] (https://zh.wikipedia.org/wiki/人類陰莖[陰莖]) penetrating a human <<vagina,vagina>> while wearing a condom during https://en.wikipedia.org/wiki/Sexual_intercourse[human sexual intercourse] (https://zh.wikipedia.org/wiki/性交[性交]), showing the https://en.wikipedia.org/wiki/The_birds_and_the_bees[naturally occuring bees] that automatically appear during the event to obscure the view and prevent <<github>> from taking down this page. This is also basically what all porn looks like (sometimes without the bees), and it is very, very boring to watch. https://commons.wikimedia.org/wiki/File:Coitus20092.JPG[Background source] and https://commons.wikimedia.org/wiki/File:Delivery_Bee.png[bee source].
-image::{cirosantilli-media-base}/Coitus_with_bees.jpg[height=400]
-
-[[jin-ping-mei]]
-.Ming-era dynasty illustration of a scene from the novel https://en.wikipedia.org/wiki/Jin_Ping_Mei[Jin Ping Mei] (https://zh.wikipedia.org/wiki/金瓶梅[金瓶梅]) where Qing Ximen (西門) and Golden Lotus (潘金蓮) are engaging in foreplay in a <<yuyuan-garden,beautiful ancient Chinese house>>. For an old depiction of homosexual male sexual activity, see: <<qing-gay-scroll,this image>>. https://en.wikipedia.org/wiki/File:金瓶梅格子门插图2.JPG[Source].
-image::{china-dictatorship-media-base}/Jin_ping_mei.jpg[height=600]
-
-[[tattoo]]
-===== Tattoo television ban 刺青电视禁令 (2018)
-
-https://www.forbes.com/sites/augustrick/2018/03/27/china-just-banned-tattoos-on-its-soccer-players-and-it-could-cost-them/#1ff82fa07db2 notably shows soccer players covering up their tattoos. <<hao-haidong>> must have loved this!
-
-And more generally, anything "cringey" was also banned from television in 2018-2019 https://www.nytimes.com/2019/03/27/business/china-war-on-fun-earrings-tattoos.html[]:
-
-____
-Men's earrings aren't the only objectionable material that China's censors are blurring, covering up or cutting out. Soccer players wear long sleeves to cover their tattoos. Women in costumes at a racy video game convention have been told to raise their necklines. Rappers can rhyme only about peace and harmony.
-____
-
-No wonder that China basically unable to produce a lot of worthwhile art with such restrictions.
 
 [[ensi]]
 ===== TLS 1.3 ENSI
