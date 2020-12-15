@@ -288,6 +288,7 @@ but not both, since having both means that they will <<war,start WW3 and destroy
 Closely related/identical ideas are <<cute-cat-theory-of-digital-activism>> and <<collateral-freedom>>.
 
 Related attack: <<photobombing-like-attacks>>.
+
 [[harm-programmers]]
 ==== Does Ciro Santilli want to harm the Chinese programmers? 三西猴想要伤害中国程序员吗？
 
@@ -355,7 +356,7 @@ This type of attack is essentially an <<embargo>>.
 See also: <<photobombing-like-attacks>>.
 
 [[cute-cat-theory-of-digital-activism]]
-==== Cute cat theory of digital activism (可愛貓理論)
+==== Cute cat theory of digital activism (可爱猫理论)
 
 * https://en.wikipedia.org/wiki/Cute_cat_theory_of_digital_activism
 * https://zh.wikipedia.org/wiki/可愛貓理論
@@ -419,13 +420,13 @@ Finally, the political powers of each website decide what is allowed or not on t
 
 [[programthink-meant-to-be-used]]
 ____
-致“反对此项目的墙内程序员”
+致"反对此项目的墙内程序员"
 
-本项目上线第二天，就收获 363 个 star 兼 88 个 fork，甚至还挤进 GitHub 的“当日 Trending”——俺很荣幸，也很高兴有这么多人给俺捧场。
+本项目上线第二天，就收获 363 个 star 兼 88 个 fork，甚至还挤进 GitHub 的"当日 Trending"——俺很荣幸，也很高兴有这么多人给俺捧场。
 
 但是在本项目的 issue 列表中也看到好几个反对此项目的程序员（应该都来自墙内），他们担心这个项目导致 GitHub 被 GFW 封杀。
 
-这几年来，类似的言论俺已经看了不少。就好比强盗拿刀杀人，围观者不但没有谴责强盗，反而去谴责卖刀的店家——这就是传说中的“link:https://zh.wikipedia.org/wiki/斯德哥爾摩症候群[斯德哥尔摩综合症]”。
+这几年来，类似的言论俺已经看了不少。就好比强盗拿刀杀人，围观者不但没有谴责强盗，反而去谴责卖刀的店家——这就是传说中的"link:https://zh.wikipedia.org/wiki/斯德哥爾摩症候群[斯德哥尔摩综合症]"。
 
 有兴趣的同学，可以看俺之前的博文——《link:https://program-think.blogspot.com/2012/06/stockholm-syndrome.html[天朝民众的心理分析：斯德哥尔摩综合症]》
 ____
@@ -760,7 +761,7 @@ In Italy, Benito Mussolini sought to create a https://en.wikipedia.org/wiki/Ital
 ____
 * 1931 https://en.wikipedia.org/wiki/Japanese_invasion_of_Manchuria[1931 Japanese invasion of Manchuria], with one false flag event preceding it: https://en.wikipedia.org/wiki/Mukden_Incident[Mikden Incident].
 
-When China <<evil-west,calls the USA Imperialist>> (帝国主义), there is of course some truth to it, but it is also very ironic, because as https://youtu.be/GiVs05yq9-o?t=74[Lindybeige mentions], China is obviously the largest empire on Earth! Despite its <<xinjiang,uniformization>> efforts, China is highly diverse since it is obviously made up of a https://en.wikipedia.org/wiki/List_of_ethnic_groups_in_China[large stitched up carpet of nations that were conquered by a single empire]. E.g. <<xinjiang>> translates literally as "The New Frontier"!
+When China <<evil-west,calls the USA Imperialist>> (帝国主义), there is of course some truth to it, but it is also very ironic, because as https://youtu.be/GiVs05yq9-o?t=74[Lindybeige mentions], China is obviously the largest empire on Earth! Despite its <<xinjiang,uniformization>> efforts, China is highly diverse since it is obviously made up of a https://en.wikipedia.org/wiki/List_of_ethnic_groups_in_China[large stitched up carpet of nations that were conquered by a single empire]. E.g. <<xinjiang>> translates literally as "The New Frontier"! Not to mention obviously the Qin unification of the <<warring-states-period>>.
 
 ===== The United States has recently started several wars and killed millions!
 
@@ -1744,7 +1745,9 @@ More interesting case is: https://en.wikipedia.org/wiki/Knight_First_Amendment_I
 Related news:
 
 * YouTube
-** https://techcrunch.com/2020/11/24/youtube-suspends-and-demonetizes-one-america-news-network-over-covid-19-video/ "YouTube suspends and demonetizes One America News Network over COVID-19 video"
+** 2020-12-09 https://www.theverge.com/2020/12/9/22165355/youtube-biden-election-victory-misinformation-rules-remove-content-oan "YouTube will now remove videos disputing Joe Biden's election victory". 
+*** YouTube's announcement: https://blog.youtube/news-and-events/supporting-the-2020-us-election
+** 2020-11-24 https://techcrunch.com/2020/11/24/youtube-suspends-and-demonetizes-one-america-news-network-over-covid-19-video/ "YouTube suspends and demonetizes One America News Network over COVID-19 video"
 * Facebook
 ** 2020-11-10 https://techcrunch.com/2020/11/09/parler-app-store-facebook/ "'Free speech' social network Parler tops app store rankings following Biden's election win"
 * Twitter
@@ -2136,16 +2139,6 @@ and there is no useless crap like https://en.wikipedia.org/wiki/Grammatical_conj
 
 Ciro <<characters,hasn't tried to learn characters>> because <<chinese-characters-are-insane,too much effort>>, but he did learn some of the most common ones without trying.
 
-Yes, Chinese characters are:
-
-* beautiful
-* https://chinese.stackexchange.com/questions/2003/can-chinese-readers-scan-large-amounts-of-text-faster-more-accurately-than-their[maybe you can read faster]
-* https://en.wikipedia.org/wiki/Horizontal_and_vertical_writing_in_East_Asian_scripts[vertical text (纵排)] is awesome (but is it more efficient? https://www.zhihu.com/question/22104723[Zhihu], https://www.quora.com/Can-literate-Chinese-people-easily-read-vertical-writing[Quora]).
-* more historically stable, and you can still read/learn more or less quickly to read https://en.wikipedia.org/wiki/History_of_the_Chinese_language[texts written more than two thousand years ago]
-* single character emoticons like "https://en.wikipedia.org/wiki/Jiong[囧]", before the https://en.wikipedia.org/wiki/Emoticons_(Unicode_block)[Emoticons Unicode block]! Yes, when your language has a character so useless that it becomes an emoticon, maybe you should start to worry that something went wrong somewhere.
-
-but they just take too much time for any sane person adult to learn, it's harder than {cpp}!
-
 Ciro initially learnt from book that come with audio recordings in the first 6-months to 1 year in 2010, but that got impossibly boring afterward, so he later moved to just basically talking as much as possible non-important things to <<why-does-ciro-santilli-love-china-so-much,his wife in Chinese>>, and whenever he reaches one that he doesn't know that seems useful, he Plecos it up or just 怎么说 to his <<wife>> and then Pleco.
 
 It should also be mentioned that Ciro also feels that it would be better if all countries more officially adopted English as an international language that everyone should learn for reasons explained at: https://cirosantilli.com/#having-more-than-one-natural-language-is-bad-for-the-world
@@ -2159,9 +2152,19 @@ But they should have gone further and reduced it to pinyin like the Korean and V
 
 No foreign adult will every learn to read and write Chinese unless they are completely obsessed by the culture or need it as part of their jobs. And even then, they will avoid it at all costs, because life is just too short!
 
-<<ciro-santilli>> smirked when he came across the character "蒄" in Pleco, and the translation was: "meaning unknown (herb mentioned in old books)". Yes, at the word level, the same like exists in phonetic systems, but that it takes up a modern dictionary and Unicode slot is still funny.
-
 Japanese https://en.wikipedia.org/wiki/Furigana[furigana] also comes to mind. The characters are so insane that you need a well specified and widely used phonetic reading aid!
+
+Yes, ideograms are:
+
+* beautiful
+* https://chinese.stackexchange.com/questions/2003/can-chinese-readers-scan-large-amounts-of-text-faster-more-accurately-than-their[maybe you can read faster]
+* https://en.wikipedia.org/wiki/Horizontal_and_vertical_writing_in_East_Asian_scripts[vertical text (纵排)] is awesome (but is it more efficient? https://www.zhihu.com/question/22104723[Zhihu], https://www.quora.com/Can-literate-Chinese-people-easily-read-vertical-writing[Quora]).
+* more historically stable, and you can still read/learn more or less quickly to read https://en.wikipedia.org/wiki/History_of_the_Chinese_language[texts written more than two thousand years ago]
+* single character emoticons like "https://en.wikipedia.org/wiki/Jiong[囧]", before the https://en.wikipedia.org/wiki/Emoticons_(Unicode_block)[Emoticons Unicode block]! Yes, when your language has a character so useless that it becomes an emoticon, maybe you should start to worry that something went wrong somewhere.
+
+but they just take too much time for any sane person adult to learn, it's harder than {cpp}!
+
+<<ciro-santilli>> smirked when he came across the character "蒄" in Pleco, and the translation was: "meaning unknown (herb mentioned in old books)". Yes, at the word level, the same like exists in phonetic systems, but that it takes up a modern dictionary and Unicode slot is still funny.
 
 Posts that express similar ideas:
 
@@ -2528,6 +2531,15 @@ The US leads in coronavirus cases, but not pandemic response - sciencemag XD
 Beliefs of founder cultleader of Falun Gong from own lectures on official falundafa site https://redd.it/42wlvf
 ____
 
+====== r/russia
+
+Completely pro-Putin, e.g. removed https://www.reddit.com/r/russia/comments/kd21ck/cnnbellingcat_investigation_identifies_russian/ about <<the-poisoning-of-alexei-navalny-2020>>
+
+===== Telegram
+
+* https://t.me/anticcpbase
+* https://t.me/ccp_unmasked see also: <<knowlesys>>
+
 ==== Where can I find good words for a keyword attack?
 
 * List of blacklisted keywords in China
@@ -2810,6 +2822,9 @@ The keyword is <<rule-of-law>>: because of a few terrorists, every single Muslim
 
 Overview projects:
 
+* 2020-12-14 reports that Uyghurs are being forced to work on the cotton industry emmerge:
+** https://cgpolicy.org/briefs/coercive-labor-in-xinjiang-labor-transfer-and-the-mobilization-of-ethnic-minorities-to-pick-cotton/ "Coercive Labor in Xinjiang: Labor Transfer and the Mobilization of Ethnic Minorities to Pick Cotton"
+** https://www.bbc.co.uk/news/extra/nz0g306v8c/china-tainted-cotton "China's 'tainted' cotton"
 * https://xjdp.aspi.org.au/ The Xinjiang Data Project by the https://en.wikipedia.org/wiki/Australian_Strategic_Policy_Institute[Australian Strategic Policy Institute]
 +
 Also includes the <<uyghurs-for-sale>> report.
@@ -2818,7 +2833,7 @@ News:
 
 * 2020-10-28 <<global-times>> https://www.globaltimes.cn/content/1203861.shtml in response to https://en.wikipedia.org/wiki/Murder_of_Samuel_Paty[The Murder of Ssamuel Paty] clarifies that the best way to counter terrorism is preventive mass incarceration and brainwashing: "Eradicating extremism is a huge challenge of governance for all countries. China has proactively explored feasible ways in its Xinjiang governance and generated positive outcomes."
 * 2020-10-17 (paywall) https://www.economist.com/china/2020/10/17/how-xinjiangs-gulag-tears-families-apart "How Xinjiang's gulag tears families apart". "So many parents have been locked up that officials struggle to cope with the left-behind children"
-* 2020-09-19 https://www.scmp.com/news/china/politics/article/3101986/china-claims-vocational-training-given-nearly-13-million-people "Chinese authorities “indirectly” confirm the scale of the camps. China claims 1.3 million Xinjiang residents given 'vocational training' each year"
+* 2020-09-19 https://www.scmp.com/news/china/politics/article/3101986/china-claims-vocational-training-given-nearly-13-million-people "Chinese authorities "indirectly" confirm the scale of the camps. China claims 1.3 million Xinjiang residents given 'vocational training' each year"
 +
 The document: http://www.scio.gov.cn/zfbps/32832/Document/1687588/1687588.htm also quoted on <<peoples-daily>>: http://politics.people.com.cn/n1/2020/0918/c1001-31865875.html
 +
@@ -2946,7 +2961,7 @@ Analyses:
 
 Related:
 
-* 2020-11-23 "Uighur scholar arrested in Saudi Arabia at risk of deportation to China", "Activists and human rights advocates have raised concerns that Aimadoula Waili may be tortured in a ‘re-education’ camp if sent back to China"
+* 2020-11-23 "Uighur scholar arrested in Saudi Arabia at risk of deportation to China", "Activists and human rights advocates have raised concerns that Aimadoula Waili may be tortured in a ‘re-education' camp if sent back to China"
 * 2020-10-01 https://www.youtube.com/watch?v=M9CIZ9x3pIs "Uighurs in Exile: Arrested and deported back to China – BBC Newsnight", "Newsnight has found that Uighur people in the Middle East have been targeted by nations including Saudi Arabia"
 * 2020-07-11: https://www.nytimes.com/2020/07/11/world/asia/china-iran-trade-military-deal.html "Defying U.S., China and Iran Near Trade and Military Partnership"
 * 2018: vice-president https://en.wikipedia.org/wiki/Jusuf_Kalla[Jusuf Kalla] said "we don't want to intervene in the domestic affairs of another country": https://www.abc.net.au/news/2018-12-23/muslim-governments-stayed-silent-on-chinese-minority-uyghur/10630822
@@ -3327,6 +3342,7 @@ For university espionage in particular see: <<university-espionage>>.
 
 Some Chinese spy stories:
 
+* 2020-12-09 Christine Fang https://www.axios.com/china-spy-california-politicians-9d2dfb99-f839-4e00-8bd8-59dec0daf589.html "Exclusive: Suspected Chinese spy targeted California politicians". In 2015, she was fucking some politicians and infiltrating parties, but as suspicions arose, Beijing likely called her back.
 * 2020-09-21 Baimadajie Angwang
 ** https://www.cnbc.com/amp/2020/09/21/nypd-cop-charged-with-acting-as-china-agent.html "New York City police officer spied on fellow Tibetans for China, prosecutors charge"
 * 2019-01-15 Kevin Mallory
@@ -4210,7 +4226,7 @@ ____
 
 News:
 
-* 2020-11-10 https://www.theregister.com/2020/11/10/gitee_linux_foundation_china_mirror/ "China’s government-anointed Git operator says it will become a Linux Foundation mirror"
+* 2020-11-10 https://www.theregister.com/2020/11/10/gitee_linux_foundation_china_mirror/ "China's government-anointed Git operator says it will become a Linux Foundation mirror"
 * <<huawei>> open sourced is https://en.wikipedia.org/wiki/Harmony_OS[Harmony OS] "IoT operating system" in Gitee: https://openharmony.gitee.com/openharmony
 +
 The name of that OS is pure gold considering the Chinese origin, since "to harmonize" is often used as a way to say "to censor negative CCP information".
@@ -4614,7 +4630,7 @@ Other mirrors:
 
 No HTTPS?!?! Brains?!?!
 
-* https://g.histsci.org/
+* http://g.histsci.org/
 * http://o.poetpalace.org/
 
 Lists of mirrors:
@@ -4664,6 +4680,13 @@ video::tRr_1U9EvWI[youtube,width=600,height=400,start=556]
 * https://zh.wikipedia.org/wiki/全能神教會
 
 A persecuted Christian sect that believes that some Chinese woman is Jesus.
+
+=== Kaifeng Jews
+
+* https://en.wikipedia.org/wiki/Kaifeng_Jews#Recent_repression
+* https://zh.wikipedia.org/wiki/开封犹太人
+
+Even with such tiny community, the <<ccp>> is still trying to pretende they never existed.
 
 [[gay-rights]]
 === Gay rights LGBT权利
@@ -5007,6 +5030,10 @@ For more poisonings see: <<putin-sponsored-poisonings>>.
 
 The second one! The first one was in 2019, but this one is more serious, the German government said tests confirmed it unequivocally that it was Novichok, which was also recently used in <<skripal>>.
 
+* 2020-12-13 more news are coming:
+** https://www.bellingcat.com/news/uk-and-europe/2020/12/14/fsb-team-of-chemical-weapon-experts-implicated-in-alexey-navalny-novichok-poisoning/ indicates the names of 8 suspects. They had phone metadata for them including geolocation. How did they get that data???
+** https://www.dw.com/en/navalny-poisoning-russia-made-second-assassination-attempt-report/a-55921189 "Navalny poisoning: Russia made second assassination attempt - report". Says British intelligence told that to The Times, paywall https://www.thetimes.co.uk/article/revealed-kremlin-made-a-second-attempt-to-poison-alexei-navalny-in-botched-assassination-nh32x737j "Revealed: Kremlin made a second attempt to poison Alexei Navalny in botched assassination". TODO any further evidence? WTF they reveal to a paywall newspaper?
+** https://www.youtube.com/watch?v=smhi6jts97I Navalny's video accusing people who he belieaves poisoned him
 * 2020-10-18 https://www.cbsnews.com/news/alexey-navalny-poisoning-putin-russia-60-minutes-2020-10-18/ 60 Minutes interview, they flew over to Germany to interview him. He looks normal.
 * 2020-09-05 https://www.bbc.co.uk/news/world-us-canada-54039710 "Alexei Navalny: Trump refuses to condemn Russia over poisoning"
 +
@@ -5115,6 +5142,27 @@ https://en.wikipedia.org/wiki/Kazakhstan
 
 .https://www.youtube.com/watch?v=eB9O4PU5Nnk "How Much Do You Know About The Real Kazakhstan?" by Journeyman Pictures (2016) shows how Western leaders turn a blind eye to Kazakhstan's dictator at the time, https://en.wikipedia.org/wiki/Nursultan_Nazarbayev[Nursultan Nazarbayev], because they have oil and are willing to cooperate with the West on the war in Afghanistan. In 2019 he was replaced by https://en.wikipedia.org/wiki/Kassym-Jomart_Tokayev[Kassym-Jomart Tokayev], gotta learn more about the new one. Includes interviews with https://en.wikipedia.org/wiki/Pamela_L._Spratlen[Pamela L. Spratlen], an US diplomat, where she diplomatically refuses to say anything meaningful.
 video::eB9O4PU5Nnk[youtube,height=400,width=600]
+
+=== Dictatorships tend to work together
+
+Dictatorships naturally become allies.
+
+The thing a dictatorship is afraid more than anything is of its citizens, and therefore that they might be influenced by democracies to rebel against the oppression.
+
+For this reason, the world basically always tumbles into a dictatorship vs democracy global war.
+
+Also, since dictatorships don't need to convince their people of anything, they tend to make such alliances much faster.
+
+Of course, smaller countries sometimes forget that there is only one end to being allied to a dictatorship: domination.
+
+==== Anti-dictatorship alliances
+
+[[ipac]]
+===== Inter-Parliamentary Alliance on China (對華政策跨國議會聯盟, 2020)
+
+* https://ipac.global/
+* https://en.wikipedia.org/wiki/Inter-Parliamentary_Alliance_on_China
+* https://zh.wikipedia.org/wiki/對華政策跨國議會聯盟
 
 [[thailand]]
 == Thailand (泰国)
@@ -5852,7 +5900,7 @@ Then the devil took him to the holy city and had him stand on the highest point 
 
 "If you are the Son of God," he said, "throw yourself down. For it is written:
 
-“'He will command his angels concerning you,
+"'He will command his angels concerning you,
 
 and they will lift you up in their hands,
 
@@ -6058,7 +6106,7 @@ This has been one of the major anti-Falun Gong propaganda pieces by the CCP, and
 <<ciro-santilli>> believes that:
 
 * as usual from the pre-Internet age, we will never know the truth for sure, because China has <<censorship,no freedom of the press>>, and <<censorship-makes-no-one-trust-your-country,no one believes anything that the Chinese government says>>
-* it is possible that they were Falun Gong believers. What would expect from <<flg-important,banning a 70 million person religion?>>
+* it is possible that they were Falun Gong believers. What would expect from <<flg-important,banning a 70 million person religion>>?
 * it is very unlikely that they had approval or instructions from <<li-hongzhi>>. Li Hongzhi's literature maintains that suicide is very bad for you, e.g.: from 2003 <<flg-canon,canon>> https://falundafa.org/eng/eng/lectures/20030420L.html
 +
 ____
@@ -6072,7 +6120,38 @@ and from 1998 canon https://falundafa.org/eng/eng/lectures/19980329L.html
 ____
 Many people who are capable of cultivating get sucked into them, and some of them engage in suicide - it's a mess
 ____
-* maybe people should be allowed to choose how they want to die, see also: <<flg-medication>>
+* maybe people should be allowed to choose how they want to die, see also:
+** <<flg-medication>>
+** <<honour-suicides-in-chinese-history>>
+
+====== Honour suicides in Chinese history
+
+As https://en.wikipedia.org/w/index.php?title=Suicide_in_China&oldid=992138770#History[mentioned on Wikipedia], China has a long history of suicide for altruistic/moral/honour reasons in Confucian tradition, some of which are still celebrated to this day.
+
+The <<analects>> paragraph <<analects-translation-by-robert-eno-2015,15.9>> says:
+
+____
+The Master said, The gentleman who is resolute and ren does not seek to live on at the expense of ren, and there are times when he will sacrifice his life to complete ren.
+____
+
+<<mencius-book>> paragraph <<mencius-translation-by-robert-eno-2016,paragraph 6A.10>> says:
+
+____
+I love to eat fish; I also love to eat bear paws. If I can't have both, I will forego the fish and eat the bear paws. I love life; I also love right. If I can't have both, I will forego life and choose to do right. Life is truly something I love, it is just that there is something else I love more, and so I can't hold on to life by devious means. And death is truly something I hate, it is just that there is something I hate more than death, and so there are dangers I will not avoid.
+
+If a man loves nothing more than life, then won't he use whatever means are required to hold onto it? If a man hates nothing more than death, then won't he use whatever means are required to avoid danger? Yet there are things men won't do in order to avoid danger and live, and from this we know that there are things men love more than life and hate more than death. It is not just worthy men who have such feelings, all men have them; worthies are simply those who do not lose them.
+____
+
+Notable historical figures who committed suicides are are still celebrated to this day include:
+
+* https://en.wikipedia.org/wiki/Qu_Yuan[Qu Yuan] (https://zh.wikipedia.org/wiki/屈原[屈原], 340-278 BC), is celebrated in the <<dragon-boat-festival>>, the third most important festival in modern China.
++
+He committed suicide by drowning himself in the https://en.wikipedia.org/wiki/Miluo_River[Miluo River], modern Hubei Province, while holding a rock, after his country's (https://en.wikipedia.org/wiki/Chu_(state)[Chu] (https://zh.wikipedia.org/wiki/楚国[楚国])) capital was taken by the Qin enemies during the <<warring-states-period>>.
++
+He is a symbol of patriotism respected to this day.
+* https://en.wikipedia.org/wiki/Wu_Zixu[Wu Zixu] (https://zh.wikipedia.org/wiki/伍子胥[伍子胥], ???-484 BC)
+
+These sound exactly like examples that <<xi-dada>> would want his army to keep in mind: ultimate sacrifice for the motherland.
 
 [[flg-political]]
 === People from movement X are only in it for political power
@@ -6103,27 +6182,38 @@ video::ArfGyo6HQ_E[youtube,height=400,width=600,t=1175]
 [[flg-trump]]
 ==== Falun Gong supports Donald (Trump, 法轮功支持特朗普)
 
-<<ciro-santilli>> believes that the huge majoarity of Falun Gong believers strongly supports Trump.
+<<ciro-santilli>> believes without non-circumstantial evidence that the huge majority of Falun Gong believers strongly supports Trump.
 
 Like everything else concrete, it is not clear if Li Hongzhi has directly supported this or not.
 
 Ciro feels without proof however that it is very likely that he has given such directives to his top tenants, which then flows through the rest of the media.
 
-Trump has been vocal about China's threat, and correclty so in Ciro's opinion, and therefore is a much needed ally of the movement.
-
-For example, NBC News claims that the <<epoch-times>> has donated to Trump propaganda: $1.5 million https://www.nbcnews.com/tech/tech-news/trump-qanon-impending-judgment-day-behind-facebook-fueled-rise-epoch-n1044121
+Trump has been vocal about China's threat, and correctly so in Ciro's opinion, and therefore is a much needed ally of the Falun Gong movement.
 
 And they have always undoubtedly been very favorable to Trump in their news coverage.
 
 Of course, so long as those campaigns respect the laws of the country, they are free to do it and must not be interfered. As if other major American media didn't have political agendas: <<usa-based-media-bias>>.
 
-This is exactly the same, in fact, as <<flg-religion,Christian groups>>, which always gather behind "the right".
+This is exactly the same, in fact, as to how <<flg-religion,religious affiliation>> has a huge impact in how the average American votes: https://theconversation.com/how-strong-a-role-does-religion-play-in-us-elections-133224[].
 
 Trump's immigration policies have turned Asian Americans towards the democrat opposition however as of 2019: https://www.vox.com/policy-and-politics/2019/5/13/18308137/asian-american-voters-immigration-democrats-donald-trump
 
 One saving point of the republicans for Asians is the opposition to university quotas instance, which many Asians feel blocks their high performing kids from top schools for less deserving students. This is suggested for example at: https://www.theatlantic.com/politics/archive/2020/02/yang-asian-americans-affirmative-action/605917/ "Opposition to affirmative action was pulling Asians toward the GOP. Then Yang's campaign began to gather momentum."
 
-In 2020-11-08 https://www.epochtimes.com/gb/20/11/8/n12534746.htm the <<epoch-times>> published a poem by <<li-hongzhi>>, just after Trump was announced to lose the presidential elections, amidst claims of electoral fraud under investigation. The Epoch Times was one of the few newspapers at the time to give importance to those claims, e.g.: https://web.archive.org/web/20201107223813/https://www.theepochtimes.com/[], which mentions for example: "Why The Epoch Times Won't Call the Presidential Race Until All Challenges Are Resolved".
+Examples:
+
+* NBC News claims that the <<epoch-times>> has donated to Trump propaganda: $1.5 million https://www.nbcnews.com/tech/tech-news/trump-qanon-impending-judgment-day-behind-facebook-fueled-rise-epoch-n1044121
+* after the https://en.wikipedia.org/wiki/2020_United_States_presidential_election[2020 United States presidential election], <<falun-gong-media>> such as <<epoch-times>> was one of the very few medias to not immediately dismiss https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_United_States_presidential_election[Trump's accusations of electoral fraud], as baseless e.g. on 2020-12-12 https://web.archive.org/web/20201212014230/https://www.theepochtimes.com/ the front page read "Election outcome unclear amid legal challenges", at which point most had been shot down. And earlier their editorial had clarified https://web.archive.org/web/20201107223813/https://www.theepochtimes.com/[] "Why The Epoch Times Won't Call the Presidential Race Until All Challenges Are Resolved".
+** 2020-11-08 https://www.epochtimes.com/gb/20/11/8/n12534746.htm the <<epoch-times>> published a poem by <<li-hongzhi>> which Ciro believes has undertones of political support for Trump by, just after Trump was announced to have lost the presidential elections, amidst claims of electoral fraud under investigation.
++
+While Ciro agrees that reporting such events impartially is important and has merit, the fact that so few medias took the lawsuits seriously at all is still indicative of their strong Trump support.
++
+Ciro is also extremely opposed to censorship of such viewpoints, as done by YouTube, as mentioned at <<fake-news>>, when they started taking down any videos that upheld the electoral fraud viewpoint.
+* <<me-and-li-by-ben-hurley-2017>> says how after his conversion to Falun Gong:
++
+____
+My social beliefs had transformed from those typical of a left-leaning family to take on a very conservative hue. 
+____
 
 === Western media has exaggerated reports on FLG for propaganda reasons
 
@@ -6386,6 +6476,8 @@ It is also interesting to note how the Chinese government itself supported Falun
 [[freedom-with-a-capital-f]]
 .https://youtu.be/kIpaDW3RwtY?t=244 one random thing ex-KGB spy undercover in the USA Jack Barsky mentioned in this BuzzFeed Multiplayer interview stuck to his mind: "The one thing that you have here, that I believe cannot be found anywhere else in the world is called Freedom, with a capital F". If people want to die in a certain way, or believe that some bullshit will cure them, they should be allowed. Natural selection will take care of the rest.
 video::kIpaDW3RwtY[youtube,height=400,width=600,start=244]
+
+See also: <<honour-suicides-in-chinese-history>>.
 
 ===== Falun Gong's view of epidemics
 
@@ -6651,6 +6743,12 @@ Interesting quotes:
 
 * <<me-and-li-tumor>>
 
+The following echoes "Different levels of truth" from <<orange-papers>>:
+
+____
+Most would find they had little in common with non-practitioners (“ordinary people” in Falun Gong parlance) but would maintain cordial relations with friends and family nonetheless, and think of various ways to explain the edge off some of Falun Gong’s less palatable teachings about aliens, how heaven views gay people, the inferiority of other religions and Master Li’s role in saving the universe.
+____
+
 [[history-of-falun-gong]]
 ==== History of Falun Gong 法轮功历史
 
@@ -6793,7 +6891,7 @@ What does dada mean: https://www.quora.com/Why-is-Xí-Jìnpíng-called-Xí-Dàd�
 
 Some other sources:
 
-* 2015-03-08 https://cn.nytimes.com/china/20150308/c08xi/ "“习大大”再次燃起中国人的领袖崇拜之情" (Xi Dada reignties Chinese Leader's cult once again)
+* 2015-03-08 https://cn.nytimes.com/china/20150308/c08xi/ ""习大大"再次燃起中国人的领袖崇拜之情" (Xi Dada reignties Chinese Leader's cult once again)
 
 .Golden heart shaped souvenir with a picture of Xi Jinping that was sold in <<tiananmen,Tiananmen Square>> in 2018. https://www.telegraph.co.uk/news/2018/02/26/endowing-role-endless-rule-shows-xis-imperial-ambitions/[Source].
 image::{china-dictatorship-media-base}/Xi_Jinping_heart.jpeg[height=400]
@@ -7557,7 +7655,7 @@ Nuked as per Ciro's eyewitness on 2020-06-06 without web archive, but could be f
 * https://www.zhihu.com/question/23416213 如何评价孙继海、郝海东、范志毅 ？ https://webcache.googleusercontent.com/search?q=cache:SEWC3OjJEYoJ:https://www.zhihu.com/question/23416213&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://www.zhihu.com/question/23939434 如果巅峰期的郝海东有机会去欧洲五大联赛踢球会取得什么样的成就？ https://webcache.googleusercontent.com/search?q=cache:OFjOxog6jiwJ:https://www.zhihu.com/question/23939434&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://www.zhihu.com/question/27060872 巅峰时期的范志毅、郝海东、李铁、李玮锋、孙继海、郑智 放到现在的中国足球应该出于什么水平？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/27060872&client=ubuntu&hs=fvU&strip=1&vwsrc=0
-* https://www.zhihu.com/question/29833583 如何评价郝海东认为“英国人不会踢球”？ https://webcache.googleusercontent.com/search?q=cache:jk7qxGW7v64J:https://www.zhihu.com/question/29833583&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
+* https://www.zhihu.com/question/29833583 如何评价郝海东认为"英国人不会踢球"？ https://webcache.googleusercontent.com/search?q=cache:jk7qxGW7v64J:https://www.zhihu.com/question/29833583&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://www.zhihu.com/question/34155456 如何评价郝海东？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/34155456&client=ubuntu&hs=0bp&strip=1&vwsrc=0
 * https://www.zhihu.com/question/47528985 郝海东是亚洲第一前锋吗？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/47528985&client=ubuntu&hs=IxU&strip=1&vwsrc=0
 * https://www.zhihu.com/question/51867870 我同学说郝海东不如孙兴民 我该如何说服他？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/51867870&client=ubuntu&hs=MJ&strip=1&vwsrc=0
@@ -7570,9 +7668,9 @@ Nuked as per Ciro's eyewitness on 2020-06-06 without web archive, but could be f
 * https://www.zhihu.com/question/384834709 武磊的水平能超过郝海东吗？ https://webcache.googleusercontent.com/search?q=cache:FXIkLaGzyQoJ:https://www.zhihu.com/question/384834709&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://www.zhihu.com/question/394366737 怎样看待最近郝海东微博频繁开炮怼人？ https://webcache.googleusercontent.com/search?q=cache:_LbOGbsGFQkJ:https://www.zhihu.com/question/394366737&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://www.zhihu.com/question/394503875 为什么有些人黑郝海东？ https://webcache.googleusercontent.com/search?q=cache:GcqkvJGKCJYJ:https://www.zhihu.com/question/394503875&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
-* https://www.zhihu.com/question/395225037 如何看待郝海东说的：“智慧是天生的”？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/395225037&client=ubuntu&hs=i2U&strip=1&vwsrc=0
+* https://www.zhihu.com/question/395225037 如何看待郝海东说的："智慧是天生的"？ https://webcache.googleusercontent.com/search?q=cache:https://www.zhihu.com/question/395225037&client=ubuntu&hs=i2U&strip=1&vwsrc=0
 * https://zhuanlan.zhihu.com/p/128537416 C罗粉丝不好惹？郝海东深夜发文教粉丝独立思考，见证历史转折点 https://webcache.googleusercontent.com/search?q=cache:https://zhuanlan.zhihu.com/p/128537416&client=ubuntu&hs=bip&strip=1&vwsrc=0
-* https://zhuanlan.zhihu.com/p/134027258 【球星故事】郝海东为何被称为“郝大炮”？ https://webcache.googleusercontent.com/search?q=cache:zPBVhvs9SsUJ:https://zhuanlan.zhihu.com/p/134027258&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
+* https://zhuanlan.zhihu.com/p/134027258 【球星故事】郝海东为何被称为"郝大炮"？ https://webcache.googleusercontent.com/search?q=cache:zPBVhvs9SsUJ:https://zhuanlan.zhihu.com/p/134027258&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://zhuanlan.zhihu.com/p/138465029 郝海东争议言论登热搜，媒体人：他逐步从大炮变成公知网红 https://webcache.googleusercontent.com/search?q=cache:z7STI_34eocJ:https://zhuanlan.zhihu.com/p/138465029&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 * https://zhuanlan.zhihu.com/p/141049893 郝海东被网友群嘲的五大原因 https://webcache.googleusercontent.com/search?q=cache:pEppZJ8K8VIJ:https://zhuanlan.zhihu.com/p/141049893&strip=1&vwsrc=0
 * https://zhuanlan.zhihu.com/p/145740098 塞超主帅：郝润泽不像郝海东，他更擅长于防守 And here is an archive from 2020-06-06 saying that the article was being modified to meet some guidelines: "文章被建议修改：违反知乎社区管理规定 作者修改内容通过后，文章会重新显示。" https://web.archive.org/web/20200606122827/https://zhuanlan.zhihu.com/p/145740098
@@ -7938,9 +8036,13 @@ Ciro has no proof that this is linked to the government, but it is very likely, 
 
 A great example of how <<falun-gong>> is <<flg-organized,highly organized>>.
 
-Likely highly controlled by <<li-hongzhi>>, and extremely lacking clear full disclosure of their affiliation, see also: "Front groups" at <<orange-papers>>.
+Likely highly de-facto controlled by <<li-hongzhi>>, and extremely lacking clear full disclosure of their affiliation, see also: "Front groups" at <<orange-papers>>.
 
-It could be argued that those media are not "directly" controlled by Li Hongzhi, and possibly were created independently of him initially, but without doubt they are controlled by his devout followers, and if Li Hongzhi ever gave directions, which Ciro has no proof he has ever done, then those media would follow.
+It could be argued that those media are not "directly" controlled by Li Hongzhi, and Ciro does believe that they were created independently of him initially.
+
+But without doubt they are controlled by his devout followers, and if Li Hongzhi ever gave directions, which Ciro has no proof he has ever done, then those media would follow.
+
+Ciro believes without evidence that Li Hongzhi gives specific directives to the top tenants of those organizations from time to time when important issues arise. Ciro believes that one of such issues is the support of Donald Trump: <<flg-trump>>.
 
 Furthermore, Li appears to directly cite some of the main media in Canon or talk at their conferences as Canon.
 
@@ -7957,6 +8059,7 @@ One thing must be said in their favour however: they are incorruptible in their 
 * https://hongzhi.li/ nice https://en.wikipedia.org/wiki/Domain_hack[domain hack]
 * https://www.qi-gong.me/
 * http://www.zhengjian.org/
+* https://www.huaglad.com/ 澳洲新闻 Australian news website, links to <<epoch-times>> on footer: https://web.archive.org/web/20201101122433/https://www.huaglad.com/
 
 [[epoch-times]]
 ===== The Epoch Times (明慧网, Falun Gong media)
@@ -8343,7 +8446,7 @@ ____
 No wonder that China basically unable to produce a lot of worthwhile art with such restrictions.
 
 [[books]]
-== Books 书籍
+== Books (书籍)
 
 * https://en.wikipedia.org/wiki/Book_censorship_in_China
 * https://zh.wikipedia.org/wiki/中华人民共和国出版物审查制度
@@ -8443,6 +8546,86 @@ The Savage took it. "The Holy Bible, containing the Old and New Testaments" he r
 "But if you know about God, why don't you tell them?"
 ____
 
+=== Classical Chinese Books
+
+[[analects]]
+==== Analects (论语, c. 475-200 BC)
+
+* https://en.wikipedia.org/wiki/Analects
+* https://zh.wikipedia.org/wiki/论语
+
+Made of 20 books, with each paragraph numbered. So e.g. 15.9 means "Boodk 15, paragraph 9".
+
+===== Analects translation by Robert Eno (2015)
+
+https://chinatxt.sitehost.iu.edu/Analects_of_Confucius_(Eno-2015).pdf
+
+Includes commentary.
+
+License: non-commercial only.
+
+[[mencius-book]]
+==== Mencius (book, 孟子 (书), c. 300 BC)
+
+* link:++https://en.wikipedia.org/wiki/Mencius_(book)++
+* https://zh.wikipedia.org/wiki/孟子_(書)
+
+===== Mencius translation by Robert Eno (2016)
+
+https://scholarworks.iu.edu/dspace/bitstream/handle/2022/23421/Mengzi.pdf
+
+Includes commentary.
+
+License: non-commercial only.
+
+[[ccp]]
+== Chinese Communist Party (CCP, 中国共产党, 1949-)
+
+* https://en.wikipedia.org/wiki/Chinese_Communist_Party
+* https://zh.wikipedia.org/wiki/中国共产党
+
+=== CCP Shanghai member data leak (2020)
+
+Public news: 2020-12-13. Date of extraction: 2016.
+
+https://www.dailymail.co.uk/news/article-9046783/Leaked-files-expose-mass-infiltration-UK-firms-Chinese-Communist-Party.html
+
+____
+After authenticating the material, with the help of data security analysts Internet 2.0, IPAC passed the database to four media organisations around the world, including The Mail on Sunday.
+
+Security sources believe the initial data leak came from a dissident who targeted an outwardly unremarkable office block in Shanghai which housed the records.
+
+Despite the near certainty of being executed for treason if caught, he or she probably accessed it via a server before downloading it on to a laptop and releasing it on Telegram where it was found by <<ipac,IPAC>>.
+
+The database was originally leaked on Telegram, the encrypted instant messaging app, and passed in September by a Chinese dissident to the Inter-Parliamentary Alliance on China (IPAC), which comprises more than 150 legislators around the world who are concerned by the influence and activities of the Chinese government.
+____
+
+https://www.skynews.com.au/details/_6215946537001
+
+____
+Ms Markson [a journalist from The Daily Telegraph] said the data was extracted from a Shanghai server by Chinese dissidents, whistleblowers, in April 2016, who have been using it for counter-intelligence purposes. 
+____
+
+This had likely been mentioned by <<epoch-times>> on 2020-08-19 with a half censored and out of focus Microfot Excel screenshot: https://www.epochtimes.com/gb/20/8/18/n12340991.htm translation:
+
+____
+On the same day, the news that the personal information of 1.95 million party members in Shanghai had been leaked was suddenly widely discussed in major overseas forums. Many comments pointed out that the relevant list appeared to be authentic.
+
+Epoch Times reporters downloaded two Excel files containing information about CCP members of Shanghai governments, institutions, and enterprises according to the relevant links.
+
+This list appeared on the Internet as early as a month ago. On July 21, a person named "Chief Referee" (总裁判) broke the news on Overseas Chinese Network (海外中文网爆料) that "the register of all party members in Shanghai was leaked."
+____
+
+http://z1.d0ea258blal.pw/pw/simple/index.php?t4922065.html has a link to https://mega.nz/folder/hJIGhCra#EUmGEZ7RDbcvTncWCPb03w which is down, but has a web archive https://archive.vn/euhjl[] with filenames:
+
+* 上海市黃俄黨黨員信息集合第一部分.xlsx
+* 上海市黃俄黨黨員信息集合第二部分.xlsx
+
+<<ciro-santilli>> was able to find convincing downloads with the following SHAs:
+
+* SHA384 (上海市黃俄黨黨員信息集合第一部分.xlsx) = cb4108956d74f46ef39a5ae0e7039e365e79a1c45d44a0e589fb5b5272b0c8a760a3440f0551f233dba9a07d28589062
+* SHA384 (上海市黃俄黨黨員信息集合第二部分.xlsx) = 9bf5c1b42177993a0aa05c193ba28e8a08e69b965d8d5f6f04111f5a3f9aa05fca7818d7459a5605515b55de7aca7763
+
 [[policies]]
 == Policies (政策)
 
@@ -8505,6 +8688,8 @@ Do you not think that this translates well to the modern version:
 ____
 Where they have deleted online posts, they will end in deleting human beings.
 ____
+
+The https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars[Burning of books and burying of scholars] (https://zh.wikipedia.org/wiki/焚书坑儒[焚书坑儒], 212 BC) also comes to mind.
 
 It is actually easier for the USA to manipulate a dictatorship than a democracy, because then all you have to do is buy/blackmail a few key corrupt politicians instead of manipulating millions of people's feeds.
 
@@ -9227,8 +9412,15 @@ Coverage:
 +
 video::Dkw15LkZ_Kw[youtube,height=400,width=600]
 
+=== Chinese foreign interference campaigns
+
+See also:
+
+* <<chinese-interference-in-western-media>>
+* <<chinese-interference-in-the-western-education-systems>>
+
 [[belt-and-road-initiative]]
-=== Belt and Road Initiative 一带一路
+==== Belt and Road Initiative (一带一路)
 
 * https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 * https://zh.wikipedia.org/wiki/一带一路
@@ -9319,7 +9511,7 @@ That's how the censors refer to stuff <<censorship,censored>> for political reas
 
 See also:
 
-* 知乎的“政治敏感”，到底是谁的“政治敏感”呢？ (Zhihu's "politically sensitive" is "politically sensitive" to whom?)
+* 知乎的"政治敏感"，到底是谁的"政治敏感"呢？ (Zhihu's "politically sensitive" is "politically sensitive" to whom?)
 * https://jikipedia.com/definition/145472014 "政治敏感"
 * http://www.hainmc.edu.cn/news/info/1018/1870.htm "习近平三招教你培养政治敏感性、预见性" (Xi Jinping's three methods teach you to <<flg-cult,cultivate>> political sensitivity and predictability).
 +
@@ -9405,8 +9597,16 @@ On 2020-11-20, Dahua DMCAed https://github.com/cirosantilli/epps-service at http
 
 === Knowlesys
 
-.Slide from a presentation of the Knowlesys Hong Kong social media censorship/misinformation company with words "Social Media as Weapons", "Your Enemy", leaked by the CCP_Unmasked hacker group on 2020/08/20. The leaks also contained data on  Yunrun Big Data Service, a company based in Guangzhou, and OneSight, based in Beijing. From this hack they apparently also managed obtained passwords used by those companies to manage CCP social media, and they posted some messages about their efforst through those accounts. Western countries have also used terrorism as an excuse way to reduce privacy/start wars, but of course, things are much worse in dictatorships where there is no freedom of speech, related <<evil-west>>. https://www.vice.com/en_in/article/dyzewz/hackers-leak-alleged-internal-files-of-chinese-social-media-monitoring-firmscv[Source].
+.Slide from a presentation of the Knowlesys Hong Kong social media censorship/misinformation company with words "Social Media as Weapons", "Your Enemy", leaked by the CCP_Unmasked hacker group on 2020/08/20, possible <<telegram>> account: https://t.me/ccp_unmasked[]. The leaks also contained data on  Yunrun Big Data Service, a company based in Guangzhou, and OneSight, based in Beijing. From this hack they apparently also managed obtained passwords used by those companies to manage CCP social media, and they posted some messages about their efforst through those accounts. Western countries have also used terrorism as an excuse way to reduce privacy/start wars, but of course, things are much worse in dictatorships where there is no freedom of speech, related <<evil-west>>. https://www.vice.com/en_in/article/dyzewz/hackers-leak-alleged-internal-files-of-chinese-social-media-monitoring-firmscv[Source].
 image::{china-dictatorship-media-base}/Social_Media_as_Weapons.webp[height=400]
+
+[[zhenhua-data-leak]]
+=== Zhenhua Data leak (深圳振华数据信息技术有限公司, 2020)
+
+* https://en.wikipedia.org/wiki/Zhenhua_Data_leak
+* https://zh.wikipedia.org/wiki/深圳振华数据信息技术有限公司
+
+https://www.theguardian.com/world/2020/sep/14/zhenhua-data-full-list-leak-database-personal-details-millions-china-tech-company
 
 [[backlinks]]
 == Backlinks to this page (连接到这个网页的网页)
@@ -9680,8 +9880,29 @@ The most important publisher, AKA "CRC Jianian".
 
 One thing to try is an Amazon advanced search by label "China Record Co": https://www.amazon.com/s?i=digital-music&rh=p_33%3AChina+Record+Co&s=relevancerank&Adv-Srch-MP3-Submit.x=42&Adv-Srch-MP3-Submit.y=4&unfiltered=1&ref=sr_adv_m_digital
 
+== Chinese festivals
+
+[[dragon-boat-festival]]
+=== Dragon Boat Festival (端午节)
+
+* https://en.wikipedia.org/wiki/Dragon_Boat_Festival
+* https://zh.wikipedia.org/wiki/端午节
+
+The third most important festival in China, after the Chinese New Year and Mid-Autumn Festival.
+
+== Chinese history
+
+[[spring-and-autumn-period]]
+=== Spring and Autumn period (春秋时代, 771-476 BC)
+
+[[warring-states-period]]
+=== Warring States period (战国时期, 475-221)
+
+* https://en.wikipedia.org/wiki/Warring_States_period
+* https://zh.wikipedia.org/wiki/战国时期
+
 [[the-best-chinese-supermarket-food-products]]
-== The best Chinese supermarket food products 中国超市食物
+== The best Chinese supermarket food products (中国超市食物)
 
 For more daily needs, when you don't want to spend more money and time at a restaurant, here are a few nice things you can get from your local Chinese supermarket and quickly make something good to eat.
 
@@ -9733,7 +9954,10 @@ See also: <<xi-jinping-memes,習包子>>.
 [[zongzi]]
 === Zongzi 粽子 (zong4 zi)
 
-https://en.wikipedia.org/wiki/Zongzi | https://zh.wikipedia.org/wiki/粽
+* https://en.wikipedia.org/wiki/Zongzi
+* https://zh.wikipedia.org/wiki/粽
+
+Eaten during <<dragon-boat-festival>>, but can be bought year round.
 
 Buy frozen. Pick the ones with meat and eggs!!! Boil.
 
@@ -10606,7 +10830,7 @@ Characters:
 [[匕]]
 ==== 匕 (bi3, spoon)
 
-Mnemonic: an ancient spoon, looks like this: https://read01.com/aAEn50x.html#.XnfZDN_niV4 "古人吃饭最早不用筷子，用的是“匕”，那“匕”是什么？
+Mnemonic: an ancient spoon, looks like this: https://read01.com/aAEn50x.html#.XnfZDN_niV4 "古人吃饭最早不用筷子，用的是"匕"，那"匕"是什么？
 
 [[表]]
 ==== 表 (biao3, watch [device])
@@ -12179,11 +12403,11 @@ Source: https://www.zhihu.com/question/35931336/answer/228278520 (https://web.ar
 Words: 目前该网站也和国内外很多大学的图书馆有合作，<<例如>>武汉大学、南京大学<<等等>>
 
 [[青铜兵器之殳简介]]
-==== 青铜兵器之“殳”简介 (qing1 tong2, An introduction to the bronze weapon "shu" (殳))
+==== 青铜兵器之"殳"简介 (qing1 tong2, An introduction to the bronze weapon "shu" (殳))
 
 Source: http://wenzhengwenhua.com/article-2023-1.html
 
-Words: <<青铜>>兵器<<之>>“殳”简介
+Words: <<青铜>>兵器<<之>>"殳"简介
 
 [[任何不能杀死你的都会使你更强大]]
 ==== 任何不能杀死你的，都会使你更强大 (ren4 he2, What doesn't kill me makes me stronger)
