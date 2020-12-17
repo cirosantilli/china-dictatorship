@@ -1148,6 +1148,10 @@ The theme is also mentioned in <<v-for-vendetta>>, where a <<corona,viral outbre
 
 Duplicate pool: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Aevil-west+
 
+Bibliography:
+
+* https://github.com/dessalines/essays/blob/master/us_atrocities.md
+
 [[henri-meyer]]
 .French political cartoon from 1898 by https://en.wikipedia.org/wiki/Henri_Meyer[Henri Meyer] showing leaders of Western powers, Russia and Japan splitting up China between them. The CCP would arguably <<not-chinese,not have raised to power if not due to Japanese interference>>. Maybe the West deserves the CCP they helped create. https://commons.wikimedia.org/wiki/File:China_imperialism_cartoon.jpg[Source].
 image::{china-dictatorship-media-base}/China_imperialism_cartoon.jpg[height=500]
@@ -6204,6 +6208,7 @@ Examples:
 
 * NBC News claims that the <<epoch-times>> has donated to Trump propaganda: $1.5 million https://www.nbcnews.com/tech/tech-news/trump-qanon-impending-judgment-day-behind-facebook-fueled-rise-epoch-n1044121
 * after the https://en.wikipedia.org/wiki/2020_United_States_presidential_election[2020 United States presidential election], <<falun-gong-media>> such as <<epoch-times>> was one of the very few medias to not immediately dismiss https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_United_States_presidential_election[Trump's accusations of electoral fraud], as baseless e.g. on 2020-12-12 https://web.archive.org/web/20201212014230/https://www.theepochtimes.com/ the front page read "Election outcome unclear amid legal challenges", at which point most had been shot down. And earlier their editorial had clarified https://web.archive.org/web/20201107223813/https://www.theepochtimes.com/[] "Why The Epoch Times Won't Call the Presidential Race Until All Challenges Are Resolved".
+** 2020-12-16 consider this sample <<ntdtv>> screenshot of the latest videos published at the time: https://archive.vn/Sxn8m[], where it can be seen that about 80-90% of the videos are supporting Trump's electoral fraud claims
 ** 2020-11-08 https://www.epochtimes.com/gb/20/11/8/n12534746.htm the <<epoch-times>> published a poem by <<li-hongzhi>> which Ciro believes has undertones of political support for Trump by, just after Trump was announced to have lost the presidential elections, amidst claims of electoral fraud under investigation.
 +
 While Ciro agrees that reporting such events impartially is important and has merit, the fact that so few medias took the lawsuits seriously at all is still indicative of their strong Trump support.
@@ -6324,7 +6329,7 @@ Many FLG practitioners claim that they are not at all organized, or that they ha
 
 But it is obvious from the size of the <<falun-gong-media>>, namely:
 
-* <<new-tang-dynasty-television>>
+* <<ntdtv>>
 * <<epoch-times>> newspaper
 * <<shen-yun>> dance troupe
 
@@ -6841,7 +6846,7 @@ See also: <<shitpost>>.
 [[xi-jinping-lookalikes]]
 ===== Xi Jinping Lookalikes 习近平撞脸
 
-.2019-05-21 https://en.wikipedia.org/wiki/Sadomasochism[Sadomasochist] https://en.wikipedia.org/wiki/BDSM[BDSM] (SM) Xi Jinping lookalike or photoshop in https://en.wikipedia.org/wiki/Bondage_suit[bondage suit] (gimp suit, fetish gear) at a cosplay fair. TODO: is this a Photoshop and if yes what's the original pic, publish dates, location/event. Earliest post found so far: 2019-05-21 08:49:20 GMT+1 (Imgur timestamp) going wild on <<ptt>>: https://www.ptt.cc/bbs/joke/M.1558454171.A.5C9.html[] entitled "這位coser是誰啊？好眼熟。" (Who is this Cosplayer? He looks familiar.) by user "a15568". Watermark reads "I am Dasen 郭"
+.2019-05-21 https://en.wikipedia.org/wiki/Sadomasochism[Sadomasochist] https://en.wikipedia.org/wiki/BDSM[BDSM] (SM) Xi Jinping lookalike or photoshop in https://en.wikipedia.org/wiki/Bondage_suit[bondage suit] (gimp suit, fetish gear) at a cosplay fair. TODO: is this a Photoshop and if yes what's the original pic, publish dates, location/event. Earliest post found so far: 2019-05-21 08:49:20 GMT+1 (Imgur timestamp) going wild on <<ptt>>: https://www.ptt.cc/bbs/joke/M.1558454171.A.5C9.html[] entitled "這位coser是誰啊？好眼熟。" (Who is this Cosplayer? He looks familiar.) by user "a15568". Watermark reads "I am Dasen 郭". Notable discussion threads: https://www.reddit.com/r/China/comments/ckgs5l/xi_jinping_took_to_the_streets_to_demonstrate_his/[r/China 2019-08-01], https://www.reddit.com/r/China/comments/ke4hde/nice_pic_i_found/[r/China 2020-12-16], https://www.reddit.com/r/HongKong/comments/ckjf65/gee_i_am_sure_chairman_xi_will_really_appreciate/[2019-08-01]
 image::{china-dictatorship-media-base}/Xi_sadomasochist.jpg[height=500]
 
 .2020-01-01 https://en.wikipedia.org/wiki/Shengjian_mantou[Pan-fried dumpling] Xi Jinping lookalike 生煎包习近平撞脸. Furthermore, this reminded people of <<xi-jinping-memes,習包子>>. A <<taiwan,Taiwanese>> report from 2020-01-01: https://news.tvbs.com.tw/world/1257030 TODO name, location. One of the many videos of him: https://www.youtube.com/watch?v=hTt8Sjer6cc[]
@@ -8081,7 +8086,7 @@ Related:
 
 * https://www.epochweekly.com/
 
-[[new-tang-dynasty-television]]
+[[ntdtv]]
 ===== New Tang Dynasty Television (NTD, NTDTV, 新唐人電視台, Falun Gong media)
 
 * https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television
