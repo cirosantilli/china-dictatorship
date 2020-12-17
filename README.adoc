@@ -9278,7 +9278,13 @@ image::{china-dictatorship-media-base}/Wujiao.png[height=400]
 Above all, never reply intelligently to wumaos. Ignore all their notifications, and ignore their profile wherever possible. And if they start generating too many notifications, block them.
 
 * <<reply-policy>>
-* https://github.com/ckhung[C.K. Hung]'s wumao reply strategy: https://ckhung0.blogspot.com/2017/07/50-cents-party.html "為什麼我不刪五毛的回應反而要刪你的回應? 因為你只能跟人類講道理， 沒辦法跟原始物種講道理啊!" "Why I delete your posts, but I don't delete wumao's posts? Because it is only possible to reason with humans, it is not possible to reason with primitive animals!"
+* https://github.com/ckhung[C.K. Hung]'s wumao reply strategy: https://ckhung0.blogspot.com/2017/07/50-cents-party.html
++
+____
+為什麼我不刪五毛的回應反而要刪你的回應? 因為你只能跟人類講道理， 沒辦法跟原始物種講道理啊!
+
+Why I delete your posts, but I don't delete wumao's posts? Because it is only possible to reason with humans, it is not possible to reason with primitive animals!
+____
 * https://chinadigitaltimes.net/chinese/2019/08/【麻辣总局】新型敏感词武器：赵弹磁铁/
 
 [[ccp-apologists]]
