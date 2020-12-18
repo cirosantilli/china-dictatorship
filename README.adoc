@@ -4150,7 +4150,7 @@ Non-information but also interesting:
 * https://github.com/lurongkai/anti-baidu
 
 [[terminus2049]]
-====== Terminus2049 端点星计划
+====== Terminus2049 (端点星计划)
 
 * https://github.com/Terminus2049/Terminus2049.github.io
 * https://terminus2049.github.io/
@@ -4214,6 +4214,15 @@ Explores several sentitive topics through interesting timelines with many pictur
 * <<tiananmen>>: https://chinatimeline.github.io/tiananmen/
 * <<corona>>: https://chinatimeline.github.io/wuhan-coronavirus/
 * religious persecution, including <<falun-gong>>: https://chinatimeline.github.io/religion_tl1/
+
+====== duty-machine
+
+The anonymous user https://github.com/duty-machine has some automation setup such that anyone can request certain webpages to be copied on to GitHub anonymously through a separate website, notably:
+
+* https://github.com/duty-machine/duty-machine[]: big Chinese social media, e.g. Weibo, <<zhihu>>, Douban. Articles stored in issues.
+* https://github.com/duty-machine/news[]: big Western news websites like Reuters, BBC, etc. Articles stored in-tree.
+
+The project claims to have been inspired by <<terminus2049>>, but hopefully they will have better operational security.
 
 ===== Gitee
 
@@ -6846,7 +6855,7 @@ See also: <<shitpost>>.
 [[xi-jinping-lookalikes]]
 ===== Xi Jinping Lookalikes 习近平撞脸
 
-.2019-05-21 https://en.wikipedia.org/wiki/Sadomasochism[Sadomasochist] https://en.wikipedia.org/wiki/BDSM[BDSM] (SM) Xi Jinping lookalike or photoshop in https://en.wikipedia.org/wiki/Bondage_suit[bondage suit] (gimp suit, fetish gear) at a cosplay fair. TODO: is this a Photoshop and if yes what's the original pic, publish dates, location/event. Earliest post found so far: 2019-05-21 08:49:20 GMT+1 (Imgur timestamp) going wild on <<ptt>>: https://www.ptt.cc/bbs/joke/M.1558454171.A.5C9.html[] entitled "這位coser是誰啊？好眼熟。" (Who is this Cosplayer? He looks familiar.) by user "a15568". Watermark reads "I am Dasen 郭". Notable discussion threads: https://www.reddit.com/r/China/comments/ckgs5l/xi_jinping_took_to_the_streets_to_demonstrate_his/[r/China 2019-08-01], https://www.reddit.com/r/China/comments/ke4hde/nice_pic_i_found/[r/China 2020-12-16], https://www.reddit.com/r/HongKong/comments/ckjf65/gee_i_am_sure_chairman_xi_will_really_appreciate/[2019-08-01]
+.2019-05-21 https://en.wikipedia.org/wiki/Sadomasochism[Sadomasochist] https://en.wikipedia.org/wiki/BDSM[BDSM] (SM) Xi Jinping lookalike or photoshop in https://en.wikipedia.org/wiki/Bondage_suit[bondage suit] (gimp suit, fetish gear) at a cosplay fair. TODO: is this a Photoshop and if yes what's the original pic, publish dates, location/event. <<ciro-santilli>> googled a lot for it, but it's beyond his skills :-( Earliest post found so far: 2019-05-21 08:49:20 GMT+1 (Imgur timestamp) going wild on <<ptt>>: https://www.ptt.cc/bbs/joke/M.1558454171.A.5C9.html[] entitled "這位coser是誰啊？好眼熟。" (Who is this Cosplayer? He looks familiar.) by user "a15568". Watermark reads "I am Dasen 郭", where "郭" is https://en.wikipedia.org/wiki/Guo[a common Chinese surname]. Notable discussion threads: https://www.reddit.com/r/China/comments/ckgs5l/xi_jinping_took_to_the_streets_to_demonstrate_his/[r/China 2019-08-01], https://www.reddit.com/r/China/comments/ke4hde/nice_pic_i_found/[r/China 2020-12-16], https://www.reddit.com/r/HongKong/comments/ckjf65/gee_i_am_sure_chairman_xi_will_really_appreciate/[2019-08-01]
 image::{china-dictatorship-media-base}/Xi_sadomasochist.jpg[height=500]
 
 .2020-01-01 https://en.wikipedia.org/wiki/Shengjian_mantou[Pan-fried dumpling] Xi Jinping lookalike 生煎包习近平撞脸. Furthermore, this reminded people of <<xi-jinping-memes,習包子>>. A <<taiwan,Taiwanese>> report from 2020-01-01: https://news.tvbs.com.tw/world/1257030 TODO name, location. One of the many videos of him: https://www.youtube.com/watch?v=hTt8Sjer6cc[]
@@ -8382,6 +8391,14 @@ Not China only like <<rebel-pepper>>, but does have some good China ones.
 
 Has a more artistic red-black-white-yellow style.
 
+[[matsuyama-miyabi]]
+==== Matsuyama Miyabi (松山雅)
+
+Does he have anything besides the sexy BDSM gag ball 和諧/阿中哥哥 girl from February 2020 <<corona,COVID19>> time?
+
+* https://www.reddit.com/r/translator/comments/f08s9o/unknown_english_can_anyone_translate_the_words_on/
+* https://supchina.com/2020/02/14/a-third-of-china-remains-on-at-least-partial-lockdown-from-covid-19/
+
 [[falun-sweden]]
 === Falun, Sweden 法轮，瑞典
 
@@ -8630,6 +8647,8 @@ http://z1.d0ea258blal.pw/pw/simple/index.php?t4922065.html has a link to https:/
 
 * SHA384 (上海市黃俄黨黨員信息集合第一部分.xlsx) = cb4108956d74f46ef39a5ae0e7039e365e79a1c45d44a0e589fb5b5272b0c8a760a3440f0551f233dba9a07d28589062
 * SHA384 (上海市黃俄黨黨員信息集合第二部分.xlsx) = 9bf5c1b42177993a0aa05c193ba28e8a08e69b965d8d5f6f04111f5a3f9aa05fca7818d7459a5605515b55de7aca7763
+
+An upload was apparently available at: https://gitlab.com/shanghai-ccp-member-db/shanghai-ccp-member-db but it got nuked soon after 2020-12-13 brought more visibility to it.
 
 [[policies]]
 == Policies (政策)
