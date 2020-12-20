@@ -616,6 +616,7 @@ video::LK1Pz8FmryM[youtube,height=400,width=600,start=132]
 
 News coverage:
 
+* 2020-12-20 https://www.propublica.org/article/leaked-documents-show-how-chinas-army-of-paid-internet-trolls-helped-censor-the-coronavirus "Leaked Documents Show How China’s Army of Paid Internet Trolls Helped Censor the Coronavirus" talks about <<wumao>> working during COVID
 * 2020-05-12: https://www.newsweek.com/exclusive-cia-believes-china-tried-stop-who-alarm-pandemic-1503565 CIA people said China stopped the WHO from sounding the alarm from January 24 to January 30, while at the same time stockpiling protection materials
 * <<caixin>> article about how early Coronavirus signs were censored:
 ** https://china.caixin.com/2020-03-10/101526309.html (https://web.archive.org/web/20200317111527/http://china.caixin.com/2020-03-10/101526309.html[archive]) "李文亮所在医院为何医护人员伤亡惨重？" (Why did Li Wenliang's [李文亮] hospital suffer heavy casualties?)
@@ -3410,6 +3411,18 @@ American company, with Chinese-born now American Citizen CEO https://en.wikipedi
 
 News:
 
+* 2020-12-18: China-based exec Xinjian Jin , AKA Julian Jin, charged with sabotaging Zoom conferences. TODO Chinese name
+** https://www.bbc.co.uk/news/world-us-canada-55372493 "US charges ex-Zoom employee with shutting down Tiananmen Square events"
++
+Zoom statement:
++
+____
+"We learned during the course of our investigation that the China-based former employee charged today violated Zoom's policies by, among other things, attempting to circumvent certain internal access controls," it said.
+
+It added that the employee "took actions resulting in the termination of several meetings in remembrance of Tiananmen Square and meetings involving religious and/or political activities" and "also shared or directed the sharing of a limited amount of individual user data with Chinese authorities".
+____
+** https://www.fbi.gov/wanted/counterintelligence/xinjiang-jin
+** (possible uncofirmed linkedin) https://www.linkedin.com/in/julien-jin-953615175/[]: Zhejiang University, (ex?) CISCO Webex. Work start date of 1981 could be birth date to enlarge work experience, and that would reach the correct age of 39.
 * 2020-06-10 <<zhou-fengsuo>>'s account as blocked after a celebration of <<tiananmen>>, which was attended by many people from China. The account was later reinstated, Zoom said it acted on a CCP request on error, and it won't do this for users outside of China anymore:
 ** https://www.reuters.com/article/us-zoom-video-commn-privacy/zoom-says-china-demanded-shutting-activists-accounts-over-tiananmen-event-idUSKBN23I3GP "U.S. lawmakers ask Zoom to clarify China ties after it suspends accounts"
 ** https://www.axios.com/zoom-closes-chinese-user-account-tiananmen-square-f218fed1-69af-4bdd-aac4-7eaf67f34084.html "Zoom closed account of U.S.-based Chinese activist 'to comply with local law'".
@@ -8987,7 +9000,7 @@ Who is behind them:
 * https://techcrunch.com/2015/03/30/greatfire/ from 2015 says "Started in 2011 by three anonymous individuals", and "Charlie Smith" is the pseudonym of the CEO.
 
 [[wayback-machine]]
-====== Wayback Machine 网站时光机
+====== Wayback Machine (网站时光机)
 
 Their Wayback Machine tool archive snapshots of webpages and allows youto browse the history of all archives:
 
@@ -9026,9 +9039,40 @@ Like <<wayback-machine>> by unknown shady individuals, so less trustworthy.
 
 CrunchBase claims without source New York based: https://webapps.stackexchange.com/questions/145817/on-which-country-are-the-creators-and-servers-of-archive-today-archive-is-base
 
-does not care about robots.txt, so it sometimes works where Wayback Machine fails, so its better than nothing when it does. E.g. it is a good option for <<quora>>.
+Does not care about robots.txt, so it sometimes works where Wayback Machine fails, so its better than nothing when it does. E.g. it is a good option for <<quora>>.
 
 And no, you can't Wayback Machine archive an archive.is, they blocked the domain.
+
+Has specific LinkedIn handling as it has a logged scrape account, e.g.: https://archive.vn/EPaEH[]. TODO find account URL.
+
+Google photo matches exactly this "Masha Rabinovich" https://www.linkedin.com/in/masha-rabinovich-52aa3a197/[], or is just some image of a well known person? Account marked as "Bachelor of Engineering" at the Humboldt University of Berlin.
+
+The same photo seems to be used for all fetches: https://archive.vn/IPEEd[].
+
+Googling name leads to an YouTube account whose only video is https://www.youtube.com/watch?v=G1bp1VxMwP4 | https://archive.vn/9Xq6w "How to make an archive.is link with selection hashtag", so yes, the relation is almost certain.
+
+https://www.northkoreatech.org/2016/09/21/north-koreas-dns-files-reveal-internet-websites/ has an archive.is related comment by an user of the same name Masha Rabinovich: September 22, 2016 at 17:55 "There are some more websites in .kp: http://archive.is/*.kp"
+
+In 2008 they had some interest in compilers: https://lists.gnu.org/archive/html/tinycc-devel/2008-11/msg00015.html The obvious gmail email can be obtained from there. The only hit is in this creepy email list: https://api.intelx.io/file/read?type=1&systemid=989faa9e-46a1-440f-87fa-2a98b616c66d&k=7b256c65-6ebf-4bb8-a301-070bce8dec01
+
+Removing the space leads to more matches:
+
+* 2012-08: https://community.f-secure.com/en/discussion/14768/what-is-the-evidence-of-harmful-behaviour#M3733 a "masharabinovich" claims the website:
++
+____
+Your website http://browsingprotection.f-secure.com/swp/result?x=5Jg2kWKC8d86b4F-H5cdoS8dyu04vtzGtEXhQL6COLIX0k4wrv-N*w shows that someone in your company "found evidence of harmful behaviour" on my website http://archive.is/
+____
+* https://en.wikipedia.org/w/index.php?title=User_talk%3AMasharabinovich shows 2012 attempts by Masha to automate wikipedia arching of dead links with archive.is.  Later in 2016 archive** in 2016 archive.is is was blacklisted entirely: http://wikipediocracy.com/forum/viewtopic.php?t=7578
+** possibly in 2018, Wikipedia widely adopted automatic <<wayback-machine>> usage on all external links: http://blog.archive.org/2018/10/01/more-than-9-million-broken-links-on-wikipedia-are-now-rescued/
+
+Wikipedia suggests that the name Masha Rabinovich is likely of Russian Ashkenazi Jewish origin:
+
+- https://en.wikipedia.org/wiki/Masha
+- https://en.wikipedia.org/wiki/Rabinovich
+
+so if the LinkedIn information is real, maybe they just went to study in Germany, or their ancestors migrated there.
+
+The name in Cyrillic would be "Маша рабинович", but we couldn't find any information of interest by searching for that.
 
 [[google-cache]]
 ====== Google Cache
