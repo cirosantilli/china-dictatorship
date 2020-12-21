@@ -616,7 +616,7 @@ video::LK1Pz8FmryM[youtube,height=400,width=600,start=132]
 
 News coverage:
 
-* 2020-12-20 https://www.propublica.org/article/leaked-documents-show-how-chinas-army-of-paid-internet-trolls-helped-censor-the-coronavirus "Leaked Documents Show How China’s Army of Paid Internet Trolls Helped Censor the Coronavirus" talks about <<wumao>> working during COVID
+* 2020-12-20 https://www.propublica.org/article/leaked-documents-show-how-chinas-army-of-paid-internet-trolls-helped-censor-the-coronavirus "Leaked Documents Show How China's Army of Paid Internet Trolls Helped Censor the Coronavirus" talks about <<wumao>> working during COVID
 * 2020-05-12: https://www.newsweek.com/exclusive-cia-believes-china-tried-stop-who-alarm-pandemic-1503565 CIA people said China stopped the WHO from sounding the alarm from January 24 to January 30, while at the same time stockpiling protection materials
 * <<caixin>> article about how early Coronavirus signs were censored:
 ** https://china.caixin.com/2020-03-10/101526309.html (https://web.archive.org/web/20200317111527/http://china.caixin.com/2020-03-10/101526309.html[archive]) "李文亮所在医院为何医护人员伤亡惨重？" (Why did Li Wenliang's [李文亮] hospital suffer heavy casualties?)
@@ -5323,7 +5323,7 @@ Here are some things that he doesn't like about Falun Gong for example: <<things
 
 Ciro believes Falun Gong can be split into two parts, like any other <<flg-religion,religion>>:
 
-* the "self-help" "how to live well" part, including the physical exercises and meditation, which cannot be proven or disproven, like any other self-help and <<democracy-is-a-religion,political opinion>>
+* the "self-help" "how to live well" part, including the physical exercises and meditation, which cannot be proven or disproved, like any other self-help and <<democracy-is-a-religion,political opinion>>
 * the metaphysics, most notably, Li Hongzhi is a living God, and all other non verifiable things he claims like aliens, alternate dimensions, etc., see:
 ** <<flg-religion>>
 ** <<flg-verifiable>>
@@ -5464,7 +5464,8 @@ ____
 Archaeologists have found in the world a kind of organism called "three-leaves insect", which came into being between 600 million and 260 million years ago, and became extinct thereafter. An American scientist found a fossil of "three-leaves insect", on which there was also a human footprint, left by a shoe he was wearing, and clearly printed on the fossil. Aren't they joking with the historians? How could there possibly have been human beings 260 million years ago according to Darwin's theory of evolution?
 ____
 * xref:flg-medication[Maybe FLG will make you healthier, but no promises, but it will make you a better person, and that's why you should do it, but if you really really believe, you get healthier]. But people who seemed to be believers also die, because deep within their hearts, there was a belief problem.
-* <<is-chinese-politician-x-evil,the CCP is evil>>, not figuratively, but literally as in they are representatives of, or evil supernatural beings themselves. E.g. <<jiang-zemin>> is actually an evil frog in some alternate dimension, literally, not just memecally. The Chinese Government is literally responsible for creating <<corona,Covid-19>>. They give the CCP too much credit. The CCP are just a bunch of lazy and greedy people like you and me.
+* <<falun-g
+* <<falun-gong-believes-that-the-ccp-is-literally-a-manifestation-of-real-devils>>
 
 From this, it is obvious that Falun Gong is just a https://en.wikipedia.org/wiki/New_Age[New Age] (link:https://zh.wikipedia.org/wiki/新纪元运动[新纪元运动]) https://en.wikipedia.org/wiki/Syncretism[syncretic] religion combining https://en.wikipedia.org/wiki/Qigong[Qigong], https://en.wikipedia.org/wiki/Buddhism[Buddhism], some aspects of <<christianity>>, and whatever other crazy things <<li-hongzhi>> believes in.
 
@@ -5493,6 +5494,30 @@ See also: "Different levels of truth" from <<orange-papers>>.
 
 See also: <<flg-daily>>.
 
+==== Falun Gong believes that the CCP is literally a manifestation of real devils
+
+Unlike <<ciro-santilli>> which does <<is-chinese-politician-x-evil,not think most CCP politicians are actually evil>>, Falun Gong seems to believe that they literally as in they are representatives of, or evil supernatural beings themselves.
+
+E.g. <<jiang-zemin>> is actually an evil frog in some alternate dimension, literally, not just memecally.
+
+And those devils they are literally responsible for example for creating <<corona,Covid-19>>, which is itself a magic force which tests the evil and good: <<falun-gongs-view-of-epidemics>>.
+
+And <<flg-trump,Trump>> likely represents a magical anti-devil force of the universe.
+
+Some of the most direct <<flg-canon,canon>> suggestions we could find: https://en.falundafa.org/eng/HongYin5.htm[]:
+
+____
+The Red Devil uses lies and money to meddle with man
+____
+
+https://en.falundafa.org/eng/articles/20060209A.html[]:
+
+____
+All along, lowlife secret agents of the wicked CCP have been constantly gathering so-called "Falun Gong intelligence."
+____
+
+Falun Gong gives the CCP too much credit. The CCP are just a bunch of lazy and greedy people like you and me.
+
 ==== Falun Gong preaching
 
 link:https://en.wikipedia.org/wiki/Open-air_preaching[Street preaching] is an important aspect of Falun Gong, using stands and leaflets on the streets much like https://en.wikipedia.org/wiki/Jehovah's_Witnesses[Jehovah's Witnesses].
@@ -5508,9 +5533,9 @@ Falun Gong has also used <<flg-telemarketing,phone call preaching>>.
 
 All of this is part of their effort to "save people (救人)", i.e. convert them to Falun Gong.
 
-<<li-hongzhi>> personally heavily emphasices the importance of preaching in <<flg-canon>>.
+<<li-hongzhi>> personally heavily emphasises the importance of preaching in <<flg-canon>>.
 
-.Falun Gong believers preaching on the street in London in 2016. This image taken from a believer website shows a typical local regular gathering of believers on weekends, or even week days if there are enough retired believers in the group. They will put on their exercise music, and do exercises to attract more followers. Someone will also stand on their stall giving out propaganda flyers, or asking people to sign petitions for Western governemnts to support Falun Gong, e.g. opposing their alledged <<flg-organ-harvesting,organ harvesting>>. In the case of touristic areas with Chinese people walking around, they will also ask the Chinese tourists to <<tuidang,quit the their CCP membership, possibly using a fake name>>. <<ciro-santilli>> has to say: it is very amuzing to see those Chinese pepole trying to pretend to ignore the censored religion, when some of them are clearly curious about it, especially the younger ones who didn't see it live. Some just get mad, and say how the CCP is so great to them. https://truthinchina.wordpress.com/2012/06/16/london-uk-practitioners-explain-the-facts-about-falun-gong-in-st-martins-place-photos/[Source].
+.Falun Gong believers preaching on the street in London in 2016. This image taken from a believer website shows a typical local regular gathering of believers on weekends, or even week days if there are enough retired believers in the group. They will put on their exercise music, and do exercises to attract more followers. Someone will also stand on their stall giving out propaganda flyers, or asking people to sign petitions for Western governments to support Falun Gong, e.g. opposing their alleged <<flg-organ-harvesting,organ harvesting>>. In the case of touristic areas with Chinese people walking around, they will also ask the Chinese tourists to <<tuidang,quit the their CCP membership, possibly using a fake name>>. <<ciro-santilli>> has to say: it is very amusing to see those Chinese people trying to pretend to ignore the censored religion, when some of them are clearly curious about it, especially the younger ones who didn't see it live. Some just get mad, and say how the CCP is so great to them. https://truthinchina.wordpress.com/2012/06/16/london-uk-practitioners-explain-the-facts-about-falun-gong-in-st-martins-place-photos/[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_street_preaching_2016_London.jpg[height=400]
 
 [[flg-telemarketing]]
@@ -6190,17 +6215,41 @@ The only advantage of <<richer,democracy>>, is that those representatives have t
 
 Falun Gong believers obviously have the right to do politics, just like any other person, and Ciro greatly encourages this.
 
-But Ciro does not like that Falun Gong tends to not call itself a political force, when it clearly is. But full disclosure is not a legal obligation, and many many media outlets don't really disclose their obvious political connections. See also: <<flg-organized>>.
+But Ciro does not like that Falun Gong tends to not call itself a political force, when it clearly is. But full disclosure is not a legal obligation, and many many media outlets don't really disclose their obvious political connections. See also: <<flg-transparent>>.
 
 Falun Gong directly contacts Government officials, http://www.clearharmony.net/articles/a25124-European-Falun-Gong-Practitioners-held-an-Anti-torture-Exhibition-during-the-European-Union-Meeting-in-France.html#.XyHSa2OYWV4[demonstrates in front of government buildings] and <<flg-trump,supports Trump>>, how can that not be politics?!?! Just call it for what it is, and no one will be able to criticize you for it!
 
 <<li-hongzhi>> directly says that FLG should not be involved in politics in <<flg-canon>>, e.g. https://falundafa.org/eng/eng/jjyz52.htm[]:
 
 ____
-Never get involved in politics, nor interfere with state affairs.
+Never get involved in politics, nor interfere with state affairs’.
 ____
 
-But at the same, he also greatly encourages <<falun-gong-media>>, which obviously a political influence method.
+But at the same, he also greatly encourages <<falun-gong-media>>, which obviously a political influence method. As usual, everything in Falun Gong is explained in an indirect roundabout way.
+
+Other related canon mentions https://en.minghui.org/html/articles/2003/3/21/33575.html "Explaining the Fa During the 2003 Lantern Festival at the U.S. West Fa Conference":
+
+____
+Question: When elections were held in our district, there were people who went to help a few congressional candidates that supported Dafa. But some people thought we shouldn't get ourselves involved in politics, and that we shouldn't rely on ordinary people to do things for Dafa. Is that understanding correct?
+
+Teacher: It's correct in principle, but for this specific matter you should look at it this way. If you say Dafa disciples can't get involved in ordinary society's politics, I wouldn't say that's 100% correct. What I told you was that Dafa doesn't get involved in politics. And a lot of our Dafa disciples work in politics, that's their job. So if there's a government election, should you take part in it? If you take part in it and cast your vote, well then you've gotten involved in politics. A Dafa disciple cultivating in the ordinary society means that you try your best to cultivate while conforming to the ordinary society, and then there won't be a problem. You, too, are a member of the ordinary society. And the existence of the ordinary society is necessary for Dafa, for the cosmos, and for sentient beings. We can only help maintain it and can't disrupt it. When you're supposed to vote, just go vote, that's not a problem. If you say that a certain Congressman is your personal friend, and you'd like to help him do something, then of course there might be things that involve elections and you'd be doing volunteer work—that doesn't matter. But our Dafa as a whole doesn't get involved in politics, and we can't do anything political in the name of Dafa. For Dafa disciples, validating the Fa should be the priority, though.
+
+The last time there was an election in Taiwan, I had a veteran practitioner call the person in charge of the Taiwan Dafa Association and make it clear to the public that Dafa Associations take no stance on elections. If an individual practitioner wants to support someone, that's his personal business and it doesn't represent Dafa. There were Dafa disciples supporting both of the parties. The Falun Dafa Association has no political opinion regarding any party's election, and it doesn't get involved. As individual practitioners you can support whoever you'd like. That's how it works.
+____
+
+The last paragraph is really great, as it indicates how Li's communication works. His top tenants are known, and their word is as good as the master's.
+
+https://en.falundafa.org/eng/lectures/20040412L.html[] also has some good quotes:
+
+____
+Question: During Taiwan's presidential election, some students' human attachments got stirred up. Was it a test arranged by the old forces? What's the right way for us to handle this?
+
+Teacher: Even if the sky were to fall, a cultivator's righteous thoughts would stay unshaken--that is cultivation, and that is remarkable. (Applause) A cultivator is not attached to anything in this world. Dafa disciples' cultivation takes a different form today. In cultivation you do your best out in the world to conform to ordinary society, you have normal jobs in ordinary society, and you have your families, jobs, and all that--you are closely tied to society. With the Taiwan election, some students thought a certain person was pretty good and so they wanted to vote for him, while others thought a different person was pretty good and wanted to vote for that one. People have their own, different views, and there's nothing wrong with that. A person's own actions out in society don't represent Dafa. But you can't be attached to those things the way ordinary people are.
+
+Whoever you vote for, I can't, as your Master, say that you're wrong, nor do I get involved in those things. That's because the path I ask you to take has you cultivate in ordinary society. Cultivators can only benefit a society. You cultivate in ordinary society but you don't steer human society in one direction or another.
+
+So for each student, it's fine for you to vote as an individual for whomever you want. It's just that you can't be too attached. But through the persecution against Dafa disciples in Mainland China, Dafa disciples have seen through something, and so some are thinking, "Whoever is close to the evil that's persecuting us, I won't vote for him." (Applause) And as your Master I have no objection to that either. (Audience laughs, applauds) Those are the students' own thoughts, and as your Master I haven't told you who to vote for. Still less will I tell you to take any group action, and that's not allowed. (Audience laughs)
+____
 
 .https://youtu.be/ArfGyo6HQ_E?t=1175 Ciro really liked what https://www.holycross.edu/academics/programs/religious-studies/faculty/mathew-schmalz[Doctor Matthew N. Schmalz] said on this VICE documentary about https://en.wikipedia.org/wiki/Hyung_Jin_Moon[Hyung Jin Moon]'s and his https://en.wikipedia.org/wiki/Unification_movement[Unification movement] ("the Moonies" split-off religion. "I think that any new religion needs a constituency. And especially for a group that is new, that is relatively small, making connections with other groups that might have similar commitments is something that can be quite productive if you are a leader of a new religion". As long as everyone plays the democracy game through democracy rules, peace tends to be maintained, and it is easier for multiple different beliefs to coexist. Falun Gong has obviously gone in this political direction, and that is a positive sign about the religion.
 video::ArfGyo6HQ_E[youtube,height=400,width=600,t=1175]
@@ -6230,8 +6279,20 @@ Examples:
 
 * NBC News claims that the <<epoch-times>> has donated to Trump propaganda: $1.5 million https://www.nbcnews.com/tech/tech-news/trump-qanon-impending-judgment-day-behind-facebook-fueled-rise-epoch-n1044121
 * after the https://en.wikipedia.org/wiki/2020_United_States_presidential_election[2020 United States presidential election], <<falun-gong-media>> such as <<epoch-times>> was one of the very few medias to not immediately dismiss https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_United_States_presidential_election[Trump's accusations of electoral fraud], as baseless e.g. on 2020-12-12 https://web.archive.org/web/20201212014230/https://www.theepochtimes.com/ the front page read "Election outcome unclear amid legal challenges", at which point most had been shot down. And earlier their editorial had clarified https://web.archive.org/web/20201107223813/https://www.theepochtimes.com/[] "Why The Epoch Times Won't Call the Presidential Race Until All Challenges Are Resolved".
-** 2020-12-16 consider this sample <<ntdtv>> screenshot of the latest videos published at the time: https://archive.vn/Sxn8m[], where it can be seen that about 80-90% of the videos are supporting Trump's electoral fraud claims
-** 2020-11-08 https://www.epochtimes.com/gb/20/11/8/n12534746.htm the <<epoch-times>> published a poem by <<li-hongzhi>> which Ciro believes has undertones of political support for Trump by, just after Trump was announced to have lost the presidential elections, amidst claims of electoral fraud under investigation.
+** 2020-12-16 consider this sample <<ntdtv>> screenshot of the latest videos published at the time: https://archive.vn/Sxn8m[], where it can be seen that about 80-90% of the videos are supporting Trump's electoral fraud claims.
+** 2020-11-08 https://www.epochtimes.com/gb/20/11/8/n12534746.htm the <<epoch-times>> published a poem by <<li-hongzhi>> which Ciro believes has clear undertones of political support for Trump by, just after Trump was announced to have lost the presidential elections, amidst claims of electoral fraud under investigation. The official translation can be found in <<flg-canon>> https://en.falundafa.org/eng/articles/20201108A.html
++
+____
+On the General Election
+
+In this majestic universe, the communist devil is making trouble +
+Fraud and corruption are harming a great nation +
+All the machinations make people only more despondent +
+When will justice be upheld and our conscience restored? +
+
+Hongzhi Li +
+November 8, 2020
+____
 +
 While Ciro agrees that reporting such events impartially is important and has merit, the fact that so few medias took the lawsuits seriously at all is still indicative of their strong Trump support.
 +
@@ -6241,6 +6302,21 @@ Ciro is also extremely opposed to censorship of such viewpoints, as done by YouT
 ____
 My social beliefs had transformed from those typical of a left-leaning family to take on a very conservative hue. 
 ____
+
+Inconclusive <<flg-canon>> mentions https://en.minghui.org/html/articles/2019/6/2/177872.html[Fa Teaching at the 2019 New York Fa Conference]:
+
+____
+Question: Misleading news is everywhere in this Internet age, and it's often hard to tell real news from fake. In the upcoming Taiwan and U.S. general elections in 2020, will fake news cloud people's judgment?
+
+Master: Degenerate things are common in this troubled world, and it's hard to accomplish good things. That's how things are in a troubled world. Many people didn't expect Trump to be elected in the last U.S. election, but he was. Some people believe that things are supposed to go a certain way, but then they turn out otherwise. I have always said that divine beings are in control of human affairs, and that it is they who have the say. But if I speak too much about it or get into the specifics, it might negatively impact our saving people, so I won't go into it.
+____
+
+As usual, Hongzhi beats round the bush, as per "Different Levels of Truth" of <<orange-papers>>. Ciro feels it <<flg-transparent,would be better for Falun Gong if he just publicly said that believers must support Trump>>.
+
+One wonders how Falun Gong views Trump's ideology of "grabbing them by the pussy". But sure, that was in 2005, he must have converted to Good since.
+
+.https://www.youtube.com/watch?v=WaWjFeo0BgU You Are Not Alone by Tony Chen Music (陳東音樂, 2020) is a timeless classic devotional Trump support song. Ciro believes that Tony is overwhelmingly likely a Falun Gong believer due to saying stuff like "I see the true light - You are the Chosen One to fight the Red Demon". This is consistent with Ciro's understanding of FLG's view of the world, where <<falun-gong-believes-that-the-ccp-is-literally-a-manifestation-of-real-devils>> and therefore Trump is the manifestation of a supernatural force oof Good. Chinese version: https://www.youtube.com/watch?v=4ZrVbX8jV_o[], which contains perls such as (official translation) "I see hope - you are the Chosen One to save the world" and "Trump, Trump, you are not alone! Gods and Buddhas are here with you!". The extensive use of Trump's slogan "Make America great again" is also in line with Falun Gong's belief that the world was Good before, but has become Evil today.
+video::WaWjFeo0BgU[youtube,height=400,width=600]
 
 === Western media has exaggerated reports on FLG for propaganda reasons
 
@@ -6374,6 +6450,8 @@ The only thing that annoys me is their lack of self perception on this matter: t
 
 Agreed, and it is a point that hurts more than helps their cause.
 
+This is very clearly put as well at "Front groups" of the <<orange-papers>>.
+
 But the media is not legally obliged to state their affiliation.
 
 And if that were the case, then we should force _all_ newspapers to start taking polls of how many employees follow which religion and support which political party, and then put that in their print.
@@ -6391,15 +6469,17 @@ Question: Why is homosexuality considered immoral?
 Teacher: Think about it, everyone: Is homosexuality human behavior? Heaven created man and woman. What was the purpose? To procreate future generations. A man being with a man, or a woman with a woman - it doesn't take much thought to know whether that's right or wrong. When minor things are done incorrectly, a person is said to be wrong. When major things are done incorrectly, it's a case of people no longer having the moral code of human beings, and then they are unworthy of being human.
 ____
 
-Democracy dislikes dictators.
+<<ciro-santilli>> strongly disagrees with that view, because it is the type of thing that makes people feel bad for characteristics that they have, but cannot change.
+
+Also, it is very hard to pass any kind of law that forces people not to be racist/discriminatory, because there is always the lingering question: what if they are right about a particular point?
+
+Because clearly everyone has innate characteristics that make them better suited for certain activities than others, we when we select candidates for a job, we are basically discriminating amongst candidates.
+
+Also any such law can have the opposite effect, acting as a justification for further hate.
 
 You and I dislike certain personality traits without any logical reason.
 
-What matters is that we treat everyone with respect and without bias at work, even if we don't like them.
-
-But the law can't force you to like everyone.
-
-If one specific FLG member breaks a law by discriminating against someone, they should be punished just like anyone else.
+Democracy dislikes dictators, and it is not necessarily rational.
 
 See also:
 
@@ -6506,6 +6586,7 @@ video::kIpaDW3RwtY[youtube,height=400,width=600,start=244]
 
 See also: <<honour-suicides-in-chinese-history>>.
 
+[[falun-gongs-view-of-epidemics]]
 ===== Falun Gong's view of epidemics
 
 <<li-hongzhi>> has said in <<flg-canon,canon>> things that lead certain believers (including e.g. <<wife,Ciro's mother in law>>) to believe that because they are good Falun Gong believers, that they are more safe from disease from evil people.
@@ -6517,6 +6598,16 @@ You must have seen the epidemic that's come along in China now, right? Hasn't a 
 ____
 
 Such beliefs have of course carried over directly to <<corona,COVID-19>>.
+
+An amazing quote from https://en.minghui.org/html/articles/2020/3/20/183715.html[]:
+
+____
+Stay Rational
+
+Pandemics and plagues are part of a divine plan and inevitable in the course of history.
+____
+
+Stay rational. Believe in God ;-)
 
 Epidemics are also likely moments where religious grow due to more people being more desperate and looking for solace that cannot be found in this shitty world.
 
@@ -6773,7 +6864,7 @@ Interesting quotes:
 The following echoes "Different levels of truth" from <<orange-papers>>:
 
 ____
-Most would find they had little in common with non-practitioners (“ordinary people” in Falun Gong parlance) but would maintain cordial relations with friends and family nonetheless, and think of various ways to explain the edge off some of Falun Gong’s less palatable teachings about aliens, how heaven views gay people, the inferiority of other religions and Master Li’s role in saving the universe.
+Most would find they had little in common with non-practitioners (“ordinary people” in Falun Gong parlance) but would maintain cordial relations with friends and family nonetheless, and think of various ways to explain the edge off some of Falun Gong's less palatable teachings about aliens, how heaven views gay people, the inferiority of other religions and Master Li's role in saving the universe.
 ____
 
 [[history-of-falun-gong]]
@@ -8063,7 +8154,7 @@ Ciro has no proof that this is linked to the government, but it is very likely, 
 
 A great example of how <<falun-gong>> is <<flg-organized,highly organized>>.
 
-Likely highly de-facto controlled by <<li-hongzhi>>, and extremely lacking clear full disclosure of their affiliation, see also: "Front groups" at <<orange-papers>>.
+Likely highly de-facto controlled by <<li-hongzhi>>, and extremely <<flg-transparent,lacking clear full disclosure of their affiliation>>.
 
 It could be argued that those media are not "directly" controlled by Li Hongzhi, and Ciro does believe that they were created independently of him initially.
 
@@ -9730,20 +9821,11 @@ https://zh.wikipedia.org/wiki/V2EX
 
 Website: https://v2ex.com/
 
-Anything goes forum, but largely programmer dominated. Had <<icp-license>> in 2016, but lost it in 2019 to move servers back to USA, so shady. https://zh.greatfire.org/v2ex.com[Blocked in China as of 2020-06] according to <<greatfire>>.
+Although this website appears to have some degree of freedom of speech, as of 2020, if you post something that is "unwelcome" an unclear definition or unwelcome, your IP gets immediately blocked and trying to even access the site redirects to a "403 Forbidden nginx" page.
 
-* 2017-07-27 https://v2ex.com/t/378274 (http://web.archive.org/web/20200723082356/https://v2ex.com/t/378274[archive]) "stackoverflow 上的较量。。" http://web.archive.org/web/20200723082356/https://v2ex.com/t/378274 talks about https://stackoverflow.com/users/815408 which is mentioned at <<stack-overflow-anti-dissident-users>>
-* 2015-12-23: https://v2ex.com/t/245507 (link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-12.html[Chromium CTRL-S save]) "搜 StackOverflow，无意间发现了这个，重点在那个评论" by https://v2ex.com/member/happypy1
-* http://v2ex.com/t/214015 TODO restricted without mobile phone confirmation, while most other threads still work. So they must have some kind of restricted posts.
-* 2015-04-10: https://v2ex.com/t/182766 (cannot archive, login requires CAPTCHA, link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-04.html[Chromium CTRL-S save]) "Stack Overflow 上看到一个丧心病狂的程序员" by https://v2ex.com/member/cloudhunter
+It is therefore impossible to have any political talk on that website, and they should not be trusted.
 
-As of 2020, if you post something that is "unwelcome", your IP gets immediately blocked and trying to even access the site redirects to a "403 Forbidden nginx" page. They then tell you to contact them if you want to be restored:
-
-____
-请不要发布在V2EX不被欢迎的内容，如果你觉得这是规则误判请邮件联系hello@v2ex.com
-____
-
-This happened when Ciro tried to reply to https://v2ex.com/t/378274 with:
+This happened when Ciro tried to reply to https://v2ex.com/t/378274[] around 2020-07-23 with:
 
 ____
 他放弃了https://stackoverflow.com/users/815408 | https://web.archive.org/web/20170602054631/https://stackoverflow.com/users/815408/%E8%AF%B7%E5%B0%81%E6%8E%89ciro-santilli-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%87%E5%B2%81
@@ -9751,7 +9833,31 @@ ____
 参看我的china repository fb6c69cfec0d4e9008730c0c1a9c42c2d851e678#stack-overflow-anti-dissident-users
 ____
 
-so doesn't seem like there's anything super sensitive there.
+and it doesn't seem like there's anything super sensitive in that comment.
+
+They then tell you to contact them if you want to be restored:
+
+____
+请不要发布在V2EX不被欢迎的内容，如果你觉得这是规则误判请邮件联系hello@v2ex.com
+____
+
+but Ciro did that and there was no reply.
+
+Later on Ciro noticed that his account was giving 400:
+
+* https://v2ex.com/member/cirosantilli
+* https://web.archive.org/web/20200511191411/https://v2ex.com/member/cirosantilli
+
+The forum is largely programmer dominated.
+
+It had an <<icp-license>> in 2016, but lost it in 2019 to move servers back to USA, which is extremelly shady. https://zh.greatfire.org/v2ex.com[Blocked in China as of 2020-06] according to <<greatfire>>.
+
+* 2017-07-27 https://v2ex.com/t/378274 (http://web.archive.org/web/20200723082356/https://v2ex.com/t/378274[archive]) "stackoverflow 上的较量。。" http://web.archive.org/web/20200723082356/https://v2ex.com/t/378274 talks about https://stackoverflow.com/users/815408 which is mentioned at <<stack-overflow-anti-dissident-users>>
+* 2015-12-23: https://v2ex.com/t/245507 (link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-12.html[Chromium CTRL-S save]) "搜 StackOverflow，无意间发现了这个，重点在那个评论" by https://v2ex.com/member/happypy1
+* http://v2ex.com/t/214015 TODO restricted without mobile phone confirmation, while most other threads still work. So they must have some kind of restricted posts.
+* 2015-04-10: https://v2ex.com/t/182766 (cannot archive, login requires CAPTCHA, link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-04.html[Chromium CTRL-S save]) "Stack Overflow 上看到一个丧心病狂的程序员" by https://v2ex.com/member/cloudhunter
+
+When Ciro later checked the above threads on 2020-12-20, he noticed that all of them had been made restricted to logged in members only, while previously only one of them had been.
 
 [[pincong]]
 === Pincong 品葱
