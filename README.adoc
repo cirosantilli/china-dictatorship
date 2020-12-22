@@ -1634,6 +1634,7 @@ Guantanamo Bay 关塔那摩湾 +
 extraordinary rendition 非凡的演绎 +
 Abu Ghraib torture and prison abuse 阿布格莱布的酷刑和监狱虐待 +
 Henry Kissinger 亨利·基辛格
+https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat[1953 Iranian coup d'état] https://zh.wikipedia.org/wiki/1953年伊朗政變[1953年伊朗政變] (TPAJAX Project, Operation Ajax) +
 ____
 
 Some quick replies to the idiotic things wumaos like to post:
@@ -3372,8 +3373,36 @@ The article also contains a good summary section "CIA spy operation in China: Ke
 ** https://www.nbcnews.com/politics/justice-department/former-cia-officer-sentenced-19-years-conspiring-chinese-spies-n1089341
 * 2018-06-05 Ron Rockwell Hansen
 ** https://www.bbc.co.uk/news/world-us-canada-44364437
-* 2010-2012 about 20 CIA spies in China were killed. One was shot right in the courtyard of a government building as a message to others.
-** https://www.reuters.com/article/us-usa-china-espionage-idUSKCN18G0UM "China killed CIA sources, hobbled U.S. spying from 2010 to 2012: NYT"
+
+====== 2010 dismantling of CIA's network in China
+
+* https://en.wikipedia.org/wiki/CIA_activities_in_China#2010
+
+Around2010-2012 about 20 CIA spies in China were killed. One was shot right in the courtyard of a government building as a message to others.
+
+After identifying some of the websites, possibly with a double agent, Iran was able to reach the rest through Google searches for similar sites.
+
+The trouble started in when the CIA was investigating nuclear weapons in Iran in 2009.
+
+The fact that China soon followed could indicate that Iran sold the secret to China.
+
+TODO do we have any such sample websites or screenshots of them? https://github.com/cirosantilli/china-dictatorship/issues/167
+
+https://news.yahoo.com/cias-communications-suffered-catastrophic-compromise-started-iran-090018710.html mentions that:
+
+____
+A 2011 Iranian television broadcast that touted the government’s destruction of the CIA network said U.S. intelligence operatives had created websites for fake companies to recruit agents in Iran by promising them jobs, visas and education abroad. Iranians who initially thought they were responding to legitimate opportunities would end up meeting with CIA officers in places like Dubai or Istanbul for recruitment, according to the broadcast.
+____
+
+therefore the websites might not have been in English.
+
+TODO find that broadcast. News broke 2019-06-22[] apparently:
+* https://www.youtube.com/watch?v=bMilJGTIvkI "US calls for Iran to free alleged CIA spy" by euronews (in English) (2011-12-20) shows a forced confession on state television by https://en.wikipedia.org/wiki/Amir_Mirza_Hekmati[]. He claims to have been tortured with forced drug withdrawal. Given that Iran is in the https://en.wikipedia.org/wiki/Golden_Crescent[Golden Crescent], Ciro would guess they gave him heroin, see also https://en.wikipedia.org/wiki/Opium_in_Iran[] "Opium in Iran is widely available, and the country was thought to have the highest per capita number of opiate addicts in the world[1][2] at a rate of 2.8% of Iranians over age 15."
+
+Iran claims to have captured spies working for CIA
+
+* 2017-05-20 https://www.reuters.com/article/us-usa-china-espionage-idUSKCN18G0UM "China killed CIA sources, hobbled U.S. spying from 2010 to 2012: NYT"
+* 2018-10-02 https://news.yahoo.com/cias-communications-suffered-catastrophic-compromise-started-iran-090018710.html "The CIA's communications suffered a catastrophic compromise. It started in Iran."
 
 [[ministry-of-state-security]]
 ====== Ministry of State Security (MSS, Guoanbu, 国安部)
@@ -6576,7 +6605,7 @@ ____
 
 and more interesting anecdotes follow, see source.
 
-And Ciro has felt this first hand with his <<wife,mother-in-law>>. Whenever she has a health worry, first she tries to hide it. But then she casually mentions it without much thought because she speaks all the time the poor lady, may she be blessed. And then, when Ciro says: OK, let's try and treat it, even for trivial things that might have simple treatments, she immediately smiles a compassionate smile of "I'm a Falun Gong believer, I don't need that". This makes Ciro really mad. He tries to not show it, because he thinks people should be able to choose how they die. But Li promises the powers of <<flg-cross-dimensional-vision,remote, cross dimensional and past/future vision>>. to some believers, and yet, blinds some of them to the obvious fact that they are aging, and, slowly but surely, their own bodies are starting to fail, like everyone else's will at one point.
+And Ciro has felt this first hand with his <<wife,mother-in-law>>. Whenever she has a health worry, first she tries to hide it. But then she casually mentions it without much thought because she speaks all the time the poor lady, may she be blessed. And then, when Ciro says: OK, let's try and treat it, even for trivial things that might have simple treatments, she immediately smiles a compassionate smile of "I'm a Falun Gong believer, I don't need that". This makes Ciro really mad. He tries to not show it, because he thinks people should be able to choose how they die. But Li promises the powers of <<flg-cross-dimensional-vision,remote, cross dimensional and past/future vision>> to some believers, and yet, blinds some of them to the obvious fact that they are aging, and, slowly but surely, their own bodies are starting to fail, like everyone else's will at one point.
 
 It is also interesting to note how the Chinese government itself supported Falun Gong and <<zhong-gong,other Qi Gong practices>> for their health benefits, which is why they grew so large in the first place. <<li-hongzhi>> was even <<history-of-falun-gong,awarded prizes and recognized as a Qi Gong master by state backed organizations in 1992 and 1993>>. And the CCP still has a tendency to support certain non-scientific traditional practices: <<support-for-non-scientific-traditional-practices>>.
 
@@ -6959,7 +6988,7 @@ See also: <<shitpost>>.
 [[xi-jinping-lookalikes]]
 ===== Xi Jinping Lookalikes 习近平撞脸
 
-.2019-05-21 https://en.wikipedia.org/wiki/Sadomasochism[Sadomasochist] https://en.wikipedia.org/wiki/BDSM[BDSM] (SM) Xi Jinping lookalike or photoshop in https://en.wikipedia.org/wiki/Bondage_suit[bondage suit] (gimp suit, fetish gear) at a cosplay fair. TODO: is this a Photoshop and if yes what's the original pic, publish dates, location/event. <<ciro-santilli>> googled a lot for it, but it's beyond his skills :-( Earliest post found so far: 2019-05-21 08:49:20 GMT+1 (Imgur timestamp) going wild on <<ptt>>: https://www.ptt.cc/bbs/joke/M.1558454171.A.5C9.html[] entitled "這位coser是誰啊？好眼熟。" (Who is this Cosplayer? He looks familiar.) by user "a15568". Watermark reads "I am Dasen 郭", where "郭" is https://en.wikipedia.org/wiki/Guo[a common Chinese surname]. Notable discussion threads: https://www.reddit.com/r/China/comments/ckgs5l/xi_jinping_took_to_the_streets_to_demonstrate_his/[r/China 2019-08-01], https://www.reddit.com/r/China/comments/ke4hde/nice_pic_i_found/[r/China 2020-12-16], https://www.reddit.com/r/HongKong/comments/ckjf65/gee_i_am_sure_chairman_xi_will_really_appreciate/[2019-08-01]
+.2019-05-21 https://en.wikipedia.org/wiki/Sadomasochism[Sadomasochist] https://en.wikipedia.org/wiki/BDSM[BDSM] (SM) Xi Jinping lookalike or photoshop in https://en.wikipedia.org/wiki/Bondage_suit[bondage suit] (gimp suit, fetish gear) at a cosplay fair. TODO: is this a Photoshop and if yes what's the original pic, publish dates, location/event. <<ciro-santilli>> googled a lot for it, but it was beyond his skills :-( Earliest post found so far: 2019-05-21 08:49:20 GMT+1 (Imgur timestamp) going wild on <<ptt>>: https://www.ptt.cc/bbs/joke/M.1558454171.A.5C9.html[] entitled "這位coser是誰啊？好眼熟。" (Who is this Cosplayer? He looks familiar.) by user "a15568". Watermark reads "I am Dasen 郭", where "郭" is https://en.wikipedia.org/wiki/Guo[a common Chinese surname]. Notable discussion threads: https://www.reddit.com/r/China/comments/ckgs5l/xi_jinping_took_to_the_streets_to_demonstrate_his/[r/China 2019-08-01], https://www.reddit.com/r/China/comments/ke4hde/nice_pic_i_found/[r/China 2020-12-16], https://www.reddit.com/r/HongKong/comments/ckjf65/gee_i_am_sure_chairman_xi_will_really_appreciate/[2019-08-01]
 image::{china-dictatorship-media-base}/Xi_sadomasochist.jpg[height=500]
 
 .2020-01-01 https://en.wikipedia.org/wiki/Shengjian_mantou[Pan-fried dumpling] Xi Jinping lookalike 生煎包习近平撞脸. Furthermore, this reminded people of <<xi-jinping-memes,習包子>>. A <<taiwan,Taiwanese>> report from 2020-01-01: https://news.tvbs.com.tw/world/1257030 TODO name, location. One of the many videos of him: https://www.youtube.com/watch?v=hTt8Sjer6cc[]
