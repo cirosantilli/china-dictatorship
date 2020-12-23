@@ -2894,7 +2894,7 @@ image::{china-dictatorship-media-base}/Xinjiang_prisoners_march.jpg[height=400]
 +
 video::WmId2ZP3h0c[youtube,height=400,width=600]
 +
-.Propaganda picture where an adult man wearing traditional Xinjiang clothing and playing a traditional instrument inside a classroom setting inside a prison camp, as the CCP tries to show the world that they are happy and their culture is being respected, and only makes things worse. https://www.bbc.co.uk/news/blogs-china-blog-48700786[Source].
+.Man wearing traditional Xinjiang clothing and playing a traditional instrument inside a classroom setting inside a prison camp, as the CCP tries to show the world that they are happy and their culture is being respected, and only makes things worse. The man also shows on the video at: https://youtu.be/WmId2ZP3h0c?t=407[] made by the BBC when they got supervised access to the camps to film, nearby segment uploaded at: https://github.com/cirosantilli/china-dictatorship/issues/169[]. https://www.bbc.co.uk/news/blogs-china-blog-48700786[Source].
 image::{china-dictatorship-media-base}/Uyghur_playing_guitar.jpg[height=400]
 * 2019-05-07 https://www.theguardian.com/world/2019/may/07/revealed-new-evidence-of-chinas-mission-to-raze-the-mosques-of-xinjiang
 * 2019-05-07 https://www.youtube.com/watch?v=ULaJVWOr4ko CNN does a few Xinjiang interviews and sends reporter to visit some of the concentration camps
@@ -7533,11 +7533,8 @@ Good list of all known photos: https://blogs.wsj.com/chinarealtime/2014/05/30/th
 
 A list of Tank Man parodies can be found at: https://knowyourmeme.com/memes/tank-man
 
-.https://www.youtube.com/watch?v=YeFzeNAHEhU CNN video of Tank Man:  but not showing removal, ridiculous, is there a full raw footage somewhere?
+.https://www.youtube.com/watch?v=YeFzeNAHEhU CNN video of Tank Man:  but not showing removal, ridiculous, is there a full raw footage somewhere? Subset uploaded to GitHub: https://github.com/cirosantilli/china-dictatorship/issues/168[].
 video::YeFzeNAHEhU[youtube,height=400,width=600]
-
-.Subset of the above video but uploaded to <<github>>, cropped to fit into the 10 MiB limit.
-video::https://user-images.githubusercontent.com/1429315/103037693-5d579880-4564-11eb-8481-738cf860778f.mp4[]
 
 .https://www.youtube.com/watch?v=vSbx352cn8A Several quick cuts by CBS news that give a good overview of the incident, including him being pushed away by other protesters at the end.
 video::YeFzeNAHEhU[youtube,height=400,width=600]
