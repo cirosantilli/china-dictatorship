@@ -5086,7 +5086,7 @@ For more poisonings see: <<putin-sponsored-poisonings>>.
 The second one! The first one was in 2019, but this one is more serious, the German government said tests confirmed it unequivocally that it was Novichok, which was also recently used in <<skripal>>.
 
 * 2020-12-13 more news are coming:
-** https://www.bellingcat.com/news/uk-and-europe/2020/12/14/fsb-team-of-chemical-weapon-experts-implicated-in-alexey-navalny-novichok-poisoning/ indicates the names of 8 suspects. They had phone metadata for them including geolocation. How did they get that data???
+** https://www.bellingcat.com/news/uk-and-europe/2020/12/14/fsb-team-of-chemical-weapon-experts-implicated-in-alexey-navalny-novichok-poisoning/ indicates the names of 8 suspects. They had phone metadata for them including geolocation. How did they get that data??? https://github.com/cirosantilli/china-dictatorship/issues/164
 ** https://www.dw.com/en/navalny-poisoning-russia-made-second-assassination-attempt-report/a-55921189 "Navalny poisoning: Russia made second assassination attempt - report". Says British intelligence told that to The Times, paywall https://www.thetimes.co.uk/article/revealed-kremlin-made-a-second-attempt-to-poison-alexei-navalny-in-botched-assassination-nh32x737j "Revealed: Kremlin made a second attempt to poison Alexei Navalny in botched assassination". TODO any further evidence? WTF they reveal to a paywall newspaper?
 ** https://www.youtube.com/watch?v=smhi6jts97I Navalny's video accusing people who he belieaves poisoned him
 * 2020-10-18 https://www.cbsnews.com/news/alexey-navalny-poisoning-putin-russia-60-minutes-2020-10-18/ 60 Minutes interview, they flew over to Germany to interview him. He looks normal.
@@ -5964,7 +5964,7 @@ The closest claims to observable Ciro has heard are:
 * in the homes of some followers, small magic good plants-like fungi-like things have grown
 +
 [[flg-fungi]]
-.Image of the magic good small plants that grew on a <<falun-gong>> believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese. https://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
+.Image of the magic good small plants that grew on a <<falun-gong>> believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. They seem to identify those fungi as mini-https://en.wikipedia.org/wiki/Udumbara_(Buddhism)[udumbaras], which is just a fancy name that Buddhism scriptures use to refer to https://en.wikipedia.org/wiki/Ficus_racemosa[cluster fig flowers] (https://zh.wikipedia.org/wiki/聚果榕[优昙婆罗], amongst a billion other existing phonetic transliterations) emphacising their magic properties. Here's a 2007 from <<epoch-times>>: https://www.epochtimes.com/gb/7/10/7/n1859364.htm[], and another one https://www.epochtimes.com/gb/9/5/3/n2514838.htm[], and another one from 2011: https://www.epochtimes.com/gb/11/11/25/n3440323.htm[]. Only the most relevant news on that newspaper. Ciro could not find <<flg-canon>> mentions however. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese. https://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_magic_fungi.jpg[height=400]
 * the <<flg-canon,sacred books>> of some believers had a closed lotus flower when they were bought, and after several years, the flower opened
 
@@ -7536,6 +7536,9 @@ A list of Tank Man parodies can be found at: https://knowyourmeme.com/memes/tank
 .https://www.youtube.com/watch?v=YeFzeNAHEhU CNN video of Tank Man:  but not showing removal, ridiculous, is there a full raw footage somewhere?
 video::YeFzeNAHEhU[youtube,height=400,width=600]
 
+.Subset of the above video but uploaded to <<github>>, cropped to fit into the 10 MiB limit.
+video::https://user-images.githubusercontent.com/1429315/103037693-5d579880-4564-11eb-8481-738cf860778f.mp4[]
+
 .https://www.youtube.com/watch?v=vSbx352cn8A Several quick cuts by CBS news that give a good overview of the incident, including him being pushed away by other protesters at the end.
 video::YeFzeNAHEhU[youtube,height=400,width=600]
 
@@ -7629,6 +7632,20 @@ She criticized Xi Jinping in private online meeting, and the audio was leaked: h
 ** 2020-08-21 https://www.taiwannews.com.tw/en/news/3992140 she was expelled from from the CCP, and she said she was happy.
 * https://www.rfa.org/english/news/china/monitor-08182020091653.html "Jailed WeChat User Says Chinese Police Monitor Overseas Accounts Too". Gao Zhigang.
 * https://en.wikipedia.org/wiki/Chen_Guangcheng[Chen Guangcheng] (陈光诚). The blind dude. https://www.youtube.com/watch?v=zDqYMXxH09Y "Chinese dissident tells story of escaping tyranny and finding hope in America" by "Fox News" (2020-08-26) supporting Trump's reelection.
+
+Not sure if these are dissidents or not:
+
+* https://en.wikipedia.org/wiki/Naomi_Wu
+** https://zh.wikipedia.org/wiki/吴淖米[], SexyCyborg, "机械妖姬"
+** https://twitter.com/RealSexyCyborg/status/1341572058006736897 <<tank-man>> clip. But it might be just to show that Chinese have freedom of speech? Not sure.
+** wiki quote: "In November 2019, Wu was detained by Chinese authorities for an interstitial Wall Street Journal interview expose piece on Chinese censorship in an episode of Netflix's Patriot Act with Hasan Minhaj."
++
+but that is really poorly stated and links to her blog as reference: https://medium.com/@therealsexycyborg/shenzhen-tech-girl-naomi-wu-part-3-defunding-deplatforming-and-detention-140fed4b9554[]. There she says she says the video was used without out of context without her permission, and that she always tries to avoid sensitive topics.
++
+But in any case, she walks the line.
+** https://twitter.com/RealSexyCyborg/status/1281934477430681601 "Naomi on a Saturday night, complaining about the lack of available FOSS anti-censorship options to help her fellow Chinese access the global Internet. FML I should pack some snacks to take with me..." It's hard to understand what she means.
+** https://twitter.com/RealSexyCyborg/status/1340495054733905922 "I'm Cantonese, I've been in countless private WhatsApp and Telegram groups where these issues were openly discussed in our dialect, and countless Mainland WeChat groups with that perspective- trust me, I know quite a lot more about this than some illiterate randos from the US."
+** So either she is anti-CCP, or she is part of the most advanced soft power program ever made
 
 [[xu-xiaodong]]
 ==== Xu Xiaodong "Mad Dog" 徐晓冬
@@ -9265,6 +9282,7 @@ Lists:
 ** https://github.com/getlantern/lantern on <<github>>
 * https://github.com/yinghuocho/firefly-proxy "A proxy software to help circumventing the Great Firewall."
 * https://www.bypasscensorship.org
+* https://github.com/awesome-doge/breaking-gfw-book
 
 It is interesting to note how <<falun-gong>> is a good source of censorship-circumvention material, see e.g.: <<github-gov-takedowns>>.
 
