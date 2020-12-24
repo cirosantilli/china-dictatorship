@@ -1459,6 +1459,10 @@ image::{china-dictatorship-media-base}/We_cant_complain.jpg[height=600]
 
 It is really interesting to see how many people star the <<mirrors,GitHub repository>>, and then a few minutes later they think about how they might get put in jail, and then unstar it. <<ciro-santilli>> is able to see this because the star notification remains in the GitHub dashboard even after unstarring. This is very rare in his other repositories.
 
+[[my-paranoia-as-a-russian-youtuber]]
+.https://www.youtube.com/watch?v=_-hCdbsyWw0 "my paranoia as a Russian YouTuber" by <<nfkrz>> (2020) talks about the <<chilling-effect>>
+video::_-hCdbsyWw0[youtube,height=400,width=600]
+
 [[intolerance]]
 ===== Most Chinese people don't care about the minorities
 
@@ -1951,7 +1955,7 @@ image::{china-dictatorship-media-base}/Chinazi_flag.png[height=400]
 .Xi Jinping basically <<nazi,Nazi saluting>> kids from <<young-pioneers-of-china>> in Beijing, June 1, 2015. http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[Source] (http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[biased]).
 image::{china-dictatorship-media-base}/Xi_scout_salute.jpg[height=500]
 
-.https://www.youtube.com/watch?v=wD53MEbLDIE <<serpentza-laowhy86,laowhy86>> video "Can We Compare China to Nazi Germany?" published on 2020-04-29. Good side-by-side video comparisons. Says that China is mor like Nazi than <<russia>>, but Ciro disagrees, all three are <<is-chinese-politician-x-evil,evil dictatorships>>.
+.https://www.youtube.com/watch?v=wD53MEbLDIE <<serpentza-laowhy86,laowhy86>> video "Can We Compare China to Nazi Germany?" published on 2020-04-29. Good side-by-side video comparisons. Says that China is more like Nazi than <<russia>>, but Ciro disagrees, all three are <<is-chinese-politician-x-evil,evil dictatorships>>.
 video::wD53MEbLDIE[youtube,height=400,width=600]
 
 === Contributing guidelines
@@ -5051,6 +5055,19 @@ List:
 
 * https://en.wikipedia.org/wiki/Yegor_Zhukov[Yegor Zhukov]: 2020-08-31 https://www.bbc.co.uk/news/world-europe-53972592 "Yegor Zhukov: Leading Russian opposition blogger beaten up", good photo of swallen face
 
+==== NFKRZ
+
+Real name: Roman Albertovich Abalin.
+
+YouTube channel: https://www.youtube.com/channel/UC19xLluI7dG093Gmw57BhHw
+
+More information: https://youtube.fandom.com/wiki/NFKRZ
+
+Interesting videos:
+
+* https://www.youtube.com/watch?v=Jp_S_kIowGY "Why You Shouldn't Trust RT (Russia Today)" (2020). Douh!!!!!!
+* <<my-paranoia-as-a-russian-youtuber>> talks about the <<chilling-effect>>
+
 [[alexei-navalny]]
 ==== Alexei Navalny (Навальный, Алексей Анатольевич)
 
@@ -7335,7 +7352,7 @@ image::{china-dictatorship-media-base}/996ICU.png[height=400]
 * <<taiwan-number-one>>
 * 2015 Taiwanese beauty queen kicked out of Miss Earth pageant for refusing to change `Taiwan ROC' sash to `Chinese Taipei' https://shanghaiist.com/2015/11/23/miss-earth-ting-wen-yin.php
 * 2015 https://www.eff.org/deeplinks/2015/08/speech-enables-speech-china-takes-aim-its-coders https://github.com/shadowsocks/shadowsocks shadowsocks creator threatened
-* 2015 https://www.bbc.com/news/entertainment-arts-34630829 Lego refuses to sell to Ai Weiwei
+* 2015 https://www.bbc.com/news/entertainment-arts-34630829 Lego refuses to sell to <<ai-weiwei>>
 * 2015 https://www.nytimes.com/2015/10/13/world/asia/china-bao-zhuoxuan-son-wang-yu-rights-lawyer-house-arrest.html Bao Zhuoxuan 16-year old son of human rights layer in house arrest
 
 [[the-709-crackdown]]
@@ -7373,7 +7390,7 @@ image::{china-dictatorship-media-base}/709_lawyers.jpg[height=400]
 * 2013 https://www.ft.com/content/db8b9e36-1119-11e8-940e-08320fc2a277 Peter Humphrey
 * 2012 https://en.wikipedia.org/wiki/Nuctech. One of the most blocked on Wikipedia according to: link:complete-gfw-rulebook-for-wikipedia-v3.0.pdf[] Nutech Namibia Hu Haifeng corruption scandal 纳米比亚威视胡海峰腐败丑闻
 * 2011 2011 Chinese pro-democracy protests https://en.wikipedia.org/wiki/2011_Chinese_pro-democracy_protests | https://zh.wikipedia.org/wiki/中国茉莉花活动
-* 2009 https://en.wikipedia.org/wiki/Tan_Zuoren#2009_court_case Ai Weiwei documentary about it: https://aiweiwei.com/documentaries/disturbing-the-peace/index.html
+* 2009 https://en.wikipedia.org/wiki/Tan_Zuoren#2009_court_case <<ai-weiwei>> documentary about it: https://aiweiwei.com/documentaries/disturbing-the-peace/index.html
 * 2008 https://en.wikipedia.org/wiki/Tofu-dreg_project | https://zh.wikipedia.org/wiki/豆腐渣工程 https://en.wikipedia.org/wiki/China%27s_Unnatural_Disaster:_The_Tears_of_Sichuan_Province
 * 2008 Wenzhou train collision https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response https://zh.wikipedia.org/wiki/2011年甬台温铁路列车追尾事故
 * 2005 https://en.wikipedia.org/wiki/Dongzhou_protests | https://zh.wikipedia.org/wiki/东洲事件 Dongzhou protests
@@ -7619,6 +7636,12 @@ Other lists:
 
 Other dissidents:
 
+* Gong Ping (龔平), AKA 加州老爹 CADaddy (California Daddy)
+** https://hk.appledaily.com/news/20201222/34I7BBKPKVCPNKG7XJ2II6ICQ4/ "Chinese YouTuber forced to flee after voicing support for Hong Kong protesters"
+** https://www.youtube.com/watch?v=6ILmu3Q7Rf8 勇武者之歌 (Song of the brave)
+** real chinese name from: from https://hk.appledaily.com/china/20201222/AZMBHJHIJZGADMK76Z54M6O6IE/
+** TODO Twitter handle if it wasn't entirely deleted?
+** https://www.youtube.com/channel/UCsbdz3lXyyvBz7hMDNXHT7w
 * Cai Xia (https://zh.wikipedia.org/wiki/蔡霞[蔡霞]), https://chinadigitaltimes.net/space/Cai_Xia
 +
 Retired teacher at <<central-party-school>> living in the USA.
@@ -7643,6 +7666,12 @@ But in any case, she walks the line.
 ** https://twitter.com/RealSexyCyborg/status/1281934477430681601 "Naomi on a Saturday night, complaining about the lack of available FOSS anti-censorship options to help her fellow Chinese access the global Internet. FML I should pack some snacks to take with me..." It's hard to understand what she means.
 ** https://twitter.com/RealSexyCyborg/status/1340495054733905922 "I'm Cantonese, I've been in countless private WhatsApp and Telegram groups where these issues were openly discussed in our dialect, and countless Mainland WeChat groups with that perspective- trust me, I know quite a lot more about this than some illiterate randos from the US."
 ** So either she is anti-CCP, or she is part of the most advanced soft power program ever made
+
+[[ai-weiwei]]
+==== Ai Weiwei (艾未未)
+
+* https://en.wikipedia.org/wiki/Ai_Weiwei
+* https://zh.wikipedia.org/wiki/艾未未
 
 [[xu-xiaodong]]
 ==== Xu Xiaodong "Mad Dog" 徐晓冬
