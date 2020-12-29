@@ -720,6 +720,7 @@ video::sUvBNpkxrJo[youtube,height=400,width=600]
 ** https://www.youtube.com/channel/UCsNKkvZGMURFmYkfhYa2HOQ
 ** https://www.scmp.com/video/coronavirus/3084983/coronavirus-chinese-citizen-journalist-detained-after-live-streaming
 *** 2020-11-16 https://www.theguardian.com/world/2020/nov/16/citizen-journalist-facing-jail-in-china-for-wuhan-covid-reporting-zhang-zhan[], finally accused of <<picking-quarrels>>
+*** 2020-12-28 https://www.theguardian.com/world/2020/dec/28/wuhan-citizen-journalist-jailed-for-four-years-in-chinas-christmas-crackdown[] "Wuhan Covid citizen journalist jailed for four years in China crackdown"
 
 TODO maybe not arrested but relevant:
 
@@ -2997,6 +2998,12 @@ Events linked to reducing the teaching of the Tibetan language in schools and re
 * 2020-04 https://www.languagemagazine.com/2020/04/23/tibetan-language-phased-out-as-schools-switch-to-mandarin/
 * 2010 https://en.wikipedia.org/wiki/2010_Tibetan_language_protest
 
+===== Tibet "re-education" camps (2020)
+
+https://en.wikipedia.org/wiki/Labour_camps_in_Tibet
+
+2020-09-22 the <<jamestown-foundation>> reported that <<xinjiang-re-education-camps>>-style camps were started to be built in <<tibet>>: https://jamestown.org/program/jamestown-early-warning-brief-xinjiangs-system-of-militarized-vocational-training-comes-to-tibet/ and were housing half a million people.
+
 [[tibetan-unrest-2008]]
 ===== 2008 Tibetan unrest (2008年西藏骚乱)
 
@@ -3352,6 +3359,7 @@ For university espionage in particular see: <<university-espionage>>.
 
 Some Chinese spy stories:
 
+* 2020-12-25 https://in.news.yahoo.com/detention-10-chinese-spies-afghanistan-040901520.html "Detention of 10 Chinese spies in Afghanistan leaves Beijing red-faced" TODO better source.
 * 2020-12-09 Christine Fang https://www.axios.com/china-spy-california-politicians-9d2dfb99-f839-4e00-8bd8-59dec0daf589.html "Exclusive: Suspected Chinese spy targeted California politicians". In 2015, she was fucking some politicians and infiltrating parties, but as suspicions arose, Beijing likely called her back.
 * 2020-09-21 Baimadajie Angwang
 ** https://www.cnbc.com/amp/2020/09/21/nypd-cop-charged-with-acting-as-china-agent.html "New York City police officer spied on fellow Tibetans for China, prosecutors charge"
@@ -3444,7 +3452,8 @@ American company, with Chinese-born now American Citizen CEO https://en.wikipedi
 
 News:
 
-* 2020-12-18: China-based exec Xinjian Jin , AKA Julian Jin, charged with sabotaging Zoom conferences. TODO Chinese name
+* 2020-12-18: China-based exec Xinjiang Jin (https://cn.nytimes.com/technology/20201221/zoom-tiananmen-square/[靳新江]), AKA Julian Jin, charged with sabotaging Zoom conferences, FBI issued a wanted warrant for him.
+** 2020-12-22 https://www.msnbc.com/opinion/how-zoom-violated-its-own-terms-service-access-china-s-n1252092 summarizes a bit more details about the block
 ** https://www.bbc.co.uk/news/world-us-canada-55372493 "US charges ex-Zoom employee with shutting down Tiananmen Square events"
 +
 Zoom statement:
@@ -4082,6 +4091,7 @@ China's GitHub censorship history is documented at: https://en.wikipedia.org/wik
 
 Related:
 
+* <<censorship-circumvention>> contains some anti-censorship repositories
 * <<cute-cat-theory-of-digital-activism>>
 * https://techcrunch.com/2020/09/07/scratch-ban-in-china/ Scratch visual programming language for children website blocked
 * https://www.quora.com/Is-GitHub-com-allowed-in-China/answer/Ciro-Santilli
@@ -4189,7 +4199,7 @@ Interesting users:
 *** https://github.com/gfw-breaker/banned-news1 automatic scraper of news from banned websites into the repository, with top sites being <<falun-gong-media>>
 ** present in <<gov-takedowns-china>>
 * https://github.com/bannedbook
-** https://github.com/bannedbook/fanqiang is the main repository, TODO what it contains exactly? Code, or just documentation of existing methods?
+** https://github.com/bannedbook/fanqiang is the main repository about <<censorship-circumvention>>, TODO what it contains exactly? Code, or just documentation of existing methods?
 
 Non-information but also interesting:
 
@@ -4201,8 +4211,10 @@ Non-information but also interesting:
 * https://github.com/Terminus2049/Terminus2049.github.io
 * https://terminus2049.github.io/
 * https://zh.wikipedia.org/wiki/端点星事件
+* https://2049bbs.xyz/
+* previous project name: https://github.com/Info-cn/Terminus
 
-Jekyl GitHub Pages repository that saves full text copies of censored articles:
+Jekyll GitHub Pages repository that saves full text copies of censored articles:
 
 ____
 本仓库存放被删文章
@@ -4210,7 +4222,7 @@ ____
 This repository stores deleted articles.
 ____
 
-Also accompanies a dynamic forum https://2049bbs.xyz/ which appears to be where content for the static pages gets discussed and brought up. But it possible that the website has been compromised and is leaking identity of users.
+Also accompanies a dynamic forum https://2049bbs.xyz/ which appears to be where content for the static pages gets discussed and brought up. But it possible that the website has been compromised and is leaking identity of users. At some point, https://2049bbs.xyz went down. Live https://web.archive.org/web/20200719151022/https://2049bbs.xyz/ dead: https://archive.vn/JFqCJ
 
 The "Terminus" in the repo name seems to be a reference to Isaac Asimov's fictional https://asimov.fandom.com/wiki/Terminus[Terminus planet] which is called https://zh.wikipedia.org/wiki/端点星[端点星] in Chinese, but it is not clear where the 2049 comes from in that context. Forgetting the Chinese name, Terminus2049 could be a reference to the fictional https://bladerunner.fandom.com/wiki/World_War_Terminus["World War Terminus"] from the https://en.wikipedia.org/wiki/Blade_Runner_2049[Blade Runner 2049 (2019)] movie, which also explains the 2049.
 
@@ -4236,7 +4248,15 @@ People:
 
 * Chen Mei (陈玫)
 ** https://www.linkedin.com/in/玫-陈-1607b735/ a LinkedIn account with matching photo and name
+** chanmei007@gmail.com
+** https://github.com/cmmei[], down 2020-12, live archive: https://web.archive.org/web/20200101232039/https://github.com/cmmei[]. Includes https://web.archive.org/web/20180611153507/https://github.com/cmmei/Banned-zh
 * Cai Wei (蔡伟)
+** https://github.com/thphd/2047 mentioned below reveals and email caiw15@mails.tsinghua.edu.cn and profiles/further aliases:
+*** https://github.com/Tsai1993
+*** https://tsai1993.github.io
+*** https://mastodon.xyz/@ciao
+*** tsai1993@qq.com
+*** Tsai2049@gmail.com
 * Xiao Tang (小唐), who is also Cai Wei's girlfriend
 
 In 2020-06-12 their families received calls saying that they had been charged with <<picking-quarrels>>:
@@ -4246,7 +4266,17 @@ In 2020-06-12 their families received calls saying that they had been charged wi
 
 Ciro's petition to free them: https://github.com/cirosantilli/chen-mei-cai-wei-ziyou
 
-TODO what are their GitHub accounts? Contributions appear to be anonymized behind: https://github.com/TerminusBot That appears to be just a shared account though, not an actual bot. So how did the police find their true identities? https://github.com/Terminus2049/Terminus2049.github.io/issues/598
+How their identities were found:
+
+* https://github.com/Terminus2049/Terminus2049.github.io/issues/598 offers a good analysis
+* https://pincong.rocks/question/24370
+* https://gist.github.com/chinatimeline/5386a4f9d82483aa5346b17d8d324877 comments by <<chinatimeline>> and gives further opsec guidelines
+
+Terrible opsec... they used real name GitHub emails on early commits, including the institutional university address, before they started better opsec under https://github.com/TerminusBot / terminus2049@protonmail.com
+
+https://github.com/thphd/2047 is a project to restore terminus, live at https://2047.name Ciro mention at: https://2047.name/e/76182458 by https://2047.name/u/5155 which is similar to a <<mohu>> mention. TODO that website shows an <<icp-license>>? Very confusingly also mirrored at https://pincong.org e.g. https://pincong.org/t/10219[]/https://2047.name/t/10219[], which is very similar to <<pincong>>'s address. Related account: https://github.com/PincongBot
+
+https://github.com/2049bbs/2049bbs.github.io / https://2049bbs.github.io/ maintains another archive up to 2019-03-03.
 
 .Side-by-side photos of Chen Mei (陈玫) and Cai Wei (蔡伟). https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html[Source].
 image::{china-dictatorship-media-base}/Chenmei_Caowei.png[height=400]
@@ -5065,7 +5095,7 @@ More information: https://youtube.fandom.com/wiki/NFKRZ
 
 Interesting videos:
 
-* https://www.youtube.com/watch?v=Jp_S_kIowGY "Why You Shouldn't Trust RT (Russia Today)" (2020). Douh!!!!!!
+* https://www.youtube.com/watch?v=Jp_S_kIowGY "Why You Shouldn't Trust RT (Russia Today)" (2020). Douh!!!!!! <<russia-today>>
 * <<my-paranoia-as-a-russian-youtuber>> talks about the <<chilling-effect>>
 
 [[alexei-navalny]]
@@ -5144,6 +5174,13 @@ image::{china-dictatorship-media-base}/Navalny_hospital_sitting.jpg[height=400]
 * https://ru.wikipedia.org/wiki/Протесты_в_Хабаровском_крае
 
 In support to https://en.wikipedia.org/wiki/Sergei_Furgal[Sergei Furgal] (https://ru.wikipedia.org/wiki/Фургал,_Сергей_Иванович[Фургал, Сергей Иванович]).
+
+=== Russian state media
+
+[[russia-today]]
+==== Russia Today (RT)
+
+* https://en.wikipedia.org/wiki/RT_(TV_network)
 
 === Censorship of images in the Soviet Union
 
@@ -8411,6 +8448,11 @@ Partial support:
 
 * https://en.wikipedia.org/wiki/Boxun https://zh.wikipedia.org/wiki/博讯
 
+[[jamestown-foundation]]
+===== Jamestown Foundation (USA government media)
+
+https://en.wikipedia.org/wiki/Jamestown_Foundation
+
 ==== USA-based media bias
 
 2018 graph that everyone needs to see: https://ei.marketwatch.com/Multimedia/2018/02/28/Photos/NS/MW-GE557_MediaB_20180228115701_NS.jpg
@@ -9304,8 +9346,15 @@ See also:
 
 Lists:
 
+* https://www.wallmama.com/ 墙妈妈 is one of the top Google hits and mentions amongst others:
+** VPN obviously
+** SOCKS5 (lantern, 蓝灯)
+* https://github.com/vpncn/vpncn.github.io on <<github>> reviews VPN services
 * https://en.wikipedia.org/wiki/Lantern_(software)
+** https://zh.wikipedia.org/wiki/蓝灯
 ** https://github.com/getlantern/lantern on <<github>>
+* SSR (ShadowSocksR)
+** https://github.com/shadowsocksrr/ on <<github>>
 * https://github.com/yinghuocho/firefly-proxy "A proxy software to help circumventing the Great Firewall."
 * https://www.bypasscensorship.org
 * https://github.com/awesome-doge/breaking-gfw-book
@@ -9315,6 +9364,11 @@ It is interesting to note how <<falun-gong>> is a good source of censorship-circ
 Projects:
 
 * https://github.com/Loyalsoldier/v2ray-rules-dat | https://github.com/v2ray/v2ray-core
+
+More info:
+
+* https://en.wikipedia.org/wiki/Internet_censorship_circumvention
+* https://zh.wikipedia.org/wiki/突破网络审查
 
 [[icp-license]]
 ===== ICP license 非经营性网站备案 (2000)
@@ -9966,7 +10020,7 @@ Website openly anti-CCP, e.g. the signup page has <<xi-jinping>> jokes. Very sim
 Backlinks to this page:
 
 * 2020-06-03 https://www.mohu.rocks/article/2227 (https://web.archive.org/web/20200606065812/https://www.mohu.rocks/article/2227[archive]) "专门开一个帖子，以后会把从各处搜刮来的六四学潮的视频、历史、文章之类放在这" (I'm creating this post to collect all the videos, history, articles, etc. that can be found anywhere about the <<tiananmen,Tiananmen Square protests>>)
-** Then one of the replies by "习羊羊与灰战狼" was "link:https://github.com/cirosantilli/china-dictatorship[] "提供一个很全的链接，几乎可以算是反共手册。里面的4.7是谈六四的" (Here is one very complete link, it could almost be considered an anti-CCP manual. Section 4.7 of that page is about Tiananmen.) Ciro liked the sound of that very much :-)
+** Then one of the replies by "习羊羊与灰战狼" was "link:https://github.com/cirosantilli/china-dictatorship[] "提供一个很全的链接，几乎可以算是反共手册。里面的4.7是谈六四的" (Here is one very complete link, it could almost be considered an anti-CCP manual. Section 4.7 of that page is about Tiananmen.) Ciro liked the sound of that very much :-) TODO this also appears on something related to <<terminus2049>>: https://2047.name/e/76182458
 
 == Other sections
 
