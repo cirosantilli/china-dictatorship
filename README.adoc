@@ -596,7 +596,44 @@ Dictators will always live in fear.
 * https://en.wikipedia.org/wiki/Coronavirus_disease_2019
 * https://zh.wikipedia.org/wiki/2019冠状病毒病
 
-The Chinese Government censored the initial outbreak in January and did not inform Wuhan on January 8, which likely made the situation much worse than what it could have been.
+The Chinese Government <<censorship,censored>> the initial outbreak in January and did not inform Wuhan on January 8, which likely made the situation much worse than what it could have been.
+
+On the other hand, one may argue that the "city closure" measures were stronger/faster than in democracies, and maybe that is true.
+
+And <<ciro-santilli>> does believe that the virus would have escaped even if there had been no censorship. Although maybe thousands of lives would have been saved due to smaller saturation of hospitals had a proper early warning been given.
+
+So Ciro's main criticism is that of the censorship of citizen reports the event: <<people-arrested-for-reporting-on-the-2019-corona-virus>>. Why do you need to censor things when you are doing so well?
+
+And it should also be said that some Western politicians have used "blame China" as an excuse to divert attention from their own failures.
+
+Some believe that the Chinese government grossly under-reported death counts. Initial official figures were about only 3300 deaths, in the insanely densely populated Wuhan area, while Italy had reached 10000 deaths:
+
+* 2020-04-19 https://www.youtube.com/watch?v=Nr280LWjJT0&t=2198 Trump says on a White House briefing he does not believe China's case count
+* 2020-04-01 https://www.bloomberg.com/news/articles/2020-04-01/china-concealed-extent-of-virus-outbreak-u-s-intelligence-says CIA speaks
+* 2020-03-29 https://www.dailymail.co.uk/news/article-8165717/Locals-Wuhan-believe-42-000-people-died-coronavirus.html Reports of funerary urns sold
+
+Maybe China is saying the truth this time. Maybe the rapid Dictatorship response worked. But maybe the most important lesson to take out of this is that https://www.theguardian.com/world/2020/oct/27/china-loses-trust-internationally-over-coronavirus-handling[no one] trusts <<censorship-makes-no-one-trust-your-country,in a Dictatorship], after an infinitely long history of lies and <<censorship,the lack of freedom of the press>>.
+
+<<li-hongzhi>> of course doubts those numbers :-) <<falun-gongs-view-of-epidemics>>.
+
+Doctor Li Wenliang (李文亮) reported the virus, but was told by authorities to stay quiet, and later died from the virus, becoming somewhat of a martyr:
+
+* https://www.bbc.com/news/world-asia-china-51409801
+* https://chinadigitaltimes.net/chinese/2020/02/【网络民议】你能做到吗？-你听明白了吗？/
+
+The following excerpt from his forced confession trended:
+
+____
+你能做到吗？ +
+你听明白了吗？
+____
+
+Translation:
+
+____
+Can you manage? +
+Do you understand?
+____
 
 Good timelines so without a fucking paywall:
 
@@ -606,6 +643,7 @@ Good timelines so without a fucking paywall:
 Timeline:
 
 * 2019-12-27 several genomics companies had sequenced the coronavirus and noticed the similarity to Sars. According to GeneBank, https://www.ncbi.nlm.nih.gov/nuccore/MT019529[] the sample was collected on and 23-Dec-2019 and published on 04-FEB-2020
+* 2020-01-01 <<cctv>> announces that posting about it online is a crime: https://www.reddit.com/r/China/comments/ko18aa/on_this_day_one_year_ago_cctv_first_reported_on/
 * 2020-01-03 findings were sent to the https://en.wikipedia.org/wiki/Chinese_Center_for_Disease_Control_and_Prevention[Centre for Disease Control] (CDC, https://zh.wikipedia.org/wiki/中国疾病预防控制中心[中国疾病预防控制中心]) in Beijing, but then the https://en.wikipedia.org/wiki/National_Health_Commission[Chinese National Health Commission] (https://zh.wikipedia.org/wiki/中华人民共和国国家卫生健康委员会[中华人民共和国国家卫生健康委员会]), China's top medical authority, issued orders to not talk about it and destroy samples
 * 2020-01-08 CDC team went to Wuhan to see the situation, was not informed that contagiousness of the disease had been confirmed
 * 2020-01-20 the findings were made public, in an interview with Zhong Nanshan. He later said in an interview that the local government should be blamed:
@@ -626,37 +664,6 @@ News coverage:
 * https://www.vice.com/en_us/article/g5xykx/you-can-now-go-to-jail-in-china-for-criticizing-beijings-coronavirus-response "You Can Now Go to Jail in China for Criticizing Beijing's Coronavirus Response"
 * https://www.vice.com/en_us/article/qjdn4d/doctors-in-wuhan-are-still-dying-and-beijing-is-still-trying-to-silence-them Ai Fen's (艾芬) report of how the situation was mishandling was censored
 * 2020-04-13 https://edition.cnn.com/2020/04/12/asia/china-coronavirus-research-restrictions-intl-hnk/index.html "Beijing tightens grip over coronavirus research, amid US-China row on virus origin". The Government can now veto papers from being published on the subject of the origin of COVID-19.
-
-Some believe that the Chinese government grossly under-reported death counts. Official figures were about only 3300 deaths, in the insanely densely populated Wuhan area, while Italy had reached 10000 deaths:
-
-* 2020-04-19 https://www.youtube.com/watch?v=Nr280LWjJT0&t=2198 Trump says on a White House briefing he does not believe China's case count
-* 2020-04-01 https://www.bloomberg.com/news/articles/2020-04-01/china-concealed-extent-of-virus-outbreak-u-s-intelligence-says CIA speaks
-* 2020-03-29 https://www.dailymail.co.uk/news/article-8165717/Locals-Wuhan-believe-42-000-people-died-coronavirus.html Reports of funerary urns sold
-
-Maybe China is saying the truth this time. Maybe the rapid Dictatorship response worked. But maybe the most important lesson to take out of this is that https://www.theguardian.com/world/2020/oct/27/china-loses-trust-internationally-over-coronavirus-handling[no one] trusts <<censorship-makes-no-one-trust-your-country,in a Dictatorship], after an infinitely long history of lies and <<censorship,the lack of freedom of the press>>.
-
-<<li-hongzhi>> of course doubts those number :-) <<falun-gongs-view-of-epidemics>>.
-
-On the other hand, one may argue that the "city closure" measures were stronger/faster than in democracies.
-
-Doctor Li Wenliang (李文亮) reported the virus, but was told by authorities to stay quiet, and later died from the virus, becoming somewhat of a martyr:
-
-* https://www.bbc.com/news/world-asia-china-51409801
-* https://chinadigitaltimes.net/chinese/2020/02/【网络民议】你能做到吗？-你听明白了吗？/
-
-The following excerpt from his forced confession trended:
-
-____
-你能做到吗？ +
-你听明白了吗？
-____
-
-Translation:
-
-____
-Can you manage? +
-Do you understand?
-____
 
 .https://en.wikipedia.org/wiki/Assemblage_(art)[Assemblage] of a https://en.wikipedia.org/wiki/Respirator[respirator mask] with a https://en.wikipedia.org/wiki/Gag_(BDSM)[BDSM gag ball] attached to it, suggesting that citizen reports of COVID-19 in China have been censored. https://twitter.com/FakeNewsOfChina/status/1221396086033530880[Source].
 image::{china-dictatorship-media-base}/Covid_gag_mask.jpg[height=600]
@@ -1642,14 +1649,6 @@ Henry Kissinger 亨利·基辛格
 https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat[1953 Iranian coup d'état] https://zh.wikipedia.org/wiki/1953年伊朗政變[1953年伊朗政變] (TPAJAX Project, Operation Ajax) +
 ____
 
-Some quick replies to the idiotic things wumaos like to post:
-
-* https://en.wikipedia.org/wiki/Killing_of_George_Floyd[George Floyd] https://zh.wikipedia.org/wiki/乔治·弗洛伊德之死[乔治·弗洛伊德之死]: the murder video went viral and was not taken down (would have been in China), all four officers were charged, and the event sparked nation wide protests
-+
-And the Chinese are also obviously at least as racist, if not more: https://www.theguardian.com/commentisfree/2020/apr/25/coronavirus-exposed-china-history-racism-africans-guangzhou
-+
-Wumao example: https://web.archive.org/web/20200618071130/https://github.com/cirosantilli/china-dictatorship/issues/112#issuecomment-645716105
-
 See also:
 
 * <<richer>>
@@ -1659,6 +1658,27 @@ See also:
 
 .https://en.wikipedia.org/wiki/Signe_Wilkinson[Signe Wilkinson] 2017 Free Speech "Can you just move it so it doesn't cover them?" umbrella cartoon. Ciro once saw a <<wumao>> post this. It made him smile. If the cartoon were about <<dictatorship,dictatorships>>, https://en.wikipedia.org/wiki/Uncle_Sam[Uncle Sam] would be instead <<intolerance,decapitating and raping the people on one half of the umbrella>>. Of course humans are <<flg-intolerance,shit in democracies as well>>, but at least that system makes it harder for them to oppress each other. http://www.cartoonistgroup.com/store/add.php?iid=161799[Source].
 image::{china-dictatorship-media-base}/Free_speech_umbrella.jpg[height=400]
+
+===== The West is racist against black people
+
+Notably mentioning:
+
+* https://en.wikipedia.org/wiki/Killing_of_George_Floyd[George Floyd]
+* https://zh.wikipedia.org/wiki/乔治·弗洛伊德之死[乔治·弗洛伊德之死]
+
+The murder video went viral and was not taken down (would have been in China), all four officers were charged, and the event sparked nation wide protests
+
+Of course there is racism in the West. And we must recognize that, and fight it.
+
+But Ciro feels strongly that the Chinese are also obviously at least as racist against blacks, if not more, based on conversations he's had/overheard, and other circumstantial indications:
+
+* https://www.theguardian.com/commentisfree/2020/apr/25/coronavirus-exposed-china-history-racism-africans-guangzhou
+
+Wumao example: https://web.archive.org/web/20200618071130/https://github.com/cirosantilli/china-dictatorship/issues/112#issuecomment-645716105
+
+[[don-t-hire-blacks]]
+.https://www.youtube.com/watch?v=d81mEbL8Yw8 Don't Hire Blacks - A Corporate Exposé of Racist Companies | The Chinese Tea | Chinese T | CCP | CPC by <<aaron-dewitt,The Chinese Tea>> (21-09-2020)
+video::d81mEbL8Yw8[youtube,height=400,width=600]
 
 ===== Western democracies have invaded other countries and crushed separatism
 
@@ -2506,6 +2526,8 @@ Subs with lots of anti-commie info:
 ** https://www.reddit.com/r/CCJ
 ** https://www.reddit.com/r/CCJ2
 * https://www.reddit.com/r/tibet/ 3k subs 2020
+* https://www.reddit.com/r/saraba2nd/ (第二新S1市) modded by <<chinatimeline>> TODO title meaning
+* https://www.reddit.com/r/BoycottChina/
 
 TODO review:
 
@@ -3363,6 +3385,7 @@ Some Chinese spy stories:
 * 2020-12-09 Christine Fang https://www.axios.com/china-spy-california-politicians-9d2dfb99-f839-4e00-8bd8-59dec0daf589.html "Exclusive: Suspected Chinese spy targeted California politicians". In 2015, she was fucking some politicians and infiltrating parties, but as suspicions arose, Beijing likely called her back.
 * 2020-09-21 Baimadajie Angwang
 ** https://www.cnbc.com/amp/2020/09/21/nypd-cop-charged-with-acting-as-china-agent.html "New York City police officer spied on fellow Tibetans for China, prosecutors charge"
+* 2020-08-21 https://www.youtube.com/watch?v=f3hwdsbh6-M "I worked for the Chinese State Department – 中公教育党委 – offcn CCP Committee" more info at <<aaron-dewitt>>
 * 2019-01-15 Kevin Mallory
 ** 2019-01-15 https://www.bbc.co.uk/news/world-us-canada-46557096 "Kevin Mallory: The churchgoing patriot who spied for China"
 +
@@ -4281,15 +4304,21 @@ https://github.com/2049bbs/2049bbs.github.io / https://2049bbs.github.io/ mainta
 .Side-by-side photos of Chen Mei (陈玫) and Cai Wei (蔡伟). https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html[Source].
 image::{china-dictatorship-media-base}/Chenmei_Caowei.png[height=400]
 
-====== chinatimeline
+[[chinatimeline]]
+====== chinatimeline (中国时间线)
 
 https://github.com/chinatimeline/chinatimeline.github.io
 
-Explores several sentitive topics through interesting timelines with many pictures, for example:
+Explores several sensitive topics through interesting timelines with many pictures, for example:
 
 * <<tiananmen>>: https://chinatimeline.github.io/tiananmen/
 * <<corona>>: https://chinatimeline.github.io/wuhan-coronavirus/
 * religious persecution, including <<falun-gong>>: https://chinatimeline.github.io/religion_tl1/
+
+Some minor relationships with <<terminus2049>>:
+
+* https://github.com/chinatimeline/chinatimeline.github.io/issues/3
+* https://gist.github.com/chinatimeline/5386a4f9d82483aa5346b17d8d324877
 
 ====== duty-machine
 
@@ -4673,6 +4702,8 @@ URL: https://lihkg.com
 
 <<hong-kong>> Reddit. Requires a Hong Kong IP or university address to login, a bit in the spirit of <<ptt>> to avoid <<wumao>>.
 
+If it goes down, they created: https://www.reddit.com/r/LIHKG/ on <<reddit>>.
+
 TODO meaning of "LI"?
 
 <<ciro-santilli>> mentions:
@@ -4816,7 +4847,7 @@ image::{china-dictatorship-media-base}/Tianmen_lesbian_kiss.jpg[height=500]
 image::{china-dictatorship-media-base}/Qing_Dinasty_gay_foreplay.jpg[height=400]
 
 [[russia]]
-== Russia 俄罗斯
+== Russia (俄罗斯)
 
 Russia is clearly the number 2 <<dictatorship>> in the world by population / GDP and the link:https://www.ploughshares.org/world-nuclear-stockpile-report[#1 nuclear arsenal], so here we go.
 
@@ -5178,7 +5209,7 @@ In support to https://en.wikipedia.org/wiki/Sergei_Furgal[Sergei Furgal] (https:
 === Russian state media
 
 [[russia-today]]
-==== Russia Today (RT)
+==== Russia Today (RT, Russian state media)
 
 * https://en.wikipedia.org/wiki/RT_(TV_network)
 
@@ -5194,6 +5225,14 @@ image::{china-dictatorship-media-base}/Malchenko.jpg[height=500]
 
 .Same as above, but with Alexander Malchenko edited out. link:++https://en.wikipedia.org/wiki/File:St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg++[Source].
 image::{china-dictatorship-media-base}/No_Malchenko.jpg[height=500]
+
+==== Soviet Union radio jamming stations
+
+https://en.wikipedia.org/wiki/Radio_in_the_Soviet_Union#Radio_jamming
+
+Ah, the good old days <<gfw,before the TCP/IP>>, when you could just jam around a border ;-)
+
+http://www.antentop.org/008/files/jamm008.pdf has good pics.
 
 [[stalin]]
 === Stalin 斯大林 (1922-1952)
@@ -5245,6 +5284,12 @@ The dictator: https://en.wikipedia.org/wiki/Alexander_Lukashenko[Alexander Lukas
 
 https://en.wikipedia.org/wiki/2020_Belarusian_protests[2020 Belarusian protests].
 
+[[moscow-minsk-friendship-mural]]
+.The Moscow-Minsk friendship mural in Minsk (capital of Belarus), originally meant to show the harmonious alliance between Belarus and Russia, was defaced in 2016 by adding barbed wire amidst the flowers held and worn by the boy and girl which represent Russia and Belarus respectively, which indicates that the friendship is actually a prison for Belarus. <<dictatorships-tend-to-work-together>> comes to mind. Photo by Aleh Larychau. Upload https://commons.wikimedia.org/wiki/Commons:Deletion_requests/File:Mural_Minsk-Moscow_in_Minsk_1.jpg[on Wikimedia Commons] deleted because of the lack of https://commons.wikimedia.org/wiki/Commons:Freedom_of_panorama[Freedom of panorama in Belarus]. https://www.euronews.com/2020/12/21/how-the-crisis-in-belarus-is-politicising-a-new-wave-of-street-artists[].
+image::{cirosantilli-media-base}/Moscow-Minsk_friendship_mural_girl_with_barbed_wire.jpg[height=400]
+
+https://commons.wikimedia.org/wiki/File:Mural_Minsk-Moscow_in_Minsk_1.jpg
+
 ==== Kazakhstan
 
 https://en.wikipedia.org/wiki/Kazakhstan
@@ -5256,13 +5301,21 @@ video::eB9O4PU5Nnk[youtube,height=400,width=600]
 
 Dictatorships naturally become allies.
 
-The thing a dictatorship is afraid more than anything is of its citizens, and therefore that they might be influenced by democracies to rebel against the oppression.
+The thing a dictatorship is afraid more than anything is of their own citizens, and therefore that they might be influenced by democracies to rebel against the oppression.
 
 For this reason, the world basically always tumbles into a dictatorship vs democracy global war.
 
 Also, since dictatorships don't need to convince their people of anything, they tend to make such alliances much faster.
 
-Of course, smaller countries sometimes forget that there is only one end to being allied to a dictatorship: domination.
+But this presents a serious dilemma to dictatorships, because you can't really trust the other dictator either, as they are just waiting to put a knife behind your back at all times.
+
+This leads to constant tensions between allied dictatorships, e.g. <<russia>> vs China:
+
+* 2020-07-02 https://www.scmp.com/news/china/diplomacy/article/3091611/why-russias-vladivostok-celebration-prompted-nationalist "Why Russia's Vladivostok celebration prompted a nationalist backlash in China" on <<scmp>>
+
+This creates one of the most serious strategic problems faced by dictatorships. It is similar situation with organized crime.
+
+And of course, when a smaller dictatorship like <<belarus>> makes an alliance with a larger dictatorship, they basically immediately become a https://en.wikipedia.org/wiki/Vassal_state[vassal state], see e.g. <<moscow-minsk-friendship-mural>>.
 
 ==== Anti-dictatorship alliances
 
@@ -8112,6 +8165,49 @@ video::b6PI91n2f9o[youtube,height=400,width=600]
 .https://www.youtube.com/watch?v=NXpPpFzLcZg "China's Winnie The Pooh BAN Explained" published on 2019-10-28 discusses <<winnie-the-pooh>>.
 video::NXpPpFzLcZg[youtube,height=400,width=600]
 
+[[aaron-dewitt]]
+==== Aaron DeWitt (The Chinese Tea)
+
+Online presence:
+
+* https://www.youtube.com/channel/UC9xhMZtll7ssDnSwFRTS_mQ
+** https://www.youtube.com/watch?v=QkApnaIZFJw&list=PLvRF9X9O58vKO1GGejwzbLaKBPaW4WdTD contains a playlist he forgot to delete with his own videos, including the https://www.youtube.com/watch?v=KFOh9AoAv2U "TikTok Hired me" URL and: https://www.youtube.com/watch?v=f3hwdsbh6-M "I worked for the Chinese State Department – 中公教育党委 – offcn CCP Committee"
+* https://thechineset.com his online shop with anti-CCP memorabilia
+* https://www.facebook.com/gayshuaige
+** https://www.facebook.com/TheBritishHongKong/posts/httpsyoutubekfoh9aoav2u/10157024077436792/ links to
+* https://www.reddit.com/user/dontlikegina is likely his account, as it is basically about him self advertising, and coherent with him likely being gay based on appearance in videos
+** https://www.reddit.com/r/BoycottChina/comments/j6iahm/naming_the_racist_companies_that_dont_hire_black/ by dontlikegina points to: https://www.youtube.com/watch?v=c6uFGG "Naming the Racist Companies that Don’t Hire Black People", see below
+* https://www.instagram.com/letsdewitt/
+
+Deleted some of his videos, so likely either legal or intelligence trouble.
+
+https://www.youtube.com/watch?v=f3hwdsbh6-M "I worked for the Chinese State Department – 中公教育党委 – offcn CCP Committee" (2020-08-21) is the most eyepopping video based on its description from http://web.archive.org/web/20201102122911if_/https://www.youtube.com/watch?v=f3hwdsbh6-M&feature=youtu.be[archive] (video not visible, only description, likely CIA deletion request):
+
+____
+Interviewing potential spies for for the Ministry of Foreign Affairs of the People's Republic of China, on behalf of 中公教育 (offcn) - a $30B+ company, funded and managed by the Chinese Communist Party. I worked there from 2019 to 2020. I have lived in China from 2014 - 2020, speak Mandarin Chinese, and am now blacklisted by the Chinese government - a badge of honor.
+____
+
+so holy fuck, Ciro actually feels this one could honestly be a <<spy,CIA deletion request>>.
+
+offcn is the short name for the company 中公教育党委 which literally means "Chinese Public Education Party". TODO what do they do exactly? They seem to have strong CCP party links: http://edu.people.com.cn/n1/2018/0510/c1006-29977260.html[], maybe they are a "corporate training" company for the CCP itself.
+
+Discussions threads:
+
+* https://www.reddit.com/r/taiwan/comments/ie85jr/i_worked_for_the_chinese_state_department_中公教育党委/ claims to be a self post which was later deleted "(I own this video, Taiwan is mentioned multiple times)"
+* https://sirmax1.wordpress.com/2020/08/22/i-worked-for-the-chinese-state-department-中公教育党委-offcn-ccp-committee-via-r-wikileaks/
+* https://www.reddit.com/r/LIHKG/comments/ies9jh/i_worked_for_the_chinese_state_department_中公教育党委/ on ther <<reddit>> <<lihkg>> backup
+* https://www.reddit.com/r/saraba2nd/comments/ieiq7m/外国人爆料i_worked_for_the_chinese_state_department/
+
+https://www.youtube.com/watch?v=KFOh9AoAv2U "TikTok Hired Me in China: Exposing their Lies, Insider Leaks" is not archived at all.
+
+https://www.youtube.com/watch?v=c6uFGGunRxc "Naming the Racist Companies that Don't Hire Black People". According to https://web.archive.org/web/20201007015433if_/https://www.youtube.com/watch?v=c6uFGGunRxc&feature=youtu.be (viewable 2020-12-31) the original title was "Spilling the Chinese Tea" and the description is:
+
+____
+Discussing companies that operate in America and refuse to hire black people. These companies avoid following U.S. EEO laws because they're headquartered in mainland China, a country that does not protect people of color from racial discrimination.
+____
+
+The video shows a call with a black man (TODO who is that) where he talks about anti-black racism on employment in China. Nothing eye-popping, mostly references <<don-t-hire-blacks>>. Mentions he is under NDA and cannot reveal the name of the company.
+
 == Media (媒体)
 
 Sources of information pertinent to this repository.
@@ -9006,7 +9102,7 @@ image::{china-dictatorship-media-base}/Quan_Ping_tshirt.jpg[height=400]
 image::{china-dictatorship-media-base}/Liu_Shihui_tshirt.jpg[height=500]
 
 [[gfw]]
-==== Great Firewall (GFW) 防火长城
+==== Great Firewall (GFW, 防火长城)
 
 * https://en.wikipedia.org/wiki/Great_Firewall
 * https://zh.wikipedia.org/wiki/防火长城
@@ -9228,6 +9324,12 @@ It is possible to request social media pages you own to be removed from the arch
 
 Some website specific techniques:
 
+* YouTube videos: they do seem to download them!!! E.g. a deleted pair from <<aaron-dewitt>>:
+** https://www.youtube.com/watch?v=d81mEbL8Yw8&feature=youtu.be
+** https://web.archive.org/web/20201103072718if_/https://www.youtube.com/watch?v=d81mEbL8Yw8&feature=youtu.be
+** But the interface may be very broken, possibly due to the arabic youtube interface, you might just have to click around sometimes
+** It is possible to get a raw mp4 link with as mentioned at https://forum.videohelp.com/threads/391951-How-to-download-a-YouTube-video-archived-by-Wayback-Machine: https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/<video-id> e.g.: https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/c6uFGGunRxc[], the download did work on 2020-12-31. It redirects to
+** as of 2020-12, immediately after an archive it shows a magic message: "Sorry the Wayback Machine does not have this video (<id>) archived (or not indexed yet)."
 * Google Docs: visit the page while logged off (e.g. via browser private mode), click the print button, and then archive the resulting PDF URL
 
 How to search by prefix/pattern: https://webapps.stackexchange.com/questions/146661/how-to-search-the-internet-archives-wayback-machine-by-url-prefix-or-pattern
@@ -9353,8 +9455,7 @@ Lists:
 * https://en.wikipedia.org/wiki/Lantern_(software)
 ** https://zh.wikipedia.org/wiki/蓝灯
 ** https://github.com/getlantern/lantern on <<github>>
-* SSR (ShadowSocksR)
-** https://github.com/shadowsocksrr/ on <<github>>
+* SSR (<<shadowsocks>>)
 * https://github.com/yinghuocho/firefly-proxy "A proxy software to help circumventing the Great Firewall."
 * https://www.bypasscensorship.org
 * https://github.com/awesome-doge/breaking-gfw-book
@@ -9369,6 +9470,47 @@ More info:
 
 * https://en.wikipedia.org/wiki/Internet_censorship_circumvention
 * https://zh.wikipedia.org/wiki/突破网络审查
+
+====== Hide destination IP until it leave the country
+
+TODO is there any way to do use this to overcome IP blocks? You would wait until the packet leaves the country to reveal the final destination IP:
+
+* https://security.stackexchange.com/questions/1358/what-tools-are-available-to-identify-which-country-a-specific-ip-address-is-loca
+* https://stackoverflow.com/questions/9802046/identifying-country-by-ip-address
+* https://stackoverflow.com/questions/409999/getting-the-location-from-an-ip-address
+* https://security.stackexchange.com/questions/12857/is-it-trivial-to-bypass-ip-blocking
+* https://tor.stackexchange.com/questions/15483/how-can-i-use-tor-in-china
+
+[[ensi]]
+====== TLS 1.3 ENSI
+
+* https://blog.cloudflare.com/encrypted-sni
+* https://en.wikipedia.org/wiki/Server_Name_Indication#Encrypted_Client_Hello
+
+This amazing standardized feature encrypts the domain as well as the URL.
+
+This means that censors are unable to block only certain websites via DNS blocks, which is one of the main techniques used. But they can still block by IP, no?
+
+In 2020-08, it was reported that the firewall was already blocking it: https://www.zdnet.com/article/china-is-now-blocking-all-encrypted-https-traffic-using-tls-1-3-and-esni/
+
+Therefore, <<what-should-western-countries-do-about-china,all the West has to do>> is to force all of its websites to serve ENSI-only!
+
+====== ShadowSocks
+
+* https://en.wikipedia.org/wiki/Shadowsocks
+* https://github.com/shadowsocksrr/ on <<github>>
+* https://chinadigitaltimes.net/2015/08/circumvention-tool-deleted-after-police-visit-developer/
+* https://github.com/shadowsocks/shadowsocks-iOS/issues/124#issuecomment-133630294 used to contain:
++
+____
+Two days ago the police came to me and wanted me to stop working on this. Today they asked me to delete all the code from GitHub. I have no choice but to obey.
+
+I hope one day I'll live in a country where I have freedom to write any code I like without fearing.
+____
+
+TODO vs VPN:
+
+* https://superuser.com/questions/1233614/what-is-the-difference-between-shadowsocks-and-openvpn
 
 [[icp-license]]
 ===== ICP license 非经营性网站备案 (2000)
@@ -9398,20 +9540,6 @@ In 2014, almost 15 years later, <<russia>> finally caught up, what a relief: <<r
 * https://www.rfa.org/english/news/china/ban-08282017112633.html
 * https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/
 * https://advox.globalvoices.org/2017/08/27/china-to-ban-anonymous-online-comments-blacklist-users/
-
-[[ensi]]
-===== TLS 1.3 ENSI
-
-* https://blog.cloudflare.com/encrypted-sni
-* https://en.wikipedia.org/wiki/Server_Name_Indication#Encrypted_Client_Hello
-
-This amazing standardized feature encrypts the domain as well as the URL.
-
-This means that censors are unable to block only certain websites!!!
-
-In 2020-08, it was reported that the firewall was already blocking it: https://www.zdnet.com/article/china-is-now-blocking-all-encrypted-https-traffic-using-tls-1-3-and-esni/
-
-Therefore, <<what-should-western-countries-do-about-china,all the West has to do>> is to force all of its websites to serve ENSI-only!
 
 [[cac]]
 ===== Cyberspace Administration of China (CAC, 国家互联网信息办公室)
