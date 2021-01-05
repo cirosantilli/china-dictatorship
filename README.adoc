@@ -3109,6 +3109,7 @@ News:
 
 * 2020-11-12 https://www.bbc.co.uk/news/world-asia-china-54899171 "Hong Kong pro-democracy lawmakers resign after China ruling"
 * 2020-08-30 https://www.youtube.com/watch?v=eWxuzuBXh1U "Chinese Police Arrest Hong Kong Activist Andy Li (李宇轩), 11 Others, for Attempting to Flee to Taiwan"
+** 2021-01-4 https://www.scmp.com/news/hong-kong/politics/article/3116301/mainland-chinese-lawyer-who-assisted-one-hong-kong "Mainland Chinese lawyer who helped one of the Hong Kong fugitives in Shenzhen threatened with loss of licence"
 * 2020-08-22 https://hk.appledaily.com/us/20200822/QS26FF4DBFE7PG2LJJEO4NSQTQ/ they are already trying to remove sensitive materials from history textbooks
 ** 2020-08-21 https://www.bbc.com/zhongwen/trad/chinese-news-53846482 "香港通識科課本大幅度修改涉政治取向內容引發爭議" appears to give more concrete details. An English infographic at: https://www.reddit.com/r/China/comments/ig9xca/some_censorship_examples_of_the_latest_changes/
 * 2020-08-10 https://www.bloomberg.com/news/articles/2020-08-10/hong-kong-media-tycoon-jimmy-lai-arrested-apple-daily-reports[] "Hong Kong Media Tycoon Arrested in Latest Blow to Democracy Camp"
@@ -3527,6 +3528,8 @@ ____
 
 At any point the Chinese government could make a request that they cannot deny.
 
+List of bad things Huawei has done: https://github.com/evil-huawei/evil-huawei Mostly not political.
+
 Some news:
 
 * 5G 2019-2020
@@ -3617,6 +3620,12 @@ The "Google of China":
 ** https://zh.wikipedia.org/wiki/百度百科
 ** obviously completely censored, e.g.: <<baidu-baike-censorship-of-hao-haidong>>
 ** seems to not have edit history. That would be bad for censorship :-)
+
+[[alibaba]]
+====== Alibaba (阿里巴巴)
+
+* https://en.wikipedia.org/wiki/Alibaba_Group
+* https://zh.wikipedia.org/wiki/阿里巴巴集团
 
 ===== What should Western media do about China?
 
@@ -4194,16 +4203,7 @@ Skipping all <<falun-gong>>/<<epoch-times>> repos with very few stars, mostly so
 
 For lists of censored information outside of GitHub see: <<lists-of-material-censored-in-china>>.
 
-Content outside of GitHub: <<lists-of-material-censored-in-china>>.
-
-* taibangle (太棒了)
-** https://github.com/taibangle/awesome-china
-** https://github.com/taibangle/lennon-wall
-* https://github.com/sikaozhe1997/Xin-Yue
-** Open letter by student activist https://en.wikipedia.org/wiki/Yue_Xin_(activist)[Yue Xin] (https://zh.wikipedia.org/wiki/岳昕[岳昕]) about the events described at https://web.archive.org/web/20200104064812/https://www.nytimes.com/2018/04/09/world/asia/china-metoo-gao-yan.html["China's #MeToo: How a 20-Year-Old Rape Case Became a Rallying Cry"]
-** https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md in-tree translation
-** 2018-04 https://chinadigitaltimes.net/2018/04/translation-open-letter-on-peking-university-metoo-case/ "TRANSLATION: OPEN LETTER ON PKU #METOO CASE"
-* https://github.com/Project-Gutenberg/Pincong see also <<pincong>>
+For content outside of GitHub: <<lists-of-material-censored-in-china>>.
 
 Mentioned in other sections:
 
@@ -4213,6 +4213,26 @@ Mentioned in other sections:
 * https://github.com/jasonqng/chinese-keywords mentioned at <<where-can-i-find-good-words-for-a-keyword-attack>>
 * https://github.com/programthink/zhao from <<programthink>>
 * <<censorship-monitoring-tools-on-github>>
+* https://github.com/evil-huawei/evil-huawei from <<huawei>>
+* https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo from <<xi-jinping-thought>>
+
+Not mentioned in other sections:
+
+* taibangle (太棒了)
+** https://github.com/taibangle/awesome-china
+** https://github.com/taibangle/lennon-wall
+* https://github.com/sikaozhe1997/Xin-Yue
+** Open letter by student activist https://en.wikipedia.org/wiki/Yue_Xin_(activist)[Yue Xin] (https://zh.wikipedia.org/wiki/岳昕[岳昕]) about the events described at https://web.archive.org/web/20200104064812/https://www.nytimes.com/2018/04/09/world/asia/china-metoo-gao-yan.html["China's #MeToo: How a 20-Year-Old Rape Case Became a Rallying Cry"]
+** https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md in-tree translation
+** 2018-04 https://chinadigitaltimes.net/2018/04/translation-open-letter-on-peking-university-metoo-case/ "TRANSLATION: OPEN LETTER ON PKU #METOO CASE"
+* https://github.com/Project-Gutenberg/Pincong see also <<pincong>>
+* https://speechfree.github.io/cultural-revolution-database/ 中国文化大革命文库 The Chinese Cultural Revolution Database
+* https://github.com/Luterngun/Record_of_Survival_in_Digital_Totalitarian_Era[] small docuement that goes over <<censorship-circumvention>> and opsec. There was a PDF on GitHub but got removed from master (still in Git history), now links to external websites only. Newbs.
+* https://github.com/nodebe4 personal account with anti-CCP projects
+** https://twitter.com/tansunit claims name 陳純一, "Previous: NGO worker, educator, social activist. Present: Master student @Univ_Paris"
+** https://github.com/NodeBE4/hero 自由人的英雄榜 "List of fredom heroes"
+** https://github.com/NodeBE4/impact good list of Chinese political projects on GitHub
+* https://github.com/fuckcqcs/fuckcqcs contains data from the website about of the company Changchun Changsheng Life Sciences: https://uk.reuters.com/article/uk-china-vaccines-timeline-factbox/the-unfolding-of-chinas-changsheng-vaccine-scandal-idUKKBN1KE1M4 related to the 2018 vaccine scandal. English readme: https://github.com/fuckcqcs/fuckcqcs/blob/master/README_EN.md
 
 Interesting users:
 
@@ -4297,9 +4317,13 @@ How their identities were found:
 
 Terrible opsec... they used real name GitHub emails on early commits, including the institutional university address, before they started better opsec under https://github.com/TerminusBot / terminus2049@protonmail.com
 
-https://github.com/thphd/2047 is a project to restore terminus, live at https://2047.name Ciro mention at: https://2047.name/e/76182458 by https://2047.name/u/5155 which is similar to a <<mohu>> mention. TODO that website shows an <<icp-license>>? Very confusingly also mirrored at https://pincong.org e.g. https://pincong.org/t/10219[]/https://2047.name/t/10219[], which is very similar to <<pincong>>'s address. Related account: https://github.com/PincongBot
+https://github.com/thphd/2047 is a project to restore terminus, live at https://2047.name[] Ciro mention at: https://2047.name/e/76182458[] by https://2047.name/u/5155 which is similar to a <<mohu>> mention, so they seem to share the database? Who knows what's the relation between all those <<pincong>> lookalikes. TODO that website shows an <<icp-license>>? Very confusingly also mirrored at https://pincong.org e.g. https://pincong.org/t/10219[]/https://2047.name/t/10219[], which is very similar to <<pincong>>'s address. Related account: https://github.com/PincongBot
 
-https://github.com/2049bbs/2049bbs.github.io / https://2049bbs.github.io/ maintains another archive up to 2019-03-03.
+https://2047.name[] has a links section at: https://2047.name/links shown on the sideboard, containg links of interest. Some all not are very China specific.
+
+https://2047.name/register registration requires an invitation code.
+
+https://github.com/2049bbs/2049bbs.github.io[] / https://2049bbs.github.io/[] maintains another archive up to 2019-03-03.
 
 .Side-by-side photos of Chen Mei (陈玫) and Cai Wei (蔡伟). https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html[Source].
 image::{china-dictatorship-media-base}/Chenmei_Caowei.png[height=400]
@@ -4954,6 +4978,7 @@ They are the ones who make Russian takedowns on <<github-gov-takedowns>>, e.g. h
 
 Coverage:
 
+* 2020-12-22 https://www.aljazeera.com/news/2020/12/22/russias-putin-signs-bill-giving-presidents-lifetime-immunity "Russia's Putin signs bill giving ex-presidents lifetime immunity". Shit is going down.
 * 2019-12-19: Putin proposes abolishing term limits. <<xi-abolishes-term-limits-2018-03,Learnt from Xi>>:
 ** https://www.independent.co.uk/news/world/europe/putin-presidential-term-limit-russia-moscow-conference-today-a9253156.html
 ** https://uk.reuters.com/article/uk-russia-putin-constitution/putin-says-hes-open-to-tweaking-presidential-term-limits-idUKKBN1YN1JO
@@ -5163,6 +5188,8 @@ For more poisonings see: <<putin-sponsored-poisonings>>.
 
 The second one! The first one was in 2019, but this one is more serious, the German government said tests confirmed it unequivocally that it was Novichok, which was also recently used in <<skripal>>.
 
+* 2020-12-28 https://www.aljazeera.com/news/2020/12/28/russia-gives-navalny-ultimatum-return-immediately-or-face-jail "Russia's ultimatum to Navalny: Return immediately or face jail
+Russia’s prison service accuses Kremlin critic of violating terms of his suspended prison sentence by staying abroad"
 * 2020-12-13 more news are coming:
 ** https://www.bellingcat.com/news/uk-and-europe/2020/12/14/fsb-team-of-chemical-weapon-experts-implicated-in-alexey-navalny-novichok-poisoning/ indicates the names of 8 suspects. They had phone metadata for them including geolocation. How did they get that data??? https://github.com/cirosantilli/china-dictatorship/issues/164
 ** https://www.dw.com/en/navalny-poisoning-russia-made-second-assassination-attempt-report/a-55921189 "Navalny poisoning: Russia made second assassination attempt - report". Says British intelligence told that to The Times, paywall https://www.thetimes.co.uk/article/revealed-kremlin-made-a-second-attempt-to-poison-alexei-navalny-in-botched-assassination-nh32x737j "Revealed: Kremlin made a second attempt to poison Alexei Navalny in botched assassination". TODO any further evidence? WTF they reveal to a paywall newspaper?
@@ -5768,7 +5795,7 @@ Both Mao and Xi have produced their own sacred books which must be revered, much
 
 Furthermore, both of those books are based on speeches, just like just like Li Hongzhi's speeches become instant canon.
 
-This devotion can also be seen in Xi's benevoltent personification: <<xi-dada>>.
+This devotion can also be seen in Xi's benevolent personification: <<xi-dada>>.
 
 See also:
 
@@ -5786,7 +5813,7 @@ https://www.orange-papers.org/orange-cult_q0.html
 
 Down as of 2020-04 archive:
 
-* 2016 archive of the Cult Test, which is the key page of the website:https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q0.html
+* 2016 archive of the Cult Test, which is the key page of the website: https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q0.html This is a must read.
 * latest working homepage archive from 2017: http://web.archive.org/web/20170121225657/https://www.orange-papers.org/
 
 TODO who is the author? Copyright says by "A. Orange". Is it the real name, or just a pun for "I ate an orange"?
@@ -5848,21 +5875,26 @@ And some points which Ciro feels apply which were mentioned in some other articl
 Why would a nation state attack a Cult? This could give the impression that it is because there is something powerful and true in the Cult, and actually menaces this nation state.
 +
 For example, Falun Gong puts huge emphasis on its persecution in China, much like the https://en.wikipedia.org/wiki/Martyr[Martyrdom] of the Catholic Saints is highly emphasised.
-* "Careful control of your imsage": the cult leader is a master at controlling how people view him.
-+
-One aspect of that, is to limit your public appearances to situations in which you have the most control, and notably being surrounded by your believers.
-+
-Li does not announce where he is going, even though he is followed by millions: he just shows up, and local believers whisper to one another and come to see him.
-+
-This reminded Ciro of the following 2012 video he watched, in which VICE was allowed to visit and interview <<russia,Siberian>> prophet https://en.wikipedia.org/wiki/Vissarion[Vissarion] (real name Sergey Anatolyevitch Torop Серге́й Анато́льевич То́роп, AKA "The Russian Jesus"), and they note how well he controlled his appearance.
-+
-[[vissarion]]
-.https://www.youtube.com/watch?v=W2Cv5hZfOmk&t=1177
-video::W2Cv5hZfOmk[youtube,height=400,width=600,start=1177]
 
 This is especially interesting, because the website does not mention Falun Gong at all it seems: it really seems that all those cults are very similar.
 
 It should also be mentioned though that these points extend to any type of human organization, e.g. <<flg-religion,other religions>>, <<democracy-is-a-religion,political parties>>, job associations, etc.
+
+====== Careful control of your image
+
+The cult leader is a master at controlling how people view him.
+
+One aspect of that, is after reaching a certain critical mass of mindless followers, to limit your public appearances to situations in which you have the most control, and notably being surrounded only by your believers.
+
+Because of course: you are human, not a God, and you are going to fuck up from time to time, so why take any risks?
+
+<<li-hongzhi>> does not announce where he is going for the most part, even though he is followed by millions: he just shows up unannounced, and local believers whisper to one another in short advance and come to see him when possible.
+
+This reminded Ciro of the <<vissarion>> video he watched, in which VICE was allowed to visit and interview <<russia,Siberian>> prophet https://en.wikipedia.org/wiki/Vissarion[Vissarion] (real name Sergey Anatolyevitch Torop Серге́й Анато́льевич То́роп, AKA "The Russian Jesus"), and they note how well he controlled his appearance.
+
+[[vissarion]]
+.https://www.youtube.com/watch?v=W2Cv5hZfOmk&t=1177
+video::W2Cv5hZfOmk[youtube,height=400,width=600,start=1177]
 
 [[flg-canon]]
 === What are the canonical Falun Gong texts?
@@ -6755,7 +6787,7 @@ It is indeed tempting to believe that the virus magically kills only the Evil. W
 * https://en.wikipedia.org/wiki/Li_Hongzhi
 * https://zh.wikipedia.org/wiki/李洪志
 
-Li Hongzhi (LHZ, 李洪志) is the creator of FLG: link:https://en.wikipedia.org/wiki/Li_Hongzhi[].
+Li Hongzhi is the creator of <<falun-gong>>: link:https://en.wikipedia.org/wiki/Li_Hongzhi[].
 
 Falun Gong people call him "master" (师父), which is a common traditional term used to respectfully address experienced teachers in a disciple (弟子)/teacher relation, e.g. Kung Fu or other crafts.
 
@@ -6865,20 +6897,37 @@ It could show how:
 Episodes could be split along:
 
 * Episode 1: pre Qi Gong, shows Childhood, workplaces, early motivations. Ends with first contact with a Qi Gong lesson
-* Episode 2: early Falun Gong. Opens an academy. Starts without metaphysics, but grows into it. Show him knowingly lying, but also seething magic things. The first followers, and top lieutenants. Makes some management mistake, but escapes. Could end in a metaphysical scene, or 13 May 1992 initial public lesson. Maybe a scene of Li's visit to <<thailand>> in 1983 (photo from CCP media found on Google).
+* Episode 2: early Falun Gong. Opens an academy. Starts without metaphysics, but grows into it. Show him knowingly lying, but also seething magic things. The first followers, and top lieutenants. Makes some management mistake, but gets away with it. Could end in a metaphysical scene, or 13 May 1992 initial public lesson. Maybe a scene of Li's visit to <<thailand>> in 1983 (photo from CCP media found on Google).
 * Episode 3: later Falun Gong in China. It grows, show in Chinese news. Power struggles, problems with early lieutenants, and new lieutenants come up. Many people practice on streets. Battle against <<zhong-gong>>. Near 1996, something tips Li off to the fact that the CCP is going to crack down on them, and so he announces that he will be spreading abroad full time. Check out if this was before or after the first Anti FLG newspaper article in 1996-06-17.
 * Episode 4: preaching outside of China and emigration. American permanent residence in 1998. Watches crackdown on television. International Falun Gong media. Show him at Falun Gong New York <<dragon-springs,"Dragon Springs">> complex
+
+Or maybe, never mind that boring post 1992 stuff which is already highly public, instead we could focus only on the more interesting pre-1992 events, and finish in 1992.
+
+So per-early FLG up to 1992, with childhood flashbacks.
+
+The tone should of course be a mixture of:
+
+* personal insight of the master
+* the love of a follower
+* external view of their shortcomings
 
 Parts of the series could be filmed in <<taiwan>> maybe?
 
 Source material: <<history-of-falun-gong>>.
 
+Related videos:
+
+* https://en.wikipedia.org/wiki/Wild_Wild_Country (2017) about https://en.wikipedia.org/wiki/Rajneesh[]. Ciro feels that Falun Gong believers would not be as open with external questioners.
++
+But who knows. Episode 3 shows how Rajneesh implemented <<careful-control-of-your-image>>: Sheela was the front-person, and had meetings with him every evening.
+* The Master (2012)
+
 [[li-hongzhis-family]]
-===== Li Hongzhi's family 李洪志的家庭
+===== Li Hongzhi's family (李洪志的家庭)
 
 At least Jesus appeared to value chastity. He was even born from a virgin right? No sex around him at all.
 
-But Li doesn't need that. He's a God right, he can both be an Enlightened God part time and still have a normal family part time.
+But Li doesn't need that. He's a God, right, he can both be an Enlightened God part time and still have a normal family part time.
 
 Once thing Ciro approves about Li's approach to his family is that he seems to have stated (TODO source) that none of them are Gods like him.
 
@@ -6893,10 +6942,17 @@ Wife's name: Li Rui (李瑞 according to CCP). Report saying that a follower bou
 * brothers and sisters, all younger:
 ** Li Jun (李君) older younger sister
 ** Li Ping (李平) younger younger sister
-*** Notably, Li Ping's alleged husband Sun Senjun (孙森伦) is a Chinese-Thai, and allegedly wrote an account of Li Hongzhi's family in the 1980's "我与李洪志一家在泰国的日子——法轮功教主妹夫的自述" ("Diary's of being in <<thailand>> with Li Hongzhi's family") https://www.cp1897.com.hk/product_info.php?BookId=9789996590252[ISBN 9789996590252] This is reproduced on many CCP sources, e.g.: http://lihongzhidaqidi.blogspot.com/2013_09_27_archive.html but it is good reading if you take everything with a grain of salt, does sound believable. TODO find original publishing location. This appears to be an interview: https://www.youtube.com/watch?v=Js0OyNwYw5A (watermarked <<kaiwind>> on top)
+*** Notably, Li Ping's alleged husband Sun Senlun (Natawut Smittipong, 孙森伦) is a Chinese-Thai, and allegedly wrote an account of Li Hongzhi's family in the 1980's: <<diary-s-of-being-in-thailand-with-li-hongzhi-s-family>>
++
+The book also claims that they had two children Sun Baoyuan (孙宝圆) and Sun Baoman (孙宝满), which Li later managed to rename Li Baoyuan (李宝圆) and Li Baoman (李宝满).
++
+<<shen-yun>> had dancers called with those exact same Chinese character names between 2009 and 2020, so it is very likely that it is them:
++
+**** Li Baoyuan: https://zh-cn.shenyunperformingarts.org/artists/view/article/e/tQIEajYbB_s/李宝圆.html
+**** Li Baoman: https://zh-cn.shenyunperformingarts.org/artists/view/article/e/Aw5bu_PdeNI/李宝满.html
 ** Li Hui (AKA Li Donghui) younger brother
 * father: Li Dan
-* mother: Lu Shuzhen
+* mother: Lu Shuzhen. http://wap.uuhomepage.com/StaticWapPages/20161013/20161013062741097.html claims that she died on 2016-08-24 in New York. TODO find a decent report.
 
 There are also claims that Li's birth name was Li Lai (李來).
 
@@ -6907,6 +6963,29 @@ image::{china-dictatorship-media-base}/Li_Hongzhi_with_wife_and_daughter.jpg[hei
 
 .Photo of Christina Li from Shen Yun, which the CCP claims to be Li Meige, daughter of Li Hongzhi. That page also claims that she was awarded Bronze in the 2009 and 2010 NDT Chinese Dance Competition. https://web.archive.org/web/20121211022246/zh-cn.shenyunperformingarts.org/artists/biography/view/WG3gbBQudOg[Source].
 image::{china-dictatorship-media-base}/Li_Meige_Shenyun.jpg[height=400]
+
+[[diary-s-of-being-in-thailand-with-li-hongzhi-s-family]]
+===== Diary's of being in Thailand with Li Hongzhi's family (我与李洪志一家在泰国的日子——法轮功教主妹夫的自述)
+
+An alleged account of Li Hongzhi's family in the 1980's written by his brother-in-law Sun Senlun (Natawut Smittipong, 孙森伦), who married Li Ping.
+
+ISBN 9789996590252: https://www.cp1897.com.hk/product_info.php?BookId=9789996590252[]
+
+This is reproduced likely without copyright on many CCP sources, e.g.: http://lihongzhidaqidi.blogspot.com/2013_09_27_archive.html which links to <<kaiwind>>'s HTML reproduction.
+
+The <<kaiwind>> links are all dead now, but they are all still visible under: https://web.archive.org/web/20191230124120/http://lihongzhidaqidi.blogspot.com/2013_09_27_archive.html
+
+It is a good reading if you take everything with a grain of salt, does sound quite believable.
+
+https://web.archive.org/web/20191230151939/http://news.kaiwind.com/features/s/201309/27/t20130927_1121750.shtml claims that Li lived in Sun's house in Thailand from May 1991 to March 1992. And that he was baffled when Li started telling the miraculous events of his <<li-hongzhis-hagiography,hagiography>> in the 1992 public talks, how could his wife never told him about any of those amazingly important life events before that point?
+
+TODO find original publishing location.
+
+This appears to be an interview with Sun Senlun about the book: https://www.youtube.com/watch?v=Js0OyNwYw5A (watermarked <<kaiwind>> on top)
+
+Semi weirdly though, https://www.cesnur.org/2001/falun_jan10.htm claims that Senlun was a coordinator of Falun Gong in Thailand as of 2001.
+
+https://www.minghui.org/mh/articles/2020/1/16/原北京师大研究生陶渊在浙江第四监狱遭受的迫害-399012.html[] from 2020 by <<minghui>> claims the book slanders Li Hongzhi's family, and that the CCP forced prisoners to read it.
 
 [[dragon-springs]]
 ===== Dragon Springs (龙泉)
@@ -7179,7 +7258,12 @@ image::{china-dictatorship-media-base}/Xi_Jinping_portrait_2012.jpg[height=400]
 
 Added to the Constitution in preparation for <<xi-abolishes-term-limits-2018-03,eternal rule>>.
 
-<<xi-jinping>>'s <<little-red-book>>.
+<<xi-jinping>>'s <<little-red-book>>. But since it is the 21st century, there's an app for it instead called "Study (for a) Strong Country" designed by <<alibaba>>:
+
+* https://en.wikipedia.org/wiki/Xuexi_Qiangguo
+* https://zh.wikipedia.org/wiki/学习强国
+
+TODO what does this repo do: https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo[]?
 
 Online video version courtesy of <<xinhua>>: http://www.xinhuanet.com/politics/xjpsxkj/index.html[]. Contains <<ccp-cult,devotional>> videos, not text: http://www.xinhuanet.com/politics/xjpsxkj/1.html
 
@@ -7253,7 +7337,10 @@ image::{china-dictatorship-media-base}/Mao_Zedong_in_Yanan.jpg[height=400]
 * https://en.wikipedia.org/wiki/Quotations_from_Chairman_Mao_Tse-tung
 * https://zh.wikipedia.org/wiki/毛主席语录
 
-<<mao-zedong>>'s <<flg-canon>>. Like <<li-hongzhi>>'s, also extracted from talks, see also: <<ccp-cult>>.
+<<mao-zedong>>'s <<flg-canon>>. Like <<li-hongzhi>>'s, also extracted from talks, see also:
+
+* <<ccp-cult>>
+* <<xi-jinping-thought>>
 
 [[hundred-flowers-campaign]]
 ==== Hundred Flowers Campaign 百花齐放 (1956-1957)
@@ -8371,6 +8458,12 @@ Furthermore, Li appears to directly cite some of the main media in Canon or talk
 
 One thing must be said in their favour however: they are incorruptible in their fight against the CCP.
 
+Bibliography:
+
+* https://medium.com/@Ben_D_Hurley/the-agenda-that-drives-falun-gongs-media-organisations-62201ddeff66[]: Ben Hurley's 2019 overview, notably hitting on <<flg-transparent, transparency issues>>
+
+List of smaller ones that didn't deserve a section:
+
 * https://www.secretchina.com/
 * https://fofg.org/
 * https://en.wikipedia.org/wiki/Sound_of_Hope
@@ -8578,7 +8671,7 @@ Just because they are/were funded/founded by the CIA, it doesn't mean that we ca
 * https://en.wikipedia.org/wiki/South_China_Morning_Post
 * https://zh.wikipedia.org/wiki/南華早報
 
-<<hong-kong>> based, but bought by Alibaba in 2016, but it still continued to publish censored stuff widely, e.g.:
+<<hong-kong>> based, but bought by <<alibaba>> in 2016, but it still continued to publish censored stuff widely, e.g.:
 
 * <<hao-haidong>>
 
@@ -9943,6 +10036,11 @@ Related: <<xi-jinping-thought>>.
 
 Typing that on Google also suggested "People also searched for: 网络审查利弊" (What are the pros and cons of censorship?) Priceless. Bomb at: https://github.com/cirosantilli/china-dictatorship/issues/150[]. <<dictatorship-variability>> comes to mind.
 
+[[residential-surveillance]]
+===== Residential Surveillance at a Designated Location (指定居所监视居住)
+
+More accurately: in prison at a secret location, and without the rights to see who you wish, not even a lawyer.
+
 === Support for non-scientific traditional practices
 
 This is especially interesting given that one of the main propaganda reasons for banning <<falun-gong>> was <<flg-medication>>:
@@ -10115,7 +10213,7 @@ It had an <<icp-license>> in 2016, but lost it in 2019 to move servers back to U
 When Ciro later checked the above threads on 2020-12-20, he noticed that all of them had been made restricted to logged in members only, while previously only one of them had been.
 
 [[pincong]]
-=== Pincong 品葱
+=== Pincong (品葱)
 
 https://zh.wikipedia.org/wiki/品葱
 
@@ -10139,7 +10237,7 @@ TODO is is blocked by <<gfw>> or not? <<greatfire>> just hangs forever on it, e.
 <<github>> mirror of selected threads: https://github.com/Project-Gutenberg/Pincong
 
 [[mohu]]
-==== Mohu 膜乎
+==== Mohu (膜乎)
 
 https://www.mohu.rocks
 
@@ -11244,6 +11342,9 @@ Characters:
 
 * <<的>>
 
+[[榜]]
+==== 榜 (bang3)
+
 [[勹]]
 ==== 勹 (bao1, plastic wrap)
 
@@ -12323,6 +12424,7 @@ This section exists mostly to disambiguate the multiple possible Chinese transla
 
 * <<清单>>: a small list created by one person for a particular purpose as in: <<购物清单>>
 * <<列表>>: an infinite list of all possible things of a given type as in: <<现有王位觊觎者列表>>
+* <<榜>>: list of people. https://github.com/NodeBE4/hero 自由人的英雄榜 "List of fredom heroes"
 
 [[for-example]]
 ==== For example (例如)
