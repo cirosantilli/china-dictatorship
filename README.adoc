@@ -1646,7 +1646,7 @@ Guantanamo Bay 关塔那摩湾 +
 extraordinary rendition 非凡的演绎 +
 Abu Ghraib torture and prison abuse 阿布格莱布的酷刑和监狱虐待 +
 Henry Kissinger 亨利·基辛格
-https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat[1953 Iranian coup d'état] https://zh.wikipedia.org/wiki/1953年伊朗政變[1953年伊朗政變] (TPAJAX Project, Operation Ajax) +
+<<iranian-coup-1953>>
 ____
 
 See also:
@@ -2751,6 +2751,7 @@ The US first caved in in 1972 with the https://en.wikipedia.org/wiki/Shanghai_Co
 
 News:
 
+* 20201-01-10 https://www.bloomberg.com/news/articles/2021-01-09/u-s-to-end-restrictions-for-diplomats-regarding-taiwan-pompeo "U.S. Eases Restrictions on Contact With Taiwan in Jab at China"
 * https://www.channelnewsasia.com/news/asia/taiwan-finalises-62-billion-purchase-of-f-16-jets-lockheed-13023336 "Taiwan finalises purchase of F-16 jets from Lockheed Martin". 90 jets, 8 billion USD.
 * 2020-05-26 https://www.taiwannews.com.tw/en/news/3940533 "Brazilian netizens fight back against CCP threats over Taiwan support"
 ** It should also be mentioned that this campaign could be being used/created by pro-Bolsanaro politicians as a way to detract focus from the COVID-19 epidemic that is reaching its deadliest phase in Brazil, e.g.: https://twitter.com/PauloMartins10/status/1265038976617984002
@@ -2885,6 +2886,12 @@ The average annual training for all kinds of workers in urban and rural areas in
 ____
 * 2020-08-27 https://www.buzzfeednews.com/article/alison_killing/satellite-images-investigation-xinjiang-detention-camps "Blanked-Out Spots On China's Maps Helped Us Uncover Xinjiang's Camps". Good technique.
 * 2020-06-29 https://apnews.com/269b3de1af34e17c1941a514f78d764c "China cuts Uighur births with IUDs, abortion, sterilization"
+** 2021-01-07 https://archive.vn/sVB8X Tweet from the "Chinese Embassy in US" verified account said "Study shows that in the process of eradicating extremism, the minds of Uygur women in Xinjiang were emancipated and gender equality and reproductive health were promoted, making them no longer baby-making machines", which could be interpreted as suggesting that birth control was one of the goals of the Xinjiang oppression. Some coverage: https://qz.com/1954520/china-says-it-saved-uyghur-women-from-being-baby-making-machines/
+*** https://www.theguardian.com/commentisfree/2021/jan/09/china-forced-sterilizations-feminist-rebrand comments that there is precedent to that in Peru's dictatorship:
++
+____
+In the 1990s about 350,000 people were sterilized in Peru under a program promoted by President Alberto Fujimori, who argued a lower birth rate was the key to eliminating poverty. “Peruvian women should be the owners of their destiny!” Fujimori said in a 1995 speech to congress. He presented his family-planning campaign as a step forward for feminism, and even got funding from the US Agency for International Development, USAid. Many of the women who were sterilized, however, came from poor indigenous backgrounds and were coerced or forced into the procedure.
+____
 * 2020-06-17 https://www.reuters.com/article/idUSKBN23O3EW "Trump signs bill pressuring China over Uighur Muslim crackdown"
 * 2019-12: https://www.youtube.com/watch?v=dEkliuqQo-g "A Secret Look Inside a Chinese Labor Program for Uighurs | Visual Investigations" by "The New York Times" published on Dec 30, 2019. Description: "China is relocating Uighurs and other Muslim minorities to urban areas as part of a contentious labor program. The Times obtained rare footage taken inside one."
 +
@@ -3107,6 +3114,7 @@ video::M_aXcH1zDEE[youtube,height=400,width=600]
 
 News:
 
+* 2020-01-06 https://www.ft.com/content/ff253c71-6efb-4ca7-9d6c-b5e43d9371ba "Hong Kong police round up dozens of pro-democracy politicians"
 * 2020-11-12 https://www.bbc.co.uk/news/world-asia-china-54899171 "Hong Kong pro-democracy lawmakers resign after China ruling"
 * 2020-08-30 https://www.youtube.com/watch?v=eWxuzuBXh1U "Chinese Police Arrest Hong Kong Activist Andy Li (李宇轩), 11 Others, for Attempting to Flee to Taiwan"
 ** 2021-01-4 https://www.scmp.com/news/hong-kong/politics/article/3116301/mainland-chinese-lawyer-who-assisted-one-hong-kong "Mainland Chinese lawyer who helped one of the Hong Kong fugitives in Shenzhen threatened with loss of licence"
@@ -3148,6 +3156,10 @@ ____
 * 2020-06-03 https://www.theguardian.com/world/2020/jun/03/britain-could-change-immigration-rules-for-hong-kong-citizens "Boris Johnson lays out visa offer to nearly 3m Hong Kong citizens"
 * 2020-05-29 https://www.bbc.co.uk/news/uk-52842303 "UK could offer 'path to citizenship' for Hong Kong's British passport holders"
 * 2020-05-24 https://www.theguardian.com/world/2020/may/24/beijing-to-impose-hong-kong-security-laws-without-delay
+
+Resources:
+
+* https://hkchronicles.com/ Blocked on early 2021 in Hong Kong: https://hkchronicles.com/d/view/announcement-on-blockage
 
 .Over 100 police officers raid the Apple Daily Hong Kong newspaper soon after the <<hong-kong-national-security-law>> started. https://hongkongfp.com/2020/08/10/scores-of-police-raid-office-of-hong-kong-pro-democracy-newspaper-apple-daily/[Source].
 image::{china-dictatorship-media-base}/Apple_Daily_raid.webp[height=600]
@@ -4870,6 +4882,17 @@ image::{china-dictatorship-media-base}/Tianmen_lesbian_kiss.jpg[height=500]
 .<<throne,Qing dynasty>> (18th–19th c.) panel from a scroll showing two men engaging in foreplay, apparently located in the https://en.wikipedia.org/wiki/Kinsey_Institute[Kinsey Institute] as of 2005. For an ancient depiction of heterosexual sexual activity, see <<jin-ping-mei,this image>>. https://en.wikipedia.org/wiki/File:Love_play_in_China.jpg[Source].
 image::{china-dictatorship-media-base}/Qing_Dinasty_gay_foreplay.jpg[height=400]
 
+[[metoo]]
+=== Chinese MeToo movement
+
+* https://en.wikipedia.org/wiki/Me_Too_movement#China
+
+They seem to have had difficulty in expressing themselves due to <<censorship>>, unsurprisingly.
+
+* Zhou Xiaoxuan v. TV anchor Zhu Jun
+* Liu Jingyao v. billionaire Liu Qiangdong
+* Zou Sicong and He Qian v. Deng Fei
+
 [[russia]]
 == Russia (俄罗斯)
 
@@ -5401,6 +5424,22 @@ image::{china-dictatorship-media-base}/Thai_king_prostrated_wife.jpg[height=400]
 .Thai king Vajiralongkorn wearing a https://en.wikipedia.org/wiki/Crop_top[crop top] so tight that it could be called a bra, and accompanied by one of his girlfriends, in a shopping center in Munich. He can wear whatever he wants, but to both wear that and enforce Lèse majesté? That's the ultimate torture for the Thai people. TODO date, exact location, original report. Here is one of the many reports,  https://www.thesun.co.uk/news/3578661/from-fake-tattoos-and-crop-tops-to-making-a-poodle-air-force-chief-the-king-of-thailands-maddest-moments-revealed/[sample report from 2017 in a British tabloid].
 image::{china-dictatorship-media-base}/Thai_king_crop_top.jpg[height=400]
 
+== Iran
+
+First, <<iranian-coup-1953>> Now let's criticize the dictatorship.
+
+* Ayatollah Tanasoli
+** https://www.bbc.co.uk/news/blogs-trending-31164583
+** https://twitter.com/tanasoli
+
+[[iranian-coup-1953]]
+=== 1953 Iranian coup d'état (TPAJAX Project, Operation Ajax, 1953年伊朗政變)
+
+* https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat
+* https://zh.wikipedia.org/wiki/1953年伊朗政變
+
+Yes, this was a <<western-democracies-are-not-perfect,a major fuck up of the West>>.
+
 [[military-dictatorship-in-brazil]]
 == Military dictatorship in Brazil (1964-1985)
 
@@ -5725,9 +5764,21 @@ https://www.scmp.com/comment/insight-opinion/article/1940394/how-rampant-phone-s
 [[flg-cult]]
 ==== Is Falun Gong a cult? 法轮功是邪教吗？
 
-Falun Gong does share many many many characteristics with what many people classify as a "cult", see e.g.: <<orange-papers>>, so "yes" could be a reasonably answer.
+Does <<ciro-santilli>> think Falun Gong a cult? Yes.
 
-However, <<ciro-santilli>> strongly believes that so does any other existing religion e.g. <<christianity>>, and that Falun Gong is not any worse or better than those other well known religions.
+Is the CCP a cult? Yes: <<ccp-cult>>.
+
+Is <<christianity>> a cult? Yes.
+
+Is democracy a cult? Yes: <<democracy-is-a-religion>>.
+
+Is modern science a cult? Maybe.
+
+Therefore, the only question that matters for all the above is the same: are they good or bad cults?
+
+Falun Gong clearly share many many many characteristics with what many people classify as a "cult", see e.g.: <<orange-papers>>.
+
+However, <<ciro-santilli>> strongly believes that so does any other existing religion e.g. Christianity, and that Falun Gong is not any worse or better than those other well known religions.
 
 Ciro therefore believes that the only reasonable stances are to either:
 
@@ -5764,7 +5815,7 @@ As mentioned before, Ciro does not believe that FLG is an "Evil Cult", just anot
 
 Amusingly, <<li-hongzhi,Li>> calls the communists Communist Evil Party (中共邪党) in cannon, well played: https://gb.falundafa.org/chigb/jiangfa5_2.htm
 
-The word "Cult" is much more ambiguous in the West however, and does not necessarily imply "Evil" in certain contexts, just "worship".
+The word "Cult" is much more ambiguous in English however, and does not necessarily imply "Evil" in certain contexts, just "worship".
 
 For example, People from <<ciro-santilli>>'s mother's Protestant Church in Brazil, all say that they are going "to the cult" when referring to when they are going to church to pray, sing and read the Bible together.
 
@@ -5814,7 +5865,7 @@ https://www.orange-papers.org/orange-cult_q0.html
 Down as of 2020-04 archive:
 
 * 2016 archive of the Cult Test, which is the key page of the website: https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q0.html This is a must read.
-* latest working homepage archive from 2017: http://web.archive.org/web/20170121225657/https://www.orange-papers.org/
+* latest working homepage archive from 2019: https://web.archive.org/web/20190925201137/https://www.orange-papers.org/
 
 TODO who is the author? Copyright says by "A. Orange". Is it the real name, or just a pun for "I ate an orange"?
 
@@ -5822,7 +5873,7 @@ https://www.reddit.com/r/Orangepapers/comments/5sh7kg/any_info_on_what_happened_
 
 Claimed interview with him on the 2013 SAFE RECOVERY podcast: https://podfanatic.com/podcast/safe-recovery/episode/orange-papers-founder-terry-talks-about-the-truth-about-aa-1
 
-The website also offered compressed archives, but those were not on Wayback Machine (it is harder because there are many different timestamps available):
+The website also offered compressed archives, but Ciro could not find any of those on the Wayback Machine, although it is hard to be sure because there are many different timestamps available, the section reads:
 
 ____
 Get this entire web site in a set of compressed packages so that you can read it later offline (and burn CDs and give copies to friends).
@@ -5861,6 +5912,8 @@ Conversely, this also poses a risk for the Cult Leader, as new community ideas c
 * "Promised Powers or Knowledge" and "It's a con. You don't get the promised goodies": they seem to believe in a <<flg-religion,Judgement Day like event>> and <<flg-medication,health benefits>>
 * "The Guru is always right", "You are always wrong", "No Graduates", "The Guru Is Extra-Special", "Everybody else needs the guru to boss him around, but nobody bosses the guru around", "The guru criticizes everybody else, but nobody criticizes the guru.": obviously: <<li-hongzhi>>
 ** "Group-think, Suppression of Dissent, and Enforced Conformity in Thinking"
+* Membership Rivalry. Members vie with one another for the guru's attention, and for status within the group. Everyone is trying to become part of the favored inner circle. The leader plays the members off against each other in order to maintain his hold over the cult.
+* Giggly wonderfulness and starry-eyed faith: <<flg-religion,notably visible during in experience sharing>>
 
 There are also however some points which Ciro feels don't apply, and Ciro praises Falun Gong for those:
 
@@ -6427,29 +6480,18 @@ video::ArfGyo6HQ_E[youtube,height=400,width=600,t=1175]
 
 <<ciro-santilli>> believes without non-circumstantial evidence that the huge majority of Falun Gong believers strongly supports Trump.
 
-Like everything else concrete, it is not clear if Li Hongzhi has directly supported this or not.
+Ciro feels that Falun Gong's support of Trump is a fundamental religious issue to the group.
 
-Ciro feels without proof however that it is very likely that he has given such directives to his top tenants, which then flows through the rest of the media.
+Falun Gong seems to believe that Trump is perfect and that everything that he says is true and good. He is essentially a supernatural force of good, as well shown at: <<you-are-not-alone-by-tony-chen-music>>. And his opponents, e.g. Biden and the Left, are the opposite.
 
-Trump has been vocal about China's threat, and correctly so in Ciro's opinion, and therefore is a much needed ally of the Falun Gong movement.
+Like everything else concrete, it is not clear if <<li-hongzhi>> has directly supported this or not.
 
-And they have always undoubtedly been very favorable to Trump in their news coverage.
+Ciro feels without proof however that it is extremely likely that he has given very clear private directives to his top tenants to support Trump, notably to the heads of the key <<falun-gong-media>> organizations.
 
-Of course, so long as those campaigns respect the laws of the country, they are free to do it and must not be interfered. As if other major American media didn't have political agendas: <<usa-based-media-bias>>.
+And then this belief gets pumped endlessly through the Falun Gong media, which completely unilaterally praises and supports Trump and criticizes his opponents, so that all believers understand that this is Li Hongzhi's desire.
 
-This is exactly the same, in fact, as to how <<flg-religion,religious affiliation>> has a huge impact in how the average American votes: https://theconversation.com/how-strong-a-role-does-religion-play-in-us-elections-133224[].
+The most direct public suggestion that Li Hongzhi is directly involved of this was in 2020-11-08 https://www.epochtimes.com/gb/20/11/8/n12534746.htm when the <<epoch-times>> published a poem by <<li-hongzhi>> which Ciro believes is clearly directly supporting Trump, since it was released just after Trump was announced to have lost the presidential elections, amidst claims of electoral fraud under investigation, which Falun Gong media fully and completely supported. The official translation can be found in <<flg-canon>> https://en.falundafa.org/eng/articles/20201108A.html[]:
 
-Trump's immigration policies have turned Asian Americans towards the democrat opposition however as of 2019: https://www.vox.com/policy-and-politics/2019/5/13/18308137/asian-american-voters-immigration-democrats-donald-trump
-
-One saving point of the republicans for Asians is the opposition to university quotas instance, which many Asians feel blocks their high performing kids from top schools for less deserving students. This is suggested for example at: https://www.theatlantic.com/politics/archive/2020/02/yang-asian-americans-affirmative-action/605917/ "Opposition to affirmative action was pulling Asians toward the GOP. Then Yang's campaign began to gather momentum."
-
-Examples:
-
-* NBC News claims that the <<epoch-times>> has donated to Trump propaganda: $1.5 million https://www.nbcnews.com/tech/tech-news/trump-qanon-impending-judgment-day-behind-facebook-fueled-rise-epoch-n1044121
-* after the https://en.wikipedia.org/wiki/2020_United_States_presidential_election[2020 United States presidential election], <<falun-gong-media>> such as <<epoch-times>> was one of the very few medias to not immediately dismiss https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_United_States_presidential_election[Trump's accusations of electoral fraud], as baseless e.g. on 2020-12-12 https://web.archive.org/web/20201212014230/https://www.theepochtimes.com/ the front page read "Election outcome unclear amid legal challenges", at which point most had been shot down. And earlier their editorial had clarified https://web.archive.org/web/20201107223813/https://www.theepochtimes.com/[] "Why The Epoch Times Won't Call the Presidential Race Until All Challenges Are Resolved".
-** 2020-12-16 consider this sample <<ntdtv>> screenshot of the latest videos published at the time: https://archive.vn/Sxn8m[], where it can be seen that about 80-90% of the videos are supporting Trump's electoral fraud claims.
-** 2020-11-08 https://www.epochtimes.com/gb/20/11/8/n12534746.htm the <<epoch-times>> published a poem by <<li-hongzhi>> which Ciro believes has clear undertones of political support for Trump by, just after Trump was announced to have lost the presidential elections, amidst claims of electoral fraud under investigation. The official translation can be found in <<flg-canon>> https://en.falundafa.org/eng/articles/20201108A.html
-+
 ____
 On the General Election
 
@@ -6461,6 +6503,24 @@ When will justice be upheld and our conscience restored? +
 Hongzhi Li +
 November 8, 2020
 ____
+
+To be completely fair, Trump has been vocal about China's threat way before <<corona,COVID>>, and correctly so in Ciro's opinion, and therefore is a much needed ally of the Falun Gong movement, and to anyone that opposes China's threat, like Ciro does.
+
+Furthermore, Ciro does believe that there might be a Democrat bias to media, and that certainly <<hate-speech,social media like Twitter should never ever censor any political statements as it has done for Trump>>.
+
+And of course, so long as those pro-Trump campaigns respect the laws of the country, Falun Gong is free to do it and must not be interfered with. As if other major American media didn't have political agendas: <<usa-based-media-bias>>.
+
+This is exactly the same, in fact, as to how <<flg-religion,religious affiliation>> has a huge impact in how the average American votes: https://theconversation.com/how-strong-a-role-does-religion-play-in-us-elections-133224[].
+
+It seems that Trump's immigration policies have turned Asian Americans towards the democrat opposition however as of 2019: https://www.vox.com/policy-and-politics/2019/5/13/18308137/asian-american-voters-immigration-democrats-donald-trump[].
+
+One saving point of the republicans for Asians is the opposition to university quotas instance, which many Asians feel blocks their high performing kids from top schools for less deserving students. This is suggested for example at: https://www.theatlantic.com/politics/archive/2020/02/yang-asian-americans-affirmative-action/605917/ "Opposition to affirmative action was pulling Asians toward the GOP. Then Yang's campaign began to gather momentum."
+
+Examples:
+
+* NBC News claims that the <<epoch-times>> has donated to Trump propaganda: $1.5 million https://www.nbcnews.com/tech/tech-news/trump-qanon-impending-judgment-day-behind-facebook-fueled-rise-epoch-n1044121
+* after the https://en.wikipedia.org/wiki/2020_United_States_presidential_election[2020 United States presidential election], <<falun-gong-media>> such as <<epoch-times>> was one of the very few medias to not immediately dismiss https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_United_States_presidential_election[Trump's accusations of electoral fraud], as baseless e.g. on 2020-12-12 https://web.archive.org/web/20201212014230/https://www.theepochtimes.com/ the front page read "Election outcome unclear amid legal challenges", at which point most had been shot down. And earlier their editorial had clarified https://web.archive.org/web/20201107223813/https://www.theepochtimes.com/[] "Why The Epoch Times Won't Call the Presidential Race Until All Challenges Are Resolved".
+** 2020-12-16 consider this sample <<ntdtv>> screenshot of the latest videos published at the time: https://archive.vn/Sxn8m[], where it can be seen that about 80-90% of the videos are supporting Trump's electoral fraud claims.
 +
 While Ciro agrees that reporting such events impartially is important and has merit, the fact that so few medias took the lawsuits seriously at all is still indicative of their strong Trump support.
 +
@@ -6471,7 +6531,7 @@ ____
 My social beliefs had transformed from those typical of a left-leaning family to take on a very conservative hue. 
 ____
 
-Inconclusive <<flg-canon>> mentions https://en.minghui.org/html/articles/2019/6/2/177872.html[Fa Teaching at the 2019 New York Fa Conference]:
+Other election/politics related <<flg-canon>> mentions https://en.minghui.org/html/articles/2019/6/2/177872.html[Fa Teaching at the 2019 New York Fa Conference]:
 
 ____
 Question: Misleading news is everywhere in this Internet age, and it's often hard to tell real news from fake. In the upcoming Taiwan and U.S. general elections in 2020, will fake news cloud people's judgment?
@@ -6481,9 +6541,16 @@ ____
 
 As usual, Hongzhi beats round the bush, as per "Different Levels of Truth" of <<orange-papers>>. Ciro feels it <<flg-transparent,would be better for Falun Gong if he just publicly said that believers must support Trump>>.
 
-One wonders how Falun Gong views Trump's ideology of "grabbing them by the pussy". But sure, that was in 2005, he must have converted to Good since.
+One wonders how Falun Gong views Trump's ideology of "https://en.wikipedia.org/wiki/Donald_Trump_Access_Hollywood_tape[grabbing them by the pussy]". But sure, that was in 2005, he must have converted to Good since.
 
-.https://www.youtube.com/watch?v=WaWjFeo0BgU You Are Not Alone by Tony Chen Music (陳東音樂, 2020) is a timeless classic devotional Trump support song. Ciro believes that Tony is overwhelmingly likely a Falun Gong believer due to saying stuff like "I see the true light - You are the Chosen One to fight the Red Demon". This is consistent with Ciro's understanding of FLG's view of the world, where <<falun-gong-believes-that-the-ccp-is-literally-a-manifestation-of-real-devils>> and therefore Trump is the manifestation of a supernatural force oof Good. Chinese version: https://www.youtube.com/watch?v=4ZrVbX8jV_o[], which contains perls such as (official translation) "I see hope - you are the Chosen One to save the world" and "Trump, Trump, you are not alone! Gods and Buddhas are here with you!". The extensive use of Trump's slogan "Make America great again" is also in line with Falun Gong's belief that the world was Good before, but has become Evil today.
+Analysis of Trumps electoral fraud claims:
+
+* https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_United_States_presidential_election
+* 2020-11-2020 https://www.ft.com/content/20b114b5-5419-493b-9923-a918a2527931 "Lawsuit tracker: Donald Trump’s legal battle runs into repeated dead ends" gives the precise names of several of the cases 
+* 2021-01-05 https://www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11 "Trump and Republican officials have won zero out of at least 42 lawsuits they've filed since Election Day" gives an update on several of the cases at that date
+
+[[you-are-not-alone-by-tony-chen-music]]
+.https://www.youtube.com/watch?v=WaWjFeo0BgU You Are Not Alone by Tony Chen Music (陳東音樂, 2020) is a timeless classic devotional Trump support song. by Tony who https://www.youtube.com/watch?v=3AZ-jCiXCpI[is a Falun Gong believer]. This is consistent with Ciro's understanding of FLG's view of the world, where <<falun-gong-believes-that-the-ccp-is-literally-a-manifestation-of-real-devils>> ("I see the true light - You are the Chosen One to fight the Red Demon") and therefore Trump is the manifestation of a supernatural force oof Good. Chinese version: https://www.youtube.com/watch?v=4ZrVbX8jV_o[], which contains perls such as (official translation) "I see hope - you are the Chosen One to save the world" and "Trump, Trump, you are not alone! Gods and Buddhas are here with you!". The extensive use of Trump's slogan "Make America great again" is also in line with Falun Gong's belief that the world was Good before, but has become Evil today. <<epoch-times>> made a https://www.epochtimes.com/b5/18/2/1/n10105396.htm[profile of Tony in 2018].
 video::WaWjFeo0BgU[youtube,height=400,width=600]
 
 === Western media has exaggerated reports on FLG for propaganda reasons
@@ -6925,15 +6992,13 @@ But who knows. Episode 3 shows how Rajneesh implemented <<careful-control-of-you
 [[li-hongzhis-family]]
 ===== Li Hongzhi's family (李洪志的家庭)
 
-At least Jesus appeared to value chastity. He was even born from a virgin right? No sex around him at all.
+Jesus appeared to value chastity. He was born from a virgin. No sex around him at all.
 
 But Li doesn't need that. He's a God, right, he can both be an Enlightened God part time and still have a normal family part time.
 
 Once thing Ciro approves about Li's approach to his family is that he seems to have stated (TODO source) that none of them are Gods like him.
 
 Wife's name: Li Rui (李瑞 according to CCP). Report saying that a follower bought a house and registered it on Li Rui's name as a gift, but Li later returned the gift back: https://www.wsj.com/articles/SB94140245836194819 TODO house address.
-
-<<benjamin-penny-the-religion-of-falun-gong-2012>> gives further family members (some of them are based only on CCP sources however):
 
 * daughter: Li Meige (李美歌) claims born 1982-06 on <<kaiwind>> http://www.kaiwind.com/anticult/kfgc/201311/05/t20131105_1188845.shtml says that she performs in <<shen-yun>> under the name "Christina Li" and even won awards. This Falun Gong sources confirm that a "Christina Li" was a Shen Yun lead dancer as of 2011, but does not confirm that she is the daughter of Li Hongzhi: https://www.theepochtimes.com/where-are-the-ancient-arts-of-china-part-4_1491935.html If this is true, talk about <<orange-papers,"different levels of truth">>! The article also claims that she has had other pseudonyms, including: "Annie Li" and "Li Jingjing" (李晶晶). Here are web archives of the now broken of course Shen Yun pages Kaiwand links to as evidence of her constant name changing (but no mention of her father):
 ** https://web.archive.org/web/20140727034323/http://dance.ntdtv.com/ct/archive/
@@ -6942,6 +7007,7 @@ Wife's name: Li Rui (李瑞 according to CCP). Report saying that a follower bou
 * brothers and sisters, all younger:
 ** Li Jun (李君) older younger sister
 ** Li Ping (李平) younger younger sister
+*** <<china-daily>> http://www.chinadaily.com.cn/hqzx/2012-10/17/content_15825454.htm mentions that Li Jiguang (李继光), the second husband of one of Li Pingy died in 2012
 *** Notably, Li Ping's alleged husband Sun Senlun (Natawut Smittipong, 孙森伦) is a Chinese-Thai, and allegedly wrote an account of Li Hongzhi's family in the 1980's: <<diary-s-of-being-in-thailand-with-li-hongzhi-s-family>>
 +
 The book also claims that they had two children Sun Baoyuan (孙宝圆) and Sun Baoman (孙宝满), which Li later managed to rename Li Baoyuan (李宝圆) and Li Baoman (李宝满).
@@ -6956,7 +7022,10 @@ The book also claims that they had two children Sun Baoyuan (孙宝圆) and Sun 
 
 There are also claims that Li's birth name was Li Lai (李來).
 
-This claims to contain the biography of Li Hongzhi's family (likely all according to CCP sources), including several good pictures: https://kknews.cc/zh-hk/news/bbmz49.html The photo given there for Li Jun appears on this apparently FLG source without mention of the name: https://www.epochweekly.com/b5/103/5805.htm
+Sources:
+
+* <<benjamin-penny-the-religion-of-falun-gong-2012>> gives further family members (some of them are based only on CCP sources however):
+* https://kknews.cc/zh-hk/news/bbmz49.html[] claims to contain the biography of Li Hongzhi's family (likely all according to CCP sources), including several good pictures: The photo given there for Li Jun appears on this apparently FLG source without mention of the name: https://www.epochweekly.com/b5/103/5805.htm
 
 .Li Hongzhi with his wife Li Rui and daughter Li Meige presumably in the late 80's with fishing ships in a shipyard in the background. TODO location. Likely from CCP sources, in many places with <<chinese-government-media,kaiwnd>> watermarks. http://www.toppk.net/art/2016/3/9/art_7328_304365.html[Anti-FLG source].
 image::{china-dictatorship-media-base}/Li_Hongzhi_with_wife_and_daughter.jpg[height=400]
@@ -6999,6 +7068,8 @@ Started in the 2000's in New York State with money donated by believers.
 * http://www.dragonsprings.org/
 * https://www.businessinsider.com/dragon-springs-falun-gong-upstate-new-york-compound-photos-2019-9
 * 1999 https://apnews.com/420a741ec19c4db3993d408747874b2d "Falun Gong US compound's neighbors fret over expansion plans"
+
+<<china-daily>> http://www.chinadaily.com.cn/hqzx/2012-10/17/content_15825454.htm claims that <<li-hongzhi>>'s appartment in 2012 was the number 136-08 on 59th avenue, Flushing, NY. https://www.irishtimes.com/news/seeking-master-li-1.221547 confirms Flushing. Also  mentions key 1999 lieutenant Erping Zhang, https://www.c-span.org/person/?erpingzhang[] confirms with photo.
 
 [[zhong-gong]]
 === Zhong Gong (中功,中华养生益智功)
@@ -7210,6 +7281,9 @@ image::{china-dictatorship-media-base}/Xi_Pooh_car.jpg[height=400]
 
 .Real photo of Xi Jinping edited to look like Winnie the Pooh. https://www.reddit.com/r/pics/comments/dcabzh/this_image_of_xi_jiping_as_winnie_the_pooh_is/[Source].
 image::{china-dictatorship-media-base}/Xi_Pooh_Photoshop.webp[height=400]
+
+.https://www.youtube.com/watch?v=kHmLUYCUYT0 "Xi Jinping as Winnie the Pooh Dancing to Bat Out of Hell by Meatloaf" by TheFakening (2020). Deep fake of several girls wearing Winnie the Pooh clothes with a Xi Jinping face. The song choice "Bat Out of Hell" is a reference to <<corona,COVID> because one of the theories is that the disease started in bats.
+video::y-JPLzj2poY[youtube,height=400,width=600,start=57]
 
 [[xi-dada]]
 ====== Xi Dada (习大大, 2015)
@@ -8448,6 +8522,8 @@ A great example of how <<falun-gong>> is <<flg-organized,highly organized>>.
 
 Likely highly de-facto controlled by <<li-hongzhi>>, and extremely <<flg-transparent,lacking clear full disclosure of their affiliation>>.
 
+For example, Li refers to Falun Gong media as "our media" in <<flg-canon>>, e.g.: https://falundafa.org/eng/eng/lectures/20090606L.html[].
+
 It could be argued that those media are not "directly" controlled by Li Hongzhi, and Ciro does believe that they were created independently of him initially.
 
 But without doubt they are controlled by his devout followers, and if Li Hongzhi ever gave directions, which Ciro has no proof he has ever done, then those media would follow.
@@ -9072,6 +9148,11 @@ Related:
 .https://en.wikipedia.org/wiki/Eric_Drooker[Eric Drooker]'s "Censorship" (TODO year) has become one of the most recognizable censorship symbols as of 2020. https://www.drooker.com/illustrations[Source].
 image::{china-dictatorship-media-base}/Eric_Drooker_censorship.jpg[height=400]
 
+.https://www.youtube.com/watch?v=4vpPqYYyUdU[] Inside a Chinese internet censorship centre by <<scmp>> (2019) Interview with Zhi Heng from the censorship department of the live streaming company Inke (映客), "China's largest live-streaming app" at the time according to SCMP. https://www.inke.cn[company website]. Heng proudly shows how they use machine learning to help their censoring efforts, and how the managed to block live streaming based on GPS location around a manifestation once. Pure gold. That company has close CCP ties as can be seen on <<china-daily>> https://www.chinadaily.com.cn/business/tech/2017-02/17/content_28239744.htm[] "Inke hires 1000 supervisors to clean up live-streaming content" (2017).
+video::4vpPqYYyUdU[youtube,height=400,width=600]
+
+https://www.inke.cn/
+
 [[internal-censorship]]
 ==== Internal censorship is necessary to prevent fake USA accounts from creating harmful propaganda
 
@@ -9417,12 +9498,13 @@ It is possible to request social media pages you own to be removed from the arch
 
 Some website specific techniques:
 
-* YouTube videos: they do seem to download them!!! E.g. a deleted pair from <<aaron-dewitt>>:
-** https://www.youtube.com/watch?v=d81mEbL8Yw8&feature=youtu.be
-** https://web.archive.org/web/20201103072718if_/https://www.youtube.com/watch?v=d81mEbL8Yw8&feature=youtu.be
-** But the interface may be very broken, possibly due to the arabic youtube interface, you might just have to click around sometimes
+* YouTube videos: they do seem to download them!
+** But as as of 2020, they seem to have some serious bugs failing with "Sorry the Wayback Machine does not have this video (<id>) archived (or not indexed yet)." on most videos: https://webapps.stackexchange.com/questions/149933/why-does-the-archive-org-of-most-youtube-videos-fail-with-sorry-the-wayback-mac
+** And the interface may be very broken, possibly due to the arabic youtube interface, you might just have to click around sometimes. So the best thing is to just always use the magic direct video link: of form: https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/<video-id>
+** E.g. a deleted pair from <<aaron-dewitt>>:
+*** https://www.youtube.com/watch?v=d81mEbL8Yw8&feature=youtu.be
+*** https://web.archive.org/web/20201103072718if_/https://www.youtube.com/watch?v=d81mEbL8Yw8&feature=youtu.be
 ** It is possible to get a raw mp4 link with as mentioned at https://forum.videohelp.com/threads/391951-How-to-download-a-YouTube-video-archived-by-Wayback-Machine: https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/<video-id> e.g.: https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/c6uFGGunRxc[], the download did work on 2020-12-31. It redirects to
-** as of 2020-12, immediately after an archive it shows a magic message: "Sorry the Wayback Machine does not have this video (<id>) archived (or not indexed yet)."
 * Google Docs: visit the page while logged off (e.g. via browser private mode), click the print button, and then archive the resulting PDF URL
 
 How to search by prefix/pattern: https://webapps.stackexchange.com/questions/146661/how-to-search-the-internet-archives-wayback-machine-by-url-prefix-or-pattern
@@ -9817,17 +9899,6 @@ Video by <<western-dissidents,Lele Farley>> making fun of him and <<nathan-rich>
 It does not feel like he is paid by the Chinese government, but rather that he is just trying to get some views.
 +
 https://www.zhihu.com/question/334923127 如何评价俄罗斯籍中国网红伏拉夫？ on <<zhihu>> with 17k likes as of 2020-06.
-* Barrett Channel: ;https://www.youtube.com/channel/UC1XG7bJnYqta_ezr12WZp7w
-+
-Father and son British expats: Lee Barrett, the father, and Oli Barrett, the son.
-+
-100k subs one year after. Don't speak a word of Chinese it seems, but all videos have full bilingual translation.
-+
-Their tone is natural unlike others more exaggerated like <<nathan-rich>>, so maybe they believe in the shit they say? Either that, or they are a good fake by the CCP.
-+
-Sample videos:
-+
-* https://www.youtube.com/watch?v=Fq1mCL7EQrM "China Doesn't Have Free Speech!"
 * Daniel Dumbrill
 +
 Channel: https://www.youtube.com/channel/UC6Bl8MTbW9M9MQoPhxbarpw
@@ -9840,6 +9911,7 @@ https://www.youtube.com/watch?v=gygxrdNmzUQ "Speaking With a Uyghur Activist Abo
 +
 https://www.youtube.com/watch?v=9nNZbDF75dc "Daniel the Pro-China 'Shill'" replies to accusations of being pro-China
 * https://en.wikipedia.org/wiki/Allan_Zeman Carrie Lam supporter
+* "Living in China" by Jason Lightfoot: https://www.youtube.com/user/JasonLightfoot Sample video: https://www.youtube.com/watch?v=2Mjik6q7FFo "The CCP is Wonderful! Thank you China not a government shill 谢谢你中国"
 
 <<nazi>>-related people that come to mind:
 
@@ -9852,6 +9924,13 @@ Joyce was convicted of one count of high treason in 1945 and sentenced to death,
 ____
 
 On <<quora>>: https://www.quora.com/Why-does-there-seem-to-be-an-upsurge-in-CCP-apologists-and-apologism/answer/Ciro-Santilli
+
+TODO decide:
+
+* the JaYoe Nation https://www.youtube.com/c/JaYoeNation Sample video: https://www.youtube.com/watch?v=smnVeGR15GI "Chinese Government Officials Corrupted My Videos! | JaYoe Conversation" 
+* Mexicanos en China https://www.youtube.com/channel/UCgQYtqm1xB2uuNZaOniCH0Q Sample video: https://www.youtube.com/watch?v=a71fDVMBwP8 "Is the CHINESE GOVERNMENT PAYING US to Make Videos: Our Trip to Shaanxi // 中国政府是否付钱给我们制作视频" https://youtu.be/a71fDVMBwP8?t=188 says they were sponsored for the vidieo.
+* Gweilo60's Channel: https://www.youtube.com/gweilo60
+* Eric Favreliere: https://www.instagram.com/ericfavreliere/
 
 Bibliography:
 
@@ -9894,6 +9973,40 @@ Reception:
 * https://www.zhihu.com/question/52409116
 * https://zhuanlan.zhihu.com/p/40252469
 * https://pincong.rocks/question/3559
+
+====== Barrett Channel
+
+https://www.youtube.com/channel/UC1XG7bJnYqta_ezr12WZp7w
+
+2021-09-21 https://www.thetimes.co.uk/edition/news/beijing-funds-british-youtubers-to-further-its-propaganda-war-x5gqp5fg0 (on <<reddit>>: https://www.reddit.com/r/China/comments/kto2vj/beijing_funds_british_youtubers_to_further_its/[]) claims that:
+
+____
+The Times has found that some of their videos were funded by <<china-radio-international,Chinese Radio International>>, a media organisation that has been exposed as the secret owner of an international network of propaganda radio stations.
+
+...
+
+In November they visited the Shaanxi district of China with several other foreign YouTubers who live in China and make videos supporting the government.
+
+The trip was organised and funded by the Chinese Radio International and an official press release described the visit as “International Internet Celebrities Witnessing the Happiness of Shaanxi People”.
+
+In a candid video about the visit that was subsequently removed, Lee admitted that a trip to a mountain was cancelled so they could witness “propaganda” regarding the area’s prosperity.
+
+He said: “It wasn’t until the second day they started talking about cutting the trip short by a day, and there was no real reason given for that.” A fellow YouTuber Jayoe Nation said: “They had to fit in more propaganda.”
+
+Lee replied: “They didn’t say that, did they, but that’s what happened.”
+
+Various videos from the trip show the YouTubers visiting locations in the district including a farm where Oli performed a farcical dance while holding vegetables.
+____
+
+Father and son British expats: Lee Barrett, the father, and Oli Barrett, the son.
+
+100k subs one year after. Don't speak a word of Chinese it seems, but all videos have full bilingual translation.
+
+Their tone is natural unlike others more exaggerated like <<nathan-rich>>, so maybe they believe in the shit they say? Either that, or they are a good fake by the CCP.
+
+Sample videos:
+
+* https://www.youtube.com/watch?v=Fq1mCL7EQrM "China Doesn't Have Free Speech!"
 
 [[real-username-law]]
 ==== Real username law (2015)
