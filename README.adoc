@@ -1738,26 +1738,12 @@ And if the majority supports idiotic acts like killing someone because of their 
 
 There's not point in censoring them. Such censorship only makes things worse, as the perpetrators will use that as publicity for their cause.
 
-Recent cases in which Ciro feel that Western countries have gotten it wrong:
-
-* 2020-10-12 https://techcrunch.com/2020/10/12/facebook-in-a-reversal-will-now-ban-holocaust-denial-content-under-its-hate-speech-policy/
-* 2020 https://www.forbes.com/sites/andrewsolender/2020/06/20/trump-says-he-wants-to-punish-flag-burning-with-a-year-in-prison/#4d00781b3404 "Trump Says He Wants To Punish Flag Burning With A Year In Prison". https://en.wikipedia.org/wiki/Flag_desecration#United_States[]. If this were to pass, Ciro would be very temped to upload a GIF. Flag dessacration laws are bullshit.
-* 2020-08 Kevin Cernekee fired from Google for conservative views
-** 2020-08-27 https://www.cnbc.com/2019/08/06/google-whistleblower-cernekee-pushed-alt-right-views-former-colleague.html "Internal Google memo claimed conservative whistleblower promoted alt-right views"
-** It appears to be legal in the US for companies to fire employees based on political beliefs:
-+
-*** https://www.nolo.com/legal-encyclopedia/can-employers-discriminate-based-on-political-beliefs-or-affiliation.html
-+
-<<ciro-santilli>> however believes that discussing politics at work is not an efficient way to go about it, because you will be discussion amongst a small group of people since companies are opaque to the outside. Unless maybe if you feel that you employee is directly attempting to influence politics in a way that you feel is unfair.
-+
-Ciro believes without evidence that unfortunately anti-discrimination-hiring laws are likely inefficient, as it is too hard to convict anyone. And that providing equal education through scholarships to unprivileged groups and university entry selection where examiners cannot see the applicant's race is the only way.
-
 See also:
 
 * <<richer>>
 * <<intolerance>>
 
-===== Fake news
+====== Fake news
 
 When a government controls all information to make it look good, and no one can challenge it, you cannot trust _any_ of the news produced by that country, as anything could be fake.
 
@@ -1773,8 +1759,23 @@ Censoring any citizen, no matter how stupid you think they are, creates a preced
 
 More interesting case is: https://en.wikipedia.org/wiki/Knight_First_Amendment_Institute_v._Trump[]. Ciro feels strongly that people who try to have meaningful discussions on Twitter should automatically lose a lawsuit, and that people should be able to block whoever they want from their personal controlled accounts or forums. It is only the companies who provide the forum service that must be neutral.
 
-Related news:
+Recent cases in which Ciro feel that Western countries have gotten it wrong:
 
+* Trump social media bans:
+** 2021-01-09 https://techcrunch.com/2021/01/09/the-deplatforming-of-a-president/ "The deplatforming of President Trump" has an overview: Twitter permaban, Facebook indefinite time, Google store removed Parler from App Store, Apple store soon followed: https://techcrunch.com/2021/01/09/apple-suspend-parler-from-app-store/ <<tiktok>> censorehttps://techcrunch.com/2021/01/07/tiktok-bans-videos-of-trump-inciting-mob-blocks-stormthecapital-and-other-hashtags/
++
+All of those banning should not be done. If the people want to rebel, they must be allowed to communicate and rebel.
+* 2020-10-12 https://techcrunch.com/2020/10/12/facebook-in-a-reversal-will-now-ban-holocaust-denial-content-under-its-hate-speech-policy/
+* 2020 https://www.forbes.com/sites/andrewsolender/2020/06/20/trump-says-he-wants-to-punish-flag-burning-with-a-year-in-prison/#4d00781b3404 "Trump Says He Wants To Punish Flag Burning With A Year In Prison". https://en.wikipedia.org/wiki/Flag_desecration#United_States[]. If this were to pass, Ciro would be very temped to upload a GIF. Flag dessacration laws are bullshit.
+* 2020-08 Kevin Cernekee fired from Google for conservative views
+** 2020-08-27 https://www.cnbc.com/2019/08/06/google-whistleblower-cernekee-pushed-alt-right-views-former-colleague.html "Internal Google memo claimed conservative whistleblower promoted alt-right views"
+** It appears to be legal in the US for companies to fire employees based on political beliefs:
++
+*** https://www.nolo.com/legal-encyclopedia/can-employers-discriminate-based-on-political-beliefs-or-affiliation.html
++
+<<ciro-santilli>> however believes that discussing politics at work is not an efficient way to go about it, because you will be discussion amongst a small group of people since companies are opaque to the outside. Unless maybe if you feel that you employee is directly attempting to influence politics in a way that you feel is unfair.
++
+Ciro believes without evidence that unfortunately anti-discrimination-hiring laws are likely inefficient, as it is too hard to convict anyone. And that providing equal education through scholarships to unprivileged groups and university entry selection where examiners cannot see the applicant's race is the only way.
 * YouTube
 ** 2020-12-09 https://www.theverge.com/2020/12/9/22165355/youtube-biden-election-victory-misinformation-rules-remove-content-oan "YouTube will now remove videos disputing Joe Biden's election victory". 
 *** YouTube's announcement: https://blog.youtube/news-and-events/supporting-the-2020-us-election
