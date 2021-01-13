@@ -1762,7 +1762,7 @@ More interesting case is: https://en.wikipedia.org/wiki/Knight_First_Amendment_I
 Recent cases in which Ciro feel that Western countries have gotten it wrong:
 
 * Trump social media bans:
-** 2021-01-09 https://techcrunch.com/2021/01/09/the-deplatforming-of-a-president/ "The deplatforming of President Trump" has an overview: Twitter permaban, Facebook indefinite time, Google store removed Parler from App Store, Apple store soon followed: https://techcrunch.com/2021/01/09/apple-suspend-parler-from-app-store/ <<tiktok>> censorehttps://techcrunch.com/2021/01/07/tiktok-bans-videos-of-trump-inciting-mob-blocks-stormthecapital-and-other-hashtags/
+** 2021-01-09 https://techcrunch.com/2021/01/09/the-deplatforming-of-a-president/ "The deplatforming of President Trump" has an overview: Twitter permaban, Facebook indefinite time, Google store removed Parler from App Store, Apple store soon followed: https://techcrunch.com/2021/01/09/apple-suspend-parler-from-app-store/ <<tiktok>> censorehttps://techcrunch.com/2021/01/07/tiktok-bans-videos-of-trump-inciting-mob-blocks-stormthecapital-and-other-hashtags/ And Amazon announced a Parler block with 24 hours advance: https://techcrunch.com/2021/01/09/amazon-web-services-gives-parler-24-hour-notice-that-it-will-suspend-services-to-the-company/
 +
 All of those banning should not be done. If the people want to rebel, they must be allowed to communicate and rebel.
 * 2020-10-12 https://techcrunch.com/2020/10/12/facebook-in-a-reversal-will-now-ban-holocaust-denial-content-under-its-hate-speech-policy/
@@ -3545,6 +3545,7 @@ List of bad things Huawei has done: https://github.com/evil-huawei/evil-huawei M
 
 Some news:
 
+* 2021-01-13 https://www.bbc.co.uk/news/technology-55634388 "Huawei patent mentions use of Uighur-spotting tech". Related: <<em_nation_type_uygur-2020>>
 * 5G 2019-2020
 ** in 2020 the UK was trying hard to get kicked out of the 5 eyes in 2020 by using 5G equipment from Huawei
 ** 2020-06-25 https://www.bbc.co.uk/news/uk-england-cambridgeshire-53178998 "Huawei's £1bn research centre near Cambridge approved" so despite all the 5G stuff, the UK still allows them to create a new research center in the UK... are they blind?
@@ -9913,6 +9914,19 @@ https://www.youtube.com/watch?v=gygxrdNmzUQ "Speaking With a Uyghur Activist Abo
 https://www.youtube.com/watch?v=9nNZbDF75dc "Daniel the Pro-China 'Shill'" replies to accusations of being pro-China
 * https://en.wikipedia.org/wiki/Allan_Zeman Carrie Lam supporter
 * "Living in China" by Jason Lightfoot: https://www.youtube.com/user/JasonLightfoot Sample video: https://www.youtube.com/watch?v=2Mjik6q7FFo "The CCP is Wonderful! Thank you China not a government shill 谢谢你中国"
+* Uncle Roger (Nigel Ng, mrnigelng, 罗杰叔叔). 2021-01-12 https://hongkongfp.com/2021/01/13/uncle-roger-apologises-and-deletes-video-featuring-fellow-youtube-star-who-criticised-china/ "'Uncle Roger' apologises and deletes video featuring fellow YouTube star who criticised China"
++
+Nigel had published a collaboration video called "Uncle Roger Review UGLIEST DUMPLING EVER" with another YouTubber https://www.youtube.com/channel/UCjkGXhZsu5H64fWuNQNf1Xw[Mikey Chen], who unknown to Nigel, is a somewhat discreet <<falun-gong>> believer (https://www.youtube.com/watch?t=315[source])
++
+The video then removed solely because of Mikey's believes expressed elsewhere. The apology on Weibo: https://weibo.com/7231497816/JCQPH5vzK
++
+____
+During the process of working with the content-creator, I wasn't aware of his political thoughts and his past incorrect remarks about China. This is my negligence, and I will be more careful when I make content in the future.
+____
++
+This is the original video link: https://www.youtube.com/watch?v=8N_wKd5UUg4 according to this reaction video: https://www.youtube.com/watch?v=hsatmCWeVb8 No archives of the original were made unfortunately.
++
+Nigel had 125k Weibo followers at that point, and reuploads every YouTube video he posts over there with Chinese subtitles: https://weibo.com/u/7231497816
 
 <<nazi>>-related people that come to mind:
 
@@ -10226,6 +10240,10 @@ Discussions:
 * https://news.ycombinator.com/item?id=24960749
 
 On 2020-11-20, Dahua DMCAed https://github.com/cirosantilli/epps-service at https://github.com/github/dmca/blob/master/2020/11/2020-11-25-Dahua.md which had been forked https://github.com/gaomingbo/epps-service from https://web.archive.org/web/20201102170146/https://github.com/cirosantilli/epps-service but Ciro is not sure it contains anything of particular interest, he had just forked all repos from gaomingbo. That one appeared to be just a car plate recognition sytem.
+
+Related:
+
+* 2021-01-13 https://www.bbc.co.uk/news/technology-55634388 "Huawei patent mentions use of Uighur-spotting tech", see also: <<huawei>>
 
 === Knowlesys
 
