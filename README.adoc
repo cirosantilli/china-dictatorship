@@ -221,7 +221,7 @@ china-dictatorship.py > README.html
 
 We later found on Google by chance that libraries.io picked it up and rendered the README.adoc nicely as well: https://libraries.io/pypi/china-dictatorship (https://web.archive.org/web/20200318043050/https://libraries.io/pypi/china-dictatorship[archive]). This is why packaging is a good idea.
 
-A programmatic inferface is also exposed on those packages, making it easy to quickly add a `--china` option to your project, e.g. from Python:
+A programmatic interface is also exposed on those packages, making it easy to quickly add a `--china` option to your project, e.g. from Python:
 
 ....
 import china_dictatorship
@@ -374,6 +374,46 @@ Related:
 
 * https://en.wikipedia.org/wiki/Internet_activism
 
+===== Bitcoin blockchain
+
+Blockchain technologies, such as Bitcoin, provide essentially uncensorable (at a transaction cost), because the messages are put together with financial transactions which are extremely valuable to its users.
+
+Services that can be used to easily view this data online include:
+
+* http://bitfossil.org/ is a website that indexes especially formatted images uploaded to the blockchaian.
+* https://bitcoinstrings.com/ dumps all ASCII printable strings of length 20 ore more online
+
+We have been able to find the following anti-CCP information in the blockchain so far:
+
+* http://bitfossil.org/fe0dfa51337dfce616a0e0305d10eed867e56a9f0f006b0521ec1ea32851a342/index.htm[] from 2014 is about the <<hong-kong>> 2014 protests. It contains text and images in the AtomSea & EMBII format. Part of the text is ripped from: https://www.bbc.co.uk/news/av/world-asia-29421909 "Hong Kong democracy protesters defiant on National Day Tens of thousands of people have been blocking parts of the city for days."
+* 2017 https://bitcoinstrings.com/blk00776.txt[blk00776.txt] transaction https://www.blockchain.com/btc/tx/3845e630032578cb825d587b759eb499511d691f93962f4b9f5b2e06ef9570c7[3845e630032578cb825d587b759eb499511d691f93962f4b9f5b2e06ef9570c7] says:
++
+____
+Tiananmen massacre <--- I dare China to censor this.
+____
+* 2017 blk00808.txt transaction https://www.blockchain.com/btc/tx/91b9b44532e094522e905012c04f207df1bcad8d9df7232679cb16859a008bdd[91b9b44532e094522e905012c04f207df1bcad8d9df7232679cb16859a008bdd] (TODO why not visible at https://bitcoinstrings.com/blk00808.txt[]) contains a full text reproduction of: https://www.hrw.org/news/2016/06/01/china-tell-truth-about-tiananmen-anniversary "China: Tell the Truth About Tiananmen on Anniversary". The text is preceeded by a Chinese version of the same.
+* ca4f11131eca6b4d61daf707a470cfccd1ef3d80a6f8b70f1f07616b451ca64e from 2017 contains an image of <<tank-man>> encoded as standard transaction SHAs. The image is mentioned at: https://archive.4plebs.org/pol/thread/191157608/#q191162145 with indexer URL https://cryptograffiti.info/#ca4f11131eca6b4d61daf707a470cfccd1ef3d80a6f8b70f1f07616b451ca64e.jpg but that link is not working
+
+But of course, there are crypto-<<wumao>>'s there too!!! The incongruence of a dictatorship and uncensorability is just mind blowing:
+
+* 2016 transaction https://www.blockchain.com/btc/tx/4921ae59b6ca89c2cd78e3d0850abd657f88a3ecc13c9c667872bf2740841dee[4921ae59b6ca89c2cd78e3d0850abd657f88a3ecc13c9c667872bf2740841dee], by a miner who earned 12 BTC:
++
+____
+South China Sea belongs to China-pc
+____
+
+Neutral references:
+
+* https://bitcoinstrings.com/blk00776.txt[blk01341.txt] tx 3d2226aa2591acfb0d3c9206b9bb2058b0a488ad6d0e9c61e0c8f3c53d0d4b90 "EW Hello Xi Jingping" (mispelled). "EW" is a service identifier, not part of the message.
+
+On the test blockchain (boring!):
+
+* Tankman on the https://en.bitcoin.it/wiki/Testnet[Bitcoin testnet] http://bitfossil.org/64b4e3c5610b421ef254d0a57c92642bd97cce3675d5afdd81e73a651a04db20/index.htm
+
+Bibliography:
+
+* https://www.vice.com/en/article/z43xx4/love-is-forever-when-its-written-in-the-blockchain
+
 ===== Collateral Freedom
 
 <<greatfire>> people called a <<cute-cat-theory-of-digital-activism>>-related project of theirs "Collateral Freedom" (a reference to https://en.wikipedia.org/wiki/Collateral_damage[collateral damage]), in which they seem to be trying to forward censored websites somehow through AWS to force the Chinese Government to block the entire AWS in China:
@@ -392,7 +432,6 @@ https://www.theregister.com/2019/05/10/amazon_backtracks_on_s3/ clarifies that o
 * `https://<bucket_name>.s3.amazonaws.com/<object_key_name>`
 
 the second of which can be easily blocked by domain, but the first can't, and how amazon was planning on killing the first option.
-
 
 [[meant-to-be-used]]
 === Politics should not be posted in technical websites such as GitHub or Stack Overflow 不应该在技术网站例如Stack Overflow和GitHub讨论政治
@@ -7797,11 +7836,14 @@ For non-Tiananmen songs see: <<anti-dictatorship-songs>>.
 [[tank-man]]
 ===== Tank Man (坦克人)
 
-https://en.wikipedia.org/wiki/Tank_Man | https://zh.wikipedia.org/wiki/坦克人
+* https://en.wikipedia.org/wiki/Tank_Man
+* https://zh.wikipedia.org/wiki/坦克人
 
 Good list of all known photos: https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/
 
 A list of Tank Man parodies can be found at: https://knowyourmeme.com/memes/tank-man
+
+TODO: can't find a Tank Man ASCII art! How is that possible?
 
 .https://www.youtube.com/watch?v=YeFzeNAHEhU CNN video of Tank Man:  but not showing removal, ridiculous, is there a full raw footage somewhere? Subset uploaded to GitHub: https://github.com/cirosantilli/china-dictatorship/issues/168[].
 video::YeFzeNAHEhU[youtube,height=400,width=600]
