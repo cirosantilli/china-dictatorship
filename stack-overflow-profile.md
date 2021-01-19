@@ -6,6 +6,8 @@ Location: 2018包子露宪，2015 710律师劫，2015巴拿马文件 邓家贵�
 
 [Homepage](http://cirosantilli.com/) | [StackOverflow 2.0](https://github.com/cirosantilli/write-free-science-books-to-get-famous-website) | [Necromancer #1 in 2019-07](https://data.stackexchange.com/stackoverflow/revision/300735/1283496/users-with-most-necromancer-badges-at-a-given-date?Date=2019-07-15)
 
+Opinions and content are my own, not my employer's.
+
 The Chinese characters on my username and profile picture are censored by the Chinese government. FAQ: https://github.com/cirosantilli/china-dictatorship
 
 # Profile picture

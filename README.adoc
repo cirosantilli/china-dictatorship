@@ -414,6 +414,10 @@ Bibliography:
 
 * https://www.vice.com/en/article/z43xx4/love-is-forever-when-its-written-in-the-blockchain
 
+Other blockchains:
+
+* 2019-02-25 https://theconversation.com/chinese-internet-users-turn-to-the-blockchain-to-fight-against-government-censorship-111795 "Chinese internet users turn to the blockchain to fight against government censorship" mentions the insertion of the <<metoo,Yue Xin letter>> and <<changsheng-bio-technology-vaccine-data-falsification-incident-2018>> information in the Ethereum blockchain. This gives the transaction in the screenshot: https://www.scmp.com/abacus/culture/article/3028662/chinas-netizens-use-blockchain-spread-censored-news
+
 ===== Collateral Freedom
 
 <<greatfire>> people called a <<cute-cat-theory-of-digital-activism>>-related project of theirs "Collateral Freedom" (a reference to https://en.wikipedia.org/wiki/Collateral_damage[collateral damage]), in which they seem to be trying to forward censored websites somehow through AWS to force the Chinese Government to block the entire AWS in China:
@@ -973,11 +977,11 @@ To have an idea, in 2015 there are about:
 * 20M developers in the world
 * 2M in China : https://www.quora.com/Approximately-how-many-programmers-are-there-in-the-world https://www.techrepublic.com/blog/european-technology/there-are-185-million-software-developers-in-the-world-but-which-country-has-the-most/
 * 5M Stack Overflow users https://data.stackexchange.com/stackoverflow/query/227868/select-count-from-users
-* TODO I wonder what percentage of GDP those programmers control. I'll bet any programmer on Stack Overflow is at least 5x more powerful than the average Chinese.
+* TODO I wonder what percentage of GDP those programmers control. I'll bet any programmer on Stack Overflow is at least 20x more powerful than the average Chinese.
 
 And if we never start somewhere, nothing will ever happen.
 
-Furthermore, even if the <<gfw,GFW>> falls, it is not clear that this will imply the end of the dictatorship: <<effective>>.
+Furthermore, even if the <<gfw,GFW>> falls, it is not clear that this will imply the end of the dictatorship: <<dictator-needs-gfw>>.
 
 Even if it is not, it does not matter, since <<ciro-santilli>> spends so little time doing it: <<better-to-do>> and has fun in doing it.
 
@@ -1287,7 +1291,7 @@ Bibliography:
 * https://en.wikipedia.org/wiki/Head_of_the_House_of_Aisin_Gioro
 * https://www.zhihu.com/question/34813921 现在清朝皇室的后代现状如何？ What is the current status of the descendants of the Qing royal family?
 * https://www.quora.com/Are-there-any-descendants-of-the-Qing-Dynasty-left-currently
-* https://arxiv.org/pdf/1412.6274.pdf "Y Chromosome of Aisin Gioro, the Imperial House of Qing Dynasty" unknown year. Unfortunately Ciro's wife does not have an Y chromosome like her father. This does however mention the book used as a genealogy reference: https://books.google.co.uk/books/about/愛新覺羅宗譜.html?id=Pj4EAQAAIAAJ 愛新覺羅宗譜 On Douban: https://book.douban.com/subject/4162448/ gives ISBN 9787507713428 On Amazon unavailable: https://www.amazon.com/dp/7507713423
+* https://arxiv.org/pdf/1412.6274.pdf "Y Chromosome of Aisin Gioro, the Imperial House of Qing Dynasty" unknown year. Unfortunately Ciro's wife does not have an Y chromosome like her father. This does however mention the book used as a genealogy reference: https://books.google.co.uk/books/about/愛新覺羅宗譜.html?id=Pj4EAQAAIAAJ 愛新覺羅宗譜 On Douban: https://book.douban.com/subject/4162448/ gives ISBN 9787507713428 On Amazon unavailable: https://www.amazon.com/dp/7507713423[]. Lol this makes this repo show up at: https://paperswithcode.com/paper/y-chromosome-of-aisin-gioro-the-imperial
 
 .Ciro Santilli's portrait as Qing emperor. https://en.wikipedia.org/wiki/File:清_郎世宁绘《清高宗乾隆帝朝服像》.jpg[Original image].
 image::{cirosantilli-media-base}/Ciro_Santilli_portrait_as_Qing_emperor.jpg[height=600]
@@ -1694,6 +1698,7 @@ See also:
 * <<preconceived>>
 * <<bias>>
 * <<the-united-states-has-recently-started-several-wars-and-killed-millions>>
+* https://en.wikipedia.org/wiki/American_imperialism
 
 .https://en.wikipedia.org/wiki/Signe_Wilkinson[Signe Wilkinson] 2017 Free Speech "Can you just move it so it doesn't cover them?" umbrella cartoon. Ciro once saw a <<wumao>> post this. It made him smile. If the cartoon were about <<dictatorship,dictatorships>>, https://en.wikipedia.org/wiki/Uncle_Sam[Uncle Sam] would be instead <<intolerance,decapitating and raping the people on one half of the umbrella>>. Of course humans are <<flg-intolerance,shit in democracies as well>>, but at least that system makes it harder for them to oppress each other. http://www.cartoonistgroup.com/store/add.php?iid=161799[Source].
 image::{china-dictatorship-media-base}/Free_speech_umbrella.jpg[height=400]
@@ -1822,8 +1827,10 @@ Ciro believes without evidence that unfortunately anti-discrimination-hiring law
 * Facebook
 ** 2020-11-10 https://techcrunch.com/2020/11/09/parler-app-store-facebook/ "'Free speech' social network Parler tops app store rankings following Biden's election win"
 * Twitter
+** 2021-01-08 https://blog.twitter.com/en_us/topics/company/2020/suspension.html "Permanent suspension of @realDonaldTrump" Archive of suspended account: https://archive.vn/SSHX6
 ** 2020-10-06 https://www.vox.com/recode/2020/5/28/21273241/section-230-explained-trump-social-media-twitter-facebook "Section 230, the internet free speech law Trump wants to repeal, explained". While repealing the law entirely would be stupid, Trump is right that it has given platforms too much control over the media. <<mark-government-controlled-social-media,Except for dictatorial foreign governments>>, or explicitly illegal material, social media platforms should never remove or comment on any content.
 ** 2020-05-29 https://www.bbc.co.uk/news/technology-52846679 Twitter "hides Trump tweet for 'glorifying violence'". The people elected that idiot, Twitter leftists have to swallow that.
+** 2021-01-11 https://www.irishexaminer.com/world/arid-40204808.html "Angela Merkel sees Twitter’s cancelling of Donald Trump as 'problematic'"
 
 [[life-of-brian-1979]]
 ===== Life of Brian (布莱恩的一生, 1979)
@@ -4268,6 +4275,8 @@ Mentioned in other sections:
 * <<censorship-monitoring-tools-on-github>>
 * https://github.com/evil-huawei/evil-huawei from <<huawei>>
 * https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo from <<xi-jinping-thought>>
+* https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md form <<metoo>>
+* https://github.com/fuckcqcs/fuckcqcs at <<changsheng-bio-technology-vaccine-data-falsification-incident-2018>>
 
 Not mentioned in other sections:
 
@@ -4275,9 +4284,6 @@ Not mentioned in other sections:
 ** https://github.com/taibangle/awesome-china
 ** https://github.com/taibangle/lennon-wall
 * https://github.com/sikaozhe1997/Xin-Yue
-** Open letter by student activist https://en.wikipedia.org/wiki/Yue_Xin_(activist)[Yue Xin] (https://zh.wikipedia.org/wiki/岳昕[岳昕]) about the events described at https://web.archive.org/web/20200104064812/https://www.nytimes.com/2018/04/09/world/asia/china-metoo-gao-yan.html["China's #MeToo: How a 20-Year-Old Rape Case Became a Rallying Cry"]
-** https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md in-tree translation
-** 2018-04 https://chinadigitaltimes.net/2018/04/translation-open-letter-on-peking-university-metoo-case/ "TRANSLATION: OPEN LETTER ON PKU #METOO CASE"
 * https://github.com/Project-Gutenberg/Pincong see also <<pincong>>
 * https://speechfree.github.io/cultural-revolution-database/ 中国文化大革命文库 The Chinese Cultural Revolution Database
 * https://github.com/Luterngun/Record_of_Survival_in_Digital_Totalitarian_Era[] small docuement that goes over <<censorship-circumvention>> and opsec. There was a PDF on GitHub but got removed from master (still in Git history), now links to external websites only. Newbs.
@@ -4285,7 +4291,6 @@ Not mentioned in other sections:
 ** https://twitter.com/tansunit claims name 陳純一, "Previous: NGO worker, educator, social activist. Present: Master student @Univ_Paris"
 ** https://github.com/NodeBE4/hero 自由人的英雄榜 "List of fredom heroes"
 ** https://github.com/NodeBE4/impact good list of Chinese political projects on GitHub
-* https://github.com/fuckcqcs/fuckcqcs contains data from the website about of the company Changchun Changsheng Life Sciences: https://uk.reuters.com/article/uk-china-vaccines-timeline-factbox/the-unfolding-of-chinas-changsheng-vaccine-scandal-idUKKBN1KE1M4 related to the 2018 vaccine scandal. English readme: https://github.com/fuckcqcs/fuckcqcs/blob/master/README_EN.md
 
 Interesting users:
 
@@ -4326,7 +4331,7 @@ First commint on 2018-04-27, GitHub pages domain blocked in China at least since
 
 The full post list can be seen most conveniently at: https://github.com/Terminus2049/Terminus2049.github.io/tree/master/_posts The number of articles is insane, usually several every day.
 
-Most articles appear to be taken from recent news at the time of writting, although there are a few from before the repo started. As of 2020-04, the oldest article was from 2016 Metoo events reported by Yue Xin (岳昕), some other topics include:
+Most articles appear to be taken from recent news at the time of writting, although there are a few from before the repo started. As of 2020-04, the oldest article was from 2016 <<metoo>> events reported by Yue Xin, some other topics include:
 
 * <<gay-rights>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2018-04-14-LGBTRights-advocacy-china.md
 * <<nine-nine-six-icu>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2019-04-04-996-ICU.md
@@ -4924,7 +4929,7 @@ image::{china-dictatorship-media-base}/Tianmen_lesbian_kiss.jpg[height=500]
 image::{china-dictatorship-media-base}/Qing_Dinasty_gay_foreplay.jpg[height=400]
 
 [[metoo]]
-=== Chinese MeToo movement
+=== MeToo
 
 * https://en.wikipedia.org/wiki/Me_Too_movement#China
 
@@ -4933,6 +4938,16 @@ They seem to have had difficulty in expressing themselves due to <<censorship>>,
 * Zhou Xiaoxuan v. TV anchor Zhu Jun
 * Liu Jingyao v. billionaire Liu Qiangdong
 * Zou Sicong and He Qian v. Deng Fei
+
+https://github.com/sikaozhe1997/Xin-Yue on <<github-repositories-with-censored-information>> is an open letter by student activist https://en.wikipedia.org/wiki/Yue_Xin_(activist)[Yue Xin] (https://zh.wikipedia.org/wiki/岳昕[岳昕]) about the events described at https://web.archive.org/web/20200104064812/https://www.nytimes.com/2018/04/09/world/asia/china-metoo-gao-yan.html["China's #MeToo: How a 20-Year-Old Rape Case Became a Rallying Cry"] she accuses professor Shen Yang of the Peking University Chinese literature of raping student Gao Yan, ultimately leading to her suicide in 1998:
+
+* https://sikaozhe1997.github.io/Xin-Yue/#/岳昕：致北京大学师生和北大外国语学院的一封公开信.md Chinese original
+* https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md in-tree translation "Yue Xin: An open letter to the students and academic staff of Peking University and the PKU School of Foreign Languages"
+* 2018-04 https://chinadigitaltimes.net/2018/04/translation-open-letter-on-peking-university-metoo-case/ "TRANSLATION: OPEN LETTER ON PKU #METOO CASE"
+
+This was one of the starting points of <<terminus2049>>.
+
+The letter was also apparently embedded into the <<bitcoin-blockchain,Ethereum blockchain>> according to https://theconversation.com/chinese-internet-users-turn-to-the-blockchain-to-fight-against-government-censorship-111795[].
 
 [[russia]]
 == Russia (俄罗斯)
@@ -5780,6 +5795,8 @@ All of this is part of their effort to "save people (救人)", i.e. convert them
 
 .Falun Gong believers preaching on the street in London in 2016. This image taken from a believer website shows a typical local regular gathering of believers on weekends, or even week days if there are enough retired believers in the group. They will put on their exercise music, and do exercises to attract more followers. Someone will also stand on their stall giving out propaganda flyers, or asking people to sign petitions for Western governments to support Falun Gong, e.g. opposing their alleged <<flg-organ-harvesting,organ harvesting>>. In the case of touristic areas with Chinese people walking around, they will also ask the Chinese tourists to <<tuidang,quit the their CCP membership, possibly using a fake name>>. <<ciro-santilli>> has to say: it is very amusing to see those Chinese people trying to pretend to ignore the censored religion, when some of them are clearly curious about it, especially the younger ones who didn't see it live. Some just get mad, and say how the CCP is so great to them. https://truthinchina.wordpress.com/2012/06/16/london-uk-practitioners-explain-the-facts-about-falun-gong-in-st-martins-place-photos/[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_street_preaching_2016_London.jpg[height=400]
+
+https://www.youtube.com/watch?t=315&v=nD6792YoOmY from <<nigel-ng,Mikey Chen>> shows a parade/preaching event in San Francisco.
 
 [[flg-telemarketing]]
 ===== Some Falun Gong people make phone telemarketing
@@ -7579,7 +7596,6 @@ image::{china-dictatorship-media-base}/996ICU.png[height=400]
 * 2018-05 https://www.whatsonweibo.com/public-shaming-of-drug-users-in-guangdong-drug-related-crimes-in-family-painted-on-houses/
 * 2018-04 https://uk.reuters.com/article/uk-china-lawmaking/china-makes-defaming-revolutionary-heroes-punishable-by-law-idUKKBN1HY16C
 * 2018-04 https://www.washingtonpost.com/world/asia_pacific/congressional-leaders-urge-us-to-press-china-over-reports-of-mass-uighur-detentions/2018/04/05/9bd17c90-38b3-11e8-b57c-9445cc4dfa5e_story.html
-* 2018-03 https://supchina.com/2018/03/29/no-tattoos-at-the-2018-strawberry-music-festival-in-hangzhou/ Funny pics at: https://app.myzaker.com/news/article.php?f=xiongzhang&pk=5ac0eb1877ac6465da676481
 * 2018-02 https://www.nytimes.com/2018/02/25/world/asia/china-xi-jinping.html
 * 2018-02 https://www.theguardian.com/world/2018/jan/25/at-least-120000-muslim-uighurs-held-in-chinese-re-education-camps-report
 * 2018-01 https://www.theguardian.com/world/2018/jan/19/outspoken-chinese-human-rights-lawyer-yu-wensheng-arrested
@@ -7587,7 +7603,16 @@ image::{china-dictatorship-media-base}/996ICU.png[height=400]
 * 2018-01 https://www.nytimes.com/2018/01/12/world/asia/china-church-dynamite.html
 * 2018-01 https://uk.businessinsider.com/china-marriott-tweets-censorship-2018-1?r=US&IR=T Marriott lists <<taiwan,Taiwan>> as country on the website
 * 2018-01 http://chuangcn.org/2018/01/the-mastermind/
-* 2018-01 https://time.com/5112061/china-hip-hop-ban-tattoos-television/
+
+[[changsheng-bio-technology-vaccine-data-falsification-incident-2018]]
+==== Changsheng Bio-Technology vaccine data falsification incident (长生生物, 2018)
+
+* https://en.wikipedia.org/wiki/Changsheng_Bio-Technology
+* https://zh.wikipedia.org/wiki/长生生物
+
+https://github.com/fuckcqcs/fuckcqcs on <<github-repositories-with-censored-information>> contains data from the website of Changsheng Bio-Technology relating to the incident. English readme: https://github.com/fuckcqcs/fuckcqcs/blob/master/README_EN.md[]
+
+2019-02-25 https://theconversation.com/chinese-internet-users-turn-to-the-blockchain-to-fight-against-government-censorship-111795 mentions that censored information about the incident was also inserted into the <<bitcoin-blockchain,Ethereum blockchain>>.
 
 === News 2017
 
@@ -8994,6 +9019,35 @@ ____
 
 No wonder that China basically unable to produce a lot of worthwhile art with such restrictions.
 
+* 2018-03 https://supchina.com/2018/03/29/no-tattoos-at-the-2018-strawberry-music-festival-in-hangzhou/ Funny pics at: https://app.myzaker.com/news/article.php?f=xiongzhang&pk=5ac0eb1877ac6465da676481
+* 2018-01 https://time.com/5112061/china-hip-hop-ban-tattoos-television/
+
+===== Live streaming
+
+Fun is forbidden in China, all people must be good <<xi-jinping>> loving <<ccp-cult,Zealots>>, or else:
+
+* 2019-04-15 http://chinafilminsider.com/the-stars-who-vanished-from-chinas-live-streaming-galaxy/ "The Stars Who Vanished from China’s Live-streaming Galaxy" talks about the fall of:
+** Li Tianyou: "Li Tianyou’s downfall was deeply embedded in his rap lyrics and the lifestyle that he promotes in his shows. Several of his now-banned songs praised methamphetamine, calling the illicit drug "wonderful" and capable of "erasing all worries" (our translation), and describing in detail the sensation of being high on meth. Li's livestreams also featured extravagant displays of wealth, including stacks of cash, luxury watches, and expensive sports cars."
+** Lu Benwei (卢本伟, alias 55kai): "As for Lu Benwei, profanity eventually became his undoing. After being accused of using cheats when live-streaming a game in November 2017, Lu vehemently defended himself on his channel, insulting the content creator who made the accusation and instigating fans to verbally abuse him."
+** Chen Yifa: "offense stemmed from a single live-streaming session in 2016. According to a widely circulated video, Chen made joking mention of historical events such as the Nanjing Massacre and Japan's occupation of northeast China. She also described a game character's movement as honoring the Yasukuni"
+** Yang Kaili (楊凱莉, alias 莉哥): "Yang Kaili, or "Lige," was the only one of the four banned live-streamers to have broken the law. During a live-streaming show on Huya in October 2018, Yang was seen singing China's national anthem, "March of the Volunteers," in a jovial tone while waving her arms like an orchestra conductor", so basically 
++
+2018 coverage: https://www.bbc.co.uk/news/world-asia-china-45859650
+*
+https://zh.wikipedia.org/wiki/杨凯莉
++
+Clip: https://www.youtube.com/watch?v=4LKONlosqFM It was just a very small section, as part of the stream opening.
+
+[[flag-desecration]]
+====== Flag desecration (亵渎旗帜)
+
+* https://en.wikipedia.org/wiki/Flag_desecration
+* https://zh.wikipedia.org/wiki/褻瀆旗幟
+
+Fuck countries, long live humanity.
+
+https://www.youtube.com/watch?v=NlKbg-1_7Bk "Chinese National Anthem" (2017) This crazy dud plays several tunes on trumpet on one hand, while using a handgun for the beat on the other hand.
+
 [[books]]
 == Books (书籍)
 
@@ -9683,7 +9737,7 @@ It is interesting to note how <<falun-gong>> is a good source of censorship-circ
 
 Projects:
 
-* https://github.com/Loyalsoldier/v2ray-rules-dat | https://github.com/v2ray/v2ray-core
+* https://github.com/Loyalsoldier/v2ray-rules-dat | https://github.com/v2ray/v2ray-core Contains cirosantilli.com: https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat[], victory.
 
 More info:
 
@@ -9956,19 +10010,6 @@ https://www.youtube.com/watch?v=gygxrdNmzUQ "Speaking With a Uyghur Activist Abo
 https://www.youtube.com/watch?v=9nNZbDF75dc "Daniel the Pro-China 'Shill'" replies to accusations of being pro-China
 * https://en.wikipedia.org/wiki/Allan_Zeman Carrie Lam supporter
 * "Living in China" by Jason Lightfoot: https://www.youtube.com/user/JasonLightfoot Sample video: https://www.youtube.com/watch?v=2Mjik6q7FFo "The CCP is Wonderful! Thank you China not a government shill 谢谢你中国"
-* Uncle Roger (Nigel Ng, mrnigelng, 罗杰叔叔). 2021-01-12 https://hongkongfp.com/2021/01/13/uncle-roger-apologises-and-deletes-video-featuring-fellow-youtube-star-who-criticised-china/ "'Uncle Roger' apologises and deletes video featuring fellow YouTube star who criticised China"
-+
-Nigel had published a collaboration video called "Uncle Roger Review UGLIEST DUMPLING EVER" with another YouTubber https://www.youtube.com/channel/UCjkGXhZsu5H64fWuNQNf1Xw[Mikey Chen], who unknown to Nigel, is a somewhat discreet <<falun-gong>> believer (https://www.youtube.com/watch?t=315[source])
-+
-The video then removed solely because of Mikey's believes expressed elsewhere. The apology on Weibo: https://weibo.com/7231497816/JCQPH5vzK
-+
-____
-During the process of working with the content-creator, I wasn't aware of his political thoughts and his past incorrect remarks about China. This is my negligence, and I will be more careful when I make content in the future.
-____
-+
-This is the original video link: https://www.youtube.com/watch?v=8N_wKd5UUg4 according to this reaction video: https://www.youtube.com/watch?v=hsatmCWeVb8 No archives of the original were made unfortunately.
-+
-Nigel had 125k Weibo followers at that point, and reuploads every YouTube video he posts over there with Chinese subtitles: https://weibo.com/u/7231497816
 
 <<nazi>>-related people that come to mind:
 
@@ -10064,6 +10105,31 @@ Their tone is natural unlike others more exaggerated like <<nathan-rich>>, so ma
 Sample videos:
 
 * https://www.youtube.com/watch?v=Fq1mCL7EQrM "China Doesn't Have Free Speech!"
+
+[[nigel-ng]]
+====== Nigel Ng (ungle-roger, mrnigelng, 罗杰叔叔)
+
+* https://en.wikipedia.org/wiki/Nigel_Ng
+* https://zh.wikipedia.org/wiki/黃瑾瑜
+
+2021-01-12:
+
+* https://hongkongfp.com/2021/01/13/uncle-roger-apologises-and-deletes-video-featuring-fellow-youtube-star-who-criticised-china/ "'Uncle Roger' apologises and deletes video featuring fellow YouTube star who criticised China"
+* https://www.bbc.co.uk/news/world-asia-china-55651798 "Uncle Roger comedian deletes video with China critic"
+
+Nigel had published a collaboration video called "Uncle Roger Review UGLIEST DUMPLING EVER" with another YouTubber called https://www.youtube.com/channel/UCjkGXhZsu5H64fWuNQNf1Xw[Mikey Chen], who unknown to Nigel, is a somewhat discreet <<falun-gong>> believer (https://www.youtube.com/watch?t=315&v=nD6792YoOmY[source])
+
+The video then removed solely because of Mikey's believes expressed elsewhere. The apology on Weibo: https://weibo.com/7231497816/JCQPH5vzK[] Excerpt:
+
+____
+During the process of working with the content-creator, I wasn't aware of his political thoughts and his past incorrect remarks about China. This is my negligence, and I will be more careful when I make content in the future.
+____
+
+This is the original video link: https://www.youtube.com/watch?v=8N_wKd5UUg4 according to this reaction video: https://www.youtube.com/watch?v=hsatmCWeVb8 No archives of the original were made unfortunately.
+
+Nigel had 125k Weibo followers at that point, and reuploads every YouTube video he posts over there with Chinese subtitles: https://weibo.com/u/7231497816[], extremely likely done by paid professionals.
+
+Saying hi: https://github.com/nigeljyng/dotfiles/issues/4
 
 [[real-username-law]]
 ==== Real username law (2015)
