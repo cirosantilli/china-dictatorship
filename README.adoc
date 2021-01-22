@@ -7915,6 +7915,8 @@ o||0
  /\
 ....
 
+https://www.youtube.com/watch?v=hrbwFxd1c-I Michal Jackson's Tank man performance in Munich (1997) The Cirque du Soliel "accidentally" showed Tank Man imagery for 4 seconds in a Beijing theater on a related 2013 act "Michael Jackson: The Immortal World Tour": https://edition.cnn.com/2013/08/15/world/asia/tank-man-cirque-soleil/index.html but it was removed on future performances.
+
 .https://www.youtube.com/watch?v=YeFzeNAHEhU CNN video of Tank Man:  but not showing removal, ridiculous, is there a full raw footage somewhere? Subset uploaded to GitHub: https://github.com/cirosantilli/china-dictatorship/issues/168[].
 video::YeFzeNAHEhU[youtube,height=400,width=600]
 
@@ -7934,8 +7936,8 @@ ____
 Full lyrics: https://gist.github.com/cirosantilli/698afcd05c5ad94297000f8c60b43473
 
 [[tank-man-song]]
-.https://www.youtube.com/watch?v=z8A623aImt8 Tank Man song (坦克人歌曲) by Xu Lin (徐琳).
-video::z8A623aImt8[youtube,height=400,width=600]
+.https://www.youtube.com/watch?v=ym88UOz5ZC8 Tank Man song (坦克人歌曲) by Xu Lin (徐琳). On GitHub: https://github.com/cirosantilli/china-dictatorship/issues/185 This seems to be the official YouTube channel of Xu Lin. This might be a official tablature on his blog: http://xulin1523.blogspot.com/2016/01/blog-post_26.html[]. https://boxun.com/news/gb/china/2017/11/201711301209.shtml from <<boxun>> claims he was arrested in 2017 for <<picking-quarrels>>, this dude was actaully China, what a hero. https://chinachange.org/2018/07/28/guangdong-activist-xu-lin-tried-on-charges-of-stirring-up-trouble-for-writing-songs/ talks about his trial in 2018. https://www.nchrd.org/2018/10/xu-lin/ on <<chinese-human-rights-defenders>>
+video::ym88UOz5ZC8[youtube,height=400,width=600]
 
 .Arthur Tsang's photo of Tank Man. https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/[Source].
 image::{china-dictatorship-media-base}/Tank_Man.jpg[height=400]
@@ -7993,15 +7995,6 @@ Other sections:
 * <<people-arrested-for-reporting-on-the-2019-corona-virus>>
 * <<terminus2049>> contributors: Chen Mei (陈玫), Cai Wei (蔡伟), Xiao Tang (小唐)
 
-Other lists:
-
-* Wikipedia list of Chinese dissidents
-** https://en.wikipedia.org/wiki/List_of_Chinese_dissidents
-** https://zh.wikipedia.org/wiki/中华人民共和国被捕政治犯列表
-* https://www.frontlinedefenders.org/en/location/china Front Line Defenders
-* https://www.nchrd.org/ Chinese Human Rights Defenders
-* https://cppc1989.blogspot.com/ 中國政治犯關注 China Political Prisoner Concern. Chinese blog with an infinite list of Chinese political prisoners.
-
 Other dissidents:
 
 * Gong Ping (龔平), AKA 加州老爹 CADaddy (California Daddy)
@@ -8034,6 +8027,35 @@ But in any case, she walks the line.
 ** https://twitter.com/RealSexyCyborg/status/1281934477430681601 "Naomi on a Saturday night, complaining about the lack of available FOSS anti-censorship options to help her fellow Chinese access the global Internet. FML I should pack some snacks to take with me..." It's hard to understand what she means.
 ** https://twitter.com/RealSexyCyborg/status/1340495054733905922 "I'm Cantonese, I've been in countless private WhatsApp and Telegram groups where these issues were openly discussed in our dialect, and countless Mainland WeChat groups with that perspective- trust me, I know quite a lot more about this than some illiterate randos from the US."
 ** So either she is anti-CCP, or she is part of the most advanced soft power program ever made
+
+==== Lists of Chinese dissidents
+
+Other lists:
+
+* Wikipedia list of Chinese dissidents
+** https://en.wikipedia.org/wiki/List_of_Chinese_dissidents
+** https://zh.wikipedia.org/wiki/中华人民共和国被捕政治犯列表
+* https://cppc1989.blogspot.com/ 中國政治犯關注 China Political Prisoner Concern. Chinese blog with an infinite list of Chinese political prisoners.
+
+[[chinese-human-rights-defenders]]
+===== Chinese Human Rights Defenders (中国人权捍卫者)
+
+* https://en.wikipedia.org/wiki/Chinese_Human_Rights_Defenders
+* https://zh.wikipedia.org/wiki/中国人权捍卫者
+
+Website: https://www.nchrd.org/
+
+TODO funding.
+
+Based on Washington DC.
+
+===== Front Line Defenders
+
+* https://en.wikipedia.org/wiki/Front_Line_Defenders
+
+Website: https://www.frontlinedefenders.org/en/location/china
+
+Based on Ireland.
 
 [[ai-weiwei]]
 ==== Ai Weiwei (艾未未)
@@ -8830,6 +8852,18 @@ Partial support:
 
 * https://en.wikipedia.org/wiki/Boxun https://zh.wikipedia.org/wiki/博讯
 
+[[ned]]
+===== National Endowment for Democracy
+
+* https://en.wikipedia.org/wiki/National_Endowment_for_Democracy
+* https://zh.wikipedia.org/wiki/美国国家民主基金会
+
+[[boxun]]
+====== Boxun (博讯, USA government media)
+
+* https://en.wikipedia.org/wiki/Boxun
+* https://zh.wikipedia.org/wiki/博讯
+
 [[jamestown-foundation]]
 ===== Jamestown Foundation (USA government media)
 
@@ -9383,7 +9417,7 @@ See also <<ciro-santilli>>'s answer to https://www.quora.com/What-would-happen-i
 
 Some cases where that didn't end well for them:
 
-* 2017 Li Xiaoling (李小玲) was arrested and released "on bail" for wearing a <<tiananmen,Tiananmen>> T-shirt: https://www.nchrd.org/2017/10/li-xiaoling/
+* 2017 Li Xiaoling (李小玲) was arrested and released "on bail" for wearing a <<tiananmen,Tiananmen>> T-shirt: https://www.nchrd.org/2017/10/li-xiaoling/ on <<chinese-human-rights-defenders>>
 * 1989 <<pu-zhiqiang-shirt,Pu Zhiqiang (浦志强) freedom of speech shirt>> during <<tiananmen>>
 
 Related:
@@ -9414,11 +9448,11 @@ China suppresses Falun Gong +
 Which is unforgivable
 ____
 
-.In 2016 activist Quan Ping (Kwon Pyong,权平,https://twitter.com/kwonpyong[BraveJohnny]) was sent to jail for wearing a <<nazi,Xitler>>/<<xi-jinping-memes,習包子/大撒币>> t-shirt in public and posting selfies online. This photo is in front of a Government building (TODO exact location, reports say he is from https://en.wikipedia.org/wiki/Jilin_City[Jilin City 吉林] transcription of the sign on top of building: 诚信立市 https://baike.baidu.com/item/工业强市[工业强市] 依法治...) https://www.nytimes.com/2017/02/16/world/asia/china-xi-jinping-xitler-tshirt-kwon-pyong.html[New York Times coverage]. He was later sentenced and served 18 months in prison because of this: https://www.frontlinedefenders.org/en/profile/kwon-pyong[Front Line Defenders profile]. https://www.rfa.org/english/news/china/xi-jinping-tshirt-activist-confirmed-held-in-northeast-china-detention-center-12082016110338.html[Source].
+.In 2016 activist Quan Ping (Kwon Pyong,权平,https://twitter.com/kwonpyong[BraveJohnny]) was sent to jail for wearing a <<nazi,Xitler>>/<<xi-jinping-memes,習包子/大撒币>> t-shirt in public and posting selfies online. This photo is in front of a Government building (TODO exact location, reports say he is from https://en.wikipedia.org/wiki/Jilin_City[Jilin City 吉林] transcription of the sign on top of building: 诚信立市 https://baike.baidu.com/item/工业强市[工业强市] 依法治...) https://www.nytimes.com/2017/02/16/world/asia/china-xi-jinping-xitler-tshirt-kwon-pyong.html[New York Times coverage]. He was later sentenced and served 18 months in prison because of this: https://www.frontlinedefenders.org/en/profile/kwon-pyong on <<front-line-defenders>>. https://www.rfa.org/english/news/china/xi-jinping-tshirt-activist-confirmed-held-in-northeast-china-detention-center-12082016110338.html[Source].
 image::{china-dictatorship-media-base}/Quan_Ping_tshirt.jpg[height=400]
 
 [[liu-shihui-one-party-rule]]
-.In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a t-shirt saying "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/【历史的先声】一党独裁，遍地是灾/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang's one-party dictatorship, but the CP will not establish a one-party dictatorship". This interesting <<zhihu>> page has many other similar quotes BTW: https://zhuanlan.zhihu.com/p/59503784[] (https://web.archive.org/web/20200331202252/https://zhuanlan.zhihu.com/p/59503784[archive]). He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui[Front Line Defenders profile]. Quotes from the <<hundred-flowers-campaign>> also come to mind. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
+.In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a t-shirt saying "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/【历史的先声】一党独裁，遍地是灾/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang's one-party dictatorship, but the CP will not establish a one-party dictatorship". This interesting <<zhihu>> page has many other similar quotes BTW: https://zhuanlan.zhihu.com/p/59503784[] (https://web.archive.org/web/20200331202252/https://zhuanlan.zhihu.com/p/59503784[archive]). He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui on <<front-line-defenders>>. Quotes from the <<hundred-flowers-campaign>> also come to mind. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
 image::{china-dictatorship-media-base}/Liu_Shihui_tshirt.jpg[height=500]
 
 [[gfw]]
