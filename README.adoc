@@ -2050,6 +2050,7 @@ image::{china-dictatorship-media-base}/Kin_no_unko.jpg[height=500]
 .To censor or not to censor good shitposts: that is not the question, <<ciro-santilli>> will never censor them! https://imgur.com/gallery/rA0K90g[Source].
 image::{china-dictatorship-media-base}/Like_shitposts.jpg[height=600]
 
+[[caonima]]
 .The legendary https://en.wikipedia.org/wiki/Grass_Mud_Horse[Grass Mud Horse 草泥马 (caonima)] is also said to appear in shitposts from time to time.
 image::{china-dictatorship-media-base}/Caonima.jpg[height=600]
 
@@ -2628,12 +2629,14 @@ Completely pro-Putin, e.g. removed https://www.reddit.com/r/russia/comments/kd21
 * https://github.com/jasonqng/chinese-keywords
 * https://github.com/cirosantilli/media/raw/master/complete-gfw-rulebook-for-wikipedia-v3.0.pdf[Complete GFW Rulebook for Wikipedia v3.0]
 * https://chinadigitaltimes.net This is was an amazing source, extremely comprehensive and up-to-date, but the series was stopped in September 2018:
-** https://chinadigitaltimes.net/china/word-of-the-week/?view=all word of the week
+** https://chinadigitaltimes.net/china/word-of-the-week/?view=all word of the week, ran from Mar 7, 2012 to Sep 20, 2018
+*** https://chinadigitaltimes.net/china/cdt-censorship-digest/ "CDT CENSORSHIP DIGEST", monthly version of Word of the week started on Feb 10, 2020
 ** https://chinadigitaltimes.net/china/directives-from-the-ministry-of-truth/?view=all censorship directive reports
 *** https://chinadigitaltimes.net/chinese/category/有关部门/真理部指令/?view=all chinese version
-** https://chinadigitaltimes.net/space/Main_Page a wiki version of the censored word lists, the ,"<<shitpost,Grass-mud horse>> index" (cao3n2ma3 草泥马), with a censored term of the week section.
+** https://chinadigitaltimes.net/space/Main_Page a wiki version of the censored word lists, the ,"<<caonima,Grass-mud horse>> index" (cao3n2ma3 草泥马), with a censored term of the week section.
 ** https://chinadigitaltimes.net/china/sensitive-words-series/?view=all sensitive words list
 ** Fun 2015 ebook: https://github.com/cirosantilli/decoding-chinese-internet-pdf-download
+** Has received funding from US Government to some extent: https://www.ned.org/china-digital-times-provides-crucial-insight-and-information-about-china-and-the-covid-19/
 
 See also:
 
@@ -7868,7 +7871,49 @@ Good list of all known photos: https://blogs.wsj.com/chinarealtime/2014/05/30/th
 
 A list of Tank Man parodies can be found at: https://knowyourmeme.com/memes/tank-man
 
-TODO: can't find a Tank Man ASCII art! How is that possible?
+TODO: can't find a Tank Man ASCII art! How is that possible? Behold!
+
+....
+                                    |
+                                    |
+                                    |
+   Tank Man                         |
+   by Ciro Santilli          00     |
+   2021 CC-BY-SA 4.0          \\  +-|-+
+                               \\/   /|-+o
+                                \\--+ / /o
+                               /|\\ |/ /oo
+                        |     / ----- /oo
+                        |    /       /oo
+                        |   +-------+oo
+                        |   oo+---+ooo
+                 00     |   oo     oo
+                  \\  +-|-+
+                   \\/   /|-+o
+                    \\--+ / /o
+                   /|\\ |/ /oo
+            |     / ----- /oo
+            |    /       /oo
+            |   +-------+oo
+            |   oo+---+ooo
+     00     |   oo     oo
+      \\  +-|-+
+       \\/   /|-+o
+        \\--+ / /o
+       /|\\ |/ /oo
+      / ----- /oo
+     /       /oo
+    +-------+oo
+    oo+---+ooo
+    oo     oo
+ xx
+ --
+/||\
+|--|
+o||0
+ ||
+ /\
+....
 
 .https://www.youtube.com/watch?v=YeFzeNAHEhU CNN video of Tank Man:  but not showing removal, ridiculous, is there a full raw footage somewhere? Subset uploaded to GitHub: https://github.com/cirosantilli/china-dictatorship/issues/168[].
 video::YeFzeNAHEhU[youtube,height=400,width=600]
@@ -7910,6 +7955,9 @@ image::{china-dictatorship-media-base}/Lego_Tank_Man.png[height=400]
 
 .https://en.wikipedia.org/wiki/Final_Fantasy_VI[Final Fantasy 6] battle screen style depiction of tank man by Cody Walton by it8Bit. https://www.it8bit.com/post/25860395424/unknown-rebel[Source].
 image::{china-dictatorship-media-base}/Tank_Man_FF6.jpg[height=600]
+
+.Tank man drawing by Ciro Santilli. The only CC BY-SA 4.0 representaion of Tank Man found on the web? And the prettiest. Created manually with GIMP. This can be very useful e.g. if you are posting Stack Overflow answers about image processing, e.g.: https://stackoverflow.com/questions/20737061/merge-images-side-by-sidehorizontally/63575228#63575228
+image::{china-dictatorship-media-base}/Tank_Man_drawing_by_Ciro_Santilli_CC_BY_SA.jpg.jpg[height=500]
 
 ===== Tiananmen Square Protests keywords
 
