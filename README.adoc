@@ -2235,11 +2235,11 @@ Japanese https://en.wikipedia.org/wiki/Furigana[furigana] also comes to mind. Th
 
 Yes, ideograms are:
 
-* beautiful
+* https://en.wikipedia.org/wiki/Chinese_calligraphy[beautiful]
 * https://chinese.stackexchange.com/questions/2003/can-chinese-readers-scan-large-amounts-of-text-faster-more-accurately-than-their[maybe you can read faster]
 * https://en.wikipedia.org/wiki/Horizontal_and_vertical_writing_in_East_Asian_scripts[vertical text (纵排)] is awesome (but is it more efficient? https://www.zhihu.com/question/22104723[Zhihu], https://www.quora.com/Can-literate-Chinese-people-easily-read-vertical-writing[Quora]).
 * more historically stable, and you can still read/learn more or less quickly to read https://en.wikipedia.org/wiki/History_of_the_Chinese_language[texts written more than two thousand years ago]
-* single character emoticons like "https://en.wikipedia.org/wiki/Jiong[囧]", before the https://en.wikipedia.org/wiki/Emoticons_(Unicode_block)[Emoticons Unicode block]! Yes, when your language has a character so useless that it becomes an emoticon, maybe you should start to worry that something went wrong somewhere.
+* single character emoticons like "https://en.wikipedia.org/wiki/Jiong[囧]", before the https://en.wikipedia.org/wiki/Emoticons_(Unicode_block)[Emoticons Unicode block]! Yes, when your language has a character so useless that it becomes an emoticon, maybe you should start to worry that something went wrong somewhere... See also <<tank-man-emoticon>>.
 
 but they just take too much time for any sane person adult to learn, it's harder than {cpp}!
 
@@ -4426,6 +4426,30 @@ ____
 
 * https://github.com/oschina GitHub OAuth goes through that organization
 * https://www.oschina.net/ their website
+
+At https://gitee.com/mirrors they mirrors 21 thousand repositories as of 2021, updating them daily, with the goal of having "higher download speeds" in mainland China. Not that their speed is shit because of censorships of course.
+
+Mirrors containing Ciro's keywords or related interesting stuff:
+
+* https://gitee.com/alexi126/linux-kernel-module-cheat https://archive.vn/wip/aDWVq
+* https://toscode.gitee.com/rpbf/vim-snippets/blob/master/AUTHORS#L67 https://archive.vn/wip/MuuoK "Ciro Santilli 六四事件"
+* sensitive domain lists:
+  * https://gitee.com/aiqz/pac ans specifically https://gitee.com/aiqz/pac/blob/master/pac.txt contains a proxy list with `||cirosantilli.com`, which is a decoded version of the base-64 encoded <<gfwlist>> normally used for <<censorship-circumvention>>. Lol.
+* sensitive word lists. In <<censorship,censoring>>, we display. It is fun to see how they censor at every level, including the keyboard input method. Fear is everywhere, <<newspeak>> must be enforced at all costs:
+  * https://gitee.com/markxx/tochat/blob/dev/tochat.sql even website project templates must come with a censored word list: https://gitee.com/markxx/tochat/blob/dev/tochat.sql#L6299 "六四事件"
+  * https://gitee.com/aiban_junjie_fan/sensitive_words/blob/master/words.txt
+  * https://gitee.com/bryan31/liteBanner/blob/master/src/main/resources/sensi_words.txt
+  * https://gitee.com/thinksaas/thinksaas/blob/master/install/install.sql#L138
+  * https://gitee.com/guobinyong/wubixinshiji/blob/master/wubixinshiji.dict.yaml is a https://en.wikipedia.org/wiki/Wubi_method input program
+  * https://gitee.com/xkinput/xklbs/blob/master/星二S词库.txt
+  * https://gitee.com/latpaw/emacs/blob/master/site-lisp/eim/cjeb.txt#L10288[]. This interesting emacs config appears to expand e.g. `fclg` into `法轮功` on tab complete. Nice.
+
+As of 2021, it requires login to see:
+
+* commit history: https://gitee.com/mirrors/luarocks-build-xmake/commit/8b18f1f62ba26944f117ed549ddaeea210fbdd6e History must be controlled, history is dangerous. See also <<baidu,Baidu Baike>>, <<baidu-baike-censorship-of-hao-haidong>>:
+* files larger than 1MB: https://gitee.com/xkinput/xklbs/blob/master/星二S词库.txt 
+
+Lol.
 
 News:
 
@@ -7760,7 +7784,7 @@ Other interesting links:
 * https://www.64memo.com/ 六四档案 Website dedicated to collecting photos of the protests and aftermath. Says you have to login to see the gory photos, but hovering over thumbnails expands all of them, and their email service is broken as of 2020 so you can't sign up.
 * https://www.rfa.org/mandarin/june4_poetry Chinese poetry anthology about Tiananmen collected by <<rfa>>
 
-.Sea of protesters in Tiananmen Square on 2019-05-04. No, not even that many people can influence dictatorships if they don't have weapons. https://abcnews.go.com/International/tiananmen-square-29th-anniversary-crackdown/story?id=55564966[Source].
+.Sea of protesters (广场人潮涌) in Tiananmen Square on 2019-05-04. No, not even that many people can influence dictatorships if they don't have weapons. https://abcnews.go.com/International/tiananmen-square-29th-anniversary-crackdown/story?id=55564966[Source].
 image::{china-dictatorship-media-base}/Tianmen_sea.jpg[height=600]
 
 [[pu-zhiqiang-shirt]]
@@ -7915,6 +7939,20 @@ o||0
  /\
 ....
 
+https://www.reddit.com/r/China/comments/l2wqbg/ascii_art_of_tank_man_%E5%9D%A6%E5%85%8B%E4%BA%BA_from_tiananmen_square/gkdbe5d suggested a simpler one that has been in use with Chinese characters:
+
+[[tank-man-emoticon]]
+....
+占占点人
+....
+
+where:
+
+* the first three characters look like tanks (unrelated meaning)
+* the fourth character looks like, and actually means person
+
+So once a gain, <<chinese-characters-are-insane>>.
+
 https://www.youtube.com/watch?v=hrbwFxd1c-I Michal Jackson's Tank man performance in Munich (1997) The Cirque du Soliel "accidentally" showed Tank Man imagery for 4 seconds in a Beijing theater on a related 2013 act "Michael Jackson: The Immortal World Tour": https://edition.cnn.com/2013/08/15/world/asia/tank-man-cirque-soleil/index.html but it was removed on future performances.
 
 .https://www.youtube.com/watch?v=YeFzeNAHEhU CNN video of Tank Man:  but not showing removal, ridiculous, is there a full raw footage somewhere? Subset uploaded to GitHub: https://github.com/cirosantilli/china-dictatorship/issues/168[].
@@ -7922,22 +7960,6 @@ video::YeFzeNAHEhU[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=vSbx352cn8A Several quick cuts by CBS news that give a good overview of the incident, including him being pushed away by other protesters at the end.
 video::YeFzeNAHEhU[youtube,height=400,width=600]
-
-The <<tank-man-song,Tank Man song>> is really good:
-
-____
-我是坦克人 +
-站在天安门
-
-I am tank man +
-I stand at Tiananmen
-____
-
-Full lyrics: https://gist.github.com/cirosantilli/698afcd05c5ad94297000f8c60b43473
-
-[[tank-man-song]]
-.https://www.youtube.com/watch?v=ym88UOz5ZC8 Tank Man song (坦克人歌曲) by Xu Lin (徐琳). On GitHub: https://github.com/cirosantilli/china-dictatorship/issues/185 This seems to be the official YouTube channel of Xu Lin. This might be a official tablature on his blog: http://xulin1523.blogspot.com/2016/01/blog-post_26.html[]. https://boxun.com/news/gb/china/2017/11/201711301209.shtml from <<boxun>> claims he was arrested in 2017 for <<picking-quarrels>>, this dude was actaully China, what a hero. https://chinachange.org/2018/07/28/guangdong-activist-xu-lin-tried-on-charges-of-stirring-up-trouble-for-writing-songs/ talks about his trial in 2018. https://www.nchrd.org/2018/10/xu-lin/ on <<chinese-human-rights-defenders>>
-video::ym88UOz5ZC8[youtube,height=400,width=600]
 
 .Arthur Tsang's photo of Tank Man. https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/[Source].
 image::{china-dictatorship-media-base}/Tank_Man.jpg[height=400]
@@ -7960,6 +7982,94 @@ image::{china-dictatorship-media-base}/Tank_Man_FF6.jpg[height=600]
 
 .Tank man drawing by Ciro Santilli. The only CC BY-SA 4.0 representaion of Tank Man found on the web? And the prettiest. Created manually with GIMP. This can be very useful e.g. if you are posting Stack Overflow answers about image processing, e.g.: https://stackoverflow.com/questions/20737061/merge-images-side-by-sidehorizontally/63575228#63575228
 image::{china-dictatorship-media-base}/Tank_Man_drawing_by_Ciro_Santilli_CC_BY_SA.jpg.jpg[height=500]
+
+[[tank-man-song]]
+====== Tank man song by Xu Lin (坦克人，作曲家：徐琳)
+
+This song is amazing!!!
+
+Video uploaded to GitHub: https://github.com/cirosantilli/china-dictatorship/issues/185
+
+Official tablature on Xu Lin's blog: http://xulin1523.blogspot.com/2016/01/blog-post_26.html
+
+https://www.nchrd.org/2018/10/xu-lin/ on <<chinese-human-rights-defenders>> says he was arrested in 2017 for <<picking-quarrels>>, and released on September 2020 at the completion of his sentence. This dude was actaully China, what a hero. https://chinachange.org/2018/07/28/guangdong-activist-xu-lin-tried-on-charges-of-stirring-up-trouble-for-writing-songs/ talks about his trial in 2018. 
+
+.https://www.youtube.com/watch?v=ym88UOz5ZC8 Video on Xu Lin's official YouTube channel
+video::ym88UOz5ZC8[youtube,height=400,width=600]
+
+____
+我是坦克人 +
+I am Tank Man +
+
+站在天安门 +
+I stand at Tiananmen +
+
+面对坦克车队 +
+I face the tank column +
+
+从容挺出身 +
+I calmly come and stand (? confirm) +
+
+广场人潮涌 +
+A tide of people has rushed the square +
+
+群情正沸腾 +
+The feelings of the people are boiling right now (正 == short of 正在?) +
+
+发出正义呼声 +
+The voice of justice is calling +
+
+结束一党专政 +
+To finish the One Party Dictatorship +
+
+国家人人有份 +
+Everyone has a share of the country +
+
+岂容他们独吞 +
+How can we put up with them taking more than their fair share? (岂容 1, 2) +
+
+自由天赋权利 +
+Free natural rights +
+
+岂可葬于铁轮 +
+How can they be buried under the Iron Wheel? (TODO why Iron Wheel? https://cd.hwxnet.com/view/fkkhdjaknlgbnolg.html mentions possibly Buddhist metaphor "Cast iron wheels. According to the Buddhist legend, the torture instrument used to squeeze evil spirits in hell.") +
+
+谁挡了谁的路 +
+Who is standing on whose way? +
+
+谁是谁的敌人 +
+Who is whose enemy? +
+
+谁是正义一方 +
+Who is on the side of the righteous? +
+
+谁是历史罪人 +
+And who are the enemies of History? +
+
+你们的枪炮是人民造 +
+Your guns were made by the People +
+
+你们的俸禄是民脂民膏 +
+Your salaries were paid by the people's taxes (民脂民膏 is a poetic way of putting it that references historical events apparently 1) +
+
+为什么枪口对着人民 +
+So why are the guns being pointed at the people? +
+
+犯下这罪恶天理难饶 +
+Those who commit this crime, can hardly be forgiven by the Heavenly Principles (天理 is a concept from Song Dynasty Confucianism, "heavenly principles", a type of "feudal ethics" according to Pleco and 1 +
+
+民主是世界的必行之道 +
+Democracy is a necessary Path of the world +
+
+实行了民主大家都好 +
+Once democracy is implemented, everyone will be better off +
+
+不要做独裁的镇压工具 +
+Don't be a tool of suppression of the Dictatorship +
+
+还不快停车把头调 +
+Quickly stop the tanks, and correct your point of view +
+____
 
 ===== Tiananmen Square Protests keywords
 
@@ -10551,7 +10661,7 @@ Uses a virtual currency system (游戏币): https://pincong.rocks/currency/rule/
 
 This website might not censor stuff, e.g.: people are using <<winnie-the-pooh>> avatars: https://www.pincong.rocks/people/bushiwumao (https://web.archive.org/web/20200418194038/https://www.pincong.rocks/people/bushiwumao[archive])
 
-TODO is is blocked by <<gfw>> or not? <<greatfire>> just hangs forever on it, e.g.:
+TODO is it blocked by <<gfw>> or not? <<greatfire>> just hangs forever on it, e.g.:
 
 * https://zh.greatfire.org/test?url=https%3A//pincong.rocks
 * https://zh.greatfire.org/test?url=https%3A//pincong.rocks/question/6601
