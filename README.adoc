@@ -908,6 +908,12 @@ ____
 Democracy substitutes election <<uneducated-masses,by the incompetent many>> for appointment by the corrupt few.
 ____
 
+Ciro does however believe the <<spy>> claims made at https://foreignpolicy.com/2020/12/21/china-stolen-us-data-exposed-cia-operatives-spy-networks/ that the anti-corruption is also a legitimate national security issue for China, in addition to being a tool to take down political rivals:
+
+____
+Over the course of their investigation into the CIA's China-based agent network, Chinese officials learned that the agency was secretly paying the "promotion fees" - in other words, the bribes - regularly required to rise up within the Chinese bureaucracy, according to four current and former officials. It was how the CIA got "disaffected people up in the ranks. But this was not done once, and wasn't done just in the [Chinese military]," recalled a current Capitol Hill staffer. "Paying their bribes was an example of long-term thinking that was extraordinary for us," said a former senior counterintelligence official. "Recruiting foreign military officers is nearly impossible. It was a way to exploit the corruption to our advantage." At the time, "promotion fees" sometimes ran into the millions of dollars, according to a former senior CIA official: "It was quite amazing the level of corruption that was going on." The compensation sometimes included paying tuition and board for children studying at expensive foreign universities, according to another CIA officer.
+____
+
 Well known corruption cases:
 
 * 2020 Ren Zhiqiang
@@ -1830,7 +1836,7 @@ Ciro believes without evidence that unfortunately anti-discrimination-hiring law
 ** 2021-01-08 https://blog.twitter.com/en_us/topics/company/2020/suspension.html "Permanent suspension of @realDonaldTrump" Archive of suspended account: https://archive.vn/SSHX6
 ** 2020-10-06 https://www.vox.com/recode/2020/5/28/21273241/section-230-explained-trump-social-media-twitter-facebook "Section 230, the internet free speech law Trump wants to repeal, explained". While repealing the law entirely would be stupid, Trump is right that it has given platforms too much control over the media. <<mark-government-controlled-social-media,Except for dictatorial foreign governments>>, or explicitly illegal material, social media platforms should never remove or comment on any content.
 ** 2020-05-29 https://www.bbc.co.uk/news/technology-52846679 Twitter "hides Trump tweet for 'glorifying violence'". The people elected that idiot, Twitter leftists have to swallow that.
-** 2021-01-11 https://www.irishexaminer.com/world/arid-40204808.html "Angela Merkel sees Twitter’s cancelling of Donald Trump as 'problematic'"
+** 2021-01-11 https://www.irishexaminer.com/world/arid-40204808.html "Angela Merkel sees Twitter's cancelling of Donald Trump as 'problematic'"
 
 [[life-of-brian-1979]]
 ===== Life of Brian (布莱恩的一生, 1979)
@@ -2940,7 +2946,7 @@ ____
 *** https://www.theguardian.com/commentisfree/2021/jan/09/china-forced-sterilizations-feminist-rebrand comments that there is precedent to that in Peru's dictatorship:
 +
 ____
-In the 1990s about 350,000 people were sterilized in Peru under a program promoted by President Alberto Fujimori, who argued a lower birth rate was the key to eliminating poverty. “Peruvian women should be the owners of their destiny!” Fujimori said in a 1995 speech to congress. He presented his family-planning campaign as a step forward for feminism, and even got funding from the US Agency for International Development, USAid. Many of the women who were sterilized, however, came from poor indigenous backgrounds and were coerced or forced into the procedure.
+In the 1990s about 350,000 people were sterilized in Peru under a program promoted by President Alberto Fujimori, who argued a lower birth rate was the key to eliminating poverty. "Peruvian women should be the owners of their destiny!" Fujimori said in a 1995 speech to congress. He presented his family-planning campaign as a step forward for feminism, and even got funding from the US Agency for International Development, USAid. Many of the women who were sterilized, however, came from poor indigenous backgrounds and were coerced or forced into the procedure.
 ____
 * 2020-06-17 https://www.reuters.com/article/idUSKBN23O3EW "Trump signs bill pressuring China over Uighur Muslim crackdown"
 * 2019-12: https://www.youtube.com/watch?v=dEkliuqQo-g "A Secret Look Inside a Chinese Labor Program for Uighurs | Visual Investigations" by "The New York Times" published on Dec 30, 2019. Description: "China is relocating Uighurs and other Muslim minorities to urban areas as part of a contentious labor program. The Times obtained rare footage taken inside one."
@@ -3489,7 +3495,7 @@ TODO do we have any such sample websites or screenshots of them? https://github.
 https://news.yahoo.com/cias-communications-suffered-catastrophic-compromise-started-iran-090018710.html mentions that:
 
 ____
-A 2011 Iranian television broadcast that touted the government’s destruction of the CIA network said U.S. intelligence operatives had created websites for fake companies to recruit agents in Iran by promising them jobs, visas and education abroad. Iranians who initially thought they were responding to legitimate opportunities would end up meeting with CIA officers in places like Dubai or Istanbul for recruitment, according to the broadcast.
+A 2011 Iranian television broadcast that touted the government's destruction of the CIA network said U.S. intelligence operatives had created websites for fake companies to recruit agents in Iran by promising them jobs, visas and education abroad. Iranians who initially thought they were responding to legitimate opportunities would end up meeting with CIA officers in places like Dubai or Istanbul for recruitment, according to the broadcast.
 ____
 
 therefore the websites might not have been in English.
@@ -5295,7 +5301,7 @@ For more poisonings see: <<putin-sponsored-poisonings>>.
 The second one! The first one was in 2019, but this one is more serious, the German government said tests confirmed it unequivocally that it was Novichok, which was also recently used in <<skripal>>.
 
 * 2020-12-28 https://www.aljazeera.com/news/2020/12/28/russia-gives-navalny-ultimatum-return-immediately-or-face-jail "Russia's ultimatum to Navalny: Return immediately or face jail
-Russia’s prison service accuses Kremlin critic of violating terms of his suspended prison sentence by staying abroad"
+Russia's prison service accuses Kremlin critic of violating terms of his suspended prison sentence by staying abroad"
 * 2020-12-13 more news are coming:
 ** https://www.bellingcat.com/news/uk-and-europe/2020/12/14/fsb-team-of-chemical-weapon-experts-implicated-in-alexey-navalny-novichok-poisoning/ indicates the names of 8 suspects. They had phone metadata for them including geolocation. How did they get that data??? https://github.com/cirosantilli/china-dictatorship/issues/164
 ** https://www.dw.com/en/navalny-poisoning-russia-made-second-assassination-attempt-report/a-55921189 "Navalny poisoning: Russia made second assassination attempt - report". Says British intelligence told that to The Times, paywall https://www.thetimes.co.uk/article/revealed-kremlin-made-a-second-attempt-to-poison-alexei-navalny-in-botched-assassination-nh32x737j "Revealed: Kremlin made a second attempt to poison Alexei Navalny in botched assassination". TODO any further evidence? WTF they reveal to a paywall newspaper?
@@ -6528,7 +6534,7 @@ Falun Gong directly contacts Government officials, http://www.clearharmony.net/a
 <<li-hongzhi>> directly says that FLG should not be involved in politics in <<flg-canon>>, e.g. https://falundafa.org/eng/eng/jjyz52.htm[]:
 
 ____
-Never get involved in politics, nor interfere with state affairs’.
+Never get involved in politics, nor interfere with state affairs'.
 ____
 
 But at the same, he also greatly encourages <<falun-gong-media>>, which obviously a political influence method. As usual, everything in Falun Gong is explained in an indirect roundabout way.
@@ -6631,7 +6637,7 @@ One wonders how Falun Gong views Trump's ideology of "https://en.wikipedia.org/w
 Analysis of Trumps electoral fraud claims:
 
 * https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_United_States_presidential_election
-* 2020-11-2020 https://www.ft.com/content/20b114b5-5419-493b-9923-a918a2527931 "Lawsuit tracker: Donald Trump’s legal battle runs into repeated dead ends" gives the precise names of several of the cases 
+* 2020-11-2020 https://www.ft.com/content/20b114b5-5419-493b-9923-a918a2527931 "Lawsuit tracker: Donald Trump's legal battle runs into repeated dead ends" gives the precise names of several of the cases 
 * 2021-01-05 https://www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11 "Trump and Republican officials have won zero out of at least 42 lawsuits they've filed since Election Day" gives an update on several of the cases at that date
 
 [[you-are-not-alone-by-tony-chen-music]]
@@ -7235,7 +7241,7 @@ Interesting quotes:
 The following echoes "Different levels of truth" from <<orange-papers>>:
 
 ____
-Most would find they had little in common with non-practitioners (“ordinary people” in Falun Gong parlance) but would maintain cordial relations with friends and family nonetheless, and think of various ways to explain the edge off some of Falun Gong's less palatable teachings about aliens, how heaven views gay people, the inferiority of other religions and Master Li's role in saving the universe.
+Most would find they had little in common with non-practitioners ("ordinary people" in Falun Gong parlance) but would maintain cordial relations with friends and family nonetheless, and think of various ways to explain the edge off some of Falun Gong's less palatable teachings about aliens, how heaven views gay people, the inferiority of other religions and Master Li's role in saving the universe.
 ____
 
 [[history-of-falun-gong]]
@@ -8586,7 +8592,7 @@ Online presence:
 * https://www.facebook.com/gayshuaige
 ** https://www.facebook.com/TheBritishHongKong/posts/httpsyoutubekfoh9aoav2u/10157024077436792/ links to
 * https://www.reddit.com/user/dontlikegina is likely his account, as it is basically about him self advertising, and coherent with him likely being gay based on appearance in videos
-** https://www.reddit.com/r/BoycottChina/comments/j6iahm/naming_the_racist_companies_that_dont_hire_black/ by dontlikegina points to: https://www.youtube.com/watch?v=c6uFGG "Naming the Racist Companies that Don’t Hire Black People", see below
+** https://www.reddit.com/r/BoycottChina/comments/j6iahm/naming_the_racist_companies_that_dont_hire_black/ by dontlikegina points to: https://www.youtube.com/watch?v=c6uFGG "Naming the Racist Companies that Don't Hire Black People", see below
 * https://www.instagram.com/letsdewitt/
 
 Deleted some of his videos, so likely either legal or intelligence trouble.
@@ -9218,8 +9224,8 @@ No wonder that China basically unable to produce a lot of worthwhile art with su
 
 Fun is forbidden in China, all people must be good <<xi-jinping>> loving <<ccp-cult,Zealots>>, or else:
 
-* 2019-04-15 http://chinafilminsider.com/the-stars-who-vanished-from-chinas-live-streaming-galaxy/ "The Stars Who Vanished from China’s Live-streaming Galaxy" talks about the fall of:
-** Li Tianyou: "Li Tianyou’s downfall was deeply embedded in his rap lyrics and the lifestyle that he promotes in his shows. Several of his now-banned songs praised methamphetamine, calling the illicit drug "wonderful" and capable of "erasing all worries" (our translation), and describing in detail the sensation of being high on meth. Li's livestreams also featured extravagant displays of wealth, including stacks of cash, luxury watches, and expensive sports cars."
+* 2019-04-15 http://chinafilminsider.com/the-stars-who-vanished-from-chinas-live-streaming-galaxy/ "The Stars Who Vanished from China's Live-streaming Galaxy" talks about the fall of:
+** Li Tianyou: "Li Tianyou's downfall was deeply embedded in his rap lyrics and the lifestyle that he promotes in his shows. Several of his now-banned songs praised methamphetamine, calling the illicit drug "wonderful" and capable of "erasing all worries" (our translation), and describing in detail the sensation of being high on meth. Li's livestreams also featured extravagant displays of wealth, including stacks of cash, luxury watches, and expensive sports cars."
 ** Lu Benwei (卢本伟, alias 55kai): "As for Lu Benwei, profanity eventually became his undoing. After being accused of using cheats when live-streaming a game in November 2017, Lu vehemently defended himself on his channel, insulting the content creator who made the accusation and instigating fans to verbally abuse him."
 ** Chen Yifa: "offense stemmed from a single live-streaming session in 2016. According to a widely circulated video, Chen made joking mention of historical events such as the Nanjing Massacre and Japan's occupation of northeast China. She also described a game character's movement as honoring the Yasukuni"
 ** Yang Kaili (楊凱莉, alias 莉哥): "Yang Kaili, or "Lige," was the only one of the four banned live-streamers to have broken the law. During a live-streaming show on Huya in October 2018, Yang was seen singing China's national anthem, "March of the Volunteers," in a jovial tone while waving her arms like an orchestra conductor", so basically 
@@ -10277,13 +10283,13 @@ The Times has found that some of their videos were funded by <<china-radio-inter
 
 In November they visited the Shaanxi district of China with several other foreign YouTubers who live in China and make videos supporting the government.
 
-The trip was organised and funded by the Chinese Radio International and an official press release described the visit as “International Internet Celebrities Witnessing the Happiness of Shaanxi People”.
+The trip was organised and funded by the Chinese Radio International and an official press release described the visit as "International Internet Celebrities Witnessing the Happiness of Shaanxi People".
 
-In a candid video about the visit that was subsequently removed, Lee admitted that a trip to a mountain was cancelled so they could witness “propaganda” regarding the area’s prosperity.
+In a candid video about the visit that was subsequently removed, Lee admitted that a trip to a mountain was cancelled so they could witness "propaganda" regarding the area's prosperity.
 
-He said: “It wasn’t until the second day they started talking about cutting the trip short by a day, and there was no real reason given for that.” A fellow YouTuber Jayoe Nation said: “They had to fit in more propaganda.”
+He said: "It wasn't until the second day they started talking about cutting the trip short by a day, and there was no real reason given for that." A fellow YouTuber Jayoe Nation said: "They had to fit in more propaganda."
 
-Lee replied: “They didn’t say that, did they, but that’s what happened.”
+Lee replied: "They didn't say that, did they, but that's what happened."
 
 Various videos from the trip show the YouTubers visiting locations in the district including a farm where Oli performed a farcical dance while holding vegetables.
 ____
