@@ -146,7 +146,7 @@ https://cirosantilli.com/china-dictatorship#thai-king-hamtaro
 image::{china-dictatorship-media-base}/Side_by_side_comparison_between_Thai_king_Vajiralongkorn_and_Hamtaro.jpg[height=400]
 
 [[mirrors]]
-== Mirrors of this page 这个网页的镜像
+== Mirrors of this page (这个网页的镜像)
 
 You can download the webpage locally from GitHub at: https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip
 
@@ -210,7 +210,12 @@ npm i -g china-dictatorship
 china-dictatorship > README.html
 ....
 
-This would force China to also block/curate package managers to block this repo. The package is already available in this Chinese Taobao mirror: https://registry.npm.taobao.org/china-dictatorship (https://web.archive.org/web/20200406081433/http://registry.npm.taobao.org/china-dictatorship[archive]).
+This would force China to also block/curate package managers to block this repo. The package is already available in the following NPM Chinese mirrors:
+
+* Taobao: https://registry.npm.taobao.org/china-dictatorship (https://web.archive.org/web/20200406081433/http://registry.npm.taobao.org/china-dictatorship[archive]).
+* Aliyun from <<alibaba>>: https://developer.aliyun.com/mirror/npm/package/china-dictatorship (https://web.archive.org/web/20210211123658/https://developer.aliyun.com/mirror/npm/package/china-dictatorship[archive])
+
+There is actually a `cnpm` tool to install from Chinese mirrors: https://github.com/cnpm/cnpm[].
 
 We also managed to upload a Python PyPi package at: https://pypi.org/project/china-dictatorship/ Is as:
 
@@ -348,12 +353,14 @@ It is also possible to do it with images, although this is less effective in tak
 
 so maybe the most effective approach is to use both keywords and images to get the best of both worlds ;-)
 
-.<<chrysanthemium-xi-jinping>> has been used by Ciro Santilli as a profile picture censored image attack
-image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
-
 This type of attack is essentially an <<embargo>>.
 
 See also: <<photobombing-like-attacks>>.
+
+Some people say https://english.stackexchange.com/questions/284671/dont-st-where-you-eat[don't shift where you eat]. Ciro says: bring a shitbucket to the canteen, and start a shitfight.
+
+.<<chrysanthemium-xi-jinping>> has been used by Ciro Santilli as a profile picture censored image attack
+image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
 
 [[cute-cat-theory-of-digital-activism]]
 ==== Cute cat theory of digital activism (可爱猫理论)
@@ -3843,6 +3850,7 @@ News and reports:
 
 Lists:
 
+* 2021-02-08 https://www.aljazeera.com/news/2021/2/8/uk-academics-investigated-over-china-military-research-report "Nearly 200 British academics at more than 12 universities in the United Kingdom are being investigated on suspicion of unwittingly helping the Chinese government build weapons of mass destruction"
 * 2020-06-12 https://www.sciencemag.org/news/2020/06/fifty-four-scientists-have-lost-their-jobs-result-nih-probe-foreign-ties "Fifty-four scientists have lost their jobs as a result of NIH probe into foreign ties" and "In 93% of those cases, the hidden funding came from a Chinese institution." and "In the vast majority of cases, Lauer reported, the person being investigated has been an Asian man in his 50s."
 * https://threadreaderapp.com/thread/1262441045197049856.html List of professors around America caught selling secret research to the Chinese Communist Regime
 
@@ -4310,10 +4318,15 @@ Interesting users:
 ** present in <<gov-takedowns-china>>
 * https://github.com/bannedbook
 ** https://github.com/bannedbook/fanqiang is the main repository about <<censorship-circumvention>>, TODO what it contains exactly? Code, or just documentation of existing methods?
+* https://github.com/breakwa11 likely previous ShadowsocksR dev: <<censorship-circumvention>>, 10k+ followers 2020, but no repos, so forced takedown.
 
 Non-information but also interesting:
 
 * https://github.com/lurongkai/anti-baidu
+
+TODO evaludate:
+
+* https://github.com/sky8964/home
 
 [[terminus2049]]
 ====== Terminus2049 (端点星计划)
@@ -4761,7 +4774,7 @@ Popular <<taiwan,Taiwanese>> forum system and server from 1995, pre HTML, works 
 <<ciro-santilli>>'s appearances on PTT:
 
 * 2020-10-09: https://www.ptt.cc/bbs/joke/M.1602211516.A.3FB.html 如何一秒惹怒中國人 (how to provoke a Chinese person in one second) by https://pttweb.tw/user/abc60575986/[abc60575986] saying "台灣是一個國家" (Taiwan is a country). Then https://pttweb.tw/user/kugwa/[kugwa] linked to <<keyword-attack,Ciro Santilli's Stack Overflow profile>>
-* 2020-01-31: https://www.ptt.cc/bbs/Gossiping/M.1580484253.A.37A.html "stackoverflow菁英卻痛恨中國" by https://pttweb.tw/user/Eric0605/["Eric0605 (我還有點餓)"] on the Gossiping board
+* 2020-01-31: https://www.ptt.cc/bbs/Gossiping/M.1580484253.A.37A.html "stackoverflow菁英卻痛恨中國" by https://pttweb.tw/user/Eric0605/["Eric0605 (我還有點餓)"] on the Gossiping board. One of the comments then links to http://cirosantilli.com
 * 2017-06-19 https://pttweb.tw/s/2K9zV "Ciro Santilli <<the-709-crackdown,709大抓捕>> 六四事件 法轮" on the Gossiping board
 * 2016-10-03 https://www.ptt.cc/bbs/Soft_Job/M.1478104872.A.916.html "Github也出現網軍了嗎?" (Is there an emerging wumao army on GitHub?) by gocreating on the Soft_Job board
 
@@ -5681,7 +5694,7 @@ To this you should reply: "and you don't understand that <<li-hongzhi,Li Hongzhi
 But <<ciro-santilli>> strongly believes that this is just a language barrier/FLG propaganda question (see also "Different levels of truth" from <<orange-papers>>), and that 99.9999% of people in the West would classify FLG as a religion just like <<christianity>> if they are told about FLG's beliefs:
 
 * absolute truth comes from an enlightened <<li-hongzhi,prophet>>, who is perfect and has superhuman abilities
-* weekly in-person meetings (学法 "study the Fa", or more verbosely "study the law (of the universe (of <<li-hongzhi>>))"）or daily online meetings where they read from a <<flg-canon,sacred book>>, either written by the prophet, or transcribed from his presentations to disciples, including the disciples questions, much like traditional Chinese texts like link:https://en.wikipedia.org/wiki/Analects[The Analects of Confucius], just like Christians read from the Bible over and over again.
+* weekly in-person meetings (学法 "study the Fa", or more verbosely "study the law (of the universe (of <<li-hongzhi>>))"）or daily online meetings where they read from a <<flg-canon,sacred book>>, either written by the prophet, or transcribed from his presentations to disciples, including the disciples questions, much like traditional Chinese texts like <<analects>>, just like Christians read from the Bible over and over again.
 +
 In both cases, some believers claim that sometimes even reading the same text again gives them new insight.
 * prescribed daily meditation exercise hours, somewhat like Muslim https://en.wikipedia.org/wiki/Salah[Salah] prayers which they call https://en.wikipedia.org/wiki/Fazhengnian[发正念 (fa1 zheng4 nian4)], which means "send righteous thoughts". They seem to believe that this meditation helps external good magic things happen, so it is half meditation half prayer.
@@ -8679,6 +8692,8 @@ Reports:
 
 CCTV's international branch in English, China's <<voa>>.
 
+* 20201-02-04: https://edition.cnn.com/2021/02/04/media/cgtn-uk-license-ofcom/index.html lost UK license
+
 [[peoples-daily]]
 ===== People's Daily (人民日报, CCP media)
 
@@ -9349,15 +9364,25 @@ ____
 
 === Classical Chinese Books
 
+Interesting websites:
+
+* https://ctext.org/[], has <<icp-license>>
+
+[[confucianism]]
+==== Confucianism (儒家)
+
+* https://en.wikipedia.org/wiki/Confucianism
+* https://zh.wikipedia.org/wiki/儒家
+
 [[analects]]
-==== Analects (论语, c. 475-200 BC)
+===== Analects (论语, c. 475-200 BC)
 
 * https://en.wikipedia.org/wiki/Analects
 * https://zh.wikipedia.org/wiki/论语
 
 Made of 20 books, with each paragraph numbered. So e.g. 15.9 means "Boodk 15, paragraph 9".
 
-===== Analects translation by Robert Eno (2015)
+====== Analects translation by Robert Eno (2015)
 
 https://chinatxt.sitehost.iu.edu/Analects_of_Confucius_(Eno-2015).pdf
 
@@ -9366,18 +9391,39 @@ Includes commentary.
 License: non-commercial only.
 
 [[mencius-book]]
-==== Mencius (book, 孟子 (书), c. 300 BC)
+===== Mencius (book, 孟子 (书), c. 300 BC)
 
 * link:++https://en.wikipedia.org/wiki/Mencius_(book)++
 * https://zh.wikipedia.org/wiki/孟子_(書)
 
-===== Mencius translation by Robert Eno (2016)
+====== Mencius translation by Robert Eno (2016)
 
 https://scholarworks.iu.edu/dspace/bitstream/handle/2022/23421/Mengzi.pdf
 
 Includes commentary.
 
 License: non-commercial only.
+
+[[taoism]]
+==== Taoism (道教)
+
+* https://en.wikipedia.org/wiki/Taoism
+* https://zh.wikipedia.org/wiki/道教
+
+[[zhuangzi]]
+===== Zhuangzi (Chuang Tzu, 庄子, c. 300 BC)
+
+* https://en.wikipedia.org/wiki/Zhuangzi_(book)
+* https://zh.wikipedia.org/wiki/莊子_(書)
+* https://en.wikipedia.org/wiki/Zhuang_Zhou
+* https://zh.wikipedia.org/wiki/庄子
+
+33 chapters. The first 7 are likely by Zhuang Zhou himself, and the rest a mishmash.
+
+Translations:
+
+* James Legge (1891):
+  * https://ctext.org/zhuangzi side by side with Chinese, one chapter per page
 
 [[ccp]]
 == Chinese Communist Party (CCP, 中国共产党, 1949-)
@@ -9823,6 +9869,17 @@ And no, you can't Wayback Machine archive an archive.is, they blocked the domain
 
 Has specific LinkedIn handling as it has a logged scrape account, e.g.: https://archive.vn/EPaEH[]. TODO find account URL.
 
+Also has specific GitHub handling, e.g. as seen at: https://github.com/TinkoffCreditSystems/invest-openapi/issues/278 TODO what for?
+
+Their github account was: https://github.com/volth an archive https://archive.vn/kqftP The account was completely deleted presumaly after GitHub noticed the anti-ToS usage: all their issues created have been deleted, not converted to ghost as happens with account deletion, and non-owners cannot delete their issues, only comments. Since he was such a large NixOS contributor, this was notice by other contributors: https://discourse.nixos.org/t/how-was-this-treewide-pr-performed/11174/15 | https://twitter.com/grhmc/status/1334138105738256389
+
+From the non-trivial contributions, they were a big NixOS contributor, and are clearly fluent Russian:
+
+* https://github.com/NixOS/nixpkgs/pull/91184 "[staging] perlPackages: update" was merged.
+* https://github.com/TinkoffCreditSystems/invest-openapi/issues/278 "Инструменты "для квалифицированных инвесторов" недоступны через API" is a sample issue in fluent Russian
+
+By cloning NixOS NixOS/nixpkgs we obtain an email, it uses custom domain http://volth.com/ as of 2021-02-04 has a copy of the Google 404: https://web.archive.org/web/20190913083033/http://volth.com/ This is the case since 2013. In 2011 it was some other random company.
+
 Google photo matches exactly this "Masha Rabinovich" https://www.linkedin.com/in/masha-rabinovich-52aa3a197/[], or is just some image of a well known person? Account marked as "Bachelor of Engineering" at the Humboldt University of Berlin.
 
 The same photo seems to be used for all fetches: https://archive.vn/IPEEd[].
@@ -10170,23 +10227,32 @@ ____
 [[ccp-apologists]]
 ===== CCP apologists (中共辩护士)
 
-If it is ever proven that those people are directly supported by the Chinese government, their nationalities should be revoked.
+If it is ever proven that those people are directly supported by the Chinese government, their nationalities should be revoked, it is very simple.
 
-The problem however is that it is impossible to distinguish between:
+<<ciro-santilli>> feels that it is unlikely however that the CCP directly pays those apologists, as that would be too risky for both parties.
 
-* idiots who are saying what the CCP supporters want to hear from foreigners to get more views
-* even bigger idiots who actually believe the CCP is good
-* if any of those are directly supported by the CCP or not. Ciro feels that more likely not, because that would be too risky.
-+
-As those channels grow however, the CCP is extremelly very likely to at least indirectly support the channel, e.g. with bots on YouTube or more direct means on Chinese Government Chinese Internet companies, as a way of indirectly paying those creators.
-+
-For example, <<cgtn>> directly quoted a video from <<nathan-rich>>.
+Rather, Ciro believes that they are either:
 
-It is also interesting to note that many of them don't speak a word of Chinese. It is fine when you say "the CCP is great" as a foreigner, but if you say "the CCP is bad", then <<not-chinese>>.
+* saying that the CCP is good to get more views and ad revenue from CCP supporters that want to hear it from a white (most cases)
+* even bigger complete idiots who actually believe China is good (the minority)
 
-Part of <<ciro-santilli>> feels like the nationalities of such YouTubbers should still be revoked, since they are making a living out of helping an Evil government.
+Then, when they reach a certain size, the CCP can support them indirectly, notably by featuring them in <<chinese-government-media>> such as <<cgtn>>, e.g. as happened <<nathan-rich>> at https://www.youtube.com/watch?v=YRK1XDlZkng[], in order to boost their views and ad revenue.
 
-But it is hard to stopping them without quenching freedom of expression in that case. Related discussion at: <<what-should-western-countries-do-about-china>>.
+For this reason, it is very hard to stop them without quenching freedom of expression.
+
+Ciro's currenty recommended approach is the following: if a proeminent pro-CCP YouTubber never ever criticized the CCP, and it gets featured in CCP media, treat that channel exactly as you should treat CCP media, which is by adding a notice at the bottom along the lines of:
+
+____
+This account supports the Chinese Government, which is a fucking murderous dictatorship.
+____
+
+followed by a funny meme image that is forbidden in China, e.g. <<xi-jinping-memes>>.
+
+It would be amazing if we could demonetize the apologist channels only for views coming from Chinese citizens, but that seems hard without completely destroying privacy?
+
+Related discussion at: <<what-should-western-countries-do-about-china>>.
+
+It is also interesting to note that many of them don't speak a word of Chinese, or very basic Chinese. It is fine when you say "the CCP is great" as a foreigner, but if you say "the CCP is bad", then <<not-chinese>>.
 
 * 伏拉夫 (fu2 la1 fu1): Russian, says I love China in ridiculously enthusiastic tone which is despised even by the Chinese, samples: https://www.youtube.com/watch?v=YMVRdeUrk-8[]
 +
@@ -10231,6 +10297,10 @@ TODO decide:
 Bibliography:
 
 * https://medium.com/swlh/how-china-is-influencing-youtubers-into-posting-state-propaganda-db72acf18dfa "EXCLUSIVE: How China is Influencing YouTubers into Posting State Propaganda" mentions https://youtu.be/2mQ8plzWl9g?t=520 "They tried to get me to post Chinese propaganda"  by J.J. McCullough (2019) was approached to publish an anti-<<shen-yun>> video by what was likely a Chinese agent.
+
+<<reddit>> threads:
+
+* https://www.reddit.com/r/China/comments/lgkp8t/british_youtubers_paid_by_the_cpp/ about Jason Lightfoot
 
 [[nathan-rich]]
 ====== Nathan Rich (Hotpot King, 火锅大王)
@@ -10371,6 +10441,11 @@ See also:
 
 * https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 * https://zh.wikipedia.org/wiki/一带一路
+
+Related:
+
+* https://en.wikipedia.org/wiki/Cooperation_between_China_and_Central_and_Eastern_European_Countries Cooperation between China and Central and Eastern European Countries
+* 17+1合作
 
 [[communist-youth-league]]
 === Communist Youth League of China 中国共产主义青年团
