@@ -8,9 +8,9 @@ Forbidden:
 
     Create a new issues instead if you are arriving at a thread created by someone else and a have a new relevant point.
 
--   [Evil West](https://.cirosantilli.com/china-dictatorship#evil-west) posts are OK, but they *must* explain why you think a dictatorship would better solve the problem.
+-   [Evil West](https://cirosantilli.com/china-dictatorship#evil-west) posts are OK, but they *must* explain why you think a dictatorship would better solve the problem.
 
-    Further rationale at: https://.cirosantilli.com/china-dictatorship#bias
+    Further rationale at: https://cirosantilli.com/china-dictatorship#bias
 
 -   generate lots of notifications that don't teach people anything new.
 
@@ -18,15 +18,15 @@ Forbidden:
 
     People don't have that much time to waste.
 
-    If you are still certain that you want really want to shitpost, first see some tips at: https://.cirosantilli.com/china-dictatorship#shitpost
+    If you are still certain that you want really want to shitpost, first see some tips at: https://cirosantilli.com/china-dictatorship#shitpost
 
     Remember, you are threading dangerous waters, it is "one Ciro against one million wumaos", and so Ciro doesn't even blink anymore when a block might apply.
 
     But as long as you follow our [shitiquette](https://en.wikipedia.org/wiki/Etiquette), you should be fine.
 
--   swearing/being very aggressive on a [`not-shitpost`](https://.cirosantilli.com/china-dictatorship#shitpost) post.
+-   swearing/being very aggressive on a [`not-shitpost`](https://cirosantilli.com/china-dictatorship#shitpost) post.
 
-    Keep in mind that [Ciro's Chinese sucks](https://.cirosantilli.com/china-dictatorship#does-ciro-santilli-speak-chinese), so he may not get the full nuance of your comment, especially if you use a ton of [slang](https://.cirosantilli.com/china-dictatorship#slang).
+    Keep in mind that [Ciro's Chinese sucks](https://cirosantilli.com/china-dictatorship#does-ciro-santilli-speak-chinese), so he may not get the full nuance of your comment, especially if you use a ton of [slang](https://cirosantilli.com/china-dictatorship#slang).
 
     On `shitpost` posts however, you can be as aggressive as you want.
 

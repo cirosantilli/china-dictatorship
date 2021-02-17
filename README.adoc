@@ -69,7 +69,7 @@ image::{china-dictatorship-media-base}/Tianmen_crushed_dead.jpg[height=600]
 
 **法轮功 Falun Gong 1999 70M believer religion banned**
 
-https://cirosantilli.com/cirosantilli/china-dictatorship#falun-gong
+https://cirosantilli.com/china-dictatorship#falun-gong
 
 image::{china-dictatorship-media-base}/Falun_Gong_Ghuangzhou.jpg[height=600]
 
@@ -129,7 +129,7 @@ image::{china-dictatorship-media-base}/Addicted_bed.jpg[height=400]
 
 **996.ICU**
 
-https://cirosantilli.com/cirosantilli/china-dictatorship#nine-nine-six-icu
+https://cirosantilli.com/china-dictatorship#nine-nine-six-icu
 
 image::{china-dictatorship-media-base}/996ICU.png[height=400]
 
@@ -138,6 +138,12 @@ image::{china-dictatorship-media-base}/996ICU.png[height=400]
 https://cirosantilli.com/china-dictatorship#gay-putin
 
 image::{china-dictatorship-media-base}/Gay_Putin.jpg[height=400]
+
+**The poisoning of Alexei Navalny 2020**
+
+https://cirosantilli.com/china-dictatorship#the-poisoning-of-alexei-navalny-2020
+
+image::{china-dictatorship-media-base}/Navalny_hospital_sitting.jpg[height=400]
 
 **Vajiralongkorn Hamtaro**
 
