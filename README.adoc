@@ -8006,7 +8006,7 @@ image::{china-dictatorship-media-base}/Lego_Tank_Man.png[height=400]
 image::{china-dictatorship-media-base}/Tank_Man_FF6.jpg[height=600]
 
 .Tank man drawing by Ciro Santilli. The only CC BY-SA 4.0 representaion of Tank Man found on the web? And the prettiest. Created manually with GIMP. This can be very useful e.g. if you are posting Stack Overflow answers about image processing, e.g.: https://stackoverflow.com/questions/20737061/merge-images-side-by-sidehorizontally/63575228#63575228
-image::{china-dictatorship-media-base}/Tank_Man_drawing_by_Ciro_Santilli_CC_BY_SA.jpg.jpg[height=500]
+image::{china-dictatorship-media-base}/Tank_Man_drawing_by_Ciro_Santilli_CC_BY_SA.png[height=500]
 
 [[tank-man-song]]
 ====== Tank man song by Xu Lin (坦克人，作曲家：徐琳)
@@ -9726,6 +9726,8 @@ image::{china-dictatorship-media-base}/Qatar_web_censorship_page.jpg[height=600]
 
 To China:
 
+* Oracle
+** 2021-02-18 https://theintercept.com/2021/02/18/oracle-china-police-surveillance/ "HOW ORACLE SELLS REPRESSION IN CHINA"
 * Cisco may have knowingly helped to build the Chinese internet censorship infrastructure in the 2000's
 ** https://en.wikipedia.org/wiki/Cisco_Systems#Censorship_in_China
 ** https://www.eff.org/deeplinks/2016/04/ciscos-latest-attempt-dodge-responsibility-facilitating-human-rights-abuses-export
