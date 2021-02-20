@@ -550,7 +550,7 @@ There is infinite debate about this out there, some examples:
 For:
 
 * dictatorships are more likely to start <<war>> or other <<policies,crazy policies>> like the <<great-leap-forward,Great Leap Forward>>, which completely destroy the economy in one go
-* society becomes richer when people know that they can do their startups, get rich, and stay in the country without fear of being persecuted unfairly and losing everything instead of migrating to Canada, see also: <<rule-of-law>>
+* society becomes richer when people know that they can do their startups, get rich, and stay in the country without fear of being persecuted unfairly and losing everything instead of migrating to Canada, see also: <<rule-of-law>>, <<jack-mas-disappearance-2021>>
 * it is much harder to fix problems if you can't talk about the. Any criticism of the government, even if constructive, <<censorship,is taken as menace to power, and more likely to be shut down>>, which makes the government and just becomes less efficient since there is less feedback.
 +
 This greatly increase the probability of dealing poorly with such problems, see e.g. all the global problems listed at: <<not-chinese>>.
@@ -3543,171 +3543,17 @@ The Chinese army, and also one of the central intelligence agencies, notably on 
 
 ===== The West must ban the Chinese telecommunications software and hardware
 
-They are an entry point to spying, censorship and fake news.
+They are an entry point to spying, censorship and fake news. Notable companies that should be banned:
 
-* 2020-02 https://www.reuters.com/article/us-usa-china-media/u-s-imposes-new-rules-on-state-owned-chinese-media-over-propaganda-concerns-idUSKBN20C2G1 U.S. imposes new rules on state-owned Chinese media over propaganda concerns, the companies are: Xinhua News Agency, China Global Television Network, China Radio International, China Daily Distribution Corp. and Hai Tian Development USA, Inc. See also: <<chinese-government-media>>.
-** 2020-04-03 https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/ 'Zoom's encryption is "not suited for secrets" and has surprising links to china, researchers discover"
-
-====== Zoom
-
-* https://en.wikipedia.org/wiki/Zoom_Video_Communications
-* https://zh.wikipedia.org/wiki/Zoom
-
-American company, with Chinese-born now American Citizen CEO https://en.wikipedia.org/wiki/Eric_Yuan[Eric Yuan] (https://zh.wikipedia.org/wiki/袁征[袁征]), migrated to the US around 1997), and development teams largely China-based to reduce costs.
-
-News:
-
-* 2020-12-18: China-based exec Xinjiang Jin (https://cn.nytimes.com/technology/20201221/zoom-tiananmen-square/[靳新江]), AKA Julian Jin, charged with sabotaging Zoom conferences, FBI issued a wanted warrant for him.
-** 2020-12-22 https://www.msnbc.com/opinion/how-zoom-violated-its-own-terms-service-access-china-s-n1252092 summarizes a bit more details about the block
-** https://www.bbc.co.uk/news/world-us-canada-55372493 "US charges ex-Zoom employee with shutting down Tiananmen Square events"
-+
-Zoom statement:
-+
-____
-"We learned during the course of our investigation that the China-based former employee charged today violated Zoom's policies by, among other things, attempting to circumvent certain internal access controls," it said.
-
-It added that the employee "took actions resulting in the termination of several meetings in remembrance of Tiananmen Square and meetings involving religious and/or political activities" and "also shared or directed the sharing of a limited amount of individual user data with Chinese authorities".
-____
-** https://www.fbi.gov/wanted/counterintelligence/xinjiang-jin
-** (possible uncofirmed linkedin) https://www.linkedin.com/in/julien-jin-953615175/[]: Zhejiang University, (ex?) CISCO Webex. Work start date of 1981 could be birth date to enlarge work experience, and that would reach the correct age of 39.
-* 2020-06-10 <<zhou-fengsuo>>'s account as blocked after a celebration of <<tiananmen>>, which was attended by many people from China. The account was later reinstated, Zoom said it acted on a CCP request on error, and it won't do this for users outside of China anymore:
-** https://www.reuters.com/article/us-zoom-video-commn-privacy/zoom-says-china-demanded-shutting-activists-accounts-over-tiananmen-event-idUSKBN23I3GP "U.S. lawmakers ask Zoom to clarify China ties after it suspends accounts"
-** https://www.axios.com/zoom-closes-chinese-user-account-tiananmen-square-f218fed1-69af-4bdd-aac4-7eaf67f34084.html "Zoom closed account of U.S.-based Chinese activist 'to comply with local law'".
-** https://docs.google.com/document/d/12DM3ccTe70yzqCDPu9uXlCD7WmfJq-yzvKdKBH0oppc/edit
-
-.2020-03-27 photo showing https://en.wikipedia.org/wiki/Boris_Johnson[UK Prime Minister Boris Johnson] using Zoom on a Cabinet meeting (a high level Government meeting) during <<corona>>. If you don't properly ban risky dictatorship-linked software, it will get used at the highest levels of Government by clueless people. https://news.sky.com/story/coronairus-cabinet-talks-held-on-zoom-days-after-software-was-banned-by-ministry-of-defence-11963889[Source].
-image::{china-dictatorship-media-base}/Zoom_Boris.jpg[height=400]
-
-[[huawei]]
-====== Huawei (华为)
-
-* https://en.wikipedia.org/wiki/Huawei
-* https://zh.wikipedia.org/wiki/华为
-
-Just look at the Chinese name of the company:
-
-* 华 (China)
-* 为 (to do something for)
-
-How can the West not see this?
-
-No proof is needed. They belong to a <<dictatorship>>, and therefore must not be trusted. Doing so is always a risk which we should not take.
-
-Also have a look at their Wikipedia page:
-
-____
-Ren sought to reverse engineer foreign technologies with local researchers. At a time when all of China's telecommunications technology was imported from abroad, Ren hoped to build a domestic Chinese telecommunication company that could compete with, and ultimately replace, foreign competitors.
-
-During its first several years the company's business model consisted mainly of reselling private branch exchange (PBX) switches imported from Hong Kong. Meanwhile, it was reverse-engineering imported switches and investing heavily in research and development to manufacture its own technologies. By 1990 the company had approximately 600 R&D staff and began its own independent commercialization of PBX switches targeting hotels and small enterprises.
-
-The company's first major breakthrough came in 1993 when it launched its C&C08 program controlled telephone switch. It was by far the most powerful switch available in China at the time. By initially deploying in small cities and rural areas and placing emphasis on service and customizability, the company gained market share and made its way into the mainstream market.
-
-Huawei also won a key contract to build the first national telecommunications network for the People's Liberation Army, a deal one employee described as "small in terms of our overall business, but large in terms of our relationships". In 1994, founder Ren Zhengfei had a meeting with Party general secretary Jiang Zemin, telling him that "switching equipment technology was related to national security, and that a nation that did not have its own switching equipment was like one that lacked its own military." Jiang reportedly agreed with this assessment.
-
-Another major turning point for the company came in 1996 when the government in Beijing adopted an explicit policy of supporting domestic telecommunications manufacturers and restricting access to foreign competitors. Huawei was promoted by both the government and the military as a national champion, and established new research and development offices.
-____
-
-At any point the Chinese government could make a request that they cannot deny.
-
-List of bad things Huawei has done: https://github.com/evil-huawei/evil-huawei Mostly not political.
-
-Some news:
-
-* 2021-01-13 https://www.bbc.co.uk/news/technology-55634388 "Huawei patent mentions use of Uighur-spotting tech". Related: <<em_nation_type_uygur-2020>>
-* 5G 2019-2020
-** in 2020 the UK was trying hard to get kicked out of the 5 eyes in 2020 by using 5G equipment from Huawei
-** 2020-06-25 https://www.bbc.co.uk/news/uk-england-cambridgeshire-53178998 "Huawei's £1bn research centre near Cambridge approved" so despite all the 5G stuff, the UK still allows them to create a new research center in the UK... are they blind?
-** https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html (https://web.archive.org/web/20200129023355/https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html[archive]) "UK will allow Huawei to help build its 5G network despite US pressure"
-** 2020-04-17 only after more than 10 thousand people died in the country during <<corona>> did the brits finally change their minds: https://nypost.com/2020/04/17/uk-moves-to-drop-huawei-as-5g-vendor-citing-china-coronavirus-transparency/ "UK moves to drop Huawei as 5G vendor, citing China coronavirus transparency"
-* 2018-12 https://en.wikipedia.org/wiki/Meng_Wanzhou[Meng Wanzhou] (孟晚舟), daughter of Huawei founder Ren Zhengfei (任正非) and Huawei CFO as of 2018, was arrested in Canada because the US accused her of breaking Iran sanctions
-** https://www.theglobeandmail.com/politics/article-michael-kovrig-michael-spavor-canadian-detainees-china-explainer/ "Why are Michael Kovrig and Michael Spavor still detained in China?" in apparent retaliation, under accusation of espionage.
-** 2020-05-27 https://techcrunch.com/2020/05/27/canada-court-finds-against-huawei-cfo-meng-wanzhou-on-double-criminality-extradition-trial-to-continue/ "Canada court finds against Huawei CFO Meng Wanzhou on double criminality; extradition trial to continue"
-* 2019-11 https://www.forbes.com/sites/zakdoffman/2019/11/29/has-huaweis-darkest-secret-just-been-exposed-by-this-new-report/#7896db9d4061 "Has Huawei's Darkest Secret Just Been Exposed By This New Surveillance Report?" Xinjiang Papers reveal the extent of Huawei's involvement in <<xinjiang>>
-
-."When you send a good joke from your Huawei phone", <<xi-jinping>> is also listening and laughing with you, girls. https://i.redd.it/nodgcqmwtcg31.jpg[Source].
-image::{china-dictatorship-media-base}/When_you_send_a_good_joke_from_your_Huawei_phone.jpg[height=600]
-
-.<<rebel-pepper>> 2018-12-10 "Why does the whole world hate me" Huawei cartoon, where Huawei's shadow shows the https://en.wikipedia.org/wiki/Hammer_and_sickle[hammer and sickle] to suggest that Huawei is controlled by the CCP. https://www.rfa.org/english/cartoons/Huawei-cartoon-12102018152050.html[Source].
-image::{china-dictatorship-media-base}/Huawei_why_does_the_whole_world_hate_me.jpeg[height=400]
-
-.<<rebel-pepper>> 2019-03-08 showing Huawei slapping the Statue of Liberty with "The Constitution of the United States" when Huawei sued the US Government for violating the Constitution when it banned government agencies from buying Huawei equipment. This illustrates the usual dilemma where <<what-should-western-countries-do-about-china,China uses Western freedom of speech as a weapon against the West itself>>. https://www.rfa.org/english/cartoons/chinashuawei-03082019162541.html[Source].
-image::{china-dictatorship-media-base}/Huawei_Statue_of_Liberty.jpeg[height=400]
-
-.Cartoon showing a huge China flag branded USB sucking up Western personal and military information like a vacuum cleaner in 2019-04-29 article entitled "Britain will regret doing business with Huawei". TODO cartoon author. https://retro-blogs.spectator.co.uk/2019/04/britain-will-regret-doing-business-with-huawei/[Source].
-image::{china-dictatorship-media-base}/China_USB_theft.jpg[height=400]
-
-.Cartoon suggesting that Huawei's 5G is a like a https://en.wikipedia.org/wiki/Trojan_Horse[Trojan Horse] being gifted to Europe. TODO: source of original non-China generic Trojan Horse background image that was edited and repurposed. https://twitter.com/DaichiWatanbe/status/1231189285325475840[Source].
-image::{china-dictatorship-media-base}/Huawei_5G_Trojan.jpg[height=400]
-
-.<<rebel-pepper>> 2019-06-22 cartoon depicting Germany, Hungary and the United Kingdom as https://en.wikipedia.org/wiki/Gollum[Gollum]s from https://en.wikipedia.org/wiki/The_Lord_of_the_Rings[The Lord of The Rings] and China as https://en.wikipedia.org/wiki/Sauron[Sauron] offering a ring which reads "5G to rule them" and "Huawei" to the Gollums who are eager to obtain it. This is a reference to The Lord of the Rings backstory in which Sauron bribed and controlled the rulers of the world by giving them https://en.wikipedia.org/wiki/Rings_of_Power[rings of power]. Now that Ciro thinks about it, maybe this was actually Tolkien making a reference to the political situation of his time. https://twitter.com/RadioFreeAsia/status/1100504518142365698[Source].
-image::{china-dictatorship-media-base}/Huawei_5G_my_precious.jpg[height=400]
-
-[[tiktok]]
-====== TikTok (Douyin, 抖音)
-
-* https://en.wikipedia.org/wiki/TikTok
-* https://zh.wikipedia.org/wiki/抖音
-
-News:
-
-* 2020-11-05  https://www.businessinsider.com/tiktok-censor-china-critical-content-uighur-uighurs-2020-11?r=US&IR=T "A senior TikTok executive admitted the company used to censor content critical of China, 'specifically with regard to the Uighur situation'", related to: <<xinjiang-re-education-camps>>
-* 2020-07 https://techcrunch.com/2020/07/23/tiktok-creator-fund-200-million-us/ "TikTok unveils $200 million fund for U.S. creators": TikTok is trying to buy their stay in the West.
-* 2020-07 https://www.forbes.com/sites/zakdoffman/2020/06/26/warning-apple-suddenly-catches-tiktok-secretly-spying-on-millions-of-iphone-users/#5265c8d734ef "pple Suddenly Catches TikTok Secretly Spying On Millions Of iPhone Users" by reading from the clipboard
-* 2020-06 https://www.bbc.co.uk/news/technology-53225720 India bans TikTok after Ladakh border tensions
-* 2020-05 <<liu-keqing-singer>>
-* 2019-11-28 https://www.theguardian.com/technology/2019/nov/28/tiktok-says-sorry-to-us-teenager-blocked-after-sharing-xinjiang-videos[]: "TikTok sorry for blocking teenager who disguised Xinjiang video as make-up tutorial". Subtitle: "Chinese-owned video sharing platform blocked Feroza Aziz after she posted film disguised as makeup tutorial"
-* 2019-11 https://www.theverge.com/platform/amp/2019/11/25/20976964/chinese-americans-censorship-wechat-hong-kong-elections-tiktok
+* <<huawei>>
+* <<tiktok>>
+* <<zoom>>
+* <<alibaba>>
 
 Reports:
 
-* 2020-08 https://www.taiwannews.com.tw/en/news/3982027 photo of ByteDance top brass with CCP members in Beijing and description of their meeting. Because obviously they have strong ties with the CCP like any other Chinese company.
-* 2020-03 https://www.reddit.com/r/China/comments/fug8i1/the_chinese_tiktok_just_began_an_uninterrupted/ "The Chinese Tik-Tok just began an uninterrupted propaganda stream." during <<corona>>
-* https://twitter.com/JoshuaDummer/status/1280877750245453828 "Wife trying livestreaming on Douyin. Comes over to me in the middle of a stream and puts me on camera. After about a minute, notice pops up saying that foreigners are not allowed to appear on livestreams 'without permission'."
-** https://twitter.com/JoshuaDummer/status/1280881420047511552/photo/1
-** https://twitter.com/JoshuaDummer/status/1280882119913291776/photo/1
-
-Douyin does not seem to have a web interface: https://www.zhihu.com/question/269102675 "有没有抖音网页版或者抖音电脑版？"
-
-[[baidu]]
-====== Baidu (百度)
-
-https://en.wikipedia.org/wiki/Baidu
-
-The "Google of China":
-
-* Search engine: original business and still served at the toplevel domain
-** https://www.baidu.com/
-** Autocomplete suggestion for "Ciro Santilli": "cirosantilli的妻子" (Ciro Santilli's wife and Children)
-** Clearly and obviously censors pages with <<keyword-attack,keywords>>, e.g.:
-*** https://www.baidu.com/s?wd=Ciro%20Santilli%20Stack%20Overflow["Ciro Santilli Stack Overflow"] hits https://stackoverflow.com/users/9160762/ciro-santilli and not https://stackoverflow.com/users/895245/ciro-santilli-郝海东冠状病六四事件法轮功 which has way greater reputation (https://web.archive.org/web/20200807071610/https://www.baidu.com/s?wd=Ciro%20Santilli%20Stack%20Overflow[archive]). For example, a much smaller account with a much more common name hits: https://stackoverflow.com/users/763246/james-hill | https://web.archive.org/web/20200807072446/https://www.baidu.com/s?wd=james%20hill%20stack%20overflow
-*** https://www.baidu.com/s?wd=cirosantilli%20github["cirosantilli github"] does not hit https://github.com/cirosantilli (https://web.archive.org/web/20200807071807/https://www.baidu.com/s?wd=cirosantilli%20github[archive])
-*** but there does appear to be a manual aspect to the block possibly. For example, Ciro's top answer does hit, even though he has keywords in the page: https://www.baidu.com/s?&wd=dependencies%20devDependencies%20peerDependencies to https://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies (https://web.archive.org/web/20200807072151/https://www.baidu.com/s?&wd=dependencies%20devDependencies%20peerDependencies[archive])
-*** Pages censored in China do hit outside of China at least however, e.g.: https://www.baidu.com/s?wd=twitter first hits https://twitter.com (https://web.archive.org/web/20200807071312/https://www.baidu.com/s?wd=twitter[archive])
-* Tieba blogging
-** https://en.wikipedia.org/wiki/Baidu_Tieba
-** https://zh.wikipedia.org/wiki/百度贴吧
-** https://tieba.baidu.com
-* Maps
-** https://en.wikipedia.org/wiki/Baidu_Maps
-** https://zh.wikipedia.org/wiki/百度地图
-** Google Maps is not allowed to film in China for Streetview, so Baidu has its own
-* Analytics
-** https://tongji.baidu.com/web/help/article?id=174
-** 百度统计代码介绍
-** the <<cac>> uses their analytics as of 2020
-* Baike wiki
-** https://baike.baidu.com/
-** The leading Chinese Wikipedia
-** https://en.wikipedia.org/wiki/Baidu_Baike
-** https://zh.wikipedia.org/wiki/百度百科
-** obviously completely censored, e.g.: <<baidu-baike-censorship-of-hao-haidong>>
-** seems to not have edit history. That would be bad for censorship :-)
-
-[[alibaba]]
-====== Alibaba (阿里巴巴)
-
-* https://en.wikipedia.org/wiki/Alibaba_Group
-* https://zh.wikipedia.org/wiki/阿里巴巴集团
+* 2020-02 https://www.reuters.com/article/us-usa-china-media/u-s-imposes-new-rules-on-state-owned-chinese-media-over-propaganda-concerns-idUSKBN20C2G1 U.S. imposes new rules on state-owned Chinese media over propaganda concerns, the companies are: Xinhua News Agency, China Global Television Network, China Radio International, China Daily Distribution Corp. and Hai Tian Development USA, Inc. See also: <<chinese-government-media>>.
+** 2020-04-03 https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/ 'Zoom's encryption is "not suited for secrets" and has surprising links to china, researchers discover"
 
 ===== What should Western media do about China?
 
@@ -10070,6 +9916,12 @@ where "京" indicates that the certificate was issued by the Beijing Provincial 
 
 In 2014, almost 15 years later, <<russia>> finally caught up, what a relief: <<russia-mandatory-registration-of-bloggers>>.
 
+====== Social media license
+
+Ahh, this is a perfect excuse to delete all <<wumao>> comments!
+
+* 2021-02-20 https://www.taiwannews.com.tw/en/news/4129352 "Beginning next week, the Cyberspace Administration of China will require bloggers and influencers to have a government-approved credential before they can publish on a wide range of subjects. Some fear that only state media and official propaganda accounts will get permission. While permits have been needed since at least 2017 to write about topics such as political and military affairs, enforcement has not been widespread. The new rules expand that requirement to health, economics, education and judicial matters."
+
 [[anonymous-accounts-ban]]
 ===== Anonymous accounts ban (2017)
 
@@ -10580,6 +10432,176 @@ This is especially interesting given that one of the main propaganda reasons for
 University to train the next dictators
 
 Website: http://www.ccps.gov.cn/ (Central Committee Party School).
+
+== Chinese companies
+
+=== Zoom
+
+* https://en.wikipedia.org/wiki/Zoom_Video_Communications
+* https://zh.wikipedia.org/wiki/Zoom
+
+American company, with Chinese-born now American Citizen CEO https://en.wikipedia.org/wiki/Eric_Yuan[Eric Yuan] (https://zh.wikipedia.org/wiki/袁征[袁征]), migrated to the US around 1997), and development teams largely China-based to reduce costs.
+
+News:
+
+* 2020-12-18: China-based exec Xinjiang Jin (https://cn.nytimes.com/technology/20201221/zoom-tiananmen-square/[靳新江]), AKA Julian Jin, charged with sabotaging Zoom conferences, FBI issued a wanted warrant for him.
+** 2020-12-22 https://www.msnbc.com/opinion/how-zoom-violated-its-own-terms-service-access-china-s-n1252092 summarizes a bit more details about the block
+** https://www.bbc.co.uk/news/world-us-canada-55372493 "US charges ex-Zoom employee with shutting down Tiananmen Square events"
++
+Zoom statement:
++
+____
+"We learned during the course of our investigation that the China-based former employee charged today violated Zoom's policies by, among other things, attempting to circumvent certain internal access controls," it said.
+
+It added that the employee "took actions resulting in the termination of several meetings in remembrance of Tiananmen Square and meetings involving religious and/or political activities" and "also shared or directed the sharing of a limited amount of individual user data with Chinese authorities".
+____
+** https://www.fbi.gov/wanted/counterintelligence/xinjiang-jin
+** (possible uncofirmed linkedin) https://www.linkedin.com/in/julien-jin-953615175/[]: Zhejiang University, (ex?) CISCO Webex. Work start date of 1981 could be birth date to enlarge work experience, and that would reach the correct age of 39.
+* 2020-06-10 <<zhou-fengsuo>>'s account as blocked after a celebration of <<tiananmen>>, which was attended by many people from China. The account was later reinstated, Zoom said it acted on a CCP request on error, and it won't do this for users outside of China anymore:
+** https://www.reuters.com/article/us-zoom-video-commn-privacy/zoom-says-china-demanded-shutting-activists-accounts-over-tiananmen-event-idUSKBN23I3GP "U.S. lawmakers ask Zoom to clarify China ties after it suspends accounts"
+** https://www.axios.com/zoom-closes-chinese-user-account-tiananmen-square-f218fed1-69af-4bdd-aac4-7eaf67f34084.html "Zoom closed account of U.S.-based Chinese activist 'to comply with local law'".
+** https://docs.google.com/document/d/12DM3ccTe70yzqCDPu9uXlCD7WmfJq-yzvKdKBH0oppc/edit
+
+.2020-03-27 photo showing https://en.wikipedia.org/wiki/Boris_Johnson[UK Prime Minister Boris Johnson] using Zoom on a Cabinet meeting (a high level Government meeting) during <<corona>>. If you don't properly ban risky dictatorship-linked software, it will get used at the highest levels of Government by clueless people. https://news.sky.com/story/coronairus-cabinet-talks-held-on-zoom-days-after-software-was-banned-by-ministry-of-defence-11963889[Source].
+image::{china-dictatorship-media-base}/Zoom_Boris.jpg[height=400]
+
+[[huawei]]
+=== Huawei (华为)
+
+* https://en.wikipedia.org/wiki/Huawei
+* https://zh.wikipedia.org/wiki/华为
+
+Just look at the Chinese name of the company:
+
+* 华 (China)
+* 为 (to do something for)
+
+How can the West not see this?
+
+No proof is needed. They belong to a <<dictatorship>>, and therefore must not be trusted. Doing so is always a risk which we should not take.
+
+Also have a look at their Wikipedia page:
+
+____
+Ren sought to reverse engineer foreign technologies with local researchers. At a time when all of China's telecommunications technology was imported from abroad, Ren hoped to build a domestic Chinese telecommunication company that could compete with, and ultimately replace, foreign competitors.
+
+During its first several years the company's business model consisted mainly of reselling private branch exchange (PBX) switches imported from Hong Kong. Meanwhile, it was reverse-engineering imported switches and investing heavily in research and development to manufacture its own technologies. By 1990 the company had approximately 600 R&D staff and began its own independent commercialization of PBX switches targeting hotels and small enterprises.
+
+The company's first major breakthrough came in 1993 when it launched its C&C08 program controlled telephone switch. It was by far the most powerful switch available in China at the time. By initially deploying in small cities and rural areas and placing emphasis on service and customizability, the company gained market share and made its way into the mainstream market.
+
+Huawei also won a key contract to build the first national telecommunications network for the People's Liberation Army, a deal one employee described as "small in terms of our overall business, but large in terms of our relationships". In 1994, founder Ren Zhengfei had a meeting with Party general secretary Jiang Zemin, telling him that "switching equipment technology was related to national security, and that a nation that did not have its own switching equipment was like one that lacked its own military." Jiang reportedly agreed with this assessment.
+
+Another major turning point for the company came in 1996 when the government in Beijing adopted an explicit policy of supporting domestic telecommunications manufacturers and restricting access to foreign competitors. Huawei was promoted by both the government and the military as a national champion, and established new research and development offices.
+____
+
+At any point the Chinese government could make a request that they cannot deny.
+
+List of bad things Huawei has done: https://github.com/evil-huawei/evil-huawei Mostly not political.
+
+Some news:
+
+* 2021-01-13 https://www.bbc.co.uk/news/technology-55634388 "Huawei patent mentions use of Uighur-spotting tech". Related: <<em_nation_type_uygur-2020>>
+* 5G 2019-2020
+** in 2020 the UK was trying hard to get kicked out of the 5 eyes in 2020 by using 5G equipment from Huawei
+** 2020-06-25 https://www.bbc.co.uk/news/uk-england-cambridgeshire-53178998 "Huawei's £1bn research centre near Cambridge approved" so despite all the 5G stuff, the UK still allows them to create a new research center in the UK... are they blind?
+** https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html (https://web.archive.org/web/20200129023355/https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html[archive]) "UK will allow Huawei to help build its 5G network despite US pressure"
+** 2020-04-17 only after more than 10 thousand people died in the country during <<corona>> did the brits finally change their minds: https://nypost.com/2020/04/17/uk-moves-to-drop-huawei-as-5g-vendor-citing-china-coronavirus-transparency/ "UK moves to drop Huawei as 5G vendor, citing China coronavirus transparency"
+* 2018-12 https://en.wikipedia.org/wiki/Meng_Wanzhou[Meng Wanzhou] (孟晚舟), daughter of Huawei founder Ren Zhengfei (任正非) and Huawei CFO as of 2018, was arrested in Canada because the US accused her of breaking Iran sanctions
+** https://www.theglobeandmail.com/politics/article-michael-kovrig-michael-spavor-canadian-detainees-china-explainer/ "Why are Michael Kovrig and Michael Spavor still detained in China?" in apparent retaliation, under accusation of espionage.
+** 2020-05-27 https://techcrunch.com/2020/05/27/canada-court-finds-against-huawei-cfo-meng-wanzhou-on-double-criminality-extradition-trial-to-continue/ "Canada court finds against Huawei CFO Meng Wanzhou on double criminality; extradition trial to continue"
+* 2019-11 https://www.forbes.com/sites/zakdoffman/2019/11/29/has-huaweis-darkest-secret-just-been-exposed-by-this-new-report/#7896db9d4061 "Has Huawei's Darkest Secret Just Been Exposed By This New Surveillance Report?" Xinjiang Papers reveal the extent of Huawei's involvement in <<xinjiang>>
+
+."When you send a good joke from your Huawei phone", <<xi-jinping>> is also listening and laughing with you, girls. https://i.redd.it/nodgcqmwtcg31.jpg[Source].
+image::{china-dictatorship-media-base}/When_you_send_a_good_joke_from_your_Huawei_phone.jpg[height=600]
+
+.<<rebel-pepper>> 2018-12-10 "Why does the whole world hate me" Huawei cartoon, where Huawei's shadow shows the https://en.wikipedia.org/wiki/Hammer_and_sickle[hammer and sickle] to suggest that Huawei is controlled by the CCP. https://www.rfa.org/english/cartoons/Huawei-cartoon-12102018152050.html[Source].
+image::{china-dictatorship-media-base}/Huawei_why_does_the_whole_world_hate_me.jpeg[height=400]
+
+.<<rebel-pepper>> 2019-03-08 showing Huawei slapping the Statue of Liberty with "The Constitution of the United States" when Huawei sued the US Government for violating the Constitution when it banned government agencies from buying Huawei equipment. This illustrates the usual dilemma where <<what-should-western-countries-do-about-china,China uses Western freedom of speech as a weapon against the West itself>>. https://www.rfa.org/english/cartoons/chinashuawei-03082019162541.html[Source].
+image::{china-dictatorship-media-base}/Huawei_Statue_of_Liberty.jpeg[height=400]
+
+.Cartoon showing a huge China flag branded USB sucking up Western personal and military information like a vacuum cleaner in 2019-04-29 article entitled "Britain will regret doing business with Huawei". TODO cartoon author. https://retro-blogs.spectator.co.uk/2019/04/britain-will-regret-doing-business-with-huawei/[Source].
+image::{china-dictatorship-media-base}/China_USB_theft.jpg[height=400]
+
+.Cartoon suggesting that Huawei's 5G is a like a https://en.wikipedia.org/wiki/Trojan_Horse[Trojan Horse] being gifted to Europe. TODO: source of original non-China generic Trojan Horse background image that was edited and repurposed. https://twitter.com/DaichiWatanbe/status/1231189285325475840[Source].
+image::{china-dictatorship-media-base}/Huawei_5G_Trojan.jpg[height=400]
+
+.<<rebel-pepper>> 2019-06-22 cartoon depicting Germany, Hungary and the United Kingdom as https://en.wikipedia.org/wiki/Gollum[Gollum]s from https://en.wikipedia.org/wiki/The_Lord_of_the_Rings[The Lord of The Rings] and China as https://en.wikipedia.org/wiki/Sauron[Sauron] offering a ring which reads "5G to rule them" and "Huawei" to the Gollums who are eager to obtain it. This is a reference to The Lord of the Rings backstory in which Sauron bribed and controlled the rulers of the world by giving them https://en.wikipedia.org/wiki/Rings_of_Power[rings of power]. Now that Ciro thinks about it, maybe this was actually Tolkien making a reference to the political situation of his time. https://twitter.com/RadioFreeAsia/status/1100504518142365698[Source].
+image::{china-dictatorship-media-base}/Huawei_5G_my_precious.jpg[height=400]
+
+[[tiktok]]
+=== TikTok (Douyin, 抖音)
+
+* https://en.wikipedia.org/wiki/TikTok
+* https://zh.wikipedia.org/wiki/抖音
+
+News:
+
+* 2020-11-05  https://www.businessinsider.com/tiktok-censor-china-critical-content-uighur-uighurs-2020-11?r=US&IR=T "A senior TikTok executive admitted the company used to censor content critical of China, 'specifically with regard to the Uighur situation'", related to: <<xinjiang-re-education-camps>>
+* 2020-07 https://techcrunch.com/2020/07/23/tiktok-creator-fund-200-million-us/ "TikTok unveils $200 million fund for U.S. creators": TikTok is trying to buy their stay in the West.
+* 2020-07 https://www.forbes.com/sites/zakdoffman/2020/06/26/warning-apple-suddenly-catches-tiktok-secretly-spying-on-millions-of-iphone-users/#5265c8d734ef "pple Suddenly Catches TikTok Secretly Spying On Millions Of iPhone Users" by reading from the clipboard
+* 2020-06 https://www.bbc.co.uk/news/technology-53225720 India bans TikTok after Ladakh border tensions
+* 2020-05 <<liu-keqing-singer>>
+* 2019-11-28 https://www.theguardian.com/technology/2019/nov/28/tiktok-says-sorry-to-us-teenager-blocked-after-sharing-xinjiang-videos[]: "TikTok sorry for blocking teenager who disguised Xinjiang video as make-up tutorial". Subtitle: "Chinese-owned video sharing platform blocked Feroza Aziz after she posted film disguised as makeup tutorial"
+* 2019-11 https://www.theverge.com/platform/amp/2019/11/25/20976964/chinese-americans-censorship-wechat-hong-kong-elections-tiktok
+
+Reports:
+
+* 2020-08 https://www.taiwannews.com.tw/en/news/3982027 photo of ByteDance top brass with CCP members in Beijing and description of their meeting. Because obviously they have strong ties with the CCP like any other Chinese company.
+* 2020-03 https://www.reddit.com/r/China/comments/fug8i1/the_chinese_tiktok_just_began_an_uninterrupted/ "The Chinese Tik-Tok just began an uninterrupted propaganda stream." during <<corona>>
+* https://twitter.com/JoshuaDummer/status/1280877750245453828 "Wife trying livestreaming on Douyin. Comes over to me in the middle of a stream and puts me on camera. After about a minute, notice pops up saying that foreigners are not allowed to appear on livestreams 'without permission'."
+** https://twitter.com/JoshuaDummer/status/1280881420047511552/photo/1
+** https://twitter.com/JoshuaDummer/status/1280882119913291776/photo/1
+
+Douyin does not seem to have a web interface: https://www.zhihu.com/question/269102675 "有没有抖音网页版或者抖音电脑版？"
+
+[[baidu]]
+=== Baidu (百度)
+
+https://en.wikipedia.org/wiki/Baidu
+
+The "Google of China":
+
+* Search engine: original business and still served at the toplevel domain
+** https://www.baidu.com/
+** Autocomplete suggestion for "Ciro Santilli": "cirosantilli的妻子" (Ciro Santilli's wife and Children)
+** Clearly and obviously censors pages with <<keyword-attack,keywords>>, e.g.:
+*** https://www.baidu.com/s?wd=Ciro%20Santilli%20Stack%20Overflow["Ciro Santilli Stack Overflow"] hits https://stackoverflow.com/users/9160762/ciro-santilli and not https://stackoverflow.com/users/895245/ciro-santilli-郝海东冠状病六四事件法轮功 which has way greater reputation (https://web.archive.org/web/20200807071610/https://www.baidu.com/s?wd=Ciro%20Santilli%20Stack%20Overflow[archive]). For example, a much smaller account with a much more common name hits: https://stackoverflow.com/users/763246/james-hill | https://web.archive.org/web/20200807072446/https://www.baidu.com/s?wd=james%20hill%20stack%20overflow
+*** https://www.baidu.com/s?wd=cirosantilli%20github["cirosantilli github"] does not hit https://github.com/cirosantilli (https://web.archive.org/web/20200807071807/https://www.baidu.com/s?wd=cirosantilli%20github[archive])
+*** but there does appear to be a manual aspect to the block possibly. For example, Ciro's top answer does hit, even though he has keywords in the page: https://www.baidu.com/s?&wd=dependencies%20devDependencies%20peerDependencies to https://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies (https://web.archive.org/web/20200807072151/https://www.baidu.com/s?&wd=dependencies%20devDependencies%20peerDependencies[archive])
+*** Pages censored in China do hit outside of China at least however, e.g.: https://www.baidu.com/s?wd=twitter first hits https://twitter.com (https://web.archive.org/web/20200807071312/https://www.baidu.com/s?wd=twitter[archive])
+* Tieba blogging
+** https://en.wikipedia.org/wiki/Baidu_Tieba
+** https://zh.wikipedia.org/wiki/百度贴吧
+** https://tieba.baidu.com
+* Maps
+** https://en.wikipedia.org/wiki/Baidu_Maps
+** https://zh.wikipedia.org/wiki/百度地图
+** Google Maps is not allowed to film in China for Streetview, so Baidu has its own
+* Analytics
+** https://tongji.baidu.com/web/help/article?id=174
+** 百度统计代码介绍
+** the <<cac>> uses their analytics as of 2020
+* Baike wiki
+** https://baike.baidu.com/
+** The leading Chinese Wikipedia
+** https://en.wikipedia.org/wiki/Baidu_Baike
+** https://zh.wikipedia.org/wiki/百度百科
+** obviously completely censored, e.g.: <<baidu-baike-censorship-of-hao-haidong>>
+** seems to not have edit history. That would be bad for censorship :-)
+
+[[alibaba]]
+=== Alibaba (阿里巴巴)
+
+* https://en.wikipedia.org/wiki/Alibaba_Group
+* https://zh.wikipedia.org/wiki/阿里巴巴集团
+
+==== Jack Ma's disappearance (2021)
+
+Got bitchslaped by Xi, 3 months disappearance:
+
+* 2021-02-16 https://web.archive.org/web/20210219160944/https://www.wsj.com/articles/china-blocked-jack-mas-ant-ipo-after-an-investigation-revealed-who-stood-to-gain-11613491292 "China Blocked Jack Ma’s Ant IPO After Investigation Revealed Likely Beneficiaries. Well-connected Chinese power players, including some with links to political families that represent a potential challenge to President Xi". Mentioned specifically are Jiang Zhicheng
+* https://www.theguardian.com/business/2021/jan/23/the-strange-case-of-alibabas-jack-ma-and-his-three-month-vanishing-act
 
 == Chinese censorship companies
 
