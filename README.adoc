@@ -2220,7 +2220,7 @@ From the HSK vocabulary list, he estimates that he is definitely HSK 3, but not 
 
 Phonetics wise, Ciro can't distinguish or produce a few sounds, notably `-ing` vs `-in` and his off-tone rate is high, but it tends to not matter at all compared to his lack of vocabulary. Except for his <<wife,mother-in-law>>, who sometimes does not understand it at all without correct tones!
 
-Ciro reads with link:https://www.perapera.org/[Perapera] when he wants to learn new words/has patience/something is very important, and can basically understand everything in that way.
+Ciro reads with link:https://www.perapera.org/[Perapera] when he wants to learn new words/has patience/something is very important, and can basically understand everything in that way. TODO perapera support stopped in 2021: https://www.perapera.org/plugins/ and since browsers don't have stable API's it very quickly stopped working for everyone. Alternatives asked at: https://softwarerecs.stackexchange.com/questions/78268/on-mouse-hover-pop-up-chinese-dictionary-browser-extension-alternative-to-perape/ https://chrome.google.com/webstore/detail/zhongwen-chinese-english/kkmlkkjojmombglmlpbpapmhcaljjkde[Zhongwen] worked, source at https://github.com/cschiller/zhongwen
 
 When he has no patience or for larger not very important chunks of text though, he reads with Google Translate as it tends to work, and then if there is an important sentence that was translated to garbage with Perapera.
 
@@ -4028,6 +4028,8 @@ Query to find them: https://data.stackexchange.com/stackoverflow/query/312863/me
 
 ==== GitHub
 
+GiHub is the new <<xidan-democracy-wall>>! :) See also: <<meant-to-be-used>>.
+
 GitHub's site policy can be seen at: https://help.github.com/en/github/site-policy
 
 If you believe this page violates those policies, you can click the report abuse button on https://github.com/cirosantilli[Ciro's profile], which links to: https://github.com/contact/report-abuse?report=cirosantilli+%28user%29 or you can just contacat support@github.com
@@ -4142,7 +4144,9 @@ Mentioned in other sections:
 * https://github.com/jasonqng/chinese-keywords mentioned at <<where-can-i-find-good-words-for-a-keyword-attack>>
 * https://github.com/programthink/zhao from <<programthink>>
 * <<censorship-monitoring-tools-on-github>>
-* https://github.com/evil-huawei/evil-huawei from <<huawei>>
+* <<huawei>>:
+** https://github.com/evil-huawei/evil-huawei
+** https://github.com/HuaweiJoke/Huawei-Joke
 * https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo from <<xi-jinping-thought>>
 * https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md form <<metoo>>
 * https://github.com/fuckcqcs/fuckcqcs at <<changsheng-bio-technology-vaccine-data-falsification-incident-2018>>
@@ -4280,10 +4284,56 @@ Some minor relationships with <<terminus2049>>:
 
 The anonymous user https://github.com/duty-machine has some automation setup such that anyone can request certain webpages to be copied on to GitHub anonymously through a separate website, notably:
 
-* https://github.com/duty-machine/duty-machine[]: big Chinese social media, e.g. Weibo, <<zhihu>>, Douban. Articles stored in issues.
+* https://github.com/duty-machine/duty-machine[]: big Chinese social media, e.g. Weibo, <<zhihu>>, Douban. Articles stored in issues. Archive requests: https://archives.duty-machine.now.sh/
 * https://github.com/duty-machine/news[]: big Western news websites like Reuters, BBC, etc. Articles stored in-tree.
 
 The project claims to have been inspired by <<terminus2049>>, but hopefully they will have better operational security.
+
+Unfortunately, it was found that the project could be used by malicious users to at mention spam GitHub users: https://github.com/cirosantilli/china-dictatorship/issues/192[], let's see if they patch it.
+
+[[zhao-heming]]
+====== Zhao Heming (召赫名)
+
+A few accounts were created by this pseudonym, e.g.:
+
+* https://github.com/zaohmeing/21-[]: https://github.com/zaohmeing/21-/blob/master/.gitignore
+* https://github.com/zhaohmng/-21-[]: https://github.com/zhaohmng/-21-/blob/master/%231a.txt
+
+Much more sanely encoded/formatted/rendered versions can be found at:
+
+* https://github.com/cirosantilli/china-dictatorship/blob/master/21century.md[]. Copied from https://matters.news/@halanh/网传70岁赫连禾用大半生研究构建-21世纪新政-引发专家们高度关注-bafyreihnbf6jyzvwyybwl5hym2nikj5zrpwxli6nphzylvdq6btsbydn3y
+* https://github.com/cirosantilli/china-dictatorship/blob/master/wang-huning-three-dynasties.md[]. Copied from: https://matters.news/@halanh/三朝罪恶元凶王沪宁-bafyreifrjf5ce45fqpif4nms4x72mlrbyijs7bffqi7f7sng47fuelkhmm
+
+Both Zhao Heming repos contain reproductions of two manifestos are pasted together on a single file, and somewhat broken encoding.
+
+These repos attract a ton of <<wumao>> on the comments, it is very impressive!!! Ciro was jealous.
+
+The first is "21世纪新政宣言" (New System Declaration for the 21st Century). That text is also reproduced at:
+
+It proposes a peaceful reunification of China with <<taiwan>> under their specified political system described in 12 paragraphs. This system is a reformed type of Western democracy, which the manifesto also criticize downsides of.
+
+The manifesto is dated drafted 2019.8.6, and several versions have different update dates and revision numbers, e.g. our copy is dated 7th edition of 2020.6.19. TODO what is canonical?
+
+The manifesto provides an email "wanghunn@gmx.com" for those who signed it to send the signed version to, and describes the author as male 70 years old Chinese person.
+
+TODO what does: "起草人：赫连禾" mean?
+
+The second is "三朝罪恶元凶王沪宁" (The Culprit of Three Dynasties Wang Huning).
+
+The title presumably refers to:
+
+* https://en.wikipedia.org/wiki/Wang_Huning
+* https://zh.wikipedia.org/wiki/王沪宁
+
+Wikipedia mentions:
+
+____
+Wang is believed to have been one of the principal architects behind the official political ideologies of three paramount leaders: "Three Represents" by Jiang Zemin, the Scientific Development Concept by Hu Jintao, and the Chinese Dream and <<xi-jinping-Thought>> of Xi Jinping.
+____
+
+so it must be about him.
+
+The manifesto is divided into 23 numbered headers which appear to be independently published texts later collected. It is signed by 郝雪森 (Hao Xuesen) 2016-09-10. One of the sections gives the email: haoxuesen@gmx.com[].
 
 ===== Gitee
 
@@ -7293,7 +7343,7 @@ Added to the Constitution in preparation for <<xi-abolishes-term-limits-2018-03,
 * https://en.wikipedia.org/wiki/Xuexi_Qiangguo
 * https://zh.wikipedia.org/wiki/学习强国
 
-TODO what does this repo do: https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo[]?
+TODO what does this repo do: https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo[]? And there there's an anti-repo for wumaos: https://github.com/boycott-fuck-xuexiqiangguo/Boycott-Fuck-XueXiQiangGuo
 
 Online video version courtesy of <<xinhua>>: http://www.xinhuanet.com/politics/xjpsxkj/index.html[]. Contains <<ccp-cult,devotional>> videos, not text: http://www.xinhuanet.com/politics/xjpsxkj/1.html
 
@@ -7345,10 +7395,64 @@ image::{china-dictatorship-media-base}/Jaign_zemin_magnify.jpg[height=400]
 image::{china-dictatorship-media-base}/Jiang_Zemin_emoticons_montage.png[height=400]
 
 [[deng-xiaoping]]
-=== Deng Xiaoping 邓小平 (1982-1987)
+=== Deng Xiaoping (邓小平, 1982-1987)
 
 * https://en.wikipedia.org/wiki/Deng_Xiaoping
 * https://zh.wikipedia.org/wiki/邓小平
+
+[[xidan-democracy-wall]]
+==== Xidan Democracy Wall (西单民主墙, 1978-1979)
+
+* https://en.wikipedia.org/wiki/Democracy_Wall
+* https://zh.wikipedia.org/wiki/西单民主墙
+* https://en.wikipedia.org/wiki/Xidan
+
+https://youtu.be/846AtqraCYg?t=799 suggests that <<deng-xiaoping>> initially encouraged it after during/after killing the Gang of Four.
+
+But then, obviously, people started denouncing corruption in his goverment, and so Deng made it stop.
+
+The documentary also mentions <<wei-jingsheng>> who was a notorious contributor who asked for democracy.
+
+.Xidan democracy wall. https://en.wikipedia.org/wiki/File:Xidan_Wall,_May_1979.jpg[Source].
+image::{china-dictatorship-media-base}/Xidan_Wall.jpg[height=400]
+
+.https://youtube.com/watch?v=40PxfKWgBmY China: Democracy Wall Beijing Dec 1978 video only. This is one of the many footage available of the wall.
+video::40PxfKWgBmY[youtube,height=400,width=600]
+
+[[wei-jingsheng]]
+===== Wei Jingsheng (魏京生)
+
+* https://en.wikipedia.org/wiki/Wei_Jingsheng
+* https://zh.wikipedia.org/wiki/魏京生
+
+Key figure on the <<xidan-democracy-wall>>, notable for writting <<the-fifth-modernization>>.
+
+We need no gods or emperors and we don't believe in saviors of any kind...we do not want to serve as mere tools of dictators with personal ambitions for carrying out modernization. We want to modernize the lives of the people. Democracy, freedom, and happiness for all are our sole objectives.
+
+[[the-fifth-modernization]]
+====== The Fifth Modernization (第五个现代化, 1978)
+
+* https://en.wikipedia.org/wiki/The_Fifth_Modernization
+* https://zh.wikipedia.org/wiki/第五個現代化_(魏京生)
+
+Not to be confused with the one of the same title made by the CCP in 2013: https://zh.wikipedia.org/wiki/第五个现代化_(中国共产党)
+
+Full text on Jingsheng's apparently official website: https://weijingsheng.org/doc/cn/46.htm
+
+Most notable quote:
+
+____
+
+我们要自己掌握自己的命运，不要神仙和皇帝 +
+不要相信有什么救世主，我们要做天下的主人，我们不要作独裁统治者扩张 +
+野心的现代化工具，我们要人民生活得现代化，人民的民主、自由与幸福 +
+
+We want to be the masters of our own destiny. We need no gods or emperors and we don't believe in saviors of any kind +
+we do not want to serve as mere tools of dictators with personal ambitions for carrying out modernization. +
+We want to modernize the lives of the people. Democracy, freedom, and happiness for all are our sole objectives
+____
+
+Full text: link:fifth-modernization.md[].
 
 [[mao-zedong]]
 === Mao Zedong 毛泽东 (1954–1976)
@@ -7613,12 +7717,6 @@ image::{china-dictatorship-media-base}/709_lawyers.jpg[height=400]
 * 1978-1979 Beijing Spring
 ** https://en.wikipedia.org/wiki/Beijing_Spring
 ** https://zh.wikipedia.org/wiki/北京之春
-** https://en.wikipedia.org/wiki/Xidan[Xidan (西单)] Democracy Wall
-*** https://en.wikipedia.org/wiki/Democracy_Wall
-*** https://zh.wikipedia.org/wiki/西单民主墙
-+
-.Xidan democracy wall. https://en.wikipedia.org/wiki/File:Xidan_Wall,_May_1979.jpg[Source].
-image::{china-dictatorship-media-base}/Xidan_Wall.jpg[height=400]
 
 [[tiananmen]]
 ==== Tiananmen Square Protests of 1989 (六四事件)
@@ -8525,6 +8623,18 @@ Links:
 * http://www.xinhuanet.com/
 * https://twitter.com/PDChina
 * https://www.youtube.com/user/ChinaViewTV "New China TV"
+
+[[internal-media-of-china]]
+===== Internal media of China (内参)
+
+* https://en.wikipedia.org/wiki/Internal_media_of_China
+* https://zh.wikipedia.org/wiki/内参
+
+At https://youtu.be/846AtqraCYg?t=615 the BBC mini-documentary series https://en.wikipedia.org/wiki/Can%27t_Get_You_Out_of_My_Head_(TV_series)[Can't Get You Out of My Head (2021)] Episode 04 "But What If the People are Stupid" comments that Xinhua had 3 levels of priviledged real news for people higher and higher up in the party hierarchy, and that the top one had extra large letters so that the old men who were in that category could read it.
+
+The name for this top document is the "Big Reference" (大参考), since the 70s down to today in the 2020s.
+
+TODO: there must be websites hosting some level of those, right?
 
 [[cctv]]
 ===== China Central Television (CCTV, 中国中央电视台, CCP media)
@@ -10497,6 +10607,8 @@ ____
 At any point the Chinese government could make a request that they cannot deny.
 
 List of bad things Huawei has done: https://github.com/evil-huawei/evil-huawei Mostly not political.
+
+List of Huawei joke:s https://github.com/HuaweiJoke/Huawei-Joke "This project is collecting jokes about Huawei company that are deleted due to censorship. You are welcome to contribute."
 
 Some news:
 
