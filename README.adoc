@@ -3613,7 +3613,7 @@ video::V4WBsahU3X4[youtube,height=400,width=600]
 
 ===== Chinese interference in Western media
 
-This lists links between owners of several US media outlets and China: https://thefederalist.com/2020/05/04/has-china-compromised-every-major-mainstream-media-entity/[]. No direct evidence that this has affected the news however.
+This lists links between owners of several US media outlets and China: https://thefederalist.com/2020/05/04/has-china-compromised-every-major-mainstream-media-entity/[] "A Rundown Of Major U.S. Corporate Media’s Business Ties To China". No direct evidence that this has affected the news however.
 
 [[china-watch]]
 ====== China watch (2011-)
@@ -4164,6 +4164,7 @@ Not mentioned in other sections:
 ** https://twitter.com/tansunit claims name 陳純一, "Previous: NGO worker, educator, social activist. Present: Master student @Univ_Paris"
 ** https://github.com/NodeBE4/hero 自由人的英雄榜 "List of fredom heroes"
 ** https://github.com/NodeBE4/impact good list of Chinese political projects on GitHub
+* https://github.com/woct0rdho/pkuholebackup/ appears to contain a list of posts of anonymized (Alice/Bob/Carol/Dave/...) deleted posts from some Peking University (PKU) chat system. The posts are from 2013 to 2019. TODO how could they obtain that list? Who delete the posts in the first place? Authors or authority?
 
 Interesting users:
 
@@ -4328,7 +4329,7 @@ The title presumably refers to:
 Wikipedia mentions:
 
 ____
-Wang is believed to have been one of the principal architects behind the official political ideologies of three paramount leaders: "Three Represents" by Jiang Zemin, the Scientific Development Concept by Hu Jintao, and the Chinese Dream and <<xi-jinping-Thought>> of Xi Jinping.
+Wang is believed to have been one of the principal architects behind the official political ideologies of three paramount leaders: "Three Represents" by Jiang Zemin, the Scientific Development Concept by Hu Jintao, and the Chinese Dream and <<xi-jinping-thought>> of Xi Jinping.
 ____
 
 so it must be about him.
@@ -7249,7 +7250,7 @@ ____
 See also: <<shitpost>>.
 
 [[xi-jinping-lookalikes]]
-===== Xi Jinping Lookalikes 习近平撞脸
+===== Xi Jinping lookalikes (习近平撞脸)
 
 .2019-05-21 https://en.wikipedia.org/wiki/Sadomasochism[Sadomasochist] https://en.wikipedia.org/wiki/BDSM[BDSM] (SM) Xi Jinping lookalike or photoshop in https://en.wikipedia.org/wiki/Bondage_suit[bondage suit] (gimp suit, fetish gear) at a cosplay fair. TODO: is this a Photoshop and if yes what's the original pic, publish dates, location/event. <<ciro-santilli>> googled a lot for it, but it was beyond his skills :-( Earliest post found so far: 2019-05-21 08:49:20 GMT+1 (Imgur timestamp) going wild on <<ptt>>: https://www.ptt.cc/bbs/joke/M.1558454171.A.5C9.html[] entitled "這位coser是誰啊？好眼熟。" (Who is this Cosplayer? He looks familiar.) by user "a15568". Watermark reads "I am Dasen 郭", where "郭" is https://en.wikipedia.org/wiki/Guo[a common Chinese surname]. Notable discussion threads: https://www.reddit.com/r/China/comments/ckgs5l/xi_jinping_took_to_the_streets_to_demonstrate_his/[r/China 2019-08-01], https://www.reddit.com/r/China/comments/ke4hde/nice_pic_i_found/[r/China 2020-12-16], https://www.reddit.com/r/HongKong/comments/ckjf65/gee_i_am_sure_chairman_xi_will_really_appreciate/[2019-08-01]
 image::{china-dictatorship-media-base}/Xi_sadomasochist.jpg[height=500]
@@ -7351,6 +7352,8 @@ Notably, it consists of 14 chapters, which are called "talks" (讲), e.g. the fi
 
 .<<ccp-cult,Devotional>> image of <<xi-jinping>> on the cover of the https://en.wikipedia.org/wiki/The_Governance_of_China[The Governance of China] (link:https://zh.wikipedia.org/wiki/习近平谈治国理政[习近平谈治国理政], 2020) book which is part of <<xi-jinping-thought>>. The similarity to <<li-hongzhi>> devotional images <<li-hongzhi-lotus,is striking>>. Related: <<xi-halo>>. https://www.amazon.co.uk/Governance-China-Xi-Jinping/dp/1602204098[Source].
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China.jpg[height=400]
+
+==== Xi Jinping Thought (习近平新时代中国特色社会主义思想, 2017)
 
 [[two-safegards]]
 ===== Two safegards (两个维护, 2018)
