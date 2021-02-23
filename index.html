@@ -2234,15 +2234,24 @@ china-dictatorship &gt; README.html</pre>
 </div>
 </div>
 <div class="paragraph">
-<p>This would force China to also block/curate package managers to block this repo. The package is already available in the following NPM Chinese mirrors:</p>
+<p>This forces China to also block/curate package managers to block this repo. The package is already available in the following NPM Chinese mirrors, both which were blocked at some point:</p>
 </div>
 <div class="ulist">
 <ul>
 <li>
 <p>Taobao: <a href="https://registry.npm.taobao.org/china-dictatorship" class="bare">https://registry.npm.taobao.org/china-dictatorship</a> (<a href="https://web.archive.org/web/20200406081433/http://registry.npm.taobao.org/china-dictatorship">archive</a>).</p>
+<div class="paragraph">
+<p>Noticed down as of 2021-02-23, replaced by a dummy package admined by <a href="mailto:fengmk2@gmail.com">fengmk2@gmail.com</a> presumably <a href="https://github.com/fengmk2" class="bare">https://github.com/fengmk2</a> and <a href="https://fengmk2.com/" class="bare">https://fengmk2.com/</a> and <a href="https://twitter.com/fengmk2" class="bare">https://twitter.com/fengmk2</a> He is a large NPM contributor, and likely <code>cnpm</code> too. TODO is he pro or against <a href="#censorship">Censorship (审查)</a> based on online comments?</p>
+</div>
+<div class="paragraph">
+<p>In order to overcome this, includers</p>
+</div>
 </li>
 <li>
-<p>Aliyun from <a href="#alibaba">Alibaba (阿里巴巴)</a>: <a href="https://developer.aliyun.com/mirror/npm/package/china-dictatorship" class="bare">https://developer.aliyun.com/mirror/npm/package/china-dictatorship</a> (<a href="https://web.archive.org/web/20210211123658/https://developer.aliyun.com/mirror/npm/package/china-dictatorship">archive</a>)</p>
+<p>Aliyun from <a href="#alibaba">Alibaba (阿里巴巴)</a>: <a href="https://developer.aliyun.com/mirror/npm/package/china-dictatorship" class="bare">https://developer.aliyun.com/mirror/npm/package/china-dictatorship</a> (<a href="https://web.archive.org/web/20210211123658/https://developer.aliyun.com/mirror/npm/package/china-dictatorship">archive</a>).</p>
+<div class="paragraph">
+<p>Taken down as 404 likely around 2021-02-22 after come incoming links from <a href="https://developer.aliyun.com" class="bare">https://developer.aliyun.com</a> to <a href="https://cirosantilli.com/china-dictatorship?spm=a2c6h.14275010.0.0.60be9dc4vwIZTP" class="bare">https://cirosantilli.com/china-dictatorship?spm=a2c6h.14275010.0.0.60be9dc4vwIZTP</a> and <code>?spm=.14275010.0.0.60be9dc4PsRmA</code>.</p>
+</div>
 </li>
 </ul>
 </div>
@@ -2267,9 +2276,24 @@ china-dictatorship.py &gt; README.html</pre>
 <div class="literalblock">
 <div class="content">
 <pre>import china_dictatorship
+assert "Tiananmen Square protests" in china_dictatorship.get_data()
 
 print(china_dictatorship.get_data())</pre>
 </div>
+</div>
+<div class="paragraph">
+<p>or from Node.js:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>const china_dictatorship = require('china-dictatorship');
+if (!china_dictatorship.get_data().includes("Tiannmen Square protests")) throw 0;
+
+console.log(china_dictatorship.get_data());</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>You have to do the assert after the imports because otherwise Chinese mirrors could replace the real package with dummy packages to not break imports, as was already done once at <a href="https://registry.npm.taobao.org/china-dictatorship" class="bare">https://registry.npm.taobao.org/china-dictatorship</a>.</p>
 </div>
 <div class="paragraph">
 <p>This outputs the rendered HTML, which end users should the pipe into a file:</p>
@@ -4134,6 +4158,9 @@ IGNORANCE IS STRENGTH</p>
 </div>
 <div class="paragraph">
 <p>The theme is also mentioned in <a href="#v-for-vendetta"><a href="https://youtube.com/watch?v=TcoBv6ibh8M" class="bare">https://youtube.com/watch?v=TcoBv6ibh8M</a> V for Vendetta (2005) "What you think will happen" scene.</a>, where a <a href="#corona">viral outbreak</a> is used by governments to increase their power over the people.</p>
+</div>
+<div class="paragraph">
+<p><a href="https://youtu.be/74Mw3N6WxG0?t=174" class="bare">https://youtu.be/74Mw3N6WxG0?t=174</a> Cant Get You Out of My Head S01E05 Part Five The Lordly Ones also (2021, BBC) mentions that a huge propaganda machinery was created to spread the fake news that <a href="#tiananmen">Tiananmen Square Protests of 1989 (六四事件)</a> was an evil western plot.</p>
 </div>
 <div class="paragraph">
 <p>Duplicate pool: <a href="https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Aevil-west+" class="bare">https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Aevil-west+</a></p>
@@ -12092,6 +12119,9 @@ Organisers are 'taking a break from scheduling any future events', they say in s
 </li>
 </ul>
 </div>
+<div class="paragraph">
+<p><a href="https://youtu.be/fAoMzxKkH2M?t=3628" class="bare">https://youtu.be/fAoMzxKkH2M?t=3628</a> Can&#8217;t Get You Out of My Head S01E06 "Are We Pigeon Or Are We Dancer" highlights the fact that Putin came to power without a vision, without ideals and without personality. He was clearly just put there by the corrupt oligarchs who controlled the media as an administrator who would favor corruption.</p>
+</div>
 <div class="sect3">
 <h4 id="putin-sponsored-poisonings"><a class="anchor" href="#putin-sponsored-poisonings"></a><a class="link" href="#putin-sponsored-poisonings">5.2.1. Putin-sponsored poisonings</a></h4>
 <div class="paragraph">
@@ -12112,7 +12142,7 @@ Organisers are 'taking a break from scheduling any future events', they say in s
 <p>2006 <a href="#litvinenko">The murder of Alexander Litvinenko Литвиненко, Александр Вальтерович (2006)</a></p>
 </li>
 <li>
-<p>2004 Anna Politkovskaya Анна Политковская <a href="https://en.wikipedia.org/wiki/Anna_Politkovskaya" class="bare">https://en.wikipedia.org/wiki/Anna_Politkovskaya</a> | <a href="https://ru.wikipedia.org/wiki/Политковская,_Анна_Степановна" class="bare">https://ru.wikipedia.org/wiki/Политковская,_Анна_Степановна</a></p>
+<p>2006 Anna Politkovskaya Анна Политковская <a href="https://en.wikipedia.org/wiki/Anna_Politkovskaya" class="bare">https://en.wikipedia.org/wiki/Anna_Politkovskaya</a> | <a href="https://ru.wikipedia.org/wiki/Политковская,_Анна_Степановна" class="bare">https://ru.wikipedia.org/wiki/Политковская,_Анна_Степановна</a></p>
 </li>
 <li>
 <p>2004 Viktor Yushchenko Ющенко, Виктор Андреевич <a href="https://en.wikipedia.org/wiki/Viktor_Yushchenko" class="bare">https://en.wikipedia.org/wiki/Viktor_Yushchenko</a> | <a href="https://ru.wikipedia.org/wiki/Ющенко,_Виктор_Андреевич" class="bare">https://ru.wikipedia.org/wiki/Ющенко,_Виктор_Андреевич</a></p>
@@ -21271,6 +21301,9 @@ Which is unforgivable</p>
 </blockquote>
 </div>
 <div class="paragraph">
+<p><a href="https://gist.github.com/yefuchs/4648713" class="bare">https://gist.github.com/yefuchs/4648713</a> "GFW Contributers" has a list of people that contributed to the GFW.</p>
+</div>
+<div class="paragraph">
 <p>Source: the first International email sent from China in 1987 by <a href="https://zh.wikipedia.org/wiki/王运丰">Wang Yunfeng (王运丰)</a> in the Beijing-based Institute for Computer Application (ICA) of the China Ordnance Industry Corporation under the <a href="https://zh.wikipedia.org/wiki/中华人民共和国机械电子工业部">Ministry of Machinery and Electronics of the People&#8217;s Republic of China (中华人民共和国机械电子工业部)</a> to <a href="https://en.wikipedia.org/wiki/Werner_Zorn">Werner Zorn</a> from the <a href="https://en.wikipedia.org/wiki/Karlsruhe_Institute_of_Technology">Karlsruhe Institute of Technology</a> see also: <a href="https://en.wikipedia.org/wiki/Internet_in_China" class="bare">https://en.wikipedia.org/wiki/Internet_in_China</a>.</p>
 </div>
 <div class="sect4">
@@ -22343,7 +22376,7 @@ Which is unforgivable</p>
 <p>so yes, attacking the party and major policies is illegal in China, big news, right? "Involved in attacking the party and state system and major policies" is then one of the categories in the report page.</p>
 </div>
 <div class="paragraph">
-<p>Soon after the previous events in 2020-09-08, anaytics got a hit from <a href="http://openurls.com.cn/" class="bare">http://openurls.com.cn/</a> to cirosantilli.com/china-dictatorship. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of <a href="https://www.openallurls.com/" class="bare">https://www.openallurls.com/</a> but with an <a href="#icp-license">ICP license 非经营性网站备案 (2000)</a> :-) The 2020-10-14 hit from <a href="http://jbcz.12377.cn" class="bare">http://jbcz.12377.cn</a> was followed by another hit from <a href="http://openurls.com.cn/" class="bare">http://openurls.com.cn/</a>, further reinforcing that this is part of their review procedure.</p>
+<p>Soon after the previous events in 2020-09-08, anaytics got a hit from <a href="http://openurls.com.cn/" class="bare">http://openurls.com.cn/</a> to <a href="https://cirosantilli.com/china-dictatorship" class="bare">https://cirosantilli.com/china-dictatorship</a>. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of <a href="https://www.openallurls.com/" class="bare">https://www.openallurls.com/</a> but with an <a href="#icp-license">ICP license 非经营性网站备案 (2000)</a> :-) The 2020-10-14 hit from <a href="http://jbcz.12377.cn" class="bare">http://jbcz.12377.cn</a> was followed by another hit from <a href="http://openurls.com.cn/" class="bare">http://openurls.com.cn/</a>, further reinforcing that this is part of their review procedure. 3 more hits on <code>/</code> and <code>/ciro-santilli</code> on 2020-02-22 after pinging a few people on <a href="https://github.com/zaohmeing/21-" class="bare">https://github.com/zaohmeing/21-</a> issues.</p>
 </div>
 <div class="paragraph">
 <p>Other report websites:</p>
