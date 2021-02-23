@@ -8,7 +8,7 @@
   "files": [
     "index.js",
     "china-dictatorship",
-    "README",
+    "README.md",
     "README.adoc",
     "README.html"
   ],
@@ -20,7 +20,7 @@
   "name": "china-dictatorship",
   "repository": "cirosantilli/china-dictatorship",
   "scripts": {
-    "prepublishOnly": "cp README.adoc README;make"
+    "prepublishOnly": "cp README.adoc README.md;make"
   },
   "version": "0.0.67"
 }

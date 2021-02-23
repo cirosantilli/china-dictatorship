@@ -3,7 +3,7 @@
 /out
 
 # NPM README
-/README
+/README.md
 
 # Python distribution/packaging.
 *.pyc
