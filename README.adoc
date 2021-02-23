@@ -216,10 +216,16 @@ npm i -g china-dictatorship
 china-dictatorship > README.html
 ....
 
-This would force China to also block/curate package managers to block this repo. The package is already available in the following NPM Chinese mirrors:
+This forces China to also block/curate package managers to block this repo. The package is already available in the following NPM Chinese mirrors, both which were blocked at some point:
 
 * Taobao: https://registry.npm.taobao.org/china-dictatorship (https://web.archive.org/web/20200406081433/http://registry.npm.taobao.org/china-dictatorship[archive]).
-* Aliyun from <<alibaba>>: https://developer.aliyun.com/mirror/npm/package/china-dictatorship (https://web.archive.org/web/20210211123658/https://developer.aliyun.com/mirror/npm/package/china-dictatorship[archive])
++
+Noticed down as of 2021-02-23, replaced by a dummy package admined by fengmk2@gmail.com presumably https://github.com/fengmk2 and https://fengmk2.com/ and https://twitter.com/fengmk2 He is a large NPM contributor, and likely `cnpm` too. TODO is he pro or against <<censorship>> based on online comments?
++
+In order to overcome this, includers
+* Aliyun from <<alibaba>>: https://developer.aliyun.com/mirror/npm/package/china-dictatorship (https://web.archive.org/web/20210211123658/https://developer.aliyun.com/mirror/npm/package/china-dictatorship[archive]).
++
+Taken down as 404 likely around 2021-02-22 after come incoming links from https://developer.aliyun.com[] to https://cirosantilli.com/china-dictatorship?spm=a2c6h.14275010.0.0.60be9dc4vwIZTP[] and `?spm=.14275010.0.0.60be9dc4PsRmA`.
 
 There is actually a `cnpm` tool to install from Chinese mirrors: https://github.com/cnpm/cnpm[].
 
@@ -236,9 +242,21 @@ A programmatic interface is also exposed on those packages, making it easy to qu
 
 ....
 import china_dictatorship
+assert "Tiananmen Square protests" in china_dictatorship.get_data()
 
 print(china_dictatorship.get_data())
 ....
+
+or from Node.js:
+
+....
+const china_dictatorship = require('china-dictatorship');
+if (!china_dictatorship.get_data().includes("Tiannmen Square protests")) throw 0;
+
+console.log(china_dictatorship.get_data());
+....
+
+You have to do the assert after the imports because otherwise Chinese mirrors could replace the real package with dummy packages to not break imports, as was already done once at https://registry.npm.taobao.org/china-dictatorship[].
 
 This outputs the rendered HTML, which end users should the pipe into a file:
 
@@ -1216,6 +1234,8 @@ Since about that time, war had been literally continuous, though strictly speaki
 ____
 
 The theme is also mentioned in <<v-for-vendetta>>, where a <<corona,viral outbreak>> is used by governments to increase their power over the people.
+
+https://youtu.be/74Mw3N6WxG0?t=174 Cant Get You Out of My Head S01E05 Part Five The Lordly Ones also (2021, BBC) mentions that a huge propaganda machinery was created to spread the fake news that <<tiananmen>> was an evil western plot.
 
 Duplicate pool: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Aevil-west+
 
@@ -9602,6 +9622,8 @@ ____
 Across the Great Wall, we can reach every corner in the world.
 ____
 
+https://gist.github.com/yefuchs/4648713 "GFW Contributers" has a list of people that contributed to the GFW.
+
 Source: the first International email sent from China in 1987 by https://zh.wikipedia.org/wiki/王运丰[Wang Yunfeng (王运丰)] in the Beijing-based Institute for Computer Application (ICA) of the China Ordnance Industry Corporation under the https://zh.wikipedia.org/wiki/中华人民共和国机械电子工业部[Ministry of Machinery and Electronics of the People's Republic of China (中华人民共和国机械电子工业部)] to https://en.wikipedia.org/wiki/Werner_Zorn[Werner Zorn] from the https://en.wikipedia.org/wiki/Karlsruhe_Institute_of_Technology[Karlsruhe Institute of Technology] see also: https://en.wikipedia.org/wiki/Internet_in_China[].
 
 [[dictator-needs-gfw]]
@@ -10097,7 +10119,7 @@ ____
 
 so yes, attacking the party and major policies is illegal in China, big news, right? "Involved in attacking the party and state system and major policies" is then one of the categories in the report page.
 
-Soon after the previous events in 2020-09-08, anaytics got a hit from http://openurls.com.cn/ to cirosantilli.com/china-dictatorship. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of https://www.openallurls.com/[] but with an <<icp-license>> :-) The 2020-10-14 hit from http://jbcz.12377.cn was followed by another hit from http://openurls.com.cn/[], further reinforcing that this is part of their review procedure.
+Soon after the previous events in 2020-09-08, anaytics got a hit from http://openurls.com.cn/ to https://cirosantilli.com/china-dictatorship[]. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of https://www.openallurls.com/[] but with an <<icp-license>> :-) The 2020-10-14 hit from http://jbcz.12377.cn was followed by another hit from http://openurls.com.cn/[], further reinforcing that this is part of their review procedure. 3 more hits on `/` and `/ciro-santilli` on 2020-02-22 after pinging a few people on https://github.com/zaohmeing/21- issues.
 
 Other report websites:
 
