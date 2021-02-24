@@ -4327,9 +4327,21 @@ Much more sanely encoded/formatted/rendered versions can be found at:
 
 Both Zhao Heming repos contain reproductions of two manifestos are pasted together on a single file, and somewhat broken encoding.
 
-These repos attract a ton of <<wumao>> on the comments, it is very impressive!!! Ciro was jealous.
+These repos attract a ton of <<wumao>> on the comments, it is very impressive!!! Ciro was jealous, and added some anti-wumao comments in. On commits:
 
-The first is "21世纪新政宣言" (New System Declaration for the 21st Century). That text is also reproduced at:
+* https://github.com/zhaohmng/-21-/commit/0cc2b2a546ad51fb360ba800c67b057ea3270869#commitcomment-47495235
+* https://github.com/zaohmeing/21-/commit/42de05338193f39981b1a820873a990c959fd6ec#commitcomment-47392119
+
+New issues:
+
+* https://github.com/zhaohmng/-21-/issues/533 "Thank you for this great repository. Human rights and freedom of speech are more important than money. github.com/cirosantilli/china-dictatorship"
+* https://github.com/zaohmeing/21-/issues/138 "Why put the censored content in the .gitignore?"
+
+On top commented/liked issues:
+
+* https://github.com/zhaohmng/-21-/issues/319#issuecomment-784903480
+
+The first is "21世纪新政宣言" (New System Declaration for the 21st Century).
 
 It proposes a peaceful reunification of China with <<taiwan>> under their specified political system described in 12 paragraphs. This system is a reformed type of Western democracy, which the manifesto also criticize downsides of.
 
@@ -5035,6 +5047,10 @@ Coverage:
 ** https://en.wikipedia.org/wiki/Putin_khuylo!
 ** https://ru.wikipedia.org/wiki/Путин_—_хуйло!
 
+Notable dissidents:
+
+* https://en.wikipedia.org/wiki/Eduard_Limonov | https://ru.wikipedia.org/wiki/Лимонов,_Эдуард_Вениаминович
+
 https://youtu.be/fAoMzxKkH2M?t=3628 Can't Get You Out of My Head S01E06 "Are We Pigeon Or Are We Dancer" highlights the fact that Putin came to power without a vision, without ideals and without personality. He was clearly just put there by the corrupt oligarchs who controlled the media as an administrator who would favor corruption.
 
 ==== Putin-sponsored poisonings
@@ -5045,7 +5061,7 @@ Russia apparently has a long list of poisoning political enemies: https://nypost
 * 2018 <<skripal>>
 * 2012 Alexander Perepilichny Перепеличный, Александр Юрьевич https://en.wikipedia.org/wiki/Alexander_Perepilichny | https://ru.wikipedia.org/wiki/Перепеличный,_Александр_Юрьевич
 * 2006 <<litvinenko>>
-* 2006 Anna Politkovskaya Анна Политковская https://en.wikipedia.org/wiki/Anna_Politkovskaya | https://ru.wikipedia.org/wiki/Политковская,_Анна_Степановна
+* 2006 Anna Politkovskaya Анна Политковская https://en.wikipedia.org/wiki/Anna_Politkovskaya | https://ru.wikipedia.org/wiki/Политковская,_Анна_Степановна Interview excerpt: https://youtu.be/fAoMzxKkH2M?t=3616
 * 2004 Viktor Yushchenko Ющенко, Виктор Андреевич https://en.wikipedia.org/wiki/Viktor_Yushchenko | https://ru.wikipedia.org/wiki/Ющенко,_Виктор_Андреевич
 
 News:
@@ -7480,7 +7496,7 @@ ____
 Full text: link:fifth-modernization.md[].
 
 [[mao-zedong]]
-=== Mao Zedong 毛泽东 (1954–1976)
+=== Mao Zedong (毛泽东, 1954–1976)
 
 * https://en.wikipedia.org/wiki/Mao_Zedong
 * https://zh.wikipedia.org/wiki/毛泽东
@@ -10454,7 +10470,7 @@ Had a membership of 109 million (by the https://en.wikipedia.org/wiki/17th_Natio
 
 Such state sponsored youth organizations are a hallmark of <<dictatorship,dictatorships>>, and serve both as an indoctrination device, and as a selection tool for future politicians:
 
-* https://en.wikipedia.org/wiki/Hitler_Youth[Hitler Youth] was the <<nazi,Nazi Germany>> youth organization
+* <<hitler-youth>>
 * https://en.wikipedia.org/wiki/Komsomol[Komsomol] was the Soviet youth organization
 
 One may argue that https://en.wikipedia.org/wiki/The_Scout_Association[the scouts] are https://www.sundaypost.com/fp/creator-of-taggart-reveals-the-human-stories-behind-an-unlikely-and-unsettling-alliance-on-the-eve-of-wartherell-be-no-more-murders-tv-sleuth-writer-rules-out-comeback/[a similar organization in the West], but one notable difference is the scale of such dictatorship-led youth organizations.
@@ -10474,6 +10490,13 @@ Related news:
 [[xi-salute-young-pioneers]]
 .Xi Jinping basically <<nazi,Nazi saluting>> representatives attending the 7th National Congress of the Chinese Young Pioneers in Beijing, June 1, 2015. http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[Source] (http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[biased]).
 image::{china-dictatorship-media-base}/Xi_scout_salute.jpg[height=500]
+
+.<<hitler-youth>> giving the <<nazi,Nazi salute to Hitler>>. https://www.thoughtco.com/hitler-youth-and-indoctrination-1221066[Source].
+image::{china-dictatorship-media-base}/Hitler_youth_salute.webp[height=500]
+
+==== Hitler Youth
+
+https://en.wikipedia.org/wiki/Hitler_Youth was the <<nazi,Nazi Germany>> youth organization.
 
 [[one-child-policy]]
 === One-child policy (一孩政策, 1979–2015)
