@@ -2028,7 +2028,7 @@ Would you have stood up to Hitler when he came to power? Or would you have been 
 
 We all like to imagine we're courageous enough to stand up to tyranny and persecution. That we would have stood up to the villains of the past. Seen them for what they really were, even helped rescue their victims from danger. We certainly don't like to think we would have bought their goods or funded, invested in their economies...
 
-Well today, you're going to find out what you're made of
+Well today, you're going to find out what you're made of.
 ____
 
 .Photoshopped <<xi-jinping>> with raised fist with Nazi uniform and flag on the background. https://www.reddit.com/r/HongKong/comments/cuf3p7/chinazi_xitler/[Source].
@@ -4339,7 +4339,12 @@ New issues:
 
 On top commented/liked issues:
 
+* https://github.com/zhaohmng/-21-/issues/190#issuecomment-784921038
+* https://github.com/zhaohmng/-21-/issues/224#issuecomment-784901942
 * https://github.com/zhaohmng/-21-/issues/319#issuecomment-784903480
+* https://github.com/zhaohmng/-21-/issues/325#issuecomment-784922882 "看你发的“美中”而不是“中美”我就知道你TM是轮子" claims they are <<falun-gong>>
+* https://github.com/zhaohmng/-21-/issues/346#issuecomment-784936138 "那么问题来了,为什么美国及西方和越南共产党亲近呢?" the US allies with Vietnam Communists for geopolitical reasons only, not because it has any ideology
+* https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665 "为什么这个屎一样的东西会出现在我个人主页左侧的repositories中，那里不是应该只有自己的项目才会出现吗？有办法屏蔽它吗？还是github故意的？" explains why so many people come comment in the repository: it is because it appears on the "Explore repositories" repository suggestions that show up on the side bar of your GitHub homepage.
 
 The first is "21世纪新政宣言" (New System Declaration for the 21st Century).
 
