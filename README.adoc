@@ -190,8 +190,9 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 
 * https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
 * https://gitlab.com/cirosantilli/china-dictatorship Maybe some day https://gitlab.cn/ ? :-)
-* https://bitbucket.org/cirosantilli/china-dictatorship
 * https://gitee.com/cirosantilli/china-dictatorship on <<gitee>>, blocked after 12 hours: <<gitee-censorship>>
+* https://bitbucket.org/cirosantilli/china-dictatorship
+* https://git.kiwifarms.net/CrunkLord420/china-dictatorship auto-pull mirror on https://en.wikipedia.org/wiki/Kiwi_Farms[Kiwi Farms] (a politically incorrect social network website)
 
 GitHub Pages: https://cirosantilli.com/china-dictatorship trade-offs with https://github.com/cirosantilli/china-dictatorship[]:
 
@@ -1125,6 +1126,11 @@ If China <<corona,fails to control a viral outbreak>>, other countries might get
 ** https://www.quora.com/How-much-is-Japan-to-blame-for-the-KMT-losing-control-of-the-Chinese-mainland
 ** https://china-journal.org/2018/02/26/why-did-chiang-kai-shek-lose-china-the-guomindang-regime-and-the-victory-of-the-chinese-communist-party
 ** https://zh.wikipedia.org/wiki/毛泽东感谢日本争议
+** https://en.wikipedia.org/wiki/Chinese_Communist_Revolution mentions:
++
+____
+The French historian Lucien Bianco, however, is among those who question whether imperialism and "feudalism" explain the revolution.[7] He points out that the Chinese Communist Party did not have great success until the Japanese invasion of China after 1937. Before the war, the peasantry was not ready for revolution; economic reasons were not enough to mobilize them. More important was nationalism: "It was the war that brought the Chinese peasantry and China to revolution; at the very least, it considerably accelerated the rise of the CCP to power."
+____
 +
 And China would be much much less technologically advanced had it come in contact with the West, from which it is still trying to learn/steal from: <<university-espionage>>.
 +
@@ -1645,7 +1651,7 @@ See also:
 * <<western-democracies-are-not-perfect>>
 
 [[western-democracies-are-not-perfect]]
-==== Western democracies are not perfect 西方的民主有很多缺点
+==== Western democracies are not perfect (西方的民主有很多缺点)
 
 That is definitely true.
 
@@ -1871,6 +1877,16 @@ Ciro believes without evidence that unfortunately anti-discrimination-hiring law
 ** 2020-05-29 https://www.bbc.co.uk/news/technology-52846679 Twitter "hides Trump tweet for 'glorifying violence'". The people elected that idiot, Twitter leftists have to swallow that.
 ** 2021-01-11 https://www.irishexaminer.com/world/arid-40204808.html "Angela Merkel sees Twitter's cancelling of Donald Trump as 'problematic'"
 
+===== Western society is extremelly unequal
+
+Exactly! And this is something <<ciro-santilli>> fights daily against through his open source contributions.
+
+And politicians don't really care enough. Partially because the poor aren't educated and don't vote enough, and partially because corporations pay for their election campaigns, and partly because many of them are rich.
+
+But do you really think that further increasing the power concentration as done is China is going to help reduce inequality?
+
+If so, you have been <<stupid,brainwashed beyond reason>>. Increasing the concentration of power will always make society more unequal, never less.
+
 [[life-of-brian-1979]]
 ===== Life of Brian (布莱恩的一生, 1979)
 
@@ -1985,9 +2001,11 @@ Sometimes people say Ciro Santilli is naive.
 
 Politicians are the same all over the world.
 
-Some might have good intentions, but don't give a shit about anyone else.
+Some might have good intentions, but most don't give a shit about anyone else.
 
 But all must play a careful political game, and sometimes betray their own beliefs to not lose power entirely.
+
+Even those that genuinely care might have to play suc political games.
 
 China's problem is not its politicians.
 
@@ -3707,6 +3725,11 @@ Related about university interference:
 ** https://www.theguardian.com/australia-news/2020/may/24/how-a-20-year-old-student-put-the-spotlight-on-australian-universities-cosy-relationship-with-china
 ** https://www.youtube.com/watch?v=_o1sZefER0E <<china-uncensored,China Unscripted>> interview
 
+China buying pre-University educational institutions:
+
+* 2021-2-21 https://www.dailymail.co.uk/news/article-9282617/British-private-institutions-bought-Chinese-firms.html "The British schools selling out to Beijing: Not only are private institutions being bought by Chinese firms but some are giving communist-approved lessons that are a threat to free speech", gives list of 17 schools bought
+* 2019-07-10 https://www.thetimes.co.uk/article/chinese-buy-up-more-of-england-s-private-schools-pjr6692bq "Chinese buy up more of England’s private schools", "Chinese investors have secured another foothold in the English private school sector with the £150 million purchase of CATS colleges."
+
 [[confucius-institute]]
 ==== Confucius institute (孔子学院)
 
@@ -5058,6 +5081,9 @@ Notable dissidents:
 
 https://youtu.be/fAoMzxKkH2M?t=3628 Can't Get You Out of My Head S01E06 "Are We Pigeon Or Are We Dancer" highlights the fact that Putin came to power without a vision, without ideals and without personality. He was clearly just put there by the corrupt oligarchs who controlled the media as an administrator who would favor corruption.
 
+.https://www.youtube.com/watch?v=BiI5UuCiEoU Russian Youtuber Bashir Dokhov puts Putin portrait in a lift as an opinion poll. TODO evidence that it was not staged, e.g. address, identities of people shown. But in any case, Ciro does feel that as of 2020 Putin's power is very precarious compared to <<xi-jinping>> for example. E.g., whenever Ciro spoke to Russians abroad, they were all able to criticize Putin. But about on third to half of the Chinese abroad were completely brainwahsed and thought China has the best government possible. Original video: https://www.youtube.com/watch?v=eeb3MMl3lB4[].
+video::BiI5UuCiEoU[youtube,height=400,width=600]
+
 ==== Putin-sponsored poisonings
 
 Russia apparently has a long list of poisoning political enemies: https://nypost.com/2018/06/23/inside-russias-long-history-of-poisoning-political-enemies/
@@ -5108,6 +5134,20 @@ image::{china-dictatorship-media-base}/Putin_dinosaur.webp[height=400]
 
 .https://www.youtube.com/watch?v=YgGzAKP_HuM "RASPUTIN - Vladimir Putin - Love The Way You Move (Funk Overload) @slocband" by Pace Audio (2016). Somewhere in the 2010's the https://en.wikipedia.org/wiki/Rasputin_(song)[Rasputin 1978 song] by https://en.wikipedia.org/wiki/Boney_M.[Boney M.] saw a https://knowyourmeme.com/memes/ra-ra-rasputin[meme resurgence] by adapting the song to refer to Vladmir Putin instead of the original song's originally intended https://en.wikipedia.org/wiki/Grigori_Rasputin[Grigori Rasputin]. This video adds amazing cute animations of Russian scientists trying to create the perfect funk dancing machine, and highlights the <<superputin>> meme as Putin himself is the perfect dancing machine in the end.
 video::YgGzAKP_HuM[youtube,height=400,width=600]
+
+[[night-wolves]]
+===== Night wolves (Ночные волки)
+
+* https://en.wikipedia.org/wiki/Night_Wolves
+* https://ru.wikipedia.org/wiki/Ночные_волки
+
+Russian ultra-nationalist and motorcycle group supported by Putin.
+
+Notably, they have made large incredibly cheesy Putin supported music/theatrical/stunt shows to revive Russian nationalism.
+
+Mentioned at https://youtu.be/9Q1hZmAcE08?t=4974 "Can't Get You Out of My Head - Part 6: Are We Pigeon? Or Are We Dancer?"
+
+Sample show on <<russia-today>>: https://www.youtube.com/watch?v=GDyk1Ajq8yE
 
 [[gay-putin]]
 ==== Gay Putin (2017)
@@ -6683,7 +6723,7 @@ Related:
 
 This is a mock tribunal, i.e. one without any power of law, and was of course initially lobbied/organized brought up by FLG: https://endtransplantabuse.org/
 
-However, Ciro Santilli believes that none of the lawyers / jury members are FLG believers, and that they are trying to honestly decide if there is enough evidence or not for organ harvesting in China.
+However, Ciro Santilli believes that none of the lawyers/jury members are Falun Gong believers, and that they are trying to honestly decide if there is enough evidence or not for organ harvesting in China.
 
 They also have non-FLG witnesses.
 
@@ -7449,6 +7489,8 @@ image::{china-dictatorship-media-base}/Jiang_Zemin_emoticons_montage.png[height=
 * https://en.wikipedia.org/wiki/Deng_Xiaoping
 * https://zh.wikipedia.org/wiki/邓小平
 
+Although his reign officially ended in 1987/1989, he remained extremely influential until his death, and was a major figure in <<tiananmen>> most likely.
+
 [[xidan-democracy-wall]]
 ==== Xidan Democracy Wall (西单民主墙, 1978-1979)
 
@@ -7476,7 +7518,21 @@ video::40PxfKWgBmY[youtube,height=400,width=600]
 
 Key figure on the <<xidan-democracy-wall>>, notable for writting <<the-fifth-modernization>>.
 
-We need no gods or emperors and we don't believe in saviors of any kind...we do not want to serve as mere tools of dictators with personal ambitions for carrying out modernization. We want to modernize the lives of the people. Democracy, freedom, and happiness for all are our sole objectives.
+____
+我们要自己掌握自己的命运，
+不要神仙和皇帝不要相信有什么救世主，
+我们要做天下的主人，
+我们不要作独裁统治者扩张
+野心的现代化工具，
+我们要人民生活得现代化，
+人民的民主、自由与幸福，
+是我们实现现代化的唯一目的，
+没有这第五个现代化，
+一切现代化不过是一
+个新的诺言。
+
+We need no Gods or emperors and we don't believe in saviors of any kind... we do not want to serve as mere tools of dictators with personal ambitions for carrying out modernization. We want to modernize the lives of the people. Democracy, freedom, and happiness for all are our sole objectives.
+____
 
 [[the-fifth-modernization]]
 ====== The Fifth Modernization (第五个现代化, 1978)
@@ -7510,6 +7566,8 @@ Full text: link:fifth-modernization.md[].
 * https://zh.wikipedia.org/wiki/毛泽东
 
 What could be a better reminder that <<xi-jinping,dictatorships are dangerous>> than the catastrophes that Mao created such as the <<great-leap-forward>> and <<cultural-revolution>>?
+
+https://youtu.be/MHFrhIAj0ME?t=926 "The camp was an intense and exciting place, and many of the guerrilla fighters had affairs. Sex was called undisciplined guerilla warfare". TODO Chinese.
 
 .Mao Zedong in Yan'an in the 1930's thinking deeply. This funny looking picture is meme ready and https://uncyclopedia.ca/wiki/Chairman_Mao[much loved by Uncyclopedia]. https://commons.wikimedia.org/wiki/File:Mao_Zedong_in_Yan%27an.jpg[Source].
 image::{china-dictatorship-media-base}/Mao_Zedong_in_Yanan.jpg[height=400]
@@ -7782,8 +7840,8 @@ Good photo selections:
 
 AP footage is pretty good, just do a search on the archive:
 
-** https://www.aparchive.com/metadata/China-Student-Demonstrations/5d1cd01250c9e5e9397f20ef9f1327df
-** https://www.aparchive.com/metadata/China-Student-Demonstrations/cfc6890746010c73f9414e20906268aa
+* https://www.aparchive.com/metadata/China-Student-Demonstrations/5d1cd01250c9e5e9397f20ef9f1327df
+* https://www.aparchive.com/metadata/China-Student-Demonstrations/cfc6890746010c73f9414e20906268aa
 
 Soldiers who spoke up:
 
@@ -7833,7 +7891,7 @@ image::{china-dictatorship-media-base}/Tiananmen_announce_soldiers.webp[height=5
 .Godzilla https://en.wikipedia.org/wiki/Li_Peng[Li Peng (李鹏)] crushing the Tiananmen Square protests with his green eye laser beams. https://en.uncyclopedia.co/wiki/File:Li_at_Tiananmen_Eyebeams.jpg[Source].
 image::{china-dictatorship-media-base}/Li_at_Tiananmen_Eyebeams.jpg[height=400]
 
-.Protester covered in blood while holding an army helmet on 1989-06-04. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
+.Protester covered in blood while holding an army helmet on 1989-06-04. There is also footage of that moment: https://www.youtube.com/watch?t=63&v=lXJ6gHFME0w[] which explains that the man claims his face was cut by a soldir by using the edge of the helmet. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
 image::{china-dictatorship-media-base}/Tiananmen_helmet.jpg[height=500]
 
 [[liubukou]]
@@ -8099,6 +8157,67 @@ Lists:
 
 * https://qz.com/698990/261-ways-to-refer-to-the-tiananmen-square-massacre-in-china/ 261 ways to refer to the Tiananmen Square Massacre in China
 
+[[tianmen-leaders]]
+===== Tianmen square protest student leaders (六四学运学生领袖)
+
+Lists: https://qz.com/1618805/the-1989-tiananmen-student-leaders-on-chinas-most-wanted-list/
+
+* https://en.wikipedia.org/wiki/Liu_Gang | https://zh.wikipedia.org/wiki/劉剛_(1961年)
+
+[[zhou-fengsuo]]
+====== Zhou Fengsuo (周锋锁)
+
+https://en.wikipedia.org/wiki/Zhou_Fengsuo | https://zh.wikipedia.org/wiki/周锋锁
+
+After <<ciro-santilli>> started his campaign for freedom of speech in china in 2015, Zhou Fengsuo published on Twitter in 2015-05-30 when he had 36K followers at the time: https://twitter.com/ZhouFengSuo/status/604461488716144640 (https://archive.is/8d2lt[archive]) linking to Ciro Santilli's Stack Overflow account:
+
+____
+The commies have messed with the wrong guy's <<ciro-santilli-mother-in-law-jail,mother-in-law.>>"
+
+一个程序员在专业网站上发布六四和法轮功的消息，目的是触怒中共，封杀网站，从而激起程序员的反抗。因为岳母被抓半个月。
+____
+
+[[chai-ling]]
+====== Chai Ling (柴玲)
+
+* https://en.wikipedia.org/wiki/Chai_Ling
+* https://zh.wikipedia.org/wiki/柴玲
+
+She was cute and energetic! :-)
+
+Famous anti-<<peoples-daily>> speech:
+
+* https://www.youtube.com/watch?v=gRAmL1D8R-4
+* https://www.youtube.com/watch?v=81V1bZEus5I
+* https://www.youtube.com/watch?t=1765&v=846AtqraCYg
+
+____
+人民日报，胡说八道！ +
+欺骗人民，良心何在！ +
+不是不报，时候不到！ +
+
+People's Daily, +
+Full of nonsense +
+Lying to the people, +
+Where's your conscience? +
+You may think you're safe, +
+But your time will come. +
+____
+
+Also transcripted at: http://www.tsquare.tv/chinese/film/ghp04.html from <<the-gate-of-heavenly-peace-1995>>.
+
+.https://www.youtube.com/watch?v=gRAmL1D8R-4 Chai Ling People's Daily speech in Tiananmen Square protests  (柴玲—六四学运—国民日报，胡说八道！). On <<github>>: https://github.com/cirosantilli/china-dictatorship/issues/197
+video::gRAmL1D8R-4[youtube,height=400,width=600]
+
+===== Tianmen square protest documentaries
+
+====== The Gate of Heavenly Peace (1995)
+
+* https://en.wikipedia.org/wiki/The_Gate_of_Heavenly_Peace_(film)
+* https://zh.wikipedia.org/wiki/天安门_(纪录片)
+
+Chinese transcript: http://www.tsquare.tv/chinese/film/ghp00.html
+
 [[chinese-student-demonstrations-1986]]
 ===== 1986 Chinese student demonstrations 八六学潮
 
@@ -8120,7 +8239,9 @@ Related sections:
 
 Other sections:
 
+* <<tianmen-leaders>>
 * <<people-arrested-for-reporting-on-the-2019-corona-virus>>
+* <<t-shirt>>
 * <<terminus2049>> contributors: Chen Mei (陈玫), Cai Wei (蔡伟), Xiao Tang (小唐)
 
 Other dissidents:
@@ -8192,7 +8313,7 @@ Based on Ireland.
 * https://zh.wikipedia.org/wiki/艾未未
 
 [[xu-xiaodong]]
-==== Xu Xiaodong "Mad Dog" 徐晓冬
+==== Xu Xiaodong (Mad Dog, 徐晓冬)
 
 * https://en.wikipedia.org/wiki/Xu_Xiaodong
 * https://zh.wikipedia.org/wiki/徐晓冬
@@ -8218,7 +8339,7 @@ image::{china-dictatorship-media-base}/Xu_Xiaodong_taichi.gif[height=400]
 video::0XwXaCbfIGw[youtube,height=400,width=600]
 
 [[programthink]]
-==== Programthink 编程随想
+==== Programthink (编程随想)
 
 Very popular Chinese language anonymous blogger that publishes software programming tutorials and political content since 2009, often negative about the CCP, in particular <<censorship,anti-censorship>> and <<brainwashed-by-usa,anti-CCP-brainwashing>>.
 
@@ -8245,7 +8366,7 @@ Mentions in other sections:
 image::{china-dictatorship-media-base}/Programthink.jpg[height=400]
 
 [[liu-xiaobo]]
-==== Liu Xiaobo 刘晓波 1955-2017
+==== Liu Xiaobo (刘晓波, 1955-2017)
 
 * https://en.wikipedia.org/wiki/Liu_Xiaobo
 * https://zh.wikipedia.org/wiki/刘晓波
@@ -8261,7 +8382,7 @@ It is interesting how <<hao-haidong>> was fully deleted, the page was only locke
 The article also makes it very clear that his 2009 sentence was "a fair one", and that the organization he worked for in the 90', https://en.wikipedia.org/wiki/Federation_for_a_Democratic_China[Federation fora Democratic China] (https://zh.wikipedia.org/wiki/民主中国阵线[民主中国阵线]) was funded by the CIA. Wikipedia does not mention that however, and of course, Baidu content does not need citations.
 
 [[guo-wengui]]
-==== Guo Wengui 郭文贵
+==== Guo Wengui (郭文贵)
 
 * https://en.wikipedia.org/wiki/Guo_Wengui
 * https://zh.wikipedia.org/wiki/郭文贵
@@ -8398,7 +8519,7 @@ Ye also nuked:
 
 ====== Baidu Baike censorship of Hao Haidong
 
-This served as good evidence of the obvious fact that <<baidu,Baidu>> Baike is highly censored.
+This served as good evidence of the obvious fact that <<baidu-baike>> is highly censored.
 
 Hao Haidong's page https://baike.baidu.com/item/郝海东/357512[]:
 
@@ -8461,19 +8582,6 @@ News coverage:
 
 .Howey Ou skipped classes for a week to protest about climate change in front of the local government office in Guilin in 2019. https://www.scmp.com/news/china/society/article/3094873/howey-ou-chinas-version-greta-thunberg-pays-price-climate[Source].
 image::{china-dictatorship-media-base}/Howey_Ou_2019.jpg[height=400]
-
-[[zhou-fengsuo]]
-==== Zhou Fengsuo (周锋锁)
-
-https://en.wikipedia.org/wiki/Zhou_Fengsuo | https://zh.wikipedia.org/wiki/周锋锁
-
-After <<ciro-santilli>> started his campaign for freedom of speech in china in 2015, Zhou Fengsuo published on Twitter in 2015-05-30 when he had 36K followers at the time: https://twitter.com/ZhouFengSuo/status/604461488716144640 (https://archive.is/8d2lt[archive]) linking to Ciro Santilli's Stack Overflow account:
-
-____
-The commies have messed with the wrong guy's <<ciro-santilli-mother-in-law-jail,mother-in-law.>>"
-
-一个程序员在专业网站上发布六四和法轮功的消息，目的是触怒中共，封杀网站，从而激起程序员的反抗。因为岳母被抓半个月。
-____
 
 ==== University student dissidents abroad
 
@@ -8947,7 +9055,10 @@ Shen Yun's headquarters are also located in/near <<dragon-springs>>.
 
 Li mentions Shen Yun in <<flg-canon,canon>>: https://gb.falundafa.org/chigb/jiangfa11_2.htm
 
-https://www.youtube.com/watch?v=2mQ8plzWl9g "They tried to get me to post Chinese propaganda"  by J.J. McCullough (2019) talks about Shen Yun and Falun Gong in general, and how he was offered to post anti-Shen Yun propaganda for 500 dollars.
+On thing Ciro couldn't help but notice is that the "CCP guards beating up Falun Gong people" scenes felt a lot like https://en.wikipedia.org/wiki/Revolutionary_opera[Revolutinary operas] of the <<mao-zedong>> period in their aesthetics. Maybe this is an intentional reference.
+
+.https://www.youtube.com/watch?v=2mQ8plzWl9g "They tried to get me to post Chinese propaganda" by J.J. McCullough (2019) talks about Shen Yun and Falun Gong in general, and how he was offered to post anti-Shen Yun propaganda for 500 dollars.
+video::2mQ8plzWl9g[youtube,height=400,width=600]
 
 [[jennifer-zeng]]
 ===== Jennifer Zeng (曾錚, pro-Falun Gong media)
@@ -10201,9 +10312,15 @@ Here are some people completely against blocking wumaos. Those silly Democrats n
 * https://www.nytimes.com/2016/09/22/opinion/how-to-counter-chinas-global-propaganda-offensive.html
 ** it mentions the "Countering Information Warfare Act of 2016" https://www.congress.gov/bill/114th-congress/senate-bill/2692[], which is exactly what Western countries should do
 
-Wumaos are particularly easy to spot on <<censorship-monitoring,Western websites banned in China>> and when written in English, since there is no way that strong pro-CCP opinions would get any support in such circumstances:
+The <<baidu-baike>> definition of wumao https://baike.baidu.com/item/五毛/24163406[] (https://archive.vn/mADIL[archive])) is priceless:
 
-* <<quora>> is completely infested by wumaos as of 2020, see more information on that section
+____
+五毛，网络流行语，指收钱为某单位在网络上说好话的人
+
+Fifty cents, an internet buzzword, refers to people who collect money for a certain unit to say good things on the Internet
+____
+
+"Good". And not mention of the CCP in the article, of course.
 
 Other names:
 
@@ -10231,7 +10348,7 @@ Bibliography:
 image::{china-dictatorship-media-base}/Wujiao.png[height=400]
 
 [[how-to-deal-with-wumaos]]
-===== How to deal with wumaos 如何应对五毛
+===== How to deal with wumaos (如何应对五毛)
 
 Above all, never reply intelligently to wumaos. Ignore all their notifications, and ignore their profile wherever possible. And if they start generating too many notifications, block them.
 
@@ -10244,6 +10361,16 @@ ____
 Why I delete your posts, but I don't delete wumao's posts? Because it is only possible to reason with humans, it is not possible to reason with primitive animals!
 ____
 * https://chinadigitaltimes.net/chinese/2019/08/【麻辣总局】新型敏感词武器：赵弹磁铁/
+
+===== Where to find wumaos
+
+Wumaos are particularly easy to spot on <<censorship-monitoring,Western websites banned in China>> and when written in English, since there is no way that strong pro-CCP opinions would get any support in such circumstances:
+
+* <<quora>> is completely infested by wumaos as of 2020, see more information on that section
+
+When they write in Chinese, it is much harder to know if they are paid or not, most are just <<stupid,brainwashed>>, some places to find them:
+
+* <<zhao-heming>>
 
 [[ccp-apologists]]
 ===== CCP apologists (中共辩护士)
@@ -10317,7 +10444,7 @@ TODO decide:
 
 Bibliography:
 
-* https://medium.com/swlh/how-china-is-influencing-youtubers-into-posting-state-propaganda-db72acf18dfa "EXCLUSIVE: How China is Influencing YouTubers into Posting State Propaganda" mentions https://youtu.be/2mQ8plzWl9g?t=520 "They tried to get me to post Chinese propaganda"  by J.J. McCullough (2019) was approached to publish an anti-<<shen-yun>> video by what was likely a Chinese agent.
+* https://medium.com/swlh/how-china-is-influencing-youtubers-into-posting-state-propaganda-db72acf18dfa "EXCLUSIVE: How China is Influencing YouTubers into Posting State Propaganda" mentions https://youtu.be/2mQ8plzWl9g?t=520 "They tried to get me to post Chinese propaganda" by J.J. McCullough (2019) was approached to publish an anti-<<shen-yun>> video by what was likely a Chinese agent.
 
 <<reddit>> threads:
 
@@ -10752,13 +10879,20 @@ The "Google of China":
 ** https://tongji.baidu.com/web/help/article?id=174
 ** 百度统计代码介绍
 ** the <<cac>> uses their analytics as of 2020
-* Baike wiki
-** https://baike.baidu.com/
-** The leading Chinese Wikipedia
-** https://en.wikipedia.org/wiki/Baidu_Baike
-** https://zh.wikipedia.org/wiki/百度百科
-** obviously completely censored, e.g.: <<baidu-baike-censorship-of-hao-haidong>>
-** seems to not have edit history. That would be bad for censorship :-)
+
+[[baidu-baike]]
+==== Baidu Baike (Chinese censored Wikipedia clone)
+
+* https://en.wikipedia.org/wiki/Baidu_Baike
+* https://zh.wikipedia.org/wiki/百度百科
+
+The leading Chinese Wikipedia clone by <<baidu>>.
+
+<<censorship,Censored to the brim>> needless to say, see e.g. <<baidu-baike-censorship-of-hao-haidong>>.
+
+Website: https://baike.baidu.com/[].
+
+Seems to not have edit history. <<wayback-machine,History >> is bad for censorship, because you never know when you might need to rewrite it ;-) See also: <<nineteen-eighty-four>>.
 
 [[alibaba]]
 === Alibaba (阿里巴巴)
