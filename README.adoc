@@ -491,6 +491,8 @@ Finally, the political powers of each website decide what is allowed or not on t
 * <<stack-overflow>>
 * <<github>>
 
+Another consideration is that any profile information is essentially a form of advertisement. Some people advertise their skills for hire, or their company and product. Other people, advertise their <<falun-gong,religion>> or <<gay-rights,sexual orientation>>. So why should you not be able to advertise your political position? Companies pay millions of dollars to grab other people's attention. Ciro feels it is much fairer to instead pay for those ads with your labour of love.
+
 <<programthink>> has, of course, a beautiful reply to this at https://github.com/programthink/zhao/tree/e8eea46424549c11792dfe61cf9e7698bdbd7240#致反对此项目的墙内程序员[]:
 
 [[programthink-meant-to-be-used]]
@@ -4052,13 +4054,14 @@ Ciro then created https://meta.stackexchange.com/questions/361493/if-a-politicia
 * https://meta.stackexchange.com/users/135565/journeyman-geek (Singapore). Site elected admin at the time, which implies that his deletion cannot be undone by non-admins. TODO are they born in Singapore? If yes they might also be pro Xi Jinping, which is a clear conflict of interest with freedom of speech. But their English sounds perfect, so Ciro is not sure if it is common for Singapore natives or not.
 * https://meta.stackexchange.com/users/140890/martijn-pieters (UK, lots of Python rep)
 
-Then Ciro created an answer to https://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u/361497#361497["Does the Be Nice policy require SE users to “be nice” to people who are not SE users (e.g. public figures)?"] which was somewhat considered the dupe of the previous ones. That post is reproduced at https://github.com/cirosantilli/china-dictatorship/issues/198#issuecomment-787047242 It cites the case in which the law was tested, but it was single-handedly by journeyman-geek (from Singapore) without any justification.
+Then Ciro created an answer to https://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u/361497#361497["Does the Be Nice policy require SE users to “be nice” to people who are not SE users (e.g. public figures)?"] which is a superset of the previous ones referred by them. That post is reproduced at https://github.com/cirosantilli/china-dictatorship/issues/198#issuecomment-787047242 It cites the case in which the law was tested, but it was single-handedly by journeyman-geek (from Singapore) without any justification.
 
 Ciro then finally updated his profile picture to contain <<xi-pooh-photoshop>>, archive at: https://archive.vn/iV1L8 to test the Winnie the Pooh case which people simply refused to answer. Let's see show that goes.
 
 Other users who publicly went against freedom of speech in that case:
 
 * https://meta.stackexchange.com/users/665544/bad-coder ("West") replied at: https://meta.stackexchange.com/questions/361486/can-i-say-on-my-profile-that-i-find-that-an-ex-president-of-a-country-or-other/361495#361495
+* https://meta.stackexchange.com/users/798831/ollie comments, Ciro replies, they delete comment, comments, Ciro reply, they delete comment... Ciro gives up
 
 Freedom of speech in social media is truly threatened by <<censorship-of-politically-incorrect-speech>>.
 
