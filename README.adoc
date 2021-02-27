@@ -192,7 +192,7 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 * https://gitlab.com/cirosantilli/china-dictatorship Maybe some day https://gitlab.cn/ ? :-)
 * https://gitee.com/cirosantilli/china-dictatorship on <<gitee>>, blocked after 12 hours: <<gitee-censorship>>
 * https://bitbucket.org/cirosantilli/china-dictatorship
-* https://git.kiwifarms.net/CrunkLord420/china-dictatorship auto-pull mirror on https://en.wikipedia.org/wiki/Kiwi_Farms[Kiwi Farms] (a politically incorrect social network website)
+* https://git.kiwifarms.net/CrunkLord420/china-dictatorship auto-pull Gitea mirror on https://en.wikipedia.org/wiki/Kiwi_Farms[Kiwi Farms] (a politically incorrect social network website)
 
 GitHub Pages: https://cirosantilli.com/china-dictatorship trade-offs with https://github.com/cirosantilli/china-dictatorship[]:
 
@@ -2627,12 +2627,12 @@ Subs with lots of anti-commie info:
 * https://www.reddit.com/r/fucktheccp/ small as of 2020 but promising
 * https://www.reddit.com/r/HongKong had 3x more users than r/china as of 2020 after <<2019-hong-kong-anti-extradition-bill-protests>>.
 * https://www.reddit.com/r/CCP_virus/ for <<corona>>
-* China Circle Jerk subs (CCJ). TODO: these appear to be politically incorrect subs, but they do seem to allow anti-commit info. As of 2020, they were either banned or private:
-** https://www.reddit.com/r/CCJ
-** https://www.reddit.com/r/CCJ2
 * https://www.reddit.com/r/tibet/ 3k subs 2020
 * https://www.reddit.com/r/saraba2nd/ (第二新S1市) modded by <<chinatimeline>> TODO title meaning
 * https://www.reddit.com/r/BoycottChina/
+* China Circle Jerk subs (CCJ). TODO: these appear to be politically incorrect subs, but they do seem to allow anti-commit info. As of 2020, they were either banned or private:
+** https://www.reddit.com/r/CCJ
+** https://www.reddit.com/r/CCJ2
 
 TODO review:
 
@@ -3992,14 +3992,45 @@ This is where <<ciro-santilli>> started his <<keyword-attack>> originally in 201
 
 The current consensus says that keyword attacks are allowed:
 
-* https://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u
 * https://meta.stackoverflow.com/questions/267368/are-political-avatars-and-profiles-ok
 * https://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam
 * https://meta.stackoverflow.com/questions/349131/users-political-display-name-triggering-government-action-against-users-who-vie
 
-The Chinese law doesn't unfortunately: <<real-username-law>>
+However, you can't say "Public figure X is disgusting as a person"  so <<wumao>>s, could you please report that and see what they do about it?
+
+* https://meta.stackexchange.com/questions/361486/can-i-say-on-my-profile-that-i-find-that-an-ex-president-of-a-country-or-other
+* https://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u
+
+Reposts:
+
+* https://twitter.com/cirosantilli/status/1365409005561147397
+* https://www.facebook.com/cirosantilli/posts/4019779304708053
+* https://www.reddit.com/r/DeclineIntoCensorship/comments/lt8ij5/in_stack_overflow_if_is_currently_not_allowed_to/
+* https://www.reddit.com/r/FreeSpeech/comments/lt92ni/in_stack_overflow_if_is_currently_not_allowed_to/
+* https://www.reddit.com/r/China/comments/lta1f8/if_a_politician_has_committed_genocide_can_i_say/
+* https://www.reddit.com/r/fucktheccp/comments/ltgdpu/leading_programmer_website_stack_overflow_does/
+
+Oh, and you can't criticize God either! https://meta.stackexchange.com/questions/231334/is-it-acceptable-to-insult-god-in-a-user-profile
+
+The Chinese law doesn't allow Ciro's profile unfortunately: <<real-username-law>>
 
 Since you will fail through Stack Overflow moderation, please consider instead making a report on the <<cac-report-website>>.
+
+===== Stack Overflow forbids criticizing the character of genocidal political leaders like Xi Jinping
+
+https://github.com/cirosantilli/china-dictatorship/issues/198
+
+* https://meta.stackexchange.com/questions/361486/can-i-say-on-my-profile-that-i-find-that-an-ex-president-of-a-country-or-other
+* https://meta.stackexchange.com/questions/361493/if-a-politician-has-committed-genocide-can-i-say-on-my-profile-they-look-like-w was deleted, archive: https://web.archive.org/web/20210227034430/https://meta.stackexchange.com/questions/361493/if-a-politician-has-committed-genocide-can-i-say-on-my-profile-they-look-like-w also reproduced at: https://github.com/cirosantilli/china-dictatorship/issues/198#issuecomment-787047242
+* answer to https://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u/361497#361497 reproduced at was deleted single-handedly by journeyman-geek without any justification https://github.com/cirosantilli/china-dictatorship/issues/198#issuecomment-787047672
+
+The following users publicly criticized freedom of speech in that case:
+
+* https://meta.stackexchange.com/users/508266/cesar-m (Brazil, Stack Exchange employee, no rep)
+* https://meta.stackexchange.com/users/215590/polygeo (Australia)
+* https://meta.stackexchange.com/users/135565/journeyman-geek (Singapore). Site admin at the time, which implies that his deletion cannot be undeleted. TODO are they born in Singapore? If yes they might also be pro Xi Jinping, which is a clear conflict of interest with freedom of speech.
+* https://meta.stackexchange.com/users/140890/martijn-pieters (UK, lots of rep)
+* https://meta.stackexchange.com/users/665544/bad-coder ("West")
 
 ===== Other openly dissident users on Stack Overflow
 
