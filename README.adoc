@@ -4028,7 +4028,7 @@ The following users publicly criticized freedom of speech in that case:
 
 * https://meta.stackexchange.com/users/508266/cesar-m (Brazil, Stack Exchange employee, no rep)
 * https://meta.stackexchange.com/users/215590/polygeo (Australia)
-* https://meta.stackexchange.com/users/135565/journeyman-geek (Singapore). Site admin at the time, which implies that his deletion cannot be undeleted. TODO are they born in Singapore? If yes they might also be pro Xi Jinping, which is a clear conflict of interest with freedom of speech.
+* https://meta.stackexchange.com/users/135565/journeyman-geek (Singapore). Site elected admin at the time, which implies that his deletion cannot be undone by non-admins. TODO are they born in Singapore? If yes they might also be pro Xi Jinping, which is a clear conflict of interest with freedom of speech.
 * https://meta.stackexchange.com/users/140890/martijn-pieters (UK, lots of rep)
 * https://meta.stackexchange.com/users/665544/bad-coder ("West")
 
