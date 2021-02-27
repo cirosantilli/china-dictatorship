@@ -1877,6 +1877,20 @@ Ciro believes without evidence that unfortunately anti-discrimination-hiring law
 ** 2020-05-29 https://www.bbc.co.uk/news/technology-52846679 Twitter "hides Trump tweet for 'glorifying violence'". The people elected that idiot, Twitter leftists have to swallow that.
 ** 2021-01-11 https://www.irishexaminer.com/world/arid-40204808.html "Angela Merkel sees Twitter's cancelling of Donald Trump as 'problematic'"
 
+====== Censorship of "politically incorrect speech"
+
+<<ciro-santilli>> strongly believes that this is a problem with Wester social media. For example in <<stack-overflow-forbids-criticizing-the-character-of-genocidal-political-leaders-like-xi-jinping>> Stack Overflow forbade Ciro from saying:
+
+____
+I think Trump is disgusting as a person
+____
+
+because they thought Trump would become sad and cry.
+
+Western governments should pass laws that prevent this kind of arbitrary political censorship by companies.
+
+But of course as usual: <<censorship,censorship in a dictatorship like China is always a million times worse>>.
+
 ===== Western society is extremelly unequal
 
 Exactly! And this is something <<ciro-santilli>> fights daily against through his open source contributions.
@@ -4020,17 +4034,35 @@ Since you will fail through Stack Overflow moderation, please consider instead m
 
 https://github.com/cirosantilli/china-dictatorship/issues/198
 
-* https://meta.stackexchange.com/questions/361486/can-i-say-on-my-profile-that-i-find-that-an-ex-president-of-a-country-or-other
-* https://meta.stackexchange.com/questions/361493/if-a-politician-has-committed-genocide-can-i-say-on-my-profile-they-look-like-w was deleted, archive: https://web.archive.org/web/20210227034430/https://meta.stackexchange.com/questions/361493/if-a-politician-has-committed-genocide-can-i-say-on-my-profile-they-look-like-w also reproduced at: https://github.com/cirosantilli/china-dictatorship/issues/198#issuecomment-787047242
-* answer to https://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u/361497#361497 reproduced at was deleted single-handedly by journeyman-geek without any justification https://github.com/cirosantilli/china-dictatorship/issues/198#issuecomment-787047672
+Ciro was actually quite shocked by this.
 
-The following users publicly criticized freedom of speech in that case:
+He thought more people on Stack Overflow would have favored freedom of speech.
 
-* https://meta.stackexchange.com/users/508266/cesar-m (Brazil, Stack Exchange employee, no rep)
+First by initiative of Stack Overflow employee https://meta.stackexchange.com/users/508266/cesar-m[Cesar Manara (Brazilian)], the sentence:
+
+____
+I think Trump is disgusting as a person
+____
+
+was removed from Ciro's profile and notified.
+
+In response, Ciro created a meta thread to confirm that the community agreed, and they did: https://meta.stackexchange.com/questions/361486/can-i-say-on-my-profile-that-i-find-that-an-ex-president-of-a-country-or-other[Can I say on my profile that I find that an (ex) president of a country or other major political public figure is “disgusting as a person”?] and the community agreed with the removal: it reached only 5 upvotes and 25 downvotes. Ciro's profile at the time was linked to Trump's ban on social media: link:trump-ban-is-bad.md[].
+
+Ciro then created https://meta.stackexchange.com/questions/361493/if-a-politician-has-committed-genocide-can-i-say-on-my-profile-they-look-like-w[If a politician has committed genocide, can I say on my profile they look like Winnie-the-Pooh to insult them because they hate that?] was it was also mostly downvoted, and deleted, without any answer. Archive: https://web.archive.org/web/20210227034430/https://meta.stackexchange.com/questions/361493/if-a-politician-has-committed-genocide-can-i-say-on-my-profile-they-look-like-w also reproduced at: https://github.com/cirosantilli/china-dictatorship/issues/198#issuecomment-787047242 The deletion voters were:
+
 * https://meta.stackexchange.com/users/215590/polygeo (Australia)
 * https://meta.stackexchange.com/users/135565/journeyman-geek (Singapore). Site elected admin at the time, which implies that his deletion cannot be undone by non-admins. TODO are they born in Singapore? If yes they might also be pro Xi Jinping, which is a clear conflict of interest with freedom of speech.
 * https://meta.stackexchange.com/users/140890/martijn-pieters (UK, lots of rep)
-* https://meta.stackexchange.com/users/665544/bad-coder ("West")
+
+Then Ciro created an answer to https://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u/361497#361497["Does the Be Nice policy require SE users to “be nice” to people who are not SE users (e.g. public figures)?"] which was somewhat considered the dupe of the previous ones. That post is reproduced at https://github.com/cirosantilli/china-dictatorship/issues/198#issuecomment-787047672 It cites the case in which the law was tested, but it was single-handedly by journeyman-geek (from Singapore) without any justification.
+
+Ciro then finally updated his profile picture to contain <<xi-pooh-photoshop>>, archive at: https://archive.vn/iV1L8 to test the Winnie the Pooh case which people simply refused to answer. Let's see show that goes.
+
+Other users who publicly went against freedom of speech in that case:
+
+* https://meta.stackexchange.com/users/665544/bad-coder ("West") replied at: https://meta.stackexchange.com/questions/361486/can-i-say-on-my-profile-that-i-find-that-an-ex-president-of-a-country-or-other/361495#361495
+
+Freedom of speech in social media is truly threatened by <<censorship-of-politically-incorrect-speech>>.
 
 ===== Other openly dissident users on Stack Overflow
 
@@ -7403,6 +7435,7 @@ image::{china-dictatorship-media-base}/Xi_Abe_Pooh.webp[height=400]
 .Comparison image between Xi Jinping on a car in a 2015 military parade and a toy Winnie-the-Pooh on a car. https://www.bbc.co.uk/news/blogs-china-blog-40627855[Source].
 image::{china-dictatorship-media-base}/Xi_Pooh_car.jpg[height=400]
 
+[[xi-pooh-photoshop]]
 .Real photo of Xi Jinping edited to look like Winnie the Pooh. https://www.reddit.com/r/pics/comments/dcabzh/this_image_of_xi_jiping_as_winnie_the_pooh_is/[Source].
 image::{china-dictatorship-media-base}/Xi_Pooh_Photoshop.webp[height=400]
 
