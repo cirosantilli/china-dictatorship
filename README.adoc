@@ -1910,7 +1910,10 @@ But of course as usual: <<censorship,censorship in a dictatorship like China is 
 ."Please enjoy this culturally ethnically religiously and politically correct cartoon responsibly" cartoon by Michael Shaw from the New Yorker (2006) makes a reference to the fact that all humour is a criticism of something, and that excessive political correctness can be used as a way to limit free speech.
 image::{china-dictatorship-media-base}/Please_enjoy_this_politically_correct_cartoon.jpg[height=400]
 
-===== Western society is extremelly unequal
+.https://www.youtube.com/watch?v=BiqDZlAZygU Rowan Atkinson (Mr. Bean) defending freedom of speech in the context of the http://reformsection5.org.uk/[Reform Section 5] campaign to remove all criminalization of insults.
+video::BiqDZlAZygU[youtube,height=400,width=600]
+
+===== Western society is extremely unequal
 
 Exactly! And this is something <<ciro-santilli>> fights daily against through his open source contributions.
 
