@@ -522,6 +522,20 @@ Over the past few years, I have read a lot of similar comments. A good compariso
 Interested people can read my previous blog post: https://program-think.blogspot.com/2012/06/stockholm-syndrome.html["Psychological Analysis of the People of the Heavenly Dynasty: Stockholm Syndrome"].
 ____
 
+The more places we can denounce dictators, the better people are off, <<disturbs,the minor annoyance to sensitive people is worth it>>. Ciro wrote a poem:
+
+____
+Don't discuss politics on Stack Overflow. +
+Don't discuss politics on GitHub. +
+Don't discuss politics on YouTube. +
+Don't discuss politics on Facebook. +
+Don't discuss politics on Twitter. +
+Don't discuss politics. +
+Don't discuss. +
+Don't. +
+. +
+____
+
 Infinite duplicate pool:
 
 * https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ameant-to-be-used+
@@ -4012,7 +4026,7 @@ The current consensus says that keyword attacks are allowed:
 * https://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam
 * https://meta.stackoverflow.com/questions/349131/users-political-display-name-triggering-government-action-against-users-who-vie
 
-However, you can't say "Public figure X is disgusting as a person"  so <<wumao>>s, could you please report that and see what they do about it?
+However, you can't say "Public figure X is disgusting as a person" so <<wumao>>s, could you please report Ciro making fun of Xi Jinping X and see what they do about it?
 
 * https://meta.stackexchange.com/questions/361486/can-i-say-on-my-profile-that-i-find-that-an-ex-president-of-a-country-or-other
 * https://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u
@@ -4036,7 +4050,13 @@ Since you will fail through Stack Overflow moderation, please consider instead m
 
 Ciro was actually quite shocked by this.
 
-He thought more people on Stack Overflow would have favored freedom of speech.
+He thought more people on Stack Overflow would have sided with him and favored stronger freedom of speech.
+
+But this event made him notice that people in Stack Overflow simply didn't push back against Ciro's anti Xi Jinping campaign because they don't know who the fuck Xi Jinping is, or they don't care, or they are completely hypocrite and allow criticizing Xi Jinping but not Trump.
+
+But they do know who Trump is, and "offending Trump" makes their feeble little feelings be hurt, and they must maintain their sacred "<<censorship-of-politically-incorrect-speech,political correctness>>" at all costs, even when talking about politicians. Including that the cost of freedom.
+
+This therefore morally justifies the take-down attempts made by hundreds of <<wumao>>s against Ciro's anti Xi Jinping content.
 
 First by initiative of Stack Overflow employee https://meta.stackexchange.com/users/508266/cesar-m[Cesar Manara (Brazilian)], the sentence:
 
@@ -4054,16 +4074,23 @@ Ciro then created https://meta.stackexchange.com/questions/361493/if-a-politicia
 * https://meta.stackexchange.com/users/135565/journeyman-geek (Singapore). Site elected admin at the time, which implies that his deletion cannot be undone by non-admins. TODO are they born in Singapore? If yes they might also be pro Xi Jinping, which is a clear conflict of interest with freedom of speech. But their English sounds perfect, so Ciro is not sure if it is common for Singapore natives or not.
 * https://meta.stackexchange.com/users/140890/martijn-pieters (UK, lots of Python rep)
 
+There was no yes/no answer by anyone, because the of cowardice and hypocrisy:
+
+* saying "you can" would imply you can criticize Trump
+* saying "you can't" would imply they support genocide
+
+So their brains just tilted, and they clicked the "delete" button as the only possible resolution.
+
 Then Ciro created an answer to https://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u/361497#361497["Does the Be Nice policy require SE users to “be nice” to people who are not SE users (e.g. public figures)?"] which is a superset of the previous ones referred by them. That post is reproduced at https://github.com/cirosantilli/china-dictatorship/issues/198#issuecomment-787047242 It cites the case in which the law was tested, but it was single-handedly by journeyman-geek (from Singapore) without any justification.
 
-Ciro then finally updated his profile picture to contain <<xi-pooh-photoshop>>, archive at: https://archive.vn/iV1L8 to test the Winnie the Pooh case which people simply refused to answer. Let's see show that goes.
+Ciro then finally updated his profile picture to contain <<xi-pooh-photoshop>>, archive at: https://archive.vn/iV1L8 to test the Winnie-the-Pooh case which people simply refused to answer. Let's see show that goes.
 
 Other users who publicly went against freedom of speech in that case:
 
 * https://meta.stackexchange.com/users/665544/bad-coder ("West") replied at: https://meta.stackexchange.com/questions/361486/can-i-say-on-my-profile-that-i-find-that-an-ex-president-of-a-country-or-other/361495#361495
 * https://meta.stackexchange.com/users/798831/ollie comments, Ciro replies, they delete comment, comments, Ciro reply, they delete comment... Ciro gives up
 
-Freedom of speech in social media is truly threatened by <<censorship-of-politically-incorrect-speech>>.
+Freedom of speech in social media is truly threatened by the <<censorship-of-politically-incorrect-speech>>.
 
 Related issue: https://github.com/cirosantilli/china-dictatorship/issues/198
 
@@ -8352,6 +8379,9 @@ Other lists:
 ** https://en.wikipedia.org/wiki/List_of_Chinese_dissidents
 ** https://zh.wikipedia.org/wiki/中华人民共和国被捕政治犯列表
 * https://cppc1989.blogspot.com/ 中國政治犯關注 China Political Prisoner Concern. Chinese blog with an infinite list of Chinese political prisoners.
+* 中国近年文字狱事件盘点 (List of events in which Chinese writters were persecuted for their writing) by https://twitter.com/SpeechFreedomCN
++
+Coverage: 2021-02-26 https://www.nytimes.com/2021/02/26/business/china-online-censorship.html
 
 [[chinese-human-rights-defenders]]
 ===== Chinese Human Rights Defenders (中国人权捍卫者)
