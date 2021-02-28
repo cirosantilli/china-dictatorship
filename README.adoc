@@ -1907,6 +1907,9 @@ Western governments should pass laws that prevent this kind of arbitrary politic
 
 But of course as usual: <<censorship,censorship in a dictatorship like China is always a million times worse>>.
 
+."Please enjoy this culturally ethnically religiously and politically correct cartoon responsibly" cartoon by Michael Shaw from the New Yorker (2006) makes a reference to the fact that all humour is a criticism of something, and that excessive political correctness can be used as a way to limit free speech.
+image::{china-dictatorship-media-base}/Please_enjoy_this_politically_correct_cartoon.jpg[height=400]
+
 ===== Western society is extremelly unequal
 
 Exactly! And this is something <<ciro-santilli>> fights daily against through his open source contributions.
