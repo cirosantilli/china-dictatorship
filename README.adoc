@@ -826,6 +826,44 @@ TODO maybe not arrested but relevant:
 +
 Possible free Chinese version: https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGF5YWJvb2suY29tfHd3d3xneDo3ZGUzZWZjZDgyZDkxNjc0 (http://web.archive.org/web/20200720084342/https://doc-10-bk-apps-viewer.googleusercontent.com/viewer/secure/pdf/3nb9bdfcv3e2h2k1cmql0ee9cvc5lole/0cr4s4veutmm50d7alffk68perm7us3s/1595234550000/lantern/%2A/ACFrOgDGbspvoNIJBVI1N2-EwaZHJPCTgPKmJeFaWgposQKpu5Eu0aqwA_CIZfLkobNVy1-xKcxKzw2CMAyxH4aUPjcHsp2w1JB2fwoX1g_39gVGh38SxfK-UrQyhy_3n19wbWhWErj_a41hMVR4?print=true[archive])
 
+==== Censorship makes it harder to solve social problems
+
+2021-03-02 https://hk.appledaily.com/news/20210302/EK4WOQBICNEGDFP2SSG7ZJ3PGI/ (https://hk.appledaily.com/china/20210301/KM2MXDHHXRAQHFB4MYFU6XOFTY/[Chinese version]) "Chinese food delivery worker detained after campaigning for labor rights"
+
+____
+Chinese authorities have detained a worker after he advocated for fair pay and other labor rights from his former employer, the food delivery giant Ele.me.
+
+Chen Tianhe (陳天河) has not been heard from since he was detained on Feb. 25, according to mainland Chinese media reports.
+____
+
+[[nine-nine-six-icu]]
+===== 996.ICU (2019)
+
+https://github.com/996icu/996.ICU
+
+Repository published in 2019-04 protesting against excessive work hours by Chinese programmers.
+
+This was not directly censored to our knowledge, but the fact that it was published on GitHub rather than Chinese social media highlights the obvious fact that Chinese programmers were weary of doing it under CCP controlled media which they do not trust.
+
+The project name refers to:
+
+* "996": work from 9AM to 9PM 6 days a week. This is part of a wider tendency of Chinese netizens to use <<internet-number-slang>>
+* "ICU": https://en.wikipedia.org/wiki/Intensive_care_unit[Intensive Care Unit]
+
+Reached 180k stars in a week, and was the second most starred repository as of 2019-10 https://github.com/search?q=stars%3A%3E100&s=stars&type=Repositories[] (https://web.archive.org/web/20191023084929/https://github.com/search?q=stars%3A%3E100&s=stars&type=Repositories[archive])!!!
+
+This is therefore the best example for Chinese tech workers that <<richer,freedom of speech is a good thing>>.
+
+Coverage:
+
+* https://www.reddit.com/r/China/comments/b927sk/tencent_xiaomi_and_others_block_github_page/
+* https://www.reddit.com/r/cscareerquestions/comments/b8t8cc/overworked_chinese_developers_gather_on_github_to/
+
+Other interesting GitHub repositories: <<github-repositories-with-censored-information>>.
+
+.996.ICU logo. https://github.com/996icu[Source].
+image::{china-dictatorship-media-base}/996ICU.png[height=400]
+
 [[war]]
 ==== Why would democracy and freedom of speech make China less likely to start a war?
 
@@ -1917,11 +1955,15 @@ video::BiqDZlAZygU[youtube,height=400,width=600]
 
 Exactly! And this is something <<ciro-santilli>> fights daily against through his open source contributions.
 
-And politicians don't really care enough. Partially because the poor aren't educated and don't vote enough, and partially because corporations pay for their election campaigns, and partly because many of them are rich.
+And politicians don't really care enough. Partially because:
+
+* the poor don't have access to proper education and vote less often
+* corporations pay for their election campaigns
+* many of the politicians are rich themselves
 
 But do you really think that further increasing the power concentration as done is China is going to help reduce inequality?
 
-If so, you have been <<stupid,brainwashed beyond reason>>. Increasing the concentration of power will always make society more unequal, never less.
+If so, you have been <<stupid,brainwashed beyond reason>>. Increasing the concentration of power <<chinese-politicians-really-care-about-the-chinese-citizens,will obviously make society even more unequal>> and <<corruption,corrupt>>, never less.
 
 [[life-of-brian-1979]]
 ===== Life of Brian (布莱恩的一生, 1979)
@@ -2046,6 +2088,8 @@ Even those that genuinely care might have to play suc political games.
 China's problem is not its politicians.
 
 It's the current shitty political organization, which allows/convinces those politicians to do really bad things: <<richer>>, <<war>> and <<corruption>>.
+
+Western politicians don't care about the people either: <<western-society-is-extremely-unequal>>. But at least they have to pretend a little.
 
 ==== Is Chinese politician X evil?
 
@@ -2999,6 +3043,13 @@ The keyword is <<rule-of-law>>: because of a few terrorists, every single Muslim
 
 Overview projects:
 
+* 2021-03-01 https://www.reuters.com/article/BigStory12/idUSKCN2AT1BA "China counters Uighur criticism with explicit attacks on women witnesses"
++
+____
+Chinese officials have named women, disclosed what they say is private medical data and information on the women’s fertility, and accused some of having affairs and one of having a sexually transmitted disease. The officials said the information was evidence of bad character, invalidating the women’s accounts of abuse in Xinjiang.
+____
++
+<<reddit>>: https://www.reddit.com/r/China/comments/lvrkoi/china_counters_uyghur_criticism_with_explicit/
 * 2020-12-14 reports that Uyghurs are being forced to work on the cotton industry emmerge:
 ** https://cgpolicy.org/briefs/coercive-labor-in-xinjiang-labor-transfer-and-the-mobilization-of-ethnic-minorities-to-pick-cotton/ "Coercive Labor in Xinjiang: Labor Transfer and the Mobilization of Ethnic Minorities to Pick Cotton"
 ** https://www.bbc.co.uk/news/extra/nz0g306v8c/china-tainted-cotton "China's 'tainted' cotton"
@@ -4085,11 +4136,11 @@ There was no yes/no answer by anyone, because the of cowardice and hypocrisy:
 * saying "you can" would imply you can criticize Trump
 * saying "you can't" would imply they support genocide
 
-So their brains just tilted, and they clicked the "delete" button as the only possible resolution.
+So their brains just tilted, and they clicked the "delete" button as the only possible resolution. The overly speedy deletion of posts was then raised as an issue two days later for an unrelated post: https://meta.stackoverflow.com/questions/405585/can-we-slow-down-on-the-deletes-on-meta-folks
 
 Then Ciro created an answer to https://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u/361497#361497["Does the Be Nice policy require SE users to “be nice” to people who are not SE users (e.g. public figures)?"] which is a superset of the previous ones referred by them. That post is reproduced at https://github.com/cirosantilli/china-dictatorship/issues/198#issuecomment-787047242 It cites the case in which the law was tested, but it was single-handedly by journeyman-geek (from Singapore) without any justification.
 
-Ciro then finally updated his profile picture to contain <<xi-pooh-photoshop>>, archive at: https://archive.vn/iV1L8 to test the Winnie-the-Pooh case which people simply refused to answer. Let's see show that goes.
+Ciro then finally updated his profile picture to contain <<xi-pooh-photoshop>>, archive at: https://archive.vn/iV1L8 to test the Winnie-the-Pooh case which people simply refused to answer. Let's see show that goes. As Ciro learned however, only wumaos will continue to complain, and due to hypocrisy their complaints will be ignored.
 
 Other users who publicly went against freedom of speech in that case:
 
@@ -4824,6 +4875,10 @@ As a result, on the few occasions that Ciro posts on Quora, all content will als
 Some <<wumao,wumaos>>:
 
 * http://archive.is/WzIcg[]: a Han supremacist!
+
+Related posts:
+
+* https://www.reddit.com/r/China/comments/lv0n24/has_quora_been_overrun_with_chinese_propaganda/
 
 [[ptt]]
 ==== PTT Bulletin Board System 批踢踢實業坊
@@ -7772,32 +7827,6 @@ How I find them: <<anti-ccp-info-sources>>.
 * 2019-01 https://www.apnews.com/40f7cf4c0c6e43f18121af93f1e418f7 Microsoft Bing https://www.bing.com/ search engine blocked in China
 * 2019-01 https://www.nytimes.com/2019/01/02/business/china-internet-censor.html interview with Beyondsoft, a company that offers censorship services
 
-[[nine-nine-six-icu]]
-==== 996.ICU
-
-https://github.com/996icu/996.ICU
-
-Repository published in 2019-04 protesting against excessive work hours by Chinese programmers.
-
-The name refers to:
-
-* "996": work from 9AM to 9PM 6 days a week. This is part of a wider tendency of Chinese netizens to use <<internet-number-slang>>
-* "ICU": https://en.wikipedia.org/wiki/Intensive_care_unit[Intensive Care Unit]
-
-Reached 180k stars in a week, and was the second most starred repository as of 2019-10 https://github.com/search?q=stars%3A%3E100&s=stars&type=Repositories[] (https://web.archive.org/web/20191023084929/https://github.com/search?q=stars%3A%3E100&s=stars&type=Repositories[archive])!!!
-
-This is therefore the best example for Chinese tech workers that <<richer,freedom of speech is a good thing>>.
-
-Coverage:
-
-* https://www.reddit.com/r/China/comments/b927sk/tencent_xiaomi_and_others_block_github_page/
-* https://www.reddit.com/r/cscareerquestions/comments/b8t8cc/overworked_chinese_developers_gather_on_github_to/
-
-Other interesting GitHub repositories: <<github-repositories-with-censored-information>>.
-
-.996.ICU logo. https://github.com/996icu[Source].
-image::{china-dictatorship-media-base}/996ICU.png[height=400]
-
 === News 2018
 
 * 2018-08 https://theintercept.com/2018/08/08/google-censorship-china-blacklist/
@@ -10269,6 +10298,15 @@ TODO vs VPN:
 
 * https://superuser.com/questions/1233614/what-is-the-difference-between-shadowsocks-and-openvpn
 
+====== SOCKS
+
+* https://en.wikipedia.org/wiki/SOCKS
+* https://zh.wikipedia.org/wiki/SOCKS
+
+TODO vs VPN
+
+* https://www.quora.com/What-is-the-difference-between-socks-and-a-VPN
+
 [[icp-license]]
 ===== ICP license 非经营性网站备案 (2000)
 
@@ -11009,6 +11047,24 @@ Got bitchslaped by Xi, 3 months disappearance:
 
 * 2021-02-16 https://web.archive.org/web/20210219160944/https://www.wsj.com/articles/china-blocked-jack-mas-ant-ipo-after-an-investigation-revealed-who-stood-to-gain-11613491292 "China Blocked Jack Ma’s Ant IPO After Investigation Revealed Likely Beneficiaries. Well-connected Chinese power players, including some with links to political families that represent a potential challenge to President Xi". Mentioned specifically are Jiang Zhicheng
 * https://www.theguardian.com/business/2021/jan/23/the-strange-case-of-alibabas-jack-ma-and-his-three-month-vanishing-act
+
+[[xiaomi]]
+=== Xiaomi (小米)
+
+* https://en.wikipedia.org/wiki/Xiaomi
+* https://zh.wikipedia.org/wiki/小米集團
+
+News:
+
+* https://www.forbes.com/sites/thomasbrewster/2020/04/30/exclusive-warning-over-chinese-mobile-giant-xiaomi-recording-millions-of-peoples-private-web-and-phone-use/?sh=6cceaf311b2a "Exclusive: Warning Over Chinese Mobile Giant Xiaomi Recording Millions Of People’s ‘Private’ Web And Phone Use".
++
+____
+When he looked around the Web on the device’s default Xiaomi browser, it recorded all the websites he visited, including search engine queries whether with Google or the privacy-focused DuckDuckGo, and every item viewed on a news feed feature of the Xiaomi software. That tracking appeared to be happening even if he used the supposedly private “incognito” mode.
+____
++
+____
+"It’s a backdoor with phone functionality," quips Gabi Cirlig about his new Xiaomi phone. He's only half-joking.
+____
 
 == Chinese censorship companies
 
