@@ -266,7 +266,10 @@ This outputs the rendered HTML, which end users should the pipe into a file:
 xdg-open README.html
 ....
 
-Here's a concrete example: https://github.com/cirosantilli/linux-kernel-module-cheat/commit/082166a360c56990662c715196229016d8806ab3
+Concrete examples:
+
+* https://cirosantilli.com/cirodown/china
+* https://github.com/cirosantilli/linux-kernel-module-cheat/commit/082166a360c56990662c715196229016d8806ab3
 
 TODO: create an Ubuntu PPA and Ruby gem as well.
 
