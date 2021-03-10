@@ -315,6 +315,8 @@ The goal is to put them in a position where they have to choose between either:
 
 but not both, since having both means that they will <<war,start WW3 and destroy humanity>>.
 
+And if they decide to destroy the dictatorship, Ciro wants to help China become <<does-ciro-santilli-hate-china,the most awesome country on Earth>>.
+
 Closely related/identical ideas are <<cute-cat-theory-of-digital-activism>> and <<collateral-freedom>>.
 
 Related attack: <<photobombing-like-attacks>>.
@@ -324,11 +326,11 @@ Related attack: <<photobombing-like-attacks>>.
 
 No.
 
-This is not revenge of any kind.
+This is not a <<ciro-santilli-mother-in-law-jail,revenge>> of any kind.
 
-He knows he is harming you in the short term, and he doesn't like that.
+Ciro knows that he is harming you in the short term, and he doesn't like that.
 
-But he believes that this harm is a necessary means to reach his real goal, which is to destroy the firewall, and the dictatorship.
+But he believes that this harm is a necessary means to reach his real goal, which is to destroy the <<gfw,firewall>>, and the <<dictatorship,dictatorship>>.
 
 Don't you think it is worth a try? Destroying the firewall, would <<why-end-dictatorship,enormously benefit>> not only Chinese programmers, but every single other Chinese person too.
 
@@ -745,6 +747,7 @@ video::LK1Pz8FmryM[youtube,height=400,width=600,start=132]
 
 News coverage:
 
+* 2021-03-04 https://www.thetimes.co.uk/article/china-makes-anal-swab-covid-tests-compulsory-for-foreign-arrivals-mvthjq8c7 "China makes anal swab Covid tests compulsory for foreign arrivals". This is not a criticism to China as the test might be accurate. But it is one of the funniest things I've ever heard.
 * 2020-12-20 https://www.propublica.org/article/leaked-documents-show-how-chinas-army-of-paid-internet-trolls-helped-censor-the-coronavirus "Leaked Documents Show How China's Army of Paid Internet Trolls Helped Censor the Coronavirus" talks about <<wumao>> working during COVID
 * 2020-05-12: https://www.newsweek.com/exclusive-cia-believes-china-tried-stop-who-alarm-pandemic-1503565 CIA people said China stopped the WHO from sounding the alarm from January 24 to January 30, while at the same time stockpiling protection materials
 * <<caixin>> article about how early Coronavirus signs were censored:
@@ -1948,7 +1951,7 @@ But of course as usual: <<censorship,censorship in a dictatorship like China is 
 ."Please enjoy this culturally ethnically religiously and politically correct cartoon responsibly" cartoon by Michael Shaw from the New Yorker (2006) makes a reference to the fact that all humour is a criticism of something, and that excessive political correctness can be used as a way to limit free speech.
 image::{china-dictatorship-media-base}/Please_enjoy_this_politically_correct_cartoon.jpg[height=400]
 
-.https://www.youtube.com/watch?v=BiqDZlAZygU Rowan Atkinson (Mr. Bean) defending freedom of speech in the context of the http://reformsection5.org.uk/[Reform Section 5] campaign to remove all criminalization of insults.
+.https://www.youtube.com/watch?v=BiqDZlAZygU Rowan Atkinson (Mr. Bean) defending freedom of speech in the context of the http://reformsection5.org.uk/[Reform Section 5] campaign to remove all criminalization of insults. The campaigns slogan was "Feel free to insult me!". He then quotes: "The strongest weapon against hateful speech is not repression, it is more speech" from https://obamawhitehouse.archives.gov/the-press-office/2012/09/25/remarks-president-un-general-assembly[an Obama speech]. 
 video::BiqDZlAZygU[youtube,height=400,width=600]
 
 ===== Western society is extremely unequal
@@ -1964,6 +1967,9 @@ And politicians don't really care enough. Partially because:
 But do you really think that further increasing the power concentration as done is China is going to help reduce inequality?
 
 If so, you have been <<stupid,brainwashed beyond reason>>. Increasing the concentration of power <<chinese-politicians-really-care-about-the-chinese-citizens,will obviously make society even more unequal>> and <<corruption,corrupt>>, never less.
+
+.https://www.youtube.com/watch?v=MHFrhIAj0ME Can't get you out of my head - Part 1 (2021) documentary by Adam Curtis for the BBC. This awesome documentary suggests and explains why Western politicians care less and less about the people, and why Western companies have gained more and more power. It also mentions how after China gave up on communism and became a capitalist country, it completley lost any guiding ideal. The West still had the ideal of democracy. But for China, there was only one thing left: money. Our dear <<xi-jinping>> is of course doing his best to instill nationalism into China to fill that void. What could <<war,possible go wrong with that>>?
+video::MHFrhIAj0ME[youtube,height=400,width=600]
 
 [[life-of-brian-1979]]
 ===== Life of Brian (布莱恩的一生, 1979)
@@ -2473,17 +2479,24 @@ ____
 
 Ciro only focus here on negative things to provide content that will <<keyword-attack,activate the Great Firewall>>.
 
+A small poem:
+
 ____
 持华反党 +
-爱国恨党
+爱国恨党 +
+
+Support the Chinese people, oppose the Party +
+Love the country, hate the Party +
 ____
+
+The second sentence well known: https://www.reddit.com/r/HongKong/comments/e8g3qv/爱国恨党love_china_hate_ccp/
 
 [[yuyuan-garden]]
 .Round gate at https://en.wikipedia.org/wiki/Yu_Garden[Yu Garden 豫园] in Shanghai. link:++https://commons.wikimedia.org/wiki/File:Shanghai_-_YuYuan_Gardens_and_Old_Town_(584867794).jpg++[Source].
 image::{china-dictatorship-media-base}/Yuyuan_garden_door.jpg[height=600]
 
 [[chinese-traditional-painting]]
-===== Chinese traditional painting 中国传统绘画
+===== Chinese traditional painting (中国传统绘画)
 
 See also: <<museum>>.
 
@@ -4142,10 +4155,15 @@ Then Ciro created an answer to https://meta.stackexchange.com/questions/286082/d
 
 Ciro then finally updated his profile picture to contain <<xi-pooh-photoshop>>, archive at: https://archive.vn/iV1L8 to test the Winnie-the-Pooh case which people simply refused to answer. Let's see show that goes. As Ciro learned however, only wumaos will continue to complain, and due to hypocrisy their complaints will be ignored.
 
-Other users who publicly went against freedom of speech in that case:
+Other users who publicly went against freedom of speech in that case (in the name of "political correctness"):
 
 * https://meta.stackexchange.com/users/665544/bad-coder ("West") replied at: https://meta.stackexchange.com/questions/361486/can-i-say-on-my-profile-that-i-find-that-an-ex-president-of-a-country-or-other/361495#361495
 * https://meta.stackexchange.com/users/798831/ollie comments, Ciro replies, they delete comment, comments, Ciro reply, they delete comment... Ciro gives up
+* https://meta.stackexchange.com/questions/361486/can-i-say-on-my-profile-that-i-find-that-an-ex-president-of-a-country-or-other?noredirect=1#comment1206900_361486 wants to close as duplicate of uber generic https://meta.stackexchange.com/questions/208551/offensive-profiles-where-to-draw-the-line/208553#208553 and says:
++
+____
+we don't have to host or pay directly or indirectly to support your opinion. That's well established policy"
+____
 
 Freedom of speech in social media is truly threatened by the <<censorship-of-politically-incorrect-speech>>.
 
@@ -4834,7 +4852,9 @@ ____
 
 https://www.quora.com/profile/Ciro-Santilli
 
-Quora is a generally shitty website, with mechanisms that allow <<wumao,wumaos>> to quench freedom of speech.
+Quora is https://cirosantilli.com/quora[a generally shitty website], with mechanisms that allow <<wumao,wumaos>> to quench freedom of speech.
+
+Quora is a major platform for dictatorship-https://en.wikipedia.org/wiki/Astroturfing[astroturfing].
 
 Ironically, as usual, is it also blocked in China:
 
@@ -5723,7 +5743,7 @@ image::{china-dictatorship-media-base}/Falun_Gong_lady_silenced.jpg[height=600]
 image::{china-dictatorship-media-base}/Police_steps_over_Falun_Gong_believer_s_face_in_2000_at_Tiananmen.jpg[height=600]
 
 [[zone-theory]]
-.https://www.youtube.com/watch?v=ClvX7ED8UUI Tim and Eric's Zone Theory. If you want to stop <<falun-gong>>, don't put them in jail like the <<dictatorship,dictators>>. Do it the same way you stop dictators: with <<funny,comedy>>. Otherwise, the dictators remain in power, and <<intolerance,next person in jail, will be you>>.
+.https://www.youtube.com/watch?v=ClvX7ED8UUI https://en.wikipedia.org/wiki/Tim_%26_Eric[Tim and Eric]'s Zone Theory. If you want to stop <<falun-gong>>, don't put them in jail like the <<dictatorship,dictators>>. Do it the same way you stop dictators: with <<funny,comedy>>. Otherwise, the dictators remain in power, and <<intolerance,next person in jail, will be you>>.
 video::ClvX7ED8UUI[youtube,width=600,height=400]
 
 [[aarvoll-shenyun]]
@@ -8548,6 +8568,8 @@ The most interesting thing about all of this, is how Hao's name was completely <
 
 * <<censorship-of-images-in-the-soviet-union>>
 * <<nineteen-eighty-four>> "Every record has been destroyed or falsified" quote
+
+The keyword is clear: https://en.wikipedia.org/wiki/Iconoclasm[iconoclasm] (https://zh.wikipedia.org/wiki/破坏偶像主义[破坏偶像主义])
 
 Some examples:
 
