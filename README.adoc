@@ -192,7 +192,7 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 * https://gitlab.com/cirosantilli/china-dictatorship Maybe some day https://gitlab.cn/ ? :-)
 * https://gitee.com/cirosantilli/china-dictatorship on <<gitee>>, blocked after 12 hours: <<gitee-censorship>>
 * https://bitbucket.org/cirosantilli/china-dictatorship
-* https://git.kiwifarms.net/CrunkLord420/china-dictatorship auto-pull Gitea mirror on https://en.wikipedia.org/wiki/Kiwi_Farms[Kiwi Farms] (a politically incorrect social network website)
+* https://git.kiwifarms.net/CrunkLord420/china-dictatorship auto-pull Gitea mirror on https://en.wikipedia.org/wiki/Kiwi_Farms[Kiwi Farms] (a <<politically-incorrect,politically incorrect>> social network website)
 
 GitHub Pages: https://cirosantilli.com/china-dictatorship trade-offs with https://github.com/cirosantilli/china-dictatorship[]:
 
@@ -1898,7 +1898,7 @@ When a government controls all information to make it look good, and no one can 
 
 It is much better to have some fake news, but also few sources that are likely telling the truth.
 
-<<ciro-santilli>> is also extremely critical of Western social media companies such as Twitter and Facebook which have censored "fake news" from real legitimate accounts or real people, which is a point that Trump has justly criticized in Ciro's opinion.
+<<ciro-santilli>> is also extremely critical of Western social media companies such as <<twitter>> and Facebook which have censored "fake news" from real legitimate accounts or real people, which is a point that Trump has justly criticized in Ciro's opinion.
 
 If it is from a Chinese/Russian botnet, sure, destroy those accounts.
 
@@ -1937,6 +1937,7 @@ Ciro believes without evidence that unfortunately anti-discrimination-hiring law
 ** 2020-05-29 https://www.bbc.co.uk/news/technology-52846679 Twitter "hides Trump tweet for 'glorifying violence'". The people elected that idiot, Twitter leftists have to swallow that.
 ** 2021-01-11 https://www.irishexaminer.com/world/arid-40204808.html "Angela Merkel sees Twitter's cancelling of Donald Trump as 'problematic'"
 
+[[politically-incorrect]]
 ====== Censorship of "politically incorrect speech"
 
 <<ciro-santilli>> strongly believes that this is a problem with Wester social media. For example in <<stack-overflow-forbids-criticizing-the-character-of-genocidal-political-leaders-like-xi-jinping>> Stack Overflow forbade Ciro from saying:
@@ -2726,7 +2727,7 @@ Subs with lots of anti-commie info:
 * https://www.reddit.com/r/tibet/ 3k subs 2020
 * https://www.reddit.com/r/saraba2nd/ (第二新S1市) modded by <<chinatimeline>> TODO title meaning
 * https://www.reddit.com/r/BoycottChina/
-* China Circle Jerk subs (CCJ). TODO: these appear to be politically incorrect subs, but they do seem to allow anti-commit info. As of 2020, they were either banned or private:
+* China Circle Jerk subs (CCJ). TODO: these appear to be <<politically-incorrect,politically incorrect>> subs, but they do seem to allow anti-commit info. As of 2020, they were either banned or private:
 ** https://www.reddit.com/r/CCJ
 ** https://www.reddit.com/r/CCJ2
 
@@ -2773,6 +2774,17 @@ Completely pro-Putin, e.g. removed https://www.reddit.com/r/russia/comments/kd21
 
 * https://t.me/anticcpbase
 * https://t.me/ccp_unmasked see also: <<knowlesys>>
+
+===== Twitter
+
+Lists by <<ciro-santilli>>:
+
+* https://twitter.com/i/lists/221848102 anti-ccp
+* https://twitter.com/i/lists/235201419 pro-ccp
+
+After Trump was unfairly banned from Twitter, his social media team created an amazing "Chongald Xrump" account <<what-should-western-countries-do-about-china,pretending ridiculously to be a CCP PR person>>, it had really good posts.
+
+But that amazing account was banned: https://babylonbee.com/news/trump-sneaks-back-on-twitter-by-disguising-self-as-pr-rep-for-chinese-communist-party Twitter is <<politically-incorrect,trying really hard>> to beat the <<censorship,CCP at its own game>>.
 
 ==== Where can I find good words for a keyword attack?
 
@@ -4156,7 +4168,7 @@ He thought more people on Stack Overflow would have sided with him and favored s
 
 But this event made him notice that people in Stack Overflow simply didn't push back against Ciro's anti Xi Jinping campaign because they don't know who the fuck Xi Jinping is, or they don't care, or they are completely hypocrite and allow criticizing Xi Jinping but not Trump.
 
-But they do know who Trump is, and "offending Trump" makes their feeble little feelings be hurt, and they must maintain their sacred "<<censorship-of-politically-incorrect-speech,political correctness>>" at all costs, even when talking about politicians. Including that the cost of freedom.
+But they do know who Trump is, and "offending Trump" makes their feeble little feelings be hurt, and they must maintain their sacred "<<politically-incorrect,political correctness>>" at all costs, even when talking about politicians. Including that the cost of freedom.
 
 This therefore morally justifies the take-down attempts made by hundreds of <<wumao>>s against Ciro's anti Xi Jinping content.
 
@@ -4197,7 +4209,7 @@ ____
 we don't have to host or pay directly or indirectly to support your opinion. That's well established policy"
 ____
 
-Freedom of speech in social media is truly threatened by the <<censorship-of-politically-incorrect-speech>>.
+Freedom of speech in social media is truly threatened by the <<politically-incorrect>>.
 
 Related issue: https://github.com/cirosantilli/china-dictatorship/issues/198
 
@@ -8054,7 +8066,7 @@ image::{china-dictatorship-media-base}/Tiananmen_students_sitting.jpg[height=400
 .Who said there weren't some cute girls amongst the protesters? Photo taken on 1989-05-19 by AP Photo/Sadayuki Mikami. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_cute_girls.jpg[height=500]
 
-.Happy protesters surround army convoy of 4,000 not so happy soldiers on 1989-05-20. Ciro can't help but to think the politically incorrect idea that the military <<uneducated-masses,look considerably younger and poorer/less uneducated than the Beijing masses>>. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
+.Happy protesters surround army convoy of 4,000 not so happy soldiers on 1989-05-20. Ciro can't help but to think the <<politically-incorrect,politically incorrect>> idea that the military <<uneducated-masses,look considerably younger and poorer/less uneducated than the Beijing masses>>. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
 image::{china-dictatorship-media-base}/Tiananmen_troop_truck_night.jpg[height=500]
 
 .A young woman is caught between civilians and Chinese soldiers, who were trying to remove her from an assembly near the Great Hall of the People in Beijing, on 1989-06-03. AP Photo/Jeff Widener. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
@@ -11720,7 +11732,7 @@ Western people don't know what good Chinese food is, so if you are not in a plac
 
 Beware of restaurant owner changes: if the menu looks a bit different, it has likely happened.
 
-This is politically incorrect, but here goes: if the place looks as if it is maintained by more recent immigrants, and looks more modern, it is more likely to be good. There are however some venerable older uncles who have cooked well their entire lives and are still fine. Things tend to water down across generations, and there was likely not enough real Chinese clientele for them to serve real Chinese food and survive in the past.
+This is <<politically-incorrect,politically incorrect>>, but here goes: if the place looks as if it is maintained by more recent immigrants, and looks more modern, it is more likely to be good. There are however some venerable older uncles who have cooked well their entire lives and are still fine. Things tend to water down across generations, and there was likely not enough real Chinese clientele for them to serve real Chinese food and survive in the past.
 
 If a restaurant advertises itself as "Asian", it is less likely to be very good.
 
@@ -12859,7 +12871,7 @@ Mnemonic: if you **do not have** any **water** (<<水>>) for your **coffee** (<<
 [[冖]]
 ==== 冖 (mi4, hajib [Muslim female head scarf])
 
-Notes: the Wikipedia Kangxi is "cloth cover". Ciro guesses this was originally something to do with food covering. But let's just go with hajib which will allow for easy politically incorrect mnemonics. "Crown" from <<冠>> would also be another good one, but we had already used crown for <<龶>>.
+Notes: the Wikipedia Kangxi is "cloth cover". Ciro guesses this was originally something to do with food covering. But let's just go with hajib which will allow for easy <<politically-incorrect,politically incorrect>> mnemonics. "Crown" from <<冠>> would also be another good one, but we had already used crown for <<龶>>.
 
 Characters:
 
