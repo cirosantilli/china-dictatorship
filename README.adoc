@@ -2885,7 +2885,7 @@ ____
 See also: <<western-democracies-have-invaded-other-countries-and-crushed-separatism>>.
 
 [[taiwan]]
-==== Taiwan 台湾 Republic of China 中華民國
+==== Taiwan (Republic of China, 台湾, 中華民國)
 
 * https://en.wikipedia.org/wiki/Taiwan
 * https://zh.wikipedia.org/wiki/中华民国
@@ -2993,6 +2993,29 @@ image::{china-dictatorship-media-base}/Taiwan_we_are_China_cartoon.jpg[height=60
 video::vTqZ9xrxhHk[youtube,height=400,width=600]
 
 See also: <<photobombing-like-attacks>>.
+
+===== Hololive
+
+Hololive is a https://en.wikipedia.org/wiki/Virtual_YouTuber[VTuber] management company from Japan.
+
+<<ciro-santilli>> didn't know WTF a VTuber was before coming across this event, he's too old for that.
+
+The key event was 2020-09-28 https://www.taiwannews.com.tw/en/news/4018580 "Japanese VTubers banned for mentioning Taiwan during livestream":
+
+____
+During their most recent livestreams, Hololive Japanese VTubers Kiryu Coco and Akai Haato announced the countries where they have received the most followers based on YouTube analytics. One of the countries that they highlighted was Taiwan because it accounted for seven percent of viewers and they displayed the flag of Taiwan to represent the nation.
+____
+
+therefore joining the long list of <<western-companies-that-comply-with-chinese-censorship-requests>>.
+
+This event was clarified to Ciro at: https://github.com/cirosantilli/china-dictatorship/issues/157 and is tracked under https://github.com/cirosantilli/china-dictatorship/labels/vtuber
+
+Interestingly, this led to a large number of <<shitpost>>/spam on https://github.com/cirosantilli/china-dictatorship/issues[], culminating notably at https://github.com/cirosantilli/china-dictatorship/issues/191[], and many of them seemed to involve:
+
+* https://en.wikipedia.org/wiki/Pixiv[Pixiv], which is "a Japanese online community for artists" which likely has lots of VTubers,
+* Japanese language, although one of the very extremely erudite and trustworthy comments at: https://boards.4channel.org/vt/thread/1403290/really-makes-you suggests that the Japanese at there is completely broken, and it is likely just a Chinese person using Google Translate
+
+It is however hard to understand the rationale of such posts.
 
 ===== Internal politics of Taiwan
 
@@ -3720,6 +3743,7 @@ See also: <<western-companies-that-sell-censorship-technology-to-dictatorships>>
 
 Some hell known companies and events:
 
+* 2020 <<hololive>>
 * 2020 Outfront Media, see: <<lebron-james-opposes-hong-kong-anti-extradition-bill-protests-2019>>
 * https://en.wikipedia.org/wiki/HSBC[HSBC]
 ** 2020-06 https://en.wikipedia.org/wiki/HSBC#Support_for_China's_Security_Law_for_Hong_Kong_(2020)[Support for China's Security Law for Hong Kong (2020)]
@@ -4091,9 +4115,15 @@ ____
 
 ==== Stack Overflow
 
-This is where <<ciro-santilli>> started his <<keyword-attack>> originally in 2015 as explained at: <<why-did-ciro-santilli-start-his-keyword-attack>>.
+Stack Overflow is where <<ciro-santilli>> started his <<keyword-attack>> originally in 2015 as explained at: <<why-did-ciro-santilli-start-his-keyword-attack>>.
 
-The current consensus says that keyword attacks are allowed:
+For non-programmers, Stack Overflow is by far the leading programmer question and answer forum of the Internet.
+
+A programmer's daily job involves asking Google about 50 times a day "how to do X", and 90% of the time or more the best answer will be found on the Stack Overflow result that will be one of the top 3 results.
+
+This makes Stack Overflow a fundamental tool of every programmer's daily jobs.
+
+The current community consensus says that keyword attacks are allowed:
 
 * https://meta.stackoverflow.com/questions/267368/are-political-avatars-and-profiles-ok
 * https://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam
@@ -4107,7 +4137,6 @@ However, you can't say "Public figure X is disgusting as a person" so <<wumao>>s
 Reposts:
 
 * https://twitter.com/cirosantilli/status/1365409005561147397
-* https://www.facebook.com/cirosantilli/posts/4019779304708053
 * https://www.reddit.com/r/DeclineIntoCensorship/comments/lt8ij5/in_stack_overflow_if_is_currently_not_allowed_to/
 * https://www.reddit.com/r/FreeSpeech/comments/lt92ni/in_stack_overflow_if_is_currently_not_allowed_to/
 * https://www.reddit.com/r/China/comments/lta1f8/if_a_politician_has_committed_genocide_can_i_say/
@@ -8208,7 +8237,7 @@ image::{china-dictatorship-media-base}/Lego_Tank_Man.png[height=400]
 .https://en.wikipedia.org/wiki/Final_Fantasy_VI[Final Fantasy 6] battle screen style depiction of tank man by Cody Walton by it8Bit. https://www.it8bit.com/post/25860395424/unknown-rebel[Source].
 image::{china-dictatorship-media-base}/Tank_Man_FF6.jpg[height=600]
 
-.Tank man drawing by Ciro Santilli. The only CC BY-SA 4.0 representaion of Tank Man found on the web? And the prettiest. Created manually with GIMP. This can be very useful e.g. if you are posting Stack Overflow answers about image processing, e.g.: https://stackoverflow.com/questions/20737061/merge-images-side-by-sidehorizontally/63575228#63575228
+.Tank man drawing by Ciro Santilli. The only CC BY-SA 4.0 representaion of Tank Man found on the web? And the prettiest. Created manually with GIMP. This can be very useful e.g. if you are posting <<stack-overflow>> answers about image processing, e.g.: https://stackoverflow.com/questions/20737061/merge-images-side-by-sidehorizontally/63575228#63575228
 image::{china-dictatorship-media-base}/Tank_Man_drawing_by_Ciro_Santilli_CC_BY_SA.png[height=500]
 
 [[tank-man-song]]
@@ -8254,7 +8283,7 @@ To finish the One Party Dictatorship +
 Everyone has a share of the country +
 
 岂容他们独吞 +
-How can we put up with them taking more than their fair share? (岂容 1, 2) +
+How can we put up with them taking more than their fair share? (岂容) +
 
 自由天赋权利 +
 Free natural rights +
@@ -8278,7 +8307,7 @@ And who are the enemies of History? +
 Your guns were made by the People +
 
 你们的俸禄是民脂民膏 +
-Your salaries were paid by the people's taxes (民脂民膏 is a poetic way of putting it that references historical events apparently 1) +
+Your salaries were paid by the people's taxes (民脂民膏 is a poetic way of putting it that references historical events apparently) +
 
 为什么枪口对着人民 +
 So why are the guns being pointed at the people? +
@@ -10699,7 +10728,7 @@ Sample videos:
 * https://hongkongfp.com/2021/01/13/uncle-roger-apologises-and-deletes-video-featuring-fellow-youtube-star-who-criticised-china/ "'Uncle Roger' apologises and deletes video featuring fellow YouTube star who criticised China"
 * https://www.bbc.co.uk/news/world-asia-china-55651798 "Uncle Roger comedian deletes video with China critic"
 
-Nigel had published a collaboration video called "Uncle Roger Review UGLIEST DUMPLING EVER" with another YouTubber called https://www.youtube.com/channel/UCjkGXhZsu5H64fWuNQNf1Xw[Mikey Chen], who unknown to Nigel, is a somewhat discreet <<falun-gong>> believer (https://www.youtube.com/watch?t=315&v=nD6792YoOmY[source])
+Nigel had published a collaboration video called "Uncle Roger Review UGLIEST DUMPLING EVER" with another YouTuber called https://www.youtube.com/channel/UCjkGXhZsu5H64fWuNQNf1Xw[Mikey Chen], who unknown to Nigel, is a somewhat discreet <<falun-gong>> believer (https://www.youtube.com/watch?t=315&v=nD6792YoOmY[source])
 
 The video then removed solely because of Mikey's believes expressed elsewhere. The apology on Weibo: https://weibo.com/7231497816/JCQPH5vzK[] Excerpt:
 
