@@ -14,7 +14,17 @@ Forbidden:
 
 -   generate lots of notifications that don't teach people anything new.
 
-    If you want to shitpost, fine, but keep the number of issues and comments small, and try to be creative.
+    Notably, Ciro will follow this repository at all times, and therefore creating new issues mean generating a notification to Ciro.
+
+    If you want to create one shitpost, even if boring and stupid to vent your rage, fine, Ciro doesn't have any problem with that and is happy to help.
+
+    You can swear as much as you want on that post, no problem.
+
+    But if you start creating lots of boring shitposts, you are in danger of getting blocked.
+
+    As a rule of thumb, three immediate idiotic new issues gets you blocked.
+
+    So instead of creating multiple boring shitposts, please just edit your initial boring shitpost, or add new comments there.
 
     People don't have that much time to waste.
 

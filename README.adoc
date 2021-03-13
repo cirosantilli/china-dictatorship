@@ -1958,6 +1958,9 @@ image::{china-dictatorship-media-base}/Please_enjoy_this_politically_correct_car
 .https://www.youtube.com/watch?v=BiqDZlAZygU Rowan Atkinson (Mr. Bean) defending freedom of speech in the context of the http://reformsection5.org.uk/[Reform Section 5] campaign to remove all criminalization of insults. The campaigns slogan was "Feel free to insult me!". He then quotes: "The strongest weapon against hateful speech is not repression, it is more speech" from https://obamawhitehouse.archives.gov/the-press-office/2012/09/25/remarks-president-un-general-assembly[an Obama speech]. 
 video::BiqDZlAZygU[youtube,height=400,width=600]
 
+.https://www.youtube.com/watch?v=MNjYSns0op0 Munk Debate on Political Correctness (2018) features Stephen Fry and Jordan Peterson speaking against political correctness. Those dudes are awesome. https://youtu.be/rJOMYEXK6cs?t=150 summarizes it well.
+video::MNjYSns0op0[youtube,height=400,width=600]
+
 ===== Western society is extremely unequal
 
 Exactly! And this is something <<ciro-santilli>> fights daily against through his open source contributions.
@@ -2907,6 +2910,10 @@ If you are interested in Taiwan, one important programmer forum is: <<ptt>>.
 Some interesting links:
 
 * https://youtube.com/watch?v=6aZkM_ZLvjE?t=50 (zh) "【這就是科學｜柯文哲】EP3／從癌症治療看政治！除惡務盡→除惡「勿」盡？「與敵共存」才是生存之道！", 柯文哲, 2019-06-26. Ko Wen-je, the mayor of Taipei 台北 and a professor in medicine, applies the concept of isolation and mutation in evolution to Taiwan and China
+
+News:
+
+* 2021-03-10 https://web.archive.org/web/20210310210519/https://www.bloomberg.com/news/articles/2021-03-10/asia-shoppers-snap-up-taiwan-pineapples-in-defiance-of-china-ban "Shoppers in Asia Snap Up Taiwan’s Pineapples in Defiance of China’s Ban". In 2018 there were fake news about that apparently: https://www.taiwannews.com.tw/en/news/3423317 but now it became true.
 
 [[one-china-policy]]
 ===== One China policy 一个中国
@@ -5789,6 +5796,9 @@ image::{china-dictatorship-media-base}/Police_steps_over_Falun_Gong_believer_s_f
 [[zone-theory]]
 .https://www.youtube.com/watch?v=ClvX7ED8UUI https://en.wikipedia.org/wiki/Tim_%26_Eric[Tim and Eric]'s Zone Theory. If you want to stop <<falun-gong>>, don't put them in jail like the <<dictatorship,dictators>>. Do it the same way you stop dictators: with <<funny,comedy>>. Otherwise, the dictators remain in power, and <<intolerance,next person in jail, will be you>>.
 video::ClvX7ED8UUI[youtube,width=600,height=400]
+
+.https://www.youtube.com/watch?v=FYJ1dbyDcrI https://en.wikipedia.org/wiki/Tim_%26_Eric[Tim and Eric]'s The Universe. Basically the same as <<zone-theory>> but from the believer's perspective. Source a popular mind blown meme: https://knowyourmeme.com/memes/mind-blown
+video::FYJ1dbyDcrI[youtube,width=600,height=400]
 
 [[aarvoll-shenyun]]
 .https://youtube.com/watch?v=IAQ14AnAsmU YouTubber under pseudonym "Aarvoll" (TODO full real name, face shown in channel all the time) tells about his experience playing trumpet for Shen Yun in 2013 as a non-believer and Falun Gong in general. Reading the sacred books and doing Falun Gong exercises were mandatory. He also talks about <<flg-organized>>. Ciro agrees/finds what he says convincing. In one interesting anecdote, he tells how although Li Hongzhi claims to be a God, he looked like an average slightly overweight dude, and had a trumpet since he used to play it, but couldn't really play it because he hadn't practiced in so long. He also comments on the obvious fact that Li does not speak English very well, e.g. on the Shen Yun tour bus he was there one day answering questions, and a translator was needed.
