@@ -474,6 +474,16 @@ https://www.theregister.com/2019/05/10/amazon_backtracks_on_s3/ clarifies that o
 
 the second of which can be easily blocked by domain, but the first can't, and how amazon was planning on killing the first option.
 
+===== Dual-use technology
+
+* https://en.wikipedia.org/wiki/Dual-use_technology
+
+Normally, the term "dual-use technology" is used in the context of blocking exports that can be used either for peace, but also for war.
+
+However, as mentioned https://twitter.com/Dogbert_Catbert/status/1372467670826684419[by a Twitter friend], a <<keyword-attack>> for Freedom of Speech is also essentially a dual-use matter.
+
+* <<western-companies-that-sell-censorship-technology-to-dictatorships>>
+
 [[meant-to-be-used]]
 === Politics should not be posted in technical websites such as GitHub or Stack Overflow 不应该在技术网站例如Stack Overflow和GitHub讨论政治
 
@@ -1590,6 +1600,9 @@ video::pc6DP1jNEec[youtube,height=400,width=600,start=2086]
 
 It is amusing to see Soviet series criticizing dictatorships, given that the Soviet Union was itself a major dictatorship!
 
+.https://youtu.be/4xoM6-1SWl4 The Living Dead Eposed 1: On the Desperate Edge of Now by Adam Curtis describes how the <<nazi,Nazis>>, disilusioned by both <<western-democracies-are-not-perfect,democracy>> and communism, built Nationalism by creating a mythical past. In Nationalism, the individuals would <<flg-cult,surrenders themselves to the State>>.
+video::4xoM6-1SWl4[youtube,height=400,width=600,start=191]
+
 [[most-chinese-people-like-their-dictatorship]]
 ===== Most Chinese people like their dictatorship 中国大众支持他们的独裁
 
@@ -1891,6 +1904,7 @@ See also:
 
 * <<richer>>
 * <<intolerance>>
+* https://en.wikipedia.org/wiki/Overton_window[Overton window]
 
 ====== Fake news
 
@@ -2233,9 +2247,9 @@ Avoid slangs, otherwise Ciro might not have patience to Google your useless slan
 
 Of course, if you have to read this, you likely are not going to say anything useful in the first place, so not reading your post is likely fine, just make sure to mark it as a <<shitpost>> if you don't want Ciro to think you are a complete idiot.
 
-Using slangs makes some people feel smart due their advanced knowledge of a specific subculture, or makes them feel part of that subculture to gather allies, or they just want to waste Ciro's time.
+Using slangs makes some people feel smart due their advanced knowledge of a specific subculture, or makes them feel part of that subculture to gather allies. I.e., it is a form of https://en.wikipedia.org/wiki/Shibboleth[shibboleth]. It mainly comes down to a way of avoiding any rational conversation about China's obvious problems by highlighting <<not-chinese>>.
 
-It mainly comes down to a way of avoiding any rational conversation about China's obvious problems by highlighting <<not-chinese>>.
+Or maybe they just want to waste Ciro's time.
 
 Such idiots don't see however that every major slang is Googleable, and that every overly obscure slang is already not understandable by a large part of the Chinese population, and won't be understood by anybody in 5 years, so that you are wasting your time writing this gibberish. But since you are an idiot, it's not like you have anything better to do with your time, so maybe it doesn't matter.
 
@@ -3117,6 +3131,11 @@ Also includes the <<uyghurs-for-sale>> report.
 
 News:
 
+* 2021-03-20 https://www.amnesty.org/en/latest/research/2021/03/the-nightmare-of-uyghur-families-separated-by-repression/ "The nightmare of Uyghur families separated by repression"
++
+____
+Although it is often extremely difficult, if not impossible, for Uyghurs overseas to receive information about the whereabouts of their family members, some parents have received bits and pieces of information in the form of coded words, or photos and videos, from relatives and friends that make them believe their children were taken to state-run “orphan camps” or boarding schools.
+____
 * 2020-10-28 <<global-times>> https://www.globaltimes.cn/content/1203861.shtml in response to https://en.wikipedia.org/wiki/Murder_of_Samuel_Paty[The Murder of Ssamuel Paty] clarifies that the best way to counter terrorism is preventive mass incarceration and brainwashing: "Eradicating extremism is a huge challenge of governance for all countries. China has proactively explored feasible ways in its Xinjiang governance and generated positive outcomes."
 * 2020-10-17 (paywall) https://www.economist.com/china/2020/10/17/how-xinjiangs-gulag-tears-families-apart "How Xinjiang's gulag tears families apart". "So many parents have been locked up that officials struggle to cope with the left-behind children"
 * 2020-09-19 https://www.scmp.com/news/china/politics/article/3101986/china-claims-vocational-training-given-nearly-13-million-people "Chinese authorities "indirectly" confirm the scale of the camps. China claims 1.3 million Xinjiang residents given 'vocational training' each year"
@@ -3213,7 +3232,7 @@ Note that Muhammad is incredibly popular in Islamic countries, and thought to be
 It is so prevalent, that it is often shortened to just "Md." and people are just called by their second name to reduce ambiguity: https://en.wikipedia.org/wiki/Arabic_name#Ism
 * 2017-04 https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html
 +
-.Image of prisoners wearing blue sitting down in Xinjiang concentration camp, with some prisoners identified to indicate that they are not criminals but rather detained purely for political reasons. https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[Source].
+.Image of prisoners wearing blue sitting down in Xinjiang concentration camp, with some prisoners identified to indicate that they are not criminals but rather detained purely for political reasons. A sixth one was https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[identified in another report]. https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[Source].
 image::{china-dictatorship-media-base}/Xinjiang_prisoners_sitting_identified.jpeg[height=400]
 
 [[uyghurs-for-sale]]
@@ -3646,6 +3665,8 @@ For university espionage in particular see: <<university-espionage>>.
 
 Some Chinese spy stories:
 
+* 2020-03-20 Tarmo Kõuts from Estonia
+** https://news.err.ee/1608148489/court-sentences-estonian-marine-scientist-to-prison-for-spying-for-china "Court sentences Estonian marine scientist to prison for spying for China"
 * 2020-12-25 https://in.news.yahoo.com/detention-10-chinese-spies-afghanistan-040901520.html "Detention of 10 Chinese spies in Afghanistan leaves Beijing red-faced" TODO better source.
 * 2020-12-09 Christine Fang https://www.axios.com/china-spy-california-politicians-9d2dfb99-f839-4e00-8bd8-59dec0daf589.html "Exclusive: Suspected Chinese spy targeted California politicians". In 2015, she was fucking some politicians and infiltrating parties, but as suspicions arose, Beijing likely called her back.
 * 2020-09-21 Baimadajie Angwang
@@ -3769,9 +3790,6 @@ Some hell known companies and events:
 * https://en.wikipedia.org/wiki/Bloomberg_L.P.[Bloomberg L.P.]
 ** 2020-02 https://theintercept.com/2020/02/18/mike-bloomberg-lp-nda-china/ "When Bloomberg News's Reporting on China Was Challenged, Bloomberg Tried to Ruin Me for Speaking Out"
 * 2019-12 Shutterstock implements censorship for searches from China https://techcrunch.com/2019/12/08/in-wake-of-shutterstocks-chinese-censorship-american-companies-need-to-relearn-american-values/
-* LinkedIn
-** 2019-01-04 https://www.scmp.com/news/china/article/2180620/linkedin-adhering-beijings-rules-censors-chinese-profile-page-us-based "LinkedIn reverses course after censoring Chinese profile page of US-based human rights activist Zhou Fengsuo", see also: <<zhou-fengsuo>>
-** 2014-06-04 https://money.cnn.com/2014/06/04/technology/linkedin-china-censorship/ "LinkedIn draws fire for China censorship" mentions: "Some LinkedIn (LNKD) users have received emails from the company in recent days informing them that their posts will not be shown in mainland China."
 * Apple
 ** https://applecensorship.com App Store monitoring by <<greatfire>>, source: https://github.com/greatfire/applecensorship
 ** 2020-03-01 https://techcrunch.com/2020/03/01/china-roundup-apple-closes-app-store-loophole/ "China Roundup: Apple closes a 4-year-old App Store loophole"
@@ -3794,6 +3812,23 @@ image::{china-dictatorship-media-base}/Xi_Apple.jpg[height=400]
 
 .https://www.youtube.com/watch?v=V4WBsahU3X4 https://en.wikipedia.org/wiki/Stephen_Colbert[Stephen Colbert] comments in 2015 on how American films make a good image of China to be allowed in China by censors to increase sales.
 video::V4WBsahU3X4[youtube,height=400,width=600]
+
+===== LinkedIn
+
+They have a <<anonymous-accounts-ban>> policy:
+
+* https://www.linkedin.com/help/linkedin/answer/28422/names-allowed-on-profiles you have to use your real name
+* https://www.linkedin.com/help/linkedin/topics/6042/6059/430 you have to use your real photo
+
+Extremelly dictatorial, we should test other approaches, e.g. background image, and <<copypasta>> on about.
+
+* 2021-03-11 https://edition.cnn.com/2021/03/11/tech/linkedin-china-microsoft-intl-hnk/index.html "LinkedIn suspends new sign-ups in China":
++
+____
+We're a global platform with an obligation to respect the laws that apply to us, including adhering to Chinese government regulations for our localized version of LinkedIn in China," LinkedIn added. The company declined to elaborate on which local law it was examining.
+____
+* 2019-01-04 https://www.scmp.com/news/china/article/2180620/linkedin-adhering-beijings-rules-censors-chinese-profile-page-us-based "LinkedIn reverses course after censoring Chinese profile page of US-based human rights activist Zhou Fengsuo", see also: <<zhou-fengsuo>>
+* 2014-06-04 https://money.cnn.com/2014/06/04/technology/linkedin-china-censorship/ "LinkedIn draws fire for China censorship" mentions: "Some LinkedIn (LNKD) users have received emails from the company in recent days informing them that their posts will not be shown in mainland China."
 
 ===== Chinese interference in Western media
 
@@ -4443,7 +4478,7 @@ Non-information but also interesting:
 
 * https://github.com/lurongkai/anti-baidu
 
-TODO evaludate:
+TODO evaluate:
 
 * https://github.com/sky8964/home
 
@@ -7547,6 +7582,45 @@ Mentions <<xi-jinping>>'s brother-in-law https://en.wikipedia.org/wiki/Deng_Jiag
 
 See also <<ciro-santilli>>'s answer to https://www.quora.com/What-is-the-net-worth-of-Xi-Jinping/answer/Ciro-Santilli[What is the net worth of Xi Jinping?] answer on <<quora>>.
 
+===== Foreign citizenship of Xi Jinping's family
+
+<<li-hongzhi,Cult leaders>> hate having <<li-hongzhis-family,their families examined>>. So let's do it.
+
+TODO confirm: https://www.reddit.com/r/China/comments/c20xf3/almost_every_members_in_president_xis_family/ from <<reddit>>.
+
+One Redditor https://www.reddit.com/r/China/comments/c20xf3/almost_every_members_in_president_xis_family/ergsu6v/?utm_source=reddit&utm_medium=web2x&context=3[translated]:
+
+* Xi's eldest sis - Canadian
+* Xi's 2nd sis - Australian
+* Xi's younger bro - Australia
+* Xi's daughter - American. Really???
+* Hu's daughter - American
+* Jiang's grandchild - American
+* Deng's son - American
+* Deng's grandchild - American
+* Mao's grandchild - American
+
+====== Xi Mingze (Xi Jinping's daughter, 习明泽)
+
+https://en.wikipedia.org/wiki/Xi_Mingze
+https://zh.wikipedia.org/wiki/习明泽
+
+Went to Harvard from 2010 to 2014 under pseudonym, apparently Xiao Muzi (小木子).
+
+The news was apparently broken in 2012 by the UK tabloid Daily Mail: https://www.dailymail.co.uk/news/article-2234651/Xi-Jinping-Chinas-new-Princess--daughter-Communist-president-studying-quietly-Harvard.html
+
+https://www.businessinsider.com/xi-mingze-harvard-article-goes-viral-2012-11 mentions:
+
+____
+The Chinese elite is no doubt keen to avoid questions about how exactly Xi Jinping can afford his daughters fees. Officially, his salary is less than $13,000 a year, and Xi's circle has been remarkably cagey about reports of his family's true wealth before.
+____
+
+plus 24-hour bodyguards. <<panama-papers>> comes to mind.
+
+https://www.thefamouspeople.com/profiles/xi-mingze-16091.php says birthday June 27, 1992.
+
+https://answersafrica.com/meet-xi-mingze-xi-jinpings-daughter-is-she-married-where-is-she-now.html gives some public appearances, e.g. in New York in 2018.
+
 [[xi-jinping-memes]]
 ==== Xi Jinping memes 习近平模因
 
@@ -10072,7 +10146,7 @@ To other dictatorships:
 * 2009: https://en.wikipedia.org/wiki/Forcepoint[Forcepoint], previously Websense
 ** claims on Wikipedia: https://en.wikipedia.org/wiki/Forcepoint#Censorship
 
-In 2019, the European Union was considering making stricter laws about cyber surveillance exports, to include more technologies that can be used either for Censorship or other non-evil applications (dual-use), <<what-should-western-countries-do-about-china,kudos to them>>:
+In 2019, the European Union was considering making stricter laws about cyber surveillance exports, to include more <<dual-use-technology>>, so <<what-should-western-countries-do-about-china,kudos to them>>:
 
 * https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI%282016%29589832
 * https://ec.europa.eu/trade/import-and-export-rules/export-from-eu/dual-use-controls/index_en.htm
@@ -10420,6 +10494,10 @@ Ahh, this is a perfect excuse to delete all <<wumao>> comments!
 * https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/
 * https://advox.globalvoices.org/2017/08/27/china-to-ban-anonymous-online-comments-blacklist-users/
 
+Related:
+
+* <<linkedin>> requires you to use the real username and photo
+
 [[cac]]
 ===== Cyberspace Administration of China (CAC, 国家互联网信息办公室)
 
@@ -10475,7 +10553,7 @@ ____
 
 so yes, attacking the party and major policies is illegal in China, big news, right? "Involved in attacking the party and state system and major policies" is then one of the categories in the report page.
 
-Soon after the previous events in 2020-09-08, anaytics got a hit from http://openurls.com.cn/ to https://cirosantilli.com/china-dictatorship[]. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of https://www.openallurls.com/[] but with an <<icp-license>> :-) The 2020-10-14 hit from http://jbcz.12377.cn was followed by another hit from http://openurls.com.cn/[], further reinforcing that this is part of their review procedure. 3 more hits on `/` and `/ciro-santilli` on 2020-02-22 after pinging a few people on https://github.com/zaohmeing/21- issues.
+Soon after the previous events in 2020-09-08, anaytics got a hit from http://openurls.com.cn/ to https://cirosantilli.com/china-dictatorship[]. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of https://www.openallurls.com/[] but with an <<icp-license>> :-) The 2020-10-14 hit from http://jbcz.12377.cn was followed by another hit from http://openurls.com.cn/[], further reinforcing that this is part of their review procedure. 3 more hits on `/` and `/ciro-santilli` on 2020-02-22 after pinging a few people on https://github.com/zaohmeing/21- issues. Another hit 2021-03-19 to https://cirosantilli.com[], unknown cause.
 
 Other report websites:
 
@@ -11331,6 +11409,46 @@ Backlinks to this page:
 
 * 2020-06-03 https://www.mohu.rocks/article/2227 (https://web.archive.org/web/20200606065812/https://www.mohu.rocks/article/2227[archive]) "专门开一个帖子，以后会把从各处搜刮来的六四学潮的视频、历史、文章之类放在这" (I'm creating this post to collect all the videos, history, articles, etc. that can be found anywhere about the <<tiananmen,Tiananmen Square protests>>)
 ** Then one of the replies by "习羊羊与灰战狼" was "link:https://github.com/cirosantilli/china-dictatorship[] "提供一个很全的链接，几乎可以算是反共手册。里面的4.7是谈六四的" (Here is one very complete link, it could almost be considered an anti-CCP manual. Section 4.7 of that page is about Tiananmen.) Ciro liked the sound of that very much :-) TODO this also appears on something related to <<terminus2049>>: https://2047.name/e/76182458
+
+== Forums with anti-CCP information in Chinese
+
+In other sections:
+
+* <<backlinks>>
+* <<github-repositories-with-censored-information>>
+
+[[esu-wiki]]
+=== Esu Wiki (惡俗維基)
+
+https://zh.wikipedia.org/wiki/惡俗維基
+
+Mirror working as of 2021: https://esu.dog/
+
+Anti-<<ccp>>, doxxing friendly wiki.
+
+At some point they forbade discussion of politics there, likely due to some prosecution case, and officially forked into <<zhina-wiki>>, where politics is encouraged, presumably under better opsec.
+
+[[zhina-wiki]]
+==== Zhina Wiki (支纳维基)
+
+Apparently addresses were:
+
+* http://zhina.wiki/
+* http://zhina.red/ this appears to be the one that lasted longer
+
+but both down as of March 2021.
+
+Dissidents, you have to learn to use Tor Onion Services!!! Doxing, even of evil people, is still normally taken down on the West, so there is no other choice!
+
+<<wayback-machine>> has excluded both of the websites for some reason:
+
+* https://web.archive.org/web/20190805183459/https://zhina.red/index.html
+* https://web.archive.org/web/20190903104616/https://www.zhina.wiki/首页
+
+but <<archive-today>> hasn't:
+
+* https://archive.is/Z8RM9
+* https://archive.is/znasL
 
 == Other sections
 
