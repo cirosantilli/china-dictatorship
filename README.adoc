@@ -237,6 +237,15 @@ python3 -m pip install --user --upgrade china-dictatorship
 china-dictatorship.py > README.html
 ....
 
+Like NPM, this will also have Chinese mirrors that will need to be censored by their admins ovrview https://titanwolf.org/Network/Articles/Article?AID=25a20c20-c97b-4bfe-af67-760861343658 :
+
+* http://pypi.douban.com/simple/china-dictatorship/ vs http://pypi.douban.com/simple/numpy both up March 2021
+* http://mirrors.aliyun.com/pypi/simple/china-dictatorship/ vs http://mirrors.aliyun.com/pypi/simple/numpy both down March 2021 but in a different way, so maybe it was censored already
+* http://pypi.mirrors.opencas.cn/simple/china-dictatorship vs http://pypi.mirrors.opencas.cn/simple/numpy both down March 2021
+* http://pypi.v2ex.com/simple/china-dictatorship vs http://pypi.v2ex.com/simple/numpy both down March 2021
+* https://pypi.mirrors.ustc.edu.cn/simple/china-dictatorship vs https://pypi.mirrors.ustc.edu.cn/simple/numpy both up March 2021
+* reference: https://pypi.org/simple/china-dictatorship/ vs https://pypi.org/simple/numpy/
+
 We later found on Google by chance that libraries.io picked it up and rendered the README.adoc nicely as well: https://libraries.io/pypi/china-dictatorship (https://web.archive.org/web/20200318043050/https://libraries.io/pypi/china-dictatorship[archive]). This is why packaging is a good idea.
 
 A programmatic interface is also exposed on those packages, making it easy to quickly add a `--china` option to your project, e.g. from Python:
@@ -272,6 +281,12 @@ Concrete examples:
 * https://github.com/cirosantilli/linux-kernel-module-cheat/commit/082166a360c56990662c715196229016d8806ab3
 
 TODO: create an Ubuntu PPA and Ruby gem as well.
+
+Another source of China-specific mirrorig are GitHub proxies, https://linuxpip.org/github-in-china/ contains an overview:
+
+* https://hub.fastgit.org/ this appears to auto-redirect to GitHub from non-Chinese IPs, but presumably shows the pages for Chinese IPs, e.g. we had hits from http://hub.fastgit.org/cirosantilli/china-dictatorship[] in 2021-03-25
+* https://github.com.cnpmjs.org/ dead as of March 2021, got rate limited by GitHub apparently: "Whoa there! You have triggered an abuse detection mechanism."
+* https://a1.mk-proxy.ml/-----https://github.com/cirosantilli/china-dictatorship generated from http://toolwa.com/github/
 
 Update all mirrors in one go with: link:push-mirrors[]:
 
@@ -3881,6 +3896,10 @@ It only lists companies that implemented censorship outside of China however (wi
 * https://github.com/caffeine-overload/bandinchina/pull/84
 
 Other interesting GitHub repositories: <<github-repositories-with-censored-information>>.
+
+===== Western companies that stood up against the CCP
+
+* 2021-03-25 https://www.bbc.co.uk/news/world-asia-china-56519411 "Nike, H&M face China fury over Xinjiang cotton 'concerns'", see also: <<xinjiang-re-education-camps>>.
 
 ===== Entertainers who support the CCP
 
@@ -11337,7 +11356,7 @@ This site is only available in Mainland China." The about of the blog leads to a
 * 2020-05-09: http://lj.rossia.org/users/perfect_kiss/36513.html Google translated of about in that website: "LJ.Rossia.org (LJR) is a nonprofit project created to support freedom of speech, develop civil society and promote free exchange of views."
 * 2020-04-21: 4 hits from https://raidforums.com/ but can't locate it, maybe coming from their very fast temporary chat wall
 * 2019-10-31: https://www.linkedin.com/feed/update/urn:li:activity:6595454363743981568/ (https://web.archive.org/web/20191101094814/https://www.linkedin.com/feed/update/urn:li:activity:6595454363743981568/[archive]) "Good rundown of all the major news from China you don't see. Notice how you don't see anything about the Hong Kong protests anymore?"
-* 2019-10 https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/blob/7131e2c1158a806f41c8f55308977048b02d2959/README-Part2.md Automatically generated list of repos with Chinese characters in their descriptions with the most upvotes per programming language. TODO why is this repo on their README-Part2 only? Has more stars than some stuff on main README.
+* 2019-10 https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/blob/7131e2c1158a806f41c8f55308977048b02d2959/README-Part2.md Automatically generated list of repos with Chinese characters in their descriptions with the most upvotes per programming language. TODO why is this repo on their README-Part2 only? Has more stars than some stuff on main README. Edit: now in main README: https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/tree/73ef00e9f846dd380769095f08648e5e1a06596f Let's see how long until it gets censored.
 * 2019-10-12: https://hacpai.com/article/1570686552645 Login required, cowards. Post title: "更新 GitHub 官方 Repo 的人，竟然是个反华分子". Manual page dump after my replies with links to this FAQ: https://ia801505.us.archive.org/27/items/cirosantilli/hacpai_1570686552645.html OP then deleted my comments because they don't speak English "HacPai 是个文明的社区，不会发生辱骂的现象，你有你的观点，我们有我们的观点。但抱歉，我们的水平有限，没有阅读英文的能力，还请发送有效回复，否则只能折叠处理". It is some developper website: https://hacpai.com/article/1440573175609 (https://web.archive.org/web/20190811205230/https://hacpai.com/article/1440573175609[archive]) linked to https://github.com/b3log/solo[]. OP then made an useless post here: https://github.com/cirosantilli/china-dictatorship/issues/70 As of 2019-10-12, I can't login there anymore, either because the website is shitty, or I was blocked. GitHub login just fails silently, cannot reset password. If blocked, cowards. This led me to update: <<reply-policy>> with the canned reply.
 * 2019-09: https://admin.github.com Someone from GitHub has been thinking about us. s2 to you.
 * 2019-09-13 https://twitter.com/sang_what/status/1172692888766959619 (https://archive.is/taPpH[archive]) https://t.co/qag5ekL12F link:https://www.linkedin.com/pulse/thoughts-github-going-china-kevin-xu/
