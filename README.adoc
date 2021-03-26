@@ -284,7 +284,7 @@ TODO: create an Ubuntu PPA and Ruby gem as well.
 
 Another source of China-specific mirrorig are GitHub proxies, https://linuxpip.org/github-in-china/ contains an overview:
 
-* https://hub.fastgit.org/ this appears to auto-redirect to GitHub from non-Chinese IPs, but presumably shows the pages for Chinese IPs, e.g. we had hits from http://hub.fastgit.org/cirosantilli/china-dictatorship[] in 2021-03-25
+* https://hub.fastgit.org/ this appears to auto-redirect to GitHub from non-Chinese IPs, but presumably shows the pages for Chinese IPs, e.g. we had hits from http://hub.fastgit.org/cirosantilli/china-dictatorship[] in 2021-03-25. This happened soon after SEO optimizations mentioned at: <<zhao-heming>> and might be related.
 * https://github.com.cnpmjs.org/ dead as of March 2021, got rate limited by GitHub apparently: "Whoa there! You have triggered an abuse detection mechanism."
 * https://a1.mk-proxy.ml/-----https://github.com/cirosantilli/china-dictatorship generated from http://toolwa.com/github/
 
@@ -2298,6 +2298,7 @@ Random slangs of interest and related concepts:
 Some useful slangs seen on the wild:
 
 * 敏感瓷: 敏感词 sensitive words, phonetic approximation
+* "emm" https://www.zhihu.com/question/288002941
 
 GitHub issue label: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ai-know-slangs-i-smart+
 
@@ -2477,6 +2478,13 @@ And Ciro never gets mad. Only a slightly sad or annoyed sometimes.
 But maybe no radical ever considers themselves a radical? Hmmm...
 
 Or maybe: link:https://www.youtube.com/watch?v=efHCdKb5UWc[The Dark Knight - Some Men Just Want To Watch The World Burn]?
+
+==== Ciro Santilli is stupid
+
+D E E P: https://github.com/cirosantilli/china-dictatorship/labels/you-are-stupid-argument
+
+* https://en.wikipedia.org/wiki/Ad_hominem
+* https://zh.wikipedia.org/wiki/訴諸人身
 
 ==== Are you a SJW?
 
