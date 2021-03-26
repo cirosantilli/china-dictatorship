@@ -4681,7 +4681,23 @@ https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665 "为什么这
 
 After further inspection, taught understood that repository descriptions given to GitHub can be really huge for SEO: they had pasted the entire 21st century text there. So Ciro attempted the same approach, and pasted all of link:21century.md[], link:wang-huning-three-dynasties.md[] and link:fifth-modernization.md[] in there, and the effect was dramatic: an immediate 4x more views on the following day according to https://github.com/cirosantilli/china-dictatorship/graphs/traffic[], and a few wumao comments. And a wumao soon confirmed that it was working directly: https://github.com/cirosantilli/china-dictatorship/issues/201[]. Futher optimizations:
 
+* https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts Some processing to increase density creates a BOMB:
++
+....
+#!/usr/bin/env bash
+cat README.md |
+grep -P '^\|\d' |
+cut -d\| -f4 |
+perl -CSDA -pe 'use utf8;s/:[a-zA-Z0-9]+/ /g' |
+perl -CSDA -pe 'use utf8;s/[、，,—【】。；（）！－>｜：《》「…￣ﾉ·‘’!@#$%^&*()_\+\-=\/\\;:[\]{}.,`~'"'"'" \x{200D}\x{10000}-\x{1FFFF}\x{2B00}-\x{2BFF}\x{25A0}-\x{25FF}\x{2600}-\x{26FF}\x{2700}-\x{27BF}\x{1F300}-\x{1F5FF}]+/ /g' |
+perl -CSDA -pe 'use utf8;s/https? +//i' |
+perl -CSDA -pe 'use utf8;s/[a-zA-Z0-9 ]{32,}//g' |
+tr -d '\n' |
+head -c 64000
+....
++
 * there a traffic search for: "Search · 联级选择器", this term refers to https://ant.design/components/cascader-cn/ which seems to be a CSS live selector
+* https://github.com/trending?since=monthly&spoken_language_code=zh trending Chinese repositories
 
 Furthermore, Ciro later noticed that under GitHub's settings, there is a "Preferred spoken language" box described as "We'll use this language preference to filter the trending repository lists on Explore and our Trending Repositories page." Therefore, the secret to get lots of hits is to add Chinese programming keywords to the repository description string.
 
