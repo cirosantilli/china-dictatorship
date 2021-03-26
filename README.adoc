@@ -3134,16 +3134,6 @@ The keyword is <<rule-of-law>>: because of a few terrorists, every single Muslim
 
 Overview projects:
 
-* 2021-03-01 https://www.reuters.com/article/BigStory12/idUSKCN2AT1BA "China counters Uighur criticism with explicit attacks on women witnesses"
-+
-____
-Chinese officials have named women, disclosed what they say is private medical data and information on the women’s fertility, and accused some of having affairs and one of having a sexually transmitted disease. The officials said the information was evidence of bad character, invalidating the women’s accounts of abuse in Xinjiang.
-____
-+
-<<reddit>>: https://www.reddit.com/r/China/comments/lvrkoi/china_counters_uyghur_criticism_with_explicit/
-* 2020-12-14 reports that Uyghurs are being forced to work on the cotton industry emmerge:
-** https://cgpolicy.org/briefs/coercive-labor-in-xinjiang-labor-transfer-and-the-mobilization-of-ethnic-minorities-to-pick-cotton/ "Coercive Labor in Xinjiang: Labor Transfer and the Mobilization of Ethnic Minorities to Pick Cotton"
-** https://www.bbc.co.uk/news/extra/nz0g306v8c/china-tainted-cotton "China's 'tainted' cotton"
 * https://xjdp.aspi.org.au/ The Xinjiang Data Project by the https://en.wikipedia.org/wiki/Australian_Strategic_Policy_Institute[Australian Strategic Policy Institute]
 +
 Also includes the <<uyghurs-for-sale>> report.
@@ -3155,6 +3145,13 @@ News:
 ____
 Although it is often extremely difficult, if not impossible, for Uyghurs overseas to receive information about the whereabouts of their family members, some parents have received bits and pieces of information in the form of coded words, or photos and videos, from relatives and friends that make them believe their children were taken to state-run “orphan camps” or boarding schools.
 ____
+* 2021-03-01 https://www.reuters.com/article/BigStory12/idUSKCN2AT1BA "China counters Uighur criticism with explicit attacks on women witnesses"
++
+____
+Chinese officials have named women, disclosed what they say is private medical data and information on the women’s fertility, and accused some of having affairs and one of having a sexually transmitted disease. The officials said the information was evidence of bad character, invalidating the women’s accounts of abuse in Xinjiang.
+____
++
+<<reddit>>: https://www.reddit.com/r/China/comments/lvrkoi/china_counters_uyghur_criticism_with_explicit/
 * 2020-10-28 <<global-times>> https://www.globaltimes.cn/content/1203861.shtml in response to https://en.wikipedia.org/wiki/Murder_of_Samuel_Paty[The Murder of Ssamuel Paty] clarifies that the best way to counter terrorism is preventive mass incarceration and brainwashing: "Eradicating extremism is a huge challenge of governance for all countries. China has proactively explored feasible ways in its Xinjiang governance and generated positive outcomes."
 * 2020-10-17 (paywall) https://www.economist.com/china/2020/10/17/how-xinjiangs-gulag-tears-families-apart "How Xinjiang's gulag tears families apart". "So many parents have been locked up that officials struggle to cope with the left-behind children"
 * 2020-09-19 https://www.scmp.com/news/china/politics/article/3101986/china-claims-vocational-training-given-nearly-13-million-people "Chinese authorities "indirectly" confirm the scale of the camps. China claims 1.3 million Xinjiang residents given 'vocational training' each year"
@@ -3275,6 +3272,42 @@ Text messages and translation: https://medium.com/@millwarj/wear-your-mask-under
 ++++
 <iframe loading="lazy" width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/news/av/embed/p08mr1tm/53650246"></iframe>
 ++++
+
+[[xinjiang-cotton]]
+====== Xinjiang cotton (新疆棉花, 2021)
+
+Reports surfaced that <<xinjiang-re-education-camps>> people were being used to pick cotton, and boycotts followed.
+
+Companies that boycotted, subst of <<western-companies-that-stood-up-against-the-ccp>>:
+
+* 2021-03-25 https://www.bbc.co.uk/news/world-asia-china-56519411 "Nike, H&M face China fury over Xinjiang cotton 'concerns'", see also: <<xinjiang-re-education-camps>>.
+
+Companies that supported:
+
+* 2021-03-26 https://hongkongfp.com/2021/03/26/hugo-boss-tells-chinese-customers-it-will-continue-to-purchase-xinjiang-cotton-months-after-telling-us-news-outlet-it-has-never-used-it/ ""Hugo Boss tells Chinese customers it will continue to purchase Xinjiang cotton, months after telling US news outlet it has never used it". People https://www.reddit.com/r/China/comments/mdilxi/hugo_boss_tells_chinese_customers_it_will/[immediately commented] that Hugo Boss was the company who made <<nazi>> uniforms.
++
+Here's a link to the Weibo mentioned: https://weibo.com/2329770312/K7RDviZl4?from=page_1006062329770312_profile&wvr=6&mod=weibotime&type=comment archive: https://archive.ph/tOcum
++
+Original text:
++
+____
+Hugo Boss秉持着对生产制造高品质产品的坚持，使用来自世界各地，包括原材料源自中国各大产区的面料。多年来，我们一直尊重一个中国原则，坚决捍卫国家主权和领土完整。我们与许多优秀的中国企业建立了长期合作，并将继续保持。新疆长绒棉是世界上最好的棉花之一，我们相信优质的原料一定会实现价值。我们将会继续采购和支持新疆棉花。
+____
++
+and the Google translate:
++
+____
+Hugo Boss adheres to the insistence on manufacturing high-quality products, using fabrics from all over the world, including raw materials from major producing areas in China. Over the years, we have always respected the one-China principle and resolutely defended national sovereignty and territorial integrity. We have established long-term cooperation with many outstanding Chinese companies and will continue to maintain them. Xinjiang long-staple cotton is one of the best cotton in the world, and we believe that high-quality raw materials will surely realize value. We will continue to purchase and support Xinjiang cotton.
+____
+
+Reports:
+
+* 2020-12-14 reports that Uyghurs are being forced to work on the cotton industry emmerge:
+** https://cgpolicy.org/briefs/coercive-labor-in-xinjiang-labor-transfer-and-the-mobilization-of-ethnic-minorities-to-pick-cotton/ "Coercive Labor in Xinjiang: Labor Transfer and the Mobilization of Ethnic Minorities to Pick Cotton"
+** https://www.bbc.co.uk/news/extra/nz0g306v8c/china-tainted-cotton "China's 'tainted' cotton"
+
+.Side-by-side comparison of black american slaves from 1908 and <<xinjiang-re-education-camps,happy Xinjiang workers>> working in cotton collection. This was posted by the verified account of Chinese government official Hua Chunying (华春莹) on Twitter: https://twitter.com/SpokespersonCHN/status/1375015592944537605[], archives: https://archive.ph/3PTiA and https://web.archive.org/web/20210326034948/https://twitter.com/SpokespersonCHN/status/1375015592944537605[]. Pure beauty. Does she have a brain? The images read: "The cotton planter and his pickers, H. Tees, West Point, Miss[ssisipy]", https://commons.wikimedia.org/wiki/File:Cotton_planter_and_pickers1908.jpg[source], and "Uighus people picking cotton in Xinjiang China".
+image::{china-dictatorship-media-base}Xinjiang_cotton_vs_American_plantation_from_1908.jpg[height=400]
 
 [[other-islam-countries-speak-up-for-uyghur]]
 ====== Why don't many other Islamic countries speak up for the Uyghur persecution?
@@ -3899,7 +3932,17 @@ Other interesting GitHub repositories: <<github-repositories-with-censored-infor
 
 ===== Western companies that stood up against the CCP
 
-* 2021-03-25 https://www.bbc.co.uk/news/world-asia-china-56519411 "Nike, H&M face China fury over Xinjiang cotton 'concerns'", see also: <<xinjiang-re-education-camps>>.
+See also:
+
+* <<xinjiang-cotton>>
+
+====== Western companies that supported the CCP
+
+See also:
+
+* <<western-companies-that-comply-with-chinese-censorship-requests>>
+* <<western-companies-that-sell-censorship-technology-to-dictatorships>>
+* <<xinjiang-cotton>>
 
 ===== Entertainers who support the CCP
 
@@ -3931,7 +3974,7 @@ Related about university interference:
 
 China buying pre-University educational institutions:
 
-* 2021-2-21 https://www.dailymail.co.uk/news/article-9282617/British-private-institutions-bought-Chinese-firms.html "The British schools selling out to Beijing: Not only are private institutions being bought by Chinese firms but some are giving communist-approved lessons that are a threat to free speech", gives list of 17 schools bought
+* 2021-02-21 https://www.dailymail.co.uk/news/article-9282617/British-private-institutions-bought-Chinese-firms.html "The British schools selling out to Beijing: Not only are private institutions being bought by Chinese firms but some are giving communist-approved lessons that are a threat to free speech", gives list of 17 schools bought
 * 2019-07-10 https://www.thetimes.co.uk/article/chinese-buy-up-more-of-england-s-private-schools-pjr6692bq "Chinese buy up more of England’s private schools", "Chinese investors have secured another foothold in the English private school sector with the £150 million purchase of CATS colleges."
 
 [[confucius-institute]]
@@ -4618,7 +4661,7 @@ Unfortunately, it was found that the project could be used by malicious users to
 A few accounts were created by this pseudonym, e.g.:
 
 * https://github.com/zaohmeing/21-[]: https://github.com/zaohmeing/21-/blob/master/.gitignore
-* https://github.com/zhaohmng/-21-[]: https://github.com/zhaohmng/-21-/blob/master/%231a.txt The repository was deleted as of March 2021
+* https://github.com/zhaohmng/-21-[]: https://github.com/zhaohmng/-21-/blob/master/%231a.txt The repository was deleted as of March 2021, TODO why?
 ** Ciro's fork: https://github.com/cirosantilli/-21-
 ** archive from December 2020: https://web.archive.org/web/20201225094655/https://github.com/zhaohmng/-21-
 
@@ -4629,12 +4672,16 @@ Much more sanely encoded/formatted/rendered versions can be found at:
 
 Both Zhao Heming repos contain reproductions of two manifestos are pasted together on a single file, and somewhat broken encoding.
 
-These repos attract a ton of <<wumao>> on the comments, it is very impressive!!! Ciro was jealous, and added some anti-wumao comments in. On commits:
+Ciro noticed that thoe repos attracted an incredible ammount of <<wumao>> on the comments, despite having very simple copy pasted content, it was very impressive!!! Ciro was jealous, and added some anti-wumao comments in. On commits:
 
 * https://github.com/zhaohmng/-21-/commit/0cc2b2a546ad51fb360ba800c67b057ea3270869#commitcomment-47495235
 * https://github.com/zaohmeing/21-/commit/42de05338193f39981b1a820873a990c959fd6ec#commitcomment-47392119
 
-https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665 "为什么这个屎一样的东西会出现在我个人主页左侧的repositories中，那里不是应该只有自己的项目才会出现吗？有办法屏蔽它吗？还是github故意的？" explains why so many people come comment in the repository: it is because it appears on the "Explore repositories" repository suggestions that show up on the side bar of your GitHub homepage. This also taught Ciro that repository descriptions can be really huge: they had pasted the entire text in there.
+https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665 "为什么这个屎一样的东西会出现在我个人主页左侧的repositories中，那里不是应该只有自己的项目才会出现吗？有办法屏蔽它吗？还是github故意的？" explains why so many people come comment in the repository: it is because it appears on the "Explore repositories" repository suggestions which show on the side bar of your GitHub homepage, and on searches.
+
+After further inspection, taught understood that repository descriptions given to GitHub can be really huge for SEO: they had pasted the entire 21st century text there. So Ciro attempted the same approach, and pasted all of link:21century.md[], link:wang-huning-three-dynasties.md[] and link:fifth-modernization.md[] in there, and the effect was dramatic: an immediate 4x more views on the following day according to https://github.com/cirosantilli/china-dictatorship/graphs/traffic[], and a few wumao comments. And a wumao soon confirmed that it was working directly: https://github.com/cirosantilli/china-dictatorship/issues/201[]. Futher optimizations:
+
+* there a traffic search for: "Search · 联级选择器", this term refers to https://ant.design/components/cascader-cn/ which seems to be a CSS live selector
 
 Furthermore, Ciro later noticed that under GitHub's settings, there is a "Preferred spoken language" box described as "We'll use this language preference to filter the trending repository lists on Explore and our Trending Repositories page." Therefore, the secret to get lots of hits is to add Chinese programming keywords to the repository description string.
 
