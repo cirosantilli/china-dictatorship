@@ -1008,7 +1008,7 @@ image::{china-dictatorship-media-base}/Pig_politics_Chinese.jpg[height=600]
 image::{cirosantilli-media-base}/Rebel_pepper_pig_can%27t_eat_democracy_cartoon_translated_to_English_by_Ciro_Santilli.jpg[height=600]
 
 .https://knowyourmeme.com/memes/shut-up-and-take-my-money[Shut up and take my freedom] meme by <<ciro-santilli>>.
-image::{cirosantilli-media-base}/Shut_up_and_take_my_freedom.jpg[height=400]
+image::{china-dictatorship-media-base}/Shut_up_and_take_my_freedom.jpg[height=400]
 
 [[corruption]]
 ==== Democracies have less corruption than dictatorships
@@ -3309,6 +3309,8 @@ and the Google translate:
 ____
 Hugo Boss adheres to the insistence on manufacturing high-quality products, using fabrics from all over the world, including raw materials from major producing areas in China. Over the years, we have always respected the one-China principle and resolutely defended national sovereignty and territorial integrity. We have established long-term cooperation with many outstanding Chinese companies and will continue to maintain them. Xinjiang long-staple cotton is one of the best cotton in the world, and we believe that high-quality raw materials will surely realize value. We will continue to purchase and support Xinjiang cotton.
 ____
++
+Statement on Hugo Boss' website in English saying that they are ethical: https://group.hugoboss.com/fileadmin/media/pdf/sustainability/company_commitments_EN/HUGO_BOSS_Statement_on_Xinjiang.pdf (https://web.archive.org/web/20210326134037/https://group.hugoboss.com/fileadmin/media/pdf/sustainability/company_commitments_EN/HUGO_BOSS_Statement_on_Xinjiang.pdf[archive])
 
 Reports:
 
@@ -3317,7 +3319,7 @@ Reports:
 ** https://www.bbc.co.uk/news/extra/nz0g306v8c/china-tainted-cotton "China's 'tainted' cotton"
 
 .Side-by-side comparison of black american slaves from 1908 and <<xinjiang-re-education-camps,happy Xinjiang workers>> working in cotton collection. This was posted by the verified account of Chinese government official Hua Chunying (华春莹) on Twitter: https://twitter.com/SpokespersonCHN/status/1375015592944537605[], archives: https://archive.ph/3PTiA and https://web.archive.org/web/20210326034948/https://twitter.com/SpokespersonCHN/status/1375015592944537605[]. Pure beauty. Does she have a brain? The images read: "The cotton planter and his pickers, H. Tees, West Point, Miss[ssisipy]", https://commons.wikimedia.org/wiki/File:Cotton_planter_and_pickers1908.jpg[source], and "Uighus people picking cotton in Xinjiang China".
-image::{china-dictatorship-media-base}Xinjiang_cotton_vs_American_plantation_from_1908.jpg[height=400]
+image::{china-dictatorship-media-base}/Xinjiang_cotton_vs_American_plantation_from_1908.jpg[height=400]
 
 [[other-islam-countries-speak-up-for-uyghur]]
 ====== Why don't many other Islamic countries speak up for the Uyghur persecution?
@@ -5785,7 +5787,7 @@ https://en.wikipedia.org/wiki/2020_Belarusian_protests[2020 Belarusian protests]
 
 [[moscow-minsk-friendship-mural]]
 .The Moscow-Minsk friendship mural in Minsk (capital of Belarus), originally meant to show the harmonious alliance between Belarus and Russia, was defaced in 2016 by adding barbed wire amidst the flowers held and worn by the boy and girl which represent Russia and Belarus respectively, which indicates that the friendship is actually a prison for Belarus. <<dictatorships-tend-to-work-together>> comes to mind. Photo by Aleh Larychau. Upload https://commons.wikimedia.org/wiki/Commons:Deletion_requests/File:Mural_Minsk-Moscow_in_Minsk_1.jpg[on Wikimedia Commons] deleted because of the lack of https://commons.wikimedia.org/wiki/Commons:Freedom_of_panorama[Freedom of panorama in Belarus]. https://www.euronews.com/2020/12/21/how-the-crisis-in-belarus-is-politicising-a-new-wave-of-street-artists[].
-image::{cirosantilli-media-base}/Moscow-Minsk_friendship_mural_girl_with_barbed_wire.jpg[height=400]
+image::{cirosantilli-media-base}/Moscow_Minsk_friendship_mural_girl_with_barbed_wire.jpg[height=400]
 
 https://commons.wikimedia.org/wiki/File:Mural_Minsk-Moscow_in_Minsk_1.jpg
 
