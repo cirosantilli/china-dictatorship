@@ -5787,9 +5787,7 @@ https://en.wikipedia.org/wiki/2020_Belarusian_protests[2020 Belarusian protests]
 
 [[moscow-minsk-friendship-mural]]
 .The Moscow-Minsk friendship mural in Minsk (capital of Belarus), originally meant to show the harmonious alliance between Belarus and Russia, was defaced in 2016 by adding barbed wire amidst the flowers held and worn by the boy and girl which represent Russia and Belarus respectively, which indicates that the friendship is actually a prison for Belarus. <<dictatorships-tend-to-work-together>> comes to mind. Photo by Aleh Larychau. Upload https://commons.wikimedia.org/wiki/Commons:Deletion_requests/File:Mural_Minsk-Moscow_in_Minsk_1.jpg[on Wikimedia Commons] deleted because of the lack of https://commons.wikimedia.org/wiki/Commons:Freedom_of_panorama[Freedom of panorama in Belarus]. https://www.euronews.com/2020/12/21/how-the-crisis-in-belarus-is-politicising-a-new-wave-of-street-artists[].
-image::{cirosantilli-media-base}/Moscow_Minsk_friendship_mural_girl_with_barbed_wire.jpg[height=400]
-
-https://commons.wikimedia.org/wiki/File:Mural_Minsk-Moscow_in_Minsk_1.jpg
+image::{china-dictatorship-media-base}/Moscow-Minsk_friendship_mural_girl_with_barbed_wire.jpg[height=400]
 
 ==== Kazakhstan
 
