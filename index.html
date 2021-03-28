@@ -864,6 +864,7 @@ ga('send', 'pageview');
 <li><a href="#chinatimeline">4.22.2.3.2. chinatimeline (中国时间线)</a></li>
 <li><a href="#duty-machine">4.22.2.3.3. duty-machine</a></li>
 <li><a href="#zhao-heming">4.22.2.3.4. Zhao Heming (召赫名)</a></li>
+<li><a href="#bot-issue-mention-attack">4.22.2.3.5. Bot + issue mention attack</a></li>
 </ul>
 </li>
 <li><a href="#gitee">4.22.2.4. Gitee</a>
@@ -2404,7 +2405,7 @@ xdg-open README.html</pre>
 <p>TODO: create an Ubuntu PPA and Ruby gem as well.</p>
 </div>
 <div class="paragraph">
-<p>Another source of China-specific mirrorig are GitHub proxies, <a href="https://linuxpip.org/github-in-china/" class="bare">https://linuxpip.org/github-in-china/</a> contains an overview:</p>
+<p>Another source of China-specific mirroring are GitHub proxies, <a href="https://linuxpip.org/github-in-china/" class="bare">https://linuxpip.org/github-in-china/</a> contains an overview:</p>
 </div>
 <div class="ulist">
 <ul>
@@ -2416,6 +2417,9 @@ xdg-open README.html</pre>
 </li>
 <li>
 <p><a href="https://a1.mk-proxy.ml/-----https://github.com/cirosantilli/china-dictatorship" class="bare">https://a1.mk-proxy.ml/-----https://github.com/cirosantilli/china-dictatorship</a> generated from <a href="http://toolwa.com/github/" class="bare">http://toolwa.com/github/</a></p>
+</li>
+<li>
+<p><a href="https://github.com/521xueweihan/GitHub520" class="bare">https://github.com/521xueweihan/GitHub520</a></p>
 </li>
 </ul>
 </div>
@@ -3556,6 +3560,9 @@ Written (calligraphed) by Fang Bin.</p>
 <p>Repository published in 2019-04 protesting against excessive work hours by Chinese programmers.</p>
 </div>
 <div class="paragraph">
+<p>At some point it moved its README to English.</p>
+</div>
+<div class="paragraph">
 <p>This was not directly censored to our knowledge, but the fact that it was published on GitHub rather than Chinese social media highlights the obvious fact that Chinese programmers were weary of doing it under CCP controlled media which they do not trust.</p>
 </div>
 <div class="paragraph">
@@ -3587,6 +3594,16 @@ Written (calligraphed) by Fang Bin.</p>
 </li>
 <li>
 <p><a href="https://www.reddit.com/r/cscareerquestions/comments/b8t8cc/overworked_chinese_developers_gather_on_github_to/" class="bare">https://www.reddit.com/r/cscareerquestions/comments/b8t8cc/overworked_chinese_developers_gather_on_github_to/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Related:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://github.com/formulahendry/955.WLB" class="bare">https://github.com/formulahendry/955.WLB</a> a whitelist version of 996 ICU. Good thoughts.</p>
 </li>
 </ul>
 </div>
@@ -11359,7 +11376,10 @@ Désobéir c&#8217;est servir.</p>
 <p><a href="https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665" class="bare">https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665</a> "为什么这个屎一样的东西会出现在我个人主页左侧的repositories中，那里不是应该只有自己的项目才会出现吗？有办法屏蔽它吗？还是github故意的？" explains why so many people come comment in the repository: it is because it appears on the "Explore repositories" repository suggestions which show on the side bar of your GitHub homepage, and on searches.</p>
 </div>
 <div class="paragraph">
-<p>After further inspection, taught understood that repository descriptions given to GitHub can be really huge for SEO: they had pasted the entire 21st century text there. So Ciro attempted the same approach, and pasted all of <a href="21century.md" class="bare">21century.md</a>, <a href="wang-huning-three-dynasties.md" class="bare">wang-huning-three-dynasties.md</a> and <a href="fifth-modernization.md" class="bare">fifth-modernization.md</a> in there, and the effect was dramatic: an immediate 4x more views on the following day according to <a href="https://github.com/cirosantilli/china-dictatorship/graphs/traffic" class="bare">https://github.com/cirosantilli/china-dictatorship/graphs/traffic</a>, and a few wumao comments. And a wumao soon confirmed that it was working directly: <a href="https://github.com/cirosantilli/china-dictatorship/issues/201" class="bare">https://github.com/cirosantilli/china-dictatorship/issues/201</a>. Futher optimizations:</p>
+<p>After further inspection, taught understood that repository descriptions given to GitHub can be really huge for SEO: they had pasted the entire 21st century text there. So Ciro attempted the same approach, and pasted all of <a href="21century.md" class="bare">21century.md</a>, <a href="wang-huning-three-dynasties.md" class="bare">wang-huning-three-dynasties.md</a> and <a href="fifth-modernization.md" class="bare">fifth-modernization.md</a> in there on 2021-03-23, and the effect was dramatic: an immediate 4x more views on the following day according to <a href="https://github.com/cirosantilli/china-dictatorship/graphs/traffic" class="bare">https://github.com/cirosantilli/china-dictatorship/graphs/traffic</a> (40 unique visitors to 100 on a wednesday), and a few wumao comments. And a wumao soon confirmed that it was working directly: <a href="https://github.com/cirosantilli/china-dictatorship/issues/201" class="bare">https://github.com/cirosantilli/china-dictatorship/issues/201</a>.</p>
+</div>
+<div class="paragraph">
+<p>Futher optimizations:</p>
 </div>
 <div class="ulist">
 <ul>
@@ -11368,6 +11388,9 @@ Désobéir c&#8217;est servir.</p>
 <div class="literalblock">
 <div class="content">
 <pre>#!/usr/bin/env bash
+printf 联级选择器
+printf Bitcoin
+printf 区块链
 cat README.md |
 grep -P '^\|\d' |
 cut -d\| -f4 |
@@ -11379,12 +11402,25 @@ tr -d '\n' |
 head -c 64000</pre>
 </div>
 </div>
-</li>
-<li>
-<p>there a traffic search for: "Search · 联级选择器", this term refers to <a href="https://ant.design/components/cascader-cn/" class="bare">https://ant.design/components/cascader-cn/</a> which seems to be a CSS live selector</p>
+<div class="paragraph">
+<p>Ciro started using that one instead to see if it was going to be more effective on 2021-03-28.</p>
+</div>
 </li>
 <li>
 <p><a href="https://github.com/trending?since=monthly&amp;spoken_language_code=zh" class="bare">https://github.com/trending?since=monthly&amp;spoken_language_code=zh</a> trending Chinese repositories</p>
+<div class="paragraph">
+<p>A large part of those projects falls in the following categories:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>interview preparation. Competition is of course cutthroat with such a large population.</p>
+</li>
+<li>
+<p>collections of interesting things Chinese like repositories or blog posts</p>
+</li>
+</ul>
+</div>
 </li>
 </ul>
 </div>
@@ -11472,6 +11508,47 @@ head -c 64000</pre>
 </div>
 <div class="paragraph">
 <p>The manifesto is divided into 23 numbered headers which appear to be independently published texts later collected. It is signed by 郝雪森 (Hao Xuesen) 2016-09-10. One of the sections gives the email: <a href="mailto:haoxuesen@gmx.com">haoxuesen@gmx.com</a>[].</p>
+</div>
+</div>
+<div class="sect5">
+<h6 id="bot-issue-mention-attack"><a class="anchor" href="#bot-issue-mention-attack"></a><a class="link" href="#bot-issue-mention-attack">4.22.2.3.5. Bot + issue mention attack</a></h6>
+<div class="paragraph">
+<p>In March 2021, this repo had a traffic search spike for: "Search · 联级选择器"</p>
+</div>
+<div class="paragraph">
+<p>This term refers to <a href="https://ant.design/components/cascader-cn/" class="bare">https://ant.design/components/cascader-cn/</a> which seems to be a CSS live selector</p>
+</div>
+<div class="paragraph">
+<p>The related project: <a href="https://github.com/ant-design/ant-design-pro" class="bare">https://github.com/ant-design/ant-design-pro</a></p>
+</div>
+<div class="paragraph">
+<p>Someone actually used wumao techniques mentioned at:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://github.com/cirosantilli/china-dictatorship/issues/191" class="bare">https://github.com/cirosantilli/china-dictatorship/issues/191</a></p>
+</li>
+<li>
+<p><a href="https://github.com/cirosantilli/china-dictatorship/issues/192" class="bare">https://github.com/cirosantilli/china-dictatorship/issues/192</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>to attack that repo:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://github.com/ant-design/ant-design-pro/issues/8133" class="bare">https://github.com/ant-design/ant-design-pro/issues/8133</a> <a href="https://archive.ph/xp8ls" class="bare">https://archive.ph/xp8ls</a></p>
+</li>
+<li>
+<p><a href="https://github.com/cirosantilli/china-dictatorship/issues/196" class="bare">https://github.com/cirosantilli/china-dictatorship/issues/196</a> <a href="https://archive.ph/etYSf" class="bare">https://archive.ph/etYSf</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>TODO which exact GitHub action did they rely on? That repo currently has a <a href="https://github.com/ant-design/ant-design-pro/actions/workflows/issue-open-check.yml" class="bare">https://github.com/ant-design/ant-design-pro/actions/workflows/issue-open-check.yml</a> Issue Open Check GitHub action sample run: <a href="https://github.com/ant-design/ant-design-pro/runs/2209272410?check_suite_focus=true" class="bare">https://github.com/ant-design/ant-design-pro/runs/2209272410?check_suite_focus=true</a> we see the similarity issue analysis thing, but how could that have worked more precisely to link across repos?</p>
 </div>
 </div>
 </div>
@@ -13856,7 +13933,7 @@ Russia&#8217;s prison service accuses Kremlin critic of violating terms of his s
 <div class="content">
 <img src="https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Thai_king_prostrated_officers.jpg" loading="lazy" alt="Thai king prostrated officers" height="400">
 </div>
-<div class="title">Figure 95. Leading Thai politicians prostrate themselves before Vajiralongkorn in 2016, presumably during his ascention to the throne. <a href="https://www.independent.co.uk/news/world/asia/bbc-investigation-thailand-king-defamation-a7460046.html">Source</a>.</div>
+<div class="title">Figure 95. Leading Thai politicians prostrate themselves before Vajiralongkorn in 2016, presumably during his ascension to the throne. <a href="https://www.independent.co.uk/news/world/asia/bbc-investigation-thailand-king-defamation-a7460046.html">Source</a>.</div>
 </div>
 <div class="imageblock">
 <div class="content">
@@ -13868,7 +13945,7 @@ Russia&#8217;s prison service accuses Kremlin critic of violating terms of his s
 <div class="content">
 <img src="https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Thai_king_crop_top.jpg" loading="lazy" alt="Thai king crop top" height="400">
 </div>
-<div class="title">Figure 97. Thai king Vajiralongkorn wearing a <a href="https://en.wikipedia.org/wiki/Crop_top">crop top</a> so tight that it could be called a bra, and accompanied by one of his girlfriends, in a shopping center in Munich. He can wear whatever he wants, but to both wear that and enforce Lèse majesté? That&#8217;s the ultimate torture for the Thai people. TODO date, exact location, original report. Here is one of the many reports,  <a href="https://www.thesun.co.uk/news/3578661/from-fake-tattoos-and-crop-tops-to-making-a-poodle-air-force-chief-the-king-of-thailands-maddest-moments-revealed/">sample report from 2017 in a British tabloid</a>.</div>
+<div class="title">Figure 97. Thai king Vajiralongkorn wearing a <a href="https://en.wikipedia.org/wiki/Crop_top">crop top</a> so tight that it could be called a <a href="https://en.wikipedia.org/wiki/Bra">bra</a>, and accompanied by one of his many girlfriends, in a shopping center in Munich. He can wear whatever the fuck wants, but to both wear that and enforce Lèse majesté? That&#8217;s the ultimate torture for the Thai people, how can you not make fun of him??? TODO date, exact location, original report. Here is one of the many reports,  <a href="https://www.thesun.co.uk/news/3578661/from-fake-tattoos-and-crop-tops-to-making-a-poodle-air-force-chief-the-king-of-thailands-maddest-moments-revealed/">sample report from 2017 in a British tabloid</a>.</div>
 </div>
 </div>
 </div>
