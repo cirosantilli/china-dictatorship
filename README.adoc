@@ -282,11 +282,12 @@ Concrete examples:
 
 TODO: create an Ubuntu PPA and Ruby gem as well.
 
-Another source of China-specific mirrorig are GitHub proxies, https://linuxpip.org/github-in-china/ contains an overview:
+Another source of China-specific mirroring are GitHub proxies, https://linuxpip.org/github-in-china/ contains an overview:
 
 * https://hub.fastgit.org/ this appears to auto-redirect to GitHub from non-Chinese IPs, but presumably shows the pages for Chinese IPs, e.g. we had hits from http://hub.fastgit.org/cirosantilli/china-dictatorship[] in 2021-03-25. This happened soon after SEO optimizations mentioned at: <<zhao-heming>> and might be related.
 * https://github.com.cnpmjs.org/ dead as of March 2021, got rate limited by GitHub apparently: "Whoa there! You have triggered an abuse detection mechanism."
 * https://a1.mk-proxy.ml/-----https://github.com/cirosantilli/china-dictatorship generated from http://toolwa.com/github/
+* https://github.com/521xueweihan/GitHub520
 
 Update all mirrors in one go with: link:push-mirrors[]:
 
@@ -874,6 +875,8 @@ https://github.com/996icu/996.ICU
 
 Repository published in 2019-04 protesting against excessive work hours by Chinese programmers.
 
+At some point it moved its README to English.
+
 This was not directly censored to our knowledge, but the fact that it was published on GitHub rather than Chinese social media highlights the obvious fact that Chinese programmers were weary of doing it under CCP controlled media which they do not trust.
 
 The project name refers to:
@@ -889,6 +892,10 @@ Coverage:
 
 * https://www.reddit.com/r/China/comments/b927sk/tencent_xiaomi_and_others_block_github_page/
 * https://www.reddit.com/r/cscareerquestions/comments/b8t8cc/overworked_chinese_developers_gather_on_github_to/
+
+Related:
+
+* https://github.com/formulahendry/955.WLB a whitelist version of 996 ICU. Good thoughts.
 
 Other interesting GitHub repositories: <<github-repositories-with-censored-information>>.
 
@@ -4691,12 +4698,17 @@ Ciro noticed that thoe repos attracted an incredible ammount of <<wumao>> on the
 
 https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665 "为什么这个屎一样的东西会出现在我个人主页左侧的repositories中，那里不是应该只有自己的项目才会出现吗？有办法屏蔽它吗？还是github故意的？" explains why so many people come comment in the repository: it is because it appears on the "Explore repositories" repository suggestions which show on the side bar of your GitHub homepage, and on searches.
 
-After further inspection, taught understood that repository descriptions given to GitHub can be really huge for SEO: they had pasted the entire 21st century text there. So Ciro attempted the same approach, and pasted all of link:21century.md[], link:wang-huning-three-dynasties.md[] and link:fifth-modernization.md[] in there, and the effect was dramatic: an immediate 4x more views on the following day according to https://github.com/cirosantilli/china-dictatorship/graphs/traffic[], and a few wumao comments. And a wumao soon confirmed that it was working directly: https://github.com/cirosantilli/china-dictatorship/issues/201[]. Futher optimizations:
+After further inspection, taught understood that repository descriptions given to GitHub can be really huge for SEO: they had pasted the entire 21st century text there. So Ciro attempted the same approach, and pasted all of link:21century.md[], link:wang-huning-three-dynasties.md[] and link:fifth-modernization.md[] in there on 2021-03-23, and the effect was dramatic: an immediate 4x more views on the following day according to https://github.com/cirosantilli/china-dictatorship/graphs/traffic[] (40 unique visitors to 100 on a wednesday), and a few wumao comments. And a wumao soon confirmed that it was working directly: https://github.com/cirosantilli/china-dictatorship/issues/201[].
+
+Futher optimizations:
 
 * https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts Some processing to increase density creates a BOMB:
 +
 ....
 #!/usr/bin/env bash
+printf 联级选择器
+printf Bitcoin
+printf 区块链
 cat README.md |
 grep -P '^\|\d' |
 cut -d\| -f4 |
@@ -4708,8 +4720,13 @@ tr -d '\n' |
 head -c 64000
 ....
 +
-* there a traffic search for: "Search · 联级选择器", this term refers to https://ant.design/components/cascader-cn/ which seems to be a CSS live selector
+Ciro started using that one instead to see if it was going to be more effective on 2021-03-28.
 * https://github.com/trending?since=monthly&spoken_language_code=zh trending Chinese repositories
++
+A large part of those projects falls in the following categories:
++
+** interview preparation. Competition is of course cutthroat with such a large population.
+** collections of interesting things Chinese like repositories or blog posts
 
 Furthermore, Ciro later noticed that under GitHub's settings, there is a "Preferred spoken language" box described as "We'll use this language preference to filter the trending repository lists on Explore and our Trending Repositories page." Therefore, the secret to get lots of hits is to add Chinese programming keywords to the repository description string.
 
@@ -4752,6 +4769,26 @@ ____
 so it must be about him.
 
 The manifesto is divided into 23 numbered headers which appear to be independently published texts later collected. It is signed by 郝雪森 (Hao Xuesen) 2016-09-10. One of the sections gives the email: haoxuesen@gmx.com[].
+
+====== Bot + issue mention attack
+
+In March 2021, this repo had a traffic search spike for: "Search · 联级选择器"
+
+This term refers to https://ant.design/components/cascader-cn/ which seems to be a CSS live selector
+
+The related project: https://github.com/ant-design/ant-design-pro
+
+Someone actually used wumao techniques mentioned at:
+
+* https://github.com/cirosantilli/china-dictatorship/issues/191
+* https://github.com/cirosantilli/china-dictatorship/issues/192
+
+to attack that repo:
+
+* https://github.com/ant-design/ant-design-pro/issues/8133 https://archive.ph/xp8ls
+* https://github.com/cirosantilli/china-dictatorship/issues/196 https://archive.ph/etYSf
+
+TODO which exact GitHub action did they rely on? That repo currently has a https://github.com/ant-design/ant-design-pro/actions/workflows/issue-open-check.yml Issue Open Check GitHub action sample run: https://github.com/ant-design/ant-design-pro/runs/2209272410?check_suite_focus=true we see the similarity issue analysis thing, but how could that have worked more precisely to link across repos?
 
 ===== Gitee
 
@@ -5864,13 +5901,13 @@ Dissidents:
 .Side-by-side comparison between https://en.wikipedia.org/wiki/Vajiralongkorn[Thai King Vajiralongkorn] and https://en.wikipedia.org/wiki/Hamtaro[Hamtaro]. This is the Thai version of <<winnie-the-pooh>>. It https://asia.nikkei.com/Politics/Japanese-cartoon-Hamtaro-used-by-Thai-protesters-to-mock-government[has been used by protesters] as part of the  https://en.wikipedia.org/wiki/2020_Thai_protests[2020 Thai protests]. Left https://en.wikipedia.org/wiki/2020_Thai_protests[photo source].
 image::{cirosantilli-media-base}/Side_by_side_comparison_between_Thai_king_Vajiralongkorn_and_Hamtaro.jpg[height=400]
 
-.Leading Thai politicians prostrate themselves before Vajiralongkorn in 2016, presumably during his ascention to the throne. https://www.independent.co.uk/news/world/asia/bbc-investigation-thailand-king-defamation-a7460046.html[Source].
+.Leading Thai politicians prostrate themselves before Vajiralongkorn in 2016, presumably during his ascension to the throne. https://www.independent.co.uk/news/world/asia/bbc-investigation-thailand-king-defamation-a7460046.html[Source].
 image::{china-dictatorship-media-base}/Thai_king_prostrated_officers.jpg[height=400]
 
 .Suthida Tidjai, Vajiralongkorn's wife, prostrated before him during their marriage in 2016 before he officially ascended to the throne. Yes, prostration is a big thing in Thailand. An older king, Rama V, had apparently even https://en.wikipedia.org/wiki/Chulalongkorn#Abolition_of_prostration[abolished this practice in 1873]. Clearly, <<xi-jinping>> could learn a thing or two from a proper monarch like Vajiralongkorn. https://web.archive.org/web/20190723095722/https://www.theguardian.com/world/2019/may/03/thailand-coronation-king-maha-vajiralongkorn-rama-x[Source].
 image::{china-dictatorship-media-base}/Thai_king_prostrated_wife.jpg[height=400]
 
-.Thai king Vajiralongkorn wearing a https://en.wikipedia.org/wiki/Crop_top[crop top] so tight that it could be called a bra, and accompanied by one of his girlfriends, in a shopping center in Munich. He can wear whatever he wants, but to both wear that and enforce Lèse majesté? That's the ultimate torture for the Thai people. TODO date, exact location, original report. Here is one of the many reports,  https://www.thesun.co.uk/news/3578661/from-fake-tattoos-and-crop-tops-to-making-a-poodle-air-force-chief-the-king-of-thailands-maddest-moments-revealed/[sample report from 2017 in a British tabloid].
+.Thai king Vajiralongkorn wearing a https://en.wikipedia.org/wiki/Crop_top[crop top] so tight that it could be called a https://en.wikipedia.org/wiki/Bra[bra], and accompanied by one of his many girlfriends, in a shopping center in Munich. He can wear whatever the fuck wants, but to both wear that and enforce Lèse majesté? That's the ultimate torture for the Thai people, how can you not make fun of him??? TODO date, exact location, original report. Here is one of the many reports,  https://www.thesun.co.uk/news/3578661/from-fake-tattoos-and-crop-tops-to-making-a-poodle-air-force-chief-the-king-of-thailands-maddest-moments-revealed/[sample report from 2017 in a British tabloid].
 image::{china-dictatorship-media-base}/Thai_king_crop_top.jpg[height=400]
 
 == Iran
