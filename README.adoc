@@ -1213,23 +1213,10 @@ If China <<war,starts a war>>, other countries will have to fight it.
 +
 If China <<corona,fails to control a viral outbreak>>, other countries might get infected.
 * <<tiananmen,Millions of Chinese people>> disagree with their government, but can't say anything about it, otherwise <<t-shirt,they will go straight to jail>>. See also: xref:most-chinese-people-like-their-dictatorship[xrefstyle=full]
-* The CCP would likely not be in power today if the Japanese hadn't weakened the Guomindang and the link:https://www.wilsoncenter.org/blog-post/how-stalin-elevated-the-chinese-communist-party-to-power-xinjiang-1949[Soviet Union helped out Mao]:
-+
-** https://www.quora.com/How-much-is-Japan-to-blame-for-the-KMT-losing-control-of-the-Chinese-mainland
-** https://china-journal.org/2018/02/26/why-did-chiang-kai-shek-lose-china-the-guomindang-regime-and-the-victory-of-the-chinese-communist-party
-** https://zh.wikipedia.org/wiki/毛泽东感谢日本争议
-** https://en.wikipedia.org/wiki/Chinese_Communist_Revolution mentions:
-+
-____
-The French historian Lucien Bianco, however, is among those who question whether imperialism and "feudalism" explain the revolution.[7] He points out that the Chinese Communist Party did not have great success until the Japanese invasion of China after 1937. Before the war, the peasantry was not ready for revolution; economic reasons were not enough to mobilize them. More important was nationalism: "It was the war that brought the Chinese peasantry and China to revolution; at the very least, it considerably accelerated the rise of the CCP to power."
-____
-+
-And China would be much much less technologically advanced had it come in contact with the West, from which it is still trying to learn/steal from: <<university-espionage>>.
-+
-Foreign influence can be both good or bad.
 * Chinese people have been brainwashed by the <<evil-west,commies who say that all foreigners are bad>>, more than the West has been brainwashed to think that he CCP is bad: <<brainwashed-by-usa>>
 * China would never ever try to influence foreign countries, would it? E.g. <<belt-and-road-initiative>>, <<confucius-institute>>, <<cgtn>>.
 * If I <<wife,marry a Chinese woman>>, my <<ciro-santilli-mother-in-law-jail,mother-in-law might be unfairly put in jail>> :-)
+* <<the-ccp-would-not-be-in-power-if-it-werent-for-the-second-sino-japanese-war>> and if the link:https://www.wilsoncenter.org/blog-post/how-stalin-elevated-the-chinese-communist-party-to-power-xinjiang-1949[Soviet Union helped out Mao]:
 * You can't do anything about it.
 +
 In the end, this is what all politics comes down to: power.
@@ -1251,6 +1238,25 @@ See also:
 * <<is-ciro-santilli-chinese>>
 
 Duplicate pool: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ayou-are-not-chinese-argument
+
+==== The CCP would not be in power if it weren't for the Second Sino-Japanese War
+
+TODO study further to confirm:
+
+
+* https://www.quora.com/How-much-is-Japan-to-blame-for-the-KMT-losing-control-of-the-Chinese-mainland
+* https://china-journal.org/2018/02/26/why-did-chiang-kai-shek-lose-china-the-guomindang-regime-and-the-victory-of-the-chinese-communist-party
+* https://zh.wikipedia.org/wiki/毛泽东感谢日本争议
+* https://www.japanpolicyforum.jp/diplomacy/pt20160517095311.html (Japanese state media, but cites sources)
+* https://en.wikipedia.org/wiki/Chinese_Communist_Revolution mentions:
++
+____
+The French historian Lucien Bianco, however, is among those who question whether imperialism and "feudalism" explain the revolution.[7] He points out that the Chinese Communist Party did not have great success until the Japanese invasion of China after 1937. Before the war, the peasantry was not ready for revolution; economic reasons were not enough to mobilize them. More important was nationalism: "It was the war that brought the Chinese peasantry and China to revolution; at the very least, it considerably accelerated the rise of the CCP to power."
+____
++
+And China would be much much less technologically advanced had it come in contact with the West, from which it is still trying to learn/steal from: <<university-espionage>>.
++
+Foreign influence can be both good or bad.
 
 [[brainwashed-by-usa]]
 ==== Non-Chinese people have been brainwashed by the USA know nothing about China
@@ -3965,7 +3971,11 @@ See also:
 
 ===== Entertainers who support the CCP
 
-Boycott those:
+Western:
+
+* <<lebron-james-opposes-hong-kong-anti-extradition-bill-protests-2019>>
+
+Chinese who are famous in the West:
 
 * https://en.wikipedia.org/wiki/Jackie_Chan#Political_views_and_controversy[Jackie Chan 陳港生] even though he is born in Hong Kong
 ** https://www.youtube.com/watch?v=m3T_Dd3O1UM spoke against the <<2019-hong-kong-anti-extradition-bill-protests>>
@@ -4788,7 +4798,7 @@ to attack that repo:
 * https://github.com/ant-design/ant-design-pro/issues/8133 https://archive.ph/xp8ls
 * https://github.com/cirosantilli/china-dictatorship/issues/196 https://archive.ph/etYSf
 
-TODO which exact GitHub action did they rely on? That repo currently has a https://github.com/ant-design/ant-design-pro/actions/workflows/issue-open-check.yml Issue Open Check GitHub action sample run: https://github.com/ant-design/ant-design-pro/runs/2209272410?check_suite_focus=true we see the similarity issue analysis thing, but how could that have worked more precisely to link across repos?
+TODO which exact GitHub action did they rely on? That repo currently has a https://github.com/ant-design/ant-design-pro/actions/workflows/issue-open-check.yml Issue Open Check GitHub action sample run: https://github.com/ant-design/ant-design-pro/runs/2209272410?check_suite_focus=true we see the similarity issue analysis thing, but how could that have worked more precisely to link across repos? Asked at: https://github.com/cirosantilli/china-dictatorship/issues/203
 
 ===== Gitee
 
