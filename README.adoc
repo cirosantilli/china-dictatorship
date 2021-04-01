@@ -1628,11 +1628,11 @@ video::pc6DP1jNEec[youtube,height=400,width=600,start=2086]
 
 It is amusing to see Soviet series criticizing dictatorships, given that the Soviet Union was itself a major dictatorship!
 
-.https://youtu.be/4xoM6-1SWl4 The Living Dead Eposed 1: On the Desperate Edge of Now by Adam Curtis describes how the <<nazi,Nazis>>, disilusioned by both <<western-democracies-are-not-perfect,democracy>> and communism, built Nationalism by creating a mythical past. In Nationalism, the individuals would <<flg-cult,surrenders themselves to the State>>.
+.https://www.youtube.com/watch?v=4xoM6-1SWl4&t=191 https://en.wikipedia.org/wiki/The_Living_Dead_(TV_series)[The Living Dead] Episode 1: On the Desperate Edge of Now by Adam Curtis (1995) describes how the <<nazi,Nazis>>, disilusioned by both <<western-democracies-are-not-perfect,democracy>> and communism, built Nationalism by creating a mythical past. In Nationalism, the individuals would <<flg-cult,surrenders themselves to the State>>.
 video::4xoM6-1SWl4[youtube,height=400,width=600,start=191]
 
 [[most-chinese-people-like-their-dictatorship]]
-===== Most Chinese people like their dictatorship 中国大众支持他们的独裁
+===== Most Chinese people like their dictatorship (中国大众支持他们的独裁)
 
 It is easy to reach an agreement, when everyone who disagrees goes to jail or gets killed for to <<inciting-subversion>> or <<picking-quarrels>>.
 
@@ -1642,11 +1642,14 @@ See also: <<seventeen-moments-of-spring>>.
 
 One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy Few" (2018)], which which people are forced to be happy. <<nineteen-eighty-four>> also comes to mind of course.
 
-.https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game.
-video::zndzntIDLFE[youtube,height=400,width=600]
-
 .Westerner: "How is life in China?" Chinese: "Oh, we can't complain." Westerner: "That's awesome." Chinese: "No, seriously... we can't." is a word play between the more common "we can't complain because everything is great" and "we can't complain because <<xi-jinping,Xi>> will <<censorship,make us disappear>>". https://www.taiwannews.com.tw/en/news/3933168[Source]
 image::{china-dictatorship-media-base}/We_cant_complain.jpg[height=600]
+
+.https://www.youtube.com/watch?v=4xoM6-1SWl4&t=1606 https://en.wikipedia.org/wiki/The_Living_Dead_(TV_series)[The Living Dead] Episode 1: On the Desperate Edge of Now by Adam Curtis (1995) comments on how interviews with https://en.wikipedia.org/wiki/Hermann_Göring[Hermann Goring] during the https://en.wikipedia.org/wiki/Nuremberg_trials[Nuremberg trials] went: "Again and again, Jackson accused Goring of corruptly using his powers to commit crimes. Each time, Goring replied that such acts might be considered crimes in a democratic state, but that in Germany, democracy had failed. Eliminating the political opposition was necessary, to fulfill a higher principle: that of the Nation". This is exactly the justification given by the <<ccp,CCP>> for oppressing minorities and <<censorship,freedom of speech>>: the CCP is indistinguishable from the <<nazi,Nazi>>.
+video::4xoM6-1SWl4[youtube,height=400,width=600,start=1606]
+
+.https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game.
+video::zndzntIDLFE[youtube,height=400,width=600]
 
 [[chilling-effect]]
 ====== Chilling effect (寒蝉效应)
@@ -1936,6 +1939,9 @@ See also:
 
 ====== Fake news
 
+* https://en.wikipedia.org/wiki/Fake_news
+* https://zh.wikipedia.org/wiki/假新聞
+
 When a government controls all information to make it look good, and no one can challenge it, you cannot trust _any_ of the news produced by that country, as anything could be fake.
 
 It is much better to have some fake news, but also few sources that are likely telling the truth.
@@ -1953,6 +1959,7 @@ More interesting case is: https://en.wikipedia.org/wiki/Knight_First_Amendment_I
 Recent cases in which Ciro feel that Western countries have gotten it wrong:
 
 * Trump social media bans:
+** 2021-03-31 https://www.forbes.com/sites/rachelsandler/2021/03/31/conservatives-blast-facebook-for-removing-trump-interview-with-daughter-in-law/ "Conservatives Blast Facebook For Removing Trump Interview With Daughter-In-Law". This perfectly illustrates why it is unreasonable to ban someone from social media. You end up having to ban anyone who supports them as well.
 ** 2021-01-09 https://techcrunch.com/2021/01/09/the-deplatforming-of-a-president/ "The deplatforming of President Trump" has an overview: Twitter permaban, Facebook indefinite time, Google store removed Parler from App Store, Apple store soon followed: https://techcrunch.com/2021/01/09/apple-suspend-parler-from-app-store/ <<tiktok>> censorehttps://techcrunch.com/2021/01/07/tiktok-bans-videos-of-trump-inciting-mob-blocks-stormthecapital-and-other-hashtags/ And Amazon announced a Parler block with 24 hours advance: https://techcrunch.com/2021/01/09/amazon-web-services-gives-parler-24-hour-notice-that-it-will-suspend-services-to-the-company/
 +
 All of those banning should not be done. If the people want to rebel, they must be allowed to communicate and rebel.
@@ -2159,7 +2166,7 @@ Just like you, Ciro Santilli and other politicians in any country.
 See also: <<politicians>>.
 
 [[nazi]]
-=== Comparisons between the CCP and Nazi Germany 纳粹德国
+=== Comparisons between the CCP and Nazi Germany (纳粹德国)
 
 Keywords:
 
@@ -2912,7 +2919,7 @@ It might be a newbie text editors for newbie Windows users, but at least they us
 The creator appears to be a Vietnamese immigrant or descendant living in France. There are many such immigrants due to Vietnam being an ex-colony: https://github.com/donho Also he must have good reason to dislike the commies due to similar commit bullshit in Vietnam. He was at https://en.wikipedia.org/wiki/Paris_Diderot_University[Paris Diderot] in 2000: https://donho.github.io/#education (https://web.archive.org/web/20190424004100/https://donho.github.io/#education[archive]).
 
 [[separatism]]
-=== Separatism 分离主义
+=== Separatism (分离主义)
 
 If a large number of people in a given region want to leave an country strongly or have greater autonomy, <<ciro-santilli>> believes that they should be allowed to do so.
 
@@ -2969,10 +2976,10 @@ Some interesting links:
 
 News:
 
-* 2021-03-10 https://web.archive.org/web/20210310210519/https://www.bloomberg.com/news/articles/2021-03-10/asia-shoppers-snap-up-taiwan-pineapples-in-defiance-of-china-ban "Shoppers in Asia Snap Up Taiwan’s Pineapples in Defiance of China’s Ban". In 2018 there were fake news about that apparently: https://www.taiwannews.com.tw/en/news/3423317 but now it became true.
+* 2021-03-10 https://web.archive.org/web/20210310210519/https://www.bloomberg.com/news/articles/2021-03-10/asia-shoppers-snap-up-taiwan-pineapples-in-defiance-of-china-ban "Shoppers in Asia Snap Up Taiwan’s Pineapples in Defiance of China’s Ban". In 2018 there were <<fake-news>> about that apparently: https://www.taiwannews.com.tw/en/news/3423317 but now it became true.
 
 [[one-china-policy]]
-===== One China policy 一个中国
+===== One China policy (一个中国)
 
 * https://en.wikipedia.org/wiki/One-China_policy
 * https://zh.wikipedia.org/wiki/一个中国
@@ -3824,7 +3831,7 @@ The Chinese army, and also one of the central intelligence agencies, notably on 
 
 ===== The West must ban the Chinese telecommunications software and hardware
 
-They are an entry point to spying, censorship and fake news. Notable companies that should be banned:
+They are an entry point to spying, censorship and <<fake-news>>. Notable companies that should be banned:
 
 * <<huawei>>
 * <<tiktok>>
@@ -4114,7 +4121,17 @@ News and reports:
 
 China's "Diaspora management" organ.
 
-The likely organizers behind <<confucius-institute>> and <<cssa>>.
+The likely organizers behind <<confucius-institute>>, <<cssa>>, and likely several forms of <<astroturfing>>.
+
+==== Astroturfing
+
+* https://en.wikipedia.org/wiki/Astroturfing
+
+[[soft-power]]
+===== Soft power (软实力)
+
+* https://en.wikipedia.org/wiki/Soft_power
+* https://zh.wikipedia.org/wiki/软实力
 
 === What should pro-democracy Chinese living in China do about the dictatorship?
 
@@ -4734,7 +4751,7 @@ tr -d '\n' |
 head -c 64000
 ....
 +
-Ciro started using that one instead to see if it was going to be more effective on 2021-03-28.
+Ciro started using that one instead to see if it was going to be more effective on 2021-03-28. First it hit a peak of 168 visitors on Monday 2021-03-29, and then fell back to 90 and 81 on the following days, so similar to the previous Chinese political input. It is very hard to understand why the first day was so different.
 * https://github.com/trending?since=monthly&spoken_language_code=zh trending Chinese repositories
 +
 A large part of those projects falls in the following categories:
@@ -5094,7 +5111,7 @@ https://www.quora.com/profile/Ciro-Santilli
 
 Quora is https://cirosantilli.com/quora[a generally shitty website], with mechanisms that allow <<wumao,wumaos>> to quench freedom of speech.
 
-Quora is a major platform for dictatorship-https://en.wikipedia.org/wiki/Astroturfing[astroturfing].
+Quora is a major platform for <<astroturfing>>.
 
 Ironically, as usual, is it also blocked in China:
 
@@ -8716,7 +8733,7 @@ but that is really poorly stated and links to her blog as reference: https://med
 But in any case, she walks the line.
 ** https://twitter.com/RealSexyCyborg/status/1281934477430681601 "Naomi on a Saturday night, complaining about the lack of available FOSS anti-censorship options to help her fellow Chinese access the global Internet. FML I should pack some snacks to take with me..." It's hard to understand what she means.
 ** https://twitter.com/RealSexyCyborg/status/1340495054733905922 "I'm Cantonese, I've been in countless private WhatsApp and Telegram groups where these issues were openly discussed in our dialect, and countless Mainland WeChat groups with that perspective- trust me, I know quite a lot more about this than some illiterate randos from the US."
-** So either she is anti-CCP, or she is part of the most advanced soft power program ever made
+** So either she is anti-CCP, or she is part of the most advanced <<soft-power>> program ever made
 
 ==== Lists of Chinese dissidents
 
@@ -11105,7 +11122,7 @@ https://en.wikipedia.org/wiki/Hitler_Youth was the <<nazi,Nazi Germany>> youth o
 http://ftp.iza.org/dp3214.pdf suggests that a 1% increase in the male/female sex ratio raised violent and property crime rates by some 3%, mentioned with percentage error at https://youtu.be/DytBlcScGNk?t=1304
 
 [[rule-of-law]]
-=== Rule of law 法治
+=== Rule of law (法治)
 
 * https://en.wikipedia.org/wiki/Rule_of_law
 * https://zh.wikipedia.org/wiki/法治
@@ -11120,6 +11137,9 @@ But in reality they punish anyone who poses a political threat, even if they did
 * <<falun-gong>>: what did they do wrong to other people that deserves putting them in jail? Is <<flg-medication>> enough to justify that? Are you sure that it is not a political motivation?
 * <<the-709-crackdown>>: even lawyers who support anyone who went against the state are imprisoned. How can there be any justice when lawyers are put in jail due to their choice of clients?
 * 2020-06 Hao Runze, son of <<hao-haidong>>, lost his job because his father spoke up against the CCP. Did the CCP speak up for him, like the speak up whenever a Chinese citizen gets hurt?
+
+.On 2021-03-31, a uniformed Chinese cop called Qelbinur Sedik, who was a teacher in the <<xinjiang-re-education-camps>> who https://thediplomat.com/2020/08/confessions-of-a-xinjiang-camp-teacher/[fled China and spoke to the media what she saw], to menace her through her sister, who is still in China. https://www.bbc.co.uk/news/world-asia-china-56563449[Source].
+image::{china-dictatorship-media-base}/Qelbinur_Sedik_call_with_cop.jpg[height=400]
 
 [[picking-quarrels]]
 ==== Picking quarrels and provoking trouble (寻衅滋事罪)
