@@ -2326,6 +2326,16 @@ GitHub issue label: https://github.com/cirosantilli/china-dictatorship/issues?q=
 .A https://en.wikipedia.org/wiki/Vagina[Vagina] (https://zh.wikipedia.org/wiki/阴道[阴道]) also known as cunt (屄), is the female reproductive organ, including the naturally occurring black hole that appears in front of it whenever a picture is taken to prevent <<github>> from taking down this page. Even though <<porn,you've never seen one>>, there's no need to be afraid of it, and refer to it in euphemisms like "SB". https://en.wikipedia.org/wiki/File:Rugae_vaginales.jpg[Background source] and https://commons.wikimedia.org/wiki/File:Black_Hole_Milkyway.jpg[black hole source].
 image::{cirosantilli-media-base}/Rugae_vaginales_with_black_hole.jpg[height=400]
 
+[[shina]]
+====== Shina (zhina, 支那)
+
+* https://en.wikipedia.org/wiki/Shina_(word)
+* https://zh.wikipedia.org/wiki/支那
+
+Derogatory or humorous way to refer China. Occurrences:
+
+* <<zhina-wiki>>
+
 [[internet-number-slang]]
 ====== Internet number slang (网络数字语言)
 
@@ -2508,20 +2518,24 @@ D E E P: https://github.com/cirosantilli/china-dictatorship/labels/you-are-stupi
 
 Feel free to publish any proof of your own incredible intelligence.
 
-==== Are you a SJW?
+==== Is Ciro Santilli a SJW?
 
-SJW: there is a seed of SJW in me.
+SJW: there is a seed of SJW in <<ciro-santilli>>.
 
-One major difference between me and the stereotypical SJW is that I never engage in lengthy discussions.
+One major difference between Ciro and the stereotypical SJW is that he never engage in lengthy discussions as per <<reply-policy>>.
 
-I limit myself to listening as much as I can to learn new arguments.
+He limits himself to listening as much as he can to learn new arguments.
 
-So the rationale of my actions is _not_ to convince anyone, but rather:
+So the rationale of his actions is no_ to convince anyone, but rather:
 
-* increase the monetary cost of censorship by binding politics to tech
-* group up like-minded people who don't like censorship
+* increase the monetary cost of censorship by binding politics to tech with <<keyword-attack>>
+* group up like-minded people who don't like <<censorship>>
 
 See also: <<preconceived>>
+
+===== Are you a SJW?
+
+Moved to <<is-ciro-santilli-a-sjw>>.
 
 [[does-ciro-santilli-hate-china]]
 ==== Does Ciro Santilli hate China? 三西猴讨厌中国吗？
@@ -2791,6 +2805,7 @@ Subs with lots of anti-commie info:
 * https://www.reddit.com/r/HongKong had 3x more users than r/china as of 2020 after <<2019-hong-kong-anti-extradition-bill-protests>>.
 * https://www.reddit.com/r/CCP_virus/ for <<corona>>
 * https://www.reddit.com/r/tibet/ 3k subs 2020
+* https://www.reddit.com/r/ChinaMemes 2.5k subs 2021-03
 * https://www.reddit.com/r/saraba2nd/ (第二新S1市) modded by <<chinatimeline>> TODO title meaning
 * https://www.reddit.com/r/BoycottChina/
 * China Circle Jerk subs (CCJ). TODO: these appear to be <<politically-incorrect,politically incorrect>> subs, but they do seem to allow anti-commit info. As of 2020, they were either banned or private:
@@ -2801,6 +2816,21 @@ TODO review:
 
 * https://www.reddit.com/r/taiwan/
 * https://www.reddit.com/r/China_Flu/
+
+===== r/chonglangTV
+
+https://www.reddit.com/r/chonglangTV/
+
+15k users 2020-03.
+
+Chinese language, pretty good content, anti-CCP samples:
+
+* 2020-03-27 https://www.reddit.com/r/chonglangTV/comments/mdlowp/ciro这人行能处/ (Ciro is nice)
+* 2021-02 https://www.reddit.com/r/chonglangTV/comments/lf5dy5/致那些坚持认为不会翻墙者不配看墙外东西的粉红/
+* 2021-01 https://www.reddit.com/r/chonglangTV/comments/kpulab/最双标的人/ (the people with the most double standards, 双标 is a short form or 双重标准), comments how China complained when the US imposed sanctions on <<huawei>>, while China itself had already banned everything from the West
+* 2021 https://www.reddit.com/r/chonglangTV/comments/lyxlf9/不_言_而_喻一_目_了_然/ has a cartoon about <<jack-mas-disappearance-2021>>. Ciro's actually going to steal that.
+
+Unsurprisingly there appears to be some overlap between that community and <<terminus2049>>: 2020-09-07 https://2047.name/t/7292 "如何评价reddit小组“冲浪TV”？" (What do you think about the chonglangTV sub?)
 
 ====== r/sino
 
@@ -2851,6 +2881,10 @@ Lists by <<ciro-santilli>>:
 After Trump was unfairly banned from Twitter, his social media team created an amazing "Chongald Xrump" account <<what-should-western-countries-do-about-china,pretending ridiculously to be a CCP PR person>>, it had really good posts.
 
 But that amazing account was banned: https://babylonbee.com/news/trump-sneaks-back-on-twitter-by-disguising-self-as-pr-rep-for-chinese-communist-party Twitter is <<politically-incorrect,trying really hard>> to beat the <<censorship,CCP at its own game>>.
+
+===== Tumblr
+
+* https://independence-of-mind.tumblr.com/ 独立思考社群 (Independent thought society)
 
 ==== Where can I find good words for a keyword attack?
 
@@ -10756,10 +10790,8 @@ They can be classified as a form of https://en.wikipedia.org/wiki/Information_wa
 A wise person once said:
 
 ____
-It is impossible to distinguish wumaos, idiots and <<not-chinese,brain washed>> people. So we just call all of them wumaos.
+It is impossible to distinguish wumaos, <<little-pink,idiots>> and <<not-chinese,brain washed>> people. So we just call all of them wumaos.
 ____
-
-It has been pointed out however that there is a funny <<slang,slang>> name for brainwashed CCP supporters who are not necessarily paid professional wumaos: "link:https://zh.wikipedia.org/wiki/小粉紅[小粉紅]" (little pinks)
 
 But of course, the <<ccp-cult,CCP is a cult>> (and <<democracy-is-a-religion,democracy, a religion>>), and therefore <<preconceived,any discussion is also pointless>> in general.
 
@@ -10826,6 +10858,38 @@ Bibliography:
 
 .50-cent coin (五角) from the https://en.wikipedia.org/wiki/Fourth_series_of_the_renminbi[fourth series of renminbi] (https://zh.wikipedia.org/wiki/第四套人民币[第四套人民币], 1987-1997). This image is going to be very useful. Note the beautiful plum blossom drawings reminiscent of <<chinese-traditional-painting>> which <<ciro-santilli>> loves. Note how it uses 角 (jiao3) instead of 毛 (mao2). http://www.bjzxcp.com/article-41679.html[Source].
 image::{china-dictatorship-media-base}/Wujiao.png[height=400]
+
+[[little-pink]]
+===== Little pink (小粉紅, 小紅粉)
+
+* https://en.wikipedia.org/wiki/Little_Pink
+* https://zh.wikipedia.org/wiki/小粉紅
+
+<<slang,slang>> name for <<stupid,brainwashed>> <<ccp,CCP>> supporters who are not necessarily paid professional <<wumao,wumaos>>".
+
+Bibliography:
+
+* 2020-06-29 “小粉红”现象调查 (An investigation of the "Little Pink" phenomenon)
+* 2017 http://www.8bb.com/zaojiao/5264.html "小红粉小粉红是什么 家长发现孩子自称小粉红怎么办" (What is a little pink? If a parent discovers that their children call themselves little pinks, what should they do about it?). Kill them.
+
+[[that-rabbit]]
+====== That Rabbit (那兔)
+
+<<little-pink,Little pinks>> are often symbolized by a rabbit.
+
+The origin of this appears to be the 2011 webcomic https://en.wikipedia.org/wiki/Year_Hare_Affair[Year Hare Affair] (https://zh.wikipedia.org/wiki/那年那兔那些事兒[那年那兔那些事], literally "That year, That rabbit, Those events), where different animals represent different countries, and the rabbit represented China.
+
+The little pink rabbit is generally called simply "那兔" (That Rabbit) derived from the Chinese title.
+
+Bibliography:
+
+* 2020-01-14 https://pincong.rocks/question/15322 "问下小粉红为什么叫中共兔子？" (Why do Little Pinks call the CCP Rabbit)
+
+.As of 2020, a particularly popular representation is this cute one wearing a <<pla>>-hat and with a https://en.wikipedia.org/wiki/Red_star[red star] (https://zh.wikipedia.org/wiki/紅星[红星]) on the chest, but in the original cartoon That Rabbit appeared to be more aggressive. https://www.pinterest.fr/pin/757167756087837907/[Source].
+image::{china-dictatorship-media-base}/That_Rabbit_cute.jpg[height=400]
+
+.<<wife>> told him that <<that-rabbit>> reminded her of https://en.wikipedia.org/wiki/Mashimaro[Mashimaro] (https://zh.wikipedia.org/wiki/流氓兔[流氓兔]), a cute Korean cartoon she used to watch when she was small. https://en.wikipedia.org/wiki/File:Mashimaro_-_01.png[Source].
+image::{china-dictatorship-media-base}/Mashimaro.png[height=400]
 
 [[how-to-deal-with-wumaos]]
 ===== How to deal with wumaos (如何应对五毛)
@@ -11385,10 +11449,19 @@ Seems to not have edit history. <<wayback-machine,History >> is bad for censorsh
 
 ==== Jack Ma's disappearance (2021)
 
-Got bitchslaped by Xi, 3 months disappearance:
+Got https://www.urbandictionary.com/define.php?term=bitch%20slapped[bitchslapped] by <<xi-jinping>>, 3 months disappearance:
 
 * 2021-02-16 https://web.archive.org/web/20210219160944/https://www.wsj.com/articles/china-blocked-jack-mas-ant-ipo-after-an-investigation-revealed-who-stood-to-gain-11613491292 "China Blocked Jack Ma’s Ant IPO After Investigation Revealed Likely Beneficiaries. Well-connected Chinese power players, including some with links to political families that represent a potential challenge to President Xi". Mentioned specifically are Jiang Zhicheng
 * https://www.theguardian.com/business/2021/jan/23/the-strange-case-of-alibabas-jack-ma-and-his-three-month-vanishing-act
+
+.Cartoon of Jack Ma, <<winnie-the-pooh>> (representing <<xi-jinping>>) and <<that-rabbit>> (representing the Chinese people) splitting cookies. Winnie has a huge pile, Jack has a medium pile, and That Rabbit has a tiny pile. Winnie is saying "那个资本家夺走了你的饼干！" (That capitalist stole your cookies!). The cartoon suggests that the Chinese state has a lot of money and power, extremely successful entrepreneurs have a medium power, and the common people, who are manipulated by the CCP, have basically nothing. https://www.reddit.com/r/chonglangTV/comments/lyxlf9/不_言_而_喻一_目_了_然/[Source].
+image::{china-dictatorship-media-base}/Jack_Ma_Winnie_the_Pooh_and_That_Rabbit_splitting_cookies.jpg[height=400]
+
+[[jack-ma]]
+==== Jack Ma (马云)
+
+* https://en.wikipedia.org/wiki/Jack_Ma
+* https://zh.wikipedia.org/wiki/马云
 
 [[xiaomi]]
 === Xiaomi (小米)
@@ -11637,6 +11710,8 @@ Apparently addresses were:
 * http://zhina.red/ this appears to be the one that lasted longer
 
 but both down as of March 2021.
+
+支纳 (zhina) is likely just another variant of: <<shina>>.
 
 Dissidents, you have to learn to use Tor Onion Services!!! Doxing, even of evil people, is still normally taken down on the West, so there is no other choice!
 
