@@ -987,9 +987,11 @@ ____
 Laurence J Peter:
 
 ____
-
 Democracy is a process by which the people are free to choose the man who will get the blame.
 ____
+
+."中国人道德低下素质差。所以不适合民主。" Translation: The Chinese people are immoral and uneducated (people are angry). That's why they're not suitable for democracy (people are happy). This makes fun of the fact even if you say bad things about the Chinese, some people will complain that you are racist. But the same people will also say the same bad things about the Chinese people as a way to explain why it is better if they don't vote, and no one minds that. https://www.reddit.com/r/chonglangTV/comments/jssa4t/道德低下素质差的好处/[Source].
+image::{china-dictatorship-media-base}/Immoral_and_uneducated.jpg[height=400]
 
 ===== The Chinese masses are not interested in politics and therefore not ready to vote
 
@@ -1645,7 +1647,7 @@ One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy
 .Westerner: "How is life in China?" Chinese: "Oh, we can't complain." Westerner: "That's awesome." Chinese: "No, seriously... we can't." is a word play between the more common "we can't complain because everything is great" and "we can't complain because <<xi-jinping,Xi>> will <<censorship,make us disappear>>". https://www.taiwannews.com.tw/en/news/3933168[Source]
 image::{china-dictatorship-media-base}/We_cant_complain.jpg[height=600]
 
-.https://www.youtube.com/watch?v=4xoM6-1SWl4&t=1606 https://en.wikipedia.org/wiki/The_Living_Dead_(TV_series)[The Living Dead] Episode 1: On the Desperate Edge of Now by Adam Curtis (1995) comments on how interviews with https://en.wikipedia.org/wiki/Hermann_Göring[Hermann Goring] during the https://en.wikipedia.org/wiki/Nuremberg_trials[Nuremberg trials] went: "Again and again, Jackson accused Goring of corruptly using his powers to commit crimes. Each time, Goring replied that such acts might be considered crimes in a democratic state, but that in Germany, democracy had failed. Eliminating the political opposition was necessary, to fulfill a higher principle: that of the Nation". This is exactly the justification given by the <<ccp,CCP>> for oppressing minorities and <<censorship,freedom of speech>>: the CCP is indistinguishable from the <<nazi,Nazi>>.
+.https://www.youtube.com/watch?v=4xoM6-1SWl4&t=1606 https://en.wikipedia.org/wiki/The_Living_Dead_(TV_series)[The Living Dead] Episode 1: On the Desperate Edge of Now by Adam Curtis (1995) comments on how interviews with https://en.wikipedia.org/wiki/Hermann_Göring[Hermann Goring] (https://zh.wikipedia.org/wiki/赫尔曼·戈林[赫尔曼·戈林]) during the https://en.wikipedia.org/wiki/Nuremberg_trials[Nuremberg trials] went: "Again and again, Jackson accused Goring of corruptly using his powers to commit crimes. Each time, Goring replied that such acts might be considered crimes in a democratic state, but that in Germany, democracy had failed. Eliminating the political opposition was necessary, to fulfill a higher principle: that of the Nation". This is exactly the justification given by the <<ccp,CCP>> for oppressing minorities and <<censorship,freedom of speech>>: the CCP is indistinguishable from the <<nazi,Nazi>>.
 video::4xoM6-1SWl4[youtube,height=400,width=600,start=1606]
 
 .https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game.
@@ -2745,8 +2747,11 @@ If you do decide to strike though, <<what-should-pro-democracy-chinese-living-in
 
 For "violence is illegal" arguments, see also: <<follow-the-law>>.
 
-.One baby <<nazi,Hitler>> or 5 Million Jews https://en.wikipedia.org/wiki/Trolley_problem[trolley problem] illustrates well the moral dillema of https://en.wikipedia.org/wiki/Consequentialism["the ends justify the means"].
+.One baby <<nazi,Hitler>> or 5 Million Jews https://en.wikipedia.org/wiki/Trolley_problem[trolley problem] illustrates well the moral dilemma of https://en.wikipedia.org/wiki/Consequentialism["the ends justify the means"].
 image::{cirosantilli-media-base}/Baby_Hitler_vs_5_million_Jews_trolley_problem.jpg[height=400]
+
+.Translation: What women think men want (a kiss). What men actually want (decapitating <<xi-jinping>>). The image from the left comes from the Japanese manga https://mangakakalot.com/manga/vm922794[Okaeri Alice] according to Reddit comments. The image to the right is based on an illustration of the decapitation of https://en.wikipedia.org/wiki/Louis_XVI[Louis XVI] (https://zh.wikipedia.org/wiki/路易十六[路易十六]) during the https://en.wikipedia.org/wiki/French_Revolution[French Revolution] (https://zh.wikipedia.org/wiki/法国大革命[法国大革命]), but with Louis' head replaced by Xi Jinping's head. An original can be found at: https://castinet.castilleja.org/users/pmckee/frenchrev/violentphase.html[]. https://www.reddit.com/r/chonglangTV/comments/m8qwz4/真正的需要/[Source].
+image::{cirosantilli-media-base}/What_Chinese_men_really_want.jpg[height=400]
 
 ==== It is fine for the CCP to treat some of its citizens unfairly if the majority is better off
 
@@ -3204,6 +3209,10 @@ Also includes the <<uyghurs-for-sale>> report.
 
 News:
 
+* 2021-03-28 <<cgtn>> invents French national "Laurene Beaumond" who refutes the situation in Xinjiang:
+** <<cgtn>> article in French: https://francais.cgtn.com/n/BfJEA-cA-HAA/DcCEIA/index.html
+** original investigation by Le Monde: https://www.lemonde.fr/international/article/2021/03/31/quand-la-television-chinoise-cgtn-invente-une-journaliste-francaise_6075155_3210.html
+** commentary https://www.theguardian.com/world/2021/apr/01/china-butchers-aesop-fable-in-latest-act-of-wolf-warrior-diplomacy
 * 2021-03-20 https://www.amnesty.org/en/latest/research/2021/03/the-nightmare-of-uyghur-families-separated-by-repression/ "The nightmare of Uyghur families separated by repression"
 +
 ____
@@ -7852,6 +7861,9 @@ ____
 +
 See also: <<shitpost>>.
 
+.<<xi-jinping>> photoshopped as https://en.wikipedia.org/wiki/Joker_(character)[The Joker] (https://zh.wikipedia.org/wiki/小丑_(角色)[小丑]). Would have been perfect with https://www.theguardian.com/world/2020/sep/22/ren-zhiqiang-who-called-chinese-president-a-clown-jailed-for-18-years[2020-09-22 Ren Zhiqiang - who called Chinese president a 'clown' - jailed for 18 years], see also: <<corruption>>. https://www.reddit.com/r/chonglangTV/comments/m04q0p/乌合麒麟新作一尊小丑/[Source].
+image::{china-dictatorship-media-base}/Xi_Jinping_photoshopped_as_The_Joker.jpg[height=400]
+
 [[xi-jinping-lookalikes]]
 ===== Xi Jinping lookalikes (习近平撞脸)
 
@@ -8820,6 +8832,10 @@ As of 2019, he had 14 Weibo accounts blocked (created one, got blocked, created 
 Profiles and news:
 
 * 2020-01-28 https://www.inkstonenews.com/society/chinas-mma-fighter-xu-xiaodong-fight-survival/article/3047417
+
+Related:
+
+* https://independence-of-mind.tumblr.com/post/619590950709329921/武僧一龙被泰拳手ko中国功夫为何不能打-短史记-作者谌旭彬-2017118 "武僧一龙被泰拳手KO，中国功夫为何不能打？ | 短史记" (Yi Long was KO'ed by Muai Tai. Why can't Chinese kung fu can't strike? A short history.)
 
 .Uphold science, eradicate superstition "崇尚科学 破除迷信" 1999 poster by the CCP created as an <<falun-gong,anti-Falun Gong>> propaganda likely based on a http://www.people.com.cn/GB/channel1/10/20000710/137317.html[more widely widespread slogan] (https://web.archive.org/web/20090428155413/http://www.people.com.cn/GB/channel1/10/20000710/137317.html[archive]). So why is Xiaodong not being supported by the CCP now that he is beating superstition back into its place? Once again, <<censorship-makes-countries-poorer>>. The poster features images related to the https://en.wikipedia.org/wiki/Chinese_space_program[Chinese space program 中华人民共和国航天], which is a major undertaking of the CCP and widely used propaganda point. https://chineseposters.net/themes/falun-gong.php[Source].
 image::{china-dictatorship-media-base}/Uphold_science.jpg[height=600]
@@ -10953,17 +10969,6 @@ Video by <<western-dissidents,Lele Farley>> making fun of him and <<nathan-rich>
 It does not feel like he is paid by the Chinese government, but rather that he is just trying to get some views.
 +
 https://www.zhihu.com/question/334923127 如何评价俄罗斯籍中国网红伏拉夫？ on <<zhihu>> with 17k likes as of 2020-06.
-* Daniel Dumbrill
-+
-Channel: https://www.youtube.com/channel/UC6Bl8MTbW9M9MQoPhxbarpw
-+
-Clip featured in <<cgtn>>: https://www.youtube.com/watch?v=TUjatX2p0dA (http://archive.is/gCeIk[archive]) "Daniel Dumbrill: Hong Kong is far freer since its return to China" supporting <<hong-kong-national-security-law>>
-+
-Another one: https://www.youtube.com/watch?v=wMUA3GeScUI "Daniel Dumbrill: I want my children to be proud of being Chinese"
-+
-https://www.youtube.com/watch?v=gygxrdNmzUQ "Speaking With a Uyghur Activist About Xinjiang Abuse" interviews https://twitter.com/arslan_hidayat[Arslan Hidayat], who was also interviewed by <<china-uncensored,China Unscripted>>: https://www.youtube.com/watch?v=fUTUVxw7VXc and appears to be denouncing the oppression. Video description is filled to the brim with links about how the West is using Xinjiang for fake news. TODO how can he make a video with that guy and still live in China? This suggests strongly that his videos obtain direct CCP approval.
-+
-https://www.youtube.com/watch?v=9nNZbDF75dc "Daniel the Pro-China 'Shill'" replies to accusations of being pro-China
 * https://en.wikipedia.org/wiki/Allan_Zeman Carrie Lam supporter
 * "Living in China" by Jason Lightfoot: https://www.youtube.com/user/JasonLightfoot Sample video: https://www.youtube.com/watch?v=2Mjik6q7FFo "The CCP is Wonderful! Thank you China not a government shill 谢谢你中国"
 
@@ -11065,6 +11070,28 @@ Their tone is natural unlike others more exaggerated like <<nathan-rich>>, so ma
 Sample videos:
 
 * https://www.youtube.com/watch?v=Fq1mCL7EQrM "China Doesn't Have Free Speech!"
+
+====== Daniel Dumbrill
+
+https://www.youtube.com/channel/UC6Bl8MTbW9M9MQoPhxbarpw
+
+Daniel's family name is telling: "DUMB rill".
+
+Featured on <<cgtn>>:
+
+* https://www.youtube.com/watch?v=TUjatX2p0dA (http://archive.is/gCeIk[archive]) "Daniel Dumbrill: Hong Kong is far freer since its return to China" supporting <<hong-kong-national-security-law>>
+* https://www.youtube.com/watch?v=wMUA3GeScUI "Daniel Dumbrill: I want my children to be proud of being Chinese"
+
+Sample content form his channel:
+
+* https://www.youtube.com/watch?v=gygxrdNmzUQ "Speaking With a Uyghur Activist About Xinjiang Abuse" interviews https://twitter.com/arslan_hidayat[Arslan Hidayat], who was also interviewed by <<china-uncensored,China Unscripted>>: https://www.youtube.com/watch?v=fUTUVxw7VXc and appears to be denouncing the oppression. Video description is filled to the brim with links about how the West is using Xinjiang for fake news. TODO how can he make a video with that guy and still live in China? This suggests strongly that his videos obtain direct CCP approval.
+* https://www.youtube.com/watch?v=9nNZbDF75dc "Daniel the Pro-China 'Shill'" replies to accusations of being pro-China
+
+At 2021-03-29 https://pincong.rocks/question/37519 (https://pincong.rocks/question/37519[archive]) from <<pincong>> people are saying that they even if the USA is evil, the CCP is more, one commenter quoted Churchill:
+
+____
+If Hitler invaded hell I would make at least a favourable reference to the devil in the House of Commons
+____
 
 [[nigel-ng]]
 ====== Nigel Ng (ungle-roger, mrnigelng, 罗杰叔叔)
