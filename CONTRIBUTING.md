@@ -22,7 +22,7 @@ Forbidden:
 
     But if you start creating lots of boring shitposts, you are in danger of getting blocked.
 
-    As a rule of thumb, three immediate idiotic new issues gets you blocked.
+    As a rule of thumb, three immediate idiotic new issues gets you blocked, tracking those under: https://github.com/cirosantilli/china-dictatorship/labels/spam
 
     So instead of creating multiple boring shitposts, please just edit your initial boring shitpost, or add new comments there.
 
@@ -51,6 +51,10 @@ Punitive measures, from least serious to most serious:
 -   delete comment or vandalize the user's post.
 
     Actually, the main reason Ciro Santilli bans non-notification generators is not that he gives a fuck about the insults, but rather that he wants to prevent the OP from editing away his amazing post vandalisms.
+
+    These will be tracked under: https://github.com/cirosantilli/china-dictatorship/labels/vandalized
+
+-   if your title contains the words 傻逼 or any variants, and no other interesting content, a ban + vandalization is likely
 
 -   ban all known accounts of an user over multiple websites
 

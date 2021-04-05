@@ -204,7 +204,7 @@ GitHub Pages: https://cirosantilli.com/china-dictatorship trade-offs with https:
 ** domain will eventually get blocked in China. <<greatfire>> https://zh.greatfire.org/https/cirosantilli.com shows that in 2020-01-19 the domain was unblocked, but on the next text at 2020-05-23 it was "contractictory".
 ** Camo bypasses the need for VPN, since most images are served from <<wayback-machine>> which is <<censorship,blocked in China>>.
 
-It is really interesting to see how many people star the GitHub repository, and then a few minutes later they think about how they might get put in jail, and then unstar it. Talk about <<chilling-effect>>!
+It is really interesting to see how many people star the GitHub repository, and then a few minutes later they think about how they might get put in jail, and then unstar it. Talk about <<chilling-effect>>! But yes, for the love of God, please stay safe: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
 
 GitHub Pages was first enabled in 2020-03-22 at https://github.com/cirosantilli/china-dictatorship/commit/0b362a83fb5dd55f67b9d351551d0c18e7f3229a[].
 
@@ -802,9 +802,18 @@ image::{china-dictatorship-media-base}/Covid_Xi.jpg[height=500]
 Popular GitHub repo documenting personal experiences and media reports:
 
 * https://github.com/2019ncovmemory/nCovMemory "新冠肺炎记忆：报道、非虚构与个人叙述" 2020 New coronavirus pneumonia memories: reports, non-fictional and personal accounts.
++
+Some of the creators of the repostory were arrested in 2020: https://qz.com/1846277/china-arrests-users-behind-github-coronavirus-memories-page/ and the repo must have been taken down at that time.
++
+ fork with the most stars we can find: https://github.com/dta0502/nCovMemory[], in case that goes down: https://github.com/cirosantilli/nCovMemory
 * https://github.com/memoryhonest/nCovMemory-en translation project
 
 Other interesting GitHub repositories: <<github-repositories-with-censored-information>>.
+
+Related:
+
+* https://github.com/lestweforget/wuhan2019
+* https://github.com/lestweforget/COVID-19-Timeline
 
 ====== People arrested for reporting on the 2019 Corona Virus
 
@@ -2751,7 +2760,7 @@ For "violence is illegal" arguments, see also: <<follow-the-law>>.
 image::{cirosantilli-media-base}/Baby_Hitler_vs_5_million_Jews_trolley_problem.jpg[height=400]
 
 .Translation: What women think men want (a kiss). What men actually want (decapitating <<xi-jinping>>). The image from the left comes from the Japanese manga https://mangakakalot.com/manga/vm922794[Okaeri Alice] according to Reddit comments. The image to the right is based on an illustration of the decapitation of https://en.wikipedia.org/wiki/Louis_XVI[Louis XVI] (https://zh.wikipedia.org/wiki/路易十六[路易十六]) during the https://en.wikipedia.org/wiki/French_Revolution[French Revolution] (https://zh.wikipedia.org/wiki/法国大革命[法国大革命]), but with Louis' head replaced by Xi Jinping's head. An original can be found at: https://castinet.castilleja.org/users/pmckee/frenchrev/violentphase.html[]. https://www.reddit.com/r/chonglangTV/comments/m8qwz4/真正的需要/[Source].
-image::{cirosantilli-media-base}/What_Chinese_men_really_want.jpg[height=400]
+image::{china-dictatorship-media-base}/What_Chinese_men_really_want.jpg[height=400]
 
 ==== It is fine for the CCP to treat some of its citizens unfairly if the majority is better off
 
@@ -3210,7 +3219,7 @@ Also includes the <<uyghurs-for-sale>> report.
 News:
 
 * 2021-03-28 <<cgtn>> invents French national "Laurene Beaumond" who refutes the situation in Xinjiang:
-** <<cgtn>> article in French: https://francais.cgtn.com/n/BfJEA-cA-HAA/DcCEIA/index.html
+** <<cgtn>> article in French: https://archive.is/USZ45[] by "Laurene Beaumond". The article was updated a day later: this time they remembered to say that Laurene Beaumond is a pseudonym. Article URL: https://francais.cgtn.com/n/BfJEA-cA-HAA/DcCEIA/index.html
 ** original investigation by Le Monde: https://www.lemonde.fr/international/article/2021/03/31/quand-la-television-chinoise-cgtn-invente-une-journaliste-francaise_6075155_3210.html
 ** commentary https://www.theguardian.com/world/2021/apr/01/china-butchers-aesop-fable-in-latest-act-of-wolf-warrior-diplomacy
 * 2021-03-20 https://www.amnesty.org/en/latest/research/2021/03/the-nightmare-of-uyghur-families-separated-by-repression/ "The nightmare of Uyghur families separated by repression"
@@ -4208,6 +4217,8 @@ In order to not waste too much time on those, Ciro Santilli uses the following s
 
 If the original thread post is not very interesting, try to parse it quickly and reply once, always <<better-to-do,linking to the FAQ>>, and then unfollow the thread. This shows that you're still alive, and takes little effort.
 
+Always quote reply, and always write down the ID of the OP on your reply, because discussions like this lead to a large number of comment and account deletions, which could make your reply not make much sense without the context.
+
 Then do your best never to read the inevitable reply again, and above all, never ever reply. An interesting reply never follows from a non-interesting original post. It is hard at first, but you will eventually get the hang of it.
 
 If the user keeps generating notifications, block them as per link:CONTRIBUTING.md[], replying to a single person multiple times is useless.
@@ -4641,6 +4652,10 @@ TODO evaluate:
 
 * https://github.com/sky8964/home
 
+Reasonable topics:
+
+* https://github.com/topics/censorship
+
 [[terminus2049]]
 ====== Terminus2049 (端点星计划)
 
@@ -4761,7 +4776,7 @@ A few accounts were created by this pseudonym, e.g.:
 Much more sanely encoded/formatted/rendered versions can be found at:
 
 * https://github.com/cirosantilli/china-dictatorship/blob/master/21century.md[]. Copied from https://matters.news/@halanh/网传70岁赫连禾用大半生研究构建-21世纪新政-引发专家们高度关注-bafyreihnbf6jyzvwyybwl5hym2nikj5zrpwxli6nphzylvdq6btsbydn3y
-* https://github.com/cirosantilli/china-dictatorship/blob/master/wang-huning-three-dynasties.md[]. Copied from: https://matters.news/@halanh/三朝罪恶元凶王沪宁-bafyreifrjf5ce45fqpif4nms4x72mlrbyijs7bffqi7f7sng47fuelkhmm
+* https://github.com/cirosantilli/china-dictatorship/blob/master/wang-huning-three-dynasties.adoc[]. Copied from: https://matters.news/@halanh/三朝罪恶元凶王沪宁-bafyreifrjf5ce45fqpif4nms4x72mlrbyijs7bffqi7f7sng47fuelkhmm
 
 Both Zhao Heming repos contain reproductions of two manifestos are pasted together on a single file, and somewhat broken encoding.
 
@@ -4772,14 +4787,15 @@ Ciro noticed that thoe repos attracted an incredible ammount of <<wumao>> on the
 
 https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665 "为什么这个屎一样的东西会出现在我个人主页左侧的repositories中，那里不是应该只有自己的项目才会出现吗？有办法屏蔽它吗？还是github故意的？" explains why so many people come comment in the repository: it is because it appears on the "Explore repositories" repository suggestions which show on the side bar of your GitHub homepage, and on searches.
 
-After further inspection, taught understood that repository descriptions given to GitHub can be really huge for SEO: they had pasted the entire 21st century text there. So Ciro attempted the same approach, and pasted all of link:21century.md[], link:wang-huning-three-dynasties.md[] and link:fifth-modernization.md[] in there on 2021-03-23, and the effect was dramatic: an immediate 4x more views on the following day according to https://github.com/cirosantilli/china-dictatorship/graphs/traffic[] (40 unique visitors to 100 on a wednesday), and a few wumao comments. And a wumao soon confirmed that it was working directly: https://github.com/cirosantilli/china-dictatorship/issues/201[].
+After further inspection, taught understood that repository descriptions given to GitHub can be really huge for SEO: they had pasted the entire 21st century text there. So Ciro attempted the same approach, and pasted all of link:21century.md[], link:wang-huning-three-dynasties.adoc[] and link:fifth-modernization.md[] in there on 2021-03-23, and the effect was dramatic: an immediate 4x more views on the following day according to https://github.com/cirosantilli/china-dictatorship/graphs/traffic[] (40 unique visitors to 100 on a Wednesday), and a few wumao comments. And a wumao soon confirmed that it was working directly: https://github.com/cirosantilli/china-dictatorship/issues/201[]. This can be automated with: link:description.sh[].
 
-Futher optimizations:
+Further optimizations:
 
 * https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts Some processing to increase density creates a BOMB:
 +
 ....
 #!/usr/bin/env bash
+printf 英语词汇量小程序
 printf 联级选择器
 printf Bitcoin
 printf 区块链
@@ -4837,7 +4853,7 @@ The title presumably refers to:
 Wikipedia mentions:
 
 ____
-Wang is believed to have been one of the principal architects behind the official political ideologies of three paramount leaders: "Three Represents" by Jiang Zemin, the Scientific Development Concept by Hu Jintao, and the Chinese Dream and <<xi-jinping-thought>> of Xi Jinping.
+Wang is believed to have been one of the principal architects behind the official political ideologies of three paramount leaders: "Three Represents" by Jiang Zemin, the Scientific Development Concept by Hu Jintao, and the <<chinese-dream,Chinese Dream>> and <<xi-jinping-thought>> of Xi Jinping.
 ____
 
 so it must be about him.
@@ -5198,7 +5214,9 @@ Some <<wumao,wumaos>>:
 
 Related posts:
 
-* https://www.reddit.com/r/China/comments/lv0n24/has_quora_been_overrun_with_chinese_propaganda/
+* on <<reddit>>
+** 2021-03 https://www.reddit.com/r/China/comments/lv0n24/has_quora_been_overrun_with_chinese_propaganda/
+*** 2021-04 https://www.reddit.com/r/China/comments/mkfgrb/quora_is_officially_a_propaganda_network_for_the/
 
 [[ptt]]
 ==== PTT Bulletin Board System 批踢踢實業坊
@@ -5431,6 +5449,10 @@ https://github.com/sikaozhe1997/Xin-Yue on <<github-repositories-with-censored-i
 This was one of the starting points of <<terminus2049>>.
 
 The letter was also apparently embedded into the <<bitcoin-blockchain,Ethereum blockchain>> according to https://theconversation.com/chinese-internet-users-turn-to-the-blockchain-to-fight-against-government-censorship-111795[].
+
+Related:
+
+* https://github.com/NGOMeToo/NGOMeToo.github.io
 
 [[russia]]
 == Russia (俄罗斯)
@@ -6013,7 +6035,7 @@ One of Ciro's favorite stories about the dictatorship is how cake recipes or cla
 Who would have thought that even the limiting and ancient limitations of https://en.wikipedia.org/wiki/Pagination[pagination] would have their usefulness!!! Today's Chinese censors have it easy, as they can just remove the stuff and that damned HTML reflow automatically to fit.
 
 [[apesar-de-voce]]
-.https://www.youtube.com/watch?v=33-bMTOlvx0 Apesar de Você (In spite of you [the Dictatorship])] by https://en.wikipedia.org/wiki/Chico_Buarque[Chico Buarque] (1970). This is one of the many anti-Brazilian-dictatorship songs of the time, and Ciro really enjoys it. https://www.musixmatch.com/lyrics/Chico-Buarque/Apesar-De-Voc%C3%AA/translation/english[Lyrics with translation]. Top quotes: "You [the dictatorship] who invented this State, who invented sin, forgot to invent forgiveness." and "Where will you hide, from the enormous euphoria [of a revolution]? How will you prohibit it when the rooster insists in singing?". Slideshows with that song have been made for several events, e.g. https://www.youtube.com/watch?v=WOqaF3shq6o[the Syrian civil war], and Ciro would like to do a China-themed one as well one day.
+.https://www.youtube.com/watch?v=4RhKTzVVDno Apesar de Você (In spite of you [the Dictatorship])] by https://en.wikipedia.org/wiki/Chico_Buarque[Chico Buarque] (1970) with English and Spanish subtitles. That video unfortunately mixes anti-dictatorship and anti-Bolsonaro (2020) imagery. A video with better epoch image but no English subtitles can be found at: https://www.youtube.com/watch?v=33-bMTOlvx0[]. This is one of the many anti-Brazilian-dictatorship songs of the time, and Ciro really enjoys it. https://www.musixmatch.com/lyrics/Chico-Buarque/Apesar-De-Voc%C3%AA/translation/english[Lyrics with translation]. Top quotes: "You [the dictatorship] who invented this State, who invented sin, forgot to invent forgiveness." and "Where will you hide, from the enormous euphoria [of a revolution]? How will you prohibit it when the rooster insists in singing?". Slideshows with that song have been made for several events, e.g. https://www.youtube.com/watch?v=WOqaF3shq6o[the Syrian civil war], and Ciro would like to do a China-themed one as well one day.
 video::33-bMTOlvx0[youtube,height=400,width=600]
 
 [[os-problemas-da-imprensa-livre]]
@@ -7968,6 +7990,12 @@ Notably, it consists of 14 chapters, which are called "talks" (讲), e.g. the fi
 
 .<<ccp-cult,Devotional>> image of <<xi-jinping>> on the cover of the https://en.wikipedia.org/wiki/The_Governance_of_China[The Governance of China] (link:https://zh.wikipedia.org/wiki/习近平谈治国理政[习近平谈治国理政], 2020) book which is part of <<xi-jinping-thought>>. The similarity to <<li-hongzhi>> devotional images <<li-hongzhi-lotus,is striking>>. Related: <<xi-halo>>. https://www.amazon.co.uk/Governance-China-Xi-Jinping/dp/1602204098[Source].
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China.jpg[height=400]
+
+[[chinese-dream]]
+===== Chinese dream (中国梦, 4000 BC -)
+
+* https://en.wikipedia.org/wiki/Chinese_Dream
+* https://zh.wikipedia.org/wiki/中國夢
 
 ==== Xi Jinping Thought (习近平新时代中国特色社会主义思想, 2017)
 
@@ -11075,7 +11103,7 @@ Sample videos:
 
 https://www.youtube.com/channel/UC6Bl8MTbW9M9MQoPhxbarpw
 
-Daniel's family name is telling: "DUMB rill".
+Daniel's family name is telling: "<<ciro-santilli-is-stupid,DUMB>> rill", so don't be too hard on him.
 
 Featured on <<cgtn>>:
 
@@ -11090,7 +11118,7 @@ Sample content form his channel:
 At 2021-03-29 https://pincong.rocks/question/37519 (https://pincong.rocks/question/37519[archive]) from <<pincong>> people are saying that they even if the USA is evil, the CCP is more, one commenter quoted Churchill:
 
 ____
-If Hitler invaded hell I would make at least a favourable reference to the devil in the House of Commons
+If <<nazi,Hitler>> invaded Hell I would make at least a favourable reference to the Devil in the House of Commons.
 ____
 
 [[nigel-ng]]
