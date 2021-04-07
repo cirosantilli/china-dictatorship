@@ -285,7 +285,7 @@ TODO: create an Ubuntu PPA and Ruby gem as well.
 Another source of China-specific mirroring are GitHub proxies, https://linuxpip.org/github-in-china/ contains an overview:
 
 * https://hub.fastgit.org/ this appears to auto-redirect to GitHub from non-Chinese IPs, but presumably shows the pages for Chinese IPs, e.g. we had hits from http://hub.fastgit.org/cirosantilli/china-dictatorship[] in 2021-03-25. This happened soon after SEO optimizations mentioned at: <<zhao-heming>> and might be related.
-* https://github.com.cnpmjs.org/ dead as of March 2021, got rate limited by GitHub apparently: "Whoa there! You have triggered an abuse detection mechanism."
+* https://github.com.cnpmjs.org/ as of March 2021, it often reaches an apparently random "Whoa there! You have triggered an abuse detection mechanism.". But other time it succeeds, e.g. some of the times: https://github.com.cnpmjs.org/cirosantilli/china-dictatorship is visible.
 * https://a1.mk-proxy.ml/-----https://github.com/cirosantilli/china-dictatorship generated from http://toolwa.com/github/
 * https://github.com/521xueweihan/GitHub520
 
@@ -632,13 +632,6 @@ Killing a million people will make us richer? No problem, let's do it.
 +
 That is great when they make good decisions, but it sucks when they make <<war,bad ones>> more likely.
 
-<<ciro-santilli>> really likes https://web.archive.org/web/20180923192824/https://www.becker-posner-blog.com/2011/05/can-poor-countries-afford-democracy-becker.html[Posners'] way of putting it:
-
-[[dictatorship-variability]]
-____
-While average rate of growth do not appear to differ much between democracies and authoritarian regimes, the variability in performance does differ more among authoritarian governments. China has had remarkable growth since the 1980s, but the prolonged devastation and hardship produced by China's "<<great-leap-forward>>" (when millions of farmers starved to death) and its Cultural Revolution would unlikely have occurred in a democratic country like say India. Nor is it likely that say Cuba and many African nations would have suffered so long with such terrible economic policies if they had reasonably democratic institutions.
-____
-
 Maybe China was poor because of Mao's crazy communist regime. Similar regimes also made <<russia>> poor. And yes, before that exploitation by the West may have been a factor.
 
 Definitely, the current regime is better than Mao's, but just imagine how rich China could be if it had more freedom and justice.
@@ -647,6 +640,22 @@ Imperial China lost the race for the Industrial Revolution. Will another dictato
 
 .XKCD 937 "TornadoGuard" comes to mind in relationship to the <<dictatorship-variability,variable performance of dictatorships>>. https://xkcd.com/937/[Source].
 image:https://web.archive.org/web/20200825230502im_/https://imgs.xkcd.com/comics/tornadoguard.png[height=600]
+
+[[dictatorship-variability]]
+===== Dictatorships have greater development variability
+
+<<ciro-santilli>> really likes https://web.archive.org/web/20180923192824/https://www.becker-posner-blog.com/2011/05/can-poor-countries-afford-democracy-becker.html[Posners'] way of putting it:
+
+____
+While average rate of growth do not appear to differ much between democracies and authoritarian regimes, the variability in performance does differ more among authoritarian governments. China has had remarkable growth since the 1980s, but the prolonged devastation and hardship produced by China's "<<great-leap-forward>>" (when millions of farmers starved to death) and its Cultural Revolution would unlikely have occurred in a democratic country like say India. Nor is it likely that say Cuba and many African nations would have suffered so long with such terrible economic policies if they had reasonably democratic institutions.
+____
+
+[[tea-egg-incident]]
+===== Tea egg incident (茶葉蛋事件, 2011)
+
+* https://zh.wikipedia.org/wiki/茶葉蛋事件
+
+A Taiwanese celebrity said many people in China can't even buy <<tea-egg,tea eggs>>, which are extremely cheap and easy to make at home: you just need to cook some eggs in any cheap tea! Chinese internet <<wumao>>s made fun of that, and likely rightly so.
 
 ==== Censorship makes countries poorer
 
@@ -1894,6 +1903,30 @@ In China, the minority controls the majority, and the majority cannot say anythi
 
 If the majority wants to do evil however, evil will get done, it is impossible to prevent that.
 
+People from other countries don't vote for your politicians in democracy. Therefore, democracies cannot protect them.
+
+What democracy does do well is to <<brainwashed-by-usa,reduce the chance that enough of the population will be brainwashed>> into <<war,starting war with other superpowers and destroy the world>>.
+
+Do you really think <<chinese-politicians-really-care-about-the-chinese-citizens,China wouldn't invade a country they need resources from because they are more humane>>?
+
+<<too-young-too-naive>>. China is already invading its own citizens right now as of 2020 to obtain resources! <<xinjiang-re-education-camps>>. And it is using the exact same excuse as the American politicians: terrorism!
+
+Do you really think they would give a fuck about invading other countries? And furthermore, China is specifically oppressing Islamic people in Xinjiang, exactly the same religion of people who live where? In the Middle East.
+
+Xinjiang _is_ China's Middle East.
+
+The reason the USA has invaded countries in the Middle east and China hasn't yet is a mixture of:
+
+* the USA is more developed, and has greater fuel needs, and greater capacity to carry such a war.
++
+Although as we've seen, they've been essentially losing those wars quite often now, by not saying long enough to establish a new stable government.
++
+Part of their defeat is also due to <<russia>>, and increasingly China, helping the other side however.
+* the Middle East is full of dictatorships, and <<dictatorships-tend-to-work-together,dictatorships are natural allies of other dictatorships>> therefore it is more likely that they won't invade one another.
+* the Cold War is still fresh in the American mind. Oil is crucial to fight a war. Countries will do anything to survive, even if it means killing others.
+
+<<ciro-santilli>> is not saying that any of this justifies the actions of the Western powers in the Middle East. But simply that it has nothing to do with democracy or non-democracy.
+
 See also:
 
 * <<separatism>>
@@ -2035,7 +2068,7 @@ But do you really think that further increasing the power concentration as done 
 
 If so, you have been <<stupid,brainwashed beyond reason>>. Increasing the concentration of power <<chinese-politicians-really-care-about-the-chinese-citizens,will obviously make society even more unequal>> and <<corruption,corrupt>>, never less.
 
-.https://www.youtube.com/watch?v=MHFrhIAj0ME Can't get you out of my head - Part 1 (2021) documentary by Adam Curtis for the BBC. This awesome documentary suggests and explains why Western politicians care less and less about the people, and why Western companies have gained more and more power. It also mentions how after China gave up on communism and became a capitalist country, it completley lost any guiding ideal. The West still had the ideal of democracy. But for China, there was only one thing left: money. Our dear <<xi-jinping>> is of course doing his best to instill nationalism into China to fill that void. What could <<war,possible go wrong with that>>?
+.https://www.youtube.com/watch?v=MHFrhIAj0ME Can't get you out of my head - Part 1 (2021) documentary by Adam Curtis for the BBC. This awesome documentary suggests and explains why Western politicians care less and less about the people, and why Western companies have gained more and more power. It also mentions how after China gave up on communism and became a capitalist country, it completely lost any guiding ideal. The West still had the ideal of democracy. But for China, there was only one thing left: money. Our dear <<xi-jinping>> is of course doing his best to instill nationalism into China to fill that void. What could <<war,possible go wrong with that>>?
 video::MHFrhIAj0ME[youtube,height=400,width=600]
 
 [[life-of-brian-1979]]
@@ -2086,7 +2119,7 @@ Ultimately, Ciro thinks camera surveillance is somewhat inevitable, because peop
 
 He is however strictly against the ban of cryptography.
 
-He also believes that a good solution to balance out government power is the second amendment. It is better to have more school shootings and less full-blown dictatorship led genocides / mass human rights violations.
+He also believes that a good solution to balance out government power is the <<second-amendment>>. It is better to have more school shootings and less full-blown dictatorship led genocides / mass human rights violations.
 
 In 2019 China amusingly censored passages Snowden's "Permanent Record" autobiography book, which Snowden then published on Twitter:
 
@@ -2739,7 +2772,7 @@ A quote from https://en.wikipedia.org/wiki/V_for_Vendetta_(film)[V for Vendetta 
 ____
 Q: If they do, what do you think will happen [the people protest against their Government]?
 
-A: What usually happens when people without guns stand up to people with guns.
+A: What usually happens when people <<second-amendment,without guns>> stand up to people with guns.
 ____
 
 [[v-for-vendetta]]
@@ -2761,6 +2794,49 @@ image::{cirosantilli-media-base}/Baby_Hitler_vs_5_million_Jews_trolley_problem.j
 
 .Translation: What women think men want (a kiss). What men actually want (decapitating <<xi-jinping>>). The image from the left comes from the Japanese manga https://mangakakalot.com/manga/vm922794[Okaeri Alice] according to Reddit comments. The image to the right is based on an illustration of the decapitation of https://en.wikipedia.org/wiki/Louis_XVI[Louis XVI] (https://zh.wikipedia.org/wiki/路易十六[路易十六]) during the https://en.wikipedia.org/wiki/French_Revolution[French Revolution] (https://zh.wikipedia.org/wiki/法国大革命[法国大革命]), but with Louis' head replaced by Xi Jinping's head. An original can be found at: https://castinet.castilleja.org/users/pmckee/frenchrev/violentphase.html[]. https://www.reddit.com/r/chonglangTV/comments/m8qwz4/真正的需要/[Source].
 image::{china-dictatorship-media-base}/What_Chinese_men_really_want.jpg[height=400]
+
+[[second-amendment]]
+==== Second amendment (美國憲法第二修正案)
+
+* https://en.wikipedia.org/wiki/Second_Amendment_to_the_United_States_Constitution
+* https://zh.wikipedia.org/wiki/美國憲法第二修正案
+
+If China had the second amendment in 1989, the <<ccp>> would not be in power in 1990.
+
+<<dictatorship-variability,It is better to have a bit of random shootings every day, than to have a full scale revolution every 20 years>>.
+
+The availability of guns however only explains part of the problem of gun violence in the USA: the other huge thing that must be addressed is to <<western-society-is-extremely-unequal,reduce inequality>>.
+
+A somewhat popular <<wumao>> criticism of gun violence in the USA (+ other problems) in song/poem form was brought up at https://github.com/cirosantilli/china-dictatorship/issues/215
+
+____
+歌颂美国
+
+自由美利坚， +
+枪击每一天； +
+白恨黑卑微， +
+黑仇黄有钱。 +
+世界第一强， +
+川普再号强； +
+新冠启示录， +
+群体免疫法； +
+比强还更强， +
+世界一病夫。 +
+如今五十万， +
+耶稣爱美国， +
+与民天国欢。 +
+人命如草芥， +
+不及股市贵； +
+战火连中东， +
+此乃真民主。
+____
+
+Related discussions:
+
+* https://pincong.rocks/question/10360
+* https://www.zhihu.com/question/346383581
+
+TODO origin?
 
 ==== It is fine for the CCP to treat some of its citizens unfairly if the majority is better off
 
@@ -5347,6 +5423,7 @@ The commies are not a fan. But as someone once told me: the commies are not a fa
 
 As mentioned at https://en.wikipedia.org/wiki/Christianity_in_China there are only a few state approved churches under total CCP control, and the others are forbidden. For example one of them is called the https://en.wikipedia.org/wiki/Chinese_Patriotic_Catholic_Association[Chinese Patriotic Catholic Association]! God and CCP on the same sentence. https://en.wikipedia.org/wiki/Pope_Pius_XII[Pope Pius XII] excommunicated people from that organization who were appointing new Bishops!
 
+* 2021-04-01 from <<rfa>> https://www.rfa.org/english/news/china/christians-camps-04012021081013.html "Chinese Christians Held in Secretive Brainwashing Camps: Sources", due to report of victim under the pseudonyum Li Yuese (李约瑟) from Sichuan. No strong corroboration however unfortunately. Chinese article 2021-03-11 https://www.rfa.org/mandarin/yataibaodao/shehui/ql2-03312021045450.html
 * 2020-11-24 https://www.theguardian.com/world/2020/nov/24/pope-says-for-first-time-that-chinas-uighurs-are-persecuted "Pope says for first time that China's Uighurs are 'persecuted'"
 * 2018-12 https://www.youtube.com/watch?v=zzWApdCNdik "100 Christians detained in China crackdown" published by CNN
 * 2018-09 Vatican Christian pope makes deal with China
@@ -5947,7 +6024,14 @@ This leads to constant tensions between allied dictatorships, e.g. <<russia>> vs
 
 This creates one of the most serious strategic problems faced by dictatorships. It is similar situation with organized crime.
 
-And of course, when a smaller dictatorship like <<belarus>> makes an alliance with a larger dictatorship, they basically immediately become a https://en.wikipedia.org/wiki/Vassal_state[vassal state], see e.g. <<moscow-minsk-friendship-mural>>.
+And of course, when a smaller dictatorship makes an alliance with a larger dictatorship, they basically immediately become a https://en.wikipedia.org/wiki/Vassal_state[vassal state], e.g.:
+
+* <<belarus>> and <<russia>>, see: <<moscow-minsk-friendship-mural>>.
+* China and:
+** <<iran>>, see: <<china-iran-relations>>
+** Pakistan, who is more afraid of India than China right now
+* Africa
+** https://www.youtube.com/watch?v=Co0RGa99W0M "Zambia: Under Chinese influence" by FRANCE 24 English (2021)
 
 ==== Anti-dictatorship alliances
 
@@ -6006,9 +6090,15 @@ image::{china-dictatorship-media-base}/Thai_king_prostrated_wife.jpg[height=400]
 .Thai king Vajiralongkorn wearing a https://en.wikipedia.org/wiki/Crop_top[crop top] so tight that it could be called a https://en.wikipedia.org/wiki/Bra[bra], and accompanied by one of his many girlfriends, in a shopping center in Munich. He can wear whatever the fuck wants, but to both wear that and enforce Lèse majesté? That's the ultimate torture for the Thai people, how can you not make fun of him??? TODO date, exact location, original report. Here is one of the many reports,  https://www.thesun.co.uk/news/3578661/from-fake-tattoos-and-crop-tops-to-making-a-poodle-air-force-chief-the-king-of-thailands-maddest-moments-revealed/[sample report from 2017 in a British tabloid].
 image::{china-dictatorship-media-base}/Thai_king_crop_top.jpg[height=400]
 
-== Iran
+[[iran]]
+== Iran (伊朗)
 
-First, <<iranian-coup-1953>> Now let's criticize the dictatorship.
+* https://en.wikipedia.org/wiki/Iran
+* https://zh.wikipedia.org/wiki/伊朗
+
+First, never forget about the American-British <<iranian-coup-1953>> which took down a democracy. They deserve everything they got from it.
+
+Now let's criticize the Iranian dictatorships that this possibly created.
 
 * Ayatollah Tanasoli
 ** https://www.bbc.co.uk/news/blogs-trending-31164583
@@ -6021,6 +6111,18 @@ First, <<iranian-coup-1953>> Now let's criticize the dictatorship.
 * https://zh.wikipedia.org/wiki/1953年伊朗政變
 
 Yes, this was a <<western-democracies-are-not-perfect,a major fuck up of the West>>.
+
+=== China-Iran relations
+
+* https://en.wikipedia.org/wiki/China–Iran_relations
+* https://zh.wikipedia.org/wiki/中国－伊朗关系
+
+Superset: <<dictatorships-tend-to-work-together>>.
+
+* 2021
+** https://en.wikipedia.org/wiki/Iran–China_25-year_Cooperation_Program
+** https://zh.wikipedia.org/wiki/中国－伊朗关系
+* 2019-09 https://lobelog.com/is-iran-at-risk-of-becoming-a-chinese-colony/ Is Iran At Risk Of Becoming A Chinese Colony?
 
 [[military-dictatorship-in-brazil]]
 == Military dictatorship in Brazil (1964-1985)
@@ -7721,7 +7823,7 @@ image::{china-dictatorship-media-base}/Zhong_gong_blue.jpg[height=400]
 
 [[flg-blue]]
 .Hungarian <<falun-gong>> propaganda image with woman meditating in with blue sky background for comparison with <<zhong-gong-blue,similar Zhong Gong imagery>>. https://hu.faluninfo.eu/[Source].
-image::{china-dictatorship-media-base}/Falun_Gong_sky_advertisement.jpg[height=400]
+image::{china-dictatorship-media-base}/Falun_Gong_sky_leaflet.jpg[height=400]
 
 [[qigong-fever]]
 ==== Qigong fever Boom 气功热 (1980's)
@@ -8018,16 +8120,7 @@ Jiang is often compared to a toad in a meme what is referred to as toad worship 
 * https://en.wikipedia.org/wiki/Toad_worship
 * https://zh.wikipedia.org/wiki/膜蛤文化
 
-The Chinese also love Jiang's quote in English during an interview with Hong Kong press:
-
-____
-Too young, too simple, sometimes naive.
-____
-
-.https://youtube.com/watch?v=y-JPLzj2poY Jiang Zemin saying "Too simple, sometimes naive."
-video::y-JPLzj2poY[youtube,height=400,width=600,start=57]
-
-Jiang also has an amazing array of meme-ready funny expressions.
+Jiang has an amazing array of meme-ready funny expressions.
 
 .Comparison between Jiang Zemin and a 72-feet-tall inflatable toad in a Beijing park seen in 2014 made the rounds on Weibo and led to some <<censorship,censorship>>. https://edition.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html[Source].
 image::{china-dictatorship-media-base}/Jiang_Zemin_frog.jpg[height=400]
@@ -8040,6 +8133,17 @@ image::{china-dictatorship-media-base}/Jaign_zemin_magnify.jpg[height=400]
 
 .More Jiang funny expressions and Photoshops from a Research Gate page! https://www.researchgate.net/figure/Jiang-as-emoticons-often-used-in-chats_fig4_325864518[Source].
 image::{china-dictatorship-media-base}/Jiang_Zemin_emoticons_montage.png[height=400]
+
+==== Too young, too naive
+
+The Chinese also love Jiang's quote in English during an interview with Hong Kong press:
+
+____
+Too young, too simple, sometimes naive.
+____
+
+.https://youtube.com/watch?v=y-JPLzj2poY Jiang Zemin saying "Too simple, sometimes naive."
+video::y-JPLzj2poY[youtube,height=400,width=600,start=57]
 
 [[deng-xiaoping]]
 === Deng Xiaoping (邓小平, 1982-1987)
@@ -12141,7 +12245,7 @@ One particular type which is very good is: https://en.wikipedia.org/wiki/Laba_co
 
 Then, to eat it, you will want to add salty side dishes, all of which can be bought from the Chinese supermarket, since the congee itself is just mildly sweet and not salty at all:
 
-* https://en.wikipedia.org/wiki/Salted_duck_egg[cooked salted duck] (https://zh.wikipedia.org/wiki/鹹鴨蛋[咸鸭蛋])
+* cooked <<salted-duck-egg>>
 * https://en.wikipedia.org/wiki/Fermented_bean_curd[fermented bean curd] (https://zh.wikipedia.org/wiki/腐乳[腐乳]). Wangzhihe (https://zh.wikipedia.org/wiki/王致和[王致和]) is a good brand, <<ciro-santilli>> prefers the red ones instead of the white ones. https://www.amazon.com/Wangzhihe-Fermented-Traditional-Bean-DragonMall/dp/B00786YL72[Sample Amazon link].
 
 .The HONOR brand (康樂, full name: Honor Products, 康樂產品) Eight treasure congee (八寶粥) is a good brand to buy if you can find it. https://www.hiyou.co/product/honor-eight-treasure-porridge/[Source].
@@ -12149,6 +12253,20 @@ image::{china-dictatorship-media-base}/Eight_treasture_congee.jpg[height=500]
 
 .https://www.youtube.com/watch?v=DIxbJxNRpX0 Video showing how to make eight treasure congee from scratch by "Asian garden 2 table" published on Feb 2, 2020.
 video::DIxbJxNRpX0[youtube,height=400,width=600]
+
+[[salted-duck-egg]]
+==== Salted duck egg (咸鸭蛋)
+
+* https://en.wikipedia.org/wiki/Salted_duck_egg
+* https://zh.wikipedia.org/wiki/鹹鴨蛋
+
+[[tea-egg]]
+===== Tea egg (咸鸭蛋)
+
+* https://en.wikipedia.org/wiki/Tea_egg
+* https://zh.wikipedia.org/wiki/茶葉蛋
+
+This is good!
 
 [[restaurants]]
 == The best Chinese restaurants outside of China 中国以外最好的中国饭店
