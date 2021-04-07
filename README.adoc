@@ -1911,7 +1911,9 @@ Do you really think <<chinese-politicians-really-care-about-the-chinese-citizens
 
 <<too-young-too-naive>>. China is already invading its own citizens right now as of 2020 to obtain resources! <<xinjiang-re-education-camps>>. And it is using the exact same excuse as the American politicians: terrorism!
 
-Do you really think they would give a fuck about invading other countries? And furthermore, China is specifically oppressing Islamic people in Xinjiang, exactly the same religion of people who live where? In the Middle East.
+Even when the US invades another country, the people who support the US enemy can still pick up arms and fight. And Russia can send help if they want to annoy the Americans, making local resistance stand an actual chance. But when you oppress your own people, they are completely defenseless, and 100% certain to be fully oppressed, since no foreign country would risk world war 3 by sending help.
+
+Do you really think that the CCP would give a fuck about invading other countries? And furthermore, China is specifically oppressing Islamic people in Xinjiang, exactly the same religion of people who live where? In the Middle East.
 
 Xinjiang _is_ China's Middle East.
 
@@ -2287,7 +2289,7 @@ While we require polite replies to polite posts, no matter what which side they 
 .Real shit photos may be posted in reply to shitposts. https://commons.wikimedia.org/wiki/File:Human_Feces_(cropped).jpg[Source].
 image::{china-dictatorship-media-base}/Shit.jpg[height=400]
 
-.Amazing shitposts may recieve a Golden Shit award. The image is from a Japanese https://en.wikipedia.org/wiki/Kin_no_unko[Kin no unko (金のうんこ)], which is likely inspired by https://en.wikipedia.org/wiki/Sycee[golden Sycees]. https://en.wikipedia.org/wiki/File:Kin_no_unko.jpg[Source].
+.Amazing shitposts may recieve a Golden Shit award and the https://github.com/cirosantilli/china-dictatorship/labels/golden-shit[golden-shit label]. The image is from a Japanese https://en.wikipedia.org/wiki/Kin_no_unko[Kin no unko (金のうんこ)], which is likely inspired by https://en.wikipedia.org/wiki/Sycee[golden Sycees]. https://en.wikipedia.org/wiki/File:Kin_no_unko.jpg[Source].
 image::{china-dictatorship-media-base}/Kin_no_unko.jpg[height=500]
 
 .To censor or not to censor good shitposts: that is not the question, <<ciro-santilli>> will never censor them! https://imgur.com/gallery/rA0K90g[Source].
@@ -3186,6 +3188,12 @@ image::{china-dictatorship-media-base}/TECRO_Washington.jpg[height=400]
 
 .2014 cartoon by D Nguyen summarizing the Taiwan China relationship in history. Featuring: fatter and fatter <<mao-zedong>> on first three cartoons to the left, likely <<deng-xiaoping>> to left on the last, and <<chiang-kai-shek>> to the right. TODO middle figure on last cartoon. TODO find proper attribution source, originally seen at: https://i.redd.it/xb5qr3asfns41.jpg[].
 image::{china-dictatorship-media-base}/Taiwan_we_are_China_cartoon.jpg[height=600]
+
+.Proposed reunification flag for Taiwan and China. https://9gag.com/gag/a9E1YVo[Source].
+image::{china-dictatorship-media-base}/China_Taiwan_reunification_flag.webp[height=500]
+
+.West Taiwan, also known as Mainland Taiwan, also known as China.
+image::{china-dictatorship-media-base}/West_Taiwan_map.jpg[height=500]
 
 [[taiwan-number-one]]
 ===== Taiwan #1 (2915)
@@ -4575,19 +4583,7 @@ GiHub is the new <<xidan-democracy-wall>>! :) See also: <<meant-to-be-used>>.
 
 GitHub's site policy can be seen at: https://help.github.com/en/github/site-policy
 
-If you believe this page violates those policies, you can click the report abuse button on https://github.com/cirosantilli[Ciro's profile], which links to: https://github.com/contact/report-abuse?report=cirosantilli+%28user%29 or you can just contacat support@github.com
-
-If you do so, please feel free to also open an issue on this repository saying why you believe the site policy has been violated.
-
-Those issues will be marked with: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Aabuse-report+
-
-It will be fun to watch you try, and fail.
-
-This is because you do not understand how important the concept of <<richer,freedom of speech is>> in the West, and how amazing it feels when you are right, and it protects you.
-
-The only thing that would work is if the Chinese government makes a gov-takedown on this repo: <<github-gov-takedowns>>, in which case: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>.
-
-In order to get this repository in gov-takedown, your best bet is to use the <<cac-report-website>>.
+If you believe this page violates those policies, see: <<github-report>>.
 
 China's GitHub censorship history is documented at: https://en.wikipedia.org/wiki/Censorship_of_GitHub#China[], some events:
 
@@ -4601,6 +4597,23 @@ Related:
 * <<cute-cat-theory-of-digital-activism>>
 * https://techcrunch.com/2020/09/07/scratch-ban-in-china/ Scratch visual programming language for children website blocked
 * https://www.quora.com/Is-GitHub-com-allowed-in-China/answer/Ciro-Santilli
+
+[[github-report]]
+===== How to report a user on GitHub (GitHub上怎么举报用户？)
+
+Click the report abuse button on https://github.com/cirosantilli[Ciro's profile], which links to: https://github.com/contact/report-abuse?report=cirosantilli+%28user%29 or you can just contacat support@github.com
+
+If you do so, please feel free to also open an issue on this repository saying why you believe the site policy has been violated.
+
+Those issues will be marked with: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Aabuse-report+
+
+It will be fun to watch you try, and fail.
+
+This is because you do not understand how important the concept of <<richer,freedom of speech is>> in the West, and how amazing it feels when you are right, and it protects you.
+
+The only thing that would work is if the Chinese government makes a gov-takedown on this repo: <<github-gov-takedowns>>, in which case: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>.
+
+In order to get this repository in gov-takedown, your best bet is to use the <<cac-report-website>>.
 
 ===== GitHub censored subdomains
 
@@ -4861,7 +4874,7 @@ Ciro noticed that thoe repos attracted an incredible ammount of <<wumao>> on the
 * https://github.com/zhaohmng/-21-/commit/0cc2b2a546ad51fb360ba800c67b057ea3270869#commitcomment-47495235
 * https://github.com/zaohmeing/21-/commit/42de05338193f39981b1a820873a990c959fd6ec#commitcomment-47392119
 
-https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665 "为什么这个屎一样的东西会出现在我个人主页左侧的repositories中，那里不是应该只有自己的项目才会出现吗？有办法屏蔽它吗？还是github故意的？" explains why so many people come comment in the repository: it is because it appears on the "Explore repositories" repository suggestions which show on the side bar of your GitHub homepage, and on searches.
+https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665 "为什么这个屎一样的东西会出现在我个人主页左侧的repositories中，那里不是应该只有自己的项目才会出现吗？有办法屏蔽它吗？还是github故意的？" explains why so many people come comment in the repository: it is because it appears on the "Explore repositories" repository suggestions which show on the side bar of your GitHub homepage, and on searches. This was also mentioned at: 
 
 After further inspection, taught understood that repository descriptions given to GitHub can be really huge for SEO: they had pasted the entire 21st century text there. So Ciro attempted the same approach, and pasted all of link:21century.md[], link:wang-huning-three-dynasties.adoc[] and link:fifth-modernization.md[] in there on 2021-03-23, and the effect was dramatic: an immediate 4x more views on the following day according to https://github.com/cirosantilli/china-dictatorship/graphs/traffic[] (40 unique visitors to 100 on a Wednesday), and a few wumao comments. And a wumao soon confirmed that it was working directly: https://github.com/cirosantilli/china-dictatorship/issues/201[]. This can be automated with: link:description.sh[].
 
@@ -6271,7 +6284,7 @@ ____
 Falun Dafa is not a religion, but future generations will regard it as one.
 ____
 
-E.g. they call themselves "practitioners" or "students" (学员) or "disciples of the Great Law" (大法弟子, or mare accurately, of <<li-hongzhi>>'s Law) instead of "believers", and their peers "practitioner colleagues" (https://baike.baidu.com/item/同修[同修]).
+E.g. they call themselves "practitioners" or "students" (学员) or "disciples of the Great Law" (大法弟子, or mare accurately, of <<li-hongzhi>>'s Law) instead of "believers", and their peers "practitioner colleagues" (https://baike.baidu.com/item/同修[同修]). Non believers call them derogatorily "轮子"("little wheels"), or in friendly terms "轮友" (wheel friend).
 
 And if you say you don't believe in their FLG metaphysics bullshit, they will often reply "he does not understand".
 
