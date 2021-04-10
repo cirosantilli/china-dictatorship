@@ -750,7 +750,7 @@ Maybe China is saying the truth this time. Maybe the rapid Dictatorship response
 Doctor Li Wenliang (李文亮) reported the virus, but was told by authorities to stay quiet, and later died from the virus, becoming somewhat of a martyr:
 
 * https://www.bbc.com/news/world-asia-china-51409801
-* https://chinadigitaltimes.net/chinese/2020/02/【网络民议】你能做到吗？-你听明白了吗？/
+* https://chinadigitaltimes.net/chinese/2020/02/【网络民议】你能做到吗？-你听明白了吗？/ by <<china-digital-times>>
 
 The following excerpt from his forced confession trended:
 
@@ -2764,7 +2764,7 @@ This is how much time Ciro spends on this project to give you an idea:
 
 * every week or two, someone sends me a message, he reply with "read the FAQ", and usually update
 * Ciro https://www.reddit.com/r/China amongst many other programming subs, and all major bad news show up there. See also: <<anti-ccp-info-sources>>
-* when something bad enough comes up, Ciro go to https://chinadigitaltimes.net/china/sensitive-words-series/ and update <<keyword-attack,his keyword attack>>. He's only been updating it on Stack Overflow and GitHub these days.
+* when something bad enough comes up, Ciro go to https://chinadigitaltimes.net/china/sensitive-words-series/ by <<china-digital-times>>and update <<keyword-attack,his keyword attack>>. He's only been updating it on Stack Overflow and GitHub these days.
 
 Then Ciro just contributes to programming websites exactly as he would if he weren't making this campaign, and voila.
 
@@ -3017,7 +3017,7 @@ News:
 ** https://zh.wikipedia.org/wiki/中华人民共和国网络审查
 * https://github.com/jasonqng/chinese-keywords
 * https://github.com/cirosantilli/media/raw/master/complete-gfw-rulebook-for-wikipedia-v3.0.pdf[Complete GFW Rulebook for Wikipedia v3.0]
-* https://chinadigitaltimes.net This is was an amazing source, extremely comprehensive and up-to-date, but the series was stopped in September 2018:
+* <<china-digital-times>> This is was an amazing source, extremely comprehensive and up-to-date, but the series was stopped in September 2018:
 ** https://chinadigitaltimes.net/china/word-of-the-week/?view=all word of the week, ran from Mar 7, 2012 to Sep 20, 2018
 *** https://chinadigitaltimes.net/china/cdt-censorship-digest/ "CDT CENSORSHIP DIGEST", monthly version of Word of the week started on Feb 10, 2020
 ** https://chinadigitaltimes.net/china/directives-from-the-ministry-of-truth/?view=all censorship directive reports
@@ -3307,7 +3307,7 @@ Notable terrorist attacks:
 * 2014 Kunming attack
 ** https://en.wikipedia.org/wiki/2014_Kunming_attack
 ** photo of 8 bodies lined up after the attack: https://www.nytimes.com/2014/03/05/world/asia/chinese-officials-seek-to-shift-attention-from-rampage.html
-** Interestingly, https://chinadigitaltimes.net/2014/03/sensitive-words-attack-kunming/ points out that http://www.globaltimes.cn/content/845642.shtml#.UxYZgeddVRG said that:
+** Interestingly, https://chinadigitaltimes.net/2014/03/sensitive-words-attack-kunming/ points out that http://www.globaltimes.cn/content/845642.shtml#.UxYZgeddVRG by <<china-digital-times>> said that:
 +
 ____
 The public must realize that a handful of extremists are far from qualified to represent tens of millions of local residents in Xinjiang. It is not only an irrational and biased mindset to put the blame on the entire Uyghur community or the Muslim world, but the idea will also abet and aid those separatists and terrorists who are desperate to take advantage of ethnic and religious conflicts.
@@ -4949,6 +4949,7 @@ Further optimizations:
 +
 ....
 #!/usr/bin/env bash
+printf 学习强国
 printf 预测结果导出
 printf 赖伟林
 printf 刺杀小说家
@@ -5603,7 +5604,7 @@ https://github.com/sikaozhe1997/Xin-Yue on <<github-repositories-with-censored-i
 
 * https://sikaozhe1997.github.io/Xin-Yue/#/岳昕：致北京大学师生和北大外国语学院的一封公开信.md Chinese original
 * https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md in-tree translation "Yue Xin: An open letter to the students and academic staff of Peking University and the PKU School of Foreign Languages"
-* 2018-04 https://chinadigitaltimes.net/2018/04/translation-open-letter-on-peking-university-metoo-case/ "TRANSLATION: OPEN LETTER ON PKU #METOO CASE"
+* 2018-04 https://chinadigitaltimes.net/2018/04/translation-open-letter-on-peking-university-metoo-case/ "TRANSLATION: OPEN LETTER ON PKU #METOO CASE" by <<china-digital-times>>
 
 This was one of the starting points of <<terminus2049>>.
 
@@ -8004,7 +8005,7 @@ The author: https://en.wikipedia.org/wiki/Benjamin_Penny is an Australian resear
 [[xi-abolishes-term-limits-2018-03]]
 ==== Xi abolishes term limits (习近平取消席连任不得超过两届的限制规则, 2018-03)
 
-* 包子露宪 https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution
+* 包子露宪 https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution by <<china-digital-times>>
 * https://www.nytimes.com/2018/03/10/world/asia/china-xi-jinping-term-limit-explainer.html
 
 .<<rebel-pepper>> cartoon showing Xi Jinping preparing to sleep in https://en.wikipedia.org/wiki/Mausoleum_of_Mao_Zedong[Mao Zedong's tomb], meaning that Xi also wants to reach Mao's "eternal ruler" status when he abolished term limits in 2018. https://www.rfa.org/english/cartoons/XiJinping-Eternity-cartoon-02282018104813.html[Source].
@@ -8158,7 +8159,7 @@ image::{china-dictatorship-media-base}/Xi_dada.jpg[height=400]
 Got creator Dai Jianyong (戴建勇) arrested in 2015:
 
 * https://www.independent.co.uk/news/world/asia/chinese-artist-who-posted-funny-image-of-president-xi-jinping-facing-five-years-in-prison-as-10282630.html
-* https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/
+* https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/ by <<china-digital-times>>
 
 .Chrysanthemum Xi Jinping with <<tiananmen,六四>> spice added by Ciro Santilli
 image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
@@ -8191,12 +8192,14 @@ Notably, it consists of 14 chapters, which are called "talks" (讲), e.g. the fi
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China.jpg[height=400]
 
 [[xuexi-qiangguo]]
-===== Xuexi Qiangguo (学习强国)
-
-App made by <<alibaba>> for the <<ccp>> to teach people <<xi-jinping-thought>>.
+===== Xuexi Qiangguo (学习强国, 2019)
 
 * https://en.wikipedia.org/wiki/Xuexi_Qiangguo
 * https://zh.wikipedia.org/wiki/学习强国
+
+App made by <<alibaba>> for the <<ccp>> to teach people <<xi-jinping-thought>>.
+
+Literally means "study for a strong country".
 
 The app appears to have both contents, and also tests to check that you've read it.
 
@@ -8232,8 +8235,16 @@ Several video demos can be found on YouTube:
 
 And there there's an anti-repo for <<wumao>> who oppose the cheating: https://github.com/boycott-fuck-xuexiqiangguo/Boycott-Fuck-XueXiQiangGuo It had 150 stars as of 2021, as oppoesd to 7500 of the cheating repo.
 
-.Fuck-XueXiQiangGuo 2021 GitHub page screenshot with stars highlighted. This is what you should show <<wumao,wumaos>> when they that no Chinese person opposes the <<ccp>>.
+.Fuck-XueXiQiangGuo 2021 GitHub page screenshot with stars highlighted. 7k stars on a Chinese-only repository is a lot of stars, and very unlikely to be faked. This is what you should show <<wumao,wumaos>> when they that no Chinese person opposes the <<ccp>>.
 image::{china-dictatorship-media-base}/Fuck-XueXiQiangGuo_2021_GitHub_page_screenshot_with_stars_highlighted.png[height=650]
+
+[[national-anti-fraud-center-app]]
+====== National anti-fraud center APP (国家反诈中心APP, 2021)
+
+* https://chinadigitaltimes.net/chinese/664606.html on <<china-digital-times>>
+* https://www.reddit.com/r/China/comments/mnulkd/china_is_forcing_chinese_to_use_national/
+
+New forced spy app for Chinese people going abroad.
 
 [[chinese-dream]]
 ===== Chinese dream (中国梦, 4000 BC -)
@@ -8628,7 +8639,7 @@ Soldiers who spoke up:
 *** https://www.rfa.org/english/news/china/flashbacks-06042018133558.html
 *** https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/ql2-06042018103250.html
 ** 2009-03 published an open letter
-*** https://chinadigitaltimes.net/2009/03/china-detains-writer-of-critical-web-letter-to-hu/
+*** https://chinadigitaltimes.net/2009/03/china-detains-writer-of-critical-web-letter-to-hu/ by <<china-digital-times>>
 *** https://www.theguardian.com/world/2009/mar/20/tiananmen-square-china-zhang-shijun "Zhang Shijun taken from home in middle of the night after publishing open letter to Chinese president Hu Jintao"
 * Li Xiaoming
 ** https://www.sbs.com.au/news/soldier-reveals-his-shame-over-tiananmen-square-massacre-30-years-on
@@ -9030,11 +9041,11 @@ Other dissidents:
 ** real chinese name from: from https://hk.appledaily.com/china/20201222/AZMBHJHIJZGADMK76Z54M6O6IE/
 ** TODO Twitter handle if it wasn't entirely deleted?
 ** https://www.youtube.com/channel/UCsbdz3lXyyvBz7hMDNXHT7w
-* Cai Xia (https://zh.wikipedia.org/wiki/蔡霞[蔡霞]), https://chinadigitaltimes.net/space/Cai_Xia
+* Cai Xia (https://zh.wikipedia.org/wiki/蔡霞[蔡霞]), https://chinadigitaltimes.net/space/Cai_Xia by <<china-digital-times>>
 +
 Retired teacher at <<central-party-school>> living in the USA.
 +
-** 2020-06-12 https://chinadigitaltimes.net/2020/06/translation-former-party-professor-calls-ccp-a-political-zombie/ "TRANSLATION: FORMER PARTY PROFESSOR CALLS CCP A 'POLITICAL ZOMBIE'"
+** 2020-06-12 https://chinadigitaltimes.net/2020/06/translation-former-party-professor-calls-ccp-a-political-zombie/ "TRANSLATION: FORMER PARTY PROFESSOR CALLS CCP A 'POLITICAL ZOMBIE'" by <<china-digital-times>>
 +
 She criticized Xi Jinping in private online meeting, and the audio was leaked: https://www.youtube.com/watch?v=hEBHVsHlPeI
 ** 2020-08-21 https://www.taiwannews.com.tw/en/news/3992140 she was expelled from from the CCP, and she said she was happy.
@@ -9894,7 +9905,7 @@ Partial support:
 * https://en.wikipedia.org/wiki/Boxun https://zh.wikipedia.org/wiki/博讯
 
 [[ned]]
-===== National Endowment for Democracy
+===== National Endowment for Democracy (NED)
 
 * https://en.wikipedia.org/wiki/National_Endowment_for_Democracy
 * https://zh.wikipedia.org/wiki/美国国家民主基金会
@@ -9904,6 +9915,21 @@ Partial support:
 
 * https://en.wikipedia.org/wiki/Boxun
 * https://zh.wikipedia.org/wiki/博讯
+
+[[china-digital-times]]
+====== China Digital Times (CDT, 中国数字时代, USA government media)
+
+* https://en.wikipedia.org/wiki/China_Digital_Times
+* https://zh.wikipedia.org/wiki/中国数字时代
+
+<<ned>>-funded as mentioned e.g. at: https://www.ned.org/china-digital-times-provides-crucial-insight-and-information-about-china-and-the-covid-19/
+
+They have some amazing anti-<<ccp,CCP>> content, notably:
+
+* https://chinadigitaltimes.net/space/Main_Page[Grass-mud-horse Index], mentioned at: <<where-can-i-find-good-words-for-a-keyword-attack>>
+
+.https://www.youtube.com/watch?v=hx28EUiKEUc "From 'fart people' to citizens on China's internet | Xiao Qiang | TEDxLiberdade" by TEDx Talks (2014). Presentation by https://en.wikipedia.org/wiki/Xiao_Qiang[Xiao Qiang] (https://zh.wikipedia.org/wiki/蕭強[萧强]), founder of <<china-digital-times>>. He was a Physicist from https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China[USTC] who went mad after <<tiananmen>>. <<wife>> also studied there and said that's the most anti-CCP of all big Chinese universities.
+video::MCxzMYVvHBg[youtube,height=400,width=600,start=227]
 
 [[jamestown-foundation]]
 ===== Jamestown Foundation (USA government media)
@@ -10945,7 +10971,7 @@ Therefore, <<what-should-western-countries-do-about-china,all the West has to do
 
 * https://en.wikipedia.org/wiki/Shadowsocks
 * https://github.com/shadowsocksrr/ on <<github>>
-* https://chinadigitaltimes.net/2015/08/circumvention-tool-deleted-after-police-visit-developer/
+* https://chinadigitaltimes.net/2015/08/circumvention-tool-deleted-after-police-visit-developer/ by <<china-digital-times>>
 * https://github.com/shadowsocks/shadowsocks-iOS/issues/124#issuecomment-133630294 used to contain:
 +
 ____
@@ -11195,7 +11221,7 @@ ____
 
 Why I delete your posts, but I don't delete wumao's posts? Because it is only possible to reason with humans, it is not possible to reason with primitive animals!
 ____
-* https://chinadigitaltimes.net/chinese/2019/08/【麻辣总局】新型敏感词武器：赵弹磁铁/
+* https://chinadigitaltimes.net/chinese/2019/08/【麻辣总局】新型敏感词武器：赵弹磁铁/ by <<china-digital-times>> 
 
 ===== Where to find wumaos
 
@@ -11888,7 +11914,7 @@ This site is only available in Mainland China." The about of the blog leads to a
 ** led to: https://lihkg.com/thread/762440/page/1 <<lihkg>> https://archive.is/7REOi "佢個個人home page好多5毛留言, 唔知會唔會搞到block堆stackoverflow"
 * 2018-07: http://4-ch.net/general/kareha.pl/1531480621/l50 | https://web.archive.org/web/20180815081351/http://4-ch.net/general/kareha.pl/1531480621/l50 "No more Xi Jinping"
 * 2018-06: https://medarc.org/pac.txt | https://web.archive.org/web/20180712094944/http://medarc.org/pac.txt puts cirosantilli.com in a blacklist containing the likes of asianpiss.com and clearwisdom.net. Awesome. Then I grepped the main one https://github.com/gfwlist/gfwlist with `while true; do git checkout HEAD~; if ! base64 -d gfwlist.txt | grep -q cirosan; then break; fi; done` and found that I was added in 24a6f6f29e24d1d7eb27946bf51d7a072ddb3e6d Tue Apr 24 2018. That is input data for https://addons.mozilla.org/en-US/firefox/addon/autoproxy/ which turns on a proxy only for certain websites. Therefore that is a definitive list of interesting stuff. I wonder how it is curated.
-* 2018-05: a few hits from https://chinadigitaltimes.net but Google cannot find any links
+* 2018-05: a few hits from https://chinadigitaltimes.net from <<china-digital-times>> but Google cannot find any links
 * 2018-05-20:
 ** https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684 Archive: https://web.archive.org/web/20190701085047/https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684
 ** https://web.archive.org/web/20180520210006/http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684&pid=3954113&page=1&extra=
@@ -12690,14 +12716,14 @@ Last checked: 2017/04
 Last checked: 2017/06
 
 [[resturants--france--marseille]]
-==== Marseille 马赛
+==== Marseille (马赛)
 
 * Shanghai kitchen
 +
 14 Cours Jean Ballard, 13001 Marseille, France
 
 [[restaurants--uk]]
-=== United Kingdom 英国
+=== United Kingdom (英国)
 
 Bibilography:
 
