@@ -1665,7 +1665,8 @@ One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy
 .Westerner: "How is life in China?" Chinese: "Oh, we can't complain." Westerner: "That's awesome." Chinese: "No, seriously... we can't." is a word play between the more common "we can't complain because everything is great" and "we can't complain because <<xi-jinping,Xi>> will <<censorship,make us disappear>>". https://www.taiwannews.com.tw/en/news/3933168[Source]
 image::{china-dictatorship-media-base}/We_cant_complain.jpg[height=600]
 
-.https://www.youtube.com/watch?v=4xoM6-1SWl4&t=1606 https://en.wikipedia.org/wiki/The_Living_Dead_(TV_series)[The Living Dead] Episode 1: On the Desperate Edge of Now by Adam Curtis (1995) comments on how interviews with https://en.wikipedia.org/wiki/Hermann_Göring[Hermann Goring] (https://zh.wikipedia.org/wiki/赫尔曼·戈林[赫尔曼·戈林]) during the https://en.wikipedia.org/wiki/Nuremberg_trials[Nuremberg trials] went: "Again and again, Jackson accused Goring of corruptly using his powers to commit crimes. Each time, Goring replied that such acts might be considered crimes in a democratic state, but that in Germany, democracy had failed. Eliminating the political opposition was necessary, to fulfill a higher principle: that of the Nation". This is exactly the justification given by the <<ccp,CCP>> for oppressing minorities and <<censorship,freedom of speech>>: the CCP is indistinguishable from the <<nazi,Nazi>>.
+[[goring-nuremberg]]
+.https://www.youtube.com/watch?v=4xoM6-1SWl4&t=1606 https://en.wikipedia.org/wiki/The_Living_Dead_(TV_series)[The Living Dead] Episode 1: On the Desperate Edge of Now by Adam Curtis (1995) comments on how interviews with https://en.wikipedia.org/wiki/Hermann_Göring[Hermann Goring] (https://zh.wikipedia.org/wiki/赫尔曼·戈林[赫尔曼·戈林]) during the https://en.wikipedia.org/wiki/Nuremberg_trials[Nuremberg trials] went: "Again and again, Jackson accused Goring of corruptly using his powers to commit crimes. Each time, Goring replied that such acts might be considered crimes in a democratic state, but that in Germany, democracy had failed. Eliminating the political opposition was necessary, to fulfill a higher principle: that of the Nation". Goring replies: "This was the only possible form of government at the time and it proved that Germany could be pulled out of the abyss of misery, poverty and unemployment and withing a short space of time be made flourish and bloom." This is _exactly_ the justification given by the <<ccp,CCP>> for oppressing minorities and <<censorship,freedom of speech>>: the CCP is indistinguishable from the <<nazi,Nazis>>.
 video::4xoM6-1SWl4[youtube,height=400,width=600,start=1606]
 
 .https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game.
@@ -2002,7 +2003,7 @@ Censoring any citizen, no matter how stupid you think they are, creates a preced
 
 More interesting case is: https://en.wikipedia.org/wiki/Knight_First_Amendment_Institute_v._Trump[]. Ciro feels strongly that people who try to have meaningful discussions on Twitter should automatically lose a lawsuit, and that people should be able to block whoever they want from their personal controlled accounts or forums. It is only the companies who provide the forum service that must be neutral.
 
-Recent cases in which Ciro feel that Western countries have gotten it wrong:
+====== Unjust social media censorship in the West
 
 * Trump social media bans:
 ** 2021-03-31 https://www.forbes.com/sites/rachelsandler/2021/03/31/conservatives-blast-facebook-for-removing-trump-interview-with-daughter-in-law/ "Conservatives Blast Facebook For Removing Trump Interview With Daughter-In-Law". This perfectly illustrates why it is unreasonable to ban someone from social media. You end up having to ban anyone who supports them as well.
@@ -2031,6 +2032,8 @@ Ciro believes without evidence that unfortunately anti-discrimination-hiring law
 ** 2020-10-06 https://www.vox.com/recode/2020/5/28/21273241/section-230-explained-trump-social-media-twitter-facebook "Section 230, the internet free speech law Trump wants to repeal, explained". While repealing the law entirely would be stupid, Trump is right that it has given platforms too much control over the media. <<mark-government-controlled-social-media,Except for dictatorial foreign governments>>, or explicitly illegal material, social media platforms should never remove or comment on any content.
 ** 2020-05-29 https://www.bbc.co.uk/news/technology-52846679 Twitter "hides Trump tweet for 'glorifying violence'". The people elected that idiot, Twitter leftists have to swallow that.
 ** 2021-01-11 https://www.irishexaminer.com/world/arid-40204808.html "Angela Merkel sees Twitter's cancelling of Donald Trump as 'problematic'"
+* Amazon
+** Twitch 2021-04-07 https://techcrunch.com/2021/04/07/twitch-off-platform-harassment-policy/
 
 [[politically-incorrect]]
 ====== Censorship of "politically incorrect speech"
@@ -2191,7 +2194,7 @@ Some might have good intentions, but most don't give a shit about anyone else.
 
 But all must play a careful political game, and sometimes betray their own beliefs to not lose power entirely.
 
-Even those that genuinely care might have to play suc political games.
+Even those that genuinely care might have to play such political games.
 
 China's problem is not its politicians.
 
@@ -2214,11 +2217,19 @@ See also: <<politicians>>.
 [[nazi]]
 === Comparisons between the CCP and Nazi Germany (纳粹德国)
 
+As of 2020, the <<ccp>> is much more like Nazi Germany than it is like the <<soviet-union>>.
+
+We must however be careful not to demonize the Nazis, as that is not a helpful way to learn from the past.
+
+The Nazis were also people like us, and that is the scary thing we must never forget, thus we should never fall for:
+
+* https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum[Reductio ad Hitlerum]
+* https://zh.wikipedia.org/wiki/希特勒歸謬法[希特勒归谬法]
+
 Keywords:
 
 * Xitler (习特勒). 习 "xi2" is very close in sound to the Chinese name of Hitler: https://zh.wikipedia.org/wiki/阿道夫·希特勒[希特勒] (xi1 te4 le4)
 * Chinazi (赤纳粹). TODO why 赤. Means Red, but where else is it used?
-* link:https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum[Reductio ad Hitlerum]
 
 The most notable aspect is the persecution of minorities of course, notably <<xinjiang>> and <<falun-gong>> which closely ressembles that of the Jews, see also: <<first-they-came>>.
 
@@ -2270,6 +2281,24 @@ image::{china-dictatorship-media-base}/Xi_scout_salute.jpg[height=500]
 
 .https://www.youtube.com/watch?v=wD53MEbLDIE <<serpentza-laowhy86,laowhy86>> video "Can We Compare China to Nazi Germany?" published on 2020-04-29. Good side-by-side video comparisons. Says that China is more like Nazi than <<russia>>, but Ciro disagrees, all three are <<is-chinese-politician-x-evil,evil dictatorships>>.
 video::wD53MEbLDIE[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=hn1VxaMEjRU https://en.wikipedia.org/wiki/Mitchell_and_Webb[Mitchell and Webb] "Are we the Baddies?" Nazi Sketch. In this sketch, Mitchel, a cute self-conscious Nazi, starts to wonder with Webber, his Nazi friend, if they aren't on the side of evil, particularly due to the usage of https://en.wikipedia.org/wiki/Totenkopf[Nazi skulls (Totenkopf)] on their uniforms. This echoes <<goring-nuremberg,Gorings appearance on the Nuremberg trials>>. Like the CCP, many Nazis thought of course that they were doing great things.
+video::wD53MEbLDIE[youtube,height=400,width=600]
+
+[[hitler-has-only-got-one-ball]]
+==== Hitler Has Only Got One Ball (希特勒只有一个蛋)
+
+We have to make a <<xi-jinping>> version of this!!!
+
+* https://en.wikipedia.org/wiki/Hitler_Has_Only_Got_One_Ball[Hitler Has Only Got One Ball]
+** https://zh.wikipedia.org/wiki/希特勒只有一个蛋[希特勒只有一个蛋]
+* https://en.wikipedia.org/wiki/Possible_monorchism_of_Adolf_Hitler[Possible monorchism of Adolf Hitler]
+
+.https://www.youtube.com/watch?v=w1tF-Yrwe3U A version of the "Hitler Has Only Got One Ball" song.
+video::w1tF-Yrwe3U[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=Y1DWJQkOJew The Armstrong and Miller Show "Hitler Has Only Got One Ball" sketch depicts in a funny way the imaginary creation of  the song.
+video::Y1DWJQkOJew[youtube,height=400,width=600]
 
 === Contributing guidelines
 
@@ -2908,6 +2937,7 @@ TODO review:
 
 * https://www.reddit.com/r/taiwan/
 * https://www.reddit.com/r/China_Flu/
+* https://www.reddit.com/r/China_irl/ (流浪防区) https://www.reddit.com/r/China/comments/mnbpum/if_you_want_to_experience_the_censorship_and/ claims pro-CCP, but e.g. https://www.reddit.com/r/China_irl/comments/mn68dy/各位键委如何看待gfw/ has <<gfw>> talks
 
 ===== r/chonglangTV
 
@@ -2921,8 +2951,6 @@ Chinese language, pretty good content, anti-CCP samples:
 * 2021-02 https://www.reddit.com/r/chonglangTV/comments/lf5dy5/致那些坚持认为不会翻墙者不配看墙外东西的粉红/
 * 2021-01 https://www.reddit.com/r/chonglangTV/comments/kpulab/最双标的人/ (the people with the most double standards, 双标 is a short form or 双重标准), comments how China complained when the US imposed sanctions on <<huawei>>, while China itself had already banned everything from the West
 * 2021 https://www.reddit.com/r/chonglangTV/comments/lyxlf9/不_言_而_喻一_目_了_然/ has a cartoon about <<jack-mas-disappearance-2021>>. Ciro's actually going to steal that.
-
-Unsurprisingly there appears to be some overlap between that community and <<terminus2049>>: 2020-09-07 https://2047.name/t/7292 "如何评价reddit小组“冲浪TV”？" (What do you think about the chonglangTV sub?)
 
 ====== r/sino
 
@@ -2973,6 +3001,10 @@ Lists by <<ciro-santilli>>:
 After Trump was unfairly banned from Twitter, his social media team created an amazing "Chongald Xrump" account <<what-should-western-countries-do-about-china,pretending ridiculously to be a CCP PR person>>, it had really good posts.
 
 But that amazing account was banned: https://babylonbee.com/news/trump-sneaks-back-on-twitter-by-disguising-self-as-pr-rep-for-chinese-communist-party Twitter is <<politically-incorrect,trying really hard>> to beat the <<censorship,CCP at its own game>>.
+
+News:
+
+* 2021-04-08: publicly supported the <<milk-tea-alliance>>
 
 ===== Tumblr
 
@@ -3192,7 +3224,7 @@ image::{china-dictatorship-media-base}/Taiwan_we_are_China_cartoon.jpg[height=60
 .Proposed reunification flag for Taiwan and China. https://9gag.com/gag/a9E1YVo[Source].
 image::{china-dictatorship-media-base}/China_Taiwan_reunification_flag.webp[height=500]
 
-.West Taiwan, also known as Mainland Taiwan, also known as China.
+.West Taiwan, also known as Mainland Taiwan, also known as China. https://www.reddit.com/r/TaiwanChina/comments/j34ftk/taiwan_number_one/[Source].
 image::{china-dictatorship-media-base}/West_Taiwan_map.jpg[height=500]
 
 [[taiwan-number-one]]
@@ -3270,7 +3302,7 @@ Terrorist attacks done by Xinjiang separatists:
 
 * https://en.wikipedia.org/wiki/Terrorism_in_China#Chronology_of_major_events
 
-Notable ones:
+Notable terrorist attacks:
 
 * 2014 Kunming attack
 ** https://en.wikipedia.org/wiki/2014_Kunming_attack
@@ -3282,6 +3314,10 @@ The public must realize that a handful of extremists are far from qualified to r
 ____
 +
 and yet as of the <<xinjiang-re-education-camps>>, all Xinjiang Muslims were fucked. <<rule-of-law>> comes to mind.
+
+People:
+
+* https://en.wikipedia.org/wiki/Ilham_Tohti[Ilham Tohti] (https://zh.wikipedia.org/wiki/伊力哈木·土赫提[伊力哈木·土赫提])
 
 .<<rebel-pepper,Rebel Pepper>> 2017-04 cartoon showing that Xinjiang is like a prison inside a greater prison, which is China itself. Chinese characters read: 新疆(Xinjiang) and 中国(China). TODO source.
 image::{china-dictatorship-media-base}/Xinjiang_camp_in_camp.jpg[height=600]
@@ -3301,7 +3337,9 @@ Overview projects:
 Also includes the <<uyghurs-for-sale>> report.
 
 News:
-
+* The wings of songs (歌声的翅膀, 2021) Xinjiang propaganda musical film
+** https://www.theguardian.com/books/video/2021/apr/03/wings-of-song-china-launches-idyllic-musical-set-in-xinjiang-video
+** https://www.youtube.com/watch?v=yt-FkaH5YwI trailer
 * 2021-03-28 <<cgtn>> invents French national "Laurene Beaumond" who refutes the situation in Xinjiang:
 ** <<cgtn>> article in French: https://archive.is/USZ45[] by "Laurene Beaumond". The article was updated a day later: this time they remembered to say that Laurene Beaumond is a pseudonym. Article URL: https://francais.cgtn.com/n/BfJEA-cA-HAA/DcCEIA/index.html
 ** original investigation by Le Monde: https://www.lemonde.fr/international/article/2021/03/31/quand-la-television-chinoise-cgtn-invente-une-journaliste-francaise_6075155_3210.html
@@ -3409,7 +3447,7 @@ video::Eak3WRtcdko[youtube,height=400,width=600]
 ** https://uk.businessinsider.com/what-is-life-like-in-xinjiang-reeducation-camps-china-2018-5
 * 2017-04 https://www.nytimes.com/2017/04/25/world/asia/china-xinjiang-ban-muslim-names-muhammad-jihad.html "China Bans 'Muhammad' and 'Jihad' as Baby Names in Heavily Muslim Region".
 +
-Note that Muhammad is incredibly popular in Islamic countries, and thought to be the most popular name in the world with 150m people sharing it: https://en.wikipedia.org/wiki/Muhammad_(name)#Transliterations
+Note that Muhammad is an incredibly popular name in Islamic countries, and thought to be the most popular name in the world with 150m people sharing it: https://en.wikipedia.org/wiki/Muhammad_(name)#Transliterations
 +
 It is so prevalent, that it is often shortened to just "Md." and people are just called by their second name to reduce ambiguity: https://en.wikipedia.org/wiki/Arabic_name#Ism
 * 2017-04 https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html
@@ -3492,6 +3530,11 @@ Analyses:
 
 Related:
 
+* 2021-04-08 https://www.turkishminute.com/2021/04/08/chinese-wolf-warrior-met-their-match-in-turkey-with-municipal-trench-at-embassy-gate/ "Chinese wolf-warriors meet their match in Turkey with municipal trench at embassy gate" after 
++
+____
+Turkey's nationalist opposition has responded to a belligerent attitude from Beijing with workers from the Ankara Metropolitan Municipality digging a giant hole outside the Chinese Embassy in Ankara after the ambassador threatened the city’s mayor and an opposition leader with action over their tweets commemorating the victims of China’s violent crackdown on Uyghurs
+____
 * 2020-11-23 "Uighur scholar arrested in Saudi Arabia at risk of deportation to China", "Activists and human rights advocates have raised concerns that Aimadoula Waili may be tortured in a ‘re-education' camp if sent back to China"
 * 2020-10-01 https://www.youtube.com/watch?v=M9CIZ9x3pIs "Uighurs in Exile: Arrested and deported back to China – BBC Newsnight", "Newsnight has found that Uighur people in the Middle East have been targeted by nations including Saudi Arabia"
 * 2020-07-11: https://www.nytimes.com/2020/07/11/world/asia/china-iran-trade-military-deal.html "Defying U.S., China and Iran Near Trade and Military Partnership"
@@ -4049,6 +4092,26 @@ We're a global platform with an obligation to respect the laws that apply to us,
 ____
 * 2019-01-04 https://www.scmp.com/news/china/article/2180620/linkedin-adhering-beijings-rules-censors-chinese-profile-page-us-based "LinkedIn reverses course after censoring Chinese profile page of US-based human rights activist Zhou Fengsuo", see also: <<zhou-fengsuo>>
 * 2014-06-04 https://money.cnn.com/2014/06/04/technology/linkedin-china-censorship/ "LinkedIn draws fire for China censorship" mentions: "Some LinkedIn (LNKD) users have received emails from the company in recent days informing them that their posts will not be shown in mainland China."
+
+3 days after <<ciro-santilli>> put up anti-CCP messages on his LinkedIn, the account was banned in China, with a message under https://www.linkedin.com/help/linkedin/cases/36977487[]:
+____
+Hi Ciro,
+
+Your LinkedIn profile is an integral part of how you present your professional self to the world. That's why we believe it's important to inform you that due to the presence of prohibited content located in the headline, background image and volunteer experience sections of your LinkedIn profile, your profile and your public activity, such as your comments and items you share with your network, will not be made viewable in China. Your profile and activity continues to remain viewable throughout the rest of the countries in which LinkedIn is available.  We will work with you to minimize the impact and can review your profile’s accessibility within China if you update the headline, background image and volunteer experience sections of your profile.  But the decision whether to update your profile is yours.
+
+In February 2014, we began offering a localized version of LinkedIn in China. We believe that people everywhere can benefit from Chinese individuals connecting with each other and LinkedIn members in other parts of the world, and that the creation of economic opportunity can have a profound impact on their lives and the lives of their families and communities.
+
+While we strongly support freedom of expression, we recognized when we launched that we would need to adhere to the requirements of the Chinese government in order to operate in China.  As a reminder, your profile will remain viewable throughout the rest of the countries in which LinkedIn is available. 
+
+If you have any questions, please contact Customer Service.
+
+Regards,
+
+LinkedIn Support Team
+____
+
+.3 days after <<ciro-santilli>> put up anti-CCP messages on his LinkedIn, the account was banned in China. They are quite efficient. <<zhou-fengsuo>> had notably https://www.buzzfeednews.com/article/meghara/china-linkedin-zhou-fengsuo[previously achieved this]. Another report by a https://www.buzzfeednews.com/article/meghara/linkedin-censorship-peter-humphrey[Peter Humphrey].
+image::{china-dictatorship-media-base}/Ciro_Santilli_LinkedIn_China_ban.png[height=600]
 
 ===== Chinese interference in Western media
 
@@ -4703,8 +4766,10 @@ Mentioned in other sections:
 * <<huawei>>:
 ** https://github.com/evil-huawei/evil-huawei
 ** https://github.com/HuaweiJoke/Huawei-Joke
-* https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo from <<xi-jinping-thought>>
-* https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md form <<metoo>>
+* https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo from <<fuck-xuexiqiangguo>>
+* from <<metoo>>
+** https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md
+** https://github.com/CNwoman-bot/evil-man
 * https://github.com/fuckcqcs/fuckcqcs at <<changsheng-bio-technology-vaccine-data-falsification-incident-2018>>
 
 Not mentioned in other sections:
@@ -4884,6 +4949,10 @@ Further optimizations:
 +
 ....
 #!/usr/bin/env bash
+printf 预测结果导出
+printf 赖伟林
+printf 刺杀小说家
+printf 购物商场
 printf 英语词汇量小程序
 printf 联级选择器
 printf Bitcoin
@@ -5543,6 +5612,7 @@ The letter was also apparently embedded into the <<bitcoin-blockchain,Ethereum b
 Related:
 
 * https://github.com/NGOMeToo/NGOMeToo.github.io
+* https://github.com/CNwoman-bot/evil-man
 
 [[russia]]
 == Russia (俄罗斯)
@@ -5937,7 +6007,9 @@ In support to https://en.wikipedia.org/wiki/Sergei_Furgal[Sergei Furgal] (https:
 
 * https://en.wikipedia.org/wiki/RT_(TV_network)
 
-=== Censorship of images in the Soviet Union
+=== Soviet Union
+
+==== Censorship of images in the Soviet Union
 
 https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union
 
@@ -5950,13 +6022,17 @@ image::{china-dictatorship-media-base}/Malchenko.jpg[height=500]
 .Same as above, but with Alexander Malchenko edited out. link:++https://en.wikipedia.org/wiki/File:St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg++[Source].
 image::{china-dictatorship-media-base}/No_Malchenko.jpg[height=500]
 
-==== Soviet Union radio jamming stations
+===== Soviet Union radio jamming stations
 
 https://en.wikipedia.org/wiki/Radio_in_the_Soviet_Union#Radio_jamming
 
 Ah, the good old days <<gfw,before the TCP/IP>>, when you could just jam around a border ;-)
 
 http://www.antentop.org/008/files/jamm008.pdf has good pics.
+
+==== Agitprop
+
+* https://en.wikipedia.org/wiki/Agitprop
 
 [[stalin]]
 === Stalin 斯大林 (1922-1952)
@@ -6102,6 +6178,16 @@ image::{china-dictatorship-media-base}/Thai_king_prostrated_wife.jpg[height=400]
 
 .Thai king Vajiralongkorn wearing a https://en.wikipedia.org/wiki/Crop_top[crop top] so tight that it could be called a https://en.wikipedia.org/wiki/Bra[bra], and accompanied by one of his many girlfriends, in a shopping center in Munich. He can wear whatever the fuck wants, but to both wear that and enforce Lèse majesté? That's the ultimate torture for the Thai people, how can you not make fun of him??? TODO date, exact location, original report. Here is one of the many reports,  https://www.thesun.co.uk/news/3578661/from-fake-tattoos-and-crop-tops-to-making-a-poodle-air-force-chief-the-king-of-thailands-maddest-moments-revealed/[sample report from 2017 in a British tabloid].
 image::{china-dictatorship-media-base}/Thai_king_crop_top.jpg[height=400]
+
+[[milk-tea-alliance]]
+=== Milk Tea Alliance (奶茶联盟)
+
+* https://en.wikipedia.org/wiki/Milk_Tea_Alliance
+* https://zh.wikipedia.org/wiki/奶茶聯盟
+
+News:
+
+* 2021-04-08 <<twitter>> launches official support campaign for the Milk Tea Alliance: https://twitter.com/Policy/status/1379982396490010624
 
 [[iran]]
 == Iran (伊朗)
@@ -8092,12 +8178,10 @@ image::{china-dictatorship-media-base}/Xi_Jinping_portrait_2012.jpg[height=400]
 
 Added to the Constitution in preparation for <<xi-abolishes-term-limits-2018-03,eternal rule>>.
 
-<<xi-jinping>>'s <<little-red-book>>. But since it is the 21st century, there's an app for it instead called "Study (for a) Strong Country" designed by <<alibaba>>:
+<<xi-jinping>>'s <<little-red-book>>. But since it is the 21st century, there's an app for it instead called "Study (for a) Strong Country" (学习强国) designed by <<alibaba>>:
 
 * https://en.wikipedia.org/wiki/Xuexi_Qiangguo
 * https://zh.wikipedia.org/wiki/学习强国
-
-TODO what does this repo do: https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo[]? And there there's an anti-repo for wumaos: https://github.com/boycott-fuck-xuexiqiangguo/Boycott-Fuck-XueXiQiangGuo
 
 Online video version courtesy of <<xinhua>>: http://www.xinhuanet.com/politics/xjpsxkj/index.html[]. Contains <<ccp-cult,devotional>> videos, not text: http://www.xinhuanet.com/politics/xjpsxkj/1.html
 
@@ -8105,6 +8189,51 @@ Notably, it consists of 14 chapters, which are called "talks" (讲), e.g. the fi
 
 .<<ccp-cult,Devotional>> image of <<xi-jinping>> on the cover of the https://en.wikipedia.org/wiki/The_Governance_of_China[The Governance of China] (link:https://zh.wikipedia.org/wiki/习近平谈治国理政[习近平谈治国理政], 2020) book which is part of <<xi-jinping-thought>>. The similarity to <<li-hongzhi>> devotional images <<li-hongzhi-lotus,is striking>>. Related: <<xi-halo>>. https://www.amazon.co.uk/Governance-China-Xi-Jinping/dp/1602204098[Source].
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China.jpg[height=400]
+
+[[xuexi-qiangguo]]
+===== Xuexi Qiangguo (学习强国)
+
+App made by <<alibaba>> for the <<ccp>> to teach people <<xi-jinping-thought>>.
+
+* https://en.wikipedia.org/wiki/Xuexi_Qiangguo
+* https://zh.wikipedia.org/wiki/学习强国
+
+The app appears to have both contents, and also tests to check that you've read it.
+
+At https://www.reddit.com/r/China/comments/mnulkd/china_is_forcing_chinese_to_use_national/gu05o20/?utm_source=reddit&utm_medium=web2x&context=3 a <<reddit>> user explains:
+
+____
+Many people are also forced to use the app "强国学习" in order to keep their jobs. Especially government workers. They have to study XiJinPing thought for certain amount of time each week and do exams.
+____
+
+This is confirmed e.g. at: https://www.hf.uio.no/ikos/english/studies/voices-middle-east-asia/voices-from-east-asia/xuexi-qiangguo-%E2%80%93-digitalization-of-chinese-propaga.html
+
+____
+
+Within the first four months of Xuexi Qiangguo’s release, it was the most downloaded app in China with over 100 million downloads, surpassing China’s most popular messaging, social media and mobile payment app, WeChat and the Chinese version of TikTok, known as Douyin.
+
+To use the app is not exactly voluntary. The Communist Party has issued directives that requires party members to download the app and use it. Many workplaces have done the same and it has been reported that employees are required to send screenshots to document their progress on the app. If they don’t, they are at risk of a pay deduction.
+
+To put it in perspective, over 90 million Chinese are members of the Communist Party, and there are nearly 850 million internet users and almost 690 million smart phone users in China, as of 2019. It is, however, not clear whether the people who have downloaded the app genuinely are interested in learning about Xi Jinping’s political ideology, or if they feel like they must download it to show loyalty to the party.
+____
+
+====== Fuck-XueXiQiangGuo
+
+https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo[]
+
+This <<github>> repository appears to help cheat the Xuexi qiangguo, see also: <<github-repositories-with-censored-information>>.
+
+The program's executable file name is actually `./Fuck学习强国`, a thing of beauty.
+
+Several video demos can be found on YouTube:
+
+* https://www.youtube.com/watch?v=ahHzi1rGDfA "2021@学习强国辅助之Ai强国&科技强国" by Axiom Show shows the Android App
+* https://www.youtube.com/watch?v=dOic-mYcwGA "习近平的学习强国和fuck 学习强国 | 如何从github上获取fuck xuexiqiangguo | 如何使用fuck xuexiqiangguo" by "中国人每日秀 The Chinese Daily Show" (2019)
+
+And there there's an anti-repo for <<wumao>> who oppose the cheating: https://github.com/boycott-fuck-xuexiqiangguo/Boycott-Fuck-XueXiQiangGuo It had 150 stars as of 2021, as oppoesd to 7500 of the cheating repo.
+
+.Fuck-XueXiQiangGuo 2021 GitHub page screenshot with stars highlighted. This is what you should show <<wumao,wumaos>> when they that no Chinese person opposes the <<ccp>>.
+image::{china-dictatorship-media-base}/Fuck-XueXiQiangGuo_2021_GitHub_page_screenshot_with_stars_highlighted.png[height=650]
 
 [[chinese-dream]]
 ===== Chinese dream (中国梦, 4000 BC -)
@@ -9642,6 +9771,7 @@ Related shows:
 * https://www.youtube.com/user/NTDOffTheGreatWall Off the Great Wall
 * https://www.youtube.com/channel/UCVWMVBg1RPrDlakdmbyTKBA Zooming In with Simone Gao
 * https://www.youtube.com/channel/UC3HxxpOJ0WWIuZsb7FtSLWQ The BL (The Beauty of Life) No clear indication, but obvious since intro video shows Falun Gong images.
+* https://www.youtube.com/channel/UCYSHqbSBDD0X3NC-ze8z5xQ 中國禁聞 (Chinese Forbidden News). Nice name, a play of words on "新闻" (xinwen vs jinwen)
 
 [[china-uncensored]]
 ====== China Uncensored (pro-Falun Gong media)
