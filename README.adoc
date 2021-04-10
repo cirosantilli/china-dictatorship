@@ -4678,6 +4678,9 @@ The only thing that would work is if the Chinese government makes a gov-takedown
 
 In order to get this repository in gov-takedown, your best bet is to use the <<cac-report-website>>.
 
+.How to report an user on GitHhub.
+image::{china-dictatorship-media-base}/How_to_report_an_user_on_GitHub.png[height=2000]
+
 ===== GitHub censored subdomains
 
 It appears according to <<greatfire>> however that there are some important GitHub censored subdomains, notably:
@@ -8192,7 +8195,7 @@ Notably, it consists of 14 chapters, which are called "talks" (讲), e.g. the fi
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China.jpg[height=400]
 
 [[xuexi-qiangguo]]
-===== Xuexi Qiangguo (学习强国, 2019)
+===== Xuexi Qiangguo (学习强国, xxqg, 2019)
 
 * https://en.wikipedia.org/wiki/Xuexi_Qiangguo
 * https://zh.wikipedia.org/wiki/学习强国
@@ -8234,6 +8237,8 @@ Several video demos can be found on YouTube:
 * https://www.youtube.com/watch?v=dOic-mYcwGA "习近平的学习强国和fuck 学习强国 | 如何从github上获取fuck xuexiqiangguo | 如何使用fuck xuexiqiangguo" by "中国人每日秀 The Chinese Daily Show" (2019)
 
 And there there's an anti-repo for <<wumao>> who oppose the cheating: https://github.com/boycott-fuck-xuexiqiangguo/Boycott-Fuck-XueXiQiangGuo It had 150 stars as of 2021, as oppoesd to 7500 of the cheating repo.
+
+The repository was created by Tang Wenzheng (唐文正, <<github>> alias https://github.com/Xmader[Xmader]). https://chinadigitaltimes.net/chinese/663593.html According to https://chinadigitaltimes.net/chinese/663593.html form <<china-digital-times>>, he accidentally posted with his real name on an issue once (<<ciro-santilli>> knows that it is basically impossible not to when juggling multiple accounts simultaneously), and subsequently publicly announced his true identity. Following the name reveal, he did an AMA on <<terminus2049>> https://2047.name/t/11552[], and luckily he is abroad, and does not intend to come back. Wenzheng also created the https://github.com/china-digital-times/china-digital-times.github.io <<github>> pages mirror of <<china-digital-times>>, further discussed in that section. At https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/issues/578 on 2021-03-03, he announced that he would stop working on the project because his parents weren't needing the APP anymore, succession wasn't announced. A few commits followed in the next days, but presumably minimal maintenance and ramp-down.
 
 .Fuck-XueXiQiangGuo 2021 GitHub page screenshot with stars highlighted. 7k stars on a Chinese-only repository is a lot of stars, and very unlikely to be faked. This is what you should show <<wumao,wumaos>> when they that no Chinese person opposes the <<ccp>>.
 image::{china-dictatorship-media-base}/Fuck-XueXiQiangGuo_2021_GitHub_page_screenshot_with_stars_highlighted.png[height=650]
@@ -9031,7 +9036,9 @@ Other sections:
 * <<tianmen-leaders>>
 * <<people-arrested-for-reporting-on-the-2019-corona-virus>>
 * <<t-shirt>>
-* <<terminus2049>> contributors: Chen Mei (陈玫), Cai Wei (蔡伟), Xiao Tang (小唐)
+* from <<github-repositories-with-censored-information>>:
+** <<terminus2049>> contributors: Chen Mei (陈玫), Cai Wei (蔡伟), Xiao Tang (小唐)
+** <<fuck-xuexiqiangguo>> creator Tang Wenzheng (唐文正)
 
 Other dissidents:
 
@@ -9927,6 +9934,14 @@ Partial support:
 They have some amazing anti-<<ccp,CCP>> content, notably:
 
 * https://chinadigitaltimes.net/space/Main_Page[Grass-mud-horse Index], mentioned at: <<where-can-i-find-good-words-for-a-keyword-attack>>
+
+A scraped mirror of CDT was created on <<github>> pages by Tang Wenzheng from <<fuck-xuexiqiangguo>> is present at:
+
+* https://china-digital-times.github.io/?/
+* https://github.com/china-digital-times/china-digital-times.github.io JavaScript SPA that reads data from the data repository, which is stored as JSON (JAMstack)
+* https://github.com/china-digital-times/data/ the data
+
+Firs commit  Jun 30, 2019. The first article is from 2010, so maybe it did scrape everything. It appears to be automatically updated daily. The images seem to be re-uploaded to https://statically.io/[], e.g. https://china-digital-times.github.io/?/id/664606 contains https://cdn.statically.io/gh/china-digital-times/files/master/2021/04/image-1617989397104.png while the original article https://chinadigitaltimes.net/chinese/664606.html stores images locally: https://chinadigitaltimes.net/chinese/files/2021/04/image-1617989397104.png[]. This approach is more censorship resistant, since all images are under a single domain, so takedown would require a full statically domain takedown, which would break other things. Although CDN blocks are not unheard of, e.g. as mentioned at: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china[].
 
 .https://www.youtube.com/watch?v=hx28EUiKEUc "From 'fart people' to citizens on China's internet | Xiao Qiang | TEDxLiberdade" by TEDx Talks (2014). Presentation by https://en.wikipedia.org/wiki/Xiao_Qiang[Xiao Qiang] (https://zh.wikipedia.org/wiki/蕭強[萧强]), founder of <<china-digital-times>>. He was a Physicist from https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China[USTC] who went mad after <<tiananmen>>. <<wife>> also studied there and said that's the most anti-CCP of all big Chinese universities.
 video::MCxzMYVvHBg[youtube,height=400,width=600,start=227]
