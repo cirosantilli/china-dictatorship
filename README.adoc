@@ -3337,6 +3337,7 @@ Overview projects:
 Also includes the <<uyghurs-for-sale>> report.
 
 News:
+
 * The wings of songs (歌声的翅膀, 2021) Xinjiang propaganda musical film
 ** https://www.theguardian.com/books/video/2021/apr/03/wings-of-song-china-launches-idyllic-musical-set-in-xinjiang-video
 ** https://www.youtube.com/watch?v=yt-FkaH5YwI trailer
@@ -3464,6 +3465,9 @@ image::{china-dictatorship-media-base}/Uyghur_workers_waving_China_flag.jpg[heig
 
 .https://www.youtube.com/watch?v=Mx0JFgwATho&t=128 "New footage shows Uyghurs bussed across China for forced labour in factories". At the given timestamp, contains 30 seconds of footage extracted from 3 social media posts showing Uyghurs being sent in busses to work in far way regions.
 video::M_aXcH1zDEE[youtube,height=400,width=600,start=128]
+
+.https://www.youtube.com/watch?v=AxnS4z-cSlI (https://github.com/cirosantilli/china-dictatorship/issues/220[GitHub upload]) Dozens of Uyghurs standing on a large court being brainwashed by a speaker who says: 社会主义核心价值观，一定维护民族团结 (Socialist core values maintain ethnic harmony). The echo of the speaker on the background buildings is eery. UNCONFIRMED. https://twitter.com/__Inty__/status/1381002964551168000[Source].
+video::AxnS4z-cSlI[youtube,height=400,width=600]
 
 ====== Merdan Ghappar's video (2020-08-05)
 
@@ -11203,6 +11207,9 @@ Bibliography:
 
 * 2020-06-29 “小粉红”现象调查 (An investigation of the "Little Pink" phenomenon)
 * 2017 http://www.8bb.com/zaojiao/5264.html "小红粉小粉红是什么 家长发现孩子自称小粉红怎么办" (What is a little pink? If a parent discovers that their children call themselves little pinks, what should they do about it?). Kill them.
+
+.Perceived comparison between <<wumao>> and <<little-pink>> suggesting that unpaid Little Pinks are more nationalist and extreme than the paid wumaos, which is not too surprising, considering that they do it for free. https://twitter.com/__Inty__/status/1376942681956487168[Source].
+image::{china-dictatorship-media-base}/Wumao_2011_vs_Little_Pink_2021.jpg[height=800]
 
 [[that-rabbit]]
 ====== That Rabbit (那兔)
