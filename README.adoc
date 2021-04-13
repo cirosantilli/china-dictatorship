@@ -3631,6 +3631,7 @@ The keyword is <<rule-of-law>>: because of a few terrorists, every single Muslim
 
 Overview projects:
 
+* https://www.talkaboutxinjiang.com/ Talking about Xinjiang 我们一起来谈谈新疆
 * https://xjdp.aspi.org.au/ The Xinjiang Data Project by the https://en.wikipedia.org/wiki/Australian_Strategic_Policy_Institute[Australian Strategic Policy Institute]
 +
 Also includes the <<uyghurs-for-sale>> report.
@@ -3755,10 +3756,10 @@ It is so prevalent, that it is often shortened to just "Md." and people are just
 .Image of prisoners wearing blue sitting down in Xinjiang concentration camp, with some prisoners identified to indicate that they are not criminals but rather detained purely for political reasons. A sixth one was https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[identified in another report]. https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[Source].
 image::{china-dictatorship-media-base}/Xinjiang_prisoners_sitting_identified.jpeg[height=400]
 
-.Workers walking next to a prison-like security wall with concertina wire and barbed wire in the https://en.wikipedia.org/wiki/Dabancheng_District[Dabancheng] (https://zh.wikipedia.org/wiki/达坂城区[达坂城区]) <<xinjiang-re-education-camps,re-education camp>>. https://www.dw.com/en/western-un-envoys-condemn-chinas-muslim-re-education-camps/a-49543438[Source].
+.Workers walking next to a prison-like security wall with concertina wire and barbed wire in the https://en.wikipedia.org/wiki/Dabancheng_District[Dabancheng] (https://zh.wikipedia.org/wiki/达坂城区[达坂城区]) <<xinjiang-re-education-camps,re-education camp>> circa 2019. https://www.dw.com/en/western-un-envoys-condemn-chinas-muslim-re-education-camps/a-49543438[Source].
 image::{china-dictatorship-media-base}/Dabancheng_reeducation_camp.jpg[height=400]
 
-.Security towers and inmate buildings of the https://en.wikipedia.org/wiki/Artux[Artux city] (https://zh.wikipedia.org/wiki/阿图什市[阿图什市]) <<xinjiang-re-education-camps,re-education camp>>. https://www.dw.com/en/western-un-envoys-condemn-chinas-muslim-re-education-camps/a-49543438[Source]
+.Security towers and inmate buildings of the https://en.wikipedia.org/wiki/Artux[Artux city] (https://zh.wikipedia.org/wiki/阿图什市[阿图什市]) <<xinjiang-re-education-camps,re-education camp>> circa 2019. https://www.dw.com/en/western-un-envoys-condemn-chinas-muslim-re-education-camps/a-49543438[Source]
 image::{china-dictatorship-media-base}/Artux_city_reeducation_camp.webp[height=400]
 
 .https://www.youtube.com/watch?v=AxnS4z-cSlI (https://github.com/cirosantilli/china-dictatorship/issues/220[GitHub upload]) 2021 video showing dozens of Uyghurs standing on a large court being brainwashed by a woman saying on a loudspeaker: 社会主义核心价值观，一定维护民族团结 (Socialist core values definitely maintain ethnic harmony). The echo of the speaker on the background buildings is eery. UNCONFIRMED. https://twitter.com/__Inty__/status/1381002964551168000[Source].
@@ -5581,6 +5582,9 @@ image::{china-dictatorship-media-base}/Last_Supper_arrest.jpeg[height=400]
 .https://en.wikipedia.org/wiki/Zhang_Hongtu[Zhang Hongtu] cartoon showing <<mao-zedong,Mao Zedong>> and other communist officials at the Last Supper instead of Jesus and the Apostles. https://musicandculture.blogspot.com/2010/03/massive-last-supper-parodies-post.html[Source].
 image::{china-dictatorship-media-base}/Last_Supper_Mao.jpg[height=400]
 
+.Permission papers filled to the brim with government stamps required for the Taihu Catholic Church (https://zh.wikipedia.org/wiki/華莊天主堂[太湖天主堂]) from https://en.wikipedia.org/wiki/Wuxi[Wuxi] (https://zh.wikipedia.org/wiki/无锡市[无锡市]) to hold their annual Christmas https://en.wikipedia.org/wiki/Réveillon[Reveillon] reunion. This is the <<ccp,CCP>>'s version freedom of religion and freedom of assembly. Also mentioned at: https://bitterwinter.org/christmas-was-not-allowed-but-brought-china-a-lot-of-money/ from <<bitter-winter>> (they likely got the province wrong saying it is in Anhui instead of Jiangsu). https://twitter.com/ZhangZhulin/status/1342211279633719296[Source]. TODO original social media post from the church.
+image::{china-dictatorship-media-base}/Taihu_church_Christmas_reveillon_permission_2020.jpg[height=500]
+
 [[life-of-brian-nazi-jew]]
 .https://youtu.be/wthHB3iTC7M?t=556 Nazi Jew deleted scene from <<life-of-brian-1979>>. If you want to stop <<christianity>>, don't put them in jail like the <<dictatorship,dictators>>. Do it the same way you stop dictators: with <<funny,comedy>>. Otherwise, the dictators remain in power, and <<intolerance,next person in jail, will be you>>. <<the-secret-life-of-brian-2007>> is a good documentary about it.
 video::wthHB3iTC7M[youtube,width=600,height=400,start=556]
@@ -5666,6 +5670,7 @@ Related:
 
 * https://github.com/NGOMeToo/NGOMeToo.github.io
 * https://github.com/CNwoman-bot/evil-man
+* https://twitter.com/FeministChina
 
 [[russia]]
 == Russia (俄罗斯)
@@ -8205,6 +8210,9 @@ Some other sources:
 .Golden heart shaped souvenir with a picture of Xi Jinping that was sold in <<tiananmen,Tiananmen Square>> in 2018. https://www.telegraph.co.uk/news/2018/02/26/endowing-role-endless-rule-shows-xis-imperial-ambitions/[Source].
 image::{china-dictatorship-media-base}/Xi_Jinping_heart.jpeg[height=400]
 
+.Souvenirs sold in Beijing with the bust of Xi Jinping and Mao Zedong circa 2020. TODO: what is the shape of those souvenirs meant to evoke? https://www.wsj.com/articles/americans-negative-views-on-china-spike-polls-show-11614870001?reflink=desktopwebshare_twitter[Source].
+image::{china-dictatorship-media-base}/Xi_Jinping_Mao_Zedong_sculpture_souvenirs.jpg[height=400]
+
 .Xi Jinping in 2019 wearing his cute compassionate face. Do you think that such a cute cute North-Westerner 东北人 would ever to terrible things like <<xinjiang,commiting cultural genocide of a million people>> or <<xi-abolishes-term-limits-2018-03,trying to become ruler for life>>? Impossible, it must be <<evil-west,American lies>>.
 image::{china-dictatorship-media-base}/Xi_dada.jpg[height=400]
 
@@ -9611,6 +9619,10 @@ The video shows a call with a black man (TODO who is that) where he talks about 
 
 Sources of information pertinent to this repository.
 
+In other sections:
+
+* <<russian-state-media>>
+
 === Commentary media
 
 The following offer interesting commentary, but not to be used as primary sources:
@@ -10012,6 +10024,18 @@ video::MCxzMYVvHBg[youtube,height=400,width=600,start=227]
 ===== Jamestown Foundation (USA government media)
 
 https://en.wikipedia.org/wiki/Jamestown_Foundation
+
+==== Anti-CCP media
+
+[[bitter-winter]]
+===== Bitter Winter (寒冬)
+
+* https://bitterwinter.org/
+* https://en.wikipedia.org/wiki/CESNUR
+
+Italian-based magazine about freedom of religion.
+
+China category: https://bitterwinter.org/category/china/news/
 
 ==== USA-based media bias
 
