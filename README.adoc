@@ -305,6 +305,298 @@ which is more lightweight and pushes just to GH Pages, so we are going to be usi
 
 There is no need to update package versions or add git tags, all of that gets done automatically by the script!
 
+[[github-repositories-with-censored-information]]
+== GitHub repositories with censored information (政治铭感的GitHub库)
+
+For lists of censored information outside of GitHub see: <<lists-of-material-censored-in-china>>.
+
+For content outside of GitHub: <<lists-of-material-censored-in-china>>.
+
+Mentioned in other sections:
+
+* <<gov-takedowns-china>>
+* <<nine-nine-six-icu>>
+* <<nCovMemory>>
+* <<bandinchina-github-repository>>
+* https://github.com/jasonqng/chinese-keywords mentioned at <<where-can-i-find-good-words-for-a-keyword-attack>>
+* https://github.com/programthink/zhao from <<programthink>>
+* <<censorship-monitoring-tools-on-github>>
+* <<huawei>>:
+** https://github.com/evil-huawei/evil-huawei
+** https://github.com/HuaweiJoke/Huawei-Joke
+* https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo from <<fuck-xuexiqiangguo>>
+* from <<metoo>>
+** https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md
+** https://github.com/CNwoman-bot/evil-man
+* https://github.com/fuckcqcs/fuckcqcs at <<changsheng-bio-technology-vaccine-data-falsification-incident-2018>>
+
+Not mentioned in other sections:
+
+* taibangle (太棒了)
+** https://github.com/taibangle/awesome-china
+** https://github.com/taibangle/lennon-wall
+* https://github.com/sikaozhe1997/Xin-Yue
+* https://github.com/Project-Gutenberg/Pincong see also <<pincong>>
+* https://speechfree.github.io/cultural-revolution-database/ 中国文化大革命文库 The Chinese Cultural Revolution Database
+* https://github.com/Luterngun/Record_of_Survival_in_Digital_Totalitarian_Era[] small docuement that goes over <<censorship-circumvention>> and opsec. There was a PDF on GitHub but got removed from master (still in Git history), now links to external websites only. Newbs.
+* https://github.com/nodebe4 personal account with anti-CCP projects
+** https://twitter.com/tansunit claims name 陳純一, "Previous: NGO worker, educator, social activist. Present: Master student @Univ_Paris"
+** https://github.com/NodeBE4/hero 自由人的英雄榜 "List of fredom heroes"
+** https://github.com/NodeBE4/impact good list of Chinese political projects on GitHub
+* https://github.com/woct0rdho/pkuholebackup/ appears to contain a list of posts of anonymized (Alice/Bob/Carol/Dave/...) deleted posts from some Peking University (PKU) chat system. The posts are from 2013 to 2019. TODO how could they obtain that list? Who delete the posts in the first place? Authors or authority?
+
+Interesting users:
+
+* https://github.com/gfw-breaker
+** appears to give a lot of focus to <<falun-gong>>, e.g.:
+*** https://github.com/gfw-breaker/truth Falun Gong information repository
+*** https://github.com/gfw-breaker/banned-news1 automatic scraper of news from banned websites into the repository, with top sites being <<falun-gong-media>>
+** present in <<gov-takedowns-china>>
+* https://github.com/bannedbook
+** https://github.com/bannedbook/fanqiang is the main repository about <<censorship-circumvention>>, TODO what it contains exactly? Code, or just documentation of existing methods?
+* https://github.com/breakwa11 likely previous ShadowsocksR dev: <<censorship-circumvention>>, 10k+ followers 2020, but no repos, so forced takedown.
+
+Non-information but also interesting:
+
+* https://github.com/lurongkai/anti-baidu
+
+TODO evaluate:
+
+* https://github.com/sky8964/home
+
+Reasonable topics:
+
+* https://github.com/topics/censorship
+
+[[terminus2049]]
+=== Terminus2049 (端点星计划)
+
+* https://github.com/Terminus2049/Terminus2049.github.io
+* https://terminus2049.github.io/
+* https://zh.wikipedia.org/wiki/端点星事件
+* https://2049bbs.xyz/
+* previous project name: https://github.com/Info-cn/Terminus
+
+Jekyll GitHub Pages repository that saves full text copies of censored articles:
+
+____
+本仓库存放被删文章
+
+This repository stores deleted articles.
+____
+
+Also accompanies a dynamic forum https://2049bbs.xyz/ which appears to be where content for the static pages gets discussed and brought up. But it possible that the website has been compromised and is leaking identity of users. At some point, https://2049bbs.xyz went down. Live https://web.archive.org/web/20200719151022/https://2049bbs.xyz/ dead: https://archive.vn/JFqCJ
+
+The "Terminus" in the repo name seems to be a reference to Isaac Asimov's fictional https://asimov.fandom.com/wiki/Terminus[Terminus planet] which is called https://zh.wikipedia.org/wiki/端点星[端点星] in Chinese, but it is not clear where the 2049 comes from in that context. Forgetting the Chinese name, Terminus2049 could be a reference to the fictional https://bladerunner.fandom.com/wiki/World_War_Terminus["World War Terminus"] from the https://en.wikipedia.org/wiki/Blade_Runner_2049[Blade Runner 2049 (2019)] movie, which also explains the 2049.
+
+First commint on 2018-04-27, GitHub pages domain blocked in China at least since 2019-03 according to <<greatfire>>: https://zh.greatfire.org/search/all/https%3A//terminus2049.github.io but not in <<github-gov-takedowns>> as of 2020-04.
+
+The full post list can be seen most conveniently at: https://github.com/Terminus2049/Terminus2049.github.io/tree/master/_posts The number of articles is insane, usually several every day.
+
+Most articles appear to be taken from recent news at the time of writting, although there are a few from before the repo started. As of 2020-04, the oldest article was from 2016 <<metoo>> events reported by Yue Xin, some other topics include:
+
+* <<gay-rights>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2018-04-14-LGBTRights-advocacy-china.md
+* <<nine-nine-six-icu>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2019-04-04-996-ICU.md
+* <<lebron-james-opposes-hong-kong-anti-extradition-bill-protests-2019>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2019-10-11-NBA.md
+
+They use Jekyll tags a lot, which makes for a good grouping of the topics.
+
+In 2020-04-25, it was reported that three Beijing-based contributors were arrested during <<corona>>:
+
+* https://www.scmp.com/news/china/politics/article/3081569/chinese-activists-detained-after-sharing-censored-coronavirus
+* https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html Chinese article, gives the Chinese names, and some background on the arrested people
+* https://qz.com/1846277/china-arrests-users-behind-github-coronavirus-memories-page/
+
+People:
+
+* Chen Mei (陈玫)
+** https://www.linkedin.com/in/玫-陈-1607b735/ a LinkedIn account with matching photo and name
+** chanmei007@gmail.com
+** https://github.com/cmmei[], down 2020-12, live archive: https://web.archive.org/web/20200101232039/https://github.com/cmmei[]. Includes https://web.archive.org/web/20180611153507/https://github.com/cmmei/Banned-zh
+* Cai Wei (蔡伟)
+** https://github.com/thphd/2047 mentioned below reveals and email caiw15@mails.tsinghua.edu.cn and profiles/further aliases:
+*** https://github.com/Tsai1993
+*** https://tsai1993.github.io
+*** https://mastodon.xyz/@ciao
+*** tsai1993@qq.com
+*** Tsai2049@gmail.com
+* Xiao Tang (小唐), who is also Cai Wei's girlfriend
+
+In 2020-06-12 their families received calls saying that they had been charged with <<picking-quarrels>>:
+
+* https://www.scmp.com/news/china/society/article/3089002/coronavirus-chinese-activists-held-posting-censored-articles
+* https://www.rfa.org/mandarin/Xinwen/10-06122020154234.html
+
+Ciro's petition to free them: https://github.com/cirosantilli/chen-mei-cai-wei-ziyou
+
+How their identities were found:
+
+* https://github.com/Terminus2049/Terminus2049.github.io/issues/598 offers a good analysis
+* https://pincong.rocks/question/24370
+* https://gist.github.com/chinatimeline/5386a4f9d82483aa5346b17d8d324877 comments by <<chinatimeline>> and gives further opsec guidelines
+
+Terrible opsec... they used real name GitHub emails on early commits, including the institutional university address, before they started better opsec under https://github.com/TerminusBot / terminus2049@protonmail.com
+
+https://github.com/thphd/2047 is a project to restore terminus, live at https://2047.name[] Ciro mention at: https://2047.name/e/76182458[] by https://2047.name/u/5155 which is similar to a <<mohu>> mention, so they seem to share the database? Who knows what's the relation between all those <<pincong>> lookalikes. TODO that website shows an <<icp-license>>? Very confusingly also mirrored at https://pincong.org e.g. https://pincong.org/t/10219[]/https://2047.name/t/10219[], which is very similar to <<pincong>>'s address. Related account: https://github.com/PincongBot
+
+https://2047.name[] has a links section at: https://2047.name/links shown on the sideboard, containg links of interest. Some all not are very China specific.
+
+https://2047.name/register registration requires an invitation code.
+
+https://github.com/2049bbs/2049bbs.github.io[] / https://2049bbs.github.io/[] maintains another archive up to 2019-03-03.
+
+.Side-by-side photos of Chen Mei (陈玫) and Cai Wei (蔡伟). https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html[Source].
+image::{china-dictatorship-media-base}/Chenmei_Caowei.png[height=400]
+
+[[chinatimeline]]
+=== chinatimeline (中国时间线)
+
+https://github.com/chinatimeline/chinatimeline.github.io
+
+Explores several sensitive topics through interesting timelines with many pictures, for example:
+
+* <<tiananmen>>: https://chinatimeline.github.io/tiananmen/
+* <<corona>>: https://chinatimeline.github.io/wuhan-coronavirus/
+* religious persecution, including <<falun-gong>>: https://chinatimeline.github.io/religion_tl1/
+
+Some minor relationships with <<terminus2049>>:
+
+* https://github.com/chinatimeline/chinatimeline.github.io/issues/3
+* https://gist.github.com/chinatimeline/5386a4f9d82483aa5346b17d8d324877
+
+=== duty-machine
+
+The anonymous user https://github.com/duty-machine has some automation setup such that anyone can request certain webpages to be copied on to GitHub anonymously through a separate website, notably:
+
+* https://github.com/duty-machine/duty-machine[]: big Chinese social media, e.g. Weibo, <<zhihu>>, Douban. Articles stored in issues. Archive requests: https://archives.duty-machine.now.sh/
+* https://github.com/duty-machine/news[]: big Western news websites like Reuters, BBC, etc. Articles stored in-tree.
+
+The project claims to have been inspired by <<terminus2049>>, but hopefully they will have better operational security.
+
+Unfortunately, it was found that the project could be used by malicious users to at mention spam GitHub users: https://github.com/cirosantilli/china-dictatorship/issues/192[], let's see if they patch it.
+
+[[zhao-heming]]
+=== Zhao Heming (召赫名)
+
+A few accounts were created by this pseudonym, e.g.:
+
+* https://github.com/zaohmeing/21-[]: https://github.com/zaohmeing/21-/blob/master/.gitignore
+* https://github.com/zhaohmng/-21-[]: https://github.com/zhaohmng/-21-/blob/master/%231a.txt The repository was deleted as of March 2021, TODO why?
+** Ciro's fork: https://github.com/cirosantilli/-21-
+** archive from December 2020: https://web.archive.org/web/20201225094655/https://github.com/zhaohmng/-21-
+
+Much more sanely encoded/formatted/rendered versions can be found at:
+
+* https://github.com/cirosantilli/china-dictatorship/blob/master/21century.md[]. Copied from https://matters.news/@halanh/网传70岁赫连禾用大半生研究构建-21世纪新政-引发专家们高度关注-bafyreihnbf6jyzvwyybwl5hym2nikj5zrpwxli6nphzylvdq6btsbydn3y
+* https://github.com/cirosantilli/china-dictatorship/blob/master/wang-huning-three-dynasties.adoc[]. Copied from: https://matters.news/@halanh/三朝罪恶元凶王沪宁-bafyreifrjf5ce45fqpif4nms4x72mlrbyijs7bffqi7f7sng47fuelkhmm
+
+Both Zhao Heming repos contain reproductions of two manifestos are pasted together on a single file, and somewhat broken encoding.
+
+Ciro noticed that thoe repos attracted an incredible ammount of <<wumao>> on the comments, despite having very simple copy pasted content, it was very impressive!!! Ciro was jealous, and added some anti-wumao comments in. On commits:
+
+* https://github.com/zhaohmng/-21-/commit/0cc2b2a546ad51fb360ba800c67b057ea3270869#commitcomment-47495235
+* https://github.com/zaohmeing/21-/commit/42de05338193f39981b1a820873a990c959fd6ec#commitcomment-47392119
+
+https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665 "为什么这个屎一样的东西会出现在我个人主页左侧的repositories中，那里不是应该只有自己的项目才会出现吗？有办法屏蔽它吗？还是github故意的？" explains why so many people come comment in the repository: it is because it appears on the "Explore repositories" repository suggestions which show on the side bar of your GitHub homepage, and on searches. This was also mentioned at: 
+
+After further inspection, taught understood that repository descriptions given to GitHub can be really huge for SEO: they had pasted the entire 21st century text there. So Ciro attempted the same approach, and pasted all of link:21century.md[], link:wang-huning-three-dynasties.adoc[] and link:fifth-modernization.md[] in there on 2021-03-23, and the effect was dramatic: an immediate 4x more views on the following day according to https://github.com/cirosantilli/china-dictatorship/graphs/traffic[] (40 unique visitors to 100 on a Wednesday), and a few wumao comments. And a wumao soon confirmed that it was working directly: https://github.com/cirosantilli/china-dictatorship/issues/201[]. This can be automated with: link:description.sh[].
+
+Further optimizations:
+
+* https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts Some processing to increase density creates a BOMB:
++
+....
+#!/usr/bin/env bash
+printf 学习强国
+printf 预测结果导出
+printf 赖伟林
+printf 刺杀小说家
+printf 购物商场
+printf 英语词汇量小程序
+printf 联级选择器
+printf Bitcoin
+printf 区块链
+cat README.md |
+grep -P '^\|\d' |
+cut -d\| -f4 |
+perl -CSDA -pe 'use utf8;s/:[a-zA-Z0-9]+/ /g' |
+perl -CSDA -pe 'use utf8;s/[、，,—【】。；（）！－>｜：《》「…￣ﾉ·‘’!@#$%^&*()_\+\-=\/\\;:[\]{}.,`~'"'"'" \x{200D}\x{10000}-\x{1FFFF}\x{2B00}-\x{2BFF}\x{25A0}-\x{25FF}\x{2600}-\x{26FF}\x{2700}-\x{27BF}\x{1F300}-\x{1F5FF}]+/ /g' |
+perl -CSDA -pe 'use utf8;s/https? +//i' |
+perl -CSDA -pe 'use utf8;s/[a-zA-Z0-9 ]{32,}//g' |
+tr -d '\n' |
+head -c 64000
+....
++
+Ciro started using that one instead to see if it was going to be more effective on 2021-03-28. First it hit a peak of 168 visitors on Monday 2021-03-29, and then fell back to 90 and 81 on the following days, so similar to the previous Chinese political input. It is very hard to understand why the first day was so different.
+* https://github.com/trending?since=monthly&spoken_language_code=zh trending Chinese repositories
++
+A large part of those projects falls in the following categories:
++
+** interview preparation. Competition is of course cutthroat with such a large population.
+** collections of interesting things Chinese like repositories or blog posts
+
+Furthermore, Ciro later noticed that under GitHub's settings, there is a "Preferred spoken language" box described as "We'll use this language preference to filter the trending repository lists on Explore and our Trending Repositories page." Therefore, the secret to get lots of hits is to add Chinese programming keywords to the repository description string.
+
+New issues:
+
+* https://github.com/zhaohmng/-21-/issues/533 "Thank you for this great repository. Human rights and freedom of speech are more important than money. github.com/cirosantilli/china-dictatorship"
+* https://github.com/zaohmeing/21-/issues/138 "Why put the censored content in the .gitignore?"
+
+On top commented/liked issues:
+
+* https://github.com/zhaohmng/-21-/issues/190#issuecomment-784921038
+* https://github.com/zhaohmng/-21-/issues/224#issuecomment-784901942
+* https://github.com/zhaohmng/-21-/issues/319#issuecomment-784903480
+* https://github.com/zhaohmng/-21-/issues/325#issuecomment-784922882 "看你发的“美中”而不是“中美”我就知道你TM是轮子" claims they are <<falun-gong>>
+* https://github.com/zhaohmng/-21-/issues/346#issuecomment-784936138 "那么问题来了,为什么美国及西方和越南共产党亲近呢?" the US allies with Vietnam Communists for geopolitical reasons only, not because it has any ideology
+
+The first is "21世纪新政宣言" (New System Declaration for the 21st Century).
+
+It proposes a peaceful reunification of China with <<taiwan>> under their specified political system described in 12 paragraphs. This system is a reformed type of Western democracy, which the manifesto also criticize downsides of.
+
+The manifesto is dated drafted 2019.8.6, and several versions have different update dates and revision numbers, e.g. our copy is dated 7th edition of 2020.6.19. TODO what is canonical?
+
+The manifesto provides an email "wanghunn@gmx.com" for those who signed it to send the signed version to, and describes the author as male 70 years old Chinese person.
+
+TODO what does: "起草人：赫连禾" mean?
+
+The second is "三朝罪恶元凶王沪宁" (The Culprit of Three Dynasties Wang Huning).
+
+The title presumably refers to:
+
+* https://en.wikipedia.org/wiki/Wang_Huning
+* https://zh.wikipedia.org/wiki/王沪宁
+
+Wikipedia mentions:
+
+____
+Wang is believed to have been one of the principal architects behind the official political ideologies of three paramount leaders: "Three Represents" by Jiang Zemin, the Scientific Development Concept by Hu Jintao, and the <<chinese-dream,Chinese Dream>> and <<xi-jinping-thought>> of Xi Jinping.
+____
+
+so it must be about him.
+
+The manifesto is divided into 23 numbered headers which appear to be independently published texts later collected. It is signed by 郝雪森 (Hao Xuesen) 2016-09-10. One of the sections gives the email: haoxuesen@gmx.com[].
+
+=== Bot + issue mention attack
+
+In March 2021, this repo had a traffic search spike for: "Search · 联级选择器"
+
+This term refers to https://ant.design/components/cascader-cn/ which seems to be a CSS live selector
+
+The related project: https://github.com/ant-design/ant-design-pro
+
+Someone actually used wumao techniques mentioned at:
+
+* https://github.com/cirosantilli/china-dictatorship/issues/191
+* https://github.com/cirosantilli/china-dictatorship/issues/192
+
+to attack that repo:
+
+* https://github.com/ant-design/ant-design-pro/issues/8133 https://archive.ph/xp8ls
+* https://github.com/cirosantilli/china-dictatorship/issues/196 https://archive.ph/etYSf
+
+TODO which exact GitHub action did they rely on? That repo currently has a https://github.com/ant-design/ant-design-pro/actions/workflows/issue-open-check.yml Issue Open Check GitHub action sample run: https://github.com/ant-design/ant-design-pro/runs/2209272410?check_suite_focus=true we see the similarity issue analysis thing, but how could that have worked more precisely to link across repos? Asked at: https://github.com/cirosantilli/china-dictatorship/issues/203
+
 [[faq]]
 == FAQ 常见问答集
 
@@ -2714,9 +3006,14 @@ See: <<famous>>.
 No, he is not angry at all, see also: <<harm-programmers>>.
 
 [[cia-funding]]
-===== Is Ciro Santilli's china-dictatorship campaign funded or otherwise supported by some organization?
+===== Is Ciro Santilli's china-dictatorship campaign funded or otherwise supported by some organization? 谁收买三西猴散布关于中国的谣言？
+
 
 Sure, the CIA sends Ciro 10 thousand USD checks from time to time, but that doesn't change at all what he would be doing.
+
+And sometimes the NSA, FBI, MI6, MI5, Mossad, Al-Qaeda and ISIS also pitch in a bit depending on their needs.
+
+https://github.com/cirosantilli/china-dictatorship/labels/funded-by-cia-argument
 
 Just kidding.
 
@@ -2729,6 +3026,8 @@ Also consider Ciro's motivation. If your <<ciro-santilli-mother-in-law-jail,moth
 What about you, are you funded by the CCP?
 
 See also: https://github.com/cirosantilli/china-dictatorship/blob/48a95bf57a16b85619a6ae68702d18c9a5078797/FAQ.md#flg-has-been-funded-by-the-us-government-at-least-once-therefore-it-is-evil
+
+Label: https://github.com/cirosantilli/china-dictatorship/labels/funded-by-cia-argument
 
 ==== Would Ciro Santilli be doing his China freedom campaign if he was in China?
 
@@ -3420,7 +3719,7 @@ image::{china-dictatorship-media-base}/Xinjiang_prisoners_march.jpg[height=400]
 +
 video::WmId2ZP3h0c[youtube,height=400,width=600]
 +
-.Man wearing traditional Xinjiang clothing and playing a traditional instrument inside a classroom setting inside a prison camp, as the CCP tries to show the world that they are happy and their culture is being respected, and only makes things worse. The man also shows on the video at: https://youtu.be/WmId2ZP3h0c?t=407[] made by the BBC when they got supervised access to the camps to film, nearby segment uploaded at: https://github.com/cirosantilli/china-dictatorship/issues/169[]. https://www.bbc.co.uk/news/blogs-china-blog-48700786[Source].
+.Man wearing traditional Xinjiang clothing and playing a traditional instrument inside a classroom setting inside a prison camp, as the CCP tries to show the world that they are happy and their culture is being respected, and only makes things worse. The man also shows on the video at: https://youtu.be/WmId2ZP3h0c?t=407[] made by the BBC when they got supervised access to the camps to film, nearby segment uploaded at: https://github.com/cirosantilli/china-dictatorship/issues/169[]. Commentators have compared this camp from the visit to the https://en.wikipedia.org/wiki/Theresienstadt_Ghetto[Theresienstadt Ghetto], which the <<nazi,Nazis>> used as a model camp during a red-cross visit in 1944, and to the https://en.wikipedia.org/wiki/Potemkin_village[Potemkin village]. https://www.bbc.co.uk/news/blogs-china-blog-48700786[Source].
 image::{china-dictatorship-media-base}/Uyghur_playing_guitar.jpg[height=400]
 * 2019-05-07 https://www.theguardian.com/world/2019/may/07/revealed-new-evidence-of-chinas-mission-to-raze-the-mosques-of-xinjiang
 * 2019-05-07 https://www.youtube.com/watch?v=ULaJVWOr4ko CNN does a few Xinjiang interviews and sends reporter to visit some of the concentration camps
@@ -3456,20 +3755,40 @@ It is so prevalent, that it is often shortened to just "Md." and people are just
 .Image of prisoners wearing blue sitting down in Xinjiang concentration camp, with some prisoners identified to indicate that they are not criminals but rather detained purely for political reasons. A sixth one was https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[identified in another report]. https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[Source].
 image::{china-dictatorship-media-base}/Xinjiang_prisoners_sitting_identified.jpeg[height=400]
 
+.Workers walking next to a prison-like security wall with concertina wire and barbed wire in the https://en.wikipedia.org/wiki/Dabancheng_District[Dabancheng] (https://zh.wikipedia.org/wiki/达坂城区[达坂城区]) <<xinjiang-re-education-camps,re-education camp>>. https://www.dw.com/en/western-un-envoys-condemn-chinas-muslim-re-education-camps/a-49543438[Source].
+image::{china-dictatorship-media-base}/Dabancheng_reeducation_camp.jpg[height=400]
+
+.Security towers and inmate buildings of the https://en.wikipedia.org/wiki/Artux[Artux city] (https://zh.wikipedia.org/wiki/阿图什市[阿图什市]) <<xinjiang-re-education-camps,re-education camp>>. https://www.dw.com/en/western-un-envoys-condemn-chinas-muslim-re-education-camps/a-49543438[Source]
+image::{china-dictatorship-media-base}/Artux_city_reeducation_camp.webp[height=400]
+
+.https://www.youtube.com/watch?v=AxnS4z-cSlI (https://github.com/cirosantilli/china-dictatorship/issues/220[GitHub upload]) 2021 video showing dozens of Uyghurs standing on a large court being brainwashed by a woman saying on a loudspeaker: 社会主义核心价值观，一定维护民族团结 (Socialist core values definitely maintain ethnic harmony). The echo of the speaker on the background buildings is eery. UNCONFIRMED. https://twitter.com/__Inty__/status/1381002964551168000[Source].
+video::AxnS4z-cSlI[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=dUmom_z6nQ4 (https://github.com/cirosantilli/china-dictatorship/issues/221[GitHub upload]) <<tiktok>> video of a few dozen Uyghur chilren being marched on the street with large bags, presumably during a displacement. The adults organizing it are a laugh, presumably at something cute one of the children did. Video markings: "@MaD DaN", location: "伯干村" (Bogancun, a town in Xinjiang https://goo.gl/maps/rt6jaT8oEjoXo95t8[according to Google Maps]), rolling banner TODO confirm, understand: "诗书达理之山人刨作原声". TODO identify Chinese music being sang on background, it is not clear if it is an edit or from the footage. The echo of the speaker on the background buildings is eery. UNCONFIRMED. https://twitter.com/Uyghurian/status/1380992770823835664[Source].
+video::dUmom_z6nQ4[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=ZcLbAveuemI Here is a trick to getting longer lashes by feroza.x (2019). In this <<tiktok>> video, American then 17-year old Feroza Aziz, alias feroza.x, starts what looks likea regular makeup video, but which soon turns out to be a https://en.wikipedia.org/wiki/Bait-and-switch[bait-and-switch] video drawing attention to the <<xinjiang-re-education-camps>>. This is somewhat similar to a <<keyword-attack>> with its <<dual-use-technology>> approach.
+
+====== Forced displacement of Uyghurs across China (2020)
+
+Many videos were published on <<tiktok>>, 2020-07-09 https://www.codastory.com/authoritarian-tech/china-uyghur-migration/ "Revealed: New videos expose China’s forced migration of Uyghurs during the pandemic" has compilations of the most well known videos, with direct MP4 uploads that are easy to download.
+
+<<github>> re-uploads at: https://github.com/cirosantilli/china-dictatorship/issues/221
+
 [[uyghurs-for-sale]]
 .Advertisement published by Qingdao Decai Decoration Co. claiming to supply government-sponsored Uyghur workers from Xinjiang to other provinces. Source of translation: https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report]. Original website archive from  16 Jan 2020: http://archive.ph/r7T8r[]. The ad features a caricature of two dancing Uyghurs in traditional clothing. This is evidence of the CCP's mass forced eviction and slavery of Uyghurs.
 image::{china-dictatorship-media-base}/Uyghur_sale_website.jpg[height=500]
 
-.Uyghur workers at Taekwang Shoe Manufacturing waving the Chinese flag, October 2019. Viewable on the pro-CCP China Ethnic Religion Net (中国民族宗教网) website: http://www.mzb.com.cn/html/report/191130765-1.htm[], and also shown in the https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report].
+.Uyghur workers at Taekwang Shoe Manufacturing Co. Ltd (青岛泰光制鞋有限公司) waving the Chinese flag, October 2019. Viewable on the pro-CCP China Ethnic Religion Net (中国民族宗教网) website: http://www.mzb.com.cn/html/report/191130765-1.htm[], and also shown in the https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report].
 image::{china-dictatorship-media-base}/Uyghur_workers_waving_China_flag.jpg[height=400]
 
 .https://www.youtube.com/watch?v=Mx0JFgwATho&t=128 "New footage shows Uyghurs bussed across China for forced labour in factories". At the given timestamp, contains 30 seconds of footage extracted from 3 social media posts showing Uyghurs being sent in busses to work in far way regions.
 video::M_aXcH1zDEE[youtube,height=400,width=600,start=128]
 
-.https://www.youtube.com/watch?v=AxnS4z-cSlI (https://github.com/cirosantilli/china-dictatorship/issues/220[GitHub upload]) Dozens of Uyghurs standing on a large court being brainwashed by a speaker who says: 社会主义核心价值观，一定维护民族团结 (Socialist core values maintain ethnic harmony). The echo of the speaker on the background buildings is eery. UNCONFIRMED. https://twitter.com/__Inty__/status/1381002964551168000[Source].
-video::AxnS4z-cSlI[youtube,height=400,width=600]
+.https://www.youtube.com/watch?v=Mx0JFgwATho New footage shows Uyghurs bussed across China for forced labour in factories by Channel 4 News (2020) contains one of the many edits made with a https://en.wikipedia.org/wiki/Bella_ciao[bella ciao] (https://zh.wikipedia.org/wiki/啊朋友再见[啊朋友再见]) background, Chinese version showing uyghurs being sent in busses to work in far away locations in China. The music fits perfectly, literal translation of the Chinese version is "Ah, friend, goodbie".
+video::Mx0JFgwATho[youtube,height=400,width=600]
 
-====== Merdan Ghappar's video (2020-08-05)
+====== Merdan Ghappar's video (2020)
 
 https://www.bbc.co.uk/news/world-asia-china-53650246
 
@@ -3477,9 +3796,13 @@ Self made video shows the ex-model chained to a bed in a camp. Text messages giv
 
 Text messages and translation: https://medium.com/@millwarj/wear-your-mask-under-your-hood-an-account-of-prisoner-abuse-in-xinjiang-during-the-2020-3007a1f7437d
 
-++++
-<iframe loading="lazy" width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/news/av/embed/p08mr1tm/53650246"></iframe>
-++++
+https://www.youtube.com/watch?v=mX-jY1tgL_o
+
+.https://www.youtube.com/watch?v=mX-jY1tgL_o Merdan Ghappar's video footage, terrible screen capture from the BBC original, but can't find a better one.
+video::mX-jY1tgL_o[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=SYhcrXYA6tM Rare footage of former model held for “re-education” in China’s detention system - BBC News (2020) Reportage with more context, including previoius modeling work. They're uncapable of adding the name "Merdan Ghappar" to the title or description however, what newbs.
+video::SYhcrXYA6tM[youtube,height=400,width=600]
 
 [[xinjiang-cotton]]
 ====== Xinjiang cotton (新疆棉花, 2021)
@@ -4317,7 +4640,7 @@ News and reports:
 * 2018-03-07 https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/ (https://web.archive.org/web/20191012103953/https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/[archive])
 
 [[ufwd]]
-====  United Front Work Department (UFWD, 中共中央统一战线工作部)
+==== United Front Work Department (UFWD, 中共中央统一战线工作部)
 
 * https://en.wikipedia.org/wiki/United_Front_Work_Department
 * https://zh.wikipedia.org/wiki/中共中央统一战线工作部
@@ -4370,7 +4693,17 @@ If the original thread post is not very interesting, try to parse it quickly and
 
 Always quote reply, and always write down the ID of the OP on your reply, because discussions like this lead to a large number of comment and account deletions, which could make your reply not make much sense without the context.
 
-Then do your best never to read the inevitable reply again, and above all, never ever reply. An interesting reply never follows from a non-interesting original post. It is hard at first, but you will eventually get the hang of it.
+After the link addressing anything that they might have said, add three randomly selected images from this repository to it. This is fundamental because the average <<little-pink>> does not speak English. Therefore writing is pointless.
+
+Meme images, however, cross the language barrier beautifully. It is even better if they have Chinese captions.
+
+Because the <<censorship,CCP censors politics>>, and the West does not, we can never "lose" a shitargument. Even if the <<wumao>> supports his country in a thread, just being in the same thread as the censored material could already be problematic for the wumao, as it is proof that they've seen something they should not have seen.
+
+Therefore the only option for them is to run away.
+
+Finally, also try to extract the email of the user from one of their repositories. When sucessful, Ciro takes a <<wayback-machine>> snapshot of the repository as proof of SHA, and then forks it to https://github.com/cirosantilli-test-org to keep the email safe in case of account deletion. You never know when this information might be useful.
+
+Then, after replying, do your best never to read the inevitable reply again, and above all, never ever reply. An interesting reply never follows from a non-interesting original post. It is hard at first, but you will eventually get the hang of it.
 
 If the user keeps generating notifications, block them as per link:CONTRIBUTING.md[], replying to a single person multiple times is useless.
 
@@ -4648,6 +4981,8 @@ Query to find them: https://data.stackexchange.com/stackoverflow/query/312863/me
 
 GiHub is the new <<xidan-democracy-wall>>! :) See also: <<meant-to-be-used>>.
 
+Interesting repositories are listed at: <<github-repositories-with-censored-information>>
+
 GitHub's site policy can be seen at: https://help.github.com/en/github/site-policy
 
 If you believe this page violates those policies, see: <<github-report>>.
@@ -4755,296 +5090,6 @@ Skipping all <<falun-gong>>/<<epoch-times>> repos with very few stars, mostly so
 *** https://github.com/greatfire/wiki Wiki of <<greatfire>>. <<censorship-circumvention>>. Precise issue: https://github.com/greatfire/wiki/issues/166[] (no archives). 
 ** https://github.com/github/gov-takedowns/blob/master/China/2019/2019-12-12-MPS.md
 *** https://github.com/gfw-breaker[], see also: <<github-repositories-with-censored-information>>
-
-===== GitHub repositories with censored information
-
-For lists of censored information outside of GitHub see: <<lists-of-material-censored-in-china>>.
-
-For content outside of GitHub: <<lists-of-material-censored-in-china>>.
-
-Mentioned in other sections:
-
-* <<nine-nine-six-icu>>
-* <<nCovMemory>>
-* <<bandinchina-github-repository>>
-* https://github.com/jasonqng/chinese-keywords mentioned at <<where-can-i-find-good-words-for-a-keyword-attack>>
-* https://github.com/programthink/zhao from <<programthink>>
-* <<censorship-monitoring-tools-on-github>>
-* <<huawei>>:
-** https://github.com/evil-huawei/evil-huawei
-** https://github.com/HuaweiJoke/Huawei-Joke
-* https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo from <<fuck-xuexiqiangguo>>
-* from <<metoo>>
-** https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md
-** https://github.com/CNwoman-bot/evil-man
-* https://github.com/fuckcqcs/fuckcqcs at <<changsheng-bio-technology-vaccine-data-falsification-incident-2018>>
-
-Not mentioned in other sections:
-
-* taibangle (太棒了)
-** https://github.com/taibangle/awesome-china
-** https://github.com/taibangle/lennon-wall
-* https://github.com/sikaozhe1997/Xin-Yue
-* https://github.com/Project-Gutenberg/Pincong see also <<pincong>>
-* https://speechfree.github.io/cultural-revolution-database/ 中国文化大革命文库 The Chinese Cultural Revolution Database
-* https://github.com/Luterngun/Record_of_Survival_in_Digital_Totalitarian_Era[] small docuement that goes over <<censorship-circumvention>> and opsec. There was a PDF on GitHub but got removed from master (still in Git history), now links to external websites only. Newbs.
-* https://github.com/nodebe4 personal account with anti-CCP projects
-** https://twitter.com/tansunit claims name 陳純一, "Previous: NGO worker, educator, social activist. Present: Master student @Univ_Paris"
-** https://github.com/NodeBE4/hero 自由人的英雄榜 "List of fredom heroes"
-** https://github.com/NodeBE4/impact good list of Chinese political projects on GitHub
-* https://github.com/woct0rdho/pkuholebackup/ appears to contain a list of posts of anonymized (Alice/Bob/Carol/Dave/...) deleted posts from some Peking University (PKU) chat system. The posts are from 2013 to 2019. TODO how could they obtain that list? Who delete the posts in the first place? Authors or authority?
-
-Interesting users:
-
-* https://github.com/gfw-breaker
-** appears to give a lot of focus to <<falun-gong>>, e.g.:
-*** https://github.com/gfw-breaker/truth Falun Gong information repository
-*** https://github.com/gfw-breaker/banned-news1 automatic scraper of news from banned websites into the repository, with top sites being <<falun-gong-media>>
-** present in <<gov-takedowns-china>>
-* https://github.com/bannedbook
-** https://github.com/bannedbook/fanqiang is the main repository about <<censorship-circumvention>>, TODO what it contains exactly? Code, or just documentation of existing methods?
-* https://github.com/breakwa11 likely previous ShadowsocksR dev: <<censorship-circumvention>>, 10k+ followers 2020, but no repos, so forced takedown.
-
-Non-information but also interesting:
-
-* https://github.com/lurongkai/anti-baidu
-
-TODO evaluate:
-
-* https://github.com/sky8964/home
-
-Reasonable topics:
-
-* https://github.com/topics/censorship
-
-[[terminus2049]]
-====== Terminus2049 (端点星计划)
-
-* https://github.com/Terminus2049/Terminus2049.github.io
-* https://terminus2049.github.io/
-* https://zh.wikipedia.org/wiki/端点星事件
-* https://2049bbs.xyz/
-* previous project name: https://github.com/Info-cn/Terminus
-
-Jekyll GitHub Pages repository that saves full text copies of censored articles:
-
-____
-本仓库存放被删文章
-
-This repository stores deleted articles.
-____
-
-Also accompanies a dynamic forum https://2049bbs.xyz/ which appears to be where content for the static pages gets discussed and brought up. But it possible that the website has been compromised and is leaking identity of users. At some point, https://2049bbs.xyz went down. Live https://web.archive.org/web/20200719151022/https://2049bbs.xyz/ dead: https://archive.vn/JFqCJ
-
-The "Terminus" in the repo name seems to be a reference to Isaac Asimov's fictional https://asimov.fandom.com/wiki/Terminus[Terminus planet] which is called https://zh.wikipedia.org/wiki/端点星[端点星] in Chinese, but it is not clear where the 2049 comes from in that context. Forgetting the Chinese name, Terminus2049 could be a reference to the fictional https://bladerunner.fandom.com/wiki/World_War_Terminus["World War Terminus"] from the https://en.wikipedia.org/wiki/Blade_Runner_2049[Blade Runner 2049 (2019)] movie, which also explains the 2049.
-
-First commint on 2018-04-27, GitHub pages domain blocked in China at least since 2019-03 according to <<greatfire>>: https://zh.greatfire.org/search/all/https%3A//terminus2049.github.io but not in <<github-gov-takedowns>> as of 2020-04.
-
-The full post list can be seen most conveniently at: https://github.com/Terminus2049/Terminus2049.github.io/tree/master/_posts The number of articles is insane, usually several every day.
-
-Most articles appear to be taken from recent news at the time of writting, although there are a few from before the repo started. As of 2020-04, the oldest article was from 2016 <<metoo>> events reported by Yue Xin, some other topics include:
-
-* <<gay-rights>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2018-04-14-LGBTRights-advocacy-china.md
-* <<nine-nine-six-icu>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2019-04-04-996-ICU.md
-* <<lebron-james-opposes-hong-kong-anti-extradition-bill-protests-2019>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2019-10-11-NBA.md
-
-They use Jekyll tags a lot, which makes for a good grouping of the topics.
-
-In 2020-04-25, it was reported that three Beijing-based contributors were arrested during <<corona>>:
-
-* https://www.scmp.com/news/china/politics/article/3081569/chinese-activists-detained-after-sharing-censored-coronavirus
-* https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html Chinese article, gives the Chinese names, and some background on the arrested people
-* https://qz.com/1846277/china-arrests-users-behind-github-coronavirus-memories-page/
-
-People:
-
-* Chen Mei (陈玫)
-** https://www.linkedin.com/in/玫-陈-1607b735/ a LinkedIn account with matching photo and name
-** chanmei007@gmail.com
-** https://github.com/cmmei[], down 2020-12, live archive: https://web.archive.org/web/20200101232039/https://github.com/cmmei[]. Includes https://web.archive.org/web/20180611153507/https://github.com/cmmei/Banned-zh
-* Cai Wei (蔡伟)
-** https://github.com/thphd/2047 mentioned below reveals and email caiw15@mails.tsinghua.edu.cn and profiles/further aliases:
-*** https://github.com/Tsai1993
-*** https://tsai1993.github.io
-*** https://mastodon.xyz/@ciao
-*** tsai1993@qq.com
-*** Tsai2049@gmail.com
-* Xiao Tang (小唐), who is also Cai Wei's girlfriend
-
-In 2020-06-12 their families received calls saying that they had been charged with <<picking-quarrels>>:
-
-* https://www.scmp.com/news/china/society/article/3089002/coronavirus-chinese-activists-held-posting-censored-articles
-* https://www.rfa.org/mandarin/Xinwen/10-06122020154234.html
-
-Ciro's petition to free them: https://github.com/cirosantilli/chen-mei-cai-wei-ziyou
-
-How their identities were found:
-
-* https://github.com/Terminus2049/Terminus2049.github.io/issues/598 offers a good analysis
-* https://pincong.rocks/question/24370
-* https://gist.github.com/chinatimeline/5386a4f9d82483aa5346b17d8d324877 comments by <<chinatimeline>> and gives further opsec guidelines
-
-Terrible opsec... they used real name GitHub emails on early commits, including the institutional university address, before they started better opsec under https://github.com/TerminusBot / terminus2049@protonmail.com
-
-https://github.com/thphd/2047 is a project to restore terminus, live at https://2047.name[] Ciro mention at: https://2047.name/e/76182458[] by https://2047.name/u/5155 which is similar to a <<mohu>> mention, so they seem to share the database? Who knows what's the relation between all those <<pincong>> lookalikes. TODO that website shows an <<icp-license>>? Very confusingly also mirrored at https://pincong.org e.g. https://pincong.org/t/10219[]/https://2047.name/t/10219[], which is very similar to <<pincong>>'s address. Related account: https://github.com/PincongBot
-
-https://2047.name[] has a links section at: https://2047.name/links shown on the sideboard, containg links of interest. Some all not are very China specific.
-
-https://2047.name/register registration requires an invitation code.
-
-https://github.com/2049bbs/2049bbs.github.io[] / https://2049bbs.github.io/[] maintains another archive up to 2019-03-03.
-
-.Side-by-side photos of Chen Mei (陈玫) and Cai Wei (蔡伟). https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html[Source].
-image::{china-dictatorship-media-base}/Chenmei_Caowei.png[height=400]
-
-[[chinatimeline]]
-====== chinatimeline (中国时间线)
-
-https://github.com/chinatimeline/chinatimeline.github.io
-
-Explores several sensitive topics through interesting timelines with many pictures, for example:
-
-* <<tiananmen>>: https://chinatimeline.github.io/tiananmen/
-* <<corona>>: https://chinatimeline.github.io/wuhan-coronavirus/
-* religious persecution, including <<falun-gong>>: https://chinatimeline.github.io/religion_tl1/
-
-Some minor relationships with <<terminus2049>>:
-
-* https://github.com/chinatimeline/chinatimeline.github.io/issues/3
-* https://gist.github.com/chinatimeline/5386a4f9d82483aa5346b17d8d324877
-
-====== duty-machine
-
-The anonymous user https://github.com/duty-machine has some automation setup such that anyone can request certain webpages to be copied on to GitHub anonymously through a separate website, notably:
-
-* https://github.com/duty-machine/duty-machine[]: big Chinese social media, e.g. Weibo, <<zhihu>>, Douban. Articles stored in issues. Archive requests: https://archives.duty-machine.now.sh/
-* https://github.com/duty-machine/news[]: big Western news websites like Reuters, BBC, etc. Articles stored in-tree.
-
-The project claims to have been inspired by <<terminus2049>>, but hopefully they will have better operational security.
-
-Unfortunately, it was found that the project could be used by malicious users to at mention spam GitHub users: https://github.com/cirosantilli/china-dictatorship/issues/192[], let's see if they patch it.
-
-[[zhao-heming]]
-====== Zhao Heming (召赫名)
-
-A few accounts were created by this pseudonym, e.g.:
-
-* https://github.com/zaohmeing/21-[]: https://github.com/zaohmeing/21-/blob/master/.gitignore
-* https://github.com/zhaohmng/-21-[]: https://github.com/zhaohmng/-21-/blob/master/%231a.txt The repository was deleted as of March 2021, TODO why?
-** Ciro's fork: https://github.com/cirosantilli/-21-
-** archive from December 2020: https://web.archive.org/web/20201225094655/https://github.com/zhaohmng/-21-
-
-Much more sanely encoded/formatted/rendered versions can be found at:
-
-* https://github.com/cirosantilli/china-dictatorship/blob/master/21century.md[]. Copied from https://matters.news/@halanh/网传70岁赫连禾用大半生研究构建-21世纪新政-引发专家们高度关注-bafyreihnbf6jyzvwyybwl5hym2nikj5zrpwxli6nphzylvdq6btsbydn3y
-* https://github.com/cirosantilli/china-dictatorship/blob/master/wang-huning-three-dynasties.adoc[]. Copied from: https://matters.news/@halanh/三朝罪恶元凶王沪宁-bafyreifrjf5ce45fqpif4nms4x72mlrbyijs7bffqi7f7sng47fuelkhmm
-
-Both Zhao Heming repos contain reproductions of two manifestos are pasted together on a single file, and somewhat broken encoding.
-
-Ciro noticed that thoe repos attracted an incredible ammount of <<wumao>> on the comments, despite having very simple copy pasted content, it was very impressive!!! Ciro was jealous, and added some anti-wumao comments in. On commits:
-
-* https://github.com/zhaohmng/-21-/commit/0cc2b2a546ad51fb360ba800c67b057ea3270869#commitcomment-47495235
-* https://github.com/zaohmeing/21-/commit/42de05338193f39981b1a820873a990c959fd6ec#commitcomment-47392119
-
-https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665 "为什么这个屎一样的东西会出现在我个人主页左侧的repositories中，那里不是应该只有自己的项目才会出现吗？有办法屏蔽它吗？还是github故意的？" explains why so many people come comment in the repository: it is because it appears on the "Explore repositories" repository suggestions which show on the side bar of your GitHub homepage, and on searches. This was also mentioned at: 
-
-After further inspection, taught understood that repository descriptions given to GitHub can be really huge for SEO: they had pasted the entire 21st century text there. So Ciro attempted the same approach, and pasted all of link:21century.md[], link:wang-huning-three-dynasties.adoc[] and link:fifth-modernization.md[] in there on 2021-03-23, and the effect was dramatic: an immediate 4x more views on the following day according to https://github.com/cirosantilli/china-dictatorship/graphs/traffic[] (40 unique visitors to 100 on a Wednesday), and a few wumao comments. And a wumao soon confirmed that it was working directly: https://github.com/cirosantilli/china-dictatorship/issues/201[]. This can be automated with: link:description.sh[].
-
-Further optimizations:
-
-* https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts Some processing to increase density creates a BOMB:
-+
-....
-#!/usr/bin/env bash
-printf 学习强国
-printf 预测结果导出
-printf 赖伟林
-printf 刺杀小说家
-printf 购物商场
-printf 英语词汇量小程序
-printf 联级选择器
-printf Bitcoin
-printf 区块链
-cat README.md |
-grep -P '^\|\d' |
-cut -d\| -f4 |
-perl -CSDA -pe 'use utf8;s/:[a-zA-Z0-9]+/ /g' |
-perl -CSDA -pe 'use utf8;s/[、，,—【】。；（）！－>｜：《》「…￣ﾉ·‘’!@#$%^&*()_\+\-=\/\\;:[\]{}.,`~'"'"'" \x{200D}\x{10000}-\x{1FFFF}\x{2B00}-\x{2BFF}\x{25A0}-\x{25FF}\x{2600}-\x{26FF}\x{2700}-\x{27BF}\x{1F300}-\x{1F5FF}]+/ /g' |
-perl -CSDA -pe 'use utf8;s/https? +//i' |
-perl -CSDA -pe 'use utf8;s/[a-zA-Z0-9 ]{32,}//g' |
-tr -d '\n' |
-head -c 64000
-....
-+
-Ciro started using that one instead to see if it was going to be more effective on 2021-03-28. First it hit a peak of 168 visitors on Monday 2021-03-29, and then fell back to 90 and 81 on the following days, so similar to the previous Chinese political input. It is very hard to understand why the first day was so different.
-* https://github.com/trending?since=monthly&spoken_language_code=zh trending Chinese repositories
-+
-A large part of those projects falls in the following categories:
-+
-** interview preparation. Competition is of course cutthroat with such a large population.
-** collections of interesting things Chinese like repositories or blog posts
-
-Furthermore, Ciro later noticed that under GitHub's settings, there is a "Preferred spoken language" box described as "We'll use this language preference to filter the trending repository lists on Explore and our Trending Repositories page." Therefore, the secret to get lots of hits is to add Chinese programming keywords to the repository description string.
-
-New issues:
-
-* https://github.com/zhaohmng/-21-/issues/533 "Thank you for this great repository. Human rights and freedom of speech are more important than money. github.com/cirosantilli/china-dictatorship"
-* https://github.com/zaohmeing/21-/issues/138 "Why put the censored content in the .gitignore?"
-
-On top commented/liked issues:
-
-* https://github.com/zhaohmng/-21-/issues/190#issuecomment-784921038
-* https://github.com/zhaohmng/-21-/issues/224#issuecomment-784901942
-* https://github.com/zhaohmng/-21-/issues/319#issuecomment-784903480
-* https://github.com/zhaohmng/-21-/issues/325#issuecomment-784922882 "看你发的“美中”而不是“中美”我就知道你TM是轮子" claims they are <<falun-gong>>
-* https://github.com/zhaohmng/-21-/issues/346#issuecomment-784936138 "那么问题来了,为什么美国及西方和越南共产党亲近呢?" the US allies with Vietnam Communists for geopolitical reasons only, not because it has any ideology
-
-The first is "21世纪新政宣言" (New System Declaration for the 21st Century).
-
-It proposes a peaceful reunification of China with <<taiwan>> under their specified political system described in 12 paragraphs. This system is a reformed type of Western democracy, which the manifesto also criticize downsides of.
-
-The manifesto is dated drafted 2019.8.6, and several versions have different update dates and revision numbers, e.g. our copy is dated 7th edition of 2020.6.19. TODO what is canonical?
-
-The manifesto provides an email "wanghunn@gmx.com" for those who signed it to send the signed version to, and describes the author as male 70 years old Chinese person.
-
-TODO what does: "起草人：赫连禾" mean?
-
-The second is "三朝罪恶元凶王沪宁" (The Culprit of Three Dynasties Wang Huning).
-
-The title presumably refers to:
-
-* https://en.wikipedia.org/wiki/Wang_Huning
-* https://zh.wikipedia.org/wiki/王沪宁
-
-Wikipedia mentions:
-
-____
-Wang is believed to have been one of the principal architects behind the official political ideologies of three paramount leaders: "Three Represents" by Jiang Zemin, the Scientific Development Concept by Hu Jintao, and the <<chinese-dream,Chinese Dream>> and <<xi-jinping-thought>> of Xi Jinping.
-____
-
-so it must be about him.
-
-The manifesto is divided into 23 numbered headers which appear to be independently published texts later collected. It is signed by 郝雪森 (Hao Xuesen) 2016-09-10. One of the sections gives the email: haoxuesen@gmx.com[].
-
-====== Bot + issue mention attack
-
-In March 2021, this repo had a traffic search spike for: "Search · 联级选择器"
-
-This term refers to https://ant.design/components/cascader-cn/ which seems to be a CSS live selector
-
-The related project: https://github.com/ant-design/ant-design-pro
-
-Someone actually used wumao techniques mentioned at:
-
-* https://github.com/cirosantilli/china-dictatorship/issues/191
-* https://github.com/cirosantilli/china-dictatorship/issues/192
-
-to attack that repo:
-
-* https://github.com/ant-design/ant-design-pro/issues/8133 https://archive.ph/xp8ls
-* https://github.com/cirosantilli/china-dictatorship/issues/196 https://archive.ph/etYSf
-
-TODO which exact GitHub action did they rely on? That repo currently has a https://github.com/ant-design/ant-design-pro/actions/workflows/issue-open-check.yml Issue Open Check GitHub action sample run: https://github.com/ant-design/ant-design-pro/runs/2209272410?check_suite_focus=true we see the similarity issue analysis thing, but how could that have worked more precisely to link across repos? Asked at: https://github.com/cirosantilli/china-dictatorship/issues/203
 
 ===== Gitee
 
@@ -8095,6 +8140,9 @@ See also: <<shitpost>>.
 .<<xi-jinping>> photoshopped as https://en.wikipedia.org/wiki/Joker_(character)[The Joker] (https://zh.wikipedia.org/wiki/小丑_(角色)[小丑]). Would have been perfect with https://www.theguardian.com/world/2020/sep/22/ren-zhiqiang-who-called-chinese-president-a-clown-jailed-for-18-years[2020-09-22 Ren Zhiqiang - who called Chinese president a 'clown' - jailed for 18 years], see also: <<corruption>>. https://www.reddit.com/r/chonglangTV/comments/m04q0p/乌合麒麟新作一尊小丑/[Source].
 image::{china-dictatorship-media-base}/Xi_Jinping_photoshopped_as_The_Joker.jpg[height=400]
 
+.<<xi-jinping, <<jiang-zemin>> and <<hu-jintao>> photoshopped on top of a clothing advertisement (TODO original). The text reads: "江胡险恶 习以为常". TODO understand. 江胡 are the surnames of <<jiang-zemin>> and <<hu-jintao>>. 习 is the surname of; <<xi-jinping>>. "习以为常" is a fixed expression that means "to get accustomed to". Also asked at: https://www.mohu.rocks/question/573 on <<mohu>>, and explained at: https://www.secretchina.com/news/gb/2003/12/03/56236.html from <<falun-gong-media>>. https://twitter.com/BeqB38ldjIu5acT/status/1377094062063292418[Source]
+image::{china-dictatorship-media-base}/Xi_Jiang_Hu.jpg[height=400]
+
 [[xi-jinping-lookalikes]]
 ===== Xi Jinping lookalikes (习近平撞脸)
 
@@ -8269,6 +8317,12 @@ New forced spy app for Chinese people going abroad.
 https://zh.wikipedia.org/wiki/兩個維護
 
 Part of <<newspeak,Xi-speak>>.
+
+[[hu-jintao]]
+=== Hu Jintao (胡锦涛, 2002-2012)
+
+* https://en.wikipedia.org/wiki/Hu_Jintao
+* https://zh.wikipedia.org/wiki/胡锦涛
 
 [[jiang-zemin]]
 === Jiang Zemin (江泽民, 1989-2002)
@@ -8687,7 +8741,7 @@ image::{china-dictatorship-media-base}/Tiananmen_old_lady.webp[height=500]
 image::{china-dictatorship-media-base}/Tiananmen_announce_soldiers.webp[height=500]
 
 .Godzilla https://en.wikipedia.org/wiki/Li_Peng[Li Peng (李鹏)] crushing the Tiananmen Square protests with his green eye laser beams. https://en.uncyclopedia.co/wiki/File:Li_at_Tiananmen_Eyebeams.jpg[Source].
-image::{china-dictatorship-media-base}/Li_at_Tiananmen_Eyebeams.jpg[height=400]
+image::{china-dictatorship-media-base}/Li_at_Tiananmen_Eyebeams.jpg[height=600]
 
 .Protester covered in blood while holding an army helmet on 1989-06-04. There is also footage of that moment: https://www.youtube.com/watch?t=63&v=lXJ6gHFME0w[] which explains that the man claims his face was cut by a soldir by using the edge of the helmet. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
 image::{china-dictatorship-media-base}/Tiananmen_helmet.jpg[height=500]
@@ -8700,7 +8754,7 @@ image::{china-dictatorship-media-base}/Tianmen_crushed_dead.jpg[height=600]
 image::{china-dictatorship-media-base}/Tiananmen_Shuili_Hospital_dead.jpg[height=500]
 
 .A Chinese couple on a bicycle take cover beneath an underpass as tanks deploy overhead in eastern Beijing on 1989-06-05 by AP Photo/Liu Heung Shing. This photo one is almost poetic. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
-image::{china-dictatorship-media-base}/Tiananmen_bicycle_bridge.jpg[height=400]
+image::{china-dictatorship-media-base}/Tiananmen_bicycle_bridge.jpg[height=600]
 
 .Family members try to comfort a mother who has just learned of her son's death after he was killed by soldiers at Tiananmen Square, June 4. TODO what's her name? An association https://en.wikipedia.org/wiki/Tiananmen_Mothers[Tiananmen Mothers] (https://zh.wikipedia.org/wiki/天安门母亲运动[天安门母亲运动]) was created after the events. https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary[Source].
 image::{china-dictatorship-media-base}/Tiananmen_crying_mother.webp[height=500]
@@ -9750,6 +9804,10 @@ List of smaller ones that didn't deserve a section:
 * https://www.qi-gong.me/
 * http://www.zhengjian.org/
 * https://www.huaglad.com/ 澳洲新闻 Australian news website, links to <<epoch-times>> on footer: https://web.archive.org/web/20201101122433/https://www.huaglad.com/
+* https://visiontimes.com/ Vison Times, Vision China Times, 看中国
+** https://en.wikipedia.org/wiki/Vision_China_Times
+** https://www.visiontimes.com.au/
+** https://www.secretchina.com/
 
 [[epoch-times]]
 ===== The Epoch Times (明慧网, Falun Gong media)
@@ -11052,7 +11110,7 @@ Related:
 * <<linkedin>> requires you to use the real username and photo
 
 [[cac]]
-===== Cyberspace Administration of China (CAC, 国家互联网信息办公室)
+===== Cyberspace Administration of China (CAC, 国家互联网信息办公室, 中央网信办)
 
 * https://en.wikipedia.org/wiki/Cyberspace_Administration_of_China
 * https://zh.wikipedia.org/wiki/中央网络安全和信息化委员会办公室
@@ -11065,7 +11123,7 @@ This is where the Internet censors work.
 Summary:
 
 * http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm
-* https://www.12321.cn/web
+* https://www.12321.cn
 * http://12377.cn
 
 Reports such as https://www.theage.com.au/world/asia/china-exporting-ccp-speech-controls-to-australia-as-second-university-caught-in-row-20200805-p55irf.html highlighted that these websites has a "report harmful or garbage information" entry, which can notably be used by Chinese expats to report people who badmouth the CCP, and in particular other Chinese nationals.
@@ -11490,7 +11548,7 @@ Related:
 * 17+1合作
 
 [[communist-youth-league]]
-=== Communist Youth League of China 中国共产主义青年团
+=== Communist Youth League of China (中国共产主义青年团)
 
 * https://en.wikipedia.org/wiki/Communist_Youth_League_of_China
 * https://zh.wikipedia.org/wiki/中国少年先锋队
@@ -11509,7 +11567,7 @@ Related news:
 * 2020-02-19: https://supchina.com/2020/02/19/communist-youth-league-patriotic-idols/ "The Communist Youth League Thought It Was Creating Patriotic Idols. Instead, It Started A Conversation About Women's Rights". The anime-style mascots are named Jiangshanjiao 江山娇 and Hongqiman 红旗漫.
 
 [[young-pioneers-of-china]]
-==== Young Pioneers of China 中国少年先锋队
+==== Young Pioneers of China (中国少年先锋队)
 
 * https://en.wikipedia.org/wiki/Young_Pioneers_of_China
 * https://zh.wikipedia.org/wiki/中国少年先锋队
@@ -11517,15 +11575,22 @@ Related news:
 <<brainwashed-by-usa,Brainwashing>> for kids younger than the <<communist-youth-league>>.
 
 [[xi-salute-young-pioneers]]
-.Xi Jinping basically <<nazi,Nazi saluting>> representatives attending the 7th National Congress of the Chinese Young Pioneers in Beijing, June 1, 2015. http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[Source] (http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[biased]).
+.<<xi-jinping>> basically <<nazi,Nazi saluting>> representatives attending the 7th National Congress of the Chinese Young Pioneers in Beijing, June 1, 2015. http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[Source] (http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[biased]).
 image::{china-dictatorship-media-base}/Xi_scout_salute.jpg[height=500]
 
 .<<hitler-youth>> giving the <<nazi,Nazi salute to Hitler>>. https://www.thoughtco.com/hitler-youth-and-indoctrination-1221066[Source].
 image::{china-dictatorship-media-base}/Hitler_youth_salute.webp[height=500]
 
-==== Hitler Youth
+.Side-by-side comparisoin of <<xi-jinping>> saluting the <<young-pioneers-of-china>> and Hitler saluting the <<hitler-youth>>.
+image::{china-dictatorship-media-base}/Xi_scout_salute_vs_Hitler_Youth_salute.jpg[height=500]
 
-https://en.wikipedia.org/wiki/Hitler_Youth was the <<nazi,Nazi Germany>> youth organization.
+[[hitler-youth]]
+==== Hitler Youth (希特勒青年团)
+
+* https://en.wikipedia.org/wiki/Hitler_Youth
+* https://zh.wikipedia.org/wiki/希特拉青年團
+
+The <<nazi,Nazi Germany>> youth organization.
 
 [[one-child-policy]]
 === One-child policy (一孩政策, 1979–2015)
@@ -11552,7 +11617,7 @@ But in reality they punish anyone who poses a political threat, even if they did
 * <<the-709-crackdown>>: even lawyers who support anyone who went against the state are imprisoned. How can there be any justice when lawyers are put in jail due to their choice of clients?
 * 2020-06 Hao Runze, son of <<hao-haidong>>, lost his job because his father spoke up against the CCP. Did the CCP speak up for him, like the speak up whenever a Chinese citizen gets hurt?
 
-.On 2021-03-31, a uniformed Chinese cop called Qelbinur Sedik, who was a teacher in the <<xinjiang-re-education-camps>> who https://thediplomat.com/2020/08/confessions-of-a-xinjiang-camp-teacher/[fled China and spoke to the media what she saw], to menace her through her sister, who is still in China. https://www.bbc.co.uk/news/world-asia-china-56563449[Source].
+.On 2021-03-31, a uniformed Chinese cop called Qelbinur Sedik, who was a teacher in the <<xinjiang-re-education-camps>> who https://thediplomat.com/2020/08/confessions-of-a-xinjiang-camp-teacher/[fled China and spoke to the media what she saw], to menace her through her sister, who is still in China. When he noticed that she had taken a screenshot due to a screenshot sound, he immediately took off the uniform. https://www.bbc.co.uk/news/world-asia-china-56563449[Source].
 image::{china-dictatorship-media-base}/Qelbinur_Sedik_call_with_cop.jpg[height=400]
 
 [[picking-quarrels]]
