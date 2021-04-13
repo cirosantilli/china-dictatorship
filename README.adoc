@@ -306,7 +306,7 @@ which is more lightweight and pushes just to GH Pages, so we are going to be usi
 There is no need to update package versions or add git tags, all of that gets done automatically by the script!
 
 [[github-repositories-with-censored-information]]
-== GitHub repositories with censored information (政治铭感的GitHub库)
+== GitHub repositories with censored information (政治敏感的GitHub库)
 
 For lists of censored information outside of GitHub see: <<lists-of-material-censored-in-china>>.
 
@@ -4765,6 +4765,12 @@ which means to talk to someone who does not have intellectual conditions of unde
 
 More <<wumao,wumao>> focused strategies at: <<how-to-deal-with-wumaos>>.
 
+.https://knowyourmeme.com/memes/its-super-effective[It's Super Effective!] meme by <<ciro-santilli>> describing how he deals with <<wumao,wumaos>> and <<little-pink,little pinks>>. Humour is the greatest weapon against dictators, and images help cross the language barrier. CC BY-SA 2021.
+image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective.png[width=600]
+
+.Chinese translation of the above.
+image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective_zh.png[width=600]
+
 .Cartoon depiction of the https://en.wikipedia.org/wiki/Chengyu[chengyu] "Playing the <<music,qin>> to a cow" 《对牛弹琴》. https://zhidao.baidu.com/question/438181067.html[Source].
 image::{china-dictatorship-media-base}/Play_qin_to_cow.png[height=600]
 
@@ -5582,7 +5588,7 @@ image::{china-dictatorship-media-base}/Last_Supper_arrest.jpeg[height=400]
 .https://en.wikipedia.org/wiki/Zhang_Hongtu[Zhang Hongtu] cartoon showing <<mao-zedong,Mao Zedong>> and other communist officials at the Last Supper instead of Jesus and the Apostles. https://musicandculture.blogspot.com/2010/03/massive-last-supper-parodies-post.html[Source].
 image::{china-dictatorship-media-base}/Last_Supper_Mao.jpg[height=400]
 
-.Permission papers filled to the brim with government stamps required for the Taihu Catholic Church (https://zh.wikipedia.org/wiki/華莊天主堂[太湖天主堂]) from https://en.wikipedia.org/wiki/Wuxi[Wuxi] (https://zh.wikipedia.org/wiki/无锡市[无锡市]) to hold their annual Christmas https://en.wikipedia.org/wiki/Réveillon[Reveillon] reunion. This is the <<ccp,CCP>>'s version freedom of religion and freedom of assembly. Also mentioned at: https://bitterwinter.org/christmas-was-not-allowed-but-brought-china-a-lot-of-money/ from <<bitter-winter>> (they likely got the province wrong saying it is in Anhui instead of Jiangsu). https://twitter.com/ZhangZhulin/status/1342211279633719296[Source]. TODO original social media post from the church.
+.Permission papers filled to the brim with government stamps required for the Taihu Catholic Church (https://zh.wikipedia.org/wiki/華莊天主堂[太湖天主堂]) from https://en.wikipedia.org/wiki/Wuxi[Wuxi] (https://zh.wikipedia.org/wiki/无锡市[无锡市]) to hold their annual Christmas https://en.wikipedia.org/wiki/Réveillon[Reveillon] reunion. This is the <<ccp,CCP>>'s version freedom of religion and freedom of assembly. Also mentioned at: https://bitterwinter.org/christmas-was-not-allowed-but-brought-china-a-lot-of-money/ from <<bitter-winter>>. https://twitter.com/ZhangZhulin/status/1342211279633719296[Source]. TODO original social media post from the church.
 image::{china-dictatorship-media-base}/Taihu_church_Christmas_reveillon_permission_2020.jpg[height=500]
 
 [[life-of-brian-nazi-jew]]
@@ -8190,7 +8196,7 @@ image::{china-dictatorship-media-base}/Xi_Pooh_car.jpg[height=400]
 image::{china-dictatorship-media-base}/Xi_Pooh_Photoshop.webp[height=400]
 
 .https://www.youtube.com/watch?v=kHmLUYCUYT0 "Xi Jinping as Winnie the Pooh Dancing to Bat Out of Hell by Meatloaf" by TheFakening (2020). Deep fake of several girls wearing Winnie the Pooh clothes with a Xi Jinping face. The song choice "Bat Out of Hell" is a reference to <<corona,COVID> because one of the theories is that the disease started in bats.
-video::y-JPLzj2poY[youtube,height=400,width=600,start=57]
+video::kHmLUYCUYT0[youtube,height=400,width=600,start=57]
 
 [[xi-dada]]
 ====== Xi Dada (习大大, 2015)
