@@ -3934,6 +3934,9 @@ Hong Kong related posts at: https://github.com/cirosantilli/china-dictatorship/i
 
 Related:
 
+* Hong Kong-Mainland China conflict
+** https://en.wikipedia.org/wiki/Hong_Kong–Mainland_China_conflict
+** https://zh.wikipedia.org/wiki/中港矛盾
 * <<hong-kong-dissidents>>
 * <<lihkg>>
 
@@ -3967,6 +3970,19 @@ image::{china-dictatorship-media-base}/Hong_Kong_97_cover.jpg[height=400]
 
 .https://www.youtube.com/watch?v=M_aXcH1zDEE The venerable https://en.wikipedia.org/wiki/Angry_Video_Game_Nerd[Angry Video Game Nerd] made a review of Hong Kong 97.
 video::M_aXcH1zDEE[youtube,height=400,width=600]
+
+[[hong-kong-protests-2014]]
+===== 2014 Hong Kong protests (Umbrella movement, 雨伞运动占领区)
+
+* https://en.wikipedia.org/wiki/2014_Hong_Kong_protests
+* https://en.wikipedia.org/wiki/Umbrella_Movement
+* https://zh.wikipedia.org/wiki/雨傘運動佔領區
+
+.A common logo used in the Umbrella movement, depicting an stylized umbrella with yellow background. https://en.wikipedia.org/wiki/File:Umbrella_Revolution_icon_3.svg[Source].
+image::{china-dictatorship-media-base}/Umbrella_movement_icon.png[height=400]
+
+.Sea of seated protesters during the <<hong-kong-protests-2014>> gathering at the https://en.wikipedia.org/wiki/Admiralty,_Hong_Kong[Admiralty] (https://zh.wikipedia.org/wiki/金鐘[金鐘]) on 2014-10-10. https://en.wikipedia.org/wiki/File:Umbrella_Revolution_in_Admiralty_Night_View_20141010.jpg[Source].
+image::{china-dictatorship-media-base}/Umbrella_movement_in_Admiralty_night_View_20141010.jpg[height=400]
 
 [[hong-kong-national-security-law]]
 ===== Hong Kong National Security Law (香港国安法, 2020)
@@ -4765,7 +4781,7 @@ which means to talk to someone who does not have intellectual conditions of unde
 
 More <<wumao,wumao>> focused strategies at: <<how-to-deal-with-wumaos>>.
 
-.https://knowyourmeme.com/memes/its-super-effective[It's Super Effective!] meme by <<ciro-santilli>> describing how he deals with <<wumao,wumaos>> and <<little-pink,little pinks>>. Humour is the greatest weapon against dictators, and images help cross the language barrier. CC BY-SA 2021.
+.https://knowyourmeme.com/memes/its-super-effective[It's Super Effective!] meme by <<ciro-santilli>> describing how he deals with <<wumao,wumaos>> and <<little-pink,little pinks>>. Humour is the greatest weapon against dictators, and images help cross the language barrier. Composition CC BY-SA 2021, fair use on copyrighted individual elements.
 image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective.png[width=600]
 
 .Chinese translation of the above.
@@ -8261,7 +8277,7 @@ Notably, it consists of 14 chapters, which are called "talks" (讲), e.g. the fi
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China.jpg[height=400]
 
 [[xuexi-qiangguo]]
-===== Xuexi Qiangguo (学习强国, xxqg, 2019)
+===== Xuexi Qiangguo app (Study for a strong country app, 学习强国, xxqg, 2019)
 
 * https://en.wikipedia.org/wiki/Xuexi_Qiangguo
 * https://zh.wikipedia.org/wiki/学习强国
@@ -8270,7 +8286,9 @@ App made by <<alibaba>> for the <<ccp>> to teach people <<xi-jinping-thought>>.
 
 Literally means "study for a strong country".
 
-The app appears to have both contents, and also tests to check that you've read it.
+One of the beautiful things about that name is that is reminds one of the <<slang,expression>> "强国人" (strong country person), coined in during the 2014 during the <<hong-kong-protests-2014>> to refer ironically to Mainland Chines people, due to their exaggerated self-perceived strength and superiority, see also <<wumao-2011-vs-little-pink-2021>>. A homonym "墙国" (wall country) is also known as a reference to the <<gfw>>, https://archive.ph/czYEv[sample usage].
+
+The app appears to have both content, and also tests to check that you've read the bullshit.
 
 At https://www.reddit.com/r/China/comments/mnulkd/china_is_forcing_chinese_to_use_national/gu05o20/?utm_source=reddit&utm_medium=web2x&context=3 a <<reddit>> user explains:
 
@@ -8282,7 +8300,7 @@ This is confirmed e.g. at: https://www.hf.uio.no/ikos/english/studies/voices-mid
 
 ____
 
-Within the first four months of Xuexi Qiangguo’s release, it was the most downloaded app in China with over 100 million downloads, surpassing China’s most popular messaging, social media and mobile payment app, WeChat and the Chinese version of TikTok, known as Douyin.
+Within the first four months of Xuexi Qiangguo’s release, it was the most downloaded app in China with over 100 million downloads, surpassing China’s most popular messaging, social media and mobile payment app, WeChat and the <<tiktok,Chinese version of TikTok, known as Douyin>>.
 
 To use the app is not exactly voluntary. The Communist Party has issued directives that requires party members to download the app and use it. Many workplaces have done the same and it has been reported that employees are required to send screenshots to document their progress on the app. If they don’t, they are at risk of a pay deduction.
 
@@ -11296,6 +11314,7 @@ Bibliography:
 * 2020-06-29 “小粉红”现象调查 (An investigation of the "Little Pink" phenomenon)
 * 2017 http://www.8bb.com/zaojiao/5264.html "小红粉小粉红是什么 家长发现孩子自称小粉红怎么办" (What is a little pink? If a parent discovers that their children call themselves little pinks, what should they do about it?). Kill them.
 
+[[wumao-2011-vs-little-pink-2021]]
 .Perceived comparison between <<wumao>> and <<little-pink>> suggesting that unpaid Little Pinks are more nationalist and extreme than the paid wumaos, which is not too surprising, considering that they do it for free. https://twitter.com/__Inty__/status/1376942681956487168[Source].
 image::{china-dictatorship-media-base}/Wumao_2011_vs_Little_Pink_2021.jpg[height=800]
 
