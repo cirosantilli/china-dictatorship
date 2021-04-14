@@ -675,6 +675,11 @@ Don't you see that this is just pure and simple politics? And likely ineffective
 * it is impossible to prove who is right or wrong in politics: <<democracy-is-a-religion>>
 * not even the CCP is evil: <<ccp-evil>>
 
+Related:
+
+* <<young-pioneers-of-china>>
+* <<little-pink-american-dream-vs-chinese-dream>>
+
 [[keyword-attack]]
 ==== Screen name keyword attack
 
@@ -2818,7 +2823,11 @@ Yes, ideograms are:
 
 * https://en.wikipedia.org/wiki/Chinese_calligraphy[beautiful]
 * https://chinese.stackexchange.com/questions/2003/can-chinese-readers-scan-large-amounts-of-text-faster-more-accurately-than-their[maybe you can read faster]
-* https://en.wikipedia.org/wiki/Horizontal_and_vertical_writing_in_East_Asian_scripts[vertical text (纵排)] is awesome (but is it more efficient? https://www.zhihu.com/question/22104723[Zhihu], https://www.quora.com/Can-literate-Chinese-people-easily-read-vertical-writing[Quora]).
+* https://en.wikipedia.org/wiki/Horizontal_and_vertical_writing_in_East_Asian_scripts[vertical text (纵排)] is beautiful.
+** the top to bottom aspect is obviously due to the binding of https://en.wikipedia.org/wiki/Bamboo_and_wooden_slips[bamboo and wooden slips] (https://zh.wikipedia.org/wiki/简牍[简牍])
+** TODO but why right to left? Left to right makes more sense as you don't put your hand on top of the most recent ink: https://www.quora.com/Why-are-Chinese-characters-individually-written-from-left-to-right-yet-in-ancient-times-sentences-of-Chinese-characters-were-written-and-read-from-right-to-left
+** but is it more efficient? https://www.zhihu.com/question/22104723[Zhihu], https://www.quora.com/Can-literate-Chinese-people-easily-read-vertical-writing[Quora]).
+** https://en.wikipedia.org/wiki/Horizontal_and_vertical_writing_in_East_Asian_scripts#Right-to-left_horizontal_writing also clarifies that traditional shop signs are also right to left, and it is just a sub-case of the usual right to left script, but with a single row
 * more historically stable, and you can still read/learn more or less quickly to read https://en.wikipedia.org/wiki/History_of_the_Chinese_language[texts written more than two thousand years ago]
 * single character emoticons like "https://en.wikipedia.org/wiki/Jiong[囧]", before the https://en.wikipedia.org/wiki/Emoticons_(Unicode_block)[Emoticons Unicode block]! Yes, when your language has a character so useless that it becomes an emoticon, maybe you should start to worry that something went wrong somewhere... See also <<tank-man-emoticon>>.
 
@@ -2840,6 +2849,14 @@ image::{cirosantilli-media-base}/Sweet_brown_chinese_characters_meme.jpg[height=
 .https://www.youtube.com/watch?v=t_cbW5JK9WM "The most complex Chinese character" by Vladimir Skultety does a reasonable analysis of which Chinese character is the most complex
 video::t_cbW5JK9WM[youtube,height=400,width=600]
 ////
+
+[[seal]]
+====== Seal (印章)
+
+* https://en.wikipedia.org/wiki/Seal_(East_Asia
+* https://zh.wikipedia.org/wiki/印章_(東亞)
+
+Seals are also of course top to bottom right to left as in the traditional texts.
 
 [[evil-chinese-characters-by-ted-chiang]]
 ====== 坏汉字 by Ted Chiang
@@ -5604,7 +5621,7 @@ image::{china-dictatorship-media-base}/Last_Supper_arrest.jpeg[height=400]
 .https://en.wikipedia.org/wiki/Zhang_Hongtu[Zhang Hongtu] cartoon showing <<mao-zedong,Mao Zedong>> and other communist officials at the Last Supper instead of Jesus and the Apostles. https://musicandculture.blogspot.com/2010/03/massive-last-supper-parodies-post.html[Source].
 image::{china-dictatorship-media-base}/Last_Supper_Mao.jpg[height=400]
 
-.Permission papers filled to the brim with government stamps required for the Taihu Catholic Church (https://zh.wikipedia.org/wiki/華莊天主堂[太湖天主堂]) from https://en.wikipedia.org/wiki/Wuxi[Wuxi] (https://zh.wikipedia.org/wiki/无锡市[无锡市]) to hold their annual Christmas https://en.wikipedia.org/wiki/Réveillon[Reveillon] reunion. This is the <<ccp,CCP>>'s version freedom of religion and freedom of assembly. Also mentioned at: https://bitterwinter.org/christmas-was-not-allowed-but-brought-china-a-lot-of-money/ from <<bitter-winter>>. https://twitter.com/ZhangZhulin/status/1342211279633719296[Source]. TODO original social media post from the church.
+.Permission papers filled to the brim with government <<seal,stamps>> required for the Taihu Catholic Church (https://zh.wikipedia.org/wiki/華莊天主堂[太湖天主堂]) from https://en.wikipedia.org/wiki/Wuxi[Wuxi] (https://zh.wikipedia.org/wiki/无锡市[无锡市]) to hold their annual Christmas https://en.wikipedia.org/wiki/Réveillon[Reveillon] reunion. This is the <<ccp,CCP>>'s version freedom of religion and freedom of assembly. Also mentioned at: https://bitterwinter.org/christmas-was-not-allowed-but-brought-china-a-lot-of-money/ from <<bitter-winter>>. https://twitter.com/ZhangZhulin/status/1342211279633719296[Source]. TODO original social media post from the church.
 image::{china-dictatorship-media-base}/Taihu_church_Christmas_reveillon_permission_2020.jpg[height=500]
 
 [[life-of-brian-nazi-jew]]
@@ -8340,6 +8357,72 @@ New forced spy app for Chinese people going abroad.
 
 * https://en.wikipedia.org/wiki/Chinese_Dream
 * https://zh.wikipedia.org/wiki/中國夢
+
+Chinese version of the <<american-dream>>, which <<xi-jinping>> insists is completely different and superior to the <<american-dream>>.
+
+The names suggest, they are not real, but just dreams.
+
+Transcript for <<little-pink-american-dream-vs-chinese-dream>>:
+
+____
+美国梦是个人发财的梦 +
+讲究冒险 +
+通过个人奋斗达到所谓的成功 +
+成为有产者 +
+然后去剥削别人 +
+
+中国梦是共同富裕 +
+追求的是人民幸福 +
+
+换句话说 +
+美国梦是个人梦 +
+是为美元的梦 +
+
+中国梦是人民梦 +
+是为人民服务的梦 +
+这就是二者的本质区别 +
+
+以后不要在我面前提起美国梦 +
+俗气！ +
+____
+
+____
+The American dream is a dream of personal wealth +
+it focuses on risk taking +
+to achieve so-called success through personal struggle +
+and become a property owner +
+and then exploit others +
+
+The Chinese dream is common prosperity +
+to pursue the happiness of the people +
+
+In other words +
+the American dream is an individualistic dream +
+it is a dream of the Dollar +
+
+The Chinese dream is the people's dream +
+Is a dream of serving the people +
+This is the essential difference between the two +
+
+Don't bring up the American dream in front of me in the future +
+Cheesy! +
+____
+
+[[little-pink-american-dream-vs-chinese-dream]]
+.https://www.youtube.com/watch?v=MilRo8zZM8A (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub upload]) 小粉红谈中国梦与美国梦的区别 (<<little-pink>> explains the difference between the <<american-dream>> and the <<chinese-dream>>). Also <<twitter,tweeted>> by <<rfa>> at: https://twitter.com/RFA_Chinese/status/1381531661804826627 The <<seal>> on top left reads: "进击老冯" TODO what is that? Source without subtitles: https://www.youtube.com/watch?v=iw8TfbsNfNI[]. TODO original source.
+video::MilRo8zZM8A[youtube,height=400,width=600]
+
+[[dream-of-the-red-chamber]]
+====== Dream of the Red Chamber (红楼梦)
+
+* https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber
+* https://zh.wikipedia.org/wiki/红楼梦
+
+[[american-dream]]
+====== American dream (美国梦)
+
+* https://en.wikipedia.org/wiki/American_Dream
+* https://zh.wikipedia.org/wiki/美国梦
 
 ==== Xi Jinping Thought (习近平新时代中国特色社会主义思想, 2017)
 
@@ -11633,8 +11716,20 @@ image::{china-dictatorship-media-base}/Hitler_youth_salute.webp[height=500]
 .Side-by-side comparisoin of <<xi-jinping>> saluting the <<young-pioneers-of-china>> and Hitler saluting the <<hitler-youth>>.
 image::{china-dictatorship-media-base}/Xi_scout_salute_vs_Hitler_Youth_salute.jpg[height=500]
 
+[[red-army-school]]
+===== Red Army school (红军小学)
+
+* 2017 https://www.nytimes.com/2017/10/15/world/asia/china-schools-propaganda-education.html "To Inspire Young Communists, China Turns to ‘Red Army’ Schools"
+* https://baike.baidu.com/item/红军小学/8664849 on <<baidu-baike>>
+* https://www.zhihu.com/question/56068614 on <<zhihu>> "如何评价中国的红军小学?" (What do you think about the Red Army schools?)
+* 2017 https://www.globaltimes.cn/content/1081039.shtml on <<global-times>>
+
+.Children dressed in clear-blue Red-army uniforms saluting the flag at a <<red-army-school>> in https://en.wikipedia.org/wiki/Beichuan_Qiang_Autonomous_County[Beichuan] (https://zh.wikipedia.org/wiki/北川羌族自治县[北川]).
+image::{china-dictatorship-media-base}/Red_army_school.jpg[height=400]
+
+
 [[hitler-youth]]
-==== Hitler Youth (希特勒青年团)
+===== Hitler Youth (希特勒青年团)
 
 * https://en.wikipedia.org/wiki/Hitler_Youth
 * https://zh.wikipedia.org/wiki/希特拉青年團
