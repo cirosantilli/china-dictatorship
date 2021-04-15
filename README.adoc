@@ -3642,6 +3642,8 @@ image::{china-dictatorship-media-base}/Xinjiang_camp_in_camp.jpg[height=600]
 
 The keyword is <<rule-of-law>>: because of a few terrorists, every single Muslim was fucked even if they did not commit any crime.
 
+Master issue: https://github.com/cirosantilli/china-dictatorship/issues/226
+
 Overview projects:
 
 * https://www.talkaboutxinjiang.com/ Talking about Xinjiang 我们一起来谈谈新疆
@@ -8165,6 +8167,8 @@ https://answersafrica.com/meet-xi-mingze-xi-jinpings-daughter-is-she-married-whe
 [[xi-jinping-memes]]
 ==== Xi Jinping memes 习近平模因
 
+Master issue: https://github.com/cirosantilli/china-dictatorship/issues/231
+
 * 習包子: https://languagelog.ldc.upenn.edu/nll/?p=29230 says:
 +
 ____
@@ -8816,6 +8820,8 @@ image::{china-dictatorship-media-base}/709_lawyers.jpg[height=400]
 
 * https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989
 * https://zh.wikipedia.org/wiki/六四事件
+
+Master issue: https://github.com/cirosantilli/china-dictatorship/issues/225
 
 Good photo selections:
 
@@ -11933,7 +11939,7 @@ Some news:
 ** 2020-05-27 https://techcrunch.com/2020/05/27/canada-court-finds-against-huawei-cfo-meng-wanzhou-on-double-criminality-extradition-trial-to-continue/ "Canada court finds against Huawei CFO Meng Wanzhou on double criminality; extradition trial to continue"
 * 2019-11 https://www.forbes.com/sites/zakdoffman/2019/11/29/has-huaweis-darkest-secret-just-been-exposed-by-this-new-report/#7896db9d4061 "Has Huawei's Darkest Secret Just Been Exposed By This New Surveillance Report?" Xinjiang Papers reveal the extent of Huawei's involvement in <<xinjiang>>
 
-."When you send a good joke from your Huawei phone", <<xi-jinping>> is also listening and laughing with you, girls. https://i.redd.it/nodgcqmwtcg31.jpg[Source].
+.When you send a good joke from your Huawei phone (你用你的华为手机发个好笑话的时候), <<xi-jinping>> is also listening and laughing with you, girls. https://i.redd.it/nodgcqmwtcg31.jpg[Source], shitty Chinese translation by <<ciro-santilli>>.
 image::{china-dictatorship-media-base}/When_you_send_a_good_joke_from_your_Huawei_phone.jpg[height=600]
 
 .<<rebel-pepper>> 2018-12-10 "Why does the whole world hate me" Huawei cartoon, where Huawei's shadow shows the https://en.wikipedia.org/wiki/Hammer_and_sickle[hammer and sickle] to suggest that Huawei is controlled by the CCP. https://www.rfa.org/english/cartoons/Huawei-cartoon-12102018152050.html[Source].
