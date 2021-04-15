@@ -936,7 +936,7 @@ Definitely, the current regime is better than Mao's, but just imagine how rich C
 Imperial China lost the race for the Industrial Revolution. Will another dictatorship be able to stay on top of the next technological revolution?
 
 .XKCD 937 "TornadoGuard" comes to mind in relationship to the <<dictatorship-variability,variable performance of dictatorships>>. https://xkcd.com/937/[Source].
-image:https://web.archive.org/web/20200825230502im_/https://imgs.xkcd.com/comics/tornadoguard.png[height=600]
+image::{china-dictatorship-media-base}/XKCD_937_tornado_guard.png[height=400]
 
 [[dictatorship-variability]]
 ===== Dictatorships have greater development variability
@@ -1360,7 +1360,7 @@ Well known corruption cases:
 * 2020 Ren Zhiqiang
 ** https://en.wikipedia.org/wiki/Ren_Zhiqiang
 ** https://zh.wikipedia.org/wiki/任志强
-** https://edition.cnn.com/2020/09/22/asia/china-ren-zhiqiang-xi-jinping-intl-hnk/index.html "Chinese tycoon who criticized Xi Jinping's handling of <<corona,coronavirus>> jailed for 18 years"
+** https://edition.cnn.com/2020/09/22/asia/china-ren-zhiqiang-xi-jinping-intl-hnk/index.html "Chinese tycoon who criticized <<xi-jinping,Xi Jinping>>'s handling of <<corona,coronavirus>> jailed for 18 years"
 * 2012 https://en.wikipedia.org/wiki/Ling_Jihua[Ling Jihua] (https://zh.wikipedia.org/wiki/令计划[令计划]): son died in Ferrari crash with two women on the car, which put the spotlight on him
 * 2012 https://en.wikipedia.org/wiki/Bo_Xilai[Bo Xilai] (https://zh.wikipedia.org/wiki/薄熙来[薄熙来]): trigerred by the murder of https://en.wikipedia.org/wiki/Neil_Heywood[Neil Heywood], of which Bo's wife was accused
 
@@ -2572,15 +2572,11 @@ image::{china-dictatorship-media-base}/Hitler_Himmler_salute.jpg[height=400]
 .Chinazi flag by <<2019-hong-kong-anti-extradition-bill-protests,Hong Kong protesters>>. Seen https://chinadigitaltimes.net/chinese/2019/08/【盛世一景】赤纳粹旗（chinazi-flag）/[on streets]. https://www.reddit.com/r/HongKong/comments/dbrken/google_bomb_china_flag_search_query_into_chinazi/[Source].
 image::{china-dictatorship-media-base}/Chinazi_flag.png[height=400]
 
-[[xi-salute-young-pioneers-nazi]]
-.Xi Jinping basically <<nazi,Nazi saluting>> kids from <<young-pioneers-of-china>> in Beijing, June 1, 2015. http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[Source] (http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[biased]).
-image::{china-dictatorship-media-base}/Xi_scout_salute.jpg[height=500]
-
 .https://www.youtube.com/watch?v=wD53MEbLDIE <<serpentza-laowhy86,laowhy86>> video "Can We Compare China to Nazi Germany?" published on 2020-04-29. Good side-by-side video comparisons. Says that China is more like Nazi than <<russia>>, but Ciro disagrees, all three are <<is-chinese-politician-x-evil,evil dictatorships>>.
 video::wD53MEbLDIE[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=hn1VxaMEjRU https://en.wikipedia.org/wiki/Mitchell_and_Webb[Mitchell and Webb] "Are we the Baddies?" Nazi Sketch. In this sketch, Mitchel, a cute self-conscious Nazi, starts to wonder with Webber, his Nazi friend, if they aren't on the side of evil, particularly due to the usage of https://en.wikipedia.org/wiki/Totenkopf[Nazi skulls (Totenkopf)] on their uniforms. This echoes <<goring-nuremberg,Gorings appearance on the Nuremberg trials>>. Like the CCP, many Nazis thought of course that they were doing great things.
-video::wD53MEbLDIE[youtube,height=400,width=600]
+video::hn1VxaMEjRU[youtube,height=400,width=600]
 
 [[hitler-has-only-got-one-ball]]
 ==== Hitler Has Only Got One Ball (希特勒只有一个蛋)
@@ -6741,8 +6737,8 @@ See also:
 * <<democracy-is-a-religion>>
 
 [[xi-halo]]
-.Xi Jinping with a Halo to make <<ccp-cult,the obvious more obvious>>. Reads <<xi-jinping-thought,"习近平思想" (Xi Jinping Thought)>>. Watermark reads "Gucci Minh @Laborwave", so presumably from https://www.instagram.com/laborwavedesigns/[], but I didn't have the patience to find the picture, but it very likey comes from there, a ton of great communist memes in that account. https://www.reddit.com/r/LateStageCapitalism/comments/77vfi8/uphold_xi_jinping_thought/[Source].
-image:https://web.archive.org/web/20200907151448/https://preview.redd.it/f2q3txu0i8tz.jpg?width=640&crop=smart&auto=webp&s=4edb61b3454487e43683c367ea014d9f2ec605e4[height=400]
+.Xi Jinping with a Halo to make <<ccp-cult,the obvious more obvious>>. The texts reads <<xi-jinping-thought,"习近平思想" (Xi Jinping Thought)>>. Watermark reads "Gucci Minh @Laborwave", so presumably from https://www.instagram.com/laborwavedesigns/[], but I didn't have the patience to find the picture, but it very likey comes from there, a ton of great communist memes in that account. https://www.reddit.com/r/LateStageCapitalism/comments/77vfi8/uphold_xi_jinping_thought/[Source].
+image::{china-dictatorship-media-base}/Xi_Jinping_thought_halo.jpg[height=400]
 
 ===== Orange Papers
 
@@ -7784,6 +7780,9 @@ image::{china-dictatorship-media-base}/Li_Hongzhi_Buddha.jpg[height=400]
 .Dubstep <<li-hongzhi,Li>> can <<flg-religion,liangong (练功)>> at https://en.wikipedia.org/wiki/Dubstep[dubstep] speed. https://giphy.com/gifs/dubstep-gifs-dubstepgifs-xUOwFY1prqgUdPuFvW[Source].
 image::{china-dictatorship-media-base}/Li_Hongzhi_dubstep.webp[height=400]
 
+.https://www.youtube.com/watch?v=_7JK576nxm0 音乐视频：《师尊的手》<<falun-gong>> music video "The master's hand" contains some a bit of good old time <<li-hongzhi>> footage.
+video::_7JK576nxm0[youtube,height=400,width=600]
+
 ===== Xi Hongzhi and Li Jinping
 
 In an alternate reality, Xi Hongzhi, not to be confused with <<xi-jinping>>, is an obscure peasant trying to save his kingdom from oppression.
@@ -8293,6 +8292,13 @@ Notably, it consists of 14 chapters, which are called "talks" (讲), e.g. the fi
 .<<ccp-cult,Devotional>> image of <<xi-jinping>> on the cover of the https://en.wikipedia.org/wiki/The_Governance_of_China[The Governance of China] (link:https://zh.wikipedia.org/wiki/习近平谈治国理政[习近平谈治国理政], 2020) book which is part of <<xi-jinping-thought>>. The similarity to <<li-hongzhi>> devotional images <<li-hongzhi-lotus,is striking>>. Related: <<xi-halo>>. https://www.amazon.co.uk/Governance-China-Xi-Jinping/dp/1602204098[Source].
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China.jpg[height=400]
 
+[[two-safegards]]
+===== Two safegards (两个维护, 2018)
+
+https://zh.wikipedia.org/wiki/兩個維護
+
+Part of <<newspeak,Xi-speak>>.
+
 [[xuexi-qiangguo]]
 ===== Xuexi Qiangguo app (Study for a strong country app, 学习强国, xxqg, 2019)
 
@@ -8324,7 +8330,8 @@ To use the app is not exactly voluntary. The Communist Party has issued directiv
 To put it in perspective, over 90 million Chinese are members of the Communist Party, and there are nearly 850 million internet users and almost 690 million smart phone users in China, as of 2019. It is, however, not clear whether the people who have downloaded the app genuinely are interested in learning about Xi Jinping’s political ideology, or if they feel like they must download it to show loyalty to the party.
 ____
 
-====== Fuck-XueXiQiangGuo
+[[fuck-xuexiqiangguo]]
+====== Fuck-XueXiQiangGuo (Fuck学习强国)
 
 https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo[]
 
@@ -8351,6 +8358,12 @@ image::{china-dictatorship-media-base}/Fuck-XueXiQiangGuo_2021_GitHub_page_scree
 * https://www.reddit.com/r/China/comments/mnulkd/china_is_forcing_chinese_to_use_national/
 
 New forced spy app for Chinese people going abroad.
+
+[[jingwang-weishi]]
+====== Jingwang Weishi app (Clean Net Guardian app, 净网卫士)
+
+* https://en.wikipedia.org/wiki/Jingwang_Weishi
+* https://zh.wikipedia.org/wiki/净网卫士
 
 [[chinese-dream]]
 ===== Chinese dream (中国梦, 4000 BC -)
@@ -8423,15 +8436,6 @@ video::MilRo8zZM8A[youtube,height=400,width=600]
 
 * https://en.wikipedia.org/wiki/American_Dream
 * https://zh.wikipedia.org/wiki/美国梦
-
-==== Xi Jinping Thought (习近平新时代中国特色社会主义思想, 2017)
-
-[[two-safegards]]
-===== Two safegards (两个维护, 2018)
-
-https://zh.wikipedia.org/wiki/兩個維護
-
-Part of <<newspeak,Xi-speak>>.
 
 [[hu-jintao]]
 === Hu Jintao (胡锦涛, 2002-2012)
@@ -8593,10 +8597,10 @@ claims from from some 毛泽东选集第五卷 (selected works from Mao Zedong) 
 
 Even <<pro-chinese-government-media,kknews>> confirms: https://kknews.cc/zh-my/news/ql9k4ag.html
 
-<<liu-shihui-one-party-rule>> also comes to mind.
+<<liu-shihui-one-party-rule,Liu Shihui (刘士辉)>> also comes to mind.
 
 [[great-leap-forward]]
-==== Great Leap Forward 大跃进 (1958-1960)
+==== Great Leap Forward (大跃进, 1958-1960)
 
 * https://en.wikipedia.org/wiki/Great_Leap_Forward
 * https://zh.wikipedia.org/wiki/大跃进
@@ -8608,13 +8612,28 @@ image::{china-dictatorship-media-base}/Winter_gourd.jpg[height=600]
 image::{china-dictatorship-media-base}/Communist_children_catch_pokemon.jpg[height=600]
 
 [[cultural-revolution]]
-==== Cultural Revolution 文化大革命 (1966-1976)
+==== Cultural Revolution (文化大革命, 1966-1976)
 
 * https://en.wikipedia.org/wiki/Cultural_Revolution
 * https://zh.wikipedia.org/wiki/文化大革命
 
 .https://youtube.com/watch?v=kXByOrRrO7c Vox 6 minute explanation with some good footage for impatient Millennials, published on Feb 14, 2020.
 video::kXByOrRrO7c[youtube,height=400,width=600]
+
+[[revolutionary-opera]]
+===== Revolutionary opera (样板戏)
+
+* https://en.wikipedia.org/wiki/Revolutionary_opera
+* https://zh.wikipedia.org/wiki/样板戏
+
+[[struggle-session]]
+===== Struggle session (批斗)
+
+* https://en.wikipedia.org/wiki/Struggle_session
+* https://zh.wikipedia.org/wiki/批鬥
+
+.<<struggle-session>> Luo Zicheng (TODO Chinese), head of the work group designated by the provincial Party committee, wearing a https://en.wikipedia.org/wiki/Dunce#Dunce_cap[dunce cap] (TODO 笨蛋帽?) and surrounded by from the staff of the https://en.wikipedia.org/wiki/Heilongjiang[Heilongjiang] (https://zh.wikipedia.org/wiki/黑龙江省[黑龙江省]) Daily newspaper accusing him of 'following the capitalist line' in 1966. Photo by https://en.wikipedia.org/wiki/Li_Zhensheng_(photojournalist)[Li Zhensheng] (https://zh.wikipedia.org/wiki/李振盛[李振盛]). https://www.bbc.co.uk/news/world-asia-china-19807561[Source].
+image::{china-dictatorship-media-base}/Struggle_session_cultural_revolution_dunce_cap_luo_zicheng.jpg[height=400]
 
 [[mao-swim]]
 ===== Mao swim across the Yangtze river (毛主席畅游长江, 1966-07-16)
@@ -9227,7 +9246,7 @@ Retired teacher at <<central-party-school>> living in the USA.
 +
 ** 2020-06-12 https://chinadigitaltimes.net/2020/06/translation-former-party-professor-calls-ccp-a-political-zombie/ "TRANSLATION: FORMER PARTY PROFESSOR CALLS CCP A 'POLITICAL ZOMBIE'" by <<china-digital-times>>
 +
-She criticized Xi Jinping in private online meeting, and the audio was leaked: https://www.youtube.com/watch?v=hEBHVsHlPeI
+She criticized <<xi-jinping>> in private online meeting, and the audio was leaked: https://www.youtube.com/watch?v=hEBHVsHlPeI
 ** 2020-08-21 https://www.taiwannews.com.tw/en/news/3992140 she was expelled from from the CCP, and she said she was happy.
 * https://www.rfa.org/english/news/china/monitor-08182020091653.html "Jailed WeChat User Says Chinese Police Monitor Overseas Accounts Too". Gao Zhigang.
 * https://en.wikipedia.org/wiki/Chen_Guangcheng[Chen Guangcheng] (陈光诚). The blind dude. https://www.youtube.com/watch?v=zDqYMXxH09Y "Chinese dissident tells story of escaping tyranny and finding hope in America" by "Fox News" (2020-08-26) supporting Trump's reelection.
@@ -11390,11 +11409,11 @@ image::{china-dictatorship-media-base}/Wujiao.png[height=400]
 * https://en.wikipedia.org/wiki/Little_Pink
 * https://zh.wikipedia.org/wiki/小粉紅
 
-<<slang,slang>> name for <<stupid,brainwashed>> <<ccp,CCP>> supporters who are not necessarily paid professional <<wumao,wumaos>>".
+<<slang,Slang>> name for <<stupid,brainwashed>> <<ccp,CCP>> supporters who are not necessarily paid professional <<wumao,wumaos>>, notably young, idealistic and enthusiastic ones, <<little-pink-american-dream-vs-chinese-dream>> contains a prototypical video example.
 
 Bibliography:
 
-* 2020-06-29 “小粉红”现象调查 (An investigation of the "Little Pink" phenomenon)
+* 2020-06-29 "小粉红"现象调查 (An investigation of the "Little Pink" phenomenon)
 * 2017 http://www.8bb.com/zaojiao/5264.html "小红粉小粉红是什么 家长发现孩子自称小粉红怎么办" (What is a little pink? If a parent discovers that their children call themselves little pinks, what should they do about it?). Kill them.
 
 [[wumao-2011-vs-little-pink-2021]]
