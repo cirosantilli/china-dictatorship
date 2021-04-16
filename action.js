@@ -56,9 +56,9 @@ for (const image of images) {
 //});
 
 console.log(github.context);
-const token = core.getInput("token");
+//const token = core.getInput("token");
 const pull_request_number = 237;
-const octokit = new github.getOctokit(token);
+const octokit = new github.getOctokit(process.env.GITHUB_TOKEN);
 const new_comment = octokit.issues.createComment({
   owner: 'cirosantilli',
   repo: 'china-dictatorship',
