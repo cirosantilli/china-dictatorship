@@ -46,7 +46,7 @@ try {
   const new_comment = octokit.issues.createComment({
     owner: 'cirosantilli',
     repo: github.context.payload.repository.name,
-    issue_number: github.context.payload.pull_request.number,
+    issue_number: github.context.payload.issue.number,
     body: full_images.join('\n\n'),
   });
 } catch (error) {
