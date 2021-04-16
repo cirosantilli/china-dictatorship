@@ -58,16 +58,31 @@ ${quoteArray.join('\n')}
 ${full_images.join('\n\n')}
 `;
 
-const newLabels = [];
-const existingLabels = payload.issue.labels.map(label => label.name);
-console.log(existingLabels);
+// Label handling.
+const labels = new Set(payload.issue.labels.map(label => label.name));
+const newLabels = new Set();
 if (/傻逼/i.test(titleAndBody)) {
-  newLabels.push('you-are-stupid-argument');
+  newLabels.add('you-are-stupid-argument');
 }
-if (newLabels.length > 0) {
-  newLabels.push('shitpost');
+if (/nmsl/i.test(titleAndBody)) {
+  newLabels.add('your-mother-died-argument');
+}
+const shitpostWords = [
+  'fuck',
+  'shit',
+];
+for (const word of shitpostWords) {
+  if (new RegExp(word, 'i').test(titleAndBody)) {
+    newLabels.add('shitpost');
+    break;
+  }
+}
+if (newLabels.size > 0) {
+  newLabels.add('shitpost');
+  labels.delete('not-shitpost');
 }
 
+// Make the request.
 try {
   console.log(github.context);
   const octokit = new github.getOctokit(process.env.GITHUB_TOKEN);
@@ -81,7 +96,7 @@ try {
     owner: 'cirosantilli',
     repo: payload.repository.name,
     issue_number: payload.issue.number,
-    labels: newLabels
+    labels: Array.from([...labels, ...newLabels])
   });
 } catch (error) {
   core.setFailed(error.message);
