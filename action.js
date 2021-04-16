@@ -40,15 +40,14 @@ full_images = []
 for (const image of images) {
   full_images.push(`<img src="https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/${image}" width="600">`);
 }
-console.error(full_images.join('\n\n'));
 try {
   console.log(github.context);
   const octokit = new github.getOctokit(process.env.GITHUB_TOKEN);
   const new_comment = octokit.issues.createComment({
     owner: 'cirosantilli',
-    repo: context.payload.repository.name,
-    issue_number: context.payload.pull_request.number,
-    body: 'asdf'
+    repo: github.context.payload.repository.name,
+    issue_number: github.context.payload.pull_request.number,
+    body: full_images.join('\n\n');
   });
 } catch (error) {
   core.setFailed(error.message);
