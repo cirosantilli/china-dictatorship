@@ -1,0 +1,16 @@
+name: Issue
+on:
+  issues:
+    types: [opened]
+jobs:
+  Issue:
+    runs-on: ubuntu-20.04
+    steps:
+      - run: echo "github ${{ github }}"
+      - run: echo "github.event_name ${{ github.event_name }}"
+      - run: echo "github.ref ${{ github.ref }}"
+      - run: echo "github.repository ${{ github.repository }}"
+      - run: echo "runner.os ${{ runner.os }}"
+      - run: echo "${{ github.workspace }}"
+      - run: ls ${{ github.workspace }}
+      - run: echo "${{ job.status }}."
