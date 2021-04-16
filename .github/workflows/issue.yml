@@ -2,6 +2,11 @@ name: Issue
 on:
   issues:
     types: [opened]
+inputs:
+  token:
+    description: 'The GitHub token'
+    required: false
+    default: ${{ github.token }}
 jobs:
   Issue:
     runs-on: ubuntu-20.04

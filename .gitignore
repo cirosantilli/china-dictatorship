@@ -20,3 +20,5 @@ tmp.*
 # For stupid packaging systems that require subdirectories.
 /china_dictatorship/README.adoc
 /china_dictatorship/README.html
+
+node_modules

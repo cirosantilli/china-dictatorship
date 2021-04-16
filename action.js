@@ -3,6 +3,9 @@
 const fs = require('fs');
 const readline = require('readline');
 
+const core = require('@actions/core');
+const github = require('@actions/github');
+
 // https://stackoverflow.com/questions/19269545/how-to-get-a-number-of-random-elements-from-an-array/19270021#19270021
 function getRandom(arr, n) {
   var result = new Array(n),
@@ -36,6 +39,43 @@ images = getRandom(images, 10);
 for (const image of images) {
   console.log(`<img src="https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/${image}" width="600">`);
 }
+
+//const token = core.getInput("token");
+//const context = github.context;
+//if (context.payload.pull_request == null) {
+//    core.setFailed('No pull request found.');
+//    return;
+//}
+//const pull_request_number = context.payload.pull_request.number;
+//const pull_request_number = 237;
+//const octokit = new github.GitHub(process.env.GITHUB_TOKEN);
+//const new_comment = octokit.issues.createComment({
+//  ...context.repo,
+//  issue_number: pull_request_number,
+//  body: 'asdf'
+//});
+
+console.log(github.context);
+const token = core.getInput("token");
+const pull_request_number = 237;
+const octokit = new github.getOctokit(token);
+const new_comment = octokit.issues.createComment({
+  owner: 'cirosantilli',
+  repo: 'china-dictatorship',
+  issue_number: pull_request_number,
+  body: 'asdf'
+});
+
+//const pull_request_number = 237;
+//console.error(github);
+//const octokit = new github.getOctokit(process.env.GITHUB_TOKEN);
+//const new_comment = octokit.issues.createComment({
+//  owner: 'cirosantilli',
+//  repo: 'china-dictatorship',
+//  issue_number: pull_request_number,
+//  body: 'asdf'
+//});
+
 })()
 
 //import random
