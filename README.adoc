@@ -1,6 +1,5 @@
 = China Dictatorship 中国独裁统治
 :china-dictatorship-media-base: https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master
-:cirosantilli-media-base: https://raw.githubusercontent.com/cirosantilli/media/master
 :idprefix:
 :idseparator: -
 :sectanchors:
@@ -705,7 +704,7 @@ See also: <<photobombing-like-attacks>>.
 Some people say https://english.stackexchange.com/questions/284671/dont-st-where-you-eat[don't shift where you eat]. Ciro says: bring a shitbucket to the canteen, and start a shitfight.
 
 .<<chrysanthemium-xi-jinping>> has been used by Ciro Santilli as a profile picture censored image attack
-image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
+image::{china-dictatorship-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
 
 [[cute-cat-theory-of-digital-activism]]
 ==== Cute cat theory of digital activism (可爱猫理论)
@@ -1331,7 +1330,7 @@ What is the point of having all that wealth, when you risk <<rule-of-law,being p
 image::{china-dictatorship-media-base}/Pig_politics_Chinese.jpg[height=600]
 
 .Translation by Ciro Santilli of the Rebel Pepper cartoon about the pig who does not care about politics because it cannot be eaten.
-image::{cirosantilli-media-base}/Rebel_pepper_pig_can%27t_eat_democracy_cartoon_translated_to_English_by_Ciro_Santilli.jpg[height=600]
+image::{china-dictatorship-media-base}/Rebel_pepper_pig_can%27t_eat_democracy_cartoon_translated_to_English_by_Ciro_Santilli.jpg[height=600]
 
 .https://knowyourmeme.com/memes/shut-up-and-take-my-money[Shut up and take my freedom] meme by <<ciro-santilli>>.
 image::{china-dictatorship-media-base}/Shut_up_and_take_my_freedom.jpg[height=400]
@@ -1756,7 +1755,7 @@ Bibliography:
 * https://arxiv.org/pdf/1412.6274.pdf "Y Chromosome of Aisin Gioro, the Imperial House of Qing Dynasty" unknown year. Unfortunately Ciro's wife does not have an Y chromosome like her father. This does however mention the book used as a genealogy reference: https://books.google.co.uk/books/about/愛新覺羅宗譜.html?id=Pj4EAQAAIAAJ 愛新覺羅宗譜 On Douban: https://book.douban.com/subject/4162448/ gives ISBN 9787507713428 On Amazon unavailable: https://www.amazon.com/dp/7507713423[]. Lol this makes this repo show up at: https://paperswithcode.com/paper/y-chromosome-of-aisin-gioro-the-imperial
 
 .Ciro Santilli's portrait as Qing emperor. https://en.wikipedia.org/wiki/File:清_郎世宁绘《清高宗乾隆帝朝服像》.jpg[Original image].
-image::{cirosantilli-media-base}/Ciro_Santilli_portrait_as_Qing_emperor.jpg[height=600]
+image::{china-dictatorship-media-base}/Ciro_Santilli_portrait_as_Qing_emperor.jpg[height=600]
 
 [[preconceived]]
 ==== Ciro Santilli has a preconceived opinion about China that cannot be changed 三西猴对中国成见很深，无法改变
@@ -1823,7 +1822,7 @@ The https://en.wikipedia.org/wiki/Darkest_Hour_(film)[Darkest Hour (2017) film] 
 Maybe some people would be happy if their mother-in-law were put into jail. But unfortunately, this wasn't the case for <<ciro-santilli>>.
 
 .<<ciro-santilli>> with his soon-to-be mother-in-law before his wedding in 2017. Annoying? Sometimes. But threat to the fucking Chinese State? How fucked does your political system have to be for the answer to be a "yes"?
-image::{cirosantilli-media-base}/Ciro_Santilli_with_his_mother_in_law_during_his_wedding_in_2017.jpg[height=600]
+image::{china-dictatorship-media-base}/Ciro_Santilli_with_his_mother_in_law_during_his_wedding_in_2017.jpg[height=600]
 
 ====== Jail post en
 
@@ -2694,7 +2693,7 @@ GitHub issue label: https://github.com/cirosantilli/china-dictatorship/issues?q=
 
 [[vagina]]
 .A https://en.wikipedia.org/wiki/Vagina[Vagina] (https://zh.wikipedia.org/wiki/阴道[阴道]) also known as cunt (屄), is the female reproductive organ, including the naturally occurring black hole that appears in front of it whenever a picture is taken to prevent <<github>> from taking down this page. Even though <<porn,you've never seen one>>, there's no need to be afraid of it, and refer to it in euphemisms like "SB". https://en.wikipedia.org/wiki/File:Rugae_vaginales.jpg[Background source] and https://commons.wikimedia.org/wiki/File:Black_Hole_Milkyway.jpg[black hole source].
-image::{cirosantilli-media-base}/Rugae_vaginales_with_black_hole.jpg[height=400]
+image::{china-dictatorship-media-base}/Rugae_vaginales_with_black_hole.jpg[height=400]
 
 [[shina]]
 ====== Shina (zhina, 支那)
@@ -2733,7 +2732,7 @@ Bibliography:
 Not as of 2019, he has only visited once in 2012, and it was <<does-ciro-santilli-hate-china,amazingly beautiful>>.
 
 .Ciro Santilli with a stone carved https://en.wikipedia.org/wiki/Budai[Budai (布袋和尚)] in the https://en.wikipedia.org/wiki/File:Maitreya_and_disciples_carving_in_Feilai_Feng_Caves.jpg[Feilai Feng caves (飞来峰)] near the https://en.wikipedia.org/wiki/Lingyin_Temple[Lingyin Temple (灵隐寺)] in Hangzhou taken during his legendary 2012 touristic trip to China. Will he ever be able to go to China again to re-experience such marvelous locations? If the CCP falls before he dies, and if the statue hasn't been destroyed by the commies, Ciro will return to that exact spot and take a second picture. How will he look like?
-image::{cirosantilli-media-base}/Ciro_Santilli_with_a_stone_carved_Budai_in_the_Feilai_Feng_caves_near_the_Lingyin_Temple_in_Hangzhou_in_2012.jpg[height=500]
+image::{china-dictatorship-media-base}/Ciro_Santilli_with_a_stone_carved_Budai_in_the_Feilai_Feng_caves_near_the_Lingyin_Temple_in_Hangzhou_in_2012.jpg[height=500]
 
 But he doesn't think it is a good idea for him to do that now, in case his Visa got accepted, because he is not interested in learning about the Chinese jail system! :-)
 
@@ -2841,7 +2840,7 @@ Posts that express similar ideas:
 image::{china-dictatorship-media-base}/Chinese_character_extreme.svg[height=400]
 
 .The Sweet Brown https://en.wikipedia.org/wiki/Ain%27t_Nobody_Got_Time_for_That[Ain't Nobody Got Time for That] meme (https://knowyourmeme.com/memes/sweet-brown-aint-nobody-got-time-for-that[knowyourmeme]) fits perfectly into how Ciro feels about learning Chinese characters.
-image::{cirosantilli-media-base}/Sweet_brown_chinese_characters_meme.jpg[height=500]
+image::{china-dictatorship-media-base}/Sweet_brown_chinese_characters_meme.jpg[height=500]
 
 ////
 .https://www.youtube.com/watch?v=t_cbW5JK9WM "The most complex Chinese character" by Vladimir Skultety does a reasonable analysis of which Chinese character is the most complex
@@ -3135,7 +3134,7 @@ If you do decide to strike though, <<what-should-pro-democracy-chinese-living-in
 For "violence is illegal" arguments, see also: <<follow-the-law>>.
 
 .One baby <<nazi,Hitler>> or 5 Million Jews https://en.wikipedia.org/wiki/Trolley_problem[trolley problem] illustrates well the moral dilemma of https://en.wikipedia.org/wiki/Consequentialism["the ends justify the means"].
-image::{cirosantilli-media-base}/Baby_Hitler_vs_5_million_Jews_trolley_problem.jpg[height=400]
+image::{china-dictatorship-media-base}/Baby_Hitler_vs_5_million_Jews_trolley_problem.jpg[height=400]
 
 .Translation: What women think men want (a kiss). What men actually want (decapitating <<xi-jinping>>). The image from the left comes from the Japanese manga https://mangakakalot.com/manga/vm922794[Okaeri Alice] according to Reddit comments. The image to the right is based on an illustration of the decapitation of https://en.wikipedia.org/wiki/Louis_XVI[Louis XVI] (https://zh.wikipedia.org/wiki/路易十六[路易十六]) during the https://en.wikipedia.org/wiki/French_Revolution[French Revolution] (https://zh.wikipedia.org/wiki/法国大革命[法国大革命]), but with Louis' head replaced by Xi Jinping's head. An original can be found at: https://castinet.castilleja.org/users/pmckee/frenchrev/violentphase.html[]. https://www.reddit.com/r/chonglangTV/comments/m8qwz4/真正的需要/[Source].
 image::{china-dictatorship-media-base}/What_Chinese_men_really_want.jpg[height=400]
@@ -3655,7 +3654,8 @@ Also includes the <<uyghurs-for-sale>> report.
 
 News:
 
-* The wings of songs (歌声的翅膀, 2021) Xinjiang propaganda musical film
+* 202104-16 https://twitter.com/adrianzenz/status/1382397174684680197 "Breaking: Xinjiang's latest 2020 Statistical Yearbook lacks ALL crucial population data"
+* 2021-04 The wings of songs (歌声的翅膀, 2021) Xinjiang propaganda musical film
 ** https://www.theguardian.com/books/video/2021/apr/03/wings-of-song-china-launches-idyllic-musical-set-in-xinjiang-video
 ** https://www.youtube.com/watch?v=yt-FkaH5YwI trailer
 * 2021-03-28 <<cgtn>> invents French national "Laurene Beaumond" who refutes the situation in Xinjiang:
@@ -3794,7 +3794,7 @@ Many videos were published on <<tiktok>>, 2020-07-09 https://www.codastory.com/a
 <<github>> re-uploads at: https://github.com/cirosantilli/china-dictatorship/issues/221
 
 [[uyghurs-for-sale]]
-.Advertisement published by Qingdao Decai Decoration Co. claiming to supply government-sponsored Uyghur workers from Xinjiang to other provinces. Source of translation: https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report]. Original website archive from  16 Jan 2020: http://archive.ph/r7T8r[]. The ad features a caricature of two dancing Uyghurs in traditional clothing. This is evidence of the CCP's mass forced eviction and slavery of Uyghurs.
+.Advertisement published by Qingdao Decai Decoration Co. claiming to supply government-sponsored Uyghur workers from Xinjiang to other provinces. Source of translation: https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report]. Original website archive from  16 Jan 2020: http://archive.ph/r7T8r[]. The ad features a caricature of two dancing Uyghurs in traditional clothing. This is evidence of the CCP's mass forced eviction and slavery of Uyghurs. Another report at 2021-04-16 https://news.sky.com/story/amp/new-evidence-of-the-strict-controls-uighurs-face-in-factories-thousands-of-miles-from-home-12276248 "Batches of 50 to 100 Uighur workers are being advertised on the Chinese internet" suggests that a <<baidu>> search for "劳务派遣" leads to incriminating ads, but which they fail to translate.
 image::{china-dictatorship-media-base}/Uyghur_sale_website.jpg[height=500]
 
 .Uyghur workers at Taekwang Shoe Manufacturing Co. Ltd (青岛泰光制鞋有限公司) waving the Chinese flag, October 2019. Viewable on the pro-CCP China Ethnic Religion Net (中国民族宗教网) website: http://www.mzb.com.cn/html/report/191130765-1.htm[], and also shown in the https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report].
@@ -6266,7 +6266,7 @@ Dissidents:
 
 [[thai-king-hamtaro]]
 .Side-by-side comparison between https://en.wikipedia.org/wiki/Vajiralongkorn[Thai King Vajiralongkorn] and https://en.wikipedia.org/wiki/Hamtaro[Hamtaro]. This is the Thai version of <<winnie-the-pooh>>. It https://asia.nikkei.com/Politics/Japanese-cartoon-Hamtaro-used-by-Thai-protesters-to-mock-government[has been used by protesters] as part of the  https://en.wikipedia.org/wiki/2020_Thai_protests[2020 Thai protests]. Left https://en.wikipedia.org/wiki/2020_Thai_protests[photo source].
-image::{cirosantilli-media-base}/Side_by_side_comparison_between_Thai_king_Vajiralongkorn_and_Hamtaro.jpg[height=400]
+image::{china-dictatorship-media-base}/Side_by_side_comparison_between_Thai_king_Vajiralongkorn_and_Hamtaro.jpg[height=400]
 
 .Leading Thai politicians prostrate themselves before Vajiralongkorn in 2016, presumably during his ascension to the throne. https://www.independent.co.uk/news/world/asia/bbc-investigation-thailand-king-defamation-a7460046.html[Source].
 image::{china-dictatorship-media-base}/Thai_king_prostrated_officers.jpg[height=400]
@@ -8270,7 +8270,7 @@ Got creator Dai Jianyong (戴建勇) arrested in 2015:
 * https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/ by <<china-digital-times>>
 
 .Chrysanthemum Xi Jinping with <<tiananmen,六四>> spice added by Ciro Santilli
-image::{cirosantilli-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
+image::{china-dictatorship-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
 
 .Original Chrysanthemum Xi Jinping by Dai Jianyong published in 2015. https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/[Source].
 image::{china-dictatorship-media-base}/Chrysanthemum_Xi.jpeg[height=400]
@@ -10385,10 +10385,6 @@ Some news coverage:
 * 2018-01-15 https://www.bbc.co.uk/news/world-asia-china-42640569 "Sora Aoi: Japan's porn star who taught a Chinese generation about sex. When Japanese actress and former porn star Sora Aoi announced her marriage online, it set off a frenzy on Chinese social media."
 * 2017-06-17 https://qz.com/1001366/how-the-chinese-watch-porn-on-chinas-censored-internet/ "Watching porn on China's censored internet is an infinitely evolving cat-and-mouse game"
 
-[[intercourse]]
-.Human https://en.wikipedia.org/wiki/Human_penis[penis] (https://zh.wikipedia.org/wiki/人類陰莖[陰莖]) penetrating a human <<vagina,vagina>> while wearing a condom during https://en.wikipedia.org/wiki/Sexual_intercourse[human sexual intercourse] (https://zh.wikipedia.org/wiki/性交[性交]), showing the https://en.wikipedia.org/wiki/The_birds_and_the_bees[naturally occuring bees] that automatically appear during the event to obscure the view and prevent <<github>> from taking down this page. This is also basically what all porn looks like (sometimes without the bees), and it is very, very boring to watch. https://commons.wikimedia.org/wiki/File:Coitus20092.JPG[Background source] and https://commons.wikimedia.org/wiki/File:Delivery_Bee.png[bee source].
-image::{cirosantilli-media-base}/Coitus_with_bees.jpg[height=400]
-
 [[jin-ping-mei]]
 .Ming-era dynasty illustration of a scene from the novel https://en.wikipedia.org/wiki/Jin_Ping_Mei[Jin Ping Mei] (https://zh.wikipedia.org/wiki/金瓶梅[金瓶梅]) where Qing Ximen (西門) and Golden Lotus (潘金蓮) are engaging in foreplay in a <<yuyuan-garden,beautiful ancient Chinese house>>. For an old depiction of homosexual male sexual activity, see: <<qing-gay-scroll,this image>>. https://en.wikipedia.org/wiki/File:金瓶梅格子门插图2.JPG[Source].
 image::{china-dictatorship-media-base}/Jin_ping_mei.jpg[height=600]
@@ -10887,7 +10883,7 @@ image::{china-dictatorship-media-base}/Jingjing_Chacha_Shenzhen_police.jpg[heigh
 image::{china-dictatorship-media-base}/Jingjing_Chacha_Beijing.jpg[height=400]
 
 .Angry Chinese cop cartoons extracted from https://web.archive.org/web/20191209021646/http://encyclopediadramatica.rs/China[Encyclopedia Dramatica] with the racist subtitles removed. It is hard to be sure what is the original image that they were Photoshopped from, but they are very similar to the Beijing Jingjing and Chacha although this is not a direct copy paste of the above since several details differ. The image was uploaded in 2011 to ED. https://web.archive.org/web/20170525180028/https://encyclopediadramatica.rs/File:Preasetoshowpapers.jpg[Source].
-image::{cirosantilli-media-base}/Jingjing_Chacha_angry.jpg[height=400]
+image::{china-dictatorship-media-base}/Jingjing_Chacha_angry.jpg[height=400]
 
 .The Qatar friendly censorship page likely from around 2011 sowing that China is not alone in this "cute censorship mascots" technique. https://commons.wikimedia.org/wiki/File:Qatar_filtering_message._Qtel_network.jpg[Source].
 image::{china-dictatorship-media-base}/Qatar_web_censorship_page.jpg[height=600]
@@ -12070,6 +12066,16 @@ ____
 "It’s a backdoor with phone functionality," quips Gabi Cirlig about his new Xiaomi phone. He's only half-joking.
 ____
 
+[[netease]]
+=== Netease (网易)
+
+* https://en.wikipedia.org/wiki/NetEase
+* https://zh.wikipedia.org/wiki/网易
+
+Website: https://www.163.com/
+
+Operates some MMORPGs in China. According to Wikipedia: "The company also owns several pig farms." That's the most amazing thing <<ciro-santilli>> has ever heard.
+
 == Chinese censorship companies
 
 [[dahua-technology]]
@@ -12145,6 +12151,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2021-04-16 https://manti.netease.com/ from <<netease>> to https://cirosantilli.com/china-dictatorship can't find any information on it.
 * 2021-03-23 https://my.cscglobal.com/ to cirosantilli.com/china-dictatorship another compliance company, previous https://cms.securimate.com hits come to mind. China related articles:
 ** https://www.businesswire.com/news/home/20200728005641/en/CSC-Becomes-First-Foreign-Owned-Company-to-Receive-Domain-Registrar-License-in-China this company has some serious weight with Chinese regulators!
 ** https://www.cscglobal.com/service/webinar/china-web-policies/ talks mostly about ICP licenses
