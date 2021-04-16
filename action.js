@@ -47,7 +47,7 @@ try {
     owner: 'cirosantilli',
     repo: github.context.payload.repository.name,
     issue_number: github.context.payload.pull_request.number,
-    body: full_images.join('\n\n');
+    body: full_images.join('\n\n'),
   });
 } catch (error) {
   core.setFailed(error.message);
