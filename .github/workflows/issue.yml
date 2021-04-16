@@ -16,5 +16,8 @@ jobs:
         uses: actions/checkout@v2
       - run: npm install
       - run: ls "${{ github.workspace }}"
-      - run: "${{ github.workspace }}/action.js"
+      - name: Main work
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: "${{ github.workspace }}/action.js"
       - run: echo "job.status ${{ job.status }}."

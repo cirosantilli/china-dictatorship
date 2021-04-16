@@ -57,12 +57,12 @@ for (const image of images) {
 
 console.log(github.context);
 //const token = core.getInput("token");
-const pull_request_number = 237;
+const pull_request_number = ;
 const octokit = new github.getOctokit(process.env.GITHUB_TOKEN);
 const new_comment = octokit.issues.createComment({
   owner: 'cirosantilli',
-  repo: 'china-dictatorship',
-  issue_number: pull_request_number,
+  repo: context.payload.repository.name,
+  issue_number: context.payload.pull_request.number,
   body: 'asdf'
 });
 
