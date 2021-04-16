@@ -45,9 +45,9 @@ for (const image of images) {
 
 // Prepare reply body.
 const payload = github.context.payload;
-const input = payload.issue.title + '\n\n' + payload.issue.body;
+const titleAndBody = payload.issue.title + '\n\n' + payload.issue.body;
 const quoteArray = [];
-for (const line of input.split('\n')) {
+for (const line of titleAndBody.split('\n')) {
   // Remove some speical chars to remove at mention spam possibilities.
   quoteArray.push('> ' + line.replace(/[@#]/g, ""));
 }
@@ -58,6 +58,16 @@ ${quoteArray.join('\n')}
 ${full_images.join('\n\n')}
 `;
 
+const newLabels = [];
+const existingLabels = payload.issue.labels.map(label => label.name);
+console.log(existingLabels);
+if (/傻逼/i.test(titleAndBody)) {
+  newLabels.push('you-are-stupid-argument');
+}
+if (newLabels.length > 0) {
+  newLabels.push('shitpost');
+}
+
 try {
   console.log(github.context);
   const octokit = new github.getOctokit(process.env.GITHUB_TOKEN);
@@ -66,6 +76,12 @@ try {
     repo: payload.repository.name,
     issue_number: payload.issue.number,
     body: replyBody,
+  });
+  await octokit.issues.update({
+    owner: 'cirosantilli',
+    repo: payload.repository.name,
+    issue_number: payload.issue.number,
+    labels: newLabels
   });
 } catch (error) {
   core.setFailed(error.message);
