@@ -22,6 +22,8 @@ function getRandom(arr, n) {
 }
 
 (async () => {
+
+// Get images.
 let imageRe = /^image::{china-dictatorship-media-base}\/([^/[]+)/;
 let images = [];
 const fileStream = fs.createReadStream('README.adoc');
@@ -35,19 +37,35 @@ for await (const line of rl) {
     images.push(match[1]);
   }
 }
-images = getRandom(images, 10);
+images = getRandom(images, 20);
 full_images = []
 for (const image of images) {
   full_images.push(`<img src="https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/${image}" width="600">`);
 }
+
+// Prepare reply body.
+const payload = github.context.payload;
+const input = payload.issue.title + '\n\n' + payload.issue.body;
+const quoteArray = [];
+for (const line of input.split('\n')) {
+  // Remove some speical chars to remove at mention spam possibilities.
+  quoteArray.push('> ' + line.replace(/[@#]/g, ""));
+}
+const replyBody = `Hi ${github.context.payload.issue.user.login},
+
+${quoteArray.join('\n')}
+
+${full_images.join('\n\n')}
+`;
+
 try {
   console.log(github.context);
   const octokit = new github.getOctokit(process.env.GITHUB_TOKEN);
   const new_comment = octokit.issues.createComment({
     owner: 'cirosantilli',
-    repo: github.context.payload.repository.name,
-    issue_number: github.context.payload.issue.number,
-    body: full_images.join('\n\n'),
+    repo: payload.repository.name,
+    issue_number: payload.issue.number,
+    body: replyBody,
   });
 } catch (error) {
   core.setFailed(error.message);
