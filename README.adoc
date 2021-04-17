@@ -2175,6 +2175,9 @@ See also:
 .https://en.wikipedia.org/wiki/Signe_Wilkinson[Signe Wilkinson] 2017 Free Speech "Can you just move it so it doesn't cover them?" umbrella cartoon. Ciro once saw a <<wumao>> post this. It made him smile. If the cartoon were about <<dictatorship,dictatorships>>, https://en.wikipedia.org/wiki/Uncle_Sam[Uncle Sam] would be instead <<intolerance,decapitating and raping the people on one half of the umbrella>>. Of course humans are <<flg-intolerance,shit in democracies as well>>, but at least that system makes it harder for them to oppress each other. http://www.cartoonistgroup.com/store/add.php?iid=161799[Source].
 image::{china-dictatorship-media-base}/Free_speech_umbrella.jpg[height=400]
 
+.At https://github.com/cirosantilli/china-dictatorship/issues/260 a <<wumao>> posted this image of <<amnesty-international>> protesters outside the American embassy in London in September 2008 protesting against the Guantanamo Bay camps. The wumao used this to criticize Guantanamo bay, saying that it was like <<xinjiang-re-education-camps>> but in the USA, apparently unaware that this was a protest. But it actually does the exact opposite: because there is no <<censorship>>, here people in the West can together to denounce something they don't like. Imagine if a crowd of 100 people in China got together to denounce the Xinjiang camps! They'd go to jail immediately. Furthermore as Ciro repeated a million times: Guantanamo bay detainees are not American citizens, and democracies cannot fully protect people who can't vote. In China however, no one can vote, so everyone can be oppressed. https://kids.britannica.com/students/assembly/view/171145[Source].
+image::{china-dictatorship-media-base}/Guantanamo_bay_protest_London_2008.jpg[height=600]
+
 ===== The West is racist against black people
 
 Notably mentioning:
@@ -3666,7 +3669,7 @@ News:
 ** <<cgtn>> article in French: https://archive.is/USZ45[] by "Laurene Beaumond". The article was updated a day later: this time they remembered to say that Laurene Beaumond is a pseudonym. Article URL: https://francais.cgtn.com/n/BfJEA-cA-HAA/DcCEIA/index.html
 ** original investigation by Le Monde: https://www.lemonde.fr/international/article/2021/03/31/quand-la-television-chinoise-cgtn-invente-une-journaliste-francaise_6075155_3210.html
 ** commentary https://www.theguardian.com/world/2021/apr/01/china-butchers-aesop-fable-in-latest-act-of-wolf-warrior-diplomacy
-* 2021-03-20 https://www.amnesty.org/en/latest/research/2021/03/the-nightmare-of-uyghur-families-separated-by-repression/ "The nightmare of Uyghur families separated by repression"
+* 2021-03-20 https://www.amnesty.org/en/latest/research/2021/03/the-nightmare-of-uyghur-families-separated-by-repression/ "The nightmare of Uyghur families separated by repression" on <<amnesty-international>>
 +
 ____
 Although it is often extremely difficult, if not impossible, for Uyghurs overseas to receive information about the whereabouts of their family members, some parents have received bits and pieces of information in the form of coded words, or photos and videos, from relatives and friends that make them believe their children were taken to state-run “orphan camps” or boarding schools.
@@ -8435,7 +8438,7 @@ Cheesy! +
 ____
 
 [[little-pink-american-dream-vs-chinese-dream]]
-.https://www.youtube.com/watch?v=MilRo8zZM8A (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub upload]) 小粉红谈中国梦与美国梦的区别 (<<little-pink>> explains the difference between the <<american-dream>> and the <<chinese-dream>>). Also <<twitter,tweeted>> by <<rfa>> at: https://twitter.com/RFA_Chinese/status/1381531661804826627 The <<seal>> on top left reads: "进击老冯" TODO what is that? Source without subtitles: https://www.youtube.com/watch?v=iw8TfbsNfNI[]. TODO original source.
+.https://www.youtube.com/watch?v=MilRo8zZM8A (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub upload]) 小粉红谈中国梦与美国梦的区别 (<<little-pink>> explains the difference between the <<american-dream>> and the <<chinese-dream>>). Also <<twitter,tweeted>> by <<rfa>> at: https://twitter.com/RFA_Chinese/status/1381531661804826627 The <<seal>> on top left reads: "进击老冯" TODO what is that? Source without subtitles: https://www.youtube.com/watch?v=iw8TfbsNfNI[]. Ciro also reposted it at: https://www.reddit.com/r/China/comments/msnixt/nationalistic_chinese_girl_compares_the_chinese/ on <<reddit>>. TODO original source.
 video::MilRo8zZM8A[youtube,height=400,width=600]
 
 [[dream-of-the-red-chamber]]
@@ -10167,6 +10170,16 @@ video::MCxzMYVvHBg[youtube,height=400,width=600,start=227]
 https://en.wikipedia.org/wiki/Jamestown_Foundation
 
 ==== Anti-CCP media
+
+[[amnesty-international]]
+===== Amnesty International (国际特赦组织)
+
+* https://en.wikipedia.org/wiki/Amnesty_International
+* https://zh.wikipedia.org/wiki/國際特赦組織
+
+Website:
+
+* https://www.amnesty.org/en/
 
 [[bitter-winter]]
 ===== Bitter Winter (寒冬)
