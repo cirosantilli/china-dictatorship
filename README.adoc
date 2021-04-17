@@ -498,7 +498,7 @@ Ciro noticed that thoe repos attracted an incredible ammount of <<wumao>> on the
 * https://github.com/zhaohmng/-21-/commit/0cc2b2a546ad51fb360ba800c67b057ea3270869#commitcomment-47495235
 * https://github.com/zaohmeing/21-/commit/42de05338193f39981b1a820873a990c959fd6ec#commitcomment-47392119
 
-https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665 "为什么这个屎一样的东西会出现在我个人主页左侧的repositories中，那里不是应该只有自己的项目才会出现吗？有办法屏蔽它吗？还是github故意的？" explains why so many people come comment in the repository: it is because it appears on the "Explore repositories" repository suggestions which show on the side bar of your GitHub homepage, and on searches. This was also mentioned at: 
+https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665 "为什么这个屎一样的东西会出现在我个人主页左侧的repositories中，那里不是应该只有自己的项目才会出现吗？有办法屏蔽它吗？还是github故意的？" explains why so many people come comment in the repository: it is because it appears on the "Explore repositories" repository suggestions which show on the side bar of your GitHub homepage, and on searches. This was also mentioned at: https://github.com/cirosantilli/china-dictatorship/issues/201 originally titled " 一搜索中文就跑出这屌鬼玩意，爱玩政治去竞选总统啊，笨，死扑街". Ciro feels that that Chinese people might use GitHub search much more than Western people because their search engines are shit due to <<censorship>>, <<censorship-makes-countries-poorer>> comes vibrantly to mind.
 
 After further inspection, taught understood that repository descriptions given to GitHub can be really huge for SEO: they had pasted the entire 21st century text there. So Ciro attempted the same approach, and pasted all of link:21century.md[], link:wang-huning-three-dynasties.adoc[] and link:fifth-modernization.md[] in there on 2021-03-23, and the effect was dramatic: an immediate 4x more views on the following day according to https://github.com/cirosantilli/china-dictatorship/graphs/traffic[] (40 unique visitors to 100 on a Wednesday), and a few wumao comments. And a wumao soon confirmed that it was working directly: https://github.com/cirosantilli/china-dictatorship/issues/201[]. This can be automated with: link:description.sh[].
 
@@ -1214,6 +1214,10 @@ Related:
 * https://github.com/formulahendry/955.WLB a whitelist version of 996 ICU. Good thoughts.
 
 Other interesting GitHub repositories: <<github-repositories-with-censored-information>>.
+
+Other notable labour rights cases:
+
+* Mengzhu TODO chinese name 2021: https://www.npr.org/2021/04/13/984994360/he-tried-to-organize-workers-in-chinas-gig-economy-now-he-faces-5-years-in-jail
 
 .996.ICU logo. https://github.com/996icu[Source].
 image::{china-dictatorship-media-base}/996ICU.png[height=400]

@@ -53,7 +53,7 @@ for (const line of titleAndBody.split('\n')) {
 }
 const replyBody = `Hi ${github.context.payload.issue.user.login},
 
-${quoteArray.join('\n')}
+${quoteArray.join('\n').substring(0,40000)}
 
 ${full_images.join('\n\n')}
 `;
