@@ -2175,17 +2175,26 @@ See also:
 .https://en.wikipedia.org/wiki/Signe_Wilkinson[Signe Wilkinson] 2017 Free Speech "Can you just move it so it doesn't cover them?" umbrella cartoon. Ciro once saw a <<wumao>> post this. It made him smile. If the cartoon were about <<dictatorship,dictatorships>>, https://en.wikipedia.org/wiki/Uncle_Sam[Uncle Sam] would be instead <<intolerance,decapitating and raping the people on one half of the umbrella>>. Of course humans are <<flg-intolerance,shit in democracies as well>>, but at least that system makes it harder for them to oppress each other. http://www.cartoonistgroup.com/store/add.php?iid=161799[Source].
 image::{china-dictatorship-media-base}/Free_speech_umbrella.jpg[height=400]
 
-.At https://github.com/cirosantilli/china-dictatorship/issues/260 a <<wumao>> posted this image of <<amnesty-international>> protesters outside the American embassy in London in September 2008 protesting against the Guantanamo Bay camps. The wumao used this to criticize Guantanamo bay, saying that it was like <<xinjiang-re-education-camps>> but in the USA, apparently unaware that this was a protest. But it actually does the exact opposite: because there is no <<censorship>>, here people in the West can together to denounce something they don't like. Imagine if a crowd of 100 people in China got together to denounce the Xinjiang camps! They'd go to jail immediately. Furthermore as Ciro repeated a million times: Guantanamo bay detainees are not American citizens, and democracies cannot fully protect people who can't vote. In China however, no one can vote, so everyone can be oppressed. https://kids.britannica.com/students/assembly/view/171145[Source].
+.At https://github.com/cirosantilli/china-dictatorship/issues/260 ((https://archive.ph/mtZeM[archive])a <<wumao>> posted this image of <<amnesty-international>> protesters outside the American embassy in London in September 2008 protesting against the Guantanamo Bay camps. The wumao used this to criticize Guantanamo bay, saying that it was like <<xinjiang-re-education-camps>> but in the USA, apparently unaware that this was a staged protest. So it actually has the exact opposite effect than intended: because there is no <<censorship>>, here people in the West can together to denounce something they don't like. Imagine if a crowd of 100 people in China got together to denounce the Xinjiang camps! They'd go to jail immediately. Furthermore as Ciro repeated a million times: Guantanamo bay detainees are not American citizens, and democracies cannot fully protect people who can't vote. In China however, no one can vote, so everyone can be oppressed. https://kids.britannica.com/students/assembly/view/171145[Source].
 image::{china-dictatorship-media-base}/Guantanamo_bay_protest_London_2008.jpg[height=600]
 
-===== The West is racist against black people
+[[the-west-is-racist-against-black-people]]
+===== The West is racist against black people (西方人对黑人有种族主义)
 
-Notably mentioning:
+* https://en.wikipedia.org/wiki/Racism_in_the_United_States
+* https://zh.wikipedia.org/wiki/美国种族主义
+
+Label: https://github.com/cirosantilli/china-dictatorship/issues?q=is%3Aissue+is%3Aopen+label%3Aracist-west[racist-west]
+
+<<wumao,wumaos>> notably mention:
 
 * https://en.wikipedia.org/wiki/Killing_of_George_Floyd[George Floyd]
 * https://zh.wikipedia.org/wiki/乔治·弗洛伊德之死[乔治·弗洛伊德之死]
 
-The murder video went viral and was not taken down (would have been in China), all four officers were charged, and the event sparked nation wide protests
+The murder video went viral and was not taken down (would have been in China), all four officers were charged, and the event sparked nation wide protests:
+
+* https://en.wikipedia.org/wiki/Black_Lives_Matter
+* https://zh.wikipedia.org/wiki/Black_Lives_Matter (黑人的命也是命)
 
 Of course there is racism in the West. And we must recognize that, and fight it.
 
@@ -2193,7 +2202,7 @@ But Ciro feels strongly that the Chinese are also obviously at least as racist a
 
 * https://www.theguardian.com/commentisfree/2020/apr/25/coronavirus-exposed-china-history-racism-africans-guangzhou
 
-Wumao example: https://web.archive.org/web/20200618071130/https://github.com/cirosantilli/china-dictatorship/issues/112#issuecomment-645716105
+Oh, and the USA, and other Western countries besides Germany, were also racist against Jews, e.g. https://en.wikipedia.org/wiki/Richard_Feynman[Richard Feynman] could not be admitted in certain universities due to a https://en.wikipedia.org/wiki/Jewish_quota[Jewish quota], even though he was not a believer himself, therefore based on race alone!
 
 [[don-t-hire-blacks]]
 .https://www.youtube.com/watch?v=d81mEbL8Yw8 Don't Hire Blacks - A Corporate Exposé of Racist Companies | The Chinese Tea | Chinese T | CCP | CPC by <<aaron-dewitt,The Chinese Tea>> (21-09-2020)
@@ -2506,6 +2515,12 @@ China's problem is not its politicians.
 It's the current shitty political organization, which allows/convinces those politicians to do really bad things: <<richer>>, <<war>> and <<corruption>>.
 
 Western politicians don't care about the people either: <<western-society-is-extremely-unequal>>. But at least they have to pretend a little.
+
+By John Kenneth Galbraith, possibly based on an earlier <<soviet-union>> joke https://www.snopes.com/fact-check/ocasio-cortez-capitalism-quote/[]:
+
+____
+Under capitalism, man oppresses man. Under socialism, it's just the opposite.
+____
 
 ==== Is Chinese politician X evil?
 
@@ -4742,6 +4757,11 @@ Meme images, however, cross the language barrier beautifully. It is even better 
 Because the <<censorship,CCP censors politics>>, and the West does not, we can never "lose" a shitargument. Even if the <<wumao>> supports his country in a thread, just being in the same thread as the censored material could already be problematic for the wumao, as it is proof that they've seen something they should not have seen.
 
 Therefore the only option for them is to run away.
+
+Ciro has since then created a reply bot based on <<github>> Actions that does the above automatically, therefore handling 99% of the work, see:
+
+* link:action.js[]
+* link:.github/workflows/issue.yml[]
 
 Finally, also try to extract the email of the user from one of their repositories. When sucessful, Ciro takes a <<wayback-machine>> snapshot of the repository as proof of SHA, and then forks it to https://github.com/cirosantilli-test-org to keep the email safe in case of account deletion. You never know when this information might be useful.
 
@@ -7229,7 +7249,7 @@ Branch Davidians were inspired by <<christianity>>. So should we ban Christianit
 * if we ask for FLG believers to compile a list of horrors they have suffered, which they have already been doing since the start of the persecution, I bet that their list will be much longer than yours, because they are so <<flg-organized,well organized>>
 
 [[flg-persecution]]
-=== FLG does not have proof of their persecution claims
+=== Falun Gong does not have proof of their persecution claims
 
 How much proof do you think they would be able to get when there is no freedom of the press?
 
@@ -7238,6 +7258,23 @@ Do you think that forbidding a <<flg-important,70 million>> person religion coul
 Do you think the thousands of personal accounts of human rights violations that exist are all fake, and don't indicate that many, many more have taken place but fallen under censorship?
 
 Conversely, there is no reliable proof that FLG is bad as claimed by CCP that has been verified by international media.
+
+[[sun-yi-falun-gong]]
+==== Sun Yi (孙毅, 2008)
+
+Documentary about him, TODO are the producers Falun Gong believers?
+
+* https://en.wikipedia.org/wiki/Letter_from_Masanjia
+* https://zh.wikipedia.org/wiki/求救信
+
+Masanjia re-education through labor camp where he was kept:
+
+* https://en.wikipedia.org/wiki/Masanjia_re-education_through_labor_camp
+* https://zh.wikipedia.org/wiki/馬三家女子勞教所 TODO the Chinese page says female-only, weird
+
+Coverage:
+
+* https://www.bbc.co.uk/news/stories-45976946 "The SOS in my Halloween decorations"
 
 [[thoughtcrime]]
 === Someone from movement X did something bad, therefore the movement should be banned
@@ -8391,7 +8428,7 @@ Chinese version of the <<american-dream>>, which <<xi-jinping>> insists is compl
 
 The names suggest, they are not real, but just dreams.
 
-Transcript for <<little-pink-american-dream-vs-chinese-dream>>:
+Transcript for <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream  and the Chinese dream>>:
 
 ____
 美国梦是个人发财的梦 +
@@ -8438,7 +8475,7 @@ Cheesy! +
 ____
 
 [[little-pink-american-dream-vs-chinese-dream]]
-.https://www.youtube.com/watch?v=MilRo8zZM8A (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub upload]) 小粉红谈中国梦与美国梦的区别 (<<little-pink>> explains the difference between the <<american-dream>> and the <<chinese-dream>>). Also <<twitter,tweeted>> by <<rfa>> at: https://twitter.com/RFA_Chinese/status/1381531661804826627 The <<seal>> on top left reads: "进击老冯" TODO what is that? Source without subtitles: https://www.youtube.com/watch?v=iw8TfbsNfNI[]. Ciro also reposted it at: https://www.reddit.com/r/China/comments/msnixt/nationalistic_chinese_girl_compares_the_chinese/ on <<reddit>>. TODO original source.
+.https://www.youtube.com/watch?v=MilRo8zZM8A (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub upload]) 小粉红谈中国梦与美国梦的区别 (<<little-pink>> explains the difference between the <<american-dream>> and the <<chinese-dream>>). Also <<twitter,tweeted>> by <<rfa>> at: https://twitter.com/RFA_Chinese/status/1381531661804826627 The <<seal>> on top left reads: "进击老冯" TODO what is that? Source without subtitles: https://www.youtube.com/watch?v=iw8TfbsNfNI[]. Ciro also reposted it at: https://www.reddit.com/r/China/comments/msnixt/nationalistic_chinese_girl_compares_the_chinese/ on <<reddit>>. TODO try to identify it by logo of the microphone, looks something like "华浦TV" but not sure. TODO original source.
 video::MilRo8zZM8A[youtube,height=400,width=600]
 
 [[dream-of-the-red-chamber]]
@@ -9307,9 +9344,11 @@ TODO funding.
 
 Based on Washington DC.
 
-===== Front Line Defenders
+[[front-line-defenders]]
+===== Front Line Defenders (前线卫士)
 
 * https://en.wikipedia.org/wiki/Front_Line_Defenders
+* https://zh.wikipedia.org/wiki/前線衛士
 
 Website: https://www.frontlinedefenders.org/en/location/china
 
@@ -10745,7 +10784,7 @@ image::{china-dictatorship-media-base}/Falun_Gong_road_roller_book_destruction.j
 
 ==== China has more freedom of speech than the USA!
 
-When you hear that online, it really makes you wonder if those people believe it or are paid to say it.
+When you hear that online, it really makes you wonder if those people believe it or are <<wumao,paid to say it>>.
 
 Luckily, this is easy to verify: just create an online account on a Chinese website, and start posting about censored political subjects, and wait for your account to get banned.
 
@@ -10754,6 +10793,8 @@ Then create an account on an American website, and start posting about censored 
 Here is one concrete and well documented example: <<zhihu-purge>>.
 
 Or maybe why not <<t-shirt,go out on the street in China with a T-shirt with censored words and share some photos online>>?
+
+Another option is to point them to the political report categories of the <<cac-report-website>>.
 
 [[video-bbc-local-election-interview-block-2016]]
 .https://www.youtube.com/watch?v=c1HdCIW2Xtk 2016-10-18 BBC reporter stopped from visiting China local election independent candidate Liu Huizhen (刘惠珍) by local thugs who block him physically from nocking the door. Funny/scary stuff. The BBC returned a few days later when the thugs weren't there: https://www.youtube.com/watch?v=eroTCMRn2yQ[]. Accompaging article: https://www.bbc.co.uk/news/world-asia-china-37997706[] "China elections: Independent candidates fight for the ballot".
@@ -11294,7 +11335,7 @@ This is where the Internet censors work.
 [[cac-report-website]]
 ====== CAC report website (中央网信办举报网站)
 
-Summary:
+These are official Chinese government websites that can be used to report cybercrime, including fraud and identity theft, but also political <<thoughtcrime,thoughcrime>>:
 
 * http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm
 * https://www.12321.cn
@@ -11344,6 +11385,12 @@ Other report websites:
 
 * https://www.12339.gov.cn/ spy report website, see also: <<ministry-of-state-security>>
 * <<hong-kong-national-security-department-hotline>>
+
+.https://www.12321.cn[] procedure to report political content as of April 2021.
+image::{china-dictatorship-media-base}/12321_report_procedure_april_2021.png[height=1948]
+
+.https://www.12377.cn[] procedure to report political content as of April 2021.
+image::{china-dictatorship-media-base}/12377_report_procedure_april_2021.png[height=5099]
 
 [[wumao]]
 ==== Wumao (五毛)
@@ -13327,6 +13374,16 @@ This is a good approach to tick off high frequency stuff you don't know you don'
 ** https://web.archive.org/web/20180211123634/http://www.hskhsk.com/word-lists.html go in the "(frequency order)" links
 * Official character lists learned by native Chinese students per age group. TODO find exact lists.
 ** https://chinese.stackexchange.com/questions/6000/how-many-characters-do-chinese-pupils-know-at-different-ages
+
+== Geography of China
+
+=== Provinces of China
+
+[[liaoning]]
+==== Liaoning (辽宁省)
+
+* https://en.wikipedia.org/wiki/Liaoning
+* https://zh.wikipedia.org/wiki/辽宁省
 
 == Chinese cheat
 
