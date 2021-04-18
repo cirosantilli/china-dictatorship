@@ -6147,6 +6147,9 @@ image::{china-dictatorship-media-base}/Malchenko.jpg[height=500]
 .Same as above, but with Alexander Malchenko edited out. link:++https://en.wikipedia.org/wiki/File:St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg++[Source].
 image::{china-dictatorship-media-base}/No_Malchenko.jpg[height=500]
 
+.The images above side-by-side.
+image::{china-dictatorship-media-base}/Malchenko_no_Malchenko.jpg[height=500]
+
 ===== Soviet Union radio jamming stations
 
 https://en.wikipedia.org/wiki/Radio_in_the_Soviet_Union#Radio_jamming
