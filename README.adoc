@@ -679,7 +679,7 @@ Don't you see that this is just pure and simple politics? And likely ineffective
 Related:
 
 * <<young-pioneers-of-china>>
-* <<little-pink-american-dream-vs-chinese-dream>>
+* <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream  and the Chinese dream>>
 
 [[keyword-attack]]
 ==== Screen name keyword attack
@@ -4827,10 +4827,10 @@ which means to talk to someone who does not have intellectual conditions of unde
 More <<wumao,wumao>> focused strategies at: <<how-to-deal-with-wumaos>>.
 
 .https://knowyourmeme.com/memes/its-super-effective[It's Super Effective!] meme by <<ciro-santilli>> describing how he deals with <<wumao,wumaos>> and <<little-pink,little pinks>>. Humour is the greatest weapon against dictators, and images help cross the language barrier. Composition CC BY-SA 2021, fair use on copyrighted individual elements.
-image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective.png[width=600]
+image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective.png[height=2760]
 
 .Chinese translation of the above.
-image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective_zh.png[width=600]
+image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective_zh.png[height=2760]
 
 .Cartoon depiction of the https://en.wikipedia.org/wiki/Chengyu[chengyu] "Playing the <<music,qin>> to a cow" 《对牛弹琴》. https://zhidao.baidu.com/question/438181067.html[Source].
 image::{china-dictatorship-media-base}/Play_qin_to_cow.png[height=600]
@@ -6737,7 +6737,8 @@ For example, People from <<ciro-santilli>>'s mother's Protestant Church in Brazi
 
 And obviously, the origin of the word "cult" is exactly the same as that of https://en.wiktionary.org/wiki/cultivate#Etymology["cultivate"] as in "cultivate the crops" (which is also how Falun Gong believers refer to practicing Falun Gong: "cultivation practice"). All of those come from the https://en.wiktionary.org/wiki/cult#Etymology[Latin "colō"], which means simply "to protect".
 
-===== CCP cult
+[[ccp-cult]]
+===== CCP cult (中共邪教)
 
 The CCP also has many cult-like characteristics, notably <<xi-jinping,"The Guru is always right">>, which is mentioned on <<orange-papers>> itself under "The Guru is always right." (highlight by <<ciro-santilli,Ciro>>):
 
@@ -6763,6 +6764,8 @@ Both Mao and Xi have produced their own sacred books which must be revered, much
 Furthermore, both of those books are based on speeches, just like just like Li Hongzhi's speeches become instant canon.
 
 This devotion can also be seen in Xi's benevolent personification: <<xi-dada>>.
+
+This is also observed by <<falun-gong>> itself as a response to the CCP <<flg-cult,accusing Falun Gong of being an Evil Cult>>. E.g.: https://www.ntdtv.com/gb/2019/07/01/a102612683.html from <<ntdtv>>, and Falun Gong is completely right here.
 
 See also:
 
@@ -8475,7 +8478,7 @@ Cheesy! +
 ____
 
 [[little-pink-american-dream-vs-chinese-dream]]
-.https://www.youtube.com/watch?v=MilRo8zZM8A (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub upload]) 小粉红谈中国梦与美国梦的区别 (<<little-pink>> explains the difference between the <<american-dream>> and the <<chinese-dream>>). Also <<twitter,tweeted>> by <<rfa>> at: https://twitter.com/RFA_Chinese/status/1381531661804826627 The <<seal>> on top left reads: "进击老冯" TODO what is that? Source without subtitles: https://www.youtube.com/watch?v=iw8TfbsNfNI[]. Ciro also reposted it at: https://www.reddit.com/r/China/comments/msnixt/nationalistic_chinese_girl_compares_the_chinese/ on <<reddit>>. TODO try to identify it by logo of the microphone, looks something like "华浦TV" but not sure. TODO original source.
+.https://www.youtube.com/watch?v=MilRo8zZM8A (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub upload]) 小粉红谈中国梦与美国梦的区别 (<<little-pink>> explains the difference between the <<american-dream>> and the <<chinese-dream>>). Also <<twitter,tweeted>> by <<rfa>> at: https://twitter.com/RFA_Chinese/status/1381531661804826627 The <<seal>> on top left reads: "进击老冯" TODO what is that? Source without subtitles: https://www.youtube.com/watch?v=iw8TfbsNfNI[]. Ciro also reposted it at: https://www.reddit.com/r/China/comments/msnixt/nationalistic_chinese_girl_compares_the_chinese/ on <<reddit>>. TODO try to identify it by logo of the microphone, looks something like "华浦TV" but not sure. TODO identify background music. TODO original source.
 video::MilRo8zZM8A[youtube,height=400,width=600]
 
 [[dream-of-the-red-chamber]]
@@ -9930,7 +9933,7 @@ Operates for example: https://en.wikipedia.org/wiki/WCRW which is mentioned at: 
 
 These might be independent, but they are clearly pro CCP and thus cannot be trusted:
 
-* https://kknews.cc/ refers to <<falun-gong>> as an "Evil Cult" (反邪教) https://kknews.cc/zh-mo/entertainment/lj4y9yb.html (http://archive.is/osBDv[archive])
+* https://kknews.cc/ refers to <<falun-gong>> as an "Evil Cult" (邪教) https://kknews.cc/zh-mo/entertainment/lj4y9yb.html (http://archive.is/osBDv[archive])
 * http://facts.org.cn/ anti-religion website in English, basically an English <<kaiwind>>
 
 [[guancha]]
@@ -11480,7 +11483,7 @@ image::{china-dictatorship-media-base}/Wujiao.png[height=400]
 * https://en.wikipedia.org/wiki/Little_Pink
 * https://zh.wikipedia.org/wiki/小粉紅
 
-<<slang,Slang>> name for <<stupid,brainwashed>> <<ccp,CCP>> supporters who are not necessarily paid professional <<wumao,wumaos>>, notably young, idealistic and enthusiastic ones, <<little-pink-american-dream-vs-chinese-dream>> contains a prototypical video example.
+<<slang,Slang>> name for <<stupid,brainwashed>> <<ccp,CCP>> supporters who are not necessarily paid professional <<wumao,wumaos>>, notably young, idealistic and enthusiastic ones, <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream  and the Chinese dream>> contains a prototypical video example.
 
 Bibliography:
 

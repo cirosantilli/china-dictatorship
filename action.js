@@ -40,7 +40,8 @@ for await (const line of rl) {
 images = getRandom(images, 20);
 full_images = []
 for (const image of images) {
-  full_images.push(`<img src="https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/${image}" width="600">`);
+  const url = `https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/${image}`;
+  full_images.push(`[<img src="${url}" width="600">](${url})`);
 }
 
 // Prepare reply body.
