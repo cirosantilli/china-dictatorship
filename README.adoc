@@ -2580,7 +2580,7 @@ image::{china-dictatorship-media-base}/Nazi_war_flag.png[height=400]
 .Hitler has of course a few raised fists on Google Images, but they tend to be more aggressive, and less compatible with Xi's apathic poker face. https://bodylanguageproject.com/xarticles/wp-content/uploads/2019/07/Hitler-4.jpg[Source].
 image::{china-dictatorship-media-base}/Hitler_angry_rehearsal.jpg[height=400]
 
-.Photoshopped cover of Mein Kampf with Xi's face on top of Hitler's and other modifications such as Mian instead of Mein, likely the same 面 (mian4, face) as the Chinese character at the bottom right. https://foreignerinformosa.typepad.com/the_foreigner_in_formosa/2017/07/president-xitler-of-china-murders-political-dissident-liu-xiaobo.html[Source].
+.Photoshopped cover of Mein Kampf with Xi's face on top of Hitler's and other modifications such as Mian instead of Mein, likely the same 面 (mian4, face) as the Chinese character at the bottom right. <<xi-jinping-thought>> also comes to mind. https://foreignerinformosa.typepad.com/the_foreigner_in_formosa/2017/07/president-xitler-of-china-murders-political-dissident-liu-xiaobo.html[Source].
 image::{china-dictatorship-media-base}/Xi_mein_kampf.jpg[height=400]
 
 .Original cover of Mein Kampf. link:++https://commons.wikimedia.org/wiki/File:Adolf_Hitler_-_Mein_Kampf_(855._Auflage,_1943).pdf++[Source].
@@ -5717,13 +5717,21 @@ image::{china-dictatorship-media-base}/Qing_Dinasty_gay_foreplay.jpg[height=400]
 
 * https://en.wikipedia.org/wiki/Me_Too_movement#China
 
+Label: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ametoo+[metoo].
+
 They seem to have had difficulty in expressing themselves due to <<censorship>>, unsurprisingly.
 
 * Zhou Xiaoxuan v. TV anchor Zhu Jun
 * Liu Jingyao v. billionaire Liu Qiangdong
 * Zou Sicong and He Qian v. Deng Fei
 
-https://github.com/sikaozhe1997/Xin-Yue on <<github-repositories-with-censored-information>> is an open letter by student activist https://en.wikipedia.org/wiki/Yue_Xin_(activist)[Yue Xin] (https://zh.wikipedia.org/wiki/岳昕[岳昕]) about the events described at https://web.archive.org/web/20200104064812/https://www.nytimes.com/2018/04/09/world/asia/china-metoo-gao-yan.html["China's #MeToo: How a 20-Year-Old Rape Case Became a Rallying Cry"] she accuses professor Shen Yang of the Peking University Chinese literature of raping student Gao Yan, ultimately leading to her suicide in 1998:
+https://github.com/sikaozhe1997/Xin-Yue on <<github-repositories-with-censored-information>> is an open letter by student activist:
+
+* https://en.wikipedia.org/wiki/Yue_Xin_(activist)[Yue Xin]
+* https://zh.wikipedia.org/wiki/岳昕[岳昕])
+* https://www.nchrd.org/2019/01/yue-xin on <<chinese-human-rights-defenders>>
+
+about the events described at https://web.archive.org/web/20200104064812/https://www.nytimes.com/2018/04/09/world/asia/china-metoo-gao-yan.html["China's #MeToo: How a 20-Year-Old Rape Case Became a Rallying Cry"] she accuses professor Shen Yang of the Peking University Chinese literature of raping student Gao Yan, ultimately leading to her suicide in 1998:
 
 * https://sikaozhe1997.github.io/Xin-Yue/#/岳昕：致北京大学师生和北大外国语学院的一封公开信.md Chinese original
 * https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md in-tree translation "Yue Xin: An open letter to the students and academic staff of Peking University and the PKU School of Foreign Languages"
@@ -6148,7 +6156,7 @@ image::{china-dictatorship-media-base}/Malchenko.jpg[height=500]
 image::{china-dictatorship-media-base}/No_Malchenko.jpg[height=500]
 
 .The images above side-by-side.
-image::{china-dictatorship-media-base}/Malchenko_no_Malchenko.jpg[height=500]
+image::{china-dictatorship-media-base}/Malchenko_no_Malchenko.jpg[height=1000]
 
 ===== Soviet Union radio jamming stations
 
@@ -6183,7 +6191,7 @@ video::ZT2z0nrsQ8o[youtube,height=400,width=600]
 * https://en.wikipedia.org/wiki/Mykola_Semena
 * https://uk.wikipedia.org/wiki/Семена_Микола_Михайлович
 
-Ukrainina, worked for <<rferl>> previously, and published against the annexation of Ukraina territories.
+Ukrainian, worked for <<rferl>> previously, and published against the annexation of Ukrainian territories.
 
 https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-freedom-expression suggests that one of her articles was added to the <<federal-list-of-extremist-materials>>, possibly "Blockade–the Necessary First Step for Liberation of Crimea", but I can't find the entry.
 

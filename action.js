@@ -41,7 +41,7 @@ images = getRandom(images, 20);
 full_images = []
 for (const image of images) {
   const url = `https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/${image}`;
-  full_images.push(`[<img src="${url}" width="600">](${url})`);
+  full_images.push(`<img src="${url}" width="600">`);
 }
 
 // Prepare reply body.
