@@ -16,7 +16,7 @@ Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主�
 
 This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com]. You can view it fully at https://cirosantilli.com/china-dictatorship[] or by downloading it locally as shown at: <<mirrors>>.
 
-**住在中国大陆真名用户或者用中国邮箱的网友请别给星星，不然你要被请喝茶了。先注册一个Gmail/Protonmail匿名用户才来。 Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create a Gmail/Protonmail anonymous account.** See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
+**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被请喝茶了。先注册一个Gmail/Protonmail匿名用户才来。 Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead.** See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
 
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China_photo.jpg[height=600]
 
