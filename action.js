@@ -62,11 +62,22 @@ ${full_images.join('\n\n')}
 // Label handling.
 const labels = new Set(payload.issue.labels.map(label => label.name));
 const newLabels = new Set();
-if (/傻逼/i.test(titleAndBody)) {
-  newLabels.add('you-are-stupid-argument');
+const shabiWords = [
+  '傻逼',
+  '沙雕',
+  'ShaDiao',
+];
+for (const word of shabiWords) {
+  if (new RegExp(word, 'i').test(titleAndBody)) {
+    newLabels.add('you-are-stupid-argument');
+    break;
+  }
 }
 if (/nmsl/i.test(titleAndBody)) {
   newLabels.add('your-mother-died-argument');
+}
+if (/cnm/i.test(titleAndBody)) {
+  newLabels.add('fuck-your-mother-argument');
 }
 const shitpostWords = [
   'fuck',

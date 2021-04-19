@@ -508,6 +508,8 @@ Further optimizations:
 +
 ....
 #!/usr/bin/env bash
+printf 996icu
+printf '996 icu'
 printf 学习强国
 printf 预测结果导出
 printf 赖伟林
@@ -3849,7 +3851,7 @@ video::SYhcrXYA6tM[youtube,height=400,width=600]
 
 Reports surfaced that <<xinjiang-re-education-camps>> people were being used to pick cotton, and boycotts followed.
 
-Companies that boycotted, subst of <<western-companies-that-stood-up-against-the-ccp>>:
+Companies that boycotted, subset of <<western-companies-that-stood-up-against-the-ccp>>:
 
 * 2021-03-25 https://www.bbc.co.uk/news/world-asia-china-56519411 "Nike, H&M face China fury over Xinjiang cotton 'concerns'", see also: <<xinjiang-re-education-camps>>.
 
@@ -3879,7 +3881,9 @@ Reports:
 ** https://cgpolicy.org/briefs/coercive-labor-in-xinjiang-labor-transfer-and-the-mobilization-of-ethnic-minorities-to-pick-cotton/ "Coercive Labor in Xinjiang: Labor Transfer and the Mobilization of Ethnic Minorities to Pick Cotton"
 ** https://www.bbc.co.uk/news/extra/nz0g306v8c/china-tainted-cotton "China's 'tainted' cotton"
 
-.Side-by-side comparison of black american slaves from 1908 and <<xinjiang-re-education-camps,happy Xinjiang workers>> working in cotton collection. This was posted by the verified account of Chinese government official Hua Chunying (华春莹) on Twitter: https://twitter.com/SpokespersonCHN/status/1375015592944537605[], archives: https://archive.ph/3PTiA and https://web.archive.org/web/20210326034948/https://twitter.com/SpokespersonCHN/status/1375015592944537605[]. Pure beauty. Does she have a brain? The images read: "The cotton planter and his pickers, H. Tees, West Point, Miss[ssisipy]", https://commons.wikimedia.org/wiki/File:Cotton_planter_and_pickers1908.jpg[source], and "Uighus people picking cotton in Xinjiang China".
+<<blood-cotton-initiative-wuheqilin,"Blood Cotton Initiative" by wuheqilin>> is a <<holocaust-denial>> cartoon claiming it is all lies.
+
+.Side-by-side comparison of black american slaves from 1908 and <<xinjiang-re-education-camps,happy Xinjiang workers>> working in cotton collection. This was posted by the verified account of Chinese government official Hua Chunying (华春莹) on Twitter: https://twitter.com/SpokespersonCHN/status/1375015592944537605[], archives: https://archive.ph/3PTiA and https://web.archive.org/web/20210326034948/https://twitter.com/SpokespersonCHN/status/1375015592944537605[]. Pure beauty. Does she have a brain? The images read: "The cotton planter and his pickers, H. Tees, West Point, Miss[ssisipy]", https://commons.wikimedia.org/wiki/File:Cotton_planter_and_pickers1908.jpg[source], and "Uighus people picking cotton in Xinjiang China". <<holocaust-denial>>, here we go.
 image::{china-dictatorship-media-base}/Xinjiang_cotton_vs_American_plantation_from_1908.jpg[height=400]
 
 [[other-islam-countries-speak-up-for-uyghur]]
@@ -3910,6 +3914,28 @@ ____
 
 .<<rebel-pepper>> 2019-07 cartoon showing <<xi-jinping>> claiming to have won the global opinion on the Xinjiang re-education camps because all other dictatorships support him, including <<other-islam-countries-speak-up-for-uyghur,Islamic dictatorships>>. https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source].
 image::{china-dictatorship-media-base}/Xinjiang_I_won.jpeg[height=400]
+
+[[holocaust-denial]]
+====== Holocaust denial (犹太人大屠杀否定论)
+
+* https://en.wikipedia.org/wiki/Holocaust_denial
+* https://zh.wikipedia.org/wiki/犹太人大屠杀否定论
+
+Once again, <<nazi>>.
+
+.Holocaust denial cartoon by far-right cartoonist https://en.wikipedia.org/wiki/Françoise_Pichard[Françoise Pichard] was a runner-up the <<iran,Iranian>> https://en.wikipedia.org/wiki/International_Holocaust_Cartoon_Competition[International Holocaust Cartoon Competition] of 2006, which obviously aimed at discrediting Israel. The cartoon shows two https://en.wikipedia.org/wiki/Hasidic_Judaism[Hasidic Judaism][Hasidic jews] and reads in French: "Qui l'a mis par terre? Faurisson. Myth des chambres a gaz" which can be translated as: "Who put it down? Faurisson. Myth of the gas chambers". Farisson is a reference to famous French holocaust denier https://en.wikipedia.org/wiki/Robert_Faurisson[Robert Faurisson]. The <<ccp>> is doing the same as of 2020 in <<xinjiang-re-education-camps,Xinjiang>>, e.g. through works such as <<blood-cotton-initiative-wuheqilin,"Blood Cotton Initiative" by wuheqilin>>. http://iranianhistory.pbworks.com/w/page/16588754/iranianhistory6[Source].
+image::{china-dictatorship-media-base}/Holocaust_denial_cartoon_by_Francoise_Pichard.jpg[height=400]
+
+[[holocaust-denial-palestine]]
+.Holocaust denial cartoon suggesting that the Holocaust killed much less than Israel did during the Palestinian conflict TODO confirm artist, source image address suggests Moroccan https://www.toonsmag.com/naji-benaji/[Naji Benaji]. This <<evil-west,Evil West>> type of strategy is exactly what the <<ccp>> does, by trying to justify its horrors by comparing it to the horrors of other countries. We must recognize and fight against injustices of all countries. One injustice cannot justify the other. https://web.archive.org/web/20201201110526/https://cst.org.uk/news/blog/2010/10/29/a-new-low-for-scottish-palestine-solidarity-campaign[Source].
+image::{china-dictatorship-media-base}/Holocaust_denial_cartoon_vs_Palestine.jpg[height=400]
+
+[[blood-cotton-initiative-wuheqilin]]
+.Blood Cotton Initiative by <wuheqilin>>. This pro-<<ccp>> propaganda work suggests that the <<xinjiang-cotton>> is a fabrication of <<evil-west,Evil West>>. It depicts Americans as wearing https://en.wikipedia.org/wiki/Ku_Klux_Klan[Ku Klux Klan] in an usual CCP reminder that <<the-west-is-racist-against-black-people>>. It is basically a <<holocaust-denial>> cartoon. https://zh.wikipedia.org/wiki/File:Blood_Cotton_Initiative.jpg[Source].
+image::{china-dictatorship-media-base}/Blood_Cotton_Initiative_by_Wuheqilin.jpg[height=400]
+
+.Side-by-side comparison of <<blood-cotton-initiative-wuheqilin,"Blood Cotton Initiative" by wuheqilin>> and the <<holocaust-denial-palestine,Palestine vs Israel holocaust denial cartoon>>.
+image::{china-dictatorship-media-base}/Blood_Cotton_Initiative_by_Wuheqilin_holocaust_denial.jpg[height=400]
 
 [[inner-mongolia]]
 ==== Inner mongolia (内蒙古)
@@ -4116,6 +4142,12 @@ Songs:
 
 .https://youtube.com/watch?v=YhN6jipSHFI Hong Kong Yoga - Sammy J S2 (ep31) published by ABC Comedy on 2019-09-19. Very good.
 video::YhN6jipSHFI[youtube,height=400,width=600]
+
+[[do-not-split]]
+====== Do Not Split (不割席, 2020)
+
+* https://en.wikipedia.org/wiki/Do_Not_Split
+* https://zh.wikipedia.org/wiki/不割席
 
 ====== LeBron James opposes Hong Kong anti-extradition bill protests (2019)
 
@@ -10289,6 +10321,8 @@ Founded by <<jimmy-lai>>.
 
 Pro-democracy. Raided soon after <<hong-kong-national-security-law>> started.
 
+* https://www.youtube.com/watch?v=sf-qyxEIuHI Hong Kong billionaire's last interview as a free man by BBC News (2021)
+
 [[hkfp]]
 ==== Hong Kong Free Press
 
@@ -10374,7 +10408,7 @@ Personal media:
 
 Without a doubt, the greatest anti-Communist joke cartoonist of the 2010s.
 
-As of 2019 he does work for xref:rfa[], so a possible list of all cartoons of this era can be found at: https://www.rfa.org/english/cartoons/story_archive
+As of 2019 he does work for <<rfa>>, so a possible list of all cartoons of this era can be found at: https://www.rfa.org/english/cartoons/story_archive
 
 His best work can be found scattered throughout this document in the relevant sections.
 
@@ -10407,6 +10441,20 @@ Does he have anything besides the sexy BDSM gag ball 和諧/阿中哥哥 girl fr
 
 * https://www.reddit.com/r/translator/comments/f08s9o/unknown_english_can_anyone_translate_the_words_on/
 * https://supchina.com/2020/02/14/a-third-of-china-remains-on-at-least-partial-lockdown-from-covid-19/
+
+===== Wumao artists
+
+[[wuheqilin]]
+====== Wuheqilin (乌合麒麟)
+
+* https://en.wikipedia.org/wiki/Wuheqilin
+* https://zh.wikipedia.org/wiki/乌合麒麟
+
+Publishes as public domain, so the images can be uploaded to Wikipedia. That's something that <<rebel-pepper>> and the <<rfa>> could learn from.
+
+Featured on <<chinese-government-media>> e.g. at:
+
+* https://www.globaltimes.cn/page/202103/1219588.shtml by <<global-times>>
 
 [[falun-sweden]]
 === Falun, Sweden 法轮，瑞典
