@@ -336,7 +336,6 @@ Not mentioned in other sections:
 * taibangle (太棒了)
 ** https://github.com/taibangle/awesome-china
 ** https://github.com/taibangle/lennon-wall
-* https://github.com/sikaozhe1997/Xin-Yue
 * https://github.com/Project-Gutenberg/Pincong see also <<pincong>>
 * https://speechfree.github.io/cultural-revolution-database/ 中国文化大革命文库 The Chinese Cultural Revolution Database
 * https://github.com/Luterngun/Record_of_Survival_in_Digital_Totalitarian_Era[] small docuement that goes over <<censorship-circumvention>> and opsec. There was a PDF on GitHub but got removed from master (still in Git history), now links to external websites only. Newbs.
@@ -1178,51 +1177,9 @@ Possible free Chinese version: https://docs.google.com/viewer?a=v&pid=sites&srci
 
 ==== Censorship makes it harder to solve social problems
 
-2021-03-02 https://hk.appledaily.com/news/20210302/EK4WOQBICNEGDFP2SSG7ZJ3PGI/ (https://hk.appledaily.com/china/20210301/KM2MXDHHXRAQHFB4MYFU6XOFTY/[Chinese version]) "Chinese food delivery worker detained after campaigning for labor rights"
-
-____
-Chinese authorities have detained a worker after he advocated for fair pay and other labor rights from his former employer, the food delivery giant Ele.me.
-
-Chen Tianhe (陳天河) has not been heard from since he was detained on Feb. 25, according to mainland Chinese media reports.
-____
-
-[[nine-nine-six-icu]]
-===== 996.ICU (2019)
-
-https://github.com/996icu/996.ICU
-
-Repository published in 2019-04 protesting against excessive work hours by Chinese programmers.
-
-At some point it moved its README to English.
-
-This was not directly censored to our knowledge, but the fact that it was published on GitHub rather than Chinese social media highlights the obvious fact that Chinese programmers were weary of doing it under CCP controlled media which they do not trust.
-
-The project name refers to:
-
-* "996": work from 9AM to 9PM 6 days a week. This is part of a wider tendency of Chinese netizens to use <<internet-number-slang>>
-* "ICU": https://en.wikipedia.org/wiki/Intensive_care_unit[Intensive Care Unit]
-
-Reached 180k stars in a week, and was the second most starred repository as of 2019-10 https://github.com/search?q=stars%3A%3E100&s=stars&type=Repositories[] (https://web.archive.org/web/20191023084929/https://github.com/search?q=stars%3A%3E100&s=stars&type=Repositories[archive])!!!
-
-This is therefore the best example for Chinese tech workers that <<richer,freedom of speech is a good thing>>.
-
-Coverage:
-
-* https://www.reddit.com/r/China/comments/b927sk/tencent_xiaomi_and_others_block_github_page/
-* https://www.reddit.com/r/cscareerquestions/comments/b8t8cc/overworked_chinese_developers_gather_on_github_to/
-
-Related:
-
-* https://github.com/formulahendry/955.WLB a whitelist version of 996 ICU. Good thoughts.
-
-Other interesting GitHub repositories: <<github-repositories-with-censored-information>>.
-
-Other notable labour rights cases:
-
-* Mengzhu TODO chinese name 2021: https://www.npr.org/2021/04/13/984994360/he-tried-to-organize-workers-in-chinas-gig-economy-now-he-faces-5-years-in-jail
-
-.996.ICU logo. https://github.com/996icu[Source].
-image::{china-dictatorship-media-base}/996ICU.png[height=400]
+* <<labour-rights>>
+* <<metoo>>
+* <<gay-rights>>
 
 [[war]]
 ==== Why would democracy and freedom of speech make China less likely to start a war?
@@ -5758,7 +5715,80 @@ They seem to have had difficulty in expressing themselves due to <<censorship>>,
 * Liu Jingyao v. billionaire Liu Qiangdong
 * Zou Sicong and He Qian v. Deng Fei
 
-https://github.com/sikaozhe1997/Xin-Yue on <<github-repositories-with-censored-information>> is an open letter by student activist:
+Related:
+
+* https://github.com/NGOMeToo/NGOMeToo.github.io
+* https://github.com/CNwoman-bot/evil-man
+* https://twitter.com/FeministChina
+
+[[labour-rights]]
+=== Labour rights (劳工权益)
+
+* 2018 <<jasic>>, in which <<yue-xin>> was involved
+* Mengzhu TODO Chinese name 2021: https://www.npr.org/2021/04/13/984994360/he-tried-to-organize-workers-in-chinas-gig-economy-now-he-faces-5-years-in-jail
+
+2021-03-02 https://hk.appledaily.com/news/20210302/EK4WOQBICNEGDFP2SSG7ZJ3PGI/ (https://hk.appledaily.com/china/20210301/KM2MXDHHXRAQHFB4MYFU6XOFTY/[Chinese version]) "Chinese food delivery worker detained after campaigning for labor rights":
+
+____
+Chinese authorities have detained a worker after he advocated for fair pay and other labor rights from his former employer, the food delivery giant Ele.me.
+
+Chen Tianhe (陳天河) has not been heard from since he was detained on Feb. 25, according to mainland Chinese media reports.
+____
+
+[[nine-nine-six-icu]]
+==== 996.ICU (2019)
+
+https://github.com/996icu/996.ICU
+
+Repository published in 2019-04 protesting against excessive work hours by Chinese programmers.
+
+At some point it moved its README to English.
+
+This was not directly censored to our knowledge, but the fact that it was published on GitHub rather than Chinese social media highlights the obvious fact that Chinese programmers were weary of doing it under CCP controlled media which they do not trust.
+
+The project name refers to:
+
+* "996": work from 9AM to 9PM 6 days a week. This is part of a wider tendency of Chinese netizens to use <<internet-number-slang>>
+* "ICU": https://en.wikipedia.org/wiki/Intensive_care_unit[Intensive Care Unit]
+
+Reached 180k stars in a week, and was the second most starred repository as of 2019-10 https://github.com/search?q=stars%3A%3E100&s=stars&type=Repositories[] (https://web.archive.org/web/20191023084929/https://github.com/search?q=stars%3A%3E100&s=stars&type=Repositories[archive])!!!
+
+This is therefore the best example for Chinese tech workers that <<richer,freedom of speech is a good thing>>.
+
+Coverage:
+
+* https://www.reddit.com/r/China/comments/b927sk/tencent_xiaomi_and_others_block_github_page/
+* https://www.reddit.com/r/cscareerquestions/comments/b8t8cc/overworked_chinese_developers_gather_on_github_to/
+
+Related:
+
+* https://github.com/formulahendry/955.WLB a whitelist version of 996 ICU. Good thoughts.
+
+Other interesting GitHub repositories: <<github-repositories-with-censored-information>>.
+
+.996.ICU logo. https://github.com/996icu[Source].
+image::{china-dictatorship-media-base}/996ICU.png[height=400]
+
+[[jasic]]
+==== Jasic Workers Solidarity Group (佳士工人声援团, 2018)
+
+https://en.wikipedia.org/wiki/Jasic_Workers_Solidarity_Group
+
+<<yue-xin>> was also involved with them.
+
+.Yue Xin with the Jasic T-shirt. That T-shirt is official to the movement, and can be seen worn by many other people in other photos. TODO what does their T-shirt say??? It is impossible to decode that beautiful script. Looks like: 伺伭就X刀量. And who are the people it depicts? A perfectly clean image can be seen on their Twitter: https://pbs.twimg.com/profile_images/1033004258184941569/2pcCgIUK_400x400.jpg[].
+image::{china-dictatorship-media-base}/Yue_Xin_Jasic_shirt.jpg[height=400]
+
+[[jasic-incident]]
+===== Jasic incident (佳士事件)
+
+* https://en.wikipedia.org/wiki/Jasic_incident
+* https://zh.wikipedia.org/wiki/佳士事件
+
+[[yue-xin]]
+==== Yue Xin (岳昕)
+
+https://github.com/sikaozhe1997/Xin-Yue is a <<github-repositories-with-censored-information>> with an open letter by student activist:
 
 * https://en.wikipedia.org/wiki/Yue_Xin_(activist)[Yue Xin]
 * https://zh.wikipedia.org/wiki/岳昕[岳昕])
@@ -5773,12 +5803,6 @@ about the events described at https://web.archive.org/web/20200104064812/https:/
 This was one of the starting points of <<terminus2049>>.
 
 The letter was also apparently embedded into the <<bitcoin-blockchain,Ethereum blockchain>> according to https://theconversation.com/chinese-internet-users-turn-to-the-blockchain-to-fight-against-government-censorship-111795[].
-
-Related:
-
-* https://github.com/NGOMeToo/NGOMeToo.github.io
-* https://github.com/CNwoman-bot/evil-man
-* https://twitter.com/FeministChina
 
 [[russia]]
 == Russia (俄罗斯)
