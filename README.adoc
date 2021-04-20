@@ -401,7 +401,7 @@ Most articles appear to be taken from recent news at the time of writting, altho
 
 They use Jekyll tags a lot, which makes for a good grouping of the topics.
 
-In 2020-04-25, it was reported that three Beijing-based contributors were arrested during <<corona>>:
+In 2020-04-25, it was reported that three Beijing-based contributors were arrested during <<covid>>:
 
 * https://www.scmp.com/news/china/politics/article/3081569/chinese-activists-detained-after-sharing-censored-coronavirus
 * https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html Chinese article, gives the Chinese names, and some background on the arrested people
@@ -456,7 +456,7 @@ https://github.com/chinatimeline/chinatimeline.github.io
 Explores several sensitive topics through interesting timelines with many pictures, for example:
 
 * <<tiananmen>>: https://chinatimeline.github.io/tiananmen/
-* <<corona>>: https://chinatimeline.github.io/wuhan-coronavirus/
+* <<covid>>: https://chinatimeline.github.io/wuhan-coronavirus/
 * religious persecution, including <<falun-gong>>: https://chinatimeline.github.io/religion_tl1/
 
 Some minor relationships with <<terminus2049>>:
@@ -983,7 +983,7 @@ video::ocBVLMHK6c8[youtube,height=400,width=600]
 .Photo of a CDV-717 radioactivity meter that maxes out at 3.6 Roentgen like the one that would have been used in Chernobyl. https://www.reddit.com/r/ChernobylTV/comments/bnio6n/36_roentgen_on_a_cdv717/[Source].
 image::{china-dictatorship-media-base}/3_6_Roentgen.jpg[height=400]
 
-This suggestion is even more explicit in the fictional https://en.wikipedia.org/wiki/World_War_Z[World War Z] 2006 novel by https://en.wikipedia.org/wiki/Max_Brooks[Max Brooks] about a <<corona,virus>> outbreak in China. It was later adapted into the https://en.wikipedia.org/wiki/World_War_Z_(film)[World War Z (2013)] movie by https://en.wikipedia.org/wiki/Paramount_Pictures[Paramount]:
+This suggestion is even more explicit in the fictional https://en.wikipedia.org/wiki/World_War_Z[World War Z] 2006 novel by https://en.wikipedia.org/wiki/Max_Brooks[Max Brooks] about a <<covid,virus>> outbreak in China. It was later adapted into the https://en.wikipedia.org/wiki/World_War_Z_(film)[World War Z (2013)] movie by https://en.wikipedia.org/wiki/Paramount_Pictures[Paramount]:
 
 * https://www.theguardian.com/film/2013/jun/04/brad-pitt-china-world-war-z[]: Paramount cowards tried to kowtow and remove references to China from the movie, but it failed
 * https://www.washingtonpost.com/outlook/china-barred-my-dystopian-novel-about-how-its-system-enables-epidemics/2020/02/27/cc0446f0-58e5-11ea-9000-f3cffee23036_story.html[]: no Chinese publisher dared publish the book unless China references were removed, which the author declined, and so the book was not published in China
@@ -1002,7 +1002,7 @@ ____
 
 although like any other political argument, https://www.nytimes.com/2003/03/01/arts/does-democracy-avert-famine.html[some disagree].
 
-Virus outbreaks and other natural disasters also illustrate this well: <<corona>>.
+Virus outbreaks and other natural disasters also illustrate this well: <<covid>>.
 
 ===== Censorship makes no one trust your country
 
@@ -1020,7 +1020,11 @@ But deep down, you know that they are all just waiting patiently to put a knife 
 
 Dictators will always live in fear.
 
-[[corona]]
+++++
+<span id="corona">
+++++
+
+[[covid]]
 ===== Censorship of the 2019 Corona Virus (2019冠状病毒病早期迹象审查)
 
 * https://en.wikipedia.org/wiki/Coronavirus_disease_2019
@@ -1298,6 +1302,9 @@ image::{china-dictatorship-media-base}/Rebel_pepper_pig_can%27t_eat_democracy_ca
 .https://knowyourmeme.com/memes/shut-up-and-take-my-money[Shut up and take my freedom] meme by <<ciro-santilli>>.
 image::{china-dictatorship-media-base}/Shut_up_and_take_my_freedom.jpg[height=400]
 
+.https://knowyourmeme.com/memes/shut-up-and-take-my-money[Shut up and take my freedom] meme by <<ciro-santilli>> translated to Chinese: "什么都别说了，拿走我的自由".
+image::{china-dictatorship-media-base}/Shut_up_and_take_my_freedom.jpg[height=400]
+
 [[corruption]]
 ==== Democracies have less corruption than dictatorships
 
@@ -1324,7 +1331,7 @@ Well known corruption cases:
 * 2020 Ren Zhiqiang
 ** https://en.wikipedia.org/wiki/Ren_Zhiqiang
 ** https://zh.wikipedia.org/wiki/任志强
-** https://edition.cnn.com/2020/09/22/asia/china-ren-zhiqiang-xi-jinping-intl-hnk/index.html "Chinese tycoon who criticized <<xi-jinping,Xi Jinping>>'s handling of <<corona,coronavirus>> jailed for 18 years"
+** https://edition.cnn.com/2020/09/22/asia/china-ren-zhiqiang-xi-jinping-intl-hnk/index.html "Chinese tycoon who criticized <<xi-jinping,Xi Jinping>>'s handling of <<covid,coronavirus>> jailed for 18 years"
 * 2012 https://en.wikipedia.org/wiki/Ling_Jihua[Ling Jihua] (https://zh.wikipedia.org/wiki/令计划[令计划]): son died in Ferrari crash with two women on the car, which put the spotlight on him
 * 2012 https://en.wikipedia.org/wiki/Bo_Xilai[Bo Xilai] (https://zh.wikipedia.org/wiki/薄熙来[薄熙来]): trigerred by the murder of https://en.wikipedia.org/wiki/Neil_Heywood[Neil Heywood], of which Bo's wife was accused
 
@@ -1492,7 +1499,7 @@ If China's <<howey-ou,environment is bad>>, the environment gets worse in other 
 +
 If China <<war,starts a war>>, other countries will have to fight it.
 +
-If China <<corona,fails to control a viral outbreak>>, other countries might get infected.
+If China <<covid,fails to control a viral outbreak>>, other countries might get infected.
 * <<tiananmen,Millions of Chinese people>> disagree with their government, but can't say anything about it, otherwise <<t-shirt,they will go straight to jail>>. See also: xref:most-chinese-people-like-their-dictatorship[xrefstyle=full]
 * Chinese people have been brainwashed by the <<evil-west,commies who say that all foreigners are bad>>, more than the West has been brainwashed to think that he CCP is bad: <<brainwashed-by-usa>>
 * China would never ever try to influence foreign countries, would it? E.g. <<belt-and-road-initiative>>, <<confucius-institute>>, <<cgtn>>.
@@ -1618,7 +1625,7 @@ ____
 Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly. But to trace out the history of the whole period, to say who was fighting whom at any given moment, would have been utterly impossible, since no written record, and no spoken word, ever made mention of any other alignment than the existing one. At this moment, for example, in 1984 (if it was 1984), Oceania was at war with Eurasia and in alliance with Eastasia. In no public or private utterance was it ever admitted that the three powers had at any time been grouped along different lines. Actually, as Winston well knew, it was only four years since Oceania had been at war with Eastasia and in alliance with Eurasia. But that was merely a piece of furtive knowledge which he happened to possess because his memory was not satisfactorily under control. Officially the change of partners had never happened. Oceania was at war with Eurasia: therefore Oceania had always been at war with Eurasia. The enemy of the moment always represented absolute evil, and it followed that any past or future agreement with him was impossible.
 ____
 
-The theme is also mentioned in <<v-for-vendetta>>, where a <<corona,viral outbreak>> is used by governments to increase their power over the people.
+The theme is also mentioned in <<v-for-vendetta>>, where a <<covid,viral outbreak>> is used by governments to increase their power over the people.
 
 https://youtu.be/74Mw3N6WxG0?t=174 Cant Get You Out of My Head S01E05 Part Five The Lordly Ones also (2021, BBC) mentions that a huge propaganda machinery was created to spread the fake news that <<tiananmen>> was an evil western plot.
 
@@ -1777,7 +1784,7 @@ So in a sense it was a good thing that Ciro had this little backyard fire with t
 
 Because before that, he was one of the majority who just constantly hears about the increasing mountain of evidence of human rights violations, and does nothing about it.
 
-The https://en.wikipedia.org/wiki/Darkest_Hour_(film)[Darkest Hour (2017) film] comes to mind: https://www.youtube.com/watch?v=xA1Uz_TMzhs[]. The movie shows that Britain was truly hesitant whether to negotiate or fight Hitler, even after the Nazis had already started invading other European countries, and would clearly not stop. Luckily, we are not at a position of war yet, and might never be due to nuclear weapons. But still, a similar blindness applies. <<corona>> woke up many people, but even then some haven't faced it.
+The https://en.wikipedia.org/wiki/Darkest_Hour_(film)[Darkest Hour (2017) film] comes to mind: https://www.youtube.com/watch?v=xA1Uz_TMzhs[]. The movie shows that Britain was truly hesitant whether to negotiate or fight Hitler, even after the Nazis had already started invading other European countries, and would clearly not stop. Luckily, we are not at a position of war yet, and might never be due to nuclear weapons. But still, a similar blindness applies. <<covid>> woke up many people, but even then some haven't faced it.
 
 [[ciro-santilli-mother-in-law-jail]]
 ===== Ciro Santilli's post when his mother-in-law was put into jail
@@ -2137,7 +2144,11 @@ image::{china-dictatorship-media-base}/Free_speech_umbrella.jpg[height=400]
 .At https://github.com/cirosantilli/china-dictatorship/issues/260 ((https://archive.ph/mtZeM[archive])a <<wumao>> posted this image of <<amnesty-international>> protesters outside the American embassy in London in September 2008 protesting against the Guantanamo Bay camps. The wumao used this to criticize Guantanamo bay, saying that it was like <<xinjiang-re-education-camps>> but in the USA, apparently unaware that this was a staged protest. So it actually has the exact opposite effect than intended: because there is no <<censorship>>, here people in the West can together to denounce something they don't like. Imagine if a crowd of 100 people in China got together to denounce the Xinjiang camps! They'd go to jail immediately. Furthermore as Ciro repeated a million times: Guantanamo bay detainees are not American citizens, and democracies cannot fully protect people who can't vote. In China however, no one can vote, so everyone can be oppressed. https://kids.britannica.com/students/assembly/view/171145[Source].
 image::{china-dictatorship-media-base}/Guantanamo_bay_protest_London_2008.jpg[height=600]
 
-[[the-west-is-racist-against-black-people]]
+++++
+<span id="the-west-is-racist-against-black-people">
+++++
+
+[[racist-west]]
 ===== The West is racist against black people (西方人对黑人有种族主义)
 
 * https://en.wikipedia.org/wiki/Racism_in_the_United_States
@@ -3000,7 +3011,11 @@ See: <<famous>>.
 
 No, he is not angry at all, see also: <<harm-programmers>>.
 
-[[cia-funding]]
+++++
+<span id="cia-funding">
+++++
+
+[[funded-by-cia]]
 ===== Is Ciro Santilli's china-dictatorship campaign funded or otherwise supported by some organization? 谁收买三西猴散布关于中国的谣言？
 
 
@@ -3062,7 +3077,7 @@ This is how much time Ciro spends on this project to give you an idea:
 
 Then Ciro just contributes to programming websites exactly as he would if he weren't making this campaign, and voila.
 
-Edit: to be fair, the end of 2019 and start of 2020 was such as hot year with <<2019-hong-kong-anti-extradition-bill-protests>> and <<corona>> that Ciro might have spent a tiny little bit more ;-)
+Edit: to be fair, the end of 2019 and start of 2020 was such as hot year with <<2019-hong-kong-anti-extradition-bill-protests>> and <<covid>> that Ciro might have spent a tiny little bit more ;-)
 
 But Ciro did it only when his brain was too tired of technical stuff and unable to do more, or as a brain warm up routine in the morning.
 
@@ -3218,7 +3233,7 @@ Subs with lots of anti-commie info:
 * https://www.reddit.com/r/China is arguably the best as of 2020, see also: <<anti-ccp-info-sources>>
 * https://www.reddit.com/r/fucktheccp/ small as of 2020 but promising
 * https://www.reddit.com/r/HongKong had 3x more users than r/china as of 2020 after <<2019-hong-kong-anti-extradition-bill-protests>>.
-* https://www.reddit.com/r/CCP_virus/ for <<corona>>
+* https://www.reddit.com/r/CCP_virus/ for <<covid>>
 * https://www.reddit.com/r/tibet/ 3k subs 2020
 * https://www.reddit.com/r/ChinaMemes 2.5k subs 2021-03
 * https://www.reddit.com/r/saraba2nd/ (第二新S1市) modded by <<chinatimeline>> TODO title meaning
@@ -3492,7 +3507,7 @@ News:
 * https://www.channelnewsasia.com/news/asia/taiwan-finalises-62-billion-purchase-of-f-16-jets-lockheed-13023336 "Taiwan finalises purchase of F-16 jets from Lockheed Martin". 90 jets, 8 billion USD.
 * 2020-05-26 https://www.taiwannews.com.tw/en/news/3940533 "Brazilian netizens fight back against CCP threats over Taiwan support"
 ** It should also be mentioned that this campaign could be being used/created by pro-Bolsanaro politicians as a way to detract focus from the COVID-19 epidemic that is reaching its deadliest phase in Brazil, e.g.: https://twitter.com/PauloMartins10/status/1265038976617984002
-* 2020 <<corona>> and Taiwan:
+* 2020 <<covid>> and Taiwan:
 ** Taiwan was at a disadvantage during since it was not part of the https://en.wikipedia.org/wiki/World_Health_Organization[World Health Organization] and therefore could not get information as fast and influence decisions
 +
 .https://youtube.com/watch?v=fASh2_RzMuE WHO officer https://en.wikipedia.org/wiki/Bruce_Aylward[Bruce Alyward] pretends not to hear question from https://en.wikipedia.org/wiki/RTHK[Radio Television Hong Kong (RTHK)] about the possibility of Taiwan's membership in the WHO during a one-to-one Skype interview, https://www.theguardian.com/world/2020/mar/30/senior-who-adviser-appears-to-dodge-question-on-taiwans-covid-19-response[reference].
@@ -3889,7 +3904,7 @@ image::{china-dictatorship-media-base}/Holocaust_denial_cartoon_by_Francoise_Pic
 image::{china-dictatorship-media-base}/Holocaust_denial_cartoon_vs_Palestine.jpg[height=400]
 
 [[blood-cotton-initiative-wuheqilin]]
-.Blood Cotton Initiative by <wuheqilin>>. This pro-<<ccp>> propaganda work suggests that the <<xinjiang-cotton>> is a fabrication of <<evil-west,Evil West>>. It depicts Americans as wearing https://en.wikipedia.org/wiki/Ku_Klux_Klan[Ku Klux Klan] in an usual CCP reminder that <<the-west-is-racist-against-black-people>>. It is basically a <<holocaust-denial>> cartoon. https://zh.wikipedia.org/wiki/File:Blood_Cotton_Initiative.jpg[Source].
+.Blood Cotton Initiative by <wuheqilin>>. This pro-<<ccp>> propaganda work suggests that the <<xinjiang-cotton>> is a fabrication of <<evil-west,Evil West>>. It depicts Americans as wearing https://en.wikipedia.org/wiki/Ku_Klux_Klan[Ku Klux Klan] in an usual CCP reminder that <<racist-west>>. It is basically a <<holocaust-denial>> cartoon. https://zh.wikipedia.org/wiki/File:Blood_Cotton_Initiative.jpg[Source].
 image::{china-dictatorship-media-base}/Blood_Cotton_Initiative_by_Wuheqilin.jpg[height=400]
 
 .Side-by-side comparison of <<blood-cotton-initiative-wuheqilin,"Blood Cotton Initiative" by wuheqilin>> and the <<holocaust-denial-palestine,Palestine vs Israel holocaust denial cartoon>>.
@@ -5715,16 +5730,24 @@ They seem to have had difficulty in expressing themselves due to <<censorship>>,
 * Liu Jingyao v. billionaire Liu Qiangdong
 * Zou Sicong and He Qian v. Deng Fei
 
-Related:
+Related <<github-repositories-with-censored-information>>:
 
 * https://github.com/NGOMeToo/NGOMeToo.github.io
 * https://github.com/CNwoman-bot/evil-man
+
+Related <<twitter>>:
+
 * https://twitter.com/FeministChina
+
+News:
+
+* 2021-04-20 https://edition.cnn.com/2021/04/19/china/china-feminists-silenced-intl-hnk-dst/index.html "Chinese feminists are being silenced by nationalist trolls. Some are fighting back" mentions Liang Xiaomen, Xiao Meili and Zheng Churan
 
 [[labour-rights]]
 === Labour rights (劳工权益)
 
-* 2018 <<jasic>>, in which <<yue-xin>> was involved
+On more case where <<censorship-makes-it-harder-to-solve-social-problems>>:
+
 * Mengzhu TODO Chinese name 2021: https://www.npr.org/2021/04/13/984994360/he-tried-to-organize-workers-in-chinas-gig-economy-now-he-faces-5-years-in-jail
 
 2021-03-02 https://hk.appledaily.com/news/20210302/EK4WOQBICNEGDFP2SSG7ZJ3PGI/ (https://hk.appledaily.com/china/20210301/KM2MXDHHXRAQHFB4MYFU6XOFTY/[Chinese version]) "Chinese food delivery worker detained after campaigning for labor rights":
@@ -5776,7 +5799,7 @@ https://en.wikipedia.org/wiki/Jasic_Workers_Solidarity_Group
 
 <<yue-xin>> was also involved with them.
 
-.Yue Xin with the Jasic T-shirt. That T-shirt is official to the movement, and can be seen worn by many other people in other photos. TODO what does their T-shirt say??? It is impossible to decode that beautiful script. Looks like: 伺伭就X刀量. And who are the people it depicts? A perfectly clean image can be seen on their Twitter: https://pbs.twimg.com/profile_images/1033004258184941569/2pcCgIUK_400x400.jpg[].
+.Yue Xin with the Jasic <<t-shirt,T-shirt>>. That T-shirt is official to the movement, and can be seen worn by many other people in other photos. TODO what does their T-shirt say??? It is impossible to decode that beautiful script. Looks like: 伺伭就X刀量. And who are the people it depicts? A perfectly clean image can be seen on their Twitter: https://pbs.twimg.com/profile_images/1033004258184941569/2pcCgIUK_400x400.jpg[].
 image::{china-dictatorship-media-base}/Yue_Xin_Jasic_shirt.jpg[height=400]
 
 [[jasic-incident]]
@@ -5916,7 +5939,7 @@ Coverage:
 * 2019-12-19: Putin proposes abolishing term limits. <<xi-abolishes-term-limits-2018-03,Learnt from Xi>>:
 ** https://www.independent.co.uk/news/world/europe/putin-presidential-term-limit-russia-moscow-conference-today-a9253156.html
 ** https://uk.reuters.com/article/uk-russia-putin-constitution/putin-says-hes-open-to-tweaking-presidential-term-limits-idUKKBN1YN1JO
-** 2020-03-25 vote delayed due to <<corona>>
+** 2020-03-25 vote delayed due to <<covid>>
 * 2014 Putin khuylo!
 ** https://en.wikipedia.org/wiki/Putin_khuylo!
 ** https://ru.wikipedia.org/wiki/Путин_—_хуйло!
@@ -6684,7 +6707,7 @@ Unlike <<ciro-santilli>> which does <<is-chinese-politician-x-evil,not think mos
 
 E.g. <<jiang-zemin>> is actually an evil frog in some alternate dimension, literally, not just memecally.
 
-And those devils they are literally responsible for example for creating <<corona,Covid-19>>, which is itself a magic force which tests the evil and good: <<falun-gongs-view-of-epidemics>>.
+And those devils they are literally responsible for example for creating <<covid,Covid-19>>, which is itself a magic force which tests the evil and good: <<falun-gongs-view-of-epidemics>>.
 
 And <<flg-trump,Trump>> likely represents a magical anti-devil force of the universe.
 
@@ -6729,7 +6752,7 @@ https://www.youtube.com/watch?t=315&v=nD6792YoOmY from <<nigel-ng,Mikey Chen>> s
 
 Ciro Santilli has seen Falun Gong people making phone calls to people in China with to explain why FLG is with his own eyes, and therefore is sure it has happened on some scale.
 
-Particularly during <<corona>>, Falun Gong ramped up the telemarketing calls and some voluntary believers were making calls all day nonstop.
+Particularly during <<covid>>, Falun Gong ramped up the telemarketing calls and some voluntary believers were making calls all day nonstop.
 
 Ciro does not know how the called numbers were obtained and if callees voluntarily signed up for it, but that feels extremely unlikely.
 
@@ -7120,7 +7143,7 @@ But many times, the commies don't even bother passing a law, they just fuck peop
 
 The same can be argued about any other religion or political belief of type: it is better if we organize society in this or that way.
 
-How can you disprove their belief, when as in any other religion, every affirmation made hinges on "miracles only happen around when true believers are around" or "only true believers can perceive evidence in their hearts / minds directly". He died of cancer or <<corona>>? Not a true believer, deep withing his heart, something was wrong.
+How can you disprove their belief, when as in any other religion, every affirmation made hinges on "miracles only happen around when true believers are around" or "only true believers can perceive evidence in their hearts / minds directly". He died of cancer or <<covid>>? Not a true believer, deep withing his heart, something was wrong.
 
 Conversely, do you understand the full sequence of experiments that imply quantum field theory? Have you seen videos of those experiments? Have you attended live demonstrations? Do you understand the construction of the experimentation apparatus? Yet, why do you believe it?
 
@@ -7145,7 +7168,7 @@ The closest claims to observable Ciro has heard are:
 * in the homes of some followers, small magic good plants-like fungi-like things have grown
 +
 [[flg-fungi]]
-.Image of the magic good small plants that grew on a <<falun-gong>> believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. They seem to identify those fungi as mini-https://en.wikipedia.org/wiki/Udumbara_(Buddhism)[udumbaras], which is just a fancy name that Buddhism scriptures use to refer to https://en.wikipedia.org/wiki/Ficus_racemosa[cluster fig flowers] (https://zh.wikipedia.org/wiki/聚果榕[优昙婆罗], amongst a billion other existing phonetic transliterations) emphacising their magic properties. Here's a 2007 from <<epoch-times>>: https://www.epochtimes.com/gb/7/10/7/n1859364.htm[], and another one https://www.epochtimes.com/gb/9/5/3/n2514838.htm[], and another one from 2011: https://www.epochtimes.com/gb/11/11/25/n3440323.htm[]. Only the most relevant news on that newspaper. Ciro could not find <<flg-canon>> mentions however. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese. https://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
+.Image of the magic good small plants that grew on a <<falun-gong>> believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. They seem to identify those fungi as mini-link:https://en.wikipedia.org/wiki/Udumbara_(Buddhism)[udumbaras], which is just a fancy name that Buddhism scriptures use to refer to https://en.wikipedia.org/wiki/Ficus_racemosa[cluster fig flowers] (https://zh.wikipedia.org/wiki/聚果榕[优昙婆罗], amongst a billion other existing phonetic transliterations) emphacising their magic properties. Here's a 2007 from <<epoch-times>>: https://www.epochtimes.com/gb/7/10/7/n1859364.htm[], and another one https://www.epochtimes.com/gb/9/5/3/n2514838.htm[], and another one from 2011: https://www.epochtimes.com/gb/11/11/25/n3440323.htm[]. Only the most relevant news on that newspaper. Ciro could not find <<flg-canon>> mentions however. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese. https://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_magic_fungi.jpg[height=400]
 * the <<flg-canon,sacred books>> of some believers had a closed lotus flower when they were bought, and after several years, the flower opened
 
@@ -7510,7 +7533,7 @@ Hongzhi Li +
 November 8, 2020
 ____
 
-To be completely fair, Trump has been vocal about China's threat way before <<corona,COVID>>, and correctly so in Ciro's opinion, and therefore is a much needed ally of the Falun Gong movement, and to anyone that opposes China's threat, like Ciro does.
+To be completely fair, Trump has been vocal about China's threat way before <<covid,COVID>>, and correctly so in Ciro's opinion, and therefore is a much needed ally of the Falun Gong movement, and to anyone that opposes China's threat, like Ciro does.
 
 Furthermore, Ciro does believe that there might be a Democrat bias to media, and that certainly <<hate-speech,social media like Twitter should never ever censor any political statements as it has done for Trump>>.
 
@@ -7838,7 +7861,7 @@ ____
 You must have seen the epidemic that's come along in China now, right? Hasn't a huge epidemic arrived? To put it in human terms, it's Heaven punishing people. What it's targeting, we Dafa disciples know full well: it's targeting those who don't deserve to be saved, who are impossible to save while Dafa disciples clarify the truth, and who aren't useful to the evil rotten spirits. This is the first round of cleansing. Heaven is punishing the evil, yet China is still lying to cover up the number of deaths, and I'll tell you, it's huge, and it hasn't peaked yet. 
 ____
 
-Such beliefs have of course carried over directly to <<corona,COVID-19>>.
+Such beliefs have of course carried over directly to <<covid,COVID-19>>.
 
 An amazing quote from https://en.minghui.org/html/articles/2020/3/20/183715.html[]:
 
@@ -8349,7 +8372,7 @@ image::{china-dictatorship-media-base}/Xi_Pooh_car.jpg[height=400]
 .Real photo of Xi Jinping edited to look like Winnie the Pooh. https://www.reddit.com/r/pics/comments/dcabzh/this_image_of_xi_jiping_as_winnie_the_pooh_is/[Source].
 image::{china-dictatorship-media-base}/Xi_Pooh_Photoshop.webp[height=400]
 
-.https://www.youtube.com/watch?v=kHmLUYCUYT0 "Xi Jinping as Winnie the Pooh Dancing to Bat Out of Hell by Meatloaf" by TheFakening (2020). Deep fake of several girls wearing Winnie the Pooh clothes with a Xi Jinping face. The song choice "Bat Out of Hell" is a reference to <<corona,COVID> because one of the theories is that the disease started in bats.
+.https://www.youtube.com/watch?v=kHmLUYCUYT0 "Xi Jinping as Winnie the Pooh Dancing to Bat Out of Hell by Meatloaf" by TheFakening (2020). Deep fake of several girls wearing Winnie the Pooh clothes with a Xi Jinping face. The song choice "Bat Out of Hell" is a reference to <<covid,COVID> because one of the theories is that the disease started in bats.
 video::kHmLUYCUYT0[youtube,height=400,width=600,start=57]
 
 [[xi-dada]]
@@ -8546,7 +8569,7 @@ Cheesy! +
 ____
 
 [[little-pink-american-dream-vs-chinese-dream]]
-.https://www.youtube.com/watch?v=MilRo8zZM8A (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub upload]) 小粉红谈中国梦与美国梦的区别 (<<little-pink>> explains the difference between the <<american-dream>> and the <<chinese-dream>>). Also <<twitter,tweeted>> by <<rfa>> at: https://twitter.com/RFA_Chinese/status/1381531661804826627 The <<seal>> on top left reads: "进击老冯" TODO what is that? Source without subtitles: https://www.youtube.com/watch?v=iw8TfbsNfNI[]. Ciro also reposted it at: https://www.reddit.com/r/China/comments/msnixt/nationalistic_chinese_girl_compares_the_chinese/ on <<reddit>>. TODO try to identify it by logo of the microphone, looks something like "华浦TV" but not sure. TODO identify background music. TODO original source.
+.https://www.youtube.com/watch?v=MilRo8zZM8A (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub upload]) 小粉红谈中国梦与美国梦的区别 (<<little-pink>> explains the difference between the <<american-dream>> and the <<chinese-dream>>). That girl should have a look at the state of <<labour-rights>> in China in the 2020's, where activists for better worker protection are being put into jail. Also <<twitter,tweeted>> by <<rfa>> at: https://twitter.com/RFA_Chinese/status/1381531661804826627 The <<seal>> on top left reads: "进击老冯" TODO what is that? Source without subtitles: https://www.youtube.com/watch?v=iw8TfbsNfNI[]. Ciro also reposted it at: https://www.reddit.com/r/China/comments/msnixt/nationalistic_chinese_girl_compares_the_chinese/ on <<reddit>>. TODO try to identify it by logo of the microphone, looks something like "华浦TV" but not sure. TODO identify background music. TODO original source.
 video::MilRo8zZM8A[youtube,height=400,width=600]
 
 [[dream-of-the-red-chamber]]
@@ -9820,7 +9843,7 @@ video::kDV4s9c9sfQ[youtube,height=400,width=600]
 .https://www.youtube.com/watch?v=kDV4s9c9sfQ "#65 China Is Getting Worse | Laowhy86 and SerpentZA" published on 2020-04-05. SerpentZA and laowhy86 interview on "China Unscripted", a sister channel of <<china-uncensored>>. This marks them clearly on the side of "openly criticizing the Chinese government".
 video::kDV4s9c9sfQ[youtube,height=400,width=600]
 
-.https://www.youtube.com/watch?v=b6PI91n2f9o "China Expels Foreign Press to Protect Its Lies" published on 2020-03-23 during/just after <<corona>>.
+.https://www.youtube.com/watch?v=b6PI91n2f9o "China Expels Foreign Press to Protect Its Lies" published on 2020-03-23 during/just after <<covid>>.
 video::b6PI91n2f9o[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=NXpPpFzLcZg "China's Winnie The Pooh BAN Explained" published on 2019-10-28 discusses <<winnie-the-pooh>>.
@@ -10366,7 +10389,7 @@ Website: https://hongkongfp.com/
 
 Beijing based, but does publish stuff that seems to be very sensitive:
 
-* <<corona>> Government fuckups
+* <<covid>> Government fuckups
 * https://www.bbc.co.uk/news/world-asia-china-35761277 "China magazine Caixin defiant on censorship of article"
 
 [[videos]]
@@ -10463,7 +10486,7 @@ Has a more artistic red-black-white-yellow style.
 [[matsuyama-miyabi]]
 ==== Matsuyama Miyabi (松山雅)
 
-Does he have anything besides the sexy BDSM gag ball 和諧/阿中哥哥 girl from February 2020 <<corona,COVID19>> time?
+Does he have anything besides the sexy BDSM gag ball 和諧/阿中哥哥 girl from February 2020 <<covid,COVID19>> time?
 
 * https://www.reddit.com/r/translator/comments/f08s9o/unknown_english_can_anyone_translate_the_words_on/
 * https://supchina.com/2020/02/14/a-third-of-china-remains-on-at-least-partial-lockdown-from-covid-19/
@@ -10523,7 +10546,7 @@ The <<nineteen-eighty-four>> quote "The sex instinct will be eradicated." comes 
 
 Some news coverage:
 
-* 2020 during <<corona>>, while https://www.pornhub.com/press/show?id=1951[Pornhub was offering free premium subscriptions], China was cracking down on porn harder than usual
+* 2020 during <<covid>>, while https://www.pornhub.com/press/show?id=1951[Pornhub was offering free premium subscriptions], China was cracking down on porn harder than usual
 ** https://foreignpolicy.com/2020/03/06/internet-sex-coronavirus-no-porn-for-chinese-stuck-under-virus-lockdown/ FP report
 ** (<<chinese-government-media,biased>>) http://www.xinhuanet.com/english/2019-12/25/c_138657340.htm "China intensifies crackdown on pornography, illegal publications"
 * 2018-01-15 https://www.bbc.co.uk/news/world-asia-china-42640569 "Sora Aoi: Japan's porn star who taught a Chinese generation about sex. When Japanese actress and former porn star Sora Aoi announced her marriage online, it set off a frenzy on Chinese social media."
@@ -10895,6 +10918,7 @@ See also <<ciro-santilli>>'s answer to https://www.quora.com/What-would-happen-i
 
 Some cases where that didn't end well for them:
 
+* 2018 several members of <<jasic>>
 * 2017 Li Xiaoling (李小玲) was arrested and released "on bail" for wearing a <<tiananmen,Tiananmen>> T-shirt: https://www.nchrd.org/2017/10/li-xiaoling/ on <<chinese-human-rights-defenders>>
 * 1989 <<pu-zhiqiang-shirt,Pu Zhiqiang (浦志强) freedom of speech shirt>> during <<tiananmen>>
 
@@ -12041,7 +12065,7 @@ ____
 ** https://www.axios.com/zoom-closes-chinese-user-account-tiananmen-square-f218fed1-69af-4bdd-aac4-7eaf67f34084.html "Zoom closed account of U.S.-based Chinese activist 'to comply with local law'".
 ** https://docs.google.com/document/d/12DM3ccTe70yzqCDPu9uXlCD7WmfJq-yzvKdKBH0oppc/edit
 
-.2020-03-27 photo showing https://en.wikipedia.org/wiki/Boris_Johnson[UK Prime Minister Boris Johnson] using Zoom on a Cabinet meeting (a high level Government meeting) during <<corona>>. If you don't properly ban risky dictatorship-linked software, it will get used at the highest levels of Government by clueless people. https://news.sky.com/story/coronairus-cabinet-talks-held-on-zoom-days-after-software-was-banned-by-ministry-of-defence-11963889[Source].
+.2020-03-27 photo showing https://en.wikipedia.org/wiki/Boris_Johnson[UK Prime Minister Boris Johnson] using Zoom on a Cabinet meeting (a high level Government meeting) during <<covid>>. If you don't properly ban risky dictatorship-linked software, it will get used at the highest levels of Government by clueless people. https://news.sky.com/story/coronairus-cabinet-talks-held-on-zoom-days-after-software-was-banned-by-ministry-of-defence-11963889[Source].
 image::{china-dictatorship-media-base}/Zoom_Boris.jpg[height=400]
 
 [[huawei]]
@@ -12086,7 +12110,7 @@ Some news:
 ** in 2020 the UK was trying hard to get kicked out of the 5 eyes in 2020 by using 5G equipment from Huawei
 ** 2020-06-25 https://www.bbc.co.uk/news/uk-england-cambridgeshire-53178998 "Huawei's £1bn research centre near Cambridge approved" so despite all the 5G stuff, the UK still allows them to create a new research center in the UK... are they blind?
 ** https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html (https://web.archive.org/web/20200129023355/https://edition.cnn.com/2020/01/28/tech/huawei-5g-uk/index.html[archive]) "UK will allow Huawei to help build its 5G network despite US pressure"
-** 2020-04-17 only after more than 10 thousand people died in the country during <<corona>> did the brits finally change their minds: https://nypost.com/2020/04/17/uk-moves-to-drop-huawei-as-5g-vendor-citing-china-coronavirus-transparency/ "UK moves to drop Huawei as 5G vendor, citing China coronavirus transparency"
+** 2020-04-17 only after more than 10 thousand people died in the country during <<covid>> did the brits finally change their minds: https://nypost.com/2020/04/17/uk-moves-to-drop-huawei-as-5g-vendor-citing-china-coronavirus-transparency/ "UK moves to drop Huawei as 5G vendor, citing China coronavirus transparency"
 * 2018-12 https://en.wikipedia.org/wiki/Meng_Wanzhou[Meng Wanzhou] (孟晚舟), daughter of Huawei founder Ren Zhengfei (任正非) and Huawei CFO as of 2018, was arrested in Canada because the US accused her of breaking Iran sanctions
 ** https://www.theglobeandmail.com/politics/article-michael-kovrig-michael-spavor-canadian-detainees-china-explainer/ "Why are Michael Kovrig and Michael Spavor still detained in China?" in apparent retaliation, under accusation of espionage.
 ** 2020-05-27 https://techcrunch.com/2020/05/27/canada-court-finds-against-huawei-cfo-meng-wanzhou-on-double-criminality-extradition-trial-to-continue/ "Canada court finds against Huawei CFO Meng Wanzhou on double criminality; extradition trial to continue"
@@ -12129,7 +12153,7 @@ News:
 Reports:
 
 * 2020-08 https://www.taiwannews.com.tw/en/news/3982027 photo of ByteDance top brass with CCP members in Beijing and description of their meeting. Because obviously they have strong ties with the CCP like any other Chinese company.
-* 2020-03 https://www.reddit.com/r/China/comments/fug8i1/the_chinese_tiktok_just_began_an_uninterrupted/ "The Chinese Tik-Tok just began an uninterrupted propaganda stream." during <<corona>>
+* 2020-03 https://www.reddit.com/r/China/comments/fug8i1/the_chinese_tiktok_just_began_an_uninterrupted/ "The Chinese Tik-Tok just began an uninterrupted propaganda stream." during <<covid>>
 * https://twitter.com/JoshuaDummer/status/1280877750245453828 "Wife trying livestreaming on Douyin. Comes over to me in the middle of a stream and puts me on camera. After about a minute, notice pops up saying that foreigners are not allowed to appear on livestreams 'without permission'."
 ** https://twitter.com/JoshuaDummer/status/1280881420047511552/photo/1
 ** https://twitter.com/JoshuaDummer/status/1280882119913291776/photo/1
@@ -14637,7 +14661,7 @@ Mnemonic: imagine a **dog** (<<犬>>) model **shaped** from **split wood** piece
 
 Words:
 
-* 冠状病毒: <<corona>>
+* 冠状病毒: <<covid>>
 
 [[子]]
 ==== 子 (zi, child)
@@ -14786,7 +14810,7 @@ Characters:
 Sentences:
 
 * <<肺炎疫情下的武汉幸存者我是不幸之中幸运的人>>
-** This was one of the most common ways to refer to <<corona>>
+** This was one of the most common ways to refer to <<covid>>
 
 [[冠状病毒]]
 ==== 冠状病毒 (guan1 zhuang4 bing4 du2, Corona virus)
@@ -15218,7 +15242,7 @@ Source: https://pincong.rocks/question/22965 (https://web.archive.org/web/202005
 
 Words: 有多少人像我一样已经积极囤积<<生存>>物资几个月了
 
-Notes: posted in the context of <<corona>>
+Notes: posted in the context of <<covid>>
 
 [[中梵达成主教任命临时协议的背后盘算]]
 ==== 中梵达成主教任命临时协议的背后盘算 (zhong1 fan4, The backstory behind the temporary Bishop appointment agreement reached between China and the Vatican)
