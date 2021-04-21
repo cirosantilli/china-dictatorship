@@ -280,6 +280,9 @@ Concrete examples:
 
 * https://cirosantilli.com/cirodown/china
 * https://github.com/cirosantilli/linux-kernel-module-cheat/commit/082166a360c56990662c715196229016d8806ab3
+* https://github.com/cirosantilli/vcdvcd#vcdcat-china[]. Sample Chinese fork removing the most important functionality: https://github.com/ZihaoZhao/vcdvcd
+
+These also offer great plausible deniability: a citizen in China could always argue that they were just interested in the software itself, and had no choice but to download it.
 
 TODO: create an Ubuntu PPA and Ruby gem as well.
 
@@ -5680,7 +5683,7 @@ A persecuted Christian sect that believes that some Chinese woman is Jesus.
 Even with such tiny community, the <<ccp>> is still trying to pretende they never existed.
 
 [[gay-rights]]
-=== Gay rights LGBT权利
+=== Gay rights (LGBT权利)
 
 Yes, gay people are also <<evil-west,discriminated to different degrees in Western countries>>, and even legally prohibited notably in the Islamic world.
 
@@ -5716,6 +5719,9 @@ image::{china-dictatorship-media-base}/Tianmen_lesbian_kiss.jpg[height=500]
 [[qing-gay-scroll]]
 .<<throne,Qing dynasty>> (18th–19th c.) panel from a scroll showing two men engaging in foreplay, apparently located in the https://en.wikipedia.org/wiki/Kinsey_Institute[Kinsey Institute] as of 2005. For an ancient depiction of heterosexual sexual activity, see <<jin-ping-mei,this image>>. https://en.wikipedia.org/wiki/File:Love_play_in_China.jpg[Source].
 image::{china-dictatorship-media-base}/Qing_Dinasty_gay_foreplay.jpg[height=400]
+
+.Lesbian couple hugging in Shanghai in the 1930s. The woman on the left might have had polio based on the deformity of their right leg. TODO proper source, could not find one on Google reverse image search. https://www.reddit.com/r/China/comments/muvkmu/a_lesbian_couple_embracing_posing_in_their_qipao/[Source].
+image::{china-dictatorship-media-base}/Lesbian_couple_Shanghai_30s.jpg[height=400]
 
 [[metoo]]
 === MeToo
@@ -7156,7 +7162,7 @@ See also: <<flg-religion>>
 [[flg-verifiable]]
 ==== FLG never makes any predictions that can be reasonably verified by non-believers
 
-Exactly, just like any other <<flg-religion>>, this is why <<ciro-santilli>> is <<does-ciro-santilli-believe-in-or-practice-falun-gong,agnostic>> and things Falun Gong metaphysics is bullshit.
+Exactly, just like any other <<flg-religion>>, this is why <<ciro-santilli>> is <<does-ciro-santilli-believe-in-or-practice-falun-gong,agnostic>> and thinks Falun Gong metaphysics is bullshit.
 
 Notably, <<li-hongzhi>> explicitly forbids display of magical powers gained by believers to non-believers: <<flg-supernatural-powers>> for "reasons". What a convenient coincidence, that prevents any verifiability!
 
