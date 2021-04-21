@@ -1049,7 +1049,7 @@ Some believe that the Chinese government grossly under-reported death counts. In
 * 2020-04-01 https://www.bloomberg.com/news/articles/2020-04-01/china-concealed-extent-of-virus-outbreak-u-s-intelligence-says CIA speaks
 * 2020-03-29 https://www.dailymail.co.uk/news/article-8165717/Locals-Wuhan-believe-42-000-people-died-coronavirus.html Reports of funerary urns sold
 
-Maybe China is saying the truth this time. Maybe the rapid Dictatorship response worked. But maybe the most important lesson to take out of this is that https://www.theguardian.com/world/2020/oct/27/china-loses-trust-internationally-over-coronavirus-handling[no one] trusts <<censorship-makes-no-one-trust-your-country,in a Dictatorship], after an infinitely long history of lies and <<censorship,the lack of freedom of the press>>.
+Maybe China is saying the truth this time. Maybe the rapid Dictatorship response worked. But maybe the most important lesson to take out of this is that https://www.theguardian.com/world/2020/oct/27/china-loses-trust-internationally-over-coronavirus-handling[no one] trusts <<censorship-makes-no-one-trust-your-country,in a Dictatorship after an infinitely long history of lies and lack of freedom of the press>>.
 
 <<li-hongzhi>> of course doubts those numbers :-) <<falun-gongs-view-of-epidemics>>.
 
@@ -2540,6 +2540,41 @@ We all like to imagine we're courageous enough to stand up to tyranny and persec
 
 Well today, you're going to find out what you're made of.
 ____
+
+
+TODO some failed attempts at ASCII art flags:
+
+....
++++++++++++++++++++++++++
++                       +
++         +             +
++    ++                 +
++  + +      +           +
++  +++++                +
++    + +    +           +
++  +++                  +
++         +             +
++                       +
++                       +
++                       +
++                       +
++++++++++++++++++++++++++
+
+卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐
+卐                                              卐
+卐                  卐                          卐
+卐        卐卐                                  卐
+卐    卐  卐            卐                      卐
+卐    卐卐卐卐卐                                卐
+卐        卐 卐        卐                      卐
+卐    卐卐卐                                    卐
+卐                  卐                          卐
+卐                                              卐
+卐                                              卐
+卐                                              卐
+卐                                              卐
+卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐
+....
 
 .Photoshopped <<xi-jinping>> with raised fist with Nazi uniform and flag on the background. https://www.reddit.com/r/HongKong/comments/cuf3p7/chinazi_xitler/[Source].
 image::{china-dictatorship-media-base}/Xi_Nazi_war_flag.jpg[height=400]
@@ -6165,6 +6200,10 @@ Related:
 * https://www.rferl.org/a/russia-navalny-nationalist-fears/25059277.html
 * https://www.youtube.com/watch?v=oVNJiO10SWw
 
+News:
+
+* 2021-04-16 https://www.theguardian.com/world/2021/apr/16/russian-prosecutors-move-to-liquidate-navalnys-extremist-movement "Russian prosecutors move to liquidate Navalny’s ‘extremist’ movement"
+
 ===== The poisoning of Alexei Navalny (2020)
 
 * https://en.wikipedia.org/wiki/Poisoning_of_Alexei_Navalny_(2020)
@@ -6677,7 +6716,6 @@ ____
 Archaeologists have found in the world a kind of organism called "three-leaves insect", which came into being between 600 million and 260 million years ago, and became extinct thereafter. An American scientist found a fossil of "three-leaves insect", on which there was also a human footprint, left by a shoe he was wearing, and clearly printed on the fossil. Aren't they joking with the historians? How could there possibly have been human beings 260 million years ago according to Darwin's theory of evolution?
 ____
 * xref:flg-medication[Maybe FLG will make you healthier, but no promises, but it will make you a better person, and that's why you should do it, but if you really really believe, you get healthier]. But people who seemed to be believers also die, because deep within their hearts, there was a belief problem.
-* <<falun-g
 * <<falun-gong-believes-that-the-ccp-is-literally-a-manifestation-of-real-devils>>
 
 From this, it is obvious that Falun Gong is just a https://en.wikipedia.org/wiki/New_Age[New Age] (link:https://zh.wikipedia.org/wiki/新纪元运动[新纪元运动]) https://en.wikipedia.org/wiki/Syncretism[syncretic] religion combining https://en.wikipedia.org/wiki/Qigong[Qigong], https://en.wikipedia.org/wiki/Buddhism[Buddhism], some aspects of <<christianity>>, and whatever other crazy things <<li-hongzhi>> believes in.
@@ -8334,7 +8372,7 @@ See also: <<shitpost>>.
 .<<xi-jinping>> photoshopped as https://en.wikipedia.org/wiki/Joker_(character)[The Joker] (https://zh.wikipedia.org/wiki/小丑_(角色)[小丑]). Would have been perfect with https://www.theguardian.com/world/2020/sep/22/ren-zhiqiang-who-called-chinese-president-a-clown-jailed-for-18-years[2020-09-22 Ren Zhiqiang - who called Chinese president a 'clown' - jailed for 18 years], see also: <<corruption>>. https://www.reddit.com/r/chonglangTV/comments/m04q0p/乌合麒麟新作一尊小丑/[Source].
 image::{china-dictatorship-media-base}/Xi_Jinping_photoshopped_as_The_Joker.jpg[height=400]
 
-.<<xi-jinping, <<jiang-zemin>> and <<hu-jintao>> photoshopped on top of a clothing advertisement (TODO original). The text reads: "江胡险恶 习以为常". TODO understand. 江胡 are the surnames of <<jiang-zemin>> and <<hu-jintao>>. 习 is the surname of; <<xi-jinping>>. "习以为常" is a fixed expression that means "to get accustomed to". Also asked at: https://www.mohu.rocks/question/573 on <<mohu>>, and explained at: https://www.secretchina.com/news/gb/2003/12/03/56236.html from <<falun-gong-media>>. https://twitter.com/BeqB38ldjIu5acT/status/1377094062063292418[Source]
+.<<xi-jinping>>, <<jiang-zemin>> and <<hu-jintao>> photoshopped on top of a clothing advertisement (TODO original). The text reads: "江胡险恶 习以为常". TODO understand. 江胡 are the surnames of <<jiang-zemin>> and <<hu-jintao>>. 习 is the surname of; <<xi-jinping>>. "习以为常" is a fixed expression that means "to get accustomed to". Also asked at: https://www.mohu.rocks/question/573 on <<mohu>>, and explained at: https://www.secretchina.com/news/gb/2003/12/03/56236.html from <<falun-gong-media>>. https://twitter.com/BeqB38ldjIu5acT/status/1377094062063292418[Source]
 image::{china-dictatorship-media-base}/Xi_Jiang_Hu.jpg[height=400]
 
 [[xi-jinping-lookalikes]]
@@ -8378,7 +8416,7 @@ image::{china-dictatorship-media-base}/Xi_Pooh_car.jpg[height=400]
 .Real photo of Xi Jinping edited to look like Winnie the Pooh. https://www.reddit.com/r/pics/comments/dcabzh/this_image_of_xi_jiping_as_winnie_the_pooh_is/[Source].
 image::{china-dictatorship-media-base}/Xi_Pooh_Photoshop.webp[height=400]
 
-.https://www.youtube.com/watch?v=kHmLUYCUYT0 "Xi Jinping as Winnie the Pooh Dancing to Bat Out of Hell by Meatloaf" by TheFakening (2020). Deep fake of several girls wearing Winnie the Pooh clothes with a Xi Jinping face. The song choice "Bat Out of Hell" is a reference to <<covid,COVID> because one of the theories is that the disease started in bats.
+.https://www.youtube.com/watch?v=kHmLUYCUYT0 "Xi Jinping as Winnie the Pooh Dancing to Bat Out of Hell by Meatloaf" by TheFakening (2020). Deep fake of several girls wearing Winnie the Pooh clothes with a Xi Jinping face. The song choice "Bat Out of Hell" is a reference to <<covid,COVID>> because one of the theories is that the disease started in bats.
 video::kHmLUYCUYT0[youtube,height=400,width=600,start=57]
 
 [[xi-dada]]
@@ -8761,7 +8799,7 @@ Even <<pro-chinese-government-media,kknews>> confirms: https://kknews.cc/zh-my/n
 .A high tower of https://en.wikipedia.org/wiki/Wax_gourd[winter gourds] "冬瓜上高楼" propaganda poster for the Great Leap Forward by https://chineseposters.net/artists/jinmeisheng.php[Jin Meisheng] published in 1959. <<western-democracies-are-not-perfect,Even in democracies>>, politicians promise the fat gourds. But when there is <<censorship,no free media to control their>> lies, things can get really out of hand. http://www.iisg.nl/exhibitions/chairman/chn11.php[Source].
 image::{china-dictatorship-media-base}/Winter_gourd.jpg[height=600]
 
-.Communist Children Catch Pokemon: the true meaning of https://en.wikipedia.org/wiki/Soviet_Union[CCCP]. Edited from the original poster with a <<little-red-book>> instead of Pokeball and no "CCCP" shown at <<https://www.pinterest.fr/pin/360428776411504491/ By Volaran Cadires. https://www.pinterest.fr/pin/405253666454984678/[Source].
+.Communist Children Catch Pokemon: the true meaning of https://en.wikipedia.org/wiki/Soviet_Union[CCCP]. Edited from the original poster with a <<little-red-book>> instead of Pokeball and no "CCCP" shown at https://www.pinterest.fr/pin/360428776411504491/[]. By Volaran Cadires. https://www.pinterest.fr/pin/405253666454984678/[Source].
 image::{china-dictatorship-media-base}/Communist_children_catch_pokemon.jpg[height=600]
 
 [[cultural-revolution]]
