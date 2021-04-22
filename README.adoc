@@ -2944,6 +2944,13 @@ So the rationale of his actions is no_ to convince anyone, but rather:
 
 See also: <<preconceived>>
 
+[[china-watcher]]
+===== Is Ciro Santilli a China watcher? (Pekingologist, 三西猴是观察中国者吗？)
+
+* https://en.wikipedia.org/wiki/China_watcher
+
+Yup.
+
 ===== Are you a SJW?
 
 Moved to <<is-ciro-santilli-a-sjw>>.
@@ -3685,6 +3692,7 @@ Overview projects:
 * https://xjdp.aspi.org.au/ The Xinjiang Data Project by the https://en.wikipedia.org/wiki/Australian_Strategic_Policy_Institute[Australian Strategic Policy Institute]
 +
 Also includes the <<uyghurs-for-sale>> report.
+* https://wokeglobaltimes.com/xinjiang Breaking Down the Xinjiang Crisis
 
 News:
 
@@ -12955,7 +12963,7 @@ Maybe we should institute a Foodie Dictatorship (美食家独裁) that prevents 
 
 * go with Chinese food-loving friends to Chinese restaurants
 * read up Chinese restaurant recommendation websites written in Chinese by Chinese for Chinese
-* read up small shady Chinese food recommendation websites by link:https://en.wikipedia.org/wiki/Sinophile[sinophiles like me]
+* read up small shady Chinese food recommendation websites by link:https://en.wikipedia.org/wiki/Sinophile[sinophiles like Ciro Santilli]
 
 Big Western sites like Google Maps reviews and TripAdvisor are completely and utterly useless for this and will recommend places in which poor non-Chinese which don't know what real Chinese food is like.
 
