@@ -194,6 +194,7 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 * https://gitee.com/cirosantilli/china-dictatorship on <<gitee>>, blocked after 12 hours: <<gitee-censorship>>
 * https://bitbucket.org/cirosantilli/china-dictatorship
 * https://git.kiwifarms.net/CrunkLord420/china-dictatorship auto-pull Gitea mirror on https://en.wikipedia.org/wiki/Kiwi_Farms[Kiwi Farms] (a <<politically-incorrect,politically incorrect>> social network website)
+* https://gitlab.binets.fr/ciro.duran-santilli/china-dictatorship
 
 GitHub Pages: https://cirosantilli.com/china-dictatorship trade-offs with https://github.com/cirosantilli/china-dictatorship[]:
 
@@ -292,6 +293,7 @@ Another source of China-specific mirroring are GitHub proxies, https://linuxpip.
 * https://github.com.cnpmjs.org/ as of March 2021, it often reaches an apparently random "Whoa there! You have triggered an abuse detection mechanism.". But other time it succeeds, e.g. some of the times: https://github.com.cnpmjs.org/cirosantilli/china-dictatorship is visible.
 * https://a1.mk-proxy.ml/-----https://github.com/cirosantilli/china-dictatorship generated from http://toolwa.com/github/
 * https://github.com/521xueweihan/GitHub520
+* https://github.independentlyreview.com/cirosantilli/china-dictatorship described at https://independentlyreview.com/link as using https://workers.cloudflare.com/[Cloudflare workers]
 
 Update all mirrors in one go with: link:push-mirrors[]:
 
@@ -1103,6 +1105,10 @@ News coverage:
 * https://www.vice.com/en_us/article/qjdn4d/doctors-in-wuhan-are-still-dying-and-beijing-is-still-trying-to-silence-them Ai Fen's (艾芬) report of how the situation was mishandling was censored
 * 2020-04-13 https://edition.cnn.com/2020/04/12/asia/china-coronavirus-research-restrictions-intl-hnk/index.html "Beijing tightens grip over coronavirus research, amid US-China row on virus origin". The Government can now veto papers from being published on the subject of the origin of COVID-19.
 
+In other countries:
+
+* <<india-covid-handling-twitter-suppression-2021>>
+
 .https://en.wikipedia.org/wiki/Assemblage_(art)[Assemblage] of a https://en.wikipedia.org/wiki/Respirator[respirator mask] with a https://en.wikipedia.org/wiki/Gag_(BDSM)[BDSM gag ball] attached to it, suggesting that citizen reports of COVID-19 in China have been censored. https://twitter.com/FakeNewsOfChina/status/1221396086033530880[Source].
 image::{china-dictatorship-media-base}/Covid_gag_mask.jpg[height=600]
 
@@ -1548,6 +1554,15 @@ ____
 And China would be much much less technologically advanced had it come in contact with the West, from which it is still trying to learn/steal from: <<university-espionage>>.
 +
 Foreign influence can be both good or bad.
+* http://www.taipeitimes.com/News/editorials/archives/2005/07/12/2003263221/ (BIASED) says:
++
+____
+War histories from both Japan and the Republic of China clearly indicate the scale of the CCP's "participation." From 1937 to 1945, there were 23 battles where both sides employed at least a regiment each. The CCP was not a main force in any of these. The only time it participated, it sent a mere 1,000 to 1,500 men, and then only as a security detachment on one of the flanks.
+
+There were 1,117 significant engagements on a scale smaller than a regular battle, but the CCP fought in only one. Of the approximately 40,000 skirmishes, just 200 were fought by the CCP, or 0.5 percent.
+
+Not even the CCP can provide any data on its number of casualties in the war, and there are no memorials to CCP heroes in the war to be found in China. This makes one wonder what China really did contribute
+____
 
 [[brainwashed-by-usa]]
 ==== Non-Chinese people have been brainwashed by the USA know nothing about China
@@ -1641,6 +1656,20 @@ Bibliography:
 [[henri-meyer]]
 .French political cartoon from 1898 by https://en.wikipedia.org/wiki/Henri_Meyer[Henri Meyer] showing leaders of Western powers, Russia and Japan splitting up China between them. The CCP would arguably <<not-chinese,not have raised to power if not due to Japanese interference>>. Maybe the West deserves the CCP they helped create. https://commons.wikimedia.org/wiki/File:China_imperialism_cartoon.jpg[Source].
 image::{china-dictatorship-media-base}/China_imperialism_cartoon.jpg[height=500]
+
+===== Friendly West-China moments
+
+====== United China Relief
+
+* https://en.wikipedia.org/wiki/Bettis_Garside
+* https://zh.wikipedia.org/wiki/葛思德
+
+____
+United China Relief was the largest humanitarian effort in the United States to aid the Chinese people up to that time. The organization, which was renamed United Service to China (USC) after the Second World War, raised over US$50 million in donations over ten ten years.
+____
+
+.1942 billboard by United China Relief that reads "3,000,000 Chinese have given their lives for democracy. What have you given?"
+image::{china-dictatorship-media-base}/United_China_Relief_3_million_Chinese.jpg[height=400]
 
 [[bias]]
 === Ciro Santilli and this page are completely biased against the Chinese Government!
@@ -2150,6 +2179,12 @@ image::{china-dictatorship-media-base}/Guantanamo_bay_protest_London_2008.jpg[he
 ++++
 <span id="the-west-is-racist-against-black-people">
 ++++
+
+[[two-wrongs]]
+===== Two wrongs don't make a right (积非成是)
+
+* https://en.wikipedia.org/wiki/Two_wrongs_don%27t_make_a_right
+* https://zh.wikipedia.org/wiki/積非成是
 
 [[racist-west]]
 ===== The West is racist against black people (西方人对黑人有种族主义)
@@ -2949,7 +2984,7 @@ See also: <<preconceived>>
 
 * https://en.wikipedia.org/wiki/China_watcher
 
-Yup.
+Yup. https://twitter.com/BadChinaTake/status/1291401838022012931/photo/1[Nope]? Well, Ciro's what you'll get on <<github>> until someone better comes along.
 
 ===== Are you a SJW?
 
@@ -3269,7 +3304,7 @@ Highly worth your feed.
 
 Reddit was banned in China in August 2018: https://www.reddit.com/r/China/comments/965k4c/reddit_banned_in_china/
 
-Tencent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-banned-in-china-is-reportedly-set-to-land-150-1832375439 See also: <<biased-media>>.
+<<tencent>> will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-banned-in-china-is-reportedly-set-to-land-150-1832375439 See also: <<biased-media>>.
 
 ===== Reddit
 
@@ -4134,7 +4169,7 @@ An official source: https://www.police.gov.hk/ppp_en/03_police_message/nsdrh.htm
 
 The contacts:
 
-* Wechat id: NSD62717171
+* <<wechat>> id: NSD62717171
 * SMS: 62717171
 * Email: nsd-public@police.gov.hk
 
@@ -4200,9 +4235,9 @@ Led to: <<sport-event-live-broadcast-image-attacks>>.
 
 * 2019-10-15 https://apnews.com/article/dd96d002394f45a6859c280c889afcb7 "LeBron: Rockets' Morey 'wasn't educated' on China tweet"
 * 2019-10-07 (Monday) "Rockets' general manager's Hong Kong comments anger China"
-* 2019-10-07 Lakers vs. Heat NBA Tencent Live Stream cancelled due to fan wearing the <<taiwan,Taiwanese>> flag
+* 2019-10-07 Lakers vs. Heat NBA <<tencent>> Live Stream cancelled due to fan wearing the <<taiwan,Taiwanese>> flag
 +
-.Fan wearing Taiwan flag in 2019-10-07 Lakers vs. Heat showing fan and text (TODO from Tencent?) saying that the match will be cancelled. https://www.reddit.com/r/China/comments/dtrx4b/tencent_nba_live_broadcast_got_cancelled_because[Source].
+.Fan wearing Taiwan flag in 2019-10-07 Lakers vs. Heat showing fan and text (TODO from <<tencent>>?) saying that the match will be cancelled. https://www.reddit.com/r/China/comments/dtrx4b/tencent_nba_live_broadcast_got_cancelled_because[Source].
 image::{china-dictatorship-media-base}/NBA_Taiwan_flag.jpg[height=600]
 ** https://www.bbc.co.uk/news/business-49956385
 ** https://edition.cnn.com/2019/10/07/business/houston-rockets-nba-china-daryl-morey/index.html
@@ -4256,7 +4291,7 @@ image::{china-dictatorship-media-base}/Mei_with_Hong_kong.jpg[height=600]
 
 NBA in particular is super popular in China, and people sitting at the front row can easily bomb emissions due to the small court size:
 
-* China's Tencent halts NBA live broadcast over <<taiwan,Taiwanese>> flag
+* China's <<tencent>> halts NBA live broadcast over <<taiwan,Taiwanese>> flag
 * https://www.taiwannews.com.tw/en/news/3813842
 
 Started in particular due to the <<lebron-james-opposes-hong-kong-anti-extradition-bill-protests-2019>>
@@ -4293,9 +4328,9 @@ TODO what to do with websites of: <<chinese-government-media>>? Blocking them ha
 
 Let's just leave them up to start with, who gives a fuck about them? :-) If they are getting too many page views, we can make search engines add the disclaimer too.
 
-Chinese social media such as WeChat and <<tiktok>> must be banned. This is less serious than regular websites, because you can always repost on Western social media but without getting spied on:
+Chinese social media such as <<wechat>> and <<tiktok>> must be banned. This is less serious than regular websites, because you can always repost on Western social media but without getting spied on:
 
-* 2020-08-07 https://www.engadget.com/tiktok-wechat-executive-order-014615752.html "Trump executive order seeks to ban <<tiktok,TikTok>>, WeChat 'transactions' in 45 days"
+* 2020-08-07 https://www.engadget.com/tiktok-wechat-executive-order-014615752.html "Trump executive order seeks to ban <<tiktok,TikTok>>, <<wechat>> 'transactions' in 45 days"
 
 Whenever China kicks out a western journalist who is in China and reports there, the Western country must do the same and kick out a Chinese journalists for a Chinese media.
 
@@ -5660,6 +5695,7 @@ Other mirrors:
 * https://seeres.com 闭站维护中
 * https://www.muzhiso.net/
 * https://www.sanzhima.com/
+* https://google.independentlyreview.com/ see also the <<github>> one by the same creator, described at <<mirrors>>
 
 No HTTPS?!?! Brains?!?!
 
@@ -5932,7 +5968,7 @@ Most of it appears to be anti/<<nazi>>, and notably anti-anti-semitic but severa
 
 One wonders if the majority of the items are just fillers to hide the really juicy anti-freedom ones.
 
-We need to make a GitHub mirror of all of those some day!
+We need to make a <<github>> mirror of all of those some day!
 
 The list: http://minjust.gov.ru/ru/extremist-materials[] Here's an archive: http://web.archive.org/web/20200817142035/http://minjust.gov.ru/ru/extremist-materials/export.csv?attach=page[]. The website has a CSV for download with all entries at the bottom. Enca says the encoding is "MS-Windows code page 1251", convert to UTF-8 with:
 
@@ -6491,6 +6527,38 @@ Superset: <<dictatorships-tend-to-work-together>>.
 ** https://en.wikipedia.org/wiki/Iran–China_25-year_Cooperation_Program
 ** https://zh.wikipedia.org/wiki/中国－伊朗关系
 * 2019-09 https://lobelog.com/is-iran-at-risk-of-becoming-a-chinese-colony/ Is Iran At Risk Of Becoming A Chinese Colony?
+
+[[spain]]
+== Spain (西班牙)
+
+* hhttps://en.wikipedia.org/wiki/Spain
+* https://zh.wikipedia.org/wiki/西班牙
+
+===  tsunamidemocratic GitHub takedown (2019)
+
+https://www.bbc.co.uk/news/technology-50232902
+https://github.com/github/gov-takedowns/blob/master/Spain/2019/2019-10-26-GuardiaCivil.md
+
+TODO which repo was taken down exactly?
+
+[[india]]
+== India (伊朗)
+
+* https://en.wikipedia.org/wiki/India
+* https://zh.wikipedia.org/wiki/印度
+
+=== India COVID handling Twitter suppression (2021)
+
+<<india>> asked <<twitter>> to take down some Twetts criticizing its handling of <<covid,COVID>>.
+
+* https://www.reuters.com/world/india/india-asks-twitter-take-down-some-tweets-critical-its-covid-19-handling-2021-04-24/
+
+=== Indian farmers' protest censorship (2021)
+
+* https://en.wikipedia.org/wiki/2020%E2%80%932021_Indian_farmers%27_protest
+* https://zh.wikipedia.org/wiki/2020－2021年印度農民抗議
+
+https://www.bbc.co.uk/news/world-asia-india-55898708
 
 [[military-dictatorship-in-brazil]]
 == Military dictatorship in Brazil (1964-1985)
@@ -8520,7 +8588,7 @@ This is confirmed e.g. at: https://www.hf.uio.no/ikos/english/studies/voices-mid
 
 ____
 
-Within the first four months of Xuexi Qiangguo’s release, it was the most downloaded app in China with over 100 million downloads, surpassing China’s most popular messaging, social media and mobile payment app, WeChat and the <<tiktok,Chinese version of TikTok, known as Douyin>>.
+Within the first four months of Xuexi Qiangguo’s release, it was the most downloaded app in China with over 100 million downloads, surpassing China’s most popular messaging, social media and mobile payment app, <<wechat>> and the <<tiktok,Chinese version of TikTok, known as Douyin>>.
 
 To use the app is not exactly voluntary. The Communist Party has issued directives that requires party members to download the app and use it. Many workplaces have done the same and it has been reported that employees are required to send screenshots to document their progress on the app. If they don’t, they are at risk of a pay deduction.
 
@@ -8965,35 +9033,6 @@ https://github.com/fuckcqcs/fuckcqcs on <<github-repositories-with-censored-info
 * 2015 https://www.eff.org/deeplinks/2015/08/speech-enables-speech-china-takes-aim-its-coders https://github.com/shadowsocks/shadowsocks shadowsocks creator threatened
 * 2015 https://www.bbc.com/news/entertainment-arts-34630829 Lego refuses to sell to <<ai-weiwei>>
 * 2015 https://www.nytimes.com/2015/10/13/world/asia/china-bao-zhuoxuan-son-wang-yu-rights-lawyer-house-arrest.html Bao Zhuoxuan 16-year old son of human rights layer in house arrest
-
-[[the-709-crackdown]]
-==== 709 crackdown 中國709維權律師大抓捕事件 (2015)
-
-* https://en.wikipedia.org/wiki/709_crackdown
-* https://zh.wikipedia.org/wiki/中國709維權律師大抓捕事件
-
-Hundreds of human rights activists put into jail in quick succession. Short forms:
-
-* 709大抓捕
-* 710律师劫
-
-709 refers to the date when the arrests started: 09 July 2015. There were about 200 arrests.
-
-News coverage:
-
-* 2015
-** https://www.nytimes.com/2015/07/23/world/asia/china-crackdown-human-rights-lawyers.html
-** https://edition.cnn.com/2015/07/13/china/china-activists-arrests/
-** https://time.com/3954935/china-arrests-lawyers-human-rights/
-** https://program-think.blogspot.com/2015/07/weekly-share-90.html from <<programthink>>
-** 2015-11-24 https://www.youtube.com/watch?v=VOlLxL3UZL8 "回首2015：709律师大抓捕" by <<rfa>>
-* 2017
-** 2017-04 https://citizenlab.ca/2017/04/we-cant-chat-709-crackdown-discussions-blocked-on-weibo-and-wechat/
-
-Se also: <<intolerance>>
-
-.<<badiucao>> cartoon of about 40 of the arrested lawyers. TODO full name list. https://twitter.com/badiucao/status/884005207830544385[Source].
-image::{china-dictatorship-media-base}/709_lawyers.jpg[height=400]
 
 === News pre-2015
 
@@ -9449,7 +9488,7 @@ Retired teacher at <<central-party-school>> living in the USA.
 +
 She criticized <<xi-jinping>> in private online meeting, and the audio was leaked: https://www.youtube.com/watch?v=hEBHVsHlPeI
 ** 2020-08-21 https://www.taiwannews.com.tw/en/news/3992140 she was expelled from from the CCP, and she said she was happy.
-* https://www.rfa.org/english/news/china/monitor-08182020091653.html "Jailed WeChat User Says Chinese Police Monitor Overseas Accounts Too". Gao Zhigang.
+* https://www.rfa.org/english/news/china/monitor-08182020091653.html "Jailed <<wechat>> User Says Chinese Police Monitor Overseas Accounts Too". Gao Zhigang.
 * https://en.wikipedia.org/wiki/Chen_Guangcheng[Chen Guangcheng] (陈光诚). The blind dude. https://www.youtube.com/watch?v=zDqYMXxH09Y "Chinese dissident tells story of escaping tyranny and finding hope in America" by "Fox News" (2020-08-26) supporting Trump's reelection.
 
 Not sure if these are dissidents or not:
@@ -9463,7 +9502,7 @@ but that is really poorly stated and links to her blog as reference: https://med
 +
 But in any case, she walks the line.
 ** https://twitter.com/RealSexyCyborg/status/1281934477430681601 "Naomi on a Saturday night, complaining about the lack of available FOSS anti-censorship options to help her fellow Chinese access the global Internet. FML I should pack some snacks to take with me..." It's hard to understand what she means.
-** https://twitter.com/RealSexyCyborg/status/1340495054733905922 "I'm Cantonese, I've been in countless private WhatsApp and Telegram groups where these issues were openly discussed in our dialect, and countless Mainland WeChat groups with that perspective- trust me, I know quite a lot more about this than some illiterate randos from the US."
+** https://twitter.com/RealSexyCyborg/status/1340495054733905922 "I'm Cantonese, I've been in countless private WhatsApp and Telegram groups where these issues were openly discussed in our dialect, and countless Mainland <<wechat>> groups with that perspective- trust me, I know quite a lot more about this than some illiterate randos from the US."
 ** So either she is anti-CCP, or she is part of the most advanced <<soft-power>> program ever made
 
 ==== Lists of Chinese dissidents
@@ -10013,7 +10052,7 @@ Reports:
 * https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg
 * https://zh.wikipedia.org/wiki/中国环球电视网
 
-CCTV's international branch in English, China's <<voa>>.
+<<cctv>>'s international branch in English, China's <<voa>>.
 
 * 20201-02-04: https://edition.cnn.com/2021/02/04/media/cgtn-uk-license-ofcom/index.html lost UK license
 
@@ -10513,7 +10552,7 @@ As of 2019 he does work for <<rfa>>, so a possible list of all cartoons of this 
 
 His best work can be found scattered throughout this document in the relevant sections.
 
-.Rebel Pepper's self portrait as a perverted pepper (the literal translation of his Chinese name "变态辣椒") used in his Sina and Tencent accounts before those got deleted https://www.bbc.com/zhongwen/simp/china_watch/2014/08/140827_china_cartoonist[according to the BBC]. https://ecdm.fandom.com/zh/wiki/变态辣椒[Source].
+.Rebel Pepper's self portrait as a perverted pepper (the literal translation of his Chinese name "变态辣椒") used in his Sina and <<tencent>> accounts before those got deleted https://www.bbc.com/zhongwen/simp/china_watch/2014/08/140827_china_cartoonist[according to the BBC]. https://ecdm.fandom.com/zh/wiki/变态辣椒[Source].
 image::{china-dictatorship-media-base}/Rebel_pepper.jpg[height=400]
 
 ==== Paresh Nath
@@ -11737,7 +11776,9 @@ It does not feel like he is paid by the Chinese government, but rather that he i
 +
 https://www.zhihu.com/question/334923127 如何评价俄罗斯籍中国网红伏拉夫？ on <<zhihu>> with 17k likes as of 2020-06.
 * https://en.wikipedia.org/wiki/Allan_Zeman Carrie Lam supporter
-* "Living in China" by Jason Lightfoot: https://www.youtube.com/user/JasonLightfoot Sample video: https://www.youtube.com/watch?v=2Mjik6q7FFo "The CCP is Wonderful! Thank you China not a government shill 谢谢你中国"
+* "Living in China" by Jason Lightfoot: https://www.youtube.com/user/JasonLightfoot Sample video:
+** https://www.youtube.com/watch?v=2Mjik6q7FFo "The CCP is Wonderful! Thank you China not a government shill 谢谢你中国"
+** https://www.youtube.com/watch?v=9SftsZXlIKM "British vlogger: The life of Uygurs and other minorities in China" reposted by <<cgtn>> (2021)
 
 <<nazi>>-related people that come to mind:
 
@@ -11757,6 +11798,8 @@ TODO decide:
 * Mexicanos en China https://www.youtube.com/channel/UCgQYtqm1xB2uuNZaOniCH0Q Sample video: https://www.youtube.com/watch?v=a71fDVMBwP8 "Is the CHINESE GOVERNMENT PAYING US to Make Videos: Our Trip to Shaanxi // 中国政府是否付钱给我们制作视频" https://youtu.be/a71fDVMBwP8?t=188 says they were sponsored for the vidieo.
 * Gweilo60's Channel: https://www.youtube.com/gweilo60
 * Eric Favreliere: https://www.instagram.com/ericfavreliere/
+* Laoma Chris (Chris Max, 口语老炮儿马思瑞). No ultra-pro CCP content, but has some anti-US content, and significant business interest in China. Large channel, 700k+ subscribers as of April 2021:
+** https://www.youtube.com/watch?v=WQQ-9x5c6nM Why Is Police Brutality So Common in the US? (2020)
 
 Bibliography:
 
@@ -11884,6 +11927,37 @@ This is the original video link: https://www.youtube.com/watch?v=8N_wKd5UUg4 acc
 Nigel had 125k Weibo followers at that point, and reuploads every YouTube video he posts over there with Chinese subtitles: https://weibo.com/u/7231497816[], extremely likely done by paid professionals.
 
 Saying hi: https://github.com/nigeljyng/dotfiles/issues/4
+
+[[raz-gal-or]]
+====== Raz Gal-Or (高佑思, Ychina, 歪果仁研究协会)
+
+* https://en.wikipedia.org/wiki/Raz_Gal-Or
+* https://zh.wikipedia.org/wiki/高佑思
+
+Israeli, studied at Peking University. Ychina (歪果仁研究协会) is his pro-CCP propaganda organization, based in Beijing.
+
+His father https://en.wikipedia.org/wiki/Amir_Gal-Or[Amir Gal-Or] (高哲铭), also Israeli, is a venture capitalist based in China, and ex-Israeli Air Force. What a disgrace.
+
+Media:
+
+* https://www.youtube.com/watch?v=8SJcr29TmNo Ychina YouTube channel
+* https://www.facebook.com/ychinamedia Facebook Video channel (reposts)
+
+Sample posts:
+
+* https://www.youtube.com/watch?v=67pU0Ybovnc What I saw in Xinjiang working as a Cotton Farmer by 歪果仁研究协会 Ychina (2021) reply video to <<xinjiang-cotton>>. He got access to Xinjiang. Deep links.
+* https://www.youtube.com/watch?v=pGDYk7GSX-Q SHOCKING! Is United States Gonna Take Down <<wechat>> Too？ by 歪果仁研究协会 Ychina (2020) At which point every single Western chat program is blocked in China.
+
+Associates:
+
+* Lila Kidson (alias 星悦/StarHappy), appears very frequently e.g. https://www.youtube.com/watch?v=8SJcr29TmNo[]. According to https://thenanyan.com/2020/03/02/ychina-a-pku-international-alumni-and-student-led-media-group-fights-the-coronavirus/ also names his associates she is "an American who studies in PKU, the vice president [of Ychina]"
+* from https://www.youtube.com/watch?v=1K2KGgxPy2U[] How has life CHANGED for American citizens during the Epidemic outbreak? (2020):
+** Dylan Jaye (dylanjayezyl, 钟逸伦)
+*** https://www.instagram.com/dylanjayezyl
+*** https://www.youtube.com/watch?v=YQtHY3QWxjY "Ychina Music | “Another Day In China” RAP" (2017)
+** Chris TODO
+* from https://www.youtube.com/watch?v=wyRuCWyv2vo
+** Brian
 
 [[real-username-law]]
 ==== Real username law (2015)
@@ -12013,10 +12087,41 @@ But in reality they punish anyone who poses a political threat, even if they did
 * <<xinjiang>>: millions were jailed/forced to live with a spy in their homes, even though they were not terrorists themselves
 * <<falun-gong>>: what did they do wrong to other people that deserves putting them in jail? Is <<flg-medication>> enough to justify that? Are you sure that it is not a political motivation?
 * <<the-709-crackdown>>: even lawyers who support anyone who went against the state are imprisoned. How can there be any justice when lawyers are put in jail due to their choice of clients?
-* 2020-06 Hao Runze, son of <<hao-haidong>>, lost his job because his father spoke up against the CCP. Did the CCP speak up for him, like the speak up whenever a Chinese citizen gets hurt?
+* 2020-06 Hao Runze, son of <<hao-haidong>>, lost his job because his father spoke up against the CCP. Did the CCP speak up for him, like they speak up whenever a Chinese citizen gets hurt?
 
 .On 2021-03-31, a uniformed Chinese cop called Qelbinur Sedik, who was a teacher in the <<xinjiang-re-education-camps>> who https://thediplomat.com/2020/08/confessions-of-a-xinjiang-camp-teacher/[fled China and spoke to the media what she saw], to menace her through her sister, who is still in China. When he noticed that she had taken a screenshot due to a screenshot sound, he immediately took off the uniform. https://www.bbc.co.uk/news/world-asia-china-56563449[Source].
 image::{china-dictatorship-media-base}/Qelbinur_Sedik_call_with_cop.jpg[height=400]
+
+[[the-709-crackdown]]
+==== 709 crackdown 中國709維權律師大抓捕事件 (2015)
+
+* https://en.wikipedia.org/wiki/709_crackdown
+* https://zh.wikipedia.org/wiki/中國709維權律師大抓捕事件
+
+Hundreds of human rights activists put into jail in quick succession. Short forms:
+
+* 709大抓捕
+* 710律师劫
+
+709 refers to the date when the arrests started: 09 July 2015. There were about 200 arrests.
+
+It is impossible to have <<rule-of-law>> when the lawyers for certain causes always go to jail.
+
+News coverage:
+
+* 2015
+** https://www.nytimes.com/2015/07/23/world/asia/china-crackdown-human-rights-lawyers.html
+** https://edition.cnn.com/2015/07/13/china/china-activists-arrests/
+** https://time.com/3954935/china-arrests-lawyers-human-rights/
+** https://program-think.blogspot.com/2015/07/weekly-share-90.html from <<programthink>>
+** 2015-11-24 https://www.youtube.com/watch?v=VOlLxL3UZL8 "回首2015：709律师大抓捕" by <<rfa>>
+* 2017
+** 2017-04 https://citizenlab.ca/2017/04/we-cant-chat-709-crackdown-discussions-blocked-on-weibo-and-wechat/
+
+Se also: <<intolerance>>
+
+.<<badiucao>> cartoon of about 40 of the arrested lawyers. TODO full name list. https://twitter.com/badiucao/status/884005207830544385[Source].
+image::{china-dictatorship-media-base}/709_lawyers.jpg[height=400]
 
 [[picking-quarrels]]
 ==== Picking quarrels and provoking trouble (寻衅滋事罪)
@@ -12303,6 +12408,18 @@ ____
 Website: https://www.163.com/
 
 Operates some MMORPGs in China. According to Wikipedia: "The company also owns several pig farms." That's the most amazing thing <<ciro-santilli>> has ever heard.
+
+[[tencent]]
+=== Tencent (腾讯)
+
+* https://en.wikipedia.org/wiki/Tencent
+* https://zh.wikipedia.org/wiki/腾讯
+
+[[wechat]]
+==== WeChat (微信)
+
+* https://en.wikipedia.org/wiki/WeChat
+* https://zh.wikipedia.org/wiki/微信
 
 == Chinese censorship companies
 
