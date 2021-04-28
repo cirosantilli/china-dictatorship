@@ -1,0 +1,12 @@
+image: alpine:latest
+
+pages:
+  stage: deploy
+  script:
+  - echo 'Nothing to do...'
+  artifacts:
+    paths:
+    - .
+    expire_in: 1 day
+  only:
+  - gh-pages
