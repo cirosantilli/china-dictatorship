@@ -153,7 +153,7 @@ https://cirosantilli.com/china-dictatorship#thai-king-hamtaro
 image::{china-dictatorship-media-base}/Side_by_side_comparison_between_Thai_king_Vajiralongkorn_and_Hamtaro.jpg[height=400]
 
 [[mirrors]]
-== Mirrors of this page (这个网页的镜像)
+== Mirrors of this page (本网页的镜像)
 
 You can download the webpage locally from GitHub at: https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip
 
@@ -473,7 +473,7 @@ Some minor relationships with <<terminus2049>>:
 
 The anonymous user https://github.com/duty-machine has some automation setup such that anyone can request certain webpages to be copied on to GitHub anonymously through a separate website, notably:
 
-* https://github.com/duty-machine/duty-machine[]: big Chinese social media, e.g. Weibo, <<zhihu>>, Douban. Articles stored in issues. Archive requests: https://archives.duty-machine.now.sh/
+* https://github.com/duty-machine/duty-machine[]: big Chinese social media, e.g. <<weibo>>, <<zhihu>>, Douban. Articles stored in issues. Archive requests: https://archives.duty-machine.now.sh/
 * https://github.com/duty-machine/news[]: big Western news websites like Reuters, BBC, etc. Articles stored in-tree.
 
 The project claims to have been inspired by <<terminus2049>>, but hopefully they will have better operational security.
@@ -2408,7 +2408,7 @@ This movie was almost banned in Britain at the time due to lobbying by Christian
 
 Key scenes:
 
-* <<life-of-brian-nazi-jew>>
+* <<life-of-brian-nazi-jew,Nazi Jew scene from The Life of Brian>>
 
 ====== The secret Life of Brian (2007)
 
@@ -3440,7 +3440,7 @@ E.g.: <<falun-gong>>, <<tiananmen>>.
 +
 Non e.g.: corruption and pollution. Those are hard to quantify, and there is always an immediate reply: china GDP per capita is low, same happens in India, Brazil, etc.
 +
-Freedom of speech however, is immediately verifiable (e.g. "my Weibo was taken down"), and undeniably caused by the current central government.
+Freedom of speech however, is immediately verifiable (e.g. "my <<weibo,Weibo>> was taken down"), and undeniably caused by the current central government.
 * the more people affected, and the more deeply they have been affected, the more important obviously
 
 I am currently trying to maintain in my Stack Overflow Location a ranking of events in a single string, so that it can be easily copy pasted around. The location appears on every page if you hover over my account name, so it is likely in the HTML at least.
@@ -3913,7 +3913,7 @@ Companies that supported:
 
 * 2021-03-26 https://hongkongfp.com/2021/03/26/hugo-boss-tells-chinese-customers-it-will-continue-to-purchase-xinjiang-cotton-months-after-telling-us-news-outlet-it-has-never-used-it/ ""Hugo Boss tells Chinese customers it will continue to purchase Xinjiang cotton, months after telling US news outlet it has never used it". People https://www.reddit.com/r/China/comments/mdilxi/hugo_boss_tells_chinese_customers_it_will/[immediately commented] that Hugo Boss was the company who made <<nazi>> uniforms.
 +
-Here's a link to the Weibo mentioned: https://weibo.com/2329770312/K7RDviZl4?from=page_1006062329770312_profile&wvr=6&mod=weibotime&type=comment archive: https://archive.ph/tOcum
+Here's a link to the <<weibo>> mentioned: https://weibo.com/2329770312/K7RDviZl4?from=page_1006062329770312_profile&wvr=6&mod=weibotime&type=comment archive: https://archive.ph/tOcum
 +
 Original text:
 +
@@ -5454,7 +5454,7 @@ Since I expect the ban lists to be private, I find it extremely likely that this
 
 Users with the same user id `crb912`, related "Eureka" username or same profile picture, can be found at:
 
-* https://www.weibo.com/crb912 (unable to archive)
+* https://www.weibo.com/crb912 (unable to archive) on <<weibo>>
 * https://github.com/crb912 | https://archive.is/heGfd which suggests a possible real name
 
 By Googling the email found on the GitHub repos, we find: http://www.360doc.com/content/15/0809/11/25724933_490492490.shtml | https://archive.is/2UnGL which might, at last, contain a photo of my nemesis.
@@ -5701,6 +5701,7 @@ No HTTPS?!?! Brains?!?!
 
 * http://g.histsci.org/
 * http://o.poetpalace.org/
+* https://oneplj.com/webhp broken HTTPS
 
 Lists of mirrors:
 
@@ -5775,7 +5776,7 @@ Organisers are 'taking a break from scheduling any future events', they say in s
 ** the Tweet: https://twitter.com/ShanghaiPride/status/1293897794919510016 "上海骄傲节终止所有活动" (Shanhai Pride will be stopping all activities)
 ** https://en.wikipedia.org/wiki/Shanghai_Pride
 * 2020-01-07 https://www.nbcnews.com/feature/nbc-out/why-china-raising-prospect-same-sex-marriage-n1109471 "Why is China raising the prospect of same-sex marriage?"
-* 2018 Weibo temporary homosexual ban:
+* 2018 <<weibo>> temporary homosexual ban:
 ** 2018-04-16 https://www.theguardian.com/world/2018/apr/16/china-weibo-bans-homosexual-content-protest "China's Weibo reverses ban on 'homosexual' content after outcry", hashtags `#iamgay` and `#iamgaynotapervert`
 ** 2018-04-13 https://www.whatsonweibo.com/weibos-new-online-guidelines-no-homosexuality-allowed/
 * 2017-07-16 https://www.bbc.co.uk/news/blogs-trending-40610679 "Chinese gay video ban sparks online backlash"
@@ -8724,7 +8725,7 @@ Jiang is often compared to a toad in a meme what is referred to as toad worship 
 
 Jiang has an amazing array of meme-ready funny expressions.
 
-.Comparison between Jiang Zemin and a 72-feet-tall inflatable toad in a Beijing park seen in 2014 made the rounds on Weibo and led to some <<censorship,censorship>>. https://edition.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html[Source].
+.Comparison between Jiang Zemin and a 72-feet-tall inflatable toad in a Beijing park seen in 2014 made the rounds on <<weibo>> and led to some <<censorship,censorship>>. https://edition.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html[Source].
 image::{china-dictatorship-media-base}/Jiang_Zemin_frog.jpg[height=400]
 
 .Jiang picking his nose. https://pieceofmindful.com/2013/12/12/chinese-exceptionalism/[Source].
@@ -9553,7 +9554,7 @@ Based on Ireland.
 
 MMA fighter who beat up some kung-fu masters to prove that MMA is more effective than their traditional styles.
 
-As of 2019, he had 14 Weibo accounts blocked (created one, got blocked, created another, got blocked, etc.). Source: https://www.inkstonenews.com/society/chinas-mma-fighter-xu-xiaodong-fight-survival/article/3047417
+As of 2019, he had 14 <<weibo>> accounts blocked (created one, got blocked, created another, got blocked, etc.). Source: https://www.inkstonenews.com/society/chinas-mma-fighter-xu-xiaodong-fight-survival/article/3047417
 
 Profiles and news:
 
@@ -9801,6 +9802,51 @@ Hao Runze's page https://baike.baidu.com/item/郝润泽
 * still up 2020-06-14 but locked: https://web.archive.org/web/20200614105842/https://baike.baidu.com/item/郝润泽
 * and casually forgets to mention that he is the fucking son of Haidong, which was likely edited out recently, but there is no edit history in Baidu Baike. <<google-cache>> was already from 2020-06-08 and missed the pre-edit. What a shame
 * The last entry says "2020年5月31日，郝润泽在塞尔维亚超级联赛第27轮尼什工人客场挑战纳普里达克的比赛中，首秀替补出场打入一球，帮助尼什工人实现绝平。" and also casually forgets to mention that he was fired two weeks later.
+
+[[chloe-zhao]]
+==== Chloe Zhao (赵婷, Zhao Ting, 2021)
+
+* https://en.wikipedia.org/wiki/Chloé_Zhao
+* https://zh.wikipedia.org/wiki/趙婷
+
+Born and raised in China, moved to the West at age 15, but retained Chinese citizenship as far as is publicly known.
+
+In 2013 she told the magazine Filmmaker https://web.archive.org/web/20130814185314/https://filmmakermagazine.com/people/chloe-zhao/[] (later removed from the website):
+
+____
+It goes back to when I was a teenager in China, being in a place where there are lies everywhere. You felt like you were never going to be able to get out. A lot of info I received when I was younger was not true, and I became very rebellious toward my family and my background. I went to England suddenly and relearned my history. Studying political science in a liberal arts college was a way for me to figure out what is real. Arm yourself with information, and then challenge that too.
+____
+
+TODO was that the only comment she ever made or is there more?
+
+Won the 2021 Oscar (93rd) for best picture and best director on 2021-04-25 for her film Nomadland 无依之地.
+
+On 2021-04-26 reports emerged that her win was being censored in China: https://www.wsj.com/articles/china-censors-nomadland-director-chloe-zhaos-oscar-win-11619440550 Unlike <<hao-haidong>> however, the order was much more specific: to censor only the fact that she won the Oscars.
+
+As of 2021-04-27 her <<baidu-baike>> page https://baike.baidu.com/item/赵婷/22214113 was still up: https://web.archive.org/web/20210427075523/https://baike.baidu.com/item/赵婷/22214113  let's see how long it lasts. But the page failed to mention the minor detail that she on the Oscar. The comment section, which we're unable to archive contained two types comments:
+
+* she's an American citizen now, not Chinese, just it wasn't reported. But no one has any proof.
+* she won the Oscar
+
+https://web.archive.org/web/20210413095903/https://baike.baidu.com/tashuo/browse/content?id=c9fdac1dcf27bdd1280ac9e1&lemmaId=22214113&fromLemmaModule=pcBottom contains a prediction that she would win the Oscar based on earlier recent wins.
+
+The page for the 93rd Oscar mysteriously does not exit however: https://baike.baidu.com/item/第93届奥斯卡金像奖 unlike that of all others: https://baike.baidu.com/item/第92届奥斯卡金像奖 (https://archive.ph/wip/gGGtn[archive]) We can't find an archive either, but it is overwhelmingly likely that it was  created and later deleted.
+
+On <<zhihu>> the topic 93rd Oscar "第93 届奥斯卡金像奖" https://www.zhihu.com/topic/21594057 was deleted:
+
+* up 2021-04-09 https://archive.ph/dZAHE with 13 questions
+* down 2021-04-27 https://archive.ph/wip/LYwOb
+
+The Chloe Zhao topic https://www.zhihu.com/topic/20175085/hot was still up: 2021-04-27 with 8 questions: https://archive.ph/wip/CI3vz but funnily that website is so shit that it still links to some deleted questions e.g.: which used to read https://zhuanlan.zhihu.com/p/368060294 "赵婷获第93届奥斯卡最佳导演奖，有思想的女孩子最可爱" but is down https://archive.ph/wip/6eiTl
+
+Some archived deleted threads:
+
+* https://www.zhihu.com/question/420850041 (https://www.zhihu.com/question/420850041[archive]) 如何评价中国导演赵婷作品《无依之地》获得第 77 届威尼斯电影节最高奖金狮奖？ What do you think about Chloe Zhao's work nomadland that won the 77th Venice Film Festival
+
+The page of the film is still up 2021-04-27 https://baike.baidu.com/item/无依之地/50656178 (https://web.archive.org/web/20210413021635/https://baike.baidu.com/item/无依之地/50656178[archive]).
+
+.<<chloe-zhao>> holding the 2021 Oscars for best director and best film. The fact that she won was censored in China because she made one single negative comment about the CCP in 2013.
+image::{china-dictatorship-media-base}/Chloe_Zhao_won_93rd_Oscar.jpg[height=500]
 
 [[howey-ou]]
 ==== Howey Ou (欧泓奕, 2019)
@@ -10515,9 +10561,7 @@ See also:
 
 * <<life-of-brian-1979>>
 * <<zone-theory>>
-
-.Weibo logo vs Sauron's eye 微博标志vs索倫魔眼 by Ciro Santilli.
-image::{china-dictatorship-media-base}/Weibo_Sauron.jpg[height=400]
+* <<weibo-logo>>
 
 [[cartoonists]]
 === Cartoonists (漫画家)
@@ -11244,7 +11288,7 @@ And some interesting random stuff that is hard to understand why its blocked, so
 
 Other tools and projects:
 
-* https://freeweibo.com a Weibo archive to overcome deleted posts
+* https://freeweibo.com a <<weibo>> archive to overcome deleted posts
 * https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how made some noise at the time
 * https://twitter.com/GreatFireChina
 * <<collateral-freedom>>
@@ -11916,7 +11960,7 @@ ____
 
 Nigel had published a collaboration video called "Uncle Roger Review UGLIEST DUMPLING EVER" with another YouTuber called https://www.youtube.com/channel/UCjkGXhZsu5H64fWuNQNf1Xw[Mikey Chen], who unknown to Nigel, is a somewhat discreet <<falun-gong>> believer (https://www.youtube.com/watch?t=315&v=nD6792YoOmY[source])
 
-The video then removed solely because of Mikey's believes expressed elsewhere. The apology on Weibo: https://weibo.com/7231497816/JCQPH5vzK[] Excerpt:
+The video then removed solely because of Mikey's believes expressed elsewhere. The apology on <<weibo>>: https://weibo.com/7231497816/JCQPH5vzK[] Excerpt:
 
 ____
 During the process of working with the content-creator, I wasn't aware of his political thoughts and his past incorrect remarks about China. This is my negligence, and I will be more careful when I make content in the future.
@@ -11924,21 +11968,21 @@ ____
 
 This is the original video link: https://www.youtube.com/watch?v=8N_wKd5UUg4 according to this reaction video: https://www.youtube.com/watch?v=hsatmCWeVb8 No archives of the original were made unfortunately.
 
-Nigel had 125k Weibo followers at that point, and reuploads every YouTube video he posts over there with Chinese subtitles: https://weibo.com/u/7231497816[], extremely likely done by paid professionals.
+Nigel had 125k <<weibo>> followers at that point, and reuploads every YouTube video he posts over there with Chinese subtitles: https://weibo.com/u/7231497816[], extremely likely done by paid professionals.
 
 Saying hi: https://github.com/nigeljyng/dotfiles/issues/4
 
 [[raz-gal-or]]
 ====== Raz Gal-Or (高佑思, Ychina, Y-Platform, 歪果仁研究协会)
 
-* https://en.wikipedia.org/wiki/Raz_Gal-Or
+* https://en.wikipedia.org/wiki/Raz_Gal-Or Was being considered for deletion for non-notability: https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Raz_Gal-Or but it got through because there's a bunch of <<chinese-government-media>> that reported on him obviously. Which is a good thing as it allows us to know more about the bastard.
 * https://zh.wikipedia.org/wiki/高佑思
 
 Israeli, studied at Peking University. Ychina (歪果仁研究协会) is his pro-CCP propaganda organization, based in Beijing.
 
-His father https://en.wikipedia.org/wiki/Amir_Gal-Or[Amir Gal-Or] (高哲铭), also Israeli, is a venture capitalist based in China. So that's the collateral for his son's media access. Amir is an ex-Israeli Air Force. What a disgrace. Mossad is going to pay those people a visit one day. Supposing they are not already working for Mossad. Here's the happy family: https://twitter.com/AmirGalOr/status/911491366995103744[], father and son entitled "being  interviewed by my son in <<cctv>> headquarters .. a new era .." Here's his TED talk on how to educate your children to support <<nazi,Hitler>> v2: https://www.youtube.com/watch?v=Uk4ztwRvUxs "How to educate the next generation of global communications? | Amir Galor | TEDxYouth@Hangzhou" (2019)
+His father https://en.wikipedia.org/wiki/Amir_Gal-Or[Amir Gal-Or] (高哲铭), also Israeli, is a venture capitalist based in China. So that's the collateral for his son's media access. Amir is an ex-Israeli Air Force. What a disgrace. Mossad is going to pay those people a visit one day. Supposing they are not already working for Mossad. Here's the happy family: https://twitter.com/AmirGalOr/status/911491366995103744[], father and son entitled "being  interviewed by my son in <<cctv>> headquarters .. a new era .." Here's his TED talk on how to educate your children to support <<nazi,Hitler>> v2 do <<xinjiang-re-education-camps,holocaust v2>>: https://www.youtube.com/watch?v=Uk4ztwRvUxs "How to educate the next generation of global communications? | Amir Galor | TEDxYouth@Hangzhou" (2019). The <<life-of-brian-nazi-jew,Nazi Jew scene from The Life of Brian>> comes to mind very strongly.
 
-Y-Platform had a 3.5M investment from Weibo: https://www.finsmes.com/2020/03/y-platform-completes-3-5m-series-a-funding-round.html
+Y-Platform had a 3.5M investment from <<weibo>>: https://www.finsmes.com/2020/03/y-platform-completes-3-5m-series-a-funding-round.html
 
 Media:
 
@@ -12349,7 +12393,7 @@ The "Google of China":
 ** the <<cac>> uses their analytics as of 2020
 
 [[baidu-baike]]
-==== Baidu Baike (Chinese censored Wikipedia clone)
+==== Baidu Baike (Chinese censored Wikipedia clone, 百度百科)
 
 * https://en.wikipedia.org/wiki/Baidu_Baike
 * https://zh.wikipedia.org/wiki/百度百科
@@ -12361,6 +12405,11 @@ The leading Chinese Wikipedia clone by <<baidu>>.
 Website: https://baike.baidu.com/[].
 
 Seems to not have edit history. <<wayback-machine,History >> is bad for censorship, because you never know when you might need to rewrite it ;-) See also: <<nineteen-eighty-four>>.
+
+Also has:
+
+* a blogging platform embedded into it called TA说, e.g.: https://web.archive.org/web/20210413095903/https://baike.baidu.com/tashuo/browse/content?id=c9fdac1dcf27bdd1280ac9e1&lemmaId=22214113&fromLemmaModule=pcBottom
+* a decent, but unarchivable, comment section: https://web.archive.org/web/20210427075821/https://baike.baidu.com/planet/talk?lemmaId=22214113
 
 [[alibaba]]
 === Alibaba (阿里巴巴)
@@ -12423,6 +12472,26 @@ Operates some MMORPGs in China. According to Wikipedia: "The company also owns s
 
 * https://en.wikipedia.org/wiki/WeChat
 * https://zh.wikipedia.org/wiki/微信
+
+The dominating Chinese WhatsApp clone as of 2020, with infinitely many other functionality added, notably payments.
+
+[[sina]]
+=== Sina Corp (新浪)
+
+* https://en.wikipedia.org/wiki/Sina_Corp
+* https://zh.wikipedia.org/wiki/新浪
+
+[[weibo]]
+==== Weibo (新浪微博)
+
+* https://en.wikipedia.org/wiki/WeChat
+* https://zh.wikipedia.org/wiki/微信
+
+The dominating Chinese Facebook/Twitter clone as of 2020.
+
+[[weibo-logo]]
+.<<weibo>> logo vs Sauron's eye 微博标志vs索倫魔眼 by <<ciro-santilli>>.
+image::{china-dictatorship-media-base}/Weibo_Sauron.jpg[height=400]
 
 == Chinese censorship companies
 
@@ -12540,7 +12609,7 @@ Someone subscribed me to a hundred GovDelivery mailing lists. This bullshit is a
 * 2018-03-11: got a large traffic peak (60 vs 10 average), but no linkbacks to match. Likely source: parcerier pinged me at: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/267723#comment562812_288497 and I revamped the and FAQ replied with https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/267723#comment562840_320914 Someone also made: https://archive.is/jcZCA which points to: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/267723#comment562810_267723 . This issue was opened that day as well: https://github.com/cirosantilli/china-dictatorship/issues/12
 * 2018-01: https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1088&context=cs_etds this site appears on the reference of a PhD thesis paper haha, links to complete-gfw-rulebook-for-wikipedia-v3.0.pdf.
 * 2017-05: https://t.co/AosRq06akz TODO where from. "Measuring Decentralization of Chinese Censorship in Three Industry Segments" by Jeffrey Knockel. Now at Citizenlab: https://www.cs.unm.edu/~jeffk/
-* 2015-09-03: (deleted) http://www.weibo.com/2014703917/Cyc1gFt7A This is the user: http://www.weibo.com/2014703917 There have also been accesses from link:http://weibo.cn/sinaurl[], but I don't know what that means.
+* 2015-09-03: (deleted) http://www.weibo.com/2014703917/Cyc1gFt7A on <<weibo>> This is the user: http://www.weibo.com/2014703917 There have also been accesses from link:http://weibo.cn/sinaurl[], but I don't know what that means.
 * 2015-08-03: 21 visitor Facebook peak, can't find the source
 * 2015-06-20: (deleted) link:https://www.plurk.com/p/l1jjn4[] Archive: https://web.archive.org/web/20150918110032/https://www.plurk.com/p/l1jjn4 "這阿豆阿的名字XDD" by https://www.plurk.com/m/u/cyuanXD
 * 2015-05-30: <<zhou-fengsuo>> linked to <<ciro-santilli>>'s stack overflow account!!!

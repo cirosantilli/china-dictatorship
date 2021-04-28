@@ -8,6 +8,10 @@ Forbidden:
 
     Create a new issues instead if you are arriving at a thread created by someone else and a have a new relevant point.
 
+-   don't close your tickets, only @cirosantilli can decide open/close status.
+
+    Don't vandalize your titles and post bodies after posting, only @cirosantilli can do that. Remember that every new issue generates a useless notification to Ciro Santilli who watches the repo, so don't try to hide your shit after you've crapped it.
+
 -   [Evil West](https://cirosantilli.com/china-dictatorship#evil-west) posts are OK, but they *must* explain why you think a dictatorship would better solve the problem.
 
     Further rationale at: https://cirosantilli.com/china-dictatorship#bias

@@ -91,7 +91,10 @@ for (const word of shitpostWords) {
 }
 if (newLabels.size > 0) {
   newLabels.add('shitpost');
-  labels.delete('not-shitpost');
+  if (labels.has('not-shitpost')) {
+    labels.delete('not-shitpost');
+    newLabels.add('op-does-not-know-what-shit-is');
+  }
 }
 
 // Make the request.
