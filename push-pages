@@ -26,7 +26,7 @@ fi
 gl_pages_dir=out/gl-pages
 if [ ! -d "$gl_pages_dir" ]; then
   mkdir -p "${gl_pages_dir}/public"
-  git clone --branch gl-pages --depth 1 "$(git remote get-url origin)" "$gl_pages_dir"
+  git clone --branch gl-pages --depth 1 git@gitlab.com:cirosantilli/china-dictatorship.git remote get-url origin "$gl_pages_dir"
 fi
 cp README.html "${gl_pages_dir}/public/index.html"
 cp .gitlab-ci.yml "${gl_pages_dir}"
