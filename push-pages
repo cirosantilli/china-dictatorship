@@ -17,9 +17,20 @@ if [ ! -d "$gh_pages_dir" ]; then
   git clone --branch gh-pages --depth 1 "$(git remote get-url origin)" "$gh_pages_dir"
 fi
 cp README.html "${gh_pages_dir}/index.html"
-cp .gitlab-ci.yml "${gh_pages_dir}"
 git -C "$gh_pages_dir" add .
 if git -C "$gh_pages_dir" commit -m "$(git log -1 --format="%H")"; then
   git -C "$gh_pages_dir" push
-  git -C "$gh_pages_dir" push git@gitlab.com:cirosantilli/china-dictatorship.git
+fi
+
+# GitLab pages
+gl_pages_dir=out/gl-pages
+if [ ! -d "$gl_pages_dir" ]; then
+  mkdir -p "${gl_pages_dir}/public"
+  git clone --branch gl-pages --depth 1 "$(git remote get-url origin)" "$gl_pages_dir"
+fi
+cp README.html "${gl_pages_dir}/public/index.html"
+cp .gitlab-ci.yml "${gl_pages_dir}"
+git -C "$gl_pages_dir" add .
+if git -C "$gl_pages_dir" commit -m "$(git log -1 --format="%H")"; then
+  git -C "$gl_pages_dir" push
 fi

@@ -9,4 +9,4 @@ pages:
     - index.html
     expire_in: 1 day
   only:
-  - gh-pages
+  - gl-pages
