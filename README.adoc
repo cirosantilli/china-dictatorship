@@ -2737,7 +2737,7 @@ A Chinese insult tip 101, avoid similar sound euphemisms. If you are going to sa
 *** "B": https://github.com/cirosantilli/china-dictatorship/issues/105
 * 肏 fuck: 操
 * 傻 idiot: 沙
-* 屌 dick: 雕
+* 屌 dick: 屌
 
 Places to try and decrypt Internet slang when you feel like wasting your time:
 
@@ -2906,6 +2906,9 @@ image::{china-dictatorship-media-base}/Chinese_character_extreme.svg[height=400]
 
 .The Sweet Brown https://en.wikipedia.org/wiki/Ain%27t_Nobody_Got_Time_for_That[Ain't Nobody Got Time for That] meme (https://knowyourmeme.com/memes/sweet-brown-aint-nobody-got-time-for-that[knowyourmeme]) fits perfectly into how Ciro feels about learning Chinese characters.
 image::{china-dictatorship-media-base}/Sweet_brown_chinese_characters_meme.jpg[height=500]
+
+.Translation of the above.
+image::{china-dictatorship-media-base}/Sweet_brown_chinese_characters_meme_zh.jpg[height=500]
 
 ////
 .https://www.youtube.com/watch?v=t_cbW5JK9WM "The most complex Chinese character" by Vladimir Skultety does a reasonable analysis of which Chinese character is the most complex
