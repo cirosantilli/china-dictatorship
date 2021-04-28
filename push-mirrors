@@ -33,7 +33,6 @@ twine upload dist/*
 rm -rf build dist *.egg-info
 
 # Push to other git mirrors.
-git push git@gitlab.com:cirosantilli/china-dictatorship.git
 git push git@bitbucket.org:cirosantilli/china-dictatorship.git
 git push git@gitlab.binets.fr:ciro.duran-santilli/china-dictatorship.git
 # Nah.

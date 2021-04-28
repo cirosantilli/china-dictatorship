@@ -300,19 +300,19 @@ Another source of China-specific mirroring are GitHub proxies, https://linuxpip.
 * https://github.com/521xueweihan/GitHub520
 * https://github.independentlyreview.com/cirosantilli/china-dictatorship described at https://independentlyreview.com/link as using https://workers.cloudflare.com/[Cloudflare workers]
 
-Update all mirrors in one go with: link:push-mirrors[]:
+Create tags,and update all mirrors in one go with: link:push-mirrors[]:
 
 ....
 ./push-mirrors
 ....
 
-In particular, that script calls link:push-gh-pages[]:
+In particular, that script calls link:push-pages[]:
 
 ....
-./push-gh-pages
+./push-pages
 ....
 
-which is more lightweight and pushes just to GH Pages, so we are going to be using that more often to avoid overloading package managers too much.
+which is more lightweight and pushes just to GitHub and GitLab Pages, so we are going to be using that more often to avoid overloading package managers too much.
 
 There is no need to update package versions or add git tags, all of that gets done automatically by the script!
 

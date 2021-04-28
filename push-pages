@@ -5,6 +5,7 @@
 set -eux
 make
 git push --follow-tags
+git push git@gitlab.com:cirosantilli/china-dictatorship.git
 
 # GitHub pages.
 # One time initial setup.
@@ -20,5 +21,5 @@ cp .gitlab-ci.yml "${gh_pages_dir}"
 git -C "$gh_pages_dir" add .
 if git -C "$gh_pages_dir" commit -m "$(git log -1 --format="%H")"; then
   git -C "$gh_pages_dir" push
-  git push git@gitlab.com:cirosantilli/china-dictatorship.git
+  git -C "$gh_pages_dir" push git@gitlab.com:cirosantilli/china-dictatorship.git
 fi
