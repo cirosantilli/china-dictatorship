@@ -6,8 +6,7 @@ pages:
   - echo 'Nothing to do...'
   artifacts:
     paths:
-    - public
+    - .
     expire_in: 1 day
   only:
-  - master
-
+  - gh-pages
