@@ -10,11 +10,16 @@
 :toclevels: 6
 :toc-title:
 
-https://cirosantilli.com/china-dictatorship[GitHub Pages] | https://github.com/cirosantilli/china-dictatorship[GitHub project] | https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip[HTML download]
+https://cirosantilli.com/china-dictatorship[cirosantilli.com] | https://github.com/cirosantilli/china-dictatorship[GitHub project] | https://gitlab.com/cirosantilli/china-dictatorship/-/blob/master/README.adoc[gitlab.com] | https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip[GitHub HTML download]
 
 Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
-This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com]. You can view it fully at https://cirosantilli.com/china-dictatorship[] or by downloading it locally as shown at: <<mirrors>>.
+This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com]. You can view it fully at either:
+
+* https://cirosantilli.com/china-dictatorship (canonical, https://zh.greatfire.org/https/cirosantilli.com[blocked in China since 2020] according to <<greatfire>>)
+* https://gitlab.com/cirosantilli/china-dictatorship/-/blob/master/README.adoc[GitLab], which renders the full README
+
+or by downloading it locally as shown at: <<mirrors>>.
 
 **住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被请喝茶了。先注册一个Gmail/Protonmail匿名用户才来。 Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead.** See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
 
@@ -190,7 +195,7 @@ Given <<github-censored-subdomains>>, this might be the only way to view the ima
 The cool thing about Git is that we can maintain several mirrors on multiple websites very easily:
 
 * https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
-* https://gitlab.com/cirosantilli/china-dictatorship Maybe some day https://gitlab.cn/ ? :-)
+* https://gitlab.com/cirosantilli/china-dictatorship Maybe some day https://gitlab.cn/ ? :-) Their render is shit for some reason, clicking on the ToC does not jump to headers properly, not sure why, IDs look correct
 * https://gitee.com/cirosantilli/china-dictatorship on <<gitee>>, blocked after 12 hours: <<gitee-censorship>>
 * https://bitbucket.org/cirosantilli/china-dictatorship
 * https://git.kiwifarms.net/CrunkLord420/china-dictatorship auto-pull Gitea mirror on https://en.wikipedia.org/wiki/Kiwi_Farms[Kiwi Farms] (a <<politically-incorrect,politically incorrect>> social network website)

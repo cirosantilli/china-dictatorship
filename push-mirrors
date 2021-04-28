@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# Create a tag and push to EVERY supported mirror.
 # https://github.com/cirosantilli/china-dictatorship#mirrors
 
 set -eux
@@ -31,8 +32,9 @@ python setup.py sdist bdist_wheel
 twine upload dist/*
 rm -rf build dist *.egg-info
 
-# Push to git mirrors.
+# Push to other git mirrors.
 git push git@gitlab.com:cirosantilli/china-dictatorship.git
 git push git@bitbucket.org:cirosantilli/china-dictatorship.git
+git push git@gitlab.binets.fr:ciro.duran-santilli/china-dictatorship.git
 # Nah.
 #git push https://gitee.com/cirosantilli/china-dictatorship.git
