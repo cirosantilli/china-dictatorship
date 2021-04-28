@@ -14,7 +14,7 @@ git push git@gitlab.com:cirosantilli/china-dictatorship.git
 gh_pages_dir=out/gh-pages
 if [ ! -d "$gh_pages_dir" ]; then
   mkdir -p "$gh_pages_dir"
-  git clone --branch gh-pages "$(git remote get-url origin)"
+  git clone --branch gh-pages --depth 1 "$(git remote get-url origin)" "$gh_pages_dir"
 fi
 cp README.html "${gh_pages_dir}/index.html"
 cp .gitlab-ci.yml "${gh_pages_dir}"
