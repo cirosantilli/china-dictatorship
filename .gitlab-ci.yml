@@ -8,5 +8,3 @@ pages:
     paths:
     - .
     expire_in: 1 day
-  only:
-  - gh-pages
