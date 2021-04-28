@@ -6,7 +6,7 @@ pages:
   - ls
   artifacts:
     paths:
-    - index.html
+    - public
     expire_in: 1 day
   only:
   - gl-pages
