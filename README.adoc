@@ -10,14 +10,14 @@
 :toclevels: 6
 :toc-title:
 
-https://cirosantilli.com/china-dictatorship[cirosantilli.com] | https://cirosantilli.gitlab.io/china-dictatorshi[gitlab.io] | https://github.com/cirosantilli/china-dictatorship[GitHub project] | https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip[GitHub HTML download]
+https://cirosantilli.com/china-dictatorship[cirosantilli.com] | https://cirosantilli.gitlab.io/china-dictatorship[gitlab.io] | https://github.com/cirosantilli/china-dictatorship[GitHub project] | https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip[GitHub HTML download]
 
 Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
 This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com]. You can view it fully at either:
 
 * https://cirosantilli.com/china-dictatorship[]. Canonical, https://zh.greatfire.org/https/cirosantilli.com[blocked in China since 2020] according to <<greatfire>>
-* https://cirosantilli.gitlab.io/china-dictatorshi[], Let's see how good is the <<gfw>> at blocking subdomains
+* https://cirosantilli.gitlab.io/china-dictatorship[], Let's see how good is the <<gfw>> at blocking subdomains
 
 or by downloading it locally as shown at: <<mirrors>>.
 
