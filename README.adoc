@@ -16,8 +16,8 @@ Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主�
 
 This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com]. You can view it fully at either:
 
-* https://cirosantilli.com/china-dictatorship[]. Canonical, https://zh.greatfire.org/https/cirosantilli.com[blocked in China since 2020] according to <<greatfire>>.
-* https://cirosantilli.gitlab.io/china-dictatorshi[], Let's see how good is the <<gfw>> at blocking subdomains.
+* https://cirosantilli.com/china-dictatorship[]. Canonical, https://zh.greatfire.org/https/cirosantilli.com[blocked in China since 2020] according to <<greatfire>>
+* https://cirosantilli.gitlab.io/china-dictatorshi[], Let's see how good is the <<gfw>> at blocking subdomains
 
 or by downloading it locally as shown at: <<mirrors>>.
 
