@@ -12,7 +12,7 @@ git add package.json
 git add setup.py
 git commit -m 'bump package version'
 git tag -m "$new_version" "$new_version"
-./push-gh-pages
+./push
 
 # NPM package.
 # Updates package.json version, which other systems read if possible.

@@ -307,10 +307,10 @@ Create tags,and update all mirrors in one go with: link:push-mirrors[]:
 ./push-mirrors
 ....
 
-In particular, that script calls link:push-pages[]:
+In particular, that script calls link:push[]:
 
 ....
-./push-pages
+./push
 ....
 
 which is more lightweight and pushes just to GitHub and GitLab Pages, so we are going to be using that more often to avoid overloading package managers too much.
