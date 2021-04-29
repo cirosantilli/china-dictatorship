@@ -196,6 +196,7 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 
 * https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
 * https://gitlab.com/cirosantilli/china-dictatorship Maybe some day https://gitlab.cn/ ? :-) Their render is shit for some reason, clicking on the ToC does not jump to headers properly, not sure why, IDs look correct
+** https://cirosantilli.gitlab.io/china-dictatorship GitLab Pages. Works fine. Let's see if they can block subdomains.
 * https://gitee.com/cirosantilli/china-dictatorship on <<gitee>>, blocked after 12 hours: <<gitee-censorship>>
 * https://bitbucket.org/cirosantilli/china-dictatorship
 * https://git.kiwifarms.net/CrunkLord420/china-dictatorship auto-pull Gitea mirror on https://en.wikipedia.org/wiki/Kiwi_Farms[Kiwi Farms] (a <<politically-incorrect,politically incorrect>> social network website)
@@ -11431,6 +11432,14 @@ Once the screenshot is made, you can "view the HTML", and that gives an Amazon A
 * 2020-09-30 https://cirosantilli.com/china-dictatorship/ | https://archive.vn/bIzkH see alo <<mirrors>>
 
 The free trial is very limited, and you can't share the screenshots on a public URL. See also: <<censorship-monitoring>>.
+
+====== Geo Targetly
+
+https://geotargetly.com/
+
+This one can actually share screenshots for different countries, nice: https://geotargetly.com/geo-browse?url=https://github.com/cirosantilli/china-dictatorship/issues/266&country_code=CN
+
+Small deatail: it doesn't work, or it takes forever, either one.
 
 ===== Lists of material censored in China
 

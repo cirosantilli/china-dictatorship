@@ -28,7 +28,7 @@ if [ ! -d "$gl_pages_dir" ]; then
   mkdir -p "${gl_pages_dir}/public"
   git clone --branch gl-pages --depth 1 git@gitlab.com:cirosantilli/china-dictatorship.git remote get-url origin "$gl_pages_dir"
 fi
-cp README.html "${gl_pages_dir}/public/index.html"
+make MEDIA=https://gitlab.com/cirosantilli/china-dictatorship-media/-/raw/master OUT="${gl_pages_dir}/public/index.html"
 cp .gitlab-ci.yml "${gl_pages_dir}"
 git -C "$gl_pages_dir" add .
 if git -C "$gl_pages_dir" commit -m "$(git log -1 --format="%H")"; then
