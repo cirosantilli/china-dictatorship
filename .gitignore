@@ -4,6 +4,7 @@
 
 # NPM README
 /README.md
+/README-join.adoc
 
 # Python distribution/packaging.
 *.pyc

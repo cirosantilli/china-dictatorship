@@ -12,7 +12,7 @@ else
 	MEDIA_CMD = -a china-dictatorship-media-base='$(MEDIA)'
 endif
 
-$(OUT): README.adoc $(HEAD) $(FOOT) template_dir/*
+$(OUT): README-join.adoc $(HEAD) $(FOOT) template_dir/*
 	@# --embedded + head/foot originally added to fix image height:
 	@# https://stackoverflow.com/questions/63464732/how-to-set-a-custom-image-height-for-an-image-in-asciidoctor
 	@#
@@ -31,3 +31,7 @@ $(OUT): README.adoc $(HEAD) $(FOOT) template_dir/*
 
 clean:
 	rm -rf $(OUT) $(BODY)
+
+README-join.adoc: README.adoc README-1.adoc README-2.adoc README-3.adoc
+	echo cat $^
+	cat $^ > '$@'
