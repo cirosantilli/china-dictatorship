@@ -1502,6 +1502,7 @@ Installing any of those immediately give you <<social-credit-system,10 Sesame Po
 
 See also: <<harm-programmers>>.
 
+[[what-is-more-obscene-sex-or-war]]
 .https://www.youtube.com/watch?v=GwCyQINNXwE "What is more obscene: sex or war?" scene from https://en.wikipedia.org/wiki/The_People_vs._Larry_Flynt[The People vs. Larry Flynt (1996)]. Ciro just can't stop thinking about that scene when someone tells him that <<disturbs,his profile disturbs them>>. What is more obscene? <<xi-jinping-memes>> or human rights violations?
 video::SRPiE59e8NU[youtube,height=400,width=600]
 
@@ -2380,6 +2381,7 @@ Western governments should pass laws that prevent this kind of arbitrary politic
 
 But of course as usual: <<censorship,censorship in a dictatorship like China is always a million times worse>>.
 
+[[please-enjoy-this-politically-correct-cartoon]]
 ."Please enjoy this culturally ethnically religiously and politically correct cartoon responsibly" cartoon by Michael Shaw from the New Yorker (2006) makes a reference to the fact that all humour is a criticism of something, and that excessive political correctness can be used as a way to limit free speech.
 image::{china-dictatorship-media-base}/Please_enjoy_this_politically_correct_cartoon.jpg[height=400]
 
@@ -2899,6 +2901,8 @@ Yes, ideograms are:
 ** but is it more efficient? https://www.zhihu.com/question/22104723[Zhihu], https://www.quora.com/Can-literate-Chinese-people-easily-read-vertical-writing[Quora]).
 ** https://en.wikipedia.org/wiki/Horizontal_and_vertical_writing_in_East_Asian_scripts#Right-to-left_horizontal_writing also clarifies that traditional shop signs are also right to left, and it is just a sub-case of the usual right to left script, but with a single row
 * more historically stable, and you can still read/learn more or less quickly to read https://en.wikipedia.org/wiki/History_of_the_Chinese_language[texts written more than two thousand years ago]
+* it takes up way less horizontal space as Ciro noticed while adding bilingual captions to some of the images under https://gitlab.com/cirosantilli/china-dictatorship-media see e.g.: https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Xidan_Wall.jpg
+** on the other hand, you have to use slightly larger fonts for Chinese, because the characters are so dense that if they are not tall enough they become unreadable. Still, the area is much smaller without a doubt.
 * single character emoticons like "https://en.wikipedia.org/wiki/Jiong[囧]", before the https://en.wikipedia.org/wiki/Emoticons_(Unicode_block)[Emoticons Unicode block]! Yes, when your language has a character so useless that it becomes an emoticon, maybe you should start to worry that something went wrong somewhere... See also <<tank-man-emoticon>>.
 
 but they just take too much time for any sane person adult to learn, it's harder than {cpp}!
@@ -5073,6 +5077,139 @@ ____
 Freedom of speech in social media is truly threatened by the <<politically-incorrect>>.
 
 Related issue: https://github.com/cirosantilli/china-dictatorship/issues/198
+
+===== Stack Overflow political image answer placeholder (2021)
+
+The deleted answer was https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/145543#145543
+
+Of course, once again, just like mentioned at <<stack-overflow-forbids-criticizing-the-character-of-genocidal-political-leaders-like-xi-jinping>>, people prefer to:
+
+* feel safe and good in their fake cocoon rather than have freedom. While people are dying, right now, in <<xinjiang-re-education-camps>>
+* being fully inclusive means being inclusive to dictatorship supporters
+
+No archives unfortunately, but:
+
+* reproduced at: https://github.com/cirosantilli/china-dictatorship/issues/269
+* https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/145543#145543 (https://web.archive.org/web/20210501090745/https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[archive]) identical politically correct one
+* analogous to https://stackoverflow.com/questions/20737061/merge-images-side-by-sidehorizontally/63575228#63575228 (https://web.archive.org/web/20210430195552/https://stackoverflow.com/questions/20737061/merge-images-side-by-sidehorizontally/63575228#63575228[archive])
+
+The full moderation team at the time can be seen publicly at https://graphicdesign.stackexchange.com/users?tab=moderators[] (https://web.archive.org/web/20210126143732/https://graphicdesign.stackexchange.com/users/41100/piebie[archive]) and it also contains:
+
+* https://graphicdesign.stackexchange.com/users/41100/piebie (https://web.archive.org/web/20210126143732/https://graphicdesign.stackexchange.com/users/41100/piebie[archive]) Real name: Pieter Biesemans, a front-end developer from Belgium: https://www.linkedin.com/in/pieter-biesemans/
+* https://graphicdesign.stackexchange.com/users/18168/curious (https://web.archive.org/web/20210430203036/https://graphicdesign.stackexchange.com/users/18168/curious[archive]) Anonymous, from Canada.
+* https://graphicdesign.stackexchange.com/users/19174/wrzlprmft (https://web.archive.org/web/20210430203038/https://graphicdesign.stackexchange.com/users/19174/wrzlprmft[archive]) Gerrit Ansmann, a brain researcher from Bonn University, Germany: https://idw-online.de/de/news646752
+
+Deletion message:
+
+____
+Hello,
+
+We're writing in reference to your Graphic Design Stack Exchange account:
+
+https://graphicdesign.stackexchange.com/users/21867/ciro-santilli%e6%96%b0%e7%96%86%e6%a3%89%e8%8a%b1trump-ban-bad
+
+We think you are already aware of what we are going to say, but we are going to say it anyway. Stack Exchange is an apolitical platform, and we like to keep politics as for away from our content as possible. Our little nook on the net is about Graphic Design, which has nothing to do with politics (even though it is used in the political arena all the time).
+
+We acknowledge that politic profiles are somewhat allowed as per https://meta.stackoverflow.com/questions/267368/are-political-avatars-and-profiles-ok, although we do question the usefulness of 'campaigning' through a Stack Exchange profile.
+
+We want to draw the line however at political content. There is no need to use images or other content that might be controversial or cause emotional distress, while another image or content would serve the same function. That is why we deleted you answer on this question.
+
+We want to welcome you on our site and encourage you to keep contributing with answers. Your other answers are fine, and judging by the amount of votes, mostly well-received by the community. You may repost the answer if you can swap out the images for more neutral ones.
+
+At the same time we want to warn you that this type of content will not be tolerated in the future and further infractions may lead to more severe consequences.
+
+Thanks for your understanding an cooperation, we wish you a pleasant experience on GDSE.
+
+Regards,
+
+Graphic Design Stack Exchange Moderation Team
+____
+
+Ciro's reply:
+
+____
+Hi,
+
+Is this a policy specific to graphic design website, or is it network wide, and is there an open meta question for it?
+____
+
+The mods then changed their discourse to mention spam rules rather than only on the "people will feel bad" aspect:
+
+____
+The https://graphicdesign.stackexchange.com/conduct[code of conduct]:
+
+Be inclusive and respectful.
+
+Exposing others to images of violent and traumatic events is not respectful to those on whom those images have a strong effect. This is only acceptable if the topic of the question make this inevitable, which also suffices to warn of those who are triggered by those images: Images about violent events are to be expected in a question about such events, not in a question about concatenating two images.
+
+Rules against spam:
+
+A post should be marked as spam only if it advertises a product, service, or similar and is unsolicited or lacks disclosure.
+[…]
+Unsolicited means that mentioning the product serves no purpose other than promotion. […]
+
+You were promoting a political position and including the promotional content (instead of a neutral picture) served no purpose other than promotion. It’s analogous to using a picture advertising a product as an example.
+____
+
+OK, the spam argument would likely work. Ciro was planning the following meta post, but gave up on it:
+
+____
+Can I use political images as placeholders for questions involving images when it does not affect the validity of the answer?
+
+For example when answering the following ImageMagick question: https://stackoverflow.com/questions/20737061/merge-images-side-by-sidehorizontally/63575228#63575228 I used an image with political content.
+
+The choice of the placeholder was completely arbitrary, and does not affect the answer in any way.
+
+But today admins of Graphic Design Stack Exchange https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/145543#145543 deleted the post saying it is not allowed on the Graphic Design website.
+
+> We want to draw the line however at political content. There is no need to use images or other content that might be controversial or cause emotional distress, while another image or content would serve the same function. That is why we deleted you answer on this question.
+
+The admins mention that on profiles it is OK linking to: https://meta.stackoverflow.com/questions/267368/are-political-avatars-and-profiles-ok but on answers it is not.
+
+So I would like to clarify if:
+
+* is this a policy specific to Graphic Design or if it applies to the entire network.
+* if it applies to the entire network:
+** Can I use images of myself, Ciro Santilli, or is that currently considered political content?
+** At https://stackoverflow.com/a/57389607/895245 I needed several images, and I had used a list of USA presidents in chronological order without much thought. Do I have to modify that answer to use another set of images?
+____
+
+and planned answer:
+
+____
+
+**Any images that can be used on a profile picture should also usable as a placeholder**
+
+When you answer a question, you should have a very wide choice of what to use as a placeholder.
+
+Politics is a perfectly legal topic, just like flowers, animals, and scenery.
+
+The "can it be used on the profile picture" test should already filter out any content that is deemed unacceptable due to legal concerns.
+
+Another issue is that it is extremely difficult and possibly unfair to classify what is political or not.
+
+Suppose that Ciro Santilli became famous enough outside of programming circles such that he starts to be considered a political subject.
+
+Would his images then start to be considered political content?
+
+But that would be discriminatory against certain people and not others.
+
+Freedom of speech is extremely valuable, and we should be very careful about restricting it.
+
+There are people literally unfairly dying, right now, because they don't have it.
+
+Do you really want to reduce yours?
+
+The only way to prevent history from repeating itself, is to remember it.
+____
+
+Related spam meta posts:
+
+* https://meta.stackexchange.com/questions/58032/what-are-the-spam-and-rude-or-abusive-offensive-flags-and-how-do-they-wor
+* https://meta.stackoverflow.com/questions/260638/what-is-the-exact-definition-of-spam-for-stack-overflow
+
+.After Graphics Stack Exchange forbade the usage of political images, <<ciro-santilli>> created this politically correct image to serve as a censorship placeholder, and reuploaded the answer as allowed by the moderators: https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[]. (https://web.archive.org/web/20210501090745/https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[].[archive]) CC By-SA 4.0, heart attribution: https://commons.wikimedia.org/wiki/File:Corazón.svg[]. <<os-problemas-da-imprensa-livre,Newspaper censorship cake recipe posts during the Brazilian military dictatorship>> and <<what-is-more-obscene-sex-or-war,"What is more obscene: sex or war?">> and <<please-enjoy-this-politically-correct-cartoon,Please enjoy this politically correct cartoon>> come strongly to mind.
+image::{china-dictatorship-media-base}/The_world_is_perfect.png[height=2000]
 
 ===== Other openly dissident users on Stack Overflow
 
@@ -9294,7 +9431,8 @@ image::{china-dictatorship-media-base}/Lego_Tank_Man.png[height=400]
 .https://en.wikipedia.org/wiki/Final_Fantasy_VI[Final Fantasy 6] battle screen style depiction of tank man by Cody Walton by it8Bit. https://www.it8bit.com/post/25860395424/unknown-rebel[Source].
 image::{china-dictatorship-media-base}/Tank_Man_FF6.jpg[height=600]
 
-.Tank man drawing by Ciro Santilli. The only CC BY-SA 4.0 representaion of Tank Man found on the web? And the prettiest. Created manually with GIMP. This can be very useful e.g. if you are posting <<stack-overflow>> answers about image processing, e.g.: https://stackoverflow.com/questions/20737061/merge-images-side-by-sidehorizontally/63575228#63575228
+[[tank-man-cc-by-sa]]
+.Tank man drawing by Ciro Santilli. The only CC BY-SA 4.0 representaion of Tank Man found on the web? And the prettiest. Created manually with GIMP. This can be very useful e.g. if you are posting <<stack-overflow>> answers about image processing, e.g.: https://stackoverflow.com/questions/20737061/merge-images-side-by-sidehorizontally/63575228#63575228 It was of course taken down later on because it was considered spam: <<stack-overflow-political-image-answer-placeholder-2021>>.
 image::{china-dictatorship-media-base}/Tank_Man_drawing_by_Ciro_Santilli_CC_BY_SA.png[height=500]
 
 [[tank-man-song]]
@@ -10440,7 +10578,7 @@ A scraped mirror of CDT was created on <<github>> pages by Tang Wenzheng from <<
 * https://github.com/china-digital-times/china-digital-times.github.io JavaScript SPA that reads data from the data repository, which is stored as JSON (JAMstack)
 * https://github.com/china-digital-times/data/ the data
 
-Firs commit  Jun 30, 2019. The first article is from 2010, so maybe it did scrape everything. It appears to be automatically updated daily. The images seem to be re-uploaded to https://statically.io/[], e.g. https://china-digital-times.github.io/?/id/664606 contains https://cdn.statically.io/gh/china-digital-times/files/master/2021/04/image-1617989397104.png while the original article https://chinadigitaltimes.net/chinese/664606.html stores images locally: https://chinadigitaltimes.net/chinese/files/2021/04/image-1617989397104.png[]. This approach is more censorship resistant, since all images are under a single domain, so takedown would require a full statically domain takedown, which would break other things. Although CDN blocks are not unheard of, e.g. as mentioned at: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china[].
+Firs commit  Jun 30, 2019. The first article is from 2010, so maybe it did scrape everything. It appears to be automatically updated daily. The images seem to be re-uploaded to https://statically.io/[], e.g. https://china-digital-times.github.io/?/id/664606 contains https://cdn.statically.io/gh/china-digital-times/files/master/2021/04/image-1617989397104.png which just fetches from GitHub automatically: https://github.com/china-digital-times/files/blob/master/2021/04/image-1617989397104.png[] while the original article https://chinadigitaltimes.net/chinese/664606.html stores images locally: https://chinadigitaltimes.net/chinese/files/2021/04/image-1617989397104.png[]. This approach is more censorship resistant, since all images are under a single domain, so takedown would require a full statically domain takedown, which would break other things. Although CDN blocks are not unheard of, e.g. as mentioned at: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china[].
 
 .https://www.youtube.com/watch?v=hx28EUiKEUc "From 'fart people' to citizens on China's internet | Xiao Qiang | TEDxLiberdade" by TEDx Talks (2014). Presentation by https://en.wikipedia.org/wiki/Xiao_Qiang[Xiao Qiang] (https://zh.wikipedia.org/wiki/蕭強[萧强]), founder of <<china-digital-times>>. He was a Physicist from https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China[USTC] who went mad after <<tiananmen>>. <<wife>> also studied there and said that's the most anti-CCP of all big Chinese universities.
 video::MCxzMYVvHBg[youtube,height=400,width=600,start=227]
@@ -10967,7 +11105,7 @@ An upload was apparently available at: https://gitlab.com/shanghai-ccp-member-db
 Related:
 
 * <<hate-speech>>
-* <<os-problemas-da-imprensa-livre>>
+* <<os-problemas-da-imprensa-livre,Newspaper censorship cake recipe posts during the Brazilian military dictatorship>>
 * <<dictatorships-are-bad-for-the-arts>>
 
 .https://en.wikipedia.org/wiki/Eric_Drooker[Eric Drooker]'s "Censorship" (TODO year) has become one of the most recognizable censorship symbols as of 2020. https://www.drooker.com/illustrations[Source].
