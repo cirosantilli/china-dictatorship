@@ -2676,7 +2676,7 @@ video::Y1DWJQkOJew[youtube,height=400,width=600]
 === Contributing guidelines
 
 [[shitpost]]
-==== I want to take my chances and make a shitpost in cirosantilli/china-dictatorship
+==== I want to take my chances and make a shitpost in cirosantilli/china-dictatorship (屎帖子)
 
 So, have you reached the conclusion that your https://en.wikipedia.org/wiki/Shitposting[shitpost] is link:CONTRIBUTING.md[worth the risk of getting blocked]?
 
