@@ -5082,6 +5082,8 @@ Related issue: https://github.com/cirosantilli/china-dictatorship/issues/198
 
 The deleted answer was https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/145543#145543
 
+It used <<tank-man-cc-by-sa,Ciro Santilli's CC By-SA Tank Man image>>.
+
 Of course, once again, just like mentioned at <<stack-overflow-forbids-criticizing-the-character-of-genocidal-political-leaders-like-xi-jinping>>, people prefer to:
 
 * feel safe and good in their fake cocoon rather than have freedom. While people are dying, right now, in <<xinjiang-re-education-camps>>
@@ -5151,7 +5153,11 @@ Unsolicited means that mentioning the product serves no purpose other than promo
 You were promoting a political position and including the promotional content (instead of a neutral picture) served no purpose other than promotion. It’s analogous to using a picture advertising a product as an example.
 ____
 
-OK, the spam argument would likely work. Ciro was planning the following meta post, but gave up on it:
+OK, the spam argument would likely win.
+
+Ciro then hacked the images to his <<the-world-is-perfect,"The world is perfect">> https://en.wikipedia.org/wiki/Kitsch[kitsch] placeholder, and mods approved it, so here we go.
+
+Ciro was planning the following meta post, but gave up on it:
 
 ____
 Can I use political images as placeholders for questions involving images when it does not affect the validity of the answer?
@@ -5208,8 +5214,20 @@ Related spam meta posts:
 * https://meta.stackexchange.com/questions/58032/what-are-the-spam-and-rude-or-abusive-offensive-flags-and-how-do-they-wor
 * https://meta.stackoverflow.com/questions/260638/what-is-the-exact-definition-of-spam-for-stack-overflow
 
-.After Graphics Stack Exchange forbade the usage of political images, <<ciro-santilli>> created this politically correct image to serve as a censorship placeholder, and reuploaded the answer as allowed by the moderators: https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[]. (https://web.archive.org/web/20210501090745/https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[].[archive]) CC By-SA 4.0, heart attribution: https://commons.wikimedia.org/wiki/File:Corazón.svg[]. <<os-problemas-da-imprensa-livre,Newspaper censorship cake recipe posts during the Brazilian military dictatorship>> and <<what-is-more-obscene-sex-or-war,"What is more obscene: sex or war?">> and <<please-enjoy-this-politically-correct-cartoon,Please enjoy this politically correct cartoon>> come strongly to mind.
-image::{china-dictatorship-media-base}/The_world_is_perfect.png[height=2000]
+[[the-world-is-perfect]]
+."The world is perfect" by Ciro Santilli, CC By-SA 4.0 (2021). After Graphics Stack Exchange forbade the usage of political images, <<ciro-santilli>> created this politically correct image to serve as a censorship placeholder, and reuploaded the answer as allowed by the moderators: https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[]. (https://web.archive.org/web/20210501090745/https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[].[archive]) CC By-SA 4.0, heart attribution: https://commons.wikimedia.org/wiki/File:Corazón.svg[]. <<os-problemas-da-imprensa-livre,Newspaper censorship cake recipe posts during the Brazilian military dictatorship>> and <<what-is-more-obscene-sex-or-war,"What is more obscene: sex or war?">> and <<please-enjoy-this-politically-correct-cartoon,Please enjoy this politically correct cartoon>> come strongly to mind.
+image::{china-dictatorship-media-base}/The_world_is_perfect.png[height=500]
+
+."The world is perfect" as used to update Ciro Santilli's https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[deleted answer]. Instead of redoing the tutorial from scratch, Ciro just pasted the new image on top of the old one Stack Exchange censored: <<tank-man-cc-by-sa,Ciro Santilli's CC By-SA Tank Man image>>. Borders of the censored image were intentionally left over however as a reminder that Stack Exchange censors. This is a work of art.
+image::{china-dictatorship-media-base}/The_world_is_perfect_Stack_Overflow.png[height=500]
+
+.Politically correct version of <<tank-man-cc-by-sa,Ciro Santilli's CC By-SA Tank Man image>>. This is how Stack Exchange wants the world to remember <<tiananmen>>.
+image::{china-dictatorship-media-base}/Tank_Man_drawing_censored_by_Ciro_Santilli_CC_BY_SA.png[height=500]
+
+.At one point in Richard Feynman's talk "Los Alamos from below", he describes how external letter censorship was implemented at Los Alamos, and how he went to thoroughly test the limits of what would be censored or not.
+video::uY-u1qyRM5w[youtube,width=600,height=400,start=1343]
+
+https://i.stack.imgur.com/p9Tv9.png
 
 ===== Other openly dissident users on Stack Overflow
 
