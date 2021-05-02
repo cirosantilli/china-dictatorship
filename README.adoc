@@ -317,6 +317,8 @@ In particular, that script calls link:push[]:
 
 which is more lightweight and pushes just to GitHub and GitLab Pages, so we are going to be using that more often to avoid overloading package managers too much.
 
+`./push` is used to publish every commit.
+
 There is no need to update package versions or add git tags, all of that gets done automatically by the script!
 
 [[github-repositories-with-censored-information]]
@@ -1206,6 +1208,11 @@ Possible free Chinese version: https://docs.google.com/viewer?a=v&pid=sites&srci
 * <<metoo>>
 * <<gay-rights>>
 
+[[low-end-population]]
+===== Low-end population (低端人口, 2017)
+
+* https://qz.com/1138395/low-end-population-what-you-need-to-know-about-chinas-crackdown-on-migrant-workers/
+
 [[war]]
 ==== Why would democracy and freedom of speech make China less likely to start a war?
 
@@ -1294,11 +1301,11 @@ ____
 Democracy is a process by which the people are free to choose the man who will get the blame.
 ____
 
-.https://knowyourmeme.com/memes/preaching-to-the-mob[Preaching to the mob meme]: "中国人道德低下素质差。所以不适合民主。" Translation: The Chinese people are immoral and uneducated (people are angry). That's why they're not suitable for democracy (people are happy). This makes fun of the fact even if you say bad things about the Chinese, some people will complain that you are racist. But the same people will also say the same bad things about the Chinese people as a way to explain why it is better if they don't vote, and no one minds that. https://www.reddit.com/r/chonglangTV/comments/jssa4t/道德低下素质差的好处/[Source].
+.https://knowyourmeme.com/memes/preaching-to-the-mob[Preaching to the mob meme template]: "中国人道德低下素质差。所以不适合民主。" Translation: The Chinese people are immoral and uneducated (people are angry). That's why they're not suitable for democracy (people are happy). This makes fun of the fact even if you say bad things about the Chinese, some people will complain that you are racist. But the same people will also say the same bad things about the Chinese people as a way to explain why it is better if they don't vote, and no one minds that. https://www.reddit.com/r/chonglangTV/comments/jssa4t/道德低下素质差的好处/[Source].
 image::{china-dictatorship-media-base}/Immoral_and_uneducated.jpg[height=720]
 
 .Translation of the above.
-image::{china-dictatorship-media-base}/Immoral_and_uneducated.jpg[height=720]
+image::{china-dictatorship-media-base}/Immoral_and_uneducated_en.jpg[height=720]
 
 ===== The Chinese masses are not interested in politics and therefore not ready to vote
 
@@ -9160,6 +9167,12 @@ https://github.com/fuckcqcs/fuckcqcs on <<github-repositories-with-censored-info
 
 === News 2017
 
+In other sections:
+
+* <<low-end-population>>
+
+Not in other sections:
+
 * 2017-12 https://www.nytimes.com/2017/12/25/world/asia/china-wu-gan-sentence.html
 * 2017-11 https://www.reddit.com/r/China/comments/7a7hf9/the_worlds_largest_academic_publisher_blocks/ Springer nature pulls sensitive articles. TODO article list.
 * 2017-09 https://www.nytimes.com/2017/09/25/business/china-whatsapp-blocked.html
@@ -9174,11 +9187,6 @@ https://github.com/fuckcqcs/fuckcqcs on <<github-repositories-with-censored-info
 * 2017-05 https://ktar.com/story/1564381/ap-exclusive-china-lawyers-family-says-us-helped-them-flee
 * 2017-04 https://chinachange.org/2017/05/03/breaking-lawyer-chen-jiangang-with-family-and-two-friends-seized-by-armed-police-in-yunnan/
 * 2017-03 https://www.bbc.co.uk/news/world-asia-china-39137293 "China congress: BBC team forced to sign confession"
-
-[[low-end-population]]
-==== Low-end population (低端人口, 2017)
-
-* https://qz.com/1138395/low-end-population-what-you-need-to-know-about-chinas-crackdown-on-migrant-workers/
 
 === News 2016
 
