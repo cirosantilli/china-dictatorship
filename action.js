@@ -25,7 +25,7 @@ function getRandom(arr, n) {
 
 // Get images.
 let imageRe = /^image::{china-dictatorship-media-base}\/([^/[]+)/;
-let images = [];
+let images = new Set();
 const fileStream = fs.createReadStream('README.adoc');
 const rl = readline.createInterface({
   input: fileStream,
@@ -34,10 +34,10 @@ const rl = readline.createInterface({
 for await (const line of rl) {
   let match = imageRe.exec(line);
   if (match !== null) {
-    images.push(match[1]);
+    images.add(match[1]);
   }
 }
-images = getRandom(images, 20);
+images = getRandom(Array.from(images), 20);
 full_images = []
 for (const image of images) {
   const url = `https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/${image}`;
@@ -83,6 +83,7 @@ if (/cnm/i.test(titleAndBody)) {
 const shitpostWords = [
   'fuck',
   'shit',
+  '垃圾',
 ];
 for (const word of shitpostWords) {
   if (new RegExp(word, 'i').test(titleAndBody)) {

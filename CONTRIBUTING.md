@@ -42,13 +42,15 @@ Forbidden:
 
     Keep in mind that [Ciro's Chinese sucks](https://cirosantilli.com/china-dictatorship#does-ciro-santilli-speak-chinese), so he may not get the full nuance of your comment, especially if you use a ton of [slang](https://cirosantilli.com/china-dictatorship#slang).
 
-    On `shitpost` posts however, you can be as aggressive as you want.
-
-Punitive measures, from least serious to most serious:
-
 -   if you make a comment and delete, people who received notifications can still find your username: https://github.com/isaacs/github/issues/1833#issuecomment-660128741 so think twice before doing that on a non-shitpost thread that Ciro is subscribed to.
 
     Shitposting and owning up to it is one thing, but shitposting, generating notifications, and being a coward by immediately deleting your comment, makes you getting blocked much more likely.
+
+    On `shitpost` posts however, you can be as aggressive as you want.
+
+-   if you create an issue and then block cirosantilli, you will be blocked too in return. The label is: https://github.com/cirosantilli/china-dictatorship/labels/op-blocked-ciro[op-blocked-ciro]
+
+Punitive measures, from least serious to most serious:
 
 -   block user on one website. This may have the unintended side effect of deleting previous useful comments the user made on the websites. 
 

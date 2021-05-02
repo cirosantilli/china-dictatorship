@@ -77,7 +77,7 @@ image::{china-dictatorship-media-base}/Tianmen_crushed_dead.jpg[height=600]
 
 https://cirosantilli.com/china-dictatorship#falun-gong
 
-image::{china-dictatorship-media-base}/Falun_Gong_Ghuangzhou.jpg[height=600]
+image::{china-dictatorship-media-base}/Falun_Gong_Guangzhou.jpg[height=600]
 
 image::{china-dictatorship-media-base}/Falun_Gong_lady_silenced.jpg[height=600]
 
@@ -357,6 +357,10 @@ Not mentioned in other sections:
 ** https://github.com/NodeBE4/hero 自由人的英雄榜 "List of fredom heroes"
 ** https://github.com/NodeBE4/impact good list of Chinese political projects on GitHub
 * https://github.com/woct0rdho/pkuholebackup/ appears to contain a list of posts of anonymized (Alice/Bob/Carol/Dave/...) deleted posts from some Peking University (PKU) chat system. The posts are from 2013 to 2019. TODO how could they obtain that list? Who delete the posts in the first place? Authors or authority?
+* https://github.com/ejiaogl/FuckCoolapk TODO understand better: in 2016 this company started blocking political commentary from their app, and people didn't like it seems. But there were so many complaints, that people manipulated things such that they ended up banning accounts that hadn't posted anything. What does that GitHub project do?
+** https://zh.wikipedia.org/wiki/酷安[酷安] is the company name: https://www.coolapk.com/
+** https://github.com/ejiaogl/FuckCoolapk/wiki/Background-information "316"事件 (316 event)
+** https://www.zhihu.com/question/20658510
 
 Interesting users:
 
@@ -6805,7 +6809,7 @@ Let's try to gather some well sourced footage showing huge numbers of believers 
 ** https://www.youtube.com/watch?v=DDRUp50XkSs Chinese with English subs, above is rehashed from this one most likely
 
 .Thousands of <<falun-gong>> practitioners in Guangzhou, China, 1998. https://www.theepochtimes.com/finding-the-balance-between-ancient-and-modern_2248694.html[Source].
-image::{china-dictatorship-media-base}/Falun_Gong_Ghuangzhou.jpg[height=600]
+image::{china-dictatorship-media-base}/Falun_Gong_Guangzhou.jpg[height=600]
 
 .Thousands of <<falun-gong>> practitioners in Liaoning Industrial Exhibition, China, likely 1998. https://en.minghui.org/html/articles/2016/5/21/157091.html[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_Liaoning.jpg[height=600]
@@ -11756,7 +11760,7 @@ Related:
 * https://en.wikipedia.org/wiki/Cyberspace_Administration_of_China
 * https://zh.wikipedia.org/wiki/中央网络安全和信息化委员会办公室
 
-This is where the Internet censors work.
+This is where the <<censorship,Internet censors>> work.
 
 [[cac-report-website]]
 ====== CAC report website (中央网信办举报网站)
@@ -11805,7 +11809,7 @@ ____
 
 so yes, attacking the party and major policies is illegal in China, big news, right? "Involved in attacking the party and state system and major policies" is then one of the categories in the report page.
 
-Soon after the previous events in 2020-09-08, anaytics got a hit from http://openurls.com.cn/ to https://cirosantilli.com/china-dictatorship[]. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of https://www.openallurls.com/[] but with an <<icp-license>> :-) The 2020-10-14 hit from http://jbcz.12377.cn was followed by another hit from http://openurls.com.cn/[], further reinforcing that this is part of their review procedure. 3 more hits on `/` and `/ciro-santilli` on 2020-02-22 after pinging a few people on https://github.com/zaohmeing/21- issues. Another hit 2021-03-19 to https://cirosantilli.com[], unknown cause.
+Soon after the previous events in 2020-09-08, anaytics got a hit from http://openurls.com.cn/ to https://cirosantilli.com/china-dictatorship[]. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of https://www.openallurls.com/[] but with an <<icp-license>> :-) The 2020-10-14 hit from http://jbcz.12377.cn was followed by another hit from http://openurls.com.cn/[], further reinforcing that this is part of their review procedure. 3 more hits on `/` and `/ciro-santilli` on 2020-02-22 after pinging a few people on https://github.com/zaohmeing/21- issues. Another hit 2021-03-19 to https://cirosantilli.com[], unknown cause. 2021-05-01 3 more openurls.com.cn hits 2021 after resubmitting reports on 2021-04-18 to get proper screenshots of the report procedure.
 
 Other report websites:
 
