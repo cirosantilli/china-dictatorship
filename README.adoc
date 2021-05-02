@@ -1334,7 +1334,7 @@ image::{china-dictatorship-media-base}/Rebel_pepper_pig_can%27t_eat_democracy_ca
 image::{china-dictatorship-media-base}/Shut_up_and_take_my_freedom.jpg[height=400]
 
 .https://knowyourmeme.com/memes/shut-up-and-take-my-money[Shut up and take my freedom] meme by <<ciro-santilli>> translated to Chinese: "什么都别说了，拿走我的自由".
-image::{china-dictatorship-media-base}/Shut_up_and_take_my_freedom.jpg[height=400]
+image::{china-dictatorship-media-base}/Shut_up_and_take_my_freedom_zh.jpg[height=400]
 
 [[corruption]]
 ==== Democracies have less corruption than dictatorships
