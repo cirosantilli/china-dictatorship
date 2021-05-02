@@ -1294,8 +1294,11 @@ ____
 Democracy is a process by which the people are free to choose the man who will get the blame.
 ____
 
-."中国人道德低下素质差。所以不适合民主。" Translation: The Chinese people are immoral and uneducated (people are angry). That's why they're not suitable for democracy (people are happy). This makes fun of the fact even if you say bad things about the Chinese, some people will complain that you are racist. But the same people will also say the same bad things about the Chinese people as a way to explain why it is better if they don't vote, and no one minds that. https://www.reddit.com/r/chonglangTV/comments/jssa4t/道德低下素质差的好处/[Source].
-image::{china-dictatorship-media-base}/Immoral_and_uneducated.jpg[height=400]
+.https://knowyourmeme.com/memes/preaching-to-the-mob[Preaching to the mob meme]: "中国人道德低下素质差。所以不适合民主。" Translation: The Chinese people are immoral and uneducated (people are angry). That's why they're not suitable for democracy (people are happy). This makes fun of the fact even if you say bad things about the Chinese, some people will complain that you are racist. But the same people will also say the same bad things about the Chinese people as a way to explain why it is better if they don't vote, and no one minds that. https://www.reddit.com/r/chonglangTV/comments/jssa4t/道德低下素质差的好处/[Source].
+image::{china-dictatorship-media-base}/Immoral_and_uneducated.jpg[height=720]
+
+.Translation of the above.
+image::{china-dictatorship-media-base}/Immoral_and_uneducated.jpg[height=720]
 
 ===== The Chinese masses are not interested in politics and therefore not ready to vote
 
@@ -6018,6 +6021,10 @@ Chinese authorities have detained a worker after he advocated for fair pay and o
 Chen Tianhe (陳天河) has not been heard from since he was detained on Feb. 25, according to mainland Chinese media reports.
 ____
 
+* 2020 City Dream film (城市梦) Weijun Chen's (陈为军) lively new film documents the struggles of Wang Tiancheng, an elderly and cantakerous street vendor in Wuhan, China, whose business is threatened by the development of a new retail district.
+** https://baike.baidu.com/item/城市梦/23578924 on <<baidu-baike>>
+** http://www.xinhuanet.com/ent/2020-08/27/c_1126417894.htm on <<xinhua>>
+
 [[nine-nine-six-icu]]
 ==== 996.ICU (2019)
 
@@ -9984,7 +9991,7 @@ Hao Runze's page https://baike.baidu.com/item/郝润泽
 * https://en.wikipedia.org/wiki/Chloé_Zhao
 * https://zh.wikipedia.org/wiki/趙婷
 
-Born and raised in China, moved to the West at age 15, but retained Chinese citizenship as far as is publicly known.
+Born and raised in China, sent to study in the UK by her wealthy father Zhao Yuji 赵玉吉 at age 15 and later moved to US, but retained Chinese citizenship as far as is publicly known.
 
 In 2013 she told the magazine Filmmaker https://web.archive.org/web/20130814185314/https://filmmakermagazine.com/people/chloe-zhao/[] (later removed from the website):
 
@@ -9995,6 +10002,8 @@ ____
 TODO was that the only comment she ever made or is there more?
 
 Won the 2021 Oscar (93rd) for best picture and best director on 2021-04-25 for her film Nomadland 无依之地.
+
+And at the same time she was also working on an idiotic superhero movie https://en.wikipedia.org/wiki/Eternals_(film) to be launched by Disney in the future, and therefore they would likely want it to be released in China, let's see how that will go.
 
 On 2021-04-26 reports emerged that her win was being censored in China: https://www.wsj.com/articles/china-censors-nomadland-director-chloe-zhaos-oscar-win-11619440550 Unlike <<hao-haidong>> however, the order was much more specific: to censor only the fact that she won the Oscars.
 
@@ -10753,7 +10762,7 @@ Other cartoonists/illustrators:
 ** https://idzpodprad.pl/aktualnosci/chinczycy-groza-smiercia-polskiej-ilustratorce-pracodawca-chce-ja-zwolnic/ "Chińczycy grożą śmiercią polskiej ilustratorce! Pracodawca chce ją zwolnić?¨" Google translates to: "The Chinese are threatening the death of the Polish illustrator! Employer wants to fire her?"
 
 [[rebel-pepper]]
-==== Rebel Pepper 变态辣椒
+==== Rebel Pepper (变态辣椒, RFA employee)
 
 * https://en.wikipedia.org/wiki/Rebel_Pepper
 * https://zh.wikipedia.org/wiki/王立銘
@@ -10786,7 +10795,7 @@ Not China only like <<rebel-pepper>>, but does have some good China ones.
 * https://www.cartooningforpeace.org/en/dessinateurs/paresh/
 
 [[badiucao]]
-==== Baidiucao 巴丢草
+==== Baidiucao (巴丢草)
 
 * https://en.wikipedia.org/wiki/Badiucao
 * https://twitter.com/badiucao
@@ -10804,7 +10813,7 @@ Does he have anything besides the sexy BDSM gag ball 和諧/阿中哥哥 girl fr
 ===== Wumao artists
 
 [[wuheqilin]]
-====== Wuheqilin (乌合麒麟)
+====== Wuheqilin (乌合麒麟, wumao photographer)
 
 * https://en.wikipedia.org/wiki/Wuheqilin
 * https://zh.wikipedia.org/wiki/乌合麒麟
@@ -11957,7 +11966,7 @@ ____
 
 ===== Where to find wumaos
 
-Wumaos are particularly easy to spot on <<censorship-monitoring,Western websites banned in China>> and when written in English, since there is no way that strong pro-CCP opinions would get any support in such circumstances:
+<<wumao,Wumaos>> are particularly easy to spot on <<censorship-monitoring,Western websites banned in China>> and when written in English, since there is no way that strong pro-CCP opinions would get any support in such circumstances:
 
 * <<quora>> is completely infested by wumaos as of 2020, see more information on that section
 
@@ -12207,7 +12216,7 @@ And guess which idiotic Western website requires real usernames and no privacy? 
 * 2015 Ursula Gauthier from <<liubukou>>
 
 [[social-credit-system]]
-=== Social Credit System 社会信用体系
+=== Social Credit System (社会信用体系)
 
 * https://en.wikipedia.org/wiki/Social_Credit_System
 * https://zh.wikipedia.org/wiki/社会信用体系
@@ -12323,7 +12332,7 @@ But in reality they punish anyone who poses a political threat, even if they did
 image::{china-dictatorship-media-base}/Qelbinur_Sedik_call_with_cop.jpg[height=400]
 
 [[the-709-crackdown]]
-==== 709 crackdown 中國709維權律師大抓捕事件 (2015)
+==== 709 crackdown (2015, 中國709維權律師大抓捕事件)
 
 * https://en.wikipedia.org/wiki/709_crackdown
 * https://zh.wikipedia.org/wiki/中國709維權律師大抓捕事件
@@ -12456,7 +12465,7 @@ ____
 image::{china-dictatorship-media-base}/Zoom_Boris.jpg[height=400]
 
 [[huawei]]
-=== Huawei (华为)
+=== Huawei (华为, Chinese Qualcomm)
 
 * https://en.wikipedia.org/wiki/Huawei
 * https://zh.wikipedia.org/wiki/华为
@@ -12548,7 +12557,7 @@ Reports:
 Douyin does not seem to have a web interface: https://www.zhihu.com/question/269102675 "有没有抖音网页版或者抖音电脑版？"
 
 [[baidu]]
-=== Baidu (百度)
+=== Baidu (百度, Chinese Google)
 
 https://en.wikipedia.org/wiki/Baidu
 
@@ -12576,7 +12585,7 @@ The "Google of China":
 ** the <<cac>> uses their analytics as of 2020
 
 [[baidu-baike]]
-==== Baidu Baike (Chinese censored Wikipedia clone, 百度百科)
+==== Baidu Baike (百度百科, Chinese censored Wikipedia clone)
 
 * https://en.wikipedia.org/wiki/Baidu_Baike
 * https://zh.wikipedia.org/wiki/百度百科
@@ -12595,7 +12604,7 @@ Also has:
 * a decent, but unarchivable, comment section: https://web.archive.org/web/20210427075821/https://baike.baidu.com/planet/talk?lemmaId=22214113
 
 [[alibaba]]
-=== Alibaba (阿里巴巴)
+=== Alibaba (阿里巴巴, Chinese Amazon clone)
 
 * https://en.wikipedia.org/wiki/Alibaba_Group
 * https://zh.wikipedia.org/wiki/阿里巴巴集团
@@ -12617,7 +12626,7 @@ image::{china-dictatorship-media-base}/Jack_Ma_Winnie_the_Pooh_and_That_Rabbit_s
 * https://zh.wikipedia.org/wiki/马云
 
 [[xiaomi]]
-=== Xiaomi (小米)
+=== Xiaomi (小米, cell phone company)
 
 * https://en.wikipedia.org/wiki/Xiaomi
 * https://zh.wikipedia.org/wiki/小米集團
@@ -12635,7 +12644,7 @@ ____
 ____
 
 [[netease]]
-=== Netease (网易)
+=== Netease (网易, online gaming company)
 
 * https://en.wikipedia.org/wiki/NetEase
 * https://zh.wikipedia.org/wiki/网易
@@ -12645,7 +12654,7 @@ Website: https://www.163.com/
 Operates some MMORPGs in China. According to Wikipedia: "The company also owns several pig farms." That's the most amazing thing <<ciro-santilli>> has ever heard.
 
 [[tencent]]
-=== Tencent (腾讯)
+=== Tencent (腾讯, WeChat owner)
 
 * https://en.wikipedia.org/wiki/Tencent
 * https://zh.wikipedia.org/wiki/腾讯
@@ -12659,7 +12668,7 @@ Operates some MMORPGs in China. According to Wikipedia: "The company also owns s
 The dominating Chinese WhatsApp clone as of 2020, with infinitely many other functionality added, notably payments.
 
 [[sina]]
-=== Sina Corp (新浪)
+=== Sina Corp (新浪, Weibo owner)
 
 * https://en.wikipedia.org/wiki/Sina_Corp
 * https://zh.wikipedia.org/wiki/新浪
@@ -12797,7 +12806,8 @@ Someone subscribed me to a hundred GovDelivery mailing lists. This bullshit is a
 * 2015-06-20: (deleted) link:https://www.plurk.com/p/l1jjn4[] Archive: https://web.archive.org/web/20150918110032/https://www.plurk.com/p/l1jjn4 "這阿豆阿的名字XDD" by https://www.plurk.com/m/u/cyuanXD
 * 2015-05-30: <<zhou-fengsuo>> linked to <<ciro-santilli>>'s stack overflow account!!!
 
-=== V2EX
+[[v2ex]]
+=== V2EX (semi-censored forum)
 
 https://zh.wikipedia.org/wiki/V2EX
 
@@ -12842,7 +12852,7 @@ It had an <<icp-license>> in 2016, but lost it in 2019 to move servers back to U
 When Ciro later checked the above threads on 2020-12-20, he noticed that all of them had been made restricted to logged in members only, while previously only one of them had been.
 
 [[pincong]]
-=== Pincong (品葱)
+=== Pincong (品葱, uncensored forum)
 
 https://zh.wikipedia.org/wiki/品葱
 
@@ -12885,7 +12895,7 @@ In other sections:
 * <<github-repositories-with-censored-information>>
 
 [[esu-wiki]]
-=== Esu Wiki (惡俗維基)
+=== Esu Wiki (惡俗維基, politically incorrect wiki)
 
 https://zh.wikipedia.org/wiki/惡俗維基
 
@@ -12898,7 +12908,7 @@ http://y2wam5fshij3arfjuxirusomu73b2joql524zpre3dhvxmlqw4srcuad.onion/ is a Tor 
 At some point they forbade discussion of politics there, likely due to some prosecution case, and officially forked into <<zhina-wiki>>, where politics is encouraged, presumably under better opsec.
 
 [[zhina-wiki]]
-==== Zhina Wiki (支纳维基)
+==== Zhina Wiki (支纳维基, politically incorrect wiki )
 
 Apparently addresses were:
 
