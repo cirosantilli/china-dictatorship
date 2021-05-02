@@ -631,7 +631,7 @@ to attack that repo:
 TODO which exact GitHub action did they rely on? That repo currently has a https://github.com/ant-design/ant-design-pro/actions/workflows/issue-open-check.yml Issue Open Check GitHub action sample run: https://github.com/ant-design/ant-design-pro/runs/2209272410?check_suite_focus=true we see the similarity issue analysis thing, but how could that have worked more precisely to link across repos? Asked at: https://github.com/cirosantilli/china-dictatorship/issues/203
 
 [[faq]]
-== FAQ 常见问答集
+== FAQ (常见问答集)
 
 [[why-keyword-attack]]
 === Why attack websites with censored keywords? 用审查词攻击网站有什么用呢？
@@ -3450,6 +3450,10 @@ News:
 
 * 2021-04-08: publicly supported the <<milk-tea-alliance>>
 
+[[trump-twitter-kuang-biao]]
+.Cartoon showing Donald Trump's mouth sewn shut in a "Twitter" shape by <<kuang-biao>> (2021) after Trump was <<unjust-social-media-censorship-in-the-west,banned from Twitter>>. You know it's bad when the artists who normally criticize the <<ccp,CCP>> start to criticize you. https://xueqiu.com/9870976009/168210673[Source].
+image::{china-dictatorship-media-base}/Flag_of_the_Republic_of_China.svg[height=400]
+
 ===== Tumblr
 
 * https://independence-of-mind.tumblr.com/ 独立思考社群 (Independent thought society)
@@ -5929,11 +5933,6 @@ https://en.wikipedia.org/wiki/China–Holy_See_relations#September_2018_Holy_See
 +
 .<<rebel-pepper>> 2018-09 cartoon showing the Pope Francis with a Christian cross containing the Hammer and Sickle communist symbol, in reference to one of the accords that the Vatican struck with the Chinese government. https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html[Source].
 image::{china-dictatorship-media-base}/Pope_CCP_deal.jpeg[height=400]
-* 2018-01 Chinese authorities demolish Christian mega-church "Golden Lampstand" sparking fears of religious persecution
-** https://www.businessinsider.com/chinese-authorities-demolish-christian-mega-church-in-crackdown-2018-1
-+
-.China's Golden Lampstand Church being demolished. https://www.businessinsider.com/chinese-authorities-demolish-christian-mega-church-in-crackdown-2018-1[Source].
-image::{china-dictatorship-media-base}/Church_demolition.jpg[height=400]
 * 2016 https://www.nytimes.com/2016/02/27/world/asia/china-zhejiang-christians-pastor-crosses.html pastor 14 years jail
 * 2015 https://www.washingtonpost.com/world/asia_pacific/christians-in-china-feel-full-force-of-authorities-repression/2015/12/23/7dd0ec5a-a736-11e5-b596-113f59ee069a_story.html
 
@@ -5945,6 +5944,9 @@ image::{china-dictatorship-media-base}/Last_Supper_Mao.jpg[height=400]
 
 .Permission papers filled to the brim with government <<seal,stamps>> required for the Taihu Catholic Church (https://zh.wikipedia.org/wiki/華莊天主堂[太湖天主堂]) from https://en.wikipedia.org/wiki/Wuxi[Wuxi] (https://zh.wikipedia.org/wiki/无锡市[无锡市]) to hold their annual Christmas https://en.wikipedia.org/wiki/Réveillon[Reveillon] reunion. This is the <<ccp,CCP>>'s version freedom of religion and freedom of assembly. Also mentioned at: https://bitterwinter.org/christmas-was-not-allowed-but-brought-china-a-lot-of-money/ from <<bitter-winter>>. https://twitter.com/ZhangZhulin/status/1342211279633719296[Source]. TODO original social media post from the church.
 image::{china-dictatorship-media-base}/Taihu_church_Christmas_reveillon_permission_2020.jpg[height=500]
+
+.https://en.wikipedia.org/wiki/Golden_Lampstand_Church[Golden Lampstand Church] (https://www.dw.com/zh/山西临汾金灯台教堂被强拆/a-42114625[金灯台教堂]) church in <<shanxi>> being demolished in January 2018. https://www.businessinsider.com/chinese-authorities-demolish-christian-mega-church-in-crackdown-2018-1[Source].
+image::{china-dictatorship-media-base}/Church_demolition.jpg[height=400]
 
 [[life-of-brian-nazi-jew]]
 .https://youtu.be/wthHB3iTC7M?t=556 Nazi Jew deleted scene from <<life-of-brian-1979>>. If you want to stop <<christianity>>, don't put them in jail like the <<dictatorship,dictators>>. Do it the same way you stop dictators: with <<funny,comedy>>. Otherwise, the dictators remain in power, and <<intolerance,next person in jail, will be you>>. <<the-secret-life-of-brian-2007>> is a good documentary about it.
@@ -6051,8 +6053,10 @@ Chen Tianhe (陳天河) has not been heard from since he was detained on Feb. 25
 ____
 
 * 2020 City Dream film (城市梦) Weijun Chen's (陈为军) lively new film documents the struggles of Wang Tiancheng, an elderly and cantakerous street vendor in Wuhan, China, whose business is threatened by the development of a new retail district.
-** https://baike.baidu.com/item/城市梦/23578924 on <<baidu-baike>>
-** http://www.xinhuanet.com/ent/2020-08/27/c_1126417894.htm on <<xinhua>>
+** 2021 http://www.sixthtone.com/news/1007364 New Film Turns the Tables on China’s Infamous 'Chengguan' (城管)
+** not censured in China:
+*** https://baike.baidu.com/item/城市梦/23578924 on <<baidu-baike>>
+*** http://www.xinhuanet.com/ent/2020-08/27/c_1126417894.htm on <<xinhua>>
 
 [[nine-nine-six-icu]]
 ==== 996.ICU (2019)
@@ -6375,7 +6379,7 @@ Related:
 ** https://ru.wikipedia.org/wiki/Голос_(мониторинг_выборов)
 
 [[litvinenko]]
-==== The murder of Alexander Litvinenko Литвиненко, Александр Вальтерович (2006)
+==== The murder of Alexander Litvinenko (Литвиненко, Александр Вальтерович, 2006)
 
 * https://en.wikipedia.org/wiki/Alexander_Litvinenko
 * https://ru.wikipedia.org/wiki/Литвиненко,_Александр_Вальтерович
@@ -10848,6 +10852,7 @@ Has a more artistic red-black-white-yellow style.
 Sample work:
 
 * <<li-wenliang-by-kuang-biao,Li Wenliang with barbed wire mask>>
+* <<trump-twitter-kuang-biao,Trump Twitter ban cartoon>>
 
 ==== Paresh Nath
 
@@ -13986,10 +13991,13 @@ This is a good approach to tick off high frequency stuff you don't know you don'
 === Provinces of China
 
 [[liaoning]]
-==== Liaoning (辽宁省)
+==== Liaoning Province (辽宁省)
 
 * https://en.wikipedia.org/wiki/Liaoning
 * https://zh.wikipedia.org/wiki/辽宁省
+
+[[shanxi]]
+==== Shanxi Province (山西省)
 
 == Chinese cheat
 
