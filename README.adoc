@@ -4908,7 +4908,29 @@ Ciro has since then created a reply bot based on <<github>> Actions that does th
 * link:action.js[]
 * link:.github/workflows/issue.yml[]
 
-Finally, also try to extract the email of the user from one of their repositories. When sucessful, Ciro takes a <<wayback-machine>> snapshot of the repository as proof of SHA, and then forks it to https://github.com/cirosantilli-test-org to keep the email safe in case of account deletion. You never know when this information might be useful.
+The bot works beautifully because it makes Ciro not feel the need to reply to every idiot <<wumao>> that comes along. Also Ciro can hide like a coward behind the bot by editing the bot's comment, which is perfect. This reminded Ciro from something that was said in https://en.wikipedia.org/wiki/Better_Call_Saul[Better Call Saul] S01 E01:
+
+____
+And they find themselves in a little room with a detective who acts like he's their best friend.
+
+"Talk to me," he says. "Help me clear this thing up."
+
+"You don't need a lawyer, only guilty people need lawyers."
+
+And, boom, hey, that's when it all goes south.
+
+That's when you want someone in your corner.
+
+Someone who will fight tooth and nail.
+
+Lawyers, we're like health insurance.
+
+You hope you never need it, but, man, oh, man, not having it? No.
+____
+
+The bot is basically Ciro's lawyer, always loyally on his corner of the fighting ring.
+
+Finally, also try to extract the email of the user from one of their repositories. When successful, Ciro takes a <<wayback-machine>> snapshot of the repository as proof of SHA, and then forks it to https://github.com/cirosantilli-test-org to keep the email safe in case of account deletion. You never know when this information might be useful.
 
 Then, after replying, do your best never to read the inevitable reply again, and above all, never ever reply. An interesting reply never follows from a non-interesting original post. It is hard at first, but you will eventually get the hang of it.
 
@@ -9780,6 +9802,8 @@ Based on Ireland.
 
 * https://en.wikipedia.org/wiki/Ai_Weiwei
 * https://zh.wikipedia.org/wiki/艾未未
+
+TODO understand: https://twitter.com/remonwangxt/status/141825341227417600 by <<kuang-biao>> which shows Ai Weiwei morphed into a penis and balls.
 
 [[xu-xiaodong]]
 ==== Xu Xiaodong (Mad Dog, 徐晓冬)
