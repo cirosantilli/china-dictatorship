@@ -538,6 +538,7 @@ Further optimizations:
 +
 ....
 #!/usr/bin/env bash
+printf '疫情期间网民情绪识别比赛'
 printf 996icu
 printf '996 icu'
 printf 学习强国
@@ -1270,7 +1271,10 @@ In Italy, Benito Mussolini sought to create a https://en.wikipedia.org/wiki/Ital
 ____
 * 1931 https://en.wikipedia.org/wiki/Japanese_invasion_of_Manchuria[1931 Japanese invasion of Manchuria], with one false flag event preceding it: https://en.wikipedia.org/wiki/Mukden_Incident[Mikden Incident].
 
-When China <<evil-west,calls the USA Imperialist>> (帝国主义), there is of course some truth to it, but it is also very ironic, because as https://youtu.be/GiVs05yq9-o?t=74[Lindybeige mentions], China is obviously the largest empire on Earth! Despite its <<xinjiang,uniformization>> efforts, China is highly diverse since it is obviously made up of a https://en.wikipedia.org/wiki/List_of_ethnic_groups_in_China[large stitched up carpet of nations that were conquered by a single empire]. E.g. <<xinjiang>> translates literally as "The New Frontier"! Not to mention obviously the Qin unification of the <<warring-states-period>>.
+When China <<evil-west,calls the USA Imperialist>> (帝国主义), there is of course some truth to it, but it is also very ironic, because as https://youtu.be/GiVs05yq9-o?t=74[Lindybeige mentions], China is obviously the largest empire on Earth! Despite its <<xinjiang,uniformization>> efforts, China is highly diverse since it is obviously made up of a https://en.wikipedia.org/wiki/List_of_ethnic_groups_in_China[large stitched up carpet of nations that were conquered by a single empire]. E.g. <<xinjiang>> translates literally as "The New Frontier"! Not to mention obviously the unification of the <<warring-states-period>>.
+
+.https://www.youtube.com/watch?v=7PhjfThj4IA Ending of the https://en.wikipedia.org/wiki/Sportpalast_speech[Sportpalast speech], AKA https://en.wikipedia.org/wiki/Total_war[total war] (https://zh.wikipedia.org/wiki/总体战[总体战]) speech by <<nazi,Goebbels>>, given in 1943, when Germany started to lose the war. This was later target of https://en.wikipedia.org/wiki/File:8th_Air_Force_psychological_warfare_leaflet.jpg[opposing allied propaganda]. Total war, that's what <<dictatorship,dictatorship>> bring you.
+video::7PhjfThj4IA[youtube,height=400,width=600]
 
 ===== The United States has recently started several wars and killed millions!
 
@@ -2734,7 +2738,7 @@ image::{china-dictatorship-media-base}/Kin_no_unko.jpg[height=500]
 image::{china-dictatorship-media-base}/Like_shitposts.jpg[height=600]
 
 [[caonima]]
-.The legendary https://en.wikipedia.org/wiki/Grass_Mud_Horse[Grass Mud Horse 草泥马 (caonima)] is also said to appear in shitposts from time to time.
+.The legendary https://en.wikipedia.org/wiki/Grass_Mud_Horse[Grass Mud Horse (草泥马, caonima)] is also said to appear in shitposts from time to time.
 image::{china-dictatorship-media-base}/Caonima.jpg[height=600]
 
 ==== I am going to write a huge wall of text to prove my point
@@ -10839,7 +10843,7 @@ Other cartoonists/illustrators:
 ** https://idzpodprad.pl/aktualnosci/chinczycy-groza-smiercia-polskiej-ilustratorce-pracodawca-chce-ja-zwolnic/ "Chińczycy grożą śmiercią polskiej ilustratorce! Pracodawca chce ją zwolnić?¨" Google translates to: "The Chinese are threatening the death of the Polish illustrator! Employer wants to fire her?"
 
 [[rebel-pepper]]
-==== Rebel Pepper (变态辣椒, RFA employee)
+==== Rebel Pepper (变态辣椒, RFA cartoonist)
 
 * https://en.wikipedia.org/wiki/Rebel_Pepper
 * https://zh.wikipedia.org/wiki/王立銘
@@ -12105,16 +12109,6 @@ https://www.zhihu.com/question/334923127 如何评价俄罗斯籍中国网红伏
 ** https://www.youtube.com/watch?v=2Mjik6q7FFo "The CCP is Wonderful! Thank you China not a government shill 谢谢你中国"
 ** https://www.youtube.com/watch?v=9SftsZXlIKM "British vlogger: The life of Uygurs and other minorities in China" reposted by <<cgtn>> (2021)
 
-<<nazi>>-related people that come to mind:
-
-* https://en.wikipedia.org/wiki/William_Joyce William Joyce
-+
-____
-William Brooke Joyce (24 April 1906 – 3 January 1946), nicknamed Lord Haw-Haw, was an American-born British fascist politician and Nazi propaganda broadcaster to the United Kingdom during World War II. He took German citizenship in 1940.
-
-Joyce was convicted of one count of high treason in 1945 and sentenced to death, with the Court of Appeal and the House of Lords both upholding his conviction. He was hanged on 3 January 1946, making him the last person to be executed for treason in the United Kingdom.
-____
-
 On <<quora>>: https://www.quora.com/Why-does-there-seem-to-be-an-upsurge-in-CCP-apologists-and-apologism/answer/Ciro-Santilli
 
 TODO decide:
@@ -12270,6 +12264,7 @@ Media:
 * https://www.youtube.com/watch?v=8SJcr29TmNo Ychina YouTube channel
 * https://www.facebook.com/ychinamedia Facebook Video channel (reposts)
 * https://www.linkedin.com/in/raz-gal-or-5a454866/ reads "Founder of Y-Platform (歪果仁研究协会) - a leading online video Multi-channel Network (MCN) in China. Y-Platform manages more than 30 online influencers/channels with a total of 100+ million followers on social media networks, averaging 500 million views per month."
+* https://www.youtube.com/watch?v=bdG3HsxlTD8 Failure is the best thing I've experienced | Raz Galor | TEDxYouth@Hangzhou (2019). He was featured in TEDx like his father
 
 Sample posts:
 
@@ -12286,6 +12281,49 @@ Associates:
 ** Chris TODO
 * from https://www.youtube.com/watch?v=wyRuCWyv2vo
 ** Brian
+
+====== World war 2 radio propaganda
+
+During WW2, lots of pro-<<nazi,Nazi>> and pro-Alllied radio propaganda was produced and transmitted to the enemy:
+
+* https://en.wikipedia.org/wiki/Radio_propaganda[Radio propaganda]
+* https://www.history.com/news/6-world-war-ii-propaganda-broadcasters
+* http://americanradioworks.publicradio.org/features/wwii/b1.html
+
+Most notable pro-Nazi ones:
+
+* https://en.wikipedia.org/wiki/William_Joyce William Joyce (alias https://en.wikipedia.org/wiki/Lord_Haw-Haw[Lord Haw-Haw])
++
+His broadcasts opened with "Germany calling, Germany calling" and were spoken in a faked affected upper-class English accent.
++
+They seem to be very just boring propaganda news however, no jokes.
++
+____
+William Brooke Joyce (24 April 1906 – 3 January 1946), nicknamed Lord Haw-Haw, was an American-born British fascist politician and Nazi propaganda broadcaster to the United Kingdom during World War II. He took German citizenship in 1940.
+
+Joyce was convicted of one count of high treason in 1945 and sentenced to death, with the Court of Appeal and the House of Lords both upholding his conviction. He was hanged on 3 January 1946, making him the last person to be executed for treason in the United Kingdom.
+____
++
+** https://www.youtube.com/watch?v=Oe-THrWu_4I Lord Haw Haw William Joyce Final Broadcast 1945
+** https://www.youtube.com/watch?v=QtUcGR0Og6c AP hanging news
+* https://en.wikipedia.org/wiki/Axis_Sally[Axis Sally]
+** https://en.wikipedia.org/wiki/Rita_Zucca[Rita Zucca]
+** https://en.wikipedia.org/wiki/Mildred Gillars[Mildred Gillars]. A large Hollywood production was made about her in 2021: https://en.wikipedia.org/wiki/American Traitor: The Trial of Axis Sally[American Traitor: The Trial of Axis Sally]
+** https://en.wikipedia.org/wiki/Philippe_Henriot[Philippe Henriot] pro-Nazi in French
+* https://en.wikipedia.org/wiki/Robert_Henry_Best[Robert Henry Best], alias "Mr. Guess Who"
+* https://en.wikipedia.org/wiki/Jane_Anderson_(American_journalist)[Jane Anderson], alias "The Georgia Peach"
+* https://en.wikipedia.org/wiki/Frederick_Wilhelm_Kaltenbach[Frederick Wilhelm Kaltenbach], alias "Lord Hee Haw"
+
+Most notable Allied ones:
+
+* https://en.wikipedia.org/wiki/Sefton_Delmer[Sefton Delmer], who actually carried out https://en.wikipedia.org/wiki/Black_propaganda[black propaganda] (false flag propaganda that identifies as coming from the enemy itself). Related terms:
+** https://en.wikipedia.org/wiki/White_propaganda[White propaganda]: identifies its source, e.g. <<rfa>>
+** Gray propaganda: does not identify source
+** https://en.wikipedia.org/wiki/Political_warfare[political warfare]. The main photo of the wiki page is Sun Tzu :-)
+*** https://en.wikipedia.org/wiki/Psychological_warfare[Psychologial warfare]
+
+.https://www.youtube.com/watch?v=HrT3rILfIzA "Tokyo Rose" - WW2 Traitor or Victim? by  Mark Felton Productions (2021) talks about https://en.wikipedia.org/wiki/Tokyo_Rose[Tokyo Rose] (https://zh.wikipedia.org/wiki/東京玫瑰[東京玫瑰]), alias for several women who broadcast English propaganda for the Japanese, but most notably https://en.wikipedia.org/wiki/Iva_Toguri_D%27Aquino[Iva Toguri D'Aquino]. This one was really good, she was cute and made fun of herself, and played music, the Americans actually enjoyed listening to it. Soft power at its best.
+video::HrT3rILfIzA[youtube,height=400,width=600]
 
 [[real-username-law]]
 ==== Real username law (2015)
