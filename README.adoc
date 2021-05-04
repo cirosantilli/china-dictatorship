@@ -10,13 +10,13 @@
 :toclevels: 6
 :toc-title:
 
-https://cirosantilli.com/china-dictatorship[cirosantilli.com (canonical)] | https://cirosantilli.gitlab.io/china-dictatorship[gitlab.io (China mirror)] | https://github.com/cirosantilli/china-dictatorship[GitHub project] | https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip[GitHub HTML download]
+https://cirosantilli.com/china-dictatorship[cirosantilli.com (canonical)] | https://cirosantilli.gitlab.io/china-dictatorship[gitlab.io (China mirror 中国镜像)] | https://github.com/cirosantilli/china-dictatorship[GitHub project] | https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip[GitHub HTML download]
 
 Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
 This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com]. You can view it fully at either:
 
-* https://cirosantilli.com/china-dictatorship[]. Canonical, https://zh.greatfire.org/https/cirosantilli.com[blocked in China since 2020] according to <<greatfire>>
+* https://cirosantilli.com/china-dictatorship[]. Canonical, https://zh.greatfire.org/https/cirosantilli.com[blocked in China since 2020] according to <<greatfire>>. However, China is still the second largest hit location according to Google Analytics, I don't understand.
 * https://cirosantilli.gitlab.io/china-dictatorship[]. Let's see how good is the <<gfw>> at blocking subdomains.
 
 or by downloading it locally as shown at: <<mirrors>>.
@@ -4540,6 +4540,9 @@ Report website launched in 2018 https://www.12339.gov.cn/[], some coverage:
 
 The Chinese army, and also one of the central intelligence agencies, notably on cyberattacks.
 
+.A Chinese soldier smashes bricks on a colleague's head during joint Chinese-<<india>> anti-terrorism exercises in Kunming in 2007. https://nastyhobbit.org/details.php?image_id=370[Source]. https://sinosphere.blogs.nytimes.com/2014/02/24/military-brick-breaking-demonstrations-face-the-chop/[Better source with worse image quality].
+image::{china-dictatorship-media-base}/PLA_soldier_breaking_bricks_on_head.jpg[height=400]
+
 ===== The West must ban the Chinese telecommunications software and hardware
 
 They are an entry point to spying, censorship and <<fake-news>>. Notable companies that should be banned:
@@ -8275,7 +8278,7 @@ image::{china-dictatorship-media-base}/Li_Hongzhi_stone_garden.jpg[height=600]
 image::{china-dictatorship-media-base}/Li_Hongzhi_blue.jpg[height=400]
 
 [[li-hongzhi-lotus]]
-.<<li-hongzhi,Li>> going https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] while casually sitting on a https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art[giant Lotus flower] with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] on his head. https://www.pinterest.fr/pin/8022105562347289/[Source].
+.<<li-hongzhi,Li>> going https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] (https://baike.baidu.com/item/超级赛亚人/6974315[超级赛亚人]) while casually sitting on a https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art[giant Lotus flower] with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] on his head. https://www.pinterest.fr/pin/8022105562347289/[Source].
 image::{china-dictatorship-media-base}/Li_Hongzhi_lotus.jpg[height=600]
 
 .<<li-hongzhi>> really turning into a proper Buddha, including https://en.wikipedia.org/wiki/Physical_characteristics_of_the_Buddha[physical signs] such as the https://en.wikipedia.org/wiki/Ushnisha[Ushnisha] on the head and the https://en.wikipedia.org/w/index.php?title=Physical_characteristics_of_the_Buddha&oldid=972021136#The_80_secondary_characteristics["ears as longs as lotus petals"]. <<bannedbook>> https://www.bannedbook.org/bnews/tculture/xiulian/20190123/1068931.html[source].
@@ -8695,7 +8698,7 @@ image::{china-dictatorship-media-base}/Xi_Jiang_Hu.jpg[height=400]
 [[xi-jinping-lookalikes]]
 ===== Xi Jinping lookalikes (习近平撞脸)
 
-.2019-05-21 https://en.wikipedia.org/wiki/Sadomasochism[Sadomasochist] https://en.wikipedia.org/wiki/BDSM[BDSM] (SM) Xi Jinping lookalike or photoshop in https://en.wikipedia.org/wiki/Bondage_suit[bondage suit] (gimp suit, fetish gear) at a cosplay fair. TODO: is this a Photoshop and if yes what's the original pic, publish dates, location/event. <<ciro-santilli>> googled a lot for it, but it was beyond his skills :-( Earliest post found so far: 2019-05-21 08:49:20 GMT+1 (Imgur timestamp) going wild on <<ptt>>: https://www.ptt.cc/bbs/joke/M.1558454171.A.5C9.html[] entitled "這位coser是誰啊？好眼熟。" (Who is this Cosplayer? He looks familiar.) by user "a15568". Watermark reads "I am Dasen 郭", where "郭" is https://en.wikipedia.org/wiki/Guo[a common Chinese surname]. Notable discussion threads: https://www.reddit.com/r/China/comments/ckgs5l/xi_jinping_took_to_the_streets_to_demonstrate_his/[r/China 2019-08-01], https://www.reddit.com/r/China/comments/ke4hde/nice_pic_i_found/[r/China 2020-12-16], https://www.reddit.com/r/HongKong/comments/ckjf65/gee_i_am_sure_chairman_xi_will_really_appreciate/[2019-08-01]
+.2019-05-21 https://en.wikipedia.org/wiki/Sadomasochism[Sadomasochist] (https://zh.wikipedia.org/wiki/虐戀_(性學)[虐恋]) https://en.wikipedia.org/wiki/BDSM[BDSM] (https://zh.wikipedia.org/wiki/BDSM[zh], SM) <<xi-jinping>> lookalike or photoshop in https://en.wikipedia.org/wiki/Bondage_suit[bondage suit] (gimp suit, fetish gear) at a cosplay fair. TODO: is this a Photoshop and if yes what's the original pic, publish dates, location/event. <<ciro-santilli>> googled a lot for it, but it was beyond his skills :-( Earliest post found so far: 2019-05-21 08:49:20 GMT+1 (Imgur timestamp) going wild on <<ptt>>: https://www.ptt.cc/bbs/joke/M.1558454171.A.5C9.html[] entitled "這位coser是誰啊？好眼熟。" (Who is this Cosplayer? He looks familiar.) by user "a15568". Watermark reads "I am Dasen 郭", where "郭" is https://en.wikipedia.org/wiki/Guo[a common Chinese surname]. Notable discussion threads: https://www.reddit.com/r/China/comments/ckgs5l/xi_jinping_took_to_the_streets_to_demonstrate_his/[r/China 2019-08-01], https://www.reddit.com/r/China/comments/ke4hde/nice_pic_i_found/[r/China 2020-12-16], https://www.reddit.com/r/HongKong/comments/ckjf65/gee_i_am_sure_chairman_xi_will_really_appreciate/[2019-08-01]
 image::{china-dictatorship-media-base}/Xi_sadomasochist.jpg[height=500]
 
 .2020-01-01 https://en.wikipedia.org/wiki/Shengjian_mantou[Pan-fried dumpling] Xi Jinping lookalike 生煎包习近平撞脸. Furthermore, this reminded people of <<xi-jinping-memes,習包子>>. A <<taiwan,Taiwanese>> report from 2020-01-01: https://news.tvbs.com.tw/world/1257030 TODO name, location. One of the many videos of him: https://www.youtube.com/watch?v=hTt8Sjer6cc[]
@@ -8768,10 +8771,10 @@ Got creator Dai Jianyong (戴建勇) arrested in 2015:
 * https://www.independent.co.uk/news/world/asia/chinese-artist-who-posted-funny-image-of-president-xi-jinping-facing-five-years-in-prison-as-10282630.html
 * https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/ by <<china-digital-times>>
 
-.Chrysanthemum Xi Jinping with <<tiananmen,六四>> spice added by Ciro Santilli
+.Chrysanthemum <<xi-jinping>> with <<tiananmen,六四>> spice added by Ciro Santilli
 image::{china-dictatorship-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
 
-.Original Chrysanthemum Xi Jinping by Dai Jianyong published in 2015. https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/[Source].
+.Original Chrysanthemum <<xi-jinping>> by Dai Jianyong published in 2015. https://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/[Source].
 image::{china-dictatorship-media-base}/Chrysanthemum_Xi.jpeg[height=400]
 
 [[xi-jinping-portrait-blue]]
@@ -9328,11 +9331,11 @@ Other interesting links:
 * https://www.64memo.com/ 六四档案 Website dedicated to collecting photos of the protests and aftermath. Says you have to login to see the gory photos, but hovering over thumbnails expands all of them, and their email service is broken as of 2020 so you can't sign up.
 * https://www.rfa.org/mandarin/june4_poetry Chinese poetry anthology about Tiananmen collected by <<rfa>>
 
-.Sea of protesters (广场人潮涌) in Tiananmen Square on 2019-05-04. No, not even that many people can influence dictatorships if they don't have weapons. https://abcnews.go.com/International/tiananmen-square-29th-anniversary-crackdown/story?id=55564966[Source].
+.Sea of protesters (广场人潮涌) in Tiananmen Square on 1989-05-04. No, not even that many people can influence dictatorships if they don't have weapons. https://abcnews.go.com/International/tiananmen-square-29th-anniversary-crackdown/story?id=55564966[Source].
 image::{china-dictatorship-media-base}/Tiananmen_sea.jpg[height=600]
 
 [[pu-zhiqiang-shirt]]
-.https://en.wikipedia.org/wiki/Pu_Zhiqiang[Pu Zhiqiang (浦志强)] was student demonstrator during the Tiananmen Square protests of 1989. His shirt reads: "Freedom of the press, freedom of association, support the 'link:https://en.wikipedia.org/wiki/World_Economic_Herald[World Economic Herald] (link:https://zh.wikipedia.org/wiki/世界经济导报[世界经济导报])', and support just journalists." (辦報自由 結社自由 聲援世经导报 支持正义记者, fully quoted https://cinacn.blogspot.com/2001/07/28.html[here]) Date: 1989-05-10. Pu remained in China as a human rights layer, and https://www.bbc.co.uk/news/world-asia-china-35157525[was arrested in 2014] for attending a private meeting commemorating the 25th anniversary of Tiananmen. https://allthatsinteresting.com/tiananmen-square-massacre[Source].
+.https://en.wikipedia.org/wiki/Pu_Zhiqiang[Pu Zhiqiang] (https://zh.wikipedia.org/wiki/浦志强[浦志强]) was student demonstrator during the Tiananmen Square protests of 1989. His shirt reads: "Freedom of the press, freedom of association, support the 'link:https://en.wikipedia.org/wiki/World_Economic_Herald[World Economic Herald] (link:https://zh.wikipedia.org/wiki/世界经济导报[世界经济导报])', and support just journalists." (辦報自由 結社自由 聲援世经导报 支持正义记者, fully quoted https://cinacn.blogspot.com/2001/07/28.html[here]) Date: 1989-05-10. Pu remained in China as a human rights layer, and https://www.bbc.co.uk/news/world-asia-china-35157525[was arrested in 2014] for attending a private meeting commemorating the 25th anniversary of Tiananmen. https://allthatsinteresting.com/tiananmen-square-massacre[Source].
 image::{china-dictatorship-media-base}/Pu_Zhiqiang_tshirt.jpg[height=500]
 
 .Students from Beijing University stage a huge demonstration in Tiananmen Square as they start an unlimited hunger strike as the part of mass pro-democracy protest against the Chinese government. Photo taken on 1989-05-18 by Catherine Henriette/AFP/Getty Images. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
@@ -9347,7 +9350,7 @@ image::{china-dictatorship-media-base}/Tiananmen_troop_truck_night.jpg[height=50
 .A young woman is caught between civilians and Chinese soldiers, who were trying to remove her from an assembly near the Great Hall of the People in Beijing, on 1989-06-03. AP Photo/Jeff Widener. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_girl_strife.jpg[height=400]
 
-.A student from an art institute plasters the neck of the https://en.wikipedia.org/wiki/Goddess_of_Democracy["Goddess of Democracy"] (https://zh.wikipedia.org/wiki/中国国际广播电台[中国国际广播电台]) statue on 1989-05-30. Replicas have of course been erected elsewhere, and when the CCP falls one day, this _will_ be rebuilt, obviously. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
+.A student from an art institute plasters the neck of the https://en.wikipedia.org/wiki/Goddess_of_Democracy["Goddess of Democracy"] (https://zh.wikipedia.org/wiki/民主女神[民主女神]) statue on 1989-05-30. Replicas have of course been erected elsewhere, and when the CCP falls one day, this _will_ be rebuilt, obviously. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_sculpt_goddess.webp[height=600]
 
 .An old lady tells those rowdy overpriviledged students that they were complaining for no reason, and that in the <<cultural-revolution,good old Mao days you would be lucky to get any food at all>>, and that they should just go the fuck home  on 1989-05-31 (Ciro might or might not have made up the exact content of the conversation). https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
@@ -9359,10 +9362,10 @@ image::{china-dictatorship-media-base}/Tiananmen_announce_soldiers.webp[height=5
 .Godzilla https://en.wikipedia.org/wiki/Li_Peng[Li Peng (李鹏)] crushing the Tiananmen Square protests with his green eye laser beams. https://en.uncyclopedia.co/wiki/File:Li_at_Tiananmen_Eyebeams.jpg[Source].
 image::{china-dictatorship-media-base}/Li_at_Tiananmen_Eyebeams.jpg[height=600]
 
-.Protester covered in blood while holding an army helmet on 1989-06-04. There is also footage of that moment: https://www.youtube.com/watch?t=63&v=lXJ6gHFME0w[] which explains that the man claims his face was cut by a soldir by using the edge of the helmet. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
+.Protester covered in blood while holding an army helmet on 1989-06-04. There is also footage of that moment: https://www.youtube.com/watch?t=63&v=lXJ6gHFME0w[] which explains that the man claims his face was cut by a soldir by using the edge of the helmet. This other photo: https://img.buzzfeed.com/buzzfeed-static/static/2019-06/4/12/asset/buzzfeed-prod-web-02/sub-buzz-29641-1559664105-1.jpg?downsize=1600:*&output-format=auto&output-quality=auto[] shows the cut on his head better. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
 image::{china-dictatorship-media-base}/Tiananmen_helmet.jpg[height=500]
 
-.Bodies with gun wounds at the mortuary at Shuili Hospital (水利医院, Hospital of the Ministry of Water Resources of China, https://goo.gl/maps/xAy55T3sydW8X81M6[Google maps], https://bkso.baidu.com/item/水利医院[Baidu], https://cn.nytimes.com/china/20190531/tiananmen-square-protest-photos/[New York Times Chinese report]), about 8km West of Tiananmen Square. https://www.nytimes.com/2019/05/30/world/asia/tiananmen-square-protest-photos.html[Source].
+.Bodies with gun wounds at the mortuary at Shuili Hospital (水利医院太平间, Hospital of the Ministry of Water Resources of China, https://goo.gl/maps/xAy55T3sydW8X81M6[Google maps], https://bkso.baidu.com/item/水利医院[Baidu], https://cn.nytimes.com/china/20190531/tiananmen-square-protest-photos/[New York Times Chinese report]), about 8km West of Tiananmen Square. https://www.nytimes.com/2019/05/30/world/asia/tiananmen-square-protest-photos.html[Source].
 image::{china-dictatorship-media-base}/Tiananmen_Shuili_Hospital_dead.jpg[height=500]
 
 .A Chinese couple on a bicycle take cover beneath an underpass as tanks deploy overhead in eastern Beijing on 1989-06-05 by AP Photo/Liu Heung Shing. This photo one is almost poetic. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
@@ -10687,6 +10690,8 @@ Partial support:
 They have some amazing anti-<<ccp,CCP>> content, notably:
 
 * https://chinadigitaltimes.net/space/Main_Page[Grass-mud-horse Index], mentioned at: <<where-can-i-find-good-words-for-a-keyword-attack>>
+* as of 2021, their Chinese content is not well unified with the English one, and is much better, e.g.:
+** https://chinadigitaltimes.net/chinese/chronicle-of-major-events list of major events
 
 A scraped mirror of CDT was created on <<github>> pages by Tang Wenzheng from <<fuck-xuexiqiangguo>> is present at:
 
@@ -11300,7 +11305,7 @@ image::{china-dictatorship-media-base}/Frog_in_well.jpeg[height=500]
 .<<nazi,Nazis>> burning books in Berlin in 1933. https://en.wikipedia.org/wiki/Nazi_book_burnings[Source].
 image::{china-dictatorship-media-base}/Nazi_book_burning.jpg[height=400]
 
-.<<falun-gong>> books being destroyed with a https://en.wikipedia.org/wiki/Road_roller[road roller] in 1999 in China in an extremely low quality early Internet still of a video TODO Ciro saw a 3s sequence in https://www.youtube.com/watch?v=v7cz4Tkbwy8[], find timestamp again. How far do you think mass jailings and torture would be? One wonders why they didn't burn the books though. https://en.wikipedia.org/wiki/File:Destruction_d'ouvrages_du_Falun_Gong_lors_de_la_répression_de_1999_en_Chine.jpg[Source].
+.<<falun-gong>> books being destroyed with a https://en.wikipedia.org/wiki/Road_roller[road roller] (https://zh.wikipedia.org/wiki/壓路機[压路机]) in 1999 in China. This appears to be an extremely low quality image fromte early Internet. https://youtu.be/v7cz4Tkbwy8?t=2226 contains a 1 second cut of a video very likely taken at the same event, as the roller and background building look identical, and preceeded by another presumed book destruction where hundreds of blue books (presumably Falun Gong) are dumped into some kind type of destruction device. Both have Chinese watermarkrs, TODO identify. How far away do you think mass jailings and torture would be? One wonders why they didn't burn the books though. https://en.wikipedia.org/wiki/File:Destruction_d'ouvrages_du_Falun_Gong_lors_de_la_répression_de_1999_en_Chine.jpg[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_road_roller_book_destruction.jpg[height=400]
 
 ==== China has more freedom of speech than the USA!
@@ -12400,8 +12405,12 @@ Related news:
 
 <<brainwashed-by-usa,Brainwashing>> for kids younger than the <<communist-youth-league>>.
 
+Related:
+
+* <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream  and the Chinese dream>>
+
 [[xi-salute-young-pioneers]]
-.<<xi-jinping>> basically <<nazi,Nazi saluting>> representatives attending the 7th National Congress of the Chinese Young Pioneers in Beijing, June 1, 2015. http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[Source] (http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[biased]).
+.<<xi-jinping>> basically <<nazi,Nazi saluting>> representatives attending the 7th National Congress of the <<young-pioneers-of-china>> in Beijing, June 1, 2015. http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[Source] by <<xinhua>>.
 image::{china-dictatorship-media-base}/Xi_scout_salute.jpg[height=500]
 
 .<<hitler-youth>> giving the <<nazi,Nazi salute to Hitler>>. https://www.thoughtco.com/hitler-youth-and-indoctrination-1221066[Source].
@@ -13111,6 +13120,7 @@ Then, you can start Googling by instrument. The main four instruments are undoub
 * https://en.wikipedia.org/wiki/Pipa[Pipa]
 * https://en.wikipedia.org/wiki/Guzheng[Guzheng]
 * https://en.wikipedia.org/wiki/Erhu[Erhu]
+** <<suwu>> hearding sheep (苏武牧羊) by Erhu virtuosa Song Fei (https://zh.wikipedia.org/wiki/宋飛[宋飛]): https://www.youtube.com/watch?v=uakOkv341P8
 
 but there is also amazing content on others including:
 
@@ -14048,7 +14058,24 @@ This is a good approach to tick off high frequency stuff you don't know you don'
 * Official character lists learned by native Chinese students per age group. TODO find exact lists.
 ** https://chinese.stackexchange.com/questions/6000/how-many-characters-do-chinese-pupils-know-at-different-ages
 
-== Geography of China
+[[history]]
+== History of China (中国历史)
+
+[[han-dinasty]]
+=== Han dinasty (汉朝, 202 BC - 220 AC)
+
+* https://en.wikipedia.org/wiki/Han_dynasty
+
+[[suwu]]
+==== Suwu (苏武)
+
+* https://zh.wikipedia.org/wiki/苏武
+* https://en.wikipedia.org/wiki/Su_Wu
+
+Dude was messing around with <<throne,Ciro's wife's savage ancestors>>. Bad move.
+
+[[geography]]
+== Geography of China (中国地理)
 
 === Provinces of China
 
