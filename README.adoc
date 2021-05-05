@@ -87,9 +87,9 @@ https://cirosantilli.com/china-dictatorship#xinjiang
 
 image::{china-dictatorship-media-base}/Xinjiang_prisoners_sitting_identified.jpeg[height=400]
 
-image::{china-dictatorship-media-base}/Xinjiang_prisoners_march.jpg[height=400]
+image::{china-dictatorship-media-base}/Xinjiang_prisoners_march.jpg[height=500]
 
-image::{china-dictatorship-media-base}/Uyghur_sale_website.jpg[height=500]
+image::{china-dictatorship-media-base}/Uyghur_sale_website.jpg[height=600]
 
 image::{china-dictatorship-media-base}/Xinjiang_camp_in_camp.jpg[height=600]
 
@@ -97,9 +97,9 @@ image::{china-dictatorship-media-base}/Xinjiang_camp_in_camp.jpg[height=600]
 
 https://cirosantilli.com/china-dictatorship#winnie-the-pooh
 
-image::{china-dictatorship-media-base}/Xi_Pooh_Obama.webp[height=400]
+image::{china-dictatorship-media-base}/Xi_Pooh_Obama.webp[height=500]
 
-image::{china-dictatorship-media-base}/Xi_Abe_Pooh.webp[height=400]
+image::{china-dictatorship-media-base}/Xi_Abe_Pooh.webp[height=500]
 
 image::{china-dictatorship-media-base}/Xi_Jinping_heart.jpeg[height=400]
 
@@ -156,6 +156,8 @@ image::{china-dictatorship-media-base}/Navalny_hospital_sitting.jpg[height=400]
 https://cirosantilli.com/china-dictatorship#thai-king-hamtaro
 
 image::{china-dictatorship-media-base}/Side_by_side_comparison_between_Thai_king_Vajiralongkorn_and_Hamtaro.jpg[height=400]
+
+image::{china-dictatorship-media-base}/Thai_king_crop_top.jpg[height=400]
 
 [[mirrors]]
 == Mirrors of this page (本网页的镜像)
@@ -476,7 +478,7 @@ https://2047.name/register registration requires an invitation code.
 
 https://github.com/2049bbs/2049bbs.github.io[] / https://2049bbs.github.io/[] maintains another archive up to 2019-03-03.
 
-.Side-by-side photos of Chen Mei (陈玫) and Cai Wei (蔡伟). https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html[Source].
+.Side-by-side photos of Chen Mei (陈玫) and Cai Wei (蔡伟) from <<terminus2049>>. https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html[Source].
 image::{china-dictatorship-media-base}/Chenmei_Caowei.png[height=400]
 
 [[chinatimeline]]
@@ -1148,11 +1150,11 @@ Can you manage? +
 Do you understand?
 ____
 
-.Selfie of Li Wenliang (李文亮) on his hospital bed before he died. https://www.bbc.com/news/world-asia-china-51409801[Source].
+.Selfie of <<li-wenliang>> on his hospital bed before he died. https://www.bbc.com/news/world-asia-china-51409801[Source].
 image::{china-dictatorship-media-base}/Li_Wenliang_covid.jpg[height=400]
 
 [[li-wenliang-by-kuang-biao]]
-.Caricature of Li Wenliang wearing a mask made of barbed wire by artist <<kuang-biao>>. The image https://nationalpost.com/news/world/chinese-government-censor-li-wenliang-dead-weibo-wechat-coronavirus[circulated on Weibo] for some time. https://rsf.org/en/news/coronavirus-information-heroes-china-silenced[Source].
+.Caricature of <<li-wenliang>> wearing a mask made of barbed wire by artist <<kuang-biao>>. The image https://nationalpost.com/news/world/chinese-government-censor-li-wenliang-dead-weibo-wechat-coronavirus[circulated on Weibo] for some time. https://rsf.org/en/news/coronavirus-information-heroes-china-silenced[Source].
 image::{china-dictatorship-media-base}/Li_Wenliang_COVID_barbed_wire_mark_by_Kuang_Biao.jpg[height=500]
 
 ====== nCovMemory
@@ -2634,28 +2636,13 @@ ____
 TODO some failed attempts at ASCII art flags:
 
 ....
-+++++++++++++++++++++++++
-+                       +
-+         +             +
-+    ++                 +
-+  + +      +           +
-+  +++++                +
-+    + +    +           +
-+  +++                  +
-+         +             +
-+                       +
-+                       +
-+                       +
-+                       +
-+++++++++++++++++++++++++
-
 卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐
 卐                                              卐
 卐                  卐                          卐
 卐        卐卐                                  卐
 卐    卐  卐            卐                      卐
 卐    卐卐卐卐卐                                卐
-卐        卐 卐        卐                      卐
+卐        卐 卐         卐                      卐
 卐    卐卐卐                                    卐
 卐                  卐                          卐
 卐                                              卐
@@ -3865,10 +3852,11 @@ video::dEkliuqQo-g[youtube,height=400,width=600]
 +
 video::gGYoeJ5U7cQ[youtube,height=400,width=600]
 ** News coverage
+*** 2019-09-23 https://www.theguardian.com/world/video/2019/sep/23/footage-blindfolded-shackled-prisoners-china-video Footage shows hundreds of blindfolded and shackled prisoners in China
 *** https://news.sky.com/story/chinas-detention-of-uighurs-video-of-blindfolded-and-shackled-prisoners-authentic-11815401 Drone footage, video sources:
 ** Reddit: https://www.reddit.com/r/China/comments/d78aog/chilling_video_of_chinese_police_transferring/
 +
-.Video still of 2019-10 drone footage of blindfolded Xinjiang prisoners being marched taken at time 00:30. https://www.youtube.com/watch?v=gGYoeJ5U7cQ[Source].
+.Video still of 2019-09-23 drone footage of blindfolded Xinjiang prisoners being marched taken at time 00:30. https://www.youtube.com/watch?v=gGYoeJ5U7cQ[Source].
 image::{china-dictatorship-media-base}/Xinjiang_prisoners_march.jpg[height=400]
 * 2019-07-31 https://www.nytimes.com/2019/07/30/world/asia/china-xinjiang.html "Doubt Greets China's Claim That Muslims Have Been Released From Camps"
 * 2019-07-19 https://www.france24.com/en/20190712-37-countries-defend-china-over-xinjiang-un-letter "37 countries defend China over Xinjiang in UN letter"
@@ -5954,21 +5942,15 @@ The commies are not a fan. But as someone once told me: the commies are not a fa
 As mentioned at https://en.wikipedia.org/wiki/Christianity_in_China there are only a few state approved churches under total CCP control, and the others are forbidden. For example one of them is called the https://en.wikipedia.org/wiki/Chinese_Patriotic_Catholic_Association[Chinese Patriotic Catholic Association]! God and CCP on the same sentence. https://en.wikipedia.org/wiki/Pope_Pius_XII[Pope Pius XII] excommunicated people from that organization who were appointing new Bishops!
 
 * 2021-04-01 from <<rfa>> https://www.rfa.org/english/news/china/christians-camps-04012021081013.html "Chinese Christians Held in Secretive Brainwashing Camps: Sources", due to report of victim under the pseudonyum Li Yuese (李约瑟) from Sichuan. No strong corroboration however unfortunately. Chinese article 2021-03-11 https://www.rfa.org/mandarin/yataibaodao/shehui/ql2-03312021045450.html
-* 2020-11-24 https://www.theguardian.com/world/2020/nov/24/pope-says-for-first-time-that-chinas-uighurs-are-persecuted "Pope says for first time that China's Uighurs are 'persecuted'"
 * 2018-12 https://www.youtube.com/watch?v=zzWApdCNdik "100 Christians detained in China crackdown" published by CNN
-* 2018-09 Vatican Christian pope makes deal with China
-+
-https://en.wikipedia.org/wiki/China–Holy_See_relations#September_2018_Holy_See–China_Agreement
-+
-.<<rebel-pepper>> 2018-09 cartoon showing the Pope Francis with a Christian cross containing the Hammer and Sickle communist symbol, in reference to one of the accords that the Vatican struck with the Chinese government. https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html[Source].
-image::{china-dictatorship-media-base}/Pope_CCP_deal.jpeg[height=400]
+
 * 2016 https://www.nytimes.com/2016/02/27/world/asia/china-zhejiang-christians-pastor-crosses.html pastor 14 years jail
 * 2015 https://www.washingtonpost.com/world/asia_pacific/christians-in-china-feel-full-force-of-authorities-repression/2015/12/23/7dd0ec5a-a736-11e5-b596-113f59ee069a_story.html
 
 .<<rebel-pepper>> 2018-09 cartoon showing Jesus and the Apostles in the Last Supper being arrested by CCP guards. https://www.rfa.org/english/cartoons/china-crackddown-Christianity-cartoon-09072018150421.html[Source].
 image::{china-dictatorship-media-base}/Last_Supper_arrest.jpeg[height=400]
 
-.https://en.wikipedia.org/wiki/Zhang_Hongtu[Zhang Hongtu] cartoon showing <<mao-zedong,Mao Zedong>> and other communist officials at the Last Supper instead of Jesus and the Apostles. https://musicandculture.blogspot.com/2010/03/massive-last-supper-parodies-post.html[Source].
+.Cartoon by https://en.wikipedia.org/wiki/Zhang_Hongtu[Zhang Hongtu] (张宏图) showing <<mao-zedong>> and other communist officials at the https://en.wikipedia.org/wiki/Last_Supper[Last Supper] (https://zh.wikipedia.org/wiki/最后的晚餐[最后的晚餐]) instead of Jesus and the Apostles. https://musicandculture.blogspot.com/2010/03/massive-last-supper-parodies-post.html[Source].
 image::{china-dictatorship-media-base}/Last_Supper_Mao.jpg[height=400]
 
 .Permission papers filled to the brim with government <<seal,stamps>> required for the Taihu Catholic Church (https://zh.wikipedia.org/wiki/華莊天主堂[太湖天主堂]) from https://en.wikipedia.org/wiki/Wuxi[Wuxi] (https://zh.wikipedia.org/wiki/无锡市[无锡市]) to hold their annual Christmas https://en.wikipedia.org/wiki/Réveillon[Reveillon] reunion. This is the <<ccp,CCP>>'s version freedom of religion and freedom of assembly. Also mentioned at: https://bitterwinter.org/christmas-was-not-allowed-but-brought-china-a-lot-of-money/ from <<bitter-winter>>. https://twitter.com/ZhangZhulin/status/1342211279633719296[Source]. TODO original social media post from the church.
@@ -5983,6 +5965,23 @@ video::wthHB3iTC7M[youtube,width=600,height=400,start=556]
 
 .https://youtu.be/tRr_1U9EvWI "How China uses intimidation, negotiation to bring Christians under its control" by CBC News: The National (2018). Talks about the Pope's deal with the CCP. Shows some good footage of a house church with a guard in front of the door.
 video::tRr_1U9EvWI[youtube,width=600,height=400,start=556]
+
+[[ccp-vatican-deal]]
+==== CCP-Vatican deal (中共-梵蒂冈协议, 2018)
+
+* https://en.wikipedia.org/wiki/China–Holy_See_relations
+** https://en.wikipedia.org/wiki/China–Holy_See_relations#September_2018_Holy_See–China_Agreement
+* https://zh.wikipedia.org/wiki/中華人民共和國與梵蒂岡關係
+
+____
+In January 2018, the Church was close to negotiating a deal with China that allows China to have more control over the underground churches and allows the Vatican to have more control over the appointment of bishops. While this did not amount to the establishment of formal diplomatic ties, this was seen as a huge step towards formal recognition.[21] However, Joseph Zen Ze-kiun regarded the warming of diplomatic relationships as selling out the Catholic Church in China, as the process involves the resignation of several bishops of the underground church.
+____
+
+* 2020-09-17 https://foreignpolicy.com/2020/09/17/china-francis-vatican/ China Is Already Breaking Its Vatican Deal
+* 2020-11-24 https://www.theguardian.com/world/2020/nov/24/pope-says-for-first-time-that-chinas-uighurs-are-persecuted "Pope says for first time that China's Uighurs are 'persecuted'"
+
+.<<rebel-pepper>> 2018-09 cartoon showing the https://en.wikipedia.org/wiki/Pope_Francis[Pope Francis] (https://zh.wikipedia.org/wiki/方濟各_(教宗)[方济各教宗]) with a Christian cross containing the Hammer and Sickle communist symbol, in reference to one of the accords that the Vatican struck with the Chinese government. https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html[Source].
+image::{china-dictatorship-media-base}/Pope_CCP_deal.jpeg[height=400]
 
 [[eastern-lightning]]
 ==== Eastern Lightning 全能神教會 (1991-)
@@ -10928,11 +10927,15 @@ Does he have anything besides the sexy BDSM gag ball 和諧/阿中哥哥 girl fr
 * https://en.wikipedia.org/wiki/Wuheqilin
 * https://zh.wikipedia.org/wiki/乌合麒麟
 
-Publishes as public domain, so the images can be uploaded to Wikipedia. That's something that <<rebel-pepper>> and the <<rfa>> could learn from.
+Publishes as public domain, so the images can be uploaded to Wikipedia. That's something that <<rebel-pepper>> and the <<rfa>> could learn from them.
 
 Featured on <<chinese-government-media>> e.g. at:
 
 * https://www.globaltimes.cn/page/202103/1219588.shtml by <<global-times>>
+
+Sample works:
+
+* <<blood-cotton-initiative-wuheqilin,"Blood Cotton Initiative" by Wuheqilin>>
 
 [[falun-sweden]]
 === Falun, Sweden 法轮，瑞典
