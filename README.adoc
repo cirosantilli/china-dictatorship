@@ -3642,8 +3642,10 @@ News:
 +
 .https://youtube.com/watch?v=fASh2_RzMuE WHO officer https://en.wikipedia.org/wiki/Bruce_Aylward[Bruce Alyward] pretends not to hear question from https://en.wikipedia.org/wiki/RTHK[Radio Television Hong Kong (RTHK)] about the possibility of Taiwan's membership in the WHO during a one-to-one Skype interview, https://www.theguardian.com/world/2020/mar/30/senior-who-adviser-appears-to-dodge-question-on-taiwans-covid-19-response[reference].
 video::fASh2_RzMuE[youtube,height=400,width=600]
-
 * 2020-03-27 https://www.reuters.com/article/us-taiwan-usa/u-s-increases-support-for-taiwan-in-recognition-battle-with-china-idUSKBN21E0B7 "U.S. President Donald Trump has signed into law an act that requires increased U.S. support for Taiwan internationally". But he didn't recognize it as a country. Semi bullshit.
+* Taiwan Travel Act
+** https://en.wikipedia.org/wiki/Taiwan_Travel_Act
+** https://zh.wikipedia.org/wiki/台灣旅行法
 
 .The flag of Taiwan. Like most modern countries, Taiwan has one. https://en.wikipedia.org/wiki/File:Flag_of_the_Republic_of_China.svg[Source].
 image::{china-dictatorship-media-base}/Flag_of_the_Republic_of_China.svg[height=400]
@@ -4235,9 +4237,7 @@ Discussion:
 
 * https://en.wikipedia.org/wiki/2019_Hong_Kong_anti-extradition_bill_protests
 * https://www.youtube.com/watch?v=dEvalUQuClE "Last Hong Kong governor Chris Patten: Gov't defense of extradition bill 'absolute nonsense'", Hong Kong Free Press
-** 2019-10 https://twitter.com/Slasher/status/1181442535962632193 Blizzard bans top Hearthstone esports player Blitzchung (Ng Wai Chung) for pro Hong Kong message in interview
-+
-Wiki page of the event: https://en.wikipedia.org/wiki/Blitzchung_controversy
+* <<blitzchung>>
 
 Songs:
 
@@ -4255,6 +4255,9 @@ video::YhN6jipSHFI[youtube,height=400,width=600]
 * https://zh.wikipedia.org/wiki/不割席
 
 ====== LeBron James opposes Hong Kong anti-extradition bill protests (2019)
+
+* https://en.wikipedia.org/wiki/LeBron_James
+* https://zh.wikipedia.org/wiki/勒布朗·詹姆斯
 
 NBA is huge in China.
 
@@ -4296,7 +4299,9 @@ image::{china-dictatorship-media-base}/NBA_Taiwan_flag.jpg[height=600]
 Some good LeBron cartoons:
 
 * https://twitter.com/Christi71386739/status/1312730174497058816/photo/1 <<rebel-pepper>> 2019-10-15 "You are the king"
-* https://twitter.com/Christi71386739/status/1312730174497058816/photo/2 Adam Zyglis "Kneeling", NFL vs NBA
+
+."Kneeling" by Adam Zyglis (2019) compares the NFL's https://en.wikipedia.org/wiki/Colin_Kaepernick[Colin Kaepernick] (https://zh.wikipedia.org/wiki/科林·卡佩尼克[科林·卡佩尼克]), who kneeled during the playing of the U.S. national anthem duing the 2016 season to protest against social injustice, vs NBA's LeBron James, who instead supports China's <<dictatorship,dictatorship unconditionally>>. https://twitter.com/adamzyglis/status/1185634052008808448[Source].
+image::{china-dictatorship-media-base}/Kneeling_by_Adam_Zyglis_NFL_Colin_Kaepernick_vs_NBA_LeBron_James.jpg[height=500]
 
 .In 2020-10-04 American billboard company https://en.wikipedia.org/wiki/Outfront_Media[Outfront Media] refused to post this ad by the https://en.wikipedia.org/wiki/National_Legal_and_Policy_Center[NLPC conservative think tank] critical of LeBron James' stand on Hong Kong. The ad shows the NBA superstar with a Chinese flag covering his mouth and the message "Silence is Violence." and URL http://freedom4china.com/[]. https://www.foxnews.com/sports/billboard-company-refuses-to-post-ad-critical-of-lebron-james-stand-on-china[Source].
 image::{china-dictatorship-media-base}/Silence_is_violence.jpg[height=400]
@@ -4320,11 +4325,6 @@ image::{china-dictatorship-media-base}/To_obey_is_to_betray.jpg[height=400]
 
 https://en.wikipedia.org/wiki/Photobombing
 
-In online video games:
-
-* 2020-04-08 https://www.bloomberg.com/news/articles/2020-04-08/nintendo-s-animal-crossing-becomes-new-hong-kong-protest-ground Animal Crossing
-* <<taiwan-number-one>>
-
 Explicitly forbidden in China by the law: <<real-username-law>>.
 
 See also: <<keyword-attack>>.
@@ -4335,6 +4335,7 @@ An appropriation attack is one where the attackers attempt to associate an exist
 
 For example during the <<2019-hong-kong-anti-extradition-bill-protests>> attackers attempted to use this technique to associate a generic https://en.wikipedia.org/wiki/Chun-Li[Chinese Chun-Li-like] character Mei from Blizzard's link:++https://en.wikipedia.org/wiki/Overwatch_(video_game)++[Overwatch game] to try and get it blocked in China after the gaming company punished a pro gamer for defending the Hong Kong protests. Coverage https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10 (https://web.archive.org/web/20191012094950/https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10[archive]).
 
+[[mei-with-hong-kong]]
 .Mei from Blizzard's Overwatch was used in an attempted <<appropriation-attack>> during the <<2019-hong-kong-anti-extradition-bill-protests>>. https://twitter.com/marnofavonlea/status/1182557311539150849[Source].
 image::{china-dictatorship-media-base}/Mei_with_Hong_kong.jpg[height=600]
 
@@ -9180,6 +9181,27 @@ And idiots today still celebrate this event that preceded the <<cultural-revolut
 
 .https://zh.wikipedia.org/wiki/File:1966-10_1966年毛泽东游长江2.jpg[Source].
 image::{china-dictatorship-media-base}/Mao_swim_wave.jpg[height=400]
+
+== Sport events
+
+* 2020 <<hao-haidong>>
+* 2019 <<lebron-james-opposes-hong-kong-anti-extradition-bill-protests-2019>>
+
+=== Esport events
+
+* 2021-05-05 Jong-ryeol "Saebyeolbe" Park, Korean, Blizzard's Overwatch game, made Taiwan Hongkong remarks. The backed down unfortunately: https://www.instagram.com/p/CNpQ7dOHxl2/
+** https://kotaku.com/chinese-overwatch-teams-threaten-boycott-of-korean-play-1846828529 Chinese Overwatch Teams Threaten Boycott Of Korean Player For Statements On Taiwan And Hong Kong
+* 2020-04-08 https://www.bloomberg.com/news/articles/2020-04-08/nintendo-s-animal-crossing-becomes-new-hong-kong-protest-ground Animal Crossing
+* <<mei-with-hong-kong,Mei with Hong Kong>>
+* <<taiwan-number-one>>
+
+==== Blitzchung
+
+https://en.wikipedia.org/wiki/Blitzchung_controversy
+
+2019-10 Blizzard bans top Hearthstone esports player Blitzchung (Ng Wai Chung) for pro Hong Kong message in interview.
+
+* https://twitter.com/Slasher/status/1181442535962632193
 
 [[news]]
 == News 新闻
