@@ -64,9 +64,10 @@ ${full_images.join('\n\n')}
 const labels = new Set(payload.issue.labels.map(label => label.name));
 const newLabels = new Set();
 const shabiWords = [
+  'shabi',
+  'shadiao',
   '傻逼',
   '沙雕',
-  'ShaDiao',
 ];
 for (const word of shabiWords) {
   if (new RegExp(word, 'i').test(titleAndBody)) {

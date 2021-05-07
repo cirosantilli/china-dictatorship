@@ -377,6 +377,8 @@ Not mentioned in other sections:
 ** https://zh.wikipedia.org/wiki/酷安[酷安] is the company name: https://www.coolapk.com/
 ** https://github.com/ejiaogl/FuckCoolapk/wiki/Background-information "316"事件 (316 event)
 ** https://www.zhihu.com/question/20658510
+* https://github.com/xi-yu-yan-kai-fa/Xi-Yuyan/tree/f8364a8b8f1d783e4fa32de548bec46069407c1b 习语言 esoteric programming language that mimics <<xi-jinping>> jargon natural language. Appears to be specification only, no implementation provided.
+* https://github.com/for-memory/xi-speech-synthesizer voice synthesizer meant to replicate Xi Jinping's speaking, mentions it is similar to https://trumped.com/ and https://rogeraabbccdd.github.io/Fadacai-Generator/#/
 
 Interesting users:
 
@@ -2221,7 +2223,7 @@ See also:
 * <<the-united-states-has-recently-started-several-wars-and-killed-millions>>
 * https://en.wikipedia.org/wiki/American_imperialism
 
-.https://en.wikipedia.org/wiki/Signe_Wilkinson[Signe Wilkinson] 2017 Free Speech "Can you just move it so it doesn't cover them?" umbrella cartoon. Ciro once saw a <<wumao>> post this. It made him smile. If the cartoon were about <<dictatorship,dictatorships>>, https://en.wikipedia.org/wiki/Uncle_Sam[Uncle Sam] would be instead <<intolerance,decapitating and raping the people on one half of the umbrella>>. Of course humans are <<flg-intolerance,shit in democracies as well>>, but at least that system makes it harder for them to oppress each other. http://www.cartoonistgroup.com/store/add.php?iid=161799[Source].
+.https://en.wikipedia.org/wiki/Signe_Wilkinson[Signe Wilkinson] 2017 Free Speech "Can you just move it so it doesn't cover them?" (TODO proper translation, with a quickly fixed up Google Translate: 你可以移动雨伞以使其不会遮盖住他们吗？) umbrella cartoon. Ciro once saw a <<wumao>> post this. It made him smile. If the cartoon were about <<dictatorship,dictatorships>>, https://en.wikipedia.org/wiki/Uncle_Sam[Uncle Sam] would be instead <<intolerance,decapitating and raping the people on one half of the umbrella>>. Of course humans are <<flg-intolerance,shit in democracies as well>>, but at least that system makes it harder for them to oppress each other. http://www.cartoonistgroup.com/store/add.php?iid=161799[Source].
 image::{china-dictatorship-media-base}/Free_speech_umbrella.jpg[height=400]
 
 .At https://github.com/cirosantilli/china-dictatorship/issues/260 ((https://archive.ph/mtZeM[archive])a <<wumao>> posted this image of <<amnesty-international>> protesters outside the American embassy in London in September 2008 protesting against the Guantanamo Bay camps. The wumao used this to criticize Guantanamo bay, saying that it was like <<xinjiang-re-education-camps>> but in the USA, apparently unaware that this was a staged protest. So it actually has the exact opposite effect than intended: because there is no <<censorship>>, here people in the West can together to denounce something they don't like. Imagine if a crowd of 100 people in China got together to denounce the Xinjiang camps! They'd go to jail immediately. Furthermore as Ciro repeated a million times: Guantanamo bay detainees are not American citizens, and democracies cannot fully protect people who can't vote. In China however, no one can vote, so everyone can be oppressed. https://kids.britannica.com/students/assembly/view/171145[Source].
@@ -2613,7 +2615,7 @@ The Nazis were also people like us, and that is the scary thing we must never fo
 Keywords:
 
 * Xitler (习特勒). 习 "xi2" is very close in sound to the Chinese name of Hitler: https://zh.wikipedia.org/wiki/阿道夫·希特勒[希特勒] (xi1 te4 le4)
-* Chinazi (赤纳粹). TODO why 赤. Means Red, but where else is it used?
+* Chinazi (赤纳粹 Chi Na Cui). TODO why 赤. Means Red, which is a reference to Communism, although red was of course it was also the color of the original Nazis. But where else is it used? Chi is also chosen to achieve the sound "Chi Na" as a variant of <<shina>>
 
 The most notable aspect is the persecution of minorities of course, notably <<xinjiang>> and <<falun-gong>> which closely ressembles that of the Jews, see also: <<first-they-came>>.
 
@@ -2676,7 +2678,7 @@ image::{china-dictatorship-media-base}/Xi_Nazi_car_salute_photoshop.jpg[height=4
 .Original photo of Hitler giving the Nazi salute from a car with Himmler on the background. https://www.nationalww2museum.org/war/articles/heinrich-himmler-holocaust[Source].
 image::{china-dictatorship-media-base}/Hitler_Himmler_salute.jpg[height=400]
 
-.Chinazi flag by <<2019-hong-kong-anti-extradition-bill-protests,Hong Kong protesters>>. Seen https://chinadigitaltimes.net/chinese/2019/08/【盛世一景】赤纳粹旗（chinazi-flag）/[on streets]. https://www.reddit.com/r/HongKong/comments/dbrken/google_bomb_china_flag_search_query_into_chinazi/[Source].
+.Chinazi flag (赤纳粹旗) by <<2019-hong-kong-anti-extradition-bill-protests,Hong Kong protesters>>. Seen https://chinadigitaltimes.net/chinese/2019/08/【盛世一景】赤纳粹旗（chinazi-flag）/[on streets]. https://www.reddit.com/r/HongKong/comments/dbrken/google_bomb_china_flag_search_query_into_chinazi/[Source].
 image::{china-dictatorship-media-base}/Chinazi_flag.png[height=400]
 
 .https://www.youtube.com/watch?v=wD53MEbLDIE <<serpentza-laowhy86,laowhy86>> video "Can We Compare China to Nazi Germany?" published on 2020-04-29. Good side-by-side video comparisons. Says that China is more like Nazi than <<russia>>, but Ciro disagrees, all three are <<is-chinese-politician-x-evil,evil dictatorships>>.
@@ -2810,6 +2812,8 @@ image::{china-dictatorship-media-base}/Rugae_vaginales_with_black_hole.jpg[heigh
 Derogatory or humorous way to refer China. Occurrences:
 
 * <<zhina-wiki>>
+
+A variant sound "Chi Na" is also seen at Chinazi (赤纳粹) from <<nazi>>.
 
 [[internet-number-slang]]
 ====== Internet number slang (网络数字语言)
@@ -3575,6 +3579,10 @@ News:
 
 * 2021-03-10 https://web.archive.org/web/20210310210519/https://www.bloomberg.com/news/articles/2021-03-10/asia-shoppers-snap-up-taiwan-pineapples-in-defiance-of-china-ban "Shoppers in Asia Snap Up Taiwan’s Pineapples in Defiance of China’s Ban". In 2018 there were <<fake-news>> about that apparently: https://www.taiwannews.com.tw/en/news/3423317 but now it became true.
 
+Discussion:
+
+* https://www.zhihu.com/question/59337963 为什么西方国家不针对台湾？ Why don't Western countries target Taiwan [in their criticisms]? First answer: because of something called <<dictatorship,dictatorship>>.
+
 [[one-china-policy]]
 ===== One China policy (一个中国)
 
@@ -3647,6 +3655,10 @@ video::fASh2_RzMuE[youtube,height=400,width=600]
 ** https://en.wikipedia.org/wiki/Taiwan_Travel_Act
 ** https://zh.wikipedia.org/wiki/台灣旅行法
 
+Related:
+
+* https://baike.baidu.com/item/台湾问题 on <<baidu-baike>>
+
 .The flag of Taiwan. Like most modern countries, Taiwan has one. https://en.wikipedia.org/wiki/File:Flag_of_the_Republic_of_China.svg[Source].
 image::{china-dictatorship-media-base}/Flag_of_the_Republic_of_China.svg[height=400]
 
@@ -3665,7 +3677,7 @@ image::{china-dictatorship-media-base}/Taiwan_we_are_China_cartoon.jpg[height=60
 .Proposed reunification flag for Taiwan and China. https://9gag.com/gag/a9E1YVo[Source].
 image::{china-dictatorship-media-base}/China_Taiwan_reunification_flag.webp[height=500]
 
-.West Taiwan, also known as Mainland Taiwan, also known as China. https://www.reddit.com/r/TaiwanChina/comments/j34ftk/taiwan_number_one/[Source].
+.West Taiwan (西台湾), also known as Mainland Taiwan (台湾大陆), also known as China. Not to be confused with https://en.wikipedia.org/wiki/Regions_of_Taiwan[Western Taiwan] (https://zh.wikipedia.org/wiki/臺灣西部[台湾西部]), which is a region of Taiwan. https://www.reddit.com/r/TaiwanChina/comments/j34ftk/taiwan_number_one/[Source].
 image::{china-dictatorship-media-base}/West_Taiwan_map.jpg[height=500]
 
 [[taiwan-number-one]]
@@ -4308,11 +4320,14 @@ image::{china-dictatorship-media-base}/Silence_is_violence.jpg[height=400]
 
 === What should all pro-democracy people do about China?
 
-A propaganda slogan from a https://en.wikipedia.org/wiki/French_Resistance[French Resistance] flyer (see also <<nazi>>):
+A propaganda slogan from a https://en.wikipedia.org/wiki/French_Resistance[French Resistance] (https://zh.wikipedia.org/wiki/法國抵抗運動[法国抵抗运动]) flyer (see also <<nazi>>):
 
 ____
 To obey is to betray. +
 To disobey is to serve.
+
+服从就是背叛 +
+违抗就是服务
 
 Obéir c'est trahir. +
 Désobéir c'est servir.
@@ -5283,7 +5298,7 @@ image::{china-dictatorship-media-base}/The_world_is_perfect.png[height=500]
 ."The world is perfect" as used to update Ciro Santilli's https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[deleted answer]. Instead of redoing the tutorial from scratch, Ciro just pasted the new image on top of the old one Stack Exchange censored: <<tank-man-cc-by-sa,Ciro Santilli's CC By-SA Tank Man image>>. Borders of the censored image were intentionally left over however as a reminder that Stack Exchange censors. This is a work of art.
 image::{china-dictatorship-media-base}/The_world_is_perfect_Stack_Overflow.png[height=500]
 
-.Politically correct version of <<tank-man-cc-by-sa,Ciro Santilli's CC By-SA Tank Man image>>. This is how Stack Exchange wants the world to remember <<tiananmen>>.
+.Politically correct version of <<tank-man-cc-by-sa,Ciro Santilli's CC By-SA Tank Man image>>. This is how <<stack-overflow,Stack Exchange>> wants the world to remember <<tiananmen>>.
 image::{china-dictatorship-media-base}/Tank_Man_drawing_censored_by_Ciro_Santilli_CC_BY_SA.png[height=500]
 
 .At one point in Richard Feynman's talk "Los Alamos from below", he describes how external letter censorship was implemented at Los Alamos, and how he went to thoroughly test the limits of what would be censored or not.
@@ -7052,7 +7067,7 @@ ____
 * xref:flg-medication[Maybe FLG will make you healthier, but no promises, but it will make you a better person, and that's why you should do it, but if you really really believe, you get healthier]. But people who seemed to be believers also die, because deep within their hearts, there was a belief problem.
 * <<falun-gong-believes-that-the-ccp-is-literally-a-manifestation-of-real-devils>>
 
-From this, it is obvious that Falun Gong is just a https://en.wikipedia.org/wiki/New_Age[New Age] (link:https://zh.wikipedia.org/wiki/新纪元运动[新纪元运动]) https://en.wikipedia.org/wiki/Syncretism[syncretic] religion combining https://en.wikipedia.org/wiki/Qigong[Qigong], https://en.wikipedia.org/wiki/Buddhism[Buddhism], some aspects of <<christianity>>, and whatever other crazy things <<li-hongzhi>> believes in.
+From this, it is obvious that Falun Gong is just a https://en.wikipedia.org/wiki/New_Age[New Age] (link:https://zh.wikipedia.org/wiki/新纪元运动[新纪元运动]) https://en.wikipedia.org/wiki/Syncretism[syncretic] (https://zh.wikipedia.org/wiki/綜攝[综摄]) religion combining https://en.wikipedia.org/wiki/Qigong[Qigong], https://en.wikipedia.org/wiki/Buddhism[Buddhism], some aspects of <<christianity>>, and whatever other crazy things <<li-hongzhi>> believes in.
 
 Or you could call Falun Gong a <<flg-cult,cult>>, which is nothing but a new/small religion with negative connotation, and thus meaningless.
 
@@ -7241,8 +7256,11 @@ See also:
 * <<democracy-is-a-religion>>
 
 [[xi-halo]]
-.Xi Jinping with a Halo to make <<ccp-cult,the obvious more obvious>>. The texts reads <<xi-jinping-thought,"习近平思想" (Xi Jinping Thought)>>. Watermark reads "Gucci Minh @Laborwave", so presumably from https://www.instagram.com/laborwavedesigns/[], but I didn't have the patience to find the picture, but it very likey comes from there, a ton of great communist memes in that account. https://www.reddit.com/r/LateStageCapitalism/comments/77vfi8/uphold_xi_jinping_thought/[Source].
+.Xi Jinping with a Halo edited in to make <<ccp-cult,the obvious more obvious>>. The texts reads <<xi-jinping-thought,"习近平思想" (Xi Jinping Thought)>>. Watermark reads "Gucci Minh @Laborwave", so presumably from https://www.instagram.com/laborwavedesigns/[], but I didn't have the patience to find the picture, but it very likey comes from there, a ton of great communist memes in that account. https://www.reddit.com/r/LateStageCapitalism/comments/77vfi8/uphold_xi_jinping_thought/[Source].
 image::{china-dictatorship-media-base}/Xi_Jinping_thought_halo.jpg[height=400]
+
+.Side-by-side comparison between devotional pictures of <<xi-jinping>> (taken from the cover of <<xi-jinping-thought>>) and <<li-hongzhi>>. The stylistic resemblance is striking.
+image::{china-dictatorship-media-base}/Xi_Jinping_vs_Li_Hongzhi_prophet_pictures.jp[height=400]
 
 ===== Orange Papers
 
@@ -7546,7 +7564,7 @@ The closest claims to observable Ciro has heard are:
 * in the homes of some followers, small magic good plants-like fungi-like things have grown
 +
 [[flg-fungi]]
-.Image of the magic good small plants that grew on a <<falun-gong>> believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. They seem to identify those fungi as mini-link:https://en.wikipedia.org/wiki/Udumbara_(Buddhism)[udumbaras], which is just a fancy name that Buddhism scriptures use to refer to https://en.wikipedia.org/wiki/Ficus_racemosa[cluster fig flowers] (https://zh.wikipedia.org/wiki/聚果榕[优昙婆罗], amongst a billion other existing phonetic transliterations) emphacising their magic properties. Here's a 2007 from <<epoch-times>>: https://www.epochtimes.com/gb/7/10/7/n1859364.htm[], and another one https://www.epochtimes.com/gb/9/5/3/n2514838.htm[], and another one from 2011: https://www.epochtimes.com/gb/11/11/25/n3440323.htm[]. Only the most relevant news on that newspaper. Ciro could not find <<flg-canon>> mentions however. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese. https://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
+.Image of the magic good small plants that grew on a <<falun-gong>> believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. They seem to identify those fungi as mini-link:https://en.wikipedia.org/wiki/Udumbara_(Buddhism)[udumbaras], which is just a fancy name that Buddhism scriptures use to refer to https://en.wikipedia.org/wiki/Ficus_racemosa[cluster fig flowers] (https://zh.wikipedia.org/wiki/聚果榕[优昙婆罗], amongst a billion other existing phonetic transliterations) emphasising their magic properties. Here's a 2007 from <<epoch-times>>: https://www.epochtimes.com/gb/7/10/7/n1859364.htm[], and another one https://www.epochtimes.com/gb/9/5/3/n2514838.htm[], and another one from 2011: https://www.epochtimes.com/gb/11/11/25/n3440323.htm[]. Only the most relevant news on that newspaper. Ciro could not find <<flg-canon>> mentions however. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese 吉林市大法弟子恭祝师新年快乐。（优昙婆罗花） 创世主救度众生YADA YADA。(Falun Gong practitioners from Jilin wish The Master a happy (Chinese) New Year (udumbara Flower) The creator of the world saves all living things, ...). https://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_magic_fungi.jpg[height=400]
 * the <<flg-canon,sacred books>> of some believers had a closed lotus flower when they were bought, and after several years, the flower opened
 
@@ -8256,7 +8274,7 @@ Epidemics are also likely moments where religious grow due to more people being 
 It is indeed tempting to believe that the virus magically kills only the Evil. What reality could be so fucked up where the innocent suffocate to their death? And yet, here we are.
 
 [[li-hongzhi]]
-==== Li Hongzhi (LHZ, 李洪志)
+==== Li Hongzhi (李洪志, LHZ, Falun Gong prophet)
 
 * https://en.wikipedia.org/wiki/Li_Hongzhi
 * https://zh.wikipedia.org/wiki/李洪志
@@ -8284,18 +8302,18 @@ Li Hongzhi footage:
 .<<li-hongzhi>> is Falun Gong's prophet/cult leader/living God. He's a cute North-Westerner 东北人 like <<wife,Ciro's wife>>. https://en.wikipedia.org/wiki/Li_Hongzhi[Source].
 image::{china-dictatorship-media-base}/Li_Hongzhi.jpg[height=400]
 
-.<<li-hongzhi>> practicing one of his exercises with one of his cute prophet outfits in an extremely nice Chinese <<does-ciro-santilli-hate-china,stone garden>>. TODO exact location and date. https://commons.wikimedia.org/wiki/File:Li_Hongzhi_Falun_Gong.jpg[Source].
+.<<li-hongzhi>> practicing one of his exercises with one of his cute prophet outfits in an extremely nice Chinese https://en.wikipedia.org/wiki/Rock_garden[rock garden] (https://baike.baidu.com/item/假山/8466165[假山园林]), see also: <<does-ciro-santilli-hate-china,stone garden>>. TODO exact location and date. https://commons.wikimedia.org/wiki/File:Li_Hongzhi_Falun_Gong.jpg[Source].
 image::{china-dictatorship-media-base}/Li_Hongzhi_stone_garden.jpg[height=600]
 
 [[li-hongzhi-blue-halo]]
-.<<li-hongzhi,Li>> in front of a light blue background (similar to <<xi-jinping-portrait-blue,CCP official portraits>>) with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] suggestion around his head. https://www.epochtimes.com/gb/11/5/12/n3254555.htm[Lower quality version] on <<epoch-times>> itself. https://www.epochweekly.com/144/7046pg.htm[Source].
+.<<li-hongzhi,Li>> in front of a light blue background (similar to <<xi-jinping-portrait-blue,CCP official portraits>>) with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] suggestion around his head. https://www.epochtimes.com/gb/11/5/12/n3254555.htm[Lower quality version] on <<epoch-times>>. https://www.epochweekly.com/144/7046pg.htm[Source].
 image::{china-dictatorship-media-base}/Li_Hongzhi_blue.jpg[height=400]
 
 [[li-hongzhi-lotus]]
-.<<li-hongzhi,Li>> going https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] (https://baike.baidu.com/item/超级赛亚人/6974315[超级赛亚人]) while casually sitting on a https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art[giant Lotus flower] with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] on his head. https://www.pinterest.fr/pin/8022105562347289/[Source].
+.<<li-hongzhi,Li>> going https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] (https://baike.baidu.com/item/超级赛亚人/6974315[超级赛亚人]) while casually sitting on a https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art[giant Lotus flower] with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] (https://zh.wikipedia.org/wiki/圓光[圆光]) on his head. Text at bottom: 法轮修炼大法-李洪志 (TODO confirm 3rd and 4th characters, transates something like Falun Practices Dafa - Li Hongzhi). http://photo.minghui.org/images/master_li_pics/E_fx_1.htm[Source] on <<minghui>>.
 image::{china-dictatorship-media-base}/Li_Hongzhi_lotus.jpg[height=600]
 
-.<<li-hongzhi>> really turning into a proper Buddha, including https://en.wikipedia.org/wiki/Physical_characteristics_of_the_Buddha[physical signs] such as the https://en.wikipedia.org/wiki/Ushnisha[Ushnisha] on the head and the https://en.wikipedia.org/w/index.php?title=Physical_characteristics_of_the_Buddha&oldid=972021136#The_80_secondary_characteristics["ears as longs as lotus petals"]. <<bannedbook>> https://www.bannedbook.org/bnews/tculture/xiulian/20190123/1068931.html[source].
+.<<li-hongzhi>> really turning into a proper Buddha, including https://en.wikipedia.org/wiki/Physical_characteristics_of_the_Buddha[physical signs] such as the https://en.wikipedia.org/wiki/Ushnisha[Ushnisha] (https://zh.wikipedia.org/wiki/肉髻[肉髻]) on the head and the https://en.wikipedia.org/w/index.php?title=Physical_characteristics_of_the_Buddha&oldid=972021136#The_80_secondary_characteristics["ears as longs as lotus petals"]. On the top right corner we see an <<ntdtv>> watermark. On the bottom left we see a few Western Catholic and Roman looking divinities, representing Falun Gong's syncretic beliefs. The subtitle on center bottom reads in traditional Chinese: "真的有这样光辉形象" (there truly is such a glorious image) https://www.bannedbook.org/bnews/tculture/xiulian/20190123/1068931.html[Source] on <<bannedbook>>.
 image::{china-dictatorship-media-base}/Li_Hongzhi_Buddha.jpg[height=400]
 
 .Dubstep <<li-hongzhi,Li>> can <<flg-religion,liangong (练功)>> at https://en.wikipedia.org/wiki/Dubstep[dubstep] speed. https://giphy.com/gifs/dubstep-gifs-dubstepgifs-xUOwFY1prqgUdPuFvW[Source].
@@ -8530,7 +8548,7 @@ Zhong Gong videos:
 
 The embassy spokesman says Chinese officials have ample evidence of sect leader Zhang Hongbao's involvement in crimes such as rape and murder.
 
-.Zhang Honbao on a giant flying lotus reaching Enlightenment with a halo. It looks <<li-hongzhi-lotus,exactly like Falun Gong imagery>>. But of course, Zhong Gong is just a "completely unrelated and inferior sect" according to <<li-hongzhi>>. https://blog.boxun.com/hero/201102/tianhuaren/1_1.shtml[Source].
+.Zhang Honbao on a giant flying lotus reaching Enlightenment with a halo. It looks <<li-hongzhi-lotus,exactly like Falun Gong imagery>>. But of course, Zhong Gong is just a "completely unrelated and inferior sect" according to <<li-hongzhi>>. TODO transcribe. https://blog.boxun.com/hero/201102/tianhuaren/1_1.shtml[Source].
 image::{china-dictatorship-media-base}/Zhong_Gong_lotus.jpg[height=400]
 
 [[zhong-gong-blue]]
@@ -8542,7 +8560,7 @@ image::{china-dictatorship-media-base}/Zhong_gong_blue.jpg[height=400]
 image::{china-dictatorship-media-base}/Falun_Gong_sky_leaflet.jpg[height=400]
 
 [[qigong-fever]]
-==== Qigong fever Boom 气功热 (1980's)
+==== Qigong fever (气功热 , 1980's)
 
 https://en.wikipedia.org/wiki/Qigong_fever
 
@@ -8728,7 +8746,7 @@ Less good ones:
 * 2014-06-23 https://www.bbc.co.uk/news/av/world-asia-27926747/meet-the-chinese-presidential-pancake-seller "Shao Jianhua" TODO Chinese name, name of dish he sells. Too young and not fat enough.
 
 [[winnie-the-pooh]]
-===== Comparisons between Xi Jinping and Winnie-the-Pooh 小熊維尼 (2017)
+===== Xi Jinping looks like Winnie-the-Pooh (习近平长得像小熊维尼, 2017)
 
 Got censored due to comparisons between Xi Jinping and Winnie in 2017: https://en.wikipedia.org/wiki/Winnie-the-Pooh#Censorship_in_China
 
@@ -9096,6 +9114,14 @@ https://youtu.be/MHFrhIAj0ME?t=926 "The camp was an intense and exciting place, 
 .Mao Zedong in Yan'an in the 1930's thinking deeply. This funny looking picture is meme ready and https://uncyclopedia.ca/wiki/Chairman_Mao[much loved by Uncyclopedia]. https://commons.wikimedia.org/wiki/File:Mao_Zedong_in_Yan%27an.jpg[Source].
 image::{china-dictatorship-media-base}/Mao_Zedong_in_Yanan.jpg[height=400]
 
+[[the-private-life-of-chairman-mao]]
+==== The Private Life of Chairman Mao (毛泽东私人医生回忆录)
+
+* https://en.wikipedia.org/wiki/The_Private_Life_of_Chairman_Mao
+* https://zh.wikipedia.org/wiki/毛泽东私人医生回忆录
+* https://en.wikipedia.org/wiki/Li_Zhisui
+* https://zh.wikipedia.org/wiki/李志绥
+
 [[little-red-book]]
 ==== Quotations from Chairman Mao Tse-tung (Little Red Book, 毛主席语录, 1976)
 
@@ -9169,13 +9195,17 @@ https://zh.wikipedia.org/wiki/毛主席畅游长江
 
 Good <<scmp>> article: https://www.scmp.com/magazines/post-magazine/long-reads/article/1999098/chairman-maos-historic-swim-glorified-china
 
-Mao claimed to have set a swimming record by swimming 15km in 65 minutes at the age of 72 at the Yangtze in Wuhan, or an average of 13.8 km/h.
+Mao claimed to have set a swimming record by swimming 15km in 65 minutes at the age of 72 at the <<yangtze-river>> in Wuhan, or an average of 13.8 km/h.
 
 As a comparison, the Olympic swimmers of 2016 covered the lesser distance of 10 km in 113 minutes: https://en.wikipedia.org/wiki/Swimming_at_the_2016_Summer_Olympics_–_Men%27s_marathon_10_kilometre for an average of 5.3 km/h.
 
 According to https://www.researchgate.net/publication/311977913_Analysis_of_the_characteristics_of_offshore_currents_in_the_Changjiang_Yangtze_River_estuarine_waters_based_on_buoy_observations[this article], the maximum current speed of the Yantze is 128.5 cm/s or 4.62 km/h so even if he were swimming with the current, Mao was faster.
 
-Dictatorships would never lie about obviously verifiable facts, would they?
+In <<the-private-life-of-chairman-mao>> however, the doctor says that this was actually true, the current was enough to drag Mao's big belly quite fast.
+
+https://www.youtube.com/watch?v=9k1ZWoM6g8w How to swim in Wuhan's Yangtze river Blondie in China (2019)
+
+Dictatorships would <<censorship-makes-no-one-trust-your-country,never lie about obviously verifiable facts>>, would they?
 
 And idiots today still celebrate this event that preceded the <<cultural-revolution>> which put China's economy in shambles.
 
@@ -11819,7 +11849,9 @@ It is interesting to note how <<falun-gong>> is a good source of censorship-circ
 
 Projects:
 
-* https://github.com/Loyalsoldier/v2ray-rules-dat | https://github.com/v2ray/v2ray-core Contains cirosantilli.com: https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat[], victory.
+* https://github.com/233boy/v2ray
+** https://github.com/Loyalsoldier/v2ray-rules-dat | https://github.com/v2ray/v2ray-core Contains cirosantilli.com: https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat[], victory.
+** https://github.com/v2ray/v2ray-core
 
 More info:
 
@@ -12097,11 +12129,8 @@ Bibliography:
 
 * 2020-01-14 https://pincong.rocks/question/15322 "问下小粉红为什么叫中共兔子？" (Why do Little Pinks call the CCP Rabbit)
 
-.As of 2020, a particularly popular representation is this cute one wearing a <<pla>>-hat and with a https://en.wikipedia.org/wiki/Red_star[red star] (https://zh.wikipedia.org/wiki/紅星[红星]) on the chest, but in the original cartoon That Rabbit appeared to be more aggressive. https://www.pinterest.fr/pin/757167756087837907/[Source].
+.As of 2020, a particularly popular representation is this cute one wearing a <<pla>>-hat and with a https://en.wikipedia.org/wiki/Red_star[red star] (https://zh.wikipedia.org/wiki/紅星[红星]) on the chest, but in the original cartoon That Rabbit appeared to be more aggressive. <<wife>> told him that <<that-rabbit>> reminded her of https://en.wikipedia.org/wiki/Mashimaro[Mashimaro] (https://zh.wikipedia.org/wiki/流氓兔[流氓兔]), a cute Korean cartoon she used to watch when she was small. https://www.pinterest.fr/pin/757167756087837907/[Source].
 image::{china-dictatorship-media-base}/That_Rabbit_cute.jpg[height=400]
-
-.<<wife>> told him that <<that-rabbit>> reminded her of https://en.wikipedia.org/wiki/Mashimaro[Mashimaro] (https://zh.wikipedia.org/wiki/流氓兔[流氓兔]), a cute Korean cartoon she used to watch when she was small. https://en.wikipedia.org/wiki/File:Mashimaro_-_01.png[Source].
-image::{china-dictatorship-media-base}/Mashimaro.png[height=400]
 
 [[how-to-deal-with-wumaos]]
 ===== How to deal with wumaos (如何应对五毛)
@@ -12180,6 +12209,10 @@ TODO decide:
 * Eric Favreliere: https://www.instagram.com/ericfavreliere/
 * Laoma Chris (Chris Max, 口语老炮儿马思瑞). No ultra-pro CCP content, but has some anti-US content, and significant business interest in China. Large channel, 700k+ subscribers as of April 2021:
 ** https://www.youtube.com/watch?v=WQQ-9x5c6nM Why Is Police Brutality So Common in the US? (2020)
+
+Non-political channels of interest:
+
+* https://www.youtube.com/channel/UCISrVZmDM4x-Rq9mmNUw7Zw Blondie in China food and travel
 
 Bibliography:
 
@@ -12801,7 +12834,8 @@ Also has:
 * https://en.wikipedia.org/wiki/Alibaba_Group
 * https://zh.wikipedia.org/wiki/阿里巴巴集团
 
-==== Jack Ma's disappearance (2021)
+[[jack-mas-disappearance-2021]]
+==== Jack Ma's disappearance (马云的失踪, 2021)
 
 Got https://www.urbandictionary.com/define.php?term=bitch%20slapped[bitchslapped] by <<xi-jinping>>, 3 months disappearance:
 
@@ -13100,7 +13134,7 @@ http://y2wam5fshij3arfjuxirusomu73b2joql524zpre3dhvxmlqw4srcuad.onion/ is a Tor 
 At some point they forbade discussion of politics there, likely due to some prosecution case, and officially forked into <<zhina-wiki>>, where politics is encouraged, presumably under better opsec.
 
 [[zhina-wiki]]
-==== Zhina Wiki (支纳维基, politically incorrect wiki )
+==== Zhina Wiki (支纳维基, politically incorrect wiki)
 
 Apparently addresses were:
 
@@ -14132,6 +14166,18 @@ Dude was messing around with <<throne,Ciro's wife's savage ancestors>>. Bad move
 
 [[geography]]
 == Geography of China (中国地理)
+
+=== Rivers of China
+
+[[yangtze-river]]
+==== Yangtze River (长江, Long River)
+
+* https://en.wikipedia.org/wiki/Yangtze
+* https://zh.wikipedia.org/wiki/长江
+
+Exits through: Shanghai.
+
+Passes by: Chongqing, Wugan, Nanjing
 
 === Provinces of China
 
