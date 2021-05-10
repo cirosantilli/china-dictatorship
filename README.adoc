@@ -21,7 +21,7 @@ This README is too large and so https://github.com/isaacs/github/issues/1610[Git
 
 or by downloading it locally as shown at: <<mirrors>>.
 
-**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被请喝茶了。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead, preferably from behind VPN/Tor/<<shadowsocks>>.** See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
+**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead, preferably from behind VPN/Tor/<<shadowsocks>>.** See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
 
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China_photo.jpg[height=600]
 
@@ -542,6 +542,7 @@ Further optimizations:
 +
 ....
 #!/usr/bin/env bash
+printf '销售系统开发'
 printf '疫情期间网民情绪识别比赛'
 printf 996icu
 printf '996 icu'
@@ -1346,7 +1347,9 @@ What about the <<tiananmen,1 million people in Tiananmen>> and the 70 million <<
 [[overlook-human-rights-for-profit]]
 ==== As long as China is developing economically, it is fine to violate the human rights of a few million people
 
-This argument can be made, but it is a risky way to live: <<intolerance>> and borderline <<nazi>>.
+This argument can be made, but it is a risky way to live: <<intolerance>>.
+
+https://en.wikipedia.org/wiki/Hermann_Göring[Herman Goring] actually justified <<nazi,the atrocities of Nazism>> in the exact same way during <<goring-nuremberg,his appearance on the Nuremberg trials>>.
 
 Do the <<violence,ends always justify the means>>?
 
@@ -1706,10 +1709,6 @@ Bibliography:
 
 * https://github.com/dessalines/essays/blob/master/us_atrocities.md
 
-[[henri-meyer]]
-.French political cartoon from 1898 by https://en.wikipedia.org/wiki/Henri_Meyer[Henri Meyer] showing leaders of Western powers, Russia and Japan splitting up China between them. The CCP would arguably <<not-chinese,not have raised to power if not due to Japanese interference>>. Maybe the West deserves the CCP they helped create. https://commons.wikimedia.org/wiki/File:China_imperialism_cartoon.jpg[Source].
-image::{china-dictatorship-media-base}/China_imperialism_cartoon.jpg[height=500]
-
 ===== Friendly West-China moments
 
 ====== United China Relief
@@ -2009,9 +2008,9 @@ video::4xoM6-1SWl4[youtube,height=400,width=600,start=191]
 
 It is easy to reach an agreement, when everyone who disagrees goes to jail or gets killed for to <<inciting-subversion>> or <<picking-quarrels>>.
 
-Also ask the millions of people who were affected by <<tiananmen>>, <<falun-gong>>, <<xinjiang>> or <<dissidents>>.
+This is exactly <<goring-nuremberg,Herman Goring said in his appearances on the Nuremberg trials>> to justify <<nazi,the atrocities of Nazism>>.
 
-See also: <<seventeen-moments-of-spring>>.
+Also ask the millions of people who were affected by <<tiananmen>>, <<falun-gong>>, <<xinjiang>> or <<dissidents>>.
 
 One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy Few" (2018)], which which people are forced to be happy. <<nineteen-eighty-four>> also comes to mind of course.
 
@@ -2019,7 +2018,7 @@ One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy
 image::{china-dictatorship-media-base}/We_cant_complain.jpg[height=600]
 
 [[goring-nuremberg]]
-.https://www.youtube.com/watch?v=4xoM6-1SWl4&t=1606 https://en.wikipedia.org/wiki/The_Living_Dead_(TV_series)[The Living Dead] Episode 1: On the Desperate Edge of Now by Adam Curtis (1995) comments on how interviews with https://en.wikipedia.org/wiki/Hermann_Göring[Hermann Goring] (https://zh.wikipedia.org/wiki/赫尔曼·戈林[赫尔曼·戈林]) during the https://en.wikipedia.org/wiki/Nuremberg_trials[Nuremberg trials] went: "Again and again, Jackson accused Goring of corruptly using his powers to commit crimes. Each time, Goring replied that such acts might be considered crimes in a democratic state, but that in Germany, democracy had failed. Eliminating the political opposition was necessary, to fulfill a higher principle: that of the Nation". Goring replies: "This was the only possible form of government at the time and it proved that Germany could be pulled out of the abyss of misery, poverty and unemployment and withing a short space of time be made flourish and bloom." This is _exactly_ the justification given by the <<ccp,CCP>> for oppressing minorities and <<censorship,freedom of speech>>: the CCP is indistinguishable from the <<nazi,Nazis>>.
+.https://www.youtube.com/watch?v=4xoM6-1SWl4&t=1606 https://en.wikipedia.org/wiki/The_Living_Dead_(TV_series)[The Living Dead] Episode 1: On the Desperate Edge of Now by Adam Curtis (1995) comments on how interviews with https://en.wikipedia.org/wiki/Hermann_Göring[Hermann Goring] (https://zh.wikipedia.org/wiki/赫尔曼·戈林[赫尔曼·戈林]) during the https://en.wikipedia.org/wiki/Nuremberg_trials[Nuremberg trials] (https://zh.wikipedia.org/wiki/纽伦堡审判[纽伦堡审判]) went: "Again and again, Jackson accused Goring of corruptly using his powers to commit crimes. Each time, Goring replied that such acts might be considered crimes in a democratic state, but that in Germany, democracy had failed. Eliminating the political opposition was necessary, to fulfill a higher principle: that of the Nation. And that it had worked, Goring insisted. It had brought order and prosperity to Germany". Jackson asks: "Well, if you wanted a certain people killed, you would have to have some organization that would kill them didn't you?". Goring replies: "This was the only possible form of government at the time and it proved that Germany could be pulled out of the abyss of misery, poverty and unemployment and withing a short space of time be made flourish and bloom." This is _exactly_ the justification given by the <<ccp,CCP>> for oppressing minorities and <<censorship,freedom of speech>>: the CCP is indistinguishable from the <<nazi,Nazis>>.
 video::4xoM6-1SWl4[youtube,height=400,width=600,start=1606]
 
 .https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game.
@@ -2143,7 +2142,7 @@ ____
 Indeed it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time.
 ____
 
-However, this is all obviously subjective, and believing that dictatorship is a better form of government is also a valid belief.
+However, this is all obviously subjective, and believing that dictatorship is a better form of government is also a valid belief, e.g. <<dictatorship-variability>>.
 
 If you find an event on a Western democracy that you would like to highlight, send a pull request.
 
@@ -2212,7 +2211,9 @@ Guantanamo Bay 关塔那摩湾 +
 extraordinary rendition 非凡的演绎 +
 Abu Ghraib torture and prison abuse 阿布格莱布的酷刑和监狱虐待 +
 Henry Kissinger 亨利·基辛格
-<<iranian-coup-1953>>
+<<iranian-coup-1953>> +
+https://en.wikipedia.org/wiki/Eight-Nation_Alliance[Eight-Nation Alliance] (https://zh.wikipedia.org/wiki/八國聯軍[八國聯軍]) (1900) +
+https://en.wikipedia.org/wiki/Unequal_treaty[Unequal treaty] (https://zh.wikipedia.org/wiki/不平等条约[不平等条约]) (1842-1933) +
 ____
 
 See also:
@@ -2228,6 +2229,10 @@ image::{china-dictatorship-media-base}/Free_speech_umbrella.jpg[height=400]
 
 .At https://github.com/cirosantilli/china-dictatorship/issues/260 ((https://archive.ph/mtZeM[archive])a <<wumao>> posted this image of <<amnesty-international>> protesters outside the American embassy in London in September 2008 protesting against the Guantanamo Bay camps. The wumao used this to criticize Guantanamo bay, saying that it was like <<xinjiang-re-education-camps>> but in the USA, apparently unaware that this was a staged protest. So it actually has the exact opposite effect than intended: because there is no <<censorship>>, here people in the West can together to denounce something they don't like. Imagine if a crowd of 100 people in China got together to denounce the Xinjiang camps! They'd go to jail immediately. Furthermore as Ciro repeated a million times: Guantanamo bay detainees are not American citizens, and democracies cannot fully protect people who can't vote. In China however, no one can vote, so everyone can be oppressed. https://kids.britannica.com/students/assembly/view/171145[Source].
 image::{china-dictatorship-media-base}/Guantanamo_bay_protest_London_2008.jpg[height=600]
+
+[[henri-meyer]]
+.French political cartoon from 1898 by https://en.wikipedia.org/wiki/Henri_Meyer[Henri Meyer] showing leaders of Western powers, Russia and Japan splitting up China between them. The CCP would arguably <<not-chinese,not have raised to power if not due to Japanese interference>>. Maybe the West deserves the <<nazi,Nazi>> CCP they helped create, much like post World War I treaties helped create Nazi Germany. Colonialism was horrendous. As a Brazillian, <<ciro-santilli>> knows this all too well. https://commons.wikimedia.org/wiki/File:China_imperialism_cartoon.jpg[Source].
+image::{china-dictatorship-media-base}/China_imperialism_cartoon.jpg[height=500]
 
 ++++
 <span id="the-west-is-racist-against-black-people">
@@ -2259,7 +2264,7 @@ The murder video went viral and was not taken down (would have been in China), a
 
 Of course there is racism in the West. And we must recognize that, and fight it.
 
-But Ciro feels strongly that the Chinese are also obviously at least as racist against blacks, if not more, based on conversations he's had/overheard, and other circumstantial indications:
+But <<ciro-santilli>> feels strongly that the Chinese are also obviously at least as racist against blacks, if not more, based on conversations he's had/overheard, and other circumstantial indications:
 
 * https://www.theguardian.com/commentisfree/2020/apr/25/coronavirus-exposed-china-history-racism-africans-guangzhou
 
@@ -2684,7 +2689,7 @@ image::{china-dictatorship-media-base}/Chinazi_flag.png[height=400]
 .https://www.youtube.com/watch?v=wD53MEbLDIE <<serpentza-laowhy86,laowhy86>> video "Can We Compare China to Nazi Germany?" published on 2020-04-29. Good side-by-side video comparisons. Says that China is more like Nazi than <<russia>>, but Ciro disagrees, all three are <<is-chinese-politician-x-evil,evil dictatorships>>.
 video::wD53MEbLDIE[youtube,height=400,width=600]
 
-.https://www.youtube.com/watch?v=hn1VxaMEjRU https://en.wikipedia.org/wiki/Mitchell_and_Webb[Mitchell and Webb] "Are we the Baddies?" Nazi Sketch. In this sketch, Mitchel, a cute self-conscious Nazi, starts to wonder with Webber, his Nazi friend, if they aren't on the side of evil, particularly due to the usage of https://en.wikipedia.org/wiki/Totenkopf[Nazi skulls (Totenkopf)] on their uniforms. This echoes <<goring-nuremberg,Gorings appearance on the Nuremberg trials>>. Like the CCP, many Nazis thought of course that they were doing great things.
+.https://www.youtube.com/watch?v=hn1VxaMEjRU https://en.wikipedia.org/wiki/Mitchell_and_Webb[Mitchell and Webb] "Are we the Baddies?" Nazi Sketch. In this sketch, Mitchel, a cute self-conscious Nazi, starts to wonder with Webber, his Nazi friend, if they aren't on the side of evil, particularly due to the usage of https://en.wikipedia.org/wiki/Totenkopf[Nazi skulls (Totenkopf)] on their uniforms. This echoes <<goring-nuremberg,Goring's appearance on the Nuremberg trials>>. Like the CCP, many Nazis thought of course that they were doing great things.
 video::hn1VxaMEjRU[youtube,height=400,width=600]
 
 [[hitler-has-only-got-one-ball]]
@@ -3030,9 +3035,11 @@ So the rationale of his actions is no_ to convince anyone, but rather:
 See also: <<preconceived>>
 
 [[china-watcher]]
-===== Is Ciro Santilli a China watcher? (Pekingologist, 三西猴是观察中国者吗？)
+===== Is Ciro Santilli a China watcher? (Pekingologist, 三西猴是观察中国者吗？, Intelligence Analyst)
 
 * https://en.wikipedia.org/wiki/China_watcher
+* https://en.wikipedia.org/wiki/Intelligence_analysis
+* https://zh.wikipedia.org/wiki/情报分析
 
 Yup. https://twitter.com/BadChinaTake/status/1291401838022012931/photo/1[Nope]? Well, Ciro's what you'll get on <<github>> until someone better comes along.
 
@@ -6764,8 +6771,10 @@ News:
 
 * 2021-04-08 <<twitter>> launches official support campaign for the Milk Tea Alliance: https://twitter.com/Policy/status/1379982396490010624
 
+== Middle East
+
 [[iran]]
-== Iran (伊朗)
+=== Iran (伊朗)
 
 * https://en.wikipedia.org/wiki/Iran
 * https://zh.wikipedia.org/wiki/伊朗
@@ -6779,14 +6788,14 @@ Now let's criticize the Iranian dictatorships that this possibly created.
 ** https://twitter.com/tanasoli
 
 [[iranian-coup-1953]]
-=== 1953 Iranian coup d'état (TPAJAX Project, Operation Ajax, 1953年伊朗政變)
+==== 1953 Iranian coup d'état (TPAJAX Project, Operation Ajax, 1953年伊朗政變)
 
 * https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat
 * https://zh.wikipedia.org/wiki/1953年伊朗政變
 
 Yes, this was a <<western-democracies-are-not-perfect,a major fuck up of the West>>.
 
-=== China-Iran relations
+==== China-Iran relations
 
 * https://en.wikipedia.org/wiki/China–Iran_relations
 * https://zh.wikipedia.org/wiki/中国－伊朗关系
@@ -6797,6 +6806,23 @@ Superset: <<dictatorships-tend-to-work-together>>.
 ** https://en.wikipedia.org/wiki/Iran–China_25-year_Cooperation_Program
 ** https://zh.wikipedia.org/wiki/中国－伊朗关系
 * 2019-09 https://lobelog.com/is-iran-at-risk-of-becoming-a-chinese-colony/ Is Iran At Risk Of Becoming A Chinese Colony?
+
+[[libya]]
+=== Libya (利比亚)
+
+* https://en.wikipedia.org/wiki/Libya
+* https://zh.wikipedia.org/wiki/利比亚
+
+https://youtu.be/3J6rU3NUMM0?t=3033 HyperNormalisation by Adam Curtis (2016) starting at timestamp 50:30 comments on how the United States made Colonel Gaddafi into a fictional supervillain scapegoat, to cover up for their failures in Lebanon, starting by blaming the https://en.wikipedia.org/wiki/1985_Rome_and_Vienna_airport_attacks[1985 Rome and Vienna airport attacks] on Libya with great certainty, although Italian secret services said it was Syria who was behind it. Gaddafi then did not deny his involvement, and instead used that publicity to bolster his position as a "world revolutionary", including helping the <<racist-west,liberation of blacks in the United States>> through armed struggle.
+
+In 1986, the USA also accused Libya of the https://en.wikipedia.org/wiki/West_Berlin_discotheque_bombing[West Berlin discotheque bombing], once again against European intelligence, and this time the USA decided to retaliate as internal political pressure to "do something" increased.
+
+==== The Green Book
+
+* https://en.wikipedia.org/wiki/The_Green_Book_(Muammar_Gaddafi)
+* https://zh.wikipedia.org/wiki/綠皮書_(利比亞)
+
+Gadaffi's <<little-red-book>>.
 
 [[spain]]
 == Spain (西班牙)
@@ -7564,7 +7590,7 @@ The closest claims to observable Ciro has heard are:
 * in the homes of some followers, small magic good plants-like fungi-like things have grown
 +
 [[flg-fungi]]
-.Image of the magic good small plants that grew on a <<falun-gong>> believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. They seem to identify those fungi as mini-link:https://en.wikipedia.org/wiki/Udumbara_(Buddhism)[udumbaras], which is just a fancy name that Buddhism scriptures use to refer to https://en.wikipedia.org/wiki/Ficus_racemosa[cluster fig flowers] (https://zh.wikipedia.org/wiki/聚果榕[优昙婆罗], amongst a billion other existing phonetic transliterations) emphasising their magic properties. Here's a 2007 from <<epoch-times>>: https://www.epochtimes.com/gb/7/10/7/n1859364.htm[], and another one https://www.epochtimes.com/gb/9/5/3/n2514838.htm[], and another one from 2011: https://www.epochtimes.com/gb/11/11/25/n3440323.htm[]. Only the most relevant news on that newspaper. Ciro could not find <<flg-canon>> mentions however. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese 吉林市大法弟子恭祝师新年快乐。（优昙婆罗花） 创世主救度众生YADA YADA。(Falun Gong practitioners from Jilin wish The Master a happy (Chinese) New Year (udumbara Flower) The creator of the world saves all living things, ...). https://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
+.Image of the magic good small plants that grew on a <<falun-gong>> believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. They seem to identify those fungi as mini-link:https://en.wikipedia.org/wiki/Udumbara_(Buddhism)[udumbaras], which is just a fancy name that Buddhism scriptures use to refer to https://en.wikipedia.org/wiki/Ficus_racemosa[cluster fig flowers] (https://zh.wikipedia.org/wiki/聚果榕[优昙婆罗], amongst a billion other existing phonetic transliterations) emphasising their magic properties. Here's a 2007 from <<epoch-times>>: https://www.epochtimes.com/gb/7/10/7/n1859364.htm[], and another one https://www.epochtimes.com/gb/9/5/3/n2514838.htm[], and another one from 2011: https://www.epochtimes.com/gb/11/11/25/n3440323.htm[]. Only the most relevant news on that newspaper. Ciro could not find <<flg-canon>> mentions however. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese 吉林市大法弟子恭祝师新年快乐。（优昙婆罗花） 创世主救度众生YADA YADA。(Falun Gong practitioners from Jilin wish The Master a happy (Chinese) New Year (udumbara Flower) The creator of the world saves all living things, ...) This type of "congratulate the Master for New Year, congratulate the Master for his birthday etc. by sending photos to <<minghui>> for selection is common practice in the Falun Gong community. https://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_magic_fungi.jpg[height=400]
 * the <<flg-canon,sacred books>> of some believers had a closed lotus flower when they were bought, and after several years, the flower opened
 
@@ -9600,7 +9626,7 @@ image::{china-dictatorship-media-base}/Tank_Man_new_longshot_Stuart_Franklin.jpg
 .Terril Jones photo taken at ground level with Tank Man on background and men running away on the foreground. The photo was only published in 2009. https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/[Source].
 image::{china-dictatorship-media-base}/Tank_Man_ground_level.jpg[height=600]
 
-.Photoshop of Arthur Tsang's photo of Tank Man with huge rubber ducks replacing the tanks. Inspired by a https://www.youtube.com/watch?v=rSo5MqQVwCY[huge inflatable rubber duck sculpture floating in Hong Kong in 2013]. https://petapixel.com/2013/06/05/yellow-duck-version-of-tank-man-photo-goes-viral-amidst-chinese-censorship[Source].
+.Photoshop of Arthur Tsang's photo of Tank Man with huge rubber ducks replacing the tanks. Inspired by a https://www.youtube.com/watch?v=rSo5MqQVwCY[huge inflatable rubber duck sculpture floating in Hong Kong in 2013]. Watermark reads "weibo.com/weibolg" on <<weibo>>, which is confirmed by https://www.theguardian.com/world/2013/jun/04/tiananmen-square-online-search-censored[The New York Times].  https://petapixel.com/2013/06/05/yellow-duck-version-of-tank-man-photo-goes-viral-amidst-chinese-censorship[Source].
 image::{china-dictatorship-media-base}/Tank_Man_ducks.jpg[height=600]
 
 [[lego-tank-man]]
@@ -10399,7 +10425,7 @@ I consider the media in this section biased, and never cite it for fact-checking
 ** https://freebeacon.com/national-security/cruz-seeks-to-shut-down-chinese-propaganda-station-phoenix-tv/
 
 [[xinhua]]
-==== Xinhua News Agency (新华社, CCP media)
+==== Xinhua News Agency (新华通讯社, 新华社, CCP media)
 
 * https://en.wikipedia.org/wiki/Xinhua_News_Agency
 * https://zh.wikipedia.org/wiki/新华社
