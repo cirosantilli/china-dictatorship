@@ -4663,6 +4663,12 @@ image::{china-dictatorship-media-base}/Ciro_Santilli_LinkedIn_China_ban.png[heig
 
 This lists links between owners of several US media outlets and China: https://thefederalist.com/2020/05/04/has-china-compromised-every-major-mainstream-media-entity/[] "A Rundown Of Major U.S. Corporate Media’s Business Ties To China". No direct evidence that this has affected the news however.
 
+Related:
+
+* 2021 Cinitalia <<china-radio-international>> offsohot publushing propaganda add-ons on the Italian newspaper https://en.wikipedia.org/wiki/Il_Giornale[Il Giornale]
+** https://www.reddit.com/r/ADVChina/comments/n9o2kp/italian_newspaper_controlled_by_chinese_news/
+** Sample article: 2021-05-09 https://www.ilgiornale.it/news/mondo/report-che-confuta-teoria-genocidio-nello-xinjiang-1945268.html "Il report europeo che confuta il genocidio nello Xinjiang" (The European report that refutes the genocide in Xinjiang) about <<xinjiang-re-education-camps>>.
+
 [[china-watch]]
 ====== China watch (2011-)
 
@@ -10337,6 +10343,8 @@ laowhy86 YouTube channel: https://www.youtube.com/channel/UChvithwOECK5g_19TjldM
 
 ADVChina joint YouTube channel: https://www.youtube.com/channel/UCwNPa8fSXzzAZuT9859GVhg
 
+Reddit: https://www.reddit.com/r/ADVChina/
+
 .https://www.youtube.com/watch?v=kDV4s9c9sfQ "How I Got my Family Out of China" published by laowhy86 on 2020-07-08.
 video::kDV4s9c9sfQ[youtube,height=400,width=600]
 
@@ -12199,7 +12207,7 @@ Then, when they reach a certain size, the CCP can support them indirectly, notab
 
 For this reason, it is very hard to stop them without quenching freedom of expression.
 
-Ciro's currenty recommended approach is the following: if a proeminent pro-CCP YouTubber never ever criticized the CCP, and it gets featured in CCP media, treat that channel exactly as you should treat CCP media, which is by adding a notice at the bottom along the lines of:
+Ciro's currently recommended approach is the following: if a prominent pro-CCP YouTubber never ever criticized the CCP, and it gets featured in CCP media, treat that channel exactly as you should treat CCP media, which is by adding a notice at the bottom along the lines of:
 
 ____
 This account supports the Chinese Government, which is a fucking murderous dictatorship.
@@ -12207,7 +12215,7 @@ ____
 
 followed by a funny meme image that is forbidden in China, e.g. <<xi-jinping-memes>>.
 
-It would be amazing if we could demonetize the apologist channels only for views coming from Chinese citizens, but that seems hard without completely destroying privacy?
+It would be amazing if we could demonetize the apologist channels only for views coming from Chinese citizens, and it would be possible without completely destroying privacy by using decentralized ring signatures as mentioned at: https://cirosantilli.com/electronic-voting[].
 
 Related discussion at: <<what-should-western-countries-do-about-china>>.
 
