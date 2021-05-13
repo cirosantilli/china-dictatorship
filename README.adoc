@@ -378,7 +378,9 @@ Not mentioned in other sections:
 ** https://github.com/ejiaogl/FuckCoolapk/wiki/Background-information "316"事件 (316 event)
 ** https://www.zhihu.com/question/20658510
 * https://github.com/xi-yu-yan-kai-fa/Xi-Yuyan/tree/f8364a8b8f1d783e4fa32de548bec46069407c1b 习语言 esoteric programming language that mimics <<xi-jinping>> jargon natural language. Appears to be specification only, no implementation provided.
+** on <<gov-takedowns-china>>: https://github.com/github/gov-takedowns/blob/master/China/2021/2021-01-29-BNIA.md
 * https://github.com/for-memory/xi-speech-synthesizer voice synthesizer meant to replicate Xi Jinping's speaking, mentions it is similar to https://trumped.com/ and https://rogeraabbccdd.github.io/Fadacai-Generator/#/
+** on <<gov-takedowns-china>>: https://github.com/github/gov-takedowns/blob/master/China/2021/2021-01-29-BNIA.md
 
 Interesting users:
 
@@ -3866,29 +3868,10 @@ video::dEkliuqQo-g[youtube,height=400,width=600]
 ** https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html
 ** https://www.icij.org/investigations/china-cables/exposed-chinas-operating-manuals-for-mass-internment-and-arrest-by-algorithm/
 ** 2020-02: more leaks containing detailed records of several citizens: https://edition.cnn.com/interactive/2020/02/asia/xinjiang-china-karakax-document-intl-hnk/
-* 2019-09-22 Drone footage of Xinjiang prisoner transfer uploaded to YouTube. TODO confirm the location and that these are political prisoners rather than "normal criminals".
-** Upload sources
-*** https://twitter.com/warcombatfear/status/1174031079432310785
-*** https://www.youtube.com/watch?v=gGYoeJ5U7cQ
-+
-video::gGYoeJ5U7cQ[youtube,height=400,width=600]
-** News coverage
-*** 2019-09-23 https://www.theguardian.com/world/video/2019/sep/23/footage-blindfolded-shackled-prisoners-china-video Footage shows hundreds of blindfolded and shackled prisoners in China
-*** https://news.sky.com/story/chinas-detention-of-uighurs-video-of-blindfolded-and-shackled-prisoners-authentic-11815401 Drone footage, video sources:
-** Reddit: https://www.reddit.com/r/China/comments/d78aog/chilling_video_of_chinese_police_transferring/
-+
-.Video still of 2019-09-23 drone footage of blindfolded Xinjiang prisoners being marched taken at time 00:30. https://www.youtube.com/watch?v=gGYoeJ5U7cQ[Source].
-image::{china-dictatorship-media-base}/Xinjiang_prisoners_march.jpg[height=400]
 * 2019-07-31 https://www.nytimes.com/2019/07/30/world/asia/china-xinjiang.html "Doubt Greets China's Claim That Muslims Have Been Released From Camps"
 * 2019-07-19 https://www.france24.com/en/20190712-37-countries-defend-china-over-xinjiang-un-letter "37 countries defend China over Xinjiang in UN letter"
 * 2019-07-04 https://www.bbc.co.uk/news/world-asia-china-48825090 "China Muslims: Xinjiang schools used to separate children from families"
 ** https://www.hrw.org/news/2019/09/15/china-xinjiang-children-separated-families
-* 2019-06-18 https://www.youtube.com/watch?v=WmId2ZP3h0c "Inside China's 'thought transformation' camps - BBC News" China gives BBC "access" to a chosen show camp where everyone claims they are happy and willing to stay. They are however clearly adults being treated like children, taking courses and even having to sing and dance for the camera. https://youtu.be/WmId2ZP3h0c?t=486[486s] is also golden, when the CCP officer Zhang Zhisheng explains how they are <<thoughtcrime,just preventing future crime from happening>>. How can they be so stupid? How can they not see that this is not what the West wants to hear? Amazing dark-comedy like stuff.
-+
-video::WmId2ZP3h0c[youtube,height=400,width=600]
-+
-.Man wearing traditional Xinjiang clothing and playing a traditional instrument inside a classroom setting inside a prison camp, as the CCP tries to show the world that they are happy and their culture is being respected, and only makes things worse. The man also shows on the video at: https://youtu.be/WmId2ZP3h0c?t=407[] made by the BBC when they got supervised access to the camps to film, nearby segment uploaded at: https://github.com/cirosantilli/china-dictatorship/issues/169[]. Commentators have compared this camp from the visit to the https://en.wikipedia.org/wiki/Theresienstadt_Ghetto[Theresienstadt Ghetto], which the <<nazi,Nazis>> used as a model camp during a red-cross visit in 1944, and to the https://en.wikipedia.org/wiki/Potemkin_village[Potemkin village]. https://www.bbc.co.uk/news/blogs-china-blog-48700786[Source].
-image::{china-dictatorship-media-base}/Uyghur_playing_guitar.jpg[height=400]
 * 2019-05-07 https://www.theguardian.com/world/2019/may/07/revealed-new-evidence-of-chinas-mission-to-raze-the-mosques-of-xinjiang
 * 2019-05-07 https://www.youtube.com/watch?v=ULaJVWOr4ko CNN does a few Xinjiang interviews and sends reporter to visit some of the concentration camps
 +
@@ -3920,13 +3903,13 @@ Note that Muhammad is an incredibly popular name in Islamic countries, and thoug
 It is so prevalent, that it is often shortened to just "Md." and people are just called by their second name to reduce ambiguity: https://en.wikipedia.org/wiki/Arabic_name#Ism
 * 2017-04 https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html
 +
-.Image of prisoners wearing blue sitting down in Xinjiang concentration camp, with some prisoners identified to indicate that they are not criminals but rather detained purely for political reasons. A sixth one was https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[identified in another report]. https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[Source].
+.Image of prisoners wearing blue sitting down in Kaifaqu internment camp (TODO Chinese) in https://en.wikipedia.org/wiki/Lop_County[Lop county] (https://zh.wikipedia.org/wiki/洛浦县[洛浦县]) on April 2017. The image shows some prisoners identified to indicate that they are not criminals but rather detained purely for political reasons, their name from left to right: Mamtimin, Aziz Haji Shangtang, Eli Ahun Qarim, and Abdulla Haret. A fifth and sixth ones were https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[identified in another report]. https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[Source].
 image::{china-dictatorship-media-base}/Xinjiang_prisoners_sitting_identified.jpeg[height=400]
 
 .Workers walking next to a prison-like security wall with concertina wire and barbed wire in the https://en.wikipedia.org/wiki/Dabancheng_District[Dabancheng] (https://zh.wikipedia.org/wiki/达坂城区[达坂城区]) <<xinjiang-re-education-camps,re-education camp>> circa 2019. https://www.dw.com/en/western-un-envoys-condemn-chinas-muslim-re-education-camps/a-49543438[Source].
 image::{china-dictatorship-media-base}/Dabancheng_reeducation_camp.jpg[height=400]
 
-.Security towers and inmate buildings of the https://en.wikipedia.org/wiki/Artux[Artux city] (https://zh.wikipedia.org/wiki/阿图什市[阿图什市]) <<xinjiang-re-education-camps,re-education camp>> circa 2019. https://www.dw.com/en/western-un-envoys-condemn-chinas-muslim-re-education-camps/a-49543438[Source]
+.Security towers and inmate buildings of the https://en.wikipedia.org/wiki/Artux[Artux city] (https://zh.wikipedia.org/wiki/阿图什市[阿图什市]) <<xinjiang-re-education-camps,re-education camp>> circa 2018-12-03. https://apnews.com/article/think-tanks-australia-china-13278c6178b9da1c37cbbc5bd063e473[Source].
 image::{china-dictatorship-media-base}/Artux_city_reeducation_camp.webp[height=400]
 
 .https://www.youtube.com/watch?v=AxnS4z-cSlI (https://github.com/cirosantilli/china-dictatorship/issues/220[GitHub upload]) 2021 video showing dozens of Uyghurs standing on a large court being brainwashed by a woman saying on a loudspeaker: 社会主义核心价值观，一定维护民族团结 (Socialist core values definitely maintain ethnic harmony). The echo of the speaker on the background buildings is eery. UNCONFIRMED. https://twitter.com/__Inty__/status/1381002964551168000[Source].
@@ -3936,6 +3919,40 @@ video::AxnS4z-cSlI[youtube,height=400,width=600]
 video::dUmom_z6nQ4[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=ZcLbAveuemI Here is a trick to getting longer lashes by feroza.x (2019). In this <<tiktok>> video, American then 17-year old Feroza Aziz, alias feroza.x, starts what looks likea regular makeup video, but which soon turns out to be a https://en.wikipedia.org/wiki/Bait-and-switch[bait-and-switch] video drawing attention to the <<xinjiang-re-education-camps>>. This is somewhat similar to a <<keyword-attack>> with its <<dual-use-technology>> approach.
+video::ZcLbAveuemI[youtube,height=400,width=600]
+
+On 2019-09-22 Drone footage of Xinjiang prisoner transfer surfaced. TODO confirm the location and that these are political prisoners rather than "normal criminals".
+
+News coverage
+
+* 2019-09-23 https://www.theguardian.com/world/video/2019/sep/23/footage-blindfolded-shackled-prisoners-china-video Footage shows hundreds of blindfolded and shackled prisoners in China
+* https://news.sky.com/story/chinas-detention-of-uighurs-video-of-blindfolded-and-shackled-prisoners-authentic-11815401
+* <<reddit>>: https://www.reddit.com/r/China/comments/d78aog/chilling_video_of_chinese_police_transferring/
+
+.https://www.youtube.com/watch?v=gGYoeJ5U7cQ 2019 Drone footage of Xinjiang prisoner transfer. The prisoners are blindfolded and shackled. On the HUD of the footage we can see "dji", which was a https://en.wikipedia.org/wiki/DJI[popular drone manufacturer of the period].
+video::gGYoeJ5U7cQ[youtube,height=400,width=600]
+
+.Video still of 2019-09-23 drone footage of blindfolded Xinjiang prisoners being marched taken at time 00:30. https://www.youtube.com/watch?v=gGYoeJ5U7cQ[Source].
+image::{china-dictatorship-media-base}/Xinjiang_prisoners_march.jpg[height=400]
+
+====== Xinjiang model camps for foreign media
+
+Starting in 2019, China officially invited foreign journalists to some of their model camps to show how happy people were.
+
+It is hard to understand why they did this, as it just made everything worse for them, because everything was so obviously fake, and it actually allowed glimpses in some of the horrors.
+
+Online commentators have compared such camps to:
+
+* <<nazi,Nazi>> model concentration camps which foreign people were invided to see, e.g. https://www.bbc.co.uk/news/blogs-china-blog-48700786[commented by the BBC itsef]
+** https://en.wikipedia.org/wiki/Theresienstadt_Ghetto[Theresienstadt Ghetto] had a Red Cross visit in 1944
+** https://en.wikipedia.org/wiki/Sonnenburg_concentration_camp[Sonnenburg concentration camp]
+* https://en.wikipedia.org/wiki/Potemkin_village[Potemkin village]
+
+.https://www.youtube.com/watch?v=WmId2ZP3h0c "Inside China's 'thought transformation' camps - BBC News" 2019-06-18. Accompagning article: https://www.bbc.co.uk/news/av/world-asia-china-48667221[]. China gives BBC "access" to a chosen show camp where everyone claims they are happy and willing to stay. They are however clearly adults being treated like children, taking courses and even having to sing and dance for the camera. https://youtu.be/WmId2ZP3h0c?t=486[486s] is also golden, when the CCP officer Zhang Zhisheng explains how they are <<thoughtcrime,just preventing future crime from happening>>. How can they be so stupid? How can they not see that this is not what the West wants to hear? Amazing dark-comedy like stuff.
+video::WmId2ZP3h0c[youtube,height=400,width=600]
+
+.Man wearing traditional Xinjiang clothing and playing a traditional instrument inside a classroom setting inside a prison camp, as the CCP tries to show the world that they are happy and their culture is being respected, and only makes things worse. The man also shows on the video at: https://youtu.be/WmId2ZP3h0c?t=407[] made by the BBC when they got supervised access to the camps to film, nearby segment uploaded at: https://github.com/cirosantilli/china-dictatorship/issues/169[]. https://www.bbc.co.uk/news/blogs-china-blog-48700786[Source].
+image::{china-dictatorship-media-base}/Uyghur_playing_guitar.jpg[height=400]
 
 ====== Forced displacement of Uyghurs across China (2020)
 
@@ -3947,7 +3964,7 @@ Many videos were published on <<tiktok>>, 2020-07-09 https://www.codastory.com/a
 .Advertisement published by Qingdao Decai Decoration Co. claiming to supply government-sponsored Uyghur workers from Xinjiang to other provinces. Source of translation: https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report]. Original website archive from  16 Jan 2020: http://archive.ph/r7T8r[]. The ad features a caricature of two dancing Uyghurs in traditional clothing. This is evidence of the CCP's mass forced eviction and slavery of Uyghurs. Another report at 2021-04-16 https://news.sky.com/story/amp/new-evidence-of-the-strict-controls-uighurs-face-in-factories-thousands-of-miles-from-home-12276248 "Batches of 50 to 100 Uighur workers are being advertised on the Chinese internet" suggests that a <<baidu>> search for "劳务派遣" leads to incriminating ads, but which they fail to translate.
 image::{china-dictatorship-media-base}/Uyghur_sale_website.jpg[height=500]
 
-.Uyghur workers at Taekwang Shoe Manufacturing Co. Ltd (青岛泰光制鞋有限公司) waving the Chinese flag, October 2019. Viewable on the pro-CCP China Ethnic Religion Net (中国民族宗教网) website: http://www.mzb.com.cn/html/report/191130765-1.htm[], and also shown in the https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report].
+.Uyghur workers at Qingdao Taekwang Shoe Manufacturing Co. Ltd (青岛泰光制鞋有限公司) in Laixi, <<shandong,Shandong>> (莱西市, <<shandong,山东>>) waving the Chinese flag, October 2019. Viewable on the pro-CCP China Ethnic Religion Net (中国民族宗教网) website: http://www.mzb.com.cn/html/report/191130765-1.htm[], and also shown in the https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report]. Company address: https://goo.gl/maps/EgkbtxgjEny7EU1YA[山东省青岛市莱西市李权庄镇工业园区泰光路71号].
 image::{china-dictatorship-media-base}/Uyghur_workers_waving_China_flag.jpg[height=400]
 
 .https://www.youtube.com/watch?v=Mx0JFgwATho&t=128 "New footage shows Uyghurs bussed across China for forced labour in factories". At the given timestamp, contains 30 seconds of footage extracted from 3 social media posts showing Uyghurs being sent in busses to work in far way regions.
@@ -4922,6 +4939,13 @@ Always quote reply, and always write down the ID of the OP on your reply, becaus
 After the link addressing anything that they might have said, add three randomly selected images from this repository to it. This is fundamental because the average <<little-pink>> does not speak English. Therefore writing is pointless.
 
 Meme images, however, cross the language barrier beautifully. It is even better if they have Chinese captions.
+
+You can think of them metaphorically as throwing hand grenades over the <<gfw>>. Ciro strives to add the following elements in the image itself where applicable:
+
+* English explanation
+* Chinese explanation
+* date
+* location
 
 Because the <<censorship,CCP censors politics>>, and the West does not, we can never "lose" a shitargument. Even if the <<wumao>> supports his country in a thread, just being in the same thread as the censored material could already be problematic for the wumao, as it is proof that they've seen something they should not have seen.
 
@@ -6336,6 +6360,10 @@ Similar to https://en.wikipedia.org/wiki/Chuck_Norris_facts[Chuck Norris facts].
 * 2017-06-07 https://mashable.com/2017/08/07/the-swaggering-masculinity-of-vladimir-putin/?europe=true (https://web.archive.org/web/20200412092201/https://mashable.com/2017/08/07/the-swaggering-masculinity-of-vladimir-putin/?europe=true[archive])
 * https://www.cbsnews.com/pictures/vladimir-putin-doing-manly-things/
 
+Related:
+
+* 2017-12-07 https://www.reuters.com/article/us-russia-putin-art-idUSKBN1E11L5 'SUPERPUTIN' exhibition gives Russian leader a pop-art make over
+
 .Putin swims Butterfly stroke in a Siberian lake around August 2009. The Telegraph https://web.archive.org/web/20200412090316/https://www.telegraph.co.uk/news/worldnews/europe/russia/6175324/Vladimir-Putin-gives-strong-signal-he-may-be-president-again.html[correctly interpreted this as a sign that he would be re-elected in 2012]. For reference https://en.wikipedia.org/wiki/Lake_Baikal[Lake Baikal in Siberia has a maximum temperature of 14 °C in summer]. Other dictators have used similar swim tactics before, the most notable possibly being <<mao-swim>>. https://web.archive.org/web/20200412090316/https://www.telegraph.co.uk/news/worldnews/europe/russia/6175324/Vladimir-Putin-gives-strong-signal-he-may-be-president-again.html[Source].
 image::{china-dictatorship-media-base}/Putin_swim.jpg[height=400]
 
@@ -7292,7 +7320,7 @@ See also:
 image::{china-dictatorship-media-base}/Xi_Jinping_thought_halo.jpg[height=400]
 
 .Side-by-side comparison between devotional pictures of <<xi-jinping>> (taken from the cover of <<xi-jinping-thought>>) and <<li-hongzhi>>. The stylistic resemblance is striking.
-image::{china-dictatorship-media-base}/Xi_Jinping_vs_Li_Hongzhi_prophet_pictures.jp[height=400]
+image::{china-dictatorship-media-base}/Xi_Jinping_vs_Li_Hongzhi_prophet_pictures.jpg[height=400]
 
 ===== Orange Papers
 
@@ -12548,7 +12576,7 @@ Related:
 .<<xi-jinping>> basically <<nazi,Nazi saluting>> representatives attending the 7th National Congress of the <<young-pioneers-of-china>> in Beijing, June 1, 2015. http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[Source] by <<xinhua>>.
 image::{china-dictatorship-media-base}/Xi_scout_salute.jpg[height=500]
 
-.<<hitler-youth>> giving the <<nazi,Nazi salute to Hitler>>. https://www.thoughtco.com/hitler-youth-and-indoctrination-1221066[Source].
+.<<hitler-youth>> giving the <<nazi,Nazi salute to Hitler>> in https://www.gettyimages.co.uk/detail/news-photo/nazi-leader-adolf-hitler-smiles-while-uniformed-saxon-news-photo/3201090[1933]. https://www.thoughtco.com/hitler-youth-and-indoctrination-1221066[Source].
 image::{china-dictatorship-media-base}/Hitler_youth_salute.webp[height=500]
 
 .Side-by-side comparisoin of <<xi-jinping>> saluting the <<young-pioneers-of-china>> and Hitler saluting the <<hitler-youth>>.
@@ -13032,6 +13060,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2021-05-11 https://twitter.com/dingyi/status/1390861129191071754 Github 竟然还有这种项目。。。 (I'm surprised that there's still this kind of project on GitHub). 150k followers at the time. What do they do to have so many followers?
 * 2021-04-16 https://manti.netease.com/ from <<netease>> to https://cirosantilli.com/china-dictatorship can't find any information on it.
 * 2021-03-23 https://my.cscglobal.com/ to cirosantilli.com/china-dictatorship another compliance company, previous https://cms.securimate.com hits come to mind. China related articles:
 ** https://www.businesswire.com/news/home/20200728005641/en/CSC-Becomes-First-Foreign-Owned-Company-to-Receive-Domain-Registrar-License-in-China this company has some serious weight with Chinese regulators!
@@ -14213,6 +14242,20 @@ Dude was messing around with <<throne,Ciro's wife's savage ancestors>>. Bad move
 [[geography]]
 == Geography of China (中国地理)
 
+[[five-great-mountains]]
+=== Five Great Mountains (五岳)
+
+* https://en.wikipedia.org/wiki/Sacred_Mountains_of_China#The_Five_Great_Mountains
+* https://zh.wikipedia.org/wiki/五岳
+
+[[mount-tai]]
+==== Mount tai (泰山, peaceful mountain, big mountain)
+
+* https://en.wikipedia.org/wiki/Mount_Tai
+* https://zh.wikipedia.org/wiki/泰山
+
+Not to be confused with the <<taihang-mountains>>.
+
 === Rivers of China
 
 [[yangtze-river]]
@@ -14225,7 +14268,14 @@ Exits through: Shanghai.
 
 Passes by: Chongqing, Wugan, Nanjing
 
+[[yellow-river]]
+==== Yellow River (黄河)
+
+Exits through: <<shandong>>, south of Beijing.
+
 === Provinces of China
+
+This is a good province map: http://web.archive.org/web/20170910104718/http://cdn.topchinatravel.com/tct/pic/maps/china-map/china-tourist-map.jpg
 
 [[liaoning]]
 ==== Liaoning Province (辽宁省)
@@ -14233,8 +14283,40 @@ Passes by: Chongqing, Wugan, Nanjing
 * https://en.wikipedia.org/wiki/Liaoning
 * https://zh.wikipedia.org/wiki/辽宁省
 
+[[hebei]]
+==== Hebei Province (河北省)
+
+* https://en.wikipedia.org/wiki/Hebei
+* https://zh.wikipedia.org/wiki/河北省
+
+The name refers to it being North of the <<yellow-river>>.
+
+[[henan]]
+==== Henan Province (河南省)
+
+* https://en.wikipedia.org/wiki/Henan
+* https://zh.wikipedia.org/wiki/河南省
+
+The name refers to it being South of the <<yellow-river>>.
+
+[[shandong]]
+==== Shandong Province (山东省)
+
+* https://en.wikipedia.org/wiki/Shandong
+* https://zh.wikipedia.org/wiki/山东省
+
+The name refers to it being East of the <<taihang-mountains>>.
+
+[[taihang-mountains]]
+===== Taihang Mountains (太行山)
+
+* https://en.wikipedia.org/wiki/Taihang_Mountains
+* https://zh.wikipedia.org/wiki/太行山
+
 [[shanxi]]
 ==== Shanxi Province (山西省)
+
+The name refers to it being West of the <<taihang-mountains>>.
 
 == Chinese cheat
 
