@@ -5613,7 +5613,7 @@ ____
 ____
 
 [[zhihu]]
-==== Zhihu 知乎
+==== Zhihu (知乎, censored Quora clone)
 
 https://en.wikipedia.org/wiki/Zhihu
 
@@ -5642,7 +5642,8 @@ Some interesting questions not related to <<ciro-santilli>>. Ciro related questi
 .The Zhihu 404 page image. When they take the posts down as of 2020, it shows the 404 page which reads "你似乎来到了没有知识存在的荒原" (you seem to have come to a wasteland about which does does not exist any knowledge), and shows this symbol. https://web.archive.org/web/20200614114534/https://www.zhihu.com/topic/20080590/intro[Source].
 i mage::https://web.archive.org/web/20200614114535im_/https://static.zhihu.com/heifetz/assets/liukanshan_wire.e7247fbf.svg[height=500]
 
-==== Zhihu censorship
+[[zhihu-censorship]]
+==== Zhihu censorship (知乎审查)
 
 More general censorship discussion at: <<censorship>>.
 
@@ -6924,7 +6925,7 @@ image::{china-dictatorship-media-base}/Os_problemas_da_imprensa_livre.jpg[height
 image::{china-dictatorship-media-base}/O_Estado_de_Sao_Paulo_newspaper_censorship_Lusiadas_1974.jpg[height=600]
 
 [[falun-gong]]
-== Falun Gong (法轮功)
+== Falun Gong (法轮功, Qigong religion)
 
 * https://en.wikipedia.org/wiki/Falun_Gong
 * https://zh.wikipedia.org/wiki/法轮功
@@ -6936,6 +6937,10 @@ image::{china-dictatorship-media-base}/O_Estado_de_Sao_Paulo_newspaper_censorshi
 With the support of the Communist Party to Qigong movements, it reached 70 million believers in 1999, at which point the commies decided they had to be shut down and banned the religion.
 
 Li fled to the USA and lives near New York, where he continues to run the religion as of 2020.
+
+Bibliography:
+
+* <<the-falungong-phenomenon-by-hu-ping-2003>>
 
 .<<falun-gong>> believer arrested by police in Beijing <<tiananmen,Tiananmen Square>> in 2000-01-10. https://www.theepochtimes.com/spiritual-practice-continues-to-be-persecuted-in-china-amid-the-ccp-virus-pandemic_3296045.html[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_lady_silenced.jpg[height=600]
@@ -8516,7 +8521,7 @@ Wife's name: Li Rui (李瑞 according to CCP). Report saying that a follower bou
 ** Li Jun (李君) older younger sister
 ** Li Ping (李平) younger younger sister
 *** <<china-daily>> http://www.chinadaily.com.cn/hqzx/2012-10/17/content_15825454.htm mentions that Li Jiguang (李继光), the second husband of one of Li Pingy died in 2012
-*** Notably, Li Ping's alleged husband Sun Senlun (Natawut Smittipong, 孙森伦) is a Chinese-Thai, and allegedly wrote an account of Li Hongzhi's family in the 1980's: <<diary-s-of-being-in-thailand-with-li-hongzhi-s-family>>
+*** Notably, Li Ping's alleged husband Sun Senlun (Natawut Smittipong, 孙森伦) is a Chinese-Thai, and allegedly wrote an account of Li Hongzhi's family in the 1980's: <<diaries-of-being-in-thailand-with-li-hongzhi-s-family>>
 +
 The book also claims that they had two children Sun Baoyuan (孙宝圆) and Sun Baoman (孙宝满), which Li later managed to rename Li Baoyuan (李宝圆) and Li Baoman (李宝满).
 +
@@ -8541,8 +8546,8 @@ image::{china-dictatorship-media-base}/Li_Hongzhi_with_wife_and_daughter.jpg[hei
 .Photo of Christina Li from Shen Yun, which the CCP claims to be Li Meige, daughter of Li Hongzhi. That page also claims that she was awarded Bronze in the 2009 and 2010 NDT Chinese Dance Competition. https://web.archive.org/web/20121211022246/zh-cn.shenyunperformingarts.org/artists/biography/view/WG3gbBQudOg[Source].
 image::{china-dictatorship-media-base}/Li_Meige_Shenyun.jpg[height=400]
 
-[[diary-s-of-being-in-thailand-with-li-hongzhi-s-family]]
-===== Diary's of being in Thailand with Li Hongzhi's family (我与李洪志一家在泰国的日子——法轮功教主妹夫的自述)
+[[diaries-of-being-in-thailand-with-li-hongzhi-s-family]]
+===== Diaries of being in Thailand with Li Hongzhi's family (我与李洪志一家在泰国的日子——法轮功教主妹夫的自述)
 
 An alleged account of Li Hongzhi's family in the 1980's written by his brother-in-law Sun Senlun (Natawut Smittipong, 孙森伦), who married Li Ping.
 
@@ -8556,7 +8561,7 @@ It is a good reading if you take everything with a grain of salt, does sound qui
 
 https://web.archive.org/web/20191230151939/http://news.kaiwind.com/features/s/201309/27/t20130927_1121750.shtml claims that Li lived in Sun's house in Thailand from May 1991 to March 1992. And that he was baffled when Li started telling the miraculous events of his <<li-hongzhis-hagiography,hagiography>> in the 1992 public talks, how could his wife never told him about any of those amazingly important life events before that point?
 
-TODO find original publishing location.
+TODO find original publishing location and date.
 
 This appears to be an interview with Sun Senlun about the book: https://www.youtube.com/watch?v=Js0OyNwYw5A (watermarked <<kaiwind>> on top)
 
@@ -8579,8 +8584,17 @@ Started in the 2000's in New York State with money donated by believers.
 
 <<china-daily>> http://www.chinadaily.com.cn/hqzx/2012-10/17/content_15825454.htm claims that <<li-hongzhi>>'s appartment in 2012 was the number 136-08 on 59th avenue, Flushing, NY. https://www.irishtimes.com/news/seeking-master-li-1.221547 confirms Flushing. Also  mentions key 1999 lieutenant Erping Zhang, https://www.c-span.org/person/?erpingzhang[] confirms with photo.
 
+[[qigong-fever]]
+=== Qigong fever (气功热 , 1980's)
+
+https://en.wikipedia.org/wiki/Qigong_fever
+
+AKA Qigong Boom.
+
+* https://zhuanlan.zhihu.com/p/26268612 特异功能、法功灭火、铝锅传功……80年代的气功热究竟有多疯狂？ (How crazy was the Qi Gong boom after all?) on <<zhihu>>
+
 [[zhong-gong]]
-=== Zhong Gong (中功,中华养生益智功)
+==== Zhong Gong (中功, 中华养生益智功, Qigong religion)
 
 * https://en.wikipedia.org/wiki/Zhong_Gong
 * https://zh.wikipedia.org/wiki/中华养生益智功
@@ -8591,7 +8605,7 @@ Zhong Gong was the second most sucessful Qigong Boom religion after Falun Gong.
 
 The similarity of their imagery as seen from propaganda videos is striking. To <<ciro-santilli>>, this makes Zhong Gong a perfect example of why <<does-ciro-santilli-believe-in-or-practice-falun-gong,FLG metaphysics is bullshit>>: it is obvious that both Zhong Gong and Falun Gong and many others were just random dudes who took advantage of the Qigong fever to create their religions.
 
-Their prophet is https://en.wikipedia.org/wiki/Zhang_Hongbao[Zhang Hongbao] (https://zh.wikipedia.org/wiki/张宏堡[张宏堡]).
+Their prophet is <<zhang-hongbao>>.
 
 Interestingly, like <<li-hongzhi>> who is from <<jilin>>, Hongbao is also from the Northeast of China (<<heilongjiang>>), there must be a reason why those Qi Gong movements come from that region.
 
@@ -8632,22 +8646,101 @@ image::{china-dictatorship-media-base}/Falun_Gong_sky_leaflet.jpg[height=400]
 .Side by side comparison between <<zhong-gong>> on the left, and <<falun-gong>> on the right. In <<ciro-santilli>>'s opinion, nothing highlights better that both are fake than the fact that they are clearly part of the same historical movement of the Qigong Boom, while at the same time affirming that the other one is fake or inferior.
 image::{china-dictatorship-media-base}/Zhong_Gong_vs_Falun_Gong_lotus.jpg[height=500]
 
-Zhong_Gong_vs_Falun_Gong_lotus.jpg
+[[zhang-hongbao]]
+===== Zhang Hongbao (张宏堡)
 
-[[qigong-fever]]
-==== Qigong fever (气功热 , 1980's)
+* https://en.wikipedia.org/wiki/Zhang_Hongbao
+* https://zh.wikipedia.org/wiki/张宏堡
 
-https://en.wikipedia.org/wiki/Qigong_fever
+Prophet of <<zhong-gong>>, just like <<li-hongzhi>> is the prophet of <<falun-gong>>.
 
-AKA Qigong Boom.
+[[xiang-gong]]
+==== Xiang Gong (香功, 中国芳香智悟气功, Qigong religion)
 
-* https://zhuanlan.zhihu.com/p/26268612 特异功能、法功灭火、铝锅传功……80年代的气功热究竟有多疯狂？ How crazy was the Qi Gong boom after all?
+This was possibly the third most popular Qi Gong of the <<qigong-fever>> after <<falun-gong>> and <<zhong-gong>>. It is mentioned for example at <<the-falungong-phenomenon-by-hu-ping-2003>>.
+
+Literal translation:
+
+* Fragrant Gong
+* China Fragrang Wisdom Comprehension Gong
+
+It is however so obscure that there isn't even a wikipedia page for it anymore!
+
+The prophet's name was Tian Ruisheng (田瑞生). He's the old due at: https://www.sohu.com/a/270132785_100279655 with little badges on his coat. He can be seen lecturing for example at: https://youtu.be/ItAUwGWSXuI?t=167
+
+Some mentions in English:
+
+* https://taijiclub.live/2020/05/09/xiang-gong-the-fragrant-mind-awakening-qigong/ Xiang Gong: The Fragrant Mind Awakening Qigong (2020) Interesting quote:
++
+____
+ Basically, the origin of this qigong comes from Master Tian Ruisheng. Master Tian Ruisheng was taught this as a ill young boy by a traveling buddhist monk. He was told to practice it every day and not reveal it until 50 years later. He diligently practiced and eventually taught it after 50 years. It quickly became a popular qigong in China.
+____
++
+This is exactly the type of "Creation Story" that <<li-hongzhi>> invented. Notably, it is not something he just made up to take advantage of the obvious <<qigong-fever>>. No, it is something that he developped his entire life, and only started teaching at that point due to a coincidence!
++
+This is notably highlighted in <<diaries-of-being-in-thailand-with-li-hongzhi-s-family>>. Li's sister just casualy never mentioned to her husband that her brother had been having mystical training for several years, until he finally announced it in the early days of <<falun-gong>>.
++
+In Tian's case however, he is truly really old. This is possibly a major reason why he didn't get as big as Falun Gong. It is terribly discriminatory, but who wants to look at an old ugly dude? Especially when he's likely teaching stuff that is supposed to cure diseases. <<li-hongzhi>> and 
+* https://www.beliefnet.com/news/2000/05/chinese-crackdown-goes-beyond-falun-gong.aspx Chinese Crackdown Goes Beyond Falun Gong (2000) mentions <<zhong-gong>> and <<xiang-gong>>. Says it is from AP News, but I can't find the original. But the language does look "AP-like".
++
+____
+China's entirely state-run media and the government have trumpeted the crackdown on Falun Gong. Thousands of practitioners have been detained since it was outlawed in July in the campaign against what the government says is an evil cult.
+
+But authorities refuse to talk about the clampdown on other qi gong organizations, and state media have all but ignored it. So far the campaign has affected at least five groups, practitioners, government sources and human rights organizations say.
+____
++
+The other groups, even smaller, are mentioned in the article next:
++
+** Cibei Gong (慈悲功, Compassion Gong). Possible Chinese name mentioned at: http://www.chinanews.com/2001-02-22/26/72398.html 武汉侦破“法轮功”的变种慈悲功 (Wuhan investigates Falun Gong variant Cibei Gong) from a <<pro-chinese-government-media>>. The word for variant is the same as for "mutation", which brings funnily <<covid>> to mind.
+** Guo Gong (国功, Country Gong). Not even the patriotic name was able to prevent crackdown!
+** Bodhi Gong. TODO fins Chinese.
++
+https://www.refworld.org/docid/3df4be1e20.html also mentions some of them.
+
+Some mentions in Chinese:
+
+* on <<zhihu>>:
+** https://zhuanlan.zhihu.com/p/76604171 香功是什么？为什么国家要禁止习练香功？ (What is Xiang Gong? Why did the country [China] forbit practicing Xiang Gong?) by 吴庆元. Mentions the <<flg-medication>> argument, but it is from a pro-Qi Gong writter in general.
+** https://www.zhihu.com/question/24006657 香功是邪教吗？ (Is Xiang Gong an Evil Cult?)
+* https://www.sohu.com/a/270132785_100279655 我们回顾一下80/90年代所谓的"大师" (Looking back at the so-called "Masters" of the 80s/90s) on <<sohu>>
+
+In other languages:
+
+* https://www.youtube.com/watch?v=c-Zcgk15kkc Treinamento Perfumado Nível 1 (Xianggong) completo (Complete Xiang Gong training, level 1 complete) by Maria Lucia Lee (2017)
++
+This is the YouTube channel of a Brazillian Xianggong parcticionner.
++
+This reminded <<ciro-santilli>> of a Qigong/Taichi course he went to for a few months when he was a young teenager in Santos, Brazil, attended almost exclusively by older ladies.
++
+Some people, even outside China, like "mystic stuff", and may start a mystic stuff practice, more or less affiliated to a certain current of mysticism.
++
+Especially since people know nothing about any of the currents, partly due to the language barrier, it often becomes a larger more dilluted current os mysticisms.
++
+The same likely applied to that course Ciro attended, but at the time he was clueless and didn't really classify his teacher's influences.
++
+Ciro must say however, that some of the exercises were good, and have become a permanent part of Ciro's https://cirosantilli.com/cirodance[Cirodance].
++
+The only thing Ciro rejects completely is the metaphysical bullshit: <<does-ciro-santilli-believe-in-or-practice-falun-gong>>.
++
+Though if something has a lot of metaphysical bullshit, it makes it hard for Ciro to practice it without thinking about the metaphysics.
++
+Maria speaks perfect Portuguese, and given the name Lee she must be a second or later generation immigrant. She's likely from Sao Paulo. Here's a video of her in the 70's: https://www.youtube.com/watch?v=KaPlwdb5iIw when she was likely in her late 30's, already as a Qigong teacher.
++
+Mystical movements like that likely had a decent following in Brazil, especially in the 70's linked to the https://en.wikipedia.org/wiki/Hippie[Hippies] (https://zh.wikipedia.org/wiki/嬉皮士[嬉皮士]). Ciro's mother mentioned some related stories of her friends.
++
+At https://www.instagram.com/p/COOnUMwHD_Q/ for example
 
 === Falun Gong bibliography
 
-* https://www.quora.com/Why-is-the-Chinese-government-against-Falun-Gong
+* https://www.quora.com/Why-is-the-Chinese-government-against-Falun-Gong on <<quora>>
 * https://www.zhihu.com/question/23988890 at <<zhihu>>
 * https://www.orange-papers further developed at: <<flg-cult>>
+
+==== The Falungong Phenomenon by Hu Ping (2003)
+
+https://s3.amazonaws.com/berkley-center/040127HuFalunGongPhenomenon.pdf
+
+Published on the China Rights Forum from <<hric>>.
 
 [[me-and-li-by-ben-hurley-2017]]
 ==== Me and Li by Ben Hurley (2017)
@@ -10854,22 +10947,20 @@ Firs commit  Jun 30, 2019. The first article is from 2010, so maybe it did scrap
 .https://www.youtube.com/watch?v=hx28EUiKEUc "From 'fart people' to citizens on China's internet | Xiao Qiang | TEDxLiberdade" by TEDx Talks (2014). Presentation by https://en.wikipedia.org/wiki/Xiao_Qiang[Xiao Qiang] (https://zh.wikipedia.org/wiki/蕭強[萧强]), founder of <<china-digital-times>>. He was a Physicist from https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China[USTC] who went mad after <<tiananmen>>. <<wife>> also studied there and said that's the most anti-CCP of all big Chinese universities.
 video::MCxzMYVvHBg[youtube,height=400,width=600,start=227]
 
+[[hric]]
+====== Human Rights in China (organization, HRIC, 中国人权)
+
+* https://www.hrichina.org/en
+* https://www.hrichina.org/chs
+* https://en.wikipedia.org/wiki/Human_Rights_in_China_(organization)
+* https://zh.wikipedia.org/wiki/中国人权_(组织)
+
 [[jamestown-foundation]]
 ===== Jamestown Foundation (USA government media)
 
 https://en.wikipedia.org/wiki/Jamestown_Foundation
 
 ==== Anti-CCP media
-
-[[amnesty-international]]
-===== Amnesty International (国际特赦组织)
-
-* https://en.wikipedia.org/wiki/Amnesty_International
-* https://zh.wikipedia.org/wiki/國際特赦組織
-
-Website:
-
-* https://www.amnesty.org/en/
 
 [[bitter-winter]]
 ===== Bitter Winter (寒冬)
@@ -10880,6 +10971,24 @@ Website:
 Italian-based magazine about freedom of religion.
 
 China category: https://bitterwinter.org/category/china/news/
+
+===== Human rigts organizations
+
+In other sections:
+
+* <<chinese-human-rights-defenders>>
+* <<front-line-defenders>>
+* <<hric>>
+
+[[amnesty-international]]
+====== Amnesty International (国际特赦组织)
+
+* https://en.wikipedia.org/wiki/Amnesty_International
+* https://zh.wikipedia.org/wiki/國際特赦組織
+
+Website:
+
+* https://www.amnesty.org/en/
 
 ==== USA-based media bias
 
@@ -11460,7 +11569,8 @@ video::SymuEg6NRp0[youtube,height=400,width=600]
 The famous https://en.wikipedia.org/wiki/Heinrich_Heine[Heinrich Heine] (German but from the 19th century, before the Nazis) saying also comes to mind:
 
 ____
-Where they have burned books, they will end in burning human beings.
+Where they have burned books, they will end in burning human beings  +
+他们在哪里烧书籍，他们也会烧人 +
 ____
 
 Do you not think that this translates well to the modern version:
@@ -11481,6 +11591,10 @@ image::{china-dictatorship-media-base}/Nazi_book_burning.jpg[height=400]
 
 .<<falun-gong>> books being destroyed with a https://en.wikipedia.org/wiki/Road_roller[road roller] (https://zh.wikipedia.org/wiki/壓路機[压路机]) in 1999 in China. This appears to be an extremely low quality image fromte early Internet. https://youtu.be/v7cz4Tkbwy8?t=2226 contains a 1 second cut of a video very likely taken at the same event, as the roller and background building look identical, and preceeded by another presumed book destruction where hundreds of blue books (presumably Falun Gong) are dumped into some kind type of destruction device. Both have Chinese watermarkrs, TODO identify. How far away do you think mass jailings and torture would be? One wonders why they didn't burn the books though. https://en.wikipedia.org/wiki/File:Destruction_d'ouvrages_du_Falun_Gong_lors_de_la_répression_de_1999_en_Chine.jpg[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_road_roller_book_destruction.jpg[height=400]
+
+.Side-by-side comparison between <<nazi,Nazi>> book burning, and <<falun-gong>> book destruction with the simplified Heinrich Heine quote: "Where they burn books, they will also burn people".
+image::{china-dictatorship-media-base}/Nazi_book_burning_vs_Falun_Gong_book_destruction.jpg[height=500]
+
 
 ==== China has more freedom of speech than the USA!
 
@@ -12954,6 +13068,22 @@ Also has:
 
 * a blogging platform embedded into it called TA说, e.g.: https://web.archive.org/web/20210413095903/https://baike.baidu.com/tashuo/browse/content?id=c9fdac1dcf27bdd1280ac9e1&lemmaId=22214113&fromLemmaModule=pcBottom
 * a decent, but unarchivable, comment section: https://web.archive.org/web/20210427075821/https://baike.baidu.com/planet/talk?lemmaId=22214113
+
+[[sohu]]
+==== Sohu (搜狐, smaller Chinese Google)
+
+* https://en.wikipedia.org/wiki/Sohu
+* https://zh.wikipedia.org/wiki/搜狐
+
+Literal name translation: "search fox". The English name and domain name are not in proper pinyin, the proper pinyin is souhu.
+
+But since there is no "so" syllable in pinyin, and the sound is correct in English, it was a good replacement.
+
+A less successful <<baidu>>, but still considerable.
+
+In addition to search, also has:
+
+* blogs, e.g. https://www.sohu.com/a/270132785_100279655 from <<xiang-gong>>
 
 [[alibaba]]
 === Alibaba (阿里巴巴, Chinese Amazon clone)
