@@ -3088,7 +3088,7 @@ ____
 The second sentence well known: https://www.reddit.com/r/HongKong/comments/e8g3qv/爱国恨党love_china_hate_ccp/
 
 [[yuyuan-garden]]
-.Round gate at https://en.wikipedia.org/wiki/Yu_Garden[Yu Garden 豫园] in Shanghai. link:++https://commons.wikimedia.org/wiki/File:Shanghai_-_YuYuan_Gardens_and_Old_Town_(584867794).jpg++[Source].
+.Round gate at https://en.wikipedia.org/wiki/Yu_Garden[Yu Garden] (https://zh.wikipedia.org/wiki/豫园[豫园]) in Shanghai. The large characters on top read (<<chinese-characters-are-insane,left to right>>) "流翠" TODO not sure about the second character, understand reference. <<ciro-santilli>> thinks that https://en.wikipedia.org/wiki/Chinese_garden[Chinese gardens] (https://zh.wikipedia.org/wiki/中國園林[中国园林]) are amazing!!! link:++https://commons.wikimedia.org/wiki/File:Shanghai_-_YuYuan_Gardens_and_Old_Town_(584867794).jpg++[Source].
 image::{china-dictatorship-media-base}/Yuyuan_garden_door.jpg[height=600]
 
 [[chinese-traditional-painting]]
@@ -3797,10 +3797,8 @@ Master issue: https://github.com/cirosantilli/china-dictatorship/issues/226
 Overview projects:
 
 * https://www.talkaboutxinjiang.com/ Talking about Xinjiang 我们一起来谈谈新疆
-* https://xjdp.aspi.org.au/ The Xinjiang Data Project by the https://en.wikipedia.org/wiki/Australian_Strategic_Policy_Institute[Australian Strategic Policy Institute]
-+
-Also includes the <<uyghurs-for-sale>> report.
 * https://wokeglobaltimes.com/xinjiang Breaking Down the Xinjiang Crisis
+* <<xinjiang-data-project>>
 
 News:
 
@@ -3934,6 +3932,18 @@ video::gGYoeJ5U7cQ[youtube,height=400,width=600]
 
 .Video still of 2019-09-23 drone footage of blindfolded Xinjiang prisoners being marched taken at time 00:30. https://www.youtube.com/watch?v=gGYoeJ5U7cQ[Source].
 image::{china-dictatorship-media-base}/Xinjiang_prisoners_march.jpg[height=400]
+
+[[xinjiang-data-project]]
+====== Xinjiang Data Project (新疆数据项目)
+
+* https://xjdp.aspi.org.au/
+* https://en.wikipedia.org/wiki/Xinjiang_Data_Project
+* https://zh.wikipedia.org/wiki/新疆數據項目
+
+By the https://en.wikipedia.org/wiki/Australian_Strategic_Policy_Institute[Australian Strategic Policy Institute], funded by the Australian government, which also published Also includes the <<uyghurs-for-sale,Uyghurs for sale>> report.
+
+.Screenshot of the interactive map of the <<xinjiang-re-education-camps>> by the <<xinjiang-data-project>>. https://xjdp.aspi.org.au/map/?cultural=none&mosque=none[Source].
+image::{china-dictatorship-media-base}/Xinjiang_Data_Project_screenshot_of_camp_map_2021.jpg[height=600]
 
 ====== Xinjiang model camps for foreign media
 
@@ -5056,7 +5066,7 @@ image::{china-dictatorship-media-base}/Someone_is_wrong_on_the_Internet.png[heig
 === Who is behind this amazing FAQ?
 
 [[ciro-santilli]]
-==== Ciro Santilli (三西猴, anti-CCP fanatic, 反中共狂热, stupid cunt, 傻屄, 肏你妈的)
+==== Ciro Santilli (三西猴, anti-CCP fanatic, 反中共狂热, stupid cunt, 傻屄, CIA agent, CIA特工, 肏你妈的)
 
 Original creator of https://github.com/cirosantilli/china-dictatorship[]: https://cirosantilli.com/
 
@@ -7431,7 +7441,7 @@ Falun Gong is an introductory book that discusses qigong, introduces the princip
 ____
 +
 The first edition contains one of http://qingqing.freebbs.tw/viewthread.php?tid=130###
-* https://en.wikipedia.org/wiki/Teachings_of_Falun_Gong#Zhuan_Falun,_the_main_book[Zhuan Falun] (转法轮), published in January 1995. 1998 English version: https://falundafa.org/eng/eng/zfl_01.htm[]:
+* https://en.wikipedia.org/wiki/Teachings_of_Falun_Gong#Zhuan_Falun,_the_main_book[Zhuan Falun] (https://zh.wikipedia.org/wiki/转法轮_(书)[转法轮]), published in January 1995. 1998 English version: https://falundafa.org/eng/eng/zfl_01.htm[]:
 +
 According to Wikipedia:
 +
@@ -7483,7 +7493,7 @@ Ciro Santilli doesn't support FLG specifically, only freedom of religion. See of
 
 Ciro uses it in his usernames simply because it is the most banned and censored one in China today.
 
-He believe that <<thoughtcrime,individuals should only be put in jail for what they do, not for what they believe>>.
+He believe that <<flg-thoughtcrime,individuals should only be put in jail for what they do, not for what they believe>>.
 
 He considers FLG <<flg-religion,a religion like any other>>, and he is against its ban, as that of all other religions.
 
@@ -7624,7 +7634,7 @@ The closest claims to observable Ciro has heard are:
 * in the homes of some followers, small magic good plants-like fungi-like things have grown
 +
 [[flg-fungi]]
-.Image of the magic good small plants that grew on a <<falun-gong>> believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. They seem to identify those fungi as mini-link:https://en.wikipedia.org/wiki/Udumbara_(Buddhism)[udumbaras], which is just a fancy name that Buddhism scriptures use to refer to https://en.wikipedia.org/wiki/Ficus_racemosa[cluster fig flowers] (https://zh.wikipedia.org/wiki/聚果榕[优昙婆罗], amongst a billion other existing phonetic transliterations) emphasising their magic properties. Here's a 2007 from <<epoch-times>>: https://www.epochtimes.com/gb/7/10/7/n1859364.htm[], and another one https://www.epochtimes.com/gb/9/5/3/n2514838.htm[], and another one from 2011: https://www.epochtimes.com/gb/11/11/25/n3440323.htm[]. Only the most relevant news on that newspaper. Ciro could not find <<flg-canon>> mentions however. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese 吉林市大法弟子恭祝师新年快乐。（优昙婆罗花） 创世主救度众生YADA YADA。(Falun Gong practitioners from Jilin wish The Master a happy (Chinese) New Year (udumbara Flower) The creator of the world saves all living things, ...) This type of "congratulate the Master for New Year, congratulate the Master for his birthday etc. by sending photos to <<minghui>> for selection is common practice in the Falun Gong community. https://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
+.Image of the magic good small plants that grew on a <<falun-gong>> believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. They seem to identify those fungi as mini-link:https://en.wikipedia.org/wiki/Udumbara_(Buddhism)[udumbaras], which is just a fancy name that Buddhism scriptures use to refer to https://en.wikipedia.org/wiki/Ficus_racemosa[cluster fig flowers] (https://zh.wikipedia.org/wiki/聚果榕[优昙婆罗], amongst a billion other existing phonetic transliterations) emphasising their magic properties. Here's a 2007 from <<epoch-times>>: https://www.epochtimes.com/gb/7/10/7/n1859364.htm[], and another one https://www.epochtimes.com/gb/9/5/3/n2514838.htm[], and another one from 2011: https://www.epochtimes.com/gb/11/11/25/n3440323.htm[]. Only the most relevant news on that newspaper. Ciro could not find <<flg-canon>> mentions however. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese 吉林市大法弟子恭祝师新年快乐。（优昙婆罗花） 创世主救度众生YADA YADA。(Falun Gong practitioners from <<jilin>> wish The Master a happy (Chinese) New Year (udumbara Flower) The creator of the world saves all living things, ...) This type of "congratulate the Master for New Year, congratulate the Master for his birthday etc. by sending photos to <<minghui>> for selection is common practice in the Falun Gong community. https://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_magic_fungi.jpg[height=400]
 * the <<flg-canon,sacred books>> of some believers had a closed lotus flower when they were bought, and after several years, the flower opened
 
@@ -7826,14 +7836,14 @@ Coverage:
 
 * https://www.bbc.co.uk/news/stories-45976946 "The SOS in my Halloween decorations"
 
-[[thoughtcrime]]
+[[flg-thoughtcrime]]
 === Someone from movement X did something bad, therefore the movement should be banned
 
 By this logic, everyone should go to jail. The law should only punish individuals.
 
 The communist party, which has had continuous power since 1949, killed millions during the <<cultural-revolution>>. Surely they must be banned, no?
 
-But the CCP has changed so much since those days, Ciro hears you say.
+But the CCP has changed so much since those days, <<ciro-santilli>> hears you say.
 
 Ciro agrees. And <<flg-changed,so has Falun Gong>>.
 
@@ -8251,7 +8261,7 @@ ____
 * several <<flg-religion,religions>>, including <<christianity>> have miraculous cure claims. My impression is that claims were mostly notable in the old times apparently, likely because people noticed that Christians were still dying of all kinds of diseases like everyone else, no matter how devout!
 * maybe the main reason why communists banned Falun Gong is the political threat it posed, but that a ban was unjustified given the situation. Christian crosses are being taken down as of 2016, have they stopped taking their medications as well? See also <<rule-of-law>>.
 * maybe many of those people would also have died soon even if they had taken medication
-* maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyway. Who can agree and follow all the innumerable prescriptions of any religious or legal system? See also: <<thoughtcrime>>.
+* maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyway. Who can agree and follow all the innumerable prescriptions of any religious or legal system? See also: <<flg-thoughtcrime>>.
 * all the following also reduce people's lifespan:
 +
 --
@@ -8583,7 +8593,7 @@ The similarity of their imagery as seen from propaganda videos is striking. To <
 
 Their prophet is https://en.wikipedia.org/wiki/Zhang_Hongbao[Zhang Hongbao] (https://zh.wikipedia.org/wiki/张宏堡[张宏堡]).
 
-Interestingly, like <<li-hongzhi>>, Hongbao is also from the Northeast of China (Heilongjiang), there must be a reason why those Qi Gong movements come from that region.
+Interestingly, like <<li-hongzhi>> who is from <<jilin>>, Hongbao is also from the Northeast of China (<<heilongjiang>>), there must be a reason why those Qi Gong movements come from that region.
 
 Unlike Falun Gong however, Zhong Gong failed to branch the franchise out of China, and basically died out. Hongbao also died in a car crash in 2006 which didn't help. Li Hongzhi however played smarter, and started branching abroad full force in 1996, he likely predicted that the crackdown was inevitale.
 
@@ -8608,7 +8618,7 @@ Zhong Gong videos:
 
 The embassy spokesman says Chinese officials have ample evidence of sect leader Zhang Hongbao's involvement in crimes such as rape and murder.
 
-.Zhang Honbao on a giant flying lotus reaching Enlightenment with a halo. It looks <<li-hongzhi-lotus,exactly like Falun Gong imagery>>. But of course, Zhong Gong is just a "completely unrelated and inferior sect" according to <<li-hongzhi>>. TODO transcribe. https://blog.boxun.com/hero/201102/tianhuaren/1_1.shtml[Source].
+.Zhang Honbao, creator of <<zhong-gong>>, sitting on a giant flying lotus reaching Enlightenment with a halo. It looks <<li-hongzhi-lotus,exactly like Falun Gong imagery>>. But of course, Zhong Gong is just a "completely unrelated and inferior sect" according to <<li-hongzhi>>. TODO transcribe. https://blog.boxun.com/hero/201102/tianhuaren/1_1.shtml[Source].
 image::{china-dictatorship-media-base}/Zhong_Gong_lotus.jpg[height=400]
 
 [[zhong-gong-blue]]
@@ -8618,6 +8628,11 @@ image::{china-dictatorship-media-base}/Zhong_gong_blue.jpg[height=400]
 [[flg-blue]]
 .Hungarian <<falun-gong>> propaganda image with woman meditating in with blue sky background for comparison with <<zhong-gong-blue,similar Zhong Gong imagery>>. https://hu.faluninfo.eu/[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_sky_leaflet.jpg[height=400]
+
+.Side by side comparison between <<zhong-gong>> on the left, and <<falun-gong>> on the right. In <<ciro-santilli>>'s opinion, nothing highlights better that both are fake than the fact that they are clearly part of the same historical movement of the Qigong Boom, while at the same time affirming that the other one is fake or inferior.
+image::{china-dictatorship-media-base}/Zhong_Gong_vs_Falun_Gong_lotus.jpg[height=500]
+
+Zhong_Gong_vs_Falun_Gong_lotus.jpg
 
 [[qigong-fever]]
 ==== Qigong fever (气功热 , 1980's)
@@ -8667,7 +8682,7 @@ but those are very rare, because where else would the information come form, rig
 Some key events:
 
 * 1989: initial private beta courses. TODO key interesting moment.
-* 1992-05-13: initial public lecture at the 1992 International Health Exposition in Beijing, and opening main academy on No. 5 Middle School in Changchun, Jilin Province (capital.
+* 1992-05-13: initial public lecture at the 1992 International Health Exposition in Beijing, and opening main academy on No. 5 Middle School in Changchun, <<jilin>> (capital).
 +
 TODO what did he talk about on that Beijing day. This day still celebrated in 2020 as https://en.minghui.org/cc/36/["Falun Dafa Day"], in which the major international "<<orange-papers,Experience Sharing>> Conference" happens in New York.
 +
@@ -8804,6 +8819,7 @@ image::{china-dictatorship-media-base}/Liu_Keqing_singer_Xi_lookalike.jpeg[heigh
 Less good ones:
 
 * 2014-06-23 https://www.bbc.co.uk/news/av/world-asia-27926747/meet-the-chinese-presidential-pancake-seller "Shao Jianhua" TODO Chinese name, name of dish he sells. Too young and not fat enough.
+* https://youtu.be/8221d7F8Uzc?t=145 in video from Stuart Wiggin, see also: <<ccp-apologists>>
 
 [[winnie-the-pooh]]
 ===== Xi Jinping looks like Winnie-the-Pooh (习近平长得像小熊维尼, 2017)
@@ -9213,7 +9229,7 @@ Even <<pro-chinese-government-media,kknews>> confirms: https://kknews.cc/zh-my/n
 <<liu-shihui-one-party-rule,Liu Shihui (刘士辉)>> also comes to mind.
 
 [[great-leap-forward]]
-==== Great Leap Forward (大跃进, 1958-1960)
+==== Great Leap Forward (大跃进, da4 yue4 jin4, 1958-1960)
 
 * https://en.wikipedia.org/wiki/Great_Leap_Forward
 * https://zh.wikipedia.org/wiki/大跃进
@@ -9476,14 +9492,14 @@ image::{china-dictatorship-media-base}/Tiananmen_cute_girls.jpg[height=500]
 .Happy protesters surround army convoy of 4,000 not so happy soldiers on 1989-05-20. Ciro can't help but to think the <<politically-incorrect,politically incorrect>> idea that the military <<uneducated-masses,look considerably younger and poorer/less uneducated than the Beijing masses>>. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
 image::{china-dictatorship-media-base}/Tiananmen_troop_truck_night.jpg[height=500]
 
-.A young woman is caught between civilians and Chinese soldiers, who were trying to remove her from an assembly near the Great Hall of the People in Beijing, on 1989-06-03. AP Photo/Jeff Widener. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
-image::{china-dictatorship-media-base}/Tiananmen_girl_strife.jpg[height=400]
-
 .A student from an art institute plasters the neck of the https://en.wikipedia.org/wiki/Goddess_of_Democracy["Goddess of Democracy"] (https://zh.wikipedia.org/wiki/民主女神[民主女神]) statue on 1989-05-30. Replicas have of course been erected elsewhere, and when the CCP falls one day, this _will_ be rebuilt, obviously. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_sculpt_goddess.webp[height=600]
 
 .An old lady tells those rowdy overpriviledged students that they were complaining for no reason, and that in the <<cultural-revolution,good old Mao days you would be lucky to get any food at all>>, and that they should just go the fuck home  on 1989-05-31 (Ciro might or might not have made up the exact content of the conversation). https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_old_lady.webp[height=500]
+
+.A young woman is caught between civilians and Chinese soldiers, who were trying to remove her from an assembly near the Great Hall of the People in Beijing, on 1989-06-03. AP Photo/Jeff Widener. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
+image::{china-dictatorship-media-base}/Tiananmen_girl_strife.jpg[height=400]
 
 .A dissident student asks masses of sitting soldiers to go back home on 1989-06-03. Great shot composition by AP Photo/Jeff Widener. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_announce_soldiers.webp[height=500]
@@ -9500,7 +9516,7 @@ image::{china-dictatorship-media-base}/Tiananmen_Shuili_Hospital_dead.jpg[height
 .A Chinese couple on a bicycle take cover beneath an underpass as tanks deploy overhead in eastern Beijing on 1989-06-05 by AP Photo/Liu Heung Shing. This photo one is almost poetic. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_bicycle_bridge.jpg[height=600]
 
-.Family members try to comfort a mother who has just learned of her son's death after he was killed by soldiers at Tiananmen Square, June 4. TODO what's her name? An association https://en.wikipedia.org/wiki/Tiananmen_Mothers[Tiananmen Mothers] (https://zh.wikipedia.org/wiki/天安门母亲运动[天安门母亲运动]) was created after the events. https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary[Source].
+.Family members try to comfort a mother who has just learned of her son's death after he was killed by soldiers at Tiananmen Square, June 4. TODO what's her name? An association https://en.wikipedia.org/wiki/Tiananmen_Mothers[Tiananmen Mothers] (https://zh.wikipedia.org/wiki/天安门母亲运动[天安门母亲运动]) was created after the events. https://www.gettyimages.co.uk/detail/news-photo/family-members-try-to-comfort-a-grief-stricken-mother-who-news-photo/640454591[Getty source]. https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary[Source].
 image::{china-dictatorship-media-base}/Tiananmen_crying_mother.webp[height=500]
 
 .The morning after the military crackdown of the pro-democracy protesters in Tiananmen Square, workers clean their posters from bulletin boards. Resume <<censorship>> as usual. https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary[Source].
@@ -9664,10 +9680,10 @@ image::{china-dictatorship-media-base}/Tank_Man_ground_level.jpg[height=600]
 image::{china-dictatorship-media-base}/Tank_Man_ducks.jpg[height=600]
 
 [[lego-tank-man]]
-.Rough https://en.wikipedia.org/wiki/Lego[Lego] model of the Tank Man scene. https://knowyourmeme.com/photos/1499216-tank-man[Source].
+.Rough https://en.wikipedia.org/wiki/Lego[Lego] (https://zh.wikipedia.org/wiki/樂高[乐高]) model of the Tank Man scene. https://knowyourmeme.com/photos/1499216-tank-man[Source].
 image::{china-dictatorship-media-base}/Lego_Tank_Man.png[height=400]
 
-.https://en.wikipedia.org/wiki/Final_Fantasy_VI[Final Fantasy 6] battle screen style depiction of tank man by Cody Walton by it8Bit. https://www.it8bit.com/post/25860395424/unknown-rebel[Source].
+.https://en.wikipedia.org/wiki/Final_Fantasy_VI[Final Fantasy VI] (https://zh.wikipedia.org/wiki/最终幻想VI[最终幻想VI]) battle screen style depiction of tank man by Cody Walton by it8Bit. https://www.it8bit.com/post/25860395424/unknown-rebel[Source].
 image::{china-dictatorship-media-base}/Tank_Man_FF6.jpg[height=600]
 
 [[tank-man-cc-by-sa]]
@@ -11179,7 +11195,7 @@ This book is very fun to read, and it is not very long.
 
 1984 has coined some amazing terms which perfectly describe aspects of dictatorships:
 
-* https://en.wikipedia.org/wiki/Thoughtcrime[Thourhgcrime], see also: <<thoughtcrime>>
+* <<thoughtcrime>>
 * <<newspeak>>
 
 Quotes present in other sections:
@@ -11220,17 +11236,27 @@ Related:
 
 * https://ibisbill.wordpress.com/2014/01/02/nineteen-eighty-four-in-chinese/ asks how much George Orwell thought about China at the time
 
-==== Newspeak
+[[newspeak]]
+==== Newspeak (新语)
 
 * https://en.wikipedia.org/wiki/Newspeak
 * https://zh.wikipedia.org/wiki/新語_(一九八四)
 
 See also "Cult-speak" from <<orange-papers>>, related <<ccp-cult>>.
 
-[[brave-new-world]]
-=== Brave New World 美丽新世界 (1932)
+[[thoughtcrime]]
+==== Thoughtcrime (思想罪)
 
-https://en.wikipedia.org/wiki/Brave_New_World
+* https://en.wikipedia.org/wiki/Thoughtcrime
+* https://zh.wikipedia.org/wiki/思想罪
+
+See also: <<thoughtcrime>>
+
+[[brave-new-world]]
+=== Brave New World (美丽新世界, 1932)
+
+* https://en.wikipedia.org/wiki/Brave_New_World
+* https://zh.wikipedia.org/wiki/美麗新世界
 
 This is basically a less good <<nineteen-eighty-four>>, but the following passage https://archive.org/stream/ost-english-brave_new_world_aldous_huxley/Brave_New_World_Aldous_Huxley_djvu.txt[from Chapter 17] rocks:
 
@@ -11513,7 +11539,7 @@ China suppresses Falun Gong +
 Which is unforgivable
 ____
 
-.In 2016 activist Quan Ping (Kwon Pyong, 权平, https://twitter.com/kwonpyong[BraveJohnny]) was sent to jail for wearing a <<nazi,Xitler>>/<<xi-jinping-memes,習包子/大撒币>> t-shirt in public and posting selfies online. This photo is in front of a Government building (TODO exact location, reports say he is from https://en.wikipedia.org/wiki/Jilin_City[Jilin City 吉林] transcription of the sign on top of building: 诚信立市 https://baike.baidu.com/item/工业强市[工业强市] 依法治...) https://www.nytimes.com/2017/02/16/world/asia/china-xi-jinping-xitler-tshirt-kwon-pyong.html[New York Times coverage]. He was later sentenced and served 18 months in prison because of this: https://www.frontlinedefenders.org/en/profile/kwon-pyong on <<front-line-defenders>>. https://www.rfa.org/english/news/china/xi-jinping-tshirt-activist-confirmed-held-in-northeast-china-detention-center-12082016110338.html[Source].
+.In 2016 activist Quan Ping (Kwon Pyong, 权平, https://twitter.com/kwonpyong[BraveJohnny]) was sent to jail for wearing a <<nazi,Xitler>>/<<xi-jinping-memes,習包子/大撒币>> t-shirt in public and posting selfies online. This photo is in front of a Government building (TODO exact location, reports say he is from https://en.wikipedia.org/wiki/Jilin_City[Jilin City] (https://zh.wikipedia.org/wiki/吉林市[吉林市]) in <<jilin>> transcription of the sign on top of building: 诚信立市 https://baike.baidu.com/item/工业强市[工业强市] 依法治...) https://www.nytimes.com/2017/02/16/world/asia/china-xi-jinping-xitler-tshirt-kwon-pyong.html[New York Times coverage]. He was later sentenced and served 18 months in prison because of this: https://www.frontlinedefenders.org/en/profile/kwon-pyong on <<front-line-defenders>>. https://www.rfa.org/english/news/china/xi-jinping-tshirt-activist-confirmed-held-in-northeast-china-detention-center-12082016110338.html[Source].
 image::{china-dictatorship-media-base}/Quan_Ping_tshirt.jpg[height=400]
 
 [[liu-shihui-one-party-rule]]
@@ -12066,7 +12092,7 @@ ____
 
 so yes, attacking the party and major policies is illegal in China, big news, right? "Involved in attacking the party and state system and major policies" is then one of the categories in the report page.
 
-Soon after the previous events in 2020-09-08, anaytics got a hit from http://openurls.com.cn/ to https://cirosantilli.com/china-dictatorship[]. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of https://www.openallurls.com/[] but with an <<icp-license>> :-) The 2020-10-14 hit from http://jbcz.12377.cn was followed by another hit from http://openurls.com.cn/[], further reinforcing that this is part of their review procedure. 3 more hits on `/` and `/ciro-santilli` on 2020-02-22 after pinging a few people on https://github.com/zaohmeing/21- issues. Another hit 2021-03-19 to https://cirosantilli.com[], unknown cause. 2021-05-01 3 more openurls.com.cn hits 2021 after resubmitting reports on 2021-04-18 to get proper screenshots of the report procedure.
+Soon after the previous events in 2020-09-08, anaytics got a hit from http://openurls.com.cn/ to https://cirosantilli.com/china-dictatorship[]. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of https://www.openallurls.com/[] but with an <<icp-license>> :-) The 2020-10-14 hit from http://jbcz.12377.cn was followed by another hit from http://openurls.com.cn/[], further reinforcing that this is part of their review procedure. 3 more hits on `/` and `/ciro-santilli` on 2020-02-22 after pinging a few people on https://github.com/zaohmeing/21- issues. Another hit 2021-03-19 to https://cirosantilli.com[], unknown cause. 2021-05-01 3 more openurls.com.cn hits 2021 after resubmitting reports on 2021-04-18 to get proper screenshots of the report procedure. Another hit to https://cirosantilli.com/ on 2021-05-13.
 
 Other report websites:
 
@@ -12261,23 +12287,39 @@ https://www.zhihu.com/question/334923127 如何评价俄罗斯籍中国网红伏
 ** https://www.youtube.com/watch?v=2Mjik6q7FFo "The CCP is Wonderful! Thank you China not a government shill 谢谢你中国"
 ** https://www.youtube.com/watch?v=9SftsZXlIKM "British vlogger: The life of Uygurs and other minorities in China" reposted by <<cgtn>> (2021)
 
-On <<quora>>: https://www.quora.com/Why-does-there-seem-to-be-an-upsurge-in-CCP-apologists-and-apologism/answer/Ciro-Santilli
-
 TODO decide:
 
 * the JaYoe Nation https://www.youtube.com/c/JaYoeNation Sample video: https://www.youtube.com/watch?v=smnVeGR15GI "Chinese Government Officials Corrupted My Videos! | JaYoe Conversation" 
-* Mexicanos en China https://www.youtube.com/channel/UCgQYtqm1xB2uuNZaOniCH0Q Sample video: https://www.youtube.com/watch?v=a71fDVMBwP8 "Is the CHINESE GOVERNMENT PAYING US to Make Videos: Our Trip to Shaanxi // 中国政府是否付钱给我们制作视频" https://youtu.be/a71fDVMBwP8?t=188 says they were sponsored for the vidieo.
+* Mexicanos en China https://www.youtube.com/channel/UCgQYtqm1xB2uuNZaOniCH0Q Sample video: https://www.youtube.com/watch?v=a71fDVMBwP8 "Is the CHINESE GOVERNMENT PAYING US to Make Videos: Our Trip to Shaanxi // 中国政府是否付钱给我们制作视频" https://youtu.be/a71fDVMBwP8?t=188 says they were sponsored for the video.
 * Gweilo60's Channel: https://www.youtube.com/gweilo60
 * Eric Favreliere: https://www.instagram.com/ericfavreliere/
 * Laoma Chris (Chris Max, 口语老炮儿马思瑞). No ultra-pro CCP content, but has some anti-US content, and significant business interest in China. Large channel, 700k+ subscribers as of April 2021:
 ** https://www.youtube.com/watch?v=WQQ-9x5c6nM Why Is Police Brutality So Common in the US? (2020)
 
-Non-political channels of interest:
+Non-political (as far as we can tell) channels of interest:
 
-* https://www.youtube.com/channel/UCISrVZmDM4x-Rq9mmNUw7Zw Blondie in China food and travel
+* https://www.youtube.com/channel/UCISrVZmDM4x-Rq9mmNUw7Zw Blondie in China food and travel. Speaks Chinese. TODO name.
+* https://www.youtube.com/c/TravelinChina The China Traveller. Real name: Stuart Wiggin (司徒). British, studied in Oxford, speaks Chinese. Avoids ultra-sensitive topics like <<xinjiang>> and <<censorship>>, and covers positive rosy (and to some extent real) improvements in China mostly, in addition to neutral food/travel. LinkedIn: https://www.linkedin.com/in/stuartwiggin[] (https://archive.ph/HWoMr[archive]). Worked for <<china-radio-international>> from 2012 to 2017 and for <<netease>> since 2016. Other media: https://twitter.com/wiginchina Sample videos: 
+** https://youtu.be/8221d7F8Uzc?t=145[]: watermarked crienglish.com[] "到底是不是习近平？Is that a famous Asian world leader?", but takes <<xi-jinping>> lightly by showing a <<xi-jinping-lookalikes,bad Xi Jinping lookalike>>
+** https://www.youtube.com/watch?v=unDUEoMqYwk "I Train with the Troops at Tiananmen Square". Participates in a flag raising ceremony.
+* https://www.youtube.com/c/KevininShanghai Kevin in Shanghai. Mostly language and cultural differences.
 
 Bibliography:
 
+Discussion/lists: <<quora>>:
+
+* https://www.quora.com/Why-does-there-seem-to-be-an-upsurge-in-CCP-apologists-and-apologism/answer/Ciro-Santilli on <<quora>>
+* https://www.youtube.com/watch?t=370&v=AvN5X_pOFio "Expat YouTubers attacked for pro-China views" by <<cgtn>> (2021). TODO investigate all of those shown at the given timestamp.
+** <<raz-gal-or>>
+** Leo (Germany) TODo
+** Brian (Argentina)
+** Alistair Bayley (UK/Australia)
+** Vlad (Russia). <<russia>> is not part of the West.
+** Thomas (Germany)
+** Rachele (Italy)
+** Jason Lightfoot (UK)
+** Jared (Canada)
+** Lila (US). This is Lila Kidson, <<raz-gal-or>>'s girl
 * https://medium.com/swlh/how-china-is-influencing-youtubers-into-posting-state-propaganda-db72acf18dfa "EXCLUSIVE: How China is Influencing YouTubers into Posting State Propaganda" mentions https://youtu.be/2mQ8plzWl9g?t=520 "They tried to get me to post Chinese propaganda" by J.J. McCullough (2019) was approached to publish an anti-<<shen-yun>> video by what was likely a Chinese agent.
 
 <<reddit>> threads:
@@ -12426,6 +12468,10 @@ Sample posts:
 
 * https://www.youtube.com/watch?v=67pU0Ybovnc What I saw in Xinjiang working as a Cotton Farmer by 歪果仁研究协会 Ychina (2021) reply video to <<xinjiang-cotton>>. He got access to Xinjiang. Deep links.
 * https://www.youtube.com/watch?v=pGDYk7GSX-Q SHOCKING! Is United States Gonna Take Down <<wechat>> Too？ by 歪果仁研究协会 Ychina (2020) At which point every single Western chat program is blocked in China.
+
+Highlighted in <<chinese-government-media>>:
+
+* https://www.youtube.com/watch?t=370&v=AvN5X_pOFio "Expat YouTubers attacked for pro-China views" by <<cgtn>> (2021)
 
 Associates:
 
@@ -12618,7 +12664,9 @@ http://ftp.iza.org/dp3214.pdf suggests that a 1% increase in the male/female sex
 
 The commies keep saying over and over that rule of law is always observed.
 
-Of course, some times shitty laws are passed, and we must fight those as well: <<follow-the-law>>. But many times, the commies don't even bother setting up a bad law, they just fuck a million people and that's it.
+Of course, some times shitty laws are passed, and we must fight those as well: <<follow-the-law>>.
+
+But many times, the commies don't even bother setting up a bad law, they just fuck a million people and that's it.
 
 But in reality they punish anyone who poses a political threat, even if they did nothing wrong themselves, some cases that come to mind:
 
@@ -12626,6 +12674,11 @@ But in reality they punish anyone who poses a political threat, even if they did
 * <<falun-gong>>: what did they do wrong to other people that deserves putting them in jail? Is <<flg-medication>> enough to justify that? Are you sure that it is not a political motivation?
 * <<the-709-crackdown>>: even lawyers who support anyone who went against the state are imprisoned. How can there be any justice when lawyers are put in jail due to their choice of clients?
 * 2020-06 Hao Runze, son of <<hao-haidong>>, lost his job because his father spoke up against the CCP. Did the CCP speak up for him, like they speak up whenever a Chinese citizen gets hurt?
+
+Notably, they punish people for their general beliefs rather than specific actions:
+
+* <<thoughtcrime>>
+* <<flg-thoughtcrime>>
 
 .On 2021-03-31, a uniformed Chinese cop called Qelbinur Sedik, who was a teacher in the <<xinjiang-re-education-camps>> who https://thediplomat.com/2020/08/confessions-of-a-xinjiang-camp-teacher/[fled China and spoke to the media what she saw], to menace her through her sister, who is still in China. When he noticed that she had taken a screenshot due to a screenshot sound, he immediately took off the uniform. https://www.bbc.co.uk/news/world-asia-china-56563449[Source].
 image::{china-dictatorship-media-base}/Qelbinur_Sedik_call_with_cop.jpg[height=400]
@@ -13060,7 +13113,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
-* 2021-05-11 https://twitter.com/dingyi/status/1390861129191071754 Github 竟然还有这种项目。。。 (I'm surprised that there's still this kind of project on GitHub). 150k followers at the time. What do they do to have so many followers?
+* 2021-05-07 https://twitter.com/dingyi/status/1390861129191071754 (https://archive.ph/fS1TF[archive]) link to github.com/china-dictatorship commenting "Github 竟然还有这种项目。。。" (I'm surprised that there's still this kind of project on GitHub). Account had 150k followers at the time. What do they do to have so many followers? As of 2021-05-14, three days later after Ciro replied on 2021-05-11, the account had been made protected: https://archive.ph/davkj This is the <<chilling-effect>>, self-<<censorship,censor>> or perish.
 * 2021-04-16 https://manti.netease.com/ from <<netease>> to https://cirosantilli.com/china-dictatorship can't find any information on it.
 * 2021-03-23 https://my.cscglobal.com/ to cirosantilli.com/china-dictatorship another compliance company, previous https://cms.securimate.com hits come to mind. China related articles:
 ** https://www.businesswire.com/news/home/20200728005641/en/CSC-Becomes-First-Foreign-Owned-Company-to-Receive-Domain-Registrar-License-in-China this company has some serious weight with Chinese regulators!
@@ -14291,6 +14344,18 @@ This is a good province map: http://web.archive.org/web/20170910104718/http://cd
 
 The name refers to it being North of the <<yellow-river>>.
 
+[[heilongjiang]]
+==== Heilongjian Province (黑龙江省)
+
+* https://en.wikipedia.org/wiki/Heilongjiang
+* https://zh.wikipedia.org/wiki/黑龙江
+
+China's Northermost and Easternomst province.
+
+Literaly: "Black Dragon River" province. The name refers to the massive https://en.wikipedia.org/wiki/Amur[Amur river] (https://zh.wikipedia.org/wiki/黑龙江[黑龙江]) that passes through the region.
+
+Does not however border North Korea, only <<liaoning>> and <<jilin>> do.
+
 [[henan]]
 ==== Henan Province (河南省)
 
@@ -14298,6 +14363,16 @@ The name refers to it being North of the <<yellow-river>>.
 * https://zh.wikipedia.org/wiki/河南省
 
 The name refers to it being South of the <<yellow-river>>.
+
+[[jilin]]
+==== Jilin (吉林)
+
+* https://en.wikipedia.org/wiki/Jilin
+* https://zh.wikipedia.org/wiki/吉林省
+
+The capital city is also named Jilin (Jilin City).
+
+The origin of the name has nothing to do with a forest (林), it is a transliteration from Manchu language for "along the river".
 
 [[shandong]]
 ==== Shandong Province (山东省)
