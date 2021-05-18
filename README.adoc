@@ -483,7 +483,7 @@ https://2047.name/register registration requires an invitation code.
 https://github.com/2049bbs/2049bbs.github.io[] / https://2049bbs.github.io/[] maintains another archive up to 2019-03-03.
 
 .Side-by-side photos of Chen Mei (陈玫) and Cai Wei (蔡伟) from <<terminus2049>>. https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html[Source].
-image::{china-dictatorship-media-base}/Chenmei_Caowei.png[height=400]
+image::{china-dictatorship-media-base}/Chenmei_Caowei.jpg[height=400]
 
 [[chinatimeline]]
 === chinatimeline (中国时间线)
@@ -782,7 +782,7 @@ We have been able to find the following anti-CCP information in the blockchain s
 ____
 Tiananmen massacre <--- I dare China to censor this.
 ____
-* 2017 blk00808.txt transaction https://www.blockchain.com/btc/tx/91b9b44532e094522e905012c04f207df1bcad8d9df7232679cb16859a008bdd[91b9b44532e094522e905012c04f207df1bcad8d9df7232679cb16859a008bdd] (TODO why not visible at https://bitcoinstrings.com/blk00808.txt[]) contains a full text reproduction of: https://www.hrw.org/news/2016/06/01/china-tell-truth-about-tiananmen-anniversary "China: Tell the Truth About Tiananmen on Anniversary". The text is preceeded by a Chinese version of the same.
+* 2017 blk00808.txt transaction https://www.blockchain.com/btc/tx/91b9b44532e094522e905012c04f207df1bcad8d9df7232679cb16859a008bdd[91b9b44532e094522e905012c04f207df1bcad8d9df7232679cb16859a008bdd] (TODO why not visible at https://bitcoinstrings.com/blk00808.txt[]) contains a full text reproduction of: https://www.hrw.org/news/2016/06/01/china-tell-truth-about-tiananmen-anniversary "China: Tell the Truth About Tiananmen on Anniversary" from <<human-rights-watch>>. The text is preceeded by a Chinese version of the same.
 * ca4f11131eca6b4d61daf707a470cfccd1ef3d80a6f8b70f1f07616b451ca64e from 2017 contains an image of <<tank-man>> encoded as standard transaction SHAs. The image is mentioned at: https://archive.4plebs.org/pol/thread/191157608/#q191162145 with indexer URL https://cryptograffiti.info/#ca4f11131eca6b4d61daf707a470cfccd1ef3d80a6f8b70f1f07616b451ca64e.jpg but that link is not working
 
 But of course, there are crypto-<<wumao>>'s there too!!! The incongruence of a dictatorship and uncensorability is just mind blowing:
@@ -3861,7 +3861,7 @@ video::dEkliuqQo-g[youtube,height=400,width=600]
 ** https://wapipi.net/home/wp-content/uploads/2019/09/uy0830_en.pdf (https://web.archive.org/web/20191126162143/https://wapipi.net/home/wp-content/uploads/2019/09/uy0830_en.pdf[archive])
 ** https://www.theguardian.com/world/2019/nov/26/what-has-happened-to-me-manga-depicting-uighur-torture-hits-25m-views
 * 2019-11 The Xinjiang Papers: leaked cables about Xinjiang internment camps policy, some reported by the New York Times and others by the International Consortium of Investigative Journalists, soure yet unknown. https://en.wikipedia.org/wiki/Xinjiang_papers
-** 2020-02-18 https://www.hrw.org/news/2020/02/20/more-evidence-chinas-horrific-abuses-xinjiang the "Karakax list" leaked spreadsheet contains detailed information on 331 citizens Karakax County in Xinjiang and sheds further insight on why certain people have been persecuted
+** 2020-02-18 https://www.hrw.org/news/2020/02/20/more-evidence-chinas-horrific-abuses-xinjiang the "Karakax list" leaked spreadsheet contains detailed information on 331 citizens Karakax County in Xinjiang and sheds further insight on why certain people have been persecuted from <<human-rights-watch>>
 *** https://www.aljazeera.com/news/2020/02/china-war-terror-uproots-uighur-families-leaked-data-shows-200218052952415.html
 ** https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html
 ** https://www.icij.org/investigations/china-cables/exposed-chinas-operating-manuals-for-mass-internment-and-arrest-by-algorithm/
@@ -3869,7 +3869,7 @@ video::dEkliuqQo-g[youtube,height=400,width=600]
 * 2019-07-31 https://www.nytimes.com/2019/07/30/world/asia/china-xinjiang.html "Doubt Greets China's Claim That Muslims Have Been Released From Camps"
 * 2019-07-19 https://www.france24.com/en/20190712-37-countries-defend-china-over-xinjiang-un-letter "37 countries defend China over Xinjiang in UN letter"
 * 2019-07-04 https://www.bbc.co.uk/news/world-asia-china-48825090 "China Muslims: Xinjiang schools used to separate children from families"
-** https://www.hrw.org/news/2019/09/15/china-xinjiang-children-separated-families
+** https://www.hrw.org/news/2019/09/15/china-xinjiang-children-separated-families from <<human-rights-watch>>
 * 2019-05-07 https://www.theguardian.com/world/2019/may/07/revealed-new-evidence-of-chinas-mission-to-raze-the-mosques-of-xinjiang
 * 2019-05-07 https://www.youtube.com/watch?v=ULaJVWOr4ko CNN does a few Xinjiang interviews and sends reporter to visit some of the concentration camps
 +
@@ -4054,6 +4054,7 @@ Analyses:
 
 Related:
 
+* 2021-05-15 https://www.rfa.org/english/news/uyghur/competition-05142021190045.html "Beijing-backed Drawing Contest in Turkey Backfires as Students Submit Depictions of Xinjiang Abuses" by <<rfa>>
 * 2021-04-08 https://www.turkishminute.com/2021/04/08/chinese-wolf-warrior-met-their-match-in-turkey-with-municipal-trench-at-embassy-gate/ "Chinese wolf-warriors meet their match in Turkey with municipal trench at embassy gate" after 
 +
 ____
@@ -4080,7 +4081,7 @@ Once again, <<nazi>>.
 image::{china-dictatorship-media-base}/Holocaust_denial_cartoon_by_Francoise_Pichard.jpg[height=400]
 
 [[holocaust-denial-palestine]]
-.Holocaust denial cartoon suggesting that the Holocaust killed much less than Israel did during the Palestinian conflict TODO confirm artist, source image address suggests Moroccan https://www.toonsmag.com/naji-benaji/[Naji Benaji]. This <<evil-west,Evil West>> type of strategy is exactly what the <<ccp>> does, by trying to justify its horrors by comparing it to the horrors of other countries. We must recognize and fight against injustices of all countries. One injustice cannot justify the other. https://web.archive.org/web/20201201110526/https://cst.org.uk/news/blog/2010/10/29/a-new-low-for-scottish-palestine-solidarity-campaign[Source].
+.Holocaust denial cartoon suggesting that the Holocaust killed much less than Israel did during the Palestinian conflict TODO confirm artist, source image address suggests Moroccan https://www.toonsmag.com/naji-benaji/[Naji Benaji]. Palestine is <<evil-west,a tragedy>>, also mentioned at <<israel>>, but trying to justify its horrors by comparing it to the horrors of other countries. We must recognize and fight against injustices of all countries. One injustice cannot justify the other. https://web.archive.org/web/20201201110526/https://cst.org.uk/news/blog/2010/10/29/a-new-low-for-scottish-palestine-solidarity-campaign[Source].
 image::{china-dictatorship-media-base}/Holocaust_denial_cartoon_vs_Palestine.jpg[height=400]
 
 [[blood-cotton-initiative-wuheqilin]]
@@ -6256,7 +6257,7 @@ Some other interesting political suppression lists:
 
 Freedom of speech reports:
 
-* 2017-07-18 https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-freedom-expression "Online and On All Fronts Russia's Assault on Freedom of Expression"
+* 2017-07-18 https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-freedom-expression "Online and On All Fronts Russia's Assault on Freedom of Expression" from <<human-rights-watch>>
 
 Other random stuff:
 
@@ -6684,7 +6685,7 @@ video::ZT2z0nrsQ8o[youtube,height=400,width=600]
 
 Ukrainian, worked for <<rferl>> previously, and published against the annexation of Ukrainian territories.
 
-https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-freedom-expression suggests that one of her articles was added to the <<federal-list-of-extremist-materials>>, possibly "Blockade–the Necessary First Step for Liberation of Crimea", but I can't find the entry.
+https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-freedom-expression from <<human-rights-watch>> suggests that one of her articles was added to the <<federal-list-of-extremist-materials>>, possibly "Blockade–the Necessary First Step for Liberation of Crimea", but I can't find the entry.
 
 [[anti-russia-dictatorship-info-sources]]
 === Anti Russia dictatorship sources
@@ -6924,6 +6925,53 @@ image::{china-dictatorship-media-base}/Os_problemas_da_imprensa_livre.jpg[height
 .1974 edition of the nespaper https://en.wikipedia.org/wiki/O_Estado_de_S._Paulo[O Estado de Sao Paulo] with a copy of some verses of https://en.wikipedia.org/wiki/Os_Lusíadas[Os Lusíadas] in the middle of the front page, replacing material that was censored on the last minute. Os Lusiadas was written in 1572 and the most important  epic poem of the Portuguese language. It is also of course completely irrelevant to anything to do with modern politics of the 1970's. <<ciro-santilli>> believes however that a related phenomena happens in China in the early 21st century: there is an incredible number of period dramas in Chinese television and cinema. Ciro believes that this is in part because it would be much harder to offend the <<censorship,CCP censors>> with this kind of old source material. Of course, the effect is that <<dictatorships-are-bad-for-the-arts>>. http://www.memorialdademocracia.com.br/card/noticia-censurada-da-lugar-a-camoes[Source].
 image::{china-dictatorship-media-base}/O_Estado_de_Sao_Paulo_newspaper_censorship_Lusiadas_1974.jpg[height=600]
 
+[[united-states]]
+== United States (美国)
+
+Major violations:
+
+* <<israel>>
+
+[[israel]]
+=== Israel (以色列)
+
+* https://en.wikipedia.org/wiki/Israel
+* https://zh.wikipedia.org/wiki/以色列
+
+Israel is a military base for the <<united-states>> to protect oil reserves in the Middle East.
+
+Clearly, the best solution for the region as of 2021 would be to just give the https://en.wikipedia.org/wiki/West_Bank[West Bank] to the Palestinians:
+
+____
+As of July 2017 it has an estimated population of 2,747,943 Palestinians, and approximately 391,000 Israeli settlers,
+____
+
+For comparison, the population os Israel in 2020 was 9 million people, 20% Arab.
+
+Just look at the map of the 2017 Oslo accords: https://en.wikipedia.org/wiki/West_Bank Clearly Palestinians are split into dozens of small islands, while Israel controls one big sea of territory around them all. It is ridiculous.
+
+And the settler population just keeps increasing: https://en.wikipedia.org/wiki/File:IsraeliSettlementGrowthLineGraph.png
+
+Basically every single country supports that resoution, except the United States due to their strategic interests, and other rich Western countries that would lose too much by fighting the US over it: https://en.wikipedia.org/wiki/International_recognition_of_the_State_of_Palestine[]. Even human rights organizations from those countries recognize that:
+
+* https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
+* 2021 https://www.aljazeera.com/gallery/2021/5/12/in-pictures-9 In Pictures: Global protests in solidarity with Palestinians
+* 2020 https://www.brookings.edu/blog/order-from-chaos/2020/06/29/what-americans-think-about-the-looming-israeli-annexation-and-trumps-middle-east-plan/ "What Americans think about the looming Israeli annexation and Trump’s Middle East plan". Even the average American citizen (from amongst the ones that know about anything about the situation) does not agree with the current situation. But of course: https://cirosantilli.com/governments-have-lost-all-power-to-companies[Governments have lost all power to companies], so nothing happens.
+
+Europe mumbles something about "stop being naughty Israeal, I'll make an Embargo". But these never lead anywhere, because the United States has laws that prohibit Israel embargoes, and as a result this would force removal of US investments in any European country that creates such embargo. And as mentioned at https://cirosantilli.com/having-more-than-one-natural-language-is-bad-for-the-world Europe is too divided to do anything about anything compared to the United States, and so nothing ever gets done:
+
+* 2020 https://web.archive.org/web/20210424063925/https://foreignpolicy.com/2020/06/10/israel-annexation-boycott-europe-palenstinians-netanyahu/ "Europeans Pushing to Boycott Israel Over Annexation Should Think Twice". This article actually supports human rights violations over economic concerns
+* 2020 https://www.theguardian.com/world/2020/may/01/mps-press-for-sanctions-against-israel-over-west-bank-annexations MPs press for sanctions against Israel over West Bank annexations.
+* 2019 https://www.hrw.org/news/2019/04/23/us-states-use-anti-boycott-laws-punish-responsible-businesses from <<human-rights-watch>>
+
+The correct solution for this would be to actually force Israel to give the entire West Bank to palestine, not only through sactions, but through military action supporting the independent West Bank state. But of course, it would never come to that. Whatever the USA says, Israel would do, as they'd be fucked without support external. Israeli settlers in the West Bank would then have a choice of staying under the new government, possibly obtaining Palestine citizenship, or moving back to Israel.
+
+Bibliography:
+
+* https://www.middleeasteye.net/opinion/why-israel-does-not-want-sovereign-palestinian-state "Why Israel does not want a sovereign Palestinian state"
+* https://www.youtube.com/watch?v=iRYZjOuUnlU The Israel-Palestine conflict: a brief, simple history by Vox (2016)
+* https://ips-dc.org/why_the_us_supports_israel/
+
 [[falun-gong]]
 == Falun Gong (法轮功, Qigong religion)
 
@@ -7110,10 +7158,10 @@ ____
 Science, however, is not something gods imparted to humans. Instead, it was passed down to humans by alien beings inside the Three Realms, and for the purpose of controlling humankind. People's belief in it has surpassed everything. But I tell you that precisely because of its shallowness, this science has caused the degeneration of morality in human society.
 ____
 +
-Despite this however, Falun Gong benefits from information technology enormously. For example, many believers use the Internet daily to study the Fa, and to organize their <<falun-gong-media,media outlets>>.
+Despite this however, Falun Gong benefits from information technology enormously. For example, many (most?) believers use the Internet daily to study the Fa, and to organize their <<falun-gong-media,media outlets>>.
 * meetings in which people tell their religious testimonies ("experience sharing" TODO Chinese name, possibly just "分享修炼的美好", e.g. https://www.minghui.org/mh/articles/2015/9/29/分享修炼的美好-印尼召开修炼心得交流会（图）-316838.html[source]): https://en.wikipedia.org/wiki/Testimony#Religion
 +
-As Jesus put it in Matthew 18:20:
+As Jesus put it in https://www.biblegateway.com/passage/?search=Matthew%2018%3A20&version=NIV[Matthew 18:20]:
 +
 ____
 For where two or three are gathered in my name, there am I among them
@@ -9215,7 +9263,7 @@ But then, obviously, people started denouncing corruption in his goverment, and 
 
 The documentary also mentions <<wei-jingsheng>> who was a notorious contributor who asked for democracy.
 
-.Xidan democracy wall. https://en.wikipedia.org/wiki/File:Xidan_Wall,_May_1979.jpg[Source].
+.<<xidan-democracy-wall>>. https://en.wikipedia.org/wiki/File:Xidan_Wall,_May_1979.jpg[Source].
 image::{china-dictatorship-media-base}/Xidan_Wall.jpg[height=400]
 
 .https://youtube.com/watch?v=40PxfKWgBmY China: Democracy Wall Beijing Dec 1978 video only. This is one of the many footage available of the wall.
@@ -10990,6 +11038,18 @@ Website:
 
 * https://www.amnesty.org/en/
 
+UK based, had investments from United States and European governments.
+
+[[human-rights-watch]]
+====== Human Rights Watch (人权观察)
+
+* https://www.hrw.org/
+* https://www.hrw.org/zh-hans
+* https://en.wikipedia.org/wiki/Human_Rights_Watch
+* https://zh.wikipedia.org/wiki/人权观察
+
+New York based.
+
 ==== USA-based media bias
 
 2018 graph that everyone needs to see: https://ei.marketwatch.com/Multimedia/2018/02/28/Photos/NS/MW-GE557_MediaB_20180228115701_NS.jpg
@@ -11684,6 +11744,13 @@ https://gist.github.com/yefuchs/4648713 "GFW Contributers" has a list of people 
 
 Source: the first International email sent from China in 1987 by https://zh.wikipedia.org/wiki/王运丰[Wang Yunfeng (王运丰)] in the Beijing-based Institute for Computer Application (ICA) of the China Ordnance Industry Corporation under the https://zh.wikipedia.org/wiki/中华人民共和国机械电子工业部[Ministry of Machinery and Electronics of the People's Republic of China (中华人民共和国机械电子工业部)] to https://en.wikipedia.org/wiki/Werner_Zorn[Werner Zorn] from the https://en.wikipedia.org/wiki/Karlsruhe_Institute_of_Technology[Karlsruhe Institute of Technology] see also: https://en.wikipedia.org/wiki/Internet_in_China[].
 
+[[beiqiang]]
+===== To be walled off (被墙)
+
+* https://www.sohu.com/a/424350505_134152 什么叫被墙了？域名被墙和被污染的区别有哪些 (What is it to be walled? What's the difference between a domain name being walled and being polluted?) on <<sohu>>
+* https://zhuanlan.zhihu.com/p/359929520 你是否还在为域名被墙了闹心？ (Are you still worried about your domain name being walled? TODO Google translate. Where is the "your" part?? Can't understand this grammar.)
+* https://zhuanlan.zhihu.com/p/129812475 域名被墙 (domain named was walled) on <<zhihu>>
+
 [[dictator-needs-gfw]]
 ===== Would ending the Great Firewall truly end the dictatorship?
 
@@ -11718,12 +11785,12 @@ If you open the window, both fresh air and flies will enter.
 ____
 
 [[google-china]]
-====== Google China 谷歌中国
+====== Google China (谷歌中国)
 
 * https://en.wikipedia.org/wiki/Google_China
 * https://zh.wikipedia.org/wiki/谷歌中国
 
-.Faithful Google China users/employees made a funeral-like flower tribute on the company's entry sign in Beijing https://en.wikipedia.org/wiki/Tuspark[Tsinghua Science Park] when the company was https://en.wikipedia.org/wiki/Operation_Aurora[kicked/hacked out of China in the 2010 Operation Aurora]. This was one example of the unfair <<what-should-western-countries-do-about-china,joint venture technique imposed on foreign companies>> by China. https://qz.com/1352137/why-internet-users-chose-baidu-over-google-when-it-was-in-china/[Source].
+.Faithful Google China users/employees made a funeral-like flower tribute on the company's entry sign in Beijing https://en.wikipedia.org/wiki/Tuspark[Tsinghua Science Park] when the company was https://en.wikipedia.org/wiki/Operation_Aurora[kicked/hacked out of China in the 2010 Operation Aurora] (https://zh.wikipedia.org/wiki/极光行动[极光行动]). This was one example of the unfair <<what-should-western-countries-do-about-china,joint venture technique imposed on foreign companies>> by China. https://qz.com/1352137/why-internet-users-chose-baidu-over-google-when-it-was-in-china/[Source].
 image::{china-dictatorship-media-base}/Google_funeral.webp[height=400]
 
 [[jingjing-chacha]]
@@ -11836,6 +11903,11 @@ The GreatFire Analyzer is their most important tool, it checks if websites are b
 
 * https://en.greatfire.org/analyzer
 * https://zh.greatfire.org/analyzer
+
+Alternatives from other providers:
+
+* https://www.checkgfw.com/
+* https://www.boce.com/wall Actually has an <<icp-license>>!
 
 It also keeps a calendar of previous checks so you can see when a website started getting blocked.
 
@@ -13142,6 +13214,18 @@ Operates some MMORPGs in China. According to Wikipedia: "The company also owns s
 * https://en.wikipedia.org/wiki/Tencent
 * https://zh.wikipedia.org/wiki/腾讯
 
+Tencent owns the oa.com domain since 2020 which they bought from some small early American Internet company, although they don't announce that clearly. But they have several subdomains of that being used actively.
+
+https://domainnamewire.com/author/kasseylee/ mentions that it was sold for $609,068 in 2020, and references https://namebio.com/?s==QjN2UTN1kjM which gives date, value and sale location (https://sedo.com) but not buyer and seller info. https://domainnamewire.com/2020/09/16/why-are-two-letter-domains-so-sought-after-in-china/ says such domains are highly sought after in China.
+
+Some subdomains on <<archive-today>>: https://archive.vn/*.oa.com
+
+Domain selection:
+
+* 2020-12-07 https://tapd.oa.com/markdown-style-guide/zh.html links to: http://einverne.github.io/markdown-style-guide/zh.html
+* 2020-09-23 http://git.code.oa.com/wegame_server/rail/blob/master/docs/web_and_web_api/web-api-specification/web-api-specification.md to /markdown-style-guide/zh.html
+* 2017-06 http://km.oa.com/articles/show/329260 to ELF hello world
+
 [[wechat]]
 ==== WeChat (微信)
 
@@ -13243,7 +13327,8 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
-* 2021-05-07 https://twitter.com/dingyi/status/1390861129191071754 (https://archive.ph/fS1TF[archive]) link to github.com/china-dictatorship commenting "Github 竟然还有这种项目。。。" (I'm surprised that there's still this kind of project on GitHub). Account had 150k followers at the time. What do they do to have so many followers? As of 2021-05-14, three days later after Ciro replied on 2021-05-11, the account had been made protected: https://archive.ph/davkj This is the <<chilling-effect>>, self-<<censorship,censor>> or perish.
+* 2020
+* 2021-05-07 https://twitter.com/dingyi/status/1390861129191071754 (https://archive.ph/fS1TF[archive]) link to github.com/china-dictatorship commenting "Github 竟然还有这种项目。。。" (I'm surprised that there's still this kind of project on GitHub). Account had 150k followers at the time. What do they do to have so many followers? As of 2021-05-14, three days later after Ciro replied on 2021-05-11, the account had been made protected: https://archive.ph/davkj This is the <<chilling-effect>>, self-<<censorship,censor>> or perish. It was later un-protected. https://newsletter.dex.group/about/ says their DEX is a sort of online magazine. GitHub profile: https://github.com/dingyi
 * 2021-04-16 https://manti.netease.com/ from <<netease>> to https://cirosantilli.com/china-dictatorship can't find any information on it.
 * 2021-03-23 https://my.cscglobal.com/ to cirosantilli.com/china-dictatorship another compliance company, previous https://cms.securimate.com hits come to mind. China related articles:
 ** https://www.businesswire.com/news/home/20200728005641/en/CSC-Becomes-First-Foreign-Owned-Company-to-Receive-Domain-Registrar-License-in-China this company has some serious weight with Chinese regulators!
@@ -13334,6 +13419,11 @@ It had an <<icp-license>> in 2016, but lost it in 2019 to move servers back to U
 * 2015-04-10: https://v2ex.com/t/182766 (cannot archive, login requires CAPTCHA, link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-04.html[Chromium CTRL-S save]) "Stack Overflow 上看到一个丧心病狂的程序员" by https://v2ex.com/member/cloudhunter
 
 When Ciro later checked the above threads on 2020-12-20, he noticed that all of them had been made restricted to logged in members only, while previously only one of them had been.
+
+V2EX's creator is 刘昕 (Liu Xin, alias "Livid"):
+
+* https://twitter.com/Livid
+* https://www.zhihu.com/question/19577697 Livid（刘昕）是谁？ (Who is Livid (Liu Xin)?) on <<zhihu>>
 
 [[pincong]]
 === Pincong (品葱, uncensored forum)
