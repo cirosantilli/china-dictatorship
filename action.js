@@ -68,6 +68,7 @@ const shabiWords = [
   'shadiao',
   '傻逼',
   '沙雕',
+  '智障',
 ];
 for (const word of shabiWords) {
   if (new RegExp(word, 'i').test(titleAndBody)) {
@@ -75,11 +76,25 @@ for (const word of shabiWords) {
     break;
   }
 }
-if (/nmsl/i.test(titleAndBody)) {
-  newLabels.add('your-mother-died-argument');
+const fuckMotherWords = [
+  'cnm',
+  '操你妈',
+]
+for (const word of fuckMotherWords) {
+  if (new RegExp(word, 'i').test(titleAndBody)) {
+    newLabels.add('fuck-your-mother-argument');
+    break;
+  }
 }
-if (/cnm/i.test(titleAndBody)) {
-  newLabels.add('fuck-your-mother-argument');
+const motherDiedWords = [
+  'nmsl',
+  '你妈死',
+]
+for (const word of motherDiedWords) {
+  if (new RegExp(word, 'i').test(titleAndBody)) {
+    newLabels.add('your-mother-died-argument');
+    break;
+  }
 }
 const shitpostWords = [
   'fuck',

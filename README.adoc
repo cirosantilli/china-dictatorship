@@ -1,5 +1,6 @@
 = China Dictatorship 中国独裁统治
 :china-dictatorship-media-base: https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master
+:china-dictatorship-media-base-ignore: {china-dictatorship-media-base}
 :idprefix:
 :idseparator: -
 :sectanchors:
@@ -544,6 +545,7 @@ Further optimizations:
 +
 ....
 #!/usr/bin/env bash
+printf '玉米杂草数据集'
 printf '销售系统开发'
 printf '疫情期间网民情绪识别比赛'
 printf 996icu
@@ -1124,7 +1126,7 @@ In other countries:
 
 * <<india-covid-handling-twitter-suppression-2021>>
 
-.https://en.wikipedia.org/wiki/Assemblage_(art)[Assemblage] of a https://en.wikipedia.org/wiki/Respirator[respirator mask] with a https://en.wikipedia.org/wiki/Gag_(BDSM)[BDSM gag ball] attached to it, suggesting that citizen reports of COVID-19 in China have been censored. https://twitter.com/FakeNewsOfChina/status/1221396086033530880[Source].
+.https://en.wikipedia.org/wiki/Assemblage_(art)[Assemblage] of a https://en.wikipedia.org/wiki/Respirator[respirator mask] with a https://en.wikipedia.org/wiki/Gag_(BDSM)[BDSM gag ball] (https://zh.wikipedia.org/wiki/口塞[口塞]) attached to it, suggesting that citizen reports of COVID-19 in China have been censored. https://twitter.com/FakeNewsOfChina/status/1221396086033530880[Source].
 image::{china-dictatorship-media-base}/Covid_gag_mask.jpg[height=600]
 
 .Corona Xi mural of <<xi-jinping>> morphed into a Coronavirus by https://en.wikipedia.org/wiki/Lushsux[Lushux]. Fuller composition view: https://twitter.com/lushsux/status/1243830638966235136[]. Reddit called it https://www.reddit.com/r/pics/comments/fqku03/winnie_the_flu/[Winnie the Flu] in a reference to <<winnie-the-pooh>>. https://www.reddit.com/r/pics/comments/fqku03/winnie_the_flu/[Source].
@@ -2018,6 +2020,9 @@ One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy
 
 .Westerner: "How is life in China?" Chinese: "Oh, we can't complain." Westerner: "That's awesome." Chinese: "No, seriously... we can't." is a word play between the more common "we can't complain because everything is great" and "we can't complain because <<xi-jinping,Xi>> will <<censorship,make us disappear>>". https://www.taiwannews.com.tw/en/news/3933168[Source]
 image::{china-dictatorship-media-base}/We_cant_complain.jpg[height=600]
+
+.Translation of the above.
+image::{china-dictatorship-media-base}/We_cant_complain_zh.jpg[height=600]
 
 [[goring-nuremberg]]
 .https://www.youtube.com/watch?v=4xoM6-1SWl4&t=1606 https://en.wikipedia.org/wiki/The_Living_Dead_(TV_series)[The Living Dead] Episode 1: On the Desperate Edge of Now by Adam Curtis (1995) comments on how interviews with https://en.wikipedia.org/wiki/Hermann_Göring[Hermann Goring] (https://zh.wikipedia.org/wiki/赫尔曼·戈林[赫尔曼·戈林]) during the https://en.wikipedia.org/wiki/Nuremberg_trials[Nuremberg trials] (https://zh.wikipedia.org/wiki/纽伦堡审判[纽伦堡审判]) went: "Again and again, Jackson accused Goring of corruptly using his powers to commit crimes. Each time, Goring replied that such acts might be considered crimes in a democratic state, but that in Germany, democracy had failed. Eliminating the political opposition was necessary, to fulfill a higher principle: that of the Nation. And that it had worked, Goring insisted. It had brought order and prosperity to Germany". Jackson asks: "Well, if you wanted a certain people killed, you would have to have some organization that would kill them didn't you?". Goring replies: "This was the only possible form of government at the time and it proved that Germany could be pulled out of the abyss of misery, poverty and unemployment and withing a short space of time be made flourish and bloom." This is _exactly_ the justification given by the <<ccp,CCP>> for oppressing minorities and <<censorship,freedom of speech>>: the CCP is indistinguishable from the <<nazi,Nazis>>.
@@ -4258,7 +4263,7 @@ Resources:
 
 * https://hkchronicles.com/ Blocked on early 2021 in Hong Kong: https://hkchronicles.com/d/view/announcement-on-blockage
 
-.Over 100 police officers raid the Apple Daily Hong Kong newspaper soon after the <<hong-kong-national-security-law>> started. https://hongkongfp.com/2020/08/10/scores-of-police-raid-office-of-hong-kong-pro-democracy-newspaper-apple-daily/[Source].
+.Over 100 police officers raid the <<apple-daily>> Hong Kong newspaper soon after the <<hong-kong-national-security-law>> started. A https://www.bbc.com/zhongwen/simp/chinese-news-53723266[Chinese source]. https://hongkongfp.com/2020/08/10/scores-of-police-raid-office-of-hong-kong-pro-democracy-newspaper-apple-daily/[Source].
 image::{china-dictatorship-media-base}/Apple_Daily_raid.webp[height=600]
 
 ====== Hong kong national security department hotline
@@ -4350,7 +4355,7 @@ Some good LeBron cartoons:
 ."Kneeling" by https://en.wikipedia.org/wiki/Adam_Zyglis[Adam Zyglis] (2019) compares the NFL's https://en.wikipedia.org/wiki/Colin_Kaepernick[Colin Kaepernick] (https://zh.wikipedia.org/wiki/科林·卡佩尼克[科林·卡佩尼克]), who kneeled during the playing of the U.S. national anthem during the 2016 season to protest against social injustice, vs NBA's LeBron James, who instead supports China's <<dictatorship,dictatorship unconditionally>>. https://twitter.com/adamzyglis/status/1185634052008808448[Source].
 image::{china-dictatorship-media-base}/Kneeling_by_Adam_Zyglis_NFL_Colin_Kaepernick_vs_NBA_LeBron_James.jpg[height=500]
 
-.In 2020-10-04 American billboard company https://en.wikipedia.org/wiki/Outfront_Media[Outfront Media] refused to post this ad by the https://en.wikipedia.org/wiki/National_Legal_and_Policy_Center[NLPC conservative think tank] critical of LeBron James' stand on Hong Kong. The ad shows the NBA superstar with a Chinese flag covering his mouth and the message "Silence is Violence." and URL http://freedom4china.com/[]. https://www.foxnews.com/sports/billboard-company-refuses-to-post-ad-critical-of-lebron-james-stand-on-china[Source].
+.In 2020-10-04 American billboard company https://en.wikipedia.org/wiki/Outfront_Media[Outfront Media] refused to post this ad by the https://en.wikipedia.org/wiki/National_Legal_and_Policy_Center[NLPC conservative think tank] critical of LeBron James' stand on Hong Kong. The ad shows the NBA superstar with a Chinese flag covering his mouth and the message "Silence is Violence." and URL http://freedom4china.com/[]. <<to-obey-is-to-betray,To obey is to betray>> comes to mind. https://www.foxnews.com/sports/billboard-company-refuses-to-post-ad-critical-of-lebron-james-stand-on-china[Source].
 image::{china-dictatorship-media-base}/Silence_is_violence.jpg[height=400]
 
 === What should all pro-democracy people do about China?
@@ -4368,6 +4373,7 @@ Obéir c'est trahir. +
 Désobéir c'est servir.
 ____
 
+[[to-obey-is-to-betray]]
 ."Obéir c'est trahir. Désobéir c'est servir." flyer featuring the https://en.wikipedia.org/wiki/Cross_of_Lorraine[cross of Lorraine] https://www.larousse.fr/encyclopedie/images/Obéir_cest_trahir_Désobéir_cest_servir/1314227[Source].
 image::{china-dictatorship-media-base}/To_obey_is_to_betray.jpg[height=400]
 
@@ -5341,7 +5347,7 @@ Related spam meta posts:
 
 [[the-world-is-perfect]]
 ."The world is perfect" by Ciro Santilli, CC By-SA 4.0 (2021). After Graphics Stack Exchange forbade the usage of political images, <<ciro-santilli>> created this politically correct image to serve as a censorship placeholder, and reuploaded the answer as allowed by the moderators: https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[]. (https://web.archive.org/web/20210501090745/https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[].[archive]) CC By-SA 4.0, heart attribution: https://commons.wikimedia.org/wiki/File:Corazón.svg[]. <<os-problemas-da-imprensa-livre,Newspaper censorship cake recipe posts during the Brazilian military dictatorship>> and <<what-is-more-obscene-sex-or-war,"What is more obscene: sex or war?">> and <<please-enjoy-this-politically-correct-cartoon,Please enjoy this politically correct cartoon>> come strongly to mind.
-image::{china-dictatorship-media-base}/The_world_is_perfect.png[height=500]
+image::{china-dictatorship-media-base-ignore}/The_world_is_perfect.png[height=500]
 
 ."The world is perfect" as used to update Ciro Santilli's https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[deleted answer]. Instead of redoing the tutorial from scratch, Ciro just pasted the new image on top of the old one Stack Exchange censored: <<tank-man-cc-by-sa,Ciro Santilli's CC By-SA Tank Man image>>. Borders of the censored image were intentionally left over however as a reminder that Stack Exchange censors. This is a work of art.
 image::{china-dictatorship-media-base}/The_world_is_perfect_Stack_Overflow.png[height=500]
@@ -6641,13 +6647,7 @@ https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union
 .Before/after comparison of picture of Stalin with Nikolai Yezhov at the Moscow Canal. Nikolai was edited out form the second picture. (Credit: Fine Art Images/Heritage Images/Getty Images & AFP/GettyImages) https://www.history.com/news/josef-stalin-great-purge-photo-retouching[Source].
 image::{china-dictatorship-media-base}/Nikolai_Yezhov_Stalin_canal_edit.webp[height=400]
 
-.A meeting of the St. Petersburg chapter of the Union of Struggle for the Liberation of the Working Class in February 1897, including Lenin and Alexander Malchenko. https://en.wikipedia.org/wiki/File:Union-de-Lucha.jpg[Source].
-image::{china-dictatorship-media-base}/Malchenko.jpg[height=500]
-
-.Same as above, but with Alexander Malchenko edited out. link:++https://en.wikipedia.org/wiki/File:St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg++[Source].
-image::{china-dictatorship-media-base}/No_Malchenko.jpg[height=500]
-
-.The images above side-by-side.
+.Above: a meeting of the St. Petersburg chapter of the Union of Struggle for the Liberation of the Working Class in February 1897, including Lenin and Alexander Malchenko. https://en.wikipedia.org/wiki/File:Union-de-Lucha.jpg[Source]. Belos: same as above, but with Alexander Malchenko edited out. link:++https://en.wikipedia.org/wiki/File:St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg++[Source].
 image::{china-dictatorship-media-base}/Malchenko_no_Malchenko.jpg[height=1000]
 
 ===== Soviet Union radio jamming stations
@@ -9217,7 +9217,8 @@ video::MilRo8zZM8A[youtube,height=400,width=600]
 [[jiang-zemin]]
 === Jiang Zemin (江泽民, 1989-2002)
 
-https://en.wikipedia.org/wiki/Jiang_Zemin | https://zh.wikipedia.org/wiki/江泽民
+* https://en.wikipedia.org/wiki/Jiang_Zemin
+* https://zh.wikipedia.org/wiki/江泽民
 
 <<dictatorship,Dictator>> from 1989 to 2002.
 
@@ -10432,7 +10433,7 @@ News coverage:
 * 2020-09-25 https://www.scmp.com/news/china/society/article/3103548/greta-thunberg-criticises-china-after-climate-striker-ou-hongyi "Greta Thunberg criticises China after climate striker Ou Hongyi held over protest" detained in Shanghai 
 * 2020-06-20 https://www.theguardian.com/world/2020/jul/20/chinas-first-climate-striker-cant-return-to-school "China's first climate striker warned: give it up or you can't go back to school"
 
-.Howey Ou skipped classes for a week to protest about climate change in front of the local government office in Guilin in 2019. https://www.scmp.com/news/china/society/article/3094873/howey-ou-chinas-version-greta-thunberg-pays-price-climate[Source].
+.Howey Ou skipped classes for a week to protest about climate change in front of the local government office in Guilin, <<guangxi>>, in 2019. https://www.scmp.com/news/china/society/article/3094873/howey-ou-chinas-version-greta-thunberg-pays-price-climate[Source].
 image::{china-dictatorship-media-base}/Howey_Ou_2019.jpg[height=400]
 
 ==== University student dissidents abroad
@@ -11098,7 +11099,7 @@ Just because they are/were funded/founded by the CIA, it doesn't mean that we ca
 * <<hao-haidong>>
 
 [[apple-daily]]
-==== Apple Daily (蘋果日報)
+==== Apple Daily (苹果日报)
 
 * https://en.wikipedia.org/wiki/Apple_Daily
 * https://zh.wikipedia.org/wiki/蘋果日報_(香港)
@@ -12836,7 +12837,7 @@ image::{china-dictatorship-media-base}/Xi_scout_salute_vs_Hitler_Youth_salute.jp
 * https://www.zhihu.com/question/56068614 on <<zhihu>> "如何评价中国的红军小学?" (What do you think about the Red Army schools?)
 * 2017 https://www.globaltimes.cn/content/1081039.shtml on <<global-times>>
 
-.Children dressed in clear-blue Red-army uniforms saluting the flag at a <<red-army-school>> in https://en.wikipedia.org/wiki/Beichuan_Qiang_Autonomous_County[Beichuan] (https://zh.wikipedia.org/wiki/北川羌族自治县[北川]).
+.Children dressed in clear-blue Red-army uniforms saluting the flag at a <<red-army-school>> in https://en.wikipedia.org/wiki/Beichuan_Qiang_Autonomous_County[Beichuan] (https://zh.wikipedia.org/wiki/北川羌族自治县[北川]), <<sichuan>>, 2015. https://correspondent.afp.com/red-army-school[Source].
 image::{china-dictatorship-media-base}/Red_army_school.jpg[height=400]
 
 
@@ -14567,6 +14568,12 @@ Exits through: <<shandong>>, south of Beijing.
 
 This is a good province map: http://web.archive.org/web/20170910104718/http://cdn.topchinatravel.com/tct/pic/maps/china-map/china-tourist-map.jpg
 
+[[guangxi]]
+==== Guangxi Province (广西省)
+
+* https://en.wikipedia.org/wiki/Guangxi
+* https://zh.wikipedia.org/wiki/广西壮族自治区
+
 [[liaoning]]
 ==== Liaoning Province (辽宁省)
 
@@ -14618,6 +14625,12 @@ The origin of the name has nothing to do with a forest (林), it is a transliter
 * https://zh.wikipedia.org/wiki/山东省
 
 The name refers to it being East of the <<taihang-mountains>>.
+
+[[sichuan]]
+==== Sichuan Province (四川省)
+
+* https://en.wikipedia.org/wiki/Sichuan
+* https://zh.wikipedia.org/wiki/四川省
 
 [[taihang-mountains]]
 ===== Taihang Mountains (太行山)
