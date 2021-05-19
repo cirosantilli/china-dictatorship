@@ -2675,7 +2675,7 @@ image::{china-dictatorship-media-base}/Xi_raised_fist.jpg[height=400]
 .German's 1938-1945 war flag called the "War Ensign of Germany" in English or "Reichskriegsflagge" in German. https://en.wikipedia.org/wiki/Reichskriegsflagge[Source].
 image::{china-dictatorship-media-base}/Nazi_war_flag.png[height=400]
 
-.Hitler has of course a few raised fists on Google Images, but they tend to be more aggressive, and less compatible with Xi's apathic poker face. https://bodylanguageproject.com/xarticles/wp-content/uploads/2019/07/Hitler-4.jpg[Source].
+.Hitler has of course a few raised fists on Google Images, but they tend to be more aggressive, and less compatible with Xi's apathic poker face. http://bodylanguageproject.com/articles/adolf-hitler-practised-his-body-language-assessing-hitlers-bizarre-gestures-and-postures/[Source].
 image::{china-dictatorship-media-base}/Hitler_angry_rehearsal.jpg[height=400]
 
 .Photoshopped cover of Mein Kampf with Xi's face on top of Hitler's and other modifications such as Mian instead of Mein, likely the same 面 (mian4, face) as the Chinese character at the bottom right. <<xi-jinping-thought>> also comes to mind. https://foreignerinformosa.typepad.com/the_foreigner_in_formosa/2017/07/president-xitler-of-china-murders-political-dissident-liu-xiaobo.html[Source].
@@ -5540,6 +5540,14 @@ Skipping all <<falun-gong>>/<<epoch-times>> repos with very few stars, mostly so
 *** https://github.com/greatfire/wiki Wiki of <<greatfire>>. <<censorship-circumvention>>. Precise issue: https://github.com/greatfire/wiki/issues/166[] (no archives). 
 ** https://github.com/github/gov-takedowns/blob/master/China/2019/2019-12-12-MPS.md
 *** https://github.com/gfw-breaker[], see also: <<github-repositories-with-censored-information>>
+
+===== GitHubt This repository may contain objectionable content
+
+TODO: <<ciro-santilli>> once saw that message when visiting: https://github.com/Yanqiu-gui/-/issues/5 on 2021-05-19 for the first time, but not on the following ones. Appears to be some kind of textual softporn repo. How does that message get added exactly? And you are forced you to login to view that repository! Incredible, a hidden undocumented semi-hide-repo feature. Here's an archive: https://archive.ph/VJQdD That click wall also prevents archives of the repository therefore.
+
+===== GitHub censorship guidelines
+
+https://news.ycombinator.com/item?id=9966118 GitHub threatens to shut down a repository for using the word 'retard'  (2015)
 
 ===== Gitee
 
@@ -13323,7 +13331,11 @@ Related:
 
 * 2021-01-13 https://www.bbc.co.uk/news/technology-55634388 "Huawei patent mentions use of Uighur-spotting tech", see also: <<huawei>>
 
-=== Knowlesys
+[[knowlesys]]
+=== Knowlesys (乐思软件)
+
+* https://www.knowlesys.cn/
+* http://www.knowlesys.com/
 
 .Slide from a presentation of the Knowlesys Hong Kong social media censorship/misinformation company with words "Social Media as Weapons", "Your Enemy", leaked by the CCP_Unmasked hacker group on 2020/08/20, possible <<telegram>> account: https://t.me/ccp_unmasked[]. The leaks also contained data on  Yunrun Big Data Service, a company based in Guangzhou, and OneSight, based in Beijing. From this hack they apparently also managed obtained passwords used by those companies to manage CCP social media, and they posted some messages about their efforst through those accounts. Western countries have also used terrorism as an excuse way to reduce privacy/start wars, but of course, things are much worse in dictatorships where there is no freedom of speech, related <<evil-west>>. https://www.vice.com/en_in/article/dyzewz/hackers-leak-alleged-internal-files-of-chinese-social-media-monitoring-firmscv[Source].
 image::{china-dictatorship-media-base}/Social_Media_as_Weapons.webp[height=400]
