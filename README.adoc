@@ -8038,7 +8038,17 @@ Ciro feels without proof however that it is extremely likely that he has given v
 
 And then this belief gets pumped endlessly through the Falun Gong media, which completely unilaterally praises and supports Trump and criticizes his opponents, so that all believers understand that this is Li Hongzhi's desire.
 
-The most direct public suggestion that Li Hongzhi is directly involved of this was in 2020-11-08 https://www.epochtimes.com/gb/20/11/8/n12534746.htm when the <<epoch-times>> published a poem by <<li-hongzhi>> which Ciro believes is clearly directly supporting Trump, since it was released just after Trump was announced to have lost the presidential elections, amidst claims of electoral fraud under investigation, which Falun Gong media fully and completely supported. The official translation can be found in <<flg-canon>> https://en.falundafa.org/eng/articles/20201108A.html[]:
+Edit: around 2021-05-15, this got published on <<minghui>>: https://www.minghui.org/mh/articles/2021/5/18/大纪元新唐人媒体法会讲法-425888.html[]. It is not on <<flg-canon,falundafa.org>> yet, but is extremelly likely to be uploaded later and can already be consiered canon. The title is "Fa Teachings at the <<epoch-times>>/<<ntdtv>> media meeting", and it contains the first, unumbiguous support of Trump done in Canon. Although such support took a long time to come out publicly in canon, <<flg-transparent,which ciro-santilli condems>>, it was a huge positive step forward towards transparency, as it makes Falun Gong's pre-exising but unannounced religious support for Donald trump publicly official. The key quote on Google Translate is:
+
+____
+Everyone knows that the former president of the United States could not be re-elected, and he was taken down by improper means. I only talk about this phenomenon. Isn't it a manifestation of the current state of society? Everyone knows that the former president wants to talk about traditions and restore traditions. What he has to do is to change the moral quality of people and society in a better direction, and to restore society to a better social state. Is he going against the current heavenly principle? Because God's law is not working. Is he against the trend of this society? He is going against the current, and he wants to suffocate the current. If it's a country, maybe he can do it; what about the entire human society, it's too difficult. So, if the entire universe is like this, can it be intercepted? Unstoppable. So, those gods who took him down and those bad gods in the old universe were as timid as they had stolen things in their hearts. They knew what he was doing was good. Do not you know? all know. Although those gods are corrupt, at least he still understands these things
+____
+
+which therefore clearly says Trump is a manifestation of supernatural forces of good, and also clearly says that the 2020 American election was in fact https://en.wikipedia.org/wiki/Attempts_to_overturn_the_2020_United_States_presidential_election[stolen by the Democrats as per Donald Trump's accusations].
+
+It could have been even more direct, but <<ciro-santilli>> considers this more than direct enough. A Brazillian saying comes to mind: "Para bom entendedor, meia palavra basta" (For the Connoisseur/Expert, half a word is enough). This was notably used as part of an relentless advertisement campain when Ciro was young (certainly too young to drink) for the overly-long-named beer brand https://en.wikipedia.org/wiki/Brasil_Kirin[Schincariol], suggesting that you could just call is "schin", e.g. to order it at a bar. Sample ad: https://www.youtube.com/watch?v=vS-UWr1RIQU[]. Anyways, back to Falun Gong, when it is the word of <<li-hongzhi,Living God himself>>, even a quarter-word is enough I guess.
+
+Prior to that, the most direct public suggestion we can find that Li Hongzhi directly supported Trump was in 2020-11-08 https://www.epochtimes.com/gb/20/11/8/n12534746.htm when the <<epoch-times>> published a poem by <<li-hongzhi>> which Ciro believes is clearly directly supporting Trump, since it was released just after Trump was announced to have lost the presidential elections, amidst claims of electoral fraud under investigation, which Falun Gong media fully and completely supported. The official translation can be found in <<flg-canon>> https://en.falundafa.org/eng/articles/20201108A.html[]:
 
 ____
 On the General Election
@@ -10794,6 +10804,10 @@ List of smaller ones that didn't deserve a section:
 ** https://www.visiontimes.com.au/
 ** https://www.secretchina.com/
 
+===== Epoch Media Group
+
+At some point both <<epoch-times>> and <<ntdtv>>, previously "independent", were added under a single umbrella organization, known as the "Epoch Media Group".
+
 [[epoch-times]]
 ===== The Epoch Times (明慧网, Falun Gong media)
 
@@ -12258,7 +12272,7 @@ After you submit, it leads you to: https://www.12321.cn/suc (https://web.archive
 
 From the website source code (very simple, hand written, we see that it uses <<baidu,Baidu Analytics>>. The CCP obviously trusts Baidu a lot :-)
 
-On 2020-09-07, <<mirrors,cirosantilli.com/china-dictatorship>>'s Google Analytics had a hit coming from http://jbcz.12377.cn/report/center/web.index[] ("This site can't be reached" on Chrome). This was soon after <<ciro-santilli>> mentioned <<cac-report-website>> at https://github.com/cirosantilli/china-dictatorship/issues/149#issuecomment-688084645[]. This is presumably the censor's web UI to review reports. "jb" from jbcz presumably means Ju Bao (举报), the CZ Ciro couldn't guess. 2020-10-14 had another hit from: http://jbcz.12377.cn/report/load/operate.index[].
+On 2020-09-07, <<mirrors,cirosantilli.com/china-dictatorship>>'s Google Analytics had a hit coming from http://jbcz.12377.cn/report/center/web.index[] ("This site can't be reached" on Chrome). This was soon after <<ciro-santilli>> mentioned <<cac-report-website>> at https://github.com/cirosantilli/china-dictatorship/issues/149#issuecomment-688084645[]. This is presumably the censor's web UI to review reports. "jb" from jbcz presumably means Ju Bao (举报), the CZ Ciro couldn't guess. 2020-10-14 had another hit from: http://jbcz.12377.cn/report/load/operate.index[]. 2021-05-18 https://jbcz.12377.cn to https://cirosantilli.gitlab.io/china-dictatorship[] <<mirrors>>. On same day also a hit from http://123.125.45.236:9007[], that appears to be an IP in China.
 
 The toplevel http://12377.cn (https://web.archive.org/web/20200907235842/https://www.12377.cn/[archive]) is entitled "中央网信办（国家互联网信息办公室）违法和不良信息举报中心" and is another report website. It is also linked to from http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm under different categories, so it is also official.
 
@@ -13214,6 +13228,8 @@ Operates some MMORPGs in China. According to Wikipedia: "The company also owns s
 * https://en.wikipedia.org/wiki/Tencent
 * https://zh.wikipedia.org/wiki/腾讯
 
+==== oa.com
+
 Tencent owns the oa.com domain since 2020 which they bought from some small early American Internet company, although they don't announce that clearly. But they have several subdomains of that being used actively.
 
 https://domainnamewire.com/author/kasseylee/ mentions that it was sold for $609,068 in 2020, and references https://namebio.com/?s==QjN2UTN1kjM which gives date, value and sale location (https://sedo.com) but not buyer and seller info. https://domainnamewire.com/2020/09/16/why-are-two-letter-domains-so-sought-after-in-china/ says such domains are highly sought after in China.
@@ -13222,6 +13238,7 @@ Some subdomains on <<archive-today>>: https://archive.vn/*.oa.com
 
 Domain selection:
 
+* 2021-05-17 https://ilns.isec.oa.com/command-manage/command-analysis/2073645[] from <<backlinks>>
 * 2020-12-07 https://tapd.oa.com/markdown-style-guide/zh.html links to: http://einverne.github.io/markdown-style-guide/zh.html
 * 2020-09-23 http://git.code.oa.com/wegame_server/rail/blob/master/docs/web_and_web_api/web-api-specification/web-api-specification.md to /markdown-style-guide/zh.html
 * 2017-06 http://km.oa.com/articles/show/329260 to ELF hello world
@@ -13327,7 +13344,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
-* 2020
+* 2021-05-17 https://ilns.isec.oa.com/command-manage/command-analysis/2073645[]. Remember that <<oa-com>> belong to <<tencent>>.
 * 2021-05-07 https://twitter.com/dingyi/status/1390861129191071754 (https://archive.ph/fS1TF[archive]) link to github.com/china-dictatorship commenting "Github 竟然还有这种项目。。。" (I'm surprised that there's still this kind of project on GitHub). Account had 150k followers at the time. What do they do to have so many followers? As of 2021-05-14, three days later after Ciro replied on 2021-05-11, the account had been made protected: https://archive.ph/davkj This is the <<chilling-effect>>, self-<<censorship,censor>> or perish. It was later un-protected. https://newsletter.dex.group/about/ says their DEX is a sort of online magazine. GitHub profile: https://github.com/dingyi
 * 2021-04-16 https://manti.netease.com/ from <<netease>> to https://cirosantilli.com/china-dictatorship can't find any information on it.
 * 2021-03-23 https://my.cscglobal.com/ to cirosantilli.com/china-dictatorship another compliance company, previous https://cms.securimate.com hits come to mind. China related articles:
