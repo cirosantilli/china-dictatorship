@@ -11,7 +11,19 @@
 :toclevels: 6
 :toc-title:
 
-https://cirosantilli.com/china-dictatorship[cirosantilli.com (canonical)] | https://cirosantilli.gitlab.io/china-dictatorship[gitlab.io (China mirror 中国镜像)] | https://github.com/cirosantilli/china-dictatorship[GitHub project] | https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip[GitHub HTML download]
+https://cirosantilli.com/china-dictatorship[cirosantilli.com (canonical)] |
+https://github.com/cirosantilli/china-dictatorship[GitHub project] |
+China mirrors 中国镜像:
+https://cirosantilli.gitlab.io/china-dictatorship[cirosantilli.gitlab.io],
+https://htmlpreview.github.io/?https://github.com/cirosantilli/china-dictatorship/gh-pages/blob/index.html[htmlpreview.github.io],
+https://www.unpkg.com/china-dictatorship@latest/README.html[www.unpkg.com (tag)],
+https://gitlab.com/cirosantilli/china-dictatorship/-/blob/master/README.adoc[gitlab.com],
+https://raw.githack.com/cirosantilli/china-dictatorship/gh-pages/index.html[raw.githack.com],
+https://cdn.statically.io/gh/cirosantilli/china-dictatorship/gh-pages/index.html[cdn.statically.io]
+|
+HTML download 下载:
+https://raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html[raw.githubusercontent.com],
+https://cdn.jsdelivr.net/npm/china-dictatorship@latest/README.html[cdn.jsdelivr (tag)]
 
 Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
@@ -176,8 +188,6 @@ git checkout gh-pages
 xdg-open README.html
 ....
 
-
-
 Build it yourself:
 
 ....
@@ -213,7 +223,7 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 * https://gitlab.com/cirosantilli/china-dictatorship Maybe some day https://gitlab.cn/ ? :-)
 ** their gitlab.com render is shit for some reason, clicking on the ToC does not jump to headers properly, not sure why, IDs look correct
 ** one really cool thing about gitlab is that it can serve images from directly gitlab.com e.g. https://gitlab.com/cirosantilli/china-dictatorship-media/-/raw/master/Xi_Jinping_The_Governance_of_China_photo.jpg unlike GitHub which has the `raw.` subdomain: https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Xi_Jinping_The_Governance_of_China_photo.jpg This makes it impossible to block the GitLab images without blocking all of gitlab.com, until GitLab starts a <<github-gov-takedowns,gov-takedowns>> of their own.
-** https://cirosantilli.gitlab.io/china-dictatorship GitLab Pages. Works fine. Let's see if they can block subdomains.
+** https://cirosantilli.gitlab.io/china-dictatorship GitLab Pages. Works fine. Let's see if they can block subdomains: https://zh.greatfire.org/https/cirosantilli.gitlab.io/china-dictatorship
 * https://gitee.com/cirosantilli/china-dictatorship on <<gitee>>, blocked after 12 hours: <<gitee-censorship>>
 * https://bitbucket.org/cirosantilli/china-dictatorship
 * https://git.kiwifarms.net/CrunkLord420/china-dictatorship auto-pull Gitea mirror on https://en.wikipedia.org/wiki/Kiwi_Farms[Kiwi Farms] (a <<politically-incorrect,politically incorrect>> social network website)
@@ -234,6 +244,26 @@ It is really interesting to see how many people star the GitHub repository, and 
 GitHub Pages was first enabled in 2020-03-22 at https://github.com/cirosantilli/china-dictatorship/commit/0b362a83fb5dd55f67b9d351551d0c18e7f3229a[].
 
 The perfect solution might be to download all images and upload them to https://github.com/cirosantilli/media since GitHub content does not go through Camo, we have to see if such images don't fail to load as often.
+
+A few NPM/Git CDNs can also be used to bypass subdomain blocks, and some actually render HTML with the correct content type. Lists of such CDNs:
+
+* https://stackoverflow.com/questions/8446218/how-to-see-an-html-page-on-github-as-a-normal-rendered-html-page-to-see-preview
+* https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source
+
+Some we've found, with HTML content type:
+
+* https://htmlpreview.github.io/?https://github.com/cirosantilli/china-dictatorship/gh-pages/blob/index.html[]: https://zh.greatfire.org/https/htmlpreview.github.io%3Fhttps%3A//github_com/cirosantilli/china-dictatorship/gh-pages/blob/index_html%3D
+* https://www.unpkg.com/china-dictatorship@latest/README.html[]: https://zh.greatfire.org/https/www.unpkg.com/china-dictatorship%40latest/README.html
+* Blocked when last checked:
+** https://raw.githack.com/cirosantilli/china-dictatorship/gh-pages/index.html[]: https://zh.greatfire.org/https/raw.githack.com/cirosantilli/china-dictatorship/gh-pages/index.html blocked since 2021-05-20
+** https://cdn.statically.io/gh/cirosantilli/china-dictatorship/gh-pages/index.html[]: https://zh.greatfire.org/https/cdn.statically.io/gh/cirosantilli/china-dictatorship/gh-pages/index.html blocked since 2021-05-20
+
+Without HTML content type:
+
+* https://raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html[]: https://zh.greatfire.org/https/raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html
+* https://cdn.jsdelivr.net/npm/china-dictatorship@latest/README.html[]: https://zh.greatfire.org/https/cdn.jsdelivr.net/npm/china-dictatorship%40latest/README.html
+
+=== Software package mirrors
 
 We also have a NPM Node.js package https://www.npmjs.com/package/china-dictatorship[]. After https://askubuntu.com/questions/594656/how-to-install-the-latest-versions-of-nodejs-and-npm/971612#971612[installing NPM], you can be use it as:
 
