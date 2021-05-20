@@ -471,7 +471,19 @@ ga('send', 'pageview');
 <div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
-<p><a href="https://cirosantilli.com/china-dictatorship">cirosantilli.com (canonical)</a> | <a href="https://cirosantilli.gitlab.io/china-dictatorship">gitlab.io (China mirror 中国镜像)</a> | <a href="https://github.com/cirosantilli/china-dictatorship">GitHub project</a> | <a href="https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip">GitHub HTML download</a></p>
+<p><a href="https://cirosantilli.com/china-dictatorship">cirosantilli.com (canonical)</a> |
+<a href="https://github.com/cirosantilli/china-dictatorship">GitHub project</a> |
+China mirrors 中国镜像:
+<a href="https://cirosantilli.gitlab.io/china-dictatorship">cirosantilli.gitlab.io</a>,
+<a href="https://htmlpreview.github.io/?https://github.com/cirosantilli/china-dictatorship/gh-pages/blob/index.html">htmlpreview.github.io</a>,
+<a href="https://www.unpkg.com/china-dictatorship@latest/README.html">www.unpkg.com (tag)</a>,
+<a href="https://gitlab.com/cirosantilli/china-dictatorship/-/blob/master/README.adoc">gitlab.com</a>,
+<a href="https://raw.githack.com/cirosantilli/china-dictatorship/gh-pages/index.html">raw.githack.com</a>,
+<a href="https://cdn.statically.io/gh/cirosantilli/china-dictatorship/gh-pages/index.html">cdn.statically.io</a>
+|
+HTML download 下载:
+<a href="https://raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html">raw.githubusercontent.com</a>,
+<a href="https://cdn.jsdelivr.net/npm/china-dictatorship@latest/README.html">cdn.jsdelivr (tag)</a></p>
 </div>
 <div class="paragraph">
 <p>Chinese "Communist" <a href="#dictatorship">"Dictatorship"</a> "facts". 中国《共产主义》<a href="#dictatorship">《独裁统治》</a>的《事实》。<a href="#faq">FAQ</a>, <a href="#news">news compilation</a> and <a href="#restaurants">restaurant</a> and <a href="#music">music</a> recommendations. <a href="#faq">常见问答集</a>，<a href="#news">新闻集</a>和<a href="#restaurants">饭店</a>和<a href="#music">音乐</a>建议。<a href="#xi-abolishes-term-limits-2018-03">Heil Xi 卐</a>. <a href="#xi-abolishes-term-limits-2018-03">习万岁</a>。</p>
@@ -505,7 +517,11 @@ ga('send', 'pageview');
 <ul class="sectlevel1">
 <li><a href="#about">1. About (关于)</a></li>
 <li><a href="#copypasta">2. Copypasta</a></li>
-<li><a href="#mirrors">3. Mirrors of this page (本网页的镜像)</a></li>
+<li><a href="#mirrors">3. Mirrors of this page (本网页的镜像)</a>
+<ul class="sectlevel2">
+<li><a href="#software-package-mirrors">3.1. Software package mirrors</a></li>
+</ul>
+</li>
 <li><a href="#github-repositories-with-censored-information">4. GitHub repositories with censored information (政治敏感的GitHub库)</a>
 <ul class="sectlevel2">
 <li><a href="#terminus2049">4.1. Terminus2049 (端点星计划)</a></li>
@@ -2514,7 +2530,7 @@ make MEDIA=../china-dictatorship-media</pre>
 <p>one really cool thing about gitlab is that it can serve images from directly gitlab.com e.g. <a href="https://gitlab.com/cirosantilli/china-dictatorship-media/-/raw/master/Xi_Jinping_The_Governance_of_China_photo.jpg" class="bare">https://gitlab.com/cirosantilli/china-dictatorship-media/-/raw/master/Xi_Jinping_The_Governance_of_China_photo.jpg</a> unlike GitHub which has the <code>raw.</code> subdomain: <a href="https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Xi_Jinping_The_Governance_of_China_photo.jpg" class="bare">https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Xi_Jinping_The_Governance_of_China_photo.jpg</a> This makes it impossible to block the GitLab images without blocking all of gitlab.com, until GitLab starts a <a href="#github-gov-takedowns">gov-takedowns</a> of their own.</p>
 </li>
 <li>
-<p><a href="https://cirosantilli.gitlab.io/china-dictatorship" class="bare">https://cirosantilli.gitlab.io/china-dictatorship</a> GitLab Pages. Works fine. Let&#8217;s see if they can block subdomains.</p>
+<p><a href="https://cirosantilli.gitlab.io/china-dictatorship" class="bare">https://cirosantilli.gitlab.io/china-dictatorship</a> GitLab Pages. Works fine. Let&#8217;s see if they can block subdomains: <a href="https://zh.greatfire.org/https/cirosantilli.gitlab.io/china-dictatorship" class="bare">https://zh.greatfire.org/https/cirosantilli.gitlab.io/china-dictatorship</a></p>
 </li>
 </ul>
 </div>
@@ -2578,6 +2594,60 @@ make MEDIA=../china-dictatorship-media</pre>
 <div class="paragraph">
 <p>The perfect solution might be to download all images and upload them to <a href="https://github.com/cirosantilli/media" class="bare">https://github.com/cirosantilli/media</a> since GitHub content does not go through Camo, we have to see if such images don&#8217;t fail to load as often.</p>
 </div>
+<div class="paragraph">
+<p>A few NPM/Git CDNs can also be used to bypass subdomain blocks, and some actually render HTML with the correct content type. Lists of such CDNs:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://stackoverflow.com/questions/8446218/how-to-see-an-html-page-on-github-as-a-normal-rendered-html-page-to-see-preview" class="bare">https://stackoverflow.com/questions/8446218/how-to-see-an-html-page-on-github-as-a-normal-rendered-html-page-to-see-preview</a></p>
+</li>
+<li>
+<p><a href="https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source" class="bare">https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Some we&#8217;ve found, with HTML content type:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://htmlpreview.github.io/?https://github.com/cirosantilli/china-dictatorship/gh-pages/blob/index.html" class="bare">https://htmlpreview.github.io/?https://github.com/cirosantilli/china-dictatorship/gh-pages/blob/index.html</a>: <a href="https://zh.greatfire.org/https/htmlpreview.github.io%3Fhttps%3A//github_com/cirosantilli/china-dictatorship/gh-pages/blob/index_html%3D" class="bare">https://zh.greatfire.org/https/htmlpreview.github.io%3Fhttps%3A//github_com/cirosantilli/china-dictatorship/gh-pages/blob/index_html%3D</a></p>
+</li>
+<li>
+<p><a href="https://www.unpkg.com/china-dictatorship@latest/README.html" class="bare">https://www.unpkg.com/china-dictatorship@latest/README.html</a>: <a href="https://zh.greatfire.org/https/www.unpkg.com/china-dictatorship%40latest/README.html" class="bare">https://zh.greatfire.org/https/www.unpkg.com/china-dictatorship%40latest/README.html</a></p>
+</li>
+<li>
+<p>Blocked when last checked:</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://raw.githack.com/cirosantilli/china-dictatorship/gh-pages/index.html" class="bare">https://raw.githack.com/cirosantilli/china-dictatorship/gh-pages/index.html</a>: <a href="https://zh.greatfire.org/https/raw.githack.com/cirosantilli/china-dictatorship/gh-pages/index.html" class="bare">https://zh.greatfire.org/https/raw.githack.com/cirosantilli/china-dictatorship/gh-pages/index.html</a> blocked since 2021-05-20</p>
+</li>
+<li>
+<p><a href="https://cdn.statically.io/gh/cirosantilli/china-dictatorship/gh-pages/index.html" class="bare">https://cdn.statically.io/gh/cirosantilli/china-dictatorship/gh-pages/index.html</a>: <a href="https://zh.greatfire.org/https/cdn.statically.io/gh/cirosantilli/china-dictatorship/gh-pages/index.html" class="bare">https://zh.greatfire.org/https/cdn.statically.io/gh/cirosantilli/china-dictatorship/gh-pages/index.html</a> blocked since 2021-05-20</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Without HTML content type:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html" class="bare">https://raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html</a>: <a href="https://zh.greatfire.org/https/raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html" class="bare">https://zh.greatfire.org/https/raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html</a></p>
+</li>
+<li>
+<p><a href="https://cdn.jsdelivr.net/npm/china-dictatorship@latest/README.html" class="bare">https://cdn.jsdelivr.net/npm/china-dictatorship@latest/README.html</a>: <a href="https://zh.greatfire.org/https/cdn.jsdelivr.net/npm/china-dictatorship%40latest/README.html" class="bare">https://zh.greatfire.org/https/cdn.jsdelivr.net/npm/china-dictatorship%40latest/README.html</a></p>
+</li>
+</ul>
+</div>
+<div class="sect2">
+<h3 id="software-package-mirrors"><a class="anchor" href="#software-package-mirrors"></a><a class="link" href="#software-package-mirrors">3.1. Software package mirrors</a></h3>
 <div class="paragraph">
 <p>We also have a NPM Node.js package <a href="https://www.npmjs.com/package/china-dictatorship" class="bare">https://www.npmjs.com/package/china-dictatorship</a>. After <a href="https://askubuntu.com/questions/594656/how-to-install-the-latest-versions-of-nodejs-and-npm/971612#971612">installing NPM</a>, you can be use it as:</p>
 </div>
@@ -2751,6 +2821,7 @@ xdg-open README.html</pre>
 </div>
 <div class="paragraph">
 <p>There is no need to update package versions or add git tags, all of that gets done automatically by the script!</p>
+</div>
 </div>
 </div>
 </div>
