@@ -34,7 +34,7 @@ This README is too large and so https://github.com/isaacs/github/issues/1610[Git
 
 or by downloading it locally as shown at: <<mirrors>>.
 
-**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead, preferably from behind VPN/Tor/<<shadowsocks>>.** See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
+**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead, preferably from behind VPN/Tor/<<shadowsocks>>.**. 你不是一个人。将来是今天的五毛必须隐藏，而不是你。You are not alone. In the fiture, it is the wumaos who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
 
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China_photo.jpg[height=600]
 
@@ -575,6 +575,7 @@ Further optimizations:
 +
 ....
 #!/usr/bin/env bash
+printf '黑马程序员MySQL数据库'
 printf '玉米杂草数据集'
 printf '销售系统开发'
 printf '疫情期间网民情绪识别比赛'
@@ -3407,6 +3408,7 @@ Subs with lots of anti-commie info:
 * https://www.reddit.com/r/China is arguably the best as of 2020, see also: <<anti-ccp-info-sources>>
 * https://www.reddit.com/r/fucktheccp/ small as of 2020 but promising
 * https://www.reddit.com/r/HongKong had 3x more users than r/china as of 2020 after <<2019-hong-kong-anti-extradition-bill-protests>>.
+** https://www.reddit.com/r/FragrantHarbour/ another Honk Kong one, TODO vs r/HongKong.
 * https://www.reddit.com/r/CCP_virus/ for <<covid>>
 * https://www.reddit.com/r/tibet/ 3k subs 2020
 * https://www.reddit.com/r/ChinaMemes 2.5k subs 2021-03
@@ -3421,6 +3423,10 @@ TODO review:
 * https://www.reddit.com/r/taiwan/
 * https://www.reddit.com/r/China_Flu/
 * https://www.reddit.com/r/China_irl/ (流浪防区) https://www.reddit.com/r/China/comments/mnbpum/if_you_want_to_experience_the_censorship_and/ claims pro-CCP, but e.g. https://www.reddit.com/r/China_irl/comments/mn68dy/各位键委如何看待gfw/ has <<gfw>> talks
+
+===== Instagram
+
+* https://www.instagram.com/hongkongprotestposters/
 
 ===== r/chonglangTV
 
@@ -4830,6 +4836,7 @@ Related about university interference:
 China buying pre-University educational institutions:
 
 * 2021-02-21 https://www.dailymail.co.uk/news/article-9282617/British-private-institutions-bought-Chinese-firms.html "The British schools selling out to Beijing: Not only are private institutions being bought by Chinese firms but some are giving communist-approved lessons that are a threat to free speech", gives list of 17 schools bought
+** 2021-03-24 https://www.telegraph.co.uk/education-and-careers/2021/03/24/chinese-buying-private-schools-should-grateful/ "The Chinese are buying into our private schools and we should be grateful" what, lady, are you nuts?
 * 2019-07-10 https://www.thetimes.co.uk/article/chinese-buy-up-more-of-england-s-private-schools-pjr6692bq "Chinese buy up more of England’s private schools", "Chinese investors have secured another foothold in the English private school sector with the £150 million purchase of CATS colleges."
 
 [[confucius-institute]]
@@ -5496,6 +5503,11 @@ This is because you do not understand how important the concept of <<richer,free
 The only thing that would work is if the Chinese government makes a gov-takedown on this repo: <<github-gov-takedowns>>, in which case: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>.
 
 In order to get this repository in gov-takedown, your best bet is to use the <<cac-report-website>>.
+
+admin.github.com hits to cirosantilli.com:
+
+* 2021-05-21
+* 2019-09
 
 .How to report an user on GitHhub.
 image::{china-dictatorship-media-base}/How_to_report_an_user_on_GitHub.png[height=2000]
@@ -11127,7 +11139,7 @@ Just because they are/were funded/founded by the CIA, it doesn't mean that we ca
 === Hong kong media (香港媒体)
 
 [[scmp]]
-==== South China Morning Post (南华早报)
+==== South China Morning Post (SCMP, 南华早报)
 
 * https://en.wikipedia.org/wiki/South_China_Morning_Post
 * https://zh.wikipedia.org/wiki/南華早報
@@ -11258,6 +11270,14 @@ Sample work:
 
 * <<li-wenliang-by-kuang-biao,Li Wenliang with barbed wire mask>>
 * <<trump-twitter-kuang-biao,Trump Twitter ban cartoon>>
+
+==== Harry Harrison
+
+* https://en.wikipedia.org/wiki/Harry_Harrison_(cartoonist)
+
+Cartoonist for <<scmp>>.
+
+A subset of his posts on his column "Harry's view": https://www.scmp.com/photos/harrys-view
 
 ==== Paresh Nath
 
@@ -12953,6 +12973,9 @@ Se also: <<intolerance>>
 .<<badiucao>> cartoon of about 40 of the arrested lawyers. TODO full name list. https://twitter.com/badiucao/status/884005207830544385[Source].
 image::{china-dictatorship-media-base}/709_lawyers.jpg[height=400]
 
+."I need to talk to a human rights lawyer. Well, you've come to the right place." by <<harry-harrison>> (2015), presumably referring to <<the-709-crackdown>>. https://www.facebook.com/scmp/photos/a.10150201552699820/10153429166334820[Source].
+image::{china-dictatorship-media-base}/I_need_to_talk_to_a_human_rights_lawyer.jpg[height=400]
+
 [[picking-quarrels]]
 ==== Picking quarrels and provoking trouble (寻衅滋事罪)
 
@@ -13409,7 +13432,6 @@ This site is only available in Mainland China." The about of the blog leads to a
 * 2019-10-31: https://www.linkedin.com/feed/update/urn:li:activity:6595454363743981568/ (https://web.archive.org/web/20191101094814/https://www.linkedin.com/feed/update/urn:li:activity:6595454363743981568/[archive]) "Good rundown of all the major news from China you don't see. Notice how you don't see anything about the Hong Kong protests anymore?"
 * 2019-10 https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/blob/7131e2c1158a806f41c8f55308977048b02d2959/README-Part2.md Automatically generated list of repos with Chinese characters in their descriptions with the most upvotes per programming language. TODO why is this repo on their README-Part2 only? Has more stars than some stuff on main README. Edit: now in main README: https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/tree/73ef00e9f846dd380769095f08648e5e1a06596f Let's see how long until it gets censored.
 * 2019-10-12: https://hacpai.com/article/1570686552645 Login required, cowards. Post title: "更新 GitHub 官方 Repo 的人，竟然是个反华分子". Manual page dump after my replies with links to this FAQ: https://ia801505.us.archive.org/27/items/cirosantilli/hacpai_1570686552645.html OP then deleted my comments because they don't speak English "HacPai 是个文明的社区，不会发生辱骂的现象，你有你的观点，我们有我们的观点。但抱歉，我们的水平有限，没有阅读英文的能力，还请发送有效回复，否则只能折叠处理". It is some developper website: https://hacpai.com/article/1440573175609 (https://web.archive.org/web/20190811205230/https://hacpai.com/article/1440573175609[archive]) linked to https://github.com/b3log/solo[]. OP then made an useless post here: https://github.com/cirosantilli/china-dictatorship/issues/70 As of 2019-10-12, I can't login there anymore, either because the website is shitty, or I was blocked. GitHub login just fails silently, cannot reset password. If blocked, cowards. This led me to update: <<reply-policy>> with the canned reply.
-* 2019-09: https://admin.github.com Someone from GitHub has been thinking about us. s2 to you.
 * 2019-09-13 https://twitter.com/sang_what/status/1172692888766959619 (https://archive.is/taPpH[archive]) https://t.co/qag5ekL12F link:https://www.linkedin.com/pulse/thoughts-github-going-china-kevin-xu/
 * 2019-06: https://gking.harvard.edu/ interesting. OK, likely due to: https://gking.harvard.edu/category/research-interests/applications/information-control-by-authoritarian-governments but no direct links found though.
 * 2019-05: someone used the FAQ to answer a question: https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/ | https://web.archive.org/web/20190527072431/https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/ "'If I disappear': Chinese students make farewell messages amid crackdowns over labor activism"
@@ -13434,6 +13456,8 @@ Someone subscribed me to a hundred GovDelivery mailing lists. This bullshit is a
 * 2015-08-03: 21 visitor Facebook peak, can't find the source
 * 2015-06-20: (deleted) link:https://www.plurk.com/p/l1jjn4[] Archive: https://web.archive.org/web/20150918110032/https://www.plurk.com/p/l1jjn4 "這阿豆阿的名字XDD" by https://www.plurk.com/m/u/cyuanXD
 * 2015-05-30: <<zhou-fengsuo>> linked to <<ciro-santilli>>'s stack overflow account!!!
+
+admin.github.com hits listed at: <<github-report>>.
 
 [[v2ex]]
 === V2EX (semi-censored forum)
@@ -13949,6 +13973,14 @@ video::DIxbJxNRpX0[youtube,height=400,width=600]
 * https://zh.wikipedia.org/wiki/茶葉蛋
 
 This is good!
+
+[[lamian]]
+=== Lamian (拉面)
+
+* https://en.wikipedia.org/wiki/Lamian
+* https://zh.wikipedia.org/wiki/拉面
+
+Silk road stuff of course.
 
 [[restaurants]]
 == The best Chinese restaurants outside of China 中国以外最好的中国饭店
@@ -14609,6 +14641,28 @@ Exits through: <<shandong>>, south of Beijing.
 === Provinces of China
 
 This is a good province map: http://web.archive.org/web/20170910104718/http://cdn.topchinatravel.com/tct/pic/maps/china-map/china-tourist-map.jpg
+
+[[gansu]]
+==== Gansu Province (甘肃, gan1 su4)
+
+* https://en.wikipedia.org/wiki/Gansu
+* https://zh.wikipedia.org/wiki/甘肃省
+
+Sheepskin rafts (羊皮筏)!!!
+
+* http://lanzhou.china.org.cn/2013-11/27/content_30720242.htm
+* https://youtu.be/OYU6DJWRxc4?t=316 Magical work of nature: Stone forest boosts tourism, revenues in village of Gansu, China (2018) by <<xinhua>>.
++
+This video also makes it clear why the <<yellow-river>> is called "Yellow River", it is from all that yellow desert dust dissolving into the water.
+* https://baike.baidu.com/item/羊皮筏 on <<baidu-baike>>
+
+[[lanzhou]]
+===== Lanzhou (兰州)
+
+* https://en.wikipedia.org/wiki/Lanzhou
+* https://zh.wikipedia.org/wiki/兰州市
+
+Well known for <<lamian>>.
 
 [[guangxi]]
 ==== Guangxi Province (广西省)
