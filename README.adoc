@@ -2731,13 +2731,18 @@ video::wD53MEbLDIE[youtube,height=400,width=600]
 video::hn1VxaMEjRU[youtube,height=400,width=600]
 
 [[hitler-has-only-got-one-ball]]
-==== Hitler Has Only Got One Ball (希特勒只有一个蛋)
+==== Hitler Has Only Got One Ball (希特勒只有一个蛋, 1939)
 
 We have to make a <<xi-jinping>> version of this!!!
 
 * https://en.wikipedia.org/wiki/Hitler_Has_Only_Got_One_Ball[Hitler Has Only Got One Ball]
 ** https://zh.wikipedia.org/wiki/希特勒只有一个蛋[希特勒只有一个蛋]
 * https://en.wikipedia.org/wiki/Possible_monorchism_of_Adolf_Hitler[Possible monorchism of Adolf Hitler]
+
+There's even an https://en.uncyclopedia.co/wiki/Hitler_Has_Only_Got_One_Ball[Uncencyclopedia page for it].
+
+.http://bodylanguageproject.com/xarticles/wp-content/uploads/2019/07/Hitler-8.jpg[Left source], https://en.uncyclopedia.co/wiki/Hitler_Has_Only_Got_One_Ball[right source].
+image::{china-dictatorship-media-base}/Hitler_has_only_got_one_ball.jpg[height=400]
 
 .https://www.youtube.com/watch?v=w1tF-Yrwe3U A version of the "Hitler Has Only Got One Ball" song.
 video::w1tF-Yrwe3U[youtube,height=400,width=600]
@@ -13412,6 +13417,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2021-05-23 LinkedIn profile view from https://www.linkedin.com/company/circussocial/ Circus Social https://www.circussocial.com/[]. Some of their China stuff: https://www.circussocial.com/blog/tag/china-social-media/
 * 2021-05-17 https://ilns.isec.oa.com/command-manage/command-analysis/2073645[]. Remember that <<oa-com>> belong to <<tencent>>.
 * 2021-05-07 https://twitter.com/dingyi/status/1390861129191071754 (https://archive.ph/fS1TF[archive]) link to github.com/china-dictatorship commenting "Github 竟然还有这种项目。。。" (I'm surprised that there's still this kind of project on GitHub). Account had 150k followers at the time. What do they do to have so many followers? As of 2021-05-14, three days later after Ciro replied on 2021-05-11, the account had been made protected: https://archive.ph/davkj This is the <<chilling-effect>>, self-<<censorship,censor>> or perish. It was later un-protected. https://newsletter.dex.group/about/ says their DEX is a sort of online magazine. GitHub profile: https://github.com/dingyi
 * 2021-04-16 https://manti.netease.com/ from <<netease>> to https://cirosantilli.com/china-dictatorship can't find any information on it.
