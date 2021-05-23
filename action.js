@@ -66,7 +66,7 @@ const newLabels = new Set();
 const shabiWords = [
   'shabi',
   'shadiao',
-  '傻逼',
+  '傻',
   '沙雕',
   '智障',
 ];
@@ -79,6 +79,7 @@ for (const word of shabiWords) {
 const fuckMotherWords = [
   'cnm',
   '操你妈',
+  'fuck.*\\b(mom|mum|mother)\\b',
 ]
 for (const word of fuckMotherWords) {
   if (new RegExp(word, 'i').test(titleAndBody)) {
