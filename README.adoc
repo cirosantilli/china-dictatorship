@@ -34,7 +34,7 @@ This README is too large and so https://github.com/isaacs/github/issues/1610[Git
 
 or by downloading it locally as shown at: <<mirrors>>.
 
-**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead, preferably from behind VPN/Tor/<<shadowsocks>>.**. 你不是一个人。将来是今天的五毛必须隐藏，而不是你。You are not alone. In the fiture, it is the wumaos who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
+**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead, preferably from behind VPN/Tor/<<shadowsocks>>.** 你不是一个人。将来是今天的五毛必须隐藏，而不是你。You are not alone. In the fiture, it is the wumaos who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
 
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China_photo.jpg[height=600]
 
@@ -2049,6 +2049,11 @@ Also ask the millions of people who were affected by <<tiananmen>>, <<falun-gong
 
 One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy Few" (2018)], which which people are forced to be happy. <<nineteen-eighty-four>> also comes to mind of course.
 
+The interesting thing, is that even those pro-CCP are much more likely to stay anonymous because:
+
+* you never know when something you said will become a sin against some new trend of the dictatorship
+* when the dictatorship inevitably falls, you would be persecuted by the victorious freedom fighters
+
 .Westerner: "How is life in China?" Chinese: "Oh, we can't complain." Westerner: "That's awesome." Chinese: "No, seriously... we can't." is a word play between the more common "we can't complain because everything is great" and "we can't complain because <<xi-jinping,Xi>> will <<censorship,make us disappear>>". https://www.taiwannews.com.tw/en/news/3933168[Source]
 image::{china-dictatorship-media-base}/We_cant_complain.jpg[height=600]
 
@@ -2068,7 +2073,13 @@ video::zndzntIDLFE[youtube,height=400,width=600]
 * https://en.wikipedia.org/wiki/Chilling_effect
 * https://zh.wikipedia.org/wiki/寒蟬效應_(法律)
 
-It is really interesting to see how many people star the <<mirrors,GitHub repository>>, and then a few minutes later they think about how they might get put in jail, and then unstar it. <<ciro-santilli>> is able to see this because the star notification remains in the GitHub dashboard even after unstarring. This is very rare in his other repositories.
+It is really interesting to see how many people star the <<mirrors,GitHub repository>>, and then a few minutes later they think about how they might get put in jail, and then unstar it.
+
+<<ciro-santilli>> is able to see this because the star notification remains in the GitHub dashboard even after unstarring. It does not seem to be publicly visible permanently unlike other events which forever remain on the events API.
+
+unstarring events are exceedingly rare in Ciro's other repositories.
+
+The expression https://www.quora.com/What-does-the-expression-two-steps-forward-one-step-back-mean[two steps forward, one step back] comes to mind.
 
 [[my-paranoia-as-a-russian-youtuber]]
 .https://www.youtube.com/watch?v=_-hCdbsyWw0 "my paranoia as a Russian YouTuber" by <<nfkrz>> (2020) talks about the <<chilling-effect>>
@@ -4806,6 +4817,9 @@ See also:
 
 Western:
 
+* 2021-05-25 https://en.wikipedia.org/wiki/John_Cena[] for <<one-china-policy>>
+** https://www.theguardian.com/world/2021/may/26/john-cena-very-sorry-for-saying-taiwan-is-a-country about
+** https://twitter.com/tony_zy/status/1397188279322173442 Apology video with English subtitles. YouTube reupload: https://www.youtube.com/watch?v=pqjOrsMupgg
 * <<lebron-james-opposes-hong-kong-anti-extradition-bill-protests-2019>>
 
 Chinese who are famous in the West:
@@ -6707,13 +6721,17 @@ image::{china-dictatorship-media-base}/Nikolai_Yezhov_Stalin_canal_edit.webp[hei
 .Above: a meeting of the St. Petersburg chapter of the Union of Struggle for the Liberation of the Working Class in February 1897, including Lenin and Alexander Malchenko. https://en.wikipedia.org/wiki/File:Union-de-Lucha.jpg[Source]. Belos: same as above, but with Alexander Malchenko edited out. link:++https://en.wikipedia.org/wiki/File:St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg++[Source].
 image::{china-dictatorship-media-base}/Malchenko_no_Malchenko.jpg[height=1000]
 
-===== Soviet Union radio jamming stations
+==== Soviet Union radio jamming stations
 
 https://en.wikipedia.org/wiki/Radio_in_the_Soviet_Union#Radio_jamming
 
 Ah, the good old days <<gfw,before the TCP/IP>>, when you could just jam around a border ;-)
 
 http://www.antentop.org/008/files/jamm008.pdf has good pics.
+
+==== Soviet Union propaganda
+
+* https://www.youtube.com/watch?v=VrHLOGMT_kM Animated Soviet Propaganda American Imperialist The Millionaire COLD WAR CARTOON. Tells the story of a dog that inherited a lot of money from his deceased rich owner.
 
 ==== Agitprop
 
@@ -7067,6 +7085,10 @@ video::IAQ14AnAsmU[youtube,height=400,width=600]
 [[christine-marie]]
 .https://www.youtube.com/watch?v=GwoO7Nekmpw&t=445 Christine Marie, founder of http://voicesfordignity.com/[Voices for Dignity] which takes care of https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints[FLDS] leaves, was interviewed in VICE documentary "Polygamist Mafia: Escaping The Kingston Clan". While Ciro does not believe Falun Gong is as extreme as FLDS, he does really like the things Christine says. E.g., she calls "cult leaders" with the neutral <<flg-religion,religious>> form "<<li-hongzhi,prophet>>", just like Ciro, and mentions the important fact that "And the another thing that the public doesn't realise, is that there are also beautiful thing within those communities". This is the mindset of <<intolerance,tolerance>> that the world needs.
 video::GwoO7Nekmpw[youtube,height=400,width=600,start=445]
+
+Less good ones:
+
+* https://www.youtube.com/watch?v=_eiut_qUNBI In Search of Miracle Man by Adult Swim
 
 [[flg-important]]
 === Why is it important to talk about Falun Gong?
@@ -10470,6 +10492,11 @@ Some archived deleted threads:
 
 The page of the film is still up 2021-04-27 https://baike.baidu.com/item/无依之地/50656178 (https://web.archive.org/web/20210413021635/https://baike.baidu.com/item/无依之地/50656178[archive]).
 
+Some coverage:
+
+* Chinese
+** https://www.dw.com/zh/赵婷如何短短数日从骄傲变辱华/a-56793491 on <<dw>>
+
 .<<chloe-zhao>> holding the 2021 Oscars for best director and best film. The fact that she won was censored in China because she made one single negative comment about the CCP in 2013.
 image::{china-dictatorship-media-base}/Chloe_Zhao_won_93rd_Oscar.jpg[height=500]
 
@@ -11078,7 +11105,19 @@ video::MCxzMYVvHBg[youtube,height=400,width=600,start=227]
 [[jamestown-foundation]]
 ===== Jamestown Foundation (USA government media)
 
-https://en.wikipedia.org/wiki/Jamestown_Foundation
+* https://en.wikipedia.org/wiki/Deutsche_Welle
+
+[[bbc]]
+===== BBC (英国广播公司, British government media)
+
+* https://en.wikipedia.org/wiki/BBC
+* https://zh.wikipedia.org/wiki/英国广播公司
+
+[[dw]]
+===== Deutsche Welle (DW, 德国之声, German government media)
+
+* https://en.wikipedia.org/wiki/Deutsche_Welle
+* https://zh.wikipedia.org/wiki/德国之声
 
 ==== Anti-CCP media
 
@@ -11735,6 +11774,8 @@ image::{china-dictatorship-media-base}/Falun_Gong_road_roller_book_destruction.j
 .Side-by-side comparison between <<nazi,Nazi>> book burning, and <<falun-gong>> book destruction with the simplified Heinrich Heine quote: "Where they burn books, they will also burn people".
 image::{china-dictatorship-media-base}/Nazi_book_burning_vs_Falun_Gong_book_destruction.jpg[height=500]
 
+.https://www.youtube.com/watch?v=kHCmiWaHUCw The Burning of the Books 10 May 1933 by British Pathé. Shows some good footage of book being burnt at night, followed by a Goebles speech at the same site. TODO subtitles, YouTube's auto-generation and translation is reasonable.
+video::kHCmiWaHUCw[youtube,height=400,width=600]
 
 ==== China has more freedom of speech than the USA!
 
@@ -12591,6 +12632,9 @@ Discussion/lists: <<quora>>:
 <<reddit>> threads:
 
 * https://www.reddit.com/r/China/comments/lgkp8t/british_youtubers_paid_by_the_cpp/ about Jason Lightfoot
+
+.Elbow-to-elbow against the common enemy! French division of the Waffen SS (Coude a coude contre l'ennemi commun! Division française de la Waffen SS) 1942 propaganda poster for the French SS division, formally known as https://en.wikipedia.org/wiki/33rd_Waffen_Grenadier_Division_of_the_SS_Charlemagne[33rd Waffen Grenadier Division of the SS Charlemagne]. Mentioned at: https://www.youtube.com/watch?v=UJpWB5hi3hQ French SS - Berlin 1945 by Mark Felton Productions (2020). https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/coude-a-coude-contre-l-ennemi-commun-division-francaise-de-la-waffen-ss#infos-principales[Source].
+image::{china-dictatorship-media-base}/French_Nazi_SS_poster_1942.jpg[height=400]
 
 [[nathan-rich]]
 ====== Nathan Rich (Hotpot King, 火锅大王)
