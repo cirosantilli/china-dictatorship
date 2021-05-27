@@ -2,7 +2,7 @@
 
 Forbidden:
 
--   at mention @cirosantilli (or other unsubscribed users) unless there is moderation need.
+-   don't at mention @cirosantilli (or other unsubscribed users) unless there is moderation need.
 
     If Ciro unsubscribed from a thread, it means that he does not want to reply there anymore.
 
@@ -10,15 +10,9 @@ Forbidden:
 
 -   don't close your tickets, only @cirosantilli can decide open/close status.
 
-    Don't vandalize your titles and post bodies after posting, only @cirosantilli can do that. Remember that every new issue generates a useless notification to Ciro Santilli who watches the repo, so don't try to hide your shit after you've crapped it.
+    Don't vandalize your titles and post bodies after posting, only @cirosantilli can do that.
 
--   [Evil West](https://cirosantilli.com/china-dictatorship#evil-west) posts are OK, but they *must* explain why you think a dictatorship would better solve the problem.
-
-    Further rationale at: https://cirosantilli.com/china-dictatorship#bias
-
--   generate lots of notifications that don't teach people anything new.
-
-    Notably, Ciro will follow this repository at all times, and therefore creating new issues mean generating a notification to Ciro.
+-   don't create more than one boring shitpost issues
 
     If you want to create one shitpost, even if boring and stupid to vent your rage, fine, Ciro doesn't have any problem with that and is happy to help.
 
@@ -37,6 +31,10 @@ Forbidden:
     Remember, you are threading dangerous waters, it is "one Ciro against one million wumaos", and so Ciro doesn't even blink anymore when a block might apply.
 
     But as long as you follow our [shitiquette](https://en.wikipedia.org/wiki/Etiquette), you should be fine.
+
+-   [Evil West](https://cirosantilli.com/china-dictatorship#evil-west) posts are OK, but they *must* explain why you think a dictatorship would better solve the problem.
+
+    Further rationale at: https://cirosantilli.com/china-dictatorship#bias
 
 -   swearing/being very aggressive on a [`not-shitpost`](https://cirosantilli.com/china-dictatorship#shitpost) post.
 
