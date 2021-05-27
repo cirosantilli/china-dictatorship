@@ -6721,13 +6721,17 @@ image::{china-dictatorship-media-base}/Nikolai_Yezhov_Stalin_canal_edit.webp[hei
 .Above: a meeting of the St. Petersburg chapter of the Union of Struggle for the Liberation of the Working Class in February 1897, including Lenin and Alexander Malchenko. https://en.wikipedia.org/wiki/File:Union-de-Lucha.jpg[Source]. Belos: same as above, but with Alexander Malchenko edited out. link:++https://en.wikipedia.org/wiki/File:St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg++[Source].
 image::{china-dictatorship-media-base}/Malchenko_no_Malchenko.jpg[height=1000]
 
-==== Soviet Union radio jamming stations
+[[soviet-radio-jamming]]
+==== Soviet Union radio stations (苏联苏联无线电干扰)
 
 https://en.wikipedia.org/wiki/Radio_in_the_Soviet_Union#Radio_jamming
 
 Ah, the good old days <<gfw,before the TCP/IP>>, when you could just jam around a border ;-)
 
-http://www.antentop.org/008/files/jamm008.pdf has good pics.
+http://www.antentop.org/008/files/jamm008.pdf has good images.
+
+.Soviet vertical curtain array of antennas for radio jamming in the 1960s vs Jingjing from <<jingjing-chacha>>. http://www.antentop.org/008/files/jamm008.pdf[Source].
+image::{china-dictatorship-media-base}/Soviet_radio_jamming_vs_Jingjing.jpg[height=400]
 
 ==== Soviet Union propaganda
 
