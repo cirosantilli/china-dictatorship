@@ -390,6 +390,7 @@ Mentioned in other sections:
 ** https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md
 ** https://github.com/CNwoman-bot/evil-man
 * https://github.com/fuckcqcs/fuckcqcs at <<changsheng-bio-technology-vaccine-data-falsification-incident-2018>>
+* <<xi-jinping-speech-synthesizer>>
 
 Not mentioned in other sections:
 
@@ -409,8 +410,6 @@ Not mentioned in other sections:
 ** https://github.com/ejiaogl/FuckCoolapk/wiki/Background-information "316"事件 (316 event)
 ** https://www.zhihu.com/question/20658510
 * https://github.com/xi-yu-yan-kai-fa/Xi-Yuyan/tree/f8364a8b8f1d783e4fa32de548bec46069407c1b 习语言 esoteric programming language that mimics <<xi-jinping>> jargon natural language. Appears to be specification only, no implementation provided.
-** on <<gov-takedowns-china>>: https://github.com/github/gov-takedowns/blob/master/China/2021/2021-01-29-BNIA.md
-* https://github.com/for-memory/xi-speech-synthesizer voice synthesizer meant to replicate Xi Jinping's speaking, mentions it is similar to https://trumped.com/ and https://rogeraabbccdd.github.io/Fadacai-Generator/#/
 ** on <<gov-takedowns-china>>: https://github.com/github/gov-takedowns/blob/master/China/2021/2021-01-29-BNIA.md
 
 Interesting users:
@@ -567,7 +566,16 @@ Ciro noticed that thoe repos attracted an incredible ammount of <<wumao>> on the
 
 https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665 "为什么这个屎一样的东西会出现在我个人主页左侧的repositories中，那里不是应该只有自己的项目才会出现吗？有办法屏蔽它吗？还是github故意的？" explains why so many people come comment in the repository: it is because it appears on the "Explore repositories" repository suggestions which show on the side bar of your GitHub homepage, and on searches. This was also mentioned at: https://github.com/cirosantilli/china-dictatorship/issues/201 originally titled " 一搜索中文就跑出这屌鬼玩意，爱玩政治去竞选总统啊，笨，死扑街". Ciro feels that that Chinese people might use GitHub search much more than Western people because their search engines are shit due to <<censorship>>, <<censorship-makes-countries-poorer>> comes vibrantly to mind.
 
-After further inspection, taught understood that repository descriptions given to GitHub can be really huge for SEO: they had pasted the entire 21st century text there. So Ciro attempted the same approach, and pasted all of link:21century.md[], link:wang-huning-three-dynasties.adoc[] and link:fifth-modernization.md[] in there on 2021-03-23, and the effect was dramatic: an immediate 4x more views on the following day according to https://github.com/cirosantilli/china-dictatorship/graphs/traffic[] (40 unique visitors to 100 on a Wednesday), and a few wumao comments. And a wumao soon confirmed that it was working directly: https://github.com/cirosantilli/china-dictatorship/issues/201[]. This can be automated with: link:description.sh[].
+After further inspection, taught understood that repository descriptions given to GitHub can be really huge for SEO: they had pasted the entire 21st century text there.
+
+So Ciro attempted the same approach, and pasted all of link:21century.md[], link:wang-huning-three-dynasties.adoc[] and link:fifth-modernization.md[] in there on 2021-03-23, and the effect was dramatic: an immediate 4x more views on the following day according to https://github.com/cirosantilli/china-dictatorship/graphs/traffic[] (40 unique visitors to 100 on a Wednesday), and a few wumao comments. And a wumao soon confirmed that it was working directly: https://github.com/cirosantilli/china-dictatorship/issues/201[].
+
+Ciro believes that this is due to two reasons:
+
+* there aren't so many good Chinese repositories to compete with
+* perhaps more importantly, Chinese language does not have spaces, which makes implementing search for it more difficult, because if you hit all the characters, even if they are not part of the search words, it also gets counted as a hit
+
+This can be automated with: link:description.sh[].
 
 Further optimizations:
 
@@ -575,6 +583,7 @@ Further optimizations:
 +
 ....
 #!/usr/bin/env bash
+printf '习近平音源'
 printf '黑马程序员MySQL数据库'
 printf '玉米杂草数据集'
 printf '销售系统开发'
@@ -2862,6 +2871,13 @@ GitHub issue label: https://github.com/cirosantilli/china-dictatorship/issues?q=
 .A https://en.wikipedia.org/wiki/Vagina[Vagina] (https://zh.wikipedia.org/wiki/阴道[阴道]) also known as cunt (屄), is the female reproductive organ, including the naturally occurring black hole that appears in front of it whenever a picture is taken to prevent <<github>> from taking down this page. Even though <<porn,you've never seen one>>, there's no need to be afraid of it, and refer to it in euphemisms like "SB". https://en.wikipedia.org/wiki/File:Rugae_vaginales.jpg[Background source] and https://commons.wikimedia.org/wiki/File:Black_Hole_Milkyway.jpg[black hole source].
 image::{china-dictatorship-media-base}/Rugae_vaginales_with_black_hole.jpg[height=400]
 
+[[ruhua]]
+====== Ruhua (辱华, 乳华)
+
+* https://zhuanlan.zhihu.com/p/75717383 天天辱华，辱华的到底是谁？ on <<zhihu>>
+* https://www.dw.com/zh/一系列国际大牌纷纷陷入辱华风波/a-49994530 on <<dw>>
+* https://www.bbc.com/zhongwen/simp/chinese-news-46314935 on <<bbc>>
+
 [[shina]]
 ====== Shina (zhina, 支那)
 
@@ -3514,6 +3530,22 @@ News:
 [[trump-twitter-kuang-biao]]
 .Cartoon showing Donald Trump's mouth sewn shut in a "Twitter" shape by <<kuang-biao>> (2021) after Trump was <<unjust-social-media-censorship-in-the-west,banned from Twitter>>. You know it's bad when the artists who normally criticize the <<ccp,CCP>> start to criticize you. https://xueqiu.com/9870976009/168210673[Source].
 image::{china-dictatorship-media-base}/Flag_of_the_Republic_of_China.svg[height=400]
+
+===== YouTube
+
+Many western Pro CCP accounts: <<ccp-apologists>>.
+
+[[winnie-the-pool]]
+====== Winnie the Pool (乳透社·小池塘,XJP音源,习近平音源)
+
+https://www.youtube.com/channel/UCjGMgaDmTJtyWl4QCbHJlig 乳透社·小池塘Winnie the Pool. Basically a bunch of anti-Xi Jinping YouTube poop in Chinese.
+
+* https://twitter.com/Ruters0615
+* https://www.youtube.com/channel/UCr9pkYrfp6QumE11R9A9gqQ 乳透社·小反旗 sister channel
+
+Many of their videos use their <<xi-jinping-speech-synthesizer>> system called XJP音源(习近平音源). It is mentioned in the description of videos e.g. 
+
+* https://twitter.com/ruters0615/status/1227823202522427392 gives some voice synthesis methods used
 
 ===== Tumblr
 
@@ -9012,7 +9044,7 @@ https://www.thefamouspeople.com/profiles/xi-mingze-16091.php says birthday June 
 https://answersafrica.com/meet-xi-mingze-xi-jinpings-daughter-is-she-married-where-is-she-now.html gives some public appearances, e.g. in New York in 2018.
 
 [[xi-jinping-memes]]
-==== Xi Jinping memes 习近平模因
+==== Xi Jinping memes (习近平模因)
 
 Master issue: https://github.com/cirosantilli/china-dictatorship/issues/231
 
@@ -9040,6 +9072,7 @@ image::{china-dictatorship-media-base}/Xi_Jiang_Hu.jpg[height=400]
 [[xi-jinping-lookalikes]]
 ===== Xi Jinping lookalikes (习近平撞脸)
 
+[[xi-jinping-bdsm-cosplay]]
 .2019-05-21 https://en.wikipedia.org/wiki/Sadomasochism[Sadomasochist] (https://zh.wikipedia.org/wiki/虐戀_(性學)[虐恋]) https://en.wikipedia.org/wiki/BDSM[BDSM] (https://zh.wikipedia.org/wiki/BDSM[zh], SM) <<xi-jinping>> lookalike or photoshop in https://en.wikipedia.org/wiki/Bondage_suit[bondage suit] (gimp suit, fetish gear) at a cosplay fair. TODO: is this a Photoshop and if yes what's the original pic, publish dates, location/event. <<ciro-santilli>> googled a lot for it, but it was beyond his skills :-( Earliest post found so far: 2019-05-21 08:49:20 GMT+1 (Imgur timestamp) going wild on <<ptt>>: https://www.ptt.cc/bbs/joke/M.1558454171.A.5C9.html[] entitled "這位coser是誰啊？好眼熟。" (Who is this Cosplayer? He looks familiar.) by user "a15568". Watermark reads "I am Dasen 郭", where "郭" is https://en.wikipedia.org/wiki/Guo[a common Chinese surname]. Notable discussion threads: https://www.reddit.com/r/China/comments/ckgs5l/xi_jinping_took_to_the_streets_to_demonstrate_his/[r/China 2019-08-01], https://www.reddit.com/r/China/comments/ke4hde/nice_pic_i_found/[r/China 2020-12-16], https://www.reddit.com/r/HongKong/comments/ckjf65/gee_i_am_sure_chairman_xi_will_really_appreciate/[2019-08-01]
 image::{china-dictatorship-media-base}/Xi_sadomasochist.jpg[height=500]
 
@@ -9054,6 +9087,24 @@ Less good ones:
 
 * 2014-06-23 https://www.bbc.co.uk/news/av/world-asia-27926747/meet-the-chinese-presidential-pancake-seller "Shao Jianhua" TODO Chinese name, name of dish he sells. Too young and not fat enough.
 * https://youtu.be/8221d7F8Uzc?t=145 in video from Stuart Wiggin, see also: <<ccp-apologists>>
+
+[[xi-jinping-porn]]
+===== Xi Jinping porn (习近平色情)
+
+TODO <<ciro-santilli>> is very interested in finding this!
+
+* good Photoshops:
+** <<xi-jinping-bdsm-cosplay,Xi Jinping BDSM at cosplay fair>>
+** https://knowyourmeme.com/photos/1613570-xi-jinping Xi Jinping GIF photoshop tearing his shirt off AKA "Who you calling <<winnie-the-pooh,winnie>>"
+* bad Photoshops:
+** https://youtu.be/mX5HQOYk3go?t=45 bad Photoshop of adding a Xi Jinping face to a BDSM porn actor. TODO find image
+** https://www.nicovideo.jp/watch/sm38084556
+** https://club.6parkbbs.com/bolun/index.php?app=forum&act=threadview&tid=15759443
+* Hentai
+** 2016 https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/xl2-02112016111224.html 日本漫画家报复中国不尊重版权疑似毛泽东习近平成色情主角 (Japanese cartoonist revenges China for disrespect of copyright, suspected of Mao Zedong and Xi Jinping as pornographic protagonist) by <<rfa>>. Appears to be by artist Rin Sanada (https://zh.wikipedia.org/wiki/真田鈴[真田鈴]) Part of the idea is that to prevent copyright infrigement, you just use something that will be forbidden in China anyways!
+*** TODO how to access it in full? Work name?
+*** https://disp.cc/b/163-9f5E screenshot used on <<ptt>>
+*** https://www.mohu.rocks/question/id-6851__sort_key-agree_count__sort-ASC screenshot used in a <<mohu>> thread
 
 [[winnie-the-pooh]]
 ===== Xi Jinping looks like Winnie-the-Pooh (习近平长得像小熊维尼, 2017)
@@ -9290,6 +9341,17 @@ video::MilRo8zZM8A[youtube,height=400,width=600]
 
 * https://en.wikipedia.org/wiki/American_Dream
 * https://zh.wikipedia.org/wiki/美国梦
+
+[[xi-jinping-speech-synthesizer]]
+==== Xi Jinping speech synthesizer (习近平讲话模拟器)
+
+* XJP音源(习近平音源) from <<winnie-the-pool>>
+* https://www.reddit.com/r/China_irl/comments/i4eodw/我做了个习近平讲话模拟器输入一段文字可以合成习近平语音欢迎前来游玩/ from 2020-08 announced https://dnmkrgi.github.io/xi-speech-demo/ now down but presumably at https://github.com/for-memory/xi-speech-demo
+* https://github.com/for-memory/xi-speech-synthesizer voice synthesizer meant to replicate Xi Jinping's speaking, mentions it is similar to https://trumped.com/ and https://rogeraabbccdd.github.io/Fadacai-Generator/#/
+** on <<gov-takedowns-china>>: https://github.com/github/gov-takedowns/blob/master/China/2021/2021-01-29-BNIA.md
+** this was likely taken down due to videos like this:
+*** https://www.youtube.com/watch?v=cVibUOFQhRw
+** https://www.reddit.com/r/China_irl/comments/i4eodw/我做了个习近平讲话模拟器输入一段文字可以合成习近平语音欢迎前来游玩/
 
 [[hu-jintao]]
 === Hu Jintao (胡锦涛, 2002-2012)
