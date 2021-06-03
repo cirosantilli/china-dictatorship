@@ -583,6 +583,7 @@ Further optimizations:
 +
 ....
 #!/usr/bin/env bash
+printf '习近平讲话模拟器'
 printf '习近平音源'
 printf '黑马程序员MySQL数据库'
 printf '玉米杂草数据集'
@@ -3032,10 +3033,14 @@ image::{china-dictatorship-media-base}/Sweet_brown_chinese_characters_meme.jpg[h
 .Translation of the above by <<ciro-santilli>>: "You are immoral and uneducated", "Chinese masses", "so you're unsuited for democracy".
 image::{china-dictatorship-media-base}/Sweet_brown_chinese_characters_meme_zh.jpg[height=500]
 
-////
+.https://www.youtube.com/watch?v=JZcui85b4EE RARE Japanese Toshiba Typewriter. Types in Japanese, Chinese + English. Toshiba Typewriter Model BW-2112.
+video::JZcui85b4EE[youtube,height=400,width=600]
+
+.Commercial for IBM's Selectric Typewriter 1960's Contrast with the above.
+video::vNUEUth7qjc[youtube,height=400,width=600]
+
 .https://www.youtube.com/watch?v=t_cbW5JK9WM "The most complex Chinese character" by Vladimir Skultety does a reasonable analysis of which Chinese character is the most complex
 video::t_cbW5JK9WM[youtube,height=400,width=600]
-////
 
 [[seal]]
 ====== Seal (印章)
@@ -3546,6 +3551,8 @@ https://www.youtube.com/channel/UCjGMgaDmTJtyWl4QCbHJlig 乳透社·小池塘Win
 Many of their videos use their <<xi-jinping-speech-synthesizer>> system called XJP音源(习近平音源). It is mentioned in the description of videos e.g. 
 
 * https://twitter.com/ruters0615/status/1227823202522427392 gives some voice synthesis methods used
+
+GitHub reupload: https://github.com/cirosantilli/xijinping-yinyuan
 
 ===== Tumblr
 
@@ -5404,7 +5411,6 @@ ____
 and planned answer:
 
 ____
-
 **Any images that can be used on a profile picture should also usable as a placeholder**
 
 When you answer a question, you should have a very wide choice of what to use as a placeholder.
@@ -5449,6 +5455,106 @@ image::{china-dictatorship-media-base}/Tank_Man_drawing_censored_by_Ciro_Santill
 video::uY-u1qyRM5w[youtube,width=600,height=400,start=1343]
 
 https://i.stack.imgur.com/p9Tv9.png
+
+===== Stack Overflow forbids Nazi imagery but allows anti-CCP imagery (2021)
+
+This once again highlights the hypocrisy of many people in the West: we decide who is good and who is evil. The CCP is now evil, so you can criticize it, even if it shocks Chinese people. Ah, Nazism shocks us, even though it is an event from the past, so that you can't do. You can only shock the Chinese people, not us.
+
+On 2021-05-29 <<ciro-santilli>> added almost all images from this page to his Stack Overflow account as shown at: https://archive.ph/nZLgI
+
+On 2021-05-29 <<ciro-santilli>> was suspended from Meta Stack Exchange for 7 days as shown at https://web.archive.org/web/20210529081019/https://meta.stackexchange.com/users/200117/ciro-santilli%e6%96%b0%e7%96%86%e6%a3%89%e8%8a%b1trump-ban-bad received the following message from moderators:
+
+____
+Hello,
+
+We're writing in reference to your Meta Stack Exchange account:
+
+https://meta.stackexchange.com/users/200117/ciro-santilli%e6%96%b0%e7%96%86%e6%a3%89%e8%8a%b1trump-ban-bad
+
+We note that you were previously contacted for part of your profile being offensive. It has been brought to our attention that a significant part of your profile is filled with shock pictures, nazi imagery and similar images.
+
+We'd note that people do use this site at work, and while users have some freedom over the content of their profile, there are fairly obvious lines that shouldn't be crossed.
+
+We do not recommend that you restore the content we removed - specifically the images without checking back with us.
+
+We have temporarily suspended your account; you may return after 7 days.
+
+Regards,
+Meta Stack Exchange Moderation Team
+____
+
+As can be publicly seen at https://web.archive.org/web/20210506210320/https://stackexchange.com/about/moderators the list of moderators of that website at the time was:
+
+* https://meta.stackexchange.com/users/59303/chrisf[ChrisF] from the United Kingdom
+* https://meta.stackexchange.com/users/135565/journeyman-geek[Journeyman Geek] who previously also showed up at: <<stack-overflow-forbids-criticizing-the-character-of-genocidal-political-leaders-like-xi-jinping>>
+* https://meta.stackexchange.com/users/369802/tinkeringbell[Tinkeringbell] from the Netherlands
+
+Ciro replied:
+
+____
+Hello,
+
+Could you clarify if the following types of images are OK or not:
+
+- people imprisoned in Xinjiang concentration camps
+- Tiananmen square protests
+- making fun of Xi Jinping
+- Falun Gong persecution
+
+supposing that they show no explicit gore or violence?
+
+All the above are considered highly shocking to many Chinese people, due in part to their strict censorship rules, and not suitable for the workplace in China.
+
+I have been using such images for many years to criticize what I believe are terrible events in China, and the decision so far has been that I was allowed to use them.
+
+The intent of the Nazi images is clearly to compare both regimes to criticize the Chinese Government, which I believe is following the same path as the Nazis (e.g. Concentration Camps in Xinjiang, no freedom of speech, etc.), to help prevent such abuses from happening again in the future.
+
+I just want to clearly understand the rationale of of why anti-CCP images are OK, but anti-Nazi ones aren't, so I can follow your rules correctly and save everyone's time in the future by correctly deciding which images are OK or not.
+
+Cheers.
+____
+
+On their next reply, they tried to dodge a directly reply, but suggested that anti-CCP imagery is forbidden:
+
+____
+> Could you clarify if the following types of images are OK or not:
+
+Its not the 'topic' but rather the content.
+
+> All the above are considered highly shocking to many Chinese people, due in part to their strict censorship rules, and not suitable for the workplace in China.
+
+Well if your intent is to shock - don't. These are your words, not ours - and hopefully reflects a better understanding of what's not acceptable.
+
+> I just want to clearly understand the rationale of of why anti-CCP images are OK, but anti-Nazi ones aren't, so I can follow your rules correctly and save everyone's time in the future by correctly deciding which images are OK or not.
+
+We never said that. We gave specific examples of objectionable content. If you realise something isn't suitable - that it is something shocking, and not suitable for the workplace, as you seem to realise, it shouldn't be on your profile.
+
+In short, we believe you have a very clear idea, from your own response, of what's not acceptable, and we hope you exercise better judgement in this regard in future.
+____
+
+Ciro's Reply:
+
+____
+> We never said that. We gave specific examples of objectionable content. If you realise something isn't suitable - that it is something shocking, and not suitable for the workplace, as you seem to realise, it shouldn't be on your profile.
+
+My intent is to convey extremely important information, not to shock.
+
+However, in dictatorships like China, extremely important information is forbidden for unfair reasons, and therefore shocking.
+
+> We never said that. We gave specific examples of objectionable content. If you realise something isn't suitable - that it is something shocking, and not suitable for the workplace, as you seem to realise, it shouldn't be on your profile.
+
+You forbade any Nazi imagery clearly, including to criticize the Nazis, so that is clear and I will never again add Nazi imagery.
+
+All anti-CCP content is extremely shocking to many Chinese people (but not others). And it is not suitable for the workplace for anyone there, that is unquestionable.
+
+Therefore, from your reply, I understand that anti-CCP content is not allowed because it is not suitable for the workplace in China, as it is shocking.
+
+Is this understand correct? Can you please confirm very clearly and directly: do you forbid all anti-CCP imagery or not? And if it is just a partial ban, what is allowed and what is not more precisely?
+
+My understanding from top answers at: https://meta.stackoverflow.com/questions/349131/users-political-display-name-triggering-government-action-against-users-who-vie is that such criticism of the CCP is allowed on the website, even though it is clearly not suitable for the workplace in China.
+
+Sorry to ask this further, but I need a clearer guideline so I can follow it.
+____
 
 ===== Other openly dissident users on Stack Overflow
 
@@ -5561,6 +5667,10 @@ admin.github.com hits to cirosantilli.com:
 
 * 2021-05-21
 * 2019-09
+
+admin.github.com hits to GitHub repository:
+
+* 2021-05-30 6 from 1 user
 
 .How to report an user on GitHhub.
 image::{china-dictatorship-media-base}/How_to_report_an_user_on_GitHub.png[height=2000]
@@ -9353,6 +9463,12 @@ video::MilRo8zZM8A[youtube,height=400,width=600]
 *** https://www.youtube.com/watch?v=cVibUOFQhRw
 ** https://www.reddit.com/r/China_irl/comments/i4eodw/我做了个习近平讲话模拟器输入一段文字可以合成习近平语音欢迎前来游玩/
 
+[[xi-jinping-deepfakes]]
+==== Xi Jinping deepfakes (习近平deepfakes)
+
+.https://www.youtube.com/watch?v=diec9Cdsvg0 Xi Jinping singing https://en.wikipedia.org/wiki/Y.M.C.A._(song)[YMCA] with a wide range of cute expressions.
+video::diec9Cdsvg0[youtube,height=400,width=600]
+
 [[hu-jintao]]
 === Hu Jintao (胡锦涛, 2002-2012)
 
@@ -10495,11 +10611,11 @@ Ye Zhaoying's page https://baike.baidu.com/item/叶钊颖[]:
 * up 2020-06-06 https://web.archive.org/web/20200614104922/https://webcache.googleusercontent.com/search?q=cache%3Akp6GBnsRNhQJ%3Ahttps%3A%2F%2Fbaike.baidu.com%2Fitem%2F%E5%8F%B6%E9%92%8A%E9%A2%96
 * down 2020-06-14 (redirects to home page) https://web.archive.org/web/20200614105126/http://web.archive.org/screenshot/https://baike.baidu.com/item/%E5%8F%B6%E9%92%8A%E9%A2%96
 
-Ye won the https://en.wikipedia.org/wiki/BWF_World_Championships[BWF World Championships] (https://zh.wikipedia.org/wiki/世界羽毛球锦标赛[世界羽毛球锦标赛]), a biannual tournament that is likely the most prestigious in the world twice in 1995 and 1997, and her name had to be removed from the list of winners in Baidu https://baike.baidu.com/item/世界羽毛球锦标赛[]:
+Ye won the https://en.wikipedia.org/wiki/BWF_World_Championships[BWF World Championships] (https://zh.wikipedia.org/wiki/世界羽毛球锦标赛[世界羽毛球锦标赛]), a biannual tournament organized by the https://en.wikipedia.org/wiki/Badminton_World_Federation[Badminton World Federation] (https://zh.wikipedia.org/wiki/羽毛球世界联合会[羽毛球世界联合会]) that is likely the most prestigious in the world twice in 1995 and 1997, and her name had to be removed from the list of winners in Baidu https://baike.baidu.com/item/世界羽毛球锦标赛[]:
 
 * 2017-11-26 archive: https://web.archive.org/web/20171126131320/https://baike.baidu.com/item/世界羽毛球锦标赛 showing her as winner in 1995 and 1997
 * 2020-06-08 archive of <<google-cache>> https://web.archive.org/web/20200615080701/https://webcache.googleusercontent.com/search?q=cache:llXWVx3NX8kJ:https://baike.baidu.com/item/世界羽毛球锦标赛 before censors nuked her
-* 2020-06-15 archive after censors nuked her: https://web.archive.org/web/20200615080807/https://baike.baidu.com/item/%E4%B8%96%E7%95%8C%E7%BE%BD%E6%AF%9B%E7%90%83%E9%94%A6%E6%A0%87%E8%B5%9B[]. In 1995 and 1997 it seems that one the female singles (女子单打), even though they did happen in 1993 and 1997. How curious!
+* 2020-06-15 archive after censors nuked her: https://web.archive.org/web/20200615080807/https://baike.baidu.com/item/%E4%B8%96%E7%95%8C%E7%BE%BD%E6%AF%9B%E7%90%83%E9%94%A6%E6%A0%87%E8%B5%9B[]. In 1995 and 1997 it seems that one the female singles (女子单打), even though they did happen in 1993 and 1999. How curious!
 
 The fact that badminton is a single player sport is great in this case, as it just puts more emphasis on her name as opposed to Hao's multiplayer soccer game:
 
@@ -10513,6 +10629,9 @@ Hao Runze's page https://baike.baidu.com/item/郝润泽
 * still up 2020-06-14 but locked: https://web.archive.org/web/20200614105842/https://baike.baidu.com/item/郝润泽
 * and casually forgets to mention that he is the fucking son of Haidong, which was likely edited out recently, but there is no edit history in Baidu Baike. <<google-cache>> was already from 2020-06-08 and missed the pre-edit. What a shame
 * The last entry says "2020年5月31日，郝润泽在塞尔维亚超级联赛第27轮尼什工人客场挑战纳普里达克的比赛中，首秀替补出场打入一球，帮助尼什工人实现绝平。" and also casually forgets to mention that he was fired two weeks later.
+
+.In 2020, due to her criticizing the Chinese government together with her husband <<hao-haidong>>, all mention of badminton player Ye Zhaoying (叶钊颖) removed from <<baidu-baike>>. In this particularly funny case, her wins from the 1995 and 1997 https://en.wikipedia.org/wiki/BWF_World_Championships[Badminton World Federation World Championships] (https://zh.wikipedia.org/wiki/世界羽毛球锦标赛[世界羽毛球锦标赛]) women's singles were simply removed, as if that year the event hadn't happend. In the neighbouring years 1993 and 1999, and every other year, they did of course happen. An https://web.archive.org/web/20171126131320/https://baike.baidu.com/item/世界羽毛球锦标赛[earlier web archive] shows of course that she was the winner in those years.
+image::{china-dictatorship-media-base}/Baidu_Baike_Badminton_World_Federation_censored_1995_1997_wins_by_Ye_Zhaoying_wife_of_Hao_Haidong.png[height=600]
 
 [[chloe-zhao]]
 ==== Chloe Zhao (赵婷, Zhao Ting, 2021)

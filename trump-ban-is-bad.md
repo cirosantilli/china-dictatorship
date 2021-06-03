@@ -1,6 +1,6 @@
 This was Ciro's Stack Overflow profile around Q1 2021, archive: https://web.archive.org/web/20210225035540/https://stackoverflow.com/users/895245/ciro-santilli-trump-ban-is-bad After censorship: https://archive.vn/9E8yh
 
-Opinions and content are my own.
+Opinions are my own.
 
 China FAQ: https://github.com/cirosantilli/china-dictatorship
 
