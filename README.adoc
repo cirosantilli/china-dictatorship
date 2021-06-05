@@ -583,6 +583,7 @@ Further optimizations:
 +
 ....
 #!/usr/bin/env bash
+printf '黑科技'
 printf '习近平讲话模拟器'
 printf '习近平音源'
 printf '黑马程序员MySQL数据库'
@@ -12584,7 +12585,12 @@ ____
 
 so yes, attacking the party and major policies is illegal in China, big news, right? "Involved in attacking the party and state system and major policies" is then one of the categories in the report page.
 
-Soon after the previous events in 2020-09-08, anaytics got a hit from http://openurls.com.cn/ to https://cirosantilli.com/china-dictatorship[]. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of https://www.openallurls.com/[] but with an <<icp-license>> :-) The 2020-10-14 hit from http://jbcz.12377.cn was followed by another hit from http://openurls.com.cn/[], further reinforcing that this is part of their review procedure. 3 more hits on `/` and `/ciro-santilli` on 2020-02-22 after pinging a few people on https://github.com/zaohmeing/21- issues. Another hit 2021-03-19 to https://cirosantilli.com[], unknown cause. 2021-05-01 3 more openurls.com.cn hits 2021 after resubmitting reports on 2021-04-18 to get proper screenshots of the report procedure. Another hit to https://cirosantilli.com/ on 2021-05-13.
+Soon after the previous events in 2020-09-08, anaytics got a hit from http://openurls.com.cn/ to https://cirosantilli.com/china-dictatorship[]. The only function of that website appears to be to open a newline separated list of websites into separate tabs. Maybe a censor bulk quickly having a look at several tasks. It is basically a clone of https://www.openallurls.com/[] but with an <<icp-license>> :-) The 2020-10-14 hit from http://jbcz.12377.cn was followed by another hit from http://openurls.com.cn/[], further reinforcing that this is part of their review procedure. 3 more hits on `/` and `/ciro-santilli` on 2020-02-22 after pinging a few people on https://github.com/zaohmeing/21- issues. Another hit 2021-03-19 to https://cirosantilli.com[], unknown cause
+
+Further hits from https://openurls.com.cn[]:
+
+* 2021-06-04 4 hits from 2 users, <<tiananmen>> day
+* 2021-05-01 3 after resubmitting reports on 2021-04-18 to get proper screenshots of the report procedure. Another hit to https://cirosantilli.com/ on 2021-05-13.
 
 Other report websites:
 
@@ -13648,6 +13654,7 @@ For lower profile links, see: https://github.com/cirosantilli/china-dictatorship
 
 * 2021-05-23 LinkedIn profile view from https://www.linkedin.com/company/circussocial/ Circus Social https://www.circussocial.com/[]. Some of their China stuff: https://www.circussocial.com/blog/tag/china-social-media/
 * 2021-05-17 https://ilns.isec.oa.com/command-manage/command-analysis/2073645[]. Remember that <<oa-com>> belong to <<tencent>>.
+** 2021-06-04 4 hits from 1 user on <<tiananmen>> day
 * 2021-05-07 https://twitter.com/dingyi/status/1390861129191071754 (https://archive.ph/fS1TF[archive]) link to github.com/china-dictatorship commenting "Github 竟然还有这种项目。。。" (I'm surprised that there's still this kind of project on GitHub). Account had 150k followers at the time. What do they do to have so many followers? As of 2021-05-14, three days later after Ciro replied on 2021-05-11, the account had been made protected: https://archive.ph/davkj This is the <<chilling-effect>>, self-<<censorship,censor>> or perish. It was later un-protected. https://newsletter.dex.group/about/ says their DEX is a sort of online magazine. GitHub profile: https://github.com/dingyi
 * 2021-04-16 https://manti.netease.com/ from <<netease>> to https://cirosantilli.com/china-dictatorship can't find any information on it.
 * 2021-03-23 https://my.cscglobal.com/ to cirosantilli.com/china-dictatorship another compliance company, previous https://cms.securimate.com hits come to mind. China related articles:
