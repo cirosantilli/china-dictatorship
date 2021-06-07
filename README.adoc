@@ -2884,7 +2884,7 @@ Basically a 2 character slang for <<hurt-the-feelings-of-the-chinese-people>> wh
 
 The pardox is: as soon as you start talking about ruhua, you start to risk getting banned in China, because most of ruhua is banned in China itself.
 
-In this project for example: https://github.com/leiroc/insults the author is aiming to create a list of such insults. So someone came and suggested this project, which is obviouly censored in China, as an example. They even have an <<icp-license>> at https://insults.cn/[], isn't that cute?
+In this project for example: https://github.com/leiroc/insults the author is aiming to create a list of such insults. So someone came and suggested adding this project to the list at: https://github.com/leiroc/insults/issues/4[], which is obviouly censored in China, as an example. They even have an <<icp-license>> at https://insults.cn/[], isn't that cute?
 
 [[shina]]
 ====== Shina (zhina, 支那)
@@ -5099,7 +5099,7 @@ ____
 
 The bot is basically Ciro's lawyer, always loyally on his corner of the fighting ring.
 
-Finally, also try to extract the email of the user from one of their repositories. When successful, Ciro takes a <<wayback-machine>> snapshot of the repository as proof of SHA, and then forks it to https://github.com/cirosantilli-test-org to keep the email safe in case of account deletion. You never know when this information might be useful.
+Finally, also try to extract the email of the user from one of their repositories. When successful, Ciro takes a <<wayback-machine>> snapshot of the repository as proof of SHA, and then forks it to https://github.com/cirosantilli-test-org to possibly keep their email safe in case of account deletion. You never know when this information might be useful.
 
 Then, after replying, do your best never to read the inevitable reply again, and above all, never ever reply. An interesting reply never follows from a non-interesting original post. It is hard at first, but you will eventually get the hang of it.
 
