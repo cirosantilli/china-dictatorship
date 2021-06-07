@@ -2467,7 +2467,7 @@ Ciro believes without evidence that unfortunately anti-discrimination-hiring law
 ** 2020-11-24 https://techcrunch.com/2020/11/24/youtube-suspends-and-demonetizes-one-america-news-network-over-covid-19-video/ "YouTube suspends and demonetizes One America News Network over COVID-19 video"
 * Facebook
 ** 2020-11-10 https://techcrunch.com/2020/11/09/parler-app-store-facebook/ "'Free speech' social network Parler tops app store rankings following Biden's election win"
-* Twitter
+* <<twitter>>
 ** 2021-01-08 https://blog.twitter.com/en_us/topics/company/2020/suspension.html "Permanent suspension of @realDonaldTrump" Archive of suspended account: https://archive.vn/SSHX6
 ** 2020-10-06 https://www.vox.com/recode/2020/5/28/21273241/section-230-explained-trump-social-media-twitter-facebook "Section 230, the internet free speech law Trump wants to repeal, explained". While repealing the law entirely would be stupid, Trump is right that it has given platforms too much control over the media. <<mark-government-controlled-social-media,Except for dictatorial foreign governments>>, or explicitly illegal material, social media platforms should never remove or comment on any content.
 ** 2020-05-29 https://www.bbc.co.uk/news/technology-52846679 Twitter "hides Trump tweet for 'glorifying violence'". The people elected that idiot, Twitter leftists have to swallow that.
@@ -2874,11 +2874,17 @@ GitHub issue label: https://github.com/cirosantilli/china-dictatorship/issues?q=
 image::{china-dictatorship-media-base}/Rugae_vaginales_with_black_hole.jpg[height=400]
 
 [[ruhua]]
-====== Ruhua (辱华, 乳华)
+====== Ruhua (disgrace china, 辱华, 乳华)
+
+Basically a 2 character slang for <<hurt-the-feelings-of-the-chinese-people>> which cool people in the web use:
 
 * https://zhuanlan.zhihu.com/p/75717383 天天辱华，辱华的到底是谁？ on <<zhihu>>
 * https://www.dw.com/zh/一系列国际大牌纷纷陷入辱华风波/a-49994530 on <<dw>>
 * https://www.bbc.com/zhongwen/simp/chinese-news-46314935 on <<bbc>>
+
+The pardox is: as soon as you start talking about ruhua, you start to risk getting banned in China, because most of ruhua is banned in China itself.
+
+In this project for example: https://github.com/leiroc/insults the author is aiming to create a list of such insults. So someone came and suggested this project, which is obviouly censored in China, as an example. They even have an <<icp-license>> at https://insults.cn/[], isn't that cute?
 
 [[shina]]
 ====== Shina (zhina, 支那)
@@ -5296,7 +5302,7 @@ Ciro then finally updated his profile picture to contain <<xi-pooh-photoshop>>, 
 Other users who publicly went against freedom of speech in that case (in the name of "political correctness"):
 
 * https://meta.stackexchange.com/users/665544/bad-coder ("West") replied at: https://meta.stackexchange.com/questions/361486/can-i-say-on-my-profile-that-i-find-that-an-ex-president-of-a-country-or-other/361495#361495
-* https://meta.stackexchange.com/users/798831/ollie comments, Ciro replies, they delete comment, comments, Ciro reply, they delete comment... Ciro gives up
+* https://meta.stackexchange.com/users/798831/ollie comments, ciro replies, they delete comment, comments, ciro reply, they delete comment... ciro gives up
 * https://meta.stackexchange.com/questions/361486/can-i-say-on-my-profile-that-i-find-that-an-ex-president-of-a-country-or-other?noredirect=1#comment1206900_361486 wants to close as duplicate of uber generic https://meta.stackexchange.com/questions/208551/offensive-profiles-where-to-draw-the-line/208553#208553 and says:
 +
 ____
@@ -5459,7 +5465,25 @@ https://i.stack.imgur.com/p9Tv9.png
 
 ===== Stack Overflow forbids Nazi imagery but allows anti-CCP imagery (2021)
 
-This once again highlights the hypocrisy of many people in the West: we decide who is good and who is evil. The CCP is now evil, so you can criticize it, even if it shocks Chinese people. Ah, Nazism shocks us, even though it is an event from the past, so that you can't do. You can only shock the Chinese people, not us.
+This one again highlights the hypocrisy of many people in the West: we decide who is good and who is evil. The CCP is now evil, so you can criticize it, even if it shocks Chinese people. Ah, Nazism shocks us, even though it is an event from the past, so that you can't do. You can only shock the Chinese people, not us.
+
+Or: we like human rights. But not potentially disturbing someone at work even slightly is more important.
+
+Opened a meta thread for this at: https://meta.stackexchange.com/questions/366163/can-i-use-images-such-as-from-tiananmen-square-protests-to-criticise-the-chinese (https://archive.ph/56KK2[archive]) where the top answer was:
+
+____
+We refuse to make a public decision.
+____
+
+In response, Ciro wrote the following essay on his profile page: link:stack-exchange-lost-freedom-of-speech.md[].
+
+Notable people who went against in the comments:
+
+* https://meta.stackexchange.com/users/295232/glorfindel from the Netherlands commented "As the Dutch police say "if you're asking for attention, you get attention".". No attempt to address the question at all. Just a direct "I'm right, you're wrong, and I'm glad you were punished".
+* https://meta.stackexchange.com/users/282094/rob argues for "anything that raises enough flags should be taken down"
+* https://meta.stackexchange.com/users/353058/holyblackcat "The mods and/or SE staff might not have clear guidelines in place yet, and I bet the last thing they want to do now is to figure out such guidelines to answer your question. If you have to ask, then I would refrain from adding any of that to your profile. Let's keep excessive politics out of SO."
+
+The interesting thing is that none of them had the courage to actually say "forbid Tiananmen", "forbid Falun Gong". But they all said "forbid not suitable for work". But they won't clarify if "not suitable for work" includes "not suitable for work in China".
 
 On 2021-05-29 <<ciro-santilli>> added almost all images from this page to his Stack Overflow account as shown at: https://archive.ph/nZLgI
 
@@ -9323,7 +9347,7 @@ App made by <<alibaba>> for the <<ccp>> to teach people <<xi-jinping-thought>>.
 
 Literally means "study for a strong country".
 
-One of the beautiful things about that name is that is reminds one of the <<slang,expression>> "强国人" (strong country person), coined in during the 2014 during the <<hong-kong-protests-2014>> to refer ironically to Mainland Chines people, due to their exaggerated self-perceived strength and superiority, see also <<wumao-2011-vs-little-pink-2021>>. A homonym "墙国" (wall country) is also known as a reference to the <<gfw>>, https://archive.ph/czYEv[sample usage].
+One of the beautiful things about that name is that is reminds one of the <<slang,expression>> "强国人" (strong country person), coined in during the 2014 during the <<hong-kong-protests-2014>> to refer ironically to Mainland Chines people, due to their exaggerated self-perceived strength and superiority, see also <<wumao-2011-vs-little-pink-2021,Wumao 2011 vs little pink 2021>>. A homonym "墙国" (wall country) is also known as a reference to the <<gfw>>, https://archive.ph/czYEv[sample usage].
 
 The app appears to have both content, and also tests to check that you've read the bullshit.
 
@@ -12699,7 +12723,7 @@ Bibliography:
 * 2017 http://www.8bb.com/zaojiao/5264.html "小红粉小粉红是什么 家长发现孩子自称小粉红怎么办" (What is a little pink? If a parent discovers that their children call themselves little pinks, what should they do about it?). Kill them.
 
 [[wumao-2011-vs-little-pink-2021]]
-.Perceived comparison between <<wumao>> and <<little-pink>> suggesting that unpaid Little Pinks are more nationalist and extreme than the paid wumaos, which is not too surprising, considering that they do it for free. https://twitter.com/__Inty__/status/1376942681956487168[Source].
+.Perceived comparison between <<wumao>> and <<little-pink>> suggesting that unpaid Little Pinks are more nationalist and extreme than the paid wumaos, which is not too surprising, considering that they do it for free. A translation is available at: https://www.reddit.com/r/China/comments/ntghfa/a_lot_changed_after_xi_jin_pooh_became_chairman/[]. https://twitter.com/__Inty__/status/1376942681956487168[Source].
 image::{china-dictatorship-media-base}/Wumao_2011_vs_Little_Pink_2021.jpg[height=800]
 
 [[that-rabbit]]
@@ -12803,6 +12827,8 @@ Non-political (as far as we can tell) channels of interest:
 * https://www.youtube.com/c/KevininShanghai Kevin in Shanghai. Mostly language and cultural differences.
 
 Bibliography:
+
+* https://wokeglobaltimes.com/tankies-and-despair tankies, despair, and politics: a case study by the woke global times (2020)
 
 Discussion/lists: <<quora>>:
 
