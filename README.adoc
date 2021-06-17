@@ -11,9 +11,9 @@
 :toclevels: 6
 :toc-title:
 
-https://cirosantilli.com/china-dictatorship[cirosantilli.com (canonical)] |
+https://cirosantilli.com/china-dictatorship[cirosantilli.com (canonical 规范链接)] |
 https://github.com/cirosantilli/china-dictatorship[GitHub project] |
-China mirrors 中国镜像:
+中国镜像 China mirrors:
 https://cirosantilli.gitlab.io/china-dictatorship[cirosantilli.gitlab.io],
 https://htmlpreview.github.io/?https://github.com/cirosantilli/china-dictatorship/gh-pages/blob/index.html[htmlpreview.github.io],
 https://www.unpkg.com/china-dictatorship@latest/README.html[www.unpkg.com (tag)],
@@ -21,7 +21,7 @@ https://gitlab.com/cirosantilli/china-dictatorship/-/blob/master/README.adoc[git
 https://raw.githack.com/cirosantilli/china-dictatorship/gh-pages/index.html[raw.githack.com],
 https://cdn.statically.io/gh/cirosantilli/china-dictatorship/gh-pages/index.html[cdn.statically.io]
 |
-HTML download 下载:
+下载 HTML download:
 https://raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html[raw.githubusercontent.com],
 https://cdn.jsdelivr.net/npm/china-dictatorship@latest/README.html[cdn.jsdelivr (tag)]
 
@@ -583,6 +583,11 @@ Further optimizations:
 +
 ....
 #!/usr/bin/env bash
+printf '美团点评各业务线提供'
+printf '知识库团队共享'
+printf '阿里云高精Excel识别'
+printf '德讯 ·吉特胡布'
+printf '薄熙来'
 printf '黑科技'
 printf '习近平讲话模拟器'
 printf '习近平音源'
@@ -1378,6 +1383,7 @@ ____
 Democracy is a process by which the people are free to choose the man who will get the blame.
 ____
 
+[[immoral-and-uneducated]]
 .https://knowyourmeme.com/memes/preaching-to-the-mob[Preaching to the mob meme template]: "中国人道德低下素质差。所以不适合民主。" Translation: The Chinese people are immoral and uneducated (people are angry). That's why they're not suitable for democracy (people are happy). This makes fun of the fact even if you say bad things about the Chinese, some people will complain that you are racist. But the same people will also say the same bad things about the Chinese people as a way to explain why it is better if they don't vote, and no one minds that. https://www.reddit.com/r/chonglangTV/comments/jssa4t/道德低下素质差的好处/[Source].
 image::{china-dictatorship-media-base}/Immoral_and_uneducated.jpg[height=720]
 
@@ -2052,7 +2058,7 @@ video::4xoM6-1SWl4[youtube,height=400,width=600,start=191]
 [[most-chinese-people-like-their-dictatorship]]
 ===== Most Chinese people like their dictatorship (中国大众支持他们的独裁)
 
-It is easy to reach an agreement, when everyone who disagrees goes to jail or gets killed for to <<inciting-subversion>> or <<picking-quarrels>>.
+It is easy to reach an agreement, when <<chinese-dissidents,everyone who disagrees>> goes to jail or gets killed for to <<inciting-subversion>> or <<picking-quarrels>>.
 
 This is exactly <<goring-nuremberg,Herman Goring said in his appearances on the Nuremberg trials>> to justify <<nazi,the atrocities of Nazism>>.
 
@@ -2088,9 +2094,13 @@ It is really interesting to see how many people star the <<mirrors,GitHub reposi
 
 <<ciro-santilli>> is able to see this because the star notification remains in the GitHub dashboard even after unstarring. It does not seem to be publicly visible permanently unlike other events which forever remain on the events API.
 
-unstarring events are exceedingly rare in Ciro's other repositories.
+Unstarring events are exceedingly rare in Ciro's other repositories.
 
 The expression https://www.quora.com/What-does-the-expression-two-steps-forward-one-step-back-mean[two steps forward, one step back] comes to mind.
+
+Luckily in this case, it does not seem possible to view who unstarred a repository after the fact:
+
+* https://stackoverflow.com/questions/51072418/how-can-i-determine-when-a-user-unstarred-a-repo-using-the-github-graphql-api
 
 [[my-paranoia-as-a-russian-youtuber]]
 .https://www.youtube.com/watch?v=_-hCdbsyWw0 "my paranoia as a Russian YouTuber" by <<nfkrz>> (2020) talks about the <<chilling-effect>>
@@ -2886,6 +2896,32 @@ The pardox is: as soon as you start talking about ruhua, you start to risk getti
 
 In this project for example: https://github.com/leiroc/insults the author is aiming to create a list of such insults. So someone came and suggested adding this project to the list at: https://github.com/leiroc/insults/issues/4[], which is obviouly censored in China, as an example. They even have an <<icp-license>> at https://insults.cn/[], isn't that cute?
 
+To which the repo owner replied:
+
+____
+感谢提交，这个人有点疯狂了。我就不给加到记录里面了，因为加进去，看到的人就会更加多。对于这些信息不是所有人都有分别真伪的能力。害怕有些人信了他的，或者被他诱导。所以还是让他消声少曝光的好，这些人国家肯定一直在监控的，我们可以放心。
+____
+
+Google Translate:
+
+____
+Thanks for submitting, this person is a bit crazy. I won't add it to the record, because if you add it, you will see more people. Not everyone has the ability to distinguish between authenticity and falsehood for this information. I'm afraid that some people will believe him or be induced by him. Therefore, it is better to silence him and reduce exposure. These people and countries must have been monitoring them, so we can rest assured.
+____
+
+<<uneducated-masses>> comes to mind.
+
+TODO the README says that it is a static blog, but I can't find the source on GitHub anywhere, that repo contains almost nothing.
+
+The large majority of posts are about <<western-companies-that-comply-with-chinese-censorship-requests>>, because those cowards retract their claims afterwards.
+
+Some sample posts that are not about Western companies:
+
+* https://insults.cn/posts/4747/ NBA辱华事件是怎么回事？NBA莫雷辱华事件！ (What happened to the NBA insult to China? NBA Morey insulting China incident!) about <<lebron-james-opposes-hong-kong-anti-extradition-bill-protests-2019>>
+* https://insults.cn/posts/60695/ 如何判断一个老外夸中国，是发自真心，还是财富密码？ (How to judge whether a foreigner praises China from his sincerity or the code of wealth?) is about <<ccp-apologists>>
+* https://insults.cn/posts/64035/ 卖国求荣许秀中个人简历：留学生中的败类！汉奸中的“佼佼者”！西方媒体眼中的“宝藏女孩”！ is about <<vicky-xu>>
+* https://insults.cn/posts/65025/ notepad{plus}{plus}辱华事件：作者Don HO在推特上公开发表辱华言论 (Notepad{plus}{plus} insulting China incident: author Don HO publicly published insulting remarks on Twitter) about <<notepad>>
+* https://insults.cn/posts/64915/ 无脑黑中国，孙向文漫画辱华是为了自己要入日本籍，但他至今仍没有如愿 is about <<sun-xiangwen>>
+
 [[shina]]
 ====== Shina (zhina, 支那)
 
@@ -3037,7 +3073,7 @@ image::{china-dictatorship-media-base}/Chinese_character_extreme.svg[height=400]
 .The Sweet Brown https://en.wikipedia.org/wiki/Ain%27t_Nobody_Got_Time_for_That[Ain't Nobody Got Time for That] meme (https://knowyourmeme.com/memes/sweet-brown-aint-nobody-got-time-for-that[knowyourmeme]) fits perfectly into how Ciro feels about learning Chinese characters.
 image::{china-dictatorship-media-base}/Sweet_brown_chinese_characters_meme.jpg[height=500]
 
-.Translation of the above by <<ciro-santilli>>: "You are immoral and uneducated", "Chinese masses", "so you're unsuited for democracy".
+.Translation of the above.
 image::{china-dictatorship-media-base}/Sweet_brown_chinese_characters_meme_zh.jpg[height=500]
 
 .https://www.youtube.com/watch?v=JZcui85b4EE RARE Japanese Toshiba Typewriter. Types in Japanese, Chinese + English. Toshiba Typewriter Model BW-2112.
@@ -3477,6 +3513,8 @@ TODO review:
 https://www.reddit.com/r/chonglangTV/
 
 15k users 2020-03.
+
+Overview of their culture: https://www.urbandictionary.com/define.php?term=ChonglangTV
 
 Chinese language, pretty good content, anti-CCP samples:
 
@@ -4074,7 +4112,7 @@ Many videos were published on <<tiktok>>, 2020-07-09 https://www.codastory.com/a
 <<github>> re-uploads at: https://github.com/cirosantilli/china-dictatorship/issues/221
 
 [[uyghurs-for-sale]]
-.Advertisement published by Qingdao Decai Decoration Co. claiming to supply government-sponsored Uyghur workers from Xinjiang to other provinces. Source of translation: https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report]. Original website archive from  16 Jan 2020: http://archive.ph/r7T8r[]. The ad features a caricature of two dancing Uyghurs in traditional clothing. This is evidence of the CCP's mass forced eviction and slavery of Uyghurs. Another report at 2021-04-16 https://news.sky.com/story/amp/new-evidence-of-the-strict-controls-uighurs-face-in-factories-thousands-of-miles-from-home-12276248 "Batches of 50 to 100 Uighur workers are being advertised on the Chinese internet" suggests that a <<baidu>> search for "劳务派遣" leads to incriminating ads, but which they fail to translate.
+.Advertisement published by Qingdao Decai Decoration Co. claiming to supply government-sponsored Uyghur workers from Xinjiang to other provinces. Source of translation: https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report]. Original website archive from  16 Jan 2020: http://archive.ph/r7T8r[]. The ad features a caricature of two dancing Uyghurs in traditional clothing. This is evidence of the CCP's mass forced eviction and slavery of Uyghurs. Another report at 2021-04-16 https://news.sky.com/story/amp/new-evidence-of-the-strict-controls-uighurs-face-in-factories-thousands-of-miles-from-home-12276248 "Batches of 50 to 100 Uighur workers are being advertised on the Chinese internet" suggests that a <<baidu>> search for "劳务派遣" leads to incriminating ads, but which they fail to translate. Report lead: <<vicky-xu>>.
 image::{china-dictatorship-media-base}/Uyghur_sale_website.jpg[height=500]
 
 .Uyghur workers at Qingdao Taekwang Shoe Manufacturing Co. Ltd (青岛泰光制鞋有限公司) in Laixi, <<shandong,Shandong>> (莱西市, <<shandong,山东>>) waving the Chinese flag, October 2019. Viewable on the pro-CCP China Ethnic Religion Net (中国民族宗教网) website: http://www.mzb.com.cn/html/report/191130765-1.htm[], and also shown in the https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report]. Company address: https://goo.gl/maps/EgkbtxgjEny7EU1YA[山东省青岛市莱西市李权庄镇工业园区泰光路71号].
@@ -4731,14 +4769,6 @@ Some hell known companies and events:
 * https://en.wikipedia.org/wiki/Bloomberg_L.P.[Bloomberg L.P.]
 ** 2020-02 https://theintercept.com/2020/02/18/mike-bloomberg-lp-nda-china/ "When Bloomberg News's Reporting on China Was Challenged, Bloomberg Tried to Ruin Me for Speaking Out"
 * 2019-12 Shutterstock implements censorship for searches from China https://techcrunch.com/2019/12/08/in-wake-of-shutterstocks-chinese-censorship-american-companies-need-to-relearn-american-values/
-* Apple
-** https://applecensorship.com App Store monitoring by <<greatfire>>, source: https://github.com/greatfire/applecensorship
-** 2020-03-01 https://techcrunch.com/2020/03/01/china-roundup-apple-closes-app-store-loophole/ "China Roundup: Apple closes a 4-year-old App Store loophole"
-** 2020-02-25 https://www.theguardian.com/technology/2020/feb/25/apple-censorship-requests-china-shareholder-groups-proposal
-** 2019-04-12 https://www.theverge.com/2019/4/12/18305087/congress-apple-criticism-china-communist-tiananmen-pro-democracy "Lawmakers lash out at Apple for censoring a song about <<tiananmen,Tiananmen Square protests>>"
-+
-.Chinese flag with Apple characteristics. https://techcrunch.com/2015/08/11/apple-shares-tumble-5-amidst-china-concerns/[Source].
-image::{china-dictatorship-media-base}/Apple_China_flag.png[height=400]
 * JPMorgan
 ** 2016-11 "Sons and Daughters" corruption hiring program for chidren of government officials: https://www.forbes.com/sites/antoinegara/2016/11/17/jpmorgan-agrees-to-pay-264-million-fine-for-sons-and-daughters-hiring-program-in-china/#46746e305688
 
@@ -4753,6 +4783,22 @@ image::{china-dictatorship-media-base}/Xi_Apple.jpg[height=400]
 
 .https://www.youtube.com/watch?v=V4WBsahU3X4 https://en.wikipedia.org/wiki/Stephen_Colbert[Stephen Colbert] comments in 2015 on how American films make a good image of China to be allowed in China by censors to increase sales.
 video::V4WBsahU3X4[youtube,height=400,width=600]
+
+===== Apple
+
+Summaries:
+
+* https://applecensorship.com App Store monitoring by <<greatfire>>, source: https://github.com/greatfire/applecensorship
+
+News:
+
+* 2021-06-08 https://techcrunch.com/2021/06/07/apple-private-relay-unavailable-in-china/ Apple’s new encrypted browsing feature won’t be available in China, Saudi Arabia and more: report
+* 2020-03-01 https://techcrunch.com/2020/03/01/china-roundup-apple-closes-app-store-loophole/ "China Roundup: Apple closes a 4-year-old App Store loophole"
+* 2020-02-25 https://www.theguardian.com/technology/2020/feb/25/apple-censorship-requests-china-shareholder-groups-proposal
+* 2019-04-12 https://www.theverge.com/2019/4/12/18305087/congress-apple-criticism-china-communist-tiananmen-pro-democracy "Lawmakers lash out at Apple for censoring a song about <<tiananmen,Tiananmen Square protests>>"
++
+.Chinese flag with Apple characteristics. https://techcrunch.com/2015/08/11/apple-shares-tumble-5-amidst-china-concerns/[Source].
+image::{china-dictatorship-media-base}/Apple_China_flag.png[height=400]
 
 ===== LinkedIn
 
@@ -4900,6 +4946,7 @@ Related about university interference:
 
 China buying pre-University educational institutions:
 
+* 2021-06-11 https://archive.ph/RkHjR Insider investigation reveals officials helped sell access to California public schools to Chinese elite
 * 2021-02-21 https://www.dailymail.co.uk/news/article-9282617/British-private-institutions-bought-Chinese-firms.html "The British schools selling out to Beijing: Not only are private institutions being bought by Chinese firms but some are giving communist-approved lessons that are a threat to free speech", gives list of 17 schools bought
 ** 2021-03-24 https://www.telegraph.co.uk/education-and-careers/2021/03/24/chinese-buying-private-schools-should-grateful/ "The Chinese are buying into our private schools and we should be grateful" what, lady, are you nuts?
 * 2019-07-10 https://www.thetimes.co.uk/article/chinese-buy-up-more-of-england-s-private-schools-pjr6692bq "Chinese buy up more of England’s private schools", "Chinese investors have secured another foothold in the English private school sector with the £150 million purchase of CATS colleges."
@@ -5176,6 +5223,7 @@ image::{china-dictatorship-media-base}/Someone_is_wrong_on_the_Internet.png[heig
 
 === Who is behind this amazing FAQ?
 
+
 [[ciro-santilli]]
 ==== Ciro Santilli (三西猴, anti-CCP fanatic, 反中共狂热, stupid cunt, 傻屄, CIA agent, CIA特工, 肏你妈的)
 
@@ -5261,6 +5309,8 @@ The Chinese law doesn't allow Ciro's profile unfortunately: <<real-username-law>
 Since you will fail through Stack Overflow moderation, please consider instead making a report on the <<cac-report-website>>.
 
 ===== Stack Overflow forbids criticizing the character of genocidal political leaders like Xi Jinping
+
+Edit: as was made clearer later on at <<stack-overflow-mods-refuse-to-clarify-if-anti-ccp-imagery-is-allowed-or-not-2021>>, they just generally refuse to say clearly what is allowed or not.
 
 Ciro was actually quite shocked by this.
 
@@ -5463,7 +5513,7 @@ video::uY-u1qyRM5w[youtube,width=600,height=400,start=1343]
 
 https://i.stack.imgur.com/p9Tv9.png
 
-===== Stack Overflow forbids Nazi imagery but allows anti-CCP imagery (2021)
+===== Stack Overflow mods refuse to clarify if anti-CCP imagery is allowed or not (2021)
 
 This one again highlights the hypocrisy of many people in the West: we decide who is good and who is evil. The CCP is now evil, so you can criticize it, even if it shocks Chinese people. Ah, Nazism shocks us, even though it is an event from the past, so that you can't do. You can only shock the Chinese people, not us.
 
@@ -5480,8 +5530,31 @@ In response, Ciro wrote the following essay on his profile page: link:stack-exch
 Notable people who went against in the comments:
 
 * https://meta.stackexchange.com/users/295232/glorfindel from the Netherlands commented "As the Dutch police say "if you're asking for attention, you get attention".". No attempt to address the question at all. Just a direct "I'm right, you're wrong, and I'm glad you were punished".
-* https://meta.stackexchange.com/users/282094/rob argues for "anything that raises enough flags should be taken down"
+* https://meta.stackexchange.com/users/282094/rob argues for "anything that raises enough flags should be taken down", 
 * https://meta.stackexchange.com/users/353058/holyblackcat "The mods and/or SE staff might not have clear guidelines in place yet, and I bet the last thing they want to do now is to figure out such guidelines to answer your question. If you have to ask, then I would refrain from adding any of that to your profile. Let's keep excessive politics out of SO."
+* https://meta.stackexchange.com/users/361484/luuklag "Nobody limits your free speech, we don't withhold you from going out on the street and yell whatever you want. Should SE allow everything on its platform, no. That is the same as you don't allow everything in your own house." What is it with the Netherlands? They were invaded by Hitler, and now they don't want to support human rights?
+* https://meta.stackexchange.com/users/135565/journeyman-geek again from <<stack-overflow-forbids-criticizing-the-character-of-genocidal-political-leaders-like-xi-jinping>>
+
+Close voters and reopen voters can be seen publicly at https://web.archive.org/web/20210609071812/https://meta.stackexchange.com/posts/366163/revisions[]
+
+First close voters:
+
+* https://web.archive.org/web/20210506210343/https://meta.stackexchange.com/users/286501/pierre-vriens presumably from Belgium
+* https://web.archive.org/web/20210609000247/https://meta.stackexchange.com/users/798831/ollie again from <<stack-overflow-forbids-criticizing-the-character-of-genocidal-political-leaders-like-xi-jinping>>
+* https://web.archive.org/web/20210506134050/https://meta.stackexchange.com/users/336163/robert-columbia
+* https://web.archive.org/web/20210507002405/https://meta.stackexchange.com/users/154443/rory-alsop Rory Alsop from Scotland. A LinkedIn with matching name and location: https://www.linkedin.com/in/rorya/ states:
++
+____
+I have spent most of the last 20 years not just improving technical security in large and small organisations, but improving security and risk behaviours, awareness and culture in communities."
+____
+* https://web.archive.org/web/20210609000250/https://meta.stackexchange.com/users/622284/spevacus "I participate in Charcoal, a user-run group that fights spam and rude/abusive content across the network. Do you hate spam? Drop by Charcoal HQ and help us catch and destroy it!". Interesting! https://github.com/Charcoal-SE/SmokeDetector
+
+First reopen voters:
+
+* https://meta.stackexchange.com/users/185080/eliah-kagan Eliah Kagan, this is an awesome Ask Ubuntu dude from New York
+* https://meta.stackexchange.com/users/377214/sonic-the-anonymous-hedgehog
+* https://meta.stackexchange.com/users/707129/xnero presumably from USA based on https://travel.stackexchange.com/users/105447/xnero
+* https://meta.stackexchange.com/users/384528/forest-distrusts-stackexchange
 
 The interesting thing is that none of them had the courage to actually say "forbid Tiananmen", "forbid Falun Gong". But they all said "forbid not suitable for work". But they won't clarify if "not suitable for work" includes "not suitable for work in China".
 
@@ -6388,6 +6461,12 @@ Chinese authorities have detained a worker after he advocated for fair pay and o
 Chen Tianhe (陳天河) has not been heard from since he was detained on Feb. 25, according to mainland Chinese media reports.
 ____
 
+* 2021-06-09 Protests held after it was announced that Nanjing University (C9 league, China's Ivy League) would be merged with a vocational institute (much much less prestigious)
+** https://www.bbc.co.uk/news/world-asia-china-57409218 Normal University's Zhongbei College
+** scuffle videos
+*** https://www.youtube.com/watch?v=a7QMLGmfO8U
+*** https://www.youtube.com/watch?v=jmndJO9_ayk
+*** https://www.youtube.com/watch?v=q1A9n-bGPFo
 * 2020 City Dream film (城市梦) Weijun Chen's (陈为军) lively new film documents the struggles of Wang Tiancheng, an elderly and cantakerous street vendor in Wuhan, China, whose business is threatened by the development of a new retail district.
 ** 2021 http://www.sixthtone.com/news/1007364 New Film Turns the Tables on China’s Infamous 'Chengguan' (城管)
 ** not censured in China:
@@ -7147,6 +7226,10 @@ TODO which repo was taken down exactly?
 * https://zh.wikipedia.org/wiki/2020－2021年印度農民抗議
 
 https://www.bbc.co.uk/news/world-asia-india-55898708
+
+Via <<twitter>>:
+
+* https://techcrunch.com/2021/06/07/twitter-restricts-accounts-in-india-to-comply-with-government-legal-request/
 
 [[military-dictatorship-in-brazil]]
 == Military dictatorship in Brazil (1964-1985)
@@ -9236,7 +9319,7 @@ TODO <<ciro-santilli>> is very interested in finding this!
 ** https://www.nicovideo.jp/watch/sm38084556
 ** https://club.6parkbbs.com/bolun/index.php?app=forum&act=threadview&tid=15759443
 * Hentai
-** 2016 https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/xl2-02112016111224.html 日本漫画家报复中国不尊重版权疑似毛泽东习近平成色情主角 (Japanese cartoonist revenges China for disrespect of copyright, suspected of Mao Zedong and Xi Jinping as pornographic protagonist) by <<rfa>>. Appears to be by artist Rin Sanada (https://zh.wikipedia.org/wiki/真田鈴[真田鈴]) Part of the idea is that to prevent copyright infrigement, you just use something that will be forbidden in China anyways!
+** 2016 https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/xl2-02112016111224.html 日本漫画家报复中国不尊重版权疑似毛泽东习近平成色情主角 (Japanese cartoonist revenges China for disrespect of copyright, suspected of Mao Zedong and Xi Jinping as pornographic protagonist) by <<rfa>>. Appears to be by artist Rin Sanada (https://zh.wikipedia.org/wiki/真田鈴[真田鈴]) Part of the idea is that to prevent copyright infringement, you just use something that will be forbidden in China anyways!
 *** TODO how to access it in full? Work name?
 *** https://disp.cc/b/163-9f5E screenshot used on <<ptt>>
 *** https://www.mohu.rocks/question/id-6851__sort_key-agree_count__sort-ASC screenshot used in a <<mohu>> thread
@@ -10128,6 +10211,10 @@ image::{china-dictatorship-media-base}/Tank_Man_FF6.jpg[height=600]
 .Tank man drawing by Ciro Santilli. The only CC BY-SA 4.0 representaion of Tank Man found on the web? And the prettiest. Created manually with GIMP. This can be very useful e.g. if you are posting <<stack-overflow>> answers about image processing, e.g.: https://stackoverflow.com/questions/20737061/merge-images-side-by-sidehorizontally/63575228#63575228 It was of course taken down later on because it was considered spam: <<stack-overflow-political-image-answer-placeholder-2021>>.
 image::{china-dictatorship-media-base}/Tank_Man_drawing_by_Ciro_Santilli_CC_BY_SA.png[height=500]
 
+
+.Xi Jinping erasing tank man by Twatical. Easy mp4 download: https://github.com/cirosantilli/china-dictatorship/issues/357[]. https://twitter.com/Twatical_/status/1357377135573401601[Source].
+image::https://user-images.githubusercontent.com/1429315/121059892-e2a0d380-c7b9-11eb-88f0-cacdefab548c.gif[height=500]
+
 [[tank-man-song]]
 ====== Tank man song by Xu Lin (坦克人，作曲家：徐琳)
 
@@ -10308,7 +10395,8 @@ Related sections:
 
 * <<other-openly-dissident-users-on-stack-overflow>>
 
-=== Chinese dissidents
+[[chinese-dissidents]]
+=== Chinese dissidents (中国持不同政见者)
 
 Other sections:
 
@@ -10709,6 +10797,17 @@ Some coverage:
 
 .<<chloe-zhao>> holding the 2021 Oscars for best director and best film. The fact that she won was censored in China because she made one single negative comment about the CCP in 2013.
 image::{china-dictatorship-media-base}/Chloe_Zhao_won_93rd_Oscar.jpg[height=500]
+
+[[vicky-xu]]
+==== Vicky Xu (许秀中)
+
+* https://en.wikipedia.org/wiki/Vicky_Xu
+* https://zh.wikipedia.org/wiki/许秀中
+* https://twitter.com/xu_xiuzhong
+
+Lead author of the <<uyghurs-for-sale,Uyghurs for sale report>>.
+
+An amazing smear post: https://www.163.com/dy/article/G36KA6P80551MFOX.html 一个售卖肉体和灵魂的人——澳大利亚反华女妖许秀中 (A person who sells body and soul - Australian anti-Chinese female demon Vicky Xu) with a Photoshopped image entitled in Chinglish: "A tipster of Vicky Xu's private life - maintain sexual relationships with over 10 men at the same time". The real question in most men's mind is: "where do I sign up?".
 
 [[howey-ou]]
 ==== Howey Ou (欧泓奕, 2019)
@@ -11486,6 +11585,7 @@ Other cartoonists/illustrators:
 ** https://gretasamuel.com/
 ** https://mobile.twitter.com/samuel_greta
 ** https://idzpodprad.pl/aktualnosci/chinczycy-groza-smiercia-polskiej-ilustratorce-pracodawca-chce-ja-zwolnic/ "Chińczycy grożą śmiercią polskiej ilustratorce! Pracodawca chce ją zwolnić?¨" Google translates to: "The Chinese are threatening the death of the Polish illustrator! Employer wants to fire her?"
+* Rin Sanada (真田鈴) from <<xi-jinping-porn>>
 
 [[rebel-pepper]]
 ==== Rebel Pepper (变态辣椒, RFA cartoonist)
@@ -11509,14 +11609,6 @@ His best work can be found scattered throughout this document in the relevant se
 .Rebel Pepper's self portrait as a perverted pepper (the literal translation of his Chinese name "变态辣椒") used in his Sina and <<tencent>> accounts before those got deleted https://www.bbc.com/zhongwen/simp/china_watch/2014/08/140827_china_cartoonist[according to the BBC]. https://ecdm.fandom.com/zh/wiki/变态辣椒[Source].
 image::{china-dictatorship-media-base}/Rebel_pepper.jpg[height=400]
 
-[[badiucao]]
-==== Baidiucao (巴丢草)
-
-* https://en.wikipedia.org/wiki/Badiucao
-* https://twitter.com/badiucao
-
-Has a more artistic red-black-white-yellow style.
-
 [[kuang-biao]]
 ==== Kuang Biao (邝飚)
 
@@ -11527,6 +11619,45 @@ Sample work:
 * <<li-wenliang-by-kuang-biao,Li Wenliang with barbed wire mask>>
 * <<trump-twitter-kuang-biao,Trump Twitter ban cartoon>>
 
+==== Scarfolk Council
+
+* https://en.wikipedia.org/wiki/Scarfolk
+* https://scarfolk.blogspot.com/
+* https://twitter.com/scarfolk
+* https://twitter.com/richard_littler
+
+Not about China specifically, but broadly anti-dictatorship, and so much of it applies perfectly!!! With that typical British humour touch of course.
+
+We have to translate the following into Chinese and add to the relevant sections:
+
+* <<censorship>>
+** https://scarfolk.blogspot.com/2020/06/unknown-poster-campaign-1970s.html "Unknown Poster Campaign (1970s)", content "For more information please re-read"
+** https://scarfolk.blogspot.com/2018/01/loose-tongues-public-information-1977.html "Talking about the contents of this poster is illegal"
+** https://scarfolk.blogspot.com/2017/10/illegal-public-displays-of-emotion.html Public displays of personal distress are unpatriotic"
+* https://scarfolk.blogspot.com/2017/05/children-cause-of-all-crime.html "Children: the cause of crime". Applies perfectly to <<xinjiang>> forced abortion accusations
+* https://scarfolk.blogspot.com/2016/08/human-rights-lottery-advertisement-1976.html "Win your human rights"
+* https://scarfolk.blogspot.com/2020/03/social-distancing-laws-1970.html "Illegal to gather in groups of one". This is a reference to <<covid>>, but it also applies perfectly to the lack of freedom of assembly in China
+* https://scarfolk.blogspot.com/2020/01/nhs-face-removals-1977.html "Lose Face" reminds one of the popular Chinese expression "miànzi 面子" translated at https://en.wikipedia.org/wiki/Face_(sociological_concept)#Chinese as:
++
+____
+face; side; reputation; self-respect; prestige, honor; social standing
+____
++
+and the corresponding "to lose face":
++
+** 丢脸 <<>>
+** 丢面子 https://baike.baidu.com/item/丢面子 on <<baidu-baike>>
+** https://www.italki.com/post/question-175686 丢面子和丢脸有什么大的区别吗？ (What's the difference between the two above.)
+* https://scarfolk.blogspot.com/2013/05/the-dont-campaign-and-kak-1973.html "Whatever you do, don't" applies perfectly to <<stack-overflow-mods-refuse-to-clarify-if-anti-ccp-imagery-is-allowed-or-not-2021>> Was actually given in the answer by Journeyman Geek's answer, and was the first time Ciro saw Scarfolk. so kudos for that.
+
+[[badiucao]]
+==== Baidiucao (巴丢草)
+
+* https://en.wikipedia.org/wiki/Badiucao
+* https://twitter.com/badiucao
+
+Has a more artistic red-black-white-yellow style.
+
 ==== Harry Harrison
 
 * https://en.wikipedia.org/wiki/Harry_Harrison_(cartoonist)
@@ -11534,6 +11665,10 @@ Sample work:
 Cartoonist for <<scmp>>.
 
 A subset of his posts on his column "Harry's view": https://www.scmp.com/photos/harrys-view
+
+Selected work:
+
+* <<i-need-to-talk-to-a-human-rights-lawyer,I need to talk to ahuman rights lawyer>>
 
 ==== Paresh Nath
 
@@ -11553,6 +11688,13 @@ Does he have anything besides the sexy BDSM gag ball 和諧/阿中哥哥 girl fr
 
 * https://www.reddit.com/r/translator/comments/f08s9o/unknown_english_can_anyone_translate_the_words_on/
 * https://supchina.com/2020/02/14/a-third-of-china-remains-on-at-least-partial-lockdown-from-covid-19/
+
+[[sun-xiangwen]]
+==== Sun Xiangwen (孙向文)
+
+https://zh.wikipedia.org/wiki/孙向文
+
+Appears to be mostly pro-Japan stuff, can't find any open examples, does not seem amazing.
 
 ===== Wumao artists
 
@@ -12829,6 +12971,7 @@ Non-political (as far as we can tell) channels of interest:
 Bibliography:
 
 * https://wokeglobaltimes.com/tankies-and-despair tankies, despair, and politics: a case study by the woke global times (2020)
+* https://www.zhihu.com/question/447085848 如何判断一个老外夸中国，是发自真心，还是财富密码？ (How to judge whether a foreigner praises China from his sincerity or the code of wealth? is about) on <<zhihu>>
 
 Discussion/lists: <<quora>>:
 
@@ -13241,6 +13384,7 @@ Se also: <<intolerance>>
 .<<badiucao>> cartoon of about 40 of the arrested lawyers. TODO full name list. https://twitter.com/badiucao/status/884005207830544385[Source].
 image::{china-dictatorship-media-base}/709_lawyers.jpg[height=400]
 
+[[i-need-to-talk-to-a-human-rights-lawyer]]
 ."I need to talk to a human rights lawyer. Well, you've come to the right place." by <<harry-harrison>> (2015), presumably referring to <<the-709-crackdown>>. https://www.facebook.com/scmp/photos/a.10150201552699820/10153429166334820[Source].
 image::{china-dictatorship-media-base}/I_need_to_talk_to_a_human_rights_lawyer.jpg[height=400]
 
