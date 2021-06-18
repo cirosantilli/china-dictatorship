@@ -80,6 +80,7 @@ const fuckMotherWords = [
   'cnm',
   '操你妈',
   'fuck.*\\b(mom|mum|mother)\\b',
+  '尼玛',
 ]
 for (const word of fuckMotherWords) {
   if (new RegExp(word, 'i').test(titleAndBody)) {
@@ -90,6 +91,7 @@ for (const word of fuckMotherWords) {
 const motherDiedWords = [
   'nmsl',
   '你妈死',
+  '司马',
 ]
 for (const word of motherDiedWords) {
   if (new RegExp(word, 'i').test(titleAndBody)) {
@@ -101,6 +103,9 @@ const shitpostWords = [
   'fuck',
   'shit',
   '垃圾',
+  '婊子',
+  '恶心',
+  '操你',
 ];
 for (const word of shitpostWords) {
   if (new RegExp(word, 'i').test(titleAndBody)) {

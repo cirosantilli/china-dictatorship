@@ -2081,6 +2081,10 @@ image::{china-dictatorship-media-base}/We_cant_complain_zh.jpg[height=600]
 .https://www.youtube.com/watch?v=4xoM6-1SWl4&t=1606 https://en.wikipedia.org/wiki/The_Living_Dead_(TV_series)[The Living Dead] Episode 1: On the Desperate Edge of Now by Adam Curtis (1995) comments on how interviews with https://en.wikipedia.org/wiki/Hermann_Göring[Hermann Goring] (https://zh.wikipedia.org/wiki/赫尔曼·戈林[赫尔曼·戈林]) during the https://en.wikipedia.org/wiki/Nuremberg_trials[Nuremberg trials] (https://zh.wikipedia.org/wiki/纽伦堡审判[纽伦堡审判]) went: "Again and again, Jackson accused Goring of corruptly using his powers to commit crimes. Each time, Goring replied that such acts might be considered crimes in a democratic state, but that in Germany, democracy had failed. Eliminating the political opposition was necessary, to fulfill a higher principle: that of the Nation. And that it had worked, Goring insisted. It had brought order and prosperity to Germany". Jackson asks: "Well, if you wanted a certain people killed, you would have to have some organization that would kill them didn't you?". Goring replies: "This was the only possible form of government at the time and it proved that Germany could be pulled out of the abyss of misery, poverty and unemployment and withing a short space of time be made flourish and bloom." This is _exactly_ the justification given by the <<ccp,CCP>> for oppressing minorities and <<censorship,freedom of speech>>: the CCP is indistinguishable from the <<nazi,Nazis>>.
 video::4xoM6-1SWl4[youtube,height=400,width=600,start=1606]
 
+[[scarfolk-public-displays-of-personal-distress-are-unpatriotic]]
+."Public displays of personal distress are unpatriotic" spoof poster by <<scarfolk-council>> (2017). https://scarfolk.blogspot.com/2017/10/illegal-public-displays-of-emotion.html[Source].
+image::{china-dictatorship-media-base}/Scarfolk_public_displays_of_personal_distress_are_unpatriotic.jpg[height=500]
+
 .https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game.
 video::zndzntIDLFE[youtube,height=400,width=600]
 
@@ -2884,7 +2888,7 @@ GitHub issue label: https://github.com/cirosantilli/china-dictatorship/issues?q=
 image::{china-dictatorship-media-base}/Rugae_vaginales_with_black_hole.jpg[height=400]
 
 [[ruhua]]
-====== Ruhua (disgrace china, 辱华, 乳华)
+====== Ruhua (to disgrace china, 辱华, 乳华)
 
 Basically a 2 character slang for <<hurt-the-feelings-of-the-chinese-people>> which cool people in the web use:
 
@@ -2908,7 +2912,9 @@ ____
 Thanks for submitting, this person is a bit crazy. I won't add it to the record, because if you add it, you will see more people. Not everyone has the ability to distinguish between authenticity and falsehood for this information. I'm afraid that some people will believe him or be induced by him. Therefore, it is better to silence him and reduce exposure. These people and countries must have been monitoring them, so we can rest assured.
 ____
 
-<<uneducated-masses>> comes to mind.
+This perfecly shows the ruhua paradox. In the end, you are only allowed to talk about the most idiotic and insipid events, while censoring any serious self criticism.
+
+<<uneducated-masses>> also comes to mind.
 
 TODO the README says that it is a static blog, but I can't find the source on GitHub anywhere, that repo contains almost nothing.
 
@@ -5503,7 +5509,7 @@ Related spam meta posts:
 image::{china-dictatorship-media-base-ignore}/The_world_is_perfect.png[height=500]
 
 ."The world is perfect" as used to update Ciro Santilli's https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[deleted answer]. Instead of redoing the tutorial from scratch, Ciro just pasted the new image on top of the old one Stack Exchange censored: <<tank-man-cc-by-sa,Ciro Santilli's CC By-SA Tank Man image>>. Borders of the censored image were intentionally left over however as a reminder that Stack Exchange censors. This is a work of art.
-image::{china-dictatorship-media-base}/The_world_is_perfect_Stack_Overflow.png[height=500]
+image::{china-dictatorship-media-base-ignore}/The_world_is_perfect_Stack_Overflow.png[height=500]
 
 .Politically correct version of <<tank-man-cc-by-sa,Ciro Santilli's CC By-SA Tank Man image>>. This is how <<stack-overflow,Stack Exchange>> wants the world to remember <<tiananmen>>.
 image::{china-dictatorship-media-base}/Tank_Man_drawing_censored_by_Ciro_Santilli_CC_BY_SA.png[height=500]
@@ -11633,22 +11639,17 @@ We have to translate the following into Chinese and add to the relevant sections
 * <<censorship>>
 ** https://scarfolk.blogspot.com/2020/06/unknown-poster-campaign-1970s.html "Unknown Poster Campaign (1970s)", content "For more information please re-read"
 ** https://scarfolk.blogspot.com/2018/01/loose-tongues-public-information-1977.html "Talking about the contents of this poster is illegal"
-** https://scarfolk.blogspot.com/2017/10/illegal-public-displays-of-emotion.html Public displays of personal distress are unpatriotic"
-* https://scarfolk.blogspot.com/2017/05/children-cause-of-all-crime.html "Children: the cause of crime". Applies perfectly to <<xinjiang>> forced abortion accusations
-* https://scarfolk.blogspot.com/2016/08/human-rights-lottery-advertisement-1976.html "Win your human rights"
+** <<scarfolk-public-displays-of-personal-distress-are-unpatriotic,Public displays of personal distress are unpatriotic>>
+* <<scarfolk-children-the-cause-of-crime>>
+* <<scarfolk-win-your-human-rights,Win your human rights>>
 * https://scarfolk.blogspot.com/2020/03/social-distancing-laws-1970.html "Illegal to gather in groups of one". This is a reference to <<covid>>, but it also applies perfectly to the lack of freedom of assembly in China
-* https://scarfolk.blogspot.com/2020/01/nhs-face-removals-1977.html "Lose Face" reminds one of the popular Chinese expression "miànzi 面子" translated at https://en.wikipedia.org/wiki/Face_(sociological_concept)#Chinese as:
-+
-____
-face; side; reputation; self-respect; prestige, honor; social standing
-____
-+
-and the corresponding "to lose face":
-+
-** 丢脸
-** 丢面子 https://baike.baidu.com/item/丢面子 on <<baidu-baike>>
 ** https://www.italki.com/post/question-175686 丢面子和丢脸有什么大的区别吗？ (What's the difference between the two above.)
-* https://scarfolk.blogspot.com/2013/05/the-dont-campaign-and-kak-1973.html "Whatever you do, don't" applies perfectly to <<stack-overflow-mods-refuse-to-clarify-if-anti-ccp-imagery-is-allowed-or-not-2021>> Was actually given in the answer by Journeyman Geek's answer, and was the first time Ciro saw Scarfolk. so kudos for that.
+* <<scarfolk-whatever-you-do-dont,Whatever you do, don't>>
+* <<scarfolk-children-the-cause-of-crime,Children: the cause of crime>>
+
+[[scarfolk-lose-face]]
+."Lose face" spoof poster by <<scarfolk-council>> (2020). "Lose Face" reminds one of the popular Chinese expression "miànzi 面子" translated at https://en.wikipedia.org/wiki/Face_(sociological_concept)#Chinese as "face; side; reputation; self-respect; prestige, honor; social standing" and the corresponding "to lose face": (丢脸, 丢面子 https://baike.baidu.com/item/丢面子 on <<baidu-baike>>). https://scarfolk.blogspot.com/2020/01/nhs-face-removals-1977.html[Source].
+image::{china-dictatorship-media-base}/Scarfolk_lose_face.jpg[height=500]
 
 [[badiucao]]
 ==== Baidiucao (巴丢草)
@@ -13326,6 +13327,10 @@ The <<nazi,Nazi Germany>> youth organization.
 
 http://ftp.iza.org/dp3214.pdf suggests that a 1% increase in the male/female sex ratio raised violent and property crime rates by some 3%, mentioned with percentage error at https://youtu.be/DytBlcScGNk?t=1304
 
+[[scarfolk-children-the-cause-of-crime]]
+."Children: the cause of crime" spoof poster by <<scarfolk-council>> (2017). Applies perfectly to <<xinjiang>> forced abortion accusations. The <<one-child-policy>> also comes to mind. https://scarfolk.blogspot.com/2017/05/children-cause-of-all-crime.html[Source].
+image::{china-dictatorship-media-base}/Scarfolk_children_the_cause_of_crime.jpg[height=500]
+
 [[rule-of-law]]
 === Rule of law (法治)
 
@@ -13352,6 +13357,10 @@ Notably, they punish people for their general beliefs rather than specific actio
 
 .On 2021-03-31, a uniformed Chinese cop called Qelbinur Sedik, who was a teacher in the <<xinjiang-re-education-camps>> who https://thediplomat.com/2020/08/confessions-of-a-xinjiang-camp-teacher/[fled China and spoke to the media what she saw], to menace her through her sister, who is still in China. When he noticed that she had taken a screenshot due to a screenshot sound, he immediately took off the uniform. https://www.bbc.co.uk/news/world-asia-china-56563449[Source].
 image::{china-dictatorship-media-base}/Qelbinur_Sedik_call_with_cop.jpg[height=400]
+
+[[scarfolk-whatever-you-do-dont]]
+."Whatever you do, don't" spoof poster by <<scarfolk-council>> (2013). This applies perfectly to <<stack-overflow-mods-refuse-to-clarify-if-anti-ccp-imagery-is-allowed-or-not-2021>> Was actually given in the answer by Journeyman Geek's answer, and was the first time Ciro saw Scarfolk. so kudos for that. https://scarfolk.blogspot.com/2013/05/the-dont-campaign-and-kak-1973.html[Source].
+image::{china-dictatorship-media-base}/Scarfolk_whatever_you_do_dont.jpg[height=500]
 
 [[the-709-crackdown]]
 ==== 709 crackdown (2015, 中國709維權律師大抓捕事件)
@@ -13387,6 +13396,10 @@ image::{china-dictatorship-media-base}/709_lawyers.jpg[height=400]
 [[i-need-to-talk-to-a-human-rights-lawyer]]
 ."I need to talk to a human rights lawyer. Well, you've come to the right place." by <<harry-harrison>> (2015), presumably referring to <<the-709-crackdown>>. https://www.facebook.com/scmp/photos/a.10150201552699820/10153429166334820[Source].
 image::{china-dictatorship-media-base}/I_need_to_talk_to_a_human_rights_lawyer.jpg[height=400]
+
+[[scarfolk-win-your-human-rights]]
+."Win your human rights" spoof poster by <<scarfolk-council>> (2016). https://scarfolk.blogspot.com/2016/08/human-rights-lottery-advertisement-1976.html[Source].
+image::{china-dictatorship-media-base}/Scarfolk_win_your_human_rights.jpg[height=500]
 
 [[picking-quarrels]]
 ==== Picking quarrels and provoking trouble (寻衅滋事罪)
