@@ -69,6 +69,8 @@ const shabiWords = [
   '傻',
   '沙雕',
   '智障',
+  '啥b',
+  'stupid',
 ];
 for (const word of shabiWords) {
   if (new RegExp(word, 'i').test(titleAndBody)) {
@@ -81,6 +83,7 @@ const fuckMotherWords = [
   '操你妈',
   'fuck.*\\b(mom|mum|mother)\\b',
   '尼玛',
+  '去你吗',
 ]
 for (const word of fuckMotherWords) {
   if (new RegExp(word, 'i').test(titleAndBody)) {
@@ -102,6 +105,7 @@ for (const word of motherDiedWords) {
 const shitpostWords = [
   'fuck',
   'shit',
+  'bitch',
   '垃圾',
   '婊子',
   '恶心',

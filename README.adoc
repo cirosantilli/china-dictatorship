@@ -814,7 +814,8 @@ Related:
 
 * https://en.wikipedia.org/wiki/Internet_activism
 
-===== Bitcoin blockchain
+[[bitcoin-blockchain]]
+===== Anti-CCP content in the Bitcoin blockchain (在比特币区块链的反中共内容)
 
 Blockchain technologies, such as Bitcoin, provide essentially uncensorable (at a transaction cost), because the messages are put together with financial transactions which are extremely valuable to its users.
 
@@ -877,7 +878,8 @@ https://www.theregister.com/2019/05/10/amazon_backtracks_on_s3/ clarifies that o
 
 the second of which can be easily blocked by domain, but the first can't, and how amazon was planning on killing the first option.
 
-===== Dual-use technology
+[[dual-use-technology]]
+===== Dual-use technology (军民两用技术)
 
 * https://en.wikipedia.org/wiki/Dual-use_technology
 
@@ -982,6 +984,48 @@ No.
 I just think that the website is great, and want to push it to perfection, in particular with better Google keyword hits, and uniform grammatically correct titles.
 
 If you think that any of my edits were harmful, please ping me and open a meta thread to discuss specific edits, and I will comply with consensus.
+
+[[communist-bread]]
+==== Communist bread (中共面包)
+
+Earliest sources found so far are from <<reddit>>:
+
+* https://www.reddit.com/r/China/comments/o2qyu5/china_has_a_brand_of_bread_named_stop_interfering/
+* https://www.reddit.com/r/chonglangTV/comments/o2l16c/香啊造啊/
+
+English text:
+
+____
+Stop interfering in China's internal affairs
+Bread
+____
+
+Chinese text:
+
+____
+中国人不吃这一套 +
+美国没有资格 +
+居高临下同中国说话 +
+巧克力酱面包 +
+保质期10天 +
+____
+
+Translation:
+
+____
+The Chinese people don't eat this trick +
+The United States is not qualified to +
+Take the high ground and look down on China +
+Chocolate sauce bread +
+Best before: 10 days
+____
+
+https://www.reddit.com/r/China/comments/o2qyu5/china_has_a_brand_of_bread_named_stop_interfering/h2838jz mentions that this was something that came from the https://en.wikipedia.org/wiki/United_States%E2%80%93China_talks_in_Alaska[2021 US-China Alaska summit]
+
+Here is a different picture of the same product from April 14th: https://twitter.com/YukayuyuWasGod/status/1382218316895244295 That one might allow better brand identification: 万X福 That one also posted at: https://www.reddit.com/r/China_irl/comments/o2zbsw/偶然看到这张图不知道是不是真的/ Watermarked Weibo @第三豹弹
+
+.Chinese <<dual-use-technology,dual-use>> bread.
+image::{china-dictatorship-media-base}/Stop_interfering_in_Chinas_internal_affairs_bread.jpg[height=500]
 
 [[why-end-dictatorship]]
 === Why would China be better without its Dictatorship?
@@ -3949,7 +3993,11 @@ Overview projects:
 
 News:
 
-* 202104-16 https://twitter.com/adrianzenz/status/1382397174684680197 "Breaking: Xinjiang's latest 2020 Statistical Yearbook lacks ALL crucial population data"
+* 2021-06 Inside Xinjiang short video series by The Telegraph. Basically the lady getting followed by police everywhere, and some destroyed mosques.
+** https://www.youtube.com/watch?v=1LLMSzh4ZZI
+** https://www.youtube.com/watch?v=4w3_A2vRGqE
+** https://www.youtube.com/watch?v=1LLMSzh4ZZI
+* 2021-04-16 https://twitter.com/adrianzenz/status/1382397174684680197 "Breaking: Xinjiang's latest 2020 Statistical Yearbook lacks ALL crucial population data"
 * 2021-04 The wings of songs (歌声的翅膀, 2021) Xinjiang propaganda musical film
 ** https://www.theguardian.com/books/video/2021/apr/03/wings-of-song-china-launches-idyllic-musical-set-in-xinjiang-video
 ** https://www.youtube.com/watch?v=yt-FkaH5YwI trailer
