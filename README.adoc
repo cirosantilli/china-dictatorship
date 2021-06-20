@@ -10575,6 +10575,8 @@ video::0XwXaCbfIGw[youtube,height=400,width=600]
 
 Very popular Chinese language anonymous blogger that publishes software programming tutorials and political content since 2009, often negative about the CCP, in particular <<censorship,anti-censorship>> and <<brainwashed-by-usa,anti-CCP-brainwashing>>.
 
+He was likely arrested in 2021 according to an anonymous report to <<rfa>> https://www.rfa.org/cantonese/news/arrest-06142021121609.html[] and abnormal lack of posts. Some people started wishing he will come back on comments: https://github.com/programthink/books/issues/96
+
 * https://zh.wikipedia.org/wiki/编程随想的博客 (there is no English page as of January 2020)
 * https://program-think.blogspot.com/ The blog. Blocked in China with the <<censorship,rest of Blogspot>>:
 ** 2020 categorized summary of the best posts of all time: https://program-think.blogspot.com/2020/01/11-years-blogging.html
@@ -10596,6 +10598,8 @@ Mentions in other sections:
 
 .Programthink uses https://en.wikipedia.org/wiki/The_Thinker[Rodin's The Thinker sculpture] as its avatar, to encourage people to think for themselves rather than <<censorship,blindly believe the Party>>. https://github.com/programthink/[Source].
 image::{china-dictatorship-media-base}/Programthink.jpg[height=400]
+
+https://www.rfa.org/cantonese/news/arrest-06142021121609.html
 
 [[liu-xiaobo]]
 ==== Liu Xiaobo (刘晓波, 1955-2017)
