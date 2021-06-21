@@ -2374,6 +2374,9 @@ Label: https://github.com/cirosantilli/china-dictatorship/issues?q=is%3Aissue+is
 
 * https://en.wikipedia.org/wiki/Killing_of_George_Floyd[George Floyd]
 * https://zh.wikipedia.org/wiki/乔治·弗洛伊德之死[乔治·弗洛伊德之死]
+* https://en.wikipedia.org/wiki/I_can%27t_breathe
++
+<<wumao>>'s started posting "I can't breathe" everywhere, to which some people on Twitter replied "I can't tweet" and <<rebel-pepper>> made a cartoon: https://www.rfa.org/english/cartoons/twitter-china-cartoon-06052020164712.html
 
 The murder video went viral and was not taken down (would have been in China), all four officers were charged, and the event sparked nation wide protests:
 
@@ -2388,7 +2391,8 @@ But <<ciro-santilli>> feels strongly that the Chinese are also obviously at leas
 
 Oh, and the USA, and other Western countries besides Germany, were also racist against Jews, e.g. https://en.wikipedia.org/wiki/Richard_Feynman[Richard Feynman] could not be admitted in certain universities due to a https://en.wikipedia.org/wiki/Jewish_quota[Jewish quota], even though he was not a believer himself, therefore based on race alone!
 
-<<wumao>>'s started posting "I can't breathe" everywhere, to which some people on Twitter replied "I can't tweet" and <<rebel-pepper>> made a cartoon: https://www.rfa.org/english/cartoons/twitter-china-cartoon-06052020164712.html
+.Racism in the West vs racism in China. Of course there is racism in the West against black people. But the people have the choice to speak up against it to try and change things. In China however, speaking up against Muslim racism, means going to jail. Image sources: https://en.wikipedia.org/wiki/File:George_Floyd_neck_knelt_on_by_police_officer.png[murder of George Floyd], https://en.wikipedia.org/wiki/File:George_Floyd_protests_in_Philadelphia_02.jpg[George Floyd protests in Philadelphia], https://mvslim.com/re-education-camps-for-muslims-chinas-muslim-community-the-uyghurs-are-facing-a-new-level-of-oppression[Xinjiang prisoners], https://www.reuters.com/world/china/what-people-said-hong-kong-tiananmen-anniversary-2021-06-04/[Tiananmen Square on 2021-06-03], the anniversary of <<tiananmen>>.
+image::{china-dictatorship-media-base}/Racism_in_the_West_vs_China_George_Floyd_vs_Xinjiang.jpg[height=600]
 
 [[we-dont-hire-blacks-by-aaron-dewitt-2020]]
 ====== We Don't Hire Blacks by Aaron Dewitt (我们不雇用黑人, 2020)
@@ -4166,7 +4170,8 @@ Note that Muhammad is an incredibly popular name in Islamic countries, and thoug
 It is so prevalent, that it is often shortened to just "Md." and people are just called by their second name to reduce ambiguity: https://en.wikipedia.org/wiki/Arabic_name#Ism
 * 2017-04 https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html
 +
-.Image of prisoners wearing blue sitting down in Kaifaqu internment camp (TODO Chinese) in https://en.wikipedia.org/wiki/Lop_County[Lop county] (https://zh.wikipedia.org/wiki/洛浦县[洛浦县]) on April 2017. The image shows some prisoners identified to indicate that they are not criminals but rather detained purely for political reasons, their name from left to right: Mamtimin, Aziz Haji Shangtang, Eli Ahun Qarim, and Abdulla Haret. A fifth and sixth ones were https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[identified in another report]. https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[Source].
+[[xinjiang-lop-county]]
+.Image of prisoners wearing blue sitting down in Kaifaqu internment camp (TODO Chinese) in https://en.wikipedia.org/wiki/Lop_County[Lop county] (https://zh.wikipedia.org/wiki/洛浦县[洛浦县]) on April 2017. The image shows some prisoners identified to indicate that they are not criminals but rather detained purely for political reasons, their name from left to right: Mamtimin, Aziz Haji Shangtang, Eli Ahun Qarim, and Abdulla Haret. A fifth and sixth ones were https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[identified in another report]. This image has become emblematic of the prison camps. Wikipedia cites as a source: http://web.archive.org/web/20180821032854/https://baijiahao.baidu.com/s?id=1564669932542581[] which was down as of 2021-06. But that image has a semi cropped watermark, so it simply cannot be the original image. An image with the same watermark uncropped can be seen at: https://mvslim.com/re-education-camps-for-muslims-chinas-muslim-community-the-uyghurs-are-facing-a-new-level-of-oppression/[] it reads "[<<wechat>> logo]新疆司法行政" (Xinjiang judicial administration) Freewechat from <<greatfire>> has a dump of some of their WeChat posts: https://freewechat.com/profile/MzIwODIyNTU1NA== but we could not find the one containing that image specifically, although the watermark is the same. https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html[Source].
 image::{china-dictatorship-media-base}/Xinjiang_prisoners_sitting_identified.jpeg[height=400]
 
 .Workers walking next to a prison-like security wall with concertina wire and barbed wire in the https://en.wikipedia.org/wiki/Dabancheng_District[Dabancheng] (https://zh.wikipedia.org/wiki/达坂城区[达坂城区]) <<xinjiang-re-education-camps,re-education camp>> circa 2019. https://www.dw.com/en/western-un-envoys-condemn-chinas-muslim-re-education-camps/a-49543438[Source].
@@ -10203,7 +10208,7 @@ image::{china-dictatorship-media-base}/Tiananmen_helmet.jpg[height=500]
 .Bodies with gun wounds at the mortuary at Shuili Hospital (水利医院太平间, Hospital of the Ministry of Water Resources of China, https://goo.gl/maps/xAy55T3sydW8X81M6[Google maps], https://bkso.baidu.com/item/水利医院[Baidu], https://cn.nytimes.com/china/20190531/tiananmen-square-protest-photos/[New York Times Chinese report]), about 8km West of Tiananmen Square. https://www.nytimes.com/2019/05/30/world/asia/tiananmen-square-protest-photos.html[Source].
 image::{china-dictatorship-media-base}/Tiananmen_Shuili_Hospital_dead.jpg[height=500]
 
-.A Chinese couple on a bicycle take cover beneath an underpass as tanks deploy overhead in eastern Beijing on 1989-06-05 by AP Photo/Liu Heung Shing. This photo one is almost poetic. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
+.A Chinese couple on a bicycle take cover beneath an underpass as tanks deploy overhead in eastern Beijing on 1989-06-05 by AP Photo/Liu Heung Shing. This photo one is almost poetic. https://www.taipeitimes.com/News/world/archives/2021/06/04/2003758586 contains another wider picture of the same bridge at a different time. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_bicycle_bridge.jpg[height=600]
 
 .Family members try to comfort a mother who has just learned of her son's death after he was killed by soldiers at Tiananmen Square, June 4. TODO what's her name? An association https://en.wikipedia.org/wiki/Tiananmen_Mothers[Tiananmen Mothers] (https://zh.wikipedia.org/wiki/天安门母亲运动[天安门母亲运动]) was created after the events. https://www.gettyimages.co.uk/detail/news-photo/family-members-try-to-comfort-a-grief-stricken-mother-who-news-photo/640454591[Getty source]. https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary[Source].
@@ -13921,7 +13926,7 @@ Domain selection:
 * 2017-06 http://km.oa.com/articles/show/329260 to ELF hello world
 
 [[wechat]]
-==== WeChat (微信)
+==== WeChat (微信, Weixin)
 
 * https://en.wikipedia.org/wiki/WeChat
 * https://zh.wikipedia.org/wiki/微信
