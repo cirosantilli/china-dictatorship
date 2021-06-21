@@ -2391,7 +2391,7 @@ Oh, and the USA, and other Western countries besides Germany, were also racist a
 <<wumao>>'s started posting "I can't breathe" everywhere, to which some people on Twitter replied "I can't tweet" and <<rebel-pepper>> made a cartoon: https://www.rfa.org/english/cartoons/twitter-china-cartoon-06052020164712.html
 
 [[we-dont-hire-blacks-by-aaron-dewitt-2020]]
-====== We Don't Hire Blacks by Aaron Dewitt (2020)
+====== We Don't Hire Blacks by Aaron Dewitt (我们不雇用黑人, 2020)
 
 This amazing video was originally uploaded to https://www.youtube.com/watch?v=d81mEbL8Yw8 by <<aaron-dewitt>> on 2020-09-21 but it was down as of 2021-06-21. Last <<wayback-machine>> archive as of that date: 2020-11-03.
 
@@ -5867,6 +5867,7 @@ Query to find them: https://data.stackexchange.com/stackoverflow/query/312863/me
 ** explanation:
 *** "燃烧您的梦": http://www.nq6.com/dj/1674.html
 *** "Wounded Knee": https://en.wikipedia.org/wiki/Wounded_Knee_Massacre
+* https://web.archive.org/web/20210621133747/https://stackoverflow.com/users/13740876/蔣禿賊送東北屠義士血染四一二蔡蛙魁請疫苗毒萬民跪地拜美倭
 
 ==== GitHub
 
