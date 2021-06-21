@@ -2388,9 +2388,79 @@ But <<ciro-santilli>> feels strongly that the Chinese are also obviously at leas
 
 Oh, and the USA, and other Western countries besides Germany, were also racist against Jews, e.g. https://en.wikipedia.org/wiki/Richard_Feynman[Richard Feynman] could not be admitted in certain universities due to a https://en.wikipedia.org/wiki/Jewish_quota[Jewish quota], even though he was not a believer himself, therefore based on race alone!
 
-[[don-t-hire-blacks]]
-.https://www.youtube.com/watch?v=d81mEbL8Yw8 Don't Hire Blacks - A Corporate Exposé of Racist Companies | The Chinese Tea | Chinese T | CCP | CPC by <<aaron-dewitt,The Chinese Tea>> (21-09-2020)
-video::d81mEbL8Yw8[youtube,height=400,width=600]
+<<wumao>>'s started posting "I can't breathe" everywhere, to which some people on Twitter replied "I can't tweet" and <<rebel-pepper>> made a cartoon: https://www.rfa.org/english/cartoons/twitter-china-cartoon-06052020164712.html
+
+[[we-dont-hire-blacks-by-aaron-dewitt-2020]]
+====== We Don't Hire Blacks by Aaron Dewitt (2020)
+
+This amazing video was originally uploaded to https://www.youtube.com/watch?v=d81mEbL8Yw8 by <<aaron-dewitt>> on 2020-09-21 but it was down as of 2021-06-21. Last <<wayback-machine>> archive as of that date: 2020-11-03.
+
+The video description was:
+
+____
+This is an exposé of racist companies that I worked for, some of which operate in the United States and Canada, all of which are headquartered in China.
+____
+
+In it, Aaron describes his experiences with the recruitment team of one of his former employers, an unnamed "Chinese ed-tech company in Beijing", for which he worked in human resources. In another also deleted video https://www.youtube.com/watch?v=c6uFGGunRxc he mentions that he cannot mention the name of the company because he was under NDA.
+
+Notably, in that video, he gives several screenshots of Google Sheets spreadsheets with explicitly racist reasons why people were not hired, one of which is <<we-dont-hire-blacks-screenshot,reproduced here>>. Examples of such reasons include:
+
+* "Skin color"
+* "Non-Caucasian"
+* "62-years old"
+* "elderly"
+* "Hispanic"
+
+He mentions:
+
+____
+On the first day at this company, I had an orientation with my supervisor Ng, who is the head of the training department. She told me:
+
+"We hire blacks. Obama black is OK. But no darker, or they'll scare the kids. The kids will think they're some kind of monster!" 
+____
+
+which would lead parents to just go to a competitor instead. Then he mentions about the Google Sheets documents that:
+
+____
+They shared this document with the entire management team in Beijing, and everyone not only knew, but expected this discrimination to take place.
+____
+
+In the video he also explains how he once went to a 2 week holiday to Bali, and when he came back with his skin darker due to the tanning, he was reprimanded by a manager, who said that he could not work looking like that.
+
+He explicitly mentions later the video that https://en.wikipedia.org/wiki/VIPKid[VIPKid], for which he did not work, is a similar company in nature, but not the one he is talking about.
+
+Wikipedia mentions about VIPKid
+
+____
+Its online-classroom portal enables students to receive 25-minute English language lessons from fluent English-speaking teachers.
+
+In March 2019, VIPKid fired two American teachers for discussing the 1989 <<tiananmen>> and <<taiwan>> with their students in China. Teachers have also reported witnessing child abuse when teaching lessons, but they found little recourse to report such issues.
+____
+
+As of 2021-05-05, the banner image of VIPKid's website explicitly includes a https://en.wikipedia.org/wiki/Tokenism[token black person]: https://web.archive.org/web/20210505045920/https://www.vipkid.com/[], so their PR department clearly caught air of this. This is however only a frontend for hiring American teachers. The real Chinese client website https://www.vipkid.com.cn/[], rest assured, contains no black people: (https://web.archive.org/web/20210424032446/https://www.vipkid.com.cn/[archive])
+
+VIPKids had a 3 billion valuation in https://techcrunch.com/2018/06/21/chinas-vipkid-which-links-native-english-speakers-with-online-learners-raises-another-500m-reportedly-at-3b-valuation/
+
+Wikipedia links as one of its sources to this 2019 article https://www.wired.com/story/when-online-teaching-job-becomes-window-child-abuse/[] which mentions:
+
+____
+Of the dozens of companies vying to cash in on the tutoring business, it is by far the largest, having raised $825 million in investment capital since its founding. Other major players include Qkids, Magic Ears, DaDa, and Gogokid, all based in China. 
+____
+
+so it is overwhelmingly likely that one of those is the one mentioned Aaron is talking about:
+
+* Qkids
+* Magic Ears
+* DaDa
+* Gogokid
+
+Later in the video Aaron mentions that the company in question "basically went bankrupt".
+
+He also mentions that he later worked for https://www.forbes.com/companies/offcn-education-technology/?sh=6d49822b4e45[offcn], which is run by the Chinese Government, and they would absolutely not hire black people.
+
+[[we-dont-hire-blacks-screenshot]]
+.Screenshot of the video <<we-dont-hire-blacks-by-aaron-dewitt-2020>> showing a list racist job interview candidate rejection reasons.
+image::{china-dictatorship-media-base}/We_don_t_hire_blacks_by_Aaron_DeWitt_2020.jpg[height=500]
 
 ===== Western democracies have invaded other countries and crushed separatism
 
@@ -2642,7 +2712,7 @@ ____
 
 Snowden then later released the entire Chinese version of the book for free online with the censored parts underlined: https://www.theregister.co.uk/2020/02/10/snowden_china_censorship (https://web.archive.org/web/20200213001653/https://www.theregister.co.uk/2020/02/10/snowden_china_censorship[archive]), link to the book: link:++https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf++[] (https://web.archive.org/web/20200212144108/https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf[archive]). One wonders why he didn't just do that in the first place for all versions, maybe he needed to pay the writer that helped him?
 
-.Snowden highlighted defects on abuses of power in a Western democracy, and the discussion he sparked helped to control such abuses. https://en.wikipedia.org/wiki/File:Edward_Snowden-2.jpg[Source].
+.Snowden highlighted defects on abuses of power in a Western democracy, and the discussion he sparked helped to control such abuses. <<to-obey-is-to-betray,To obey is to betray>> comes to mind. https://en.wikipedia.org/wiki/File:Edward_Snowden-2.jpg[Source].
 image::{china-dictatorship-media-base}/Snowden.jpg[height=400]
 
 ===== Bad things have been done in the name of freedom
@@ -3628,7 +3698,7 @@ News:
 * 2021-04-08: publicly supported the <<milk-tea-alliance>>
 
 [[trump-twitter-kuang-biao]]
-.Cartoon showing Donald Trump's mouth sewn shut in a "Twitter" shape by <<kuang-biao>> (2021) after Trump was <<unjust-social-media-censorship-in-the-west,banned from Twitter>>. You know it's bad when the artists who normally criticize the <<ccp,CCP>> start to criticize you. https://xueqiu.com/9870976009/168210673[Source].
+.Cartoon showing Donald Trump's mouth sewn shut in a "Twitter" shape by <<kuang-biao>> (2021) after Trump was <<unjust-social-media-censorship-in-the-west,banned from Twitter>>. You know it's bad when the artists who normally criticize the <<ccp,CCP>> start to criticize you. <<rebel-pepper>>'s https://www.rfa.org/english/cartoons/twitter-china-cartoon-06052020164712.html["I can't Tweet"] comes to mind, although it was about <<racist-west>> instad. https://xueqiu.com/9870976009/168210673[Source].
 image::{china-dictatorship-media-base}/Flag_of_the_Republic_of_China.svg[height=400]
 
 ===== YouTube
@@ -4105,10 +4175,10 @@ image::{china-dictatorship-media-base}/Dabancheng_reeducation_camp.jpg[height=40
 .Security towers and inmate buildings of the https://en.wikipedia.org/wiki/Artux[Artux city] (https://zh.wikipedia.org/wiki/阿图什市[阿图什市]) <<xinjiang-re-education-camps,re-education camp>> circa 2018-12-03. https://apnews.com/article/think-tanks-australia-china-13278c6178b9da1c37cbbc5bd063e473[Source].
 image::{china-dictatorship-media-base}/Artux_city_reeducation_camp.webp[height=400]
 
-.https://www.youtube.com/watch?v=AxnS4z-cSlI (https://github.com/cirosantilli/china-dictatorship/issues/220[GitHub upload]) 2021 video showing dozens of Uyghurs standing on a large court being brainwashed by a woman saying on a loudspeaker: 社会主义核心价值观，一定维护民族团结 (Socialist core values definitely maintain ethnic harmony). The echo of the speaker on the background buildings is eery. UNCONFIRMED. https://twitter.com/__Inty__/status/1381002964551168000[Source].
+.https://www.youtube.com/watch?v=AxnS4z-cSlI (https://github.com/cirosantilli/china-dictatorship/issues/220[GitHub 上传 upload]) 2021 video showing dozens of Uyghurs standing on a large court being brainwashed by a woman saying on a loudspeaker: 社会主义核心价值观，一定维护民族团结 (Socialist core values definitely maintain ethnic harmony). The echo of the speaker on the background buildings is eery. UNCONFIRMED. https://twitter.com/__Inty__/status/1381002964551168000[Source].
 video::AxnS4z-cSlI[youtube,height=400,width=600]
 
-.https://www.youtube.com/watch?v=dUmom_z6nQ4 (https://github.com/cirosantilli/china-dictatorship/issues/221[GitHub upload]) <<tiktok>> video of a few dozen Uyghur chilren being marched on the street with large bags, presumably during a displacement. The adults organizing it are a laugh, presumably at something cute one of the children did. Video markings: "@MaD DaN", location: "伯干村" (Bogancun, a town in Xinjiang https://goo.gl/maps/rt6jaT8oEjoXo95t8[according to Google Maps]), rolling banner TODO confirm, understand: "诗书达理之山人刨作原声". TODO identify Chinese music being sang on background, it is not clear if it is an edit or from the footage. The echo of the speaker on the background buildings is eery. UNCONFIRMED. https://twitter.com/Uyghurian/status/1380992770823835664[Source].
+.https://www.youtube.com/watch?v=dUmom_z6nQ4 (https://github.com/cirosantilli/china-dictatorship/issues/221[GitHub 上传 upload]) <<tiktok>> video of a few dozen Uyghur chilren being marched on the street with large bags, presumably during a displacement. The adults organizing it are a laugh, presumably at something cute one of the children did. Video markings: "@MaD DaN", location: "伯干村" (Bogancun, a town in Xinjiang https://goo.gl/maps/rt6jaT8oEjoXo95t8[according to Google Maps]), rolling banner TODO confirm, understand: "诗书达理之山人刨作原声". TODO identify Chinese music being sang on background, it is not clear if it is an edit or from the footage. The echo of the speaker on the background buildings is eery. UNCONFIRMED. https://twitter.com/Uyghurian/status/1380992770823835664[Source].
 video::dUmom_z6nQ4[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=ZcLbAveuemI Here is a trick to getting longer lashes by feroza.x (2019). In this <<tiktok>> video, American then 17-year old Feroza Aziz, alias feroza.x, starts what looks likea regular makeup video, but which soon turns out to be a https://en.wikipedia.org/wiki/Bait-and-switch[bait-and-switch] video drawing attention to the <<xinjiang-re-education-camps>>. This is somewhat similar to a <<keyword-attack>> with its <<dual-use-technology>> approach.
@@ -4140,7 +4210,8 @@ By the https://en.wikipedia.org/wiki/Australian_Strategic_Policy_Institute[Austr
 .Screenshot of the interactive map of the <<xinjiang-re-education-camps>> by the <<xinjiang-data-project>>. https://xjdp.aspi.org.au/map/?cultural=none&mosque=none[Source].
 image::{china-dictatorship-media-base}/Xinjiang_Data_Project_screenshot_of_camp_map_2021.jpg[height=600]
 
-====== Xinjiang model camps for foreign media
+[[xinjiang-model-camps-for-foreign-media]]
+====== Xinjiang model camps for foreign media (新疆外媒示范营)
 
 Starting in 2019, China officially invited foreign journalists to some of their model camps to show how happy people were.
 
@@ -4159,7 +4230,8 @@ video::WmId2ZP3h0c[youtube,height=400,width=600]
 .Man wearing traditional Xinjiang clothing and playing a traditional instrument inside a classroom setting inside a prison camp, as the CCP tries to show the world that they are happy and their culture is being respected, and only makes things worse. The man also shows on the video at: https://youtu.be/WmId2ZP3h0c?t=407[] made by the BBC when they got supervised access to the camps to film, nearby segment uploaded at: https://github.com/cirosantilli/china-dictatorship/issues/169[]. https://www.bbc.co.uk/news/blogs-china-blog-48700786[Source].
 image::{china-dictatorship-media-base}/Uyghur_playing_guitar.jpg[height=400]
 
-====== Forced displacement of Uyghurs across China (2020)
+[[forced-displacement-of-uyghurs-across-china-2020]]
+====== Forced displacement of Uyghurs across China (2020, 维吾尔人被迫流离失所)
 
 Many videos were published on <<tiktok>>, 2020-07-09 https://www.codastory.com/authoritarian-tech/china-uyghur-migration/ "Revealed: New videos expose China’s forced migration of Uyghurs during the pandemic" has compilations of the most well known videos, with direct MP4 uploads that are easy to download.
 
@@ -4178,20 +4250,29 @@ video::M_aXcH1zDEE[youtube,height=400,width=600,start=128]
 .https://www.youtube.com/watch?v=Mx0JFgwATho New footage shows Uyghurs bussed across China for forced labour in factories by Channel 4 News (2020) contains one of the many edits made with a https://en.wikipedia.org/wiki/Bella_ciao[bella ciao] (https://zh.wikipedia.org/wiki/啊朋友再见[啊朋友再见]) background, Chinese version showing uyghurs being sent in busses to work in far away locations in China. The music fits perfectly, literal translation of the Chinese version is "Ah, friend, goodbie".
 video::Mx0JFgwATho[youtube,height=400,width=600]
 
-====== Merdan Ghappar's video (2020)
+[[merdan-ghappar-s-video-2020]]
+====== Merdan Ghappar's Xinjiang prison video (2020, 麥爾丹·阿巴的新疆监狱视频)
 
-https://www.bbc.co.uk/news/world-asia-china-53650246
+GitHub 上传 upload: https://github.com/cirosantilli/china-dictatorship/issues/374
+
+* https://en.wikipedia.org/wiki/Merdan_Ghappar
+* https://zh.wikipedia.org/wiki/麥爾丹·阿巴
+
+Original report by the <<bbc>>:
+
+* https://www.bbc.com/zhongwen/trad/chinese-news-53816701
+* https://www.bbc.co.uk/news/world-asia-china-53650246
 
 Self made video shows the ex-model chained to a bed in a camp. Text messages give further details.
 
 Text messages and translation: https://medium.com/@millwarj/wear-your-mask-under-your-hood-an-account-of-prisoner-abuse-in-xinjiang-during-the-2020-3007a1f7437d
 
-https://www.youtube.com/watch?v=mX-jY1tgL_o
+https://www.youtube.com/watch?v=tg4sWv3dEvU&list=PLQReVuWUFgXOlOOmJGRgVDtp2XqED0-8Y is a playlist with dozens of videos of him being cute while modelling. Appears to be mostly a <<tiktok,Douyin>> dump mostly. https://www.youtube.com/watch?v=AUr97pK9qmU is particularly good.
 
 .https://www.youtube.com/watch?v=mX-jY1tgL_o Merdan Ghappar's video footage, terrible screen capture from the BBC original, but can't find a better one.
 video::mX-jY1tgL_o[youtube,height=400,width=600]
 
-.https://www.youtube.com/watch?v=SYhcrXYA6tM Rare footage of former model held for “re-education” in China’s detention system - BBC News (2020) Reportage with more context, including previoius modeling work. They're uncapable of adding the name "Merdan Ghappar" to the title or description however, what newbs.
+.https://www.youtube.com/watch?v=SYhcrXYA6tM Rare footage of former model held for “re-education” in China’s detention system - BBC News (2020) Reportage with more context, including previous modeling work. They're incapable of adding the name "Merdan Ghappar" to the title or description however, what newbs.
 video::SYhcrXYA6tM[youtube,height=400,width=600]
 
 [[xinjiang-cotton]]
@@ -4235,7 +4316,7 @@ Reports:
 image::{china-dictatorship-media-base}/Xinjiang_cotton_vs_American_plantation_from_1908.jpg[height=400]
 
 [[other-islam-countries-speak-up-for-uyghur]]
-====== Why don't many other Islamic countries speak up for the Uyghur persecution?
+====== Why don't many Islamic countries speak up for the Uyghur persecution? (为什么很多伊斯兰国家不反对维吾尔族迫害？)
 
 Either because those countries:
 
@@ -4263,6 +4344,10 @@ ____
 
 .<<rebel-pepper>> 2019-07 cartoon showing <<xi-jinping>> claiming to have won the global opinion on the Xinjiang re-education camps because all other dictatorships support him, including <<other-islam-countries-speak-up-for-uyghur,Islamic dictatorships>>. https://www.rfa.org/english/cartoons/XiJinping-uyghur-camp-cartoon-07162019155441.html[Source].
 image::{china-dictatorship-media-base}/Xinjiang_I_won.jpeg[height=400]
+
+[[pakistan-prime-minister-xinjiang]]
+.https://youtube.com/watch?v=YlHPEgE3fjk <<pakistan>> Prime Minister https://en.wikipedia.org/wiki/Imran_Khan[Imran Khan] refuses to acknowledge <<xinjiang-re-education-camps,Muslim Uyghur oppression in Xinjiang>> during interview, cites Chinese money by HBO (2021). Correctly mentions <<israel>> in his defense.
+video::YlHPEgE3fjk[youtube,height=400,width=600]
 
 [[holocaust-denial]]
 ====== Holocaust denial (犹太人大屠杀否定论)
@@ -4548,7 +4633,8 @@ image::{china-dictatorship-media-base}/Kneeling_by_Adam_Zyglis_NFL_Colin_Kaepern
 .In 2020-10-04 American billboard company https://en.wikipedia.org/wiki/Outfront_Media[Outfront Media] refused to post this ad by the https://en.wikipedia.org/wiki/National_Legal_and_Policy_Center[NLPC conservative think tank] critical of LeBron James' stand on Hong Kong. The ad shows the NBA superstar with a Chinese flag covering his mouth and the message "Silence is Violence." and URL http://freedom4china.com/[]. <<to-obey-is-to-betray,To obey is to betray>> comes to mind. https://www.foxnews.com/sports/billboard-company-refuses-to-post-ad-critical-of-lebron-james-stand-on-china[Source].
 image::{china-dictatorship-media-base}/Silence_is_violence.jpg[height=400]
 
-=== What should all pro-democracy people do about China?
+[[what-should-all-pro-democracy-people-do-about-china]]
+=== What should all pro-democracy people do about China? (所有的民主派人士应该干什么？)
 
 A propaganda slogan from a https://en.wikipedia.org/wiki/French_Resistance[French Resistance] (https://zh.wikipedia.org/wiki/法國抵抗運動[法国抵抗运动]) flyer (see also <<nazi>>):
 
@@ -4564,8 +4650,14 @@ Désobéir c'est servir.
 ____
 
 [[to-obey-is-to-betray]]
-."Obéir c'est trahir. Désobéir c'est servir." flyer featuring the https://en.wikipedia.org/wiki/Cross_of_Lorraine[cross of Lorraine] https://www.larousse.fr/encyclopedie/images/Obéir_cest_trahir_Désobéir_cest_servir/1314227[Source].
+.To obey is to betray. To disobey is to server ("Obéir c'est trahir. Désobéir c'est servir" in French) flyer featuring the https://en.wikipedia.org/wiki/Cross_of_Lorraine[cross of Lorraine] (https://zh.wikipedia.org/wiki/洛林十字[洛林十字]). <<snowden>> comes to mind. https://www.larousse.fr/encyclopedie/images/Obéir_cest_trahir_Désobéir_cest_servir/1314227[Source].
 image::{china-dictatorship-media-base}/To_obey_is_to_betray.jpg[height=400]
+
+[[civil-disobedience]]
+==== Civil disobedience (公民不服從)
+
+* https://en.wikipedia.org/wiki/Civil_disobedience
+* https://zh.wikipedia.org/wiki/公民不服從
 
 ==== Photobombing-like attacks
 
@@ -7102,7 +7194,8 @@ https://en.wikipedia.org/wiki/Kazakhstan
 .https://www.youtube.com/watch?v=eB9O4PU5Nnk "How Much Do You Know About The Real Kazakhstan?" by Journeyman Pictures (2016) shows how Western leaders turn a blind eye to Kazakhstan's dictator at the time, https://en.wikipedia.org/wiki/Nursultan_Nazarbayev[Nursultan Nazarbayev], because they have oil and are willing to cooperate with the West on the war in Afghanistan. In 2019 he was replaced by https://en.wikipedia.org/wiki/Kassym-Jomart_Tokayev[Kassym-Jomart Tokayev], gotta learn more about the new one. Includes interviews with https://en.wikipedia.org/wiki/Pamela_L._Spratlen[Pamela L. Spratlen], an US diplomat, where she diplomatically refuses to say anything meaningful.
 video::eB9O4PU5Nnk[youtube,height=400,width=600]
 
-=== Dictatorships tend to work together
+[[dictatorships-tend-to-work-together]]
+=== Dictatorships tend to work together (独裁政权倾向于合作)
 
 Dictatorships naturally become allies.
 
@@ -7125,7 +7218,7 @@ And of course, when a smaller dictatorship makes an alliance with a larger dicta
 * <<belarus>> and <<russia>>, see: <<moscow-minsk-friendship-mural>>.
 * China and:
 ** <<iran>>, see: <<china-iran-relations>>
-** Pakistan, who is more afraid of India than China right now
+** <<pakistan>>, who is more afraid of India than China right now
 * Africa
 ** https://www.youtube.com/watch?v=Co0RGa99W0M "Zambia: Under Chinese influence" by FRANCE 24 English (2021)
 
@@ -7196,7 +7289,8 @@ News:
 
 * 2021-04-08 <<twitter>> launches official support campaign for the Milk Tea Alliance: https://twitter.com/Policy/status/1379982396490010624
 
-== Middle East
+[[middle-east]]
+== Middle East (中东)
 
 [[iran]]
 === Iran (伊朗)
@@ -7231,6 +7325,20 @@ Superset: <<dictatorships-tend-to-work-together>>.
 ** https://en.wikipedia.org/wiki/Iran–China_25-year_Cooperation_Program
 ** https://zh.wikipedia.org/wiki/中国－伊朗关系
 * 2019-09 https://lobelog.com/is-iran-at-risk-of-becoming-a-chinese-colony/ Is Iran At Risk Of Becoming A Chinese Colony?
+
+[[pakistan]]
+=== Pakistan (巴基斯坦)
+
+* https://en.wikipedia.org/wiki/Pakistan
+* https://zh.wikipedia.org/wiki/巴基斯坦
+
+Pakistan has become a vassal state to China essentially, because China is an ally against their worse enemy: <<india>>.
+
+One day, Pakistan might regret this. Supporting a neighboring dictatorship. What will happen when the <<war,dictatorship starts its expansionism>>?
+
+Related:
+
+* <<pakistan-prime-minister-xinjiang>>
 
 [[libya]]
 === Libya (利比亚)
@@ -7284,6 +7392,12 @@ https://www.bbc.co.uk/news/world-asia-india-55898708
 Via <<twitter>>:
 
 * https://techcrunch.com/2021/06/07/twitter-restricts-accounts-in-india-to-comply-with-government-legal-request/
+
+[[porkalathil-oru-poo]]]]
+=== Porkalathil Oru Poo (2915 documentary about Tamil broadcaster Isaipriya)
+
+* https://en.wikipedia.org/wiki/Porkalathil_Oru_Poo
+* https://en.wikipedia.org/wiki/Isaipriya
 
 [[military-dictatorship-in-brazil]]
 == Military dictatorship in Brazil (1964-1985)
@@ -9599,7 +9713,7 @@ Cheesy! +
 ____
 
 [[little-pink-american-dream-vs-chinese-dream]]
-.https://www.youtube.com/watch?v=MilRo8zZM8A (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub upload]) 小粉红谈中国梦与美国梦的区别 (<<little-pink>> explains the difference between the <<american-dream>> and the <<chinese-dream>>). That girl should have a look at the state of <<labour-rights>> in China in the 2020's, where activists for better worker protection are being put into jail. Also <<twitter,tweeted>> by <<rfa>> at: https://twitter.com/RFA_Chinese/status/1381531661804826627 The <<seal>> on top left reads: "进击老冯" TODO what is that? Source without subtitles: https://www.youtube.com/watch?v=iw8TfbsNfNI[]. Ciro also reposted it at: https://www.reddit.com/r/China/comments/msnixt/nationalistic_chinese_girl_compares_the_chinese/ on <<reddit>>. TODO try to identify it by logo of the microphone, looks something like "华浦TV" but not sure. TODO identify background music. TODO original source.
+.https://www.youtube.com/watch?v=MilRo8zZM8A (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub 上传 upload]) 小粉红谈中国梦与美国梦的区别 (<<little-pink>> explains the difference between the <<american-dream>> and the <<chinese-dream>>). That girl should have a look at the state of <<labour-rights>> in China in the 2020's, where activists for better worker protection are being put into jail. Also <<twitter,tweeted>> by <<rfa>> at: https://twitter.com/RFA_Chinese/status/1381531661804826627 The <<seal>> on top left reads: "进击老冯" TODO what is that? Source without subtitles: https://www.youtube.com/watch?v=iw8TfbsNfNI[]. Ciro also reposted it at: https://www.reddit.com/r/China/comments/msnixt/nationalistic_chinese_girl_compares_the_chinese/ on <<reddit>>. TODO try to identify it by logo of the microphone, looks something like "华浦TV" but not sure. TODO identify background music. TODO original source.
 video::MilRo8zZM8A[youtube,height=400,width=600]
 
 [[dream-of-the-red-chamber]]
@@ -10575,7 +10689,7 @@ video::0XwXaCbfIGw[youtube,height=400,width=600]
 
 Very popular Chinese language anonymous blogger that publishes software programming tutorials and political content since 2009, often negative about the CCP, in particular <<censorship,anti-censorship>> and <<brainwashed-by-usa,anti-CCP-brainwashing>>.
 
-He was likely arrested in 2021 according to an anonymous report to <<rfa>> https://www.rfa.org/cantonese/news/arrest-06142021121609.html[] and abnormal lack of posts. Some people started wishing he will come back on comments: https://github.com/programthink/books/issues/96
+He was likely arrested in 2021 according to an anonymous report to <<rfa>> https://www.rfa.org/cantonese/news/arrest-06142021121609.html[] and abnormal lack of posts. Some people started wishing he will come back on comments: https://github.com/programthink/books/issues/96[], Ciro left his at: https://github.com/programthink/books/issues/99[].
 
 * https://zh.wikipedia.org/wiki/编程随想的博客 (there is no English page as of January 2020)
 * https://program-think.blogspot.com/ The blog. Blocked in China with the <<censorship,rest of Blogspot>>:
@@ -10683,13 +10797,18 @@ Listings of the 2002 squad:
 
 Google bomb at: https://github.com/cirosantilli/china-dictatorship/issues/111
 
+Random info about Haidong:
+
+* 2017 Haidong playing foot volley with Nadal with a tennis ball for a minute: ;https://www.youtube.com/watch?v=XEUwQdynbh8 in 2017. A photo: https://www.gettyimages.co.uk/detail/news-photo/spanish-tennis-player-rafael-nadal-attends-a-charity-match-news-photo/856091560 https://www.gettyimages.co.uk/detail/news-photo/spanish-tennis-player-rafael-nadal-attends-a-charity-match-news-photo/856091560 contains an image of the event, and Nadal holds what seems to be a soccer video game featureing Haidong on the cover. 
+
 .Hao Haidong (in white) playing for the China national team against the Hong Kong's national team in a World Cup Asian zone qualifying match at Siu Sai Wan Sports Ground in 2004. Request for https://twitter.com/fjamie013[James Fridman] to remove Haidong from the picture in reference to <<censorship-of-images-in-the-soviet-union>>: https://twitter.com/cirosantilli/status/1308670186640289792[]. Photo by: <<scmp>>. https://www.scmp.com/sport/china/article/3087684/chinese-sports-couple-hao-haidong-and-ye-zhaoying-face-being-wiped[Source].
 image::{china-dictatorship-media-base}/Hao_Haidong_kick.jpg[height=500]
 
 .https://www.youtube.com/watch?v=XgSwRwFBNFA Hao Haidong's top 10 goals, all with CCTV 5 watermark :-)
 video::https://www.youtube.com/watch?v=XgSwRwFBNFA[youtube,height=400,width=600]
 
-====== Zhihu censorship of Hao Haidong
+[[zhihu-censorship-of-hao-haidong]]
+====== Zhihu censorship of Hao Haidong (知乎审查郝海东)
 
 <<zhihu>> (and the rest of the Chinese Internet) basically nuked a gazillion articles that mentioned him, including old ones that had nothing to do with his political views.
 
@@ -10755,7 +10874,8 @@ Ye also nuked:
 * https://web.archive.org/web/20200618190141/https://www.zhihu.com/topic/20058377
 * https://web.archive.org/web/20200618190052/http://webcache.googleusercontent.com/search?q=cache:JF35Ecar-a8J:https://www.zhihu.com/topic/20058377&client=ubuntu&hl=en&gl=uk&strip=1&vwsrc=0
 
-====== Baidu Baike censorship of Hao Haidong
+[[baidu-baike-censorship-of-hao-haidong]]
+====== Baidu Baike censorship of Hao Haidong (百度百科审查郝海东)
 
 This served as good evidence of the obvious fact that <<baidu-baike>> is highly censored.
 
@@ -10805,7 +10925,7 @@ Hao Runze's page https://baike.baidu.com/item/郝润泽
 image::{china-dictatorship-media-base}/Baidu_Baike_Badminton_World_Federation_censored_1995_1997_wins_by_Ye_Zhaoying_wife_of_Hao_Haidong.png[height=600]
 
 [[chloe-zhao]]
-==== Chloe Zhao (赵婷, Zhao Ting, 2021)
+==== Chloe Zhao (Zhao Ting, 2021 Oscar winner, 获第93奥斯卡最佳电影和导演奖)
 
 * https://en.wikipedia.org/wiki/Chloé_Zhao
 * https://zh.wikipedia.org/wiki/趙婷
@@ -10833,7 +10953,7 @@ As of 2021-04-27 her <<baidu-baike>> page https://baike.baidu.com/item/赵婷/22
 
 https://web.archive.org/web/20210413095903/https://baike.baidu.com/tashuo/browse/content?id=c9fdac1dcf27bdd1280ac9e1&lemmaId=22214113&fromLemmaModule=pcBottom contains a prediction that she would win the Oscar based on earlier recent wins.
 
-The page for the 93rd Oscar mysteriously does not exit however: https://baike.baidu.com/item/第93届奥斯卡金像奖 unlike that of all others: https://baike.baidu.com/item/第92届奥斯卡金像奖 (https://archive.ph/wip/gGGtn[archive]) We can't find an archive either, but it is overwhelmingly likely that it was  created and later deleted.
+The page for the 93rd Oscar mysteriously does not exit however: https://baike.baidu.com/item/第93届奥斯卡金像奖 unlike that of all others: https://baike.baidu.com/item/第92届奥斯卡金像奖 (https://archive.ph/wip/gGGtn[archive]) We can't find an archive either, but it is overwhelmingly likely that it was  created and later deleted. As of 2021-06-21, https://baike.baidu.com/item/奥斯卡金像奖/739020#5 (https://archive.ph/bZFfe#5[archive]) contains a list of all the prizes given so far, linking to the respective per year pages, and the 93rd appears listed but mysteriously without a link.
 
 On <<zhihu>> the topic 93rd Oscar "第93 届奥斯卡金像奖" https://www.zhihu.com/topic/21594057 was deleted:
 
@@ -10865,14 +10985,21 @@ image::{china-dictatorship-media-base}/Chloe_Zhao_won_93rd_Oscar.jpg[height=500]
 
 Lead author of the <<uyghurs-for-sale,Uyghurs for sale report>>.
 
-An amazing smear post: https://www.163.com/dy/article/G36KA6P80551MFOX.html 一个售卖肉体和灵魂的人——澳大利亚反华女妖许秀中 (A person who sells body and soul - Australian anti-Chinese female demon Vicky Xu) with a Photoshopped image entitled in Chinglish: "A tipster of Vicky Xu's private life - maintain sexual relationships with over 10 men at the same time". The real question in most men's mind is: "where do I sign up?".
+Smear posts:
+
+* https://www.globaltimes.cn/page/202104/1220777.shtml by <<global-times>> "'Bewitched' Vicky Xu who fabricates Xinjiang story stokes anti-China sentiment in Australia: observer"
+* https://www.163.com/dy/article/G36KA6P80551MFOX.html 一个售卖肉体和灵魂的人——澳大利亚反华女妖许秀中 (A person who sells body and soul - Australian anti-Chinese female demon Vicky Xu) with a Photoshopped image entitled in Chinglish: "A tipster of Vicky Xu's private life - maintain sexual relationships with over 10 men at the same time". The real question in most men's mind is: "where do I sign up?".
+
+Praise posts:
+
+* https://www.abc.net.au/news/2020-03-09/vicky-xu-exposing-chinas-human-rights-abuses/11954794
 
 [[howey-ou]]
-==== Howey Ou (欧泓奕, 2019)
+==== Howey Ou (Chinese Great Thunberg, 欧泓奕, 环保活动家, 2019)
 
-The Chinese https://en.wikipedia.org/wiki/Greta_Thunberg[Great Thunberg]. Environment activist. She speakes English too.
+The Chinese https://en.wikipedia.org/wiki/Greta_Thunberg[Great Thunberg]. Environmental activist. She speaks English too.
 
-Mandatory <<zhihu>> question: https://www.zhihu.com/question/354163461 "如何看待中国首位气候活动家欧泓奕?"
+Mandatory <<zhihu>> question: https://www.zhihu.com/question/354163461 "如何看待中国首位气候活动家欧泓奕?" (What do you think about Chinese climate activist Howei Ou?)
 
 Social media:
 
@@ -10884,10 +11011,11 @@ News coverage:
 * 2020-09-25 https://www.scmp.com/news/china/society/article/3103548/greta-thunberg-criticises-china-after-climate-striker-ou-hongyi "Greta Thunberg criticises China after climate striker Ou Hongyi held over protest" detained in Shanghai 
 * 2020-06-20 https://www.theguardian.com/world/2020/jul/20/chinas-first-climate-striker-cant-return-to-school "China's first climate striker warned: give it up or you can't go back to school"
 
-.Howey Ou skipped classes for a week to protest about climate change in front of the local government office in Guilin, <<guangxi>>, in 2019. https://www.scmp.com/news/china/society/article/3094873/howey-ou-chinas-version-greta-thunberg-pays-price-climate[Source].
+.Howey Ou skipped classes for a week to protest about climate change in front of the local government office in Guilin, <<guangxi>>, in 2019. TODO transcription of posters. https://www.scmp.com/news/china/society/article/3094873/howey-ou-chinas-version-greta-thunberg-pays-price-climate[Source].
 image::{china-dictatorship-media-base}/Howey_Ou_2019.jpg[height=400]
 
-==== University student dissidents abroad
+[[university-student-dissidents-abroad]]
+==== Chinese university student dissidents abroad (外交中国大学持不同政见者学生)
 
 * 2020-07 Dong Wuyuan 洞物员 (alias Horror Zoo)
 ** TODO real name? 洞物员 is the same sound as zoo in Chinese (动物园) which matches the English alias
@@ -10930,7 +11058,8 @@ https://zh.wikipedia.org/wiki/田佳良事件
 
 Alias: 洁洁良
 
-=== Hong Kong dissidents
+[[hong-kong-dissidents]]
+=== Hong Kong dissidents (香港持不同政见者)
 
 Related: <<hong-kong>>.
 
@@ -10969,9 +11098,10 @@ Social media:
 
 Founder of <<apple-daily>>.
 
-=== Western dissidents
+[[western-dissidents]]
+=== Western anti-CCP dissidents
 
-* LeLe Farley (乐乐法利): https://www.youtube.com/channel/UCyYlGTZL-HnnX_UcGkVFH7A
+For pro-CCP dissidents see: <<ccp-apologists>>
 
 [[serpentza-laowhy86]]
 ==== Winston Sterzel (SerpentZA) and Matthew Tye (laowhy86)
@@ -11007,6 +11137,11 @@ video::b6PI91n2f9o[youtube,height=400,width=600]
 .https://www.youtube.com/watch?v=NXpPpFzLcZg "China's Winnie The Pooh BAN Explained" published on 2019-10-28 discusses <<winnie-the-pooh>>.
 video::NXpPpFzLcZg[youtube,height=400,width=600]
 
+[[lele-farley]]
+==== LeLe Farley (乐乐法利)
+
+https://www.youtube.com/channel/UCyYlGTZL-HnnX_UcGkVFH7A
+
 [[aaron-dewitt]]
 ==== Aaron DeWitt (The Chinese Tea)
 
@@ -11021,7 +11156,7 @@ Online presence:
 ** https://www.reddit.com/r/BoycottChina/comments/j6iahm/naming_the_racist_companies_that_dont_hire_black/ by dontlikegina points to: https://www.youtube.com/watch?v=c6uFGG "Naming the Racist Companies that Don't Hire Black People", see below
 * https://www.instagram.com/letsdewitt/
 
-Deleted some of his videos, so likely either legal or intelligence trouble.
+Deleted some of his videos, so likely either legal trouble or intelligence request.
 
 https://www.youtube.com/watch?v=f3hwdsbh6-M "I worked for the Chinese State Department – 中公教育党委 – offcn CCP Committee" (2020-08-21), previously titled "Working for the Chinese State Department" is the most eyepopping video based on its description from http://web.archive.org/web/20201102122911if_/https://www.youtube.com/watch?v=f3hwdsbh6-M&feature=youtu.be[archive] (video not visible, only description, likely CIA deletion request):
 
@@ -11040,6 +11175,8 @@ Discussions threads:
 * https://www.reddit.com/r/LIHKG/comments/ies9jh/i_worked_for_the_chinese_state_department_中公教育党委/ on ther <<reddit>> <<lihkg>> backup
 * https://www.reddit.com/r/saraba2nd/comments/ieiq7m/外国人爆料i_worked_for_the_chinese_state_department/
 
+<<we-dont-hire-blacks-by-aaron-dewitt-2020>> is the second most eye popping one.
+
 https://www.youtube.com/watch?v=KFOh9AoAv2U "TikTok Hired Me in China: Exposing their Lies, Insider Leaks" is not archived at all.
 
 https://www.youtube.com/watch?v=c6uFGGunRxc "Naming the Racist Companies that Don't Hire Black People". According to https://web.archive.org/web/20201007015433if_/https://www.youtube.com/watch?v=c6uFGGunRxc&feature=youtu.be (viewable 2020-12-31) the original title was "Spilling the Chinese Tea" and the description is:
@@ -11048,7 +11185,7 @@ ____
 Discussing companies that operate in America and refuse to hire black people. These companies avoid following U.S. EEO laws because they're headquartered in mainland China, a country that does not protect people of color from racial discrimination.
 ____
 
-The video shows a call with a black man (TODO who is that) where he talks about anti-black racism on employment in China. Nothing eye-popping, mostly references <<don-t-hire-blacks>>. Mentions he is under NDA and cannot reveal the name of the company.
+The video shows a call with a black man (TODO who is that) where he talks about anti-black racism on employment in China. Nothing eye-popping, mostly references <<we-dont-hire-blacks-by-aaron-dewitt-2020>>. Mentions he is under NDA and cannot reveal the name of the company.
 
 == Media (媒体)
 
@@ -12994,7 +13131,7 @@ It is also interesting to note that many of them don't speak a word of Chinese, 
 
 * 伏拉夫 (fu2 la1 fu1): Russian, says I love China in ridiculously enthusiastic tone which is despised even by the Chinese, samples: https://www.youtube.com/watch?v=YMVRdeUrk-8[]
 +
-Video by <<western-dissidents,Lele Farley>> making fun of him and <<nathan-rich>>: https://www.youtube.com/watch?v=DSM2_HgXKsM
+Video by <<lele-farley>> making fun of him and <<nathan-rich>>: https://www.youtube.com/watch?v=DSM2_HgXKsM
 +
 It does not feel like he is paid by the Chinese government, but rather that he is just trying to get some views.
 +
