@@ -583,6 +583,7 @@ Further optimizations:
 +
 ....
 #!/usr/bin/env bash
+printf '文字匹配'
 printf '美团点评各业务线提供'
 printf '知识库团队共享'
 printf '阿里云高精Excel识别'
@@ -3218,7 +3219,7 @@ video::t_cbW5JK9WM[youtube,height=400,width=600]
 Seals are also of course top to bottom right to left as in the traditional texts.
 
 [[evil-chinese-characters-by-ted-chiang]]
-====== 坏汉字 by Ted Chiang
+====== Evil Chinese Characters by Ted Chiang (坏汉字由Ted Chiang)
 
 https://www.douban.com/group/topic/162835411/
 
@@ -6081,6 +6082,10 @@ ____
 
 原因： 根据相关法律法规和政策，本仓库暂停访问。
 ____
+
+Other known blocked china-dictatorship forks:
+
+* https://gitee.com/jaime_li/china-dictatorship no archives, can't find another account by the same user, but got a backlink 2021-06-22
 
 [[zhihu]]
 ==== Zhihu (知乎, censored Quora clone)

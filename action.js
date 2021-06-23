@@ -37,7 +37,7 @@ for await (const line of rl) {
     images.add(match[1]);
   }
 }
-images = getRandom(Array.from(images), 20);
+images = getRandom(Array.from(images), 30);
 full_images = []
 for (const image of images) {
   const url = `https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/${image}`;
