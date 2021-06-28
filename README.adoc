@@ -220,10 +220,15 @@ Given <<github-censored-subdomains>>, this might be the only way to view the ima
 The cool thing about Git is that we can maintain several mirrors on multiple websites very easily:
 
 * https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
-* https://gitlab.com/cirosantilli/china-dictatorship Maybe some day https://gitlab.cn/ ? :-)
+* https://gitlab.com/cirosantilli/china-dictatorship
 ** their gitlab.com render is shit for some reason, clicking on the ToC does not jump to headers properly, not sure why, IDs look correct
 ** one really cool thing about gitlab is that it can serve images from directly gitlab.com e.g. https://gitlab.com/cirosantilli/china-dictatorship-media/-/raw/master/Xi_Jinping_The_Governance_of_China_photo.jpg unlike GitHub which has the `raw.` subdomain: https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Xi_Jinping_The_Governance_of_China_photo.jpg This makes it impossible to block the GitLab images without blocking all of gitlab.com, until GitLab starts a <<github-gov-takedowns,gov-takedowns>> of their own.
 ** https://cirosantilli.gitlab.io/china-dictatorship GitLab Pages. Works fine. Let's see if they can block subdomains: https://zh.greatfire.org/https/cirosantilli.gitlab.io/china-dictatorship
+** Maybe some day https://gitlab.cn/ ? :-) Edit 2021-03, yup, it happened, with <<icp-license>> and all
+*** https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/
+*** https://about.gitlab.cn/
+*** <<ciro-santilli>>'s name at: https://about.gitlab.cn/security/vulnerability-acknowledgements/
+*** no free public SaaS yet, but it might come, though they are saying 30 day trial only: https://about.gitlab.cn/free-trial/
 * https://gitee.com/cirosantilli/china-dictatorship on <<gitee>>, blocked after 12 hours: <<gitee-censorship>>
 * https://bitbucket.org/cirosantilli/china-dictatorship
 * https://git.kiwifarms.net/CrunkLord420/china-dictatorship auto-pull Gitea mirror on https://en.wikipedia.org/wiki/Kiwi_Farms[Kiwi Farms] (a <<politically-incorrect,politically incorrect>> social network website)
@@ -583,6 +588,7 @@ Further optimizations:
 +
 ....
 #!/usr/bin/env bash
+printf '英语台词'
 printf '文字匹配'
 printf '美团点评各业务线提供'
 printf '知识库团队共享'
@@ -1026,7 +1032,7 @@ https://www.reddit.com/r/China/comments/o2qyu5/china_has_a_brand_of_bread_named_
 Here is a different picture of the same product from April 14th: https://twitter.com/YukayuyuWasGod/status/1382218316895244295 That one might allow better brand identification: 万X福 That one also posted at: https://www.reddit.com/r/China_irl/comments/o2zbsw/偶然看到这张图不知道是不是真的/ Watermarked Weibo @第三豹弹
 
 .Chinese <<dual-use-technology,dual-use>> bread.
-image::{china-dictatorship-media-base}/Stop_interfering_in_Chinas_internal_affairs_bread.jpg[height=500]
+image::{china-dictatorship-media-base}/Stop_interfering_in_China_s_internal_affairs_bread.jpg[height=500]
 
 [[why-end-dictatorship]]
 === Why would China be better without its Dictatorship?
@@ -1071,7 +1077,7 @@ Definitely, the current regime is better than Mao's, but just imagine how rich C
 Imperial China lost the race for the Industrial Revolution. Will another dictatorship be able to stay on top of the next technological revolution?
 
 .XKCD 937 "TornadoGuard" comes to mind in relationship to the <<dictatorship-variability,variable performance of dictatorships>>. https://xkcd.com/937/[Source].
-image::{china-dictatorship-media-base}/XKCD_937_tornado_guard.png[height=400]
+image::{china-dictatorship-media-base}/XKCD_937_tornado_guard.png[height=500]
 
 [[dictatorship-variability]]
 ===== Dictatorships have greater development variability
@@ -1110,12 +1116,6 @@ This is also the basis of a <<keyword-attack>>.
 
 This is also well illustrated in the link:https://en.wikipedia.org/wiki/Chernobyl_(miniseries)[HBO 2019 miniseries "Chernobyl"], which suggests that part of the reason why Chernobyl happened is because of the Soviet Union's obsession to save face.
 
-.https://www.youtube.com/watch?v=ocBVLMHK6c8 Chernobyl supercut scene where the reactor explodes, and a chief engineer "Comrade Dyatlov" accepts the 3.6 Roentgen measurement as "Not great, not terrible" and forwards it to his superiors who take actions based on that, even though the radiation measurement apparatus only goes up to 3.6 Roentgen. Needless to say, the actual radiation was much, much higher: when a proper measurement is made, the value is 15000 Roentgen! The URSS only admitted Chernobyl three days after when Swedish nuclear plant radiation detector alarms started going off. Notably, in order to keep it secret, they for example did not cancel the https://time.com/4313139/post-chernobyl-parade/[International Workers' Day parade in Kharkov, Ukraine which happened five days after the disaster].
-video::ocBVLMHK6c8[youtube,height=400,width=600]
-
-.Photo of a CDV-717 radioactivity meter that maxes out at 3.6 Roentgen like the one that would have been used in Chernobyl. https://www.reddit.com/r/ChernobylTV/comments/bnio6n/36_roentgen_on_a_cdv717/[Source].
-image::{china-dictatorship-media-base}/3_6_Roentgen.jpg[height=400]
-
 This suggestion is even more explicit in the fictional https://en.wikipedia.org/wiki/World_War_Z[World War Z] 2006 novel by https://en.wikipedia.org/wiki/Max_Brooks[Max Brooks] about a <<covid,virus>> outbreak in China. It was later adapted into the https://en.wikipedia.org/wiki/World_War_Z_(film)[World War Z (2013)] movie by https://en.wikipedia.org/wiki/Paramount_Pictures[Paramount]:
 
 * https://www.theguardian.com/film/2013/jun/04/brad-pitt-china-world-war-z[]: Paramount cowards tried to kowtow and remove references to China from the movie, but it failed
@@ -1136,6 +1136,16 @@ ____
 although like any other political argument, https://www.nytimes.com/2003/03/01/arts/does-democracy-avert-famine.html[some disagree].
 
 Virus outbreaks and other natural disasters also illustrate this well: <<covid>>.
+
+Bibliography:
+
+* https://www.uow.edu.au/the-stand/2019/chernobyl-a-lesson-in-truth.php Chernobyl: a lesson in truth Secrets were kept, mistakes were made, and people were exposed
+
+.https://www.youtube.com/watch?v=ocBVLMHK6c8 Chernobyl supercut scene where the reactor explodes, and a chief engineer "Comrade Dyatlov" accepts the 3.6 Roentgen measurement as "Not great, not terrible" and forwards it to his superiors who take actions based on that, even though the radiation measurement apparatus only goes up to 3.6 Roentgen. Needless to say, the actual radiation was much, much higher: when a proper measurement is made, the value is 15000 Roentgen! The URSS only admitted Chernobyl three days after when Swedish nuclear plant radiation detector alarms started going off. Notably, in order to keep it secret, they for example did not cancel the https://time.com/4313139/post-chernobyl-parade/[International Workers' Day parade in Kharkov, Ukraine which happened five days after the disaster].
+video::ocBVLMHK6c8[youtube,height=400,width=600]
+
+.Photo of a CDV-717 radioactivity meter that maxes out at 3.6 https://en.wikipedia.org/wiki/Roentgen_(unit)[Roentgen] (https://zh.wikipedia.org/wiki/倫琴_(單位)[倫琴]) like the one that would have been used in Chernobyl. The <<law-of-gravity-1984,Law of Gravity quote from 1984>> also comes to mind. https://www.reddit.com/r/ChernobylTV/comments/bnio6n/36_roentgen_on_a_cdv717/[Source].
+image::{china-dictatorship-media-base}/3_6_Roentgen.jpg[height=400]
 
 ===== Censorship makes no one trust your country
 
@@ -1430,10 +1440,10 @@ ____
 
 [[immoral-and-uneducated]]
 .https://knowyourmeme.com/memes/preaching-to-the-mob[Preaching to the mob meme template]: "中国人道德低下素质差。所以不适合民主。" Translation: The Chinese people are immoral and uneducated (people are angry). That's why they're not suitable for democracy (people are happy). This makes fun of the fact even if you say bad things about the Chinese, some people will complain that you are racist. But the same people will also say the same bad things about the Chinese people as a way to explain why it is better if they don't vote, and no one minds that. https://www.reddit.com/r/chonglangTV/comments/jssa4t/道德低下素质差的好处/[Source].
-image::{china-dictatorship-media-base}/Immoral_and_uneducated.jpg[height=720]
+image::{china-dictatorship-media-base}/Immoral_and_uneducated.jpg[height=600]
 
 .Translation of the above.
-image::{china-dictatorship-media-base}/Immoral_and_uneducated_en.jpg[height=720]
+image::{china-dictatorship-media-base}/Immoral_and_uneducated_en.jpg[height=600]
 
 ===== The Chinese masses are not interested in politics and therefore not ready to vote
 
@@ -2393,7 +2403,7 @@ But <<ciro-santilli>> feels strongly that the Chinese are also obviously at leas
 Oh, and the USA, and other Western countries besides Germany, were also racist against Jews, e.g. https://en.wikipedia.org/wiki/Richard_Feynman[Richard Feynman] could not be admitted in certain universities due to a https://en.wikipedia.org/wiki/Jewish_quota[Jewish quota], even though he was not a believer himself, therefore based on race alone!
 
 .Racism in the West vs racism in China. Of course there is racism in the West against black people. But the people have the choice to speak up against it to try and change things. In China however, speaking up against Muslim racism, means going to jail. Image sources: https://en.wikipedia.org/wiki/File:George_Floyd_neck_knelt_on_by_police_officer.png[murder of George Floyd], https://en.wikipedia.org/wiki/File:George_Floyd_protests_in_Philadelphia_02.jpg[George Floyd protests in Philadelphia], https://mvslim.com/re-education-camps-for-muslims-chinas-muslim-community-the-uyghurs-are-facing-a-new-level-of-oppression[Xinjiang prisoners], https://www.reuters.com/world/china/what-people-said-hong-kong-tiananmen-anniversary-2021-06-04/[Tiananmen Square on 2021-06-03], the anniversary of <<tiananmen>>.
-image::{china-dictatorship-media-base}/Racism_in_the_West_vs_China_George_Floyd_vs_Xinjiang.jpg[height=600]
+image::{china-dictatorship-media-base}/Racism_in_the_West_vs_China_George_Floyd_vs_Xinjiang.jpg[height=700]
 
 [[we-dont-hire-blacks-by-aaron-dewitt-2020]]
 ====== We Don't Hire Blacks by Aaron Dewitt (我们不雇用黑人, 2020)
@@ -2718,7 +2728,7 @@ ____
 Snowden then later released the entire Chinese version of the book for free online with the censored parts underlined: https://www.theregister.co.uk/2020/02/10/snowden_china_censorship (https://web.archive.org/web/20200213001653/https://www.theregister.co.uk/2020/02/10/snowden_china_censorship[archive]), link to the book: link:++https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf++[] (https://web.archive.org/web/20200212144108/https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf[archive]). One wonders why he didn't just do that in the first place for all versions, maybe he needed to pay the writer that helped him?
 
 .Snowden highlighted defects on abuses of power in a Western democracy, and the discussion he sparked helped to control such abuses. <<to-obey-is-to-betray,To obey is to betray>> comes to mind. https://en.wikipedia.org/wiki/File:Edward_Snowden-2.jpg[Source].
-image::{china-dictatorship-media-base}/Snowden.jpg[height=400]
+image::{china-dictatorship-media-base}/Snowden.jpg[height=500]
 
 ===== Bad things have been done in the name of freedom
 
@@ -2926,7 +2936,7 @@ image::{china-dictatorship-media-base}/Shit.jpg[height=400]
 .Amazing shitposts may recieve a Golden Shit award and the https://github.com/cirosantilli/china-dictatorship/labels/golden-shit[golden-shit label]. The image is from a Japanese https://en.wikipedia.org/wiki/Kin_no_unko[Kin no unko (金のうんこ)], which is likely inspired by https://en.wikipedia.org/wiki/Sycee[golden Sycees]. https://en.wikipedia.org/wiki/File:Kin_no_unko.jpg[Source].
 image::{china-dictatorship-media-base}/Kin_no_unko.jpg[height=500]
 
-.To censor or not to censor good shitposts: that is not the question, <<ciro-santilli>> will never censor them! https://imgur.com/gallery/rA0K90g[Source].
+.To <<censorship,censor>> or not to censor good shitposts: that is not the question, <<ciro-santilli>> will never censor them! https://imgur.com/gallery/rA0K90g[Source].
 image::{china-dictatorship-media-base}/Like_shitposts.jpg[height=600]
 
 [[caonima]]
@@ -3623,11 +3633,22 @@ Subs with lots of anti-commie info:
 ** https://www.reddit.com/r/CCJ
 ** https://www.reddit.com/r/CCJ2
 
+Non-China specific but relevant:
+
+* https://www.reddit.com/r/EnoughCommieSpam as of 2020 a large part of it was China specific:
+** https://www.reddit.com/r/EnoughCommieSpam/comments/n29kc3/upvote_this_absolute_chad_to_piss_off_the_tankies/
+** https://www.reddit.com/r/EnoughCommieSpam/comments/lpqn0e/tankies_truly_are_among_the_worst_people_alive/
+** https://www.reddit.com/r/EnoughCommieSpam/comments/mefx7x/a_proud_commie_tradition/
+** https://www.reddit.com/r/EnoughCommieSpam/comments/nml4jg/john_cena_sold_out/
+** https://www.reddit.com/r/EnoughCommieSpam/comments/o950d4/okay_but_next_time_itll_work_for_real/ photo of Xi Jinping with text: "Yo guys, I promise, worker democracy is coming right after a few hundred years of totalitarian state capitalism with Chinese characteristics."
+** https://www.reddit.com/r/EnoughCommieSpam/comments/nrkkqh/today_is_the_32nd_anniversary_of_the_tiananmen/ "Today is the 32nd anniversary of the Tiananmen Square Massacre. This is a photo of its aftermath. Death to the CCP." Night photo of dead people and bicycles on <<tiananmen>>
+
 TODO review:
 
 * https://www.reddit.com/r/taiwan/
 * https://www.reddit.com/r/China_Flu/
 * https://www.reddit.com/r/China_irl/ (流浪防区) https://www.reddit.com/r/China/comments/mnbpum/if_you_want_to_experience_the_censorship_and/ claims pro-CCP, but e.g. https://www.reddit.com/r/China_irl/comments/mn68dy/各位键委如何看待gfw/ has <<gfw>> talks
+* https://www.reddit.com/r/GenZedong/
 
 ===== Instagram
 
@@ -3704,7 +3725,7 @@ News:
 
 [[trump-twitter-kuang-biao]]
 .Cartoon showing Donald Trump's mouth sewn shut in a "Twitter" shape by <<kuang-biao>> (2021) after Trump was <<unjust-social-media-censorship-in-the-west,banned from Twitter>>. You know it's bad when the artists who normally criticize the <<ccp,CCP>> start to criticize you. <<rebel-pepper>>'s https://www.rfa.org/english/cartoons/twitter-china-cartoon-06052020164712.html["I can't Tweet"] comes to mind, although it was about <<racist-west>> instad. https://xueqiu.com/9870976009/168210673[Source].
-image::{china-dictatorship-media-base}/Flag_of_the_Republic_of_China.svg[height=400]
+image::{china-dictatorship-media-base}/Trump_silenced_by_Twitter_by_Kuang_Biao.jpg[height=400]
 
 ===== YouTube
 
@@ -4051,7 +4072,7 @@ People:
 image::{china-dictatorship-media-base}/Xinjiang_camp_in_camp.jpg[height=600]
 
 .Uyghur butcher with chained knives in Xinjiang (2021). Knives at shops in Xinjiang have to remain chained, and each blade is tracked with a https://www.businessinsider.nl/china-tracks-uighur-minority-qr-code-kitchen-knives-doors-human-rights-watch-report-2018-9/[QR code]. A <<zhihu>> question about it https://www.zhihu.com/question/294738809[]: 为什么菜刀要用铁链子栓起来？ 来乌市快有一个月啦，我很好奇为什么所有的店里都要用铁链子把菜刀栓起来？ (Why are kitchen knifes tied up with an iron chain? It's been almost a month since I came to https://en.wikipedia.org/wiki/Ürümqi[Urumqi] [capital of Xinjiang]? I am curious why all the shops have to tie up kitchen knives with iron chains?). https://youtu.be/4w3_A2vRGqE?t=279[Source].
-image::{china-dictatorship-media-base}/Xinjiang_chained_butcher_knives.jpg[height=500]
+image::{china-dictatorship-media-base}/Xinjiang_chained_butcher_knives.jpg[height=600]
 
 [[xinjiang-re-education-camps]]
 ===== Xinjiang "re-education" camps (新疆再教育營, 2017-)
@@ -4322,7 +4343,7 @@ Reports:
 <<blood-cotton-initiative-wuheqilin,"Blood Cotton Initiative" by wuheqilin>> is a <<holocaust-denial>> cartoon claiming it is all lies.
 
 .Side-by-side comparison of black american slaves from 1908 and <<xinjiang-re-education-camps,happy Xinjiang workers>> working in cotton collection. This was posted by the verified account of Chinese government official Hua Chunying (华春莹) on Twitter: https://twitter.com/SpokespersonCHN/status/1375015592944537605[], archives: https://archive.ph/3PTiA and https://web.archive.org/web/20210326034948/https://twitter.com/SpokespersonCHN/status/1375015592944537605[]. Pure beauty. Does she have a brain? The images read: "The cotton planter and his pickers, H. Tees, West Point, Miss[ssisipy]", https://commons.wikimedia.org/wiki/File:Cotton_planter_and_pickers1908.jpg[source], and "Uighus people picking cotton in Xinjiang China". <<holocaust-denial>>, here we go.
-image::{china-dictatorship-media-base}/Xinjiang_cotton_vs_American_plantation_from_1908.jpg[height=400]
+image::{china-dictatorship-media-base}/Xinjiang_cotton_vs_American_plantation_from_1908.jpg[height=600]
 
 [[other-islam-countries-speak-up-for-uyghur]]
 ====== Why don't many Islamic countries speak up for the Uyghur persecution? (为什么很多伊斯兰国家不反对维吾尔族迫害？)
@@ -4375,7 +4396,7 @@ image::{china-dictatorship-media-base}/Holocaust_denial_cartoon_vs_Palestine.jpg
 
 [[blood-cotton-initiative-wuheqilin]]
 .Blood Cotton Initiative by <wuheqilin>>. This pro-<<ccp>> propaganda work suggests that the <<xinjiang-cotton>> is a fabrication of <<evil-west,Evil West>>. It depicts Americans as wearing https://en.wikipedia.org/wiki/Ku_Klux_Klan[Ku Klux Klan] in an usual CCP reminder that <<racist-west>>. It is basically a <<holocaust-denial>> cartoon. https://zh.wikipedia.org/wiki/File:Blood_Cotton_Initiative.jpg[Source].
-image::{china-dictatorship-media-base}/Blood_Cotton_Initiative_by_Wuheqilin.jpg[height=400]
+image::{china-dictatorship-media-base-ignore}/Blood_Cotton_Initiative_by_Wuheqilin.jpg[height=400]
 
 .Side-by-side comparison of <<blood-cotton-initiative-wuheqilin,"Blood Cotton Initiative" by wuheqilin>> and the <<holocaust-denial-palestine,Palestine vs Israel holocaust denial cartoon>>.
 image::{china-dictatorship-media-base}/Blood_Cotton_Initiative_by_Wuheqilin_holocaust_denial.jpg[height=400]
@@ -5654,10 +5675,10 @@ Related spam meta posts:
 * https://meta.stackoverflow.com/questions/260638/what-is-the-exact-definition-of-spam-for-stack-overflow
 
 [[the-world-is-perfect]]
-."The world is perfect" by Ciro Santilli, CC By-SA 4.0 (2021). After Graphics Stack Exchange forbade the usage of political images, <<ciro-santilli>> created this politically correct image to serve as a censorship placeholder, and reuploaded the answer as allowed by the moderators: https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[]. (https://web.archive.org/web/20210501090745/https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[].[archive]) CC By-SA 4.0, heart attribution: https://commons.wikimedia.org/wiki/File:Corazón.svg[]. <<os-problemas-da-imprensa-livre,Newspaper censorship cake recipe posts during the Brazilian military dictatorship>> and <<what-is-more-obscene-sex-or-war,"What is more obscene: sex or war?">> and <<please-enjoy-this-politically-correct-cartoon,Please enjoy this politically correct cartoon>> come strongly to mind.
+."The world is perfect" by Ciro Santilli, CC By-SA 4.0 (2021). After Graphics Stack Exchange forbade the usage of political images, <<ciro-santilli>> created this politically correct image to serve as a censorship placeholder, and reuploaded the answer as allowed by the moderators: https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[]. (https://web.archive.org/web/20210501090745/https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[].[archive]) CC BY-SA 4.0, heart attribution: https://commons.wikimedia.org/wiki/File:Corazón.svg[]. <<os-problemas-da-imprensa-livre,Newspaper censorship cake recipe posts during the Brazilian military dictatorship>> and <<what-is-more-obscene-sex-or-war,"What is more obscene: sex or war?">> and <<please-enjoy-this-politically-correct-cartoon,Please enjoy this politically correct cartoon>> come strongly to mind.
 image::{china-dictatorship-media-base-ignore}/The_world_is_perfect.png[height=500]
 
-."The world is perfect" as used to update Ciro Santilli's https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[deleted answer]. Instead of redoing the tutorial from scratch, Ciro just pasted the new image on top of the old one Stack Exchange censored: <<tank-man-cc-by-sa,Ciro Santilli's CC By-SA Tank Man image>>. Borders of the censored image were intentionally left over however as a reminder that Stack Exchange censors. This is a work of art.
+."The world is perfect" as used to update Ciro Santilli's https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[deleted answer]. Instead of redoing the tutorial from scratch, Ciro just pasted the new image on top of the old one Stack Exchange censored: <<tank-man-cc-by-sa,Ciro Santilli's CC BY-SA Tank Man image>>. Borders of the censored image were intentionally left over however as a reminder that Stack Exchange censors. This is a work of art.
 image::{china-dictatorship-media-base-ignore}/The_world_is_perfect_Stack_Overflow.png[height=500]
 
 .Politically correct version of <<tank-man-cc-by-sa,Ciro Santilli's CC By-SA Tank Man image>>. This is how <<stack-overflow,Stack Exchange>> wants the world to remember <<tiananmen>>.
@@ -6578,7 +6599,7 @@ image::{china-dictatorship-media-base}/Tiananmen_lesbian_kiss.jpg[height=500]
 image::{china-dictatorship-media-base}/Qing_Dinasty_gay_foreplay.jpg[height=400]
 
 .Lesbian couple hugging in Shanghai in the 1930s. The woman on the left might have had polio based on the deformity of their right leg. TODO proper source, could not find one on Google reverse image search. https://www.reddit.com/r/China/comments/muvkmu/a_lesbian_couple_embracing_posing_in_their_qipao/[Source].
-image::{china-dictatorship-media-base}/Lesbian_couple_Shanghai_30s.jpg[height=400]
+image::{china-dictatorship-media-base}/Lesbian_couple_Shanghai_30s.jpg[height=500]
 
 [[metoo]]
 === MeToo
@@ -7122,7 +7143,7 @@ In support to https://en.wikipedia.org/wiki/Sergei_Furgal[Sergei Furgal] (https:
 https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union
 
 .Before/after comparison of picture of Stalin with Nikolai Yezhov at the Moscow Canal censored circa 1940. Nikolai was edited out form the second picture. (Credit: Fine Art Images/Heritage Images/Getty Images & AFP/GettyImages) https://www.history.com/news/josef-stalin-great-purge-photo-retouching[Source].
-image::{china-dictatorship-media-base}/Nikolai_Yezhov_Stalin_canal_edit.webp[height=400]
+image::{china-dictatorship-media-base}/Nikolai_Yezhov_Stalin_canal_edit.webp[height=600]
 
 .Above: a meeting of the St. Petersburg chapter of the Union of Struggle for the Liberation of the Working Class in February 1897, including Lenin and Alexander Malchenko. https://en.wikipedia.org/wiki/File:Union-de-Lucha.jpg[Source]. Belos: same as above, but with Alexander Malchenko edited out. link:++https://en.wikipedia.org/wiki/File:St_Petersburg_Union_of_Struggle_for_the_Liberation_of_the_Working_Class_-_Feb_1897_-_Altered.jpg++[Source].
 image::{china-dictatorship-media-base}/Malchenko_no_Malchenko.jpg[height=1000]
@@ -7148,10 +7169,10 @@ image::{china-dictatorship-media-base}/Soviet_radio_jamming_vs_Jingjing.jpg[heig
 * https://en.wikipedia.org/wiki/Agitprop
 
 [[stalin]]
-=== Stalin 斯大林 (1922-1952)
+=== Stalin (斯大林, 1922-1952)
 
 .https://en.wikipedia.org/wiki/Light_Yagami[Light Yagami] from https://en.wikipedia.org/wiki/Death_Note[Death Note]: "I can kill anyone by simply writing his name here". Stalin: "Bitch please". https://ifunny.co/picture/1-can-kill-anyone-by-simply-writing-his-name-here-TjXCcyuM2[Source].
-image::{china-dictatorship-media-base}/Stalin_bitch_please.jpg[height=500]
+image::{china-dictatorship-media-base}/Stalin_bitch_please.jpg[height=600]
 
 .https://www.youtube.com/watch?v=ZT2z0nrsQ8o "Rasputin vs Stalin." Epic Rap Battles of History YouTube video. This is fire. https://epicrapbattlesofhistory.fandom.com/wiki/Rasputin_vs_Stalin/Rap_Meanings[Explanations].
 video::ZT2z0nrsQ8o[youtube,height=400,width=600]
@@ -8203,7 +8224,7 @@ The closest claims to observable Ciro has heard are:
 +
 [[flg-fungi]]
 .Image of the magic good small plants that grew on a <<falun-gong>> believer's home. They took a photo and it published on <<falun-gong-media,Minghui>> as a 2018 Chinese New Year good wish page to <<li-hongzhi>>. They seem to identify those fungi as mini-link:https://en.wikipedia.org/wiki/Udumbara_(Buddhism)[udumbaras], which is just a fancy name that Buddhism scriptures use to refer to https://en.wikipedia.org/wiki/Ficus_racemosa[cluster fig flowers] (https://zh.wikipedia.org/wiki/聚果榕[优昙婆罗], amongst a billion other existing phonetic transliterations) emphasising their magic properties. Here's a 2007 from <<epoch-times>>: https://www.epochtimes.com/gb/7/10/7/n1859364.htm[], and another one https://www.epochtimes.com/gb/9/5/3/n2514838.htm[], and another one from 2011: https://www.epochtimes.com/gb/11/11/25/n3440323.htm[]. Only the most relevant news on that newspaper. Ciro could not find <<flg-canon>> mentions however. If any biologist reads this, for the love of God send me a Wikipedia page with the possible species. TODO transcribe the Chinese 吉林市大法弟子恭祝师新年快乐。（优昙婆罗花） 创世主救度众生YADA YADA。(Falun Gong practitioners from <<jilin>> wish The Master a happy (Chinese) New Year (udumbara Flower) The creator of the world saves all living things, ...) This type of "congratulate the Master for New Year, congratulate the Master for his birthday etc. by sending photos to <<minghui>> for selection is common practice in the Falun Gong community. https://en.minghui.org/html/articles/2018/2/17/168396p.html[Source].
-image::{china-dictatorship-media-base}/Falun_Gong_magic_fungi.jpg[height=400]
+image::{china-dictatorship-media-base}/Falun_Gong_magic_fungi.jpg[height=600]
 * the <<flg-canon,sacred books>> of some believers had a closed lotus flower when they were bought, and after several years, the flower opened
 
 but Ciro suspects they are not even <<flg-canon,canon>>, just believer oral culture.
@@ -9826,7 +9847,7 @@ But then, obviously, people started denouncing corruption in his goverment, and 
 The documentary also mentions <<wei-jingsheng>> who was a notorious contributor who asked for democracy.
 
 .<<xidan-democracy-wall>>. https://en.wikipedia.org/wiki/File:Xidan_Wall,_May_1979.jpg[Source].
-image::{china-dictatorship-media-base}/Xidan_Wall.jpg[height=400]
+image::{china-dictatorship-media-base}/Xidan_Wall.jpg[height=600]
 
 .https://youtube.com/watch?v=40PxfKWgBmY China: Democracy Wall Beijing Dec 1978 video only. This is one of the many footage available of the wall.
 video::40PxfKWgBmY[youtube,height=400,width=600]
@@ -9991,7 +10012,7 @@ And idiots today still celebrate this event that preceded the <<cultural-revolut
 <<superputin>> learnt from this and also showed off his swimming skills in 2009.
 
 .https://zh.wikipedia.org/wiki/File:1966-10_1966年毛泽东游长江2.jpg[Source].
-image::{china-dictatorship-media-base}/Mao_swim_wave.jpg[height=400]
+image::{china-dictatorship-media-base}/Mao_swim_wave.jpg[height=500]
 
 == Sport events
 
@@ -10184,7 +10205,7 @@ image::{china-dictatorship-media-base}/Tiananmen_sea.jpg[height=600]
 
 [[pu-zhiqiang-shirt]]
 .https://en.wikipedia.org/wiki/Pu_Zhiqiang[Pu Zhiqiang] (https://zh.wikipedia.org/wiki/浦志强[浦志强]) was student demonstrator during the Tiananmen Square protests of 1989. His shirt reads: "Freedom of the press, freedom of association, support the 'link:https://en.wikipedia.org/wiki/World_Economic_Herald[World Economic Herald] (link:https://zh.wikipedia.org/wiki/世界经济导报[世界经济导报])', and support just journalists." (辦報自由 結社自由 聲援世经导报 支持正义记者, fully quoted https://cinacn.blogspot.com/2001/07/28.html[here]) Date: 1989-05-10. Pu remained in China as a human rights layer, and https://www.bbc.co.uk/news/world-asia-china-35157525[was arrested in 2014] for attending a private meeting commemorating the 25th anniversary of Tiananmen. https://allthatsinteresting.com/tiananmen-square-massacre[Source].
-image::{china-dictatorship-media-base}/Pu_Zhiqiang_tshirt.jpg[height=500]
+image::{china-dictatorship-media-base}/Pu_Zhiqiang_tshirt.jpg[height=700]
 
 .Students from Beijing University stage a huge demonstration in Tiananmen Square as they start an unlimited hunger strike as the part of mass pro-democracy protest against the Chinese government. Photo taken on 1989-05-18 by Catherine Henriette/AFP/Getty Images. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_students_sitting.jpg[height=400]
@@ -10393,8 +10414,7 @@ image::{china-dictatorship-media-base}/Tank_Man_FF6.jpg[height=600]
 .Tank man drawing by Ciro Santilli. The only CC BY-SA 4.0 representaion of Tank Man found on the web? And the prettiest. Created manually with GIMP. This can be very useful e.g. if you are posting <<stack-overflow>> answers about image processing, e.g.: https://stackoverflow.com/questions/20737061/merge-images-side-by-sidehorizontally/63575228#63575228 It was of course taken down later on because it was considered spam: <<stack-overflow-political-image-answer-placeholder-2021>>.
 image::{china-dictatorship-media-base}/Tank_Man_drawing_by_Ciro_Santilli_CC_BY_SA.png[height=500]
 
-
-.Xi Jinping erasing tank man by Twatical. Easy mp4 download: https://github.com/cirosantilli/china-dictatorship/issues/357[]. https://twitter.com/Twatical_/status/1357377135573401601[Source].
+.Xi Jinping erasing tank man by Twatical. Easy mp4 download: https://github.com/cirosantilli/china-dictatorship/issues/357[]. The character shown is "碾". TODO understand the <<slang,slang>>. https://twitter.com/Twatical_/status/1357377135573401601[Source].
 image::https://user-images.githubusercontent.com/1429315/121059892-e2a0d380-c7b9-11eb-88f0-cacdefab548c.gif[height=500]
 
 [[tank-man-song]]
@@ -10703,7 +10723,12 @@ video::0XwXaCbfIGw[youtube,height=400,width=600]
 
 Very popular Chinese language anonymous blogger that publishes software programming tutorials and political content since 2009, often negative about the CCP, in particular <<censorship,anti-censorship>> and <<brainwashed-by-usa,anti-CCP-brainwashing>>.
 
-He was likely arrested in 2021 according to an anonymous report to <<rfa>> https://www.rfa.org/cantonese/news/arrest-06142021121609.html[] and abnormal lack of posts. Some people started wishing he will come back on comments: https://github.com/programthink/books/issues/96[], Ciro left his at: https://github.com/programthink/books/issues/99[].
+He was likely arrested in 2021 according to an anonymous report to <<rfa>>, consistent with an abnormally long lack of posts:
+
+* https://www.rfa.org/cantonese/news/arrest-06142021121609.html original <<rfa>> report
+* https://chinadigitaltimes.net/2021/06/translation-program-think-notorious-anonymous-chinese-blogger-feared-detained/ English report on <<china-digital-times>>
+
+Some people started wishing he will come back on comments: https://github.com/programthink/books/issues/96[], <<ciro-santilli>> left his at: https://github.com/programthink/books/issues/99[].
 
 * https://zh.wikipedia.org/wiki/编程随想的博客 (there is no English page as of January 2020)
 * https://program-think.blogspot.com/ The blog. Blocked in China with the <<censorship,rest of Blogspot>>:
@@ -11724,6 +11749,8 @@ Founded by <<jimmy-lai>>.
 
 Pro-democracy. Raided soon after <<hong-kong-national-security-law>> started.
 
+Forced to shutdown 2021-06: https://www.theguardian.com/world/2021/jun/23/hong-kong-apple-daily-symbol-of-pro-democracy-movement-to-close
+
 * https://www.youtube.com/watch?v=sf-qyxEIuHI Hong Kong billionaire's last interview as a free man by BBC News (2021)
 
 [[hkfp]]
@@ -12069,6 +12096,7 @@ There is also a decent movie made released in the year, you guessed, 1984: https
 
 On Part Three, Chapter 4, The Law of Gravity quote perfectly illustrates the CCPs approach to lying:
 
+[[law-of-gravity-1984]]
 ____
 Anything could be true. The so-called laws of Nature were nonsense. The law of gravity was nonsense. 'If I wished,' O'Brien had said, 'I could float off this floor like a soap bubble.' Winston worked it out. 'If he THINKS he floats off the floor, and if I simultaneously THINK I see him do it, then the thing happens.' Suddenly, like a lump of submerged wreckage breaking the surface of water, the thought burst into his mind: 'It doesn't really happen. We imagine it. It is hallucination.' He pushed the thought under instantly. The fallacy was obvious. It presupposed that somewhere or other, outside oneself, there was a 'real' world where 'real' things happened. But how could there be such a world? What knowledge have we of anything, save through our own minds? All happenings are in the mind. Whatever happens in all minds, truly happens.
 ____
@@ -12395,7 +12423,7 @@ image::{china-dictatorship-media-base}/Quan_Ping_tshirt.jpg[height=400]
 
 [[liu-shihui-one-party-rule]]
 .In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a t-shirt saying "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/【历史的先声】一党独裁，遍地是灾/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang's one-party dictatorship, but the CP will not establish a one-party dictatorship". This interesting <<zhihu>> page has many other similar quotes BTW: https://zhuanlan.zhihu.com/p/59503784[] (https://web.archive.org/web/20200331202252/https://zhuanlan.zhihu.com/p/59503784[archive]). He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui on <<front-line-defenders>>. Quotes from the <<hundred-flowers-campaign>> also come to mind. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
-image::{china-dictatorship-media-base}/Liu_Shihui_tshirt.jpg[height=500]
+image::{china-dictatorship-media-base}/Liu_Shihui_tshirt.jpg[height=700]
 
 [[gfw]]
 ==== Great Firewall (GFW, 防火长城)
@@ -12803,6 +12831,7 @@ Projects:
 * https://github.com/233boy/v2ray
 ** https://github.com/Loyalsoldier/v2ray-rules-dat | https://github.com/v2ray/v2ray-core Contains cirosantilli.com: https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat[], victory.
 ** https://github.com/v2ray/v2ray-core
+* https://github.com/geph-official/geph4 Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
 
 More info:
 
@@ -13086,7 +13115,7 @@ Bibliography:
 * 2020-01-14 https://pincong.rocks/question/15322 "问下小粉红为什么叫中共兔子？" (Why do Little Pinks call the CCP Rabbit)
 
 .As of 2020, a particularly popular representation is this cute one wearing a <<pla>>-hat and with a https://en.wikipedia.org/wiki/Red_star[red star] (https://zh.wikipedia.org/wiki/紅星[红星]) on the chest, but in the original cartoon That Rabbit appeared to be more aggressive. <<wife>> told him that <<that-rabbit>> reminded her of https://en.wikipedia.org/wiki/Mashimaro[Mashimaro] (https://zh.wikipedia.org/wiki/流氓兔[流氓兔]), a cute Korean cartoon she used to watch when she was small. https://www.pinterest.fr/pin/757167756087837907/[Source].
-image::{china-dictatorship-media-base}/That_Rabbit_cute.jpg[height=400]
+image::{china-dictatorship-media-base}/That_Rabbit_cute.jpg[height=500]
 
 [[how-to-deal-with-wumaos]]
 ===== How to deal with wumaos (如何应对五毛)
@@ -13198,7 +13227,7 @@ Discussion/lists: <<quora>>:
 * https://www.reddit.com/r/China/comments/lgkp8t/british_youtubers_paid_by_the_cpp/ about Jason Lightfoot
 
 .Elbow-to-elbow against the common enemy! French division of the Waffen SS (Coude a coude contre l'ennemi commun! Division française de la Waffen SS) 1942 propaganda poster for the French SS division, formally known as https://en.wikipedia.org/wiki/33rd_Waffen_Grenadier_Division_of_the_SS_Charlemagne[33rd Waffen Grenadier Division of the SS Charlemagne]. Mentioned at: https://www.youtube.com/watch?v=UJpWB5hi3hQ French SS - Berlin 1945 by Mark Felton Productions (2020). https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/coude-a-coude-contre-l-ennemi-commun-division-francaise-de-la-waffen-ss#infos-principales[Source].
-image::{china-dictatorship-media-base}/French_Nazi_SS_poster_1942.jpg[height=400]
+image::{china-dictatorship-media-base}/French_Nazi_SS_poster_1942.jpg[height=600]
 
 [[nathan-rich]]
 ====== Nathan Rich (Hotpot King, 火锅大王)
@@ -13511,8 +13540,7 @@ image::{china-dictatorship-media-base}/Xi_scout_salute_vs_Hitler_Youth_salute.jp
 * 2017 https://www.globaltimes.cn/content/1081039.shtml on <<global-times>>
 
 .Children dressed in clear-blue Red-army uniforms saluting the flag at a <<red-army-school>> in https://en.wikipedia.org/wiki/Beichuan_Qiang_Autonomous_County[Beichuan] (https://zh.wikipedia.org/wiki/北川羌族自治县[北川]), <<sichuan>>, 2015. https://correspondent.afp.com/red-army-school[Source].
-image::{china-dictatorship-media-base}/Red_army_school.jpg[height=400]
-
+image::{china-dictatorship-media-base}/Red_army_school.jpg[height=500]
 
 [[hitler-youth]]
 ===== Hitler Youth (希特勒青年团)
@@ -13876,7 +13904,7 @@ Got https://www.urbandictionary.com/define.php?term=bitch%20slapped[bitchslapped
 * https://www.theguardian.com/business/2021/jan/23/the-strange-case-of-alibabas-jack-ma-and-his-three-month-vanishing-act
 
 .Cartoon of Jack Ma, <<winnie-the-pooh>> (representing <<xi-jinping>>) and <<that-rabbit>> (representing the Chinese people) splitting cookies. Winnie has a huge pile, Jack has a medium pile, and That Rabbit has a tiny pile. Winnie is saying "那个资本家夺走了你的饼干！" (That capitalist stole your cookies!). The cartoon suggests that the Chinese state has a lot of money and power, extremely successful entrepreneurs have a medium power, and the common people, who are manipulated by the CCP, have basically nothing. https://www.reddit.com/r/chonglangTV/comments/lyxlf9/不_言_而_喻一_目_了_然/[Source].
-image::{china-dictatorship-media-base}/Jack_Ma_Winnie_the_Pooh_and_That_Rabbit_splitting_cookies.jpg[height=400]
+image::{china-dictatorship-media-base}/Jack_Ma_Winnie_the_Pooh_and_That_Rabbit_splitting_cookies.jpg[height=500]
 
 [[jack-ma]]
 ==== Jack Ma (马云)
@@ -13957,7 +13985,7 @@ The dominating Chinese Facebook/Twitter clone as of 2020.
 
 [[weibo-logo]]
 .<<weibo>> logo vs Sauron's eye 微博标志vs索倫魔眼 by <<ciro-santilli>>.
-image::{china-dictatorship-media-base}/Weibo_Sauron.jpg[height=400]
+image::{china-dictatorship-media-base}/Weibo_Sauron.jpg[height=600]
 
 == Chinese censorship companies
 
@@ -14054,6 +14082,7 @@ This site is only available in Mainland China." The about of the blog leads to a
 - 2021-02-21 and 2020-02-22: https://developer.aliyun.com/ to https://cirosantilli.com and https://cirosantilli.com/china-dictatorship The china-dictatorship landing pages had tracking queries leaked: `?spm=.14275010.0.0.60be9dc4PsRmA` and `?spm=a2c6h.14275010.0.0.60be9dc4vwIZTP`. The source domain is visible publicly and entitled 开发者社区 (Developer community) for Aliyun. Who knows, maybe Jack Ma's people are starting a full out revolt after he was put in jail! :) These tracking queries are added to every single one of their links, including outlinks, as can be seen at: https://developer.aliyun.com/article/616542 for example. Edit: noticed https://developer.aliyun.com/mirror/npm/package/china-dictatorship was removed, so that was it.
 * 2021-02-18 https://cms.securimate.com securimate.com now redirects to https://steeleglobal.com "Your employees and business partners are confronted with ethical decisions every day that impact your company. To create a culture of integrity, you need to empower people to make the right choices. Steele partners with the world’s largest, most respected companies to deliver compliance products and services that help organizations embrace a culture of compliance while protecting their brand." Here we go. Securimate is a Texas-based acquisition apparently: https://www.planetcompliance.com/securimate/ Googling the company for China leads mostly to honorable anti-corruption and export compliance activityactivity e.g. https://steeleglobal.com/managing-third-party-vendors-china/ , nothing to do with brand protection of course, who would support a dictatorship to help their brand, right?
 * 2020-09-09 https://www.xataka.com/servicios/github-inesperado-ultimo-reducto-libertad-expresion-gran-firewall-que-pone-jaque-intereses-china "Github, el inesperado último reducto de libertad de expresión ante el 'Gran Firewall' pone en jaque los intereses de China", Spanish for "Github, the unexpected last stronghold of freedom of expression before the 'Great Firewall' puts the interests of China in check" basically talking about <<cute-cat-theory-of-digital-activism>>. Links to https://github.com/cirosantilli/chenmei-caiwei-ziyou under link text "Terminus2049" which is a bit misleading, could be a link mistake, led to 15 unique clicks. Contacted author at: https://twitter.com/cirosantilli/status/1307717620863467522
+* 2020-08-29 https://www.reddit.com/r/saraba2nd/comments/iipjov/github有哪些反共项目/ (Which anti-communist projects are there on GitHub?) <<github-repositories-with-censored-information>> of course! User spuspended when thread was found, so couldn't message them.
 * 2020-05-23: traffic reached 3k views on that day, compared to a normal 150, but the number of individual users is the same as always. The accessed pages were only meta repo pages like "Issues", "Wiki", "Stargazers" so either of:
 ** someone attempted a baby DDoS with wget and a single IP
 ** someone is scraping repository metadata, e.g. Chinese secret service or some other commercial bot that landed here by chance for the first time
@@ -14429,7 +14458,7 @@ The perfect cooking technique includes:
 * don't ever ever ever overcook. Cook the minimum possible so that it is not raw. This also means taking the jiaozi out of the hot water as soon as they are done.
 * after the dumplings rise to the surface after a few minutes, let it boil, and then put some cold water on top of the hot water. Repeat this two, three or four times until they are fully cooked. This helps the jiazi keep a strong peel.
 
-The best way to eat them is to pour some vinegar and ready-to-eat spicy preparations like <<laoganma>> or Ciro's favorite, <<fansaoguang-wild-brake-pickles>> in the bowl, and then dip them one by one.
+The best way to eat them is to pour some vinegar and ready-to-eat spicy preparations like <<laoganma>> or Ciro's favorite, <<fansaoguang>> in the bowl, and then dip them one by one.
 
 You can also drink the soup, or for cold days, actually eat the jiaozi with their soup. Ciro likes to add soy sauce and more of the above mentioned spices.
 
@@ -14471,15 +14500,16 @@ Cost about 4 dollars for 2.
 You can't eat them every day because too heavy, but they are so amazingly tasty!!!
 
 [[sunflower-seeds]]
-=== Sunflower seeds 瓜子 (gua1 zi)
+=== Sunflower seeds (瓜子, gua1 zi)
 
-https://en.wikipedia.org/wiki/Guazi | https://zh.wikipedia.org/wiki/瓜子
+* https://en.wikipedia.org/wiki/Guazi
+* https://zh.wikipedia.org/wiki/瓜子
 
 They are roasted and prepared with some flavoring, often green tea.
 
-They are different from most Western ones you can find, because they tend to be harder, the seeds are not open.
+They are different from most Western ones you can find, because they tend harde and smooth, and the seeds are not open.
 
-This is good because it makes you feel the flavour that was added to the skin.
+This is good because it makes you feel the flavour that was added to the skin as you break them open.
 
 You have to learn how to open them with your front teeth.
 
@@ -14488,14 +14518,17 @@ Once you do that, you start eating them nonstop like a machine until the bag is 
 .https://www.youtube.com/watch?v=4Zh0TiEd63k Chinese dude eating sunflower seeds for 9 hours non-stop. That's a good brand to get BTW: https://zh.wikipedia.org/wiki/洽洽食品[Chacha Food (洽洽食品)].
 video::4Zh0TiEd63k[youtube,height=400,width=600]
 
+.https://www.chinesefoodwiki.org/Qiaqia[Qiaqia] (https://zh.wikipedia.org/wiki/洽洽食品[洽洽]) sunflower seeds. TODO flavor name? The red one is the "default" flavor, and likely the best. The name of the brand is likely onomatopoeic with the sound of eating sunflower seeds. Partial transcription: "洽洽香瓜子 百煮如未香" Photo by <<ciro-santilli>>, CC BY-SA 4.0 2021.
+image::{china-dictatorship-media-base}/Sunflower_seeds_guazi.jpg[height=500]
+
 [[broad-beans]]
-=== Dried broad bean snack 干蚕豆 (gan1 can2 dou4)
+=== Dried broad bean snack (干蚕豆, gan1 can2 dou4)
 
 https://en.wikipedia.org/wiki/Vicia_faba | https://zh.wikipedia.org/wiki/蚕豆
 
 The name of broad bean in Chinese is interesting: it literally means "silkworm bean", because the shape of the bean looks a bit like that of a silkworm cocoon.
 
-.https://sixfortune.com/en/[Six Fortune (六福)] is a good brand. https://www.tradewindsorientalshop.co.uk/acatalog/Six-Fortune-Prepared-Broad-Bean---170g.html[Source].
+.https://sixfortune.com/en/[Six Fortune (六福)] is a good brand of <<broad-beans>> to buy. Also they are from <<taiwan>>. https://www.tradewindsorientalshop.co.uk/acatalog/Six-Fortune-Prepared-Broad-Bean---170g.html[Source].
 image::{china-dictatorship-media-base}/Six_Fortune_broad_bean.jpg[height=400]
 
 [[laoganma]]
@@ -14509,14 +14542,14 @@ The one with peanuts or black beans is also good.
 
 Just stay away from the Chicken flavoured one. https://www.urbandictionary.com/define.php?term=eww[Eww].
 
-.You can even buy Laoganma on Amazon! https://www.amazon.com/Laoganma-Crispy-Chilli-Oil-Grams/dp/B003WC0RME[Source].
+.You can even buy Laoganma on Amazon! Photo by <<ciro-santilli>>, CC BY-SA 4.0 2021.
 image::{china-dictatorship-media-base}/Laoganma.jpg[height=400]
 
 .https://www.youtube.com/watch?v=nkTQTS2RSCU "What is Lao Gan Ma, and can you make it at home?" by "Chinese Cooking Demystified" published on Nov 19, 2019. Explains how it comes from Guizhou province cuisine (neighbours Sichuan).
 video::nkTQTS2RSCU[youtube,height=400,width=600]
 
-[[fansaoguang-wild-brake-pickles]]
-=== Fansaoguang Wild Brake Pickles 饭扫光野蕨菜
+[[fansaoguang]]
+=== Fansaoguang (饭扫光)
 
 https://en.wikipedia.org/wiki/Fiddlehead_fern | https://en.wikipedia.org/wiki/Pteridium_aquilinum | https://zh.wikipedia.org/wiki/蕨菜
 
@@ -14526,8 +14559,8 @@ Some other flavours of the same brand are also very much worth trying, e.g. the 
 
 Oily, spicy and sour.
 
-.Photo of the Fansaoguang Wild Brake Pickles jar. https://52piepie.com/products/饭扫光野蕨菜-fsg-wild-brake-pickles[Source].
-image::{china-dictatorship-media-base}/Fan_sao_guang.jpg[height=400]
+.Photo of the Fansaoguang Fried https://en.wikipedia.org/wiki/Enokitake[Enokitake] (https://zh.wikipedia.org/wiki/金針菇[金針菇]) flavor. This is one of the best flavours. Another really good one was Wild brake pickles (野蕨菜), but it became less good in 2020 for some reason, that was one of the <<covid,major disasters>> of that year. Photo by <<ciro-santilli>>, CC BY-SA 4.0 2021.
+image::{china-dictatorship-media-base}/Fan_sao_guang.jpg[height=500]
 
 [[hot-pot]]
 === Hot pot 火锅 (huo3 guo1)
@@ -14561,7 +14594,7 @@ video::UQZcPyn-cDU[youtube,height=400,width=600]
 video::Fqv9hNoiQEs[youtube,height=400,width=600]
 
 [[congee]]
-=== Congee 粥 (zhou1)
+=== Congee (粥, zhou1)
 
 https://en.wikipedia.org/wiki/Congee#China | https://zh.wikipedia.org/wiki/粥
 
@@ -14582,10 +14615,12 @@ One particular type which is very good is: https://en.wikipedia.org/wiki/Laba_co
 Then, to eat it, you will want to add salty side dishes, all of which can be bought from the Chinese supermarket, since the congee itself is just mildly sweet and not salty at all:
 
 * cooked <<salted-duck-egg>>
-* https://en.wikipedia.org/wiki/Fermented_bean_curd[fermented bean curd] (https://zh.wikipedia.org/wiki/腐乳[腐乳]). Wangzhihe (https://zh.wikipedia.org/wiki/王致和[王致和]) is a good brand, <<ciro-santilli>> prefers the red ones instead of the white ones. https://www.amazon.com/Wangzhihe-Fermented-Traditional-Bean-DragonMall/dp/B00786YL72[Sample Amazon link].
 
 .The HONOR brand (康樂, full name: Honor Products, 康樂產品) Eight treasure congee (八寶粥) is a good brand to buy if you can find it. https://www.hiyou.co/product/honor-eight-treasure-porridge/[Source].
 image::{china-dictatorship-media-base}/Eight_treasture_congee.jpg[height=500]
+
+.https://en.wikipedia.org/wiki/Fermented_bean_curd[fermented bean curd] (https://zh.wikipedia.org/wiki/腐乳[腐乳, fu3 ru3]) is a good thing to put on <<congee>>. Wangzhihe (https://zh.wikipedia.org/wiki/王致和[王致和]) is a good brand, <<ciro-santilli>> prefers the dark red ones instead of the white ones. https://www.amazon.com/Wangzhihe-Fermented-Traditional-Bean-DragonMall/dp/B00786YL72[Sample Amazon link]. Photo by <<ciro-santilli>>, CC BY-SA 4.0 2021.
+image::{china-dictatorship-media-base}/Fermented_bean_curd_furu.jpg[height=500]
 
 .https://www.youtube.com/watch?v=DIxbJxNRpX0 Video showing how to make eight treasure congee from scratch by "Asian garden 2 table" published on Feb 2, 2020.
 video::DIxbJxNRpX0[youtube,height=400,width=600]
