@@ -441,7 +441,7 @@ Reasonable topics:
 * https://github.com/topics/censorship
 
 [[terminus2049]]
-=== Terminus2049 (端点星计划)
+=== Terminus2049 (端点星计划, 2049bbs)
 
 * https://github.com/Terminus2049/Terminus2049.github.io
 * https://terminus2049.github.io/
@@ -499,6 +499,8 @@ In 2020-06-12 their families received calls saying that they had been charged wi
 * https://www.scmp.com/news/china/society/article/3089002/coronavirus-chinese-activists-held-posting-censored-articles
 * https://www.rfa.org/mandarin/Xinwen/10-06122020154234.html
 
+In 2021-05-11 they were charged: https://www.aljazeera.com/news/2021/5/11/two-plead-guilty-in-case-highlighting-chinas-online-control
+
 Ciro's petition to free them: https://github.com/cirosantilli/chen-mei-cai-wei-ziyou
 
 How their identities were found:
@@ -518,7 +520,7 @@ https://2047.name/register registration requires an invitation code.
 https://github.com/2049bbs/2049bbs.github.io[] / https://2049bbs.github.io/[] maintains another archive up to 2019-03-03.
 
 .Side-by-side photos of Chen Mei (陈玫) and Cai Wei (蔡伟) from <<terminus2049>>. https://www.rfa.org/mandarin/Xinwen/7-04252020144555.html[Source].
-image::{china-dictatorship-media-base}/Chenmei_Caowei.jpg[height=400]
+image::{china-dictatorship-media-base}/Chenmei_Caowei.jpg[height=600]
 
 [[chinatimeline]]
 === chinatimeline (中国时间线)
@@ -3708,7 +3710,8 @@ Completely pro-Putin, e.g. removed https://www.reddit.com/r/russia/comments/kd21
 * https://t.me/anticcpbase
 * https://t.me/ccp_unmasked see also: <<knowlesys>>
 
-===== Twitter
+[[twitter]]
+===== Twitter (推特)
 
 Lists by <<ciro-santilli>>:
 
@@ -4087,7 +4090,7 @@ Master issue: https://github.com/cirosantilli/china-dictatorship/issues/226
 Overview projects:
 
 * https://www.talkaboutxinjiang.com/ Talking about Xinjiang 我们一起来谈谈新疆
-* https://wokeglobaltimes.com/xinjiang Breaking Down the Xinjiang Crisis
+* https://wokeglobaltimes.com/xinjiang Breaking Down the Xinjiang Crisis on <<the-woke-global-times>>
 * <<xinjiang-data-project>>
 
 News:
@@ -7472,6 +7475,11 @@ Major violations:
 
 Israel is a military base for the <<united-states>> to protect oil reserves in the Middle East.
 
+A popular and in <<ciro-santilli>>'s view reasonable analogy of the situation is with the apartheid:
+
+* https://en.wikipedia.org/wiki/Israel_and_the_apartheid_analogy
+* https://zh.wikipedia.org/wiki/以色列与南非种族隔离的类比
+
 Clearly, the best solution for the region as of 2021 would be to just give the https://en.wikipedia.org/wiki/West_Bank[West Bank] to the Palestinians:
 
 ____
@@ -7484,7 +7492,7 @@ Just look at the map of the 2017 Oslo accords: https://en.wikipedia.org/wiki/Wes
 
 And the settler population just keeps increasing: https://en.wikipedia.org/wiki/File:IsraeliSettlementGrowthLineGraph.png
 
-Basically every single country supports that resoution, except the United States due to their strategic interests, and other rich Western countries that would lose too much by fighting the US over it: https://en.wikipedia.org/wiki/International_recognition_of_the_State_of_Palestine[]. Even human rights organizations from those countries recognize that:
+Basically every single country supports that resolution, except the United States due to their strategic interests, and other rich Western countries that would lose too much by fighting the US over it: https://en.wikipedia.org/wiki/International_recognition_of_the_State_of_Palestine[]. Even human rights organizations from those countries recognize that:
 
 * https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
 * 2021 https://www.aljazeera.com/gallery/2021/5/12/in-pictures-9 In Pictures: Global protests in solidarity with Palestinians
@@ -7496,7 +7504,7 @@ Europe mumbles something about "stop being naughty Israeal, I'll make an Embargo
 * 2020 https://www.theguardian.com/world/2020/may/01/mps-press-for-sanctions-against-israel-over-west-bank-annexations MPs press for sanctions against Israel over West Bank annexations.
 * 2019 https://www.hrw.org/news/2019/04/23/us-states-use-anti-boycott-laws-punish-responsible-businesses from <<human-rights-watch>>
 
-The correct solution for this would be to actually force Israel to give the entire West Bank to palestine, not only through sactions, but through military action supporting the independent West Bank state. But of course, it would never come to that. Whatever the USA says, Israel would do, as they'd be fucked without support external. Israeli settlers in the West Bank would then have a choice of staying under the new government, possibly obtaining Palestine citizenship, or moving back to Israel.
+The correct solution for this would be to actually force Israel to give the entire West Bank to Palestine, not only through sanctions, but also through military action supporting the independent West Bank state. But of course, it would never come to that. The USA needs Israel as a military base in the region. And if the USA would stop support, Israel would ally itself with China or Russia, as they'd be fucked without external support. Israeli settlers in the West Bank would then have a choice of staying under the new government, possibly obtaining Palestine citizenship, or moving back to Israel.
 
 Bibliography:
 
@@ -9575,7 +9583,7 @@ image::{china-dictatorship-media-base}/Xi_Jinping_heart.jpeg[height=400]
 .Souvenirs sold in Beijing with the bust of Xi Jinping and Mao Zedong circa 2020. TODO: what is the shape of those souvenirs meant to evoke? https://www.wsj.com/articles/americans-negative-views-on-china-spike-polls-show-11614870001?reflink=desktopwebshare_twitter[Source].
 image::{china-dictatorship-media-base}/Xi_Jinping_Mao_Zedong_sculpture_souvenirs.jpg[height=400]
 
-.Xi Jinping in 2019 wearing his cute compassionate face. Do you think that such a cute cute North-Westerner 东北人 would ever to terrible things like <<xinjiang,commiting cultural genocide of a million people>> or <<xi-abolishes-term-limits-2018-03,trying to become ruler for life>>? Impossible, it must be <<evil-west,American lies>>.
+.Xi Jinping in 2019 wearing his cute compassionate face. Do you think that such a cute cute North-Westerner 东北人 would ever to terrible things like <<xinjiang,committing cultural genocide of a million people>> or <<xi-abolishes-term-limits-2018-03,trying to become ruler for life>>? Impossible, it must be <<evil-west,American lies>>.
 image::{china-dictatorship-media-base}/Xi_dada.jpg[height=400]
 
 [[chrysanthemium-xi-jinping]]
@@ -11225,6 +11233,15 @@ Discussing companies that operate in America and refuse to hire black people. Th
 ____
 
 The video shows a call with a black man (TODO who is that) where he talks about anti-black racism on employment in China. Nothing eye-popping, mostly references <<we-dont-hire-blacks-by-aaron-dewitt-2020>>. Mentions he is under NDA and cannot reveal the name of the company.
+
+==== the woke global times
+
+* https://twitter.com/BadChinaTake
+* https://wokeglobaltimes.com/
+
+Anonymous anti-CCP mostly <<twitter>> commentary about China, large part of it is making fun of right wing Americans saying stupid things about China with witty comments.
+
+The website contains a small number of high quality analysis articles.
 
 == Media (媒体)
 
@@ -13203,7 +13220,7 @@ Non-political (as far as we can tell) channels of interest:
 
 Bibliography:
 
-* https://wokeglobaltimes.com/tankies-and-despair tankies, despair, and politics: a case study by the woke global times (2020)
+* https://wokeglobaltimes.com/tankies-and-despair tankies, despair, and politics: a case study by the woke global times (2020) on <<the-woke-global-times>>
 * https://www.zhihu.com/question/447085848 如何判断一个老外夸中国，是发自真心，还是财富密码？ (How to judge whether a foreigner praises China from his sincerity or the code of wealth? is about) on <<zhihu>>
 
 Discussion/lists: <<quora>>:
@@ -13228,6 +13245,15 @@ Discussion/lists: <<quora>>:
 
 .Elbow-to-elbow against the common enemy! French division of the Waffen SS (Coude a coude contre l'ennemi commun! Division française de la Waffen SS) 1942 propaganda poster for the French SS division, formally known as https://en.wikipedia.org/wiki/33rd_Waffen_Grenadier_Division_of_the_SS_Charlemagne[33rd Waffen Grenadier Division of the SS Charlemagne]. Mentioned at: https://www.youtube.com/watch?v=UJpWB5hi3hQ French SS - Berlin 1945 by Mark Felton Productions (2020). https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/coude-a-coude-contre-l-ennemi-commun-division-francaise-de-la-waffen-ss#infos-principales[Source].
 image::{china-dictatorship-media-base}/French_Nazi_SS_poster_1942.jpg[height=600]
+
+====== Tankie
+
+https://en.wikipedia.org/wiki/Tankie
+
+Adapted from the cold war, this term has been widely used to describe pro-CCP western people, i.e. <<ccp-apologists>>, examples:
+
+* https://wokeglobaltimes.com/tankies-and-despair tankies, despair, and politics: a case study by the woke global times (2020) on <<the-woke-global-times>>
+* https://www.reddit.com/r/EnoughCommieSpam/comments/n29kc3/upvote_this_absolute_chad_to_piss_off_the_tankies/ Upvote this absolute chad to piss off the tankies at r/GenZedong on <<reddit>>
 
 [[nathan-rich]]
 ====== Nathan Rich (Hotpot King, 火锅大王)
