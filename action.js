@@ -71,9 +71,10 @@ ${full_images.join('\n\n')}
 
 // Label handling.
 let labels;
+let newLabels;
 if (!isComment) {
   labels = new Set(payload.issue.labels.map(label => label.name));
-  const newLabels = new Set();
+  newLabels = new Set();
   const shabiWords = [
     'shabi',
     'shadiao',
