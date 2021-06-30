@@ -47,13 +47,22 @@ for (const image of images) {
 
 // Prepare reply body.
 const payload = github.context.payload;
-const titleAndBody = payload.issue.title + '\n\n' + payload.issue.body;
+const isComment = payload.comment !== undefined;
+let titleAndBody;
+let author;
+if (isComment) {
+  titleAndBody = payload.comment.body;
+  author = payload.comment.user.login;
+} else {
+  titleAndBody = payload.issue.title + '\n\n' + payload.issue.body;
+  author = payload.issue.user.login;
+}
 const quoteArray = [];
 for (const line of titleAndBody.split('\n')) {
   // Remove some speical chars to remove at mention spam possibilities.
   quoteArray.push('> ' + line.replace(/[@#]/g, ""));
 }
-const replyBody = `Hi ${payload.issue.user.login},
+const replyBody = `Hi ${author},
 
 ${quoteArray.join('\n').substring(0,40000)}
 
@@ -61,67 +70,69 @@ ${full_images.join('\n\n')}
 `;
 
 // Label handling.
-const labels = new Set(payload.issue.labels.map(label => label.name));
-const newLabels = new Set();
-const shabiWords = [
-  'shabi',
-  'shadiao',
-  '傻',
-  '沙雕',
-  '智障',
-  '啥b',
-  'stupid',
-];
-for (const word of shabiWords) {
-  if (new RegExp(word, 'i').test(titleAndBody)) {
-    newLabels.add('you-are-stupid-argument');
-    break;
+if (!isComment) {
+  const labels = new Set(payload.issue.labels.map(label => label.name));
+  const newLabels = new Set();
+  const shabiWords = [
+    'shabi',
+    'shadiao',
+    '傻',
+    '沙雕',
+    '智障',
+    '啥b',
+    'stupid',
+  ];
+  for (const word of shabiWords) {
+    if (new RegExp(word, 'i').test(titleAndBody)) {
+      newLabels.add('you-are-stupid-argument');
+      break;
+    }
   }
-}
-const fuckMotherWords = [
-  'cnm',
-  '操你妈',
-  'fuck.*\\b(mom|mum|mother)\\b',
-  '尼玛',
-  '去你吗',
-]
-for (const word of fuckMotherWords) {
-  if (new RegExp(word, 'i').test(titleAndBody)) {
-    newLabels.add('fuck-your-mother-argument');
-    break;
+  const fuckMotherWords = [
+    'cnm',
+    '操你妈',
+    'fuck.*\\b(mom|mum|mother)\\b',
+    '尼玛',
+    '去你吗',
+  ]
+  for (const word of fuckMotherWords) {
+    if (new RegExp(word, 'i').test(titleAndBody)) {
+      newLabels.add('fuck-your-mother-argument');
+      break;
+    }
   }
-}
-const motherDiedWords = [
-  'nmsl',
-  '你妈死',
-  '司马',
-]
-for (const word of motherDiedWords) {
-  if (new RegExp(word, 'i').test(titleAndBody)) {
-    newLabels.add('your-mother-died-argument');
-    break;
+  const motherDiedWords = [
+    'nmsl',
+    '你妈死',
+    '司马',
+  ]
+  for (const word of motherDiedWords) {
+    if (new RegExp(word, 'i').test(titleAndBody)) {
+      newLabels.add('your-mother-died-argument');
+      break;
+    }
   }
-}
-const shitpostWords = [
-  'fuck',
-  'shit',
-  'bitch',
-  '垃圾',
-  '婊子',
-  '恶心',
-  '操你',
-];
-for (const word of shitpostWords) {
-  if (new RegExp(word, 'i').test(titleAndBody)) {
+  const shitpostWords = [
+    'fuck',
+    'shit',
+    'bitch',
+    '垃圾',
+    '婊子',
+    '恶心',
+    '操你',
+  ];
+  for (const word of shitpostWords) {
+    if (new RegExp(word, 'i').test(titleAndBody)) {
+      newLabels.add('shitpost');
+      break;
+    }
+  }
+  if (newLabels.size > 0) {
     newLabels.add('shitpost');
-    break;
-  }
-}
-if (newLabels.size > 0) {
-  newLabels.add('shitpost');
-  if (labels.has('not-shitpost')) {
-    labels.delete('not-shitpost');
-    newLabels.add('op-does-not-know-what-shit-is');
+    if (labels.has('not-shitpost')) {
+      labels.delete('not-shitpost');
+      newLabels.add('op-does-not-know-what-shit-is');
+    }
   }
 }
 
@@ -135,12 +146,15 @@ try {
     issue_number: payload.issue.number,
     body: replyBody,
   });
-  await octokit.issues.update({
-    owner: 'cirosantilli',
-    repo: payload.repository.name,
-    issue_number: payload.issue.number,
-    labels: Array.from([...labels, ...newLabels])
-  });
+  if (!isComment) {
+    // Update labels.
+    await octokit.issues.update({
+      owner: 'cirosantilli',
+      repo: payload.repository.name,
+      issue_number: payload.issue.number,
+      labels: Array.from([...labels, ...newLabels])
+    });
+  }
 } catch (error) {
   core.setFailed(error.message);
 }
