@@ -70,8 +70,9 @@ ${full_images.join('\n\n')}
 `;
 
 // Label handling.
+let labels;
 if (!isComment) {
-  const labels = new Set(payload.issue.labels.map(label => label.name));
+  labels = new Set(payload.issue.labels.map(label => label.name));
   const newLabels = new Set();
   const shabiWords = [
     'shabi',
