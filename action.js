@@ -53,7 +53,7 @@ for (const line of titleAndBody.split('\n')) {
   // Remove some speical chars to remove at mention spam possibilities.
   quoteArray.push('> ' + line.replace(/[@#]/g, ""));
 }
-const replyBody = `Hi ${github.context.payload.issue.user.login},
+const replyBody = `Hi ${payload.issue.user.login},
 
 ${quoteArray.join('\n').substring(0,40000)}
 

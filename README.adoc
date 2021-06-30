@@ -352,6 +352,7 @@ Another source of China-specific mirroring are GitHub proxies, https://linuxpip.
 * https://a1.mk-proxy.ml/-----https://github.com/cirosantilli/china-dictatorship generated from http://toolwa.com/github/
 * https://github.com/521xueweihan/GitHub520
 * https://github.independentlyreview.com/cirosantilli/china-dictatorship described at https://independentlyreview.com/link as using https://workers.cloudflare.com/[Cloudflare workers]
+* https://github-dotcom.gateway.web.tr/cirosantilli/china-dictatorship a Turkish proxy. They have their own censorship issues as well of course.
 
 Create tags,and update all mirrors in one go with: link:push-mirrors[]:
 
@@ -590,6 +591,7 @@ Further optimizations:
 +
 ....
 #!/usr/bin/env bash
+printf '易支付'
 printf '英语台词'
 printf '文字匹配'
 printf '美团点评各业务线提供'
