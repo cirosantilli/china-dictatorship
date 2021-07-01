@@ -591,6 +591,7 @@ Further optimizations:
 +
 ....
 #!/usr/bin/env bash
+printf '马拉松程序员'
 printf '易支付'
 printf '英语台词'
 printf '文字匹配'
@@ -2136,13 +2137,18 @@ image::{china-dictatorship-media-base}/We_cant_complain.jpg[height=600]
 .Translation of the above.
 image::{china-dictatorship-media-base}/We_cant_complain_zh.jpg[height=600]
 
+[[scarfolk-public-displays-of-personal-distress-are-unpatriotic]]
+."Public displays of personal distress are unpatriotic" spoof poster by <<scarfolk-council>> (2017). https://scarfolk.blogspot.com/2017/10/illegal-public-displays-of-emotion.html[Source].
+image::{china-dictatorship-media-base}/Scarfolk_public_displays_of_personal_distress_are_unpatriotic.jpg[height=500]
+
+.Presumed Chinese people giving the middle finger to various <<ccp>> symbols, most notably <<xi-jinping>>. Even if this was made by the CIA, it perfectly illustrates the point that obviously no one speaks against the CCP because otherwise they will be put in jail. https://www.reddit.com/r/China/comments/obmgdh/not_all_of_us_are_brainwashed_沉默的大多数/[Source].
+image::{china-dictatorship-media-base}/Anonymous_middle_fingers.jpg[height=800]
+
 [[goring-nuremberg]]
 .https://www.youtube.com/watch?v=4xoM6-1SWl4&t=1606 https://en.wikipedia.org/wiki/The_Living_Dead_(TV_series)[The Living Dead] Episode 1: On the Desperate Edge of Now by Adam Curtis (1995) comments on how interviews with https://en.wikipedia.org/wiki/Hermann_Göring[Hermann Goring] (https://zh.wikipedia.org/wiki/赫尔曼·戈林[赫尔曼·戈林]) during the https://en.wikipedia.org/wiki/Nuremberg_trials[Nuremberg trials] (https://zh.wikipedia.org/wiki/纽伦堡审判[纽伦堡审判]) went: "Again and again, Jackson accused Goring of corruptly using his powers to commit crimes. Each time, Goring replied that such acts might be considered crimes in a democratic state, but that in Germany, democracy had failed. Eliminating the political opposition was necessary, to fulfill a higher principle: that of the Nation. And that it had worked, Goring insisted. It had brought order and prosperity to Germany". Jackson asks: "Well, if you wanted a certain people killed, you would have to have some organization that would kill them didn't you?". Goring replies: "This was the only possible form of government at the time and it proved that Germany could be pulled out of the abyss of misery, poverty and unemployment and withing a short space of time be made flourish and bloom." This is _exactly_ the justification given by the <<ccp,CCP>> for oppressing minorities and <<censorship,freedom of speech>>: the CCP is indistinguishable from the <<nazi,Nazis>>.
 video::4xoM6-1SWl4[youtube,height=400,width=600,start=1606]
 
-[[scarfolk-public-displays-of-personal-distress-are-unpatriotic]]
-."Public displays of personal distress are unpatriotic" spoof poster by <<scarfolk-council>> (2017). https://scarfolk.blogspot.com/2017/10/illegal-public-displays-of-emotion.html[Source].
-image::{china-dictatorship-media-base}/Scarfolk_public_displays_of_personal_distress_are_unpatriotic.jpg[height=500]
+Anonymous_middle_fingers.jpg
 
 .https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game.
 video::zndzntIDLFE[youtube,height=400,width=600]
@@ -7440,9 +7446,16 @@ Via <<twitter>>:
 * https://en.wikipedia.org/wiki/Isaipriya
 
 [[military-dictatorship-in-brazil]]
-== Military dictatorship in Brazil (1964-1985)
+== Military dictatorship in Brazil (巴西军事独裁, 1964-1985)
 
-https://en.wikipedia.org/wiki/Military_dictatorship_in_Brazil
+* https://en.wikipedia.org/wiki/Military_dictatorship_in_Brazil
+* https://en.wikipedia.org/wiki/1964_Brazilian_coup_d%27état
+* https://zh.wikipedia.org/wiki/1964年巴西政變
+* https://en.wikipedia.org/wiki/Operation_Condor
+
+<<ciro-santilli>> is Brazillian, and his parents lived through this dictatorship.
+
+Created with the help of... the <<united-states>>, while fighting the Cold War to prevent the spread of Communism. https://dune.fandom.com/wiki/Litany_Against_Fear[Fear is the mind killer], and the Cold War served as an excuse for many atrocities, notably in the <<middle-east>>.
 
 One of Ciro's favorite stories about the dictatorship is how cake recipes or classical https://en.wikipedia.org/wiki/Luís_de_Camões[Luís_de_Camões (1524-1580)] poetry were introduced in newspapers to replace news that had been <<censorship,censored>> in the last minute:
 
@@ -7450,6 +7463,12 @@ One of Ciro's favorite stories about the dictatorship is how cake recipes or cla
 * (pt) http://www.memorialdademocracia.com.br/card/noticia-censurada-da-lugar-a-camoes
 
 Who would have thought that even the limiting and ancient limitations of https://en.wikipedia.org/wiki/Pagination[pagination] would have their usefulness!!! Today's Chinese censors have it easy, as they can just remove the stuff and that damned HTML reflow automatically to fit.
+
+https://www.youtube.com/watch?v=EXF-9GtHsek "These photos sparked a Cold War propaganda feud" by Vox (2021). CCP you should learn from this Brazillian magazine.
+
+* https://www.nytimes.com/2018/09/10/lens/gordon-parks-on-poverty-the-most-savage-of-human-afflictions.html
+* https://www.khanacademy.org/humanities/art-1010/post-war-american-art/postwar-photography/a/how-photographs-of-poverty-in-the-americas-ignited-an-international-battle-over-propaganda
+* https://artblart.com/tag/novo-recorde-americano-miseria/
 
 [[apesar-de-voce]]
 .https://www.youtube.com/watch?v=4RhKTzVVDno Apesar de Você (In spite of you [the Dictatorship])] by https://en.wikipedia.org/wiki/Chico_Buarque[Chico Buarque] (1970) with English and Spanish subtitles. That video unfortunately mixes anti-dictatorship and anti-Bolsonaro (2020) imagery. A video with better epoch image but no English subtitles can be found at: https://www.youtube.com/watch?v=33-bMTOlvx0[]. This is one of the many anti-Brazilian-dictatorship songs of the time, and Ciro really enjoys it. https://www.musixmatch.com/lyrics/Chico-Buarque/Apesar-De-Voc%C3%AA/translation/english[Lyrics with translation]. Top quotes: "You [the dictatorship] who invented this State, who invented sin, forgot to invent forgiveness." and "Where will you hide, from the enormous euphoria [of a revolution]? How will you prohibit it when the rooster insists in singing?". Slideshows with that song have been made for several events, e.g. https://www.youtube.com/watch?v=WOqaF3shq6o[the Syrian civil war], and Ciro would like to do a China-themed one as well one day.
