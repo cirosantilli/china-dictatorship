@@ -27,14 +27,14 @@ https://cdn.jsdelivr.net/npm/china-dictatorship@latest/README.html[cdn.jsdelivr 
 
 Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
-This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com]. You can view it fully at either:
+This README is too large and https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com]. You can view it fully at either:
 
-* https://cirosantilli.com/china-dictatorship[]. Canonical, https://zh.greatfire.org/https/cirosantilli.com[blocked in China since 2020] according to <<greatfire>>. However, China is still the second largest hit location according to Google Analytics, I don't understand
-* https://cirosantilli.gitlab.io/china-dictatorship[]. Let's see how good is the <<gfw>> at blocking subdomains.
+* https://cirosantilli.com/china-dictatorship[]. https://zh.greatfire.org/https/cirosantilli.com[Blocked in China since 2020] according to <<greatfire>>, however, China is still the second largest hit location according to Google Analytics, I don't understand
+* https://cirosantilli.gitlab.io/china-dictatorship[]. Let's see how good the <<gfw>> is at blocking subdomains.
 
 or by downloading it locally as shown at: <<mirrors>>.
 
-**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead, preferably from behind VPN/Tor/<<shadowsocks>>.** 你不是一个人。将来是今天的五毛必须隐藏，而不是你。You are not alone. In the fiture, it is the wumaos who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
+**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China who have their real name on their account or that use a Chinese email provider, please don't star this repo, or else the police might pay you a visit someday. First create an anonymous account with Gmail/Protonmail instead, preferably from behind a VPN/Tor/<<shadowsocks>>.** 你不是一个人。将来是今天的五毛必须隐藏，而不是你。You are not alone. In the future, it is the wumaos who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
 
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China_photo.jpg[height=600]
 
@@ -45,21 +45,21 @@ toc::[]
 
 This repo has the following goals:
 
-* allow copy pasting links to answers to questions/comments that have been posted a million times before by <<wumao>>, mostly under: <<faq>>. This was the original goal.
-* serve as a censorship bomb to block <<github>> in China: <<keyword-attack>> to destroy the <<gfw>> and <<dictator-needs-gfw,therefore the CCP>>. Or more realistically get added to the <<github-gov-takedowns>> hall of fame.
-* be a fun and sometimes silly source of Chinese mostly anti-CCP culture like a better https://en.uncyclopedia.co/wiki/China[Unencyclopedia] / https://web.archive.org/web/20191209021646/http://encyclopediadramatica.rs/China[Encyclopedia Dramatica] without the stupid stereotype jokes. Just quickly browse the pictures with Ctrl + F "Figure" and have fun.
-* serve as a place where people can post interesting related stuff in the issues: https://github.com/cirosantilli/china-dictatorship/issues see also: <<shitpost>>
-* highlight positive about China's culture outside of its shitty government, such as <<the-best-chinese-supermarket-food-products,food>> and <<music>>. This has two goals:
-** teach foreigners (maybe even Chinese people on certain points) about amazing Chinese things that they can consume
+* allow the copy and pasting of links to answers and questions/comments that have been posted a million times before by <<wumao>>, mostly under: <<faq>>, This was the original goal.
+* serve as a censorship bomb to block <<github>> in China through a <<keyword-attack>> to destroy the <<gfw>> and <<dictator-needs-gfw,therefore the CCP>>, or more realistically get added to the <<github-gov-takedowns>> hall of fame.
+* be a fun and sometimes silly source of mostly Chinese anti-CCP culture, like a better https://en.uncyclopedia.co/wiki/China[Unencyclopedia] / https://web.archive.org/web/20191209021646/http://encyclopediadramatica.rs/China[Encyclopedia Dramatica] without the stupid stereotype jokes. Browse through the pictures quickly using Ctrl + F and "Figure", have fun.
+* serve as a place where people can post relevant yet interesting content in the issues: https://github.com/cirosantilli/china-dictatorship/issues see also: <<shitpost>>
+* Taking the shitty government out of perspective and focusing on the positives of Chinese culture, such as the <<the-best-chinese-supermarket-food-products,food>> and <<music>>. This goal has two objectives:
+** teach foreigners (or maybe even Chinese) about amazing Chinese consumables
 ** show wumaos that <<ciro-santilli>> is not as clueless about China as they think
 
 == Copypasta
 
 Here's an image/sentence https://en.wikipedia.org/wiki/Copypasta[copypasta]/summary of key events for the <<keyword-attack>>.
 
-Another advantage of this is that since it comes first in the repo, it ensures that key elements show up on github.com despite file size cutups: https://github.com/isaacs/github/issues/1610[].
+Another advantage of this is, since it comes first in the repo, it ensures that key elements show up on github.com despite file size cutups: https://github.com/isaacs/github/issues/1610[].
 
-Each summary section contains a link to the main section, which contains sources and description of each image.
+Each summary section contains a link to the main section, which then contains sources and description for each image.
 
 Text only:
 
@@ -86,7 +86,7 @@ image::{china-dictatorship-media-base}/Tank_Man.jpg[height=400]
 
 image::{china-dictatorship-media-base}/Tiananmen_crushed_dead.jpg[height=600]
 
-**法轮功 Falun Gong 1999 70M believer religion banned**
+**法轮功 Falun Gong 1999, a religion of 70M believers was banned**
 
 https://cirosantilli.com/china-dictatorship#falun-gong
 
@@ -177,7 +177,7 @@ image::{china-dictatorship-media-base}/Thai_king_crop_top.jpg[height=400]
 
 You can download the webpage locally from GitHub at: https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip
 
-Media such as images are not stored in this repository, but rather at https://github.com/cirosantilli/china-dictatorship-media to keep the lightweight clone. That downloaded HTML will read images from that repository, e.g. https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Xi_Jinping_The_Governance_of_China_photo.jpg[]. But we've learnt after creating that maybe the raw.githubusercontent.com subdomain is censored: <<github-censored-subdomains>>. If anyone can confirm, we will start using another image provider by default.
+Media such as images are not stored in this repository, but rather at https://github.com/cirosantilli/china-dictatorship-media to keep the lightweight clone. The downloaded HTML will read images from the same repository, e.g. https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Xi_Jinping_The_Governance_of_China_photo.jpg[]. But after creating we've learnt that the raw.githubusercontent.com subdomain might be censored: <<github-censored-subdomains>>. If anyone is able to confirm it, we will start using another image provider by default.
 
 Clone locally with Git using GitHub images:
 
@@ -222,7 +222,7 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 * https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
 * https://gitlab.com/cirosantilli/china-dictatorship
 ** their gitlab.com render is shit for some reason, clicking on the ToC does not jump to headers properly, not sure why, IDs look correct
-** one really cool thing about gitlab is that it can serve images from directly gitlab.com e.g. https://gitlab.com/cirosantilli/china-dictatorship-media/-/raw/master/Xi_Jinping_The_Governance_of_China_photo.jpg unlike GitHub which has the `raw.` subdomain: https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Xi_Jinping_The_Governance_of_China_photo.jpg This makes it impossible to block the GitLab images without blocking all of gitlab.com, until GitLab starts a <<github-gov-takedowns,gov-takedowns>> of their own.
+** one really cool thing about gitlab is that it can serve images directly from gitlab.com e.g. https://gitlab.com/cirosantilli/china-dictatorship-media/-/raw/master/Xi_Jinping_The_Governance_of_China_photo.jpg unlike GitHub which has the `raw.` subdomain: https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Xi_Jinping_The_Governance_of_China_photo.jpg This makes it impossible to block the GitLab images without blocking all of gitlab.com, until GitLab starts a <<github-gov-takedowns,gov-takedowns>> of their own.
 ** https://cirosantilli.gitlab.io/china-dictatorship GitLab Pages. Works fine. Let's see if they can block subdomains: https://zh.greatfire.org/https/cirosantilli.gitlab.io/china-dictatorship
 ** Maybe some day https://gitlab.cn/ ? :-) Edit 2021-03, yup, it happened, with <<icp-license>> and all
 *** https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/
@@ -237,20 +237,19 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 GitHub Pages: https://cirosantilli.com/china-dictatorship trade-offs with https://github.com/cirosantilli/china-dictatorship[]:
 
 * pros
-** cut up to 512KB of source, and therefor unacceptable as the only source: https://github.com/isaacs/github/issues/1610[]
-** https://help.github.com/en/github/authenticating-to-github/about-anonymized-image-urls[GitHub's camo] keeps hiccuping and not showing images
-** and YouTube videos show inline there
+** cut up to 512KB of source, and therefore cannot be the only source: https://github.com/isaacs/github/issues/1610[]
+** https://help.github.com/en/github/authenticating-to-github/about-anonymized-image-urls[GitHub's camo] keeps hiccuping and not showing images and YouTube videos are shown inline
 * cons
-** domain will eventually get blocked in China. <<greatfire>> https://zh.greatfire.org/https/cirosantilli.com shows that in 2020-01-19 the domain was unblocked, but on the next text at 2020-05-23 it was "contractictory".
+** the domain will eventually get blocked in China. <<greatfire>> https://zh.greatfire.org/https/cirosantilli.com shows that in 2020-01-19 the domain was unblocked, but on the next text at 2020-05-23 it was "contractictory".
 ** Camo bypasses the need for VPN, since most images are served from <<wayback-machine>> which is <<censorship,blocked in China>>.
 
-It is really interesting to see how many people star the GitHub repository, and then a few minutes later they think about how they might get put in jail, and then unstar it. Talk about <<chilling-effect>>! But yes, for the love of God, please stay safe: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
+It is really interesting to see how many people star this GitHub repo, and few minutes later they realize they might get put in jail, and unstar it. Talk about the <<chilling-effect>>! But yes, for the love of God, please stay safe: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
 
 GitHub Pages was first enabled in 2020-03-22 at https://github.com/cirosantilli/china-dictatorship/commit/0b362a83fb5dd55f67b9d351551d0c18e7f3229a[].
 
-The perfect solution might be to download all images and upload them to https://github.com/cirosantilli/media since GitHub content does not go through Camo, we have to see if such images don't fail to load as often.
+The perfect solution might be to download all the images and upload them to https://github.com/cirosantilli/media since GitHub content does not go through Camo, we have to see if such images don't fail to load as often.
 
-A few NPM/Git CDNs can also be used to bypass subdomain blocks, and some actually render HTML with the correct content type. Lists of such CDNs:
+A few NPM/Git CDNs can also be used to bypass subdomain blocks, and some actually render HTML with the correct content type. A list of CDNs:
 
 * https://stackoverflow.com/questions/8446218/how-to-see-an-html-page-on-github-as-a-normal-rendered-html-page-to-see-preview
 * https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source
@@ -277,7 +276,7 @@ npm i -g china-dictatorship
 china-dictatorship > README.html
 ....
 
-This forces China to also block/curate package managers to block this repo. The package is already available in the following NPM Chinese mirrors, both which were blocked at some point:
+This forces China to also block/curate package managers to block this repo. The package is already available in the following NPM Chinese mirrors, both were blocked at some point:
 
 * Taobao: https://registry.npm.taobao.org/china-dictatorship (https://web.archive.org/web/20200406081433/http://registry.npm.taobao.org/china-dictatorship[archive]).
 +
@@ -297,7 +296,7 @@ python3 -m pip install --user --upgrade china-dictatorship
 china-dictatorship.py > README.html
 ....
 
-Like NPM, this will also have Chinese mirrors that will need to be censored by their admins ovrview https://titanwolf.org/Network/Articles/Article?AID=25a20c20-c97b-4bfe-af67-760861343658 :
+Smilarly to NPM, this will have Chinese mirrors that will need to be censored by their admins ovrview https://titanwolf.org/Network/Articles/Article?AID=25a20c20-c97b-4bfe-af67-760861343658 :
 
 * http://pypi.douban.com/simple/china-dictatorship/ vs http://pypi.douban.com/simple/numpy both up March 2021
 * http://mirrors.aliyun.com/pypi/simple/china-dictatorship/ vs http://mirrors.aliyun.com/pypi/simple/numpy both down March 2021 but in a different way, so maybe it was censored already
