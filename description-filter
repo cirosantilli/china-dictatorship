@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+perl -CSDA -pe 'use utf8;s/:[a-zA-Z0-9]+/ /g' |
+perl -CSDA -pe 'use utf8;s/[、，,—【】。；（）！－>｜：《》『』「」…￣ﾉ·‘’!@#$%^&*()_\+\-=\/\\;:[\]{}.,`~'"'"'" \x{200D}\x{10000}-\x{1FFFF}\x{2B00}-\x{2BFF}\x{25A0}-\x{25FF}\x{2600}-\x{26FF}\x{2700}-\x{27BF}\x{1F300}-\x{1F5FF}]+/ /g' |
+perl -CSDA -pe 'use utf8;s/https? +//i' |
+perl -CSDA -pe 'use utf8;s/[a-zA-Z0-9 ]{32,}//g' |
+tr -d '\n' |
+sed 's/  / /' |
+LC_CTYPE=en_US.UTF-8 awk "{print substr(\$0,1,${1:-10});exit}"

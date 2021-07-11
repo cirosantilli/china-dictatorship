@@ -19,7 +19,9 @@ https://htmlpreview.github.io/?https://github.com/cirosantilli/china-dictatorshi
 https://www.unpkg.com/china-dictatorship@latest/README.html[www.unpkg.com (tag)],
 https://gitlab.com/cirosantilli/china-dictatorship/-/blob/master/README.adoc[gitlab.com],
 https://raw.githack.com/cirosantilli/china-dictatorship/gh-pages/index.html[raw.githack.com],
-https://cdn.statically.io/gh/cirosantilli/china-dictatorship/gh-pages/index.html[cdn.statically.io]
+https://cdn.statically.io/gh/cirosantilli/china-dictatorship/gh-pages/index.html[cdn.statically.io],
+https://xenodochial-heisenberg-0fc0f1.netlify.app/[cirosantilli.netlify.app],
+https://china-dictatorship.onrender.com/[china-dictatorship.onrender.com]
 |
 下载 HTML download:
 https://raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html[raw.githubusercontent.com],
@@ -262,11 +264,22 @@ Some we've found, with HTML content type:
 * Blocked when last checked:
 ** https://raw.githack.com/cirosantilli/china-dictatorship/gh-pages/index.html[]: https://zh.greatfire.org/https/raw.githack.com/cirosantilli/china-dictatorship/gh-pages/index.html blocked since 2021-05-20
 ** https://cdn.statically.io/gh/cirosantilli/china-dictatorship/gh-pages/index.html[]: https://zh.greatfire.org/https/cdn.statically.io/gh/cirosantilli/china-dictatorship/gh-pages/index.html blocked since 2021-05-20
+* https://xenodochial-heisenberg-0fc0f1.netlify.app/[] from https://www.netlify.com/[]. Auto sync with Git.
+* https://china-dictatorship.onrender.com/[] from https://render.com/[]. Auto sync with Git.
+* https://china-dictatorship.web.app/[] TODO get working, explained under "hosting": https://console.firebase.google.com/u/0/project/china-dictatorship/hosting/sites
 
 Without HTML content type:
 
 * https://raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html[]: https://zh.greatfire.org/https/raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html
 * https://cdn.jsdelivr.net/npm/china-dictatorship@latest/README.html[]: https://zh.greatfire.org/https/cdn.jsdelivr.net/npm/china-dictatorship%40latest/README.html
+
+We've also tried to use jsfiddle like-services, but most don't work well:
+
+* https://jsfiddle.net/cirosantilli/0tL3ckqb/ javascript works for a long time
+* https://jsbin.com/ HTML too long
+* https://codepen.io/ 1MB limit
+
+List of such services: https://codysaylor.com/notes/comparing-codepen-jsfiddle-cssdeck-liveweave-jsbin-dabblet/
 
 === Software package mirrors
 
@@ -585,52 +598,19 @@ Ciro believes that this is due to two reasons:
 
 This can be automated with: link:description.sh[].
 
-Further optimizations:
+Further optimizations using link:description[]:
 
-* https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts Some processing to increase density creates a BOMB:
-+
 ....
-#!/usr/bin/env bash
-printf '黑皮书'
-printf '马拉松程序员'
-printf '易支付'
-printf '英语台词'
-printf '文字匹配'
-printf '美团点评各业务线提供'
-printf '知识库团队共享'
-printf '阿里云高精Excel识别'
-printf '德讯 ·吉特胡布'
-printf '薄熙来'
-printf '黑科技'
-printf '习近平讲话模拟器'
-printf '习近平音源'
-printf '黑马程序员MySQL数据库'
-printf '玉米杂草数据集'
-printf '销售系统开发'
-printf '疫情期间网民情绪识别比赛'
-printf 996icu
-printf '996 icu'
-printf 学习强国
-printf 预测结果导出
-printf 赖伟林
-printf 刺杀小说家
-printf 购物商场
-printf 英语词汇量小程序
-printf 联级选择器
-printf Bitcoin
-printf 区块链
-cat README.md |
-grep -P '^\|\d' |
-cut -d\| -f4 |
-perl -CSDA -pe 'use utf8;s/:[a-zA-Z0-9]+/ /g' |
-perl -CSDA -pe 'use utf8;s/[、，,—【】。；（）！－>｜：《》「…￣ﾉ·‘’!@#$%^&*()_\+\-=\/\\;:[\]{}.,`~'"'"'" \x{200D}\x{10000}-\x{1FFFF}\x{2B00}-\x{2BFF}\x{25A0}-\x{25FF}\x{2600}-\x{26FF}\x{2700}-\x{27BF}\x{1F300}-\x{1F5FF}]+/ /g' |
-perl -CSDA -pe 'use utf8;s/https? +//i' |
-perl -CSDA -pe 'use utf8;s/[a-zA-Z0-9 ]{32,}//g' |
-tr -d '\n' |
-head -c 64000
+git clone https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
+./description
 ....
-+
+
+this does some processing to increase density creates a BOMB:
+
 Ciro started using that one instead to see if it was going to be more effective on 2021-03-28. First it hit a peak of 168 visitors on Monday 2021-03-29, and then fell back to 90 and 81 on the following days, so similar to the previous Chinese political input. It is very hard to understand why the first day was so different.
+
+It also includes:
+
 * https://github.com/trending?since=monthly&spoken_language_code=zh trending Chinese repositories
 +
 A large part of those projects falls in the following categories:
@@ -1518,7 +1498,7 @@ Well known corruption cases:
 ** https://zh.wikipedia.org/wiki/任志强
 ** https://edition.cnn.com/2020/09/22/asia/china-ren-zhiqiang-xi-jinping-intl-hnk/index.html "Chinese tycoon who criticized <<xi-jinping,Xi Jinping>>'s handling of <<covid,coronavirus>> jailed for 18 years"
 * 2012 https://en.wikipedia.org/wiki/Ling_Jihua[Ling Jihua] (https://zh.wikipedia.org/wiki/令计划[令计划]): son died in Ferrari crash with two women on the car, which put the spotlight on him
-* 2012 https://en.wikipedia.org/wiki/Bo_Xilai[Bo Xilai] (https://zh.wikipedia.org/wiki/薄熙来[薄熙来]): trigerred by the murder of https://en.wikipedia.org/wiki/Neil_Heywood[Neil Heywood], of which Bo's wife was accused
+* 2012 <<bo-xilai>>: trigerred by the murder of https://en.wikipedia.org/wiki/Neil_Heywood[Neil Heywood], of which Bo's wife was accused
 
 Related events:
 
@@ -2150,15 +2130,17 @@ image::{china-dictatorship-media-base}/We_cant_complain_zh.jpg[height=600]
 ."Public displays of personal distress are unpatriotic" spoof poster by <<scarfolk-council>> (2017). https://scarfolk.blogspot.com/2017/10/illegal-public-displays-of-emotion.html[Source].
 image::{china-dictatorship-media-base}/Scarfolk_public_displays_of_personal_distress_are_unpatriotic.jpg[height=500]
 
-[[anonymous-middle-fingers]]
-.Presumed Chinese people giving the middle finger to various <<ccp>> symbols, most notably <<xi-jinping>>. Even if this was made by the CIA, it perfectly illustrates the point that obviously no one speaks against the CCP because otherwise they will be put in jail. If you are going to do this, for Fuck's Sake please cover your fingers, like the ones using gloves, or the banknotes, because if the photo resolution is good enough, you could be identified by your fingerprint. https://www.reddit.com/r/China/comments/obmgdh/not_all_of_us_are_brainwashed_沉默的大多数/[Source].
-image::{china-dictatorship-media-base}/Anonymous_middle_fingers.jpg[height=800]
-
 [[goring-nuremberg]]
 .https://www.youtube.com/watch?v=4xoM6-1SWl4&t=1606 https://en.wikipedia.org/wiki/The_Living_Dead_(TV_series)[The Living Dead] Episode 1: On the Desperate Edge of Now by Adam Curtis (1995) comments on how interviews with https://en.wikipedia.org/wiki/Hermann_Göring[Hermann Goring] (https://zh.wikipedia.org/wiki/赫尔曼·戈林[赫尔曼·戈林]) during the https://en.wikipedia.org/wiki/Nuremberg_trials[Nuremberg trials] (https://zh.wikipedia.org/wiki/纽伦堡审判[纽伦堡审判]) went: "Again and again, Jackson accused Goring of corruptly using his powers to commit crimes. Each time, Goring replied that such acts might be considered crimes in a democratic state, but that in Germany, democracy had failed. Eliminating the political opposition was necessary, to fulfill a higher principle: that of the Nation. And that it had worked, Goring insisted. It had brought order and prosperity to Germany". Jackson asks: "Well, if you wanted a certain people killed, you would have to have some organization that would kill them didn't you?". Goring replies: "This was the only possible form of government at the time and it proved that Germany could be pulled out of the abyss of misery, poverty and unemployment and withing a short space of time be made flourish and bloom." This is _exactly_ the justification given by the <<ccp,CCP>> for oppressing minorities and <<censorship,freedom of speech>>: the CCP is indistinguishable from the <<nazi,Nazis>>.
 video::4xoM6-1SWl4[youtube,height=400,width=600,start=1606]
 
-Anonymous_middle_fingers.jpg
+
+[[anonymous-middle-fingers]]
+.Presumed Chinese people giving the middle finger (https://zh.wikipedia.org/wiki/豎中指[竖中指]) to various <<ccp>> symbols, most notably <<xi-jinping>>. Even if this was made by the CIA, it perfectly illustrates the point that obviously no one speaks against the CCP because otherwise they will be put in jail. If you are going to do this, for Fuck's Sake please cover your fingers, like the ones using gloves, or the banknotes, because if the photo resolution is good enough, you could be identified by your fingerprint. A <<reddit,r/China>> https://www.reddit.com/r/China/comments/obmgdh/not_all_of_us_are_brainwashed_沉默的大多数/[repost]. This photo seems to be the result of a campaign started by https://twitter.com/GFWfrog[] in response to the 100th anniversary of the Party in 2021. This was also explained at: https://chinadigitaltimes.net/chinese/667778.html[] on <<china-digital-times>> https://twitter.com/GFWfrog/status/1410927334719430662[Source].
+image::{china-dictatorship-media-base}/Anonymous_middle_fingers.jpg[height=800]
+
+.https://www.youtube.com/watch?v=_y2FIqfIpiw (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub 上传 upload]) Give <<xi-jinping>> the middle finger silly GIF by GFWfrog 给习近平竖中指由墙国蛙蛤蛤傻逼视频. https://twitter.com/GFWfrog/status/1408805483679469579[Source].
+video::_y2FIqfIpiw[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game.
 video::zndzntIDLFE[youtube,height=400,width=600]
@@ -3231,10 +3213,13 @@ image::{china-dictatorship-media-base}/Sweet_brown_chinese_characters_meme.jpg[h
 .Translation of the above.
 image::{china-dictatorship-media-base}/Sweet_brown_chinese_characters_meme_zh.jpg[height=500]
 
+.Chinese typewriter. As you would expect, it is insanely complex, and slow to type with. https://commons.wikimedia.org/wiki/File:Chinese_typewriter_at_Deutsche_Technikmuseum.jpg[Source].
+image::{china-dictatorship-media-base}/Chinese_typewriter.jpg[height=500]
+
 .https://www.youtube.com/watch?v=JZcui85b4EE RARE Japanese Toshiba Typewriter. Types in Japanese, Chinese + English. Toshiba Typewriter Model BW-2112.
 video::JZcui85b4EE[youtube,height=400,width=600]
 
-.Commercial for IBM's Selectric Typewriter 1960's Contrast with the above.
+.https://www.youtube.com/watch?v=vNUEUth7qjc Commercial for IBM's Selectric Typewriter 1960's Contrast with the above.
 video::vNUEUth7qjc[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=t_cbW5JK9WM "The most complex Chinese character" by Vladimir Skultety does a reasonable analysis of which Chinese character is the most complex
@@ -3736,12 +3721,17 @@ Lists by <<ciro-santilli>>:
 * https://twitter.com/i/lists/221848102 anti-ccp
 * https://twitter.com/i/lists/235201419 pro-ccp
 
-After Trump was unfairly banned from Twitter, his social media team created an amazing "Chongald Xrump" account <<what-should-western-countries-do-about-china,pretending ridiculously to be a CCP PR person>>, it had really good posts.
+Particularly interesting ones:
 
+* https://twitter.com/zaikandongxi
+* After <<unjust-social-media-censorship-in-the-west,Trump was unfairly banned from Twitter>>, his social media team created an amazing "Chongald Xrump" account <<what-should-western-countries-do-about-china,pretending ridiculously to be a CCP PR person>>, it had really good posts.
++
 But that amazing account was banned: https://babylonbee.com/news/trump-sneaks-back-on-twitter-by-disguising-self-as-pr-rep-for-chinese-communist-party Twitter is <<politically-incorrect,trying really hard>> to beat the <<censorship,CCP at its own game>>.
+* https://twitter.com/GFWfrog 墙国蛙蛤蛤. The username is a reference to a frog that jumps over the <<gfw>>.
 
 News:
 
+* 2021-07 https://apnews.com/article/china-business-technology-3741dcfb1c2eb11f17280c9ed8c06fc4 "Twitter restricts account of expert who mocked China leader" Anne-Marie Brady https://twitter.com/Anne_MarieBrady
 * 2021-04-08: publicly supported the <<milk-tea-alliance>>
 
 [[trump-twitter-kuang-biao]]
@@ -4715,7 +4705,7 @@ image::{china-dictatorship-media-base}/To_obey_is_to_betray.jpg[height=400]
 [[lie-flat-movement]]
 ===== Lie Flat movement (躺平主义)
 
-The movement notably contradicts one of the <<core-socialist-values>>: dedication.
+The movement notably contradicts one of the <<core-socialist-values>>: dedication (敬业).
 
 * https://www.scmp.com/comment/letters/article/3139558/what-chinas-lie-flat-youth-and-global-climate-strikers-have-common
 
@@ -5359,13 +5349,15 @@ ____
 
 The bot is basically Ciro's lawyer, always loyally on his corner of the fighting ring.
 
-Finally, also try to extract the email of the user from one of their repositories. When successful, Ciro takes a <<wayback-machine>> snapshot of the repository as proof of SHA, and then forks it to https://github.com/cirosantilli-test-org to possibly keep their email safe in case of account deletion. You never know when this information might be useful.
+Ciro considers this a form of "asymmetric information warfare", a mixture of the concepts of https://en.wikipedia.org/wiki/Asymmetric_warfare[asymmetric warfare] and https://en.wikipedia.org/wiki/Information_warfare[information warfare]. The dictatorship has <<censorship>>, and legions of non-anonymous supporters. And the anti-censorship has memes, and a few anonymous supporters.
+
+Finally, also try to extract the email of the user from one of their repositories. When successful, Ciro takes a <<wayback-machine>> snapshot of the repository as proof of SHA, and then forks it to https://github.com/wumaoland to possibly keep their email safe in case of account deletion. You never know when this information might be useful.
 
 Then, after replying, do your best never to read the inevitable reply again, and above all, never ever reply. An interesting reply never follows from a non-interesting original post. It is hard at first, but you will eventually get the hang of it.
 
 If the user keeps generating notifications, block them as per link:CONTRIBUTING.md[], replying to a single person multiple times is useless.
 
-Never block users for an initial <<shitpost,shitposts>>, just reply with a stupid joke instead. This approach creates more uncertainty and makes you look cooler. Only block if the user is generating multiple notifications.
+Never block users for an initial <<shitpost,shitposts>>, just reply with a stupid joke instead. This approach creates more uncertainty and makes you look cooler. It also allows you to identify who the enemy is. Only block if the user is generating multiple notifications.
 
 If a shitpost is made on most other social media except GitHub issues in this repository, e.g. Twitter, Facebook, YouTube, immediately block the user on that website if you have the permission to do that, with a canned reply:
 
@@ -5929,7 +5921,7 @@ Query to find them: https://data.stackexchange.com/stackoverflow/query/312863/me
 *** profile: "中国万岁！ 中国共产党万岁！ 法轮功，民运，台独在中国共产党的铁蹄下不过是螳臂当车！"
 ** https://web.archive.org/web/20200830192811/https://stackoverflow.com/users/815408/lookintoeast became a coward, renamed to "LookIntoEast"
 *** https://web.archive.org/web/20200910172706/https://stackoverflow.com/questions/63464732/how-to-set-a-custom-image-height-for-an-image-in-asciidoctor more shitcomments "可惜啊中国一天比一天强大繁荣，中国的实力碾压你们轮子跟捏死一只蚂蚁那么简单。哈哈哈哈", Yes, the CCP is very good at <<intolerance,putting old ladies in jail>>. A great thing to be proud of.
-** left 3 "offensive" comments and downvoted some posts. Flagged them all. Easy suspension:
+** left 3 "offensive" comments and downvoted some posts. Flagged them all. Easy suspension, https://archive.ph/lBlyk[7 days], 3 downvotes reversed as "Serial voting reversed":
 *** https://web.archive.org/web/20210706074306/https://stackoverflow.com/questions/67750849/how-to-filter-by-event-type-in-chrome-devtools-profile-tab-e-g-to-see-mouse-cli?noredirect=1#comment120649535_67750849 快看，你轮子老婆正被野男人按在床上疯狂X！！！ 因为你性无能！哈哈哈哈哈哈。轮子狗都是这种下场
 *** https://web.archive.org/web/20210706074342/https://stackoverflow.com/questions/67773885/how-to-return-a-404-not-found-page-and-http-status-when-an-invalid-parameter-of/67773886?noredirect=1#comment120649386_67773886 快看！你老婆这只轮子🐔，一直被不同男人X呢！那个地方被X到流脓！因为你性无能哦，所以不停被你轮子老婆戴绿帽子！
 *** https://web.archive.org/web/20210706074248/https://stackoverflow.com/questions/67787456/what-is-the-difference-between-fallback-false-vs-true-vs-blocking-of-getstaticpa?noredirect=1#comment120649323_67787456 轮子狗死全家！！！！！快看你妈刚被车撞死了！脑浆 一直喷！
@@ -6614,8 +6606,19 @@ Yes, gay people are also <<evil-west,discriminated to different degrees in Weste
 
 But <<intolerance,like all minorities>>, they are generally more fucked in <<dictatorship,dictatorships>>, since they can be easily crushed by majorities.
 
-Therefore, all gay people must be against the CCP:
+Therefore, all gay people must be against the CCP.
 
+See also:
+
+* https://en.wikipedia.org/wiki/LGBT_rights_in_China | https://zh.wikipedia.org/wiki/中华人民共和国LGBT权益
+* https://en.wikipedia.org/wiki/Homosexuality_in_China | https://zh.wikipedia.org/wiki/中国同性恋史
+* https://en.wikipedia.org/wiki/LGBT_rights_by_country_or_territory | https://zh.wikipedia.org/wiki/各地LGBT权利
+* https://www.zhihu.com/question/370080866/answer/1046195468 at <<zhihu>>
+* <<gay-putin>>
+
+News:
+
+* 2021-07-07 https://www.reuters.com/world/china/chinas-wechat-deletes-university-lgbt-accounts-2021-07-07/ "China's Wechat deletes university LGBT accounts" on <<wechat>>
 * 2020-08-14 https://www.scmp.com/news/china/society/article/3097377/shanghai-pride-cancelled-after-11-years-blow-lgbt-community "Shanghai Pride cancelled after 11 years in blow to China's LGBT community". "
 Organisers are 'taking a break from scheduling any future events', they say in social media message".
 ** the Tweet: https://twitter.com/ShanghaiPride/status/1293897794919510016 "上海骄傲节终止所有活动" (Shanhai Pride will be stopping all activities)
@@ -6630,13 +6633,6 @@ Organisers are 'taking a break from scheduling any future events', they say in s
 +
 .Widely distributed still from the Addicted 2016 series which was banned showing a presumably gay couple lying in bed. https://www.theguardian.com/tv-and-radio/2016/mar/04/china-bans-gay-people-television-clampdown-xi-jinping-censorship[Source].
 image::{china-dictatorship-media-base}/Addicted_bed.jpg[height=400]
-
-See also:
-
-* https://en.wikipedia.org/wiki/Homosexuality_in_China | https://zh.wikipedia.org/wiki/中国同性恋史
-* https://en.wikipedia.org/wiki/LGBT_rights_by_country_or_territory | https://zh.wikipedia.org/wiki/各地LGBT权利
-* <<gay-putin>>
-* https://www.zhihu.com/question/370080866/answer/1046195468 at <<zhihu>>
 
 .Lesbian couple kissing in <<tiananmen,Tiananmen Square>> with Mao's painting and confused/disgusted guards in the background who are likely about to call their superiors to ask what they should do. The photo likely surfaced in 2006 https://web.archive.org/web/20200301224434/https://www.salon.com/2006/01/17/lesbians_china/[as mentioned] in link:++https://en.wikipedia.org/wiki/Salon_(website)++[salon.com] which said it came form https://en.wikipedia.org/wiki/Boing_Boing[Boing Boing]. It was not however picked up by any major website. Ciro actually thought this could have been ripped from some television series due to the amazing expression on the guards' faces. TODO: find the original Chinese source, translate the watermarks, and see if their identity is known. Another one can be seen at: https://knowyourmeme.com/photos/1956753-fully-automated-luxury-gay-space-communism[] under the title "fully automated lesbians" which is a subset of "Fully Automated Luxury Gay Space Communism". TODO origin. What is that uniform? http://www.chinatoday.com/entertain/tiananmen_kiss.htm[Source].
 image::{china-dictatorship-media-base}/Tiananmen_lesbian_kiss.jpg[height=500]
@@ -7524,6 +7520,21 @@ Major violations:
 
 * <<israel>>
 
+[[iraq-war]]
+=== Iraq War (2003-2011, 伊拉克战争)
+
+* https://en.wikipedia.org/wiki/Iraq_War
+* https://zh.wikipedia.org/wiki/伊拉克战争
+
+This had purely political/strategic motivations. They had to fake intelligence in order to justify the war by saying that Iraq had weapons of mass destruction:
+
+* https://en.wikipedia.org/wiki/Senate_Report_on_Pre-war_Intelligence_on_Iraq
+* https://www.theguardian.com/world/2004/jul/09/usa.iraq2
+* https://en.wikipedia.org/wiki/Rationale_for_the_Iraq_War
+* Katharine Gun
+** https://en.wikipedia.org/wiki/Katharine_Gun
+** https://en.wikipedia.org/wiki/Official_Secrets_(film)[Official Secrets (2019)]
+
 [[israel]]
 === Israel (以色列)
 
@@ -7590,7 +7601,8 @@ Bibliography:
 .<<falun-gong>> believer arrested by police in Beijing <<tiananmen,Tiananmen Square>> in 2000-01-10. https://www.theepochtimes.com/spiritual-practice-continues-to-be-persecuted-in-china-amid-the-ccp-virus-pandemic_3296045.html[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_lady_silenced.jpg[height=600]
 
-.Police steps over <<falun-gong>> believer's face in 2000 at Tiananmen. This images was http://content.time.com/time/covers/asia/0,16641,20010702,00.html[on the cover of the July 2, 2001 cover of Time Magazine "Crushing Falun Gong"]. https://www.businessinsider.com/dragon-springs-falun-gong-upstate-new-york-compound-photos-2019-9?r=US&IR=T[Source].
+[[falun-gong-police-step-over-head]]
+.Police steps over <<falun-gong>> believer's face in 2000 at Tiananmen. This images was http://content.time.com/time/covers/asia/0,16641,20010702,00.html[on the cover of the July 2, 2001 cover of Time Magazine "Crushing Falun Gong"]. https://www.theguardian.com/world/2015/aug/27/anastasia-lin-miss-world-canada-falun-gong-practitioner-china-persecution[Source].
 image::{china-dictatorship-media-base}/Police_steps_over_Falun_Gong_believer_s_face_in_2000_at_Tiananmen.jpg[height=600]
 
 [[zone-theory]]
@@ -9057,16 +9069,6 @@ image::{china-dictatorship-media-base}/Li_Hongzhi_dubstep.webp[height=400]
 .https://www.youtube.com/watch?v=_7JK576nxm0 音乐视频：《师尊的手》<<falun-gong>> music video "The master's hand" contains some a bit of good old time <<li-hongzhi>> footage.
 video::_7JK576nxm0[youtube,height=400,width=600]
 
-===== Xi Hongzhi and Li Jinping
-
-In an alternate reality, Xi Hongzhi, not to be confused with <<xi-jinping>>, is an obscure peasant trying to save his kingdom from oppression.
-
-And Li Jinping, not to be confused with <<li-hongzhi>>, is an evil Qi Gong who uses his powers to rule over his kingdom ruthlessly, ridding it of non-believers.
-
-This meme would be offensive to both <<ccp>> and <<falun-gong>> believers.
-
-We are entering Encyclopedia Dramatica territory here.
-
 ===== FLG is dangerous because Li Hongzhi has too much power over followers
 
 Ciro agrees that there is danger in every religion, and especially new religions.
@@ -9112,6 +9114,10 @@ Penny says that it was removed in 1999 (presumably to remove some more glaring m
 A possible Chinese copy might be found at: http://qingqing.freebbs.tw/viewthread.php?tid=165### inside a 1994 version of Zhuan Falun.
 +
 The section is entitled "中国法轮功创始人、法轮功研究会会长 李洪志先生小传", so literally tranlated as a "profile" (小传) rather than a full biography. The index marks it as 附 (addendum), and it comes at the end of the book.
+
+===== What will happen to Falun Gong when Li Honzhi dies?
+
+https://www.quora.com/What-will-happen-to-Li-Hongzhi-the-founder-of-Falun-Gong-when-he-is-not-in-this-world-anymore/answer/Ciro-Santilli
 
 ===== Let's make a mini series about Li Hongzhi's life
 
@@ -9161,6 +9167,17 @@ Related videos:
 +
 But who knows. Episode 3 shows how Rajneesh implemented <<careful-control-of-your-image>>: Sheela was the front-person, and had meetings with him every evening.
 * The Master (2012)
+
+[[xi-hongzhi-and-li-jinping]]
+====== Xi Hongzhi and Li Jinping (习洪志和李近平)
+
+In an alternate reality, Xi Hongzhi, not to be confused with <<xi-jinping>>, is an obscure peasant trying to save his kingdom from oppression.
+
+And Li Jinping, not to be confused with <<li-hongzhi>>, is an evil Qi Gong who uses his powers to rule over his kingdom ruthlessly, ridding it of non-believers.
+
+This meme would be offensive to both <<ccp>> and <<falun-gong>> believers.
+
+We are entering Encyclopedia Dramatica territory here.
 
 [[li-hongzhis-family]]
 ===== Li Hongzhi's family (李洪志的家庭)
@@ -9488,7 +9505,15 @@ image::{china-dictatorship-media-base}/Lets_party_like_its_1793.jpg[height=600]
 
 Leak of financial data implicating <<corruption,many corruption scandals>>.
 
-Mentions <<xi-jinping>>'s brother-in-law https://en.wikipedia.org/wiki/Deng_Jiagui[Deng Jiagui] (https://zh.wikipedia.org/wiki/邓家贵[邓家贵]).
+Most notable people implicated:
+
+* <<xi-jinping>> through his brother-in-law https://en.wikipedia.org/wiki/Deng_Jiagui[Deng Jiagui] (https://zh.wikipedia.org/wiki/邓家贵[邓家贵]).
+* https://en.wikipedia.org/wiki/Jia_Qinglin[Jia Qinglin] (https://zh.wikipedia.org/wiki/贾庆林[贾庆林]), fourth in Chinese power from 2003 to 2013, through:
+** Jasmine Li (李紫丹), his granddaughter
+** https://en.wikipedia.org/wiki/Li_Pak-tam[Li Pak-tam] (https://zh.wikipedia.org/wiki/李伯潭[李伯潭]), his son-in-law 
+* <<li-peng>> through his daughter https://en.wikipedia.org/wiki/Li_Xiaolin[Li Xiaolin] (https://zh.wikipedia.org/wiki/李小琳[李小琳])
+* <<bo-xilai>> through his associate https://www.reuters.com/article/us-china-bo-devillers-idUSBRE84E0HA20120515[Patrick Henri Devillers]
+* https://en.wikipedia.org/wiki/Liu_Yunshan[Liu Yunshan] (https://zh.wikipedia.org/wiki/刘云山[刘云山]), politburo 2012-2017, through his daughter-in-law Jia Liqing
 
 See also <<ciro-santilli>>'s answer to https://www.quora.com/What-is-the-net-worth-of-Xi-Jinping/answer/Ciro-Santilli[What is the net worth of Xi Jinping?] answer on <<quora>>.
 
@@ -9557,6 +9582,9 @@ image::{china-dictatorship-media-base}/Xi_Jinping_photoshopped_as_The_Joker.jpg[
 .<<xi-jinping>>, <<jiang-zemin>> and <<hu-jintao>> photoshopped on top of a clothing advertisement (TODO original). The text reads: "江胡险恶 习以为常". TODO understand. 江胡 are the surnames of <<jiang-zemin>> and <<hu-jintao>>. 习 is the surname of; <<xi-jinping>>. "习以为常" is a fixed expression that means "to get accustomed to". Also asked at: https://www.mohu.rocks/question/573 on <<mohu>>, and explained at: https://www.secretchina.com/news/gb/2003/12/03/56236.html from <<falun-gong-media>>. https://twitter.com/BeqB38ldjIu5acT/status/1377094062063292418[Source]
 image::{china-dictatorship-media-base}/Xi_Jiang_Hu.jpg[height=400]
 
+.https://www.youtube.com/watch?v=nPc3bSbKw28 (https://github.com/cirosantilli/china-dictatorship/issues/229[GitHub 上传 upload]) <<xi-jinping>> Carrie Lam Leonardo di Caprio Kate Winslet Titanic Deepface by GFWfrog. 由墙国蛙蛤蛤习近平 林郑月娥 莱昂纳多迪卡普里奥 凯特温斯莱特 泰坦尼克号. https://twitter.com/GFWfrog/status/1412704989445713924[Source].
+video::nPc3bSbKw28[youtube,height=400,width=600]
+
 [[xi-jinping-lookalikes]]
 ===== Xi Jinping lookalikes (习近平撞脸)
 
@@ -9602,6 +9630,14 @@ Got censored due to comparisons between Xi Jinping and Winnie in 2017: https://e
 Thailand has their own version: <<thai-king-hamtaro>>.
 
 In <<xi-dada>> we see that a <<peoples-daily>> video actually interviews someone who mentions that, so the meme has had a positive connotation at least some point in the past.
+
+Related:
+
+* 2021-06-07: Triple A game https://en.wikipedia.org/wiki/Cyberpunk_2077[Cyberpunk 2077] developer used a "Winnie the Pooh" label internally to mark game content that needed to be censored for the Chinese release as shown by a source code leak
+** More precisely, the constant was named `Censor_WinnieThePooh`, with a comment `// China`.
+** https://www.reddit.com/r/GamingLeaksAndRumours/comments/nua4do/cdpr_seems_to_have_used_the_name_winnie_the_pooh/
+** https://gamerant.com/cyberpunk-2077-winnie-the-pooh-china-source-code-leak/
+** https://www.vg247.com/2021/06/08/cyberpunk-2077-winnie-the-pooh-china-censor/
 
 Some good photoshops:
 
@@ -9853,6 +9889,14 @@ video::diec9Cdsvg0[youtube,height=400,width=600]
 * https://en.wikipedia.org/wiki/Hu_Jintao
 * https://zh.wikipedia.org/wiki/胡锦涛
 
+[[bo-xilai]]
+==== Bo Xilai (薄熙来, 2007-2012)
+
+* https://en.wikipedia.org/wiki/Bo_Xilai
+* https://zh.wikipedia.org/wiki/薄熙来
+
+Communist Party Secretary of Chongqing from 2007 to 2012, i.e. number one of this Provincial level city, which has same the importance as a <<provinces-of-china,province>>.
+
 [[jiang-zemin]]
 === Jiang Zemin (江泽民, 1989-2002)
 
@@ -9891,6 +9935,16 @@ ____
 
 .https://youtube.com/watch?v=y-JPLzj2poY Jiang Zemin saying "Too simple, sometimes naive."
 video::y-JPLzj2poY[youtube,height=400,width=600,start=57]
+
+[[li-peng]]
+==== Li Peng (李鹏, 1988-1998)
+
+* https://en.wikipedia.org/wiki/Li_Peng
+* https://zh.wikipedia.org/wiki/李鹏
+
+One of the key players on <<tiananmen>>.
+
+For the most part of the 1990's whe as second in command as https://en.wikipedia.org/wiki/Premier_of_the_People%27s_Republic_of_China[Premier] from 1988 to 1998.
 
 [[deng-xiaoping]]
 === Deng Xiaoping (邓小平, 1982-1987)
@@ -10275,6 +10329,7 @@ image::{china-dictatorship-media-base}/Tiananmen_sea.jpg[height=600]
 .https://en.wikipedia.org/wiki/Pu_Zhiqiang[Pu Zhiqiang] (https://zh.wikipedia.org/wiki/浦志强[浦志强]) was student demonstrator during the Tiananmen Square protests of 1989. His shirt reads: "Freedom of the press, freedom of association, support the 'link:https://en.wikipedia.org/wiki/World_Economic_Herald[World Economic Herald] (link:https://zh.wikipedia.org/wiki/世界经济导报[世界经济导报])', and support just journalists." (辦報自由 結社自由 聲援世经导报 支持正义记者, fully quoted https://cinacn.blogspot.com/2001/07/28.html[here]) Date: 1989-05-10. Pu remained in China as a human rights layer, and https://www.bbc.co.uk/news/world-asia-china-35157525[was arrested in 2014] for attending a private meeting commemorating the 25th anniversary of Tiananmen. https://allthatsinteresting.com/tiananmen-square-massacre[Source].
 image::{china-dictatorship-media-base}/Pu_Zhiqiang_tshirt.jpg[height=700]
 
+[[tiananmen-students-sitting]]
 .Students from Beijing University stage a huge demonstration in Tiananmen Square as they start an unlimited hunger strike as the part of mass pro-democracy protest against the Chinese government. Photo taken on 1989-05-18 by Catherine Henriette/AFP/Getty Images. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_students_sitting.jpg[height=400]
 
@@ -10296,7 +10351,7 @@ image::{china-dictatorship-media-base}/Tiananmen_girl_strife.jpg[height=400]
 .A dissident student asks masses of sitting soldiers to go back home on 1989-06-03. Great shot composition by AP Photo/Jeff Widener. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_announce_soldiers.webp[height=500]
 
-.Godzilla https://en.wikipedia.org/wiki/Li_Peng[Li Peng (李鹏)] crushing the Tiananmen Square protests with his green eye laser beams. https://en.uncyclopedia.co/wiki/File:Li_at_Tiananmen_Eyebeams.jpg[Source].
+.Godzilla <<li-peng>> crushing the Tiananmen Square protests with his green eye laser beams. https://en.uncyclopedia.co/wiki/File:Li_at_Tiananmen_Eyebeams.jpg[Source].
 image::{china-dictatorship-media-base}/Li_at_Tiananmen_Eyebeams.jpg[height=600]
 
 .Protester covered in blood while holding an army helmet on 1989-06-04. There is also footage of that moment: https://www.youtube.com/watch?t=63&v=lXJ6gHFME0w[] which explains that the man claims his face was cut by a soldir by using the edge of the helmet. This other photo: https://img.buzzfeed.com/buzzfeed-static/static/2019-06/4/12/asset/buzzfeed-prod-web-02/sub-buzz-29641-1559664105-1.jpg?downsize=1600:*&output-format=auto&output-quality=auto[] shows the cut on his head better. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
@@ -10472,7 +10527,7 @@ image::{china-dictatorship-media-base}/Tank_Man_ground_level.jpg[height=600]
 image::{china-dictatorship-media-base}/Tank_Man_ducks.jpg[height=600]
 
 [[lego-tank-man]]
-.Rough https://en.wikipedia.org/wiki/Lego[Lego] (https://zh.wikipedia.org/wiki/樂高[乐高]) model of the Tank Man scene. https://knowyourmeme.com/photos/1499216-tank-man[Source].
+.Rough https://en.wikipedia.org/wiki/Lego[Lego] (https://zh.wikipedia.org/wiki/樂高[乐高]) model of the Tank Man scene. A Lego <<xinjiang-re-education-camps>> can be seen at https://twitter.com/MidnightMitch/status/1412887665113018371[], many people replied with that at: https://twitter.com/LEGO_Group/status/1412743232270876675[]. https://knowyourmeme.com/photos/1499216-tank-man[Source].
 image::{china-dictatorship-media-base}/Lego_Tank_Man.png[height=400]
 
 .https://en.wikipedia.org/wiki/Final_Fantasy_VI[Final Fantasy VI] (https://zh.wikipedia.org/wiki/最终幻想VI[最终幻想VI]) battle screen style depiction of tank man by Cody Walton by it8Bit. https://www.it8bit.com/post/25860395424/unknown-rebel[Source].
@@ -12194,6 +12249,12 @@ Related:
 
 See also "Cult-speak" from <<orange-papers>>, related <<ccp-cult>>.
 
+[[community-with-shared-future-for-mankind]]
+===== Community with shared future for mankind (人类命运共同体)
+
+* https://en.wikipedia.org/wiki/Community_with_shared_future_for_mankind
+* https://zh.wikipedia.org/wiki/人类命运共同体
+
 [[thoughtcrime]]
 ==== Thoughtcrime (思想罪)
 
@@ -12298,6 +12359,14 @@ Translations:
 * https://zh.wikipedia.org/wiki/中国共产党
 
 === CCP organization
+
+[[politburo]]
+==== Politburo Standing Committee of the Chinese Communist Party (中国共产党中央政治局常务委员会)
+
+* https://en.wikipedia.org/wiki/Politburo_Standing_Committee_of_the_Chinese_Communist_Party
+* https://zh.wikipedia.org/wiki/中国共产党中央政治局常务委员会
+
+The seven top people of the party as of 2020, ranked in a specific order.
 
 [[national-congress]]
 ==== National Congress of the Chinese Communist Party (中国共产党全国代表大会, 中共党代会)
@@ -13066,6 +13135,7 @@ Soon after the previous events in 2020-09-08, anaytics got a hit from http://ope
 
 Further hits from https://openurls.com.cn[]:
 
+* 2021-07-07 3 hits
 * 2021-06-04 4 hits from 2 users, <<tiananmen>> day
 * 2021-05-01 3 after resubmitting reports on 2021-04-18 to get proper screenshots of the report procedure. Another hit to https://cirosantilli.com/ on 2021-05-13.
 
@@ -13659,18 +13729,25 @@ People in <<xinjiang>> being brainwashed to it: <<xinjiang-core-socialist-values
 
 We have to make a single image mocking all of them:
 
-* Prosperity 富强: something from <<low-end-population>>
-* Democracy 民主: maybe <<tiananmen>> e.g. <<tiananmen-sea-of-protesters,sea of protesters>>
-* Civility 文明: maybe https://www.youtube.com/watch?v=Rf0b1xSVCcU[], or we can pick one from 
-* Harmony 和谐: https://www.ft.com/content/84dd7e32-cbe5-11e9-99a4-b5ded7a7fe3f from <<hong-kong-protests-2014>>
-* Freedom 自由: <<xinjiang-lop-county,Xinjiang Lop County>>
-* Equality 平等:
-* Justice 公正: <<the-709-crackdown>> would be good, but hard to get meaningful individual pictures
-* Rule of law 法治: <<xinjiang-chained-knives,Xinjiang chained knives>>
-* Patriotism 爱国: <<anonymous-middle-fingers,Anonymous middle fingers>>
-* Dedication 敬业: anything from <<lie-flat-movement>>, e.g. https://archive.ph/Efovp
-* Integrity 诚信: maybe Deng Jiagui from <<panama-papers>>. Oterwise https://en.wikipedia.org/wiki/Bo_Xilai[]. Related: <<corruption>>.
-* Friendship 友善:
+* 富强 Prosperity: https://static01.nyt.com/images/2017/12/01/world/01china-migrants-16/01china-migrants-16-master1050.jpg from https://cn.nytimes.com/china/20171201/china-beijing-migrants/ from <<low-end-population>>
+* 民主 Democracy: https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/ from <<tiananmen>> also shown at <<tiananmen-students-sitting,Tiananmen students sitting>>
+* 文明 Civility: maybe https://www.youtube.com/watch?v=Rf0b1xSVCcU[], or we can pick one from 
+* 和谐 Harmony: https://archive.ph/MIjcT/0c972e9b131f48087bfa2ed53caee215a79e5a45 from https://www.ft.com/content/84dd7e32-cbe5-11e9-99a4-b5ded7a7fe3f from <<hong-kong-protests-2014>>
+* 自由 Freedom: <<xinjiang-lop-county,Xinjiang Lop County>>
+* 平等 Equality:
+* 公正 Justice: <<the-709-crackdown>> would be good, but hard to get meaningful individual pictures
+* 法治 Rule of law: <<xinjiang-chained-knives,Xinjiang chained knives>>
+* 爱国 Patriotism: https://twitter.com/GFWfrog/status/1409862331375423489 from <<anonymous-middle-fingers,Anonymous middle fingers>> 
+* 敬业 Dedication: https://zhuanlan.zhihu.com/p/377446839[] from <<lie-flat-movement>>. Widely shared meme, could not determine original source anything .
+* 诚信 Integrity: https://en.wikipedia.org/wiki/File:VOA-Bo_Xilai.jpg[] from <<bo-xilai>> seems like the best bet. Someone from <<panama-papers>>. Can't find a photo of Deng Jiagui, he just looks corrupt. Related: <<corruption>>.
+* 友善 Friendship: maybe something from <<falun-gong>> oppression,  https://www.theguardian.com/world/2015/aug/27/anastasia-lin-miss-world-canada-falun-gong-practitioner-china-persecution also mentioned at <<falun-gong-police-step-over-head,falun-gong-police-step-over-head>>
+
+TODO:
+
+* 文明 Civility
+* 平等 Equality
+* 公正 Justice
+* 法治 Rule of law
 
 .Core socialist values displayed on street near https://en.wikipedia.org/wiki/Jianguo_Men_station[Jiaguomen metro station] (https://zh.wikipedia.org/wiki/建国门站[建国门站]) in Beijing on July 2021. https://www.reddit.com/r/China/comments/oek06g/road_decoration_in_beijing/[Source].
 image::{china-dictatorship-media-base}/Core_socialist_values_near_Jianguomen_metro_station_2021.jpg[height=600]
@@ -14081,6 +14158,8 @@ Domain selection:
 * https://zh.wikipedia.org/wiki/微信
 
 The dominating Chinese WhatsApp clone as of 2020, with infinitely many other functionality added, notably payments.
+
+The West should ban WeChat until one open source end to end encrypted chat app is made available in China.
 
 [[sina]]
 === Sina Corp (新浪, Weibo owner)
@@ -15418,7 +15497,11 @@ Passes by: Chongqing, Wugan, Nanjing
 
 Exits through: <<shandong>>, south of Beijing.
 
-=== Provinces of China
+[[provinces-of-china]]
+=== Provinces of China (中国一级行政区)
+
+* https://en.wikipedia.org/wiki/Provinces_of_China
+* https://zh.wikipedia.org/wiki/中国一级行政区
 
 This is a good province map: http://web.archive.org/web/20170910104718/http://cdn.topchinatravel.com/tct/pic/maps/china-map/china-tourist-map.jpg
 
