@@ -115,6 +115,16 @@ if (!isComment) {
       break;
     }
   }
+  const meantToBeUsedWords = [
+    '技术',
+  ]
+  for (const word of meantToBeUsedWords) {
+    if (new RegExp(word, 'i').test(titleAndBody)) {
+      newLabels.add('meant-to-be-used');
+      break;
+    }
+  }
+    技术网站
   const shitpostWords = [
     'fuck',
     'shit',
