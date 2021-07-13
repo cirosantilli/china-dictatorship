@@ -124,7 +124,6 @@ if (!isComment) {
       break;
     }
   }
-    技术网站
   const shitpostWords = [
     'fuck',
     'shit',
