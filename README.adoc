@@ -73,6 +73,10 @@ Text only:
 
 Text and image:
 
+**社会主义核心价值观 Core socialist values**
+
+image::{china-dictatorship-media-base}/Core_socialist_values.jpg[height=1000]
+
 **六四事件 Tiananmen square protests 1989**
 
 https://cirosantilli.com/china-dictatorship#tiananmen
