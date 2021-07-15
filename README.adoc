@@ -13759,9 +13759,8 @@ TODO improve:
 .Core socialist values displayed on street near https://en.wikipedia.org/wiki/Jianguo_Men_station[Jiaguomen metro station] (https://zh.wikipedia.org/wiki/建国门站[建国门站]) in Beijing on July 2021. https://www.reddit.com/r/China/comments/oek06g/road_decoration_in_beijing/[Source].
 image::{china-dictatorship-media-base}/Core_socialist_values_near_Jianguomen_metro_station_2021.jpg[height=600]
 
-.Montage mocking each of the core socialist values by <<ciro-santilli>>. Image sources given at: <<core-socialist-values>>.
+.Collage mocking each of the core socialist values by <<ciro-santilli>>. Image sources given at: <<core-socialist-values>>. Composition license: CC BY-SA 4.0 2021, most individual images are only fair use however.
 image::{china-dictatorship-media-base}/Core_socialist_values.jpg[height=1000]
-
 
 [[rule-of-law]]
 ==== Rule of law (法治)
