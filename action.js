@@ -132,6 +132,7 @@ if (!isComment) {
     '婊子',
     '恶心',
     '操你',
+    '丑',
   ];
   for (const word of shitpostWords) {
     if (new RegExp(word, 'i').test(titleAndBody)) {

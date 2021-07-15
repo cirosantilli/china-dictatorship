@@ -6558,6 +6558,7 @@ image::{china-dictatorship-media-base}/Last_Supper_Mao.jpg[height=400]
 .Permission papers filled to the brim with government <<seal,stamps>> required for the Taihu Catholic Church (https://zh.wikipedia.org/wiki/華莊天主堂[太湖天主堂]) from https://en.wikipedia.org/wiki/Wuxi[Wuxi] (https://zh.wikipedia.org/wiki/无锡市[无锡市]) to hold their annual Christmas https://en.wikipedia.org/wiki/Réveillon[Reveillon] reunion. This is the <<ccp,CCP>>'s version freedom of religion and freedom of assembly. Also mentioned at: https://bitterwinter.org/christmas-was-not-allowed-but-brought-china-a-lot-of-money/ from <<bitter-winter>>. https://twitter.com/ZhangZhulin/status/1342211279633719296[Source]. TODO original social media post from the church.
 image::{china-dictatorship-media-base}/Taihu_church_Christmas_reveillon_permission_2020.jpg[height=500]
 
+[[lampstand-church-demolition]]
 .https://en.wikipedia.org/wiki/Golden_Lampstand_Church[Golden Lampstand Church] (https://www.dw.com/zh/山西临汾金灯台教堂被强拆/a-42114625[金灯台教堂]) church in <<shanxi>> being demolished in January 2018. https://www.businessinsider.com/chinese-authorities-demolish-christian-mega-church-in-crackdown-2018-1[Source].
 image::{china-dictatorship-media-base}/Church_demolition.jpg[height=400]
 
@@ -8263,7 +8264,7 @@ Every government funds groups it supports, it is an all out war I suppose. Compa
 What about the funding of political campaigns, which vastly outnumbers 1.5M USD every year?
 
 [[follow-the-law]]
-=== FLG is illegal in China, we must follow the law
+=== Falun Gong is illegal in China, we must follow the law
 
 This might be a bad law that should be changed.
 
@@ -8272,7 +8273,7 @@ It was perfectly legal for <<nazi,Nazis>> to kill Jews. Does it make that right?
 But many times, the commies don't even bother passing a law, they just fuck people anyways without one: <<rule-of-law>>.
 
 [[flg-fake]]
-=== FLG is fake 法轮功是假的
+=== Falun Gong is fake (法轮功是假的)
 
 The same can be argued about any other religion or political belief of type: it is better if we organize society in this or that way.
 
@@ -10346,6 +10347,7 @@ image::{china-dictatorship-media-base}/Tiananmen_sculpt_goddess.webp[height=600]
 .An old lady tells those rowdy overpriviledged students that they were complaining for no reason, and that in the <<cultural-revolution,good old Mao days you would be lucky to get any food at all>>, and that they should just go the fuck home  on 1989-05-31 (Ciro might or might not have made up the exact content of the conversation). https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_old_lady.webp[height=500]
 
+[[tiananmen-girl-strife]]
 .A young woman is caught between civilians and Chinese soldiers, who were trying to remove her from an assembly near the Great Hall of the People in Beijing, on 1989-06-03. AP Photo/Jeff Widener. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_girl_strife.jpg[height=400]
 
@@ -13732,26 +13734,30 @@ We have to make a single image mocking all of them:
 
 * 富强 Prosperity: https://static01.nyt.com/images/2017/12/01/world/01china-migrants-16/01china-migrants-16-master1050.jpg from https://cn.nytimes.com/china/20171201/china-beijing-migrants/ from <<low-end-population>>
 * 民主 Democracy: https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/ from <<tiananmen>> also shown at <<tiananmen-students-sitting,Tiananmen students sitting>>
-* 文明 Civility: maybe https://www.youtube.com/watch?v=Rf0b1xSVCcU[], or we can pick one from 
+* 文明 Civility: https://cdn.theatlantic.com/thumbor/WNK8eb40kU8FOyY5oNiCFwarxLM=/1200x748/media/img/photo/2014/06/tiananmen-square-25-years-ago/t21_06030443/original.jpg from https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/ from <<tiananmen>> also shown at <<tiananmen-girl-strife,tiananmen-girl-strife>>
 * 和谐 Harmony: https://archive.ph/MIjcT/0c972e9b131f48087bfa2ed53caee215a79e5a45 from https://www.ft.com/content/84dd7e32-cbe5-11e9-99a4-b5ded7a7fe3f from <<hong-kong-protests-2014>>
 * 自由 Freedom: <<xinjiang-lop-county,Xinjiang Lop County>>
-* 平等 Equality:
-* 公正 Justice: <<the-709-crackdown>> would be good, but hard to get meaningful individual pictures
-* 法治 Rule of law: <<xinjiang-chained-knives,Xinjiang chained knives>>
+* 平等 Equality: <<lampstand-church-demolition,Lampstand chutch demolition>>
+* 公正 Justice:  https://ichef.bbci.co.uk/news/976/cpsprodpb/0FC6/production/_96683040_0292729b-ad9f-4ea3-9d64-13c0200b74d9.jpg from https://www.bbc.co.uk/news/world-asia-40403811 about <<liu-xiaobo>>
+* 法治 Rule of law: <<jingjing-chacha>>
 * 爱国 Patriotism: https://twitter.com/GFWfrog/status/1409862331375423489 from <<anonymous-middle-fingers,Anonymous middle fingers>> 
 * 敬业 Dedication: https://zhuanlan.zhihu.com/p/377446839[] from <<lie-flat-movement>>. Widely shared meme, could not determine original source anything .
 * 诚信 Integrity: https://en.wikipedia.org/wiki/File:VOA-Bo_Xilai.jpg[] from <<bo-xilai>> seems like the best bet. Someone from <<panama-papers>>. Can't find a photo of Deng Jiagui, he just looks corrupt. Related: <<corruption>>.
 * 友善 Friendship: maybe something from <<falun-gong>> oppression,  https://www.theguardian.com/world/2015/aug/27/anastasia-lin-miss-world-canada-falun-gong-practitioner-china-persecution also mentioned at <<falun-gong-police-step-over-head,falun-gong-police-step-over-head>>
 
-TODO:
+TODO improve:
 
-* 文明 Civility
-* 平等 Equality
-* 公正 Justice
 * 法治 Rule of law
+* 文明 Civility
+* 公正 Justice
+* 平等 Equality
 
 .Core socialist values displayed on street near https://en.wikipedia.org/wiki/Jianguo_Men_station[Jiaguomen metro station] (https://zh.wikipedia.org/wiki/建国门站[建国门站]) in Beijing on July 2021. https://www.reddit.com/r/China/comments/oek06g/road_decoration_in_beijing/[Source].
 image::{china-dictatorship-media-base}/Core_socialist_values_near_Jianguomen_metro_station_2021.jpg[height=600]
+
+.Montage mocking each of the core socialist values by <<ciro-santilli>>. Image sources given at: <<core-socialist-values>>.
+image::{china-dictatorship-media-base}/Core_socialist_values.jpg[height=1000]
+
 
 [[rule-of-law]]
 ==== Rule of law (法治)
@@ -14259,6 +14265,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2021-07 http://https--github--com--e3919.proxy.xianning.gov.cn/topics/chinese-communist-party[]. Saw it http://webcache.googleusercontent.com/search?q=cache:5qHGJxZncvUJ:https--github--com--e3919.proxy.xianning.gov.cn/topics/chinese-communist-party+&cd=8&hl=en&ct=clnk&gl=uk&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW&client=ubuntu[on Google cache], semi viewable at https://archive.ph/wip/2qVIX[], but not rendering very well
 * 2021-05-23 LinkedIn profile view from https://www.linkedin.com/company/circussocial/ Circus Social https://www.circussocial.com/[]. Some of their China stuff: https://www.circussocial.com/blog/tag/china-social-media/
 * 2021-05-17 https://ilns.isec.oa.com/command-manage/command-analysis/2073645[]. Remember that <<oa-com>> belong to <<tencent>>.
 ** 2021-06-04 4 hits from 1 user on <<tiananmen>> day
