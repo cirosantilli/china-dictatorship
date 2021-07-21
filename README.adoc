@@ -370,10 +370,13 @@ Another source of China-specific mirroring are GitHub proxies, https://linuxpip.
 * https://github.com/521xueweihan/GitHub520
 * https://github.independentlyreview.com/cirosantilli/china-dictatorship described at https://independentlyreview.com/link as using https://workers.cloudflare.com/[Cloudflare workers]
 * https://github-dotcom.gateway.web.tr/cirosantilli/china-dictatorship a Turkish proxy. They have their own censorship issues as well of course.
+* https://phoenix.yizimg.com/cirosantilli/china-dictatorship Not sure origin, https://web.archive.org/web/20200221135123/http://www.yizimg.com:80/ has a little bit of information
 
 Create tags,and update all mirrors in one go with: link:push-mirrors[]:
 
 ....
+sudo apt install python3-setuptools
+python3 -m pip install --user setuptools wheel twine
 ./push-mirrors
 ....
 
@@ -411,7 +414,7 @@ Mentioned in other sections:
 * https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo from <<fuck-xuexiqiangguo>>
 * from <<metoo>>
 ** https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md
-** https://github.com/CNwoman-bot/evil-man
+** https://github.com/CNwoman-bot/evil-man from <<evil-man>>
 * https://github.com/fuckcqcs/fuckcqcs at <<changsheng-bio-technology-vaccine-data-falsification-incident-2018>>
 * <<xi-jinping-speech-synthesizer>>
 
@@ -683,6 +686,16 @@ to attack that repo:
 * https://github.com/cirosantilli/china-dictatorship/issues/196 https://archive.ph/etYSf
 
 TODO which exact GitHub action did they rely on? That repo currently has a https://github.com/ant-design/ant-design-pro/actions/workflows/issue-open-check.yml Issue Open Check GitHub action sample run: https://github.com/ant-design/ant-design-pro/runs/2209272410?check_suite_focus=true we see the similarity issue analysis thing, but how could that have worked more precisely to link across repos? Asked at: https://github.com/cirosantilli/china-dictatorship/issues/203
+
+=== Wumao GitHub repos (由五毛的GitHub库)
+
+Not in other setions:
+
+* https://github.com/Sherlockcxk/counter-terrorism
+
+In other sections:
+
+* https://github.com/boycott-fuck-xuexiqiangguo/Boycott-Fuck-XueXiQiangGuo from <<xuexi-qiangguo>>
 
 [[faq]]
 == FAQ (常见问答集)
@@ -1451,6 +1464,8 @@ But how would they be interested in politics or be able to discuss it, if it is 
 
 What about the <<tiananmen,1 million people in Tiananmen>> and the 70 million <<falun-gong>> followers? Did they not care?
 
+Chinese political spectrum meme in English: https://qph.fs.quoracdn.net/main-qimg-b8d4cd1a58c6c7eee88bad82b94f4e5c
+
 [[overlook-human-rights-for-profit]]
 ==== As long as China is developing economically, it is fine to violate the human rights of a few million people
 
@@ -1866,7 +1881,7 @@ See also:
 * <<radical>>
 
 [[throne]]
-==== Ciro Santilli's claim to the Qing Dynasty throne 三西猴清朝皇帝觊觎
+==== Ciro Santilli's claim to the Qing Dynasty throne (三西猴清朝皇帝觊觎)
 
 Ciro Santilli's <<wife>>, her mother, and paternal cousin, believe that Ciro's wife is the descendant of the brother of a recent https://en.wikipedia.org/wiki/Qing_dynasty[Qing emperor] through her father's family.
 
@@ -1917,6 +1932,7 @@ Bibliography:
 * https://www.quora.com/Are-there-any-descendants-of-the-Qing-Dynasty-left-currently
 * https://arxiv.org/pdf/1412.6274.pdf "Y Chromosome of Aisin Gioro, the Imperial House of Qing Dynasty" unknown year. Unfortunately Ciro's wife does not have an Y chromosome like her father. This does however mention the book used as a genealogy reference: https://books.google.co.uk/books/about/愛新覺羅宗譜.html?id=Pj4EAQAAIAAJ 愛新覺羅宗譜 On Douban: https://book.douban.com/subject/4162448/ gives ISBN 9787507713428 On Amazon unavailable: https://www.amazon.com/dp/7507713423[]. Lol this makes this repo show up at: https://paperswithcode.com/paper/y-chromosome-of-aisin-gioro-the-imperial
 
+[[ciro-santilli-as-qing-emperor]]
 .Ciro Santilli's portrait as Qing emperor. https://en.wikipedia.org/wiki/File:清_郎世宁绘《清高宗乾隆帝朝服像》.jpg[Original image].
 image::{china-dictatorship-media-base}/Ciro_Santilli_portrait_as_Qing_emperor.jpg[height=600]
 
@@ -6601,7 +6617,8 @@ image::{china-dictatorship-media-base}/Pope_CCP_deal.jpeg[height=400]
 
 A persecuted Christian sect that believes that some Chinese woman is Jesus.
 
-=== Kaifeng Jews
+[[kaifeng-jews]]
+=== Kaifeng Jews (开封犹太人)
 
 * https://en.wikipedia.org/wiki/Kaifeng_Jews#Recent_repression
 * https://zh.wikipedia.org/wiki/开封犹太人
@@ -6628,6 +6645,8 @@ See also:
 News:
 
 * 2021-07-07 https://www.reuters.com/world/china/chinas-wechat-deletes-university-lgbt-accounts-2021-07-07/ "China's Wechat deletes university LGBT accounts" on <<wechat>>
+* 2021-06-22 https://en.wikipedia.org/wiki/Li_Ying_(footballer,_born_1993)[Li Ying] (https://zh.wikipedia.org/wiki/李影_(足球运动员)[李影]), Chinese female footbaler, comes out as lesbian
+** https://supchina.com/2021/06/25/chinese-soccer-stars-history-making-coming-out-moment-ruined-by-homophobic-bigots/
 * 2020-08-14 https://www.scmp.com/news/china/society/article/3097377/shanghai-pride-cancelled-after-11-years-blow-lgbt-community "Shanghai Pride cancelled after 11 years in blow to China's LGBT community". "
 Organisers are 'taking a break from scheduling any future events', they say in social media message".
 ** the Tweet: https://twitter.com/ShanghaiPride/status/1293897794919510016 "上海骄傲节终止所有活动" (Shanhai Pride will be stopping all activities)
@@ -6653,23 +6672,8 @@ image::{china-dictatorship-media-base}/Qing_Dinasty_gay_foreplay.jpg[height=400]
 .Lesbian couple hugging in Shanghai in the 1930s. The woman on the left might have had polio based on the deformity of their right leg. TODO proper source, could not find one on Google reverse image search. https://www.reddit.com/r/China/comments/muvkmu/a_lesbian_couple_embracing_posing_in_their_qipao/[Source].
 image::{china-dictatorship-media-base}/Lesbian_couple_Shanghai_30s.jpg[height=500]
 
-[[metoo]]
-=== MeToo
-
-* https://en.wikipedia.org/wiki/Me_Too_movement#China
-
-Label: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ametoo+[metoo].
-
-They seem to have had difficulty in expressing themselves due to <<censorship>>, unsurprisingly.
-
-* Zhou Xiaoxuan v. TV anchor Zhu Jun
-* Liu Jingyao v. billionaire Liu Qiangdong
-* Zou Sicong and He Qian v. Deng Fei
-
-Related <<github-repositories-with-censored-information>>:
-
-* https://github.com/NGOMeToo/NGOMeToo.github.io
-* https://github.com/CNwoman-bot/evil-man
+[[womans-rights]]
+=== Woman's rights (妇女权利)
 
 Related <<twitter>>:
 
@@ -6678,6 +6682,38 @@ Related <<twitter>>:
 News:
 
 * 2021-04-20 https://edition.cnn.com/2021/04/19/china/china-feminists-silenced-intl-hnk-dst/index.html "Chinese feminists are being silenced by nationalist trolls. Some are fighting back" mentions Liang Xiaomen, Xiao Meili and Zheng Churan
+
+[[evil-man]]
+==== Evil man (中国男性之恶)
+
+https://github.com/CNwoman-bot/evil-man
+
+A fork from 2021-02-08 is visible at: https://github.com/wumaoland/evil-man and tracked in-tree under this repository at: link:evil-man[]
+
+Archive of the github pages: https://web.archive.org/web/20210225163949/https://cnwoman-bot.github.io/evil-man/
+
+Question about it on <<zhihu>>: https://www.zhihu.com/question/361158296[] 如何看待微博用户「索多玛-」建立的GitHub仓库「Evil Man - 中国男性之恶」？ (What do you think about the repository "Evil Man - Chinese Evil Man" created by <<weibo>> user "Sodom" (索多玛))?
+
+Related 2021 censored question about the larger phenomena it on <<zhihu>> http://www.zhihu.com/question/362285803 如何评价热门女权文章《中国男性之恶》？ (What do you think about the hot essay "Evil Chinese Man"?). No archives found however. The title can be seen as a link from https://www.zhihu.com/question/361158296[].
+
+GitHub appears to be the original source according to https://chinadigitaltimes.net/chinese/624360.html from <<china-digital-times>>.
+
+[[metoo]]
+==== MeToo
+
+* https://en.wikipedia.org/wiki/Me_Too_movement#China
+
+Label: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ametoo+[metoo].
+
+Women seem to have had difficulty in expressing themselves due to <<censorship>>, unsurprisingly.
+
+* Zhou Xiaoxuan v. TV anchor Zhu Jun
+* Liu Jingyao v. billionaire Liu Qiangdong
+* Zou Sicong and He Qian v. Deng Fei
+
+Related <<github-repositories-with-censored-information>>:
+
+* https://github.com/NGOMeToo/NGOMeToo.github.io
 
 [[labour-rights]]
 === Labour rights (劳工权益)
@@ -8007,15 +8043,16 @@ image::{china-dictatorship-media-base}/Xi_Jinping_thought_halo.jpg[height=400]
 .Side-by-side comparison between devotional pictures of <<xi-jinping>> (taken from the cover of <<xi-jinping-thought>>) and <<li-hongzhi>>. The stylistic resemblance is striking.
 image::{china-dictatorship-media-base}/Xi_Jinping_vs_Li_Hongzhi_prophet_pictures.jpg[height=400]
 
-===== Orange Papers
+[[orange-papers]]
+===== Orange Papers (橙色文件)
 
 Amazing website talking about Cults and many other things!
 
-https://www.orange-papers.org/orange-cult_q0.html
+The key page of the website is the "Cult Test": https://www.orange-papers.org/orange-cult_q0.html[]. This is a must read.
 
 Down as of 2020-04 archive:
 
-* 2016 archive of the Cult Test, which is the key page of the website: https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q0.html This is a must read.
+* 2016 "Cult Test" archive: https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q0.html
 * latest working homepage archive from 2019: https://web.archive.org/web/20190925201137/https://www.orange-papers.org/
 
 TODO who is the author? Copyright says by "A. Orange". Is it the real name, or just a pun for "I ate an orange"?
@@ -8369,7 +8406,7 @@ https://en.wikipedia.org/wiki/Futurama[Futurama] also has an interesting take:
 video::ObbVO3A3BvA[youtube,height=400,width=600]
 
 [[against-censorship-and-flg]]
-=== Many people both are against censorship and FLG
+=== Many people both are against censorship and Falun Gong
 
 Ciro know that, and that supporting FLG is "bad" for his public image with most Chinese, including those that are against censorship.
 
@@ -8384,6 +8421,12 @@ Isn't it convenient when a dictatorship gets rid of those weirdos for you? But n
 If you are not ready to accept the beliefs of others, dictatorship is the only choice for you.
 
 It is also interesting to note how Falun Gong is a good source of <<censorship-circumvention>> material.
+
+The famous quote from https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall[Evelyn Beatrice Hall] comes to mind:
+
+____
+I disapprove of what you say, but I will defend to the death your right to say it.
+____
 
 See also: <<flg-bias>>
 
@@ -9503,7 +9546,7 @@ image::{china-dictatorship-media-base}/Xi_sleep_Mao.jpg[height=400]
 .1977 photo showing Mao's actual glass tomb during his funeral, with famous politicians in the background. It is interesting to see that Mao https://mummipedia.fandom.com/wiki/Mao_Zedong[features on the "Fandom Mummipedia Wiki"]. https://apnews.com/a94a0d7a824b474fb11545e8c4481c21[Source].
 image::{china-dictatorship-media-base}/Mao_coffin.jpeg[height=400]
 
-.https://en.wikipedia.org/wiki/The_Economist[The Economist] "Let's party like it's 1793" cover from May 4th – 10th 2013 depicting a painting of Xi Jinping dressed as emperor of China. The famous https://en.wikipedia.org/wiki/Qianlong_Empero[Qianlong Emperor] was in power at that time. The title is likely a joke based on the more well known https://www.independent.co.uk/arts-entertainment/music/features/party-like-its-1969-woodstock-forty-years-on-1722695.html["Let's party like it's 1969"] due to the legendary https://en.wikipedia.org/wiki/Woodstock[Woodstock festival]. Party is also a play on words between the Communist Party and a night party. TODO why 1793 specifically. https://twitter.com/TheEconomist/status/329929668155293696[Source].
+.https://en.wikipedia.org/wiki/The_Economist[The Economist] "Let's party like it's 1793" cover from May 4th – 10th 2013 depicting a painting of Xi Jinping dressed as emperor of China. The famous https://en.wikipedia.org/wiki/Qianlong_Empero[Qianlong Emperor] was in power at that time. The title is likely a joke based on the more well known https://www.independent.co.uk/arts-entertainment/music/features/party-like-its-1969-woodstock-forty-years-on-1722695.html["Let's party like it's 1969"] due to the legendary https://en.wikipedia.org/wiki/Woodstock[Woodstock festival]. Party is also a play on words between the Communist Party and a night party. TODO why 1793 specifically shows another one from Sep 28, 2020 by French Magazine https://en.wikipedia.org/wiki/L%27Obs[l'Obs] entitled "L'Éternel Empire" (The Eternal Empire), using a similar picture to: <<ciro-santilli-as-qing-emperor,Ciro Santilli as Qing Emperor>>. https://www.cafeyn.co/uk/publication/l-obs-hors-serie/21640297 https://twitter.com/TheEconomist/status/329929668155293696[Source].
 image::{china-dictatorship-media-base}/Lets_party_like_its_1793.jpg[height=600]
 
 [[panama-papers]]
@@ -9785,6 +9828,8 @@ And there there's an anti-repo for <<wumao>> who oppose the cheating: https://gi
 https://github.com/TechXueXi/TechXueXi appears to be a "non-cheating" assistant? TODO confirm. It is at the very least more politically correct.
 
 The repository was created by Tang Wenzheng (唐文正, <<github>> alias https://github.com/Xmader[Xmader]). https://chinadigitaltimes.net/chinese/663593.html According to https://chinadigitaltimes.net/chinese/663593.html form <<china-digital-times>>, he accidentally posted with his real name on an issue once (<<ciro-santilli>> knows that it is basically impossible not to when juggling multiple accounts simultaneously), and subsequently publicly announced his true identity. Following the name reveal, he did an AMA on <<terminus2049>> https://2047.name/t/11552[], and luckily he is abroad, and does not intend to come back. Wenzheng also created the https://github.com/china-digital-times/china-digital-times.github.io <<github>> pages mirror of <<china-digital-times>>, further discussed in that section. At https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/issues/578 on 2021-03-03, he announced that he would stop working on the project because his parents weren't needing the APP anymore, succession wasn't announced. A few commits followed in the next days, but presumably minimal maintenance and ramp-down.
+
+Wenzheng was also involved in a notable possible copyright dispute with https://musescore.org/en[], a software that Ciro actually enjoyed, as shown at https://github.com/Xmader/musescore-downloader/issues/5#issuecomment-882472815 which was then highlighted at https://www.reddit.com/r/linux/comments/onro8q/head_of_strategy_of_muse_group_muse_score/[]. At https://web.archive.org/web/20210719115639if_/https://github.com/Xmader/musescore-downloader/issues/5#issuecomment-882450335 the developer noted that this could lead to Xmader's deportation. Some interpreted this as threat, but Ciro feels that it might be true as the developers noted that they withheld action for a while to prevent his deportation.
 
 .Fuck-XueXiQiangGuo 2021 GitHub page screenshot with stars highlighted. 7k stars on a Chinese-only repository is a lot of stars, and very unlikely to be faked. This is what you should show <<wumao,wumaos>> when they that no Chinese person opposes the <<ccp>>.
 image::{china-dictatorship-media-base}/Fuck-XueXiQiangGuo_2021_GitHub_page_screenshot_with_stars_highlighted.png[height=650]
@@ -14162,7 +14207,10 @@ Some subdomains on <<archive-today>>: https://archive.vn/*.oa.com
 
 Domain selection:
 
-* 2021-05-17 https://ilns.isec.oa.com/command-manage/command-analysis/2073645[] from <<backlinks>>
+* https://ilns.isec.oa.com[], which from the name is likely some kind of internal censorship/information security portal:
+** 2021-07-22 4 hits one user from https://ilns.isec.oa.com to GitHub repository
+** 2021-06-04 4 hits from 1 user. Note that this is <<tiananmen>> day.
+** 2021-05-17 https://ilns.isec.oa.com/command-manage/command-analysis/2073645[]
 * 2020-12-07 https://tapd.oa.com/markdown-style-guide/zh.html links to: http://einverne.github.io/markdown-style-guide/zh.html
 * 2020-09-23 http://git.code.oa.com/wegame_server/rail/blob/master/docs/web_and_web_api/web-api-specification/web-api-specification.md to /markdown-style-guide/zh.html
 * 2017-06 http://km.oa.com/articles/show/329260 to ELF hello world
@@ -14274,10 +14322,9 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
-* 2021-07 http://https--github--com--e3919.proxy.xianning.gov.cn/topics/chinese-communist-party[]. Saw it http://webcache.googleusercontent.com/search?q=cache:5qHGJxZncvUJ:https--github--com--e3919.proxy.xianning.gov.cn/topics/chinese-communist-party+&cd=8&hl=en&ct=clnk&gl=uk&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW&client=ubuntu[on Google cache], semi viewable at https://archive.ph/wip/2qVIX[], but not rendering very well
+* 2021-07-22 http://se.warning.360.cn/warn/ to https://cirosantilli.com/ after adding keywords to page header. This is from https://en.wikipedia.org/wiki/Qihoo_360[], a security/spyware company.
+* 2021-07 http://https--github--com--e3919.proxy.xianning.gov.cn/topics/chinese-communist-party[], presumably viewing https://github.com/topics/chinese-communist-party[]. Saw it http://webcache.googleusercontent.com/search?q=cache:5qHGJxZncvUJ:https--github--com--e3919.proxy.xianning.gov.cn/topics/chinese-communist-party+&cd=8&hl=en&ct=clnk&gl=uk&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW&client=ubuntu[on Google cache], semi viewable at https://archive.ph/wip/2qVIX[], but not rendering very well
 * 2021-05-23 LinkedIn profile view from https://www.linkedin.com/company/circussocial/ Circus Social https://www.circussocial.com/[]. Some of their China stuff: https://www.circussocial.com/blog/tag/china-social-media/
-* 2021-05-17 https://ilns.isec.oa.com/command-manage/command-analysis/2073645[]. Remember that <<oa-com>> belong to <<tencent>>.
-** 2021-06-04 4 hits from 1 user on <<tiananmen>> day
 * 2021-05-07 https://twitter.com/dingyi/status/1390861129191071754 (https://archive.ph/fS1TF[archive]) link to github.com/china-dictatorship commenting "Github 竟然还有这种项目。。。" (I'm surprised that there's still this kind of project on GitHub). Account had 150k followers at the time. What do they do to have so many followers? As of 2021-05-14, three days later after Ciro replied on 2021-05-11, the account had been made protected: https://archive.ph/davkj This is the <<chilling-effect>>, self-<<censorship,censor>> or perish. It was later un-protected. https://newsletter.dex.group/about/ says their DEX is a sort of online magazine. GitHub profile: https://github.com/dingyi
 * 2021-04-16 https://manti.netease.com/ from <<netease>> to https://cirosantilli.com/china-dictatorship can't find any information on it.
 * 2021-03-23 https://my.cscglobal.com/ to cirosantilli.com/china-dictatorship another compliance company, previous https://cms.securimate.com hits come to mind. China related articles:
