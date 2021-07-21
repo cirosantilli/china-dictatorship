@@ -2,7 +2,7 @@
 
 OUT = README.html
 HEAD = head.html
-BODY = README.body.html
+BODY = body.html
 FOOT = foot.html
 MEDIA =
 

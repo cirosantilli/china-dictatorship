@@ -97,6 +97,7 @@ if (!isComment) {
     'fuck.*\\b(mom|mum|mother)\\b',
     '尼玛',
     '去你吗',
+    '草泥马',
   ]
   for (const word of fuckMotherWords) {
     if (new RegExp(word, 'i').test(titleAndBody)) {
