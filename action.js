@@ -93,11 +93,10 @@ if (!isComment) {
   }
   const fuckMotherWords = [
     'cnm',
-    '操你妈',
     'fuck.*\\b(mom|mum|mother)\\b',
     '尼玛',
     '去你吗',
-    '草泥马',
+    '(操|草)(你|泥|拟)(马|吗|妈)',
   ]
   for (const word of fuckMotherWords) {
     if (new RegExp(word, 'i').test(titleAndBody)) {

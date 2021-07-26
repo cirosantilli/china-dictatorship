@@ -25,7 +25,7 @@ npm publish
 # Initial one time setup.
 #python3 -m pip install --user setuptools wheel twine
 cp README.adoc README.html china_dictatorship
-python setup.py sdist bdist_wheel
+python3 setup.py sdist bdist_wheel
 # Asks for password every time, unless you setup ~/.pypirc.
 # But I don't want to put a plaintext password in there.
 # https://stackoverflow.com/questions/57935191/twine-is-asking-for-my-password-each-time-how-to-use-the-pypirc
