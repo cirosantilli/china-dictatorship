@@ -39,7 +39,7 @@ fi
 make MEDIA=https://gitlab.com/cirosantilli/china-dictatorship-media/-/raw/master OUT="${gl_pages_public_dir}/index.html"
 cp .gitlab-ci.yml "${gl_pages_dir}"
 cp "${out_multipage_dir}/"* "$gl_pages_public_dir"
-mv "${gl_pages_public_dir}/README.html" "${gh_pages_dir}/index-split.html"
+mv "${gl_pages_public_dir}/README.html" "${gl_pages_public_dir}/index-split.html"
 git -C "$gl_pages_dir" add .
 if git -C "$gl_pages_dir" commit -m "$(git log -1 --format="%H")"; then
   git -C "$gl_pages_dir" push
