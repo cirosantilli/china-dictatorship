@@ -1,6 +1,7 @@
 = China Dictatorship 中国独裁统治
 :china-dictatorship-media-base: https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master
 :china-dictatorship-media-base-ignore: {china-dictatorship-media-base}
+:docinfo:
 :idprefix:
 :idseparator: -
 :sectanchors:
