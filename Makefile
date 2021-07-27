@@ -1,6 +1,15 @@
-.PHONY: clean
+.PHONY: clean multipage
 
+IN = README.adoc
+OPTS = \
+	--failure-level info \
+	--template-dir template_dir \
+	--trace \
+	-v
 OUT = README.html
+OUT_DIR = out
+OUT_MULTIPAGE_DIR = $(OUT_DIR)/multipage
+OUT_MULTIPAGE = $(OUT_MULTIPAGE_DIR)/README.html
 HEAD = head.html
 BODY = body.html
 FOOT = foot.html
@@ -12,7 +21,7 @@ else
 	MEDIA_CMD = -a china-dictatorship-media-base='$(MEDIA)'
 endif
 
-$(OUT): README.adoc $(HEAD) $(FOOT) template_dir/*
+$(OUT): $(IN) $(HEAD) $(FOOT) template_dir/*
 	@# --embedded + head/foot originally added to fix image height:
 	@# https://stackoverflow.com/questions/63464732/how-to-set-a-custom-image-height-for-an-image-in-asciidoctor
 	@#
@@ -21,13 +30,21 @@ $(OUT): README.adoc $(HEAD) $(FOOT) template_dir/*
 	bundle exec asciidoctor \
 		$(MEDIA_CMD) \
 	  --embedded \
-	  --failure-level info \
 	  -o $(BODY) \
-		--template-dir template_dir \
-		--trace \
-	  -v \
+	  $(OPTS) \
 	  '$<'
 	cat $(HEAD) $(BODY) $(FOOT) > '$@'
+
+multipage: $(OUT_MULTIPAGE)
+
+$(OUT_MULTIPAGE): $(IN) template_dir/*
+	bundle exec asciidoctor \
+		-D '$(OUT_MULTIPAGE_DIR)' \
+		-a multipage-level=6 \
+		-b multipage_html5 \
+		-r asciidoctor-multipage \
+	  $(OPTS) \
+	  '$<'
 
 clean:
 	rm -rf $(OUT) $(BODY)

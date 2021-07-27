@@ -3,27 +3,33 @@
 # https://github.com/cirosantilli/china-dictatorship#mirrors
 
 set -eux
+
 make
+make multipage
 git push --follow-tags
 git push git@gitlab.com:cirosantilli/china-dictatorship.git
+
+out_dir=out/
+out_multipage_dir="${out_dir}/multipage"
 
 # GitHub pages.
 # One time initial setup.
 # git checkout --orphan gh-pages
 # and copy over https://github.com/cirosantilli/jekyll-min
-gh_pages_dir=out/gh-pages
+gh_pages_dir="${out_dir}/gh-pages"
 if [ ! -d "$gh_pages_dir" ]; then
   mkdir -p "$gh_pages_dir"
   git clone --branch gh-pages --depth 1 "$(git remote get-url origin)" "$gh_pages_dir"
 fi
 cp README.html "${gh_pages_dir}/index.html"
+cp "${out_multipage_dir}/"* "$gh_pages_dir"
+mv "${gh_pages_dir}/README.html" "${gh_pages_dir}/index-split.html"
 git -C "$gh_pages_dir" add .
 if git -C "$gh_pages_dir" commit -m "$(git log -1 --format="%H")"; then
   git -C "$gh_pages_dir" push
 fi
 
 # GitLab pages
-out_dir=out/
 gl_pages_dir="${out_dir}/gl-pages"
 if [ ! -d "$gl_pages_dir" ]; then
   mkdir -p "${out_dir}"
@@ -31,6 +37,8 @@ if [ ! -d "$gl_pages_dir" ]; then
 fi
 make MEDIA=https://gitlab.com/cirosantilli/china-dictatorship-media/-/raw/master OUT="${gl_pages_dir}/public/index.html"
 cp .gitlab-ci.yml "${gl_pages_dir}"
+cp "${out_multipage_dir}/"* "$gh_pages_dir"
+mv "${gh_pages_dir}/README.html" "${gh_pages_dir}/index-split.html"
 git -C "$gl_pages_dir" add .
 if git -C "$gl_pages_dir" commit -m "$(git log -1 --format="%H")"; then
   git -C "$gl_pages_dir" push
