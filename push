@@ -9,7 +9,7 @@ make multipage
 git push --follow-tags
 git push git@gitlab.com:cirosantilli/china-dictatorship.git
 
-out_dir=out/
+out_dir=out
 out_multipage_dir="${out_dir}/multipage"
 
 # GitHub pages.
