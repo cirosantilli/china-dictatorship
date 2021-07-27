@@ -13,6 +13,7 @@
 
 https://cirosantilli.com/china-dictatorship[cirosantilli.com (canonical 规范链接)] |
 https://github.com/cirosantilli/china-dictatorship[GitHub project] |
+link:split-header[split header version] |
 中国镜像 China mirrors:
 https://cirosantilli.gitlab.io/china-dictatorship[cirosantilli.gitlab.io],
 https://htmlpreview.github.io/?https://github.com/cirosantilli/china-dictatorship/gh-pages/blob/index.html[htmlpreview.github.io],
