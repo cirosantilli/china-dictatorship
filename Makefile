@@ -3,7 +3,6 @@
 IN = README.adoc
 OPTS = \
 	--failure-level info \
-	--template-dir template_dir \
 	--trace \
 	-v
 OUT = README.html
@@ -27,10 +26,15 @@ $(OUT): $(IN) $(HEAD) $(FOOT) template_dir/*
 	@#
 	@# --template-dir initially added for loading="lazy" on images and youtube iframes:
 	@# https://stackoverflow.com/questions/63917971/how-to-create-custom-html-output-for-an-existing-asciidoctor-asciidoc-macro
+	@#
+	@# --template-dir not in opts due to:
+	@# https://github.com/owenh000/asciidoctor-multipage/issues/19
+	@# It is not however very important in multipage output.
 	bundle exec asciidoctor \
 		$(MEDIA_CMD) \
 	  --embedded \
 	  -o $(BODY) \
+		--template-dir template_dir \
 	  $(OPTS) \
 	  '$<'
 	cat $(HEAD) $(BODY) $(FOOT) > '$@'
