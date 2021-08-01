@@ -29,11 +29,11 @@ https://china-dictatorship.onrender.com/[china-dictatorship.onrender.com]
 https://raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html[raw.githubusercontent.com],
 https://cdn.jsdelivr.net/npm/china-dictatorship@latest/README.html[cdn.jsdelivr (tag)]
 
-Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
+Anti-Chinese government information. 反中共消息库。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
 This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com]. You can view it fully at either:
 
-* https://cirosantilli.com/china-dictatorship[]. Canonical, https://zh.greatfire.org/https/cirosantilli.com[blocked in China since 2020] according to <<greatfire>>. However, China is still the second largest hit location according to Google Analytics, I don't understand
+* https://cirosantilli.com/china-dictatorship[]. Canonical, https://zh.greatfire.org/https/cirosantilli.com[blocked in China since 2020] according to <<greatfire>>. However, <<brave-new-world-books,China is still the second largest hit location after USA according to Google Analytics, I don't understand>>
 * https://cirosantilli.gitlab.io/china-dictatorship[]. Let's see how good is the <<gfw>> at blocking subdomains.
 
 or by downloading it locally as shown at: <<mirrors>>.
@@ -377,9 +377,11 @@ Another source of China-specific mirroring are GitHub proxies, https://linuxpip.
 * https://github.com.cnpmjs.org/ as of March 2021, it often reaches an apparently random "Whoa there! You have triggered an abuse detection mechanism.". But other time it succeeds, e.g. some of the times: https://github.com.cnpmjs.org/cirosantilli/china-dictatorship is visible.
 * https://a1.mk-proxy.ml/-----https://github.com/cirosantilli/china-dictatorship generated from http://toolwa.com/github/
 * https://github.com/521xueweihan/GitHub520
-* https://github.independentlyreview.com/cirosantilli/china-dictatorship described at https://independentlyreview.com/link as using https://workers.cloudflare.com/[Cloudflare workers]
 * https://github-dotcom.gateway.web.tr/cirosantilli/china-dictatorship a Turkish proxy. They have their own censorship issues as well of course.
 * https://phoenix.yizimg.com/cirosantilli/china-dictatorship Not sure origin, https://web.archive.org/web/20200221135123/http://www.yizimg.com:80/ has a little bit of information
+* using https://workers.cloudflare.com/[Cloudflare workers]:
+** https://github.independentlyreview.com/cirosantilli/china-dictatorship described at https://independentlyreview.com/link as using Cloudfare workers
+** https://github.laobiao.workers.dev/cirosantilli/china-dictatorship
 
 Create tags,and update all mirrors in one go with: link:push-mirrors[]:
 
@@ -4059,6 +4061,14 @@ Regards,
 LinkedIn Support Team
 ____
 
+Interestingly however, Ciro still recevied some profile views from Chinese profiles from time to time, he wonders why, do they have a permit of some sort? E.g.:
+
+* 2021-07-29:
+** custommer service person from <<huawei>>
+** financial consultant from Beijing
+
+<<brave-new-world-books,The books passage from Brave New World>> comes to mind.
+
 .3 days after <<ciro-santilli>> put up anti-CCP messages on his LinkedIn, the account was banned in China. They are quite efficient. <<zhou-fengsuo>> had notably https://www.buzzfeednews.com/article/meghara/china-linkedin-zhou-fengsuo[previously achieved this]. Another report by a https://www.buzzfeednews.com/article/meghara/linkedin-censorship-peter-humphrey[Peter Humphrey].
 image::{china-dictatorship-media-base}/Ciro_Santilli_LinkedIn_China_ban.png[height=600]
 
@@ -5551,6 +5561,7 @@ Other mirrors:
 * https://www.muzhiso.net/
 * https://www.sanzhima.com/
 * https://google.independentlyreview.com/ see also the <<github>> one by the same creator, described at <<mirrors>>
+* https://websearches.club/
 
 No HTTPS?!?! Brains?!?!
 
@@ -5731,7 +5742,7 @@ GitHub reupload: https://github.com/cirosantilli/xijinping-yinyuan
 * https://independence-of-mind.tumblr.com/ 独立思考社群 (Independent thought society)
 
 [[separatism]]
-== Separatism (分离主义)
+== Separatism (分离主义, Taiwan 台湾, Xinjiang 新疆, Hong Kong 香港)
 
 If a large number of people in a given region want to leave an country strongly or have greater autonomy, <<ciro-santilli>> believes that they should be allowed to do so.
 
@@ -11535,8 +11546,9 @@ See also: <<thoughtcrime>>
 
 This is basically a less good <<nineteen-eighty-four>>, but the following passage https://archive.org/stream/ost-english-brave_new_world_aldous_huxley/Brave_New_World_Aldous_Huxley_djvu.txt[from Chapter 17] rocks:
 
+[[brave-new-world-books]]
 ____
-The Controller, meanwhile, had crossed to the other side of the room and was unlocking a large safe set into the wall between the book- shelves. The heavy door swung open. Rummaging in the darkness within, "It's a subject," he said, "that has always had a great interest for me." He pulled out a thick black volume. "You've never read this, for example."
+The Controller, meanwhile, had crossed to the other side of the room and was unlocking a large safe set into the wall between the bookshelves. The heavy door swung open. Rummaging in the darkness within, "It's a subject," he said, "that has always had a great interest for me." He pulled out a thick black volume. "You've never read this, for example."
 
 The Savage took it. "The Holy Bible, containing the Old and New Testaments" he read aloud from the title-page.
 
@@ -12352,7 +12364,7 @@ Related:
 This is where the <<censorship,Internet censors>> work.
 
 [[cac-report-website]]
-====== CAC report website (中央网信办举报网站)
+====== CAC report website (12321.cn, 12377.cn, 中央网信办举报网站)
 
 These are official Chinese government websites that can be used to report cybercrime, including fraud and identity theft, but also political <<thoughtcrime,thoughcrime>>:
 
@@ -12378,7 +12390,11 @@ After you submit, it leads you to: https://www.12321.cn/suc (https://web.archive
 
 From the website source code (very simple, hand written, we see that it uses <<baidu,Baidu Analytics>>. The CCP obviously trusts Baidu a lot :-)
 
-On 2020-09-07, <<mirrors,cirosantilli.com/china-dictatorship>>'s Google Analytics had a hit coming from http://jbcz.12377.cn/report/center/web.index[] ("This site can't be reached" on Chrome). This was soon after <<ciro-santilli>> mentioned <<cac-report-website>> at https://github.com/cirosantilli/china-dictatorship/issues/149#issuecomment-688084645[]. This is presumably the censor's web UI to review reports. "jb" from jbcz presumably means Ju Bao (举报), the CZ Ciro couldn't guess. 2020-10-14 had another hit from: http://jbcz.12377.cn/report/load/operate.index[]. 2021-05-18 https://jbcz.12377.cn to https://cirosantilli.gitlab.io/china-dictatorship[] <<mirrors>>. On same day also a hit from http://123.125.45.236:9007[], that appears to be an IP in China.
+On 2020-09-07, <<mirrors,cirosantilli.com/china-dictatorship>>'s Google Analytics had a hit coming from http://jbcz.12377.cn/report/center/web.index[] ("This site can't be reached" on Chrome). This was soon after <<ciro-santilli>> mentioned <<cac-report-website>> at https://github.com/cirosantilli/china-dictatorship/issues/149#issuecomment-688084645[]. This is presumably the censor's web UI to review reports. "jb" from jbcz presumably means Ju Bao (举报), the CZ Ciro couldn't guess. Other hits:
+
+* 2020-10-14 http://jbcz.12377.cn/report/load/operate.index[]
+* 2021-05-18 https://jbcz.12377.cn to https://cirosantilli.gitlab.io/china-dictatorship[] <<mirrors>>. On same day also a hit from http://123.125.45.236:9007[], that appears to be an IP in China.
+* 2021-07-28 5 hits unique visit from http://jbcz.12377.cn/report/load/operate.index and http://jbcz.12377.cn/report/load/readonly.index
 
 The toplevel http://12377.cn (https://web.archive.org/web/20200907235842/https://www.12377.cn/[archive]) is entitled "中央网信办（国家互联网信息办公室）违法和不良信息举报中心" and is another report website. It is also linked to from http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm under different categories, so it is also official.
 
