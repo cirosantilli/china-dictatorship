@@ -703,10 +703,16 @@ TODO which exact GitHub action did they rely on? That repo currently has a https
 Not in other setions:
 
 * https://github.com/Sherlockcxk/counter-terrorism
+* https://github.com/yangxiangquan/fuhaisun contains some evil west issues: https://github.com/yangxiangquan/fuhaisun/issues
 
 In other sections:
 
 * https://github.com/boycott-fuck-xuexiqiangguo/Boycott-Fuck-XueXiQiangGuo from <<xuexi-qiangguo>>
+
+Related:
+
+* https://github.com/wumaoland from <<reply-policy>>
+* https://github.com/cirosantillifather[], e.g. https://github.com/programthink/books/issues/94[] at (https://web.archive.org/web/20210807195703/https://github.com/programthink/books/issues/94[archive])
 
 [[faq]]
 == FAQ (常见问答集)
@@ -809,7 +815,10 @@ so maybe the most effective approach is to use both keywords and images to get t
 
 This type of attack is essentially an <<embargo>>, and it is especially effective in websites that contain valuable technical content, such as <<stack-overflow>> and <<github>>.
 
-See also: <<photobombing-like-attacks>>.
+See also:
+
+* <<photobombing-like-attacks>>.
+* 2021-06-03 https://www.theguardian.com/world/2021/jun/03/free-hong-kong-road-budapest-renames-streets-to-frustrate-chinese-campus-plan "Free Hong Kong Road: Budapest renames streets to frustrate Chinese campus plan"
 
 Some people say https://english.stackexchange.com/questions/284671/dont-st-where-you-eat[don't shift where you eat]. Ciro says: bring a shitbucket to the canteen, and start a shitfight.
 
@@ -1254,6 +1263,9 @@ image::{china-dictatorship-media-base}/Covid_gag_mask.jpg[height=600]
 .Corona Xi mural of <<xi-jinping>> morphed into a Coronavirus by https://en.wikipedia.org/wiki/Lushsux[Lushux]. Fuller composition view: https://twitter.com/lushsux/status/1243830638966235136[]. Reddit called it https://www.reddit.com/r/pics/comments/fqku03/winnie_the_flu/[Winnie the Flu] in a reference to <<winnie-the-pooh>>. https://www.reddit.com/r/pics/comments/fqku03/winnie_the_flu/[Source].
 image::{china-dictatorship-media-base}/Covid_Xi.jpg[height=500]
 
+.Comparison of how some Chinese sources counted COVID deaths excluding <<taiwan>> and <<hong-kong>>, while at the same time https://www.taiwannews.com.tw/en/news/4266780[including their gold medals in their gold medal count to overcome the United States' medal count]. TODO original untranslated source. https://www.reddit.com/r/China/comments/p133fx/double_standards/[Source].
+image::{china-dictatorship-media-base}/CCP_Olympic_medal_2020_vs_COVID_death_counts.jpg[height=500]
+
 [[li-wenliang]]
 ====== Li Wenliang (李文亮)
 
@@ -1478,7 +1490,7 @@ What about the <<tiananmen,1 million people in Tiananmen>> and the 70 million <<
 Chinese political spectrum meme in English: https://qph.fs.quoracdn.net/main-qimg-b8d4cd1a58c6c7eee88bad82b94f4e5c
 
 [[overlook-human-rights-for-profit]]
-==== As long as China is developing economically, it is fine to violate the human rights of a few million people
+==== As long as China is developing economically, it is fine to violate the human rights of a few million people (只要经济好，我不在乎人权)
 
 This argument can be made, but it is a risky way to live: <<intolerance>>.
 
@@ -2169,12 +2181,11 @@ image::{china-dictatorship-media-base}/Scarfolk_public_displays_of_personal_dist
 .https://www.youtube.com/watch?v=4xoM6-1SWl4&t=1606 https://en.wikipedia.org/wiki/The_Living_Dead_(TV_series)[The Living Dead] Episode 1: On the Desperate Edge of Now by Adam Curtis (1995) comments on how interviews with https://en.wikipedia.org/wiki/Hermann_Göring[Hermann Goring] (https://zh.wikipedia.org/wiki/赫尔曼·戈林[赫尔曼·戈林]) during the https://en.wikipedia.org/wiki/Nuremberg_trials[Nuremberg trials] (https://zh.wikipedia.org/wiki/纽伦堡审判[纽伦堡审判]) went: "Again and again, Jackson accused Goring of corruptly using his powers to commit crimes. Each time, Goring replied that such acts might be considered crimes in a democratic state, but that in Germany, democracy had failed. Eliminating the political opposition was necessary, to fulfill a higher principle: that of the Nation. And that it had worked, Goring insisted. It had brought order and prosperity to Germany". Jackson asks: "Well, if you wanted a certain people killed, you would have to have some organization that would kill them didn't you?". Goring replies: "This was the only possible form of government at the time and it proved that Germany could be pulled out of the abyss of misery, poverty and unemployment and withing a short space of time be made flourish and bloom." This is _exactly_ the justification given by the <<ccp,CCP>> for oppressing minorities and <<censorship,freedom of speech>>: the CCP is indistinguishable from the <<nazi,Nazis>>.
 video::4xoM6-1SWl4[youtube,height=400,width=600,start=1606]
 
-
 [[anonymous-middle-fingers]]
-.Presumed Chinese people giving the middle finger (https://zh.wikipedia.org/wiki/豎中指[竖中指]) to various <<ccp>> symbols, most notably <<xi-jinping>>. Even if this was made by the CIA, it perfectly illustrates the point that obviously no one speaks against the CCP because otherwise they will be put in jail. If you are going to do this, for Fuck's Sake please cover your fingers, like the ones using gloves, or the banknotes, because if the photo resolution is good enough, you could be identified by your fingerprint. A <<reddit,r/China>> https://www.reddit.com/r/China/comments/obmgdh/not_all_of_us_are_brainwashed_沉默的大多数/[repost]. This photo seems to be the result of a campaign started by https://twitter.com/GFWfrog[] in response to the 100th anniversary of the Party in 2021. This was also explained at: https://chinadigitaltimes.net/chinese/667778.html[] on <<china-digital-times>> https://twitter.com/GFWfrog/status/1410927334719430662[Source].
+.Presumed Chinese people giving the middle finger (https://zh.wikipedia.org/wiki/豎中指[竖中指]) to various <<ccp>> symbols, most notably <<xi-jinping>>. Even if this was made by the CIA, it perfectly illustrates the point that obviously no one speaks against the CCP because otherwise they will be put in jail. If you are going to do this, for Fuck's Sake please cover your fingers, like the ones using gloves, or the banknotes, because if the photo resolution is good enough, you could be identified by your fingerprint. A <<reddit,r/China>> https://www.reddit.com/r/China/comments/obmgdh/not_all_of_us_are_brainwashed_沉默的大多数/[repost]. This photo seems to be the result of a campaign started by https://twitter.com/GFWfrog[] in response to the 100th anniversary of the Party in 2021. This was also explained at: https://chinadigitaltimes.net/chinese/667778.html[] on <<china-digital-times>>. Related: <<anonymous-account-ban>>. https://twitter.com/GFWfrog/status/1410927334719430662[Source].
 image::{china-dictatorship-media-base}/Anonymous_middle_fingers.jpg[height=800]
 
-.https://www.youtube.com/watch?v=_y2FIqfIpiw (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub 上传 upload]) Give <<xi-jinping>> the middle finger silly GIF by GFWfrog 给习近平竖中指由墙国蛙蛤蛤傻逼视频. https://twitter.com/GFWfrog/status/1408805483679469579[Source].
+.https://www.youtube.com/watch?v=_y2FIqfIpiw (https://github.com/cirosantilli/china-dictatorship/issues/409[GitHub reupload]) Give <<xi-jinping>> the middle finger silly GIF by GFWfrog 给习近平竖中指由墙国蛙蛤蛤傻逼视频. https://twitter.com/GFWfrog/status/1408805483679469579[Source].
 video::_y2FIqfIpiw[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game.
@@ -2850,6 +2861,10 @@ See also: <<politicians>>.
 
 As of 2020, the <<ccp>> is much more like Nazi Germany than it is like the <<soviet-union>>.
 
+Both share the same basic ideology: <<little-pink-american-dream-vs-chinese-dream,love your country/leader mindlessly>>, work hard, <<most-chinese-people-like-their-dictatorship,throw any dissidents under the bus>>, and <<overlook-human-rights-for-profit,everyone will become richer>> (except the dissidents who will be in jail).
+
+The CCP is possibly less bad as of 2020 it has less of "this minority (Jews) is the cause of all our problems/racial supremacy approach". But everything else, and arguably the key points that got most German people on-board in the first place, are so similar, that it has to raise huge red flags.
+
 We must however be careful not to demonize the Nazis, as that is not a helpful way to learn from the past.
 
 The Nazis were also people like us, and that is the scary thing we must never forget, thus we should never fall for:
@@ -2857,14 +2872,16 @@ The Nazis were also people like us, and that is the scary thing we must never fo
 * https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum[Reductio ad Hitlerum]
 * https://zh.wikipedia.org/wiki/希特勒歸謬法[希特勒归谬法]
 
+Notably, it can be argued that the Nazis did bring economic growth and stability to Germany, which the people desperately needed, see also <<goring-nuremberg,Goring's appearance on the Nuremberg trials>>.
+
 Keywords:
 
 * Xitler (习特勒). 习 "xi2" is very close in sound to the Chinese name of Hitler: https://zh.wikipedia.org/wiki/阿道夫·希特勒[希特勒] (xi1 te4 le4)
 * Chinazi (赤纳粹 Chi Na Cui). TODO why 赤. Means Red, which is a reference to Communism, although red was of course it was also the color of the original Nazis. But where else is it used? Chi is also chosen to achieve the sound "Chi Na" as a variant of <<shina>>
 
-The most notable aspect is the persecution of minorities of course, notably <<xinjiang>> and <<falun-gong>> which closely ressembles that of the Jews, see also: <<first-they-came>>.
+See also:
 
-See also: <<communist-youth-league>>.
+* <<young-pioneers-vs-hitler-youth,Young Pioneers vs Hitler Youth>>.
 
 Articles:
 
@@ -3126,9 +3143,11 @@ Bibliography:
 * https://www.fluentu.com/blog/chinese/2017/10/16/chinese-number-slang/
 * https://www.quora.com/What-does-126-and-163-mean-in-Chinese-language
 
-=== Personal questions about Ciro Santilli
+[[personal-questions-about-ciro-santilli]]
+=== Personal questions about Ciro Santilli (关于三西猴的问题)
 
-==== Has Ciro Santilli you ever lived in China?
+[[has-ciro-santilli-you-ever-lived-in-china]]
+==== Has Ciro Santilli you ever lived in China? (三西猴住过中国吗？)
 
 Not as of 2019, he has only visited once in 2012, and it was <<does-ciro-santilli-hate-china,amazingly beautiful>>.
 
@@ -3139,7 +3158,8 @@ But he doesn't think it is a good idea for him to do that now, in case his Visa 
 
 He knows that if you don't mind contributing to making <<war,WW3>> deadlier and shut up and obey the CCP, China is already a fine place to live as much as any other developing country.
 
-===== Would Ciro Santilli like to live in China?
+[[would-ciro-santilli-like-to-live-in-china]]
+===== Would Ciro Santilli like to live in China? (三西猴想住在中国吗？)
 
 If the dictatorship ends, <<ciro-santilli>> would like to <<does-ciro-santilli-hate-china,migrate to China>> if given a decent job to help China develop and become awesomer.
 
@@ -3166,16 +3186,16 @@ See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dicta
 Bibliography: https://github.com/cirosantilli/china-dictatorship/issues/93
 
 [[is-ciro-santilli-chinese]]
-==== Is Ciro Santilli Chinese? 三西猴是中国人吗？
+==== Is Ciro Santilli Chinese? (三西猴是中国人吗？)
 
-See: https://cirosantilli.com/#ciro-santilli
+See: https://cirosantilli.com/ciro-santilli
 
 And it does not matter: <<not-chinese>>.
 
 But <<why-does-ciro-santilli-love-china-so-much,his wife is>>.
 
 [[does-ciro-santilli-speak-chinese]]
-==== Does Ciro Santilli speak Chinese? 三西猴会说中文吗？
+==== Does Ciro Santilli speak Chinese? (三西猴会说中文吗？)
 
 As of 2019, oral enough for daily things, but not understand most natural casual dinner conversation or watch TV series, because they go too quickly into vocabulary subject areas that he doesn't know. And obviously, using <<slang,slangs>> just makes things really hard.
 
@@ -3341,7 +3361,7 @@ Yup. https://twitter.com/BadChinaTake/status/1291401838022012931/photo/1[Nope]? 
 Moved to <<is-ciro-santilli-a-sjw>>.
 
 [[does-ciro-santilli-hate-china]]
-==== Does Ciro Santilli hate China? 三西猴讨厌中国吗？
+==== Does Ciro Santilli hate China? (三西猴讨厌中国吗？)
 
 On the contrary. China has his favorite:
 
@@ -3493,7 +3513,7 @@ But my employer believes that inclusion and non-discrimination are more valuable
 I will always do my best to not let my personal opinions affect my professional decisions, as that would be unfair to my employer.
 
 [[better-to-do]]
-==== Doesn't Ciro Santilli have anything better to do than pissing off China?
+==== Doesn't Ciro Santilli have anything better to do than pissing off China? (除了反对中共以外，三西猴有没有别的更好的事儿要作吗？)
 
 In 1989, besides <<tiananmen>> and <<ciro-santilli>>'s birth, a beautiful thing called the World Wide Web was invented!
 
@@ -3513,7 +3533,24 @@ But Ciro did it only when his brain was too tired of technical stuff and unable 
 
 Telling the CCP to fuck off is surprisingly relaxing, you should try it some time too. It uses a different part of your brain other than the programming one. It is, one could say, an art form.
 
-=== People in China have already considered democracy, and rejected it
+[[is-ciro-anti-communism]]
+==== Is Ciro Santilli against Communism/Socialism in general or just against the Chinese Communist Party specifically?
+
+Anti-dictatorship and censorship, not anti-communist in general. In this project, <<ciro-santilli>> has sometimes used the word "communist/commie" loosely as a shortcut for "supporter of the CCP", but it does not extend by default to communism in general.
+
+Classify Ciro's techno-political goals as you will:
+
+* endgame: https://cirosantilli.com/unconditional-basic-income
+* very conservative and clearly sustainable neargame: https://cirosantilli.com/free-gifted-education
+
+A possible way to get closer to either: https://cirosantilli.com/electronic-voting
+
+Anything in between, he's not sure about don't know.
+
+All he has is a fundamental and irrational belief that we should not <<overlook-human-rights-for-profit,violate human rights to reach those goals>>, which is why he opposes the CCP (and others who violate human rights).
+
+[[people-in-china-have-already-considered-democracy-and-rejected-it]]
+=== People in China have already considered democracy, and rejected it (中国人已经考虑要不要民主, 到底决定不要了)
 
 OK, shall we put that to an anonymous vote just to make sure?
 
@@ -4027,9 +4064,10 @@ News:
 .Chinese flag with Apple characteristics. https://techcrunch.com/2015/08/11/apple-shares-tumble-5-amidst-china-concerns/[Source].
 image::{china-dictatorship-media-base}/Apple_China_flag.png[height=400]
 
-===== LinkedIn
+[[linkedin]]
+===== LinkedIn (领英)
 
-They have a <<anonymous-accounts-ban>> policy:
+They have a <<anonymous-account-ban>> policy:
 
 * https://www.linkedin.com/help/linkedin/answer/28422/names-allowed-on-profiles you have to use your real name
 * https://www.linkedin.com/help/linkedin/topics/6042/6059/430 you have to use your real photo
@@ -4063,6 +4101,7 @@ ____
 
 Interestingly however, Ciro still recevied some profile views from Chinese profiles from time to time, he wonders why, do they have a permit of some sort? E.g.:
 
+* 2021-08-09 https://www.linkedin.com/in/嘉伟-闫-bbbb60218/ 闫嘉伟 领英中国 - 内容审核 (Yan Jiawei), LinkedIn China, content audit based in Beijing. One of the censors mistakently viewed Ciro's profile without premium or internal tools! Hello. Started working there June 2021, no further personal information available.
 * 2021-07-29:
 ** custommer service person from <<huawei>>
 ** financial consultant from Beijing
@@ -4126,13 +4165,15 @@ It only lists companies that implemented censorship outside of China however (wi
 
 Other interesting GitHub repositories: <<github-repositories-with-censored-information>>.
 
-===== Western companies that stood up against the CCP
+[[western-companies-that-stood-up-against-the-ccp]]
+===== Western companies that stood up against the CCP (反抗中共的西方企业)
 
 See also:
 
 * <<xinjiang-cotton>>
 
-====== Western companies that supported the CCP
+[[western-companies-that-supported-the-ccp]]
+====== Western companies that supported the CCP (支持中共的西方企业)
 
 See also:
 
@@ -4140,7 +4181,8 @@ See also:
 * <<western-companies-that-sell-censorship-technology-to-dictatorships>>
 * <<xinjiang-cotton>>
 
-===== Entertainers who support the CCP
+[[entertainers-who-support-the-ccp]]
+===== Entertainers who support the CCP (支持中共的艺人)
 
 Western:
 
@@ -4161,10 +4203,12 @@ Chinese celebrities who opposed the CCP:
 
 * <<hao-haidong>>
 
-=== Chinese Interference in the Western education systems
+[[chinese-interference-in-the-western-education-systems]]
+=== Chinese Interference in the Western education systems (中共对西方教育体系的干预)
 
 Related about university interference:
 
+* 2021-08-04 https://www.nzz.ch/schweiz/hsg-und-china-kritik-auf-twitter-kostet-doktoranden-abschluss-ld.1637789 Swiss PHD under pseudonum Oliver Gerber kicked out of doctorate for criticizing China on Twitter. Real name, his Twitter, and advisors were not disclosed because his girlfriend lives in China. University name: https://en.wikipedia.org/wiki/University_of_St._Gallen[University of St. Gallen] (HSG, it specialises in business administration, economics, law, and international affairs, HSG also has among the most billionaire alumni in the world). On <<r-china>>: https://www.reddit.com/r/China/duplicates/oxc9qk/phd_student_in_switzerland_expelled_from_his/
 * 2020-12-05 https://www.reuters.com/article/idUSKBN28F05U "U.S. ends exchange programs with China, calling them 'propaganda'". Only five of the programs were terminated:
 ** Policymakers Educational China Trip Program
 ** U.S.-China Friendship Program
@@ -4197,7 +4241,8 @@ News and reports:
 * 2019-09 https://www.bbc.co.uk/news/world-asia-china-49511231 (https://web.archive.org/web/20191013185933/https://www.bbc.co.uk/news/world-asia-china-49511231[archive]) "Confucius Institutes: The growth of China's controversial cultural branch"
 * 2019-01 https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/11/u-s-universities-have-shut-down-confucius-institutes-heres-what-you-need-to-know/ (https://web.archive.org/web/20190616134959/https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/11/u-s-universities-have-shut-down-confucius-institutes-heres-what-you-need-to-know/[archive]) "Why U.S. universities are shutting down China-funded Confucius Institutes"
 
-==== University espionage
+[[university-espionage]]
+==== University espionage (大学间谍)
 
 Lists:
 
@@ -4225,13 +4270,16 @@ People:
 ** https://www.linkedin.com/in/yi-chi-shih-9884bb20/
 ** https://www.scmp.com/news/china/article/3017017/us-federal-court-finds-chinese-american-engineer-shih-yi-chi-guilty
 
-==== German high school coordinator 2020
+[[german-high-school-coordinator-2020]]
+==== Chinese student coordinator in Germany tells exchange students not to support democracy (2020, 德国学校开班会4反对民主)
 
 YET UNCONFIRMED VIDEO, we have to find who that person is exactly.
 
-The video shows what seems to be Chinese a high school dorm coordinator saying that their Chinese exchange students must staty away from ideas democracy and freedom.
+The video shows what seems to be Chinese a high school dorm coordinator saying that their Chinese exchange students must stay away from ideas <<democracy>> and freedom.
 
-.https://www.youtube.com/watch?v=aOArB434ykU
+And remember that "democracy" and "freedom" are two of the <<core-socialist-values>>!
+
+.https://www.youtube.com/watch?v=aOArB434ykU (https://github.com/cirosantilli/china-dictatorship/issues/508[GitHub reupload])
 video::aOArB434ykU[youtube,height=400,width=600]
 
 First ripped from uploader's <<tiktok,Douyin>> account named Michael_c118, who also appears to be the person on the video.
@@ -4359,35 +4407,6 @@ Because the <<censorship,CCP censors politics>>, and the West does not, we can n
 
 Therefore the only option for them is to run away.
 
-Ciro has since then created a reply bot based on <<github>> Actions that does the above automatically, therefore handling 99% of the work, see:
-
-* link:action.js[]
-* link:.github/workflows/issue.yml[]
-
-The bot works beautifully because it makes Ciro not feel the need to reply to every idiot <<wumao>> that comes along. Also Ciro can hide like a coward behind the bot by editing the bot's comment, which is perfect. This reminded Ciro from something that was said in https://en.wikipedia.org/wiki/Better_Call_Saul[Better Call Saul] S01 E01:
-
-____
-And they find themselves in a little room with a detective who acts like he's their best friend.
-
-"Talk to me," he says. "Help me clear this thing up."
-
-"You don't need a lawyer, only guilty people need lawyers."
-
-And, boom, hey, that's when it all goes south.
-
-That's when you want someone in your corner.
-
-Someone who will fight tooth and nail.
-
-Lawyers, we're like health insurance.
-
-You hope you never need it, but, man, oh, man, not having it? No.
-____
-
-The bot is basically Ciro's lawyer, always loyally on his corner of the fighting ring.
-
-Ciro considers this a form of "asymmetric information warfare", a mixture of the concepts of https://en.wikipedia.org/wiki/Asymmetric_warfare[asymmetric warfare] and https://en.wikipedia.org/wiki/Information_warfare[information warfare]. The dictatorship has <<censorship>>, and legions of non-anonymous supporters. And the anti-censorship has memes, and a few anonymous supporters.
-
 Finally, also try to extract the email of the user from one of their repositories. When successful, Ciro takes a <<wayback-machine>> snapshot of the repository as proof of SHA, and then forks it to https://github.com/wumaoland to possibly keep their email safe in case of account deletion. You never know when this information might be useful.
 
 Then, after replying, do your best never to read the inevitable reply again, and above all, never ever reply. An interesting reply never follows from a non-interesting original post. It is hard at first, but you will eventually get the hang of it.
@@ -4451,9 +4470,6 @@ which means to talk to someone who does not have intellectual conditions of unde
 
 More <<wumao,wumao>> focused strategies at: <<how-to-deal-with-wumaos>>.
 
-.https://knowyourmeme.com/memes/its-super-effective[It's Super Effective!] meme by <<ciro-santilli>> describing how he deals with <<wumao,wumaos>> and <<little-pink,little pinks>>. Humour is the greatest weapon against dictators, and images help cross the language barrier. Composition CC BY-SA 2021, fair use on copyrighted individual elements.
-image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective.png[height=1200]
-
 .Chinese translation of the above.
 image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective_zh.png[height=1200]
 
@@ -4463,8 +4479,59 @@ image::{china-dictatorship-media-base}/Play_qin_to_cow.png[height=600]
 .XKCD 386 "Duty Calls" and the famous "Someone is wrong on the Internet" quote. It is a waste of time to be like that. https://xkcd.com/386/[Source].
 image::{china-dictatorship-media-base}/Someone_is_wrong_on_the_Internet.png[height=400]
 
-=== Who is behind this amazing FAQ?
+==== Asymmetric information warfare
 
+This is a term "invented" by <<ciro-santilli>> to denote the type of <<dictatorships-tend-to-work-together,democracy vs dictatorship>> propaganda warfare that naturally emerges.
+
+* the <<dictatorship,dictatorship>> has <<censorship>> and legions of possibly non-anonymous supporters. Although most supporters are <<anonymous-account-ban,actually anonymous anyways>>
+* the anti-censorship democracy has memes, and a few anonymous supporters
+
+This concept is a mixture of the concepts of:
+
+* https://en.wikipedia.org/wiki/Asymmetric_warfare[asymmetric warfare]
+* https://en.wikipedia.org/wiki/Information_warfare[information warfare]
+
+.https://knowyourmeme.com/memes/its-super-effective[It's Super Effective!] meme by <<ciro-santilli>> describing how he deals with <<wumao,wumaos>> and <<little-pink,little pinks>>. Humour is the greatest weapon against dictators, and images help cross the language barrier. Composition CC BY-SA 2021, fair use on copyrighted individual elements.
+image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective.png[height=1200]
+
+==== china-dictatorship reply bot
+
+Due to the nature of <<asymmetric-information-warfare>>, Ciro has created a reply bot based on <<github>> Actions that does the above automatically, therefore handling 99% of the work, see:
+
+* link:action.js[]
+* link:.github/workflows/issue.yml[]
+
+The bot works beautifully because it makes Ciro not feel the need to reply to every idiot <<wumao>> that comes along. Also Ciro can hide like a coward behind the bot by editing the bot's comment, which is perfect. This reminded Ciro from something that was said in https://en.wikipedia.org/wiki/Better_Call_Saul[Better Call Saul] S01 E01:
+
+____
+And they find themselves in a little room with a detective who acts like he's their best friend.
+
+"Talk to me," he says. "Help me clear this thing up."
+
+"You don't need a lawyer, only guilty people need lawyers."
+
+And, boom, hey, that's when it all goes south.
+
+That's when you want someone in your corner.
+
+Someone who will fight tooth and nail.
+
+Lawyers, we're like health insurance.
+
+You hope you never need it, but, man, oh, man, not having it? No.
+____
+
+The bot is basically Ciro's lawyer, always loyally on his corner of the fighting ring.
+
+There is only one bug with the bot as of 2021: if a <<wumao>> with unverified email makes several comments very fast, only the first one generates the reply, see e.g.:
+
+* https://github.com/cirosantilli/cirosantilli/actions/runs/1097719382
+* https://github.com/cirosantilli/cirosantilli/issues/52#issuecomment-892632342
+
+Ciro is however curious how those unverified accounts can comment at all, as that seemd impossible when he last tried it with a dummy account, to be confirmed.
+
+[[who-is-behind-this-amazing-faq]]
+=== Who is behind this amazing FAQ? (谁是这个惊人的常见问题解答的幕后推手？)
 
 [[ciro-santilli]]
 ==== Ciro Santilli (三西猴, anti-CCP fanatic, 反中共狂热, stupid cunt, 傻屄, CIA agent, CIA特工, 肏你妈的)
@@ -4511,7 +4578,8 @@ One night President Obama and his wife Michelle decided to do something out of r
 Following this conversation President Obama asked Michelle, "Why was he so interested in talking to you?" She mentioned that in her teenage years, he had been madly in love with her. President Obama then said, "So if you had married him, you would now be the owner of this lovely restaurant," to which Michelle responded, "No. If I had married him, he would now be the President."
 ____
 
-=== How do different websites view Ciro Santilli's profile?
+[[how-do-different-websites-view-ciro-santilli-s-profile]]
+=== How do different websites view Ciro Santilli's profile? (不同的网站如何看来 Ciro Santilli 的个人资料？)
 
 <<meant-to-be-used>> contains a more general overview. This contains website specifics.
 
@@ -4902,7 +4970,8 @@ My understanding from top answers at: https://meta.stackoverflow.com/questions/3
 Sorry to ask this further, but I need a clearer guideline so I can follow it.
 ____
 
-===== Other openly dissident users on Stack Overflow
+[[other-openly-dissident-users-on-stack-overflow]]
+===== Other openly dissident users on Stack Overflow (Stack Overflow 上的其他公开持不同政见的用户)
 
 For non-Stack Overflow specific ones see: <<chinese-dissidents>>
 
@@ -4950,7 +5019,8 @@ Misc interesting stuff:
 
 Query to find them: https://data.stackexchange.com/stackoverflow/query/312863/mentioned-ciro-santilli-on-aboutme-or-displayname
 
-====== Stack Overflow anti-dissident users
+[[stack-overflow-anti-dissident-users]]
+====== Stack Overflow anti-dissident users (Stack Overflow 反异见用户)
 
 * https://stackoverflow.com/users/815408
 ** https://web.archive.org/web/20170602054631/https://stackoverflow.com/users/815408/%E8%AF%B7%E5%B0%81%E6%8E%89ciro-santilli-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%87%E5%B2%81
@@ -5026,7 +5096,8 @@ admin.github.com hits to GitHub repository:
 .How to report an user on GitHhub.
 image::{china-dictatorship-media-base}/How_to_report_an_user_on_GitHub.png[height=2000]
 
-===== GitHub censored subdomains
+[[github-censored-subdomains]]
+===== GitHub censored subdomains (GitHub 审查的子域)
 
 It appears according to <<greatfire>> however that there are some important GitHub censored subdomains, notably:
 
@@ -5047,7 +5118,9 @@ More information:
 
 https://github.com/github/gov-takedowns
 
-GitHub has absolute transparency on Government takedowns, which is awesome: https://github.com/github/gov-takedowns/tree/master/China
+This official GitHub repository tracks which repositories are blocked in specific countries.
+
+GitHub has absolute transparency about Government takedowns, which is awesome: https://github.com/github/gov-takedowns/tree/master/China
 
 This makes that repo into a list of fun things.
 
@@ -5076,7 +5149,8 @@ To check China only takedowns such as this, we cannot use <<censorship-monitorin
 .<<geoscreenshot>> of https://github.com/programthink/zhao/issues/38 from <<programthink>> taken on 2020-09-31 from China. The "Repository unavailable in your location" message shows, since https://github.com/github/gov-takedowns/blob/master/China/2016/2016-06-08-programthink-zhao.md[this repository is in gov-takedowns/china].
 image::{china-dictatorship-media-base}/GitHub_Programthink_Zhao_issue_38_China_geoscreenshot_2020_09_31.png[height=400]
 
-====== Strategy if this repo gets added to GitHub gov-takedowns
+[[strategy-if-this-repo-gets-added-to-github-gov-takedowns]]
+====== Strategy if this repo gets added to GitHub gov-takedowns (如果此 repo 被添加到 GitHub gov-takedowns 中的策略)
 
 If this happens, we well proceed to create alternative repos `china-dictatorship-2`, `china-dictatorship-3`, etc. and it would be fun to see how that gets handled.
 
@@ -5154,7 +5228,8 @@ That URL also likely highlights Huawei's intense influence on Gitee, the as the 
 +
 <<ciro-santilli>> commented about his <<gitee-censorship>> experiment there, it got 26 upvotes 13 downvotes, and as removed as "This post violated our policy.". There is no way to appeal that in that idiotic system. It is absed on: https://www.openweb.com/ It is also bugged as fuck. Sometimes says violates policy, then there's a JavaScript update andthe comment shows.
 
-====== Gitee censorship
+[[gitee-censorship]]
+====== Gitee censorship (Gitee 审查)
 
 After posting our <<mirrors>> there, it was blocked in 12 hours:
 
@@ -5188,7 +5263,7 @@ Other known blocked china-dictatorship forks:
 * https://gitee.com/jaime_li/china-dictatorship no archives, can't find another account by the same user, but got a backlink 2021-06-22
 
 [[zhihu]]
-==== Zhihu (知乎, censored Quora clone)
+==== Zhihu (知乎, censored Quora clone, 审查 Quora 克隆)
 
 https://en.wikipedia.org/wiki/Zhihu
 
@@ -5232,7 +5307,7 @@ Other discussions:
 * https://www.quora.com/How-strict-is-Zhihus-content-censorship
 
 [[zhihu-purge]]
-===== Ciro Santilli's Zhihu purge 2019-11-03
+===== Ciro Santilli's Zhihu purge 2019-11-03 (三西猴被知乎抹去)
 
 On this day, not only the posts made by Ciro himself were deleted: he had never asked any questions or made any Zhuanlan posts himself, only replied to those. But that content made by other users was still removed. Therefore, this is not just a simple user ban, but active censorship.
 
@@ -5287,11 +5362,11 @@ This includes liking, commenting, answering, asking or trying to update my profi
 
 This message also shows on my public page for everyone to see: https://www.zhihu.com/people/cirosantilli/activities but they use some JavaScript scheme complicated enough that archive.is cannot capture it.
 
-I still get notifications however, but I am unable to reply to them, especially given that all Chinese accounts, unlike mine, have no personal identifiable information due to the understandable fear Chinese citizens have of their own government, even though such accounts might be illegal in theory: <<anonymous-accounts-ban>>.
+I still get notifications however, but I am unable to reply to them, especially given that all Chinese accounts, unlike mine, have no personal identifiable information due to the understandable fear Chinese citizens have of their own government, even though such accounts might be illegal in theory: <<anonymous-account-ban>>.
 
 The only action that I can take now is to report abusive comments people make to me.
 
-Obviously, the only effect of such ban is that I will create an <<anonymous-accounts-ban,anonymous account>> under Tor with a second cell phone if I wish to contribute in the future, and China will have less information about my political interests than before.
+Obviously, the only effect of such ban is that I will create an <<anonymous-account-ban,anonymous account>> under Tor with a second cell phone if I wish to contribute in the future, and China will have less information about my political interests than before.
 
 The private messages the website sends while banning you are:
 
@@ -5305,7 +5380,9 @@ Those messages contain links to: https://www.zhihu.com/terms2 | https://archive.
 
 The ban came soon after I posted a link to my GitHub repo as a comment at: https://techcrunch.com/2018/06/21/ice-employee-list-github-linkedin/ maybe they are related.
 
-====== Who reported Ciro Santilli on Zhihu
+
+[[who-reported-ciro-santilli-on-zhihu]]
+====== Who reported Ciro Santilli on Zhihu (谁在知乎上举报了 Ciro Santilli)
 
 At the same time the ban happened I received a public comment from user "Eureka" https://www.zhihu.com/people/crb912/activities | https://archive.is/1F3t6 on this thread: https://www.zhihu.com/question/46957710 | https://archive.is/PVOLd saying:
 
@@ -5332,7 +5409,8 @@ While you have also raised issues that were raised a thousand times before, and 
 I hope that one day you will redirect that cunning and initiative towards taking down the root cause of the problem, which are the Chinese communist Party and their Firewall themselves.
 ____
 
-===== Zhihu questions related to Ciro Santilli
+[[zhihu-questions-related-to-ciro-santilli]]
+===== Zhihu questions related to Ciro Santilli (三西猴相关的知乎问题)
 
 Parent section: <<backlinks>>
 
@@ -5449,7 +5527,7 @@ Related posts:
 *** 2021-04 https://www.reddit.com/r/China/comments/mkfgrb/quora_is_officially_a_propaganda_network_for_the/
 
 [[ptt]]
-==== PTT Bulletin Board System 批踢踢實業坊
+==== PTT Bulletin Board System (Taiwanese message board, 批踢踢實業坊)
 
 * https://en.wikipedia.org/wiki/PTT_Bulletin_Board_System
 * https://zh.wikipedia.org/wiki/批踢踢
@@ -5506,14 +5584,14 @@ Then there is a registration process that seem to require you to prove that you 
 But I couldn't find Gossiping there either, which is the only board that matters, so not sure it is on this server.
 
 [[lihkg]]
-==== LIHKG (連登)
+==== LIHKG (連登, Hong Kong Reddit clone)
 
 * https://en.wikipedia.org/wiki/LIHKG
 * https://zh.wikipedia.org/wiki/LIHKG討論區
 
 URL: https://lihkg.com
 
-<<hong-kong>> Reddit. Requires a Hong Kong IP or university address to login, a bit in the spirit of <<ptt>> to avoid <<wumao>>.
+<<hong-kong>> <<reddit>> clone. Requires a Hong Kong IP or university address to login, a bit in the spirit of <<ptt>> to avoid <<wumao>> invasion.
 
 If it goes down, they created: https://www.reddit.com/r/LIHKG/ on <<reddit>>.
 
@@ -5527,7 +5605,7 @@ TODO meaning of "LI"?
 * 2018-07-31 https://lihkg.com/thread/762440/page/1 https://archive.is/7REOi. Title: "依條友都幾屈機, 係Stack overflow撚共匪". I'm unable to understand the first sentence, but the end is something along "to play tricks on the commies". First comment (likely by OP): "佢個個人home page好多5毛留言, 唔知會唔會搞到block堆stackoverflow". The entire thread is about Ciro's <<stack-overflow>>.
 
 [[google]]
-==== Google 谷歌
+==== Google (谷歌)
 
 Related subjects:
 
@@ -5535,7 +5613,7 @@ Related subjects:
 * <<google-cache>>
 
 [[google-mirrors]]
-===== Google mirrors 谷歌镜像
+===== Google mirrors (谷歌镜像)
 
 Do the names mean anything? Are they owned? The fact that they are Alexa top 1000 domains is just so funny, Google redirects for China.
 
@@ -5620,7 +5698,7 @@ TODO review:
 * https://www.reddit.com/r/GenZedong/
 
 [[r-china]]
-==== r/China
+==== r/China Reddit sub
 
 That catches all the important news.
 
@@ -5634,7 +5712,8 @@ Reddit was banned in China in August 2018: https://www.reddit.com/r/China/commen
 
 <<tencent>> will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-banned-in-china-is-reportedly-set-to-land-150-1832375439 See also: <<biased-media>>.
 
-==== r/chonglangTV
+[[r-chonglangtv]]
+==== r/chonglangTV Reddit sub
 
 https://www.reddit.com/r/chonglangTV/
 
@@ -5735,7 +5814,7 @@ Many of their videos use their <<xi-jinping-speech-synthesizer>> system called X
 
 * https://twitter.com/ruters0615/status/1227823202522427392 gives some voice synthesis methods used
 
-GitHub reupload: https://github.com/cirosantilli/xijinping-yinyuan
+<<github>> reupload: https://github.com/cirosantilli/xijinping-yinyuan
 
 === Tumblr
 
@@ -5938,7 +6017,8 @@ Interestingly, this led to a large number of <<shitpost>>/spam on https://github
 
 It is however hard to understand the rationale of such posts.
 
-==== Internal politics of Taiwan
+[[internal-politics-of-taiwan]]
+==== Internal politics of Taiwan (中華民國政治)
 
 * https://en.wikipedia.org/wiki/Politics_of_the_Republic_of_China
 * https://zh.wikipedia.org/wiki/中華民國政治
@@ -6133,10 +6213,10 @@ image::{china-dictatorship-media-base}/Dabancheng_reeducation_camp.jpg[height=40
 image::{china-dictatorship-media-base}/Artux_city_reeducation_camp.webp[height=400]
 
 [[xinjiang-core-socialist-values]]
-.https://www.youtube.com/watch?v=AxnS4z-cSlI (https://github.com/cirosantilli/china-dictatorship/issues/220[GitHub 上传 upload]) 2021 video showing dozens of Uyghurs standing on a large court being brainwashed by a woman saying on a loudspeaker: <<core-socialist-values,社会主义核心价值观>>，一定维护民族团结 (<<core-socialist-values,Core socialist values>> definitely maintain ethnic harmony). The echo of the speaker on the background buildings is eery. UNCONFIRMED. https://twitter.com/__Inty__/status/1381002964551168000[Source].
+.https://www.youtube.com/watch?v=AxnS4z-cSlI (https://github.com/cirosantilli/china-dictatorship/issues/220[GitHub reupload]) 2021 video showing dozens of Uyghurs standing on a large court being brainwashed by a woman saying on a loudspeaker: <<core-socialist-values,社会主义核心价值观>>，一定维护民族团结 (<<core-socialist-values,Core socialist values>> definitely maintain ethnic harmony). The echo of the speaker on the background buildings is eery. UNCONFIRMED. https://twitter.com/__Inty__/status/1381002964551168000[Source].
 video::AxnS4z-cSlI[youtube,height=400,width=600]
 
-.https://www.youtube.com/watch?v=dUmom_z6nQ4 (https://github.com/cirosantilli/china-dictatorship/issues/221[GitHub 上传 upload]) <<tiktok>> video of a few dozen Uyghur chilren being marched on the street with large bags, presumably during a displacement. The adults organizing it are a laugh, presumably at something cute one of the children did. Video markings: "@MaD DaN", location: "伯干村" (Bogancun, a town in Xinjiang https://goo.gl/maps/rt6jaT8oEjoXo95t8[according to Google Maps]), rolling banner TODO confirm, understand: "诗书达理之山人刨作原声". TODO identify Chinese music being sang on background, it is not clear if it is an edit or from the footage. The echo of the speaker on the background buildings is eery. UNCONFIRMED. https://twitter.com/Uyghurian/status/1380992770823835664[Source].
+.https://www.youtube.com/watch?v=dUmom_z6nQ4 (https://github.com/cirosantilli/china-dictatorship/issues/221[GitHub reupload]) <<tiktok>> video of a few dozen Uyghur chilren being marched on the street with large bags, presumably during a displacement. The adults organizing it are a laugh, presumably at something cute one of the children did. Video markings: "@MaD DaN", location: "伯干村" (Bogancun, a town in Xinjiang https://goo.gl/maps/rt6jaT8oEjoXo95t8[according to Google Maps]), rolling banner TODO confirm, understand: "诗书达理之山人刨作原声". TODO identify Chinese music being sang on background, it is not clear if it is an edit or from the footage. The echo of the speaker on the background buildings is eery. UNCONFIRMED. https://twitter.com/Uyghurian/status/1380992770823835664[Source].
 video::dUmom_z6nQ4[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=ZcLbAveuemI Here is a trick to getting longer lashes by feroza.x (2019). In this <<tiktok>> video, American then 17-year old Feroza Aziz, alias feroza.x, starts what looks likea regular makeup video, but which soon turns out to be a https://en.wikipedia.org/wiki/Bait-and-switch[bait-and-switch] video drawing attention to the <<xinjiang-re-education-camps>>. This is somewhat similar to a <<keyword-attack>> with its <<dual-use-technology>> approach.
@@ -7259,7 +7339,7 @@ See also:
 
 * https://www.zhihu.com/question/23988890 at <<zhihu>>
 
-=== FLG has been funded by the US government at least once, therefore it is evil
+=== Falun Gong has been funded by the US government at least once, therefore it is evil
 
 1.5M USD in 2010 for a FLG controlled internet freedom group https://news.bbc.co.uk/1/hi/world/americas/8678760.stm
 
@@ -7274,13 +7354,15 @@ Every government funds groups it supports, it is an all out war I suppose. Compa
 What about the funding of political campaigns, which vastly outnumbers 1.5M USD every year?
 
 [[follow-the-law]]
-=== Falun Gong is illegal in China, we must follow the law
+=== Falun Gong is illegal in China, we must follow the law (法轮功在中国是非法的，我们必须遵守法律)
 
-This might be a bad law that should be changed.
+If a law is unfair, we must fight to change it.
 
 It was perfectly legal for <<nazi,Nazis>> to kill Jews. Does it make that right?
 
-But many times, the commies don't even bother passing a law, they just fuck people anyways without one: <<rule-of-law>>.
+But in the end, the commies don't even bother passing or following laws, they just fuck people anyways without one: <<rule-of-law>>.
+
+The problem in <<dictatorship,dictatorships>> is that the people have no power at all to change the law because there is no
 
 [[flg-fake]]
 === Falun Gong is fake (法轮功是假的)
@@ -7372,7 +7454,7 @@ https://en.wikipedia.org/wiki/Futurama[Futurama] also has an interesting take:
 video::ObbVO3A3BvA[youtube,height=400,width=600]
 
 [[against-censorship-and-flg]]
-=== Many people both are against censorship and Falun Gong
+=== Many people both are against censorship and Falun Gong (我要民主，但是我还要禁止法轮功)
 
 Ciro know that, and that supporting FLG is "bad" for his public image with most Chinese, including those that are against censorship.
 
@@ -8852,7 +8934,7 @@ image::{china-dictatorship-media-base}/Xi_Jinping_photoshopped_as_The_Joker.jpg[
 .<<xi-jinping>>, <<jiang-zemin>> and <<hu-jintao>> photoshopped on top of a clothing advertisement (TODO original). The text reads: "江胡险恶 习以为常". TODO understand. 江胡 are the surnames of <<jiang-zemin>> and <<hu-jintao>>. 习 is the surname of; <<xi-jinping>>. "习以为常" is a fixed expression that means "to get accustomed to". Also asked at: https://www.mohu.rocks/question/573 on <<mohu>>, and explained at: https://www.secretchina.com/news/gb/2003/12/03/56236.html from <<falun-gong-media>>. https://twitter.com/BeqB38ldjIu5acT/status/1377094062063292418[Source]
 image::{china-dictatorship-media-base}/Xi_Jiang_Hu.jpg[height=400]
 
-.https://www.youtube.com/watch?v=nPc3bSbKw28 (https://github.com/cirosantilli/china-dictatorship/issues/229[GitHub 上传 upload]) <<xi-jinping>> Carrie Lam Leonardo di Caprio Kate Winslet Titanic Deepface by GFWfrog. 由墙国蛙蛤蛤习近平 林郑月娥 莱昂纳多迪卡普里奥 凯特温斯莱特 泰坦尼克号. https://twitter.com/GFWfrog/status/1412704989445713924[Source].
+.https://www.youtube.com/watch?v=nPc3bSbKw28 (https://github.com/cirosantilli/china-dictatorship/issues/229[GitHub reupload]) <<xi-jinping>> Carrie Lam Leonardo di Caprio Kate Winslet Titanic Deepface by GFWfrog. 由墙国蛙蛤蛤习近平 林郑月娥 莱昂纳多迪卡普里奥 凯特温斯莱特 泰坦尼克号. https://twitter.com/GFWfrog/status/1412704989445713924[Source].
 video::nPc3bSbKw28[youtube,height=400,width=600]
 
 [[xi-jinping-lookalikes]]
@@ -8879,18 +8961,23 @@ Less good ones:
 
 TODO <<ciro-santilli>> is very interested in finding this!
 
-* good Photoshops:
-** <<xi-jinping-bdsm-cosplay,Xi Jinping BDSM at cosplay fair>>
-** https://knowyourmeme.com/photos/1613570-xi-jinping Xi Jinping GIF photoshop tearing his shirt off AKA "Who you calling <<winnie-the-pooh,winnie>>"
-* bad Photoshops:
-** https://youtu.be/mX5HQOYk3go?t=45 bad Photoshop of adding a Xi Jinping face to a BDSM porn actor. TODO find image
-** https://www.nicovideo.jp/watch/sm38084556
-** https://club.6parkbbs.com/bolun/index.php?app=forum&act=threadview&tid=15759443
-* Hentai
-** 2016 https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/xl2-02112016111224.html 日本漫画家报复中国不尊重版权疑似毛泽东习近平成色情主角 (Japanese cartoonist revenges China for disrespect of copyright, suspected of Mao Zedong and Xi Jinping as pornographic protagonist) by <<rfa>>. Appears to be by artist Rin Sanada (https://zh.wikipedia.org/wiki/真田鈴[真田鈴]) Part of the idea is that to prevent copyright infringement, you just use something that will be forbidden in China anyways!
-*** TODO how to access it in full? Work name?
-*** https://disp.cc/b/163-9f5E screenshot used on <<ptt>>
-*** https://www.mohu.rocks/question/id-6851__sort_key-agree_count__sort-ASC screenshot used in a <<mohu>> thread
+Good Photoshops:
+
+* <<xi-jinping-bdsm-cosplay,Xi Jinping BDSM at cosplay fair>>
+* https://knowyourmeme.com/photos/1613570-xi-jinping Xi Jinping GIF photoshop tearing his shirt off AKA "Who you calling <<winnie-the-pooh,winnie>>"
+
+Bad Photoshops:
+
+* https://youtu.be/mX5HQOYk3go?t=45 bad Photoshop of adding a Xi Jinping face to a BDSM porn actor. TODO find image
+* https://www.nicovideo.jp/watch/sm38084556
+* https://club.6parkbbs.com/bolun/index.php?app=forum&act=threadview&tid=15759443
+
+Hentai:
+
+* 2016 https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/xl2-02112016111224.html 日本漫画家报复中国不尊重版权疑似毛泽东习近平成色情主角 (Japanese cartoonist revenges China for disrespect of copyright, suspected of Mao Zedong and Xi Jinping as pornographic protagonist) by <<rfa>>. Appears to be by artist Rin Sanada (https://zh.wikipedia.org/wiki/真田鈴[真田鈴]) Part of the idea is that to prevent copyright infringement, you just use something that will be forbidden in China anyways!
+** TODO how to access it in full? Work name?
+** https://disp.cc/b/163-9f5E screenshot used on <<ptt>>
+** https://www.mohu.rocks/question/id-6851__sort_key-agree_count__sort-ASC screenshot used in a <<mohu>> thread
 
 [[winnie-the-pooh]]
 ===== Xi Jinping looks like Winnie-the-Pooh (习近平长得像小熊维尼, 2017)
@@ -9123,7 +9210,7 @@ Cheesy! +
 ____
 
 [[little-pink-american-dream-vs-chinese-dream]]
-.https://www.youtube.com/watch?v=MilRo8zZM8A (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub 上传 upload]) 小粉红谈中国梦与美国梦的区别 (<<little-pink>> explains the difference between the <<american-dream>> and the <<chinese-dream>>). That girl should have a look at the state of <<labour-rights>> in China in the 2020's, where activists for better worker protection are being put into jail. Also <<twitter,tweeted>> by <<rfa>> at: https://twitter.com/RFA_Chinese/status/1381531661804826627 The <<seal>> on top left reads: "进击老冯" TODO what is that? Source without subtitles: https://www.youtube.com/watch?v=iw8TfbsNfNI[]. Ciro also reposted it at: https://www.reddit.com/r/China/comments/msnixt/nationalistic_chinese_girl_compares_the_chinese/ on <<reddit>>. TODO try to identify it by logo of the microphone, looks something like "华浦TV" but not sure. TODO identify background music. TODO original source.
+.https://www.youtube.com/watch?v=MilRo8zZM8A (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub reupload]) 小粉红谈中国梦与美国梦的区别 (<<little-pink>> explains the difference between the <<american-dream>> and the <<chinese-dream>>). That girl should have a look at the state of <<labour-rights>> in China in the 2020's, where activists for better worker protection are being put into jail. Also <<twitter,tweeted>> by <<rfa>> at: https://twitter.com/RFA_Chinese/status/1381531661804826627 The <<seal>> on top left reads: "进击老冯" TODO what is that? Source without subtitles: https://www.youtube.com/watch?v=iw8TfbsNfNI[]. Ciro also reposted it at: https://www.reddit.com/r/China/comments/msnixt/nationalistic_chinese_girl_compares_the_chinese/ on <<reddit>>. TODO try to identify it by logo of the microphone, looks something like "华浦TV" but not sure. TODO identify background music. TODO original source. Related: https://github.com/cirosantilli/china-dictatorship/issues/504 Kill the Japanese kid
 video::MilRo8zZM8A[youtube,height=400,width=600]
 
 [[dream-of-the-red-chamber]]
@@ -9137,6 +9224,11 @@ video::MilRo8zZM8A[youtube,height=400,width=600]
 
 * https://en.wikipedia.org/wiki/American_Dream
 * https://zh.wikipedia.org/wiki/美国梦
+
+[[nazi-dream]]
+====== Nazi dream (纳粹梦)
+
+Very similar to the <<chinese-dream>>, see also <<nazi>>.
 
 [[xi-jinping-speech-synthesizer]]
 ==== Xi Jinping speech synthesizer (习近平讲话模拟器)
@@ -9782,6 +9874,9 @@ So once a gain, <<chinese-characters-are-insane>>.
 
 https://www.youtube.com/watch?v=hrbwFxd1c-I Michal Jackson's Tank man performance in Munich (1997) The Cirque du Soliel "accidentally" showed Tank Man imagery for 4 seconds in a Beijing theater on a related 2013 act "Michael Jackson: The Immortal World Tour": https://edition.cnn.com/2013/08/15/world/asia/tank-man-cirque-soleil/index.html but it was removed on future performances.
 
+Other tankman spoofs:
+* https://github.com/cirosantilli/china-dictatorship/issues/505 in https://en.wikipedia.org/wiki/Doraemon[Doraemon] (https://zh.wikipedia.org/wiki/哆啦A夢[机器猫]), a Japanese cartoon that is very popular in China, <<wife>> loves it. It is more commonly known in China simply as 机器猫 (mechanical cat)
+
 .https://www.youtube.com/watch?v=YeFzeNAHEhU CNN video of Tank Man:  but not showing removal, ridiculous, is there a full raw footage somewhere? Subset uploaded to GitHub: https://github.com/cirosantilli/china-dictatorship/issues/168[].
 video::YeFzeNAHEhU[youtube,height=400,width=600]
 
@@ -9964,7 +10059,7 @@ ____
 
 Also transcripted at: http://www.tsquare.tv/chinese/film/ghp04.html from <<the-gate-of-heavenly-peace-1995>>.
 
-.https://www.youtube.com/watch?v=gRAmL1D8R-4 Chai Ling People's Daily speech in Tiananmen Square protests  (柴玲—六四学运—国民日报，胡说八道！). On <<github>>: https://github.com/cirosantilli/china-dictatorship/issues/197
+.https://www.youtube.com/watch?v=gRAmL1D8R-4 (https://github.com/cirosantilli/china-dictatorship/issues/197[GitHub reupload]) Chai Ling People's Daily speech in Tiananmen Square protests  (柴玲—六四学运—国民日报，胡说八道！).
 video::gRAmL1D8R-4[youtube,height=400,width=600]
 
 [[tiananmen-square-protest-documentaries]]
@@ -10015,16 +10110,18 @@ Other dissidents:
 ** real chinese name from: from https://hk.appledaily.com/china/20201222/AZMBHJHIJZGADMK76Z54M6O6IE/
 ** TODO Twitter handle if it wasn't entirely deleted?
 ** https://www.youtube.com/channel/UCsbdz3lXyyvBz7hMDNXHT7w
-* Cai Xia (https://zh.wikipedia.org/wiki/蔡霞[蔡霞]), https://chinadigitaltimes.net/space/Cai_Xia by <<china-digital-times>>
+* https://en.wikipedia.org/wiki/Cai_Xia[Cai Xia] (https://zh.wikipedia.org/wiki/蔡霞[蔡霞]), https://chinadigitaltimes.net/space/Cai_Xia by <<china-digital-times>>
 +
 Retired teacher at <<central-party-school>> living in the USA.
 +
-** 2020-06-12 https://chinadigitaltimes.net/2020/06/translation-former-party-professor-calls-ccp-a-political-zombie/ "TRANSLATION: FORMER PARTY PROFESSOR CALLS CCP A 'POLITICAL ZOMBIE'" by <<china-digital-times>>
-+
 She criticized <<xi-jinping>> in private online meeting, and the audio was leaked: https://www.youtube.com/watch?v=hEBHVsHlPeI
++
+** 2020-06-12 https://chinadigitaltimes.net/2020/06/translation-former-party-professor-calls-ccp-a-political-zombie/ "TRANSLATION: FORMER PARTY PROFESSOR CALLS CCP A 'POLITICAL ZOMBIE'" by <<china-digital-times>>
 ** 2020-08-21 https://www.taiwannews.com.tw/en/news/3992140 she was expelled from from the CCP, and she said she was happy.
+** 2021-08-02 https://www.hoover.org/sites/default/files/research/docs/xia_chinausrelations_web-ready.pdf China-US Relations in the Eyes of the Chinese Communist Party, published by <<hoover-institution>>
 * https://www.rfa.org/english/news/china/monitor-08182020091653.html "Jailed <<wechat>> User Says Chinese Police Monitor Overseas Accounts Too". Gao Zhigang.
 * https://en.wikipedia.org/wiki/Chen_Guangcheng[Chen Guangcheng] (陈光诚). The blind dude. https://www.youtube.com/watch?v=zDqYMXxH09Y "Chinese dissident tells story of escaping tyranny and finding hope in America" by "Fox News" (2020-08-26) supporting Trump's reelection.
+* 2021-08 Ge Yulu staring into security cameras: https://www.sixthtone.com/news/1008142/watching-the-watchers
 
 Not sure if these are dissidents or not:
 
@@ -11052,6 +11149,12 @@ video::MCxzMYVvHBg[youtube,height=400,width=600,start=227]
 * https://www.hrichina.org/chs
 * https://en.wikipedia.org/wiki/Human_Rights_in_China_(organization)
 * https://zh.wikipedia.org/wiki/中国人权_(组织)
+
+[[hoover-institution]]
+===== Hoover Institution (胡佛研究所, USA government media)
+
+* https://en.wikipedia.org/wiki/Hoover_Institution
+* https://zh.wikipedia.org/wiki/胡佛研究所
 
 [[jamestown-foundation]]
 ===== Jamestown Foundation (USA government media)
@@ -12344,17 +12447,6 @@ Ahh, this is a perfect excuse to delete all <<wumao>> comments!
 
 * 2021-02-20 https://www.taiwannews.com.tw/en/news/4129352 "Beginning next week, the Cyberspace Administration of China will require bloggers and influencers to have a government-approved credential before they can publish on a wide range of subjects. Some fear that only state media and official propaganda accounts will get permission. While permits have been needed since at least 2017 to write about topics such as political and military affairs, enforcement has not been widespread. The new rules expand that requirement to health, economics, education and judicial matters."
 
-[[anonymous-accounts-ban]]
-===== Anonymous accounts ban (2017)
-
-* https://www.rfa.org/english/news/china/ban-08282017112633.html
-* https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/
-* https://advox.globalvoices.org/2017/08/27/china-to-ban-anonymous-online-comments-blacklist-users/
-
-Related:
-
-* <<linkedin>> requires you to use the real username and photo
-
 [[cac]]
 ===== Cyberspace Administration of China (CAC, 国家互联网信息办公室, 中央网信办)
 
@@ -12395,6 +12487,7 @@ On 2020-09-07, <<mirrors,cirosantilli.com/china-dictatorship>>'s Google Analytic
 * 2020-10-14 http://jbcz.12377.cn/report/load/operate.index[]
 * 2021-05-18 https://jbcz.12377.cn to https://cirosantilli.gitlab.io/china-dictatorship[] <<mirrors>>. On same day also a hit from http://123.125.45.236:9007[], that appears to be an IP in China.
 * 2021-07-28 5 hits unique visit from http://jbcz.12377.cn/report/load/operate.index and http://jbcz.12377.cn/report/load/readonly.index
+* 2021-08-01 http://jbcz.12377.cn/report/load/operate.index[] to https://cirosantilli.com/ and https://www.unpkg.com/china-dictatorship@0.0.74/README.html
 
 The toplevel http://12377.cn (https://web.archive.org/web/20200907235842/https://www.12377.cn/[archive]) is entitled "中央网信办（国家互联网信息办公室）违法和不良信息举报中心" and is another report website. It is also linked to from http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm under different categories, so it is also official.
 
@@ -12418,6 +12511,7 @@ Soon after the previous events in 2020-09-08, anaytics got a hit from http://ope
 
 Further hits from https://openurls.com.cn[]:
 
+* 2021-08-02 2 hits to github.com/cirosantilli/cirosantilli
 * 2021-07-07 3 hits
 * 2021-06-04 4 hits from 2 users, <<tiananmen>> day
 * 2021-05-01 3 after resubmitting reports on 2021-04-18 to get proper screenshots of the report procedure. Another hit to https://cirosantilli.com/ on 2021-05-13.
@@ -12889,7 +12983,21 @@ video::HrT3rILfIzA[youtube,height=400,width=600]
 ** https://advox.globalvoices.org/2015/04/16/new-internet-rules-in-china-target-usernames-avatars-as-subversive-tools/ "New Internet Rules in China Target Usernames, Avatars as Subversive Tools"
 ** https://www.engadget.com/2015/02/28/china-username-policy-purge/ "Chinese internet giants purge 60,000 accounts for inappropriate usernames"
 
-And guess which idiotic Western website requires real usernames and no privacy? <<quora>>, of course: https://techcrunch.com/2011/02/14/quora-to-oddly-named-users-papers-please/
+And guess which idiotic Western websites requires real usernames and no privacy? <<quora>> and <<linkedin>>, of course: https://techcrunch.com/2011/02/14/quora-to-oddly-named-users-papers-please/
+
+[[anonymous-account-ban]]
+===== Anonymous accounts ban (2017)
+
+It is interesting to note that anonymous accounts are in theory banned, almost all Chinese people still have anonymous accounts, even <<little-pink,little pinks>>, brecause everyone is always afraid of saying the wrong thing, or of the payback of when the dictatorship falls.
+
+* https://www.rfa.org/english/news/china/ban-08282017112633.html
+* https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/
+* https://advox.globalvoices.org/2017/08/27/china-to-ban-anonymous-online-comments-blacklist-users/
+
+Related:
+
+* <<linkedin>> requires you to use the real username and photo
+* <<anonymous-middle-fingers,Anonymous middle fingers (2021)>>
 
 ==== Journalism
 
@@ -12968,6 +13076,7 @@ image::{china-dictatorship-media-base}/Xi_scout_salute.jpg[height=500]
 .<<hitler-youth>> giving the <<nazi,Nazi salute to Hitler>> in https://www.gettyimages.co.uk/detail/news-photo/nazi-leader-adolf-hitler-smiles-while-uniformed-saxon-news-photo/3201090[1933]. https://www.thoughtco.com/hitler-youth-and-indoctrination-1221066[Source].
 image::{china-dictatorship-media-base}/Hitler_youth_salute.webp[height=500]
 
+[[young-pioneers-vs-hitler-youth]]
 .Side-by-side comparisoin of <<xi-jinping>> saluting the <<young-pioneers-of-china>> and Hitler saluting the <<hitler-youth>>.
 image::{china-dictatorship-media-base}/Xi_scout_salute_vs_Hitler_Youth_salute.jpg[height=500]
 
@@ -13008,9 +13117,13 @@ image::{china-dictatorship-media-base}/Scarfolk_children_the_cause_of_crime.jpg[
 * https://en.wikipedia.org/wiki/Core_Socialist_Values
 * https://zh.wikipedia.org/wiki/社会主义核心价值观
 
-People in <<xinjiang>> being brainwashed to it: <<xinjiang-core-socialist-values,Xinjiang core socialist values>>.
+A list of 12 values the CCP claims to support, some of which are ridiculously and obviously the opposite, notably democracy and freedom.
 
-We have to make a single image mocking all of them:
+Related:
+
+* people in <<xinjiang>> being brainwashed to it: <<xinjiang-core-socialist-values,Xinjiang core socialist values>>.
+
+We made a single image mocking all of them at: <<core-socialist-values-collage,core socialist values collage>>:
 
 * 富强 Prosperity: https://static01.nyt.com/images/2017/12/01/world/01china-migrants-16/01china-migrants-16-master1050.jpg from https://cn.nytimes.com/china/20171201/china-beijing-migrants/ from <<low-end-population>>
 * 民主 Democracy: https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/ from <<tiananmen>> also shown at <<tiananmen-students-sitting,Tiananmen students sitting>>
@@ -13020,7 +13133,7 @@ We have to make a single image mocking all of them:
 * 平等 Equality: <<lampstand-church-demolition,Lampstand chutch demolition>>
 * 公正 Justice:  https://ichef.bbci.co.uk/news/976/cpsprodpb/0FC6/production/_96683040_0292729b-ad9f-4ea3-9d64-13c0200b74d9.jpg from https://www.bbc.co.uk/news/world-asia-40403811 about <<liu-xiaobo>>
 * 法治 Rule of law: <<jingjing-chacha>>
-* 爱国 Patriotism: https://twitter.com/GFWfrog/status/1409862331375423489 from <<anonymous-middle-fingers,Anonymous middle fingers>> 
+* 爱国 Patriotism: https://twitter.com/GFWfrog/status/1409862331375423489 from <<anonymous-middle-fingers,Anonymous middle fingers (2021)>> 
 * 敬业 Dedication: https://zhuanlan.zhihu.com/p/377446839[] from <<lie-flat-movement>>. Widely shared meme, could not determine original source anything .
 * 诚信 Integrity: https://en.wikipedia.org/wiki/File:VOA-Bo_Xilai.jpg[] from <<bo-xilai>> seems like the best bet. Someone from <<panama-papers>>. Can't find a photo of Deng Jiagui, he just looks corrupt. Related: <<corruption>>.
 * 友善 Friendship: maybe something from <<falun-gong>> oppression,  https://www.theguardian.com/world/2015/aug/27/anastasia-lin-miss-world-canada-falun-gong-practitioner-china-persecution also mentioned at <<falun-gong-police-step-over-head,falun-gong-police-step-over-head>>
@@ -13032,11 +13145,26 @@ TODO improve:
 * 公正 Justice
 * 平等 Equality
 
-.Core socialist values displayed on street near https://en.wikipedia.org/wiki/Jianguo_Men_station[Jiaguomen metro station] (https://zh.wikipedia.org/wiki/建国门站[建国门站]) in Beijing on July 2021. https://www.reddit.com/r/China/comments/oek06g/road_decoration_in_beijing/[Source].
+.Core socialist values displayed on street near https://en.wikipedia.org/wiki/Jianguo_Men_station[Jiaguomen metro station] (https://zh.wikipedia.org/wiki/建国门站[建国门站]) in Beijing on July 2021, with the most ridiculously fake ones highlighted by <<ciro-santilli>>. https://www.reddit.com/r/China/comments/oek06g/road_decoration_in_beijing/[Source].
 image::{china-dictatorship-media-base}/Core_socialist_values_near_Jianguomen_metro_station_2021.jpg[height=600]
 
+[[core-socialist-values-collage]]
 .Collage mocking each of the core socialist values by <<ciro-santilli>>. Image sources given at: <<core-socialist-values>>. Composition license: CC BY-SA 4.0 2021, most individual images are only fair use however.
 image::{china-dictatorship-media-base}/Core_socialist_values.jpg[height=1000]
+
+[[democracy]]
+==== Democracy (民主)
+
+* https://en.wikipedia.org/wiki/Democracy
+* https://zh.wikipedia.org/wiki/民主
+
+The most obviously fake of the <<core-socialist-values>> that China does not have at all.
+
+Why democracy would be good: <<richer>>.
+
+Related:
+
+* <<german-high-school-coordinator-2020>>
 
 [[rule-of-law]]
 ==== Rule of law (法治)
@@ -13734,11 +13862,15 @@ For Tiananmen songs, see: <<tiananmen-songs>>.
 Brazil had a <<military-dictatorship-in-brazil,dictatorship from 1964 to 1985>>, and some amazing songs were made in Portuguese in that era. <<ciro-santilli>>, who is Brazilian, just cannot stop thinking about some of them in relation to China, notably: <<apesar-de-voce,Apesar de você>>.
 
 [[do-you-hear-the-people-sing]]
-=== Do you hear the people sing (Les Miserables (musical), 1980)
+=== Do you hear the people sing (Les Miserables musical, 1980, 問誰未發聲)
 
-https://en.wikipedia.org/wiki/Do_You_Hear_the_People_Sing%3F | https://fr.wikipedia.org/wiki/À_la_volonté_du_peuple | https://zh.wikipedia.org/wiki/Do_You_Hear_the_People_Sing%3F
+* https://en.wikipedia.org/wiki/Do_You_Hear_the_People_Sing%3F
+* https://fr.wikipedia.org/wiki/À_la_volonté_du_peuple
+* https://zh.wikipedia.org/wiki/Do_You_Hear_the_People_Sing%3F
 
-Cantonese version used in <<2019-hong-kong-anti-extradition-bill-protests,Hong Kong>>: https://zh.wikipedia.org/wiki/問誰未發聲
+Cantonese version used in <<2019-hong-kong-anti-extradition-bill-protests,Hong Kong>>: https://zh.wikipedia.org/wiki/問誰未發聲[], literally "ask who has not spoken".
+
+A <<github>> reupload with <<hong-kong>> background images: https://github.com/cirosantilli/china-dictatorship/issues/507
 
 .https://www.youtube.com/watch?v=ojoC-Kbzpo8 English version taken from a scene of the link:++https://en.wikipedia.org/wiki/Les_Misérables_(2012_film)++[Les Misérables (2012)] film.
 video::ojoC-Kbzpo8[youtube,height=400,width=600]
@@ -13791,7 +13923,7 @@ Other good lists:
 * https://www.quora.com/What-are-some-good-Chinese-classical-instrumental-album
 
 [[music-free]]
-=== Free music 免费音乐
+=== Free music (免费音乐)
 
 Here are the few best I've seen. Not enough to replace the non-free, but pretty good.
 
@@ -17091,7 +17223,7 @@ Bloggers with more than 3000 daily readers must register and cannot be anonymous
 The following Chinese policies come to mind:
 
 * <<icp-license>>
-* <<anonymous-accounts-ban>>
+* <<anonymous-account-ban>>
 
 === Putin opposition
 
