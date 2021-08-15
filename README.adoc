@@ -65,15 +65,11 @@ Another advantage of this is that since it comes first in the repo, it ensures t
 
 Each summary section contains a link to the main section, which contains sources and description of each image.
 
-Text only:
-
 * <<xi-abolishes-term-limits-2018-03>> (2018包子露宪)
 * <<the-709-crackdown>>
 * <<panama-papers>> (邓家贵)
 * <<low-end-population>>
 * <<tibetan-unrest-2008>>
-
-Text and image:
 
 **社会主义核心价值观 Core socialist values**
 
@@ -1056,7 +1052,10 @@ https://www.reddit.com/r/China/comments/o2qyu5/china_has_a_brand_of_bread_named_
 
 Here is a different picture of the same product from April 14th: https://twitter.com/YukayuyuWasGod/status/1382218316895244295 That one might allow better brand identification: 万X福 That one also posted at: https://www.reddit.com/r/China_irl/comments/o2zbsw/偶然看到这张图不知道是不是真的/ Watermarked Weibo @第三豹弹
 
-.Chinese <<dual-use-technology,dual-use>> bread.
+.Chinese <<dual-use-technology,dual-use>> bread. More info at: <<communist-bread>>.
+image::{china-dictatorship-media-base}/Stop_interfering_in_China_s_internal_affairs_bread.jpg[height=500]
+
+.Communist bread vs Communist condom. Someone made a brilliant communist condom Photoshop reply to the <<communist-bread>>. Pointed out at: https://github.com/cirosantilli/china-dictatorship/issues/523 and a previous source at: https://weibo.com/5586291457/K9Vg7ceM7?type=comment#_rnd162900969912[].Part of the joke is that the Chinese message reads "中国人不吃这一套" (The Chinese people won't fall for this trick), and "套" is the last character for condom in Chinese (避孕套). "套" more generally means a type of "slip-on cover or envelope".
 image::{china-dictatorship-media-base}/Stop_interfering_in_China_s_internal_affairs_bread.jpg[height=500]
 
 [[why-end-dictatorship]]
@@ -1365,6 +1364,7 @@ video::sUvBNpkxrJo[youtube,height=400,width=600]
 
 TODO maybe not arrested but relevant:
 
+* https://www.reddit.com/r/China/comments/p2t243/police_travel_to_mans_house_and_force_him_to/ unconfirmed video: Police travel to man’s house and force him to delete his WeChat post about Covid-19 spreading in his area because the government won’t admit to any cases.
 * https://en.wikipedia.org/wiki/Fang_Fang[Fang Fang] (https://zh.wikipedia.org/wiki/方方_(作家)[方方]) published in 2020 https://en.wikipedia.org/wiki/Wuhan_Diary[Wuhan Diary] (https://zh.wikipedia.org/wiki/方方日記[方方日記], 方方日记)
 +
 Possible free Chinese version: https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGF5YWJvb2suY29tfHd3d3xneDo3ZGUzZWZjZDgyZDkxNjc0 (http://web.archive.org/web/20200720084342/https://doc-10-bk-apps-viewer.googleusercontent.com/viewer/secure/pdf/3nb9bdfcv3e2h2k1cmql0ee9cvc5lole/0cr4s4veutmm50d7alffk68perm7us3s/1595234550000/lantern/%2A/ACFrOgDGbspvoNIJBVI1N2-EwaZHJPCTgPKmJeFaWgposQKpu5Eu0aqwA_CIZfLkobNVy1-xKcxKzw2CMAyxH4aUPjcHsp2w1JB2fwoX1g_39gVGh38SxfK-UrQyhy_3n19wbWhWErj_a41hMVR4?print=true[archive])
@@ -3545,7 +3545,7 @@ Classify Ciro's techno-political goals as you will:
 
 A possible way to get closer to either: https://cirosantilli.com/electronic-voting
 
-Anything in between, he's not sure about don't know.
+Anything in between however, he's not sure about.
 
 All he has is a fundamental and irrational belief that we should not <<overlook-human-rights-for-profit,violate human rights to reach those goals>>, which is why he opposes the CCP (and others who violate human rights).
 
@@ -5114,6 +5114,7 @@ More information:
 * https://webapps.stackexchange.com/questions/146517/how-it-is-possible-that-some-pages-of-an-https-website-like-github-are-marked-as
 * https://twitter.com/cirosantilli/status/1310461733325148160
 
+[[github-gov-takedowns]]
 ===== GitHub gov-takedowns
 
 https://github.com/github/gov-takedowns
@@ -5794,6 +5795,11 @@ News:
 * 2021-07 https://apnews.com/article/china-business-technology-3741dcfb1c2eb11f17280c9ed8c06fc4 "Twitter restricts account of expert who mocked China leader" Anne-Marie Brady https://twitter.com/Anne_MarieBrady
 * 2021-04-08: publicly supported the <<milk-tea-alliance>>
 
+Unfair censorship:
+
+* 2021-08-12 https://techcrunch.com/2021/08/11/twitter-locks-account-of-india-congress-largest-opposition-party/ Twitter locks account of India’s largest opposition party (Indian National Congress)
+* 2021-08-10 https://techcrunch.com/2021/08/10/marjorie-taylor-greene-mjt-twitter-suspension/ Twitter suspends Marjorie Taylor Greene temporarily for spreading vaccine misinformation
+
 [[trump-twitter-kuang-biao]]
 .Cartoon showing Donald Trump's mouth sewn shut in a "Twitter" shape by <<kuang-biao>> (2021) after Trump was <<unjust-social-media-censorship-in-the-west,banned from Twitter>>. You know it's bad when the artists who normally criticize the <<ccp,CCP>> start to criticize you. <<rebel-pepper>>'s https://www.rfa.org/english/cartoons/twitter-china-cartoon-06052020164712.html["I can't Tweet"] comes to mind, although it was about <<racist-west>> instad. https://xueqiu.com/9870976009/168210673[Source].
 image::{china-dictatorship-media-base}/Trump_silenced_by_Twitter_by_Kuang_Biao.jpg[height=400]
@@ -5819,6 +5825,12 @@ Many of their videos use their <<xi-jinping-speech-synthesizer>> system called X
 === Tumblr
 
 * https://independence-of-mind.tumblr.com/ 独立思考社群 (Independent thought society)
+
+=== Medium
+
+Pro-CCP:
+
+* https://leohezhao.medium.com/
 
 [[separatism]]
 == Separatism (分离主义, Taiwan 台湾, Xinjiang 新疆, Hong Kong 香港)
@@ -7362,7 +7374,11 @@ It was perfectly legal for <<nazi,Nazis>> to kill Jews. Does it make that right?
 
 But in the end, the commies don't even bother passing or following laws, they just fuck people anyways without one: <<rule-of-law>>.
 
-The problem in <<dictatorship,dictatorships>> is that the people have no power at all to change the law because there is no
+The problem in <<dictatorship,dictatorships>> is that the people have no power at all to change the law because there is no <<democracy>>.
+
+The excuse that "we have to do this to follow Chinese law in order to operate in China", is exactly what all <<western-companies-that-comply-with-chinese-censorship-requests>> do. If Chinese law mandated killing Jews, they would likely comply.
+
+The trick though is to delegate the dirty work to Chinese branches and employees, as a way to distance themselves from the activity. This is also generally a regulartory requirement of the Chinese government however.
 
 [[flg-fake]]
 === Falun Gong is fake (法轮功是假的)
@@ -13597,6 +13613,30 @@ The dominating Chinese Facebook/Twitter clone as of 2020.
 .<<weibo>> logo vs Sauron's eye 微博标志vs索倫魔眼 by <<ciro-santilli>>.
 image::{china-dictatorship-media-base}/Weibo_Sauron.jpg[height=600]
 
+[[ciro-santillis-weibo-block]]
+===== Ciro Santilli's Weibo block (三西猴被微博屏蔽)
+
+Somewhere around 2021, Ciro's Weibo was blocked: https://www.weibo.com/p/1005055601627311
+
+Ciro never wrote any public posts in it, and only replied minimally to a few private messages many years before.
+
+This clearly shows how Chinese platforms (obviously) target specific users specifically, regardless of what they did in a particular platform:
+
+* unblocked 2021-02 https://archive.is/LUMsT
+* blocked 2021-06 https://archive.is/U94Me
+
+The block message afte redirect is:
+
+____
+该账号因被投诉违反法律法规和《微博社区公约》的相关规定，现已无法查看。
+
+The account is now unavailable for being complained of violating laws and regulations and the relevant provisions of the "Weibo Community Convention".
+____
+
+Related:
+
+* https://www.wakwb.com/ 我爱看围脖 seems to be a Weibo mirror. TODO is it uncensored? Sample post replication: the condom post from https://www.wakwb.com/t/?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9D%9C%E8%95%BE%E6%96%AF%E7%88%B1%E6%97%A0%E9%99%90%23&luicode=10000011&lfid=231522type%3D1%26t%3D10%26q%3D%23%E6%9D%9C%E8%95%BE%E6%96%AF%E7%88%B1%E6%97%A0%E9%99%90%23&page=2 has origin at https://weibo.com/5586291457/K9Vg7ceM7?type=comment#_rnd1629010637474 see also <<communist-bread>>
+
 [[chinese-censorship-companies]]
 === Chinese censorship companies (中国审查公司)
 
@@ -13677,6 +13717,8 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2021-07-15 https://weibo.com/3009149283/KoREYEIA2?type=comment#_rnd1629010985150 on <<weibo>> #反华 挂一个垃圾仓库 cirosantilli/china-dictatorship (#anti-china Found a trash repository.) Does not understand the CCP != China: <<does-ciro-santilli-hate-china>>. Perhaps this is what triggered <<ciro-santillis-weibo-block>>.
+* 2021-08-13 https://www.kdocs.cn/ to https://github.com/cirosantilli/cirosantilli[]. That's a Google Docs clone it seems. Used by the Chengdu government. Chinese name: 金山文档 (golden mountain documents). Also had 50 unique cloners on 11 and 12th. Is it <<github-gov-takedowns>> time at last??
 * 2021-07-22 http://se.warning.360.cn/warn/ to https://cirosantilli.com/ after adding keywords to page header. This is from https://en.wikipedia.org/wiki/Qihoo_360[], a security/spyware company.
 * 2021-07 http://https--github--com--e3919.proxy.xianning.gov.cn/topics/chinese-communist-party[], presumably viewing https://github.com/topics/chinese-communist-party[]. Saw it http://webcache.googleusercontent.com/search?q=cache:5qHGJxZncvUJ:https--github--com--e3919.proxy.xianning.gov.cn/topics/chinese-communist-party+&cd=8&hl=en&ct=clnk&gl=uk&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW&client=ubuntu[on Google cache], semi viewable at https://archive.ph/wip/2qVIX[], but not rendering very well
 * 2021-05-23 LinkedIn profile view from https://www.linkedin.com/company/circussocial/ Circus Social https://www.circussocial.com/[]. Some of their China stuff: https://www.circussocial.com/blog/tag/china-social-media/
