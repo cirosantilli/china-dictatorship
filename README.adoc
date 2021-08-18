@@ -1162,8 +1162,6 @@ Also mentioned at: link:https://youtube.com/watch?v=d3dE_LDz_9E?t=1681[Google ve
 
 This is also the basis of a <<keyword-attack>>.
 
-This is also well illustrated in the link:https://en.wikipedia.org/wiki/Chernobyl_(miniseries)[HBO 2019 miniseries "Chernobyl"], which suggests that part of the reason why Chernobyl happened is because of the Soviet Union's obsession to save face.
-
 This suggestion is even more explicit in the fictional https://en.wikipedia.org/wiki/World_War_Z[World War Z] 2006 novel by https://en.wikipedia.org/wiki/Max_Brooks[Max Brooks] about a <<covid,virus>> outbreak in China. It was later adapted into the https://en.wikipedia.org/wiki/World_War_Z_(film)[World War Z (2013)] movie by https://en.wikipedia.org/wiki/Paramount_Pictures[Paramount]:
 
 * https://www.theguardian.com/film/2013/jun/04/brad-pitt-china-world-war-z[]: Paramount cowards tried to kowtow and remove references to China from the movie, but it failed
@@ -1189,10 +1187,27 @@ Bibliography:
 
 * https://www.uow.edu.au/the-stand/2019/chernobyl-a-lesson-in-truth.php Chernobyl: a lesson in truth Secrets were kept, mistakes were made, and people were exposed
 
-.https://www.youtube.com/watch?v=ocBVLMHK6c8 Chernobyl supercut scene where the reactor explodes, and a chief engineer "Comrade Dyatlov" accepts the 3.6 Roentgen measurement as "Not great, not terrible" and forwards it to his superiors who take actions based on that, even though the radiation measurement apparatus only goes up to 3.6 Roentgen. Needless to say, the actual radiation was much, much higher: when a proper measurement is made, the value is 15000 Roentgen! The URSS only admitted Chernobyl three days after when Swedish nuclear plant radiation detector alarms started going off. Notably, in order to keep it secret, they for example did not cancel the https://time.com/4313139/post-chernobyl-parade/[International Workers' Day parade in Kharkov, Ukraine which happened five days after the disaster].
+[[chernobyl-2019-miniseries]]
+===== Chernobyl 2019 miniseries (切尔诺贝利_(迷你剧))
+
+* link:https://en.wikipedia.org/wiki/Chernobyl_(miniseries)
+* link:https://zh.wikipedia.org/wiki/切尔诺贝利_(迷你剧)
+
+Suggests that part of the reason why Chernobyl happened is because of the Soviet Union's obsession to save face, and illustrates well how <<censorship-makes-countries-poorer>>.
+
+The URSS only admitted Chernobyl three days after when Swedish nuclear plant radiation detector alarms started going off.
+
+Notably, in order to keep it secret, they for example did not cancel the https://time.com/4313139/post-chernobyl-parade/[International Workers' Day parade in Kharkov, Ukraine which happened five days after the disaster]. Related: <<different-levels-of-truth>>.
+
+Related:
+
+* <<different-levels-of-truth>>
+* <<law-of-gravity-1984>>
+
+.https://www.youtube.com/watch?v=ocBVLMHK6c8 Chernobyl supercut scene where the reactor explodes, and a chief engineer "Comrade Dyatlov" accepts a hastily made radiation measurement of 3.6 Roentgen as "Not great, not terrible" and forwards it to his superiors who take actions based on that, even though the radiation measurement apparatus only goes up to 3.6 Roentgen! Needless to say, the actual radiation was much, much higher: when a proper measurement was made much later on, the value was 15000 Roentgen!
 video::ocBVLMHK6c8[youtube,height=400,width=600]
 
-.Photo of a CDV-717 radioactivity meter that maxes out at 3.6 https://en.wikipedia.org/wiki/Roentgen_(unit)[Roentgen] (https://zh.wikipedia.org/wiki/倫琴_(單位)[倫琴]) like the one that would have been used in Chernobyl. The <<law-of-gravity-1984,Law of Gravity quote from 1984>> also comes to mind. https://www.reddit.com/r/ChernobylTV/comments/bnio6n/36_roentgen_on_a_cdv717/[Source].
+.Photo of a CDV-717 radioactivity meter that maxes out at 3.6 https://en.wikipedia.org/wiki/Roentgen_(unit)[Roentgen] (https://zh.wikipedia.org/wiki/倫琴_(單位)[倫琴]) like the one that would have been used in Chernobyl. https://www.reddit.com/r/ChernobylTV/comments/bnio6n/36_roentgen_on_a_cdv717/[Source].
 image::{china-dictatorship-media-base}/3_6_Roentgen.jpg[height=400]
 
 [[censorship-makes-no-one-trust-your-country]]
@@ -4142,7 +4157,7 @@ Interestingly however, Ciro still recevied some profile views from Chinese profi
 ** custommer service person from <<huawei>>
 ** financial consultant from Beijing
 
-<<brave-new-world-books,The books passage from Brave New World>> comes to mind.
+<<brave-new-world-books>> comes to mind.
 
 .3 days after <<ciro-santilli>> put up anti-CCP messages on his LinkedIn, the account was banned in China. They are quite efficient. <<zhou-fengsuo>> had notably https://www.buzzfeednews.com/article/meghara/china-linkedin-zhou-fengsuo[previously achieved this]. Another report by a https://www.buzzfeednews.com/article/meghara/linkedin-censorship-peter-humphrey[Peter Humphrey].
 image::{china-dictatorship-media-base}/Ciro_Santilli_LinkedIn_China_ban.png[height=600]
@@ -7318,6 +7333,12 @@ Rather, they lure you in with the exercises first.
 
 Ciro has personally heard the following said many times: "you should not tell this to non-believers, they are not ready for this truth yet".
 
+Conversely, <<dictatorship,dictatorships>>, just like <<flg-cult,cults>>, also have practice different levels of truth, because in the end some level of decision maker has to know the actual truth of the world:
+
+* <<brave-new-world-books>>
+* <<internal-media-of-china>>
+* <<chernobyl-2019-miniseries>>
+
 [[flg-canon]]
 === What are the canonical Falun Gong texts? (法轮功的经典著作有哪些？)
 
@@ -9458,7 +9479,7 @@ image::{china-dictatorship-media-base}/Jiang_Zemin_frog.jpg[height=400]
 image::{china-dictatorship-media-base}/Jiang_Zemin_nose_picking.jpg[height=400]
 
 [[jiang-zemin-magnify]]
-.Jiang reading through comically large magnifying glass during the opening ceremony of the 19th <<national-congress>> in 2017. https://www.theguardian.com/world/2017/oct/18/back-from-the-dead-chinas-internet-goes-wild-over-youthful-jiang-zemin[Source].
+.Jiang reading through comically large magnifying glass during the opening ceremony of the 19th <<national-congress>> in 2017. See also: <<internal-media-of-china>>. https://www.theguardian.com/world/2017/oct/18/back-from-the-dead-chinas-internet-goes-wild-over-youthful-jiang-zemin[Source].
 image::{china-dictatorship-media-base}/Jiang_Zemin_magnify.jpg[height=400]
 
 .More Jiang funny expressions and Photoshops from a Research Gate page! https://www.researchgate.net/figure/Jiang-as-emoticons-often-used-in-chats_fig4_325864518[Source].
@@ -10960,6 +10981,8 @@ TODO: there must be websites hosting some level of those, right?
 
 At https://youtu.be/846AtqraCYg?t=615 the BBC mini-documentary series https://en.wikipedia.org/wiki/Can%27t_Get_You_Out_of_My_Head_(TV_series)[Can't Get You Out of My Head (2021)] Episode 04 "But What If the People are Stupid" comments that Xinhua had 3 levels of privileged real news for people higher and higher up in the party hierarchy, and that the top one had extra large letters so that the old men who were in that category could read it. See also: <<jiang-zemin-magnify,Jiang Zemin with magnifying glass>>.
 
+This is a good example of <<different-levels-of-truth>>.
+
 [[cctv]]
 ===== China Central Television (CCTV, 中国中央电视台, CCP media)
 
@@ -11787,19 +11810,22 @@ With the advent of the Internet and <<wayback-machine>>, this has become a bit h
 
 There is also a decent movie made released in the year, you guessed, 1984: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four_(1984_film) starring https://en.wikipedia.org/wiki/John_Hurt[John Hurt].
 
-On Part Three, Chapter 4, The Law of Gravity quote perfectly illustrates the CCPs approach to lying:
-
-[[law-of-gravity-1984]]
-____
-Anything could be true. The so-called laws of Nature were nonsense. The law of gravity was nonsense. 'If I wished,' O'Brien had said, 'I could float off this floor like a soap bubble.' Winston worked it out. 'If he THINKS he floats off the floor, and if I simultaneously THINK I see him do it, then the thing happens.' Suddenly, like a lump of submerged wreckage breaking the surface of water, the thought burst into his mind: 'It doesn't really happen. We imagine it. It is hallucination.' He pushed the thought under instantly. The fallacy was obvious. It presupposed that somewhere or other, outside oneself, there was a 'real' world where 'real' things happened. But how could there be such a world? What knowledge have we of anything, save through our own minds? All happenings are in the mind. Whatever happens in all minds, truly happens.
-____
-
 .https://youtube.com/watch?v=flhggnpCeHw Gravity scene from the 1984 movie.
 video::flhggnpCeHw[youtube,height=400,width=600]
 
 Related:
 
 * https://ibisbill.wordpress.com/2014/01/02/nineteen-eighty-four-in-chinese/ asks how much George Orwell thought about China at the time
+
+[[law-of-gravity-1984]]
+==== Law of Gravity passage from Nineteen Eighty-Four (《十九八十四》中的万有引力段落)
+
+On Part Three, Chapter 4, The Law of Gravity quote perfectly illustrates the <<ccp>>'s approach to lying:
+
+____
+Anything could be true. The so-called laws of Nature were nonsense. The law of gravity was nonsense. 'If I wished,' O'Brien had said, 'I could float off this floor like a soap bubble.' Winston worked it out. 'If he THINKS he floats off the floor, and if I simultaneously THINK I see him do it, then the thing happens.' Suddenly, like a lump of submerged wreckage breaking the surface of water, the thought burst into his mind: 'It doesn't really happen. We imagine it. It is hallucination.' He pushed the thought under instantly. The fallacy was obvious. It presupposed that somewhere or other, outside oneself, there was a 'real' world where 'real' things happened. But how could there be such a world? What knowledge have we of anything, save through our own minds? All happenings are in the mind. Whatever happens in all minds, truly happens.
+____
+
 
 [[newspeak]]
 ==== Newspeak (新语, Nineteen Eighty-Four, 一九八四)
@@ -11823,9 +11849,15 @@ See also: <<thoughtcrime>>
 * https://en.wikipedia.org/wiki/Brave_New_World
 * https://zh.wikipedia.org/wiki/美麗新世界
 
-This is basically a less good <<nineteen-eighty-four>>, but the following passage https://archive.org/stream/ost-english-brave_new_world_aldous_huxley/Brave_New_World_Aldous_Huxley_djvu.txt[from Chapter 17] rocks:
+This is basically a less good <<nineteen-eighty-four>
+
+TXT veresion: >https://archive.org/stream/ost-english-brave_new_world_aldous_huxley/Brave_New_World_Aldous_Huxley_djvu.txt
 
 [[brave-new-world-books]]
+=== Brave New World books passage (美丽新世界的书籍段落, 1932)
+
+This amazing passage from from Chapter 17 is a good example of <<different-levels-of-truth>>:
+
 ____
 The Controller, meanwhile, had crossed to the other side of the room and was unlocking a large safe set into the wall between the bookshelves. The heavy door swung open. Rummaging in the darkness within, "It's a subject," he said, "that has always had a great interest for me." He pulled out a thick black volume. "You've never read this, for example."
 
