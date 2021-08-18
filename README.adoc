@@ -14,6 +14,7 @@
 
 https://cirosantilli.com/china-dictatorship[cirosantilli.com (规范链接 canonical)] |
 https://github.com/cirosantilli/china-dictatorship[GitHub 项目 project] |
+https://github.com/cirosantilli/china-dictatorship-2[GitHub 项目 project 2] |
 link:index-split[分裂标题版本 split header version] |
 中国镜像 China mirrors:
 https://cirosantilli.gitlab.io/china-dictatorship[cirosantilli.gitlab.io],
@@ -231,6 +232,7 @@ Given <<github-censored-subdomains>>, this might be the only way to view the ima
 The cool thing about Git is that we can maintain several mirrors on multiple websites very easily:
 
 * https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
+* https://gitlab.com/cirosantilli/china-dictatorship-2 mirror in case they block just https://github.com/cirosantilli/china-dictatorship[], see also: 
 * https://gitlab.com/cirosantilli/china-dictatorship
 ** their gitlab.com render is shit for some reason, clicking on the ToC does not jump to headers properly, not sure why, IDs look correct
 ** one really cool thing about gitlab is that it can serve images from directly gitlab.com e.g. https://gitlab.com/cirosantilli/china-dictatorship-media/-/raw/master/Xi_Jinping_The_Governance_of_China_photo.jpg unlike GitHub which has the `raw.` subdomain: https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Xi_Jinping_The_Governance_of_China_photo.jpg This makes it impossible to block the GitLab images without blocking all of gitlab.com, until GitLab starts a <<github-gov-takedowns,gov-takedowns>> of their own.
@@ -1055,7 +1057,7 @@ Here is a different picture of the same product from April 14th: https://twitter
 .Chinese <<dual-use-technology,dual-use>> bread. More info at: <<communist-bread>>.
 image::{china-dictatorship-media-base}/Stop_interfering_in_China_s_internal_affairs_bread.jpg[height=500]
 
-.Communist bread vs Communist condom. Someone made a brilliant communist condom Photoshop reply to the <<communist-bread>>. Pointed out at: https://github.com/cirosantilli/china-dictatorship/issues/523 and a previous source at: https://weibo.com/5586291457/K9Vg7ceM7?type=comment#_rnd162900969912[].Part of the joke is that the Chinese message reads "中国人不吃这一套" (The Chinese people won't fall for this trick), and "套" is the last character for condom in Chinese (避孕套). "套" more generally means a type of "slip-on cover or envelope".
+.Communist bread vs Communist condom. Someone made a brilliant communist condom Photoshop reply to the <<communist-bread>>. Pointed out at: https://github.com/cirosantilli/china-dictatorship/issues/523 and a previous source at: https://weibo.com/5586291457/K9Vg7ceM7?type=comment#_rnd162900969912[]. Part of the joke is that the Chinese message reads "中国人不吃这一套" (The Chinese people won't fall for this trick, literally "don't eat this trick"), and "套" is the last character for condom in Chinese (避孕套), so the sentence is recast as "The Chinese people won't eat this condom.". "套" more generally means a type of "slip-on cover or envelope". <<ciro-santilli>> reposted at: https://www.reddit.com/r/China/comments/p4p3u3/stop_interfering_in_chinas_internal_affairs/ on <<r-china>>. As mentioned at https://www.reddit.com/r/China/comments/p4p3u3/stop_interfering_in_chinas_internal_affairs/h90foja the association of the Chinese sentence with condoms had been done independently before this Photoshop emerged, see e.g. https://www.youtube.com/watch?v=OdEQ7JavgLw[] by <<gfwfrog>>. GFWfrog also twitted this image of course: https://twitter.com/gfwfrog/status/1387121102967672835[].
 image::{china-dictatorship-media-base}/Stop_interfering_in_China_s_internal_affairs_bread.jpg[height=500]
 
 [[why-end-dictatorship]]
@@ -1175,7 +1177,7 @@ video::ocBVLMHK6c8[youtube,height=400,width=600]
 image::{china-dictatorship-media-base}/3_6_Roentgen.jpg[height=400]
 
 [[censorship-makes-no-one-trust-your-country]]
-===== Censorship makes no one trust your country (审查使没有人相信你的国家)
+===== Censorship makes no one trust your country (审查使得沒有人相信你的国家)
 
 Who would trust a government that does not <<censorship,trust its own journalists and citizens>>?
 
@@ -2182,10 +2184,10 @@ image::{china-dictatorship-media-base}/Scarfolk_public_displays_of_personal_dist
 video::4xoM6-1SWl4[youtube,height=400,width=600,start=1606]
 
 [[anonymous-middle-fingers]]
-.Presumed Chinese people giving the middle finger (https://zh.wikipedia.org/wiki/豎中指[竖中指]) to various <<ccp>> symbols, most notably <<xi-jinping>>. Even if this was made by the CIA, it perfectly illustrates the point that obviously no one speaks against the CCP because otherwise they will be put in jail. If you are going to do this, for Fuck's Sake please cover your fingers, like the ones using gloves, or the banknotes, because if the photo resolution is good enough, you could be identified by your fingerprint. A <<reddit,r/China>> https://www.reddit.com/r/China/comments/obmgdh/not_all_of_us_are_brainwashed_沉默的大多数/[repost]. This photo seems to be the result of a campaign started by https://twitter.com/GFWfrog[] in response to the 100th anniversary of the Party in 2021. This was also explained at: https://chinadigitaltimes.net/chinese/667778.html[] on <<china-digital-times>>. Related: <<anonymous-account-ban>>. https://twitter.com/GFWfrog/status/1410927334719430662[Source].
+.Presumed Chinese people giving the middle finger (https://zh.wikipedia.org/wiki/豎中指[竖中指]) to various <<ccp>> symbols, most notably <<xi-jinping>>. Even if this was made by the CIA, it perfectly illustrates the point that obviously no one speaks against the CCP because otherwise they will be put in jail. If you are going to do this, for Fuck's Sake please cover your fingers, like the ones using gloves, or the banknotes, because if the photo resolution is good enough, you could be identified by your fingerprint. A <<reddit,r/China>> https://www.reddit.com/r/China/comments/obmgdh/not_all_of_us_are_brainwashed_沉默的大多数/[repost]. This photo seems to be the result of a campaign started by <<gfwfrog>> in response to the 100th anniversary of the Party in 2021. This was also explained at: https://chinadigitaltimes.net/chinese/667778.html[] on <<china-digital-times>>. Related: <<anonymous-account-ban>>. https://twitter.com/GFWfrog/status/1410927334719430662[Source].
 image::{china-dictatorship-media-base}/Anonymous_middle_fingers.jpg[height=800]
 
-.https://www.youtube.com/watch?v=_y2FIqfIpiw (https://github.com/cirosantilli/china-dictatorship/issues/409[GitHub reupload]) Give <<xi-jinping>> the middle finger silly GIF by GFWfrog 给习近平竖中指由墙国蛙蛤蛤傻逼视频. https://twitter.com/GFWfrog/status/1408805483679469579[Source].
+.https://www.youtube.com/watch?v=_y2FIqfIpiw (https://github.com/cirosantilli/china-dictatorship/issues/409[GitHub reupload]) Give <<xi-jinping>> the middle finger silly GIF by <<gfwfrog>> 给习近平竖中指由墙国蛙蛤蛤傻逼视频. https://twitter.com/GFWfrog/status/1408805483679469579[Source].
 video::_y2FIqfIpiw[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game.
@@ -3190,6 +3192,16 @@ Bibliography: https://github.com/cirosantilli/china-dictatorship/issues/93
 
 See: https://cirosantilli.com/ciro-santilli
 
+It makes Ciro smile when <<wumao,wumaos>> consider he might be Chinese.
+
+Does "<<ciro-santilli,Ciro Santilli>>" sound like a Chinese name?
+
+Would a Chinese person write this tutorial primarly in English?
+
+Would a Chinese person <<does-ciro-santilli-speak-chinese,speak such obviously shit Chinese>>?
+
+Think, wumao, think!!!
+
 And it does not matter: <<not-chinese>>.
 
 But <<why-does-ciro-santilli-love-china-so-much,his wife is>>.
@@ -3348,7 +3360,7 @@ So the rationale of his actions is no_ to convince anyone, but rather:
 See also: <<preconceived>>
 
 [[china-watcher]]
-===== Is Ciro Santilli a China watcher? (Pekingologist, 三西猴是观察中国者吗？, Intelligence Analyst)
+===== Is Ciro Santilli a China watcher? (Pekingologist, 三西猴是中国观察者吗？, Intelligence Analyst)
 
 * https://en.wikipedia.org/wiki/China_watcher
 * https://en.wikipedia.org/wiki/Intelligence_analysis
@@ -5115,7 +5127,7 @@ More information:
 * https://twitter.com/cirosantilli/status/1310461733325148160
 
 [[github-gov-takedowns]]
-===== GitHub gov-takedowns
+===== GitHub gov-takedowns (由其各自政府在某个国家审查的仓库的GitHub官方列表)
 
 https://github.com/github/gov-takedowns
 
@@ -5155,12 +5167,16 @@ image::{china-dictatorship-media-base}/GitHub_Programthink_Zhao_issue_38_China_g
 
 If this happens, we well proceed to create alternative repos `china-dictatorship-2`, `china-dictatorship-3`, etc. and it would be fun to see how that gets handled.
 
+Edit: after the report at  https://github.com/cirosantilli/china-dictatorship-2
+
+Zhuan_Falun_2010s_English_vs_Chinese.jpg
+
 Can they add an entire user to gov-takedowns?
 
 But remember that we also have: <<mirrors>>, and that this can be easily rendered as a single HTML page and uploaded to any static website host.
 
 [[gov-takedowns-china]]
-====== gov-takedowns/China
+====== gov-takedowns/China (由中共在国审查的库仓的GitHub官方列表)
 
 Skipping all <<falun-gong>>/<<epoch-times>> repos with very few stars, mostly some <<gfw>> skip methods, those are noise, and possibly added only to dilute the real deal.
 
@@ -5589,8 +5605,7 @@ But I couldn't find Gossiping there either, which is the only board that matters
 
 * https://en.wikipedia.org/wiki/LIHKG
 * https://zh.wikipedia.org/wiki/LIHKG討論區
-
-URL: https://lihkg.com
+* https://lihkg.com
 
 <<hong-kong>> <<reddit>> clone. Requires a Hong Kong IP or university address to login, a bit in the spirit of <<ptt>> to avoid <<wumao>> invasion.
 
@@ -5604,6 +5619,12 @@ TODO meaning of "LI"?
 * 2019-10-31 https://lihkg.com/thread/1685513/page/3 "Notepad{plus}{plus}新版代號「自由維吾爾」，GitHub網頁被灌爆，網站遭DDoS" about <<notepad>> "Free Uyghur" version. On page 3 comment links to Ciro's <<stack-overflow>> account. Big thread with 500+ likes.
 * 2019-10-05 https://lihkg.com/thread/1625310/page/1 "聽講GitHub好好用" (Attending lectures on GitHub is very useful.). But likely some <<slang,slang>> for politics, because on first comment "可以好好上去發表下愛國論". Then someone links to <<nine-nine-six-icu>>, then to the GitHub <<mirrors,mirror of this page>>, and then to <<gitee>>.
 * 2018-07-31 https://lihkg.com/thread/762440/page/1 https://archive.is/7REOi. Title: "依條友都幾屈機, 係Stack overflow撚共匪". I'm unable to understand the first sentence, but the end is something along "to play tricks on the commies". First comment (likely by OP): "佢個個人home page好多5毛留言, 唔知會唔會搞到block堆stackoverflow". The entire thread is about Ciro's <<stack-overflow>>.
+
+[[hkgolden]]
+===== HKGolden (香港高登讨论区)
+
+* https://en.wikipedia.org/wiki/HKGolden
+* https://zh.wikipedia.org/wiki/高登討論區
 
 [[google]]
 ==== Google (谷歌)
@@ -5788,7 +5809,6 @@ Particularly interesting ones:
 * After <<unjust-social-media-censorship-in-the-west,Trump was unfairly banned from Twitter>>, his social media team created an amazing "Chongald Xrump" account <<what-should-western-countries-do-about-china,pretending ridiculously to be a CCP PR person>>, it had really good posts.
 +
 But that amazing account was banned: https://babylonbee.com/news/trump-sneaks-back-on-twitter-by-disguising-self-as-pr-rep-for-chinese-communist-party Twitter is <<politically-incorrect,trying really hard>> to beat the <<censorship,CCP at its own game>>.
-* https://twitter.com/GFWfrog 墙国蛙蛤蛤. The username is a reference to a frog that jumps over the <<gfw>>.
 
 News:
 
@@ -5803,6 +5823,16 @@ Unfair censorship:
 [[trump-twitter-kuang-biao]]
 .Cartoon showing Donald Trump's mouth sewn shut in a "Twitter" shape by <<kuang-biao>> (2021) after Trump was <<unjust-social-media-censorship-in-the-west,banned from Twitter>>. You know it's bad when the artists who normally criticize the <<ccp,CCP>> start to criticize you. <<rebel-pepper>>'s https://www.rfa.org/english/cartoons/twitter-china-cartoon-06052020164712.html["I can't Tweet"] comes to mind, although it was about <<racist-west>> instad. https://xueqiu.com/9870976009/168210673[Source].
 image::{china-dictatorship-media-base}/Trump_silenced_by_Twitter_by_Kuang_Biao.jpg[height=400]
+
+[[gfwfrog]]
+==== GFWfrog (墙国蛙蛤蛤)
+
+* https://twitter.com/GFWfrog 墙国蛙蛤蛤
+* https://www.youtube.com/channel/UCzTs_yRgwD88hZQNvmUwzJA
+
+The username is a reference to a frog that jumps over the <<gfw>>.
+
+Amazing selection of Chinese-only anti-CCP content.
 
 === YouTube
 
@@ -7147,7 +7177,6 @@ Many of the points highlighted at are very very interesting and Ciro feels that 
 * "Instant Community" and "Instant intimacy": you instantly join the cult family, and are very very likely to believe or at least consider anything anyone else in the cult says about their religious experiences, no matter how far-fetched, even though it is not <<flg-canon,canon>>
 +
 Conversely, this also poses a risk for the Cult Leader, as new community ideas can spread very quickly, and if you try to fight them off, they might create a https://en.wikipedia.org/wiki/Schism[Schism].
-* "Cult-speak": see also "Newspeak" from <<nineteen-eighty-four>> and some common Falun Gong Cult-speak see: <<flg-religion>>
 * "Denigration of competing sects, cults, religions, groups, or organizations": yes, <<li-hongzhi>> does this all the time, see: <<zhong-gong>>
 * "Personal testimonies of earlier converts": see "experience sharing" at <<flg-religion>>
 * "The group and its members are special", "Enemy-making and Devaluing the Outsider": see: "ordinary people (常人)" at <<does-ciro-santilli-believe-in-or-practice-falun-gong>>
@@ -7178,6 +7207,33 @@ For example, Falun Gong puts huge emphasis on its persecution in China, much lik
 This is especially interesting, because the website does not mention Falun Gong at all it seems: it really seems that all those cults are very similar.
 
 It should also be mentioned though that these points extend to any type of human organization, e.g. <<flg-religion,other religions>>, <<democracy-is-a-religion,political parties>>, job associations, etc.
+
+[[cult-speak]]
+====== Cult speak ()
+
+"Cult-speak": see also "Newspeak" from <<nineteen-eighty-four>> and some common Falun Gong Cult-speak see: <<flg-religion>>
+
+Falun Gong's slogan is the quite direct to the point:
+
+____
+法轮大法好
+Falun Gong is good
+____
+
+This is in part to fight off the mountains of anti-Falun Gong propaganda created by the <<ccp>>.
+
+Their core values are:
+
+* Truthfulness (真, Zhēn). Self explanatory, and the opposite of the <<ccp>>. Although they sometimes violate that (unknowingly?) for the greater good of the cult, e.g. <<flg-transparent>>.
+* Compassion (善, Shàn)
+* Forbearance (忍, Rěn): definition according to Oxford Languages: "patient self-control, restraint and tolerance". So in other words: chill out and meditate. And don't do drugs or anything excessive like that.
+
+The slogan and the core values are often placed together as:
+
+____
+法轮大法好。真善忍好。
+Falun Gong is good. Truthfulness, compassion and forbearance are good.
+____
 
 ====== Careful control of your image
 
@@ -8849,6 +8905,10 @@ The letter was also apparently embedded into the <<bitcoin-blockchain,Ethereum b
 * https://en.wikipedia.org/wiki/Xi_Jinping
 * https://zh.wikipedia.org/wiki/习近平
 
+Bibliography:
+
+* https://evchk.wikia.org/zh/wiki/習近平
+
 [[xi-abolishes-term-limits-2018-03]]
 ==== Xi abolishes term limits (习近平取消国家主席任期限制, 2018-03)
 
@@ -8950,9 +9010,6 @@ image::{china-dictatorship-media-base}/Xi_Jinping_photoshopped_as_The_Joker.jpg[
 .<<xi-jinping>>, <<jiang-zemin>> and <<hu-jintao>> photoshopped on top of a clothing advertisement (TODO original). The text reads: "江胡险恶 习以为常". TODO understand. 江胡 are the surnames of <<jiang-zemin>> and <<hu-jintao>>. 习 is the surname of; <<xi-jinping>>. "习以为常" is a fixed expression that means "to get accustomed to". Also asked at: https://www.mohu.rocks/question/573 on <<mohu>>, and explained at: https://www.secretchina.com/news/gb/2003/12/03/56236.html from <<falun-gong-media>>. https://twitter.com/BeqB38ldjIu5acT/status/1377094062063292418[Source]
 image::{china-dictatorship-media-base}/Xi_Jiang_Hu.jpg[height=400]
 
-.https://www.youtube.com/watch?v=nPc3bSbKw28 (https://github.com/cirosantilli/china-dictatorship/issues/229[GitHub reupload]) <<xi-jinping>> Carrie Lam Leonardo di Caprio Kate Winslet Titanic Deepface by GFWfrog. 由墙国蛙蛤蛤习近平 林郑月娥 莱昂纳多迪卡普里奥 凯特温斯莱特 泰坦尼克号. https://twitter.com/GFWfrog/status/1412704989445713924[Source].
-video::nPc3bSbKw28[youtube,height=400,width=600]
-
 [[xi-jinping-lookalikes]]
 ===== Xi Jinping lookalikes (习近平撞脸)
 
@@ -8981,6 +9038,7 @@ Good Photoshops:
 
 * <<xi-jinping-bdsm-cosplay,Xi Jinping BDSM at cosplay fair>>
 * https://knowyourmeme.com/photos/1613570-xi-jinping Xi Jinping GIF photoshop tearing his shirt off AKA "Who you calling <<winnie-the-pooh,winnie>>"
+* https://upload.hkgolden.media/comment/1jlodt1a.hrgaikqi1gd.p3gj2baklr0.vst.gif at https://forum.hkgolden.com/thread/7410636/page/1 massaging a penis from over underwear
 
 Bad Photoshops:
 
@@ -8994,6 +9052,14 @@ Hentai:
 ** TODO how to access it in full? Work name?
 ** https://disp.cc/b/163-9f5E screenshot used on <<ptt>>
 ** https://www.mohu.rocks/question/id-6851__sort_key-agree_count__sort-ASC screenshot used in a <<mohu>> thread
+
+Good possible video bases for usage in <<xi-jinping-deepfakes>>:
+
+* https://cache.hkgolden.media/compress/https://i.imgur.com/tiwgkCg.gif
+
+Images:
+
+* https://www.buzzfeed.com/pablovaldivia/gay-porn-memes
 
 [[winnie-the-pooh]]
 ===== Xi Jinping looks like Winnie-the-Pooh (习近平长得像小熊维尼, 2017)
@@ -9258,10 +9324,27 @@ Very similar to the <<chinese-dream>>, see also <<nazi>>.
 ** https://www.reddit.com/r/China_irl/comments/i4eodw/我做了个习近平讲话模拟器输入一段文字可以合成习近平语音欢迎前来游玩/
 
 [[xi-jinping-deepfakes]]
-==== Xi Jinping deepfakes (习近平deepfakes)
+==== Xi Jinping deepfakes (习近平的deepfakes)
+
+There are dozens if not hundreds of GIFs watermarked "made with reface app" on <<lihkg>>, presumably made with https://play.google.com/store/apps/details?id=video.reface.app&hl=en_GB&gl=US[], many also featuring <<carrie-lam>>. That app currently costs 20 dollars/week for the video refacing though, so it would only be viable after we have a selection ready to convert.
+
+Once you find one on Google Images, you can just click endlessly into more and more of them.
+
+We're just going to bulk dump them at https://github.com/cirosantilli/china-dictatorship/issues/231 for now.
 
 .https://www.youtube.com/watch?v=diec9Cdsvg0 Xi Jinping singing https://en.wikipedia.org/wiki/Y.M.C.A._(song)[YMCA] with a wide range of cute expressions.
 video::diec9Cdsvg0[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=nPc3bSbKw28 (https://github.com/cirosantilli/china-dictatorship/issues/229[GitHub reupload]) <<xi-jinping>> <<carrie-lam>> Leonardo di Caprio Kate Winslet Titanic Deepface by <<gfwfrog>>. 由墙国蛙蛤蛤习近平 林郑月娥 莱昂纳多迪卡普里奥 凯特温斯莱特 泰坦尼克号. https://twitter.com/GFWfrog/status/1412704989445713924[Source] by <<gfwfrog>>. This likely emeged from <<lihkg>>.
+video::nPc3bSbKw28[youtube,height=400,width=600]
+
+[[carrie-lam]]
+=== Carrie Lam (林鄭月娥, 2017-)
+
+* https://en.wikipedia.org/wiki/Carrie_Lam
+* https://zh.wikipedia.org/wiki/林鄭月娥
+
+<<hong-kong>> puppet ruler.
 
 [[hu-jintao]]
 === Hu Jintao (胡锦涛, 2002-2012)
@@ -10117,6 +10200,7 @@ Other sections:
 ** <<terminus2049>> contributors: Chen Mei (陈玫), Cai Wei (蔡伟), Xiao Tang (小唐)
 ** <<fuck-xuexiqiangguo>> creator Tang Wenzheng (唐文正)
 * <<cartoonists>>
+* <<gfwfrog>>
 
 Other dissidents:
 
@@ -17185,7 +17269,7 @@ image::{china-dictatorship-media-base}/Gay_Putin.jpg[height=400]
 image::{china-dictatorship-media-base}/Gay_Putin_with_Gay_Medvedev.jpg[height=400]
 
 [[putin-trump-kiss]]
-.Possibly Gay Putin kissing possibly Gay <<flg-trump,Trump>> mural entitled https://en.wikipedia.org/wiki/Make_Everything_Great_Again[Make Everything Great Again] painted in Lithuania in 2016 by by artists Dominykas Čečkauskas and Mindaugas Bonanu. It references the https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections[Russian interference in the 2016 United States elections]. It was https://www.theguardian.com/world/2016/aug/12/vandals-censor-image-of-putin-snogging-trump-lithuania[later vandalized]. Now we just need a Putin <<xi-jinping>> kiss. Trump Xi kiss https://www.dw.com/en/sierens-china-survival-of-the-fittest/a-49498499[can be found here]. https://www.euractiv.com/section/global-europe/opinion/putin-will-pay-a-high-price-for-trumps-friendship/[Source].
+.Possibly Gay Putin kissing possibly Gay <<flg-trump,Trump>> mural entitled https://en.wikipedia.org/wiki/Make_Everything_Great_Again[Make Everything Great Again] painted in Lithuania in 2016 by by artists Dominykas Čečkauskas and Mindaugas Bonanu. It references the https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections[Russian interference in the 2016 United States elections]. It was https://www.theguardian.com/world/2016/aug/12/vandals-censor-image-of-putin-snogging-trump-lithuania[later vandalized]. Now we just need a Putin <<xi-jinping>> kiss. Trump Xi kiss https://www.dw.com/en/sierens-china-survival-of-the-fittest/a-49498499[can be found here]. Xi Carrie Lam kiss: https://lih.kg/siCRcoX[]. https://www.euractiv.com/section/global-europe/opinion/putin-will-pay-a-high-price-for-trumps-friendship/[Source].
 image::{china-dictatorship-media-base}/Putin_Trump_kiss.jpg[height=400]
 
 .https://www.youtube.com/watch?v=b1d7Llx4rm8 SUPER GAY PUTIN [original] by Squallido Anal Smithee (2014)
