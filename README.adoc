@@ -1,4 +1,5 @@
-= China Dictatorship 中国独裁统治
+[[china-dictatorship]]
+= China Dictatorship (中国独裁统治)
 :china-dictatorship-media-base: https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master
 :china-dictatorship-media-base-ignore: {china-dictatorship-media-base}
 :docinfo:
@@ -568,16 +569,33 @@ Some minor relationships with <<terminus2049>>:
 * https://github.com/chinatimeline/chinatimeline.github.io/issues/3
 * https://gist.github.com/chinatimeline/5386a4f9d82483aa5346b17d8d324877
 
-=== duty-machine
+[[duty-machine]]
+=== duty-machine GitHub account (责任机器GitHub用户)
 
-The anonymous user https://github.com/duty-machine has some automation setup such that anyone can request certain webpages to be copied on to GitHub anonymously through a separate website, notably:
+https://github.com/duty-machine
+
+Anonymous user with automation setup such that anyone can request certain webpages to be copied on to GitHub anonymously through a separate website, notably:
 
 * https://github.com/duty-machine/duty-machine[]: big Chinese social media, e.g. <<weibo>>, <<zhihu>>, Douban. Articles stored in issues. Archive requests: https://archives.duty-machine.now.sh/
 * https://github.com/duty-machine/news[]: big Western news websites like Reuters, BBC, etc. Articles stored in-tree.
 
 The project claims to have been inspired by <<terminus2049>>, but hopefully they will have better operational security.
 
-Unfortunately, it was found that the project could be used by malicious users to at mention spam GitHub users: https://github.com/cirosantilli/china-dictatorship/issues/192[], let's see if they patch it.
+Unfortunately, it was found that the project could be used by malicious users to at mention spam GitHub users: https://github.com/cirosantilli/china-dictatorship/issues/192[], let's see if they patch it. Edit: the did.
+
+[[duty-machine-porn-attack-duty-machine]]
+==== duty-machine porn attack (责任机器色情攻击)
+
+https://github.com/duty-machine/duty-machine/tree/d6ee9ff8e504b863352f163f7e143e84161ac349 explains that the automatic submission had to be taken down because <<wumao>> uploaded porn which is against GitHub's content policy.
+
+Related idiotic attempt on <<china-dictatorship>> project: https://github.com/cirosantilli/china-dictatorship/issues/500
+
+This likely led the repository to be added to <<github-objectionable-content>>.
+
+This highlights the following ideas:
+
+* it is impossible to have uncurated anyonymous content on GitHub
+* censorship of non-political issues can seep into censorship of political issues
 
 [[zhao-heming]]
 === Zhao Heming (召赫名)
@@ -696,6 +714,7 @@ to attack that repo:
 
 TODO which exact GitHub action did they rely on? That repo currently has a https://github.com/ant-design/ant-design-pro/actions/workflows/issue-open-check.yml Issue Open Check GitHub action sample run: https://github.com/ant-design/ant-design-pro/runs/2209272410?check_suite_focus=true we see the similarity issue analysis thing, but how could that have worked more precisely to link across repos? Asked at: https://github.com/cirosantilli/china-dictatorship/issues/203
 
+[[wumao-github-repos]]
 === Wumao GitHub repos (由五毛的GitHub库)
 
 Not in other setions:
@@ -716,7 +735,7 @@ Related:
 == FAQ (常见问答集)
 
 [[why-keyword-attack]]
-=== Why attack websites with censored keywords? 用审查词攻击网站有什么用呢？
+=== Why attack websites with censored keywords? (用审查词攻击网站有什么用呢？)
 
 The attack: <<keyword-attack>>.
 
@@ -796,7 +815,7 @@ Related:
 * <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream  and the Chinese dream>>
 
 [[keyword-attack]]
-==== Screen name keyword attack
+==== Screen name keyword attack (网名审查关键字攻击)
 
 A keyword consists of adding censored words to your username: https://stackoverflow.com/users/895245
 
@@ -1655,7 +1674,7 @@ Hitting the block button has, of course, no cost.
 
 The cost of blocking Stack Overflow lies of course in the loss of information, and slower technological development, see also: <<why-keyword-attack>>
 
-Remember that it is not possible for the Chinese government to block only certain pages of HTTPS websites due to encryption: either the entire IP/domain name is blocked, or nothing.
+Remember that <<it-is-not-possible-to-block-a-single-page-of-an-https-website>>
 
 The 2019 <<nine-nine-six-icu>> event however brought to my attention that Chinese (usually WebKit-based) browsers are already censoring HTTPS websites selectively of course, see e.g.: https://github.com/996browser/996.BROWSER/tree/77f28a36a862e3cc4d238dc47c19872156096bc4
 
@@ -3746,13 +3765,18 @@ If you think that this list can be improved, please open an issue explaining how
 
 It might be a newbie text editors for newbie Windows users, but at least they use it to good use by doing keyword attacks:
 
-* 2020-08: https://techcrunch.com/2020/08/17/notepad-plus-plus-blocked-in-china/ "Text editor Notepad{plus}{plus} banned in China after ‘Stand With Hong Kong' update" where "banned" means "the download page where they keywords are shown is now blocked in Chinese browsers". The rest of the website is still up. So no domain block due to HTTPS, browser only action for now.
 * 2019-10: "In October 2019 Notepad{plus}{plus}'s GitHub issue tracker was flooded with pro-Chinese and anti-western messages after a version codenamed "Free Uyghur" (v7.8.1) was released"
 ** https://www.theregister.co.uk/2019/10/31/notepad_china_spam/
 ** https://www.reddit.com/r/China/comments/dp3icm/notepad_after_voicing_their_support_for_the/ "Notepad{plus}{plus}, after voicing their support for the Uyghurs, is now being bombarded by Chinese nationalists on Github." See e.g.: https://github.com/notepad-plus-plus/notepad-plus-plus/issues/7489 and earlier issues
 * 2008-03: "In March 2008 the "Boycott Beijing 2008" banner was placed on Notepad{plus}{plus}'s SourceForge.net homepage": https://en.wikipedia.org/wiki/Concerns_and_controversies_over_the_2008_Summer_Olympics#Boycotts
 
 The creator appears to be a Vietnamese immigrant or descendant living in France. There are many such immigrants due to Vietnam being an ex-colony: https://github.com/donho Also he must have good reason to dislike the commies due to similar commit bullshit in Vietnam. He was at https://en.wikipedia.org/wiki/Paris_Diderot_University[Paris Diderot] in 2000: https://donho.github.io/#education (https://web.archive.org/web/20190424004100/https://donho.github.io/#education[archive]).
+
+====== Notepad++ Chinese browsers block (2020)
+
+https://techcrunch.com/2020/08/17/notepad-plus-plus-blocked-in-china/ "Text editor Notepad{plus}{plus} banned in China after ‘Stand With Hong Kong' update" where "banned" means "the download page where they keywords are shown is now blocked in Chinese browsers". The rest of the website is still up. So no domain block due to HTTPS, browser only action for now.
+
+This is an example of <<chinese-web-browser-censorship>>.
 
 [[what-should-all-pro-democracy-people-do-about-china]]
 === What should all pro-democracy people do about China? (所有的民主派人士应该干什么？)
@@ -5167,11 +5191,9 @@ image::{china-dictatorship-media-base}/GitHub_Programthink_Zhao_issue_38_China_g
 
 If this happens, we well proceed to create alternative repos `china-dictatorship-2`, `china-dictatorship-3`, etc. and it would be fun to see how that gets handled.
 
-Edit: after the report at  https://github.com/cirosantilli/china-dictatorship-2
+Edit: <<china-dictatorship-chinese-web-browser-block>>, <<ciro-santilli>> decided to create: https://github.com/cirosantilli/china-dictatorship-2 even though the repository hadn't been added to gov-takedowns.
 
-Zhuan_Falun_2010s_English_vs_Chinese.jpg
-
-Can they add an entire user to gov-takedowns?
+Can Github add an entire user to gov-takedowns? We shall find out.
 
 But remember that we also have: <<mirrors>>, and that this can be easily rendered as a single HTML page and uploaded to any static website host.
 
@@ -5188,9 +5210,40 @@ Skipping all <<falun-gong>>/<<epoch-times>> repos with very few stars, mostly so
 ** https://github.com/github/gov-takedowns/blob/master/China/2019/2019-12-12-MPS.md
 *** https://github.com/gfw-breaker[], see also: <<github-repositories-with-censored-information>>
 
-===== GitHubt This repository may contain objectionable content
+[[github-objectionable-content]]
+===== GitHub "This repository may contain objectionable content" (此仓库可能包含令人反感的内容)
 
-TODO: <<ciro-santilli>> once saw that message when visiting: https://github.com/Yanqiu-gui/-/issues/5 on 2021-05-19 for the first time, but not on the following ones. Appears to be some kind of textual softporn repo. How does that message get added exactly? And you are forced you to login to view that repository! Incredible, a hidden undocumented semi-hide-repo feature. Here's an archive: https://archive.ph/VJQdD That click wall also prevents archives of the repository therefore.
+GitHub has a veru little known feature called:
+
+____
+This repository may contain objectionable content
+____
+
+TODO exact Chinese phrase on UI.
+
+When GitHub admins set this on a repository, it has the following effects:
+
+* the repository cannot be seen by logged off users! Trying to do that results in a redirect. This puts such repositories at great disadvantage on search engine optimization
+* the first time you visit the repository, they ask you if you want to continue
+
+This is not a transparent mechanism, as it does not clearly state why the repository has objectionable content.
+
+Known repositories with that enabled:
+
+* <<duty-machine>> as of August 2021 https://github.com/duty-machine/duty-machine[]:
+** 2021-08-18 <<wayback-machine>>: redirects to login: https://web.archive.org/web/20210818110306/https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fduty-machine%2Fduty-machine
+** 2021-08-18 <<archive-today>>: https://archive.ph/jtX4p shows the actual message since it uses a logged-in user for its archives
+* https://github.com/Yanqiu-gui/-[]. Appears to be some kind of textual softporn repo.
+
+TODO: <<ciro-santilli>> once saw that message when visiting: https://github.com/Yanqiu-gui/-/issues/5 on 2021-05-19 for the first time, but not on the following ones.
+
+How does that message get added exactly?
+
+And you are forced you to login to view that repository!
+
+Incredible, a hidden undocumented semi-hide-repo feature.
+
+Here's an archive: https://archive.ph/VJQdD That click wall also prevents archives of the repository therefore.
 
 ===== GitHub censorship guidelines
 
@@ -6857,7 +6910,7 @@ To them, it is not about belief, the truth is clear, and you just don't see it y
 
 To this you should reply: "and you don't understand that <<li-hongzhi,Li Hongzhi>> is a master manipulator dude who deceived you and millions of others".
 
-But <<ciro-santilli>> strongly believes that this is just a language barrier/FLG propaganda question (see also "Different levels of truth" from <<orange-papers>>), and that 99.9999% of people in the West would classify FLG as a religion just like <<christianity>> if they are told about FLG's beliefs:
+But <<ciro-santilli>> strongly believes that this is just a language barrier/FLG propaganda question (see also <<different-levels-of-truth>>), and that 99.9999% of people in the West would classify FLG as a religion just like <<christianity>> if they are told about FLG's beliefs:
 
 * absolute truth comes from an enlightened <<li-hongzhi,prophet>>, who is perfect and has superhuman abilities
 * weekly in-person meetings (学法 "study the Fa", or more verbosely "study the law (of the universe (of <<li-hongzhi>>))"）or daily online meetings where they read from a <<flg-canon,sacred book>>, either written by the prophet, or transcribed from his presentations to disciples, including the disciples questions, much like traditional Chinese texts like <<analects>>, just like Christians read from the Bible over and over again.
@@ -6959,9 +7012,10 @@ From a purely strategic point of view, the "religion" denomination would be:
 +
 Falun Gong's recruitment strategy is to focus on the exercises first, and in particular its <<flg-medication,health benefits>> and then as some people start to feel things, they start introducing the metaphysics.
 
-See also: "Different levels of truth" from <<orange-papers>>.
+See also:
 
-See also: <<flg-daily>>.
+* <<different-levels-of-truth>>
+* <<flg-daily>>
 
 ==== Falun Gong believes that the CCP is literally a manifestation of real devils
 
@@ -7031,7 +7085,7 @@ Ciro has not however seen them talking about making automated phone calls.
 https://www.scmp.com/comment/insight-opinion/article/1940394/how-rampant-phone-scams-highlight-chinas-need-tighter also mentions that Falun Gong makes telemarketing in passing without any reference.
 
 [[flg-cult]]
-==== Is Falun Gong a cult? 法轮功是邪教吗？
+==== Is Falun Gong a cult? (法轮功是邪教吗？)
 
 Does <<ciro-santilli>> think Falun Gong a cult? Yes.
 
@@ -7182,7 +7236,6 @@ Conversely, this also poses a risk for the Cult Leader, as new community ideas c
 * "The group and its members are special", "Enemy-making and Devaluing the Outsider": see: "ordinary people (常人)" at <<does-ciro-santilli-believe-in-or-practice-falun-gong>>
 * "Making cult members work long hours for free": yes, many FLG members work long long hours for free. Why wouldn't you if you are saving people's souls?
 * "No Humor": see also <<funny>>
-* "Different Levels of Truth", "Deceptive Recruiting": Falun Gong people don't talk freely about their funny beliefs like <<flg-religion,aliens are amongst us>> to outsiders. Rather, they lure you in with the exercises first. Ciro has personally heard the following said many times: "you should not tell this to non-believers, they are not ready for this truth yet".
 * "Front groups, masquerading recruiters, hidden promoters, and disguised propagandists": <<falun-gong-media>>
 * "Promised Powers or Knowledge" and "It's a con. You don't get the promised goodies": they seem to believe in a <<flg-religion,Judgement Day like event>> and <<flg-medication,health benefits>>
 * "The Guru is always right", "You are always wrong", "No Graduates", "The Guru Is Extra-Special", "Everybody else needs the guru to boss him around, but nobody bosses the guru around", "The guru criticizes everybody else, but nobody criticizes the guru.": obviously: <<li-hongzhi>>
@@ -7209,7 +7262,7 @@ This is especially interesting, because the website does not mention Falun Gong 
 It should also be mentioned though that these points extend to any type of human organization, e.g. <<flg-religion,other religions>>, <<democracy-is-a-religion,political parties>>, job associations, etc.
 
 [[cult-speak]]
-====== Cult speak ()
+====== Cult speak (邪教话，Orange Papers, 橙色文件)
 
 "Cult-speak": see also "Newspeak" from <<nineteen-eighty-four>> and some common Falun Gong Cult-speak see: <<flg-religion>>
 
@@ -7235,7 +7288,8 @@ ____
 Falun Gong is good. Truthfulness, compassion and forbearance are good.
 ____
 
-====== Careful control of your image
+[[careful-control-of-your-image]]
+====== Careful control of your image (小心控制你的形象, Orange Papers, 橙色文件)
 
 The cult leader is a master at controlling how people view him.
 
@@ -7247,12 +7301,25 @@ Because of course: you are human, not a God, and you are going to fuck up from t
 
 This reminded Ciro of the <<vissarion>> video he watched, in which VICE was allowed to visit and interview <<russia,Siberian>> prophet https://en.wikipedia.org/wiki/Vissarion[Vissarion] (real name Sergey Anatolyevitch Torop Серге́й Анато́льевич То́роп, AKA "The Russian Jesus"), and they note how well he controlled his appearance.
 
+Ciro also heard similar stories of <<stalin>> and <<mao-zedong>> when they would retreat from the public eye for a while.
+
 [[vissarion]]
 .https://www.youtube.com/watch?v=W2Cv5hZfOmk&t=1177
 video::W2Cv5hZfOmk[youtube,height=400,width=600,start=1177]
 
+[[different-levels-of-truth]]
+====== Different levels of truth (不同层次的真相, Orange Papers, 橙色文件)
+
+And closely related: "Deceptive Recruiting"
+
+Falun Gong people don't talk freely about their funny beliefs like <<flg-religion,aliens are amongst us>> to outsiders.
+
+Rather, they lure you in with the exercises first.
+
+Ciro has personally heard the following said many times: "you should not tell this to non-believers, they are not ready for this truth yet".
+
 [[flg-canon]]
-=== What are the canonical Falun Gong texts?
+=== What are the canonical Falun Gong texts? (法轮功的经典著作有哪些？)
 
 https://en.wikipedia.org/wiki/Teachings_of_Falun_Gong
 
@@ -7311,7 +7378,10 @@ CCP <<ccp-cult,cult leaders>> such as <<xi-jinping>> and <<mao-zedong>> have als
 * Mao's: <<little-red-book>>
 
 .Front and back cover of <<flg-canon,Zhuan Falun>>, first edition (1994). It is said amongst believers that <<flg-verifiable,the Lotus flower on the back of these books have magically opened progressively as time passed>>. http://qingqing.freebbs.tw/viewthread.php?tid=165###[Source].
-image::{china-dictatorship-media-base}/Zhuan_Falun.jpg[height=400]
+image::{china-dictatorship-media-base}/Zhuan_Falun.jpg[height=500]
+
+.Side-by-side English and Chinese version of Zhuan Falun circa 2010s. These covers are very widespread. Note how the Chinese cover is yellow, almost golden, to indicate that it is cannon. And translations in all other languages are blue, to indicate non-canon. Also note how the drawings of mystical elements have been removed in favor an abstract presentation. This is part of <<different-levels-of-truth>>. https://hkfalundafa.org/2-如何學煉法輪功.html[Source].
+image::{china-dictatorship-media-base}/Zhuan_Falun_2010s_English_vs_Chinese.jpg[height=500]
 
 === Does Ciro Santilli support FLG, or just use it because it is censored?
 
@@ -7882,7 +7952,7 @@ Question: Misleading news is everywhere in this Internet age, and it's often har
 Master: Degenerate things are common in this troubled world, and it's hard to accomplish good things. That's how things are in a troubled world. Many people didn't expect Trump to be elected in the last U.S. election, but he was. Some people believe that things are supposed to go a certain way, but then they turn out otherwise. I have always said that divine beings are in control of human affairs, and that it is they who have the say. But if I speak too much about it or get into the specifics, it might negatively impact our saving people, so I won't go into it.
 ____
 
-As usual, Hongzhi beats round the bush, as per "Different Levels of Truth" of <<orange-papers>>. Ciro feels it <<flg-transparent,would be better for Falun Gong if he just publicly said that believers must support Trump>>.
+As usual, Hongzhi beats round the bush, as per <<different-levels-of-truth>>. Ciro feels it <<flg-transparent,would be better for Falun Gong if he just publicly said that believers must support Trump>>.
 
 One wonders how Falun Gong views Trump's ideology of "https://en.wikipedia.org/wiki/Donald_Trump_Access_Hollywood_tape[grabbing them by the pussy]". But sure, that was in 2005, he must have converted to Good since.
 
@@ -8362,7 +8432,7 @@ Once thing Ciro approves about Li's approach to his family is that he seems to h
 
 Wife's name: Li Rui (李瑞 according to CCP). Report saying that a follower bought a house and registered it on Li Rui's name as a gift, but Li later returned the gift back: https://www.wsj.com/articles/SB94140245836194819 TODO house address.
 
-* daughter: Li Meige (李美歌) claims born 1982-06 on <<kaiwind>> http://www.kaiwind.com/anticult/kfgc/201311/05/t20131105_1188845.shtml says that she performs in <<shen-yun>> under the name "Christina Li" and even won awards. This Falun Gong sources confirm that a "Christina Li" was a Shen Yun lead dancer as of 2011, but does not confirm that she is the daughter of Li Hongzhi: https://www.theepochtimes.com/where-are-the-ancient-arts-of-china-part-4_1491935.html If this is true, talk about <<orange-papers,"different levels of truth">>! The article also claims that she has had other pseudonyms, including: "Annie Li" and "Li Jingjing" (李晶晶). Here are web archives of the now broken of course Shen Yun pages Kaiwand links to as evidence of her constant name changing (but no mention of her father):
+* daughter: Li Meige (李美歌) claims born 1982-06 on <<kaiwind>> http://www.kaiwind.com/anticult/kfgc/201311/05/t20131105_1188845.shtml says that she performs in <<shen-yun>> under the name "Christina Li" and even won awards. This Falun Gong sources confirm that a "Christina Li" was a Shen Yun lead dancer as of 2011, but does not confirm that she is the daughter of Li Hongzhi: https://www.theepochtimes.com/where-are-the-ancient-arts-of-china-part-4_1491935.html If this is true, talk about <<different-levels-of-truth>>! The article also claims that she has had other pseudonyms, including: "Annie Li" and "Li Jingjing" (李晶晶). Here are web archives of the now broken of course Shen Yun pages Kaiwand links to as evidence of her constant name changing (but no mention of her father):
 ** https://web.archive.org/web/20140727034323/http://dance.ntdtv.com/ct/archive/
 ** https://web.archive.org/web/20121211022246/zh-cn.shenyunperformingarts.org/artists/biography/view/WG3gbBQudOg
 ** possibly CCP sources report that Meige married in 2017, likely near the Falun Gong Day (13th May): e.g. http://www.saibeifeng.com/kfyd/201705/16/t20170516_5219554.shtml says many felicitation posts were posted on <<falun-gong-media,minghui>>, so this is likely widely known within the Falun Gong community, but the idiots who wrote that page don't know how to link to sources. Ciro could not find the groom's name.
@@ -8602,7 +8672,7 @@ Interesting quotes:
 
 * <<me-and-li-tumor>>
 
-The following echoes "Different levels of truth" from <<orange-papers>>:
+The following echoes <<different-levels-of-truth>>:
 
 ____
 Most would find they had little in common with non-practitioners ("ordinary people" in Falun Gong parlance) but would maintain cordial relations with friends and family nonetheless, and think of various ways to explain the edge off some of Falun Gong's less palatable teachings about aliens, how heaven views gay people, the inferiority of other religions and Master Li's role in saving the universe.
@@ -9155,6 +9225,8 @@ Online video version courtesy of <<xinhua>>: http://www.xinhuanet.com/politics/x
 
 Notably, it consists of 14 chapters, which are called "talks" (讲), e.g. the first talk (第一讲) etc. This is exactly like <<li-hongzhi>>'s <<flg-canon,Zhuan Falun>> (and likely like other ancient Chinese religious texts).
 
+Much of it can be considered a type of <<newspeak>>.
+
 .<<ccp-cult,Devotional>> image of <<xi-jinping>> on the cover of the https://en.wikipedia.org/wiki/The_Governance_of_China[The Governance of China] (link:https://zh.wikipedia.org/wiki/习近平谈治国理政[习近平谈治国理政], 2020) book which is part of <<xi-jinping-thought>>. The similarity to <<li-hongzhi>> devotional images <<li-hongzhi-lotus,is striking>>. Related: <<xi-halo>>. https://www.amazon.co.uk/Governance-China-Xi-Jinping/dp/1602204098[Source].
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China.jpg[height=400]
 
@@ -9163,7 +9235,11 @@ image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China.jpg[he
 
 https://zh.wikipedia.org/wiki/兩個維護
 
-Part of <<newspeak,Xi-speak>>.
+[[community-with-shared-future-for-mankind]]
+===== Community with shared future for mankind (人类命运共同体)
+
+* https://en.wikipedia.org/wiki/Community_with_shared_future_for_mankind
+* https://zh.wikipedia.org/wiki/人类命运共同体
 
 [[xuexi-qiangguo]]
 ===== Xuexi Qiangguo app (Study for a strong country app, 学习强国, xxqg, 2019)
@@ -11538,7 +11614,8 @@ https://zh.wikipedia.org/wiki/孙向文
 
 Appears to be mostly pro-Japan stuff, can't find any open examples, does not seem amazing.
 
-===== Wumao artists
+[[wumao-artists]]
+===== Wumao artists (五毛艺术家)
 
 [[wuheqilin]]
 ====== Wuheqilin (乌合麒麟, wumao photographer)
@@ -11557,7 +11634,7 @@ Sample works:
 * <<blood-cotton-initiative-wuheqilin,"Blood Cotton Initiative" by Wuheqilin>>
 
 [[falun-sweden]]
-=== Falun, Sweden 法轮，瑞典
+=== Falun, Sweden (法轮，瑞典的城市)
 
 * https://en.wikipedia.org/wiki/Falun
 * https://zh.wikipedia.org/wiki/法倫
@@ -11567,14 +11644,18 @@ A Swedish University town called "Falun", with the same "Falun" Chinese characte
 * https://www.wsj.com/articles/SB10001424127887323926104578277511385052752
 * https://zh.wikipedia.org/w/index.php?title=法倫&oldid=47709870#趣闻
 
-Known primarily for its mine, which was one of the oldest operating companies in the world: https://en.wikipedia.org/wiki/Falun_Mine
+Known primarily for its mine, which was one of the oldest operating companies in the world:
+
+* https://en.wikipedia.org/wiki/Falun_Mine
+* https://zh.wikipedia.org/wiki/法伦的大铜山矿区
 
 [[art]]
 == Art (艺术)
 
 * https://www.yuumeiart.com/fisheye-placebo-chapters Fisheye Placebo by Wenqing Yan. Webcomic that talks a lot about climbing the xref:censorship[great wall]. Artist obviously pro-democracy: https://twitter.com/Yuumei_Art/status/1174394851179167744
 
-=== Dictatorships are bad for the arts
+[[dictatorships-are-bad-for-the-arts]]
+=== Dictatorships are bad for the arts (独裁统治对艺术不好)
 
 Ermm, fear of going to jail for not kissing up to dictators well enough? Part of <<censorship>>.
 
@@ -11608,7 +11689,7 @@ Some news coverage:
 image::{china-dictatorship-media-base}/Jin_ping_mei.jpg[height=600]
 
 [[tattoo]]
-==== Tattoo television ban 刺青电视禁令 (2018)
+==== Tattoo television ban (刺青电视禁令, 2018)
 
 https://www.forbes.com/sites/augustrick/2018/03/27/china-just-banned-tattoos-on-its-soccer-players-and-it-could-cost-them/#1ff82fa07db2 notably shows soccer players covering up their tattoos. <<hao-haidong>> must have loved this!
 
@@ -11623,7 +11704,8 @@ No wonder that China basically unable to produce a lot of worthwhile art with su
 * 2018-03 https://supchina.com/2018/03/29/no-tattoos-at-the-2018-strawberry-music-festival-in-hangzhou/ Funny pics at: https://app.myzaker.com/news/article.php?f=xiongzhang&pk=5ac0eb1877ac6465da676481
 * 2018-01 https://time.com/5112061/china-hip-hop-ban-tattoos-television/
 
-===== Live streaming
+[[live-streaming]]
+===== Live streaming (直播)
 
 Fun is forbidden in China, all people must be good <<xi-jinping>> loving <<ccp-cult,Zealots>>, or else:
 
@@ -11660,7 +11742,7 @@ Either banned, or relevant.
 For other censored material types, see: <<lists-of-material-censored-in-china>>.
 
 [[nineteen-eighty-four]]
-=== Nineteen Eighty-Four: A Novel (AKA "1984") 乔治·奥威尔 一九八四 (1949)
+=== Nineteen Eighty-Four: A Novel (1984, 乔治·奥威尔 一九八四, 1949)
 
 * https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
 * https://zh.wikipedia.org/wiki/一九八四
@@ -11720,21 +11802,15 @@ Related:
 * https://ibisbill.wordpress.com/2014/01/02/nineteen-eighty-four-in-chinese/ asks how much George Orwell thought about China at the time
 
 [[newspeak]]
-==== Newspeak (新语)
+==== Newspeak (新语, Nineteen Eighty-Four, 一九八四)
 
 * https://en.wikipedia.org/wiki/Newspeak
 * https://zh.wikipedia.org/wiki/新語_(一九八四)
 
-See also "Cult-speak" from <<orange-papers>>, related <<ccp-cult>>.
-
-[[community-with-shared-future-for-mankind]]
-===== Community with shared future for mankind (人类命运共同体)
-
-* https://en.wikipedia.org/wiki/Community_with_shared_future_for_mankind
-* https://zh.wikipedia.org/wiki/人类命运共同体
+See also <<cult-speak>>. Related: <<ccp-cult>>.
 
 [[thoughtcrime]]
-==== Thoughtcrime (思想罪)
+==== Thoughtcrime (思想罪, Nineteen Eighty-Four, 一九八四)
 
 * https://en.wikipedia.org/wiki/Thoughtcrime
 * https://zh.wikipedia.org/wiki/思想罪
@@ -12086,7 +12162,7 @@ Source: the first International email sent from China in 1987 by https://zh.wiki
 * https://zhuanlan.zhihu.com/p/129812475 域名被墙 (domain named was walled) on <<zhihu>>
 
 [[dictator-needs-gfw]]
-===== Would ending the Great Firewall truly end the dictatorship?
+===== Would ending the Great Firewall truly end the dictatorship? (结束防火墙真的会结束独裁吗？)
 
 Not 100% sure.
 
@@ -12274,7 +12350,7 @@ Who is behind them:
 * https://techcrunch.com/2015/03/30/greatfire/ from 2015 says "Started in 2011 by three anonymous individuals", and "Charlie Smith" is the pseudonym of the CEO.
 
 [[wayback-machine]]
-====== Wayback Machine (网站时光机)
+====== Wayback Machine (web.archive.org, 网站时光机)
 
 Their Wayback Machine tool archive snapshots of webpages and allows youto browse the history of all archives:
 
@@ -12309,7 +12385,7 @@ Some website specific techniques:
 How to search by prefix/pattern: https://webapps.stackexchange.com/questions/146661/how-to-search-the-internet-archives-wayback-machine-by-url-prefix-or-pattern
 
 [[archive-today]]
-====== archive.today
+====== archive.today (archive.is)
 
 http://archive.is/
 
@@ -12626,6 +12702,49 @@ image::{china-dictatorship-media-base}/12321_report_procedure_april_2021.png[hei
 
 .https://www.12377.cn[] procedure to report political content as of April 2021.
 image::{china-dictatorship-media-base}/12377_report_procedure_april_2021.png[height=5099]
+
+[[it-is-not-possible-to-block-a-single-page-of-an-https-website]]
+===== It is not possible to block a single page of an HTTPS website (无法阻止 HTTPS 网站的单个页面)
+
+It is not possible for the <<ccp>> to block only certain pages of websites that use HTTPS.
+
+This is because the connection is encrypted: the CCP can only see which domain the user is accessing, but only the website itself can see which page was requested.
+
+So either they have to block the entire IP/domain name, or nothing.
+
+This is the basis of <<keyword-attack>>.
+
+One way that the CCP works around this is <<chinese-web-browser-censorship>>.
+
+Known events:
+
+* 2020-08: https://techcrunch.com/2020/08/17/notepad-plus-plus-blocked-in-china/ "Text editor Notepad{plus}{plus} banned in China after ‘Stand With Hong Kong' update" where "banned" means "the download page where they keywords are shown is now blocked in Chinese browsers". The rest of the website is still up. So no domain block due to HTTPS, browser only action for now.
+
+[[chinese-web-browser-censorship]]
+===== Chinese web browser censorship (中国网页浏览器审查)
+
+This allows the <<ccp>> to overcome <<it-is-not-possible-to-block-a-single-page-of-an-https-website>> for users that are using Chinese browsers.
+
+Some screenshots can be seen at: https://github.com/cirosantilli/china-dictatorship/issues/525[]. Mentioed browsers include:
+
+* https://en.wikipedia.org/wiki/QQ_browser[QQ browser]
+* https://en.wikipedia.org/wiki/360_Secure_Browser[360 Secure Browser] from <<qihoo>>
+* WeChat browser from <<wechat>>
+* vivo
+* mi from <<xiaomi>>
+* oppo
+
+Examples:
+
+* <<notepad-chinese-browsers-block-2020>>
+* <<china-dictatorship-chinese-web-browser-block>>
+
+[[china-dictatorship-chinese-web-browser-block]]
+====== china-dictatorship Chinese web browser block (2021, china-dictatorship 中国浏览器审查)
+
+Report with screenshots at: https://github.com/cirosantilli/china-dictatorship/issues/525
+
+This is an example of <<chinese-web-browser-censorship>>.
 
 [[wumao]]
 ==== Wumao (五毛)
@@ -13033,7 +13152,8 @@ Sample videos:
 * https://www.youtube.com/watch?v=SCdfPxMcOoQ The Truth about Larung Gang - Tibetan Buddhists! on how <<tibet>> is great
 * https://www.youtube.com/watch?v=oBH4H1qX1Dw CHINA Changed us! ft. Oli BARRETT from <<barrett-channel>>
 
-====== World war 2 radio propaganda
+[[world-war-2-radio-propaganda]]
+====== World war 2 radio propaganda (二战电台宣传)
 
 During WW2, lots of pro-<<nazi,Nazi>> and pro-Alllied radio propaganda was produced and transmitted to the enemy:
 
@@ -13721,6 +13841,12 @@ Related:
 
 * https://www.wakwb.com/ 我爱看围脖 seems to be a Weibo mirror. TODO is it uncensored? Sample post replication: the condom post from https://www.wakwb.com/t/?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9D%9C%E8%95%BE%E6%96%AF%E7%88%B1%E6%97%A0%E9%99%90%23&luicode=10000011&lfid=231522type%3D1%26t%3D10%26q%3D%23%E6%9D%9C%E8%95%BE%E6%96%AF%E7%88%B1%E6%97%A0%E9%99%90%23&page=2 has origin at https://weibo.com/5586291457/K9Vg7ceM7?type=comment#_rnd1629010637474 see also <<communist-bread>>
 
+[[qihoo]]
+=== Qihoo 360 (奇虎360, Internet security company)
+
+* https://en.wikipedia.org/wiki/Qihoo_360
+* https://zh.wikipedia.org/wiki/奇虎360
+
 [[chinese-censorship-companies]]
 === Chinese censorship companies (中国审查公司)
 
@@ -13803,7 +13929,7 @@ For lower profile links, see: https://github.com/cirosantilli/china-dictatorship
 
 * 2021-07-15 https://weibo.com/3009149283/KoREYEIA2?type=comment#_rnd1629010985150 on <<weibo>> #反华 挂一个垃圾仓库 cirosantilli/china-dictatorship (#anti-china Found a trash repository.) Does not understand the CCP != China: <<does-ciro-santilli-hate-china>>. Perhaps this is what triggered <<ciro-santillis-weibo-block>>.
 * 2021-08-13 https://www.kdocs.cn/ to https://github.com/cirosantilli/cirosantilli[]. That's a Google Docs clone it seems. Used by the Chengdu government. Chinese name: 金山文档 (golden mountain documents). Also had 50 unique cloners on 11 and 12th. Is it <<github-gov-takedowns>> time at last??
-* 2021-07-22 http://se.warning.360.cn/warn/ to https://cirosantilli.com/ after adding keywords to page header. This is from https://en.wikipedia.org/wiki/Qihoo_360[], a security/spyware company.
+* 2021-07-22 http://se.warning.360.cn/warn/ to https://cirosantilli.com/ after adding keywords to page header. This is from <<qihoo>>, a security/spyware company.
 * 2021-07 http://https--github--com--e3919.proxy.xianning.gov.cn/topics/chinese-communist-party[], presumably viewing https://github.com/topics/chinese-communist-party[]. Saw it http://webcache.googleusercontent.com/search?q=cache:5qHGJxZncvUJ:https--github--com--e3919.proxy.xianning.gov.cn/topics/chinese-communist-party+&cd=8&hl=en&ct=clnk&gl=uk&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW&client=ubuntu[on Google cache], semi viewable at https://archive.ph/wip/2qVIX[], but not rendering very well
 * 2021-05-23 LinkedIn profile view from https://www.linkedin.com/company/circussocial/ Circus Social https://www.circussocial.com/[]. Some of their China stuff: https://www.circussocial.com/blog/tag/china-social-media/
 * 2021-05-07 https://twitter.com/dingyi/status/1390861129191071754 (https://archive.ph/fS1TF[archive]) link to github.com/china-dictatorship commenting "Github 竟然还有这种项目。。。" (I'm surprised that there's still this kind of project on GitHub). Account had 150k followers at the time. What do they do to have so many followers? As of 2021-05-14, three days later after Ciro replied on 2021-05-11, the account had been made protected: https://archive.ph/davkj This is the <<chilling-effect>>, self-<<censorship,censor>> or perish. It was later un-protected. https://newsletter.dex.group/about/ says their DEX is a sort of online magazine. GitHub profile: https://github.com/dingyi
@@ -17456,16 +17582,19 @@ image::{china-dictatorship-media-base}/Navalny_hospital_sitting.jpg[height=400]
 
 In support to https://en.wikipedia.org/wiki/Sergei_Furgal[Sergei Furgal] (https://ru.wikipedia.org/wiki/Фургал,_Сергей_Иванович[Фургал, Сергей Иванович]).
 
-=== Russian state media
+[[russian-state-media]]
+=== Russian state media (俄罗斯官方媒体)
 
 [[russia-today]]
-==== Russia Today (RT, Russian state media)
+==== Russia Today (RT, Russian state media, 俄罗斯官方媒体)
 
 * https://en.wikipedia.org/wiki/RT_(TV_network)
 
-=== Soviet Union
+[[soviet-union]]
+=== Soviet Union (苏联)
 
-==== Censorship of images in the Soviet Union
+[[censorship-of-images-in-the-soviet-union]]
+==== Censorship of images in the Soviet Union (苏联对图像的审查)
 
 https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union
 
@@ -17487,11 +17616,12 @@ http://www.antentop.org/008/files/jamm008.pdf has good images.
 .Soviet vertical curtain array of antennas for radio jamming in the 1960s vs Jingjing from <<jingjing-chacha>>. http://www.antentop.org/008/files/jamm008.pdf[Source].
 image::{china-dictatorship-media-base}/Soviet_radio_jamming_vs_Jingjing.jpg[height=400]
 
-==== Soviet Union propaganda
+[[soviet-union-propaganda]]
+==== Soviet Union propaganda (苏联宣传)
 
 * https://www.youtube.com/watch?v=VrHLOGMT_kM Animated Soviet Propaganda American Imperialist The Millionaire COLD WAR CARTOON. Tells the story of a dog that inherited a lot of money from his deceased rich owner.
 
-==== Agitprop
+===== Agitprop
 
 * https://en.wikipedia.org/wiki/Agitprop
 
@@ -17511,14 +17641,14 @@ video::ZT2z0nrsQ8o[youtube,height=400,width=600]
 * link:++https://uk.wikipedia.org/wiki/Російсько-українська_війна_(з_2014)++[]
 
 [[mykola-semena]]
-==== Mykola Semena (Семена Микола Михайлович)
+==== Mykola Semena (Семена Микола Михайлович, Crimea activist)
 
 * https://en.wikipedia.org/wiki/Mykola_Semena
 * https://uk.wikipedia.org/wiki/Семена_Микола_Михайлович
 
 Ukrainian, worked for <<rferl>> previously, and published against the annexation of Ukrainian territories.
 
-https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-freedom-expression from <<human-rights-watch>> suggests that one of her articles was added to the <<federal-list-of-extremist-materials>>, possibly "Blockade–the Necessary First Step for Liberation of Crimea", but I can't find the entry.
+https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-freedom-expression from <<human-rights-watch>> suggests that one of her articles was added to the <<federal-list-of-extremist-materials>>, possibly "Blockade - the Necessary First Step for Liberation of Crimea", but I can't find the entry.
 
 [[anti-russia-dictatorship-info-sources]]
 === Anti Russia dictatorship sources
