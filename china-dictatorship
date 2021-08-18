@@ -1,3 +1,0 @@
-#!/usr/bin/env node
-const china_dictatorship = require('china-dictatorship');
-console.log(china_dictatorship.get_data());
