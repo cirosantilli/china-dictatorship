@@ -33,7 +33,7 @@ https://cdn.jsdelivr.net/npm/china-dictatorship@latest/README.html[cdn.jsdelivr 
 
 Anti-Chinese government information. 反中共消息库。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
-This README is too large and so https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com]. You can view it fully at either:
+This README is too large and https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com]. You can view it fully at either:
 
 * https://cirosantilli.com/china-dictatorship[]. Canonical, https://zh.greatfire.org/https/cirosantilli.com[blocked in China since 2020] according to <<greatfire>>. However, <<brave-new-world-books,China is still the second largest hit location after USA according to Google Analytics, I don't understand>>
 * https://cirosantilli.gitlab.io/china-dictatorship[]. Let's see how good is the <<gfw>> at blocking subdomains.
@@ -179,7 +179,7 @@ image::{china-dictatorship-media-base}/Side_by_side_comparison_between_Thai_king
 image::{china-dictatorship-media-base}/Thai_king_crop_top.jpg[height=400]
 
 [[mirrors]]
-== Mirrors of this page (本网页的镜像)
+== Mirrors of this page (此网页的镜像)
 
 You can download the webpage locally from GitHub at: https://github.com/cirosantilli/china-dictatorship/archive/gh-pages.zip
 
@@ -233,7 +233,8 @@ Given <<github-censored-subdomains>>, this might be the only way to view the ima
 The cool thing about Git is that we can maintain several mirrors on multiple websites very easily:
 
 * https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
-* https://gitlab.com/cirosantilli/china-dictatorship-2 mirror in case they block just https://github.com/cirosantilli/china-dictatorship[], see also: 
+* https://gitlab.com/cirosantilli/china-dictatorship-2 mirror in case they block just https://github.com/cirosantilli/china-dictatorship[], see also: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
+* https://gitlab.com/cirosantilli/cirosantilli[]: a mirror just so that some interesting stuff will show up at https://gitlab.com/cirosantilli/cirosantilli[]. The policy is to transfer any <<wumao>> issues from there to https://github.com/cirosantilli/china-dictatorship[].
 * https://gitlab.com/cirosantilli/china-dictatorship
 ** their gitlab.com render is shit for some reason, clicking on the ToC does not jump to headers properly, not sure why, IDs look correct
 ** one really cool thing about gitlab is that it can serve images from directly gitlab.com e.g. https://gitlab.com/cirosantilli/china-dictatorship-media/-/raw/master/Xi_Jinping_The_Governance_of_China_photo.jpg unlike GitHub which has the `raw.` subdomain: https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Xi_Jinping_The_Governance_of_China_photo.jpg This makes it impossible to block the GitLab images without blocking all of gitlab.com, until GitLab starts a <<github-gov-takedowns,gov-takedowns>> of their own.
@@ -799,7 +800,7 @@ And even those <<i-like-my-dictatorship,who supported their dictatorship>> must 
 See also: <<about>>.
 
 [[stupid]]
-==== Does Ciro Santilli think that the Chinese are stupid or brainwashed? 三西猴觉得中国人是啥子或被洗脑吗？
+==== Does Ciro Santilli think that the Chinese are stupid or brainwashed? (三西猴觉得中国人是傻子或是被洗脑了吗？)
 
 Obviously not, if you even thought about this, it is likely because of: <<evil-west>>.
 
@@ -1089,7 +1090,7 @@ Because it would make China, and the world:
 * <<intolerance,safer for its own citizens>>
 
 [[richer]]
-==== Why would democracy and freedom of speech make China richer? (言论自由让中国比较富有)
+==== Why would democracy and freedom of speech make China richer? (为什么民主和言论自由能够让中国变得更加富有？)
 
 Democracy is even one of the <<core-socialist-values>>!
 
@@ -2250,7 +2251,7 @@ Luckily in this case, it does not seem possible to view who unstarred a reposito
 video::_-hCdbsyWw0[youtube,height=400,width=600]
 
 [[intolerance]]
-===== Most Chinese people don't care about the minorities
+===== Most Chinese people don't care about the minorities (大多数中国人不关心少数民族)
 
 How can you be that certain that your children won't have dissident ideas and be punished unfairly for them?
 
@@ -2651,7 +2652,8 @@ See also:
 * <<intolerance>>
 * https://en.wikipedia.org/wiki/Overton_window[Overton window]
 
-====== Fake news
+[[fake-news]]
+====== Fake news (假新闻)
 
 * https://en.wikipedia.org/wiki/Fake_news
 * https://zh.wikipedia.org/wiki/假新聞
@@ -2831,7 +2833,7 @@ Here are some images that <<wumao>>'s like to post:
 * Left Right Slaughterhouse comic: https://9gag.com/gag/ayn7KmW?ref=fbp
 
 [[ccp-evil]]
-=== Is the Chinese government evil? 中国共产党是邪恶吗？
+=== Is the Chinese government evil? (中国共产党是邪恶的吗？)
 
 Obviously not, just <<richer,inefficient>> and <<war,dangerous>>.
 
@@ -2967,7 +2969,7 @@ image::{china-dictatorship-media-base}/Hitler_angry_rehearsal.jpg[height=400]
 .Photoshopped cover of Mein Kampf with Xi's face on top of Hitler's and other modifications such as Mian instead of Mein, likely the same 面 (mian4, face) as the Chinese character at the bottom right. <<xi-jinping-thought>> also comes to mind. https://foreignerinformosa.typepad.com/the_foreigner_in_formosa/2017/07/president-xitler-of-china-murders-political-dissident-liu-xiaobo.html[Source].
 image::{china-dictatorship-media-base}/Xi_mein_kampf.jpg[height=400]
 
-.Original cover of Mein Kampf. link:++https://commons.wikimedia.org/wiki/File:Adolf_Hitler_-_Mein_Kampf_(855._Auflage,_1943).pdf++[Source].
+.Original cover of Mein Kampf. https://www.youtube.com/watch?v=1QERDzr6HSQ How Rich Was Hitler? by Mark Felton Productions (2021) mentions that the success of the book helped Hitler a financially a lot when he was in great need. link:++https://commons.wikimedia.org/wiki/File:Adolf_Hitler_-_Mein_Kampf_(855._Auflage,_1943).pdf++[Source].
 image::{china-dictatorship-media-base}/Mein_kampf.jpg[height=400]
 
 .Photoshopped photo of Hitler giving the Nazi salute from a car with Himmler on the background with Xi's face on top of Hitler's. https://chinhdangvu1.blogspot.com/2017/09/xitler-chinazism.html[Source].
@@ -5144,6 +5146,10 @@ admin.github.com hits to GitHub repository:
 
 * 2021-05-30 6 from 1 user
 
+Bibliography:
+
+* https://www.zhihu.com/question/388634161 如果举报github上的这种情况？ (How to report this type of circunstance on GitHub.) Question links to <<evil-man>>, and then one of the answers from 2021-08-15, by an anonymous user who does not understand the difference between comments and answers, asks by this repository specifically: https://www.zhihu.com/question/388634161/answer/2062103232[]. The real answer is: because Ciro Santilli is not Chinese, you cannot arrest him like you arrested the author of <<evil-man>>.
+
 .How to report an user on GitHhub.
 image::{china-dictatorship-media-base}/How_to_report_an_user_on_GitHub.png[height=2000]
 
@@ -6191,6 +6197,9 @@ image::{china-dictatorship-media-base}/Xinjiang_camp_in_camp.jpg[height=600]
 .Uyghur butcher with chained knives in Xinjiang (2021). Knives at shops in Xinjiang have to remain chained, and each blade is tracked with a https://www.businessinsider.nl/china-tracks-uighur-minority-qr-code-kitchen-knives-doors-human-rights-watch-report-2018-9/[QR code]. A <<zhihu>> question about it https://www.zhihu.com/question/294738809[]: 为什么菜刀要用铁链子栓起来？ 来乌市快有一个月啦，我很好奇为什么所有的店里都要用铁链子把菜刀栓起来？ (Why are kitchen knifes tied up with an iron chain? It's been almost a month since I came to https://en.wikipedia.org/wiki/Ürümqi[Urumqi] [capital of Xinjiang]? I am curious why all the shops have to tie up kitchen knives with iron chains?). https://youtu.be/4w3_A2vRGqE?t=279[Source].
 image::{china-dictatorship-media-base}/Xinjiang_chained_butcher_knives.jpg[height=600]
 
+.The CCP https://www.aljazeera.com/news/2021/8/18/hong-kong-police-arrest-four-students-for-advocating-terrorism[accuses and punishes its own citizens of terrorism], while at the same time it https://www.aljazeera.com/economy/2021/8/17/with-economic-assets-to-secure-china-embraces-the-taliban[supports terrorist friendly regimes like the Taliban], referring to simultaneous events of 2021. https://www.reddit.com/r/China/comments/p6pnng/standards/[Source].
+image::{china-dictatorship-media-base}/CCP_terrorism_Taliban_vs_Chinese_citizens.jpg[height=600]
+
 [[xinjiang-re-education-camps]]
 ==== Xinjiang "re-education" camps (新疆再教育營, 2017-)
 
@@ -6826,15 +6835,17 @@ Less good ones:
 * https://www.youtube.com/watch?v=_eiut_qUNBI In Search of Miracle Man by Adult Swim
 
 [[flg-important]]
-=== Why is it important to talk about Falun Gong?
+=== Why is it important to discus Falun Gong's even if you don't believe in it? (为什么不信仰法轮功也很重要要讨论它？)
 
-The main reason <<ciro-santilli>> emphasizes FLG is that it shows how the CCP can mercilessly crush a 70M strong group (according to CCPs own statistics) out of a population of 1.3B in 2000, i.e. 5% of the population, and of course not because of <<flg-bias>>, since Ciro is completely and totally unbiased.
+The main reason <<ciro-santilli>> emphasizes Falun Gong is that it shows how the CCP can mercilessly crush a 70 million strong group (according to CCPs own statistics) out of a population of 1.3B in 2000, i.e. 5% of the population, and of course not because of <<flg-bias>>, since Ciro is completely and totally unbiased.
 
-If that number is correct, Ciro wonders curious what you would consider an important movement? :-)
+If that number is correct, Ciro wonders curious what you would consider an important movement?
 
 Anything much larger would take down the government and change China's history forever.
 
-OK, maybe the fact that 69M of those were likely old ladies didn't help much either. Tip to next <<li-hongzhi,prophet>>: make something that appeals to aspiring military officers.
+Aren't you concerned that you or your children might be part of the next 5% purge? See also: <<intolerance>>.
+
+OK, maybe the fact that 69 million of those 70 million were likely old ladies didn't help much either. Tip to next <<li-hongzhi,prophet>>: make something that appeals to aspiring military officers.
 
 Let's try to gather some well sourced footage showing huge numbers of believers on the streets:
 
@@ -6853,7 +6864,7 @@ image::{china-dictatorship-media-base}/Falun_Gong_Liaoning.jpg[height=600]
 image::{china-dictatorship-media-base}/Falun_Gong_Chengdu.jpg[height=500]
 
 [[does-ciro-santilli-believe-in-or-practice-falun-gong]]
-=== Does Ciro Santilli believe in or practice Falun Gong? 三西猴相信法轮功吗？
+=== Does Ciro Santilli believe in or practice Falun Gong? (三西猴信仰或者练法轮功吗？)
 
 No, Ciro is https://en.wikipedia.org/wiki/Agnosticism[agnostic] (https://zh.wikipedia.org/wiki/不可知论[不可知论]) and therefore believes that all the metaphysics that <<li-hongzhi>> says is bullshit.
 
@@ -7279,6 +7290,8 @@ It should also be mentioned though that these points extend to any type of human
 [[cult-speak]]
 ====== Cult speak (邪教话，Orange Papers, 橙色文件)
 
+https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q0.html#cq_cult_speak
+
 "Cult-speak": see also "Newspeak" from <<nineteen-eighty-four>> and some common Falun Gong Cult-speak see: <<flg-religion>>
 
 Falun Gong's slogan is the quite direct to the point:
@@ -7324,6 +7337,8 @@ video::W2Cv5hZfOmk[youtube,height=400,width=600,start=1177]
 
 [[different-levels-of-truth]]
 ====== Different levels of truth (不同层次的真相, Orange Papers, 橙色文件)
+
+https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q3.html#cq_levels_of_truth
 
 And closely related: "Deceptive Recruiting"
 
