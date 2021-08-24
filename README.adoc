@@ -246,8 +246,12 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 *** no free public SaaS yet, but it might come, though they are saying 30 day trial only: https://about.gitlab.cn/free-trial/
 * https://gitee.com/cirosantilli/china-dictatorship on <<gitee>>, blocked after 12 hours: <<gitee-censorship>>
 * https://bitbucket.org/cirosantilli/china-dictatorship
-* https://git.kiwifarms.net/CrunkLord420/china-dictatorship auto-pull Gitea mirror on https://en.wikipedia.org/wiki/Kiwi_Farms[Kiwi Farms] (a <<politically-incorrect,politically incorrect>> social network website)
-* https://gitlab.binets.fr/ciro.duran-santilli/china-dictatorship
+* https://gitlab.binets.fr/ciro.duran-santilli/china-dictatorship[]: a GitLab instance run by and reserved for students and ex-students of https://en.wikipedia.org/wiki/École_Polytechnique[École Polytechnique], in which Ciro Santilli previously studied. They also have a few Chinese students every year, that's how Ciro met <<wife>>, it will be fun when those students see this.
+
+Mirrors controlled by other people:
+
+* https://git.kiwifarms.net/CrunkLord420/china-dictatorship auto-pull Gitea mirror on https://en.wikipedia.org/wiki/Kiwi_Farms[Kiwi Farms], a <<politically-incorrect,politically incorrect>> social network website
+* https://china.vkoor.com/ presumably by https://github.com/Vkoor[] who is a collaborator os this project, e.g. https://github.com/cirosantilli/china-dictatorship/issues/533[]. They're also hosting a search engine proxy at https://www.vkoor.com/[], TODO Google? See also: <<google-mirrors>>.
 
 GitHub Pages: https://cirosantilli.com/china-dictatorship trade-offs with https://github.com/cirosantilli/china-dictatorship[]:
 
@@ -1997,7 +2001,7 @@ Bibliography:
 image::{china-dictatorship-media-base}/Ciro_Santilli_portrait_as_Qing_emperor.jpg[height=600]
 
 [[preconceived]]
-==== Ciro Santilli has a preconceived opinion about China that cannot be changed 三西猴对中国成见很深，无法改变
+==== Ciro Santilli has a preconceived opinion about China that cannot be changed (三西猴对中国成见很深，无法改变)
 
 <<ciro-santilli>> tries to justify why he think China would be <<richer,better with democracy>>, but I know that ultimately all of this is useless.
 
@@ -2018,7 +2022,7 @@ In the end, he just end up thinking about new replies to things people say to hi
 The real goal of any online discussion, is not to convince people, but rather to determine who is an ally and who is not, and get those allies together to defeat the commies.
 
 [[flg-bias]]
-==== Does Ciro Santilli support FLG just because his wife and mother-in-law do it?
+==== Does Ciro Santilli support Falun Gong just because his wife and mother-in-law do it? (三西猴是否仅仅因为他的妻子和岳母就支持法轮功？)
 
 Not consciously, Ciro thinks would likely support them even if I didn't have family ties to <<falun-gong>>.
 
@@ -2036,7 +2040,8 @@ With that in mind, Ciro tries his best to give FLG only the right level of expos
 
 If more recent events of mass human rights violations happen, especially affecting in the order of tens of million people, I will probably rank higher than Falun Gong, this was the case for <<xinjiang,Xinjiang in 2019>> for example, even though it only affected a measly million.
 
-==== Why did Ciro Santilli start his keyword attack?
+[[why-did-ciro-santilli-start-his-keyword-attack]]
+==== Why did Ciro Santilli start his keyword attack? (为什么三西猴开始他的关键字攻击？)
 
 The last straw that led <<ciro-santilli>> to start the <<keyword-attack>> on <<stack-overflow>> was when on March 2015 his girlfriend's mother was arbitrarily kept 15 days in jail for doing <<falun-gong>>. He posted about this at:
 
@@ -2056,7 +2061,7 @@ Because before that, he was one of the majority who just constantly hears about 
 The https://en.wikipedia.org/wiki/Darkest_Hour_(film)[Darkest Hour (2017) film] comes to mind: https://www.youtube.com/watch?v=xA1Uz_TMzhs[]. The movie shows that Britain was truly hesitant whether to negotiate or fight Hitler, even after the Nazis had already started invading other European countries, and would clearly not stop. Luckily, we are not at a position of war yet, and might never be due to nuclear weapons. But still, a similar blindness applies. <<covid>> woke up many people, but even then some haven't faced it.
 
 [[ciro-santilli-mother-in-law-jail]]
-===== Ciro Santilli's post when his mother-in-law was put into jail
+===== Ciro Santilli's post when his mother-in-law was put into jail for doing Falun Gong (岳母因修炼法轮功入狱时的帖子)
 
 Maybe some people would be happy if their mother-in-law were put into jail. But unfortunately, this wasn't the case for <<ciro-santilli>>.
 
@@ -2118,7 +2123,8 @@ June 2017: 3 cops came to her house. She was there. They asked if she still did 
 
 October 2017: 7 - 8 cops came to her house _at 11PM_. They knocked the door strongly and made noise, and questioned neighbours of her whereabouts. Luckily she was not there.
 
-=== China is fine as it is, stop making it worse
+[[china-is-fine-as-it-is-stop-making-it-worse]]
+=== China is fine as it is, stop making it worse (中国很好，别让它变得更糟)
 
 Welcome to the wonderful world of democracy, a world where people can have different political opinions than you :-)
 
@@ -2130,7 +2136,7 @@ See also:
 * <<preconceived>>
 
 [[i-like-my-dictatorship]]
-==== I like my Dictatorship 我喜欢我的独裁统治
+==== I like my Dictatorship (我喜欢我的独裁统治)
 
 Ciro Santilli can understand that.
 
@@ -2143,7 +2149,7 @@ And when your son <<man-in-the-high-castle,betrays you or sacrifices himself for
 See: <<seventeen-moments-of-spring>>
 
 [[seventeen-moments-of-spring]]
-===== Seventeen Moments of Spring (1973)
+===== Seventeen Moments of Spring (1973, Soviet series about a Soviet spy against the Nazis)
 
 * https://en.wikipedia.org/wiki/Seventeen_Moments_of_Spring
 * https://ru.wikipedia.org/wiki/Семнадцать_мгновений_весны_(телефильм)
@@ -2287,7 +2293,8 @@ See also:
 * <<rule-of-law>>
 * https://en.wikipedia.org/wiki/Intolerance_(film)[Intolerance (1916) film]
 
-====== This is Ciro Santilli's personal problem, we have nothing to do with it, stop punishing us for it
+[[this-is-ciro-santilli-s-personal-problem-we-have-nothing-to-do-with-it-stop-punishing-us-for-it]]
+====== This is Ciro Santilli's personal problem, we have nothing to do with it, stop punishing us for it (这是三西猴的个人问题，我们与此无关，不要因此而惩罚我们)
 
 We have to fight for justice for our fellows, or else when injustice happens to us, no one will fight for use either: <<intolerance>>.
 
@@ -2298,7 +2305,7 @@ Every form of protest incurs some damage. E.g., if we manifest on the street, it
 If you just work to make money and have a good life, without any plans to improve the government, you are just making the economy of the dictatorship stronger, then when they start a <<war,war>> or kill yet another minority, blood will also be on your hands. See also: <<what-should-western-countries-do-about-china>>.
 
 [[stability]]
-====== If anyone disagrees with the government they must be punished to keep the stability of the country
+====== If anyone disagrees with the government they must be punished to keep the stability of the country (如果有人不同意政府，他们必须受到惩罚以保持国家的稳定)
 
 Destroying diversity is the best way to reach a point where everyone can agree to start <<war,a new big war and destroy everything>>.
 
@@ -2322,7 +2329,8 @@ See also:
 .https://www.youtube.com/watch?v=dXRG7yiqR3I Passage of Kennedy's discourse that contains the quote "Those who make peaceful revolution impossible will make violent revolution inevitable".
 video::Iwpr55PZEJ8[youtube,height=400,width=600]
 
-=== There are bad things happening all over the world, why doesn't Ciro Santilli fight for those causes as well/instead?
+[[why-china]]
+=== There are bad things happening all over the world, why doesn't Ciro Santilli fight for those causes as well/instead? (世界各地都有不好的事情发生，为什么三西猴不为这些原因而战/相反？)
 
 We have to choose the one we think is the worst, and focus on it.
 
@@ -2562,7 +2570,8 @@ He also mentions that he later worked for https://www.forbes.com/companies/offcn
 .Screenshot of the video <<we-dont-hire-blacks-by-aaron-dewitt-2020>> showing a list racist job interview candidate rejection reasons.
 image::{china-dictatorship-media-base}/We_don_t_hire_blacks_by_Aaron_DeWitt_2020.jpg[height=500]
 
-===== Western democracies have invaded other countries and crushed separatism
+[[western-democracies-have-invaded-other-countries-and-crushed-separatism]]
+===== Western democracies have invaded other countries and crushed separatism (西方民主国家侵略别国粉碎分裂主义)
 
 Yes, <<western-democracies-are-not-perfect,Western democracies are not perfect>>.
 
@@ -2604,7 +2613,7 @@ See also:
 * <<richer>>
 
 [[hate-speech]]
-===== Western democracies also censor subjects such as child porn and hate speech
+===== Western democracies also censor subjects such as child porn and hate speech (西方民主国家也审查儿童色情和仇恨言论等主题)
 
 First, child porn and hate speech are also banned in China, so shut up. <<china-has-more-freedom-of-speech-than-the-usa,every type of speech>> is less free in <<dictatorship>>.
 
@@ -2672,7 +2681,8 @@ Censoring any citizen, no matter how stupid you think they are, creates a preced
 
 More interesting case is: https://en.wikipedia.org/wiki/Knight_First_Amendment_Institute_v._Trump[]. Ciro feels strongly that people who try to have meaningful discussions on Twitter should automatically lose a lawsuit, and that people should be able to block whoever they want from their personal controlled accounts or forums. It is only the companies who provide the forum service that must be neutral.
 
-====== Unjust social media censorship in the West
+[[unjust-social-media-censorship-in-the-west]]
+====== Unjust social media censorship in the West (西方不公正的社交媒体审查)
 
 * Trump social media bans:
 ** 2021-03-31 https://www.forbes.com/sites/rachelsandler/2021/03/31/conservatives-blast-facebook-for-removing-trump-interview-with-daughter-in-law/ "Conservatives Blast Facebook For Removing Trump Interview With Daughter-In-Law". This perfectly illustrates why it is unreasonable to ban someone from social media. You end up having to ban anyone who supports them as well.
@@ -2709,7 +2719,7 @@ Minor:
 * https://techcrunch.com/2021/04/30/basecamp-employees-quit-ceo-letter/ 2021-04-31 Basecamp sees mass employee exodus after CEO bans political discussions
 
 [[politically-incorrect]]
-====== Censorship of "politically incorrect speech"
+====== Censorship of "politically incorrect speech" (审查政治不正确言论)
 
 <<ciro-santilli>> strongly believes that this is a problem with Wester social media. For example in <<stack-overflow-forbids-criticizing-the-character-of-genocidal-political-leaders-like-xi-jinping>> Stack Overflow forbade Ciro from saying:
 
@@ -2733,7 +2743,8 @@ video::BiqDZlAZygU[youtube,height=400,width=600]
 .https://www.youtube.com/watch?v=MNjYSns0op0 Munk Debate on Political Correctness (2018) features Stephen Fry and Jordan Peterson speaking against political correctness. Those dudes are awesome. https://youtu.be/rJOMYEXK6cs?t=150 summarizes it well.
 video::MNjYSns0op0[youtube,height=400,width=600]
 
-===== Western society is extremely unequal
+[[western-society-is-extremely-unequal]]
+===== Western society is extremely unequal (西方社会极度不平等)
 
 Exactly! And this is something <<ciro-santilli>> fights daily against through his open source contributions.
 
@@ -2816,7 +2827,8 @@ Snowden then later released the entire Chinese version of the book for free onli
 .Snowden highlighted defects on abuses of power in a Western democracy, and the discussion he sparked helped to control such abuses. <<to-obey-is-to-betray,To obey is to betray>> comes to mind. https://en.wikipedia.org/wiki/File:Edward_Snowden-2.jpg[Source].
 image::{china-dictatorship-media-base}/Snowden.jpg[height=500]
 
-===== Bad things have been done in the name of freedom
+[[bad-things-have-been-done-in-the-name-of-freedom]]
+===== Bad things have been done in the name of freedom (以自由的名义人做过很多坏事)
 
 E.g.: https://en.wikipedia.org/wiki/September_11_attacks[September 11th].
 
@@ -2858,7 +2870,8 @@ ____
 The demon CCP has plundered the ancient land of China
 ____
 
-==== Chinese politicians really care about the Chinese citizens
+[[chinese-politicians-really-care-about-the-chinese-citizens]]
+==== Chinese politicians really care about the Chinese citizens (中国政客真正关心中国公民)
 
 Sometimes people say Ciro Santilli is naive.
 
@@ -2882,7 +2895,8 @@ ____
 Under capitalism, man oppresses man. Under socialism, it's just the opposite.
 ____
 
-==== Is Chinese politician X evil?
+[[is-chinese-politician-x-evil]]
+==== Is Chinese politician X evil? (中国政客X邪恶吗？)
 
 The term evil does not make sense unless you are <<falun-gong,religious>>.
 
@@ -2895,7 +2909,7 @@ Just like you, Ciro Santilli and other politicians in any country.
 See also: <<politicians>>.
 
 [[nazi]]
-=== Comparisons between the CCP and Nazi Germany (纳粹德国)
+=== Comparisons between the CCP and Nazi Germany (纳粹德国和中共长得很想)
 
 As of 2020, the <<ccp>> is much more like Nazi Germany than it is like the <<soviet-union>>.
 
@@ -3043,7 +3057,7 @@ If you want your comment to be read, choose your key point well, and deliver it.
 
 It is a shame that most people who are ever able to do that are <<shitpost,shitposters>>, but credit where credit is due.
 
-==== Can I contact Ciro Santilli in Chinese?
+==== Can I contact Ciro Santilli in Chinese? (我可以用中文联系三西猴吗？)
 
 If you don't know English well enough, that's fine though, go for Chinese, Ciro Santilli will likely understand it: <<does-ciro-santilli-speak-chinese>>.
 
@@ -3056,7 +3070,7 @@ It is more productive for you to write in English, so that the rest of the West 
 Especially since it seems that most Chinese already know what you are talking about, so you are better off teaching Western people about it.
 
 [[slang]]
-===== I am going to use a bunch of Chinese slangs because it makes me feel smart 我知道网络语言，我很聪明
+===== I am going to use a bunch of Chinese slangs because it makes me feel smart (我知道网络语言，我很聪明)
 
 Obviously, if you want to be understood, use simple and standard Chinese, since as Ciro has already stated clearly, his Chinese sucks: <<does-ciro-santilli-speak-chinese>>.
 
@@ -3083,6 +3097,7 @@ A Chinese insult tip 101, avoid similar sound euphemisms. If you are going to sa
 ** 逼
 *** "sb"
 *** "B": https://github.com/cirosantilli/china-dictatorship/issues/105
+*** "BB" TODO https://zhidao.baidu.com/question/37819380.html
 * 肏 fuck: 操
 * 傻 idiot: 沙
 * 屌 dick: 屌
@@ -3205,7 +3220,8 @@ Before the Dictatorship, Ciro likely won't be able to enter/it wouldn't be a goo
 
 And it is immoral to help make dictatorships richer by working for their companies: <<what-should-western-countries-do-about-china>>.
 
-===== Would Ciro Santilli be able to visit China before the CCP ends?
+[[would-ciro-santilli-be-able-to-visit-china-before-the-ccp-ends]]
+===== Would Ciro Santilli be able to visit China before the CCP ends? (三西猴能否在中共结束之前访问中国？)
 
 It would be interesting to apply for a VISA to find out.
 
@@ -3344,7 +3360,7 @@ https://www.douban.com/group/topic/162835411/
 Ciro's <<does-ciro-santilli-speak-chinese>> was mentioned in a related Zhihu answer: <<zhihu-ted-chiang-answer>>.
 
 [[radical]]
-==== Is Ciro Santilli a radical?
+==== Is Ciro Santilli a radical? (三西猴是激进分子吗？)
 
 Saying that someone is a radical is useless <<brainwashed-by-usa,ad hominem>>.
 
@@ -3371,7 +3387,8 @@ But maybe no radical ever considers themselves a radical? Hmmm...
 
 Or maybe: link:https://www.youtube.com/watch?v=efHCdKb5UWc[The Dark Knight - Some Men Just Want To Watch The World Burn]?
 
-==== Ciro Santilli is stupid
+[[ciro-santilli-is-stupid]]
+==== Ciro Santilli is stupid (三西猴是个傻瓜)
 
 D E E P: https://github.com/cirosantilli/china-dictatorship/labels/you-are-stupid-argument
 
@@ -3395,6 +3412,10 @@ So the rationale of his actions is no_ to convince anyone, but rather:
 
 See also: <<preconceived>>
 
+===== Are you a SJW?
+
+Moved to <<is-ciro-santilli-a-sjw>>.
+
 [[china-watcher]]
 ===== Is Ciro Santilli a China watcher? (Pekingologist, 三西猴是中国观察者吗？, Intelligence Analyst)
 
@@ -3403,10 +3424,6 @@ See also: <<preconceived>>
 * https://zh.wikipedia.org/wiki/情报分析
 
 Yup. https://twitter.com/BadChinaTake/status/1291401838022012931/photo/1[Nope]? Well, Ciro's what you'll get on <<github>> until someone better comes along.
-
-===== Are you a SJW?
-
-Moved to <<is-ciro-santilli-a-sjw>>.
 
 [[does-ciro-santilli-hate-china]]
 ==== Does Ciro Santilli hate China? (三西猴讨厌中国吗？)
@@ -3450,6 +3467,21 @@ The second sentence well known: https://www.reddit.com/r/HongKong/comments/e8g3q
 .Round gate at https://en.wikipedia.org/wiki/Yu_Garden[Yu Garden] (https://zh.wikipedia.org/wiki/豫园[豫园]) in Shanghai. The large characters on top read (<<chinese-characters-are-insane,left to right>>) "流翠" TODO not sure about the second character, understand reference. <<ciro-santilli>> thinks that https://en.wikipedia.org/wiki/Chinese_garden[Chinese gardens] (https://zh.wikipedia.org/wiki/中國園林[中国园林]) are amazing!!! link:++https://commons.wikimedia.org/wiki/File:Shanghai_-_YuYuan_Gardens_and_Old_Town_(584867794).jpg++[Source].
 image::{china-dictatorship-media-base}/Yuyuan_garden_door.jpg[height=600]
 
+[[if-you-are-against-the-ccp-then-you-are-against-china]]
+===== If you are against the CCP, then you are against China (如果你反对中共，那么你就是反对中国)
+
+This is actually a key <<flg-cult,cult>> characteristic: <<the-group-is-the-only-way>>.
+
+Do all Chinese citizens support the CCP?
+
+* <<most-chinese-people-like-their-dictatorship>>
+* <<dissidents>>
+* <<chilling-effect>>
+
+If you are against Trump or Biden, does it mean that you are against the USA? So every American is against the USA?
+
+This is what <<dictatorship,dictatorships>> want you to believe.
+
 [[chinese-traditional-painting]]
 ===== Chinese traditional painting (中国传统绘画)
 
@@ -3463,7 +3495,8 @@ Some free online collections:
 ."Plum, orchid, bamboo, chrysanthemum" (梅兰竹菊) painting by https://en.wikipedia.org/wiki/Zheng_Xie[Zheng Xie (郑燮)] representing the https://en.wikipedia.org/wiki/Four_Gentlemen[four gentlemen] (https://zh.wikipedia.org/wiki/花中四君子[花中四君子]). Ciro is a big fan of https://en.wikipedia.org/wiki/Bird-and-flower_painting[traditional Chinese bird-and-flower painting (花鸟画)] like this. https://www.pinterest.co.uk/pin/315744623848820315/[Source].
 image::{china-dictatorship-media-base}/Four_gentlemen.jpg[height=600]
 
-===== Why does Ciro Santilli love China so much?
+[[why-does-ciro-santilli-love-china-so-much]]
+===== Why does Ciro Santilli love China so much? (为什么三西猴喜欢中国那么多？)
 
 <<ciro-santilli>> does not <<does-ciro-santilli-believe-in-or-practice-falun-gong,believe in reincarnation>>, but sometimes he's tempted to.
 
@@ -3476,7 +3509,7 @@ It was like this: Ciro started getting interested in Chinese culture, then he st
 So yes, it is a chicken and egg type of thing. The fact that she is one of the most intelligent, morally upright, cute, and "never give up" person I know may have helped me choose too.
 
 [[selfish]]
-==== Ciro Santilli's China freedom campaign is selfish
+==== Ciro Santilli's China freedom campaign is selfish (三西猴是自私的)
 
 See also:
 
@@ -5149,6 +5182,14 @@ admin.github.com hits to GitHub repository:
 Bibliography:
 
 * https://www.zhihu.com/question/388634161 如果举报github上的这种情况？ (How to report this type of circunstance on GitHub.) Question links to <<evil-man>>, and then one of the answers from 2021-08-15, by an anonymous user who does not understand the difference between comments and answers, asks by this repository specifically: https://www.zhihu.com/question/388634161/answer/2062103232[]. The real answer is: because Ciro Santilli is not Chinese, you cannot arrest him like you arrested the author of <<evil-man>>.
++
+One of the answers recommends the following message:
++
+____
+Hello, I'd like to report a person who abused Github, this person has created multiple accounts and added some offensive repo, these repo are not related to technology and disgusting content, causing many users to search this spam repo. These contents violate the Github's terms, I hope Github can banned this account.
+____
++
+Poor <<wumao>>s. With this language/intonation, they are off to a bad start from th emessage itself.
 
 .How to report an user on GitHhub.
 image::{china-dictatorship-media-base}/How_to_report_an_user_on_GitHub.png[height=2000]
@@ -7203,6 +7244,7 @@ This is also observed by <<falun-gong>> itself as a response to the CCP <<flg-cu
 See also:
 
 * <<democracy-is-a-religion>>
+* <<if-you-are-against-the-ccp-then-you-are-against-china>> is the <<ccp>>'s version of <<>>
 
 [[xi-halo]]
 .Xi Jinping with a Halo edited in to make <<ccp-cult,the obvious more obvious>>. The texts reads <<xi-jinping-thought,"习近平思想" (Xi Jinping Thought)>>. Watermark reads "Gucci Minh @Laborwave", so presumably from https://www.instagram.com/laborwavedesigns/[], but I didn't have the patience to find the picture, but it very likey comes from there, a ton of great communist memes in that account. https://www.reddit.com/r/LateStageCapitalism/comments/77vfi8/uphold_xi_jinping_thought/[Source].
@@ -7261,7 +7303,6 @@ Conversely, this also poses a risk for the Cult Leader, as new community ideas c
 * "Personal testimonies of earlier converts": see "experience sharing" at <<flg-religion>>
 * "The group and its members are special", "Enemy-making and Devaluing the Outsider": see: "ordinary people (常人)" at <<does-ciro-santilli-believe-in-or-practice-falun-gong>>
 * "Making cult members work long hours for free": yes, many FLG members work long long hours for free. Why wouldn't you if you are saving people's souls?
-* "No Humor": see also <<funny>>
 * "Front groups, masquerading recruiters, hidden promoters, and disguised propagandists": <<falun-gong-media>>
 * "Promised Powers or Knowledge" and "It's a con. You don't get the promised goodies": they seem to believe in a <<flg-religion,Judgement Day like event>> and <<flg-medication,health benefits>>
 * "The Guru is always right", "You are always wrong", "No Graduates", "The Guru Is Extra-Special", "Everybody else needs the guru to boss him around, but nobody bosses the guru around", "The guru criticizes everybody else, but nobody criticizes the guru.": obviously: <<li-hongzhi>>
@@ -7353,6 +7394,25 @@ Conversely, <<dictatorship,dictatorships>>, just like <<flg-cult,cults>>, also h
 * <<brave-new-world-books>>
 * <<internal-media-of-china>>
 * <<chernobyl-2019-miniseries>>
+
+[[the-group-is-the-only-way]]
+====== Insistence that the group is THE ONLY WAY (坚持他们的团体是唯一的方式生活, Orange Papers, 橙色文件)
+
+https://web.archive.org/web/20160203122607/http://www.orange-papers.org/orange-cult_q1.html#cq_only_way
+
+<<ccp>>'s version: <<if-you-are-against-the-ccp-then-you-are-against-china>>.
+
+[[no-humour]]
+====== No humour (不能有幽默, Orange Papers, 橙色文件)
+
+https://web.archive.org/web/20160303185341/http://www.orange-papers.org/orange-cult_q2.html#cq_no_humor
+
+Basically exactly what is mentioned at <<funny>>. Notably:
+
+* making fun of <<xi-jinping>> is not allowed for Chinese people
+* making fun of <<li-hongzhi>> is not allowed for <<falun-gong>> believers
+
+So we go ahead and make fun of both.
 
 [[flg-canon]]
 === What are the canonical Falun Gong texts? (法轮功的经典著作有哪些？)
@@ -8338,8 +8398,11 @@ image::{china-dictatorship-media-base}/Li_Hongzhi_blue.jpg[height=400]
 .<<li-hongzhi,Li>> going https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] (https://baike.baidu.com/item/超级赛亚人/6974315[超级赛亚人]) while casually sitting on a https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art[giant Lotus flower] with a https://en.wikipedia.org/wiki/Halo_(religious_iconography)[halo] (https://zh.wikipedia.org/wiki/圓光[圆光]) on his head. Text at bottom: 法轮修炼大法-李洪志 (TODO confirm 3rd and 4th characters, transates something like Falun Practices Dafa - Li Hongzhi). http://photo.minghui.org/images/master_li_pics/E_fx_1.htm[Source] on <<minghui>>.
 image::{china-dictatorship-media-base}/Li_Hongzhi_lotus.jpg[height=600]
 
-.<<li-hongzhi>> really turning into a proper Buddha, including https://en.wikipedia.org/wiki/Physical_characteristics_of_the_Buddha[physical signs] such as the https://en.wikipedia.org/wiki/Ushnisha[Ushnisha] (https://zh.wikipedia.org/wiki/肉髻[肉髻]) on the head and the https://en.wikipedia.org/w/index.php?title=Physical_characteristics_of_the_Buddha&oldid=972021136#The_80_secondary_characteristics["ears as longs as lotus petals"]. On the top right corner we see an <<ntdtv>> watermark. On the bottom left we see a few Western Catholic and Roman looking divinities, representing Falun Gong's syncretic beliefs. The subtitle on center bottom reads in traditional Chinese: "真的有这样光辉形象" (there truly is such a glorious image) https://www.bannedbook.org/bnews/tculture/xiulian/20190123/1068931.html[Source] on <<bannedbook>>.
+.<<li-hongzhi>> really turning into a proper Buddha, including https://en.wikipedia.org/wiki/Physical_characteristics_of_the_Buddha[physical signs] such as the https://en.wikipedia.org/wiki/Ushnisha[Ushnisha] (https://zh.wikipedia.org/wiki/肉髻[肉髻]) on the head and the https://en.wikipedia.org/w/index.php?title=Physical_characteristics_of_the_Buddha&oldid=972021136#The_80_secondary_characteristics["ears as longs as lotus petals"]. He also has a super powerful https://en.wikipedia.org/wiki/Aureola[Aureola]. On the top right corner we see an <<ntdtv>> watermark. On the bottom left we see a few Western Catholic and Roman looking divinities, representing Falun Gong's syncretic beliefs. The subtitle on center bottom reads in traditional Chinese: "真的有这样光辉形象" (there truly is such a glorious image) https://www.bannedbook.org/bnews/tculture/xiulian/20190123/1068931.html[Source] on <<bannedbook>>.
 image::{china-dictatorship-media-base}/Li_Hongzhi_Buddha.jpg[height=400]
+
+.Side by side comparison of <<li-hongzhi>> vs https://dragonball.fandom.com/wiki/Super_Saiyan[Super Saiyan] (https://baike.baidu.com/item/超级赛亚人/6974315[超级赛亚人]) https://en.wikipedia.org/wiki/Goku[Goku] from https://en.wikipedia.org/wiki/Dragon_Ball[Dragon Ball] (https://zh.wikipedia.org/wiki/孙悟空_(七龙珠)[孙悟空_(七龙珠)]). There is more than just visual similarity to this comparison, since Goku is based on Sun Wukong from <<journey-to-the-west>>: they have the exact same name in Japanese/Chinese, Goku is monkey like with a tail and https://dragonball.fandom.com/wiki/Great_Ape[giant monkey form], has both have an extending stick weapon (https://dragonball.fandom.com/wiki/Power_Pole[The Power Pole, 如意棒], full Chinese name https://zh.wikipedia.org/wiki/如意金箍棒[如意金箍棒], lit. "as [large as] one wants Golden stick). Notably, the orange color of Goku's clothing is likely inspired from Buddhism, and so are their https://en.wikipedia.org/wiki/Aureola[Aureolas]. <<ciro-santilli>> watched Dragon Ball Z this when he was 10 years old.
+image::{china-dictatorship-media-base}/Li_Hongzhi_vs_Goku_Super_Saiyan.jpg[height=600]
 
 .Dubstep <<li-hongzhi,Li>> can <<flg-religion,liangong (练功)>> at https://en.wikipedia.org/wiki/Dubstep[dubstep] speed. https://giphy.com/gifs/dubstep-gifs-dubstepgifs-xUOwFY1prqgUdPuFvW[Source].
 image::{china-dictatorship-media-base}/Li_Hongzhi_dubstep.webp[height=400]
@@ -11532,6 +11595,7 @@ See also:
 * <<life-of-brian-1979>>
 * <<zone-theory>>
 * <<weibo-logo>>
+* <<no-humour>>
 
 [[cartoonists]]
 === Cartoonists (漫画家)
@@ -11896,6 +11960,12 @@ ____
 Interesting websites:
 
 * https://ctext.org/[], has <<icp-license>>
+
+[[journey-to-the-west]]
+==== Journey to the west (西游记)
+
+* https://en.wikipedia.org/wiki/Journey_to_the_West
+* https://zh.wikipedia.org/wiki/西游记
 
 [[confucianism]]
 ==== Confucianism (儒家)
@@ -13198,6 +13268,14 @@ Sample videos:
 * https://www.youtube.com/watch?v=tqkD8JBCm-k Inside a Mosque XINJIANG Urumqi! on how <<xinjiang>> is great
 * https://www.youtube.com/watch?v=SCdfPxMcOoQ The Truth about Larung Gang - Tibetan Buddhists! on how <<tibet>> is great
 * https://www.youtube.com/watch?v=oBH4H1qX1Dw CHINA Changed us! ft. Oli BARRETT from <<barrett-channel>>
+
+[[world-war-ii-propaganda]]
+====== World war ii propaganda (二战宣传)
+
+https://www.history.co.uk/shows/secret-war-on-drugs/articles/6-things-you-didnt-know-about-the-cia mentions some uncited ideas:
+
+* one CIA operative drew up a plan to also have packets of extra-large condoms, labelled only "small" or "medium"
+* the CIA made a propaganda porn film of President Sukarno of Indonesia
 
 [[world-war-2-radio-propaganda]]
 ====== World war 2 radio propaganda (二战电台宣传)
@@ -15073,7 +15151,7 @@ A good place to start are the canonical TV adaptations of the https://en.wikiped
 ** The best https://en.wikipedia.org/wiki/Three_Kingdoms[Three Kingdoms 三国] adaptation of all time? Mind blowing
 ** there seems to exist a version with full Chinese + English subtitles: https://www.youtube.com/watch?v=0_r3eWfTMDs&list=PLdAMXqGeRsOkXzuocRkBPhe5RhZ6RotGH&index=2
 ** https://www.youtube.com/watch?v=e8VWVvHjskM&list=PLIj4BzSwQ-_ueXTO7EBmShk1b3lEqc5b_ official CCTV电视剧 (CCTV TV Series Channel) upload without Chinese + English subtitles on <<censorship,YouTube>>
-* 1986 Journey to the West by the <<chinese-government-media,CCTV>>
+* 1986 <<journey-to-the-west>> by the <<chinese-government-media>>
 ** https://en.wikipedia.org/wiki/Journey_to_the_West_(1986_TV_series)
 ** https://zh.wikipedia.org/wiki/西游记_(中国中央电视台出品电视剧)
 ** https://www.youtube.com/playlist?list=PLIj4BzSwQ-_sfc7l2xm1wQswAd5jqrrDS official CCTV电视剧 upload with Chinese + English subtitles
