@@ -2271,9 +2271,20 @@ Are the Chinese really that selfish to vote for this oppression, even as the <<c
 
 Minorities are put in jail because the CCP fears them. Dictatorships can only survive if there is zero difference in opinion in the population.
 
-The famous https://en.wikipedia.org/wiki/First_they_came_...[First they came ...] text comes to mind in which <<nazi,the priest Martin Niemöller regrets not having supported the rights of his opponents that were unfairly treated by the Nazi Government>>:
+See also:
+
+* <<first-they-came>>
+* <<rule-of-law>>
+* https://en.wikipedia.org/wiki/Intolerance_(film)[Intolerance (1916) film]
 
 [[first-they-came]]
+====== First they came (起初他們)
+
+* https://en.wikipedia.org/wiki/First_they_came_...
+* https://zh.wikipedia.org/wiki/起初他們……
+
+This text comes in relation to the <<intolerance>> shown by <<stupid,brainwashed>> Chinese to the oppression of minrities. In it, <<nazi,the priest Martin Niemöller regrets not having supported the rights of his opponents that were unfairly treated by the Nazi Government>>:
+
 ____
 First they came for the socialists, and I did not speak out +
 Because I was not a socialist.
@@ -2288,10 +2299,24 @@ Then they came for me +
 and there was no one left to speak for me.
 ____
 
-See also:
+A translation from Wikipedia:
 
-* <<rule-of-law>>
-* https://en.wikipedia.org/wiki/Intolerance_(film)[Intolerance (1916) film]
+____
+起初，纳粹抓共产党人的时候，
+我沉默，因为我不是共产党人。
+
+当他们抓社会民主主义者的时候，
+我沉默，因为我不是社会民主主义者。
+
+当他们抓工会成员的时候，
+我沉默，因为我不是工会成员。
+
+当他们抓犹太人的时候，
+我沉默，因为我不是犹太人。
+
+最后当他们来抓我时，
+再也没有人站起来为我说话了。
+____
 
 [[this-is-ciro-santilli-s-personal-problem-we-have-nothing-to-do-with-it-stop-punishing-us-for-it]]
 ====== This is Ciro Santilli's personal problem, we have nothing to do with it, stop punishing us for it (这是三西猴的个人问题，我们与此无关，不要因此而惩罚我们)
@@ -3011,6 +3036,15 @@ We have to make a <<xi-jinping>> version of this!!!
 * https://en.wikipedia.org/wiki/Possible_monorchism_of_Adolf_Hitler[Possible monorchism of Adolf Hitler]
 
 There's even an https://en.uncyclopedia.co/wiki/Hitler_Has_Only_Got_One_Ball[Uncencyclopedia page for it].
+
+We have to do a Chinese version. A starting point:
+
+....
+近平，只  有一只蛋
+泽东，还好有一个半
+泽民，
+小平，
+....
 
 .http://bodylanguageproject.com/xarticles/wp-content/uploads/2019/07/Hitler-8.jpg[Left source], https://en.uncyclopedia.co/wiki/Hitler_Has_Only_Got_One_Ball[right source].
 image::{china-dictatorship-media-base}/Hitler_has_only_got_one_ball.jpg[height=400]
@@ -6413,14 +6447,23 @@ image::{china-dictatorship-media-base}/Xinjiang_Data_Project_screenshot_of_camp_
 
 Starting in 2019, China officially invited foreign journalists to some of their model camps to show how happy people were.
 
-It is hard to understand why they did this, as it just made everything worse for them, because everything was so obviously fake, and it actually allowed glimpses in some of the horrors.
+It is hard to understand why they did this, as it just made everything worse for them, because everything was so obviously fake, and it actually allowed glimpses in some of the horrors. Why would a bunch of adults be playing games and learning useless stuff rather than be with their families working to earn money?
 
 Online commentators have compared such camps to:
 
 * <<nazi,Nazi>> model concentration camps which foreign people were invided to see, e.g. https://www.bbc.co.uk/news/blogs-china-blog-48700786[commented by the BBC itsef]
-** https://en.wikipedia.org/wiki/Theresienstadt_Ghetto[Theresienstadt Ghetto] had a Red Cross visit in 1944
+** https://en.wikipedia.org/wiki/Theresienstadt_Ghetto[Theresienstadt Ghetto]
+*** allowed a Red Cross visit in 1944
+*** https://www.imdb.com/title/tt0194445/plotsummary 1944 Nazi propaganda film about it
+**** https://www.youtube.com/watch?v=MZt92quVOsg contains a soccer match scene from it
+**** https://www.youtube.com/watch?v=a7nAfaLlqkE shows some scenes of children eating happily
+*** https://en.wikipedia.org/wiki/Paradise_Camp[Paradise Camp (1986)] is an Australian documentary about it
 ** https://en.wikipedia.org/wiki/Sonnenburg_concentration_camp[Sonnenburg concentration camp]
 * https://en.wikipedia.org/wiki/Potemkin_village[Potemkin village]
+
+Examples:
+
+* 2018-10-24 https://mobile.twitter.com/HuXijin_GT/status/1055013584806256644 (https://github.com/cirosantilli/china-dictatorship/issues/226[GitHub reupload] https://archive.ph/BSJLA[archive]) 2 minute video by Hu Xijin 胡锡进, editor-in-chief of the <<global-times>>, showing happy women in a concentration camp playing ping-pong and dancing in the exercise area. Notice the similarity with the Theresienstadt videos, which also show sports events.
 
 .https://www.youtube.com/watch?v=WmId2ZP3h0c "Inside China's 'thought transformation' camps - BBC News" 2019-06-18. Accompagning article: https://www.bbc.co.uk/news/av/world-asia-china-48667221[]. China gives BBC "access" to a chosen show camp where everyone claims they are happy and willing to stay. They are however clearly adults being treated like children, taking courses and even having to sing and dance for the camera. https://youtu.be/WmId2ZP3h0c?t=486[486s] is also golden, when the CCP officer Zhang Zhisheng explains how they are <<thoughtcrime,just preventing future crime from happening>>. How can they be so stupid? How can they not see that this is not what the West wants to hear? Amazing dark-comedy like stuff.
 video::WmId2ZP3h0c[youtube,height=400,width=600]
@@ -8358,6 +8401,17 @@ Epidemics are also likely moments where religious grow due to more people being 
 
 It is indeed tempting to believe that the virus magically kills only the Evil. What reality could be so fucked up where the innocent suffocate to their death? And yet, here we are.
 
+[[falun-gong-lithurgical-calendar]]
+==== Falun Gong lithurgical calendar (法轮功教会年历)
+
+Exactly like https://en.wikipedia.org/wiki/Liturgical_year[other religions], Falun Gong has some important dates that are celebrated to keep believers engaged. Those are:
+
+* May 13th: <<li-hongzhi>>'s claimed birthday, although the Chinese government and some scholars disagree with that date, which suspicioiusly seems to coincide with the Buddha's birthdate
++
+Also known as "Dafa Day".
++
+The international Falun Gong conference, usually called just "Fa Conference" (法会), also happens around that date in New York, the state where Li Hongzhi lives in <<dragon-springs>> for the same reason, e.g. in 2019 it was on May 17 https://www.ntd.com/over-10000-share-stories-of-self-improvement-at-falun-dafa-conference_331440.html
+
 [[li-hongzhi]]
 ==== Li Hongzhi (李洪志, LHZ, Falun Gong prophet)
 
@@ -8588,7 +8642,7 @@ Semi weirdly though, https://www.cesnur.org/2001/falun_jan10.htm claims that Sen
 https://www.minghui.org/mh/articles/2020/1/16/原北京师大研究生陶渊在浙江第四监狱遭受的迫害-399012.html[] from 2020 by <<minghui>> claims the book slanders Li Hongzhi's family, and that the CCP forced prisoners to read it.
 
 [[dragon-springs]]
-===== Dragon Springs (龙泉)
+===== Dragon Springs (龙泉, Falun Gong's headquarters in New York State)
 
 Li Hongzhi's Falun Gong complex in New York state countryside, where he lives, and organizes <<shen-yun>>.
 
@@ -9158,6 +9212,8 @@ https://answersafrica.com/meet-xi-mingze-xi-jinpings-daughter-is-she-married-whe
 
 Master issue: https://github.com/cirosantilli/china-dictatorship/issues/231
 
+Funny names:
+
 * 習包子: https://languagelog.ldc.upenn.edu/nll/?p=29230 says:
 +
 ____
@@ -9170,7 +9226,16 @@ See also: <<buns>>.
 ____
 It can be translated as "big spender," a play on the literal translation of the words sā bì 撒币 "throw money" and "stupid cunt" (shǎ bī 傻逼). The nickname takes aim at the economic aid Xi has promised to foreign countries; the moniker is so widely used on Chinese social media that the censors' repressive measures only draw more attention to it, and to the criticism embedded within it.
 ____
-+
+
+Other images:
+
+* Xi Jinping is destroying the economy more than USA's sanctions (2021),
+** English version: https://www.reddit.com/r/China/comments/pb5ft2/meme_xis_successive_series_of_economically/
+** Chinese version: https://twitter.com/xijinpingqindie/status/1429480173938745348
+** refers to:
+*** https://www.bloomberg.com/news/articles/2021-07-27/china-tech-crackdown-xi-charts-new-model-after-emulating-silicon-valley
+*** https://thediplomat.com/2021/08/the-biden-administrations-china-sanctions-dilemma/
+
 See also: <<shitpost>>.
 
 .<<xi-jinping>> photoshopped as https://en.wikipedia.org/wiki/Joker_(character)[The Joker] (https://zh.wikipedia.org/wiki/小丑_(角色)[小丑]). Would have been perfect with https://www.theguardian.com/world/2020/sep/22/ren-zhiqiang-who-called-chinese-president-a-clown-jailed-for-18-years[2020-09-22 Ren Zhiqiang - who called Chinese president a 'clown' - jailed for 18 years], see also: <<corruption>>. https://www.reddit.com/r/chonglangTV/comments/m04q0p/乌合麒麟新作一尊小丑/[Source].
@@ -10734,7 +10799,7 @@ Hao Runze's page https://baike.baidu.com/item/郝润泽
 image::{china-dictatorship-media-base}/Baidu_Baike_Badminton_World_Federation_censored_1995_1997_wins_by_Ye_Zhaoying_wife_of_Hao_Haidong.png[height=600]
 
 [[chloe-zhao]]
-==== Chloe Zhao (Zhao Ting, 2021 Oscar winner, 获第93奥斯卡最佳电影和导演奖)
+==== Chloe Zhao (Zhao Ting, 赵婷, 2021 Oscar winner, 获第93奥斯卡最佳电影和导演奖)
 
 * https://en.wikipedia.org/wiki/Chloé_Zhao
 * https://zh.wikipedia.org/wiki/趙婷
@@ -11503,7 +11568,7 @@ New York based.
 * https://zh.wikipedia.org/wiki/美国之音
 
 [[rfa]]
-===== Radio Free Asia (RFA) (自由亚洲电台, USA government media)
+===== Radio Free Asia (RFA, 自由亚洲电台, USA government media)
 
 * https://en.wikipedia.org/wiki/Radio_Free_Asia
 * https://zh.wikipedia.org/wiki/自由亚洲电台
@@ -12946,12 +13011,14 @@ Bibliography:
 image::{china-dictatorship-media-base}/Wujiao.png[height=400]
 
 [[little-pink]]
-===== Little pink (小粉紅, 小紅粉)
+===== Little pink (小粉紅, 小紅粉, 兔友)
 
 * https://en.wikipedia.org/wiki/Little_Pink
 * https://zh.wikipedia.org/wiki/小粉紅
 
 <<slang,Slang>> name for <<stupid,brainwashed>> <<ccp,CCP>> supporters who are not necessarily paid professional <<wumao,wumaos>>, notably young, idealistic and enthusiastic ones, <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream  and the Chinese dream>> contains a prototypical video example.
+
+兔友 (friend of the rabbit) is another variant referring to: <<that-rabbit>>.
 
 Bibliography:
 
@@ -13845,8 +13912,14 @@ In addition to search, also has:
 * https://en.wikipedia.org/wiki/Alibaba_Group
 * https://zh.wikipedia.org/wiki/阿里巴巴集团
 
+[[jack-ma]]
+==== Jack Ma (马云, Alibaba founder)
+
+* https://en.wikipedia.org/wiki/Jack_Ma
+* https://zh.wikipedia.org/wiki/马云
+
 [[jack-mas-disappearance-2021]]
-==== Jack Ma's disappearance (马云的失踪, 2021)
+===== Jack Ma's disappearance (马云的失踪, 2021)
 
 Got https://www.urbandictionary.com/define.php?term=bitch%20slapped[bitchslapped] by <<xi-jinping>>, 3 months disappearance:
 
@@ -13856,11 +13929,6 @@ Got https://www.urbandictionary.com/define.php?term=bitch%20slapped[bitchslapped
 .Cartoon of Jack Ma, <<winnie-the-pooh>> (representing <<xi-jinping>>) and <<that-rabbit>> (representing the Chinese people) splitting cookies. Winnie has a huge pile, Jack has a medium pile, and That Rabbit has a tiny pile. Winnie is saying "那个资本家夺走了你的饼干！" (That capitalist stole your cookies!). The cartoon suggests that the Chinese state has a lot of money and power, extremely successful entrepreneurs have a medium power, and the common people, who are manipulated by the CCP, have basically nothing. https://www.reddit.com/r/chonglangTV/comments/lyxlf9/不_言_而_喻一_目_了_然/[Source].
 image::{china-dictatorship-media-base}/Jack_Ma_Winnie_the_Pooh_and_That_Rabbit_splitting_cookies.jpg[height=500]
 
-[[jack-ma]]
-==== Jack Ma (马云)
-
-* https://en.wikipedia.org/wiki/Jack_Ma
-* https://zh.wikipedia.org/wiki/马云
 
 [[xiaomi]]
 === Xiaomi (小米, cell phone company)
@@ -13898,7 +13966,13 @@ Operates some MMORPGs in China. According to Wikipedia: "The company also owns s
 
 ==== oa.com
 
-Tencent owns the oa.com domain since 2020 which they bought from some small early American Internet company, although they don't announce that clearly. But they have several subdomains of that being used actively.
+Tencent owns the oa.com domain since 2020 which they bought from some small early American Internet company, although they don't announce that clearly on the main domain itself. But they have several subdomains of that being used actively.
+
+On the original company, it stood for "Object Automation" as seen e.g. at https://archive.vn/SsvSV#selection-1123.0-1123.155[]:
+
+____
+OA is the industry leader and pioneer in the deployment of object-based industrial automation, distributed control, and operational intelligence solutions.
+____
 
 https://domainnamewire.com/author/kasseylee/ mentions that it was sold for $609,068 in 2020, and references https://namebio.com/?s==QjN2UTN1kjM which gives date, value and sale location (https://sedo.com) but not buyer and seller info. https://domainnamewire.com/2020/09/16/why-are-two-letter-domains-so-sought-after-in-china/ says such domains are highly sought after in China.
 
@@ -13907,6 +13981,7 @@ Some subdomains on <<archive-today>>: https://archive.vn/*.oa.com
 Domain selection:
 
 * https://ilns.isec.oa.com[], which from the name is likely some kind of internal censorship/information security portal:
+** 2021-08-25 http://ilnstest.isec.oa.com/ a new variant
 ** 2021-07-22 4 hits one user from https://ilns.isec.oa.com to GitHub repository
 ** 2021-06-04 4 hits from 1 user. Note that this is <<tiananmen>> day.
 ** 2021-05-17 https://ilns.isec.oa.com/command-manage/command-analysis/2073645[]
