@@ -1132,7 +1132,7 @@ Imperial China lost the race for the Industrial Revolution. Will another dictato
 image::{china-dictatorship-media-base}/XKCD_937_tornado_guard.png[height=500]
 
 [[dictatorship-variability]]
-===== Dictatorships have greater development variability
+===== Dictatorships have greater development variability (专政具有更大的发展可变性)
 
 <<ciro-santilli>> really likes https://web.archive.org/web/20180923192824/https://www.becker-posner-blog.com/2011/05/can-poor-countries-afford-democracy-becker.html[Posners'] way of putting it:
 
@@ -1463,7 +1463,8 @@ When China <<evil-west,calls the USA Imperialist>> (帝国主义), there is of c
 .https://www.youtube.com/watch?v=7PhjfThj4IA Ending of the https://en.wikipedia.org/wiki/Sportpalast_speech[Sportpalast speech], AKA https://en.wikipedia.org/wiki/Total_war[total war] (https://zh.wikipedia.org/wiki/总体战[总体战]) speech by <<nazi,Goebbels>>, given in 1943, when Germany started to lose the war. This was later target of https://en.wikipedia.org/wiki/File:8th_Air_Force_psychological_warfare_leaflet.jpg[opposing allied propaganda]. Total war, that's what <<dictatorship,dictatorship>> bring you.
 video::7PhjfThj4IA[youtube,height=400,width=600]
 
-===== The United States has recently started several wars and killed millions!
+[[the-united-states-has-recently-started-several-wars-and-killed-millions]]
+===== The United States has recently started several wars and killed millions! (美国最近发动了几场战争，造成数百万人死亡！)
 
 Not even democracies can fully protect people from other countries, because they don't vote. Yes, congratulations, <<western-democracies-are-not-perfect>>.
 
@@ -1626,7 +1627,7 @@ Coverage:
 video::t2hBtXdaYsQ[youtube,height=400,width=600]
 
 [[effective]]
-=== Will the keyword attacks really help to destroy the firewall?
+=== Will the keyword attacks really help to destroy the firewall? (关键字攻击真的有助于破坏防火墙吗？)
 
 It is both unlikely, and hard to be sure.
 
@@ -1688,7 +1689,7 @@ Trump's link:https://www.theguardian.com/commentisfree/2019/jun/02/trump-banning
 It is a risk, but it would make China drastically <<richer,less powerful>>, so at least they wouldn't be able to start or sustain <<war,WW3>>. So I don't think it will go that way.
 
 [[so-block-cost]]
-==== Stack Overflow and GitHub could be blocked at no cost by the Chinese government
+==== Stack Overflow and GitHub could be blocked at no cost by the Chinese government (中国政府可以免费封锁 Stack Overflow 和 GitHub)
 
 Hitting the block button has, of course, no cost.
 
@@ -1702,7 +1703,8 @@ But Ciro doubt developers use those browsers, right? The only way would be for C
 
 BTW, <<ensi>> brings a whole new dimension to HTTPS by encrypting the domain name as well!
 
-===== Is Stack Overflow blocked in China?
+[[is-stack-overflow-blocked-in-china]]
+===== Is Stack Overflow blocked in China? (Stack Overflow 在中国被封锁了吗？)
 
 There was no clear evidence of that as of April 2020: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/288497#288497
 
@@ -1711,7 +1713,7 @@ It worth noting however that as mentioned at <<is-stack-overflow-blocked-in-chin
 For example, Stack Overflow relied on Google for some of its JavaScript and on Imgur for images, both of which are blocked in China.
 
 [[disturbs]]
-==== Keyword attack profiles disturb me
+==== Keyword attack profiles disturb me (关键字攻击个人资料页打扰我)
 
 But isn't it better to be annoyed than having <<war,war>>, <<richer,being poor>> or <<xinjiang,put into jail unfairly>>?
 
@@ -1809,7 +1811,7 @@ Not even the CCP can provide any data on its number of casualties in the war, an
 ____
 
 [[brainwashed-by-usa]]
-==== Non-Chinese people have been brainwashed by the USA know nothing about China
+==== Non-Chinese people have been brainwashed by the USA know nothing about China (非中国人被美国洗脑，对中国一无所知)
 
 Everyone is "brainwashed" by their environment.
 
@@ -1828,7 +1830,7 @@ But if you are Chinese, also consider that you have been brainwashed by the comm
 See also: <<western-democracies-are-not-perfect>>.
 
 [[evil-west]]
-==== The commies exaggerate the threat of the West to keep in power
+==== The CCP exaggerates the threat of the West to keep in power (中共夸大了西方要继续掌权的威胁)
 
 First, obviously, <<western-democracies-are-not-perfect>>.
 
@@ -1897,7 +1899,8 @@ Bibliography:
 
 * https://github.com/dessalines/essays/blob/master/us_atrocities.md
 
-===== Friendly West-China moments
+[[friendly-west-china-moments]]
+===== Friendly West-China moments (中西友好时刻)
 
 ====== United China Relief
 
@@ -1912,7 +1915,7 @@ ____
 image::{china-dictatorship-media-base}/United_China_Relief_3_million_Chinese.jpg[height=400]
 
 [[bias]]
-=== Ciro Santilli and this page are completely biased against the Chinese Government!
+=== Ciro Santilli and this page are completely biased against the Chinese Government! (三西猴和本页完全对中国政府有偏见！)
 
 <<ciro-santilli>> prefers the term focused :-)
 
@@ -2115,13 +2118,18 @@ Quando ela voltou pra casa, a casa tinha sido procurada pela polícia e estava u
 
 Eu fico feliz apenas que ela não sofreu abuso físico. Eu acho fascinante como mesmo muitos chineses educados apoiam ainda um governo que não representa parte do povo. Como você vai se sentir quando algo do tipo acontecerá com a sua família, e você não pode fazer nada sobre isso?
 
-===== Further details about Ciro Santilli's mother-in-law's persecution
+[[further-details-about-ciro-santilli-s-mother-in-law-s-persecution]]
+===== Further details about Ciro Santilli's mother-in-law's persecution (三西猴岳母受迫害的更多细节)
 
-March 2015: 15 days in jail for no reason: https://www.facebook.com/cirosantilli/posts/952661734753174
+March 2015: 15 days in jail for no reason: https://www.facebook.com/cirosantilli/posts/952661734753174[]. They took her computer. When she left jail, she asked to get it back, and a cop said they would only give it back if she paid 10,000 yuan for it.
 
-June 2017: 3 cops came to her house. She was there. They asked if she still did Falun Gong. She said yes. They took photos of her Falun Gong books / posters. They were polite.
+June 2017: 3 cops came to her house. She was there. They asked if she still did Falun Gong. She said yes. They took photos of her Falun Gong books/posters. They were polite.
 
 October 2017: 7 - 8 cops came to her house _at 11PM_. They knocked the door strongly and made noise, and questioned neighbours of her whereabouts. Luckily she was not there.
+
+===== In the Tweet about his mother in law, Ciro Santilli says "correctional facility", but reeducation through labour has been abolished
+
+He was not very precise https://twitter.com/cirosantilli/status/579270450984984576[here], the precise term is "jail". He was _not_ talking about: https://en.wikipedia.org/wiki/Re-education_through_labor Unfortunately it is not possible to edit a Tweet.
 
 [[china-is-fine-as-it-is-stop-making-it-worse]]
 === China is fine as it is, stop making it worse (中国很好，别让它变得更糟)
@@ -2149,7 +2157,7 @@ And when your son <<man-in-the-high-castle,betrays you or sacrifices himself for
 See: <<seventeen-moments-of-spring>>
 
 [[seventeen-moments-of-spring]]
-===== Seventeen Moments of Spring (1973, Soviet series about a Soviet spy against the Nazis)
+===== Seventeen Moments of Spring (1973, 春天的十七个瞬间, Soviet series about a Soviet spy against the Nazis, 关于苏联间谍反对纳粹的苏联系列)
 
 * https://en.wikipedia.org/wiki/Seventeen_Moments_of_Spring
 * https://ru.wikipedia.org/wiki/Семнадцать_мгновений_весны_(телефильм)
@@ -2271,6 +2279,13 @@ Are the Chinese really that selfish to vote for this oppression, even as the <<c
 
 Minorities are put in jail because the CCP fears them. Dictatorships can only survive if there is zero difference in opinion in the population.
 
+The famous quote from https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall[Evelyn Beatrice Hall] (https://zh.wikipedia.org/wiki/伊夫林·比阿特丽斯·霍尔[伊夫林·比阿特丽斯·霍尔]) comes to mind:
+
+____
+I disapprove of what you say, but I will defend to the death your right to say it. +
+我不同意你的意见，但我以死捍卫你说话的权利”
+____
+
 See also:
 
 * <<first-they-came>>
@@ -2317,6 +2332,14 @@ ____
 最后当他们来抓我时，
 再也没有人站起来为我说话了。
 ____
+
+[[it-is-fine-for-the-ccp-to-treat-some-of-its-citizens-unfairly-if-the-majority-is-better-off]]
+====== It is fine for the CCP to treat some of its citizens unfairly if the majority is better off (如果大多数人过得更好，那么中共不公平地对待一些公民是可以的)
+
+See:
+
+* <<intolerance>>
+* <<uneducated-masses>>
 
 [[this-is-ciro-santilli-s-personal-problem-we-have-nothing-to-do-with-it-stop-punishing-us-for-it]]
 ====== This is Ciro Santilli's personal problem, we have nothing to do with it, stop punishing us for it (这是三西猴的个人问题，我们与此无关，不要因此而惩罚我们)
@@ -3008,7 +3031,7 @@ image::{china-dictatorship-media-base}/Hitler_angry_rehearsal.jpg[height=400]
 .Photoshopped cover of Mein Kampf with Xi's face on top of Hitler's and other modifications such as Mian instead of Mein, likely the same 面 (mian4, face) as the Chinese character at the bottom right. <<xi-jinping-thought>> also comes to mind. https://foreignerinformosa.typepad.com/the_foreigner_in_formosa/2017/07/president-xitler-of-china-murders-political-dissident-liu-xiaobo.html[Source].
 image::{china-dictatorship-media-base}/Xi_mein_kampf.jpg[height=400]
 
-.Original cover of Mein Kampf. https://www.youtube.com/watch?v=1QERDzr6HSQ How Rich Was Hitler? by Mark Felton Productions (2021) mentions that the success of the book helped Hitler a financially a lot when he was in great need. link:++https://commons.wikimedia.org/wiki/File:Adolf_Hitler_-_Mein_Kampf_(855._Auflage,_1943).pdf++[Source].
+.Original cover of Mein Kampf. https://www.youtube.com/watch?v=1QERDzr6HSQ How Rich Was Hitler? by Mark Felton Productions (2021) mentions that the success of the book helped Hitler a financially a lot when he was in great need. Ciro speculates that the same applies to <<li-hongzhi>>, which has retained copyright of <<flg-canon,all his works>> (despite them being the truth of the universe, a natural force essentially), as can be seen by the copyright notice on https://en.falundafa.org/[]. link:++https://commons.wikimedia.org/wiki/File:Adolf_Hitler_-_Mein_Kampf_(855._Auflage,_1943).pdf++[Source].
 image::{china-dictatorship-media-base}/Mein_kampf.jpg[height=400]
 
 .Photoshopped photo of Hitler giving the Nazi salute from a car with Himmler on the background with Xi's face on top of Hitler's. https://chinhdangvu1.blogspot.com/2017/09/xitler-chinazism.html[Source].
@@ -3017,7 +3040,7 @@ image::{china-dictatorship-media-base}/Xi_Nazi_car_salute_photoshop.jpg[height=4
 .Original photo of Hitler giving the Nazi salute from a car with Himmler on the background. This photo shows them reviewing SS troops during a Reichsparteitag (Reich Party Day) parade in Nuremberg (1938-09-05 - 1938-09-12). https://aboutholocaust.org/en/facts/who-was-adolf-hitler[Source].
 image::{china-dictatorship-media-base}/Hitler_Himmler_salute.jpg[height=400]
 
-.Chinazi flag (赤纳粹旗) by <<2019-hong-kong-anti-extradition-bill-protests,Hong Kong protesters>>. Seen https://chinadigitaltimes.net/chinese/2019/08/【盛世一景】赤纳粹旗（chinazi-flag）/[on streets]. https://www.reddit.com/r/HongKong/comments/dbrken/google_bomb_china_flag_search_query_into_chinazi/[Source].
+.Chinazi flag (赤纳粹旗) by <<hong-kong-anti-extradition-bill-protests-2019,Hong Kong protesters>>. Seen https://chinadigitaltimes.net/chinese/2019/08/【盛世一景】赤纳粹旗（chinazi-flag）/[on streets]. https://www.reddit.com/r/HongKong/comments/dbrken/google_bomb_china_flag_search_query_into_chinazi/[Source].
 image::{china-dictatorship-media-base}/Chinazi_flag.png[height=400]
 
 .https://www.youtube.com/watch?v=wD53MEbLDIE <<serpentza-laowhy86,laowhy86>> video "Can We Compare China to Nazi Germany?" published on 2020-04-29. Good side-by-side video comparisons. Says that China is more like Nazi than <<russia>>, but Ciro disagrees, all three are <<is-chinese-politician-x-evil,evil dictatorships>>.
@@ -3055,7 +3078,8 @@ video::w1tF-Yrwe3U[youtube,height=400,width=600]
 .https://www.youtube.com/watch?v=Y1DWJQkOJew The Armstrong and Miller Show "Hitler Has Only Got One Ball" sketch depicts in a funny way the imaginary creation of  the song.
 video::Y1DWJQkOJew[youtube,height=400,width=600]
 
-=== Contributing guidelines
+[[contributing-guidelines]]
+=== Contributing guidelines (贡献指南)
 
 [[shitpost]]
 ==== I want to take my chances and make a shitpost in cirosantilli/china-dictatorship (屎帖子)
@@ -3406,7 +3430,7 @@ Or just because he's trying to <<keyword-attack,take down>> some more websites t
 
 Don't you think that it is much more radical to <<intolerance,be put in jail for your beliefs>> and <<censorship,silenced if you disagree with anything the government says>>?
 
-Ciro doesn't think either China or West is perfect: <<western-media-has-exaggerated-reports-on-flg-for-propaganda-reasons>>.
+Ciro doesn't think either China or West is perfect: <<western-media-has-exaggerated-reports-on-falun-gong-for-propaganda-reasons>>.
 
 He's just listing arguments why he thinks democracy is better, e.g.: <<richer>>, <<war>>.
 
@@ -3552,7 +3576,7 @@ See also:
 * <<harm-programmers>>
 
 [[famous]]
-===== Ciro Santilli is doing his China freedom campaign to become famous
+===== Ciro Santilli is doing his China freedom campaign to become famous (三西猴正在做他的中国自由运动以成名)
 
 No, he am a selfless human being, only concerned with the greater well being of humankind.
 
@@ -3568,11 +3592,13 @@ Duplicate pool:
 
 * https://github.com/cirosantilli/china-dictatorship/issues/5
 
-===== Ciro Santilli is doing his China freedom campaign because it makes him feel important
+[[ciro-santilli-is-doing-his-china-freedom-campaign-because-it-makes-him-feel-important-c]]
+====== Ciro Santilli is doing his China freedom campaign because it makes him feel important (C三西猴正在进行他的中国自由运动，因为这让他觉得自己很重要)
 
 See: <<famous>>.
 
-===== Ciro Santilli is doing his China freedom campaign to vent off his anger
+[[ciro-santilli-is-doing-his-china-freedom-campaign-to-vent-off-his-anger]]
+===== Ciro Santilli is doing his China freedom campaign to vent off his anger (三西猴正在进行他的中国自由运动以发泄他的愤怒)
 
 No, he is not angry at all, see also: <<harm-programmers>>.
 
@@ -3604,14 +3630,16 @@ See also: https://github.com/cirosantilli/china-dictatorship/blob/48a95bf57a16b8
 
 Label: https://github.com/cirosantilli/china-dictatorship/labels/funded-by-cia-argument
 
-==== Would Ciro Santilli be doing his China freedom campaign if he was in China?
+[[would-ciro-santilli-be-doing-his-china-freedom-campaign-if-he-was-in-china]]
+==== Would Ciro Santilli be doing his China freedom campaign if he was in China? (如果他在中国，三西猴会做他的中国自由运动吗？)
 
 Not with his real name attached to it, see also:
 
 * <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>
 * <<not-chinese>>
 
-===== Does your employer support this?
+[[does-your-employer-support-this]]
+===== Does your employer support this project? (你的雇主支持此项目吗？)
 
 My employer has nothing to do with this.
 
@@ -3642,7 +3670,7 @@ This is how much time Ciro spends on this project to give you an idea:
 
 Then Ciro just contributes to programming websites exactly as he would if he weren't making this campaign, and voila.
 
-Edit: to be fair, the end of 2019 and start of 2020 was such as hot year with <<2019-hong-kong-anti-extradition-bill-protests>> and <<covid>> that Ciro might have spent a tiny little bit more ;-)
+Edit: to be fair, the end of 2019 and start of 2020 was such as hot year with <<hong-kong-anti-extradition-bill-protests-2019>> and <<covid>> that Ciro might have spent a tiny little bit more ;-)
 
 But Ciro did it only when his brain was too tired of technical stuff and unable to do more, or as a brain warm up routine in the morning.
 
@@ -3671,10 +3699,10 @@ OK, shall we put that to an anonymous vote just to make sure?
 
 Dear sir or madam: do you want more control over your government? y/n
 
-Oops, I forgot that <<most-chinese-people-like-their-dictatorship,proposing such a vote would put in you jail>>, nevermind.
+Oops, I forgot that <<most-chinese-people-like-their-dictatorship,proposing such a vote would put in you jail>>, never mind.
 
 [[violence]]
-=== Would it be right to use violence to overthrow the CCP?
+=== Would it be right to use violence to overthrow the CCP? (用暴力推翻中共正确吗？)
 
 In an ideal world, Ciro Santilli is of course "against violence".
 
@@ -3760,14 +3788,8 @@ Related discussions:
 
 TODO origin?
 
-==== It is fine for the CCP to treat some of its citizens unfairly if the majority is better off
-
-Basically same discussion as: <<violence>> but with the tables turned.
-
-See also: <<uneducated-masses>>
-
 [[dictatorship]]
-=== Why does Ciro Santilli say that China is a dictatorship? 中国不是独裁！
+=== Why does Ciro Santilli say that China is a dictatorship? (中国不是独裁！)
 
 Ciro is using the word in an slightly extended/joking sense.
 
@@ -3791,7 +3813,8 @@ Further discussions about this useless terminology question:
 
 * https://www.quora.com/Is-China-a-dictatorship
 
-==== Where can I find good words for a keyword attack?
+[[where-can-i-find-good-words-for-a-keyword-attack]]
+==== Where can I find good words for a keyword attack? (我在哪里可以找到关键字攻击的好词？)
 
 * List of blacklisted keywords in China
 ** https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China
@@ -3814,7 +3837,7 @@ See also:
 * <<tiananmen-square-protests-keywords>>
 
 [[keyword-choice]]
-==== How do you choose keywords for the keyword attack?
+===== How does Ciro Santilli choose keywords for the keyword attack? (三西猴如何为关键词攻击选择关键词？)
 
 I haven't counted, but the limit for Stack Overflow is quite low, and I'm always almost at the maximum, which is about "Ciro Santilli" + 3 3-4 Chinese character events with a separator.
 
@@ -3839,7 +3862,8 @@ I am currently trying to maintain in my Stack Overflow Location a ranking of eve
 
 If you think that this list can be improved, please open an issue explaining how and why.
 
-==== Other notable keyword attacks
+[[other-notable-keyword-attacks]]
+==== Other notable keyword attacks (其他值得注意的关键字攻击)
 
 [[notepad]]
 ===== Notepad++
@@ -3909,10 +3933,10 @@ See also: <<keyword-attack>>.
 
 An appropriation attack is one where the attackers attempt to associate an existing symbol to their cause.
 
-For example during the <<2019-hong-kong-anti-extradition-bill-protests>> attackers attempted to use this technique to associate a generic https://en.wikipedia.org/wiki/Chun-Li[Chinese Chun-Li-like] character Mei from Blizzard's link:++https://en.wikipedia.org/wiki/Overwatch_(video_game)++[Overwatch game] to try and get it blocked in China after the gaming company punished a pro gamer for defending the Hong Kong protests. Coverage https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10 (https://web.archive.org/web/20191012094950/https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10[archive]).
+For example during the <<hong-kong-anti-extradition-bill-protests-2019>> attackers attempted to use this technique to associate a generic https://en.wikipedia.org/wiki/Chun-Li[Chinese Chun-Li-like] character Mei from Blizzard's link:++https://en.wikipedia.org/wiki/Overwatch_(video_game)++[Overwatch game] to try and get it blocked in China after the gaming company punished a pro gamer for defending the Hong Kong protests. Coverage https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10 (https://web.archive.org/web/20191012094950/https://www.businessinsider.com/blizzard-fans-overwatch-mei-hong-kong-protests-memes-2019-10[archive]).
 
 [[mei-with-hong-kong]]
-.Mei from Blizzard's Overwatch was used in an attempted <<appropriation-attack>> during the <<2019-hong-kong-anti-extradition-bill-protests>>. https://twitter.com/marnofavonlea/status/1182557311539150849[Source].
+.Mei from Blizzard's Overwatch was used in an attempted <<appropriation-attack>> during the <<hong-kong-anti-extradition-bill-protests-2019>>. https://twitter.com/marnofavonlea/status/1182557311539150849[Source].
 image::{china-dictatorship-media-base}/Mei_with_Hong_kong.jpg[height=600]
 
 ===== Sport event live broadcast image attacks
@@ -4055,7 +4079,8 @@ The article also contains a good summary section "CIA spy operation in China: Ke
 * 2018-06-05 Ron Rockwell Hansen
 ** https://www.bbc.co.uk/news/world-us-canada-44364437
 
-====== 2010 dismantling of CIA's network in China
+[[2010-dismantling-of-cia-s-network-in-china-2010]]
+====== 2010 dismantling of CIA's network in China (2010 拆除中情局在华网络)
 
 * https://en.wikipedia.org/wiki/CIA_activities_in_China#2010
 
@@ -4168,7 +4193,8 @@ image::{china-dictatorship-media-base}/Xi_Apple.jpg[height=400]
 .https://www.youtube.com/watch?v=V4WBsahU3X4 https://en.wikipedia.org/wiki/Stephen_Colbert[Stephen Colbert] comments in 2015 on how American films make a good image of China to be allowed in China by censors to increase sales.
 video::V4WBsahU3X4[youtube,height=400,width=600]
 
-===== Apple
+[[apple]]
+===== Apple (苹果)
 
 Summaries:
 
@@ -4314,10 +4340,10 @@ Western:
 Chinese who are famous in the West:
 
 * https://en.wikipedia.org/wiki/Jackie_Chan#Political_views_and_controversy[Jackie Chan 陳港生] even though he is born in Hong Kong
-** https://www.youtube.com/watch?v=m3T_Dd3O1UM spoke against the <<2019-hong-kong-anti-extradition-bill-protests>>
+** https://www.youtube.com/watch?v=m3T_Dd3O1UM spoke against the <<hong-kong-anti-extradition-bill-protests-2019>>
 ** https://www.thestandard.com.hk/section-news/fc/21/216376/Police-chief-says-Jackie-Chan-made-him
 * https://en.wikipedia.org/wiki/Liu_Yifei#Controversy[Liu Yifei 刘亦菲] who starred in the https://en.wikipedia.org/wiki/Mulan_(2020_film)[Mulan 2020] Disney movie. To make matters more fun, some scenes were shot in <<xinjiang>>: https://www.taiwannews.com.tw/en/news/4004891
-** https://www.theguardian.com/world/2019/aug/16/disneys-mulan-star-sparks-call-for-boycott-with-hong-kong-stance opposed the <<2019-hong-kong-anti-extradition-bill-protests>>, notably saying "What a shame for Hong Kong". The <<chinese-government-media,People's Daily>> later quoted her: https://web.archive.org/web/20190816162331/http://en.people.cn/n3/2019/0816/c90000-9606859.html[]
+** https://www.theguardian.com/world/2019/aug/16/disneys-mulan-star-sparks-call-for-boycott-with-hong-kong-stance opposed the <<hong-kong-anti-extradition-bill-protests-2019>>, notably saying "What a shame for Hong Kong". The <<chinese-government-media,People's Daily>> later quoted her: https://web.archive.org/web/20190816162331/http://en.people.cn/n3/2019/0816/c90000-9606859.html[]
 
 Chinese celebrities who opposed the CCP:
 
@@ -4599,7 +4625,8 @@ image::{china-dictatorship-media-base}/Play_qin_to_cow.png[height=600]
 .XKCD 386 "Duty Calls" and the famous "Someone is wrong on the Internet" quote. It is a waste of time to be like that. https://xkcd.com/386/[Source].
 image::{china-dictatorship-media-base}/Someone_is_wrong_on_the_Internet.png[height=400]
 
-==== Asymmetric information warfare
+[[asymmetric-information-warfare]]
+==== Asymmetric information warfare (不对称信息战)
 
 This is a term "invented" by <<ciro-santilli>> to denote the type of <<dictatorships-tend-to-work-together,democracy vs dictatorship>> propaganda warfare that naturally emerges.
 
@@ -5341,7 +5368,8 @@ Incredible, a hidden undocumented semi-hide-repo feature.
 
 Here's an archive: https://archive.ph/VJQdD That click wall also prevents archives of the repository therefore.
 
-===== GitHub censorship guidelines
+[[github-censorship-guidelines]]
+===== GitHub censorship guidelines (GitHub 审查指南)
 
 https://news.ycombinator.com/item?id=9966118 GitHub threatens to shut down a repository for using the word 'retard'  (2015)
 
@@ -5840,7 +5868,7 @@ Subs with lots of anti-commie info:
 
 * https://www.reddit.com/r/China is arguably the best as of 2020, see: <<r-china>>
 * https://www.reddit.com/r/fucktheccp/ small as of 2020 but promising
-* https://www.reddit.com/r/HongKong had 3x more users than r/china as of 2020 after <<2019-hong-kong-anti-extradition-bill-protests>>.
+* https://www.reddit.com/r/HongKong had 3x more users than r/china as of 2020 after <<hong-kong-anti-extradition-bill-protests-2019>>.
 ** https://www.reddit.com/r/FragrantHarbour/ another Honk Kong one, TODO vs r/HongKong.
 * https://www.reddit.com/r/CCP_virus/ for <<covid>>
 * https://www.reddit.com/r/tibet/ 3k subs 2020
@@ -5939,7 +5967,8 @@ Completely pro-Putin, e.g. removed https://www.reddit.com/r/russia/comments/kd21
 
 * https://www.instagram.com/hongkongprotestposters/
 
-=== Telegram
+[[telegram]]
+=== Telegram (TG)
 
 * https://t.me/anticcpbase
 * https://t.me/ccp_unmasked see also: <<knowlesys>>
@@ -6661,7 +6690,7 @@ video::3uQcGcGGepw[youtube,height=400,width=600]
 [[hong-kong]]
 === Hong Kong (香港)
 
-News source: https://www.reddit.com/r/HongKong/ Became larger than `r/china` during the <<2019-hong-kong-anti-extradition-bill-protests>>.
+News source: https://www.reddit.com/r/HongKong/ Became larger than `r/china` during the <<hong-kong-anti-extradition-bill-protests-2019>>.
 
 There is only one solution to Hong Kong's problem:
 
@@ -6680,7 +6709,8 @@ Related:
 * <<hong-kong-dissidents>>
 * <<lihkg>>
 
-==== Hong Kong 97 SNES video game
+[[hong-kong-97-snes-video-game]]
+==== Hong Kong 97 SNES video game (香港 97 SNES 电子游戏)
 
 * https://en.wikipedia.org/wiki/Hong_Kong_97_(video_game)
 * https://zh.wikipedia.org/wiki/香港97_(遊戲)
@@ -6801,7 +6831,8 @@ Discussion:
 * https://www.reddit.com/r/China/comments/jp3s8a/hong_kong_snitch_hotline_to_report_people/ on <<reddit>>
 * https://lihkg.com/thread/2272029/page/1 on <<lihkg>>
 
-==== 2019 Hong Kong anti-extradition bill protests
+[[hong-kong-anti-extradition-bill-protests-2019]]
+==== 2019 Hong Kong anti-extradition bill protests (反对逃犯条例修订草案运动)
 
 * https://en.wikipedia.org/wiki/2019_Hong_Kong_anti-extradition_bill_protests
 * https://www.youtube.com/watch?v=dEvalUQuClE "Last Hong Kong governor Chris Patten: Gov't defense of extradition bill 'absolute nonsense'", Hong Kong Free Press
@@ -7127,7 +7158,8 @@ See also:
 * <<different-levels-of-truth>>
 * <<flg-daily>>
 
-==== Falun Gong believes that the CCP is literally a manifestation of real devils
+[[falun-gong-believes-that-the-ccp-is-literally-a-manifestation-of-real-devils]]
+==== Falun Gong believes that the CCP is literally a manifestation of real devils (法轮功认为中共是真正恶魔的化身)
 
 Unlike <<ciro-santilli>> which does <<is-chinese-politician-x-evil,not think most CCP politicians are actually evil>>, Falun Gong seems to believe that they literally as in they are representatives of, or evil supernatural beings themselves.
 
@@ -7151,7 +7183,8 @@ ____
 
 Falun Gong gives the CCP too much credit. The CCP are just a bunch of lazy and greedy people like you and me.
 
-==== Falun Gong preaching
+[[falun-gong-preaching]]
+==== Falun Gong preaching (法轮功传教)
 
 link:https://en.wikipedia.org/wiki/Open-air_preaching[Street preaching] is an important aspect of Falun Gong, using stands and leaflets on the streets much like https://en.wikipedia.org/wiki/Jehovah's_Witnesses[Jehovah's Witnesses].
 
@@ -7174,7 +7207,7 @@ image::{china-dictatorship-media-base}/Falun_Gong_street_preaching_2016_London.j
 https://www.youtube.com/watch?t=315&v=nD6792YoOmY from <<nigel-ng,Mikey Chen>> shows a parade/preaching event in San Francisco.
 
 [[flg-telemarketing]]
-===== Some Falun Gong people make phone telemarketing
+===== Some Falun Gong people make phone telemarketing (一些法轮功人搞电话推销)
 
 Ciro Santilli has seen Falun Gong people making phone calls to people in China with to explain why FLG is with his own eyes, and therefore is sure it has happened on some scale.
 
@@ -7250,7 +7283,7 @@ Amusingly, <<li-hongzhi,Li>> calls the communists Communist Evil Party (中共�
 
 The word "Cult" is much more ambiguous in English however, and does not necessarily imply "Evil" in certain contexts, just "worship".
 
-For example, People from <<ciro-santilli>>'s mother's Protestant Church in Brazil, all say that they are going "to the cult" when referring to when they are going to church to pray, sing and read the Bible together.
+For example, People from <<ciro-santilli>>'s mother's Protestant Church in Brazil, all say that they are going "to the cult" ("culto" in Portuguese) when referring to when they are going to church to pray, sing and read the Bible together, here's a Wikipedia page in Portuguese page about it: https://pt.wikipedia.org/wiki/Culto_(Evangelicalismo)
 
 And obviously, the origin of the word "cult" is exactly the same as that of https://en.wiktionary.org/wiki/cultivate#Etymology["cultivate"] as in "cultivate the crops" (which is also how Falun Gong believers refer to practicing Falun Gong: "cultivation practice"). All of those come from the https://en.wiktionary.org/wiki/cult#Etymology[Latin "colō"], which means simply "to protect".
 
@@ -7301,7 +7334,7 @@ image::{china-dictatorship-media-base}/Xi_Jinping_vs_Li_Hongzhi_prophet_pictures
 
 Amazing website talking about Cults and many other things!
 
-The key page of the website is the "Cult Test": https://www.orange-papers.org/orange-cult_q0.html[]. This is a must read.
+The key page of the website is the "Cult Test": https://www.orange-papers.org/orange-cult_q0.html[]. This is a must read. It is basically the https://cirosantilli.com/tv-tropes[TV Tropes] of Cults.
 
 Down as of 2020-04 archive:
 
@@ -7403,13 +7436,17 @@ ____
 [[careful-control-of-your-image]]
 ====== Careful control of your image (小心控制你的形象, Orange Papers, 橙色文件)
 
-The cult leader is a master at controlling how people view him.
+The cult leader is a master at controlling how people view them.
 
 One aspect of that, is after reaching a certain critical mass of mindless followers, to limit your public appearances to situations in which you have the most control, and notably being surrounded only by your believers.
 
-Because of course: you are human, not a God, and you are going to fuck up from time to time, so why take any risks?
+Because of course: you are human, not a God, and you are going to fuck up from time to time, so why take any risks now that you are already established?
 
 <<li-hongzhi>> does not announce where he is going for the most part, even though he is followed by millions: he just shows up unannounced, and local believers whisper to one another in short advance and come to see him when possible.
+
+As a result, there are almost no recordings of Li Hongzhi except from the early days when he actually had to go out and get new believers hooked himself.
+
+What if he farted, or worse, brain-farted during a presentation, like we all do from time to time? Don't want recordings of that, do we? <<flg-canon>> related to those private presentations is only published after careful review of course.
 
 This reminded Ciro of the <<vissarion>> video he watched, in which VICE was allowed to visit and interview <<russia,Siberian>> prophet https://en.wikipedia.org/wiki/Vissarion[Vissarion] (real name Sergey Anatolyevitch Torop Серге́й Анато́льевич То́роп, AKA "The Russian Jesus"), and they note how well he controlled his appearance.
 
@@ -7522,7 +7559,8 @@ image::{china-dictatorship-media-base}/Zhuan_Falun.jpg[height=500]
 .Side-by-side English and Chinese version of Zhuan Falun circa 2010s. These covers are very widespread. Note how the Chinese cover is yellow, almost golden, to indicate that it is cannon. And translations in all other languages are blue, to indicate non-canon. Also note how the drawings of mystical elements have been removed in favor an abstract presentation. This is part of <<different-levels-of-truth>>. https://hkfalundafa.org/2-如何學煉法輪功.html[Source].
 image::{china-dictatorship-media-base}/Zhuan_Falun_2010s_English_vs_Chinese.jpg[height=500]
 
-=== Does Ciro Santilli support FLG, or just use it because it is censored?
+[[does-ciro-santilli-support-falun-gong-or-just-use-it-because-it-is-censored]]
+=== Does Ciro Santilli support Falun Gong, or just use it because it is censored? (三西猴是支持法轮功，还是仅仅因为它被审查而使用它？)
 
 Ciro Santilli doesn't support FLG specifically, only freedom of religion. See of course: <<flg-bias>>.
 
@@ -7539,7 +7577,7 @@ Otherwise, <<democracy-is-a-religion,democracy and communism can also be conside
 See also: <<flg-verifiable>>.
 
 [[flg-daily]]
-=== How is it like to live with Falun Gong believers?
+=== How is it like to live with Falun Gong believers? (与法轮功信徒一起生活是一种怎样的体验？)
 
 This will obviously vary from believer to believer, but here is <<ciro-santilli>>'s experience.
 
@@ -7577,12 +7615,8 @@ Bibliography:
 
 * https://www.zhihu.com/question/27659795 at <<zhihu>>
 
-=== In the Tweet about his mother in law, Ciro Santilli says "correctional facility", but reeducation through labour has been abolished
-
-He was not very precise https://twitter.com/cirosantilli/status/579270450984984576[here], the precise term is "jail". He was _not_ talking about: https://en.wikipedia.org/wiki/Re-education_through_labor Unfortunately it is not possible to edit a Tweet.
-
 [[flg-changed]]
-=== Falun Gong is completely different in the West than it was in China
+=== Falun Gong is completely different in the West than it was in China (法轮功在西方与在中国完全不同)
 
 I believe that it has changed.
 
@@ -7616,7 +7650,8 @@ See also:
 
 * https://www.zhihu.com/question/23988890 at <<zhihu>>
 
-=== Falun Gong has been funded by the US government at least once, therefore it is evil
+[[falun-gong-has-been-funded-by-the-us-government-at-least-once-therefore-it-is-evil]]
+=== Falun Gong has been funded by the US government at least once, therefore it is evil (法轮功至少被美国政府资助过一次，所以是邪恶的)
 
 1.5M USD in 2010 for a FLG controlled internet freedom group https://news.bbc.co.uk/1/hi/world/americas/8678760.stm
 
@@ -7661,7 +7696,7 @@ Also do let me know when you have achieved irrefutable proof that democracy/free
 See also: <<flg-religion>>
 
 [[flg-verifiable]]
-==== FLG never makes any predictions that can be reasonably verified by non-believers
+==== Falun Gong never makes any predictions that can be reasonably verified by non-believers (法轮功从不做任何非信徒可以合理验证的预言)
 
 Exactly, just like any other <<flg-religion>>, this is why <<ciro-santilli>> is <<does-ciro-santilli-believe-in-or-practice-falun-gong,agnostic>> and thinks Falun Gong metaphysics is bullshit.
 
@@ -7735,7 +7770,7 @@ https://en.wikipedia.org/wiki/Futurama[Futurama] also has an interesting take:
 video::ObbVO3A3BvA[youtube,height=400,width=600]
 
 [[against-censorship-and-flg]]
-=== Many people both are against censorship and Falun Gong (我要民主，但是我还要禁止法轮功)
+=== Many people both are against both censorship and Falun Gong (我要民主，但是我还要禁止法轮功)
 
 Ciro know that, and that supporting FLG is "bad" for his public image with most Chinese, including those that are against censorship.
 
@@ -7751,16 +7786,13 @@ If you are not ready to accept the beliefs of others, dictatorship is the only c
 
 It is also interesting to note how Falun Gong is a good source of <<censorship-circumvention>> material.
 
-The famous quote from https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall[Evelyn Beatrice Hall] comes to mind:
+See also:
 
-____
-I disapprove of what you say, but I will defend to the death your right to say it.
-____
-
-See also: <<flg-bias>>
+* <<intolerance>>
+* <<flg-bias>>
 
 [[democracy-is-a-religion]]
-==== Why does Ciro Santilli say that democracy is a religion just like Falun Gong?
+==== Why does Ciro Santilli say that democracy is a religion just like Falun Gong? (为什么三西猴说民主就像法轮功一样是一种宗教？)
 
 Because it also specifies irrational and fundamental aspects of how one should live, notably voting and freedom of speech.
 
@@ -7773,7 +7805,7 @@ Accept democracy, and you will have <<falun-gong>>.
 There is no in-between.
 
 [[flg-stability]]
-==== Falun Gong had to be banned because it was a threat to the stability of the country
+==== Falun Gong had to be banned because it was a threat to the stability of the country (法轮功必须被取缔，因为它威胁到国家的稳定)
 
 Then they link to the Taping Rebellion:
 
@@ -7793,7 +7825,8 @@ Anything that goes against a dictatorship is a threat to the stability of the co
 
 Now read: <<stability>>
 
-=== Many people say they do FLG only to get VISAs to the USA
+[[many-people-say-they-do-falun-gong-only-to-get-visas-to-the-usa]]
+=== Many people say they do Falun Gong only to get VISAs to the USA (很多人说他们修炼法轮功只是为了拿到美国签证)
 
 <<ciro-santilli>> heard this a few times, and I believe it has happened.
 
@@ -7856,7 +7889,7 @@ Branch Davidians were inspired by <<christianity>>. So should we ban Christianit
 * if we ask for FLG believers to compile a list of horrors they have suffered, which they have already been doing since the start of the persecution, I bet that their list will be much longer than yours, because they are so <<flg-organized,well organized>>
 
 [[flg-persecution]]
-=== Falun Gong does not have proof of their persecution claims
+=== Falun Gong does not have proof of their persecution claims (法轮功没有被迫害的证据)
 
 How much proof do you think they would be able to get when there is no freedom of the press?
 
@@ -7865,6 +7898,23 @@ Do you think that forbidding a <<flg-important,70 million>> person religion coul
 Do you think the thousands of personal accounts of human rights violations that exist are all fake, and don't indicate that many, many more have taken place but fallen under censorship?
 
 Conversely, there is no reliable proof that FLG is bad as claimed by CCP that has been verified by international media.
+
+[[western-media-has-exaggerated-reports-on-falun-gong-for-propaganda-reasons]]
+==== Western media has exaggerated reports on Falun Gong for propaganda reasons (西方媒体以宣传为由夸大法轮功报道)
+
+Possibly true, but which reports are you talking about specifically?
+
+All that I care about is:
+
+* it is censored today
+* if you do it you go to jail
+* there were tens of millions of followers at the time of the ban
+
+which I think are undeniable.
+
+The only question that matters is: should it be banned or not?
+
+And as usual: <<censorship-makes-no-one-trust-your-country>>, so which reports can we trust more?
 
 [[sun-yi-falun-gong]]
 ==== Sun Yi (孙毅, 2008)
@@ -7884,7 +7934,7 @@ Coverage:
 * https://www.bbc.co.uk/news/stories-45976946 "The SOS in my Halloween decorations"
 
 [[flg-thoughtcrime]]
-=== Someone from movement X did something bad, therefore the movement should be banned
+=== Someone from movement X did something bad, therefore the movement should be banned (X运动中的某个人做了坏事，因此该运动应该被禁止)
 
 By this logic, everyone should go to jail. The law should only punish individuals.
 
@@ -7898,7 +7948,8 @@ See also: "thoughtcrime" from <<nineteen-eighty-four>>.
 
 Or if you like shitty movies: https://en.wikipedia.org/wiki/Minority_Report_(film)[Minority Report (2002)].
 
-==== Movement X tells people to do something bad, therefore the movement should be banned
+[[movement-x-tells-people-to-do-something-bad]]
+==== Movement X tells people to do something bad, therefore the movement should be banned (运动X告诉人们做坏事，因此运动应该被禁止)
 
 E.g. kill.
 
@@ -7938,7 +7989,8 @@ ____
 ** <<flg-medication>>
 ** <<honour-suicides-in-chinese-history>>
 
-====== Honour suicides in Chinese history
+[[honour-suicides-in-chinese-history]]
+====== Honour suicides in Chinese history (中国历史上的荣誉自杀, Qu Yuan, 屈原, Wu Zixu, 伍子胥)
 
 As https://en.wikipedia.org/w/index.php?title=Suicide_in_China&oldid=992138770#History[mentioned on Wikipedia], China has a long history of suicide for altruistic/moral/honour reasons in Confucian tradition, some of which are still celebrated to this day.
 
@@ -7968,7 +8020,7 @@ He is a symbol of patriotism respected to this day.
 These sound exactly like examples that <<xi-dada>> would want his army to keep in mind: ultimate sacrifice for the motherland.
 
 [[flg-political]]
-=== People from movement X are only in it for political power
+=== People from movement X are only in it for political power (X运动的人只是为了政治权力)
 
 For every desire of the masses, there will be amoral representatives that will step to use that power.
 
@@ -8106,20 +8158,6 @@ Analysis of Trumps electoral fraud claims:
 .https://www.youtube.com/watch?v=WaWjFeo0BgU You Are Not Alone by Tony Chen Music (陳東音樂, 2020) is a timeless classic devotional Trump support song. by Tony who https://www.youtube.com/watch?v=3AZ-jCiXCpI[is a Falun Gong believer]. This is consistent with Ciro's understanding of FLG's view of the world, where <<falun-gong-believes-that-the-ccp-is-literally-a-manifestation-of-real-devils>> ("I see the true light - You are the Chosen One to fight the Red Demon") and therefore Trump is the manifestation of a supernatural force oof Good. The Chinese version is even more open about Trump's God-like status: https://www.youtube.com/watch?v=4ZrVbX8jV_o[], and contains perls such as (official translation) "I see hope - you are the Chosen One to save the world" and "Trump, Trump, you are not alone! Gods and Buddhas are here with you!". The extensive use of Trump's slogan "Make America great again" is also in line with Falun Gong's belief that the world was Good before, but has become Evil today. <<epoch-times>> made a https://www.epochtimes.com/b5/18/2/1/n10105396.htm[profile of Tony in 2018].
 video::WaWjFeo0BgU[youtube,height=400,width=600]
 
-=== Western media has exaggerated reports on FLG for propaganda reasons
-
-Possibly true, but which reports are you talking about specifically?
-
-All that I care about is:
-
-* it is censored today
-* if you do it you go to jail
-* there were tens of millions of followers at the time of the ban
-
-which I think are undeniable.
-
-The only question that matters is: should it be banned or not?
-
 === Does Ciro Santilli believe in the allegations of human rights violations done to Falun Gong believers?
 
 Besides the obvious prohibition of their most fundamental belief, so e.g. being tortured.
@@ -8200,7 +8238,8 @@ Bibliography:
 ** 2019 in EU parliament: https://www.youtube.com/watch?v=7n-9n897jIo
 ** 2017 Him speaking in : https://www.youtube.com/watch?v=FoXKMw4slHY at Ireland's https://www.youtube.com/watch?v=FoXKMw4slHY[House of the Oireachtas]
 
-=== Things Ciro Santilli dislikes about Falun Gong
+[[things-ciro-santilli-dislikes-about-falun-gong]]
+=== Things Ciro Santilli dislikes about Falun Gong (三西猴不喜欢法轮功的事情)
 
 But also as explaining why I don't think it justifies the ban.
 
@@ -8209,7 +8248,7 @@ This section also gives me more credibility as a balanced critic >:-)
 * <<flg-religion,Falun Gong downplays the fact that they are a religion>>
 
 [[flg-organized]]
-==== FLG downplays the fact that it is highly organized
+==== Falun Gong downplays the fact that it is highly organized (法轮功淡化了它高度组织化的事实)
 
 Many FLG practitioners claim that they are not at all organized, or that they have no political interest, and I truly believe that they mean it.
 
@@ -8234,7 +8273,7 @@ Like any other religion, they have all the right to take those actions, and it i
 The only thing that annoys me is their lack of self perception on this matter: the large majority of Western people would definitely classify them as an organized political force after having observed their activities. When they say otherwise, they are hurting their own credibility.
 
 [[flg-transparent]]
-===== FLG media is not transparent about its affiliation
+===== Falun Gong media is not transparent about its affiliation (法轮功媒体对其隶属关系不透明)
 
 Agreed, and it is a point that hurts more than helps their cause.
 
@@ -8244,8 +8283,10 @@ But the media is not legally obliged to state their affiliation.
 
 And if that were the case, then we should force _all_ newspapers to start taking polls of how many employees follow which religion and support which political party, and then put that in their print.
 
+But <<xinhua>> is learning well from this, e.g. <<new-china-tv>>.
+
 [[flg-intolerance]]
-==== Falun Gong dislikes several other groups like homosexuals and some other religions
+==== Falun Gong dislikes several other groups like homosexuals and some other religions (法轮功不喜欢其他几个群体，如同性恋者和其他一些宗教)
 
 Like most <<flg-religion,old religions>>, related: <<hate-speech>>.
 
@@ -8299,7 +8340,7 @@ Teacher: Whether someone can cultivate and whether he can succeed in cultivation
 ____
 
 [[flg-medication]]
-==== FLG believers are less likely to take necessary medication
+==== Falun Gong believers are less likely to take necessary medication (法轮功信徒不太可能服用必要的药物)
 
 Based on what <<ciro-santilli>> saw and heard, he does believe, without any clear statistical evidence, that it is very likely that it hs happened to in many cases that some Falun Gong believers refused to take modern medications and died of diseases that could be otherwise cured.
 
@@ -8401,8 +8442,8 @@ Epidemics are also likely moments where religious grow due to more people being 
 
 It is indeed tempting to believe that the virus magically kills only the Evil. What reality could be so fucked up where the innocent suffocate to their death? And yet, here we are.
 
-[[falun-gong-lithurgical-calendar]]
-==== Falun Gong lithurgical calendar (法轮功教会年历)
+[[falun-gong-liturgical-calendar]]
+==== Falun Gong liturgical calendar (法轮功教会年历)
 
 Exactly like https://en.wikipedia.org/wiki/Liturgical_year[other religions], Falun Gong has some important dates that are celebrated to keep believers engaged. Those are:
 
@@ -8411,6 +8452,8 @@ Exactly like https://en.wikipedia.org/wiki/Liturgical_year[other religions], Fal
 Also known as "Dafa Day".
 +
 The international Falun Gong conference, usually called just "Fa Conference" (法会), also happens around that date in New York, the state where Li Hongzhi lives in <<dragon-springs>> for the same reason, e.g. in 2019 it was on May 17 https://www.ntd.com/over-10000-share-stories-of-self-improvement-at-falun-dafa-conference_331440.html
++
+There are other more local Fa conferences held throughout the year however also.
 
 [[li-hongzhi]]
 ==== Li Hongzhi (李洪志, LHZ, Falun Gong prophet)
@@ -8464,7 +8507,8 @@ image::{china-dictatorship-media-base}/Li_Hongzhi_dubstep.webp[height=400]
 .https://www.youtube.com/watch?v=_7JK576nxm0 音乐视频：《师尊的手》<<falun-gong>> music video "The master's hand" contains some a bit of good old time <<li-hongzhi>> footage.
 video::_7JK576nxm0[youtube,height=400,width=600]
 
-===== FLG is dangerous because Li Hongzhi has too much power over followers
+[[falun-gong-is-dangerous-because-li-hongzhi-has-too-much-power-over-followers]]
+===== Falun Gong is dangerous because Li Hongzhi has too much power over followers (法轮功是危险的，因为李洪志对追随者的权力太大)
 
 Ciro agrees that there is danger in every religion, and especially new religions.
 
@@ -8484,7 +8528,10 @@ Furthermore, it also seems to Ciro that FLG is clearly anti-violence and self-ha
 
 It is also interesting to look into the https://en.wikipedia.org/wiki/Jonestown case. When the suicide order came, most people wanted out! Without physically controlling the followers, I don't think you can make them do much.
 
-===== Li Hongzhi's hagiography
+Related: <<flg-stability>>.
+
+[[li-hongzhis-hagiography]]
+===== Li Hongzhi's hagiography (李洪志的圣徒传记)
 
 https://en.wikipedia.org/wiki/Li_Hongzhi mentions that there are two versions of the biography:
 
@@ -8510,11 +8557,13 @@ A possible Chinese copy might be found at: http://qingqing.freebbs.tw/viewthread
 +
 The section is entitled "中国法轮功创始人、法轮功研究会会长 李洪志先生小传", so literally tranlated as a "profile" (小传) rather than a full biography. The index marks it as 附 (addendum), and it comes at the end of the book.
 
-===== What will happen to Falun Gong when Li Honzhi dies?
+[[what-will-happen-to-falun-gong-when-li-honzhi-dies]]
+===== What will happen to Falun Gong when Li Honzhi dies? (李洪志死后，法轮功会怎样？)
 
 https://www.quora.com/What-will-happen-to-Li-Hongzhi-the-founder-of-Falun-Gong-when-he-is-not-in-this-world-anymore/answer/Ciro-Santilli
 
-===== Let's make a mini series about Li Hongzhi's life
+[[let-s-make-a-mini-series-about-li-hongzhi-s-life]]
+===== Let's make a mini series about Li Hongzhi's life (让我们制作一个关于李洪志生平的迷你系列)
 
 Ciro can't help but to imagine how Falun Gong came about in detail.
 
@@ -8802,7 +8851,8 @@ Mystical movements like that likely had a decent following in Brazil, especially
 +
 At https://www.instagram.com/p/COOnUMwHD_Q/ for example
 
-=== Falun Gong bibliography
+[[falun-gong-bibliography]]
+=== Falun Gong bibliography (法轮功参考书目)
 
 * https://www.quora.com/Why-is-the-Chinese-government-against-Falun-Gong on <<quora>>
 * https://www.zhihu.com/question/23988890 at <<zhihu>>
@@ -9026,24 +9076,26 @@ Related <<github-repositories-with-censored-information>>:
 [[labour-rights]]
 == Labour rights (劳工权益)
 
-On more case where <<censorship-makes-it-harder-to-solve-social-problems>>:
+One more case where <<censorship-makes-it-harder-to-solve-social-problems>>.
 
-* Mengzhu TODO Chinese name 2021: https://www.npr.org/2021/04/13/984994360/he-tried-to-organize-workers-in-chinas-gig-economy-now-he-faces-5-years-in-jail
+They key problem seems to be that you cannot freely establish a trade union without government approval, so you not as well represented as an employee.
 
-2021-03-02 https://hk.appledaily.com/news/20210302/EK4WOQBICNEGDFP2SSG7ZJ3PGI/ (https://hk.appledaily.com/china/20210301/KM2MXDHHXRAQHFB4MYFU6XOFTY/[Chinese version]) "Chinese food delivery worker detained after campaigning for labor rights":
+The same general line that applies to any organization: every movement has to be government approved.
 
-____
-Chinese authorities have detained a worker after he advocated for fair pay and other labor rights from his former employer, the food delivery giant Ele.me.
-
-Chen Tianhe (陳天河) has not been heard from since he was detained on Feb. 25, according to mainland Chinese media reports.
-____
-
+* 2021 Mengzhu TODO Chinese name. https://www.npr.org/2021/04/13/984994360/he-tried-to-organize-workers-in-chinas-gig-economy-now-he-faces-5-years-in-jail
 * 2021-06-09 Protests held after it was announced that Nanjing University (C9 league, China's Ivy League) would be merged with a vocational institute (much much less prestigious)
 ** https://www.bbc.co.uk/news/world-asia-china-57409218 Normal University's Zhongbei College
 ** scuffle videos
 *** https://www.youtube.com/watch?v=a7QMLGmfO8U
 *** https://www.youtube.com/watch?v=jmndJO9_ayk
 *** https://www.youtube.com/watch?v=q1A9n-bGPFo
+* 2021-03-02 Chen Tianhe https://web.archive.org/web/20210623101950/https://en.appledaily.com/article/EK4WOQBICNEGDFP2SSG7ZJ3PGI/ (https://hk.appledaily.com/china/20210301/KM2MXDHHXRAQHFB4MYFU6XOFTY/[Chinese version]) "Chinese food delivery worker detained after campaigning for labor rights":
++
+____
+Chinese authorities have detained a worker after he advocated for fair pay and other labor rights from his former employer, the food delivery giant Ele.me.
+
+Chen Tianhe (陳天河) has not been heard from since he was detained on Feb. 25, according to mainland Chinese media reports.
+____
 * 2020 City Dream film (城市梦) Weijun Chen's (陈为军) lively new film documents the struggles of Wang Tiancheng, an elderly and cantakerous street vendor in Wuhan, China, whose business is threatened by the development of a new retail district.
 ** 2021 http://www.sixthtone.com/news/1007364 New Film Turns the Tables on China’s Infamous 'Chengguan' (城管)
 ** not censured in China:
@@ -9078,6 +9130,7 @@ Coverage:
 Related:
 
 * https://github.com/formulahendry/955.WLB a whitelist version of 996 ICU. Good thoughts.
+* https://www.youtube.com/watch?v=l8wWoQ3_F00 The Extreme 996 Work Culture in China by VICE (2021)
 
 Other interesting GitHub repositories: <<github-repositories-with-censored-information>>.
 
@@ -9168,11 +9221,12 @@ Most notable people implicated:
 
 See also <<ciro-santilli>>'s answer to https://www.quora.com/What-is-the-net-worth-of-Xi-Jinping/answer/Ciro-Santilli[What is the net worth of Xi Jinping?] answer on <<quora>>.
 
-===== Foreign citizenship of Xi Jinping's family
+[[foreign-citizenship-of-xi-jinping-s-family]]
+===== Foreign citizenship of Xi Jinping's family (习近平家族外籍人士)
 
 <<li-hongzhi,Cult leaders>> hate having <<li-hongzhis-family,their families examined>>. So let's do it.
 
-TODO confirm: https://www.reddit.com/r/China/comments/c20xf3/almost_every_members_in_president_xis_family/ from <<reddit>>.
+TODO confirm: https://www.reddit.com/r/China/comments/c20xf3/almost_every_members_in_president_xis_family/ from <<reddit>>. Seems fake.
 
 One Redditor https://www.reddit.com/r/China/comments/c20xf3/almost_every_members_in_president_xis_family/ergsu6v/?utm_source=reddit&utm_medium=web2x&context=3[translated]:
 
@@ -9186,6 +9240,7 @@ One Redditor https://www.reddit.com/r/China/comments/c20xf3/almost_every_members
 * Deng's grandchild - American
 * Mao's grandchild - American
 
+[[xi-mingze]]
 ====== Xi Mingze (Xi Jinping's daughter, 习明泽)
 
 https://en.wikipedia.org/wiki/Xi_Mingze
@@ -9875,7 +9930,7 @@ How I find them: <<anti-ccp-info-sources>>.
 === News 2019
 
 * 2019-12-18 Fudan University in China removes "freedom of thought" from university charters, students protes
-* 2019-10-16 https://www.theregister.co.uk/2019/10/16/gitlab_employees_gagged/ GitLab prevents employees from discussing politics at work, and will not veto clients. This is not confirmed, but I guess it is very likely in reply to the <<2019-hong-kong-anti-extradition-bill-protests>> given the timing. The https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/30656[merge request] (https://web.archive.org/web/20191017080216/https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/30656[archive]).
+* 2019-10-16 https://www.theregister.co.uk/2019/10/16/gitlab_employees_gagged/ GitLab prevents employees from discussing politics at work, and will not veto clients. This is not confirmed, but I guess it is very likely in reply to the <<hong-kong-anti-extradition-bill-protests-2019>> given the timing. The https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/30656[merge request] (https://web.archive.org/web/20191017080216/https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/30656[archive]).
 * Twitter to block operations by oppressive foreign state media
 ** https://blog.twitter.com/en_us/topics/company/2019/information_operations_directed_at_Hong_Kong.html Reddit: https://www.reddit.com/r/China/comments/csodbt/twitter_suspends_nearly_1000_accounts_connected/
 ** https://blog.twitter.com/en_us/topics/company/2019/advertising_policies_on_state_media.html Reddit: https://www.reddit.com/r/China/comments/csnsyn/twitter_policy_change_we_will_not_accept/
@@ -11110,7 +11165,14 @@ Links:
 
 * http://www.xinhuanet.com/
 * https://twitter.com/PDChina
-* https://www.youtube.com/user/ChinaViewTV "New China TV"
+
+===== New China TV
+
+https://www.youtube.com/user/ChinaViewTV
+
+International propaganda by <<xinhua>>.
+
+Basically as covert as Falun Gong media: <<flg-transparent>>.
 
 [[internal-media-of-china]]
 ===== Internal media of China (内参)
@@ -11596,7 +11658,7 @@ Just because they are/were funded/founded by the CIA, it doesn't mean that we ca
 * https://en.wikipedia.org/wiki/Apple_Daily
 * https://zh.wikipedia.org/wiki/蘋果日報_(香港)
 
-Website: https://hk.appledaily.com/
+Website: https://hk.appledaily.com/ Fully down 2021, long live <<wayback-machine>>.
 
 Founded by <<jimmy-lai>>.
 
@@ -12178,7 +12240,7 @@ video::4vpPqYYyUdU[youtube,height=400,width=600]
 https://www.inke.cn/
 
 [[internal-censorship]]
-==== Internal censorship is necessary to prevent fake USA accounts from creating harmful propaganda
+==== Internal censorship is necessary to prevent fake USA accounts from creating harmful propaganda (内部审查是必要的，以防止虚假的美国账户制造有害宣传)
 
 * https://en.wikipedia.org/wiki/Censorship_in_China
 * https://zh.wikipedia.org/wiki/中华人民共和国言论审查
@@ -12245,7 +12307,8 @@ image::{china-dictatorship-media-base}/Nazi_book_burning_vs_Falun_Gong_book_dest
 .https://www.youtube.com/watch?v=kHCmiWaHUCw The Burning of the Books 10 May 1933 by British Pathé. Shows some good footage of book being burnt at night, followed by a Goebles speech at the same site. TODO subtitles, YouTube's auto-generation and translation is reasonable.
 video::kHCmiWaHUCw[youtube,height=400,width=600]
 
-==== China has more freedom of speech than the USA!
+[[china-has-more-freedom-of-speech-than-the-usa]]
+==== China has more freedom of speech than the USA! (中国比美国有更多的言论自由！)
 
 When you hear that online, it really makes you wonder if those people believe it or are <<wumao,paid to say it>>.
 
@@ -12264,7 +12327,7 @@ Another option is to point them to the political report categories of the <<cac-
 video::c1HdCIW2Xtk[youtube,height=400,width=600]
 
 [[t-shirt]]
-===== What happens if you wear a T-shirt with censored words in China?
+===== What happens if you wear a T-shirt with censored words in China? (如果你在中国穿一件带有审查词的 T 恤会怎样？)
 
 See also <<ciro-santilli>>'s answer to https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli[What would happen if I walked around Beijing with a t-shirt that said "freedom of speech is pretty great"?] on <<quora>>.
 
@@ -13060,7 +13123,8 @@ Why I delete your posts, but I don't delete wumao's posts? Because it is only po
 ____
 * https://chinadigitaltimes.net/chinese/2019/08/【麻辣总局】新型敏感词武器：赵弹磁铁/ by <<china-digital-times>> 
 
-===== Where to find wumaos
+[[where-to-find-wumaos]]
+===== Where to find wumaos (哪里可以找到五毛？)
 
 <<wumao,Wumaos>> are particularly easy to spot on <<censorship-monitoring,Western websites banned in China>> and when written in English, since there is no way that strong pro-CCP opinions would get any support in such circumstances:
 
@@ -13432,12 +13496,14 @@ Coverage:
 +
 video::Dkw15LkZ_Kw[youtube,height=400,width=600]
 
-=== Chinese foreign interference campaigns
+[[chinese-foreign-interference-campaigns]]
+=== Chinese foreign interference campaigns (中国外国干涉运动)
 
 See also:
 
 * <<chinese-interference-in-western-media>>
 * <<chinese-interference-in-the-western-education-systems>>
+* <<communist-bread>>
 
 [[belt-and-road-initiative]]
 ==== Belt and Road Initiative (一带一路)
@@ -14320,7 +14386,7 @@ Brazil had a <<military-dictatorship-in-brazil,dictatorship from 1964 to 1985>>,
 * https://fr.wikipedia.org/wiki/À_la_volonté_du_peuple
 * https://zh.wikipedia.org/wiki/Do_You_Hear_the_People_Sing%3F
 
-Cantonese version used in <<2019-hong-kong-anti-extradition-bill-protests,Hong Kong>>: https://zh.wikipedia.org/wiki/問誰未發聲[], literally "ask who has not spoken".
+Cantonese version used in <<hong-kong-anti-extradition-bill-protests-2019,Hong Kong>>: https://zh.wikipedia.org/wiki/問誰未發聲[], literally "ask who has not spoken".
 
 A <<github>> reupload with <<hong-kong>> background images: https://github.com/cirosantilli/china-dictatorship/issues/507
 
