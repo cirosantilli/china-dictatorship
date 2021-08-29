@@ -4257,7 +4257,8 @@ Interestingly however, Ciro still recevied some profile views from Chinese profi
 .3 days after <<ciro-santilli>> put up anti-CCP messages on his LinkedIn, the account was banned in China. They are quite efficient. <<zhou-fengsuo>> had notably https://www.buzzfeednews.com/article/meghara/china-linkedin-zhou-fengsuo[previously achieved this]. Another report by a https://www.buzzfeednews.com/article/meghara/linkedin-censorship-peter-humphrey[Peter Humphrey].
 image::{china-dictatorship-media-base}/Ciro_Santilli_LinkedIn_China_ban.png[height=600]
 
-===== Chinese interference in Western media
+[[chinese-interference-in-western-media]]
+===== Chinese interference in Western media (中国干预西方媒体)
 
 This lists links between owners of several US media outlets and China: https://thefederalist.com/2020/05/04/has-china-compromised-every-major-mainstream-media-entity/[] "A Rundown Of Major U.S. Corporate Media’s Business Ties To China". No direct evidence that this has affected the news however.
 
@@ -13504,6 +13505,7 @@ See also:
 * <<chinese-interference-in-western-media>>
 * <<chinese-interference-in-the-western-education-systems>>
 * <<communist-bread>>
+* <<operation-fox-hunt>>
 
 [[belt-and-road-initiative]]
 ==== Belt and Road Initiative (一带一路)
