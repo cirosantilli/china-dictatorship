@@ -10925,11 +10925,19 @@ image::{china-dictatorship-media-base}/Chloe_Zhao_won_93rd_Oscar.jpg[height=500]
 
 List of external links to essays: https://github.com/zhangrunxu/zhangrunxu.github.io
 
+Other related repositories:
+
+* https://github.com/FreeXZR/Free-Xu-Zhangrun
+
 Key articles seem to be:
 
+* 2020 Viral Alarm: When Fury Overcomes Fear about <<covid>> which added him to <<people-arrested-for-reporting-on-the-2019-corona-virus>>
+** https://github.com/cirosantilli/china-dictatorship/blob/master/许章润-愤怒的人民已不再恐惧.md[]. Text taken from: https://github.com/AngryFear/FearAndHope[].
+** English translation: http://www.chinafile.com/reporting-opinion/viewpoint/viral-alarm-when-fury-overcomes-fear
 * 2019 Imminent Fears, Immediate Hopes 我們當下的恐懼與期待
-** link:许章润-我们当下的恐惧与期待.md[] from https://hk.news.yahoo.com/許章潤-我們當下的恐懼與期待-全文-105141515.html converted to simplified for the <<little-pink>>s
+** https://github.com/cirosantilli/china-dictatorship/blob/master/许章润-我们当下的恐惧与期待.md[]. Text taken from https://hk.news.yahoo.com/許章潤-我們當下的恐懼與期待-全文-105141515.html[] and converted to simplified for the <<little-pink>>s
 ** commented English translation: https://chinaheritage.net/journal/imminent-fears-immediate-hopes-a-beijing-jeremiad/
+** https://github.com/AngryFear/FearAndHope GitHub repository with only that essay
 
 [[vicky-xu]]
 ==== Vicky Xu (许秀中)
