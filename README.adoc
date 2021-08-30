@@ -9309,6 +9309,9 @@ image::{china-dictatorship-media-base}/Xi_Jinping_photoshopped_as_The_Joker.jpg[
 .<<xi-jinping>>, <<jiang-zemin>> and <<hu-jintao>> photoshopped on top of a clothing advertisement (TODO original). The text reads: "江胡险恶 习以为常". TODO understand. 江胡 are the surnames of <<jiang-zemin>> and <<hu-jintao>>. 习 is the surname of; <<xi-jinping>>. "习以为常" is a fixed expression that means "to get accustomed to". Also asked at: https://www.mohu.rocks/question/573 on <<mohu>>, and explained at: https://www.secretchina.com/news/gb/2003/12/03/56236.html from <<falun-gong-media>>. https://twitter.com/BeqB38ldjIu5acT/status/1377094062063292418[Source]
 image::{china-dictatorship-media-base}/Xi_Jiang_Hu.jpg[height=400]
 
+.Meme impliying that <<xi-jinping>>'s 2021 https://www.bloomberg.com/news/features/2021-08-01/china-tech-crackdown-communist-party-policy-changes-behind-1-trillion-selloff[tech crackdown] was much mroe destructive to the Chinese economy than https://thediplomat.com/2021/08/the-biden-administrations-china-sanctions-dilemma/[contemporary economic sanctions imposed by United States president Biden]. https://www.reddit.com/r/China/comments/pb5ft2/meme_xis_successive_series_of_economically/[English source], https://twitter.com/xijinpingqindie/status/1429480173938745348[Chinese source], meme template https://www.reddit.com/r/MemeTemplatesOfficial/comments/dlla95/man_hold_man_a_knifepoint_an_then_someone_shoots/[by Joan Cornella].
+image::{china-dictatorship-media-base}/Biden_sanctions_vs_Xi_Jinping_tech_crackdown_2021.jpg[height=700]
+
 [[xi-jinping-lookalikes]]
 ===== Xi Jinping lookalikes (习近平撞脸)
 
@@ -11922,6 +11925,8 @@ Known primarily for its mine, which was one of the oldest operating companies in
 
 Ermm, fear of going to jail for not kissing up to dictators well enough? Part of <<censorship>>.
 
+* 2021-08 https://www.reddit.com/r/China/comments/pe1abw/witcher_the_card_game_officially_released_in/ Witcher the card game officially released in China, here is how it looks
+
 .https://youtu.be/MCxzMYVvHBg?t=227 Shostakovich - How to Compose Music Despite [ R E D A C T E D ] by Tantacrul (2019) highlights how the famous Russian composer https://en.wikipedia.org/wiki/Dmitri_Shostakovich[Dimitri Shostakovich] had to continually work around the <<russia,Soviet Union>>'s censorship in his compositions.
 video::MCxzMYVvHBg[youtube,height=400,width=600,start=227]
 
@@ -13030,6 +13035,8 @@ Examples:
 
 * <<notepad-chinese-browsers-block-2020>>
 * <<china-dictatorship-chinese-web-browser-block>>
+
+Asking if there is a <<greatfire>> Analyzer for it: https://github.com/cirosantilli/cirosantilli.github.io/issues/75
 
 [[china-dictatorship-chinese-web-browser-block]]
 ====== china-dictatorship Chinese web browser block (2021, china-dictatorship 中国浏览器审查)
