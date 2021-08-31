@@ -616,8 +616,8 @@ A few accounts were created by this pseudonym, e.g.:
 
 Much more sanely encoded/formatted/rendered versions can be found at:
 
-* https://github.com/cirosantilli/china-dictatorship/blob/master/21century.md[]. Copied from https://matters.news/@halanh/网传70岁赫连禾用大半生研究构建-21世纪新政-引发专家们高度关注-bafyreihnbf6jyzvwyybwl5hym2nikj5zrpwxli6nphzylvdq6btsbydn3y
-* https://github.com/cirosantilli/china-dictatorship/blob/master/wang-huning-three-dynasties.adoc[]. Copied from: https://matters.news/@halanh/三朝罪恶元凶王沪宁-bafyreifrjf5ce45fqpif4nms4x72mlrbyijs7bffqi7f7sng47fuelkhmm
+* https://github.com/cirosantilli/china-dictatorship/blob/master/赫连禾-21世纪新政宣言.md[]. Copied from https://matters.news/@halanh/网传70岁赫连禾用大半生研究构建-21世纪新政-引发专家们高度关注-bafyreihnbf6jyzvwyybwl5hym2nikj5zrpwxli6nphzylvdq6btsbydn3y
+* https://github.com/cirosantilli/china-dictatorship/blob/master/郝雪森-三朝罪恶元凶王沪宁.adoc[]. Copied from: https://matters.news/@halanh/三朝罪恶元凶王沪宁-bafyreifrjf5ce45fqpif4nms4x72mlrbyijs7bffqi7f7sng47fuelkhmm
 
 Both Zhao Heming repos contain reproductions of two manifestos are pasted together on a single file, and somewhat broken encoding.
 
@@ -630,7 +630,7 @@ https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665 "为什么这
 
 After further inspection, taught understood that repository descriptions given to GitHub can be really huge for SEO: they had pasted the entire 21st century text there.
 
-So Ciro attempted the same approach, and pasted all of link:21century.md[], link:wang-huning-three-dynasties.adoc[] and link:fifth-modernization.md[] in there on 2021-03-23, and the effect was dramatic: an immediate 4x more views on the following day according to https://github.com/cirosantilli/china-dictatorship/graphs/traffic[] (40 unique visitors to 100 on a Wednesday), and a few wumao comments. And a wumao soon confirmed that it was working directly: https://github.com/cirosantilli/china-dictatorship/issues/201[].
+So Ciro attempted the same approach, and pasted all of link:https://github.com/cirosantilli/china-dictatorship/blob/master/赫连禾-21世纪新政宣言.md[], https://github.com/cirosantilli/china-dictatorship/blob/master/郝雪森-三朝罪恶元凶王沪宁.adoc[] and https://github.com/cirosantilli/china-dictatorship/blob/master/魏京生-第五个现代化.md[] in there on 2021-03-23, and the effect was dramatic: an immediate 4x more views on the following day according to https://github.com/cirosantilli/china-dictatorship/graphs/traffic[] (40 unique visitors to 100 on a Wednesday), and a few wumao comments. And a wumao soon confirmed that it was working directly: https://github.com/cirosantilli/china-dictatorship/issues/201[].
 
 Ciro believes that this is due to two reasons:
 
@@ -9791,7 +9791,7 @@ we do not want to serve as mere tools of dictators with personal ambitions for c
 We want to modernize the lives of the people. Democracy, freedom, and happiness for all are our sole objectives
 ____
 
-Full text: link:fifth-modernization.md[].
+Full text: link:魏京生-第五个现代化.md[].
 
 [[mao-zedong]]
 === Mao Zedong (毛泽东, 1954–1976)
@@ -9850,7 +9850,7 @@ Even <<pro-chinese-government-media,kknews>> confirms: https://kknews.cc/zh-my/n
 * https://en.wikipedia.org/wiki/Great_Leap_Forward
 * https://zh.wikipedia.org/wiki/大跃进
 
-.A high tower of https://en.wikipedia.org/wiki/Wax_gourd[winter gourds] "冬瓜上高楼" propaganda poster for the Great Leap Forward by https://chineseposters.net/artists/jinmeisheng.php[Jin Meisheng] published in 1959. <<western-democracies-are-not-perfect,Even in democracies>>, politicians promise the fat gourds. But when there is <<censorship,no free media to control their>> lies, things can get really out of hand. http://www.iisg.nl/exhibitions/chairman/chn11.php[Source].
+.A high tower of <<winter-melon,winter melons>> "<<winter-melon,冬瓜>>上高楼" propaganda poster for the Great Leap Forward by https://chineseposters.net/artists/jinmeisheng.php[Jin Meisheng] published in 1959. <<western-democracies-are-not-perfect,Even in democracies>>, politicians promise the fat gourds. But when there is <<censorship,no free media to control their>> lies, things can get really out of hand. http://www.iisg.nl/exhibitions/chairman/chn11.php[Source].
 image::{china-dictatorship-media-base}/Winter_gourd.jpg[height=600]
 
 .Communist Children Catch Pokemon: the true meaning of https://en.wikipedia.org/wiki/Soviet_Union[CCCP]. Edited from the original poster with a <<little-red-book>> instead of Pokeball and no "CCCP" shown at https://www.pinterest.fr/pin/360428776411504491/[]. By Volaran Cadires. https://www.pinterest.fr/pin/405253666454984678/[Source].
@@ -10535,6 +10535,11 @@ She criticized <<xi-jinping>> in private online meeting, and the audio was leake
 
 Not sure if these are dissidents or not:
 
+* 2021-08
+** https://en.wikipedia.org/wiki/Zhao_Wei[Zhao Wei]
+** https://zh.wikipedia.org/wiki/趙薇[赵薇]
+** https://baike.baidu.com/item/赵薇/139401 up 2021-08-30
+** https://www.bloomberg.com/news/articles/2021-08-27/top-chinese-star-zhao-wei-clipped-on-country-s-internet
 * https://en.wikipedia.org/wiki/Naomi_Wu
 ** https://zh.wikipedia.org/wiki/吴淖米[], SexyCyborg, "机械妖姬"
 ** https://twitter.com/RealSexyCyborg/status/1341572058006736897 <<tank-man>> clip. But it might be just to show that Chinese have freedom of speech? Not sure.
@@ -14817,6 +14822,40 @@ This is good!
 * https://zh.wikipedia.org/wiki/拉面
 
 Silk road stuff of course.
+
+[[daikon]]
+=== Daikon (白萝卜, big long Chinese white radish)
+
+* https://en.wikipedia.org/wiki/Daikon
+* https://zh-yue.wikipedia.org/wiki/白蘿蔔
+
+Ahh, one of those things that got the Japanese name in the West, so unfair.
+
+In Japanese it is (大根, da2 gen1, lit. "big root"), you can still see the sound similarity from Mandarin.
+
+Also crazy how there's no Mandarin Chinese wiki page for it.
+
+[[daikon-pork-rib-soup]]
+==== Daikon pork rib soup (排骨萝卜汤)
+
+https://www.xiachufang.com/recipe/1001847/
+
+One of <<ciro-santilli>>'s favorite home made dishes!!! Don't forget to dip the meat into soy sauce at the table, since the soup is not too salty on its own.
+
+[[winter-melon]]
+==== Winter melon (冬瓜)
+
+* https://en.wikipedia.org/wiki/Wax_gourd
+* https://zh.wikipedia.org/wiki/冬瓜
+
+One of those unfortunate translations from the past. Wax, does it come out of someone's ear? Gourd, WTF is a gourd?
+
+Basically a softer <<daikon>>, there's likely some better comparison to a Western vegetable, but Ciro can't think of one right now.
+
+Good ways to eat include:
+
+* <<daikon-pork-rib-soup>> but with winter melon instead of daikon
+* https://en.wikipedia.org/wiki/Sweetheart_cake[sweetheart cake filling]. Yup, it can also be used in sweets!
 
 [[restaurants]]
 == The best Chinese restaurants outside of China (中国以外最好的中国饭店)
