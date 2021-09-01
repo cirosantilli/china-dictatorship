@@ -428,7 +428,7 @@ Mentioned in other sections:
 ** https://github.com/HuaweiJoke/Huawei-Joke
 * https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo from <<fuck-xuexiqiangguo>>
 * from <<metoo>>
-** https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md
+** https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md see <<yue-xin>>
 ** https://github.com/CNwoman-bot/evil-man from <<evil-man>>
 * https://github.com/fuckcqcs/fuckcqcs at <<changsheng-bio-technology-vaccine-data-falsification-incident-2018>>
 * <<xi-jinping-speech-synthesizer>>
@@ -9040,6 +9040,37 @@ image::{china-dictatorship-media-base}/Qing_Dinasty_gay_foreplay.jpg[height=400]
 .Lesbian couple hugging in Shanghai in the 1930s. The woman on the left might have had polio based on the deformity of their right leg. TODO proper source, could not find one on Google reverse image search. https://www.reddit.com/r/China/comments/muvkmu/a_lesbian_couple_embracing_posing_in_their_qipao/[Source].
 image::{china-dictatorship-media-base}/Lesbian_couple_Shanghai_30s.jpg[height=500]
 
+[[everyone-can-feel-that-a-profound-change-is-underway-by-li-guangman]]
+=== Everyone can feel that a profound change is underway by Li Guangman (2021, 李光满《每个人都能感受到，一场深刻的变革正在进行！》)
+
+Politicla essay reposted by major <<chinese-government-media>>:
+
+* <<xinhua>>: http://xinhuanet.com/politics/2021-08/29/c_1127807097.htm
+* <<peoples-daily>>: http://politics.people.com.cn/n1/2021/0829/c1001-32211523.html
+
+The hole thing is about exerting greater state control on everything, a trend that has been observed as of August 2021, notably on the media.
+
+The damning <<gay-rights>> sentence appears to be:
+
+____
+彻底杜绝社会性格中的娘炮和小鲜肉现象，真正让娱乐圈、文艺圈、影视圈风正、气正
+____
+
+which translates as:
+
+____
+Completely put an end to the phenomenon of sissies and teen idols in the social character, and truly make the entertainment, art, and film and television circles upright and upright.
+____
+
+the slang keywords being:
+
+- 娘炮: sissy
+- 小鲜肉: teen idols (lit. little fresh meat)
+
+The author Li Guangman (李光满) was not notable enough yet to have a Wikipedia page, not even <<baidu-baike>>, so <<zhihu>> for now: https://www.zhihu.com/question/60685910
+
+It should be noted that the homophobia is just a tiny fraction of the essay, which is much more generally about the state taking more control over everything, including culture, and sparking fears of a second <<cultural-revolution>>.
+
 [[womans-rights]]
 == Woman's rights (妇女权利)
 
@@ -9175,6 +9206,7 @@ https://github.com/sikaozhe1997/Xin-Yue is a <<github-repositories-with-censored
 about the events described at https://web.archive.org/web/20200104064812/https://www.nytimes.com/2018/04/09/world/asia/china-metoo-gao-yan.html["China's #MeToo: How a 20-Year-Old Rape Case Became a Rallying Cry"] she accuses professor Shen Yang of the Peking University Chinese literature of raping student Gao Yan, ultimately leading to her suicide in 1998:
 
 * https://sikaozhe1997.github.io/Xin-Yue/#/岳昕：致北京大学师生和北大外国语学院的一封公开信.md Chinese original
+** reproduced: at https://github.com/cirosantilli/china-dictatorship/blob/master/许章润-愤怒的人民已不再恐惧.md[]
 * https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md in-tree translation "Yue Xin: An open letter to the students and academic staff of Peking University and the PKU School of Foreign Languages"
 * 2018-04 https://chinadigitaltimes.net/2018/04/translation-open-letter-on-peking-university-metoo-case/ "TRANSLATION: OPEN LETTER ON PKU #METOO CASE" by <<china-digital-times>>
 
@@ -11206,6 +11238,7 @@ I consider the media in this section biased, and never cite it for fact-checking
 Links:
 
 * http://www.xinhuanet.com/
+** http://news.cn/ mirror of the above
 * https://twitter.com/PDChina
 
 ===== New China TV
@@ -12016,6 +12049,7 @@ In the following sections:
 * <<zhao-heming>>
 * <<xu-zhangrun>>
 * <<evil-man>>
+* <<yue-xin>>
 
 [[books]]
 == Books (书籍)

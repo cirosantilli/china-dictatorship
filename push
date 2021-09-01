@@ -6,8 +6,10 @@ set -eux
 
 make
 make multipage
-git push --follow-tags
-git push git@gitlab.com:cirosantilli/china-dictatorship.git
+git push --follow-tags &
+git push git@github.com:cirosantilli/china-dictatorship-2.git &
+git push git@gitlab.com:cirosantilli/china-dictatorship.git &
+wait
 
 out_dir=out
 out_multipage_dir="${out_dir}/multipage"
