@@ -3924,11 +3924,66 @@ image::{china-dictatorship-media-base}/To_obey_is_to_betray.jpg[height=400]
 [[lie-flat-movement]]
 ===== Lie Flat movement (躺平主义)
 
+* https://en.wikipedia.org/wiki/Tang_ping
+* https://zh.wikipedia.org/wiki/躺平
+
 The movement notably contradicts one of the <<core-socialist-values>>: dedication (敬业).
 
-* https://www.scmp.com/comment/letters/article/3139558/what-chinas-lie-flat-youth-and-global-climate-strikers-have-common
+* 2021-07-04 https://www.scmp.com/comment/letters/article/3139558/what-chinas-lie-flat-youth-and-global-climate-strikers-have-common What China’s ‘lie flat’ youth and global climate strikers have in common by <<scmp>>
 
 Good cat lying down meme: https://www.marxist.com/china-lie-flat.htm
+
+[[little-girl-has-ho-hopes-for-school-video-2021]]
+====== Little girl has ho hopes for school video (2021, 小姑娘对学校没有希望)
+
+* https://www.reddit.com/r/China/comments/pgrei5/so_much_lying_flat_sass_translation_in_comments/ on <<r-china>>
+* Original poster:
+** username: 11223344zslk
+** profile page: https://www.douyin.com/user/MS4wLjABAAAA0HYKMT79Af9VeCnrjZ7m_9XrbzSR9IHG_08Cdeo5LMnbNYANllleThIZlY3BFpgC
+* original video <<censorship,censored>>
+** short URL: https://v.douyin.com/d2Dq1bb/
+** full URL: https://www.douyin.com/video/7002895023582874915
+
+Transcript and translation:
+
+____
+你害怕开学吗？ +
+随便。 +
+对这个学校有什么期待吗？ +
+没有。 +
+为什么呢？ +
+不知道。 +
+新学期有什么新的愿望吗？ +
+呵？ +
+新学期有什么新的愿望吗？ +
+没有。 +
+没有望阿。 +
+你一点心愿都没吗？ 有没有小心愿阿？ +
+没有。 +
+希望怎么样有没有？ +
+没有希望。 +
+
+Are you afraid of starting school? +
+Whatever. +
+What are you looking forward in this school? +
+Nothing. +
+Why? +
+I don't know. +
+What hopes do you have for new school term? +
+Huh? +
+What hopes do you have for new school term? +
+None. +
+Hmmm, you don't have any hopes. +
+You don't have any small wishes? +
+None. +
+What about hopes? +
+I have no hope. +
+____
+
+Note: 没有希望。 would likely more accurately be translated as "I have no hopes for school". But the same sentence also means "I have no hope", and it was too tempting to recast it in terms of the Lie Flat movement.
+
+.https://www.youtube.com/watch?v=zasx2iTeOX0 (https://github.com/cirosantilli/china-dictatorship/issues/629[GitHub reupload])
+video::zasx2iTeOX0[youtube,height=400,width=600]
 
 ==== Photobombing-like attacks
 
@@ -7319,6 +7374,7 @@ ____
 Both Mao and Xi have produced their own sacred books which must be revered, much like <<li-hongzhi>>'s <<flg-canon>>:
 
 * Xi's: <<xi-jinping-thought>>
+** illustrated version for children: <<xi-jinping-thought-primary-school-textbook-2021>>
 * Mao's: <<little-red-book>>
 
 Furthermore, both of those books are based on speeches, just like just like Li Hongzhi's speeches become instant canon.
@@ -9071,6 +9127,8 @@ The author Li Guangman (李光满) was not notable enough yet to have a Wikipedi
 
 It should be noted that the homophobia is just a tiny fraction of the essay, which is much more generally about the state taking more control over everything, including culture, and sparking fears of a second <<cultural-revolution>>.
 
+Corresponding official guidelines by the <<national-radio-and-television-administration>> followed: https://www.reuters.com/world/china/china-radio-tv-body-strengthen-regulation-cultural-programmes-salaries-2021-09-02/
+
 [[womans-rights]]
 == Woman's rights (妇女权利)
 
@@ -9493,6 +9551,19 @@ Much of it can be considered a type of <<newspeak>>.
 
 .<<ccp-cult,Devotional>> image of <<xi-jinping>> on the cover of the https://en.wikipedia.org/wiki/The_Governance_of_China[The Governance of China] (link:https://zh.wikipedia.org/wiki/习近平谈治国理政[习近平谈治国理政], 2020) book which is part of <<xi-jinping-thought>>. The similarity to <<li-hongzhi>> devotional images <<li-hongzhi-lotus,is striking>>. Related: <<xi-halo>>. https://www.amazon.co.uk/Governance-China-Xi-Jinping/dp/1602204098[Source].
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China.jpg[height=400]
+
+[[xi-jinping-thought-primary-school-textbook-2021]]
+===== Xi Jinping Thought primary school textbook (2021, 习近平新时代中国特色社会主义思想学生读本。小学高年级。)
+
+Contains images showing <<xi-jinping>> as a <<ccp-cult,Cult leader>>:
+
+* https://imgur.com/a/iYhJZIG/
+* https://www.reddit.com/r/China/comments/pg83eo/xis_new_era_primary_school_textbook/
+* https://www.reddit.com/r/China_irl/comments/oyue40/在哪里可以下载到习近平新时代中国特色社会主义思想学生读本/ Where it can be downloaded
+* https://www.dwnews.com/中国/60255031/习思想渗透中小学数万名思政课骨干接受培训 an official announcement, there are versions for various ages
+* https://www.pep.com.cn/rjdt/rjdt/202107/t20210710_1969221.shtml a possibly official announcement
+
+There are different versions for different ages (小学、初中、高中、中职学校)
 
 [[two-safegards]]
 ===== Two safegards (两个维护, 2018)
@@ -11228,6 +11299,12 @@ I consider the media in this section biased, and never cite it for fact-checking
 ** https://en.wikipedia.org/wiki/Phoenix_Television
 ** https://zh.wikipedia.org/wiki/凤凰卫视
 ** https://freebeacon.com/national-security/cruz-seeks-to-shut-down-chinese-propaganda-station-phoenix-tv/
+
+[[national-radio-and-television-administration]]
+==== National Radio and Television Administration (NRTA, 国家广播电影电视总局)
+
+* https://en.wikipedia.org/wiki/National_Radio_and_Television_Administration
+* https://zh.wikipedia.org/wiki/國家廣播電視總局
 
 [[xinhua]]
 ==== Xinhua News Agency (新华通讯社, 新华社, CCP media)
@@ -13629,6 +13706,9 @@ Related news:
 
 * 2020-02-19: https://supchina.com/2020/02/19/communist-youth-league-patriotic-idols/ "The Communist Youth League Thought It Was Creating Patriotic Idols. Instead, It Started A Conversation About Women's Rights". The anime-style mascots are named Jiangshanjiao 江山娇 and Hongqiman 红旗漫.
 
+[[child-brainwashing]]
+=== Child brainwashing (儿童洗脑)
+
 [[young-pioneers-of-china]]
 ==== Young Pioneers of China (中国少年先锋队)
 
@@ -13653,7 +13733,7 @@ image::{china-dictatorship-media-base}/Hitler_youth_salute.webp[height=500]
 image::{china-dictatorship-media-base}/Xi_scout_salute_vs_Hitler_Youth_salute.jpg[height=500]
 
 [[red-army-school]]
-===== Red Army school (红军小学)
+=== Red Army school (红军小学)
 
 * 2017 https://www.nytimes.com/2017/10/15/world/asia/china-schools-propaganda-education.html "To Inspire Young Communists, China Turns to ‘Red Army’ Schools"
 * https://baike.baidu.com/item/红军小学/8664849 on <<baidu-baike>>
@@ -13664,7 +13744,7 @@ image::{china-dictatorship-media-base}/Xi_scout_salute_vs_Hitler_Youth_salute.jp
 image::{china-dictatorship-media-base}/Red_army_school.jpg[height=500]
 
 [[hitler-youth]]
-===== Hitler Youth (希特勒青年团)
+==== Hitler Youth (希特勒青年团)
 
 * https://en.wikipedia.org/wiki/Hitler_Youth
 * https://zh.wikipedia.org/wiki/希特拉青年團
