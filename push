@@ -23,11 +23,12 @@ function multipage-fixup() (
   # https://github.com/owenh000/asciidoctor-multipage/issues/21
   # https://github.com/owenh000/asciidoctor-multipage/issues/22
   find "$1" -name '*.html' ! -name 'index.html' | xargs perl -lapi -e '
-s/<h[2-6 id="]/<h2 id="/g;
-s/href="README.html"/href="."/g;
-s/(href="[^\/][^"]+).html"/\1"/g;
-s/(<div class="paragraph nav-footer">)/<h2>Table of contents<\/h2>\1/g;
+s/<h[2-6] id="]/<h2 id="/g;
+s/href="README.html"/href="index-split"/g;
+s/(href="(?![^"]+:\/\/)[^"]+).html"/\1"/g;
 '
+  # Not possible, it is identical to other lists actually...
+  # s/(<div class="paragraph nav-footer">)/<h2>Table of contents<\/h2>\1/g;
 )
 
 # GitHub pages.
