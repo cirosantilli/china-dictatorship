@@ -47,7 +47,7 @@ multipage-fixup "$gh_pages_dir"
 if ! $dry_run; then
   git -C "$gh_pages_dir" add .
   if git -C "$gh_pages_dir" commit -m "$(git log -1 --format="%H")"; then
-    git -C "$gh_pages_dir" push
+    git -C "$gh_pages_dir" push -f
   fi
 fi
 
@@ -66,6 +66,6 @@ multipage-fixup "$gl_pages_public_dir"
 if ! $dry_run; then
   git -C "$gl_pages_dir" add .
   if git -C "$gl_pages_dir" commit -m "$(git log -1 --format="%H")"; then
-    git -C "$gl_pages_dir" push
+    git -C "$gl_pages_dir" push -f
   fi
 fi
