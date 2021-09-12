@@ -4,15 +4,31 @@
 
 set -eux
 
+dry_run=false
 make
 make multipage
-git push --follow-tags &
-git push git@github.com:cirosantilli/china-dictatorship-2.git &
-git push git@gitlab.com:cirosantilli/china-dictatorship.git &
-wait
+if ! $dry_run; then
+  git push --follow-tags &
+  git push git@github.com:cirosantilli/china-dictatorship-2.git &
+  git push git@gitlab.com:cirosantilli/china-dictatorship.git &
+  wait
+fi
 
 out_dir=out
 out_multipage_dir="${out_dir}/multipage"
+
+function multipage-fixup() (
+  # Ain't nobody got time for Ruby coding!!!
+  # https://github.com/owenh000/asciidoctor-multipage/issues/20
+  # https://github.com/owenh000/asciidoctor-multipage/issues/21
+  # https://github.com/owenh000/asciidoctor-multipage/issues/22
+  find "$1" -name '*.html' ! -name 'index.html' | xargs perl -lapi -e '
+s/<h[2-6 id="]/<h2 id="/g;
+s/href="README.html"/href="."/g;
+s/(href="[^\/][^"]+).html"/\1"/g;
+s/(<div class="paragraph nav-footer">)/<h2>Table of contents<\/h2>\1/g;
+'
+)
 
 # GitHub pages.
 # One time initial setup.
@@ -26,9 +42,12 @@ fi
 cp README.html "${gh_pages_dir}/index.html"
 cp "${out_multipage_dir}/"* "$gh_pages_dir"
 mv "${gh_pages_dir}/README.html" "${gh_pages_dir}/index-split.html"
-git -C "$gh_pages_dir" add .
-if git -C "$gh_pages_dir" commit -m "$(git log -1 --format="%H")"; then
-  git -C "$gh_pages_dir" push
+multipage-fixup "$gh_pages_dir"
+if ! $dry_run; then
+  git -C "$gh_pages_dir" add .
+  if git -C "$gh_pages_dir" commit -m "$(git log -1 --format="%H")"; then
+    git -C "$gh_pages_dir" push
+  fi
 fi
 
 # GitLab pages
@@ -42,7 +61,10 @@ make MEDIA=https://gitlab.com/cirosantilli/china-dictatorship-media/-/raw/master
 cp .gitlab-ci.yml "${gl_pages_dir}"
 cp "${out_multipage_dir}/"* "$gl_pages_public_dir"
 mv "${gl_pages_public_dir}/README.html" "${gl_pages_public_dir}/index-split.html"
-git -C "$gl_pages_dir" add .
-if git -C "$gl_pages_dir" commit -m "$(git log -1 --format="%H")"; then
-  git -C "$gl_pages_dir" push
+multipage-fixup "$gl_pages_public_dir"
+if ! $dry_run; then
+  git -C "$gl_pages_dir" add .
+  if git -C "$gl_pages_dir" commit -m "$(git log -1 --format="%H")"; then
+    git -C "$gl_pages_dir" push
+  fi
 fi

@@ -4436,7 +4436,7 @@ Chinese celebrities who opposed the CCP:
 
 Related about university interference:
 
-* 2021-08-04 https://www.nzz.ch/schweiz/hsg-und-china-kritik-auf-twitter-kostet-doktoranden-abschluss-ld.1637789 Swiss PHD under pseudonum Oliver Gerber kicked out of doctorate for criticizing China on Twitter. Real name, his Twitter, and advisors were not disclosed because his girlfriend lives in China. University name: https://en.wikipedia.org/wiki/University_of_St._Gallen[University of St. Gallen] (HSG, it specialises in business administration, economics, law, and international affairs, HSG also has among the most billionaire alumni in the world). On <<r-china>>: https://www.reddit.com/r/China/duplicates/oxc9qk/phd_student_in_switzerland_expelled_from_his/
+* 2021-08-04 https://www.nzz.ch/english/swiss-phd-students-dismissal-spotlights-chinas-influence-ld.1638771 | https://www.nzz.ch/schweiz/hsg-und-china-kritik-auf-twitter-kostet-doktoranden-abschluss-ld.1637789 Swiss PHD under pseudonum Oliver Gerber kicked out of doctorate for criticizing China on Twitter. Real name, his Twitter, and advisors were not disclosed because his girlfriend lives in China. University name: https://en.wikipedia.org/wiki/University_of_St._Gallen[University of St. Gallen] (HSG, it specialises in business administration, economics, law, and international affairs, HSG also has among the most billionaire alumni in the world). On <<r-china>>: https://www.reddit.com/r/China/duplicates/oxc9qk/phd_student_in_switzerland_expelled_from_his/
 * 2020-12-05 https://www.reuters.com/article/idUSKBN28F05U "U.S. ends exchange programs with China, calling them 'propaganda'". Only five of the programs were terminated:
 ** Policymakers Educational China Trip Program
 ** U.S.-China Friendship Program
@@ -5552,6 +5552,8 @@ Automatically generated list of repos with Chinese characters in their descripti
 <<github-com-cirosantilli-china-dictatorship>> appeared on the front page at one point: https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/tree/73ef00e9f846dd380769095f08648e5e1a06596f Let's see how long until it gets censored.
 
 At https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/issues/177 a <<wumao>> asked "为什么一些奇怪的项目也能进榜单？" (Why can some weird projects appear in the project list?)
+
+Also reproduced at: https://www.w3cschool.cn/article/22061212.html
 
 [[zhihu]]
 ==== Zhihu (知乎, censored Quora clone, 审查 Quora 克隆)
@@ -8544,7 +8546,7 @@ ____
 You must have seen the epidemic that's come along in China now, right? Hasn't a huge epidemic arrived? To put it in human terms, it's Heaven punishing people. What it's targeting, we Dafa disciples know full well: it's targeting those who don't deserve to be saved, who are impossible to save while Dafa disciples clarify the truth, and who aren't useful to the evil rotten spirits. This is the first round of cleansing. Heaven is punishing the evil, yet China is still lying to cover up the number of deaths, and I'll tell you, it's huge, and it hasn't peaked yet. 
 ____
 
-Such beliefs have of course carried over directly to <<covid,COVID-19>>.
+Such beliefs have of course carried over directly to <<covid,COVID-19>>. Of course, epidemics make the moral question much more difficult, because not taking care of yourself means you can kill others besides yourself.
 
 An amazing quote from https://en.minghui.org/html/articles/2020/3/20/183715.html[]:
 
@@ -10749,6 +10751,8 @@ Based on Ireland.
 
 TODO understand: https://twitter.com/remonwangxt/status/141825341227417600 by <<kuang-biao>> which shows Ai Weiwei morphed into a penis and balls.
 
+* 2021-09-08 https://www.reuters.com/world/china/chinese-activist-ai-weiwei-says-credit-suisse-closing-his-foundations-bank-2021-09-07/ "Chinese activist Ai Weiwei says Credit Suisse closing his foundation's bank account" because of crimes in China, but he was apparently never convicted of any
+
 [[xu-xiaodong]]
 ==== Xu Xiaodong (Mad Dog, 徐晓冬)
 
@@ -12372,10 +12376,12 @@ Translations:
   * https://ctext.org/zhuangzi side by side with Chinese, one chapter per page
 
 [[ccp]]
-== Chinese Communist Party (CCP, 中国共产党, 1949-)
+== Chinese Communist Party (CCP, 中国共产党, 1949-, Cult of Mao/Xi, 毛习邪教)
 
 * https://en.wikipedia.org/wiki/Chinese_Communist_Party
 * https://zh.wikipedia.org/wiki/中国共产党
+
+The CCP is a cult: <<ccp-cult>>.
 
 === CCP organization
 
@@ -13499,7 +13505,7 @@ https://www.youtube.com/channel/UC1XG7bJnYqta_ezr12WZp7w
 2021-09-21 https://www.thetimes.co.uk/edition/news/beijing-funds-british-youtubers-to-further-its-propaganda-war-x5gqp5fg0 (on <<reddit>>: https://www.reddit.com/r/China/comments/kto2vj/beijing_funds_british_youtubers_to_further_its/[]) claims that:
 
 ____
-The Times has found that some of their videos were funded by <<china-radio-international,Chinese Radio International>>, a media organisation that has been exposed as the secret owner of an international network of propaganda radio stations.
+The Times has found that some of their videos were funded by <<china-radio-international>>, a media organisation that has been exposed as the secret owner of an international network of propaganda radio stations.
 
 ...
 
@@ -18169,6 +18175,11 @@ image::{china-dictatorship-media-base}/Soviet_radio_jamming_vs_Jingjing.jpg[heig
 ==== Soviet Union propaganda (苏联宣传)
 
 * https://www.youtube.com/watch?v=VrHLOGMT_kM Animated Soviet Propaganda American Imperialist The Millionaire COLD WAR CARTOON. Tells the story of a dog that inherited a lot of money from his deceased rich owner.
+
+[[cold-warriors-writers-who-waged-the-literary-cold-war]]
+===== Cold Warriors: Writers Who Waged the Literary Cold War by Duncan White (2019)
+
+Review: https://www.theguardian.com/books/2019/dec/23/cold-warriors-writers-waged-literary-cold-war-duncan-white-review It would be good to look into the anti-Soviet ones to get some ideas from them.
 
 ===== Agitprop
 
