@@ -5337,6 +5337,8 @@ Hello, I'd like to report a person who abused Github, this person has created mu
 ____
 +
 Poor <<wumao>>s. With this language/intonation, they are off to a bad start from th emessage itself.
+* https://www.zhihu.com/question/388634161/answer/2112339988 shows how to do it with adblock plus by removing specific page elements for the search. Similar to greasefork methods mentioned at <<disturbs>>.
+* https://www.zhihu.com/question/388634161/answer/2101125957 does not understan what off topic means, and says that the attack is worse on <<stack-overflow>> and rants <<meant-to-be-used>>. Due to their limited English, they do not seem to realize that both keyword attacks are by the same person, <<ciro-santilli>>.
 
 .How to report an user on GitHhub.
 image::{china-dictatorship-media-base}/How_to_report_an_user_on_GitHub.png[height=2000]
