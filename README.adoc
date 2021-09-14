@@ -472,6 +472,7 @@ Non-information but also interesting:
 TODO evaluate:
 
 * https://github.com/sky8964/home
+* https://github.com/FuckAntiAddiction/BiligameAddictionNotLimited is this a repo to overcome <<video-game-ban>>?
 
 Reasonable topics:
 
@@ -9689,8 +9690,9 @@ Wenzheng was also involved in a notable possible copyright dispute with https://
 image::{china-dictatorship-media-base}/Fuck-XueXiQiangGuo_2021_GitHub_page_screenshot_with_stars_highlighted.png[height=650]
 
 [[national-anti-fraud-center-app]]
-====== National anti-fraud center APP (国家反诈中心APP, 2021)
+====== National Anti-Fraud Center App (国家反诈中心APP, 2021)
 
+* link:++https://zh.wikipedia.org/wiki/国家反诈中心_(应用程序)++
 * https://chinadigitaltimes.net/chinese/664606.html on <<china-digital-times>>
 * https://www.reddit.com/r/China/comments/mnulkd/china_is_forcing_chinese_to_use_national/
 
@@ -10463,7 +10465,7 @@ image::{china-dictatorship-media-base}/Tank_Man_ground_level.jpg[height=600]
 image::{china-dictatorship-media-base}/Tank_Man_ducks.jpg[height=600]
 
 [[lego-tank-man]]
-.Rough https://en.wikipedia.org/wiki/Lego[Lego] (https://zh.wikipedia.org/wiki/樂高[乐高]) model of the Tank Man scene. A Lego <<xinjiang-re-education-camps>> can be seen at https://twitter.com/MidnightMitch/status/1412887665113018371[], many people replied with that at: https://twitter.com/LEGO_Group/status/1412743232270876675[]. https://knowyourmeme.com/photos/1499216-tank-man[Source].
+.Rough https://en.wikipedia.org/wiki/Lego[Lego] (https://zh.wikipedia.org/wiki/樂高[乐高]) model of the Tank Man scene. A Lego <<xinjiang-re-education-camps>> can be seen at https://twitter.com/MidnightMitch/status/1412887665113018371[], many people replied with that at: https://twitter.com/LEGO_Group/status/1412743232270876675[]. A fake Lego advertisement video has also been made: https://www.youtube.com/watch?v=wphTAEQusLk[]. https://knowyourmeme.com/photos/1499216-tank-man[Source].
 image::{china-dictatorship-media-base}/Lego_Tank_Man.png[height=400]
 
 .https://en.wikipedia.org/wiki/Final_Fantasy_VI[Final Fantasy VI] (https://zh.wikipedia.org/wiki/最终幻想VI[最终幻想VI]) battle screen style depiction of tank man by Cody Walton by it8Bit. https://www.it8bit.com/post/25860395424/unknown-rebel[Source].
@@ -13016,6 +13018,12 @@ More info:
 * https://en.wikipedia.org/wiki/Internet_censorship_circumvention
 * https://zh.wikipedia.org/wiki/突破网络审查
 
+====== siteproxy
+
+https://github.com/netptop/siteproxy
+
+Demo on Heroku: https://web--proxy.herokuapp.com/ e.g. https://web--proxy.herokuapp.com/https/www.youtube.com/
+
 ====== Hide destination IP until it leave the country
 
 TODO is there any way to do use this to overcome IP blocks? You would wait until the packet leaves the country to reveal the final destination IP:
@@ -13169,6 +13177,7 @@ Other report websites:
 
 * https://www.12339.gov.cn/ spy report website, see also: <<ministry-of-state-security>>
 * <<hong-kong-national-security-department-hotline>>
+* <<national-anti-fraud-center-app>>
 
 .https://www.12321.cn[] procedure to report political content as of April 2021.
 image::{china-dictatorship-media-base}/12321_report_procedure_april_2021.png[height=1948]
@@ -14010,6 +14019,13 @@ This is especially interesting given that one of the main propaganda reasons for
 * <<zhihu>> https://www.zhihu.com/question/60504957 "被请喝茶是怎样的体验？"
 * <<pincong>> https://pincong.rocks/question/7226 "请大家都来曝光下身边被请喝茶或者拘留的例子，让葱油们引以为戒，让更多的人看到土共的凶残"
 
+[[video-game-ban]]
+=== Video game ban (电子游戏禁令, 2021)
+
+* https://edition.cnn.com/2021/08/31/tech/china-ban-video-games-minor-intl-hnk/index.html
+* https://www.cnbc.com/2021/08/30/china-to-ban-kids-from-playing-online-games-for-more-than-three-hours-per-week.html
+* https://www.dw.com/zh/中国电玩限时禁令美国家长及中国网民怎么看/a-59046586 How american and Chinese parents see the video game restriction
+
 [[central-party-school]]
 === Central Party School of the Communist Party of China (Central Party School, 中共中央党校, 中央党校))
 
@@ -14429,6 +14445,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2021-08 https://www.reddit.com/r/DoubanGoosegroup/comments/pkjyzm/有没有学理科会备份的鹅_感觉很多组都要殉我们要不要弄个github把热贴备份出来/ TODO understand
 * 2021-07-15 https://weibo.com/3009149283/KoREYEIA2?type=comment#_rnd1629010985150 on <<weibo>> #反华 挂一个垃圾仓库 cirosantilli/china-dictatorship (#anti-china Found a trash repository.) Does not understand the CCP != China: <<does-ciro-santilli-hate-china>>. Perhaps this is what triggered <<ciro-santillis-weibo-block>>.
 * 2021-08-13 https://www.kdocs.cn/ to https://github.com/cirosantilli/cirosantilli[]. That's a Google Docs clone it seems. Used by the Chengdu government. Chinese name: 金山文档 (golden mountain documents). Also had 50 unique cloners on 11 and 12th. Is it <<github-gov-takedowns>> time at last??
 * 2021-07-22 http://se.warning.360.cn/warn/ to https://cirosantilli.com/ after adding keywords to page header. This is from <<qihoo>>, a security/spyware company.

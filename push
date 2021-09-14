@@ -4,7 +4,12 @@
 
 set -eux
 
-dry_run=false
+echo $#
+if [ $# -gt 0 ]; then
+  dry_run=true
+else
+  dry_run=false
+fi
 make
 make multipage
 if ! $dry_run; then
@@ -23,7 +28,7 @@ function multipage-fixup() (
   # https://github.com/owenh000/asciidoctor-multipage/issues/21
   # https://github.com/owenh000/asciidoctor-multipage/issues/22
   find "$1" -name '*.html' ! -name 'index.html' | xargs perl -lapi -e '
-s/<h[2-6] id="]/<h2 id="/g;
+s/<h[2-6] id="/<h2 id="/g;
 s/href="README.html"/href="index-split"/g;
 s/(href="(?![^"]+:\/\/)[^"]+).html"/\1"/g;
 '

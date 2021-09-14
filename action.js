@@ -91,12 +91,13 @@ if (!isComment) {
       break;
     }
   }
+  const maWords = '(马|吗|妈|m)'
   const fuckMotherWords = [
     'cnm',
     'fuck.*\\b(mom|mum|mother)\\b',
     '尼玛',
     '去你吗',
-    '(日|操|草)(你|泥|拟)(马|吗|妈|没了)',
+    '(日|操|草)(你|泥|拟)' + maWords,
   ]
   for (const word of fuckMotherWords) {
     if (new RegExp(word, 'i').test(titleAndBody)) {
@@ -106,7 +107,7 @@ if (!isComment) {
   }
   const motherDiedWords = [
     'nmsl',
-    '你妈死',
+    '你' + maWords + '死',
     '司马',
   ]
   for (const word of motherDiedWords) {
