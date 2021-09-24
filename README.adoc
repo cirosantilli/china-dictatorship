@@ -292,7 +292,7 @@ Without HTML content type:
 
 We've also tried to use jsfiddle like-services, but most don't work well:
 
-* https://jsfiddle.net/cirosantilli/0tL3ckqb/ javascript works for a long time
+* https://jsfiddle.net/cirosantilli/0tL3ckqb/ very slow to load, but eventually does
 * https://jsbin.com/ HTML too long
 * https://codepen.io/ 1MB limit
 
@@ -745,6 +745,8 @@ Related:
 
 * https://github.com/wumaoland from <<reply-policy>>
 * https://github.com/cirosantillifather[], e.g. https://github.com/programthink/books/issues/94[] at (https://web.archive.org/web/20210807195703/https://github.com/programthink/books/issues/94[archive])
++
+On 2021-09-23 Ciro Santilli received this email from cirosantillifather@protonmail.com "Hello son: I like your wife very much, can you let her have a one-night stand with me?". https://github.com/cirosantillifather had been deleted at that point.
 
 [[faq]]
 == FAQ (常见问答集)
@@ -4021,7 +4023,8 @@ For example during the <<hong-kong-anti-extradition-bill-protests-2019>> attacke
 .Mei from Blizzard's Overwatch was used in an attempted <<appropriation-attack>> during the <<hong-kong-anti-extradition-bill-protests-2019>>. https://twitter.com/marnofavonlea/status/1182557311539150849[Source].
 image::{china-dictatorship-media-base}/Mei_with_Hong_kong.jpg[height=600]
 
-===== Sport event live broadcast image attacks
+[[sport-event-live-broadcast-image-attacks]]
+===== Sport event live broadcast image attacks (体育赛事直播图片攻击)
 
 NBA in particular is super popular in China, and people sitting at the front row can easily bomb emissions due to the small court size:
 
@@ -4030,7 +4033,8 @@ NBA in particular is super popular in China, and people sitting at the front row
 
 Started in particular due to the <<lebron-james-opposes-hong-kong-anti-extradition-bill-protests-2019>>
 
-==== What should Western countries do about China?
+[[what-should-western-countries-do-about-china]]
+==== What should Western countries do about China? (西方国家应该怎么对待中国？)
 
 Force all their Western servers to accept <<ensi>> connections only: <<ensi>>.
 
@@ -4086,7 +4090,8 @@ Sanctions must be imposed directly on Chinese officials. They must not be allowe
 .<<rebel-pepper>> 2016-09-07 cartoon entitled "宽衣<<xi-jinping-memes,撒币>>" depicting <<xi-jinping>> as a https://en.wikipedia.org/wiki/Pole_dance[pole dancer] and throwing money at other world leaders during the https://en.wikipedia.org/wiki/2016_G20_Hangzhou_summit[2016 G20 Hangzhou summit] is a reference to how China buys political influence in other countries by promising profitable trade deals with those countries. https://www.rfa.org/mandarin/biantailajiaomanhua/biantailajiaomanhua-09072016131637.html[Source].
 image::{china-dictatorship-media-base}/Xi_pole.jpg[height=400]
 
-===== Mark government controlled social media
+[[mark-government-controlled-social-media]]
+===== Mark government controlled social media (将政府控制的社交媒体帐户标记为此类)
 
 All posts of all state-sponsored social media accounts must be clearly marked as such.
 
@@ -4117,7 +4122,7 @@ Reports of Chinese influence on social media:
 * 2020-04-07 https://www.vice.com/en_uk/article/9397v8/chinas-been-flooding-facebook-with-shady-ads-blaming-trump-for-the-coronavirus-crisis "China's Been Flooding Facebook With Shady Ads Blaming Trump for the Coronavirus Crisis"
 
 [[spy]]
-===== China spy stories
+===== China spy stories (中国间谍故事)
 
 https://en.wikipedia.org/wiki/Chinese_intelligence_activity_abroad
 
@@ -4215,7 +4220,8 @@ The Chinese army, and also one of the central intelligence agencies, notably on 
 .A Chinese soldier smashes bricks on a colleague's head during joint Chinese-<<india>> anti-terrorism exercises in Kunming in 2007. http://mil.news.sina.com.cn/2014-02-26/0954766058.html from <<sina>> give the Chinese term "油锤贯顶". https://nastyhobbit.org/details.php?image_id=370[Source]. https://sinosphere.blogs.nytimes.com/2014/02/24/military-brick-breaking-demonstrations-face-the-chop/[Better source with worse image quality].
 image::{china-dictatorship-media-base}/PLA_soldier_breaking_bricks_on_head.jpg[height=400]
 
-===== The West must ban the Chinese telecommunications software and hardware
+[[the-west-must-ban-the-chinese-telecommunications-software-and-hardware]]
+===== The West must ban the Chinese telecommunications software and hardware (西方必须禁止中国电信软件和硬件)
 
 They are an entry point to spying, censorship and <<fake-news>>. Notable companies that should be banned:
 
@@ -4229,7 +4235,8 @@ Reports:
 * 2020-02 https://www.reuters.com/article/us-usa-china-media/u-s-imposes-new-rules-on-state-owned-chinese-media-over-propaganda-concerns-idUSKBN20C2G1 U.S. imposes new rules on state-owned Chinese media over propaganda concerns, the companies are: Xinhua News Agency, China Global Television Network, China Radio International, China Daily Distribution Corp. and Hai Tian Development USA, Inc. See also: <<chinese-government-media>>.
 ** 2020-04-03 https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/ 'Zoom's encryption is "not suited for secrets" and has surprising links to china, researchers discover"
 
-===== What should Western media do about China?
+[[what-should-western-media-do-about-china]]
+===== What should Western media do about China? (西方媒体应该怎么对待中国？)
 
 When you report something about a person, for fuck's sake include the person's name in the title of the article, at the very least the pinyin.
 
@@ -4243,7 +4250,8 @@ City at the very least, but if recognizable, where withing the city.
 
 Yes, China is big! There are many different places in China.
 
-==== Western companies that comply with Chinese censorship requests
+[[western-companies-that-comply-with-chinese-censorship-requests]]
+==== Western companies that comply with Chinese censorship requests (遵守中国审查要求的西方公司)
 
 Western governments should prevent companies from complying to Chinese censorship requests, or at least impose fines and sanctions on them.
 
@@ -4411,7 +4419,7 @@ See also:
 * <<xinjiang-cotton>>
 
 [[entertainers-who-support-the-ccp]]
-===== Entertainers who support the CCP (支持中共的艺人)
+==== Entertainers who support the CCP (支持中共的艺人)
 
 Western:
 
@@ -4431,6 +4439,13 @@ Chinese who are famous in the West:
 Chinese celebrities who opposed the CCP:
 
 * <<hao-haidong>>
+
+[[entertainers-who-oppose-the-ccp]]
+==== Entertainers who oppose the CCP (反对中共的艺人)
+
+* https://en.wikipedia.org/wiki/PewDiePie[PewpDiePie]
+** 2019 on <<hong-kong-anti-extradition-bill-protests-2019>>: https://www.youtube.com/watch?v=OhWZavn2OvM Hong Kong vs Joker Ends Fortnite [MEME REVIEW]
+** 2021 ranks China below F in a Country https://en.wikipedia.org/wiki/Tier_list[tier list] video: https://youtu.be/x1PjAhpUjYQ?t=198[], appears to be a rip of this members-only content: https://www.youtube.com/watch?v=7NCcFkuosfI[]. Reddit entry: https://www.reddit.com/r/China/comments/ptzygj/pewdiepie_you_are_a_legend/
 
 [[chinese-interference-in-the-western-education-systems]]
 === Chinese Interference in the Western education systems (中共对西方教育体系的干预)
@@ -7424,7 +7439,11 @@ This is also observed by <<falun-gong>> itself as a response to the CCP <<flg-cu
 See also:
 
 * <<democracy-is-a-religion>>
-* <<if-you-are-against-the-ccp-then-you-are-against-china>> is the <<ccp>>'s version of <<>>
+* <<if-you-are-against-the-ccp-then-you-are-against-china>> is the <<ccp>>'s version of <<the-group-is-the-only-way>>
+
+CCP in religious cerimonies:
+
+* 2021-09 https://www.reddit.com/r/China/comments/pq6hyv/buddhism_with_chinese_characteristics/ | https://twitter.com/Jerry00107966/status/1438108277716373507
 
 [[xi-halo]]
 .Xi Jinping with a Halo edited in to make <<ccp-cult,the obvious more obvious>>. The texts reads <<xi-jinping-thought,"习近平思想" (Xi Jinping Thought)>>. Watermark reads "Gucci Minh @Laborwave", so presumably from https://www.instagram.com/laborwavedesigns/[], but I didn't have the patience to find the picture, but it very likey comes from there, a ton of great communist memes in that account. https://www.reddit.com/r/LateStageCapitalism/comments/77vfi8/uphold_xi_jinping_thought/[Source].
@@ -9195,6 +9214,8 @@ Related <<twitter>>:
 
 News:
 
+* 2021-09-22 https://www.scmp.com/news/china/politics/article/3149606/fears-china-missing-metoo-activist-and-labour-rights-campaigner Fears in China for missing #MeToo activist and labour rights campaigner. 
+** https://en.wikipedia.org/wiki/Huang_Xueqin[Huang Xueqin] (https://zh.wikipedia.org/wiki/黃雪琴[黄雪琴]), profile https://www.scmp.com/news/china/politics/article/3149606/fears-china-missing-metoo-activist-and-labour-rights-campaigner
 * 2021-04-20 https://edition.cnn.com/2021/04/19/china/china-feminists-silenced-intl-hnk-dst/index.html "Chinese feminists are being silenced by nationalist trolls. Some are fighting back" mentions Liang Xiaomen, Xiao Meili and Zheng Churan
 
 [[evil-man]]
@@ -9441,12 +9462,7 @@ ____
 
 Other images:
 
-* Xi Jinping is destroying the economy more than USA's sanctions (2021),
-** English version: https://www.reddit.com/r/China/comments/pb5ft2/meme_xis_successive_series_of_economically/
-** Chinese version: https://twitter.com/xijinpingqindie/status/1429480173938745348
-** refers to:
-*** https://www.bloomberg.com/news/articles/2021-07-27/china-tech-crackdown-xi-charts-new-model-after-emulating-silicon-valley
-*** https://thediplomat.com/2021/08/the-biden-administrations-china-sanctions-dilemma/
+* 2021 https://twitter.com/1X1G3Lr7pBe1AJR/status/1438984816267915265/photo/1 with phone reserved photoshop
 
 See also: <<shitpost>>.
 
@@ -9801,6 +9817,10 @@ Once you find one on Google Images, you can just click endlessly into more and m
 
 We're just going to bulk dump them at https://github.com/cirosantilli/china-dictatorship/issues/231 for now.
 
+Talking in English:
+* https://www.reddit.com/r/China/comments/pr27im/he_spittin_facts/ Would you guys consider jacking off to be a sport? meme copypasta: https://knowyourmeme.com/memes/is-jacking-off-a-sport
+* https://www.youtube.com/watch?v=INbRpclIFsE xinging Never Gonna Give You Up (Rickrolling song) with Hong Kong protests interspersed
+
 .https://www.youtube.com/watch?v=diec9Cdsvg0 Xi Jinping singing https://en.wikipedia.org/wiki/Y.M.C.A._(song)[YMCA] with a wide range of cute expressions.
 video::diec9Cdsvg0[youtube,height=400,width=600]
 
@@ -10016,6 +10036,21 @@ image::{china-dictatorship-media-base}/Winter_gourd.jpg[height=600]
 
 .Communist Children Catch Pokemon: the true meaning of https://en.wikipedia.org/wiki/Soviet_Union[CCCP]. Edited from the original poster with a <<little-red-book>> instead of Pokeball and no "CCCP" shown at https://www.pinterest.fr/pin/360428776411504491/[]. By Volaran Cadires. https://www.pinterest.fr/pin/405253666454984678/[Source].
 image::{china-dictatorship-media-base}/Communist_children_catch_pokemon.jpg[height=600]
+
+[[great-chinese-famine]]
+===== Great Chinese Famine (三年困难时期, 1959-1961)
+
+* https://en.wikipedia.org/wiki/Great_Chinese_Famine
+* https://zh.wikipedia.org/wiki/三年困难时期
+
+[[four-pests-campaign]]
+====== Four Pests campaign (除四害, sparrow war, 1958-1962)
+
+* https://en.wikipedia.org/wiki/Four_Pests_campaign
+* https://zh.wikipedia.org/wiki/除四害
+
+.https://www.youtube.com/watch?v=_Tk-njfBmDk Why China Targeted Sparrows by Ciggy Snake (2021)
+video::_Tk-njfBmDk[youtube,height=400,width=600]
 
 [[cultural-revolution]]
 ==== Cultural Revolution (文化大革命, 1966-1976)
@@ -10675,6 +10710,7 @@ Other sections:
 
 Other dissidents:
 
+* Huang Xueqin (黄雪琴) from <<womans-rights>>
 * Gong Ping (龔平), AKA 加州老爹 CADaddy (California Daddy)
 ** https://hk.appledaily.com/news/20201222/34I7BBKPKVCPNKG7XJ2II6ICQ4/ "Chinese YouTuber forced to flee after voicing support for Hong Kong protesters"
 ** https://www.youtube.com/watch?v=6ILmu3Q7Rf8 勇武者之歌 (Song of the brave)
@@ -13758,6 +13794,11 @@ Related:
 * https://en.wikipedia.org/wiki/Cooperation_between_China_and_Central_and_Eastern_European_Countries Cooperation between China and Central and Eastern European Countries
 * 17+1合作
 
+==== Wikimedia infiltration
+
+* https://hongkongfp.com/2021/09/14/exclusive-wikipedia-bans-7-mainland-chinese-power-users-over-infiltration-and-exploitation-in-unprecedented-clampdown/
+* https://hongkongfp.com/2021/07/11/wikipedia-wars-how-hongkongers-and-mainland-chinese-are-battling-to-set-the-narrative/
+
 [[communist-youth-league]]
 === Communist Youth League of China (中国共产主义青年团)
 
@@ -14106,6 +14147,7 @@ List of Huawei joke:s https://github.com/HuaweiJoke/Huawei-Joke "This project is
 
 Some news:
 
+* 2021-09-20 https://www.bloomberg.com/opinion/articles/2021-09-19/huawei-s-decline-shows-why-china-will-struggle-to-dominate U.S. sanctions seems to have worked
 * 2021-01-13 https://www.bbc.co.uk/news/technology-55634388 "Huawei patent mentions use of Uighur-spotting tech". Related: <<em_nation_type_uygur-2020>>
 * 5G 2019-2020
 ** in 2020 the UK was trying hard to get kicked out of the 5 eyes in 2020 by using 5G equipment from Huawei
@@ -14450,16 +14492,9 @@ For lower profile links, see: https://github.com/cirosantilli/china-dictatorship
 * 2021-08-13 https://www.kdocs.cn/ to https://github.com/cirosantilli/cirosantilli[]. That's a Google Docs clone it seems. Used by the Chengdu government. Chinese name: 金山文档 (golden mountain documents). Also had 50 unique cloners on 11 and 12th. Is it <<github-gov-takedowns>> time at last??
 * 2021-07-22 http://se.warning.360.cn/warn/ to https://cirosantilli.com/ after adding keywords to page header. This is from <<qihoo>>, a security/spyware company.
 * 2021-07 http://https--github--com--e3919.proxy.xianning.gov.cn/topics/chinese-communist-party[], presumably viewing https://github.com/topics/chinese-communist-party[]. Saw it http://webcache.googleusercontent.com/search?q=cache:5qHGJxZncvUJ:https--github--com--e3919.proxy.xianning.gov.cn/topics/chinese-communist-party+&cd=8&hl=en&ct=clnk&gl=uk&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW&client=ubuntu[on Google cache], semi viewable at https://archive.ph/wip/2qVIX[], but not rendering very well
-* 2021-05-23 LinkedIn profile view from https://www.linkedin.com/company/circussocial/ Circus Social https://www.circussocial.com/[]. Some of their China stuff: https://www.circussocial.com/blog/tag/china-social-media/
 * 2021-05-07 https://twitter.com/dingyi/status/1390861129191071754 (https://archive.ph/fS1TF[archive]) link to github.com/china-dictatorship commenting "Github 竟然还有这种项目。。。" (I'm surprised that there's still this kind of project on GitHub). Account had 150k followers at the time. What do they do to have so many followers? As of 2021-05-14, three days later after Ciro replied on 2021-05-11, the account had been made protected: https://archive.ph/davkj This is the <<chilling-effect>>, self-<<censorship,censor>> or perish. It was later un-protected. https://newsletter.dex.group/about/ says their DEX is a sort of online magazine. GitHub profile: https://github.com/dingyi
 * 2021-04-16 https://manti.netease.com/ from <<netease>> to https://cirosantilli.com/china-dictatorship can't find any information on it.
-* 2021-03-23 https://my.cscglobal.com/ to cirosantilli.com/china-dictatorship another compliance company, previous https://cms.securimate.com hits come to mind. China related articles:
-** https://www.businesswire.com/news/home/20200728005641/en/CSC-Becomes-First-Foreign-Owned-Company-to-Receive-Domain-Registrar-License-in-China this company has some serious weight with Chinese regulators!
-** https://www.cscglobal.com/service/webinar/china-web-policies/ talks mostly about ICP licenses
-** https://www.cscglobal.com/service/webinar/china-ngo-law/
-** https://www.cscglobal.com/cscglobal/pdfs/DBS/CSC-Your-Brand-Secured.pdf features Jayce Yeo, and mentions social media management
-** https://medium.com/@hackermaderas/the-beginning-of-one-hackers-thoroughly-referenced-evidenced-osint-investigation-of-clearview-ai-1aa2e9109492 has a technical analysis that points that CSC has links to Clearview AI, and seem to be front-companies
-- 2021-03-08 https://us3124.scholar.eu.org to GitHub repo. Redirects to: https://www.library.ac.cn/ip.html?f=us3124 which is a 403 "Your IP is not allowed to visit this site.
+* 2021-03-08 https://us3124.scholar.eu.org to GitHub repo. Redirects to: https://www.library.ac.cn/ip.html?f=us3124 which is a 403 "Your IP is not allowed to visit this site.
 This site is only available in Mainland China." The about of the blog leads to another domain: https://www.virtual.hk/author/ircli but both seem to be mirrors. The website is a Wordpress which contain images of certain plants under a microscope, and "ircli" is the author's username.
 - 2021-02-21 and 2020-02-22: https://developer.aliyun.com/ to https://cirosantilli.com and https://cirosantilli.com/china-dictatorship The china-dictatorship landing pages had tracking queries leaked: `?spm=.14275010.0.0.60be9dc4PsRmA` and `?spm=a2c6h.14275010.0.0.60be9dc4vwIZTP`. The source domain is visible publicly and entitled 开发者社区 (Developer community) for Aliyun. Who knows, maybe Jack Ma's people are starting a full out revolt after he was put in jail! :) These tracking queries are added to every single one of their links, including outlinks, as can be seen at: https://developer.aliyun.com/article/616542 for example. Edit: noticed https://developer.aliyun.com/mirror/npm/package/china-dictatorship was removed, so that was it.
 * 2021-02-18 https://cms.securimate.com securimate.com now redirects to https://steeleglobal.com "Your employees and business partners are confronted with ethical decisions every day that impact your company. To create a culture of integrity, you need to empower people to make the right choices. Steele partners with the world’s largest, most respected companies to deliver compliance products and services that help organizations embrace a culture of compliance while protecting their brand." Here we go. Securimate is a Texas-based acquisition apparently: https://www.planetcompliance.com/securimate/ Googling the company for China leads mostly to honorable anti-corruption and export compliance activityactivity e.g. https://steeleglobal.com/managing-third-party-vendors-china/ , nothing to do with brand protection of course, who would support a dictatorship to help their brand, right?
@@ -14496,6 +14531,18 @@ Someone subscribed me to a hundred GovDelivery mailing lists. This bullshit is a
 * 2015-08-03: 21 visitor Facebook peak, can't find the source
 * 2015-06-20: (deleted) link:https://www.plurk.com/p/l1jjn4[] Archive: https://web.archive.org/web/20150918110032/https://www.plurk.com/p/l1jjn4 "這阿豆阿的名字XDD" by https://www.plurk.com/m/u/cyuanXD
 * 2015-05-30: <<zhou-fengsuo>> linked to <<ciro-santilli>>'s stack overflow account!!!
+
+LinkedIn views from publicity and markeding companies:
+
+* 2021-09-17 https://en.wikipedia.org/wiki/Weber_Shandwick[Weber Shandwick]
+** https://www.webershandwick.com/wp-content/uploads/2021/02/2021-Geopolitical-Risk-Report.pdf  2021 REPORT ON GEOPOLITICAL RISKS TO BUSINESS REPUTATION by Weber Shandwick’s geopolitical Risk & Reputation Advisory Group
+* 2021-05-23 LinkedIn profile view from https://www.linkedin.com/company/circussocial/ Circus Social https://www.circussocial.com/[]. Some of their China stuff: https://www.circussocial.com/blog/tag/china-social-media/
+* 2021-03-23 https://my.cscglobal.com/ to cirosantilli.com/china-dictatorship another compliance company, previous https://cms.securimate.com hits come to mind. China related articles:
+** https://www.businesswire.com/news/home/20200728005641/en/CSC-Becomes-First-Foreign-Owned-Company-to-Receive-Domain-Registrar-License-in-China this company has some serious weight with Chinese regulators!
+** https://www.cscglobal.com/service/webinar/china-web-policies/ talks mostly about ICP licenses
+** https://www.cscglobal.com/service/webinar/china-ngo-law/
+** https://www.cscglobal.com/cscglobal/pdfs/DBS/CSC-Your-Brand-Secured.pdf features Jayce Yeo, and mentions social media management
+** https://medium.com/@hackermaderas/the-beginning-of-one-hackers-thoroughly-referenced-evidenced-osint-investigation-of-clearview-ai-1aa2e9109492 has a technical analysis that points that CSC has links to Clearview AI, and seem to be front-companies
 
 admin.github.com hits listed at: <<github-report>>.
 
@@ -18016,6 +18063,10 @@ Related:
 * Golos (Голос) is the main independent election monitor organization in Russia:
 ** https://en.wikipedia.org/wiki/Golos_(election_monitor)
 ** https://ru.wikipedia.org/wiki/Голос_(мониторинг_выборов)
+
+===== Electoral fraud in the 2021 Russian elections
+
+https://www.rferl.org/a/russia-election-fraud/31466758.html
 
 [[litvinenko]]
 ==== The murder of Alexander Litvinenko (Литвиненко, Александр Вальтерович, 2006)
