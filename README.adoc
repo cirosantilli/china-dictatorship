@@ -6379,6 +6379,7 @@ As of 2020, there are two relevant parties:
 
 Events:
 
+* 2021 https://uhrp.org/report/under-the-gavel-evidence-of-uyghur-owned-property-seized-and-sold-online/ Under the Gavel: Evidence of Uyghur-owned Property Seized and Sold Online
 * 2014 something very serious happened in Xinjiang.
 ** https://www.reddit.com/r/China/comments/4hmhzt/xinjiang_massacre_2014_resulted_in_30005000_deaths/
 * 2010 Xinjiang 10 month Internet blackout
@@ -8357,6 +8358,9 @@ Related:
 
 * 2020-11-29 (not of prisoners) https://www.bbc.co.uk/news/world-asia-china-55097424 "Chinese doctors jailed for illegal organ harvesting"
 
+.https://youtu.be/0Jorm1di7uA?t=700[] Asian boss street inverview with several South Korean people asking how they see China. The only positive view is an old man who received an organ transplant from someone sentenced to death. On <<reddit>> at: https://www.reddit.com/r/China/comments/pve1lr/koreans_interviewed_about_their_views_on_china/[].
+video::0Jorm1di7uA[youtube,height=400,width=600,start=700]
+
 ===== 2018 China Tribunal
 
 2018 https://chinatribunal.com/
@@ -9242,7 +9246,7 @@ Label: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ametoo
 
 Women seem to have had difficulty in expressing themselves due to <<censorship>>, unsurprisingly.
 
-* Zhou Xiaoxuan v. TV anchor Zhu Jun
+* Zhou Xiaoxuan v. TV anchor Zhu Jun. Pseudonym Xianzi
 * Liu Jingyao v. billionaire Liu Qiangdong
 * Zou Sicong and He Qian v. Deng Fei
 
@@ -9378,6 +9382,12 @@ image::{china-dictatorship-media-base}/Mao_coffin.jpeg[height=400]
 
 .https://en.wikipedia.org/wiki/The_Economist[The Economist] "Let's party like it's 1793" cover from May 4th – 10th 2013 depicting a painting of Xi Jinping dressed as emperor of China. The famous https://en.wikipedia.org/wiki/Qianlong_Empero[Qianlong Emperor] was in power at that time. The title is likely a joke based on the more well known https://www.independent.co.uk/arts-entertainment/music/features/party-like-its-1969-woodstock-forty-years-on-1722695.html["Let's party like it's 1969"] due to the legendary https://en.wikipedia.org/wiki/Woodstock[Woodstock festival]. Party is also a play on words between the Communist Party and a night party. TODO why 1793 specifically shows another one from Sep 28, 2020 by French Magazine https://en.wikipedia.org/wiki/L%27Obs[l'Obs] entitled "L'Éternel Empire" (The Eternal Empire), using a similar picture to: <<ciro-santilli-as-qing-emperor,Ciro Santilli as Qing Emperor>>. https://www.cafeyn.co/uk/publication/l-obs-hors-serie/21640297 https://twitter.com/TheEconomist/status/329929668155293696[Source].
 image::{china-dictatorship-media-base}/Lets_party_like_its_1793.jpg[height=600]
+
+[[letter-n]]
+===== Letter "N" censorship (N字母被封了, 2018)
+
+* https://edition.cnn.com/2018/03/01/asia/china-letter-ban-trnd/index.html
+* https://www.dw.com/zh/修改宪法呼之欲出-审查措施变本加厉/a-42919779
 
 [[panama-papers]]
 ==== Panama papers (巴拿马文件, 2016)
@@ -13149,13 +13159,14 @@ Ahh, this is a perfect excuse to delete all <<wumao>> comments!
 This is where the <<censorship,Internet censors>> work.
 
 [[cac-report-website]]
-====== CAC report website (12321.cn, 12377.cn, 中央网信办举报网站)
+====== CAC report website (12321.cn, 12377.cn, 12339, 中央网信办举报网站)
 
 These are official Chinese government websites that can be used to report cybercrime, including fraud and identity theft, but also political <<thoughtcrime,thoughcrime>>:
 
 * http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm
 * https://www.12321.cn
 * http://12377.cn
+* 12339 is more <<spy,spy>>/national security focused
 
 Reports such as https://www.theage.com.au/world/asia/china-exporting-ccp-speech-controls-to-australia-as-second-university-caught-in-row-20200805-p55irf.html highlighted that these websites has a "report harmful or garbage information" entry, which can notably be used by Chinese expats to report people who badmouth the CCP, and in particular other Chinese nationals.
 
@@ -13782,6 +13793,7 @@ See also:
 * <<chinese-interference-in-the-western-education-systems>>
 * <<communist-bread>>
 * <<operation-fox-hunt>>
+* Chinese influence operations - a Machiavelli moment report by the Strategic Research Institute of France's renowned Military College: https://www.irsem.fr/ | https://drive.google.com/file/d/1qxUvLrLG4SSg8ANZnqvBfDOxUrtPmaB5/edit by Paul Charon and Jean-Baptiste Jeangène Vilmer
 
 [[belt-and-road-initiative]]
 ==== Belt and Road Initiative (一带一路)
@@ -14156,6 +14168,7 @@ Some news:
 ** 2020-04-17 only after more than 10 thousand people died in the country during <<covid>> did the brits finally change their minds: https://nypost.com/2020/04/17/uk-moves-to-drop-huawei-as-5g-vendor-citing-china-coronavirus-transparency/ "UK moves to drop Huawei as 5G vendor, citing China coronavirus transparency"
 * 2018-12 https://en.wikipedia.org/wiki/Meng_Wanzhou[Meng Wanzhou] (孟晚舟), daughter of Huawei founder Ren Zhengfei (任正非) and Huawei CFO as of 2018, was arrested in Canada because the US accused her of breaking Iran sanctions
 ** https://www.theglobeandmail.com/politics/article-michael-kovrig-michael-spavor-canadian-detainees-china-explainer/ "Why are Michael Kovrig and Michael Spavor still detained in China?" in apparent retaliation, under accusation of espionage.
+*** 2021-09 When Meng was released, they were immediately released as well. What a coincidence!!! https://www.cbc.ca/news/politics/spavor-kovrig-return-1.6189516
 ** 2020-05-27 https://techcrunch.com/2020/05/27/canada-court-finds-against-huawei-cfo-meng-wanzhou-on-double-criminality-extradition-trial-to-continue/ "Canada court finds against Huawei CFO Meng Wanzhou on double criminality; extradition trial to continue"
 * 2019-11 https://www.forbes.com/sites/zakdoffman/2019/11/29/has-huaweis-darkest-secret-just-been-exposed-by-this-new-report/#7896db9d4061 "Has Huawei's Darkest Secret Just Been Exposed By This New Surveillance Report?" Xinjiang Papers reveal the extent of Huawei's involvement in <<xinjiang>>
 
