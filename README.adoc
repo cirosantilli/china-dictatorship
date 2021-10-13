@@ -433,6 +433,7 @@ Mentioned in other sections:
 * https://github.com/fuckcqcs/fuckcqcs at <<changsheng-bio-technology-vaccine-data-falsification-incident-2018>>
 * <<xi-jinping-speech-synthesizer>>
 * https://github.com/zhangrunxu/zhangrunxu.github.io from <<xu-zhangrun>>
+* <<anti-video-game-ban-tools>>
 
 Not mentioned in other sections:
 
@@ -747,6 +748,9 @@ Related:
 * https://github.com/cirosantillifather[], e.g. https://github.com/programthink/books/issues/94[] at (https://web.archive.org/web/20210807195703/https://github.com/programthink/books/issues/94[archive])
 +
 On 2021-09-23 Ciro Santilli received this email from cirosantillifather@protonmail.com "Hello son: I like your wife very much, can you let her have a one-night stand with me?". https://github.com/cirosantillifather had been deleted at that point.
+** https://github.com/cirowayne[] (e.g. https://archive.ph/wip/sCYLF[archive]) possible new account
+* https://github.com/AlstonScott https://github.com/programthink/zhao/issues/428 was using Ciro's profile picture: https://archive.ph/K59TN
+* https://github.com/SBSBSBSBSBSBSBSBSBSBSB followed Ciro, coon after https://github.com/cirosantilli/china-dictatorship/issues/671
 
 [[faq]]
 == FAQ (常见问答集)
@@ -2785,6 +2789,10 @@ Minor:
 
 * https://techcrunch.com/2021/04/30/basecamp-employees-quit-ceo-letter/ 2021-04-31 Basecamp sees mass employee exodus after CEO bans political discussions
 
+YouTube:
+* 2021-10-07 https://techcrunch.com/2021/10/07/google-youtube-climate-change-denial-ban/ Google and YouTube say they won't allow ads or monetized content pushing climate denial
+* 2021-09-29 https://techcrunch.com/2021/09/29/youtube-will-now-ban-content-with-vaccine-misinformation/ YouTube will now ban content with vaccine misinformation
+
 [[politically-incorrect]]
 ====== Censorship of "politically incorrect speech" (审查政治不正确言论)
 
@@ -2893,6 +2901,9 @@ Snowden then later released the entire Chinese version of the book for free onli
 
 .Snowden highlighted defects on abuses of power in a Western democracy, and the discussion he sparked helped to control such abuses. <<to-obey-is-to-betray,To obey is to betray>> comes to mind. https://en.wikipedia.org/wiki/File:Edward_Snowden-2.jpg[Source].
 image::{china-dictatorship-media-base}/Snowden.jpg[height=500]
+
+https://youtu.be/MhJldILZhJ8?t=138 "A matter of internal security: the age old cry of the oppressor". Picard, Star Trek: The Next Generation s03e11 "The Hunted".
+video::MhJldILZhJ8[youtube,height=400,width=600,time=138]
 
 [[bad-things-have-been-done-in-the-name-of-freedom]]
 ===== Bad things have been done in the name of freedom (以自由的名义人做过很多坏事)
@@ -4303,20 +4314,7 @@ image::{china-dictatorship-media-base}/Apple_China_flag.png[height=400]
 [[linkedin]]
 ===== LinkedIn (领英)
 
-They have a <<anonymous-account-ban>> policy:
-
-* https://www.linkedin.com/help/linkedin/answer/28422/names-allowed-on-profiles you have to use your real name
-* https://www.linkedin.com/help/linkedin/topics/6042/6059/430 you have to use your real photo
-
-Extremely dictatorial, we should test other approaches, e.g. background image, and <<copypasta>> on about.
-
-* 2021-03-11 https://edition.cnn.com/2021/03/11/tech/linkedin-china-microsoft-intl-hnk/index.html "LinkedIn suspends new sign-ups in China":
-+
-____
-We're a global platform with an obligation to respect the laws that apply to us, including adhering to Chinese government regulations for our localized version of LinkedIn in China," LinkedIn added. The company declined to elaborate on which local law it was examining.
-____
-* 2019-01-04 https://www.scmp.com/news/china/article/2180620/linkedin-adhering-beijings-rules-censors-chinese-profile-page-us-based "LinkedIn reverses course after censoring Chinese profile page of US-based human rights activist Zhou Fengsuo", see also: <<zhou-fengsuo>>
-* 2014-06-04 https://money.cnn.com/2014/06/04/technology/linkedin-china-censorship/ "LinkedIn draws fire for China censorship" mentions: "Some LinkedIn (LNKD) users have received emails from the company in recent days informing them that their posts will not be shown in mainland China."
+Immediately censors anything that the Chinese government asks to censor in China.
 
 3 days after <<ciro-santilli>> put up anti-CCP messages on his LinkedIn, the account was banned in China, with a message under https://www.linkedin.com/help/linkedin/cases/36977487[]:
 ____
@@ -4337,12 +4335,39 @@ ____
 
 Interestingly however, Ciro still recevied some profile views from Chinese profiles from time to time, he wonders why, do they have a permit of some sort? E.g.:
 
+* 2021-09-29 someone from 北京云中融信网络科技有限公司 https://baike.baidu.com/item/北京云中融信网络科技有限公司/17048165[], an instant messaging services company.
+* 2021-09-17 https://en.wikipedia.org/wiki/Weber_Shandwick[Weber Shandwick]
+** https://www.webershandwick.com/wp-content/uploads/2021/02/2021-Geopolitical-Risk-Report.pdf 2021 REPORT ON GEOPOLITICAL RISKS TO BUSINESS REPUTATION by Weber Shandwick’s geopolitical Risk & Reputation Advisory Group
 * 2021-08-09 https://www.linkedin.com/in/嘉伟-闫-bbbb60218/ 闫嘉伟 领英中国 - 内容审核 (Yan Jiawei), LinkedIn China, content audit based in Beijing. One of the censors mistakently viewed Ciro's profile without premium or internal tools! Hello. Started working there June 2021, no further personal information available.
 * 2021-07-29:
 ** custommer service person from <<huawei>>
 ** financial consultant from Beijing
+* 2021-05-23 LinkedIn profile view from https://www.linkedin.com/company/circussocial/ Circus Social https://www.circussocial.com/[]. Some of their China stuff: https://www.circussocial.com/blog/tag/china-social-media/
+* 2021-03-23 https://my.cscglobal.com/ to cirosantilli.com/china-dictatorship another compliance company, previous https://cms.securimate.com hits come to mind. China related articles:
+** https://www.businesswire.com/news/home/20200728005641/en/CSC-Becomes-First-Foreign-Owned-Company-to-Receive-Domain-Registrar-License-in-China this company has some serious weight with Chinese regulators!
+** https://www.cscglobal.com/service/webinar/china-web-policies/ talks mostly about ICP licenses
+** https://www.cscglobal.com/service/webinar/china-ngo-law/
+** https://www.cscglobal.com/cscglobal/pdfs/DBS/CSC-Your-Brand-Secured.pdf features Jayce Yeo, and mentions social media management
+** https://medium.com/@hackermaderas/the-beginning-of-one-hackers-thoroughly-referenced-evidenced-osint-investigation-of-clearview-ai-1aa2e9109492 has a technical analysis that points that CSC has links to Clearview AI, and seem to be front-companies
 
 <<brave-new-world-books>> comes to mind.
+
+They also have a <<anonymous-account-ban>> policy for all countries:
+
+* https://www.linkedin.com/help/linkedin/answer/28422/names-allowed-on-profiles you have to use your real name
+* https://www.linkedin.com/help/linkedin/topics/6042/6059/430 you have to use your real photo
+
+Related:
+
+* 2021-09 Bethany Allen-Ebrahimian https://hongkongfp.com/2021/09/29/microsofts-linkedin-censors-us-journalist-over-china-content-makes-disturbing-offer-for-reinstatement/
+** https://twitter.com/BethanyAllenEbr/status/1442838821339639819
+* 2021-03-11 https://edition.cnn.com/2021/03/11/tech/linkedin-china-microsoft-intl-hnk/index.html "LinkedIn suspends new sign-ups in China":
++
+____
+We're a global platform with an obligation to respect the laws that apply to us, including adhering to Chinese government regulations for our localized version of LinkedIn in China," LinkedIn added. The company declined to elaborate on which local law it was examining.
+____
+* 2019-01-04 https://www.scmp.com/news/china/article/2180620/linkedin-adhering-beijings-rules-censors-chinese-profile-page-us-based "LinkedIn reverses course after censoring Chinese profile page of US-based human rights activist Zhou Fengsuo", see also: <<zhou-fengsuo>>
+* 2014-06-04 https://money.cnn.com/2014/06/04/technology/linkedin-china-censorship/ "LinkedIn draws fire for China censorship" mentions: "Some LinkedIn (LNKD) users have received emails from the company in recent days informing them that their posts will not be shown in mainland China."
 
 .3 days after <<ciro-santilli>> put up anti-CCP messages on his LinkedIn, the account was banned in China. They are quite efficient. <<zhou-fengsuo>> had notably https://www.buzzfeednews.com/article/meghara/china-linkedin-zhou-fengsuo[previously achieved this]. Another report by a https://www.buzzfeednews.com/article/meghara/linkedin-censorship-peter-humphrey[Peter Humphrey].
 image::{china-dictatorship-media-base}/Ciro_Santilli_LinkedIn_China_ban.png[height=600]
@@ -6039,6 +6064,7 @@ Overview of their culture: https://www.urbandictionary.com/define.php?term=Chong
 
 Chinese language, pretty good content, anti-CCP samples:
 
+* 2020-10-13 https://www.reddit.com/r/chonglangTV/comments/q7am6x/github这个仓库issue_岁静码农粉蛆暴跳如雷全被翻译成英文_效果好到爆 (https://github.com/cirosantilli/china-dictatorship/issues is fun)
 * 2020-03-27 https://www.reddit.com/r/chonglangTV/comments/mdlowp/ciro这人行能处/ (Ciro is nice)
 * 2021-02 https://www.reddit.com/r/chonglangTV/comments/lf5dy5/致那些坚持认为不会翻墙者不配看墙外东西的粉红/
 * 2021-01 https://www.reddit.com/r/chonglangTV/comments/kpulab/最双标的人/ (the people with the most double standards, 双标 is a short form or 双重标准), comments how China complained when the US imposed sanctions on <<huawei>>, while China itself had already banned everything from the West
@@ -7598,6 +7624,10 @@ Conversely, <<dictatorship,dictatorships>>, just like <<flg-cult,cults>>, also h
 * <<brave-new-world-books>>
 * <<internal-media-of-china>>
 * <<chernobyl-2019-miniseries>>
+
+Some other cults that come to mind:
+
+* https://en.wikipedia.org/wiki/School_of_Philosophy_and_Economic_Science[] just check that name. Sounds like a regular economy school, right?
 
 [[the-group-is-the-only-way]]
 ====== Insistence that the group is THE ONLY WAY (坚持他们的团体是唯一的方式生活, Orange Papers, 橙色文件)
@@ -9504,6 +9534,9 @@ Less good ones:
 * 2014-06-23 https://www.bbc.co.uk/news/av/world-asia-27926747/meet-the-chinese-presidential-pancake-seller "Shao Jianhua" TODO Chinese name, name of dish he sells. Too young and not fat enough.
 * https://youtu.be/8221d7F8Uzc?t=145 in video from Stuart Wiggin, see also: <<ccp-apologists>>
 
+.https://www.youtube.com/watch?v=lI0TFWJy1Ns Random scences from the https://en.wikipedia.org/wiki/Charlie_Chaplin[Charlie Chaplin] (https://zh.wikipedia.org/wiki/查理·卓别林[查理·卓别林]) film https://en.wikipedia.org/wiki/The_Great_Dictator[The Great Dictator] (https://zh.wikipedia.org/wiki/大独裁者[大独裁者]), in which <<nazi,Hitler>> has a Jewish lookalike.
+video::lI0TFWJy1Ns[youtube,height=400,width=600]
+
 [[xi-jinping-porn]]
 ===== Xi Jinping porn (习近平色情)
 
@@ -9635,8 +9668,15 @@ Much of it can be considered a type of <<newspeak>>.
 .<<ccp-cult,Devotional>> image of <<xi-jinping>> on the cover of the https://en.wikipedia.org/wiki/The_Governance_of_China[The Governance of China] (link:https://zh.wikipedia.org/wiki/习近平谈治国理政[习近平谈治国理政], 2020) book which is part of <<xi-jinping-thought>>. The similarity to <<li-hongzhi>> devotional images <<li-hongzhi-lotus,is striking>>. Related: <<xi-halo>>. https://www.amazon.co.uk/Governance-China-Xi-Jinping/dp/1602204098[Source].
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China.jpg[height=400]
 
+[[youth-learning]]
+===== Youth Learning (青年大学习)
+
+* https://zh.wikipedia.org/wiki/“青年大学习”行动
+
+2018 movement to get children to learn <<xi-jinping-thought>>, see also
+
 [[xi-jinping-thought-primary-school-textbook-2021]]
-===== Xi Jinping Thought primary school textbook (2021, 习近平新时代中国特色社会主义思想学生读本。小学高年级。)
+====== Xi Jinping Thought primary school textbook (2021, 习近平新时代中国特色社会主义思想学生读本。小学高年级。)
 
 Contains images showing <<xi-jinping>> as a <<ccp-cult,Cult leader>>:
 
@@ -9711,6 +9751,10 @@ https://github.com/TechXueXi/TechXueXi appears to be a "non-cheating" assistant?
 The repository was created by Tang Wenzheng (唐文正, <<github>> alias https://github.com/Xmader[Xmader]). https://chinadigitaltimes.net/chinese/663593.html According to https://chinadigitaltimes.net/chinese/663593.html form <<china-digital-times>>, he accidentally posted with his real name on an issue once (<<ciro-santilli>> knows that it is basically impossible not to when juggling multiple accounts simultaneously), and subsequently publicly announced his true identity. Following the name reveal, he did an AMA on <<terminus2049>> https://2047.name/t/11552[], and luckily he is abroad, and does not intend to come back. Wenzheng also created the https://github.com/china-digital-times/china-digital-times.github.io <<github>> pages mirror of <<china-digital-times>>, further discussed in that section. At https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/issues/578 on 2021-03-03, he announced that he would stop working on the project because his parents weren't needing the APP anymore, succession wasn't announced. A few commits followed in the next days, but presumably minimal maintenance and ramp-down.
 
 Wenzheng was also involved in a notable possible copyright dispute with https://musescore.org/en[], a software that Ciro actually enjoyed, as shown at https://github.com/Xmader/musescore-downloader/issues/5#issuecomment-882472815 which was then highlighted at https://www.reddit.com/r/linux/comments/onro8q/head_of_strategy_of_muse_group_muse_score/[]. At https://web.archive.org/web/20210719115639if_/https://github.com/Xmader/musescore-downloader/issues/5#issuecomment-882450335 the developer noted that this could lead to Xmader's deportation. Some interpreted this as threat, but Ciro feels that it might be true as the developers noted that they withheld action for a while to prevent his deportation.
+
+Related projects to cheat other stupid things:
+
+* https://github.com/838239178/tk-auto-study to cheat the <<fujian>> <<youth-learning>>
 
 .Fuck-XueXiQiangGuo 2021 GitHub page screenshot with stars highlighted. 7k stars on a Chinese-only repository is a lot of stars, and very unlikely to be faked. This is what you should show <<wumao,wumaos>> when they that no Chinese person opposes the <<ccp>>.
 image::{china-dictatorship-media-base}/Fuck-XueXiQiangGuo_2021_GitHub_page_screenshot_with_stars_highlighted.png[height=650]
@@ -14079,6 +14123,11 @@ This is especially interesting given that one of the main propaganda reasons for
 * https://www.cnbc.com/2021/08/30/china-to-ban-kids-from-playing-online-games-for-more-than-three-hours-per-week.html
 * https://www.dw.com/zh/中国电玩限时禁令美国家长及中国网民怎么看/a-59046586 How american and Chinese parents see the video game restriction
 
+==== Anti video game ban tools
+
+* https://github.com/tanenrumu/Arknights_Anti-addiction_Cheater
+* https://github.com/FuckAntiAddiction/BiligameAddictionNotLimited
+
 [[central-party-school]]
 === Central Party School of the Communist Party of China (Central Party School, 中共中央党校, 中央党校))
 
@@ -14545,19 +14594,10 @@ Someone subscribed me to a hundred GovDelivery mailing lists. This bullshit is a
 * 2015-06-20: (deleted) link:https://www.plurk.com/p/l1jjn4[] Archive: https://web.archive.org/web/20150918110032/https://www.plurk.com/p/l1jjn4 "這阿豆阿的名字XDD" by https://www.plurk.com/m/u/cyuanXD
 * 2015-05-30: <<zhou-fengsuo>> linked to <<ciro-santilli>>'s stack overflow account!!!
 
-LinkedIn views from publicity and markeding companies:
+In other sections:
 
-* 2021-09-17 https://en.wikipedia.org/wiki/Weber_Shandwick[Weber Shandwick]
-** https://www.webershandwick.com/wp-content/uploads/2021/02/2021-Geopolitical-Risk-Report.pdf  2021 REPORT ON GEOPOLITICAL RISKS TO BUSINESS REPUTATION by Weber Shandwick’s geopolitical Risk & Reputation Advisory Group
-* 2021-05-23 LinkedIn profile view from https://www.linkedin.com/company/circussocial/ Circus Social https://www.circussocial.com/[]. Some of their China stuff: https://www.circussocial.com/blog/tag/china-social-media/
-* 2021-03-23 https://my.cscglobal.com/ to cirosantilli.com/china-dictatorship another compliance company, previous https://cms.securimate.com hits come to mind. China related articles:
-** https://www.businesswire.com/news/home/20200728005641/en/CSC-Becomes-First-Foreign-Owned-Company-to-Receive-Domain-Registrar-License-in-China this company has some serious weight with Chinese regulators!
-** https://www.cscglobal.com/service/webinar/china-web-policies/ talks mostly about ICP licenses
-** https://www.cscglobal.com/service/webinar/china-ngo-law/
-** https://www.cscglobal.com/cscglobal/pdfs/DBS/CSC-Your-Brand-Secured.pdf features Jayce Yeo, and mentions social media management
-** https://medium.com/@hackermaderas/the-beginning-of-one-hackers-thoroughly-referenced-evidenced-osint-investigation-of-clearview-ai-1aa2e9109492 has a technical analysis that points that CSC has links to Clearview AI, and seem to be front-companies
-
-admin.github.com hits listed at: <<github-report>>.
+* admin.github.com hits listed at: <<github-report>>
+* LinkedIn profile hits listed at: <<linkedin>>
 
 [[v2ex]]
 === V2EX (semi-censored forum)
@@ -15806,6 +15846,14 @@ Well known for <<lamian>>.
 
 * https://en.wikipedia.org/wiki/Liaoning
 * https://zh.wikipedia.org/wiki/辽宁省
+
+[[fujian]]
+==== Fujian Province (辽宁省)
+
+Below Zhejiang. The one closest to <<taiwan>>.
+
+* https://en.wikipedia.org/wiki/Fujian
+* https://zh.wikipedia.org/wiki/福建省
 
 [[hebei]]
 ==== Hebei Province (河北省)
@@ -18114,6 +18162,11 @@ The following Chinese policies come to mind:
 
 * <<icp-license>>
 * <<anonymous-account-ban>>
+
+[[svetlana-krivonogikh]]
+==== Svetlana Krivonogikh (Putin's girlfriend)
+
+* 2021-10-03 Pandora papers reveal hidden riches of Putin’s inner circle https://www.theguardian.com/news/2021/oct/03/pandora-papers-reveal-hidden-wealth-vladimir-putin-inner-circle
 
 === Putin opposition
 
