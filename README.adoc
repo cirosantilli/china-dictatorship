@@ -40,7 +40,7 @@ This README is too large and https://github.com/isaacs/github/issues/1610[GitHub
 
 or by downloading it locally as shown at: <<mirrors>>.
 
-**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead, preferably from behind VPN/Tor/<<shadowsocks>>.** 你不是一个人。将来是今天的五毛必须隐藏，而不是你。You are not alone. In the fiture, it is the wumaos who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
+**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead, preferably from behind VPN/Tor/<<shadowsocks>>.** 你不是一个人。未来需要隐藏的将是今天的五毛，而不是你。You are not alone. In the fiture, it is the wumaos who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
 
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China_photo.jpg[height=600]
 
@@ -4044,6 +4044,16 @@ NBA in particular is super popular in China, and people sitting at the front row
 
 Started in particular due to the <<lebron-james-opposes-hong-kong-anti-extradition-bill-protests-2019>>
 
+[[enes-kanter-s-shoes]]
+====== Enes Kanter's shoes (埃内斯·坎特, NBA)
+
+TODO any good shots of him wearing the shoes while playing?
+
+* https://en.wikipedia.org/wiki/Enes_Kanter
+* https://zh.wikipedia.org/wiki/埃内斯·坎特
+* https://twitter.com/EnesKanter/status/1453059299056422912
+* https://www.scmp.com/sport/basketball/article/3153120/nba-player-enes-kanter-launches-withering-social-media-attack-xi
+
 [[what-should-western-countries-do-about-china]]
 ==== What should Western countries do about China? (西方国家应该怎么对待中国？)
 
@@ -4310,6 +4320,7 @@ News:
 +
 .Chinese flag with Apple characteristics. https://techcrunch.com/2015/08/11/apple-shares-tumble-5-amidst-china-concerns/[Source].
 image::{china-dictatorship-media-base}/Apple_China_flag.png[height=400]
+* 1999 https://www.lionsroar.com/apple-thinks-different-about-the-dalai-lama-in-china-2/ Apple censors <<dalai-lama>> for China
 
 [[linkedin]]
 ===== LinkedIn (领英)
@@ -4332,6 +4343,8 @@ Regards,
 
 LinkedIn Support Team
 ____
+
+2021-10-14 https://techcrunch.com/2021/10/14/microsoft-to-pull-linkedin-from-chinese-market/ Microsoft to pull LinkedIn from Chinese market
 
 Interestingly however, Ciro still recevied some profile views from Chinese profiles from time to time, he wonders why, do they have a permit of some sort? E.g.:
 
@@ -4468,9 +4481,10 @@ Chinese celebrities who opposed the CCP:
 [[entertainers-who-oppose-the-ccp]]
 ==== Entertainers who oppose the CCP (反对中共的艺人)
 
+* 2021 <<enes-kanter-s-shoes>> what a hero
+** 2021 ranks China below F in a Country https://en.wikipedia.org/wiki/Tier_list[tier list] video: https://youtu.be/x1PjAhpUjYQ?t=198[], appears to be a rip of this members-only content: https://www.youtube.com/watch?v=7NCcFkuosfI[]. Reddit entry: https://www.reddit.com/r/China/comments/ptzygj/pewdiepie_you_are_a_legend/
 * https://en.wikipedia.org/wiki/PewDiePie[PewpDiePie]
 ** 2019 on <<hong-kong-anti-extradition-bill-protests-2019>>: https://www.youtube.com/watch?v=OhWZavn2OvM Hong Kong vs Joker Ends Fortnite [MEME REVIEW]
-** 2021 ranks China below F in a Country https://en.wikipedia.org/wiki/Tier_list[tier list] video: https://youtu.be/x1PjAhpUjYQ?t=198[], appears to be a rip of this members-only content: https://www.youtube.com/watch?v=7NCcFkuosfI[]. Reddit entry: https://www.reddit.com/r/China/comments/ptzygj/pewdiepie_you_are_a_legend/
 
 [[chinese-interference-in-the-western-education-systems]]
 === Chinese Interference in the Western education systems (中共对西方教育体系的干预)
@@ -6036,7 +6050,6 @@ TODO review:
 * https://www.reddit.com/r/taiwan/
 * https://www.reddit.com/r/China_Flu/
 * https://www.reddit.com/r/China_irl/ (流浪防区) https://www.reddit.com/r/China/comments/mnbpum/if_you_want_to_experience_the_censorship_and/ claims pro-CCP, but e.g. https://www.reddit.com/r/China_irl/comments/mn68dy/各位键委如何看待gfw/ has <<gfw>> talks
-* https://www.reddit.com/r/GenZedong/
 
 [[r-china]]
 ==== r/China Reddit sub
@@ -6064,7 +6077,7 @@ Overview of their culture: https://www.urbandictionary.com/define.php?term=Chong
 
 Chinese language, pretty good content, anti-CCP samples:
 
-* 2020-10-13 https://www.reddit.com/r/chonglangTV/comments/q7am6x/github这个仓库issue_岁静码农粉蛆暴跳如雷全被翻译成英文_效果好到爆 (https://github.com/cirosantilli/china-dictatorship/issues is fun)
+* 2021-10-13 https://www.reddit.com/r/chonglangTV/comments/q7am6x/github这个仓库issue_岁静码农粉蛆暴跳如雷全被翻译成英文_效果好到爆 (https://github.com/cirosantilli/china-dictatorship/issues is fun)
 * 2020-03-27 https://www.reddit.com/r/chonglangTV/comments/mdlowp/ciro这人行能处/ (Ciro is nice)
 * 2021-02 https://www.reddit.com/r/chonglangTV/comments/lf5dy5/致那些坚持认为不会翻墙者不配看墙外东西的粉红/
 * 2021-01 https://www.reddit.com/r/chonglangTV/comments/kpulab/最双标的人/ (the people with the most double standards, 双标 is a short form or 双重标准), comments how China complained when the US imposed sanctions on <<huawei>>, while China itself had already banned everything from the West
@@ -6100,6 +6113,29 @@ Democracies Are Better at Fighting Outbreaks - theatlantic XD
 The US leads in coronavirus cases, but not pandemic response - sciencemag XD
 
 Beliefs of founder cultleader of Falun Gong from own lectures on official falundafa site https://redd.it/42wlvf
+____
+
+[[r-genzedong]]
+===== r/GenZedong
+
+https://www.reddit.com/r/GenZedong
+
+Featuring <<ciro-santilli>>: https://www.reddit.com/r/GenZedong/comments/qcyocd/the_lengths_these_fucking_people_go_to/ "The lengths these fucking people go to." They are unable to read it seems: <<keyword-attack>>.
+
+Ciro commented linking to https://cirosantilli.com/why-ciro-santilli-refers-to-himself-in-the-third-person and was autobanned immediately with message:
+
+____
+You have been banned due to participation in anti-communist subreddits. This action was performed automatically by a bot.
+
+Hong Kong is China. Mao already freed Tibet in 1950. The Xinjiang counter-terrorism program is both effective and humane, unlike the US War on Terror which is neither. Long Live President Xi Jinping and the Communist Party of China!
+____
+
+It appears that the word `cirosantilli.com` is itself banned?
+
+Sub description:
+
+____
+This is a Dengist subreddit in favor of Bashar al-Assad with no information leading to the arrest of Hillary Rodham Clinton, our fellow liberal and queen. This subreddit is not ironic, we are Marxist-Leninists.
 ____
 
 ===== r/russia
@@ -6801,6 +6837,12 @@ Events linked to reducing the teaching of the Tibetan language in schools and re
 
 * 2020-04 https://www.languagemagazine.com/2020/04/23/tibetan-language-phased-out-as-schools-switch-to-mandarin/
 * 2010 https://en.wikipedia.org/wiki/2010_Tibetan_language_protest
+
+[[dalai-lama]]
+==== Dalai Lama (达赖喇嘛)
+
+* https://en.wikipedia.org/wiki/Dalai_Lama
+* https://zh.wikipedia.org/wiki/达赖喇嘛
 
 ==== Tibet "re-education" camps (2020)
 
@@ -9393,6 +9435,24 @@ The letter was also apparently embedded into the <<bitcoin-blockchain,Ethereum b
 * https://en.wikipedia.org/wiki/Xi_Jinping
 * https://zh.wikipedia.org/wiki/习近平
 
+Unicode Art, possible source: https://www.reddit.com/r/ASCII_Archive/comments/ejui7b/winnie_the_pooh/[] brought to attention at: https://github.com/cirosantilli/china-dictatorship/issues/231#issuecomment-949659614[]:
+
+....
+⣿⣿⣿⣿⣿⠟⠋⠄⠄⠄⠄⠄⠄⠄⢁⠈⢻⢿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⠃⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⡀⠭⢿⣿⣿⣿⣿
+⣿⣿⣿⣿⡟⠄⢀⣾⣿⣿⣿⣷⣶⣿⣷⣶⣶⡆⠄⠄⠄⣿⣿⣿⣿
+⣿⣿⣿⣿⡇⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄⠄⢸⣿⣿⣿⣿
+⣿⣿⣿⣿⣇⣼⣿⣿⠿⠶⠙⣿⡟⠡⣴⣿⣽⣿⣧⠄⢸⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣾⣿⣿⣟⣭⣾⣿⣷⣶⣶⣴⣶⣿⣿⢄⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡟⣩⣿⣿⣿⡏⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣹⡋⠘⠷⣦⣀⣠⡶⠁⠈⠁⠄⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣍⠃⣴⣶⡔⠒⠄⣠⢀⠄⠄⠄⡨⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣦⡘⠿⣷⣿⠿⠟⠃⠄⠄⣠⡇⠈⠻⣿⣿⣿⣿
+⣿⣿⣿⣿⡿⠟⠋⢁⣷⣠⠄⠄⠄⠄⣀⣠⣾⡟⠄⠄⠄⠄⠉⠙⠻
+⡿⠟⠋⠁⠄⠄⠄⢸⣿⣿⡯⢓⣴⣾⣿⣿⡟⠄⠄⠄⠄⠄⠄⠄⠄
+⠄⠄⠄⠄⠄⠄⠄⣿⡟⣷⠄⠹⣿⣿⣿⡿⠁⠄⠄⠄⠄⠄⠄⠄⠄
+....
+
 Bibliography:
 
 * https://evchk.wikia.org/zh/wiki/習近平
@@ -10301,7 +10361,6 @@ Not in other sections:
 * 2008 https://en.wikipedia.org/wiki/Tofu-dreg_project | https://zh.wikipedia.org/wiki/豆腐渣工程 https://en.wikipedia.org/wiki/China%27s_Unnatural_Disaster:_The_Tears_of_Sichuan_Province
 * 2008 Wenzhou train collision https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response https://zh.wikipedia.org/wiki/2011年甬台温铁路列车追尾事故
 * 2005 https://en.wikipedia.org/wiki/Dongzhou_protests | https://zh.wikipedia.org/wiki/东洲事件 Dongzhou protests
-* 1999 https://www.lionsroar.com/apple-thinks-different-about-the-dalai-lama-in-china-2/ Apple censors Dalai Lama for China
 * 1978-1979 Beijing Spring
 ** https://en.wikipedia.org/wiki/Beijing_Spring
 ** https://zh.wikipedia.org/wiki/北京之春
@@ -12107,6 +12166,10 @@ image::{china-dictatorship-media-base}/Scarfolk_lose_face.jpg[height=500]
 
 Has a more artistic red-black-white-yellow style.
 
+Examples:
+
+* brutal 2022 Olympics posters: https://i.redd.it/mlra40aqv5q71.jpg
+
 ==== Harry Harrison
 
 * https://en.wikipedia.org/wiki/Harry_Harrison_(cartoonist)
@@ -13102,6 +13165,12 @@ Projects:
 ** https://github.com/Loyalsoldier/v2ray-rules-dat | https://github.com/v2ray/v2ray-core Contains cirosantilli.com: https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat[], victory.
 ** https://github.com/v2ray/v2ray-core
 * https://github.com/geph-official/geph4 Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
+* https://github.com/hq450/fancyss
++
+_____
+Fancyss is a project providing tools to across the GFW on asuswrt/merlin/openwrt based router with software center.
+_____
+
 
 More info:
 
@@ -13560,7 +13629,7 @@ https://en.wikipedia.org/wiki/Tankie
 Adapted from the cold war, this term has been widely used to describe pro-CCP western people, i.e. <<ccp-apologists>>, examples:
 
 * https://wokeglobaltimes.com/tankies-and-despair tankies, despair, and politics: a case study by the woke global times (2020) on <<the-woke-global-times>>
-* https://www.reddit.com/r/EnoughCommieSpam/comments/n29kc3/upvote_this_absolute_chad_to_piss_off_the_tankies/ Upvote this absolute chad to piss off the tankies at r/GenZedong on <<reddit>>
+* https://www.reddit.com/r/EnoughCommieSpam/comments/n29kc3/upvote_this_absolute_chad_to_piss_off_the_tankies/ Upvote this absolute chad to piss off the tankies at <<r-genzedong>> on <<reddit>> with an image of the 14th <<dalai-lama>>
 
 [[nathan-rich]]
 ====== Nathan Rich (Hotpot King, 火锅大王)
@@ -14549,6 +14618,8 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2021-10-21 https://www.reddit.com/r/GenZedong/comments/qcyocd/the_lengths_these_fucking_people_go_to/ from <<r-genzedong>>
+* 2021-10-13 https://www.reddit.com/r/chonglangTV/comments/q7am6x/github这个仓库issue_岁静码农粉蛆暴跳如雷全被翻译成英文_效果好到爆 from <<r-chonglangtv>>
 * 2021-08 https://www.reddit.com/r/DoubanGoosegroup/comments/pkjyzm/有没有学理科会备份的鹅_感觉很多组都要殉我们要不要弄个github把热贴备份出来/ TODO understand
 * 2021-07-15 https://weibo.com/3009149283/KoREYEIA2?type=comment#_rnd1629010985150 on <<weibo>> #反华 挂一个垃圾仓库 cirosantilli/china-dictatorship (#anti-china Found a trash repository.) Does not understand the CCP != China: <<does-ciro-santilli-hate-china>>. Perhaps this is what triggered <<ciro-santillis-weibo-block>>.
 * 2021-08-13 https://www.kdocs.cn/ to https://github.com/cirosantilli/cirosantilli[]. That's a Google Docs clone it seems. Used by the Chengdu government. Chinese name: 金山文档 (golden mountain documents). Also had 50 unique cloners on 11 and 12th. Is it <<github-gov-takedowns>> time at last??
@@ -14598,6 +14669,16 @@ In other sections:
 
 * admin.github.com hits listed at: <<github-report>>
 * LinkedIn profile hits listed at: <<linkedin>>
+
+=== sogou.com traffic
+
+Until 2021-11, the GitHub repository https://github.com/cirosantilli/china-dictatorship/graphs/traffic was getting quite a lot of traffic (500 unique hits over 14 days) from the Sogou search engine:
+
+* https://m.sogou.com
+* https://wap.sogou.com
+* https://sogou.com
+
+Someone seems to have noticed this after https://www.reddit.com/r/chonglangTV/comments/q7am6x/github这个仓库issue_岁静码农粉蛆暴跳如雷全被翻译成英文_效果好到爆 from <<r-chonglangtv>> after which they finally blocked the repo. With such measures from Chinese search engines making their engines shit, it is no wonder that Chines people are forced to use GitHub search, see also: <<zhao-heming>>.
 
 [[v2ex]]
 === V2EX (semi-censored forum)
@@ -17983,6 +18064,9 @@ https://youtu.be/fAoMzxKkH2M?t=3628 Can't Get You Out of My Head S01E06 "Are We 
 
 .https://www.youtube.com/watch?v=BiI5UuCiEoU Russian Youtuber Bashir Dokhov puts Putin portrait in a lift as an opinion poll. TODO evidence that it was not staged, e.g. address, identities of people shown. But in any case, Ciro does feel that as of 2020 Putin's power is very precarious compared to <<xi-jinping>> for example. E.g., whenever Ciro spoke to Russians abroad, they were all able to criticize Putin. But about on third to half of the Chinese abroad were completely brainwahsed and thought China has the best government possible. Original video: https://www.youtube.com/watch?v=eeb3MMl3lB4[].
 video::BiI5UuCiEoU[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=8X7Ng75e5gQ Vladimir Pozner: How the United States Created Vladimir Putin (2018) Basically says it was a similar bullshit to what the allies did after WWI, rather than invest in the country, they were more willing to punish it, or ignore it. Notably disastrous was the enlargement of NATO in 1996 to move East including Poland, which the USA had promised not to do during discussions for the reunification of Germany in 1989. When Putin came to power, he propoesd that Russia should join the NATO or the European Union, and again he was turned down.
+video::8X7Ng75e5gQ[youtube,height=400,width=600]
 
 ==== Putin-sponsored poisonings
 
