@@ -40,7 +40,7 @@ This README is too large and https://github.com/isaacs/github/issues/1610[GitHub
 
 or by downloading it locally as shown at: <<mirrors>>.
 
-**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead, preferably from behind VPN/Tor/<<shadowsocks>>.** 你不是一个人。未来需要隐藏的将是今天的五毛，而不是你。You are not alone. In the fiture, it is the wumaos who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
+**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead, preferably from behind VPN/Tor/<<shadowsocks>>.** 你不是一个人。未来需要隐藏的将是今天的五毛，而不是你。You are not alone. In the future, it is the wumaos who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
 
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China_photo.jpg[height=600]
 
@@ -10942,6 +10942,8 @@ video::0XwXaCbfIGw[youtube,height=400,width=600]
 [[programthink]]
 ==== Programthink (编程随想)
 
+* https://zh.wikipedia.org/wiki/编程随想的博客 (there is no English page as of January 2020)
+
 Very popular Chinese language anonymous blogger that publishes software programming tutorials and political content since 2009, often negative about the CCP, in particular <<censorship,anti-censorship>> and <<brainwashed-by-usa,anti-CCP-brainwashing>>.
 
 He was likely arrested in 2021 according to an anonymous report to <<rfa>>, consistent with an abnormally long lack of posts:
@@ -10952,7 +10954,6 @@ He was likely arrested in 2021 according to an anonymous report to <<rfa>>, cons
 
 Some people started wishing he will come back on comments: https://github.com/programthink/books/issues/96[], <<ciro-santilli>> left his at: https://github.com/programthink/books/issues/99[].
 
-* https://zh.wikipedia.org/wiki/编程随想的博客 (there is no English page as of January 2020)
 * https://program-think.blogspot.com/ The blog. Blocked in China with the <<censorship,rest of Blogspot>>:
 ** 2020 categorized summary of the best posts of all time: https://program-think.blogspot.com/2020/01/11-years-blogging.html
 * https://github.com/programthink
@@ -14618,6 +14619,17 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2021-11-01 https://boards.4chan.org/pol/thread/345613074 (https://archive.ph/5JRal[archive]). Small thread, starts talking about <<r-genzedong>>, and then someone mentions:
++
+____
+Found this massive anti-china github page the other day, it's huge. There did seem to be some stuff in there that seemed kind of sjw-ish a bit, can't remember what https://github.com/cirosantilli/china-dictatorship
+____
++
+and someone replies:
++
+____
+i became blind by how hard this shit glows
+____
 * 2021-10-21 https://www.reddit.com/r/GenZedong/comments/qcyocd/the_lengths_these_fucking_people_go_to/ from <<r-genzedong>>
 * 2021-10-13 https://www.reddit.com/r/chonglangTV/comments/q7am6x/github这个仓库issue_岁静码农粉蛆暴跳如雷全被翻译成英文_效果好到爆 from <<r-chonglangtv>>
 * 2021-08 https://www.reddit.com/r/DoubanGoosegroup/comments/pkjyzm/有没有学理科会备份的鹅_感觉很多组都要殉我们要不要弄个github把热贴备份出来/ TODO understand
