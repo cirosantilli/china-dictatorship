@@ -76,13 +76,11 @@ if (!isComment) {
   labels = new Set(payload.issue.labels.map(label => label.name));
   newLabels = new Set();
   const shabiWords = [
-    'shabi',
-    'shadiao',
+    '(sha|沙|啥)(b|bi|diao|雕|比)',
     '傻',
-    '沙雕',
     '智障',
     '垃圾',
-    '啥b',
+    '脑瘫',
     'stupid',
   ];
   for (const word of shabiWords) {

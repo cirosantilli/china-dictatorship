@@ -375,18 +375,6 @@ These also offer great plausible deniability: a citizen in China could always ar
 
 TODO: create an Ubuntu PPA and Ruby gem as well.
 
-Another source of China-specific mirroring are GitHub proxies, https://linuxpip.org/github-in-china/ contains an overview:
-
-* https://hub.fastgit.org/ this appears to auto-redirect to GitHub from non-Chinese IPs, but presumably shows the pages for Chinese IPs, e.g. we had hits from http://hub.fastgit.org/cirosantilli/china-dictatorship[] in 2021-03-25. This happened soon after SEO optimizations mentioned at: <<zhao-heming>> and might be related.
-* https://github.com.cnpmjs.org/ as of March 2021, it often reaches an apparently random "Whoa there! You have triggered an abuse detection mechanism.". But other time it succeeds, e.g. some of the times: https://github.com.cnpmjs.org/cirosantilli/china-dictatorship is visible.
-* https://a1.mk-proxy.ml/-----https://github.com/cirosantilli/china-dictatorship generated from http://toolwa.com/github/
-* https://github.com/521xueweihan/GitHub520
-* https://github-dotcom.gateway.web.tr/cirosantilli/china-dictatorship a Turkish proxy. They have their own censorship issues as well of course.
-* https://phoenix.yizimg.com/cirosantilli/china-dictatorship Not sure origin, https://web.archive.org/web/20200221135123/http://www.yizimg.com:80/ has a little bit of information
-* using https://workers.cloudflare.com/[Cloudflare workers]:
-** https://github.independentlyreview.com/cirosantilli/china-dictatorship described at https://independentlyreview.com/link as using Cloudfare workers
-** https://github.laobiao.workers.dev/cirosantilli/china-dictatorship
-
 Create tags,and update all mirrors in one go with: link:push-mirrors[]:
 
 ....
@@ -406,6 +394,23 @@ which is more lightweight and pushes just to GitHub and GitLab Pages, so we are 
 `./push` is used to publish every commit.
 
 There is no need to update package versions or add git tags, all of that gets done automatically by the script!
+
+==== GitHub proxies
+
+Another source of China-specific mirroring of this project are GitHub proxies, https://linuxpip.org/github-in-china/ contains an overview:
+
+* https://hub.fastgit.org/ this appears to auto-redirect to GitHub from non-Chinese IPs, but presumably shows the pages for Chinese IPs, e.g. we had hits from http://hub.fastgit.org/cirosantilli/china-dictatorship[] in 2021-03-25. This happened soon after SEO optimizations mentioned at: <<zhao-heming>> and might be related.
+* https://github.com.cnpmjs.org/ as of March 2021, it often reaches an apparently random "Whoa there! You have triggered an abuse detection mechanism.". But other time it succeeds, e.g. some of the times: https://github.com.cnpmjs.org/cirosantilli/china-dictatorship is visible.
+* https://a1.mk-proxy.ml/-----https://github.com/cirosantilli/china-dictatorship generated from http://toolwa.com/github/
+* https://github.com/521xueweihan/GitHub520
+* https://github-dotcom.gateway.web.tr/cirosantilli/china-dictatorship a Turkish proxy. They have their own censorship issues as well of course.
+* https://phoenix.yizimg.com/cirosantilli/china-dictatorship Not sure origin, https://web.archive.org/web/20200221135123/http://www.yizimg.com:80/ has a little bit of information
+* using https://workers.cloudflare.com/[Cloudflare workers]:
+** https://github.independentlyreview.com/cirosantilli/china-dictatorship described at https://independentlyreview.com/link as using Cloudfare workers
+** https://github.laobiao.workers.dev/cirosantilli/china-dictatorship
+
+Related:
+* https://gitmemory.com/cirosantilli/china-dictatorship appears to be Chinese: https://www.reddit.com/r/github/comments/iiolp8/what_the_hell_is_gitmemorycom/
 
 [[github-repositories-with-censored-information]]
 == GitHub repositories with censored information (政治敏感的GitHub库)
@@ -1740,7 +1745,20 @@ For example, Stack Overflow relied on Google for some of its JavaScript and on I
 
 But isn't it better to be annoyed than having <<war,war>>, <<richer,being poor>> or <<xinjiang,put into jail unfairly>>?
 
-If the truth is too much for you to bear, worry not, you can use either:
+Another good option is to use the trusty <<cac-report-website>>.
+
+Installing any of those immediately give you <<social-credit-system,10 Sesame Points>>, <<xi-abolishes-term-limits-2018-03,习万岁>>.
+
+See also: <<harm-programmers>>.
+
+[[what-is-more-obscene-sex-or-war]]
+.https://www.youtube.com/watch?v=GwCyQINNXwE "What is more obscene: sex or war?" scene from https://en.wikipedia.org/wiki/The_People_vs._Larry_Flynt[The People vs. Larry Flynt (1996)]. Ciro just can't stop thinking about that scene when someone tells him that <<disturbs,his profile disturbs them>>. What is more obscene? <<xi-jinping-memes>> or human rights violations?
+video::SRPiE59e8NU[youtube,height=400,width=600]
+
+[[browser-extensions-to-hide-keyword-attacks]]
+===== Browser extensions to hide keyword attacks (隐藏关键字攻击的浏览器扩展)
+
+If the truth is too much for you to bear, worry not, you could use one of:
 
 * Greasyfork browser extensions
 ** https://greasyfork.org/en/scripts/32236-stackoverflow净化器 "StackOverflow净化器" (Stack Overflow cleanup)
@@ -1754,16 +1772,7 @@ If the truth is too much for you to bear, worry not, you can use either:
 **** https://english.meta.stackexchange.com/users/156741/li-xiaodong
 **** https://github.com/DoyleLi from Intel
 * a custom ad terminator expression shown at: https://github.com/cirosantilli/china-dictatorship/issues/87 `stackoverflow.com##a[href="/users/895245/ciro-santilli-%e6%96%b0%e7%96%86%e6%94%b9%e9%80%a0%e4%b8%ad%e5%bf%83%e6%b3%95%e8%bd%ae%e5%8a%9f%e5%85%ad%e5%9b%9b%e4%ba%8b%e4%bb%b6"]`
-
-Another good option is to use the trusty <<cac-report-website>>.
-
-Installing any of those immediately give you <<social-credit-system,10 Sesame Points>>, <<xi-abolishes-term-limits-2018-03,习万岁>>.
-
-See also: <<harm-programmers>>.
-
-[[what-is-more-obscene-sex-or-war]]
-.https://www.youtube.com/watch?v=GwCyQINNXwE "What is more obscene: sex or war?" scene from https://en.wikipedia.org/wiki/The_People_vs._Larry_Flynt[The People vs. Larry Flynt (1996)]. Ciro just can't stop thinking about that scene when someone tells him that <<disturbs,his profile disturbs them>>. What is more obscene? <<xi-jinping-memes>> or human rights violations?
-video::SRPiE59e8NU[youtube,height=400,width=600]
+* https://gist.github.com/chenx6/97d912a6ef623f5142f69f44b580c1a0 replaces Ciro's username with "Ciro Santilli my mother died". 
 
 [[not-chinese]]
 === Non-Chinese people should not interfere in Chinese politics (外国人不应该干预中国政治)
@@ -3107,6 +3116,32 @@ video::w1tF-Yrwe3U[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=Y1DWJQkOJew The Armstrong and Miller Show "Hitler Has Only Got One Ball" sketch depicts in a funny way the imaginary creation of  the song.
 video::Y1DWJQkOJew[youtube,height=400,width=600]
+
+[[thousand-year-reich]]
+==== Thousand-Year Reich (中华人民共和国万岁)
+
+As mentioned at https://en.wikipedia.org/w/index.php?title=Reich&oldid=1054809270#During_the_Nazi_period a popular way of referring to the Nazi rule was as the:
+
+____
+Thousand-Year Reich
+____
+
+In China, a popoular expression for "Long Live" is "万岁", which means "live for ten thousand years".
+
+This comes from old Imperial times, but applies perfectly to the Nazi/CCP analogy.
+
+[[borg]]
+==== China is like the Borg from Star Trek (博格 (星际旅行和中共长得很想)
+
+* https://en.wikipedia.org/wiki/Borg
+* https://zh.wikipedia.org/wiki/博格_(星际旅行)
+
+TODO memes?? Only one image here: https://www.techinasia.com/qihoo-acquistion-updates-sogou-talks-confirmed-chukong-rumors-denied but we need more, e.g. several top commies with Borg photoshop, or even better something showing the people as borgs as well.
+
+Notable mentions:
+
+* 2019 https://ihare.org/2019/08/07/when-will-the-borg-assimilate-hong-kong-is-resistance-futile/ When Will the Borg Assimilate Hong Kong?: Is Resistance Futile?
+* 2018 https://www.washingtonexaminer.com/opinion/a-real-borg-collective-xi-jinpings-china-is-americas-defining-challenge-in-2019 A real Borg collective, Xi Jinping's China is America's defining challenge in 2019
 
 [[contributing-guidelines]]
 === Contributing guidelines (贡献指南)
@@ -8846,9 +8881,13 @@ We are entering Encyclopedia Dramatica territory here.
 
 Jesus appeared to value chastity. He was born from a virgin. No sex around him at all.
 
+Buddha gave it up after his enlightenment.
+
 But Li doesn't need that. He's a God, right, he can both be an Enlightened God part time and still have a normal family part time.
 
 Once thing Ciro approves about Li's approach to his family is that he seems to have stated (TODO source) that none of them are Gods like him.
+
+It is however very likely that some of his close family members will take up an even greater importance in the inner circle of power once Li dies: <<what-will-happen-to-falun-gong-when-li-honzhi-dies>>, notably his daughter.
 
 Wife's name: Li Rui (李瑞 according to CCP). Report saying that a follower bought a house and registered it on Li Rui's name as a gift, but Li later returned the gift back: https://www.wsj.com/articles/SB94140245836194819 TODO house address.
 
@@ -9814,6 +9853,7 @@ Wenzheng was also involved in a notable possible copyright dispute with https://
 
 Related projects to cheat other stupid things:
 
+* https://github.com/v2018z/studyxixi also to cheat Qiang Guo
 * https://github.com/838239178/tk-auto-study to cheat the <<fujian>> <<youth-learning>>
 
 .Fuck-XueXiQiangGuo 2021 GitHub page screenshot with stars highlighted. 7k stars on a Chinese-only repository is a lot of stars, and very unlikely to be faked. This is what you should show <<wumao,wumaos>> when they that no Chinese person opposes the <<ccp>>.
@@ -14619,6 +14659,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2021-11-07 https://news.ycombinator.com/item?id=29149054 failed hacker news thread. By https://afshin.io/ Afshin Mehrabani, originally from <<iran>>, and then moved to Dublin.
 * 2021-11-01 https://boards.4chan.org/pol/thread/345613074 (https://archive.ph/5JRal[archive]). Small thread, starts talking about <<r-genzedong>>, and then someone mentions:
 +
 ____
@@ -17908,7 +17949,8 @@ Now let's criticize the Iranian dictatorships that this possibly created.
 
 Yes, this was a <<western-democracies-are-not-perfect,a major fuck up of the West>>.
 
-==== China-Iran relations
+[[china-iran-relations]]
+==== China-Iran relations (中国－伊朗关系)
 
 * https://en.wikipedia.org/wiki/China–Iran_relations
 * https://zh.wikipedia.org/wiki/中国－伊朗关系
