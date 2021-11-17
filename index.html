@@ -521,7 +521,11 @@ ga('send', 'pageview');
 <li><a href="#copypasta">2. Copypasta</a></li>
 <li><a href="#mirrors">3. Mirrors of this page (此网页的镜像)</a>
 <ul class="sectlevel2">
-<li><a href="#software-package-mirrors">3.1. Software package mirrors</a></li>
+<li><a href="#software-package-mirrors">3.1. Software package mirrors</a>
+<ul class="sectlevel3">
+<li><a href="#github-proxies">3.1.1. GitHub proxies</a></li>
+</ul>
+</li>
 </ul>
 </li>
 <li><a href="#github-repositories-with-censored-information">4. GitHub repositories with censored information (政治敏感的GitHub库)</a>
@@ -732,7 +736,8 @@ ga('send', 'pageview');
 <li><a href="#nazi">5.10. Comparisons between the CCP and Nazi Germany (纳粹德国和中共长得很想)</a>
 <ul class="sectlevel3">
 <li><a href="#hitler-has-only-got-one-ball">5.10.1. Hitler Has Only Got One Ball (希特勒只有一个蛋, 1939)</a></li>
-<li><a href="#borg">5.10.2. China is like the Borg from Star Trek (博格 (星际旅行和中共长得很想)</a></li>
+<li><a href="#thousand-year-reich">5.10.2. Thousand-Year Reich (中华人民共和国万岁)</a></li>
+<li><a href="#borg">5.10.3. China is like the Borg from Star Trek (博格 (星际旅行和中共长得很想)</a></li>
 </ul>
 </li>
 <li><a href="#contributing-guidelines">5.11. Contributing guidelines (贡献指南)</a>
@@ -2255,7 +2260,7 @@ ga('send', 'pageview');
 <li><a href="#iran">42.1. Iran (伊朗)</a>
 <ul class="sectlevel3">
 <li><a href="#iranian-coup-1953">42.1.1. 1953 Iranian coup d&#8217;état (TPAJAX Project, Operation Ajax, 1953年伊朗政變)</a></li>
-<li><a href="#china-iran-relations">42.1.2. China-Iran relations</a></li>
+<li><a href="#china-iran-relations">42.1.2. China-Iran relations (中国－伊朗关系)</a></li>
 </ul>
 </li>
 <li><a href="#pakistan">42.2. Pakistan (巴基斯坦)</a></li>
@@ -3047,7 +3052,36 @@ xdg-open README.html</pre>
 <p>TODO: create an Ubuntu PPA and Ruby gem as well.</p>
 </div>
 <div class="paragraph">
-<p>Another source of China-specific mirroring are GitHub proxies, <a href="https://linuxpip.org/github-in-china/" class="bare">https://linuxpip.org/github-in-china/</a> contains an overview:</p>
+<p>Create tags,and update all mirrors in one go with: <a href="push-mirrors" class="bare">push-mirrors</a>:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>sudo apt install python3-setuptools
+python3 -m pip install --user setuptools wheel twine
+./push-mirrors</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>In particular, that script calls <a href="push" class="bare">push</a>:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>./push</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>which is more lightweight and pushes just to GitHub and GitLab Pages, so we are going to be using that more often to avoid overloading package managers too much.</p>
+</div>
+<div class="paragraph">
+<p><code>./push</code> is used to publish every commit.</p>
+</div>
+<div class="paragraph">
+<p>There is no need to update package versions or add git tags, all of that gets done automatically by the script!</p>
+</div>
+<div class="sect3">
+<h4 id="github-proxies"><a class="anchor" href="#github-proxies"></a><a class="link" href="#github-proxies">3.1.1. GitHub proxies</a></h4>
+<div class="paragraph">
+<p>Another source of China-specific mirroring of this project are GitHub proxies, <a href="https://linuxpip.org/github-in-china/" class="bare">https://linuxpip.org/github-in-china/</a> contains an overview:</p>
 </div>
 <div class="ulist">
 <ul>
@@ -3085,31 +3119,9 @@ xdg-open README.html</pre>
 </ul>
 </div>
 <div class="paragraph">
-<p>Create tags,and update all mirrors in one go with: <a href="push-mirrors" class="bare">push-mirrors</a>:</p>
+<p>Related:
+* <a href="https://gitmemory.com/cirosantilli/china-dictatorship" class="bare">https://gitmemory.com/cirosantilli/china-dictatorship</a> appears to be Chinese: <a href="https://www.reddit.com/r/github/comments/iiolp8/what_the_hell_is_gitmemorycom/" class="bare">https://www.reddit.com/r/github/comments/iiolp8/what_the_hell_is_gitmemorycom/</a></p>
 </div>
-<div class="literalblock">
-<div class="content">
-<pre>sudo apt install python3-setuptools
-python3 -m pip install --user setuptools wheel twine
-./push-mirrors</pre>
-</div>
-</div>
-<div class="paragraph">
-<p>In particular, that script calls <a href="push" class="bare">push</a>:</p>
-</div>
-<div class="literalblock">
-<div class="content">
-<pre>./push</pre>
-</div>
-</div>
-<div class="paragraph">
-<p>which is more lightweight and pushes just to GitHub and GitLab Pages, so we are going to be using that more often to avoid overloading package managers too much.</p>
-</div>
-<div class="paragraph">
-<p><code>./push</code> is used to publish every commit.</p>
-</div>
-<div class="paragraph">
-<p>There is no need to update package versions or add git tags, all of that gets done automatically by the script!</p>
 </div>
 </div>
 </div>
@@ -8272,7 +8284,26 @@ The Communist Dynasty</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="borg"><a class="anchor" href="#borg"></a><a class="link" href="#borg">5.10.2. China is like the Borg from Star Trek (博格 (星际旅行和中共长得很想)</a></h4>
+<h4 id="thousand-year-reich"><a class="anchor" href="#thousand-year-reich"></a><a class="link" href="#thousand-year-reich">5.10.2. Thousand-Year Reich (中华人民共和国万岁)</a></h4>
+<div class="paragraph">
+<p>As mentioned at <a href="https://en.wikipedia.org/w/index.php?title=Reich&amp;oldid=1054809270#During_the_Nazi_period" class="bare">https://en.wikipedia.org/w/index.php?title=Reich&amp;oldid=1054809270#During_the_Nazi_period</a> a popular way of referring to the Nazi rule was as the:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>Thousand-Year Reich</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>In China, a popoular expression for "Long Live" is "万岁", which means "live for ten thousand years".</p>
+</div>
+<div class="paragraph">
+<p>This comes from old Imperial times, but applies perfectly to the Nazi/CCP analogy.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="borg"><a class="anchor" href="#borg"></a><a class="link" href="#borg">5.10.3. China is like the Borg from Star Trek (博格 (星际旅行和中共长得很想)</a></h4>
 <div class="ulist">
 <ul>
 <li>
@@ -32056,6 +32087,9 @@ Which is unforgivable</p>
 <div class="ulist">
 <ul>
 <li>
+<p>2021-11-07 <a href="https://news.ycombinator.com/item?id=29149054" class="bare">https://news.ycombinator.com/item?id=29149054</a> failed hacker news thread. By <a href="https://afshin.io/" class="bare">https://afshin.io/</a> Afshin Mehrabani, originally from <a href="#iran">Iran (伊朗)</a>, and then moved to Dublin.</p>
+</li>
+<li>
 <p>2021-11-01 <a href="https://boards.4chan.org/pol/thread/345613074" class="bare">https://boards.4chan.org/pol/thread/345613074</a> (<a href="https://archive.ph/5JRal">archive</a>). Small thread, starts talking about <a href="#r-genzedong">r/GenZedong</a>, and then someone mentions:</p>
 <div class="quoteblock">
 <blockquote>
@@ -38299,7 +38333,7 @@ Translations:
 </div>
 </div>
 <div class="sect3">
-<h4 id="china-iran-relations"><a class="anchor" href="#china-iran-relations"></a><a class="link" href="#china-iran-relations">42.1.2. China-Iran relations</a></h4>
+<h4 id="china-iran-relations"><a class="anchor" href="#china-iran-relations"></a><a class="link" href="#china-iran-relations">42.1.2. China-Iran relations (中国－伊朗关系)</a></h4>
 <div class="ulist">
 <ul>
 <li>
@@ -39564,7 +39598,7 @@ Russia&#8217;s prison service accuses Kremlin critic of violating terms of his s
 <div class="ulist">
 <ul>
 <li>
-<p><a href="#iran">Iran (伊朗)</a>, see: <a href="#china-iran-relations">China-Iran relations</a></p>
+<p><a href="#iran">Iran (伊朗)</a>, see: <a href="#china-iran-relations">China-Iran relations (中国－伊朗关系)</a></p>
 </li>
 <li>
 <p><a href="#pakistan">Pakistan (巴基斯坦)</a>, who is more afraid of India than China right now</p>

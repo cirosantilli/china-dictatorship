@@ -602,44 +602,6 @@ xdg-open README.html</pre>
 <p>TODO: create an Ubuntu PPA and Ruby gem as well.</p>
 </div>
 <div class="paragraph">
-<p>Another source of China-specific mirroring are GitHub proxies, <a href="https://linuxpip.org/github-in-china/" class="bare">https://linuxpip.org/github-in-china/</a> contains an overview:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://hub.fastgit.org/" class="bare">https://hub.fastgit.org/</a> this appears to auto-redirect to GitHub from non-Chinese IPs, but presumably shows the pages for Chinese IPs, e.g. we had hits from <a href="http://hub.fastgit.org/cirosantilli/china-dictatorship" class="bare">http://hub.fastgit.org/cirosantilli/china-dictatorship</a> in 2021-03-25. This happened soon after SEO optimizations mentioned at: <a href="zhao-heming">Zhao Heming (召赫名)</a> and might be related.</p>
-</li>
-<li>
-<p><a href="https://github.com.cnpmjs.org/" class="bare">https://github.com.cnpmjs.org/</a> as of March 2021, it often reaches an apparently random "Whoa there! You have triggered an abuse detection mechanism.". But other time it succeeds, e.g. some of the times: <a href="https://github.com.cnpmjs.org/cirosantilli/china-dictatorship" class="bare">https://github.com.cnpmjs.org/cirosantilli/china-dictatorship</a> is visible.</p>
-</li>
-<li>
-<p><a href="https://a1.mk-proxy.ml/-----https://github.com/cirosantilli/china-dictatorship" class="bare">https://a1.mk-proxy.ml/-----https://github.com/cirosantilli/china-dictatorship</a> generated from <a href="http://toolwa.com/github/" class="bare">http://toolwa.com/github/</a></p>
-</li>
-<li>
-<p><a href="https://github.com/521xueweihan/GitHub520" class="bare">https://github.com/521xueweihan/GitHub520</a></p>
-</li>
-<li>
-<p><a href="https://github-dotcom.gateway.web.tr/cirosantilli/china-dictatorship" class="bare">https://github-dotcom.gateway.web.tr/cirosantilli/china-dictatorship</a> a Turkish proxy. They have their own censorship issues as well of course.</p>
-</li>
-<li>
-<p><a href="https://phoenix.yizimg.com/cirosantilli/china-dictatorship" class="bare">https://phoenix.yizimg.com/cirosantilli/china-dictatorship</a> Not sure origin, <a href="https://web.archive.org/web/20200221135123/http://www.yizimg.com:80/" class="bare">https://web.archive.org/web/20200221135123/http://www.yizimg.com:80/</a> has a little bit of information</p>
-</li>
-<li>
-<p>using <a href="https://workers.cloudflare.com/">Cloudflare workers</a>:</p>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://github.independentlyreview.com/cirosantilli/china-dictatorship" class="bare">https://github.independentlyreview.com/cirosantilli/china-dictatorship</a> described at <a href="https://independentlyreview.com/link" class="bare">https://independentlyreview.com/link</a> as using Cloudfare workers</p>
-</li>
-<li>
-<p><a href="https://github.laobiao.workers.dev/cirosantilli/china-dictatorship" class="bare">https://github.laobiao.workers.dev/cirosantilli/china-dictatorship</a></p>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-</div>
-<div class="paragraph">
 <p>Create tags,and update all mirrors in one go with: <a href="push-mirrors" class="bare">push-mirrors</a>:</p>
 </div>
 <div class="literalblock">
@@ -668,16 +630,19 @@ python3 -m pip install --user setuptools wheel twine
 </div>
 <div class="ulist">
 <ul>
+<li>
+<p><a href="github-proxies">GitHub proxies</a></p>
+</li>
 </ul>
 </div>
 </div>
 <div class="paragraph nav-footer">
-<p>↑ Up: <a href="mirrors">Mirrors of this page (此网页的镜像)</a> | ⌂ Home: <a href="index-split">China Dictatorship (中国独裁统治)</a> | Next: <a href="github-repositories-with-censored-information">GitHub repositories with censored information (政治敏感的GitHub库)</a> →</p>
+<p>↑ Up: <a href="mirrors">Mirrors of this page (此网页的镜像)</a> | ⌂ Home: <a href="index-split">China Dictatorship (中国独裁统治)</a> | Next: <a href="github-proxies">GitHub proxies</a> →</p>
 </div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2021-11-10 08:45:52 UTC
+Last updated 2021-11-17 09:20:04 UTC
 </div>
 </div>
 </body>
