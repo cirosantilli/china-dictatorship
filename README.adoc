@@ -369,7 +369,9 @@ Concrete examples:
 
 * https://cirosantilli.com/cirodown/china
 * https://github.com/cirosantilli/linux-kernel-module-cheat/commit/082166a360c56990662c715196229016d8806ab3
-* https://github.com/cirosantilli/vcdvcd#vcdcat-china[]. Sample Chinese fork removing the most important functionality: https://github.com/ZihaoZhao/vcdvcd
+* https://github.com/cirosantilli/vcdvcd#vcdcat-china[]. Sample forks removing the most important functionality:
+  * https://github.com/ZihaoZhao/vcdvcd
+  * https://github.com/riverlane/vcdvcd/commits/master by employee https://www.linkedin.com/in/seyed-amir-alavi/[Seyed Amir Alavi] of quantum computing company https://www.riverlane.com/ with commit "Removed politics from package dependencies of setup.py". Seyed appears to be <<iran,Iranian>>.
 
 These also offer great plausible deniability: a citizen in China could always argue that they were just interested in the software itself, and had no choice but to download it.
 
@@ -479,6 +481,8 @@ TODO evaluate:
 
 * https://github.com/sky8964/home
 * https://github.com/FuckAntiAddiction/BiligameAddictionNotLimited is this a repo to overcome <<video-game-ban>>?
+* https://github.com/jdzj/log/issues/24
+* https://github.com/dropod/issues/issues/6675 some kind of backup bot from other websites
 
 Reasonable topics:
 
@@ -750,12 +754,14 @@ In other sections:
 Related:
 
 * https://github.com/wumaoland from <<reply-policy>>
-* https://github.com/cirosantillifather[], e.g. https://github.com/programthink/books/issues/94[] at (https://web.archive.org/web/20210807195703/https://github.com/programthink/books/issues/94[archive])
+* https://github.com/SBSBSBSBSBSBSBSBSBSBSB followed Ciro, coon after https://github.com/cirosantilli/china-dictatorship/issues/671
+* Ciro Santilli spoof accounts:
+** https://github.com/cirosantillifather[], e.g. https://github.com/programthink/books/issues/94[] at (https://web.archive.org/web/20210807195703/https://github.com/programthink/books/issues/94[archive])
 +
 On 2021-09-23 Ciro Santilli received this email from cirosantillifather@protonmail.com "Hello son: I like your wife very much, can you let her have a one-night stand with me?". https://github.com/cirosantillifather had been deleted at that point.
 ** https://github.com/cirowayne[] (e.g. https://archive.ph/wip/sCYLF[archive]) possible new account
-* https://github.com/AlstonScott https://github.com/programthink/zhao/issues/428 was using Ciro's profile picture: https://archive.ph/K59TN
-* https://github.com/SBSBSBSBSBSBSBSBSBSBSB followed Ciro, coon after https://github.com/cirosantilli/china-dictatorship/issues/671
+** https://github.com/AlstonScott https://github.com/programthink/zhao/issues/428 was using Ciro's profile picture: https://archive.ph/K59TN
+** https://github.com/Ciro-Santilli-NMSL 我在你爸坟头骨灰拌饭 https://archive.ph/5iVR2
 
 [[faq]]
 == FAQ (常见问答集)
@@ -1766,6 +1772,7 @@ If the truth is too much for you to bear, worry not, you could use one of:
 **** https://github.com/eternalphane/UserScripts repo with that source, and a related issue: https://github.com/eternalphane/UserScripts/issues/4 by https://github.com/SiqingYu
 *** https://web.archive.org/web/20181211094818/https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8
 *** https://web.archive.org/web/20181211094917/https://greasyfork.org/en/forum/discussion/47981
+** https://twitter.com/guangyang_li/status/1204880709636124672 dude admiring it: https://github.com/gyli
 ** 2020-07-09 https://greasyfork.org/en/scripts/406756-ciro-santilli "Ciro Santilli"
 *** https://greasyfork.org/en/scripts/406756-ciro-santilli/discussions/53697
 *** Some possible authors (of course, with that name, there must be 10 thousand Chinese people at least):
@@ -2282,7 +2289,18 @@ video::zndzntIDLFE[youtube,height=400,width=600]
 
 It is really interesting to see how many people star the <<mirrors,GitHub repository>>, and then a few minutes later they think about how they might get put in jail, and then unstar it.
 
-<<ciro-santilli>> is able to see this because the star notification remains in the GitHub dashboard even after unstarring. It does not seem to be publicly visible permanently unlike other events which forever remain on the events API.
+<<ciro-santilli>> is able to see this because the star notification remains in the GitHub dashboard even after unstarring.
+
+And star events might publicly visible permanently on events API under the WatchEvent, not sure: https://docs.github.com/en/developers/webhooks-and-events/events/github-event-types#watchevent This appears to get them all from https://www.gharchive.org/[GitHub Archive].
+
+....
+SELECT actor.login, created_at
+FROM `githubarchive.month.*`
+WHERE type = 'WatchEvent'
+AND repo.name = 'cirosantilli/china-dictatorship'
+ORDER BY created_at DESC
+LIMIT 1000
+....
 
 Unstarring events are exceedingly rare in Ciro's other repositories.
 
@@ -4381,7 +4399,14 @@ ____
 
 2021-10-14 https://techcrunch.com/2021/10/14/microsoft-to-pull-linkedin-from-chinese-market/ Microsoft to pull LinkedIn from Chinese market
 
-Interestingly however, Ciro still recevied some profile views from Chinese profiles from time to time, he wonders why, do they have a permit of some sort? E.g.:
+The leading Chinese clone appear to be MaiMai (脉脉):
+
+* https://maimai.cn/
+* https://www.crunchbase.com/organization/maimai
+
+300M investment and not even an English Wikipedia page, we live on different planets: https://zh.wikipedia.org/wiki/脉脉
+
+Interestingly however, Ciro still received some profile views from Chinese profiles from time to time, he wonders why, do they have a permit of some sort? E.g.:
 
 * 2021-09-29 someone from 北京云中融信网络科技有限公司 https://baike.baidu.com/item/北京云中融信网络科技有限公司/17048165[], an instant messaging services company.
 * 2021-09-17 https://en.wikipedia.org/wiki/Weber_Shandwick[Weber Shandwick]
@@ -6650,6 +6675,9 @@ image::{china-dictatorship-media-base}/Dabancheng_reeducation_camp.jpg[height=40
 .Security towers and inmate buildings of the https://en.wikipedia.org/wiki/Artux[Artux city] (https://zh.wikipedia.org/wiki/阿图什市[阿图什市]) <<xinjiang-re-education-camps,re-education camp>> circa 2018-12-03. https://apnews.com/article/think-tanks-australia-china-13278c6178b9da1c37cbbc5bd063e473[Source].
 image::{china-dictatorship-media-base}/Artux_city_reeducation_camp.webp[height=400]
 
+.https://www.youtube.com/watch?v=cI8bJO-to8I In Search of Concentration Camps in XinJiang - A Documentary on Urban/Rural China by Guanguan (2021) This was later featured in Western media, e.g. https://www.dailymail.co.uk/news/article-10225133/Prisons-centre-Beijings-clampdown-Muslim-minorities-Xinjiang-caught-video.html[], which mentions without evidence that he is a Chinese student in Taiwan. <<rfa>> coverage: https://www.rfa.org/english/news/uyghur/guanguan-video-11182021184058.html[].
+video::cI8bJO-to8I[youtube,height=400,width=600]
+
 [[xinjiang-core-socialist-values]]
 .https://www.youtube.com/watch?v=AxnS4z-cSlI (https://github.com/cirosantilli/china-dictatorship/issues/220[GitHub reupload]) 2021 video showing dozens of Uyghurs standing on a large court being brainwashed by a woman saying on a loudspeaker: <<core-socialist-values,社会主义核心价值观>>，一定维护民族团结 (<<core-socialist-values,Core socialist values>> definitely maintain ethnic harmony). The echo of the speaker on the background buildings is eery. UNCONFIRMED. https://twitter.com/__Inty__/status/1381002964551168000[Source].
 video::AxnS4z-cSlI[youtube,height=400,width=600]
@@ -6806,7 +6834,7 @@ image::{china-dictatorship-media-base}/Xinjiang_cotton_vs_American_plantation_fr
 Either because those countries:
 
 * are also dictatorships and completely corrupt to the brim
-* or because Muslim schisms make them hate split groups even more than they hate other religions doe to the https://en.wikipedia.org/wiki/Uncanny_valley[uncanny valley effect]
+* or because Muslim schisms make them hate split groups even more than they hate other religions doe to the <<uncanny-valley>> effect.
 
 Analyses:
 
@@ -8977,7 +9005,7 @@ AKA Qigong Boom.
 * https://en.wikipedia.org/wiki/Zhong_Gong
 * https://zh.wikipedia.org/wiki/中华养生益智功
 
-A very similar religion to <<falun-gong>>, that also emerged during the https://en.wikipedia.org/wiki/Qigong_fever[Qigong fever] (气功热) of the '80s and '90s.
+A very similar religion to <<falun-gong>>, that also emerged during the <<qigong-fever>> of the '80s and '90s.
 
 Zhong Gong was the second most sucessful Qigong Boom religion after Falun Gong.
 
@@ -8998,6 +9026,8 @@ Hongbao also has a more spicy history it seems, with sexual allegations and open
 ____
 Dafa can't be obtained lightly. For example, the diversity of cults and the number of false qigongs are large these days, and they lead people astray. Many people who are capable of cultivating get sucked into them, and some of them engage in suicide - it's a mess.
 ____
+
+this is a perfect example of <<uncanny-valley>>.
 
 Zhong Gong videos:
 
@@ -9023,6 +9053,12 @@ image::{china-dictatorship-media-base}/Falun_Gong_sky_leaflet.jpg[height=400]
 
 .Side by side comparison between <<zhong-gong>> on the left, and <<falun-gong>> on the right. In <<ciro-santilli>>'s opinion, nothing highlights better that both are fake than the fact that they are clearly part of the same historical movement of the Qigong Boom, while at the same time affirming that the other one is fake or inferior.
 image::{china-dictatorship-media-base}/Zhong_Gong_vs_Falun_Gong_lotus.jpg[height=500]
+
+[[uncanny-valley]]
+===== Uncanny valley (恐怖谷理论)
+
+* https://en.wikipedia.org/wiki/Uncanny_valley
+* https://zh.wikipedia.org/wiki/恐怖谷理论
 
 [[zhang-hongbao]]
 ===== Zhang Hongbao (张宏堡)
@@ -9364,6 +9400,13 @@ Women seem to have had difficulty in expressing themselves due to <<censorship>>
 Related <<github-repositories-with-censored-information>>:
 
 * https://github.com/NGOMeToo/NGOMeToo.github.io
+
+[[peng-shuai]]
+==== Peng Shuai (tennis player, 2021 Zhang Gaoli sexual assual allegations, 彭帅)
+
+* https://en.wikipedia.org/wiki/Peng_Shuai#Sexual_assault_allegation_and_disappearance
+* https://zh.wikipedia.org/wiki/彭帅
+* https://archive.ph/25TLW on The New York Times
 
 [[labour-rights]]
 == Labour rights (劳工权益)
@@ -14659,6 +14702,10 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2021 https://hub.xn--p8jhe.tw/ to https://github.com/cirosantilli/cirosantilli[] which redirects to https://www.library.ac.cn/ip.html?=iwikie "Your IP is not allowed to visit this site. This site is only available in Mainland China." which is a mirror list as mentioned at <<google-mirrors>>.
+* 2021-11-14 https://www.chinesehongker.com/forum.php?mod=viewthread&tid=14153&extra=page%3D1&ordertype=1&mobile=2 Appears not visible outsie of China. From http://webcache.googleusercontent.com/search?q=cache:8bAWUrdhbNYJ:https://www.chinesehongker.com/forum.php?mod%3Dviewthread%26tid%3D14153%26extra%3Dpage%253D1%26ordertype%3D1%26mobile%3D2&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW&client=ubuntu&hl=en&gl=uk&tbs=lr:lang_1en%7Clang_1zh-CN%7Clang_1zh-TW&strip=1&vwsrc=0[Google cache] (https://archive.ph/wip/Z6EGq[archive]). Title: 对于github上的非法项目，如何合理的消灭 Content: https://github.com/cirosantilli 今天无意间搜到一个湾毒的github，有哪位大佬可以解决该问题吗 Just your usual <<disturbs>> wumao bullshit. The forum claims to be part of the Honker Union hacktivist group, bring it on:
+** https://en.wikipedia.org/wiki/Honker_Union
+** https://zh.wikipedia.org/wiki/红客
 * 2021-11-07 https://news.ycombinator.com/item?id=29149054 failed hacker news thread. By https://afshin.io/ Afshin Mehrabani, originally from <<iran>>, and then moved to Dublin.
 * 2021-11-01 https://boards.4chan.org/pol/thread/345613074 (https://archive.ph/5JRal[archive]). Small thread, starts talking about <<r-genzedong>>, and then someone mentions:
 +
@@ -15153,13 +15200,12 @@ video::nkTQTS2RSCU[youtube,height=400,width=600]
 [[fansaoguang]]
 === Fansaoguang (饭扫光)
 
-https://en.wikipedia.org/wiki/Fiddlehead_fern | https://en.wikipedia.org/wiki/Pteridium_aquilinum | https://zh.wikipedia.org/wiki/蕨菜
+This is the best thing to eat with <<dumplings>> ever!!! Oily, spicy and sour.
 
-This is the best thing to eat with <<dumplings>> ever!!!
-
-Some other flavours of the same brand are also very much worth trying, e.g. the https://en.wikipedia.org/wiki/Enokitake[Enokitake] (https://zh.wikipedia.org/wiki/金針菇[金针菇]) one. Others are a bit boring.
-
-Oily, spicy and sour.
+Flavour review:
+* https://en.wikipedia.org/wiki/Fiddlehead_fern | https://en.wikipedia.org/wiki/Pteridium_aquilinum | https://zh.wikipedia.org/wiki/蕨菜 this was the best one. Got a bit worse circa 2020
+* https://en.wikipedia.org/wiki/Enokitake[Enokitake] (https://zh.wikipedia.org/wiki/金針菇[金针菇]) one. Others are a bit boring.
+* "Preserved pickled mustard" (香辣酸菜): 2021: a bit meh. Made of Mustart https://en.wikipedia.org/wiki/Suan_cai[suan cai].
 
 .Photo of the Fansaoguang Fried https://en.wikipedia.org/wiki/Enokitake[Enokitake] (https://zh.wikipedia.org/wiki/金針菇[金針菇]) flavor. This is one of the best flavours. Another really good one was Wild brake pickles (野蕨菜), but it became less good in 2020 for some reason, that was one of the <<covid,major disasters>> of that year. Photo by <<ciro-santilli>>, CC BY-SA 4.0 2021.
 image::{china-dictatorship-media-base}/Fan_sao_guang.jpg[height=500]
@@ -18225,7 +18271,7 @@ video::b1d7Llx4rm8[youtube,height=400,width=600]
 video::m8xSZ9Fr4c0[youtube,height=400,width=600]
 
 [[skripal]]
-==== The poisoning of Sergei and Yulia Skripal Серге́й Ви́кторович Скрипáль (2018-03-04)
+==== The poisoning of Sergei and Yulia Skripal (2018-03-04, Серге́й Ви́кторович Скрипáль)
 
 * https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal
 * https://ru.wikipedia.org/wiki/Отравление_Сергея_и_Юлии_Скрипаль
@@ -18235,6 +18281,10 @@ For more poisonings see: <<putin-sponsored-poisonings>>.
 In 4 March 2018, the Russian double agent and his daughter were poisoned with https://en.wikipedia.org/wiki/Novichok_agent[Novichok agent] (https://ru.wikipedia.org/wiki/Новичок_(отравляющие_вещества)[Новичо́к]), a Soviet-era nerve agent, which was likely put on their front door knob in https://en.wikipedia.org/wiki/Salisbury[Salisbury, UK], exact address https://goo.gl/maps/oKASuLWpcSmLqL8F9[Christie Miller Road]! Straight out of a spy novel.
 
 On 30 June 2018, the man of an unlucky drug addict couple found the counterfeit expensive looking https://en.wikipedia.org/wiki/Nina_Ricci_(brand)[Nina Ricci] Premier Jour perfume bottle containing the poison, and gave it to the woman who died. How unlucky can you fucking be, as if heavy drug addiction weren't enough, you still have to deal with fucking Russian Novichok!
+
+https://en.wikipedia.org/wiki/The_Salisbury_Poisonings[The Salisbury Poisonings (2020)] tells the <<bbc>>'s view of things.
+
+Interview with his neighbour Ross Cassidy: https://www.gettyimages.co.uk/detail/video/shows-interior-shots-interview-with-salisbury-residentl-news-footage/942266216
 
 .The assassination suspects Alexander Mishkin (Алекса́ндр Евге́ньевич Ми́шкин, alias Alexander Petrov) and Anatoliy Chepiga (Анатолий Владимирович Чепига, alias Ruslan Boshirov) in a CCTV still at Salisbury Station on 3rd March 2018 the day before the assassination. Both GRU and Alexander being a doctor, which is consistent with a poisoning assassination attempt. They later explained on an RT interview that they were visiting the https://en.wikipedia.org/wiki/Salisbury_Cathedral[world renowned Salisbury Cathedral] in their 3 day trip to the UK, and that they <<gay-putin,were not gay>>. Some Western sources interpreted this as an intentional suggestion that they are gay, which for many Russians would imply that they cannot be FSB agents. https://www.theguardian.com/uk-news/2018/sep/05/planes-trains-and-fake-names-the-trail-left-by-skripal-suspects[Source].
 image::{china-dictatorship-media-base}/Skripal_assassins_station.jpg[height=400]
