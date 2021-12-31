@@ -2289,19 +2289,6 @@ video::zndzntIDLFE[youtube,height=400,width=600]
 
 It is really interesting to see how many people star the <<mirrors,GitHub repository>>, and then a few minutes later they think about how they might get put in jail, and then unstar it.
 
-<<ciro-santilli>> is able to see this because the star notification remains in the GitHub dashboard even after unstarring.
-
-And star events might publicly visible permanently on events API under the WatchEvent, not sure: https://docs.github.com/en/developers/webhooks-and-events/events/github-event-types#watchevent This appears to get them all from https://www.gharchive.org/[GitHub Archive].
-
-....
-SELECT actor.login, created_at
-FROM `githubarchive.month.*`
-WHERE type = 'WatchEvent'
-AND repo.name = 'cirosantilli/china-dictatorship'
-ORDER BY created_at DESC
-LIMIT 1000
-....
-
 Unstarring events are exceedingly rare in Ciro's other repositories.
 
 The expression https://www.quora.com/What-does-the-expression-two-steps-forward-one-step-back-mean[two steps forward, one step back] comes to mind.
@@ -2313,6 +2300,43 @@ Luckily in this case, it does not seem possible to view who unstarred a reposito
 [[my-paranoia-as-a-russian-youtuber]]
 .https://www.youtube.com/watch?v=_-hCdbsyWw0 "my paranoia as a Russian YouTuber" by <<nfkrz>> (2020) talks about the <<chilling-effect>>
 video::_-hCdbsyWw0[youtube,height=400,width=600]
+
+====== View all users who starred a repository on GitHub including those who unstarred
+
+The <<chilling-effect>> is extremelly visible on GitHub.
+
+<<ciro-santilli>> is able to see this easily because the star notification remains in the GitHub dashboard even after unstarring.
+
+However, star events are also publicly visible permanently on events API under the WatchEvent: https://docs.github.com/en/developers/webhooks-and-events/events/github-event-types#watchevent
+
+This appears to get them all from https://www.gharchive.org/[GitHub Archive]'s Google BigQuery up to the last whole month:
+
+....
+SELECT actor.login, MAX(created_at)
+FROM `githubarchive.month.*`
+WHERE type = 'WatchEvent'
+AND repo.name = 'cirosantilli/china-dictatorship'
+GROUP BY actor.login
+ORDER BY MAX(created_at) DESC
+....
+
+Ciro verified that does include people who unstarred.
+
+That one exceeds the free data limits as of December 2021 however, so you need to select more specific months/years at a time. Note that year data is only released once every year.
+
+The following ranges manage to get all data as December 2021 for free:
+
+....
+FROM `githubarchive.year.201*`
+FROM `githubarchive.year.202*`
+FROM `githubarchive.month.2021*`
+....
+
+supposing that unique starrers
+
+You can then "Save results" as CSV to view all users.
+
+There don't appear to be unstar events however. You can see single people star multiple times, which means that each new star gives a new row, which is why we do the `GROUP BY`.
 
 [[intolerance]]
 ===== Most Chinese people don't care about the minorities (大多数中国人不关心少数民族)
@@ -4408,6 +4432,7 @@ The leading Chinese clone appear to be MaiMai (脉脉):
 
 Interestingly however, Ciro still received some profile views from Chinese profiles from time to time, he wonders why, do they have a permit of some sort? E.g.:
 
+* 2021-12-30 someone from 红山区公安分局 from Hongshan Public Security sub-department in Hongshan, Inner Mongolia
 * 2021-09-29 someone from 北京云中融信网络科技有限公司 https://baike.baidu.com/item/北京云中融信网络科技有限公司/17048165[], an instant messaging services company.
 * 2021-09-17 https://en.wikipedia.org/wiki/Weber_Shandwick[Weber Shandwick]
 ** https://www.webershandwick.com/wp-content/uploads/2021/02/2021-Geopolitical-Risk-Report.pdf 2021 REPORT ON GEOPOLITICAL RISKS TO BUSINESS REPUTATION by Weber Shandwick’s geopolitical Risk & Reputation Advisory Group
@@ -7191,7 +7216,7 @@ video::FYJ1dbyDcrI[youtube,width=600,height=400]
 video::IAQ14AnAsmU[youtube,height=400,width=600]
 
 [[christine-marie]]
-.https://www.youtube.com/watch?v=GwoO7Nekmpw&t=445 Christine Marie, founder of http://voicesfordignity.com/[Voices for Dignity] which takes care of https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints[FLDS] leaves, was interviewed in VICE documentary "Polygamist Mafia: Escaping The Kingston Clan". While Ciro does not believe Falun Gong is as extreme as FLDS, he does really like the things Christine says. E.g., she calls "cult leaders" with the neutral <<flg-religion,religious>> form "<<li-hongzhi,prophet>>", just like Ciro, and mentions the important fact that "And the another thing that the public doesn't realise, is that there are also beautiful thing within those communities". This is the mindset of <<intolerance,tolerance>> that the world needs.
+.https://www.youtube.com/watch?v=GwoO7Nekmpw&t=445 Christine Marie is the founder of the http://voicesfordignity.com/[Voices for Dignity] charity which takes care of people who decide to leave the https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints[FLDS] (a major https://en.wikipedia.org/wiki/Mormonism[Mormon] denomination). Leaving that group is not an easy task given the importance it plays in members lives, see also "No Exit" from <<orange-papers>>. She was interviewed in VICE documentary "Polygamist Mafia: Escaping The Kingston Clan". While Ciro does not believe Falun Gong is as extreme as FLDS, he does really like the things Christine says. E.g., she calls "cult leaders" with the neutral <<flg-religion,religious>> form "<<li-hongzhi,prophet>>", just like Ciro, and mentions the important fact that "And the another thing that the public doesn't realise, is that there are also beautiful thing within those communities". This is the mindset of <<intolerance,tolerance>> that the world needs.
 video::GwoO7Nekmpw[youtube,height=400,width=600,start=445]
 
 Less good ones:
@@ -7230,7 +7255,7 @@ image::{china-dictatorship-media-base}/Falun_Gong_Chengdu.jpg[height=500]
 [[does-ciro-santilli-believe-in-or-practice-falun-gong]]
 === Does Ciro Santilli believe in or practice Falun Gong? (三西猴信仰或者练法轮功吗？)
 
-No, Ciro is https://en.wikipedia.org/wiki/Agnosticism[agnostic] (https://zh.wikipedia.org/wiki/不可知论[不可知论]) and therefore believes that all the metaphysics that <<li-hongzhi>> says is bullshit.
+No, <<ciro-santilli>> is https://en.wikipedia.org/wiki/Agnosticism[agnostic] (https://zh.wikipedia.org/wiki/不可知论[不可知论]) and therefore believes that all the metaphysics that <<li-hongzhi>> says is bullshit, just like any other <<flg-religion,religion>>.
 
 Here are some things that he doesn't like about Falun Gong for example: <<things-ciro-santilli-dislikes-about-falun-gong>>.
 
@@ -7241,7 +7266,7 @@ Ciro believes Falun Gong can be split into two parts, like any other <<flg-relig
 ** <<flg-religion>>
 ** <<flg-verifiable>>
 
-Ciro thinks that FLG's self-help part could potentially be good for you, just like many other meditative practices such as Yoga, Buddhist meditation, Tai chi, deep Catholic prayer, etc. As far as he has heard, all of it sounded good standard religious self-help: be peaceful, be good to others, etc. Like any other well managed religion, FLG does have good things to offer, see also: <<christine-marie>>.
+Ciro thinks that FLG's self-help part could potentially be good for you, just like many other meditative practices such as Yoga, Buddhist meditation, Tai chi, deep Catholic prayer, etc. As far as he has heard, all of it sounded good standard religious self-help: be peaceful, be good to others, etc. Like any other well managed religion, FLG does have good things to offer, see also: <<christine-marie,Christine Marie's interview>>.
 
 However Ciro believes that the metaphysics is all complete and utter bullshit, child stories made up by Li Hongzhi, and just as real as Father Christmas or the https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster[Flying Spaghetti Monster].
 
@@ -7586,6 +7611,8 @@ image::{china-dictatorship-media-base}/Xi_Jinping_vs_Li_Hongzhi_prophet_pictures
 
 [[orange-papers]]
 ===== Orange Papers (橙色文件)
+
+https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q0.html
 
 Amazing website talking about Cults and many other things!
 
@@ -14702,6 +14729,8 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2021-12-22 https://cirosantilli-realworld-next.herokuapp.com/ https://archive.ph/wip/EVcUw added two messages "这个网站也是王八操的搞得，操你妈得大傻逼。狗腿子汉奸孤儿" and "访问太频繁服务器受不了啦🏦，请使用微信搜索「沙雕APP」使用小程序体验，没有访问限制" That website has no signup verification mechanism, users can just spam it at will. Would be good to log some IPs to start with. Can't store in a database because we are capped at 10k DB rows on the free plan.
+* 2021-12-21 https://codeforces.com/blog/entry/98165?locale=en a Russian online judge: "BTW, I'm not sure if these two things are related, but HDU's online judge system(http://acm.hdu.edu.cn) was shut down in last week. The site administrator said the reason for the shutdown was that a user's username violated Chinese law..." to which "TwentyOneHundredOrBust" replied "this sounds like a job for ciro santilli"
 * 2021 https://hub.xn--p8jhe.tw/ to https://github.com/cirosantilli/cirosantilli[] which redirects to https://www.library.ac.cn/ip.html?=iwikie "Your IP is not allowed to visit this site. This site is only available in Mainland China." which is a mirror list as mentioned at <<google-mirrors>>.
 * 2021-11-14 https://www.chinesehongker.com/forum.php?mod=viewthread&tid=14153&extra=page%3D1&ordertype=1&mobile=2 Appears not visible outsie of China. From http://webcache.googleusercontent.com/search?q=cache:8bAWUrdhbNYJ:https://www.chinesehongker.com/forum.php?mod%3Dviewthread%26tid%3D14153%26extra%3Dpage%253D1%26ordertype%3D1%26mobile%3D2&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW&client=ubuntu&hl=en&gl=uk&tbs=lr:lang_1en%7Clang_1zh-CN%7Clang_1zh-TW&strip=1&vwsrc=0[Google cache] (https://archive.ph/wip/Z6EGq[archive]). Title: 对于github上的非法项目，如何合理的消灭 Content: https://github.com/cirosantilli 今天无意间搜到一个湾毒的github，有哪位大佬可以解决该问题吗 Just your usual <<disturbs>> wumao bullshit. The forum claims to be part of the Honker Union hacktivist group, bring it on:
 ** https://en.wikipedia.org/wiki/Honker_Union
