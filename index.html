@@ -683,6 +683,7 @@ ga('send', 'pageview');
 <li><a href="#most-chinese-people-like-their-dictatorship">5.7.1.2. Most Chinese people like their dictatorship (中国大众支持他们的独裁)</a>
 <ul class="sectlevel5">
 <li><a href="#chilling-effect">5.7.1.2.1. Chilling effect (寒蝉效应)</a></li>
+<li><a href="#view-all-users-who-starred-a-repository-on-github-including-those-who-unstarred">5.7.1.2.2. View all users who starred a repository on GitHub including those who unstarred</a></li>
 </ul>
 </li>
 <li><a href="#intolerance">5.7.1.3. Most Chinese people don&#8217;t care about the minorities (大多数中国人不关心少数民族)</a>
@@ -6821,22 +6822,6 @@ IGNORANCE IS STRENGTH</p>
 <p>It is really interesting to see how many people star the <a href="#mirrors">GitHub repository</a>, and then a few minutes later they think about how they might get put in jail, and then unstar it.</p>
 </div>
 <div class="paragraph">
-<p><a href="#ciro-santilli">Ciro Santilli (三西猴, anti-CCP fanatic, 反中共狂热, stupid cunt, 傻屄, CIA agent, CIA特工, 肏你妈的)</a> is able to see this because the star notification remains in the GitHub dashboard even after unstarring.</p>
-</div>
-<div class="paragraph">
-<p>And star events might publicly visible permanently on events API under the WatchEvent, not sure: <a href="https://docs.github.com/en/developers/webhooks-and-events/events/github-event-types#watchevent" class="bare">https://docs.github.com/en/developers/webhooks-and-events/events/github-event-types#watchevent</a> This appears to get them all from <a href="https://www.gharchive.org/">GitHub Archive</a>.</p>
-</div>
-<div class="literalblock">
-<div class="content">
-<pre>SELECT actor.login, created_at
-FROM `githubarchive.month.*`
-WHERE type = 'WatchEvent'
-AND repo.name = 'cirosantilli/china-dictatorship'
-ORDER BY created_at DESC
-LIMIT 1000</pre>
-</div>
-</div>
-<div class="paragraph">
 <p>Unstarring events are exceedingly rare in Ciro&#8217;s other repositories.</p>
 </div>
 <div class="paragraph">
@@ -6857,6 +6842,56 @@ LIMIT 1000</pre>
 <div class="content">
 <iframe loading="lazy" width="600" height="400" src="//www.youtube.com/embed/_-hCdbsyWw0?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
+</div>
+</div>
+<div class="sect5">
+<h6 id="view-all-users-who-starred-a-repository-on-github-including-those-who-unstarred"><a class="anchor" href="#view-all-users-who-starred-a-repository-on-github-including-those-who-unstarred"></a><a class="link" href="#view-all-users-who-starred-a-repository-on-github-including-those-who-unstarred">5.7.1.2.2. View all users who starred a repository on GitHub including those who unstarred</a></h6>
+<div class="paragraph">
+<p>The <a href="#chilling-effect">Chilling effect (寒蝉效应)</a> is extremelly visible on GitHub.</p>
+</div>
+<div class="paragraph">
+<p><a href="#ciro-santilli">Ciro Santilli (三西猴, anti-CCP fanatic, 反中共狂热, stupid cunt, 傻屄, CIA agent, CIA特工, 肏你妈的)</a> is able to see this easily because the star notification remains in the GitHub dashboard even after unstarring.</p>
+</div>
+<div class="paragraph">
+<p>However, star events are also publicly visible permanently on events API under the WatchEvent: <a href="https://docs.github.com/en/developers/webhooks-and-events/events/github-event-types#watchevent" class="bare">https://docs.github.com/en/developers/webhooks-and-events/events/github-event-types#watchevent</a></p>
+</div>
+<div class="paragraph">
+<p>This appears to get them all from <a href="https://www.gharchive.org/">GitHub Archive</a>'s Google BigQuery up to the last whole month:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>SELECT actor.login, MAX(created_at)
+FROM `githubarchive.month.*`
+WHERE type = 'WatchEvent'
+AND repo.name = 'cirosantilli/china-dictatorship'
+GROUP BY actor.login
+ORDER BY MAX(created_at) DESC</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Ciro verified that does include people who unstarred.</p>
+</div>
+<div class="paragraph">
+<p>That one exceeds the free data limits as of December 2021 however, so you need to select more specific months/years at a time. Note that year data is only released once every year.</p>
+</div>
+<div class="paragraph">
+<p>The following ranges manage to get all data as December 2021 for free:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>FROM `githubarchive.year.201*`
+FROM `githubarchive.year.202*`
+FROM `githubarchive.month.2021*`</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>supposing that unique starrers</p>
+</div>
+<div class="paragraph">
+<p>You can then "Save results" as CSV to view all users.</p>
+</div>
+<div class="paragraph">
+<p>There don&#8217;t appear to be unstar events however. You can see single people star multiple times, which means that each new star gives a new row, which is why we do the <code>GROUP BY</code>.</p>
 </div>
 </div>
 </div>
@@ -10765,6 +10800,9 @@ I have no hope.<br></p>
 </div>
 <div class="ulist">
 <ul>
+<li>
+<p>2021-12-30 someone from 红山区公安分局 from Hongshan Public Security sub-department in Hongshan, Inner Mongolia</p>
+</li>
 <li>
 <p>2021-09-29 someone from 北京云中融信网络科技有限公司 <a href="https://baike.baidu.com/item/北京云中融信网络科技有限公司/17048165" class="bare">https://baike.baidu.com/item/北京云中融信网络科技有限公司/17048165</a>, an instant messaging services company.</p>
 </li>
@@ -16763,7 +16801,7 @@ Toutes les dettes se paieront.</p>
 </div>
 </div>
 <div id="christine-marie" class="videoblock">
-<div class="title"><a href="https://www.youtube.com/watch?v=GwoO7Nekmpw&amp;t=445" class="bare">https://www.youtube.com/watch?v=GwoO7Nekmpw&amp;t=445</a> Christine Marie, founder of <a href="http://voicesfordignity.com/">Voices for Dignity</a> which takes care of <a href="https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints">FLDS</a> leaves, was interviewed in VICE documentary "Polygamist Mafia: Escaping The Kingston Clan". While Ciro does not believe Falun Gong is as extreme as FLDS, he does really like the things Christine says. E.g., she calls "cult leaders" with the neutral <a href="#flg-religion">religious</a> form "<a href="#li-hongzhi">prophet</a>", just like Ciro, and mentions the important fact that "And the another thing that the public doesn&#8217;t realise, is that there are also beautiful thing within those communities". This is the mindset of <a href="#intolerance">tolerance</a> that the world needs.</div>
+<div class="title"><a href="https://www.youtube.com/watch?v=GwoO7Nekmpw&amp;t=445" class="bare">https://www.youtube.com/watch?v=GwoO7Nekmpw&amp;t=445</a> Christine Marie is the founder of the <a href="http://voicesfordignity.com/">Voices for Dignity</a> charity which takes care of people who decide to leave the <a href="https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints">FLDS</a> (a major <a href="https://en.wikipedia.org/wiki/Mormonism">Mormon</a> denomination). Leaving that group is not an easy task given the importance it plays in members lives, see also "No Exit" from <a href="#orange-papers">Orange Papers (橙色文件)</a>. She was interviewed in VICE documentary "Polygamist Mafia: Escaping The Kingston Clan". While Ciro does not believe Falun Gong is as extreme as FLDS, he does really like the things Christine says. E.g., she calls "cult leaders" with the neutral <a href="#flg-religion">religious</a> form "<a href="#li-hongzhi">prophet</a>", just like Ciro, and mentions the important fact that "And the another thing that the public doesn&#8217;t realise, is that there are also beautiful thing within those communities". This is the mindset of <a href="#intolerance">tolerance</a> that the world needs.</div>
 <div class="content">
 <iframe loading="lazy" width="600" height="400" src="//www.youtube.com/embed/GwoO7Nekmpw?rel=0&amp;start=445" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -16840,7 +16878,7 @@ Toutes les dettes se paieront.</p>
 <div class="sect2">
 <h3 id="does-ciro-santilli-believe-in-or-practice-falun-gong"><a class="anchor" href="#does-ciro-santilli-believe-in-or-practice-falun-gong"></a><a class="link" href="#does-ciro-santilli-believe-in-or-practice-falun-gong">8.2. Does Ciro Santilli believe in or practice Falun Gong? (三西猴信仰或者练法轮功吗？)</a></h3>
 <div class="paragraph">
-<p>No, Ciro is <a href="https://en.wikipedia.org/wiki/Agnosticism">agnostic</a> (<a href="https://zh.wikipedia.org/wiki/不可知论">不可知论</a>) and therefore believes that all the metaphysics that <a href="#li-hongzhi">Li Hongzhi (李洪志, LHZ, Falun Gong prophet)</a> says is bullshit.</p>
+<p>No, <a href="#ciro-santilli">Ciro Santilli (三西猴, anti-CCP fanatic, 反中共狂热, stupid cunt, 傻屄, CIA agent, CIA特工, 肏你妈的)</a> is <a href="https://en.wikipedia.org/wiki/Agnosticism">agnostic</a> (<a href="https://zh.wikipedia.org/wiki/不可知论">不可知论</a>) and therefore believes that all the metaphysics that <a href="#li-hongzhi">Li Hongzhi (李洪志, LHZ, Falun Gong prophet)</a> says is bullshit, just like any other <a href="#flg-religion">religion</a>.</p>
 </div>
 <div class="paragraph">
 <p>Here are some things that he doesn&#8217;t like about Falun Gong for example: <a href="#things-ciro-santilli-dislikes-about-falun-gong">Things Ciro Santilli dislikes about Falun Gong (三西猴不喜欢法轮功的事情)</a>.</p>
@@ -16869,7 +16907,7 @@ Toutes les dettes se paieront.</p>
 </ul>
 </div>
 <div class="paragraph">
-<p>Ciro thinks that FLG&#8217;s self-help part could potentially be good for you, just like many other meditative practices such as Yoga, Buddhist meditation, Tai chi, deep Catholic prayer, etc. As far as he has heard, all of it sounded good standard religious self-help: be peaceful, be good to others, etc. Like any other well managed religion, FLG does have good things to offer, see also: <a href="#christine-marie">https://www.youtube.com/watch?v=GwoO7Nekmpw&amp;t=445 Christine Marie, founder of Voices for Dignity which takes care of FLDS leaves, was interviewed in VICE documentary "Polygamist Mafia: Escaping The Kingston Clan". While Ciro does not believe Falun Gong is as extreme as FLDS, he does really like the things Christine says. E.g., she calls "cult leaders" with the neutral religious form "prophet", just like Ciro, and mentions the important fact that "And the another thing that the public doesn&#8217;t realise, is that there are also beautiful thing within those communities". This is the mindset of tolerance that the world needs.</a>.</p>
+<p>Ciro thinks that FLG&#8217;s self-help part could potentially be good for you, just like many other meditative practices such as Yoga, Buddhist meditation, Tai chi, deep Catholic prayer, etc. As far as he has heard, all of it sounded good standard religious self-help: be peaceful, be good to others, etc. Like any other well managed religion, FLG does have good things to offer, see also: <a href="#christine-marie">Christine Marie&#8217;s interview</a>.</p>
 </div>
 <div class="paragraph">
 <p>However Ciro believes that the metaphysics is all complete and utter bullshit, child stories made up by Li Hongzhi, and just as real as Father Christmas or the <a href="https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster">Flying Spaghetti Monster</a>.</p>
@@ -17489,6 +17527,9 @@ The CCP is the Holy Spirit</p>
 </div>
 <div class="sect4">
 <h5 id="orange-papers"><a class="anchor" href="#orange-papers"></a><a class="link" href="#orange-papers">8.3.3.2. Orange Papers (橙色文件)</a></h5>
+<div class="paragraph">
+<p><a href="https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q0.html" class="bare">https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q0.html</a></p>
+</div>
 <div class="paragraph">
 <p>Amazing website talking about Cults and many other things!</p>
 </div>
@@ -32185,6 +32226,12 @@ Which is unforgivable</p>
 </div>
 <div class="ulist">
 <ul>
+<li>
+<p>2021-12-22 <a href="https://cirosantilli-realworld-next.herokuapp.com/" class="bare">https://cirosantilli-realworld-next.herokuapp.com/</a> <a href="https://archive.ph/wip/EVcUw" class="bare">https://archive.ph/wip/EVcUw</a> added two messages "这个网站也是王八操的搞得，操你妈得大傻逼。狗腿子汉奸孤儿" and "访问太频繁服务器受不了啦🏦，请使用微信搜索「沙雕APP」使用小程序体验，没有访问限制" That website has no signup verification mechanism, users can just spam it at will. Would be good to log some IPs to start with. Can&#8217;t store in a database because we are capped at 10k DB rows on the free plan.</p>
+</li>
+<li>
+<p>2021-12-21 <a href="https://codeforces.com/blog/entry/98165?locale=en" class="bare">https://codeforces.com/blog/entry/98165?locale=en</a> a Russian online judge: "BTW, I&#8217;m not sure if these two things are related, but HDU&#8217;s online judge system(<a href="http://acm.hdu.edu.cn" class="bare">http://acm.hdu.edu.cn</a>) was shut down in last week. The site administrator said the reason for the shutdown was that a user&#8217;s username violated Chinese law&#8230;&#8203;" to which "TwentyOneHundredOrBust" replied "this sounds like a job for ciro santilli"</p>
+</li>
 <li>
 <p>2021 <a href="https://hub.xn&#8212;&#8203;p8jhe.tw/" class="bare">https://hub.xn&#8212;&#8203;p8jhe.tw/</a> to <a href="https://github.com/cirosantilli/cirosantilli" class="bare">https://github.com/cirosantilli/cirosantilli</a> which redirects to <a href="https://www.library.ac.cn/ip.html?=iwikie" class="bare">https://www.library.ac.cn/ip.html?=iwikie</a> "Your IP is not allowed to visit this site. This site is only available in Mainland China." which is a mirror list as mentioned at <a href="#google-mirrors">Google mirrors (谷歌镜像)</a>.</p>
 </li>

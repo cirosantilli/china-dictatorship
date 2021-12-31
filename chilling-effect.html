@@ -488,22 +488,6 @@ ga('send', 'pageview');
 <p>It is really interesting to see how many people star the <a href="mirrors">GitHub repository</a>, and then a few minutes later they think about how they might get put in jail, and then unstar it.</p>
 </div>
 <div class="paragraph">
-<p><a href="ciro-santilli">Ciro Santilli (三西猴, anti-CCP fanatic, 反中共狂热, stupid cunt, 傻屄, CIA agent, CIA特工, 肏你妈的)</a> is able to see this because the star notification remains in the GitHub dashboard even after unstarring.</p>
-</div>
-<div class="paragraph">
-<p>And star events might publicly visible permanently on events API under the WatchEvent, not sure: <a href="https://docs.github.com/en/developers/webhooks-and-events/events/github-event-types#watchevent" class="bare">https://docs.github.com/en/developers/webhooks-and-events/events/github-event-types#watchevent</a> This appears to get them all from <a href="https://www.gharchive.org/">GitHub Archive</a>.</p>
-</div>
-<div class="literalblock">
-<div class="content">
-<pre>SELECT actor.login, created_at
-FROM `githubarchive.month.*`
-WHERE type = 'WatchEvent'
-AND repo.name = 'cirosantilli/china-dictatorship'
-ORDER BY created_at DESC
-LIMIT 1000</pre>
-</div>
-</div>
-<div class="paragraph">
 <p>Unstarring events are exceedingly rare in Ciro&#8217;s other repositories.</p>
 </div>
 <div class="paragraph">
@@ -531,12 +515,12 @@ LIMIT 1000</pre>
 </div>
 </div>
 <div class="paragraph nav-footer">
-<p>↑ Up: <a href="most-chinese-people-like-their-dictatorship">Most Chinese people like their dictatorship (中国大众支持他们的独裁)</a> | ⌂ Home: <a href="index-split">China Dictatorship (中国独裁统治)</a> | Next: <a href="intolerance">Most Chinese people don&#8217;t care about the minorities (大多数中国人不关心少数民族)</a> →</p>
+<p>↑ Up: <a href="most-chinese-people-like-their-dictatorship">Most Chinese people like their dictatorship (中国大众支持他们的独裁)</a> | ⌂ Home: <a href="index-split">China Dictatorship (中国独裁统治)</a> | Next: <a href="view-all-users-who-starred-a-repository-on-github-including-those-who-unstarred">View all users who starred a repository on GitHub including those who unstarred</a> →</p>
 </div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2021-12-22 20:20:15 UTC
+Last updated 2021-12-31 10:17:35 UTC
 </div>
 </div>
 </body>

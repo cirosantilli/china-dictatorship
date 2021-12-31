@@ -467,22 +467,59 @@ ga('send', 'pageview');
              .nav-footer{text-align: center; margin-top: auto;}
              .nav-footer > p > a {white-space: nowrap;}</style>
 </head>
-<body id="大" class="article">
+<body id="view-all-users-who-starred-a-repository-on-github-including-those-who-unstarred" class="article">
 <div id="header">
 <h1>China Dictatorship (中国独裁统治)</h1>
 </div>
 <div id="content">
-<div class="sect3">
-<h2 id="大"><a class="anchor" href="#大"></a><a class="link" href="#大">39.1.21. 大 (da4, big)</a></h4>
+<div class="sect5">
+<h2 id="view-all-users-who-starred-a-repository-on-github-including-those-who-unstarred"><a class="anchor" href="#view-all-users-who-starred-a-repository-on-github-including-those-who-unstarred"></a><a class="link" href="#view-all-users-who-starred-a-repository-on-github-including-those-who-unstarred">5.7.1.2.2. View all users who starred a repository on GitHub including those who unstarred</a></h6>
 <div class="paragraph">
-<p>Characters:</p>
+<p>The <a href="chilling-effect">Chilling effect (寒蝉效应)</a> is extremelly visible on GitHub.</p>
 </div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="犬">犬 (quan3, dog)</a></p>
-</li>
-</ul>
+<div class="paragraph">
+<p><a href="ciro-santilli">Ciro Santilli (三西猴, anti-CCP fanatic, 反中共狂热, stupid cunt, 傻屄, CIA agent, CIA特工, 肏你妈的)</a> is able to see this easily because the star notification remains in the GitHub dashboard even after unstarring.</p>
+</div>
+<div class="paragraph">
+<p>However, star events are also publicly visible permanently on events API under the WatchEvent: <a href="https://docs.github.com/en/developers/webhooks-and-events/events/github-event-types#watchevent" class="bare">https://docs.github.com/en/developers/webhooks-and-events/events/github-event-types#watchevent</a></p>
+</div>
+<div class="paragraph">
+<p>This appears to get them all from <a href="https://www.gharchive.org/">GitHub Archive</a>'s Google BigQuery up to the last whole month:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>SELECT actor.login, MAX(created_at)
+FROM `githubarchive.month.*`
+WHERE type = 'WatchEvent'
+AND repo.name = 'cirosantilli/china-dictatorship'
+GROUP BY actor.login
+ORDER BY MAX(created_at) DESC</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Ciro verified that does include people who unstarred.</p>
+</div>
+<div class="paragraph">
+<p>That one exceeds the free data limits as of December 2021 however, so you need to select more specific months/years at a time. Note that year data is only released once every year.</p>
+</div>
+<div class="paragraph">
+<p>The following ranges manage to get all data as December 2021 for free:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>FROM `githubarchive.year.201*`
+FROM `githubarchive.year.202*`
+FROM `githubarchive.month.2021*`</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>supposing that unique starrers</p>
+</div>
+<div class="paragraph">
+<p>You can then "Save results" as CSV to view all users.</p>
+</div>
+<div class="paragraph">
+<p>There don&#8217;t appear to be unstar events however. You can see single people star multiple times, which means that each new star gives a new row, which is why we do the <code>GROUP BY</code>.</p>
 </div>
 <div class="ulist">
 <ul>
@@ -490,7 +527,7 @@ ga('send', 'pageview');
 </div>
 </div>
 <div class="paragraph nav-footer">
-<p>← Previous: <a href="寸">寸 (cun4, inch)</a> | ↑ Up: <a href="characters">Characters (汉字)</a> | ⌂ Home: <a href="index-split">China Dictatorship (中国独裁统治)</a> | Next: <a href="歹">歹 (dai3, supervillain)</a> →</p>
+<p>← Previous: <a href="chilling-effect">Chilling effect (寒蝉效应)</a> | ↑ Up: <a href="most-chinese-people-like-their-dictatorship">Most Chinese people like their dictatorship (中国大众支持他们的独裁)</a> | ⌂ Home: <a href="index-split">China Dictatorship (中国独裁统治)</a> | Next: <a href="intolerance">Most Chinese people don&#8217;t care about the minorities (大多数中国人不关心少数民族)</a> →</p>
 </div>
 </div>
 <div id="footer">
