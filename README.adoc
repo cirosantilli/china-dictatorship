@@ -1392,6 +1392,8 @@ Related:
 [[people-arrested-for-reporting-on-the-2019-corona-virus]]
 ====== People arrested for reporting on the 2019 Corona Virus (因报道 2019 年冠状病毒而被捕的人)
 
+Best montage: <<eight-people-were-punished,Eight people were punished>>.
+
 * https://en.wikipedia.org/wiki/Chen_Qiushi[Chen Qiushi] (https://zh.wikipedia.org/wiki/陈秋实_(律师)[陈秋实])
 ** Twitter: https://twitter.com/chenqiushi404
 ** YouTube: https://www.youtube.com/channel/UCv361SF6FKznoGPKEFG9Yhw
@@ -1779,7 +1781,7 @@ If the truth is too much for you to bear, worry not, you could use one of:
 **** https://english.meta.stackexchange.com/users/156741/li-xiaodong
 **** https://github.com/DoyleLi from Intel
 * a custom ad terminator expression shown at: https://github.com/cirosantilli/china-dictatorship/issues/87 `stackoverflow.com##a[href="/users/895245/ciro-santilli-%e6%96%b0%e7%96%86%e6%94%b9%e9%80%a0%e4%b8%ad%e5%bf%83%e6%b3%95%e8%bd%ae%e5%8a%9f%e5%85%ad%e5%9b%9b%e4%ba%8b%e4%bb%b6"]`
-* https://gist.github.com/chenx6/97d912a6ef623f5142f69f44b580c1a0 replaces Ciro's username with "Ciro Santilli my mother died". 
+* https://gist.github.com/chenx6/97d912a6ef623f5142f69f44b580c1a0 replaces Ciro's username with "Ciro Santilli my mother died".
 
 [[not-chinese]]
 === Non-Chinese people should not interfere in Chinese politics (外国人不应该干预中国政治)
@@ -2011,7 +2013,7 @@ The last emperor was Puyi, so Pu is the last well known mark. But there were oth
 The family tree that Ciro has reconstructed orally from his mother-in-law is:
 
 * Ciro's wife:
-** Father: Ai Dayi (艾大义) born: 1932 in Shenyang
+** Father: Ai Dayi (艾大义) born: 1932 in Shenyang, see also: <<ciro-santilli-s-father-in-law>>
 *** Father: Ai Xikang (艾锡康) So why did he not use Yu?
 **** Father: Ai Pushan (艾溥?), so the Pu character is presumed from the generation name, to be the same generation as Puyi. https://en.wikipedia.org/wiki/Zaitao has a Pushen (溥伸), but he died at 13 years old in 1928, so its not the one.
 **** Younger brother 2: Ai Xiyuan (艾锡?) Professor at https://en.wikipedia.org/wiki/Northeastern_University_(China) Apparently had no Children.
@@ -2029,8 +2031,6 @@ Ciro's wife and family are clearly of the https://en.wikipedia.org/wiki/Manchu_p
 
 His wife's family name is the very unusual 艾, pronounced "ai4", which she claims is a reference to the 愛(also pronounced ai4) in https://en.wikipedia.org/wiki/Aisin_Gioro[愛新覺羅], which is the name of the Manchu ruling clan of the Qing dynasty.
 
-Ciro's father-in-law, who he barely met, was very old when he had his daughter, and passed away before Ciro could talk a lot with him, which is consistent with the claims that he spent several years in jail during <<mao-zedong,Mao's>> purges, see also: <<wife>>.
-
 Bibliography:
 
 * https://en.wikipedia.org/wiki/Head_of_the_House_of_Aisin_Gioro
@@ -2041,6 +2041,27 @@ Bibliography:
 [[ciro-santilli-as-qing-emperor]]
 .Ciro Santilli's portrait as Qing emperor. https://en.wikipedia.org/wiki/File:清_郎世宁绘《清高宗乾隆帝朝服像》.jpg[Original image].
 image::{china-dictatorship-media-base}/Ciro_Santilli_portrait_as_Qing_emperor.jpg[height=600]
+
+[[ciro-santilli-s-father-in-law]]
+==== Ciro Santilli's father-in-law (三西猴的)
+
+Ciro's father-in-law, who he barely met, was very old when he had Ciro's wife, and passed away before Ciro could talk a lot with him, they only saw each other once or twice over Skype, he died soon afterwards.
+
+Having a child late which is consistent with the claims that he spent several years in jail during <<mao-zedong,Mao's>> purges, see also: <<wife>>. Being an educated person was a crime in those days, and he was a chemical engineer.
+
+His brother and sister both managed to escape to the USA and Japan, but he took his grandma's advice and stayed in China.
+
+Ciro's wife adores her father, who she strongly resembles, and it is a huge shame Ciro didn't manage to meet him better.
+
+Like his daughter, he was a bibliophile, foodie, Buddhist and incredibly morally upright.
+
+The fact that he survived so many years in prison also attests to his incredible hopefulness and mental health: <<ciro-santilli-s-mother-in-law>> always tells how many other prisoners killed themselves in those days out of hopelessness. Ciro's wife shares that amazing quality, which Ciro also believes is compatible with the Royalty theory.
+
+After jail, he actually stayed in the same shitty city where he had been imprisoned, and continued to work as a chemical engineer to make a living and try and improve the country that had so badly betrayed him a few years back.
+
+He also seemed to be an amazing story teller, of which he knew many. At one point, a jail cook took him under his wing, even tough he did not know how to cook too well yet, just to hear his stores. Being highly intelligent, the father-in-law man learned to cook too of course.
+
+Another remarkable episode is when he was working in the prison kitchen, and some man was starving and asked for food. He told the man to come later during the evening. The man came, and he gave him a bowl that seemed to be full of cooked vegetables (likely 白菜). The next day, the man came back, and kowtowed him. Beneath the vegetables, he had hidden some good chunks of then very precious meat!! This story https://cirosantilli.com/ciro-santilli-s-self-perceived-compassionate-personality[makes Ciro cry].
 
 [[preconceived]]
 ==== Ciro Santilli has a preconceived opinion about China that cannot be changed (三西猴对中国成见很深，无法改变)
@@ -2101,6 +2122,13 @@ So in a sense it was a good thing that Ciro had this little backyard fire with t
 Because before that, he was one of the majority who just constantly hears about the increasing mountain of evidence of human rights violations, and does nothing about it.
 
 The https://en.wikipedia.org/wiki/Darkest_Hour_(film)[Darkest Hour (2017) film] comes to mind: https://www.youtube.com/watch?v=xA1Uz_TMzhs[]. The movie shows that Britain was truly hesitant whether to negotiate or fight Hitler, even after the Nazis had already started invading other European countries, and would clearly not stop. Luckily, we are not at a position of war yet, and might never be due to nuclear weapons. But still, a similar blindness applies. <<covid>> woke up many people, but even then some haven't faced it.
+
+[[ciro-santilli-s-mother-in-law]]
+===== Ciro Santilli's mother-in-law (三西猴的岳母)
+
+Put in jail for 15 days for doing Falun Gong in 2015: <<ciro-santilli-mother-in-law-jail>>.
+
+Some related remarks: <<flg-daily>>.
 
 [[ciro-santilli-mother-in-law-jail]]
 ===== Ciro Santilli's post when his mother-in-law was put into jail for doing Falun Gong (岳母因修炼法轮功入狱时的帖子)
@@ -3040,11 +3068,11 @@ See also: <<politicians>>.
 [[nazi]]
 === Comparisons between the CCP and Nazi Germany (纳粹德国和中共长得很想)
 
-As of 2020, the <<ccp>> is much more like Nazi Germany than it is like the <<soviet-union>>.
+The more <<ciro-santilli>> learns about the Nazis, the more similar they CCP looks to them. As of 2020, the <<ccp>> is much more like Nazi Germany than it is like the <<soviet-union>>.
 
-Both share the same basic ideology: <<little-pink-american-dream-vs-chinese-dream,love your country/leader mindlessly>>, work hard, <<most-chinese-people-like-their-dictatorship,throw any dissidents under the bus>>, and <<overlook-human-rights-for-profit,everyone will become richer>> (except the dissidents who will be in jail).
+Both CCP and Nazis share the same basic core ideology: capitalism, <<little-pink-american-dream-vs-chinese-dream,love your country/leader mindlessly>>, work hard, <<most-chinese-people-like-their-dictatorship,throw any dissidents under the bus>>, and <<overlook-human-rights-for-profit,everyone will become richer>> (except the dissidents who will be in jail or dead).
 
-The CCP is possibly less bad as of 2020 it has less of "this minority (Jews) is the cause of all our problems/racial supremacy approach". But everything else, and arguably the key points that got most German people on-board in the first place, are so similar, that it has to raise huge red flags.
+Thankfully, the CCP is possibly less bad as of 2020 it has less of "this minority (Jews) is the cause of all our problems/racial supremacy approach". But everything else, and arguably the key points that got most German people on-board in the first place, are so similar, that it has to raise huge red flags.
 
 We must however be careful not to demonize the Nazis, as that is not a helpful way to learn from the past.
 
@@ -7407,6 +7435,8 @@ ____
 
 From this, it is obvious that Falun Gong is just a https://en.wikipedia.org/wiki/New_Age[New Age] (link:https://zh.wikipedia.org/wiki/新纪元运动[新纪元运动]) https://en.wikipedia.org/wiki/Syncretism[syncretic] (https://zh.wikipedia.org/wiki/綜攝[综摄]) religion combining https://en.wikipedia.org/wiki/Qigong[Qigong], https://en.wikipedia.org/wiki/Buddhism[Buddhism], some aspects of <<christianity>>, and whatever other crazy things <<li-hongzhi>> believes in.
 
+Synchronism is of course the easiest way to start a new religion, because it attempts to divert the irrational belief of people in some unprovable bullshit into a new unprovable bullshit, but that resonates more with the current political situation. This is exactly what Jesus did with Judaism. And it is then exactly what the https://en.wikipedia.org/wiki/Jesus_in_Islam[Islam did to Christianity].
+
 Or you could call Falun Gong a <<flg-cult,cult>>, which is nothing but a new/small religion with negative connotation, and thus meaningless.
 
 FLG is very similar to Scientology in Ciro's view: a new religion that mixes elements of both old and new. And just like any other religion, <<democracy-is-a-religion,their practice must be allowed>>.
@@ -7423,10 +7453,12 @@ And aren't pro-democracy believers also taking actions based solely on a shared 
 
 From a purely strategic point of view, the "religion" denomination would be:
 
-* good to FLG because the concept of freedom of religion carries considerable weight in the West
-* bad for FLG because people who already have a religion would be less likely to try it out and start believing
+* bad to FLG because the concept of freedom of religion carries considerable weight in the West. And if you are not a religion, you are more likely to be a <<flg-cult,cult>>, which carries a black mark instead.
+* good for FLG because people who already have a religion would be less likely to try it out and start believing
 +
 Falun Gong's recruitment strategy is to focus on the exercises first, and in particular its <<flg-medication,health benefits>> and then as some people start to feel things, they start introducing the metaphysics.
++
+Other new religions have also taken this "I'm not a religion approach", see e.g.: https://en.wikipedia.org/wiki/Baháʼí_Faith[Baha'i] https://youtu.be/9qDN0COSvds?t=287[].
 
 See also:
 
@@ -7573,7 +7605,7 @@ The Guru, his church, and his teachings are always right, and above criticism, a
 In some cults, the guru is dead, but the principle is the same. I use the word "guru" loosely here; in many cults the charismatic leader has the title of minister, priest, yogi, swami, prophet, or all-knowing wise man. **Or even, "<<mao-zedong,Chairman Mao>>."** In any case, the leader is always right.
 ____
 
-And they also claim that https://en.wikipedia.org/wiki/Alcoholics_Anonymous[Alcoholics Anonymous] could be characterized as a cult. Very cool. What else could be powerful enough to get you off a physical addiction, than a mental addiction, right?
+And they also claim that https://en.wikipedia.org/wiki/Alcoholics_Anonymous[Alcoholics Anonymous] could be characterized as a cult. Very cool. What else could be powerful enough to get you off a physical addiction, than a mental addiction, right? The https://en.wikipedia.org/wiki/Midnight_Mass_(miniseries)[Midnight Mass (2021)] miniseries by Netflix episode 2 makes that suggestion nicely on a side by side collage at about 8 minutes. It later mentions https://en.wikipedia.org/wiki/Rational_Recovery[Rational Recovery (RR)], which is a "non-religious" alternative to the AA.
 
 ____
 <<mao-zedong,Mao>> is the Father +
@@ -7598,7 +7630,7 @@ See also:
 * <<democracy-is-a-religion>>
 * <<if-you-are-against-the-ccp-then-you-are-against-china>> is the <<ccp>>'s version of <<the-group-is-the-only-way>>
 
-CCP in religious cerimonies:
+CCP in religious ceremonies:
 
 * 2021-09 https://www.reddit.com/r/China/comments/pq6hyv/buddhism_with_chinese_characteristics/ | https://twitter.com/Jerry00107966/status/1438108277716373507
 
@@ -8437,7 +8469,7 @@ Ciro is also extremely opposed to censorship of such viewpoints, as done by YouT
 * <<me-and-li-by-ben-hurley-2017>> says how after his conversion to Falun Gong:
 +
 ____
-My social beliefs had transformed from those typical of a left-leaning family to take on a very conservative hue. 
+My social beliefs had transformed from those typical of a left-leaning family to take on a very conservative hue.
 ____
 
 Other election/politics related <<flg-canon>> mentions https://en.minghui.org/html/articles/2019/6/2/177872.html[Fa Teaching at the 2019 New York Fa Conference]:
@@ -8455,7 +8487,7 @@ One wonders how Falun Gong views Trump's ideology of "https://en.wikipedia.org/w
 Analysis of Trumps electoral fraud claims:
 
 * https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_United_States_presidential_election
-* 2020-11-2020 https://www.ft.com/content/20b114b5-5419-493b-9923-a918a2527931 "Lawsuit tracker: Donald Trump's legal battle runs into repeated dead ends" gives the precise names of several of the cases 
+* 2020-11-2020 https://www.ft.com/content/20b114b5-5419-493b-9923-a918a2527931 "Lawsuit tracker: Donald Trump's legal battle runs into repeated dead ends" gives the precise names of several of the cases
 * 2021-01-05 https://www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11 "Trump and Republican officials have won zero out of at least 42 lawsuits they've filed since Election Day" gives an update on several of the cases at that date
 * 2021-03-31 https://www.reuters.com/article/us-china-trump-statue-idUSKBN2BN0RU "Be at peace, meditate, Trump Buddha statue designer tells former president" shows Trump Buddha statues by Hong Jinshi. This could be a huge hit with the Falun Gong community!!!
 
@@ -8731,7 +8763,7 @@ See also: <<honour-suicides-in-chinese-history>>.
 For example, in the 2003 "Fa conference" at the time of https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome[SARS] he https://falundafa.org/eng/eng/lectures/20030420L.html[said]:
 
 ____
-You must have seen the epidemic that's come along in China now, right? Hasn't a huge epidemic arrived? To put it in human terms, it's Heaven punishing people. What it's targeting, we Dafa disciples know full well: it's targeting those who don't deserve to be saved, who are impossible to save while Dafa disciples clarify the truth, and who aren't useful to the evil rotten spirits. This is the first round of cleansing. Heaven is punishing the evil, yet China is still lying to cover up the number of deaths, and I'll tell you, it's huge, and it hasn't peaked yet. 
+You must have seen the epidemic that's come along in China now, right? Hasn't a huge epidemic arrived? To put it in human terms, it's Heaven punishing people. What it's targeting, we Dafa disciples know full well: it's targeting those who don't deserve to be saved, who are impossible to save while Dafa disciples clarify the truth, and who aren't useful to the evil rotten spirits. This is the first round of cleansing. Heaven is punishing the evil, yet China is still lying to cover up the number of deaths, and I'll tell you, it's huge, and it hasn't peaked yet.
 ____
 
 Such beliefs have of course carried over directly to <<covid,COVID-19>>. Of course, epidemics make the moral question much more difficult, because not taking care of yourself means you can kill others besides yourself.
@@ -9392,7 +9424,7 @@ Related <<twitter>>:
 
 News:
 
-* 2021-09-22 https://www.scmp.com/news/china/politics/article/3149606/fears-china-missing-metoo-activist-and-labour-rights-campaigner Fears in China for missing #MeToo activist and labour rights campaigner. 
+* 2021-09-22 https://www.scmp.com/news/china/politics/article/3149606/fears-china-missing-metoo-activist-and-labour-rights-campaigner Fears in China for missing #MeToo activist and labour rights campaigner.
 ** https://en.wikipedia.org/wiki/Huang_Xueqin[Huang Xueqin] (https://zh.wikipedia.org/wiki/黃雪琴[黄雪琴]), profile https://www.scmp.com/news/china/politics/article/3149606/fears-china-missing-metoo-activist-and-labour-rights-campaigner
 * 2021-04-20 https://edition.cnn.com/2021/04/19/china/china-feminists-silenced-intl-hnk-dst/index.html "Chinese feminists are being silenced by nationalist trolls. Some are fighting back" mentions Liang Xiaomen, Xiao Meili and Zheng Churan
 
@@ -9601,7 +9633,7 @@ Most notable people implicated:
 * <<xi-jinping>> through his brother-in-law https://en.wikipedia.org/wiki/Deng_Jiagui[Deng Jiagui] (https://zh.wikipedia.org/wiki/邓家贵[邓家贵]).
 * https://en.wikipedia.org/wiki/Jia_Qinglin[Jia Qinglin] (https://zh.wikipedia.org/wiki/贾庆林[贾庆林]), fourth in Chinese power from 2003 to 2013, through:
 ** Jasmine Li (李紫丹), his granddaughter
-** https://en.wikipedia.org/wiki/Li_Pak-tam[Li Pak-tam] (https://zh.wikipedia.org/wiki/李伯潭[李伯潭]), his son-in-law 
+** https://en.wikipedia.org/wiki/Li_Pak-tam[Li Pak-tam] (https://zh.wikipedia.org/wiki/李伯潭[李伯潭]), his son-in-law
 * <<li-peng>> through his daughter https://en.wikipedia.org/wiki/Li_Xiaolin[Li Xiaolin] (https://zh.wikipedia.org/wiki/李小琳[李小琳])
 * <<bo-xilai>> through his associate https://www.reuters.com/article/us-china-bo-devillers-idUSBRE84E0HA20120515[Patrick Henri Devillers]
 * https://en.wikipedia.org/wiki/Liu_Yunshan[Liu Yunshan] (https://zh.wikipedia.org/wiki/刘云山[刘云山]), politburo 2012-2017, through his daughter-in-law Jia Liqing
@@ -10050,6 +10082,9 @@ video::diec9Cdsvg0[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=nPc3bSbKw28 (https://github.com/cirosantilli/china-dictatorship/issues/229[GitHub reupload]) <<xi-jinping>> <<carrie-lam>> Leonardo di Caprio Kate Winslet Titanic Deepface by <<gfwfrog>>. 由墙国蛙蛤蛤习近平 林郑月娥 莱昂纳多迪卡普里奥 凯特温斯莱特 泰坦尼克号. https://twitter.com/GFWfrog/status/1412704989445713924[Source] by <<gfwfrog>>. This likely emeged from <<lihkg>>.
 video::nPc3bSbKw28[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=_VaNnC8knew (https://github.com/cirosantilli/china-dictatorship/issues/724[GitHub reupload]) <<mao-zedong>>, <<xi-jinping>>, <<nazi,hitler>>, <<stalin>> and Korean dictators Kim Il-sung and his grandson Kim Jong-un singing the popular dance-pop song https://en.wikipedia.org/wiki/Dragostea_Din_Tei[Dragostea Din Tei by O-Zone (2003)], AKA https://knowyourmeme.com/memes/numa-numa[Numa Numa due to a popular pre-YouTube meme]. Watermarked wombo.ai which refers to: https://www.wombo.ai/ and appears to be specialized for singing music video deepfakes.
+video::_VaNnC8knew[youtube,height=400,width=600]
 
 [[carrie-lam]]
 === Carrie Lam (林鄭月娥, 2017-)
@@ -10745,7 +10780,7 @@ Video uploaded to GitHub: https://github.com/cirosantilli/china-dictatorship/iss
 
 Official tablature on Xu Lin's blog: http://xulin1523.blogspot.com/2016/01/blog-post_26.html
 
-https://www.nchrd.org/2018/10/xu-lin/ on <<chinese-human-rights-defenders>> says he was arrested in 2017 for <<picking-quarrels>>, and released on September 2020 at the completion of his sentence. This dude was actaully China, what a hero. https://chinachange.org/2018/07/28/guangdong-activist-xu-lin-tried-on-charges-of-stirring-up-trouble-for-writing-songs/ talks about his trial in 2018. 
+https://www.nchrd.org/2018/10/xu-lin/ on <<chinese-human-rights-defenders>> says he was arrested in 2017 for <<picking-quarrels>>, and released on September 2020 at the completion of his sentence. This dude was actaully China, what a hero. https://chinachange.org/2018/07/28/guangdong-activist-xu-lin-tried-on-charges-of-stirring-up-trouble-for-writing-songs/ talks about his trial in 2018.
 
 .https://www.youtube.com/watch?v=ym88UOz5ZC8 Video on Xu Lin's official YouTube channel
 video::ym88UOz5ZC8[youtube,height=400,width=600]
@@ -10930,6 +10965,7 @@ Other sections:
 ** <<fuck-xuexiqiangguo>> creator Tang Wenzheng (唐文正)
 * <<cartoonists>>
 * <<gfwfrog>>
+* <<peng-shuai>>
 
 Other dissidents:
 
@@ -11171,7 +11207,7 @@ Google bomb at: https://github.com/cirosantilli/china-dictatorship/issues/111
 
 Random info about Haidong:
 
-* 2017 Haidong playing foot volley with Nadal with a tennis ball for a minute: ;https://www.youtube.com/watch?v=XEUwQdynbh8 in 2017. A photo: https://www.gettyimages.co.uk/detail/news-photo/spanish-tennis-player-rafael-nadal-attends-a-charity-match-news-photo/856091560 https://www.gettyimages.co.uk/detail/news-photo/spanish-tennis-player-rafael-nadal-attends-a-charity-match-news-photo/856091560 contains an image of the event, and Nadal holds what seems to be a soccer video game featureing Haidong on the cover. 
+* 2017 Haidong playing foot volley with Nadal with a tennis ball for a minute: ;https://www.youtube.com/watch?v=XEUwQdynbh8 in 2017. A photo: https://www.gettyimages.co.uk/detail/news-photo/spanish-tennis-player-rafael-nadal-attends-a-charity-match-news-photo/856091560 https://www.gettyimages.co.uk/detail/news-photo/spanish-tennis-player-rafael-nadal-attends-a-charity-match-news-photo/856091560 contains an image of the event, and Nadal holds what seems to be a soccer video game featuring Haidong on the cover.
 
 .Hao Haidong (in white) playing for the China national team against the Hong Kong's national team in a World Cup Asian zone qualifying match at Siu Sai Wan Sports Ground in 2004. Request for https://twitter.com/fjamie013[James Fridman] to remove Haidong from the picture in reference to <<censorship-of-images-in-the-soviet-union>>: https://twitter.com/cirosantilli/status/1308670186640289792[]. Photo by: <<scmp>>. https://www.scmp.com/sport/china/article/3087684/chinese-sports-couple-hao-haidong-and-ye-zhaoying-face-being-wiped[Source].
 image::{china-dictatorship-media-base}/Hao_Haidong_kick.jpg[height=500]
@@ -11402,7 +11438,7 @@ Social media:
 
 News coverage:
 
-* 2020-09-25 https://www.scmp.com/news/china/society/article/3103548/greta-thunberg-criticises-china-after-climate-striker-ou-hongyi "Greta Thunberg criticises China after climate striker Ou Hongyi held over protest" detained in Shanghai 
+* 2020-09-25 https://www.scmp.com/news/china/society/article/3103548/greta-thunberg-criticises-china-after-climate-striker-ou-hongyi "Greta Thunberg criticises China after climate striker Ou Hongyi held over protest" detained in Shanghai
 * 2020-06-20 https://www.theguardian.com/world/2020/jul/20/chinas-first-climate-striker-cant-return-to-school "China's first climate striker warned: give it up or you can't go back to school"
 
 .Howey Ou skipped classes for a week to protest about climate change in front of the local government office in Guilin, <<guangxi>>, in 2019. TODO transcription of posters. https://www.scmp.com/news/china/society/article/3094873/howey-ou-chinas-version-greta-thunberg-pays-price-climate[Source].
@@ -12688,7 +12724,7 @@ ____
 https://www.skynews.com.au/details/_6215946537001
 
 ____
-Ms Markson [a journalist from The Daily Telegraph] said the data was extracted from a Shanghai server by Chinese dissidents, whistleblowers, in April 2016, who have been using it for counter-intelligence purposes. 
+Ms Markson [a journalist from The Daily Telegraph] said the data was extracted from a Shanghai server by Chinese dissidents, whistleblowers, in April 2016, who have been using it for counter-intelligence purposes.
 ____
 
 This had likely been mentioned by <<epoch-times>> on 2020-08-19 with a half censored and out of focus Microfot Excel screenshot: https://www.epochtimes.com/gb/20/8/18/n12340991.htm translation:
@@ -13631,7 +13667,7 @@ ____
 
 Why I delete your posts, but I don't delete wumao's posts? Because it is only possible to reason with humans, it is not possible to reason with primitive animals!
 ____
-* https://chinadigitaltimes.net/chinese/2019/08/【麻辣总局】新型敏感词武器：赵弹磁铁/ by <<china-digital-times>> 
+* https://chinadigitaltimes.net/chinese/2019/08/【麻辣总局】新型敏感词武器：赵弹磁铁/ by <<china-digital-times>>
 
 [[where-to-find-wumaos]]
 ===== Where to find wumaos (哪里可以找到五毛？)
@@ -13688,7 +13724,7 @@ https://www.zhihu.com/question/334923127 如何评价俄罗斯籍中国网红伏
 
 TODO decide:
 
-* the JaYoe Nation https://www.youtube.com/c/JaYoeNation Sample video: https://www.youtube.com/watch?v=smnVeGR15GI "Chinese Government Officials Corrupted My Videos! | JaYoe Conversation" 
+* the JaYoe Nation https://www.youtube.com/c/JaYoeNation Sample video: https://www.youtube.com/watch?v=smnVeGR15GI "Chinese Government Officials Corrupted My Videos! | JaYoe Conversation"
 * Mexicanos en China https://www.youtube.com/channel/UCgQYtqm1xB2uuNZaOniCH0Q Sample video: https://www.youtube.com/watch?v=a71fDVMBwP8 "Is the CHINESE GOVERNMENT PAYING US to Make Videos: Our Trip to Shaanxi // 中国政府是否付钱给我们制作视频" https://youtu.be/a71fDVMBwP8?t=188 says they were sponsored for the video.
 * Gweilo60's Channel: https://www.youtube.com/gweilo60
 * Eric Favreliere: https://www.instagram.com/ericfavreliere/
@@ -13698,7 +13734,7 @@ TODO decide:
 Non-political (as far as we can tell) channels of interest:
 
 * https://www.youtube.com/channel/UCISrVZmDM4x-Rq9mmNUw7Zw Blondie in China food and travel. Speaks Chinese. TODO name.
-* https://www.youtube.com/c/TravelinChina The China Traveller. Real name: Stuart Wiggin (司徒). British, studied in Oxford, speaks Chinese. Avoids ultra-sensitive topics like <<xinjiang>> and <<censorship>>, and covers positive rosy (and to some extent real) improvements in China mostly, in addition to neutral food/travel. LinkedIn: https://www.linkedin.com/in/stuartwiggin[] (https://archive.ph/HWoMr[archive]). Worked for <<china-radio-international>> from 2012 to 2017 and for <<netease>> since 2016. Other media: https://twitter.com/wiginchina Sample videos: 
+* https://www.youtube.com/c/TravelinChina The China Traveller. Real name: Stuart Wiggin (司徒). British, studied in Oxford, speaks Chinese. Avoids ultra-sensitive topics like <<xinjiang>> and <<censorship>>, and covers positive rosy (and to some extent real) improvements in China mostly, in addition to neutral food/travel. LinkedIn: https://www.linkedin.com/in/stuartwiggin[] (https://archive.ph/HWoMr[archive]). Worked for <<china-radio-international>> from 2012 to 2017 and for <<netease>> since 2016. Other media: https://twitter.com/wiginchina Sample videos:
 ** https://youtu.be/8221d7F8Uzc?t=145[]: watermarked crienglish.com[] "到底是不是习近平？Is that a famous Asian world leader?", but takes <<xi-jinping>> lightly by showing a <<xi-jinping-lookalikes,bad Xi Jinping lookalike>>
 ** https://www.youtube.com/watch?v=unDUEoMqYwk "I Train with the Troops at Tiananmen Square". Participates in a flag raising ceremony.
 * https://www.youtube.com/c/KevininShanghai Kevin in Shanghai. Mostly language and cultural differences.
@@ -13987,9 +14023,23 @@ Related:
 * <<linkedin>> requires you to use the real username and photo
 * <<anonymous-middle-fingers,Anonymous middle fingers (2021)>>
 
-==== Journalism
+[[journalism]]
+==== Journalism (新闻业)
 
-===== Western journalists in China
+[[freedom-of-the-press]]
+===== Freedom of the press (新闻自由)
+
+* https://en.wikipedia.org/wiki/Freedom_of_the_press
+* https://zh.wikipedia.org/wiki/新闻自由
+
+[[eight-people-were-punished]]
+.https://www.youtube.com/watch?v=PIMsALZlvuQ (https://github.com/cirosantilli/china-dictatorship/issues/723[GitHub reupload]) Scene from documentary film https://en.wikipedia.org/wiki/In_the_Same_Breath[In the Same Breath (2021)] showing nine Chinese television anchors saying the exact same announcement about <<covid>>, at the exact same pace, with audios superimposed, quoting the Wuhan Police department: "武汉市公安局官方微博发布消息称关于当前武汉市肺炎疫情的情况，《八人散播谣言者被依法查处》" (Eight people were punished for spreading rumors about an unknown pneumonia). Also note how shit English that translation by the documentary is.
+video::PIMsALZlvuQ[youtube,height=400,width=600]
+
+武汉市公安局官方微博发布消息称，关于当前武汉市肺炎疫情的情况
+
+[[western-journalists-in-china]]
+===== Western journalists in China (在中国的外国记者)
 
 * 2020-09-21 https://www.abc.net.au/news/2020-09-21/matthew-carney-foreign-journalist-china-intimidation-birtles/12678610 "'You will be put into detention': Former ABC bureau chief tells story of fleeing China for first time"
 * 2016 <<video-bbc-local-election-interview-block-2016>>
@@ -14133,7 +14183,7 @@ We made a single image mocking all of them at: <<core-socialist-values-collage,c
 * 平等 Equality: <<lampstand-church-demolition,Lampstand chutch demolition>>
 * 公正 Justice:  https://ichef.bbci.co.uk/news/976/cpsprodpb/0FC6/production/_96683040_0292729b-ad9f-4ea3-9d64-13c0200b74d9.jpg from https://www.bbc.co.uk/news/world-asia-40403811 about <<liu-xiaobo>>
 * 法治 Rule of law: <<jingjing-chacha>>
-* 爱国 Patriotism: https://twitter.com/GFWfrog/status/1409862331375423489 from <<anonymous-middle-fingers,Anonymous middle fingers (2021)>> 
+* 爱国 Patriotism: https://twitter.com/GFWfrog/status/1409862331375423489 from <<anonymous-middle-fingers,Anonymous middle fingers (2021)>>
 * 敬业 Dedication: https://zhuanlan.zhihu.com/p/377446839[] from <<lie-flat-movement>>. Widely shared meme, could not determine original source anything .
 * 诚信 Integrity: https://en.wikipedia.org/wiki/File:VOA-Bo_Xilai.jpg[] from <<bo-xilai>> seems like the best bet. Someone from <<panama-papers>>. Can't find a photo of Deng Jiagui, he just looks corrupt. Related: <<corruption>>.
 * 友善 Friendship: maybe something from <<falun-gong>> oppression,  https://www.theguardian.com/world/2015/aug/27/anastasia-lin-miss-world-canada-falun-gong-practitioner-china-persecution also mentioned at <<falun-gong-police-step-over-head,falun-gong-police-step-over-head>>
@@ -14561,7 +14611,7 @@ Website: https://www.163.com/
 Operates some MMORPGs in China. According to Wikipedia: "The company also owns several pig farms." That's the most amazing thing <<ciro-santilli>> has ever heard.
 
 [[tencent]]
-=== Tencent (腾讯, WeChat owner)
+=== Tencent (腾讯, Tengxun, WeChat owner)
 
 * https://en.wikipedia.org/wiki/Tencent
 * https://zh.wikipedia.org/wiki/腾讯
@@ -14614,6 +14664,8 @@ The West should ban WeChat until one open source end to end encrypted chat app i
 * https://zh.wikipedia.org/wiki/微信
 
 The dominating Chinese Facebook/Twitter clone as of 2020.
+
+"微博" (Weibo) by itself just means "microblogging" in general, but <<sina>>'s is so dominant that everyone just calls it Weibo.
 
 [[weibo-logo]]
 .<<weibo>> logo vs Sauron's eye 微博标志vs索倫魔眼 by <<ciro-santilli>>.
@@ -15111,6 +15163,22 @@ The third most important festival in China, after the Chinese New Year and Mid-A
 * https://en.wikipedia.org/wiki/Warring_States_period
 * https://zh.wikipedia.org/wiki/战国时期
 
+[[the-best-chinese-food]]
+== The best Chinese food (中国最好的食物)
+
+Everything under: <<the-best-chinese-supermarket-food-products>>
+
+Then dishes:
+
+* shui zhu niu rou
+* shui zhu yu
+* hui guo rou
+* mei cai kou rou
+* jian bing guo zi
+* kou shui ji
+
+There are also many amazing pasta dishes, although many are not so clearly named, and quality variability is also very large.
+
 [[the-best-chinese-supermarket-food-products]]
 == The best Chinese supermarket food products (中国超市食物)
 
@@ -15119,7 +15187,7 @@ For more daily needs, when you don't want to spend more money and time at a rest
 * https://twitter.com/ChinaToday_com/status/992236462841020416/photo/1 huge dabaicai statue (https://en.wikipedia.org/wiki/Napa_cabbage[napa cabbage])
 
 [[dumplings]]
-=== Dumplings 饺子 (jiao3 zi)
+=== Dumplings (饺子, jiao3 zi)
 
 * https://en.wikipedia.org/wiki/Jiaozi
 * https://zh.wikipedia.org/wiki/饺子
@@ -15140,7 +15208,7 @@ The best way to eat them is to pour some vinegar and ready-to-eat spicy preparat
 
 You can also drink the soup, or for cold days, actually eat the jiaozi with their soup. Ciro likes to add soy sauce and more of the above mentioned spices.
 
-Can also be made by hand if you have the patience.
+Can also be made by hand if you have the patience. <<ciro-santilli-s-mother-in-law>>, being from the North East, can make them very skillfuly. Ciro's favorite flavour is Shrimp + Egg + https://en.wikipedia.org/wiki/Allium_tuberosum[Chives] (https://zh.wikipedia.org/wiki/韭菜[韭菜]). Shrimps can be bought frozen for cheap, don't cut them up too much!
 
 <<ciro-santilli>> could basically eat those every 3-4 days and not get tired.
 
