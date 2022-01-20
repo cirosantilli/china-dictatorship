@@ -4387,6 +4387,7 @@ See also: <<western-companies-that-sell-censorship-technology-to-dictatorships>>
 
 Some hell known companies and events:
 
+* 2022 https://www.nasdaq.com/articles/intel-deletes-reference-to-xinjiang-after-backlash-in-china Intel deletes reference to Xinjiang after backlash in China
 * 2020 <<hololive>>
 * 2020 Outfront Media, see: <<lebron-james-opposes-hong-kong-anti-extradition-bill-protests-2019>>
 * https://en.wikipedia.org/wiki/HSBC[HSBC]
@@ -7247,6 +7248,10 @@ video::IAQ14AnAsmU[youtube,height=400,width=600]
 .https://www.youtube.com/watch?v=GwoO7Nekmpw&t=445 Christine Marie is the founder of the http://voicesfordignity.com/[Voices for Dignity] charity which takes care of people who decide to leave the https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints[FLDS] (a major https://en.wikipedia.org/wiki/Mormonism[Mormon] denomination). Leaving that group is not an easy task given the importance it plays in members lives, see also "No Exit" from <<orange-papers>>. She was interviewed in VICE documentary "Polygamist Mafia: Escaping The Kingston Clan". While Ciro does not believe Falun Gong is as extreme as FLDS, he does really like the things Christine says. E.g., she calls "cult leaders" with the neutral <<flg-religion,religious>> form "<<li-hongzhi,prophet>>", just like Ciro, and mentions the important fact that "And the another thing that the public doesn't realise, is that there are also beautiful thing within those communities". This is the mindset of <<intolerance,tolerance>> that the world needs.
 video::GwoO7Nekmpw[youtube,height=400,width=600,start=445]
 
+[[amazing-cultivation-simulator-review-by-ssethtzeentach-2021]]
+.https://www.youtube.com/watch?v=wJxM3POU92w https://store.steampowered.com/app/955900/Amazing_Cultivation_Simulator/[Amazing Cultivation Simulator] review by https://cirosantilli.com/ssethtzeentach[SsethTzeentach] (2021). Amazing Cultivation Simulator (<<baidu-baike,Baidu>>: https://baike.baidu.com/item/了不起的修仙模拟器/23624221[了不起的修仙模拟器]) is https://en.wikipedia.org/wiki/RimWorld[Rimworld]-like Chinese game which was a large hit in China (https://www.pcgamer.com/uk/amazing-cultivation-simulator-is-a-rimworld-style-sim-has-already-sold-700000-copies-in-china-and-now-its-getting-an-english-release/[700k sales as of 2020]) and then went on to be translated into English. In it, you join a Qi Gong <<flg-cult,cult>>, and level up your Qi Gong magical abilities by practicing the Gong (练功). Falun Gong basically claims the same thing, but for real life. Ciro believes that a great part of the appeal of Falun Gong is the gamification of life development, much like that video game does, see also: <<promised-powers-or-knowledge>>. It is also interesting to note that such Qi Gong-like are present in a more or less popular video game, which shows that such ideas are widely known in China, while they are not widely known in the West. Notably, Qi Gong ideas are widely present in https://en.wikipedia.org/wiki/Wuxia[Wuxia] (https://zh.wikipedia.org/wiki/武侠文化(武侠), lit. martial knight-errant) novels, or slightly more specifically https://en.wikipedia.org/wiki/Xianxia_(genre)[xianxia] (https://zh.wikipedia.org/wiki/修真小说[仙侠] lit. God knight-errant), the most popular version of Chinese https://en.wikipedia.org/wiki/High_fantasy[high fantasy] (https://zh.wikipedia.org/wiki/古典奇幻[古典奇幻]). Another interesting point is how in the game you make the <<amazing-cultivation-simulator-review-by-ssethtzeentach-2021,"small fish" cult members work long hours for free>> https://youtu.be/wJxM3POU92w?t=259[], as Seth brilliantly puts it: "You are running sect. [...]. A sect has outer disciples that will happily do all your mundane, tedious labour for a competitive salary of about zero dollars. They are not "slaves" as per say, we don't use that word here, it's more like an internship, which never ends. But [...] they can become <<membership-rivalry-orange-papers,inner disciples>>".
+video::wJxM3POU92w[youtube,height=400,width=600]
+
 Less good ones:
 
 * https://www.youtube.com/watch?v=_eiut_qUNBI In Search of Miracle Man by Adult Swim
@@ -7367,16 +7372,7 @@ In both cases, some believers claim that sometimes even reading the same text ag
 ** Falun Cosmic Orbit
 * memorization of the <<flg-canon>>, notably <<zhuan-falun>>, just like https://en.wikipedia.org/wiki/Hafiz_(Quran)[Hafiz] (https://zh.wikipedia.org/wiki/哈菲茲_(稱謂)[哈菲兹]) in Islam
 * higher intelligent beings ("Buddhas")
-* some believers who practice really well can also get some "supernatural powers" (功能), but not everyone develops them (luckily only so many people are that manipulable!), and you are <<flg-verifiable,not allowed to show your poweres to "ordinary people">> of course, from <<flg-canon>> https://falundafa.org/eng/eng/zfl_34.htm[]:
-+
-[[flg-supernatural-powers]]
-____
-What will one develop in the course of his cultivation? He will develop supernatural powers which are called supernormal capabilities for short.
-
-Do you want to use them among ordinary people? You are absolutely not allowed to use them among ordinary people at will.
-____
-+
-See also "You don't get the promised goodies" from <<orange-papers>>
+* <<promised-powers-or-knowledge,some believers who practice really well can also get some "supernatural powers">>
 ** other dimensions, which some select people with vision superpowers can see, this being one of the supernatural powers that may be developed, the "Celestial Eye" https://falundafa.org/eng/eng/zfl_21.htm[]:
 +
 [[flg-cross-dimensional-vision]]
@@ -7506,7 +7502,7 @@ Falun Gong has also used <<flg-telemarketing,phone call preaching>>.
 
 All of this is part of their effort to "save people (救人)", i.e. convert them to Falun Gong.
 
-<<li-hongzhi>> personally heavily emphasises the importance of preaching in <<flg-canon>>.
+<<li-hongzhi>> personally heavily emphasises the importance of preaching in <<flg-canon>> TODO link/quote, and because of this is it a de-facto religious obligation, and a major part of <<making-cult-members-work-long-hours-for-free>>.
 
 .Falun Gong believers preaching on the street in London in 2016. This image taken from a believer website shows a typical local regular gathering of believers on weekends, or even week days if there are enough retired believers in the group. They will put on their exercise music, and do exercises to attract more followers. Someone will also stand on their stall giving out propaganda flyers, or asking people to sign petitions for Western governments to support Falun Gong, e.g. opposing their alleged <<flg-organ-harvesting,organ harvesting>>. In the case of touristic areas with Chinese people walking around, they will also ask the Chinese tourists to <<tuidang,quit the their CCP membership, possibly using a fake name>>. <<ciro-santilli>> has to say: it is very amusing to see those Chinese people trying to pretend to ignore the censored religion, when some of them are clearly curious about it, especially the younger ones who didn't see it live. Some just get mad, and say how the CCP is so great to them. https://truthinchina.wordpress.com/2012/06/16/london-uk-practitioners-explain-the-facts-about-falun-gong-in-st-martins-place-photos/[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_street_preaching_2016_London.jpg[height=400]
@@ -7692,12 +7688,9 @@ Conversely, this also poses a risk for the Cult Leader, as new community ideas c
 * "Denigration of competing sects, cults, religions, groups, or organizations": yes, <<li-hongzhi>> does this all the time, see: <<zhong-gong>>
 * "Personal testimonies of earlier converts": see "experience sharing" at <<flg-religion>>
 * "The group and its members are special", "Enemy-making and Devaluing the Outsider": see: "ordinary people (常人)" at <<does-ciro-santilli-believe-in-or-practice-falun-gong>>
-* "Making cult members work long hours for free": yes, many FLG members work long long hours for free. Why wouldn't you if you are saving people's souls?
 * "Front groups, masquerading recruiters, hidden promoters, and disguised propagandists": <<falun-gong-media>>
-* "Promised Powers or Knowledge" and "It's a con. You don't get the promised goodies": they seem to believe in a <<flg-religion,Judgement Day like event>> and <<flg-medication,health benefits>>
 * "The Guru is always right", "You are always wrong", "No Graduates", "The Guru Is Extra-Special", "Everybody else needs the guru to boss him around, but nobody bosses the guru around", "The guru criticizes everybody else, but nobody criticizes the guru.": obviously: <<li-hongzhi>>
 ** "Group-think, Suppression of Dissent, and Enforced Conformity in Thinking"
-* Membership Rivalry. Members vie with one another for the guru's attention, and for status within the group. Everyone is trying to become part of the favored inner circle. The leader plays the members off against each other in order to maintain his hold over the cult.
 * Giggly wonderfulness and starry-eyed faith: <<flg-religion,notably visible during in experience sharing>>
 
 There are also however some points which Ciro feels don't apply, and Ciro praises Falun Gong for those:
@@ -7748,7 +7741,7 @@ Falun Gong is good. Truthfulness, compassion and forbearance are good.
 ____
 
 [[careful-control-of-your-image]]
-====== Careful control of your image (小心控制你的形象, Orange Papers, 橙色文件)
+====== Careful control of your image (Orange Papers, 小心控制你的形象, 橙色文件)
 
 The cult leader is a master at controlling how people view them.
 
@@ -7762,16 +7755,12 @@ As a result, there are almost no recordings of Li Hongzhi except from the early 
 
 What if he farted, or worse, brain-farted during a presentation, like we all do from time to time? Don't want recordings of that, do we? <<flg-canon>> related to those private presentations is only published after careful review of course.
 
-This reminded Ciro of the <<vissarion>> video he watched, in which VICE was allowed to visit and interview <<russia,Siberian>> prophet https://en.wikipedia.org/wiki/Vissarion[Vissarion] (real name Sergey Anatolyevitch Torop Серге́й Анато́льевич То́роп, AKA "The Russian Jesus"), and they note how well he controlled his appearance.
-
-Ciro also heard similar stories of <<stalin>> and <<mao-zedong>> when they would retreat from the public eye for a while.
-
 [[vissarion]]
-.https://www.youtube.com/watch?v=W2Cv5hZfOmk&t=1177
+.https://www.youtube.com/watch?v=W2Cv5hZfOmk&t=1177 Siberian Cult Leader Thinks He's Jesus by VICE (2012) In this documentary, which VICE was allowed to visit and interview <<russia,Siberian>> prophet https://en.wikipedia.org/wiki/Vissarion[Vissarion] (real name Sergey Anatolyevitch Torop Серге́й Анато́льевич То́роп, AKA "The Russian Jesus"), and they note how well he controlled his appearance. Ciro also heard similar stories of <<stalin>> and <<mao-zedong>> when they would retreat from the public eye for a while. Part of appearance control generally requires you to select select <<membership-rivalry-orange-papers,cult members of the inner circle>> to act for you, so you can minimize your surface of errors. This in exchange gives them greater status in the community.
 video::W2Cv5hZfOmk[youtube,height=400,width=600,start=1177]
 
 [[different-levels-of-truth]]
-====== Different levels of truth (不同层次的真相, Orange Papers, 橙色文件)
+====== Different levels of truth (Orange Papers, 不同层次的真相, 橙色文件)
 
 https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-cult_q3.html#cq_levels_of_truth
 
@@ -7794,14 +7783,14 @@ Some other cults that come to mind:
 * https://en.wikipedia.org/wiki/School_of_Philosophy_and_Economic_Science[] just check that name. Sounds like a regular economy school, right?
 
 [[the-group-is-the-only-way]]
-====== Insistence that the group is THE ONLY WAY (坚持他们的团体是唯一的方式生活, Orange Papers, 橙色文件)
+====== Insistence that the group is THE ONLY WAY (Orange Papers, 坚持他们的团体是唯一的方式生活, 橙色文件)
 
 https://web.archive.org/web/20160203122607/http://www.orange-papers.org/orange-cult_q1.html#cq_only_way
 
 <<ccp>>'s version: <<if-you-are-against-the-ccp-then-you-are-against-china>>.
 
 [[no-humour]]
-====== No humour (不能有幽默, Orange Papers, 橙色文件)
+====== No humour (Orange Papers, 不能有幽默, 橙色文件)
 
 https://web.archive.org/web/20160303185341/http://www.orange-papers.org/orange-cult_q2.html#cq_no_humor
 
@@ -7811,6 +7800,74 @@ Basically exactly what is mentioned at <<funny>>. Notably:
 * making fun of <<li-hongzhi>> is not allowed for <<falun-gong>> believers
 
 So we go ahead and make fun of both.
+
+[[promised-powers-or-knowledge]]
+====== Promised Powers or Knowledge (Orange Papers, 应许的功能或知识, 橙色文件)
+
+* "Promised Powers or Knowledge": https://web.archive.org/web/20160114213408/http://www.orange-papers.org/orange-cult_q7.html#cq_promises
+* "It's a con. You don't get the promised goodies": https://web.archive.org/web/20160114213408/http://www.orange-papers.org/orange-cult_q7.html#cq_con
+
+Many/most Falun Gong believers believe that:
+
+* <<flg-medication,Falun Gong has curative and general health benefits>>
+* you will be saved in a soon-to-come-but-that-actually-never-really-comes <<flg-religion,Judgement Day like event>>
+* some believers who practice really well can also get some "supernatural powers" (功能), but not everyone develops them. Luckily only so many people are that manipulable to believe they have obtained superpowers!
++
+But of course, you are <<flg-verifiable,not allowed to just show your powers to other people, and most of all not to "ordinary people">> of course, because "reasons"
++
+From <<flg-canon>> https://falundafa.org/eng/eng/zfl_34.htm[]:
++
+[[flg-supernatural-powers]]
+____
+What will one develop in the course of his cultivation? He will develop supernatural powers which are called supernormal capabilities for short.
+
+Do you want to use them among ordinary people? You are absolutely not allowed to use them among ordinary people at will.
+____
+
+But in the end, since  <<flg-fake,everything is fake>>, there is only one reward that you can possibly get if you are both lucky and crazy hard working: <<membership-rivalry-orange-papers,some attention from the master>>.
+
+See also:
+
+* <<amazing-cultivation-simulator-review-by-ssethtzeentach-2021,Amazing Cultivation Simulator review by SsethTzeentach (2021) (了不起的修仙模拟器)>>
+
+[[making-cult-members-work-long-hours-for-free]]
+====== Making cult members work long hours for free (Orange papers, 让信徒免费长时间工作, 橙色文件)
+
+https://web.archive.org/web/20160304200219/http://www.orange-papers.org/orange-cult_q9.html#cq_work4free
+
+Many Falun Gong members work long long hours for free to help spread their religion, either by:
+
+* <<falun-gong-preaching,preaching on the streets by giving out leaflets or demonstrating their exercise>>
+* working for <<falun-gong-media>>
+
+because spreading those are religious obligations.
+
+But on the other hand, why wouldn't do that if you believed that there is a <<li-hongzhi,living god on our Earth which most "ordinary people" don't know about>>, and that you are saving people's souls? If a religion doesn't make you do things for it, that belief is useless. In the case of Christianity however this is possibly in part linked to the https://en.wikipedia.org/wiki/Evangelicalism[Evangelical] belief of https://en.wikipedia.org/wiki/Sola_gratia[salvation by grace alone]. Quite convenient right, you don't really have to do anything concrete to be saved, only believe and repent.
+
+Furthermore, a very similar mindset is present in entrepreneurs, who are often driven to do long long work for an ideal. Sometimes, e.g. in <<ciro-santilli>>'s case, even to make https://cirosantilli.com/ourbigbook-com[a not-for-profit].
+
+And Ciro Santilli's mother would spend countless hours helping the less fortunate after her retirement in activities semi-linked to her Protestant church.
+
+So this point is not so simple to criticize.
+
+But it is sad to watch people waste their lives <<flg-fake,for something that is a lie>>.
+
+[[membership-rivalry-orange-papers]]
+====== Membership Rivalry (Orange papers, 让信徒免费长时间工作, 橙色文件)
+
+https://web.archive.org/web/20160304132516/http://www.orange-papers.org/orange-cult_q7.html#cq_member_rivalry
+
+While <<ciro-santilli>> hasn't personally witnessed any malicious internal competition in Falun Gong, this does make the more interesting point that:
+
+____
+Members vie with one another for the <<li-hongzhi,guru>>'s attention, and for status within the group. Everyone is trying to become part of the favored inner circle. The leader plays the members off against each other in order to maintain his hold over the cult.
+____
+
+and this is very true. Because since you, <<flg-fake,everything is a lie>> you <<promised-powers-or-knowledge,don't get the promised goods>>, and the only thing that is left for you to actually get is the guru's attention and the social status associated with it.
+
+The inner circle status mechanic is also closed related to <<careful-control-of-your-image>>, see the <<vissarion,Vissarion>> video.
+
+Some inner circle mechanics are also well shown in <<wild-wild-country-2017>> through Sheela.
 
 [[flg-canon]]
 === Canonical Falun Gong texts (法轮功的经典著作)
@@ -8015,14 +8072,14 @@ The problem in <<dictatorship,dictatorships>> is that the people have no power a
 
 The excuse that "we have to do this to follow Chinese law in order to operate in China", is exactly what all <<western-companies-that-comply-with-chinese-censorship-requests>> do. If Chinese law mandated killing Jews, they would likely comply.
 
-The trick though is to delegate the dirty work to Chinese branches and employees, as a way to distance themselves from the activity. This is also generally a regulartory requirement of the Chinese government however.
+The trick though is to delegate the dirty work to Chinese branches and employees, as a way to distance themselves from the activity. This is also generally a regulatory requirement of the Chinese government however.
 
 [[flg-fake]]
 === Falun Gong is fake (法轮功是假的)
 
 The same can be argued about any other religion or political belief of type: it is better if we organize society in this or that way.
 
-How can you disprove their belief, when as in any other religion, every affirmation made hinges on "miracles only happen around when true believers are around" or "only true believers can perceive evidence in their hearts / minds directly". He died of cancer or <<covid>>? Not a true believer, deep withing his heart, something was wrong.
+How can you disprove their belief, when as in any other religion, every affirmation made hinges on "miracles only happen around when true believers are around" or "only true believers can perceive evidence in their hearts / minds directly". He died of cancer or <<covid>>? Not a true believer, deep withing his heart, something was wrong. See also: <<flg-verifiable>>.
 
 Conversely, do you understand the full sequence of experiments that imply quantum field theory? Have you seen videos of those experiments? Have you attended live demonstrations? Do you understand the construction of the experimentation apparatus? Yet, why do you believe it?
 
@@ -8756,7 +8813,7 @@ video::kIpaDW3RwtY[youtube,height=400,width=600,start=244]
 See also: <<honour-suicides-in-chinese-history>>.
 
 [[falun-gongs-view-of-epidemics]]
-===== Falun Gong's view of epidemics
+===== Falun Gong's view of epidemics (法轮功的流行病观)
 
 <<li-hongzhi>> has said in <<flg-canon,canon>> things that lead certain believers (including e.g. <<wife,Ciro's mother in law>>) to believe that because they are good Falun Gong believers, that they are more safe from disease from evil people.
 
@@ -8815,7 +8872,7 @@ The term "master" is also used for example in the fictional film The Master (201
 
 It's funny that even though Falun Gong only came up recently in the 80's, we still know relatively little about Li. One is kind of reminded of Jesus! See also <<li-hongzhis-family>> and <<li-hongzhis-hagiography>>.
 
-One should note however that this is partly by design: at some point in the 90's, Li relatively stepped away from public view. This is because once you reach a critical mass of followers, it is better to let them to the preaching for you, while you hide your obvious human defects in a corner. See also comments at <<vissarion>>.
+One should note however that this is partly by design: at some point in the 90's, Li relatively stepped away from public view. This is because once you reach a critical mass of followers, it is better to let them to the preaching for you, while you hide your obvious human defects in a corner. See also comments at <<vissarion,Vissarion>>.
 
 Li Hongzhi footage:
 
@@ -8947,10 +9004,20 @@ Source material: <<history-of-falun-gong>>.
 
 Related videos:
 
-* https://en.wikipedia.org/wiki/Wild_Wild_Country (2017) about https://en.wikipedia.org/wiki/Rajneesh[]. Ciro feels that Falun Gong believers would not be as open with external questioners.
-+
-But who knows. Episode 3 shows how Rajneesh implemented <<careful-control-of-your-image>>: Sheela was the front-person, and had meetings with him every evening.
-* The Master (2012)
+* https://en.wikipedia.org/wiki/The_Master_(2012_film)[The Master (2012)]
+* <<wild-wild-country-2017>>
+
+[[wild-wild-country-2017]]
+====== Wild Wild Country (2017, 大师_(电影))
+
+* https://en.wikipedia.org/wiki/Wild_Wild_Country
+* https://zh.wikipedia.org/wiki/大师_(电影)
+
+Documentary about https://en.wikipedia.org/wiki/Rajneesh[].
+
+This shows many interesting <<flg-cult,cult mechanics>>, e.g.:
+
+* <<membership-rivalry-orange-papers>>: Episode 3 shows how Rajneesh implemented <<careful-control-of-your-image>>: Sheela was the front-person, officially appointed the "secretary", and had meetings with Rajneesh every evening. This in turn gave Sheela an <<membership-rivalry-orange-papers,a greatly elevated status in the community>>.
 
 [[xi-hongzhi-and-li-jinping]]
 ====== Xi Hongzhi and Li Jinping (习洪志和李近平)
@@ -10597,6 +10664,9 @@ image::{china-dictatorship-media-base}/Tiananmen_crying_mother.webp[height=500]
 .The morning after the military crackdown of the pro-democracy protesters in Tiananmen Square, workers clean their posters from bulletin boards. Resume <<censorship>> as usual. https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary[Source].
 image::{china-dictatorship-media-base}/Tiananmen_message_board_cleanup.webp[height=500]
 
+.https://www.youtube.com/watch?v=DU-RuR-qO4Y Democracy by https://en.wikipedia.org/wiki/Leonard_Cohen[Leonard Cohen] (1992). In this interesting song, the Canadian singer suggests that after events such as the fall of the Soviet Union and <<tiananmen>>, greater freedom and democracy would actually first come to the USA, and not to those other countries, the refrain says: "Democracy is coming to the USA" and at one point "It's coming to America first". This is probably because when there is such an adversarial situation such as the cold war, it tends to also make democracies more like dictatorships, as they become readier and readier for war, and thus weakening civil rights, see e.g. https://en.wikipedia.org/wiki/McCarthyism[McCarthyism]. Related: <<evil-west>>. The song also criticizes several failures of American democracy, such as social injustice and inequality, suggesting that the newer more peaceful world would help solve them. This is a refreshing take on democracy that has gives it a <<democracy-is-a-religion,less religious view>>.
+video::DU-RuR-qO4Y[youtube,height=400,width=600]
+
 [[liubukou-massacre]]
 ===== Liubukou massacre (六部口惨案)
 
@@ -11814,11 +11884,19 @@ A great example of how <<falun-gong>> is <<flg-organized,highly organized>>.
 
 Likely highly de-facto controlled by <<li-hongzhi>>, and extremely <<flg-transparent,lacking clear full disclosure of their affiliation>>.
 
-For example, Li refers to Falun Gong media as "our media" in <<flg-canon>>, e.g.: https://falundafa.org/eng/eng/lectures/20090606L.html[].
+For example, Li refers to Falun Gong media as "our media" in <<flg-canon>>, and has given many many talks in gatherings specific to those media. E.g. in the https://falundafa.org/eng/eng/lectures/20090606L.html[Fa Teaching Given at the NTDTV Meeting (2009)]:
+
+_____
+<<making-cult-members-work-long-hours-for-free,You have really been working hard>>. [...]
+
+You have your path, while human beings have their affairs. You have things that you need to do. Don’t give any concern or attention to political things or what happens between parties. Of course, our media don’t really have a choice about reporting on it, since those are probably things that ordinary people are interested in.
+_____
 
 It could be argued that those media are not "directly" controlled by Li Hongzhi, and Ciro does believe that they were created independently of him initially.
 
-But without doubt they are controlled by his devout followers, and if Li Hongzhi ever gave directions, which Ciro has no proof he has ever done, then those media would follow.
+But without doubt they are controlled by his top followers, and if Li Hongzhi ever gave directions, which Ciro has no proof he has ever done, then those media would follow.
+
+And since Li has given such direct endorsement to it, contributing has become a de-facto religious obligation, and one which constitutes a great part of <<making-cult-members-work-long-hours-for-free>>.
 
 Ciro believes without evidence that Li Hongzhi gives specific directives to the top tenants of those organizations from time to time when important issues arise. Ciro believes that one of such issues is the support of Donald Trump: <<flg-trump>>.
 
@@ -14498,7 +14576,8 @@ Douyin does not seem to have a web interface: https://www.zhihu.com/question/269
 [[baidu]]
 === Baidu (百度, Chinese Google)
 
-https://en.wikipedia.org/wiki/Baidu
+* https://en.wikipedia.org/wiki/Baidu
+* https://zh.wikipedia.org/wiki/百度
 
 The "Google of China":
 
@@ -14781,6 +14860,27 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2022-01-15 https://web.archive.org/web/20220120082147/https://wirechan.org/b/ | https://archive.ph/BkjAj in an independent and not very popular Chan, the post basically quotes https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/288497#288497[]
++
+____
+mood: being so autistic that you single-handedly managed to get StackOverflow blocked in China by posting Xi Jinping Winnie the Pooh memes
+____
++
+____
+Ciro also has a very interesting website, with many articles arranged in a tree.
+____
++
+Yes, go https://cirosantilli.com/ourbigbook-com[ourbigbook.com], go. Then links to https://cirosantilli.com/ascii-porn[], which is one of the major Google hits of the website at the time, and presumably how OP learned about Ciro.
++
+The other reply was:
++
+____
+
+Wow, that website really is something. But I like Ciro Santilli's advice on how to learn programming.
+____
++
+referring to: https://cirosantilli.com/how-to-become-a-good-programmer
+* 2022-01-14 https://mg.h6ee.com to cirosantilli.com/china-dictatorship redirects to a Chinese login page http://mg.h6ee.com/admin/public/login.html[] with no affiliation. Suspicious stuff. Debug thingy at the bottom shows some internals, e.g. SQL query doing `SHOW COLUMNS FROM cmf_hook_plugin`.
 * 2021-12-22 https://cirosantilli-realworld-next.herokuapp.com/ https://archive.ph/wip/EVcUw added two messages "这个网站也是王八操的搞得，操你妈得大傻逼。狗腿子汉奸孤儿" and "访问太频繁服务器受不了啦🏦，请使用微信搜索「沙雕APP」使用小程序体验，没有访问限制" That website has no signup verification mechanism, users can just spam it at will. Would be good to log some IPs to start with. Can't store in a database because we are capped at 10k DB rows on the free plan.
 * 2021-12-21 https://codeforces.com/blog/entry/98165?locale=en a Russian online judge: "BTW, I'm not sure if these two things are related, but HDU's online judge system(http://acm.hdu.edu.cn) was shut down in last week. The site administrator said the reason for the shutdown was that a user's username violated Chinese law..." to which "TwentyOneHundredOrBust" replied "this sounds like a job for ciro santilli"
 * 2021 https://hub.xn--p8jhe.tw/ to https://github.com/cirosantilli/cirosantilli[] which redirects to https://www.library.ac.cn/ip.html?=iwikie "Your IP is not allowed to visit this site. This site is only available in Mainland China." which is a mirror list as mentioned at <<google-mirrors>>.
@@ -15024,7 +15124,10 @@ Then, you can start Googling by instrument. The main four instruments are undoub
 
 * https://en.wikipedia.org/wiki/Guqin[Guqin]
 * https://en.wikipedia.org/wiki/Pipa[Pipa]
+** <<white-snow-in-sunny-spring>>
 * https://en.wikipedia.org/wiki/Guzheng[Guzheng]
+** <<high-mountain-and-running-river>>
+** <<ambush-from-ten-sides>>
 * https://en.wikipedia.org/wiki/Erhu[Erhu]
 ** <<suwu>> hearding sheep (苏武牧羊) by Erhu virtuosa Song Fei (https://zh.wikipedia.org/wiki/宋飛[宋飛]): https://www.youtube.com/watch?v=uakOkv341P8
 
@@ -15053,6 +15156,26 @@ If you find album cover pictures on Google images, the ISRC should be somewhere 
 Other good lists:
 
 * https://www.quora.com/What-are-some-good-Chinese-classical-instrumental-album
+
+[[the-ten-ancient-famous-songs]]
+=== The ten ancient famous songs (中国古典十大名曲)
+
+https://baike.baidu.com/item/中国古典十大名曲/105343
+
+[[high-mountain-and-running-river]]
+==== High Mountain and Running River (高山流水)
+
+.https://www.youtube.com/watch?v=WbCjceRPXyw White snow in sunny spring for Guzheng performed by Xiang Sih-Hua (項斯華) in 2000
+video::WbCjceRPXyw[youtube,height=400,width=600]
+
+[[white-snow-in-sunny-spring]]
+==== White snow in sunny spring (阳春白雪)
+
+.https://www.youtube.com/watch?v=1Z-NLqbb8xA White snow in sunny spring for Pipa performed by Wu Man in 2020 at The Kennedy Center
+video::1Z-NLqbb8xA[youtube,height=400,width=600]
+
+[[ambush-from-ten-sides]]
+==== Ambush from ten sides (十面埋伏)
 
 [[music-free]]
 === Free music (免费音乐)
@@ -16090,6 +16213,12 @@ Exits through: <<shandong>>, south of Beijing.
 
 This is a good province map: http://web.archive.org/web/20170910104718/http://cdn.topchinatravel.com/tct/pic/maps/china-map/china-tourist-map.jpg
 
+=== How to people look like in different provinces of China?
+
+TODO failed to find an amazing post, the best ones I've found so far:
+
+* https://zhuanlan.zhihu.com/p/45930479
+
 [[gansu]]
 ==== Gansu Province (甘肃, gan1 su4)
 
@@ -16112,11 +16241,28 @@ This video also makes it clear why the <<yellow-river>> is called "Yellow River"
 
 Well known for <<lamian>>.
 
+[[guangdong]]
+==== Guangdong Province (广东省, Canton)
+
+* https://en.wikipedia.org/wiki/Guangxi
+* https://zh.wikipedia.org/wiki/广东省
+
+Literally: "at the East of the Expanse". TODO why expanse?
+
+Capital: <<guangzhou>>.
+
+[[guangzhou]]
+===== Guangzhou (广州)
+
+Capital of <<guangdong>>, lit. "city the Expanse. 120km from <<hong-kong>>.
+
 [[guangxi]]
-==== Guangxi Province (广西省)
+==== Guangxi Province (广西壮族自治区, Guangxi Zhuang Autonomous Region)
 
 * https://en.wikipedia.org/wiki/Guangxi
 * https://zh.wikipedia.org/wiki/广西壮族自治区
+
+This is an "autonomous region" of the Zhuang ethnic minority.
 
 [[liaoning]]
 ==== Liaoning Province (辽宁省)
@@ -16216,6 +16362,51 @@ The name refers to it being East of the <<taihang-mountains>>.
 ==== Shanxi Province (山西省)
 
 The name refers to it being West of the <<taihang-mountains>>.
+
+[[chinese-languages]]
+== Chinese languages (汉语)
+
+* https://en.wikipedia.org/wiki/Chinese_language
+* https://zh.wikipedia.org/wiki/汉语
+
+.Map of sinitic languages. https://en.wikipedia.org/wiki/File:Map_of_sinitic_languages_full-en.svg[Source].
+image::https://upload.wikimedia.org/wikipedia/commons/a/a9/Map_of_sinitic_languages_full-en.svg[height=600]
+
+[[cantonese]]
+=== Cantonese (广东话)
+
+Spoken in <<guangdong>> unsurprisingly.
+
+Interintelligibility of written text with Mandarin:
+
+* https://www.reddit.com/r/languagelearning/comments/a0vkls/if_you_learn_to_read_mandarin_will_you_also_be/
+
+They don't have a standardized pinyin/romanization/transliteration, it is quite insane:
+
+* https://en.wikipedia.org/wiki/Cantonese_Transliteration_Scheme
+* https://en.wikipedia.org/wiki/Hong_Kong_Government_Cantonese_Romanisation
+* https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese
+* https://en.wikipedia.org/wiki/Cantonese_Pinyin
+* https://en.wikipedia.org/wiki/Jyutping
+
+but most schemes are quite similar it seems.
+
+6 tones, though average speakers themselves can't tell the tone of each character because it is not taught in school: https://www.linkedin.com/pulse/cantonese-tones-explained-nicholas-angiers/[].
+
+They actually have two different rising and thre different level tones, which is completely insane, how can you differentiate that??
+
+Some people count 9 due to sillables that end in p, t or k and which can only have 3 of the previous 6, but better just group those three with the corresponding of the other 6.
+
+No "turn around the middle" tones though. So a common notation is start point to end point:
+
+* 55 high level
+* 35 mid rising
+* 33 mid level
+* 21 low falling
+* 22 low level
+* 23 low rising
+
+There was also a high falling 52/53 but it merged with 55 in Hong Kong, so it is not normally noted anymore.
 
 [[chinese-cheatsheet]]
 == Chinese cheatsheet (中文备忘单)
