@@ -434,6 +434,7 @@ Mentioned in other sections:
 ** https://github.com/evil-huawei/evil-huawei
 ** https://github.com/HuaweiJoke/Huawei-Joke
 * https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo from <<fuck-xuexiqiangguo>>
+** https://github.com/IanSmith123/ucas-covid19
 * from <<metoo>>
 ** https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md see <<yue-xin>>
 ** https://github.com/CNwoman-bot/evil-man from <<evil-man>>
@@ -3486,13 +3487,13 @@ It should also be mentioned that Ciro also feels that it would be better if all 
 [[chinese-characters-are-insane]]
 ===== Chinese characters are insane (汉字是疯狂的)
 
-Maybe the commies for once <<richer,did something good>> by introducing https://en.wikipedia.org/wiki/Simplified_Chinese_characters[simplified Chinese characters (简化字)]?
+Maybe the <<ccp,commies>> for once <<richer,did something good>> by introducing https://en.wikipedia.org/wiki/Simplified_Chinese_characters[simplified Chinese characters (简化字)]?
 
 But they should have gone further and reduced it to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export.
 
 No foreign adult will every learn to read and write Chinese unless they are completely obsessed by the culture or need it as part of their jobs. And even then, they will avoid it at all costs, because life is just too short!
 
-Japanese https://en.wikipedia.org/wiki/Furigana[furigana] also comes to mind. The characters are so insane that you need a well specified and widely used phonetic reading aid!
+Japanese https://en.wikipedia.org/wiki/Furigana[furigana] also comes to mind. The characters are so insane that you need to a well specified and widely used phonetic reading aid, especially for teenagers, but likely not only in case of rarer characters!
 
 Yes, ideograms are:
 
@@ -3511,6 +3512,8 @@ Yes, ideograms are:
 but they just take too much time for any sane person adult to learn, it's harder than {cpp}!
 
 <<ciro-santilli>> smirked when he came across the character "蒄" in Pleco, and the translation was: "meaning unknown (herb mentioned in old books)". Yes, at the word level, the same like exists in phonetic systems, but that it takes up a modern dictionary and Unicode slot is still funny.
+
+He also smiles very broadly whenever <<wife,his wife>> finds a character she doesn't remember. Or when she spends 20 seconds tabbing to find the correct character for some Proper name she wants to type in pinyin. It feels good to be right.
 
 Posts that express similar ideas:
 
@@ -4970,11 +4973,12 @@ Ciro is actually the lucky one for having found her!
 The fake "the woman makes the man" Obama story comes to mind https://www.snopes.com/fact-check/spousal-success-story/[] (Obama would never say that in public):
 
 ____
-
 One night President Obama and his wife Michelle decided to do something out of routine and go for a casual dinner at a restaurant that wasn't too luxurious. When they were seated, the owner of the restaurant asked the President's Secret Service if he could please speak to the First Lady in private. They obliged and Michelle had a conversation with the owner.
 
 Following this conversation President Obama asked Michelle, "Why was he so interested in talking to you?" She mentioned that in her teenage years, he had been madly in love with her. President Obama then said, "So if you had married him, you would now be the owner of this lovely restaurant," to which Michelle responded, "No. If I had married him, he would now be the President."
 ____
+
+Less "China-related" remarks at: https://cirosantilli.com/ciro-santilli-s-wife
 
 [[how-do-different-websites-view-ciro-santilli-s-profile]]
 === How do different websites view Ciro Santilli's profile? (不同的网站如何看来 Ciro Santilli 的个人资料？)
@@ -10020,10 +10024,11 @@ The repository was created by Tang Wenzheng (唐文正, <<github>> alias https:/
 
 Wenzheng was also involved in a notable possible copyright dispute with https://musescore.org/en[], a software that Ciro actually enjoyed, as shown at https://github.com/Xmader/musescore-downloader/issues/5#issuecomment-882472815 which was then highlighted at https://www.reddit.com/r/linux/comments/onro8q/head_of_strategy_of_muse_group_muse_score/[]. At https://web.archive.org/web/20210719115639if_/https://github.com/Xmader/musescore-downloader/issues/5#issuecomment-882450335 the developer noted that this could lead to Xmader's deportation. Some interpreted this as threat, but Ciro feels that it might be true as the developers noted that they withheld action for a while to prevent his deportation.
 
-Related projects to cheat other stupid things:
+Related projects to cheat other stupid things imposed by the CCP's bureaucracy:
 
 * https://github.com/v2018z/studyxixi also to cheat Qiang Guo
 * https://github.com/838239178/tk-auto-study to cheat the <<fujian>> <<youth-learning>>
+* https://github.com/IanSmith123/ucas-covid19[]: some COVID form filling
 
 .Fuck-XueXiQiangGuo 2021 GitHub page screenshot with stars highlighted. 7k stars on a Chinese-only repository is a lot of stars, and very unlikely to be faked. This is what you should show <<wumao,wumaos>> when they that no Chinese person opposes the <<ccp>>.
 image::{china-dictatorship-media-base}/Fuck-XueXiQiangGuo_2021_GitHub_page_screenshot_with_stars_highlighted.png[height=650]
@@ -13222,6 +13227,20 @@ But remember that if you archive too many in a very quick succession before the 
 
 This happened to Ciro in 2020-06-14, but then he emailed the admins as mentioned at: https://help.archive.org/hc/en-us/articles/360016379432-Accounts-Tips-Troubleshooting- and they re-enabled it.
 
+As of 2021, it annoys Ciro very much that you have to wait for a few minutes for the archived page to become visible. That's an eternity when you are writting a text and need to link to an archive.
+
+It is also extremelly annoying that they sometimes change image URLs randomly after they've become visible. Why is that? E.g. Ciro saw breaks between different timestamps:
+
+* https://web.archive.org/web/20220125110448im_/http://bitfossil.org/81f6d302a0ed4ffefa674834d0c4a02cdc6639f213713d48946225956fc96d85/WeAreStarStuff.jpg was working but stopped
+* https://web.archive.org/web/20220125210751if_/http://bitfossil.org/81f6d302a0ed4ffefa674834d0c4a02cdc6639f213713d48946225956fc96d85/WeAreStarStuff.jpg was working
+
+and aso betweeen `im` vs `if` as in:
+
+* https://web.archive.org/web/20220125112530im_/http://bitfossil.org/86a0e565ba2698d4abc03253b9de47e88d3de4f62ee90722e6e7845a1c8e3aa7/HugPuddle.jpg
+* https://web.archive.org/web/20220125112531if_/http://bitfossil.org/86a0e565ba2698d4abc03253b9de47e88d3de4f62ee90722e6e7845a1c8e3aa7/HugPuddle.jpg
+
+so it is just not reliable enough to use generally.
+
 It is possible to request social media pages you own to be removed from the archive in some circumstances: https://webapps.stackexchange.com/questions/143529/is-it-possible-to-request-to-remove-page-snapshots-from-a-personal-social-media
 
 Some website specific techniques:
@@ -14860,6 +14879,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2022-01-31 https://gall.dcinside.com/mgallery/board/view/?id=aoegame&no=20186832 Korean forum originally about photography: https://en.wikipedia.org/wiki/DC_Inside Wrongly suggests that this repository is made by Chinese/Taiwanese people: <<is-ciro-santilli-chinese>> but no patience to create an account there now
 * 2022-01-15 https://web.archive.org/web/20220120082147/https://wirechan.org/b/ | https://archive.ph/BkjAj in an independent and not very popular Chan, the post basically quotes https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/288497#288497[]
 +
 ____
@@ -14884,7 +14904,7 @@ referring to: https://cirosantilli.com/how-to-become-a-good-programmer
 * 2021-12-22 https://cirosantilli-realworld-next.herokuapp.com/ https://archive.ph/wip/EVcUw added two messages "这个网站也是王八操的搞得，操你妈得大傻逼。狗腿子汉奸孤儿" and "访问太频繁服务器受不了啦🏦，请使用微信搜索「沙雕APP」使用小程序体验，没有访问限制" That website has no signup verification mechanism, users can just spam it at will. Would be good to log some IPs to start with. Can't store in a database because we are capped at 10k DB rows on the free plan.
 * 2021-12-21 https://codeforces.com/blog/entry/98165?locale=en a Russian online judge: "BTW, I'm not sure if these two things are related, but HDU's online judge system(http://acm.hdu.edu.cn) was shut down in last week. The site administrator said the reason for the shutdown was that a user's username violated Chinese law..." to which "TwentyOneHundredOrBust" replied "this sounds like a job for ciro santilli"
 * 2021 https://hub.xn--p8jhe.tw/ to https://github.com/cirosantilli/cirosantilli[] which redirects to https://www.library.ac.cn/ip.html?=iwikie "Your IP is not allowed to visit this site. This site is only available in Mainland China." which is a mirror list as mentioned at <<google-mirrors>>.
-* 2021-11-14 https://www.chinesehongker.com/forum.php?mod=viewthread&tid=14153&extra=page%3D1&ordertype=1&mobile=2 Appears not visible outsie of China. From http://webcache.googleusercontent.com/search?q=cache:8bAWUrdhbNYJ:https://www.chinesehongker.com/forum.php?mod%3Dviewthread%26tid%3D14153%26extra%3Dpage%253D1%26ordertype%3D1%26mobile%3D2&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW&client=ubuntu&hl=en&gl=uk&tbs=lr:lang_1en%7Clang_1zh-CN%7Clang_1zh-TW&strip=1&vwsrc=0[Google cache] (https://archive.ph/wip/Z6EGq[archive]). Title: 对于github上的非法项目，如何合理的消灭 Content: https://github.com/cirosantilli 今天无意间搜到一个湾毒的github，有哪位大佬可以解决该问题吗 Just your usual <<disturbs>> wumao bullshit. The forum claims to be part of the Honker Union hacktivist group, bring it on:
+* 2021-11-14 https://www.chinesehongker.com/forum.php?mod=viewthread&tid=14153&extra=page%3D1&ordertype=1&mobile=2 Appears not visible outsie of China. From http://webcache.googleusercontent.com/search?q=cache:8bAWUrdhbNYJ:https://www.chinesehongker.com/forum.php?mod%3Dviewthread%26tid%3D14153%26extra%3Dpage%253D1%26ordertype%3D1%26mobile%3D2&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW&client=ubuntu&hl=en&gl=uk&tbs=lr:lang_1en%7Clang_1zh-CN%7Clang_1zh-TW&strip=1&vwsrc=0[Google cache] (https://archive.ph/wip/Z6EGq[archive]). Title: 对于github上的非法项目，如何合理的消灭 Content: https://github.com/cirosantilli 今天无意间搜到一个湾毒的github，有哪位大佬可以解决该问题吗 Just your usual <<disturbs>> wumao bullshit. Edit: found viewable version at: https://www.chinesehongker.com/forum.php?mod=viewthread&tid=14153[] The forum claims to be part of the Honker Union hacktivist group, bring it on:
 ** https://en.wikipedia.org/wiki/Honker_Union
 ** https://zh.wikipedia.org/wiki/红客
 * 2021-11-07 https://news.ycombinator.com/item?id=29149054 failed hacker news thread. By https://afshin.io/ Afshin Mehrabani, originally from <<iran>>, and then moved to Dublin.
@@ -15293,14 +15313,55 @@ Everything under: <<the-best-chinese-supermarket-food-products>>
 
 Then dishes:
 
-* shui zhu niu rou
-* shui zhu yu
-* hui guo rou
-* mei cai kou rou
+* 水煮牛肉 shui zhu niu rou, lit. "beef cooked in water" (and a ton of chillies)
+* 水煮鱼 shui zhu yu, lit. lit. "fish cooked in water" (and also a ton of chillies)
+** https://zh.wikipedia.org/wiki/水煮鱼
+* 回锅肉 hui guo rou, lit. "meat that goes back to the pan", because you first cook it, then stir fry
+** https://zh.wikipedia.org/wiki/回锅肉
+** https://en.wikipedia.org/wiki/Twice-cooked_pork
+* 梅菜扣肉 mei cai kou rou, lit. "steamed pork with https://en.wikipedia.org/wiki/Meigan_cai[Meigan cai]"
+** https://zh.wikipedia.org/wiki/扣肉
 * jian bing guo zi
-* kou shui ji
+* 口水鸡 kou shui ji, lit. Mouth-watering chicken
+** https://zh.wikipedia.org/wiki/口水雞
+
+Tier 2, also amazing, just not as mind blowing:
+
+*  鍋包肉 guo bao rou, lit. "meat wrapped in the pan"
+** https://zh.wikipedia.org/wiki/锅包肉
+** https://en.wikipedia.org/wiki/Sweet_and_sour#Guo_bao_rou
+* 夫妻肺片 fu qi fei pian, lit. "husband and wife lung slices". But don't worry, there's no actual lung in it, but .
+** https://zh.wikipedia.org/wiki/夫妻肺片
+** https://en.wikipedia.org/wiki/Fuqi_feipian
+* <<daikon-pork-rib-soup>>
+* 麻辣香鍋 ma la xiang guo，lit. "spicy and tongue numbing fragrant pan"
+** https://en.wikipedia.org/wiki/Mala_xiang_guo
+** https://zh.wikipedia.org/wiki/麻辣香鍋
 
 There are also many amazing pasta dishes, although many are not so clearly named, and quality variability is also very large.
+
+[[eight-cuisines-of-china]]
+=== Eight Cuisines of China (八大菜系)
+
+* https://en.wikipedia.org/wiki/Chinese_regional_cuisine#Eight_Great_Traditions
+* https://zh.wikipedia.org/wiki/中國菜系#四大菜系之說
+
+Basically:
+
+* one for every province around Shanghai, those names that <<ciro-santilli>> can never remember which one is which:
+** Fujian
+** Jiangsu
+** Anhui
+** Zhejiang
+
+and then some more distinct ones:
+
+* Hunan
+* Sichuan
+* Cantonese
+* Shandong
+
+but these 8 are of course not all inclusive at all, e.g. some notable ones even Ciro knows about include: Beijing, Guizhou and https://en.wikipedia.org/wiki/Northeastern_Chinese_cuisine[Northeastern].
 
 [[the-best-chinese-supermarket-food-products]]
 == The best Chinese supermarket food products (中国超市食物)
@@ -16383,19 +16444,19 @@ Interintelligibility of written text with Mandarin:
 
 They don't have a standardized pinyin/romanization/transliteration, it is quite insane:
 
+* https://en.wikipedia.org/wiki/Jyutping (https://zh-yue.wikipedia.org/wiki/香港語言學學會粵語拼音方案[], 粵拼) this appears to be the dominating one, at least it is on Wikipedia. So I'm in for it.
 * https://en.wikipedia.org/wiki/Cantonese_Transliteration_Scheme
 * https://en.wikipedia.org/wiki/Hong_Kong_Government_Cantonese_Romanisation
 * https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese
 * https://en.wikipedia.org/wiki/Cantonese_Pinyin
-* https://en.wikipedia.org/wiki/Jyutping
 
 but most schemes are quite similar it seems.
 
 6 tones, though average speakers themselves can't tell the tone of each character because it is not taught in school: https://www.linkedin.com/pulse/cantonese-tones-explained-nicholas-angiers/[].
 
-They actually have two different rising and thre different level tones, which is completely insane, how can you differentiate that??
+They actually have two different rising and three different level tones, which is completely insane, how can you differentiate that??
 
-Some people count 9 due to sillables that end in p, t or k and which can only have 3 of the previous 6, but better just group those three with the corresponding of the other 6.
+Some people count 9 due to syllables that end in p, t or k and which can only have 3 of the previous 6, but better just group those three with the corresponding of the other 6.
 
 No "turn around the middle" tones though. So a common notation is start point to end point:
 
