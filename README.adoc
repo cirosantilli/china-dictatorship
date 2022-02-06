@@ -248,10 +248,11 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 * https://bitbucket.org/cirosantilli/china-dictatorship
 * https://gitlab.binets.fr/ciro.duran-santilli/china-dictatorship[]: a GitLab instance run by and reserved for students and ex-students of https://en.wikipedia.org/wiki/École_Polytechnique[École Polytechnique], in which Ciro Santilli previously studied. They also have a few Chinese students every year, that's how Ciro met <<wife>>, it will be fun when those students see this.
 
-Mirrors controlled by other people:
+Mirrors controlled by other people, thus forming a type of <<samizdat>>:
 
 * https://git.kiwifarms.net/CrunkLord420/china-dictatorship auto-pull Gitea mirror on https://en.wikipedia.org/wiki/Kiwi_Farms[Kiwi Farms], a <<politically-incorrect,politically incorrect>> social network website
-* https://china.vkoor.com/ presumably by https://github.com/Vkoor[] who is a collaborator os this project, e.g. https://github.com/cirosantilli/china-dictatorship/issues/533[]. They're also hosting a search engine proxy at https://www.vkoor.com/[], TODO Google? See also: <<google-mirrors>>.
+* https://china.vkoor.com/ presumably by https://github.com/Vkoor[] who is a collaborator of this project, e.g. https://github.com/cirosantilli/china-dictatorship/issues/533[]. They're also hosting a search engine proxy at https://www.vkoor.com/[], TODO Google? See also: <<google-mirrors>>.
+* https://github.com/cheezcharmer/chinese-dictatorship[]: Ciro likes that this due actually changed the repository title, thus making it harder to auto-censor everything in one go
 
 GitHub Pages: https://cirosantilli.com/china-dictatorship trade-offs with https://github.com/cirosantilli/china-dictatorship[]:
 
@@ -260,7 +261,7 @@ GitHub Pages: https://cirosantilli.com/china-dictatorship trade-offs with https:
 ** https://help.github.com/en/github/authenticating-to-github/about-anonymized-image-urls[GitHub's camo] keeps hiccuping and not showing images
 ** and YouTube videos show inline there
 * cons
-** domain will eventually get blocked in China. <<greatfire>> https://zh.greatfire.org/https/cirosantilli.com shows that in 2020-01-19 the domain was unblocked, but on the next text at 2020-05-23 it was "contractictory".
+** domain will eventually get blocked in China. <<greatfire>> https://zh.greatfire.org/https/cirosantilli.com shows that in 2020-01-19 the domain was unblocked, but on the next text at 2020-05-23 it was "contradictory".
 ** Camo bypasses the need for VPN, since most images are served from <<wayback-machine>> which is <<censorship,blocked in China>>.
 
 It is really interesting to see how many people star the GitHub repository, and then a few minutes later they think about how they might get put in jail, and then unstar it. Talk about <<chilling-effect>>! But yes, for the love of God, please stay safe: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
@@ -899,6 +900,8 @@ Related:
 
 Blockchain technologies, such as Bitcoin, provide essentially uncensorable (at a transaction cost), because the messages are put together with financial transactions which are extremely valuable to its users.
 
+As mentioned by Dan Kaminsky at: https://cirosantilli.com/cool-data-embedded-in-the-bitcoin-blockchain/len-sassaman-tribute#video-black-ops-of-tcp-ip-by-dan-kaminsky-2011 this forms a type of <<samizdat>>.
+
 Services that can be used to easily view this data online include:
 
 * http://bitfossil.org/ is a website that indexes especially formatted images uploaded to the blockchaian.
@@ -1497,8 +1500,8 @@ ____
 
 When China <<evil-west,calls the USA Imperialist>> (帝国主义), there is of course some truth to it, but it is also very ironic, because as https://youtu.be/GiVs05yq9-o?t=74[Lindybeige mentions], China is obviously the largest empire on Earth! Despite its <<xinjiang,uniformization>> efforts, China is highly diverse since it is obviously made up of a https://en.wikipedia.org/wiki/List_of_ethnic_groups_in_China[large stitched up carpet of nations that were conquered by a single empire]. E.g. <<xinjiang>> translates literally as "The New Frontier"! Not to mention obviously the unification of the <<warring-states-period>>.
 
-.https://www.youtube.com/watch?v=7PhjfThj4IA Ending of the https://en.wikipedia.org/wiki/Sportpalast_speech[Sportpalast speech], AKA https://en.wikipedia.org/wiki/Total_war[total war] (https://zh.wikipedia.org/wiki/总体战[总体战]) speech by <<nazi,Goebbels>>, given in 1943, when Germany started to lose the war. This was later target of https://en.wikipedia.org/wiki/File:8th_Air_Force_psychological_warfare_leaflet.jpg[opposing allied propaganda]. Total war, that's what <<dictatorship,dictatorship>> bring you.
-video::7PhjfThj4IA[youtube,height=400,width=600]
+.https://www.youtube.com/watch?v=DRmHOSnehTk Ending of the https://en.wikipedia.org/wiki/Sportpalast_speech[Sportpalast speech], AKA https://en.wikipedia.org/wiki/Total_war[total war] (https://zh.wikipedia.org/wiki/总体战[总体战]) speech by <<nazi,Goebbels>>, given in 1943, when Germany started to lose the war. This was later target of https://en.wikipedia.org/wiki/File:8th_Air_Force_psychological_warfare_leaflet.jpg[opposing allied propaganda]. Total war, that's what <<dictatorship,dictatorship>> bring you. Fucking YouTube <<unjust-social-media-censorship-in-the-west,likely deleted>> a better uncommented version https://www.youtube.com/watch?v=DRmHOSnehTk it as of 2022, political <<politically-incorrect,correctness idiots>>.
+video::DRmHOSnehTk[youtube,height=400,width=600]
 
 [[the-united-states-has-recently-started-several-wars-and-killed-millions]]
 ===== The United States has recently started several wars and killed millions! (美国最近发动了几场战争，造成数百万人死亡！)
@@ -5449,7 +5452,7 @@ Query to find them: https://data.stackexchange.com/stackoverflow/query/312863/me
 
 ==== GitHub
 
-GiHub is the new <<xidan-democracy-wall>>! :) See also: <<meant-to-be-used>>.
+GitHub is the new <<xidan-democracy-wall>>! :) See also: <<meant-to-be-used>>.
 
 Interesting repositories are listed at: <<github-repositories-with-censored-information>>
 
@@ -5468,6 +5471,16 @@ Related:
 * <<censorship-circumvention>> contains some anti-censorship repositories
 * <<cute-cat-theory-of-digital-activism>>
 * https://www.quora.com/Is-GitHub-com-allowed-in-China/answer/Ciro-Santilli
+
+[[samizdat]]
+===== Samizdat (Soviet underground propagation of censored materials, 秘密出版物, самиздат)
+
+* https://en.wikipedia.org/wiki/Samizdat
+* https://zh.wikipedia.org/wiki/秘密出版物
+
+Part of the beauty of Git is that it makes it very easy for anyone to <<mirrors,create a new mirror of the content>>, thus forming a type of digital Samizdat.
+
+Ciro learned this term from the Bitcoin presentation by Dan Kaminsky: https://cirosantilli.com/cool-data-embedded-in-the-bitcoin-blockchain/len-sassaman-tribute#video-black-ops-of-tcp-ip-by-dan-kaminsky-2011 and Bitcoin has also been used in China, see <<bitcoin-blockchain>>
 
 [[github-report]]
 ===== How to report a user on GitHub (GitHub上怎么举报用户？)
@@ -8087,6 +8100,8 @@ How can you disprove their belief, when as in any other religion, every affirmat
 
 Conversely, do you understand the full sequence of experiments that imply quantum field theory? Have you seen videos of those experiments? Have you attended live demonstrations? Do you understand the construction of the experimentation apparatus? Yet, why do you believe it?
 
+Because millions of religious believers feel that they have have directly observed God/other dimensions/energies/aliens/some other religious crap through direct experience several times in their lieves, or even daily. Why then is quantum field theory correct, but their daily direct religious experience wrong?
+
 More importantly: what do you propose that should be done about it? Should we kill followers? Or is jail enough?
 
 Also do let me know when you have achieved irrefutable proof that democracy/freedom of speech are the optimal ways to organize the government: <<democracy-is-a-religion>>.
@@ -8346,6 +8361,10 @@ See also: "thoughtcrime" from <<nineteen-eighty-four>>.
 
 Or if you like shitty movies: https://en.wikipedia.org/wiki/Minority_Report_(film)[Minority Report (2002)].
 
+[[aum-shinrikyo-thoughtcrime]]
+.https://www.youtube.com/watch?v=SfTJV-8rtxE review of the https://www.imdb.com/title/tt0241146/[A (1998)] documentary film about the https://en.wikipedia.org/wiki/Aum_Shinrikyo[Aum Shinrikyo] (https://zh.wikipedia.org/wiki/奥姆真理教[奥姆真理教]) Japanese cult that made the https://en.wikipedia.org/wiki/Tokyo_subway_sarin_attack[Tokyo subway sarin attack] in 1995. As mentioned at <<flg-cult>>, Ciro Santilli does consider Falun Gong a peaceful cult, unlike Aum. But even then, Ciro is against the loss of rights of Aum members that were never convicted of any crime, and were possibly also not aware of any crimes that were committed, as shown in this documentary.
+video::SfTJV-8rtxE[youtube,height=400,width=600]
+
 [[movement-x-tells-people-to-do-something-bad]]
 ==== Movement X tells people to do something bad, therefore the movement should be banned (运动X告诉人们做坏事，因此运动应该被禁止)
 
@@ -8465,7 +8484,7 @@ So for each student, it's fine for you to vote as an individual for whomever you
 ____
 
 .https://youtu.be/ArfGyo6HQ_E?t=1175 Ciro really liked what https://www.holycross.edu/academics/programs/religious-studies/faculty/mathew-schmalz[Doctor Matthew N. Schmalz] said on this VICE documentary about https://en.wikipedia.org/wiki/Hyung_Jin_Moon[Hyung Jin Moon]'s and his https://en.wikipedia.org/wiki/Unification_movement[Unification movement] ("the Moonies" split-off religion. "I think that any new religion needs a constituency. And especially for a group that is new, that is relatively small, making connections with other groups that might have similar commitments is something that can be quite productive if you are a leader of a new religion". As long as everyone plays the democracy game through democracy rules, peace tends to be maintained, and it is easier for multiple different beliefs to coexist. Falun Gong has obviously gone in this political direction, and that is a positive sign about the religion.
-video::ArfGyo6HQ_E[youtube,height=400,width=600,t=1175]
+video::ArfGyo6HQ_E[youtube,height=400,width=600,start=1175]
 
 [[flg-trump]]
 ==== Falun Gong supports Donald (Trump, 法轮功支持特朗普)
@@ -9876,6 +9895,9 @@ image::{china-dictatorship-media-base}/Xi_Pooh_Photoshop.webp[height=400]
 .https://www.youtube.com/watch?v=kHmLUYCUYT0 "Xi Jinping as Winnie the Pooh Dancing to Bat Out of Hell by Meatloaf" by TheFakening (2020). Deep fake of several girls wearing Winnie the Pooh clothes with a Xi Jinping face. The song choice "Bat Out of Hell" is a reference to <<covid,COVID>> because one of the theories is that the disease started in bats.
 video::kHmLUYCUYT0[youtube,height=400,width=600,start=57]
 
+.https://youtu.be/QjQbQlN9Ev8?t=398 The original Winnie the pooh story from 1926 became public domain in 2022: https://www.plagiarismtoday.com/2022/01/05/what-winnie-the-pooh-lapsing-into-the-public-domain-really-means/[]. The Red shirt depiction is from 1932 however, and some key characters like Tigger are also from later years. Stephen Colbert made a Hemingway mashup, as one of Hemingway's work also became public domain at that same point.
+video::MilRo8zZM8A[youtube,height=400,width=600,start=398]
+
 [[xi-dada]]
 ====== Xi Dada (习大大, 2015)
 
@@ -10617,7 +10639,7 @@ Soldiers who spoke up:
 
 Other interesting links:
 
-* https://www.64memo.com/ 六四档案 Website dedicated to collecting photos of the protests and aftermath. Says you have to login to see the gory photos, but hovering over thumbnails expands all of them, and their email service is broken as of 2020 so you can't sign up.
+* <<memo64>>
 * https://www.rfa.org/mandarin/june4_poetry Chinese poetry anthology about Tiananmen collected by <<rfa>>
 
 [[tiananmen-sea-of-protesters]]
@@ -10950,7 +10972,11 @@ Lists:
 
 Lists: https://qz.com/1618805/the-1989-tiananmen-student-leaders-on-chinas-most-wanted-list/
 
-* https://en.wikipedia.org/wiki/Liu_Gang | https://zh.wikipedia.org/wiki/劉剛_(1961年)
+* https://en.wikipedia.org/wiki/Liu_Gang (https://zh.wikipedia.org/wiki/劉剛_(1961年))
+* https://en.wikipedia.org/wiki/Feng_Congde[Feng Congde] (https://zh.wikipedia.org/wiki/封从德[封从德])
+** creator <<memo64>>
+** Twitter: https://twitter.com/FengCongde[]. Retweeted Ciro's CC BY SA <<tank-man>> arts:
+** https://twitter.com/cirosantilli2/status/1352936697420509184/retweets
 
 [[operation-yellowbird]]
 ====== Operation Yellowbird (黄雀行动)
@@ -11003,12 +11029,22 @@ video::gRAmL1D8R-4[youtube,height=400,width=600]
 [[tiananmen-square-protest-documentaries]]
 ===== Tiananmen square protest documentaries (六四事件纪录片)
 
-====== The Gate of Heavenly Peace (1995)
+[[the-gate-of-heavenly-peace-1995]]
+====== The Gate of Heavenly Peace (1995, 天安门纪录片)
 
 * https://en.wikipedia.org/wiki/The_Gate_of_Heavenly_Peace_(film)
 * https://zh.wikipedia.org/wiki/天安门_(纪录片)
 
 Chinese transcript: http://www.tsquare.tv/chinese/film/ghp00.html
+
+[[memo64]]
+====== 64memo.com (六四档案)
+
+https://www.64memo.com/
+
+Website dedicated to collecting photos of the protests and aftermath.
+
+Says you have to login to see the gory photos, but hovering over thumbnails expands all of them, and their email service is broken as of 2020 so you can't sign up.
 
 [[chinese-student-demonstrations-1986]]
 ===== 1986 Chinese student demonstrations (八六学潮)
@@ -12398,7 +12434,7 @@ Has a more artistic red-black-white-yellow style.
 
 Examples:
 
-* brutal 2022 Olympics posters: https://i.redd.it/mlra40aqv5q71.jpg
+* brutal <<winter-olympics-2022>> posters: https://i.redd.it/mlra40aqv5q71.jpg
 
 ==== Harry Harrison
 
@@ -13489,7 +13525,7 @@ Part of the <<internal-censorship,Internet censorship machine>>, although it pre
 
 It can be seen at the bottom of many many many websites, it is likely mandatory to display it.
 
-If you see one of those, you already know hat it cannot be trusted for politics.
+If you see one of those, you already know that it cannot be trusted for politics.
 
 For example, https://archive.is/ePBM9[as of April 2020], the <<zhihu>> sidebar shows:
 
@@ -13500,6 +13536,9 @@ ____
 where "京" indicates that the certificate was issued by the Beijing Provincial level city.
 
 In 2014, almost 15 years later, <<russia>> finally caught up, what a relief: <<russia-mandatory-registration-of-bloggers>>.
+
+.https://www.youtube.com/watch?v=xH_tiIAk5Q8 Missing typewriter scene from https://en.wikipedia.org/wiki/The_Lives_of_Others[The Lives of Others (2016)] (https://zh.wikipedia.org/wiki/竊聽風暴[竊聽風暴]). The Wikipedia page for <<samizdat>> mentions that: "All Soviet-produced typewriters and printing devices were officially registered, with their typographic samples collected right at the factory and stored in the government directory." This reminded Ciro of this movie set in East Germany, in which finding a typewriter plays as big role as evidence of authorship of subversive materials. In the movie, the typewriter was not present under the floor boards as had been informed by the Leading Lady who betrayed her lover, the Leading Man, under duress. The typewriter had been previously secretly removed by a disgruntled intelligence officer who turns against the censorship and surveillance system in the middle of the film. The disgruntled officer is then fired/has his career stalled by his colleagues, who suspect him but have no direct evidence, and the Leading Man, after investigating how the machine could have disappeared, eventually discovers the identify of the officer, but ends up not meeting him, as he would not know what to say. Just another story of the horrors of the surveillance state.
+video::xH_tiIAk5Q8[youtube,height=400,width=600]
 
 ====== Social media license
 
@@ -14181,6 +14220,14 @@ Related:
 
 * https://hongkongfp.com/2021/09/14/exclusive-wikipedia-bans-7-mainland-chinese-power-users-over-infiltration-and-exploitation-in-unprecedented-clampdown/
 * https://hongkongfp.com/2021/07/11/wikipedia-wars-how-hongkongers-and-mainland-chinese-are-battling-to-set-the-narrative/
+
+[[winter-olympics-2022]]
+==== 2022 Winter Olympics in China (2022年冬季奥林匹克运动会)
+
+* https://en.wikipedia.org/wiki/2022_Winter_Olympics
+* https://zh.wikipedia.org/wiki/2022年冬季奥林匹克运动会
+
+TODO create side by side image with the 1936 Olympics in <<nazi,Nazi Germany>>.
 
 [[communist-youth-league]]
 === Communist Youth League of China (中国共产主义青年团)
