@@ -15,7 +15,8 @@
 
 https://cirosantilli.com/china-dictatorship[cirosantilli.com (规范链接 canonical)] |
 https://github.com/cirosantilli/china-dictatorship[GitHub 项目 project] |
-https://github.com/cirosantilli/china-dictatorship-2[GitHub 项目 project 2] |
+https://github.com/cirosantilli/china-dictatorhsip[Mirror 镜像 2] |
+https://github.com/coding-stuffs/china-dictatorshrip[Mirror 镜像 3] |
 link:index-split[分裂标题版本 split header version] |
 中国镜像 China mirrors:
 https://cirosantilli.gitlab.io/china-dictatorship[cirosantilli.gitlab.io],
@@ -764,6 +765,7 @@ On 2021-09-23 Ciro Santilli received this email from cirosantillifather@protonma
 ** https://github.com/cirowayne[] (e.g. https://archive.ph/wip/sCYLF[archive]) possible new account
 ** https://github.com/AlstonScott https://github.com/programthink/zhao/issues/428 was using Ciro's profile picture: https://archive.ph/K59TN
 ** https://github.com/Ciro-Santilli-NMSL 我在你爸坟头骨灰拌饭 https://archive.ph/5iVR2
+* https://github.com/wumaoland/MaoZeDongAnthology of our great ex-leader, <<mao-zedong>>!
 
 [[faq]]
 == FAQ (常见问答集)
@@ -10336,6 +10338,10 @@ Full text: link:魏京生-第五个现代化.md[].
 What could be a better reminder that <<xi-jinping,dictatorships are dangerous>> than the catastrophes that Mao created such as the <<great-leap-forward>> and <<cultural-revolution>>?
 
 https://youtu.be/MHFrhIAj0ME?t=926 "The camp was an intense and exciting place, and many of the guerrilla fighters had affairs. Sex was called undisciplined guerilla warfare". TODO Chinese.
+
+Related:
+
+* https://github.com/wumaoland/MaoZeDongAnthology
 
 .Mao Zedong in Yan'an in the 1930's thinking deeply. This funny looking picture is meme ready and https://uncyclopedia.ca/wiki/Chairman_Mao[much loved by Uncyclopedia]. https://commons.wikimedia.org/wiki/File:Mao_Zedong_in_Yan%27an.jpg[Source].
 image::{china-dictatorship-media-base}/Mao_Zedong_in_Yanan.jpg[height=400]
