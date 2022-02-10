@@ -444,6 +444,7 @@ Mentioned in other sections:
 * <<xi-jinping-speech-synthesizer>>
 * https://github.com/zhangrunxu/zhangrunxu.github.io from <<xu-zhangrun>>
 * <<anti-video-game-ban-tools>>
+* https://github.com/hmsjy2017/Google-Mirrors from <<google-mirrors>>
 
 Not mentioned in other sections:
 
@@ -6102,6 +6103,8 @@ Related subjects:
 
 [[google-mirrors]]
 ===== Google mirrors (谷歌镜像)
+
+A curated list on GitHub: https://github.com/hmsjy2017/Google-Mirrors
 
 Do the names mean anything? Are they owned? The fact that they are Alexa top 1000 domains is just so funny, Google redirects for China.
 
