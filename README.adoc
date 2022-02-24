@@ -680,6 +680,8 @@ A large part of those projects falls in the following categories:
 +
 ** interview preparation. Competition is of course cutthroat with such a large population.
 ** collections of interesting things Chinese like repositories or blog posts
++
+but it also does feel like China might be building up more basic infrastructure as open source than in the west, where things developped closed source first on pre-Internet days, and somewhat stayed that way. That's a cool thing about China.
 
 Furthermore, Ciro later noticed that under GitHub's settings, there is a "Preferred spoken language" box described as "We'll use this language preference to filter the trending repository lists on Explore and our Trending Repositories page." Therefore, the secret to get lots of hits is to add Chinese programming keywords to the repository description string.
 
@@ -873,6 +875,9 @@ See also:
 
 * <<photobombing-like-attacks>>.
 * 2021-06-03 https://www.theguardian.com/world/2021/jun/03/free-hong-kong-road-budapest-renames-streets-to-frustrate-chinese-campus-plan "Free Hong Kong Road: Budapest renames streets to frustrate Chinese campus plan"
+
+Some non-screen name ones:
+* https://tatoeba.org/en/sentences/show/6620655[], that site is open source BTW, great initiative: https://github.com/Tatoeba/tatoeba2
 
 Some people say https://english.stackexchange.com/questions/284671/dont-st-where-you-eat[don't shift where you eat]. Ciro says: bring a shitbucket to the canteen, and start a shitfight.
 
@@ -1950,7 +1955,8 @@ Bibliography:
 [[friendly-west-china-moments]]
 ===== Friendly West-China moments (中西友好时刻)
 
-====== United China Relief
+[[united-china-relief]]
+====== United China Relief (葛思德)
 
 * https://en.wikipedia.org/wiki/Bettis_Garside
 * https://zh.wikipedia.org/wiki/葛思德
@@ -2586,7 +2592,7 @@ Ocoee massacre Ocoee大屠杀 +
 Herrin Massacre 赫林大屠杀 +
 Redwood Massacre红木大屠杀 +
 Columbine Mine Massacre 哥伦拜恩矿难 +
-Guantanamo Bay 关塔那摩湾 +
+<<guantanamo-bay>> +
 extraordinary rendition 非凡的演绎 +
 Abu Ghraib torture and prison abuse 阿布格莱布的酷刑和监狱虐待 +
 Henry Kissinger 亨利·基辛格
@@ -2606,7 +2612,7 @@ See also:
 .https://en.wikipedia.org/wiki/Signe_Wilkinson[Signe Wilkinson] 2017 Free Speech "Can you just move it so it doesn't cover them?" (TODO proper translation, with a quickly fixed up Google Translate: 你可以移动雨伞以使其不会遮盖住他们吗？) umbrella cartoon. Ciro once saw a <<wumao>> post this. It made him smile. If the cartoon were about <<dictatorship,dictatorships>>, https://en.wikipedia.org/wiki/Uncle_Sam[Uncle Sam] would be instead <<intolerance,decapitating and raping the people on one half of the umbrella>>. Of course humans are <<flg-intolerance,shit in democracies as well>>, but at least that system makes it harder for them to oppress each other. http://www.cartoonistgroup.com/store/add.php?iid=161799[Source].
 image::{china-dictatorship-media-base}/Free_speech_umbrella.jpg[height=400]
 
-.At https://github.com/cirosantilli/china-dictatorship/issues/260 ((https://archive.ph/mtZeM[archive])a <<wumao>> posted this image of <<amnesty-international>> protesters outside the American embassy in London in September 2008 protesting against the Guantanamo Bay camps. The wumao used this to criticize Guantanamo bay, saying that it was like <<xinjiang-re-education-camps>> but in the USA, apparently unaware that this was a staged protest. So it actually has the exact opposite effect than intended: because there is no <<censorship>>, here people in the West can together to denounce something they don't like. Imagine if a crowd of 100 people in China got together to denounce the Xinjiang camps! They'd go to jail immediately. Furthermore as Ciro repeated a million times: Guantanamo bay detainees are not American citizens, and democracies cannot fully protect people who can't vote. In China however, no one can vote, so everyone can be oppressed. https://kids.britannica.com/students/assembly/view/171145[Source].
+.At https://github.com/cirosantilli/china-dictatorship/issues/260 ((https://archive.ph/mtZeM[archive])a <<wumao>> posted this image of <<amnesty-international>> protesters outside the American embassy in London in September 2008 protesting against the <<guantanamo-bay>> camps. The wumao used this to criticize Guantanamo bay, saying that it was like <<xinjiang-re-education-camps>> but in the USA, apparently unaware that this was a staged protest. So it actually has the exact opposite effect than intended: because there is no <<censorship>>, here people in the West can together to denounce something they don't like. Imagine if a crowd of 100 people in China got together to denounce the Xinjiang camps! They'd go to jail immediately. Furthermore as Ciro repeated a million times: Guantanamo bay detainees are not American citizens, and democracies cannot fully protect people who can't vote. In China however, no one can vote, so everyone can be oppressed. https://kids.britannica.com/students/assembly/view/171145[Source].
 image::{china-dictatorship-media-base}/Guantanamo_bay_protest_London_2008.jpg[height=600]
 
 [[henri-meyer]]
@@ -3510,7 +3516,7 @@ But they should have gone further and reduced it to pinyin like the Korean and V
 
 No foreign adult will every learn to read and write Chinese unless they are completely obsessed by the culture or need it as part of their jobs. And even then, they will avoid it at all costs, because life is just too short!
 
-Japanese https://en.wikipedia.org/wiki/Furigana[furigana] also comes to mind. The characters are so insane that you need to a well specified and widely used phonetic reading aid, especially for teenagers, but likely not only in case of rarer characters!
+Japanese https://en.wikipedia.org/wiki/Furigana[furigana] also comes to mind. The characters are so insane that you need to a well specified and widely used phonetic reading aid, especially for teenagers, but likely not only in case of rarer characters! There's even an HTML tag for that for God's sake: https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-ruby-element[the HTML Ruby tag].
 
 Yes, ideograms are:
 
@@ -9809,6 +9815,7 @@ ____
 
 Other images:
 
+* 2022 https://twitter.com/Stalingrad_Poor/status/1493620788703862784/photo/1 good template with <<xi-jinping>>, <<putin>> and <<north-korea,Kim Jong-un>> smkirking on the phone from when Trudeau has smashing down on <<covid,anti vaccince protests>>
 * 2021 https://twitter.com/1X1G3Lr7pBe1AJR/status/1438984816267915265/photo/1 with phone reserved photoshop
 
 See also: <<shitpost>>.
@@ -10638,6 +10645,7 @@ Good photo selections:
 * 2014 http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/ (https://web.archive.org/web/20190607142501/http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[archive]) a few gory photos
 * 2015 https://allthatsinteresting.com/tiananmen-square-massacre "The Hidden History Of The Tiananmen Square Massacre"
 * 2019 https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary "These Horrifying Pictures Show The Tiananmen Square Protests Like You've Never Seen Them"
+* 2020 https://nsfw.xxx/post/tiananmen-square-masacre-photos-3394466?page=1 has some decent gore. Original post: https://www.reddit.com/r/MorbidReality/comments/h828c1/tiananmen_square_masacre_photos/
 * 2021 https://www.magnumphotos.com/newsroom/the-making-of-icons/ by Stuart Franklin himself
 
 AP footage is pretty good, just do a search on the archive:
@@ -13495,6 +13503,11 @@ TODO is there any way to do use this to overcome IP blocks? You would wait until
 
 [[ensi]]
 ====== TLS 1.3 ENSI
+
+Renamed in 2020 to <<ech>>.
+
+[[ech]]
+====== TLS 1.3 ECH
 
 * https://blog.cloudflare.com/encrypted-sni
 * https://en.wikipedia.org/wiki/Server_Name_Indication#Encrypted_Client_Hello
@@ -18329,9 +18342,11 @@ Translations:
 * https://zh.wikipedia.org/wiki/1964年巴西政變
 * https://en.wikipedia.org/wiki/Operation_Condor
 
-<<ciro-santilli>> is Brazillian, and his parents lived through this dictatorship.
+<<ciro-santilli>> is Brazilian, and his parents lived through this dictatorship.
 
-Created with the help of... the <<united-states>>, while fighting the Cold War to prevent the spread of Communism. https://dune.fandom.com/wiki/Litany_Against_Fear[Fear is the mind killer], and the Cold War served as an excuse for many atrocities, notably in the <<middle-east>>.
+Created with the help of... the <<united-states>>, while fighting the Cold War to prevent the spread of Communism. https://dune.fandom.com/wiki/Litany_Against_Fear[Fear is the mind killer], and the Cold War served as an excuse for many atrocities, notably in the <<middle-east>>:
+
+* <<united-states-involvement-in-regime-change-in-latin-america>>.
 
 One of Ciro's favorite stories about the dictatorship is how cake recipes or classical https://en.wikipedia.org/wiki/Luís_de_Camões[Luís_de_Camões (1524-1580)] poetry were introduced in newspapers to replace news that had been <<censorship,censored>> in the last minute:
 
@@ -18454,6 +18469,11 @@ In 1986, the USA also accused Libya of the https://en.wikipedia.org/wiki/West_Be
 * https://zh.wikipedia.org/wiki/綠皮書_(利比亞)
 
 Gadaffi's <<little-red-book>>.
+
+[[north-korea]]
+== North Korea (朝鲜)
+
+We don't talk about North Korea here. What's the point of talking about a joke nation?
 
 [[russia]]
 == Russia (俄罗斯)
@@ -18580,9 +18600,6 @@ https://youtu.be/fAoMzxKkH2M?t=3628 Can't Get You Out of My Head S01E06 "Are We 
 
 .https://www.youtube.com/watch?v=BiI5UuCiEoU Russian Youtuber Bashir Dokhov puts Putin portrait in a lift as an opinion poll. TODO evidence that it was not staged, e.g. address, identities of people shown. But in any case, Ciro does feel that as of 2020 Putin's power is very precarious compared to <<xi-jinping>> for example. E.g., whenever Ciro spoke to Russians abroad, they were all able to criticize Putin. But about on third to half of the Chinese abroad were completely brainwahsed and thought China has the best government possible. Original video: https://www.youtube.com/watch?v=eeb3MMl3lB4[].
 video::BiI5UuCiEoU[youtube,height=400,width=600]
-
-.https://www.youtube.com/watch?v=8X7Ng75e5gQ Vladimir Pozner: How the United States Created Vladimir Putin (2018) Basically says it was a similar bullshit to what the allies did after WWI, rather than invest in the country, they were more willing to punish it, or ignore it. Notably disastrous was the enlargement of NATO in 1996 to move East including Poland, which the USA had promised not to do during discussions for the reunification of Germany in 1989. When Putin came to power, he propoesd that Russia should join the NATO or the European Union, and again he was turned down.
-video::8X7Ng75e5gQ[youtube,height=400,width=600]
 
 ==== Putin-sponsored poisonings
 
@@ -18921,7 +18938,17 @@ image::{china-dictatorship-media-base}/Soviet_radio_jamming_vs_Jingjing.jpg[heig
 
 Review: https://www.theguardian.com/books/2019/dec/23/cold-warriors-writers-waged-literary-cold-war-duncan-white-review It would be good to look into the anti-Soviet ones to get some ideas from them.
 
-===== Agitprop
+[[cold-war]]
+==== Cold War (冷战)
+
+[[realpolitik]]
+===== Realpolitik (现实政治)
+
+* https://en.wikipedia.org/wiki/Realpolitik
+* https://zh.wikipedia.org/wiki/现实政治
+
+[[agitprop]]
+===== Agitprop (Агитпроп)
 
 * https://en.wikipedia.org/wiki/Agitprop
 
@@ -18933,12 +18960,6 @@ image::{china-dictatorship-media-base}/Stalin_bitch_please.jpg[height=600]
 
 .https://www.youtube.com/watch?v=ZT2z0nrsQ8o "Rasputin vs Stalin." Epic Rap Battles of History YouTube video. This is fire. https://epicrapbattlesofhistory.fandom.com/wiki/Rasputin_vs_Stalin/Rap_Meanings[Explanations].
 video::ZT2z0nrsQ8o[youtube,height=400,width=600]
-
-[[russo-ukrainian-war]]
-=== Russo-Ukrainian War (2014-)
-
-* https://en.wikipedia.org/wiki/Russo-Ukrainian_War
-* link:++https://uk.wikipedia.org/wiki/Російсько-українська_війна_(з_2014)++[]
 
 [[mykola-semena]]
 ==== Mykola Semena (Семена Микола Михайлович, Crimea activist)
@@ -18967,9 +18988,11 @@ USA funded sister media of the <<rfa>>.
 
 === Mini-Russias
 
-==== Belarus
+[[belarus]]
+==== Belarus (白俄罗斯)
 
-https://en.wikipedia.org/wiki/Belarus
+* https://en.wikipedia.org/wiki/Belarus
+* https://zh.wikipedia.org/wiki/白俄罗斯
 
 The dictator: https://en.wikipedia.org/wiki/Alexander_Lukashenko[Alexander Lukashenko]. Close ties to his buddy <<putin>>.
 
@@ -18979,9 +19002,26 @@ https://en.wikipedia.org/wiki/2020_Belarusian_protests[2020 Belarusian protests]
 .The Moscow-Minsk friendship mural in Minsk (capital of Belarus), originally meant to show the harmonious alliance between Belarus and Russia, was defaced in 2016 by adding barbed wire amidst the flowers held and worn by the boy and girl which represent Russia and Belarus respectively, which indicates that the friendship is actually a prison for Belarus. <<dictatorships-tend-to-work-together>> comes to mind. Photo by Aleh Larychau. Upload https://commons.wikimedia.org/wiki/Commons:Deletion_requests/File:Mural_Minsk-Moscow_in_Minsk_1.jpg[on Wikimedia Commons] deleted because of the lack of https://commons.wikimedia.org/wiki/Commons:Freedom_of_panorama[Freedom of panorama in Belarus]. https://www.euronews.com/2020/12/21/how-the-crisis-in-belarus-is-politicising-a-new-wave-of-street-artists[].
 image::{china-dictatorship-media-base}/Moscow-Minsk_friendship_mural_girl_with_barbed_wire.jpg[height=400]
 
-==== Kazakhstan
+[[russo-ukrainian-war]]
+==== Russo-Ukrainian War (俄乌战争, Російсько-українська війна, 2014-)
 
-https://en.wikipedia.org/wiki/Kazakhstan
+* https://en.wikipedia.org/wiki/Russo-Ukrainian_War
+* link:++https://uk.wikipedia.org/wiki/Російсько-українська_війна_(з_2014)++[]
+
+The situation is basically the same as that of <<belarus>>: Russia wants buffer states/human shields between itself and its possible enemies, The West. Just like he USA did during the <<cuban-missile-crisis>>. It is just too important strategically for the Russians.
+
+.https://www.youtube.com/watch?v=8X7Ng75e5gQ Vladimir Pozner: How the United States Created Vladimir Putin (2018) Basically says it was a similar bullshit to what the allies did after WWI, rather than invest in the country, they were more willing to punish it, or ignore it. Notably disastrous was the enlargement of NATO in 1996 to move East including Poland, which the USA had promised not to do during discussions for the reunification of Germany in 1989. When Putin came to power, he propoesd that Russia should join the NATO or the European Union, and again he was turned down.
+video::8X7Ng75e5gQ[youtube,height=400,width=600]
+
+[[why-is-ukraine-the-west-s-fault-by-john-mearsheimer-2015]]
+.https://www.youtube.com/watch?v=JrMiSQAGOS4 Why is Ukraine the West's Fault? by John Mearsheimer (2015) Interesting points: 1) Ukraine is badly split, the East is really pro-Russia unification, and the West really pro-European. 2) The Americans didn't like the <<cuban-missile-crisis>>", where an enemy power would install weapons on its borders. Ukraine is the same for the Russians. 3) The West wants Russia to be on our side against China. That is the big fight coming up. And in the Middle East. So we have to give some them some concessions. Ciro is a bit saddened by this kind of <<realpolitik>>, which completely disregards principles, but unfortunately, especially when dealing with <<dictatorship,dictatorships>>, it is the only way perhaps, choosing the lesser of two evils.
+video::JrMiSQAGOS4[youtube,height=400,width=600]
+
+[[kazakhstan]]
+==== Kazakhstan (哈萨克斯坦)
+
+* https://en.wikipedia.org/wiki/Kazakhstan
+* https://zh.wikipedia.org/wiki/哈萨克斯坦
 
 .https://www.youtube.com/watch?v=eB9O4PU5Nnk "How Much Do You Know About The Real Kazakhstan?" by Journeyman Pictures (2016) shows how Western leaders turn a blind eye to Kazakhstan's dictator at the time, https://en.wikipedia.org/wiki/Nursultan_Nazarbayev[Nursultan Nazarbayev], because they have oil and are willing to cooperate with the West on the war in Afghanistan. In 2019 he was replaced by https://en.wikipedia.org/wiki/Kassym-Jomart_Tokayev[Kassym-Jomart Tokayev], gotta learn more about the new one. Includes interviews with https://en.wikipedia.org/wiki/Pamela_L._Spratlen[Pamela L. Spratlen], an US diplomat, where she diplomatically refuses to say anything meaningful.
 video::eB9O4PU5Nnk[youtube,height=400,width=600]
@@ -19031,10 +19071,12 @@ And of course, when a smaller dictatorship makes an alliance with a larger dicta
 
 === tsunamidemocratic GitHub takedown (2019)
 
-https://www.bbc.co.uk/news/technology-50232902
-https://github.com/github/gov-takedowns/blob/master/Spain/2019/2019-10-26-GuardiaCivil.md
+* https://www.bbc.co.uk/news/technology-50232902
+* https://github.com/github/gov-takedowns/blob/master/Spain/2019/2019-10-26-GuardiaCivil.md
 
 TODO which repo was taken down exactly?
+
+And so, <<spain>> joined the select list of countries present in <<github-gov-takedowns>>. Congratulations to them.
 
 [[thailand]]
 == Thailand (泰国)
@@ -19101,8 +19143,10 @@ Major violations:
 
 * <<israel>>
 
+=== Afghanistan and Iraq wars
+
 [[iraq-war]]
-=== Iraq War (2003-2011, 伊拉克战争)
+==== Iraq War (2003-2011, 伊拉克战争)
 
 * https://en.wikipedia.org/wiki/Iraq_War
 * https://zh.wikipedia.org/wiki/伊拉克战争
@@ -19115,6 +19159,25 @@ This had purely political/strategic motivations. They had to fake intelligence i
 * Katharine Gun
 ** https://en.wikipedia.org/wiki/Katharine_Gun
 ** https://en.wikipedia.org/wiki/Official_Secrets_(film)[Official Secrets (2019)]
+
+[[guantanamo-bay]]
+==== Guantanamo bay (关塔那摩湾拘押中心)
+
+* https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp
+* https://zh.wikipedia.org/wiki/关塔那摩湾拘押中心
+
+===== Enhanced interrogation techniques
+
+* https://en.wikipedia.org/wiki/Enhanced_interrogation_techniques
+* https://www.nytimes.com/2019/12/04/us/politics/cia-torture-drawings.html "What the C.I.A.’s Torture Program Looked Like to the Tortured" (2019)
+
+.https://www.youtube.com/watch?v=ZdQTm6eQTU8 Ex-CIA interrogator James Mitchell supports enhanced interrogation techniques (2017) Interview by the <<bbc>>. How can someone go in front of a camera and say the they support torture? It is very very hard to comprehend. Don't they see that this is creating more terrorists than it is apprehending? Are they that blind?
+video::ZdQTm6eQTU8[youtube,height=400,width=600]
+
+==== United States involvement in regime change in Latin America
+
+* https://en.wikipedia.org/wiki/United_States_involvement_in_regime_change_in_Latin_America
+* <<military-dictatorship-in-brazil>>
 
 [[israel]]
 === Israel (以色列)
@@ -19160,6 +19223,23 @@ Bibliography:
 * https://www.middleeasteye.net/opinion/why-israel-does-not-want-sovereign-palestinian-state "Why Israel does not want a sovereign Palestinian state"
 * https://www.youtube.com/watch?v=iRYZjOuUnlU The Israel-Palestine conflict: a brief, simple history by Vox (2016)
 * https://ips-dc.org/why_the_us_supports_israel/
+
+[[cuban-missile-crisis]]
+=== Cuban Missile Crisis (古巴导弹危机, 1962)
+
+* https://en.wikipedia.org/wiki/Cuban_Missile_Crisis
+* https://zh.wikipedia.org/wiki/古巴导弹危机
+
+This even highlighted that even for the "supposedly freedom supporting United States", some sovereign foreign nations don't really have full freedom to do what they like when it becomes a strategic problem for the USA, e.g. Cuba can't just have their own missiles.
+
+It is so amazing how they then made a "naval quarantine", which is totally not a "naval blockade, which would be an act of war. One is reminded of how they totally did not "torture" people at <<guantanamo-bay>>, they only used <<enhanced-interrogation-techniques>>.
+
+This has very strong parallels to how:
+
+* China views <<taiwan>>
+* <<russia>> views <<russo-ukrainian-war>>
+
+see also: <<why-is-ukraine-the-west-s-fault-by-john-mearsheimer-2015,Why is Ukraine the West's Fault? by John Mearsheimer (2015)>>
 
 == Other sections
 
