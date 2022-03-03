@@ -5932,6 +5932,7 @@ A random control question that shows that archive.org 404's are actually deleted
 
 Mentions not yet deleted as of writing:
 
+* google在国内被封的具体原因是什么？ What are some concrete reasons why google was blocked? https://archive.ph/bFUoL links to: https://github.com/cirosantilli/china-dictatorhsip-2/tree/master/evil-man indicating that the main <<mirrors>> is blocked but that one isn't.
 * https://www.zhihu.com/question/21099730 at <<zhihu>>
 
 [[zhihu-ted-chiang-answer]]
@@ -7095,6 +7096,14 @@ image::{china-dictatorship-media-base}/Umbrella_movement_icon.png[height=400]
 
 .Sea of seated protesters during the <<hong-kong-protests-2014>> gathering at the https://en.wikipedia.org/wiki/Admiralty,_Hong_Kong[Admiralty] (https://zh.wikipedia.org/wiki/金鐘[金鐘]) on 2014-10-10. https://en.wikipedia.org/wiki/File:Umbrella_Revolution_in_Admiralty_Night_View_20141010.jpg[Source].
 image::{china-dictatorship-media-base}/Umbrella_movement_in_Admiralty_night_View_20141010.jpg[height=600]
+
+==== Hong Kong slogan
+
+[[liberate-hong-kong]]
+===== Liberate Hong Kong, revolution of our times (光復香港，時代革命)
+
+* https://en.wikipedia.org/wiki/Liberate_Hong_Kong,_revolution_of_our_times
+* https://zh.wikipedia.org/wiki/光復香港，時代革命
 
 [[hong-kong-national-security-law]]
 ==== Hong Kong National Security Law (香港国安法, 2020)
@@ -9637,6 +9646,7 @@ Related:
 
 * https://github.com/formulahendry/955.WLB a whitelist version of 996 ICU. Good thoughts.
 * https://www.youtube.com/watch?v=l8wWoQ3_F00 The Extreme 996 Work Culture in China by VICE (2021)
+* https://github.com/wumaoland/Chengdu-IT-company-blacklist
 
 Other interesting GitHub repositories: <<github-repositories-with-censored-information>>.
 
@@ -9878,10 +9888,7 @@ Hentai:
 Good possible video bases for usage in <<xi-jinping-deepfakes>>:
 
 * https://cache.hkgolden.media/compress/https://i.imgur.com/tiwgkCg.gif
-
-Images:
-
-* https://www.buzzfeed.com/pablovaldivia/gay-porn-memes
+* https://cirosantilli.com/gay-porn-meme
 
 [[winnie-the-pooh]]
 ===== Xi Jinping looks like Winnie-the-Pooh (习近平长得像小熊维尼, 2017)
@@ -18507,73 +18514,12 @@ Other political murders or attempts:
 
 Some other interesting political suppression lists:
 
-* https://en.wikipedia.org/wiki/List_of_journalists_killed_in_Russia[list of journalists killed in Russia] (https://ru.wikipedia.org/wiki/Список_журналистов,_убитых_в_России[Список журналистов, убитых в России]).
 * https://en.wikipedia.org/wiki/List_of_Soviet_and_Russian_assassinations[List of Soviet and Russian assassinations]
 * 2017 https://www.washingtonpost.com/news/worldviews/wp/2017/03/23/here-are-ten-critics-of-vladimir-putin-who-died-violently-or-in-suspicious-ways/ "Here are 10 critics of Vladimir Putin who died violently or in suspicious ways"
-
-Freedom of speech reports:
-
-* 2017-07-18 https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-freedom-expression "Online and On All Fronts Russia's Assault on Freedom of Expression" from <<human-rights-watch>>
 
 Other random stuff:
 
 * <<seventeen-moments-of-spring>>
-
-[[federal-list-of-extremist-materials]]
-=== Federal List of Extremist Materials (Федеральный список экстремистских материалов)
-
-* https://en.wikipedia.org/wiki/Federal_List_of_Extremist_Materials
-* https://ru.wikipedia.org/wiki/Федеральный_список_экстремистских_материалов
-
-<<censorship-monitoring,Unlike the Chinese>>, they have a public list, each entry had a numerical ID even. This is the best thing ever made! The dream for <<keyword-attack,keyword attackers>>!
-
-Most of it appears to be anti/<<nazi>>, and notably anti-anti-semitic but several items are purely political anti-freedoms.
-
-One wonders if the majority of the items are just fillers to hide the really juicy anti-freedom ones.
-
-We need to make a <<github>> mirror of all of those some day!
-
-The list: http://minjust.gov.ru/ru/extremist-materials[] Here's an archive: http://web.archive.org/web/20200817142035/http://minjust.gov.ru/ru/extremist-materials/export.csv?attach=page[]. The website has a CSV for download with all entries at the bottom. Enca says the encoding is "MS-Windows code page 1251", convert to UTF-8 with:
-
-....
-iconv -f WINDOWS-1251 -t UTF-8//IGNORE export.csv
-....
-
-`//IGNORE` is needed because their fucking CSV export has a bug and otherwise `iconv` stops at the first error.
-
-Result at: https://github.com/cirosantilli/media/blob/039ed572f61866655fc6ea3333b199527df4f3eb/russian-federal-list-of-extremist-materials-utf8-2020-08-17.csv
-
-From this we can grep, and then to overcome translation limits as there is no offline option yet: https://askubuntu.com/questions/380847/is-it-possible-to-translate-words-via-terminal[], dump your selection on a gist and use Google translate on the Gist.
-
-A website "dedicated" to bypassing censorship of the list: http://zapretno.info/[]. TODO much of that website's content is not clearly marked as being on the list.
-
-Some notable additions:
-
-* 2791: "Blowing up Russia: Terror from Within" by <<litvinenko>>
-* Religion
-** 1171, 1172, 1173: "What is Scientology", which likely refers to this L. Ron Hubbard book. https://www.amazon.co.uk/What-Scientology-L-Ron-Hubbard/dp/1573181226[] and two other books. Coverage: https://www.businessinsider.com/russia-officially-bans-scientology-books-brands-them-extremist-2012-3?r=US&IR=T
-** 2904: Jehovah's Witnesses website https://www.jw.org/en/[]. Coverage: https://www.state.gov/reports/2017-report-on-international-religious-freedom/russia/
-* Ukraine due to <<russo-ukrainian-war>>
-** 2596: A. M. Byvshev's poem "Ukrainian patriots", where he disagreed with Russian intervention in Donbass and supported military resistance by Ukrainians.
-** searching for "суда" (Crimea) has dozens of hits
-* Anti-Putin and apparently non hate-crime:
-** 1000:
-*** Leaflets with the following content: "Down with the power of the Cheka-nuty Putin and Medvedev", "Down with the power of the Cheka-nuty Putin"
-*** Листовки следующего содержания: «Долой власть ЧК-нутых Путина и Медведева», «Долой власть ЧК-нутого Путина»
-** 4071: <<gay-putin>>
-** 4914:
-*** The book "Where did Mr. Putin take Russia?" author Yu.E. Kozenkov (M., 2005 - 208 p.)
-*** "Книга «Куда завел Россию мистер Путин?» автор Ю.Е. Козенков (М., 2005 – 208 с.)
-
-[[roskomnadzor]]
-==== Roskomnadzor (Роскомнадзор)
-
-* https://en.wikipedia.org/wiki/Federal_Service_for_Supervision_of_Communications,_Information_Technology_and_Mass_Media
-* https://ru.wikipedia.org/wiki/Роскомнадзор
-
-The Russian censorship body under <<putin>>. The Russian <<cac>>.
-
-They are the ones who make Russian takedowns on <<github-gov-takedowns>>, e.g. https://github.com/github/gov-takedowns/tree/master/Russia/2020
 
 [[putin]]
 === Putin (Путин, 普京, 1999-2008, 2012-∞)
@@ -18588,9 +18534,6 @@ Coverage:
 ** https://www.independent.co.uk/news/world/europe/putin-presidential-term-limit-russia-moscow-conference-today-a9253156.html
 ** https://uk.reuters.com/article/uk-russia-putin-constitution/putin-says-hes-open-to-tweaking-presidential-term-limits-idUKKBN1YN1JO
 ** 2020-03-25 vote delayed due to <<covid>>
-* 2014 Putin khuylo!
-** https://en.wikipedia.org/wiki/Putin_khuylo!
-** https://ru.wikipedia.org/wiki/Путин_—_хуйло!
 
 Notable dissidents:
 
@@ -18601,7 +18544,14 @@ https://youtu.be/fAoMzxKkH2M?t=3628 Can't Get You Out of My Head S01E06 "Are We 
 .https://www.youtube.com/watch?v=BiI5UuCiEoU Russian Youtuber Bashir Dokhov puts Putin portrait in a lift as an opinion poll. TODO evidence that it was not staged, e.g. address, identities of people shown. But in any case, Ciro does feel that as of 2020 Putin's power is very precarious compared to <<xi-jinping>> for example. E.g., whenever Ciro spoke to Russians abroad, they were all able to criticize Putin. But about on third to half of the Chinese abroad were completely brainwahsed and thought China has the best government possible. Original video: https://www.youtube.com/watch?v=eeb3MMl3lB4[].
 video::BiI5UuCiEoU[youtube,height=400,width=600]
 
-==== Putin-sponsored poisonings
+[[putin-khuylo]]
+==== Putin khuylo (Путин — хуйло, 2014)
+
+* https://en.wikipedia.org/wiki/Putin_khuylo!
+* https://ru.wikipedia.org/wiki/Путин_—_хуйло!
+
+[[putin-sponsored-poisonings]]
+==== Putin-sponsored poisonings (Путинские отравления)
 
 Russia apparently has a long list of poisoning political enemies: https://nypost.com/2018/06/23/inside-russias-long-history-of-poisoning-political-enemies/
 
@@ -18609,102 +18559,15 @@ Russia apparently has a long list of poisoning political enemies: https://nypost
 * 2018 <<skripal>>
 * 2012 Alexander Perepilichny Перепеличный, Александр Юрьевич https://en.wikipedia.org/wiki/Alexander_Perepilichny | https://ru.wikipedia.org/wiki/Перепеличный,_Александр_Юрьевич
 * 2006 <<litvinenko>>
-* 2006 Anna Politkovskaya Анна Политковская https://en.wikipedia.org/wiki/Anna_Politkovskaya | https://ru.wikipedia.org/wiki/Политковская,_Анна_Степановна Interview excerpt: https://youtu.be/fAoMzxKkH2M?t=3616
+* 2004 <<anna-politkovskaya>>. But she survived. Then a bullet landed on her head in 2006. What an unlucky woman.
 * 2004 Viktor Yushchenko Ющенко, Виктор Андреевич https://en.wikipedia.org/wiki/Viktor_Yushchenko | https://ru.wikipedia.org/wiki/Ющенко,_Виктор_Андреевич
 
 News:
 
 * https://en.wikipedia.org/wiki/Poison_laboratory_of_the_Soviet_secret_services[Poison laboratory of the Soviet secret services] (link:++https://ru.wikipedia.org/wiki/Токсикологическая_лаборатория_НКВД_—_НКГБ_—_МГБ++[Токсикологическая лаборатория НКВД — НКГБ — МГБ])
 
-[[superputin]]
-==== Superputin
-
-Meme partially supported by Putin himself, showing how physically strong and <<gay-putin,manly>> the president is. A form of <<ccp-cult,personality cult>>.
-
-Similar to https://en.wikipedia.org/wiki/Chuck_Norris_facts[Chuck Norris facts].
-
-"Putin does manly things" photo galleries:
-
-* 2017-06-07 https://mashable.com/2017/08/07/the-swaggering-masculinity-of-vladimir-putin/?europe=true (https://web.archive.org/web/20200412092201/https://mashable.com/2017/08/07/the-swaggering-masculinity-of-vladimir-putin/?europe=true[archive])
-* https://www.cbsnews.com/pictures/vladimir-putin-doing-manly-things/
-
-Related:
-
-* 2017-12-07 https://www.reuters.com/article/us-russia-putin-art-idUSKBN1E11L5 'SUPERPUTIN' exhibition gives Russian leader a pop-art make over
-
-.Putin swims Butterfly stroke in a Siberian lake around August 2009. The Telegraph https://web.archive.org/web/20200412090316/https://www.telegraph.co.uk/news/worldnews/europe/russia/6175324/Vladimir-Putin-gives-strong-signal-he-may-be-president-again.html[correctly interpreted this as a sign that he would be re-elected in 2012]. For reference https://en.wikipedia.org/wiki/Lake_Baikal[Lake Baikal in Siberia has a maximum temperature of 14 °C in summer]. Other dictators have used similar swim tactics before, the most notable possibly being <<mao-swim>>. https://web.archive.org/web/20200412090316/https://www.telegraph.co.uk/news/worldnews/europe/russia/6175324/Vladimir-Putin-gives-strong-signal-he-may-be-president-again.html[Source].
-image::{china-dictatorship-media-base}/Putin_swim.jpg[height=400]
-
-.Putin riding a horse shirtless https://nypost.com/2014/08/29/putin-its-best-not-to-mess-with-us/[near Lake Seliger in August 2009]. https://www.huffpost.com/entry/worl-photo-caption-contest-shirtless-putin_n_3263512[Source].
-image::{china-dictatorship-media-base}/Putin_horse.jpg[height=500]
-
-.Putin riding a bear. https://www.pinterest.fr/pin/469429961142687422/[Source].
-image::{china-dictatorship-media-base}/Putin_bear.jpg[height=400]
-
-.Putin riding a shark. https://sharkdivers.blogspot.com/2011/05/russian-pm-putin-rides-great-white.html[Source].
-image::{china-dictatorship-media-base}/Putin_shark.png[height=400]
-
-.Putin riding a giant eagle. https://www.quora.com/Is-this-picture-of-Vladimir-Putin-riding-a-bear-fake-or-real[Source].
-image::{china-dictatorship-media-base}/Putin_eagle.webp[height=400]
-
-.Putin riding a meteor. https://www.quora.com/Is-this-picture-of-Vladimir-Putin-riding-a-bear-fake-or-real[Source].
-image::{china-dictatorship-media-base}/Putin_meteor.webp[height=400]
-
-.Putin riding a dinosaur in a Sci-Fi planet. https://9gag.com/gag/a5K5jLG[Source].
-image::{china-dictatorship-media-base}/Putin_dinosaur.webp[height=400]
-
-.https://www.youtube.com/watch?v=YgGzAKP_HuM "RASPUTIN - Vladimir Putin - Love The Way You Move (Funk Overload) @slocband" by Pace Audio (2016). Somewhere in the 2010's the https://en.wikipedia.org/wiki/Rasputin_(song)[Rasputin 1978 song] by https://en.wikipedia.org/wiki/Boney_M.[Boney M.] saw a https://knowyourmeme.com/memes/ra-ra-rasputin[meme resurgence] by adapting the song to refer to Vladmir Putin instead of the original song's originally intended https://en.wikipedia.org/wiki/Grigori_Rasputin[Grigori Rasputin]. This video adds amazing cute animations of Russian scientists trying to create the perfect funk dancing machine, and highlights the <<superputin>> meme as Putin himself is the perfect dancing machine in the end.
-video::YgGzAKP_HuM[youtube,height=400,width=600]
-
-.https://www.youtube.com/watch?v=UbBaSfgNJnE Putin is number one greatest president song by Animation Domination High Def (2014). Good graphics, but the song is crap unlike the Rasputin one unfortunately. Many <<gay-putin>> suggestions.
-video::UbBaSfgNJnE[youtube,height=400,width=600]
-
-[[night-wolves]]
-===== Night wolves (Ночные волки)
-
-* https://en.wikipedia.org/wiki/Night_Wolves
-* https://ru.wikipedia.org/wiki/Ночные_волки
-
-Russian ultra-nationalist and motorcycle group supported by Putin.
-
-Notably, they have made large incredibly cheesy Putin supported music/theatrical/stunt shows to revive Russian nationalism.
-
-Mentioned at https://youtu.be/9Q1hZmAcE08?t=4974 "Can't Get You Out of My Head - Part 6: Are We Pigeon? Or Are We Dancer?"
-
-Sample show on <<russia-today>>: https://www.youtube.com/watch?v=GDyk1Ajq8yE
-
-[[gay-putin]]
-==== Gay Putin (Гей Путинt, 2017)
-
-Added to the <<federal-list-of-extremist-materials>>.
-
-Coverage:
-
-* 2017 https://www.independent.co.uk/news/world/europe/russia-putin-gay-clown-memes-internet-extremism-opposition-president-kremlin-a7669486.html
-
-<<gay-rights,Homosexuality>> is not super popular in Russia in general:
-
-* https://en.wikipedia.org/wiki/LGBT_rights_in_Russia
-* 2013 https://en.wikipedia.org/wiki/Russian_gay_propaganda_law Russian gay propaganda law (2013) forbids the favorable depiction of homosexuality to minors
-
-.The possibly Gay Putin (Гей Путинt) clown image banned in 2017. https://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay[Source].
-image::{china-dictatorship-media-base}/Gay_Putin.jpg[height=400]
-
-.Gay Putin (Гей Путинt) with Gay https://en.wikipedia.org/wiki/Dmitry_Medvedev[Medvedev] (Гей https://ru.wikipedia.org/wiki/Медведев,_Дмитрий_Анатольевич[Медведев]). This image was used as a poster in the 34th Berlin Christopher Street Day parade in 2012, the German version of the https://en.wikipedia.org/wiki/Pride_parade[Gay Pride parade] (https://zh.wikipedia.org/wiki/骄傲游行[骄傲游行]). https://kanobu.ru/pub/398489/[Source].
-image::{china-dictatorship-media-base}/Gay_Putin_with_Gay_Medvedev.jpg[height=400]
-
-[[putin-trump-kiss]]
-.Possibly Gay Putin kissing possibly Gay <<flg-trump,Trump>> mural entitled https://en.wikipedia.org/wiki/Make_Everything_Great_Again[Make Everything Great Again] painted in Lithuania in 2016 by by artists Dominykas Čečkauskas and Mindaugas Bonanu. It references the https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections[Russian interference in the 2016 United States elections]. It was https://www.theguardian.com/world/2016/aug/12/vandals-censor-image-of-putin-snogging-trump-lithuania[later vandalized]. Now we just need a Putin <<xi-jinping>> kiss. Trump Xi kiss https://www.dw.com/en/sierens-china-survival-of-the-fittest/a-49498499[can be found here]. Xi Carrie Lam kiss: https://lih.kg/siCRcoX[]. https://www.euractiv.com/section/global-europe/opinion/putin-will-pay-a-high-price-for-trumps-friendship/[Source].
-image::{china-dictatorship-media-base}/Putin_Trump_kiss.jpg[height=400]
-
-.https://www.youtube.com/watch?v=b1d7Llx4rm8 SUPER GAY PUTIN [original] by Squallido Anal Smithee (2014)
-video::b1d7Llx4rm8[youtube,height=400,width=600]
-
-.https://www.youtube.com/watch?v=m8xSZ9Fr4c0 What Putin thinks about gays by BBC News (2014) ahead of the Sochi Olympics. Basically he says we don't discriminate against gays. We passed this law that prevents them from promoting themselves. But that's mostly a anti-pedophilia law to start with, gays will be fine.
-video::m8xSZ9Fr4c0[youtube,height=400,width=600]
-
 [[skripal]]
-==== The poisoning of Sergei and Yulia Skripal (2018-03-04, Серге́й Ви́кторович Скрипáль)
+===== Sergei Skripal (2018-03-04, Серге́й Ви́кторович Скрипáль)
 
 * https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal
 * https://ru.wikipedia.org/wiki/Отравление_Сергея_и_Юлии_Скрипаль
@@ -18725,8 +18588,140 @@ image::{china-dictatorship-media-base}/Skripal_assassins_station.jpg[height=400]
 .Counterfeit Nina Ricci Premier Jour packet that contained the Novichok. https://www.npr.org/2018/09/05/644782096/u-k-charges-2-russians-suspected-of-poison-attack-on-skripals[Source].
 image::{china-dictatorship-media-base}/Skripal_perfume.jpg[height=400]
 
-.https://www.youtube.com/watch?v=Ku8OQNyI2i0 "Full Skripal case interview with the UK's suspects (EXCLUSIVE)" by RT with Alexander Petrov and Ruslan Boshirov. Not gay moment at: https://youtu.be/Ku8OQNyI2i0?t=461[461s].
+.https://www.youtube.com/watch?v=Ku8OQNyI2i0 "Full Skripal case interview with the UK's suspects (EXCLUSIVE)" by <<russia-today>> with Alexander Petrov and Ruslan Boshirov. Not gay moment at: https://youtu.be/Ku8OQNyI2i0?t=461[461s].
 video::Ku8OQNyI2i0[youtube,height=400,width=600]
+
+[[litvinenko]]
+===== Alexander Litvinenko (Литвиненко, Александр Вальтерович, 2006)
+
+* https://en.wikipedia.org/wiki/Alexander_Litvinenko
+* https://ru.wikipedia.org/wiki/Литвиненко,_Александр_Вальтерович
+
+Poisoned with polonium-210, for more poisonings see: <<putin-sponsored-poisonings>>:
+
+* 2006-10-29
+** meets with two former FSB agents Dmitry Kovtun and Andrey Lugovoy at Millenium Hotel London TODO exact address
+** eats with https://en.wikipedia.org/wiki/Mario_Scaramella[Mario Scaramella] at an Itsu in London TODO exact address. <<ciro-santilli>> believes the https://en.wikipedia.org/wiki/Itsu[Itsu] food to be the real cause of death.
+* 2006-11-01 falls ill
+* 2006-11-03 admitted into hospital
+* 2006-11-23 dies
+* 2007-01-26 UK police says they had found a teapot at Millenium Hotel containing extremely high Poloninum-210 traces
+* 2010-12 US leaked cables show that Dmitry Kovtun left "positive traces" of radioactive polonium-210 in Germany before departing for Britain https://www.theguardian.com/world/2010/dec/11/wilileaks-cables-litvinenko-murder
+
+His 2002 book https://en.wikipedia.org/wiki/Blowing_Up_Russia[Blowing up Russia: Terror from Within] (https://ru.wikipedia.org/wiki/ФСБ_взрывает_Россию[ФСБ взрывает Россию: Федеральная служба безопасности — организатор террористических актов, похищений и убийств]) accuses the FSB of setting up false flag bombing operations, and figures on the <<federal-list-of-extremist-materials>>.
+
+.Litvinenko in his death bed.
+image::{china-dictatorship-media-base}/Litvinenko_hospital_bed.webp[height=400]
+
+[[anna-politkovskaya]]
+===== Anna Politkovskaya (Анна Политковская, 2006)
+
+* https://en.wikipedia.org/wiki/Anna_Politkovskaya
+* link:++https://ru.wikipedia.org/wiki/Политковская,_Анна_Степановна++
+
+Interview excerpt: https://youtu.be/fAoMzxKkH2M?t=3616
+
+[[superputin]]
+==== Superputin (Супер Путин)
+
+Meme partially supported by Putin himself, showing how physically strong and <<gay-putin,manly>> the president is. A form of <<ccp-cult,personality cult>>.
+
+Similar to https://en.wikipedia.org/wiki/Chuck_Norris_facts[Chuck Norris facts].
+
+"Putin does manly things" photo galleries:
+
+* 2017-06-07 https://mashable.com/2017/08/07/the-swaggering-masculinity-of-vladimir-putin/?europe=true (https://web.archive.org/web/20200412092201/https://mashable.com/2017/08/07/the-swaggering-masculinity-of-vladimir-putin/?europe=true[archive])
+* https://www.cbsnews.com/pictures/vladimir-putin-doing-manly-things/
+
+Related:
+
+* 2017-12-07 https://www.reuters.com/article/us-russia-putin-art-idUSKBN1E11L5 'SUPERPUTIN' exhibition gives Russian leader a pop-art make over
+
+.Putin swims Butterfly stroke in a Siberian lake around August 2009. The Telegraph https://web.archive.org/web/20200412090316/https://www.telegraph.co.uk/news/worldnews/europe/russia/6175324/Vladimir-Putin-gives-strong-signal-he-may-be-president-again.html[correctly interpreted this as a sign that he would be re-elected in 2012]. For reference https://en.wikipedia.org/wiki/Lake_Baikal[Lake Baikal in Siberia has a maximum temperature of 14 °C in summer]. Other dictators have used similar swim tactics before, the most notable possibly being <<mao-swim>>. https://web.archive.org/web/20200412090316/https://www.telegraph.co.uk/news/worldnews/europe/russia/6175324/Vladimir-Putin-gives-strong-signal-he-may-be-president-again.html[Source].
+image::{china-dictatorship-media-base}/Putin_swim.jpg[height=400]
+
+.https://www.youtube.com/watch?v=cZzK32Cfcq8 "RASPUTIN - Vladimir Putin - Love The Way You Move (Funk Overload) @slocband" by Pace Audio (2016). Somewhere in the 2010's the https://en.wikipedia.org/wiki/Rasputin_(song)[Rasputin 1978 song] by https://en.wikipedia.org/wiki/Boney_M.[Boney M.] saw a https://knowyourmeme.com/memes/ra-ra-rasputin[meme resurgence] by adapting the song to refer to Vladmir Putin instead of the original song's originally intended https://en.wikipedia.org/wiki/Grigori_Rasputin[Grigori Rasputin]. This video adds amazing cute animations of Russian scientists trying to create the perfect funk dancing machine, and highlights the <<superputin>> meme as Putin himself is the perfect dancing machine in the end.
+video::cZzK32Cfcq8[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=UbBaSfgNJnE Putin is number one greatest president song by Animation Domination High Def (2014). Good graphics, but the song is crap unlike the Rasputin one unfortunately. Many <<gay-putin>> suggestions.
+video::UbBaSfgNJnE[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=8Lh444CFXxs thicc putin be walking
+video::8Lh444CFXxs[youtube,height=400,width=600]
+
+[[putin-riding-things]]
+===== Putin riding things (Путин верхом на вещах)
+
+TODO: Photoshoppers, PLEASE, on the <<gay-putin>> vein:
+* Putin riding <<alexander-lukashenko>>
+* Putin riding Medvedev, see also: <<gay-putin-gay-medvedev,Gay Putin and Gay Medvedev>>
+We just need to use some https://cirosantilli.com/gay-porn-meme[gay porn meme].
+
+.Putin riding a horse shirtless https://nypost.com/2014/08/29/putin-its-best-not-to-mess-with-us/[near Lake Seliger in August 2009]. https://www.huffpost.com/entry/worl-photo-caption-contest-shirtless-putin_n_3263512[Source]. There are others, e.g. here: https://www.vox.com/2015/6/17/8796659/vladimir-putin-shirtless-video we see putin feeding the horse in ultra high resolution. Getting cozy. We need one of Putin fucking a horse.
+image::{china-dictatorship-media-base}/Putin_horse.jpg[height=500]
+
+.Putin riding a bear. https://www.pinterest.fr/pin/469429961142687422/[Source].
+image::{china-dictatorship-media-base}/Putin_bear.jpg[height=400]
+
+.Putin riding a shark. https://sharkdivers.blogspot.com/2011/05/russian-pm-putin-rides-great-white.html[Source].
+image::{china-dictatorship-media-base}/Putin_shark.png[height=400]
+
+.Putin riding a giant eagle. https://www.quora.com/Is-this-picture-of-Vladimir-Putin-riding-a-bear-fake-or-real[Source].
+image::{china-dictatorship-media-base}/Putin_eagle.webp[height=400]
+
+.Putin riding a meteor. https://www.quora.com/Is-this-picture-of-Vladimir-Putin-riding-a-bear-fake-or-real[Source].
+image::{china-dictatorship-media-base}/Putin_meteor.webp[height=400]
+
+.Putin riding a dinosaur in a Sci-Fi planet. https://9gag.com/gag/a5K5jLG[Source].
+image::{china-dictatorship-media-base}/Putin_dinosaur.webp[height=400]
+
+[[night-wolves]]
+===== Night wolves (Ночные волки)
+
+* https://en.wikipedia.org/wiki/Night_Wolves
+* https://ru.wikipedia.org/wiki/Ночные_волки
+
+Russian ultra-nationalist and motorcycle group supported by Putin.
+
+Notably, they have made large incredibly cheesy Putin supported music/theatrical/stunt shows to revive Russian nationalism.
+
+Mentioned at https://youtu.be/9Q1hZmAcE08?t=4974 "Can't Get You Out of My Head - Part 6: Are We Pigeon? Or Are We Dancer?"
+
+Sample show on <<russia-today>>: https://www.youtube.com/watch?v=GDyk1Ajq8yE
+
+[[gay-putin]]
+==== Gay Putin (Гей Путин, 2017)
+
+Added to the <<federal-list-of-extremist-materials>>.
+
+Coverage:
+
+* 2017 https://www.independent.co.uk/news/world/europe/russia-putin-gay-clown-memes-internet-extremism-opposition-president-kremlin-a7669486.html
+
+<<gay-rights,Homosexuality>> is not super popular in Russia in general:
+
+* https://en.wikipedia.org/wiki/LGBT_rights_in_Russia
+* 2013 https://en.wikipedia.org/wiki/Russian_gay_propaganda_law Russian gay propaganda law (2013) forbids the favorable depiction of homosexuality to minors
+
+But there is a pro-Putin gay group, OMG:
+* https://en.wikipedia.org/wiki/Gays_for_Putin!
+
+.The possibly Gay Putin (Гей Путин) clown image banned in 2017. https://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay[Source].
+image::{china-dictatorship-media-base}/Gay_Putin.jpg[height=400]
+
+[[gay-putin-gay-medvedev]]
+.Gay Putin (Гей Путин) with Gay https://en.wikipedia.org/wiki/Dmitry_Medvedev[Medvedev] (Гей https://ru.wikipedia.org/wiki/Медведев,_Дмитрий_Анатольевич[Медведев]). This image was used as a poster in the 34th Berlin Christopher Street Day parade in 2012, the German version of the https://en.wikipedia.org/wiki/Pride_parade[Gay Pride parade] (https://zh.wikipedia.org/wiki/骄傲游行[骄傲游行]). https://kanobu.ru/pub/398489/[Source].
+image::{china-dictatorship-media-base}/Gay_Putin_with_Gay_Medvedev.jpg[height=400]
+
+[[putin-trump-kiss]]
+.Possibly Gay Putin kissing possibly Gay <<flg-trump,Trump>> mural entitled https://en.wikipedia.org/wiki/Make_Everything_Great_Again[Make Everything Great Again] painted in Lithuania in 2016 by by artists Dominykas Čečkauskas and Mindaugas Bonanu. It references the https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections[Russian interference in the 2016 United States elections]. It was https://www.theguardian.com/world/2016/aug/12/vandals-censor-image-of-putin-snogging-trump-lithuania[later vandalized]. Now we just need a Putin <<xi-jinping>> kiss. Trump Xi kiss https://www.dw.com/en/sierens-china-survival-of-the-fittest/a-49498499[can be found here]. Xi Carrie Lam kiss: https://lih.kg/siCRcoX[]. https://www.euractiv.com/section/global-europe/opinion/putin-will-pay-a-high-price-for-trumps-friendship/[Source].
+image::{china-dictatorship-media-base}/Putin_Trump_kiss.jpg[height=400]
+
+.https://www.youtube.com/watch?v=b1d7Llx4rm8 SUPER GAY PUTIN [original] by Squallido Anal Smithee (2014)
+video::b1d7Llx4rm8[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=m8xSZ9Fr4c0 What Putin thinks about gays by BBC News (2014) ahead of the Sochi Olympics. Basically he says we don't discriminate against gays. We passed this law that prevents them from promoting themselves. But that's mostly a anti-pedophilia law to start with, gays will be fine.
+video::m8xSZ9Fr4c0[youtube,height=400,width=600]
 
 ==== Electoral fraud in Russian elections
 
@@ -18749,40 +18744,6 @@ Related:
 ===== Electoral fraud in the 2021 Russian elections
 
 https://www.rferl.org/a/russia-election-fraud/31466758.html
-
-[[litvinenko]]
-==== The murder of Alexander Litvinenko (Литвиненко, Александр Вальтерович, 2006)
-
-* https://en.wikipedia.org/wiki/Alexander_Litvinenko
-* https://ru.wikipedia.org/wiki/Литвиненко,_Александр_Вальтерович
-
-Poisoned with polonium-210, for more poisonings see: <<putin-sponsored-poisonings>>:
-
-* 2006-10-29
-** meets with two former FSB agents Dmitry Kovtun and Andrey Lugovoy at Millenium Hotel London TODO exact address
-** eats with https://en.wikipedia.org/wiki/Mario_Scaramella[Mario Scaramella] at an Itsu in London TODO exact address. <<ciro-santilli>> believes the https://en.wikipedia.org/wiki/Itsu[Itsu] food to be the real cause of death.
-* 2006-11-01 falls ill
-* 2006-11-03 admitted into hospital
-* 2006-11-23 dies
-* 2007-01-26 UK police says they had found a teapot at Millenium Hotel containing extremely high Poloninum-210 traces
-* 2010-12 US leaked cables show that Dmitry Kovtun left "positive traces" of radioactive polonium-210 in Germany before departing for Britain https://www.theguardian.com/world/2010/dec/11/wilileaks-cables-litvinenko-murder
-
-His 2002 book https://en.wikipedia.org/wiki/Blowing_Up_Russia[Blowing up Russia: Terror from Within] (https://ru.wikipedia.org/wiki/ФСБ_взрывает_Россию[ФСБ взрывает Россию: Федеральная служба безопасности — организатор террористических актов, похищений и убийств]) accuses the FSB of setting up false flag bombing operations, and figures on the <<federal-list-of-extremist-materials>>.
-
-.Litvinenko in his death bed.
-image::{china-dictatorship-media-base}/Litvinenko_hospital_bed.webp[height=400]
-
-[[russia-mandatory-registration-of-bloggers]]
-==== Mandatory registration of bloggers (2014)
-
-https://www.bbc.co.uk/news/technology-28583669
-
-Bloggers with more than 3000 daily readers must register and cannot be anonymous.
-
-The following Chinese policies come to mind:
-
-* <<icp-license>>
-* <<anonymous-account-ban>>
 
 [[svetlana-krivonogikh]]
 ==== Svetlana Krivonogikh (Putin's girlfriend)
@@ -18894,6 +18855,85 @@ image::{china-dictatorship-media-base}/Navalny_hospital_sitting.jpg[height=400]
 
 In support to https://en.wikipedia.org/wiki/Sergei_Furgal[Sergei Furgal] (https://ru.wikipedia.org/wiki/Фургал,_Сергей_Иванович[Фургал, Сергей Иванович]).
 
+=== Freedom of speech in Russia
+
+* 2017-07-18 https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-freedom-expression "Online and On All Fronts Russia's Assault on Freedom of Expression" from <<human-rights-watch>>
+* https://en.wikipedia.org/wiki/Mass_media_in_Russia
+
+[[roskomnadzor]]
+==== Roskomnadzor (Роскомнадзор)
+
+* https://en.wikipedia.org/wiki/Federal_Service_for_Supervision_of_Communications,_Information_Technology_and_Mass_Media
+* https://ru.wikipedia.org/wiki/Роскомнадзор
+
+The Russian censorship body under <<putin>>. The Russian <<cac>>.
+
+They are the ones who make Russian takedowns on <<github-gov-takedowns>>, e.g. https://github.com/github/gov-takedowns/tree/master/Russia/2020
+
+[[federal-list-of-extremist-materials]]
+==== Federal List of Extremist Materials (Федеральный список экстремистских материалов)
+
+* https://en.wikipedia.org/wiki/Federal_List_of_Extremist_Materials
+* https://ru.wikipedia.org/wiki/Федеральный_список_экстремистских_материалов
+
+<<censorship-monitoring,Unlike the Chinese>>, they have a public list, each entry had a numerical ID even. This is the best thing ever made! The dream for <<keyword-attack,keyword attackers>>!
+
+Most of it appears to be anti/<<nazi>>, and notably anti-anti-semitic but several items are purely political anti-freedoms.
+
+One wonders if the majority of the items are just fillers to hide the really juicy anti-freedom ones.
+
+We need to make a <<github>> mirror of all of those some day!
+
+The list: http://minjust.gov.ru/ru/extremist-materials[] Here's an archive: http://web.archive.org/web/20200817142035/http://minjust.gov.ru/ru/extremist-materials/export.csv?attach=page[]. The website has a CSV for download with all entries at the bottom. Enca says the encoding is "MS-Windows code page 1251", convert to UTF-8 with:
+
+....
+iconv -f WINDOWS-1251 -t UTF-8//IGNORE export.csv
+....
+
+`//IGNORE` is needed because their fucking CSV export has a bug and otherwise `iconv` stops at the first error.
+
+Result at: https://github.com/cirosantilli/media/blob/039ed572f61866655fc6ea3333b199527df4f3eb/russian-federal-list-of-extremist-materials-utf8-2020-08-17.csv
+
+From this we can grep, and then to overcome translation limits as there is no offline option yet: https://askubuntu.com/questions/380847/is-it-possible-to-translate-words-via-terminal[], dump your selection on a gist and use Google translate on the Gist.
+
+A website "dedicated" to bypassing censorship of the list: http://zapretno.info/[]. TODO much of that website's content is not clearly marked as being on the list.
+
+Some notable additions:
+
+* 2791: "Blowing up Russia: Terror from Within" by <<litvinenko>>
+* Religion
+** 1171, 1172, 1173: "What is Scientology", which likely refers to this L. Ron Hubbard book. https://www.amazon.co.uk/What-Scientology-L-Ron-Hubbard/dp/1573181226[] and two other books. Coverage: https://www.businessinsider.com/russia-officially-bans-scientology-books-brands-them-extremist-2012-3?r=US&IR=T
+** 2904: Jehovah's Witnesses website https://www.jw.org/en/[]. Coverage: https://www.state.gov/reports/2017-report-on-international-religious-freedom/russia/
+* Ukraine due to <<russo-ukrainian-war>>
+** 2596: A. M. Byvshev's poem "Ukrainian patriots", where he disagreed with Russian intervention in Donbass and supported military resistance by Ukrainians.
+** searching for "суда" (Crimea) has dozens of hits
+* Anti-<<putin>> and apparently non hate-crime:
+** 1000:
+*** Leaflets with the following content: "Down with the power of the Cheka-nuty Putin and Medvedev", "Down with the power of the Cheka-nuty Putin"
+*** Листовки следующего содержания: «Долой власть ЧК-нутых Путина и Медведева», «Долой власть ЧК-нутого Путина»
+** 4071: <<gay-putin>>
+** 4914:
+*** The book "Where did Mr. Putin take Russia?" author Yu. E. Kozenkov (M., 2005 - 208 p.)
+*** "Книга «Куда завел Россию мистер Путин?» автор Ю.Е. Козенков (М., 2005 – 208 с.)
+
+[[list-of-journalists-killed-in-russia]]
+==== List of Journalists killed in Russia (Список журналистов, убитых в России)
+
+* https://en.wikipedia.org/wiki/List_of_journalists_killed_in_Russia
+* https://ru.wikipedia.org/wiki/Список_журналистов,_убитых_в_России
+
+[[russia-mandatory-registration-of-bloggers]]
+==== Mandatory registration of Russian bloggers (2014)
+
+https://www.bbc.co.uk/news/technology-28583669
+
+Bloggers with more than 3000 daily readers must register and cannot be anonymous.
+
+The following Chinese policies come to mind:
+
+* <<icp-license>>
+* <<anonymous-account-ban>>
+
 [[russian-state-media]]
 === Russian state media (俄罗斯官方媒体)
 
@@ -18989,18 +19029,24 @@ USA funded sister media of the <<rfa>>.
 === Mini-Russias
 
 [[belarus]]
-==== Belarus (白俄罗斯)
+==== Belarus (Белоруссия)
 
 * https://en.wikipedia.org/wiki/Belarus
-* https://zh.wikipedia.org/wiki/白俄罗斯
+* https://ru.wikipedia.org/wiki/Белоруссия
 
-The dictator: https://en.wikipedia.org/wiki/Alexander_Lukashenko[Alexander Lukashenko]. Close ties to his buddy <<putin>>.
+The dictator: <<alexander-lukashenko>>.
 
 https://en.wikipedia.org/wiki/2020_Belarusian_protests[2020 Belarusian protests].
 
 [[moscow-minsk-friendship-mural]]
 .The Moscow-Minsk friendship mural in Minsk (capital of Belarus), originally meant to show the harmonious alliance between Belarus and Russia, was defaced in 2016 by adding barbed wire amidst the flowers held and worn by the boy and girl which represent Russia and Belarus respectively, which indicates that the friendship is actually a prison for Belarus. <<dictatorships-tend-to-work-together>> comes to mind. Photo by Aleh Larychau. Upload https://commons.wikimedia.org/wiki/Commons:Deletion_requests/File:Mural_Minsk-Moscow_in_Minsk_1.jpg[on Wikimedia Commons] deleted because of the lack of https://commons.wikimedia.org/wiki/Commons:Freedom_of_panorama[Freedom of panorama in Belarus]. https://www.euronews.com/2020/12/21/how-the-crisis-in-belarus-is-politicising-a-new-wave-of-street-artists[].
 image::{china-dictatorship-media-base}/Moscow-Minsk_friendship_mural_girl_with_barbed_wire.jpg[height=400]
+
+[[alexander-lukashenko]]
+===== Alexander Lukashenko (Лукашенко, Александр Григорьевич)
+
+* https://en.wikipedia.org/wiki/Alexander_Lukashenko
+* link:++https://ru.wikipedia.org/wiki/Лукашенко,_Александр_Григорьевич++
 
 [[russo-ukrainian-war]]
 ==== Russo-Ukrainian War (俄乌战争, Російсько-українська війна, 2014-)
@@ -19016,6 +19062,17 @@ video::8X7Ng75e5gQ[youtube,height=400,width=600]
 [[why-is-ukraine-the-west-s-fault-by-john-mearsheimer-2015]]
 .https://www.youtube.com/watch?v=JrMiSQAGOS4 Why is Ukraine the West's Fault? by John Mearsheimer (2015) Interesting points: 1) Ukraine is badly split, the East is really pro-Russia unification, and the West really pro-European. 2) The Americans didn't like the <<cuban-missile-crisis>>", where an enemy power would install weapons on its borders. Ukraine is the same for the Russians. 3) The West wants Russia to be on our side against China. That is the big fight coming up. And in the Middle East. So we have to give some them some concessions. Ciro is a bit saddened by this kind of <<realpolitik>>, which completely disregards principles, but unfortunately, especially when dealing with <<dictatorship,dictatorships>>, it is the only way perhaps, choosing the lesser of two evils.
 video::JrMiSQAGOS4[youtube,height=400,width=600]
+
+.https://youtu.be/wtyA3VJQn1g?t=53 French state television pre 2022 invasion interview with brainwashed Russian. The pricesless moment is when they ask if the troop buildup on Ukraine's borders pre-2022 invasion don't worry him. To which he answers: "it's our side of the border, so we can do whatever we want". Ukraine, on the other hand, can't do whatever they want, e.g. join NATO.
+video::wtyA3VJQn1g[youtube,height=400,width=600,start=53]
+
+.https://www.youtube.com/watch?v=U-gpIs3rcFk[] Ukraine: Invade us if you are <<gay-rights,gay>> | Russia: meme.
+video::U-gpIs3rcFk[youtube,height=400,width=600]
+
+Some other pearls:
+
+* 2022-02-18 Russia's foreign minister, Sergey V. Lavrov said Ukraine was under the influence of "neo-Nazis" and the West. Can you believe the level of the invasion excuse, blaming neo nazis?
+* Police make more than 1,700 arrests as protesters take to the streets in cities across country https://www.theguardian.com/world/2022/feb/24/we-dont-want-this-russians-react-to-the-ukraine-invasion
 
 [[kazakhstan]]
 ==== Kazakhstan (哈萨克斯坦)
