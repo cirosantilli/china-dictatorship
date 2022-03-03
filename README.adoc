@@ -300,7 +300,8 @@ We've also tried to use jsfiddle like-services, but most don't work well:
 
 List of such services: https://codysaylor.com/notes/comparing-codepen-jsfiddle-cssdeck-liveweave-jsbin-dabblet/
 
-=== Software package mirrors
+[[software-package-mirrors]]
+=== Software package mirrors (软件包管理器镜像)
 
 We also have a NPM Node.js package https://www.npmjs.com/package/china-dictatorship[]. After https://askubuntu.com/questions/594656/how-to-install-the-latest-versions-of-nodejs-and-npm/971612#971612[installing NPM], you can be use it as:
 
@@ -399,7 +400,8 @@ which is more lightweight and pushes just to GitHub and GitLab Pages, so we are 
 
 There is no need to update package versions or add git tags, all of that gets done automatically by the script!
 
-==== GitHub proxies
+[[github-proxies]]
+==== GitHub proxies (GitHub的代理)
 
 Another source of China-specific mirroring of this project are GitHub proxies, https://linuxpip.org/github-in-china/ contains an overview:
 
@@ -18539,16 +18541,48 @@ Notable dissidents:
 
 * https://en.wikipedia.org/wiki/Eduard_Limonov | https://ru.wikipedia.org/wiki/Лимонов,_Эдуард_Вениаминович
 
+https://www.reddit.com/r/PutinIsABitch/ is a Putin appreciation <<reddit>>
+
 https://youtu.be/fAoMzxKkH2M?t=3628 Can't Get You Out of My Head S01E06 "Are We Pigeon Or Are We Dancer" highlights the fact that Putin came to power without a vision, without ideals and without personality. He was clearly just put there by the corrupt oligarchs who controlled the media as an administrator who would favor corruption.
 
 .https://www.youtube.com/watch?v=BiI5UuCiEoU Russian Youtuber Bashir Dokhov puts Putin portrait in a lift as an opinion poll. TODO evidence that it was not staged, e.g. address, identities of people shown. But in any case, Ciro does feel that as of 2020 Putin's power is very precarious compared to <<xi-jinping>> for example. E.g., whenever Ciro spoke to Russians abroad, they were all able to criticize Putin. But about on third to half of the Chinese abroad were completely brainwahsed and thought China has the best government possible. Original video: https://www.youtube.com/watch?v=eeb3MMl3lB4[].
 video::BiI5UuCiEoU[youtube,height=400,width=600]
 
+[[putler]]
+==== Vladolf Putler (Владольф Путлер)
+
+* https://en.wikipedia.org/wiki/Putler
+* https://ru.wikipedia.org/wiki/Путлер
+
+Combination os <<putin>> and Hitler. Of course the T joins just as nicely both in Russian and English.
+
+Analogous to <<nazi,Xitler>> for <<xi-jinping>>.
+
+Other images:
+
+* 2022 https://www.hindustantimes.com/world-news/the-time-magazine-cover-that-wasn-t-putin-hitler-picture-amid-ukraine-war-101646111380252.html good trio of fake Time magazine ones
+* 2022 https://www.reddit.com/r/PoliticalHumor/comments/t0n08e/this_aged_well_vladolf_putler/ on fake Time magazine, not amazing this one, more or less horizontally half half
+* https://steamcommunity.com/id/vladolfputin a very good fake Times magazine
+* 2015 https://g.cz/putler-putin-je-jako-hitler/ contains a very good side-by-side montage of real images of Putin vs Hitler
+
+.Putler. https://www.reddit.com/r/PutinIsABitch/comments/t1lsqa/vladof_putler/[Source]. Printout at a protest: https://www.paudal.com/2022/02/24/russia-vs-ukraine-ukrainian-government-places-putin-as-hitlers-student-on-twitter/[].
+image::{china-dictatorship-media-base}/Putler.jpg[height=400]
+
 [[putin-khuylo]]
-==== Putin khuylo (Путин — хуйло, 2014)
+==== Putin khuylo (Путин хуйло, 2014)
 
 * https://en.wikipedia.org/wiki/Putin_khuylo!
 * https://ru.wikipedia.org/wiki/Путин_—_хуйло!
+
+Literally something like "Putin is a dick".
+
+From the start of the <<russo-ukrainian-war>> in 2014.
+
+.https://www.youtube.com/watch?v=2_Rl_idM0eI 60 thousand people shouting "Putin khuylo" during the a soccer match between https://en.wikipedia.org/wiki/FC_Dynamo_Kyiv[Dynamo Kiev] and https://en.wikipedia.org/wiki/FC_Shakhtar_Donetsk[Shakhtar Donetsk] on 2014-04-16
+video::2_Rl_idM0eI[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=1Q54t3-3ZaE A cleaner version in band marching band formation (2014)
+video::1Q54t3-3ZaE[youtube,height=400,width=600]
 
 [[putin-sponsored-poisonings]]
 ==== Putin-sponsored poisonings (Путинские отравления)
@@ -18705,6 +18739,9 @@ Coverage:
 
 But there is a pro-Putin gay group, OMG:
 * https://en.wikipedia.org/wiki/Gays_for_Putin!
+
+Other images:
+* https://twitter.com/Vlad_Putler/photo is made to look more realistic
 
 .The possibly Gay Putin (Гей Путин) clown image banned in 2017. https://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay[Source].
 image::{china-dictatorship-media-base}/Gay_Putin.jpg[height=400]
@@ -19104,12 +19141,12 @@ This creates one of the most serious strategic problems faced by dictatorships. 
 
 And of course, when a smaller dictatorship makes an alliance with a larger dictatorship, they basically immediately become a https://en.wikipedia.org/wiki/Vassal_state[vassal state], e.g.:
 
-* <<belarus>> and <<russia>>, see: <<moscow-minsk-friendship-mural>>.
 * China and:
 ** <<iran>>, see: <<china-iran-relations>>
 ** <<pakistan>>, who is more afraid of India than China right now
 * Africa
 ** https://www.youtube.com/watch?v=Co0RGa99W0M "Zambia: Under Chinese influence" by FRANCE 24 English (2021)
+* <<belarus>> and <<russia>>, see: <<moscow-minsk-friendship-mural,Moscow-Minsk friendship mural>>. OK, in this case it is more like "<<putin>> setup a dictatorship on a neighbouirng country because democracy was a threat to him"
 
 ==== Anti-dictatorship alliances
 
