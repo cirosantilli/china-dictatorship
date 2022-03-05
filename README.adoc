@@ -827,7 +827,7 @@ And by the way, with his https://github.com/cirosantilli[extensive contributions
 See also: <<disturbs>>.
 
 [[harm-people]]
-===== Does Ciro Santilli want to make the Chinese people people look bad?
+===== Does Ciro Santilli want to make the Chinese people people look bad? (三西猴是想让中国人脸色不好？)
 
 No, the opposite.
 
@@ -2228,15 +2228,21 @@ See also:
 [[i-like-my-dictatorship]]
 ==== I like my Dictatorship (我喜欢我的独裁统治)
 
-Ciro Santilli can understand that.
+<<ciro-santilli>> can understand that.
 
-It must feel good to have <<li-hongzhi,absolute truth>> in the <<ccp-cult,Cult of Xi>>, and let the black police <<against-censorship-and-flg,get rid of weirdos for you>>.
+There are concrete advantages to being a dictatorship, see e.g. <<dictatorship-variability>> and <<richer>>.
 
-But when the dictatorship turns again you our your family, will you fight, or will you just let them do whatever they want because they can never be wrong? See also: <<intolerance>>.
+And it must feel good to have <<li-hongzhi,absolute truth>> in the <<ccp-cult,Cult of Xi>>, and let the black police <<against-censorship-and-flg,get rid of weirdos for you>>.
+
+But what happens when <<man-in-the-high-castle,one the dictatorship turns again you our your family>>? Will you fight, or will you just let them do whatever they want because they can never be wrong? See also: <<intolerance>>.
 
 And when your son <<man-in-the-high-castle,betrays you or sacrifices himself for the Dictator>>, will you just smile and accept it?
 
-See: <<seventeen-moments-of-spring>>
+What happens when the <<war,dictator declares waw>>, and <<russo-ukrainian-war,if you protest against it, you will go to jail>>?
+
+<<intolerance,Intolerance>> is a risky way to live.
+
+See also: <<seventeen-moments-of-spring>>
 
 [[seventeen-moments-of-spring]]
 ===== Seventeen Moments of Spring (1973, 春天的十七个瞬间, Soviet series about a Soviet spy against the Nazis, 关于苏联间谍反对纳粹的苏联系列)
@@ -3842,7 +3848,19 @@ Telling the CCP to fuck off is surprisingly relaxing, you should try it some tim
 [[is-ciro-anti-communism]]
 ==== Is Ciro Santilli against Communism/Socialism in general or just against the Chinese Communist Party specifically?
 
-Anti-dictatorship and censorship, not anti-communist in general. In this project, <<ciro-santilli>> has sometimes used the word "communist/commie" loosely as a shortcut for "supporter of the CCP", but it does not extend by default to communism in general.
+Anti-dictatorship and censorship, not anti-communist in general. In <<github-com-cirosantilli-china-dictatorship,this project>>, <<ciro-santilli>> has sometimes used the word "communist/commie" loosely as a shortcut for "supporter of the CCP", but it does not extend by default to communism in general.
+
+Most importantly, China is far from being socialist or communist. It is just a dictatorship with savage capitalism. Exactly like <<nazi,Nazi Germany>>.
+
+It is true that the CCP takes greater control of corporations, as shown e.g. in the <<xi-jinping-tech-crachdown-2021,Tech Crackdown of 2021>>, which is also something Ciro Santilli has asked for in the West, see also: https://cirosantilli.com/governments-have-lost-all-power-to-companies
+
+But to call it communist or socialist is a joke. There are no big specific benefits to citizens that are not already present in capitalist countries. It is nothing like the Soviet Union, where people had actual job guarantees, and everything provieded for (in theory).
+
+And Ciro has a fundamental and irrational belief that we should not <<overlook-human-rights-for-profit,violate human rights to reach those goals>>, which is why he opposes the CCP (and others who violate human rights).
+
+Also, being in a dictatorship is very risky business, see: <<intolerance>>, <<dictatorship-variability>>.
+
+And there are <<i-like-my-dictatorship,concrete advantages to dictatorships>>.
 
 Classify Ciro's techno-political goals as you will:
 
@@ -3852,8 +3870,6 @@ Classify Ciro's techno-political goals as you will:
 A possible way to get closer to either: https://cirosantilli.com/electronic-voting
 
 Anything in between however, he's not sure about.
-
-All he has is a fundamental and irrational belief that we should not <<overlook-human-rights-for-profit,violate human rights to reach those goals>>, which is why he opposes the CCP (and others who violate human rights).
 
 [[people-in-china-have-already-considered-democracy-and-rejected-it]]
 === People in China have already considered democracy, and rejected it (中国人已经考虑要不要民主, 到底决定不要了)
@@ -6133,12 +6149,6 @@ Alexa top 1000 domains and blocked in China as per <<greatfire>>:
 * https://gdl5vtbbv0lj.com
 * https://au79nt5wic4x.com
 
-https://library.ac.cn/ large list of university Google/Google Scholar/Wikipedia/Twitter mirrors maintained by Chinese university students under an unified system. Each one asks for verification that you are from that university via some little known fact about the university:
-
-* https://g.luciaz.me from https://en.wikipedia.org/wiki/Zhejiang_University[Zhejiang University] "需要验证您是否来自浙江大学". Question: "请问浙江大学内网最大的论坛中, 每天发帖量最大的版块是哪个?" (Ask your colleagues on the internal forum, what is the most popular section of the forum every day?)
-* https://g0.njuu.cf/ from https://en.wikipedia.org/wiki/Nanjing_University[Nanjing University] "需要验证您是否来自南京大学" Question: "西大楼是哪个系的?" (Which department is in the big Western building?)
-* https://g0.library.edu.eu.org/
-
 Other mirrors:
 
 * https://chacha.design/
@@ -6161,6 +6171,22 @@ No HTTPS?!?! Brains?!?!
 Lists of mirrors:
 
 * https://cjh0613.github.io/blog/GoogleMirror.html
+
+====== library.ac.cn
+
+https://www.library.ac.cn/
+
+https://library.ac.cn/ large list of university Google/Google Scholar/Wikipedia/Twitter mirrors maintained by Chinese university students under an unified system. Each one asks for verification that you are from that university via some little known fact about the university:
+
+* https://g.luciaz.me from https://en.wikipedia.org/wiki/Zhejiang_University[Zhejiang University] "需要验证您是否来自浙江大学". Question: "请问浙江大学内网最大的论坛中, 每天发帖量最大的版块是哪个?" (Ask your colleagues on the internal forum, what is the most popular section of the forum every day?)
+* https://g0.njuu.cf/ from https://en.wikipedia.org/wiki/Nanjing_University[Nanjing University] "需要验证您是否来自南京大学" Question: "西大楼是哪个系的?" (Which department is in the big Western building?)
+* https://g0.library.edu.eu.org/
+
+Website now points to: https://github.com/librarycloud/iwiki
+
+Related URLs:
+
+* several under <<backlinks>>
 
 [[anti-ccp-info-sources]]
 == Anti-CCP information sources (反中共信息来源)
@@ -9838,6 +9864,7 @@ image::{china-dictatorship-media-base}/Xi_Jinping_photoshopped_as_The_Joker.jpg[
 .<<xi-jinping>>, <<jiang-zemin>> and <<hu-jintao>> photoshopped on top of a clothing advertisement (TODO original). The text reads: "江胡险恶 习以为常". TODO understand. 江胡 are the surnames of <<jiang-zemin>> and <<hu-jintao>>. 习 is the surname of; <<xi-jinping>>. "习以为常" is a fixed expression that means "to get accustomed to". Also asked at: https://www.mohu.rocks/question/573 on <<mohu>>, and explained at: https://www.secretchina.com/news/gb/2003/12/03/56236.html from <<falun-gong-media>>. https://twitter.com/BeqB38ldjIu5acT/status/1377094062063292418[Source]
 image::{china-dictatorship-media-base}/Xi_Jiang_Hu.jpg[height=400]
 
+[[xi-jinping-tech-crachdown-2021]]
 .Meme impliying that <<xi-jinping>>'s 2021 https://www.bloomberg.com/news/features/2021-08-01/china-tech-crackdown-communist-party-policy-changes-behind-1-trillion-selloff[tech crackdown] was much mroe destructive to the Chinese economy than https://thediplomat.com/2021/08/the-biden-administrations-china-sanctions-dilemma/[contemporary economic sanctions imposed by United States president Biden]. https://www.reddit.com/r/China/comments/pb5ft2/meme_xis_successive_series_of_economically/[English source], https://twitter.com/xijinpingqindie/status/1429480173938745348[Chinese source], meme template https://www.reddit.com/r/MemeTemplatesOfficial/comments/dlla95/man_hold_man_a_knifepoint_an_then_someone_shoots/[by Joan Cornella].
 image::{china-dictatorship-media-base}/Biden_sanctions_vs_Xi_Jinping_tech_crackdown_2021.jpg[height=700]
 
@@ -14803,6 +14830,13 @@ Operates some MMORPGs in China. According to Wikipedia: "The company also owns s
 * https://en.wikipedia.org/wiki/Tencent
 * https://zh.wikipedia.org/wiki/腾讯
 
+==== QQ
+
+* https://en.wikipedia.org/wiki/Tencent_QQ
+* https://zh.wikipedia.org/wiki/腾讯QQ
+
+<<tencent>>'s chat app.
+
 ==== oa.com
 
 Tencent owns the oa.com domain since 2020 which they bought from some small early American Internet company, although they don't announce that clearly on the main domain itself. But they have several subdomains of that being used actively.
@@ -14968,6 +15002,8 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* http://hub.連接.台灣/search
+* 2022-02 https://urlsec.qq.com/check.html from <<qq>> to https://github.com/cirosantilli/cirosantilli "网站安全检查" (Website safety check) from  https://urlsec.qq.com/check.html?url=https%3A%2F%2Fgithub.com%2Fcirosantilli%2Fchina-dictatorship says "暂未发现风险" (No risks discovered at present) as of 2022-03-04, so all good.
 * 2022-01-31 https://gall.dcinside.com/mgallery/board/view/?id=aoegame&no=20186832 Korean forum originally about photography: https://en.wikipedia.org/wiki/DC_Inside Wrongly suggests that this repository is made by Chinese/Taiwanese people: <<is-ciro-santilli-chinese>> but no patience to create an account there now
 * 2022-01-15 https://web.archive.org/web/20220120082147/https://wirechan.org/b/ | https://archive.ph/BkjAj in an independent and not very popular Chan, the post basically quotes https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/288497#288497[]
 +
@@ -14992,7 +15028,8 @@ referring to: https://cirosantilli.com/how-to-become-a-good-programmer
 * 2022-01-14 https://mg.h6ee.com to cirosantilli.com/china-dictatorship redirects to a Chinese login page http://mg.h6ee.com/admin/public/login.html[] with no affiliation. Suspicious stuff. Debug thingy at the bottom shows some internals, e.g. SQL query doing `SHOW COLUMNS FROM cmf_hook_plugin`.
 * 2021-12-22 https://cirosantilli-realworld-next.herokuapp.com/ https://archive.ph/wip/EVcUw added two messages "这个网站也是王八操的搞得，操你妈得大傻逼。狗腿子汉奸孤儿" and "访问太频繁服务器受不了啦🏦，请使用微信搜索「沙雕APP」使用小程序体验，没有访问限制" That website has no signup verification mechanism, users can just spam it at will. Would be good to log some IPs to start with. Can't store in a database because we are capped at 10k DB rows on the free plan.
 * 2021-12-21 https://codeforces.com/blog/entry/98165?locale=en a Russian online judge: "BTW, I'm not sure if these two things are related, but HDU's online judge system(http://acm.hdu.edu.cn) was shut down in last week. The site administrator said the reason for the shutdown was that a user's username violated Chinese law..." to which "TwentyOneHundredOrBust" replied "this sounds like a job for ciro santilli"
-* 2021 https://hub.xn--p8jhe.tw/ to https://github.com/cirosantilli/cirosantilli[] which redirects to https://www.library.ac.cn/ip.html?=iwikie "Your IP is not allowed to visit this site. This site is only available in Mainland China." which is a mirror list as mentioned at <<google-mirrors>>.
+* 2021 https://hub.xn--p8jhe.tw/search to https://github.com/cirosantilli/cirosantilli[] which redirects to https://www.library.ac.cn/ip.html?=iwikie "Your IP is not allowed to visit this site. This site is only available in Mainland China." which is a mirror list as mentioned at <<google-mirrors>>. Other similar links from other times: おうか
+  * 2022-03: http://hub.xn--gzu630h.xn--kpry57d.com/search Nowadays, putting it in Chromium redirects to hub.連接.台灣/search where 連接 is "link, hyperlink" and <<taiwan>>. So we understand that the weird URLs are just a way to encode chinese characters on URLs. https://stackoverflow.com/questions/9724379/xn-on-domain-what-it-means explains 
 * 2021-11-14 https://www.chinesehongker.com/forum.php?mod=viewthread&tid=14153&extra=page%3D1&ordertype=1&mobile=2 Appears not visible outsie of China. From http://webcache.googleusercontent.com/search?q=cache:8bAWUrdhbNYJ:https://www.chinesehongker.com/forum.php?mod%3Dviewthread%26tid%3D14153%26extra%3Dpage%253D1%26ordertype%3D1%26mobile%3D2&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW&client=ubuntu&hl=en&gl=uk&tbs=lr:lang_1en%7Clang_1zh-CN%7Clang_1zh-TW&strip=1&vwsrc=0[Google cache] (https://archive.ph/wip/Z6EGq[archive]). Title: 对于github上的非法项目，如何合理的消灭 Content: https://github.com/cirosantilli 今天无意间搜到一个湾毒的github，有哪位大佬可以解决该问题吗 Just your usual <<disturbs>> wumao bullshit. Edit: found viewable version at: https://www.chinesehongker.com/forum.php?mod=viewthread&tid=14153[] The forum claims to be part of the Honker Union hacktivist group, bring it on:
 ** https://en.wikipedia.org/wiki/Honker_Union
 ** https://zh.wikipedia.org/wiki/红客
@@ -18687,9 +18724,15 @@ video::8Lh444CFXxs[youtube,height=400,width=600]
 ===== Putin riding things (Путин верхом на вещах)
 
 TODO: Photoshoppers, PLEASE, on the <<gay-putin>> vein:
+
 * Putin riding <<alexander-lukashenko>>
 * Putin riding Medvedev, see also: <<gay-putin-gay-medvedev,Gay Putin and Gay Medvedev>>
+
 We just need to use some https://cirosantilli.com/gay-porn-meme[gay porn meme].
+
+Some other ones:
+
+* https://archive.ph/nEEHt Putin riding a bicycle with Medvedev
 
 .Putin riding a horse shirtless https://nypost.com/2014/08/29/putin-its-best-not-to-mess-with-us/[near Lake Seliger in August 2009]. https://www.huffpost.com/entry/worl-photo-caption-contest-shirtless-putin_n_3263512[Source]. There are others, e.g. here: https://www.vox.com/2015/6/17/8796659/vladimir-putin-shirtless-video we see putin feeding the horse in ultra high resolution. Getting cozy. We need one of Putin fucking a horse.
 image::{china-dictatorship-media-base}/Putin_horse.jpg[height=500]
@@ -18728,26 +18771,30 @@ Sample show on <<russia-today>>: https://www.youtube.com/watch?v=GDyk1Ajq8yE
 
 Added to the <<federal-list-of-extremist-materials>>.
 
-Coverage:
-
-* 2017 https://www.independent.co.uk/news/world/europe/russia-putin-gay-clown-memes-internet-extremism-opposition-president-kremlin-a7669486.html
-
-<<gay-rights,Homosexuality>> is not super popular in Russia in general:
+Often used to stress the poor condition of <<gay-rights>> in Russia:
 
 * https://en.wikipedia.org/wiki/LGBT_rights_in_Russia
 * 2013 https://en.wikipedia.org/wiki/Russian_gay_propaganda_law Russian gay propaganda law (2013) forbids the favorable depiction of homosexuality to minors
 
+The meme is especially funny due to Putin's own personality cult which portrays himself as super-masculine, see: <<superputin>>.
+
+Coverage:
+
+* 2017 https://www.independent.co.uk/news/world/europe/russia-putin-gay-clown-memes-internet-extremism-opposition-president-kremlin-a7669486.html
+
 But there is a pro-Putin gay group, OMG:
+
 * https://en.wikipedia.org/wiki/Gays_for_Putin!
 
 Other images:
+
 * https://twitter.com/Vlad_Putler/photo is made to look more realistic
 
 .The possibly Gay Putin (Гей Путин) clown image banned in 2017. https://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay[Source].
 image::{china-dictatorship-media-base}/Gay_Putin.jpg[height=400]
 
 [[gay-putin-gay-medvedev]]
-.Gay Putin (Гей Путин) with Gay https://en.wikipedia.org/wiki/Dmitry_Medvedev[Medvedev] (Гей https://ru.wikipedia.org/wiki/Медведев,_Дмитрий_Анатольевич[Медведев]). This image was used as a poster in the 34th Berlin Christopher Street Day parade in 2012, the German version of the https://en.wikipedia.org/wiki/Pride_parade[Gay Pride parade] (https://zh.wikipedia.org/wiki/骄傲游行[骄傲游行]). https://kanobu.ru/pub/398489/[Source].
+.Gay Putin (Гей Путин) with Gay https://en.wikipedia.org/wiki/Dmitry_Medvedev[Medvedev] (Гей https://ru.wikipedia.org/wiki/Медведев,_Дмитрий_Анатольевич[Медведев]). This image was used as a poster in the 34th Berlin Christopher Street Day parade in 2012, the German version of the https://en.wikipedia.org/wiki/Pride_parade[Gay Pride parade] (https://zh.wikipedia.org/wiki/骄傲游行[骄傲游行]). Some other good homoerotic real propaganda photos can be seen at: https://www.npr.org/sections/parallels/2015/09/01/436569328/just-two-russian-bros-working-out-grilling-steak-drinking-tea[]. https://kanobu.ru/pub/398489/[Source].
 image::{china-dictatorship-media-base}/Gay_Putin_with_Gay_Medvedev.jpg[height=400]
 
 [[putin-trump-kiss]]
@@ -19092,6 +19139,10 @@ image::{china-dictatorship-media-base}/Moscow-Minsk_friendship_mural_girl_with_b
 * link:++https://uk.wikipedia.org/wiki/Російсько-українська_війна_(з_2014)++[]
 
 The situation is basically the same as that of <<belarus>>: Russia wants buffer states/human shields between itself and its possible enemies, The West. Just like he USA did during the <<cuban-missile-crisis>>. It is just too important strategically for the Russians.
+
+This is something the USA should recognize, and promise not to expand NATO/EU there:
+
+* https://www.youtube.com/watch?v=ZnHo6JXxcQM The War in Ukraine by Glenn Greenwald (2022) Mentions how USA was very influential in Ukraine since the 2014 revolution. Another point is on the Trump election, democrats were accusing Trump of being supported by the Russians, which led it to become a taboo to talk to Russians, and strained relations between the USA and Russia.
 
 .https://www.youtube.com/watch?v=8X7Ng75e5gQ Vladimir Pozner: How the United States Created Vladimir Putin (2018) Basically says it was a similar bullshit to what the allies did after WWI, rather than invest in the country, they were more willing to punish it, or ignore it. Notably disastrous was the enlargement of NATO in 1996 to move East including Poland, which the USA had promised not to do during discussions for the reunification of Germany in 1989. When Putin came to power, he propoesd that Russia should join the NATO or the European Union, and again he was turned down.
 video::8X7Ng75e5gQ[youtube,height=400,width=600]
