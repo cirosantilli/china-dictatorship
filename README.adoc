@@ -3469,7 +3469,7 @@ Bibliography: https://github.com/cirosantilli/china-dictatorship/issues/93
 
 See: https://cirosantilli.com/ciro-santilli
 
-It makes Ciro smile when <<wumao,wumaos>> consider he might be Chinese.
+It makes <<ciro-santilli>> smile when <<wumao,wumaos>> consider he might be Chinese.
 
 Does "<<ciro-santilli,Ciro Santilli>>" sound like a Chinese name?
 
@@ -14256,11 +14256,20 @@ video::PIMsALZlvuQ[youtube,height=400,width=600]
 * https://en.wikipedia.org/wiki/Social_Credit_System
 * https://zh.wikipedia.org/wiki/社会信用体系
 
+A fundamental problem with this system is highlighted e.g. in the book Human Compatible by Stuart J. Russell (2019): kindness will lose all meaning, and you will never be sure if people like you, or if they are just doing things for the social credit:
+
+____
+There are several problems with [a social credit system]. First, it ignores the psychic cost of living under a system of intrusive monitoring and coercion; outward harmony masking inner misery is hardly an ideal state. Every act of kindness ceases to be an act of kindness and becomes instead an act of personal score maximization and is per ceived as such by the recipient. Or worse, the very concept of a voluntary act of kindness gradually becomes just a fading memory something people used to do. Visiting an ailing friend in hospital will, under such a system, have no more moral significance and emotional of value than stopping at a red light.
+____
+
 Coverage:
 
 * 2019-06-04 https://www.youtube.com/watch?v=0cGB8dCDf3c "A Look Inside China's Social Credit System | NBC News Now" by "NBC News"
-* 2018-12-12 https://www.youtube.com/watch?v=Dkw15LkZ_Kw "China's "Social Credit System" Has Caused More Than Just Public Shaming (HBO)" by "VICE News". https://youtu.be/Dkw15LkZ_Kw?t=238[328s] shows how you can donate money to the party to increase your score. This is not a hidden practice, they were filmed and everyone is showing their faces. What a brilliant idea that could never ever lead to corruption! Ciro's jaw just dropped. How can the commies not hide this kind of shit from the West, but hide other stuff the West couldn't care less about?
-+
+
+.https://www.youtube.com/watch?v=oLc2E4P87QE Cafe Scene from https://en.wikipedia.org/wiki/Black_Mirror[Black Mirror] https://en.wikipedia.org/wiki/Nosedive_(Black_Mirror)[Series 3 Episode "Nosedive"] (2016)
+video::oLc2E4P87QE[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=Dkw15LkZ_Kw China's "Social Credit System" Has Caused More Than Just Public Shaming (HBO) by VICE News (2018). https://youtu.be/Dkw15LkZ_Kw?t=238[328s] shows how you can donate money to the party to increase your score. This is not a hidden practice, they were filmed and everyone is showing their faces. What a brilliant idea that could never ever lead to <<corruption,corruption>>! Ciro's jaw just dropped. How can the commies not hide this kind of shit from the West, but hide other stuff the West couldn't care less about?
 video::Dkw15LkZ_Kw[youtube,height=400,width=600]
 
 [[chinese-foreign-interference-campaigns]]
@@ -18595,6 +18604,8 @@ Combination os <<putin>> and Hitler. Of course the T joins just as nicely both i
 
 Analogous to <<nazi,Xitler>> for <<xi-jinping>>.
 
+Wikipedia also mentions the derived slogan "Путлер Капут" (Putler Kaput)
+
 Other images:
 
 * 2022 https://www.hindustantimes.com/world-news/the-time-magazine-cover-that-wasn-t-putin-hitler-picture-amid-ukraine-war-101646111380252.html good trio of fake Time magazine ones
@@ -18834,7 +18845,19 @@ https://www.rferl.org/a/russia-election-fraud/31466758.html
 
 * 2021-10-03 Pandora papers reveal hidden riches of Putin’s inner circle https://www.theguardian.com/news/2021/oct/03/pandora-papers-reveal-hidden-wealth-vladimir-putin-inner-circle
 
-=== Putin opposition
+[[putinism]]
+==== Putinism (путинизм)
+
+* https://en.wikipedia.org/wiki/Putinism
+* https://ru.wikipedia.org/wiki/Путинизм
+
+[[silovik]]
+===== Silovik (Силовики)
+
+* https://en.wikipedia.org/wiki/Silovik
+* https://ru.wikipedia.org/wiki/Силовики
+
+==== Putin opposition
 
 * https://en.wikipedia.org/wiki/Opposition_to_Vladimir_Putin_in_Russia
 * https://ru.wikipedia.org/wiki/Политическая_оппозиция_в_Российской_Федерации
@@ -18843,7 +18866,7 @@ List:
 
 * https://en.wikipedia.org/wiki/Yegor_Zhukov[Yegor Zhukov]: 2020-08-31 https://www.bbc.co.uk/news/world-europe-53972592 "Yegor Zhukov: Leading Russian opposition blogger beaten up", good photo of swallen face
 
-==== NFKRZ
+===== NFKRZ
 
 Real name: Roman Albertovich Abalin.
 
@@ -18857,7 +18880,7 @@ Interesting videos:
 * <<my-paranoia-as-a-russian-youtuber>> talks about the <<chilling-effect>>
 
 [[alexei-navalny]]
-==== Alexei Navalny (Навальный, Алексей Анатольевич)
+===== Alexei Navalny (Навальный, Алексей Анатольевич)
 
 * https://en.wikipedia.org/wiki/Alexei_Navalny
 * https://ru.wikipedia.org/wiki/Навальный,_Алексей_Анатольевич
@@ -18885,7 +18908,7 @@ News:
 
 * 2021-04-16 https://www.theguardian.com/world/2021/apr/16/russian-prosecutors-move-to-liquidate-navalnys-extremist-movement "Russian prosecutors move to liquidate Navalny’s ‘extremist’ movement"
 
-===== The poisoning of Alexei Navalny (2020)
+====== The poisoning of Alexei Navalny (2020)
 
 * https://en.wikipedia.org/wiki/Poisoning_of_Alexei_Navalny_(2020)
 * https://ru.wikipedia.org/wiki/Отравление_Алексея_Навального
@@ -18932,17 +18955,35 @@ https://uk.reuters.com/article/uk-russia-politics-navalny-probe/russian-prosecut
 image::{china-dictatorship-media-base}/Navalny_hospital_sitting.jpg[height=400]
 
 [[khabarovsk-krai-protests-2020]]
-==== 2020 Khabarovsk Krai protests (Протесты в Хабаровском крае)
+===== 2020 Khabarovsk Krai protests (Протесты в Хабаровском крае)
 
 * https://en.wikipedia.org/wiki/2020_Khabarovsk_Krai_protests
 * https://ru.wikipedia.org/wiki/Протесты_в_Хабаровском_крае
 
 In support to https://en.wikipedia.org/wiki/Sergei_Furgal[Sergei Furgal] (https://ru.wikipedia.org/wiki/Фургал,_Сергей_Иванович[Фургал, Сергей Иванович]).
 
+[[sergei-magnitsky]]
+===== Sergei Magnitsky (Сергeй Леонидович Магнитский, 2009)
+
+* https://en.wikipedia.org/wiki/Sergei_Magnitsky
+* https://ru.wikipedia.org/wiki/Магнитский,_Сергей_Леонидович
+
+Lawyer of <<sergei-magnitsky>>.
+
+====== Bill Browder
+
+* https://en.wikipedia.org/wiki/Bill_Browder
+
 === Freedom of speech in Russia
 
 * 2017-07-18 https://www.hrw.org/report/2017/07/18/online-and-all-fronts/russias-assault-freedom-expression "Online and On All Fronts Russia's Assault on Freedom of Expression" from <<human-rights-watch>>
 * https://en.wikipedia.org/wiki/Mass_media_in_Russia
+
+Natasha Sindeeva (Синдеева, Наталья Владимировна)
+
+* https://www.youtube.com/watch?v=yMig0MZlX_Y F@ck This Job trailer by Journeyman Pictures
+* https://en.wikipedia.org/wiki/Natalya_Sindeyeva
+* https://ru.wikipedia.org/wiki/Синдеева,_Наталья_Владимировна
 
 [[roskomnadzor]]
 ==== Roskomnadzor (Роскомнадзор)
