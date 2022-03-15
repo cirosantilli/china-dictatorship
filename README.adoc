@@ -414,6 +414,7 @@ Another source of China-specific mirroring of this project are GitHub proxies, h
 * using https://workers.cloudflare.com/[Cloudflare workers]:
 ** https://github.independentlyreview.com/cirosantilli/china-dictatorship described at https://independentlyreview.com/link as using Cloudfare workers
 ** https://github.laobiao.workers.dev/cirosantilli/china-dictatorship
+** https://github.rc1844.workers.dev/cirosantilli/china-dictatorship
 
 Related:
 * https://gitmemory.com/cirosantilli/china-dictatorship appears to be Chinese: https://www.reddit.com/r/github/comments/iiolp8/what_the_hell_is_gitmemorycom/
@@ -727,6 +728,10 @@ so it must be about him.
 
 The manifesto is divided into 23 numbered headers which appear to be independently published texts later collected. It is signed by 郝雪森 (Hao Xuesen) 2016-09-10. One of the sections gives the email: haoxuesen@gmx.com[].
 
+Related:
+
+* https://github.com/github/feedback/discussions/12800 Polluted search results by ThebestkillerTBK
+
 === Bot + issue mention attack
 
 In March 2021, this repo had a traffic search spike for: "Search · 联级选择器"
@@ -805,7 +810,7 @@ And if they decide to destroy the dictatorship, Ciro wants to help China become 
 
 Closely related/identical ideas are <<cute-cat-theory-of-digital-activism>> and <<collateral-freedom>>.
 
-Related attack: <<photobombing-like-attacks>>.
+Related attack: <<photobomb>>.
 
 [[harm-programmers]]
 ==== Does Ciro Santilli want to harm the Chinese programmers? 三西猴想要伤害中国程序员吗？
@@ -875,7 +880,7 @@ This type of attack is essentially an <<embargo>>, and it is especially effectiv
 
 See also:
 
-* <<photobombing-like-attacks>>.
+* <<photobomb>>.
 * 2021-06-03 https://www.theguardian.com/world/2021/jun/03/free-hong-kong-road-budapest-renames-streets-to-frustrate-chinese-campus-plan "Free Hong Kong Road: Budapest renames streets to frustrate Chinese campus plan"
 
 Some non-screen name ones:
@@ -1639,6 +1644,7 @@ Well known corruption cases:
 Related events:
 
 * <<panama-papers>>
+* <<putin-s-palace>>
 
 ===== Operation Fox Hunt
 
@@ -2230,13 +2236,13 @@ See also:
 
 <<ciro-santilli>> can understand that.
 
-There are concrete advantages to being a dictatorship, see e.g. <<dictatorship-variability>> and <<richer>>.
+There are concrete advantages to being a dictatorship, see e.g. <<dictatorship-variability>>, <<richer>>, making good radical changes like <<chinese-characters-are-insane,simplifying your insane writing system>>.
 
 And it must feel good to have <<li-hongzhi,absolute truth>> in the <<ccp-cult,Cult of Xi>>, and let the black police <<against-censorship-and-flg,get rid of weirdos for you>>.
 
-But what happens when <<man-in-the-high-castle,one the dictatorship turns again you our your family>>? Will you fight, or will you just let them do whatever they want because they can never be wrong? See also: <<intolerance>>.
+But what happens when <<man-in-the-high-castle,the dictatorship turns again you our your family>>? Will you fight, or will you just let them do whatever they want because they can never be wrong? See also: <<intolerance>>.
 
-And when your son <<man-in-the-high-castle,betrays you or sacrifices himself for the Dictator>>, will you just smile and accept it?
+And when your son <<man-in-the-high-castle,betrays you or sacrifices himself for the Dictator>>, will you just smile and accept it in pride?
 
 What happens when the <<war,dictator declares waw>>, and <<russo-ukrainian-war,if you protest against it, you will go to jail>>?
 
@@ -4165,13 +4171,17 @@ The school is mentioned in a news report from 2020 at: https://moment.rednet.cn/
 .https://www.youtube.com/watch?v=zasx2iTeOX0 (https://github.com/cirosantilli/china-dictatorship/issues/629[GitHub reupload])
 video::zasx2iTeOX0[youtube,height=400,width=600]
 
+[[photobomb]]
 ==== Photobombing-like attacks
 
 https://en.wikipedia.org/wiki/Photobombing
 
 Explicitly forbidden in China by the law: <<real-username-law>>.
 
-See also: <<keyword-attack>>.
+See also:
+
+* <<marina-ovsyannikova>>
+* <<keyword-attack>>
 
 ===== Appropriation attack
 
@@ -5548,6 +5558,7 @@ admin.github.com hits to GitHub repository:
 
 Bibliography:
 
+* 2022 https://github.com/github/feedback/discussions/12641 Please shut down this repository of malicious smears/ethnic division/nothing to do with open source technology/misperception among teenagers
 * https://www.zhihu.com/question/388634161 如果举报github上的这种情况？ (How to report this type of circunstance on GitHub.) Question links to <<evil-man>>.
 +
 A few answers then started mentioning <<github-com-cirosantilli-china-dictatorship>>:
@@ -6573,7 +6584,7 @@ image::{china-dictatorship-media-base}/West_Taiwan_map.jpg[height=500]
 .https://youtube.com/watch?v=vTqZ9xrxhHk ANGRYPUG's official YouTube upload of the clip "Taiwan #1" meme.
 video::vTqZ9xrxhHk[youtube,height=400,width=600]
 
-See also: <<photobombing-like-attacks>>.
+See also: <<photobomb>>.
 
 ==== Hololive
 
@@ -18616,6 +18627,34 @@ Other images:
 .Putler. https://www.reddit.com/r/PutinIsABitch/comments/t1lsqa/vladof_putler/[Source]. Printout at a protest: https://www.paudal.com/2022/02/24/russia-vs-ukraine-ukrainian-government-places-putin-as-hitlers-student-on-twitter/[].
 image::{china-dictatorship-media-base}/Putler.jpg[height=400]
 
+[[putin-s-palace]]
+==== Putin's palace (Дворец Путина, 2005-)
+
+* https://en.wikipedia.org/wiki/Putin%27s_Palace
+* https://ru.wikipedia.org/wiki/Дворец_Путина
+
+[[putin-s-palace-film]]
+===== Putin's palace film (Дворец для Путина. История самой большой взятки, 2021)
+
+* https://en.wikipedia.org/wiki/Putin%27s_Palace_(film)
+* https://ru.wikipedia.org/wiki/Дворец_для_Путина._История_самой_большой_взятки
+
+By <<alexei-navalny>> and allies.
+
+* https://youtu.be/ipAnwilMncI?t=2305 they show clearly that the <<fsb>> has a no fly zone over the palace, completely defeating any claims that is it not really owned by Putin
+* https://youtu.be/ipAnwilMncI?t=3755 shows a hookah lounge with a pole dancing area
+* https://youtu.be/ipAnwilMncI?t=6084 shows a small social media-like film of Putin's bastard daughter Luiza Rozova, the closeup of her face shows she looks a lot like Putin, Another photo: https://www.shethepeople.tv/news/elizaveta-krivonogikh-vladimir-putin-secret-daughter/
+* https://youtu.be/ipAnwilMncI?t=6460 quotes Tolstoy: https://youtu.be/ipAnwilMncI?t=6460
++
+____
+The villains who robbed the people gathered together, recruited soldiers and judges to guard their orgy, and are feasting.
+____
++
+TODO identify.
+
+.https://www.youtube.com/watch?v=ipAnwilMncI
+video::ipAnwilMncI[youtube,height=400,width=600]
+
 [[putin-khuylo]]
 ==== Putin khuylo (Путин хуйло, 2014)
 
@@ -18664,7 +18703,7 @@ https://en.wikipedia.org/wiki/The_Salisbury_Poisonings[The Salisbury Poisonings 
 
 Interview with his neighbour Ross Cassidy: https://www.gettyimages.co.uk/detail/video/shows-interior-shots-interview-with-salisbury-residentl-news-footage/942266216
 
-.The assassination suspects Alexander Mishkin (Алекса́ндр Евге́ньевич Ми́шкин, alias Alexander Petrov) and Anatoliy Chepiga (Анатолий Владимирович Чепига, alias Ruslan Boshirov) in a CCTV still at Salisbury Station on 3rd March 2018 the day before the assassination. Both GRU and Alexander being a doctor, which is consistent with a poisoning assassination attempt. They later explained on an RT interview that they were visiting the https://en.wikipedia.org/wiki/Salisbury_Cathedral[world renowned Salisbury Cathedral] in their 3 day trip to the UK, and that they <<gay-putin,were not gay>>. Some Western sources interpreted this as an intentional suggestion that they are gay, which for many Russians would imply that they cannot be FSB agents. https://www.theguardian.com/uk-news/2018/sep/05/planes-trains-and-fake-names-the-trail-left-by-skripal-suspects[Source].
+.The assassination suspects Alexander Mishkin (Алекса́ндр Евге́ньевич Ми́шкин, alias Alexander Petrov) and Anatoliy Chepiga (Анатолий Владимирович Чепига, alias Ruslan Boshirov) in a CCTV still at Salisbury Station on 3rd March 2018 the day before the assassination. Both GRU and Alexander being a doctor, which is consistent with a poisoning assassination attempt. They later explained on an RT interview that they were visiting the https://en.wikipedia.org/wiki/Salisbury_Cathedral[world renowned Salisbury Cathedral] in their 3 day trip to the UK, and that they <<gay-putin,were not gay>>. Some Western sources interpreted this as an intentional suggestion that they are gay, which for many Russians would imply that they cannot be <<fsb>> agents. https://www.theguardian.com/uk-news/2018/sep/05/planes-trains-and-fake-names-the-trail-left-by-skripal-suspects[Source].
 image::{china-dictatorship-media-base}/Skripal_assassins_station.jpg[height=400]
 
 .Counterfeit Nina Ricci Premier Jour packet that contained the Novichok. https://www.npr.org/2018/09/05/644782096/u-k-charges-2-russians-suspected-of-poison-attack-on-skripals[Source].
@@ -18682,7 +18721,7 @@ video::Ku8OQNyI2i0[youtube,height=400,width=600]
 Poisoned with polonium-210, for more poisonings see: <<putin-sponsored-poisonings>>:
 
 * 2006-10-29
-** meets with two former FSB agents Dmitry Kovtun and Andrey Lugovoy at Millenium Hotel London TODO exact address
+** meets with two former <<fsb>> agents Dmitry Kovtun and Andrey Lugovoy at Millenium Hotel London TODO exact address
 ** eats with https://en.wikipedia.org/wiki/Mario_Scaramella[Mario Scaramella] at an Itsu in London TODO exact address. <<ciro-santilli>> believes the https://en.wikipedia.org/wiki/Itsu[Itsu] food to be the real cause of death.
 * 2006-11-01 falls ill
 * 2006-11-03 admitted into hospital
@@ -18690,7 +18729,7 @@ Poisoned with polonium-210, for more poisonings see: <<putin-sponsored-poisoning
 * 2007-01-26 UK police says they had found a teapot at Millenium Hotel containing extremely high Poloninum-210 traces
 * 2010-12 US leaked cables show that Dmitry Kovtun left "positive traces" of radioactive polonium-210 in Germany before departing for Britain https://www.theguardian.com/world/2010/dec/11/wilileaks-cables-litvinenko-murder
 
-His 2002 book https://en.wikipedia.org/wiki/Blowing_Up_Russia[Blowing up Russia: Terror from Within] (https://ru.wikipedia.org/wiki/ФСБ_взрывает_Россию[ФСБ взрывает Россию: Федеральная служба безопасности — организатор террористических актов, похищений и убийств]) accuses the FSB of setting up false flag bombing operations, and figures on the <<federal-list-of-extremist-materials>>.
+His 2002 book https://en.wikipedia.org/wiki/Blowing_Up_Russia[Blowing up Russia: Terror from Within] (https://ru.wikipedia.org/wiki/ФСБ_взрывает_Россию[ФСБ взрывает Россию: Федеральная служба безопасности — организатор террористических актов, похищений и убийств]) accuses the <<fsb>> of setting up false flag bombing operations, and figures on the <<federal-list-of-extremist-materials>>.
 
 .Litvinenko in his death bed.
 image::{china-dictatorship-media-base}/Litvinenko_hospital_bed.webp[height=400]
@@ -18865,6 +18904,10 @@ https://www.rferl.org/a/russia-election-fraud/31466758.html
 List:
 
 * https://en.wikipedia.org/wiki/Yegor_Zhukov[Yegor Zhukov]: 2020-08-31 https://www.bbc.co.uk/news/world-europe-53972592 "Yegor Zhukov: Leading Russian opposition blogger beaten up", good photo of swallen face
+
+People:
+
+* <<marina-ovsyannikova>>
 
 ===== NFKRZ
 
@@ -19063,9 +19106,18 @@ The following Chinese policies come to mind:
 === Russian state media (俄罗斯官方媒体)
 
 [[russia-today]]
-==== Russia Today (RT, Russian state media, 俄罗斯官方媒体)
+==== Russia Today (RT, Russian state media foreign propaganda arm, 俄罗斯官方媒体)
 
 * https://en.wikipedia.org/wiki/RT_(TV_network)
+
+[[russian-government]]
+=== Russian government
+
+[[fsb]]
+==== FSB
+
+* https://en.wikipedia.org/wiki/Federal_Security_Service
+* https://ru.wikipedia.org/wiki/Федеральная_служба_безопасности_Российской_Федерации
 
 [[soviet-union]]
 === Soviet Union (苏联)
@@ -19200,8 +19252,19 @@ video::U-gpIs3rcFk[youtube,height=400,width=600]
 
 Some other pearls:
 
+* https://www.theguardian.com/world/2022/mar/11/russia-un-claims-us-backed-biological-weapon-plot-kremlin-foreign-fighters-ukraine Russia claims US has biological weapons development in Ukrains... that's insane, why would they develop weapons next door to Russia, where billion dollar research would be at constant risk of disruption and capture, not to mention the risk of starting world war 3!!! Resonates with United States accusations of weapons of mass destruction in Iraq though. However, https://www.youtube.com/watch?v=HmyDGZsrQyA mentions that the US knew about biological weapons research facilities in Ukraine.
 * 2022-02-18 Russia's foreign minister, Sergey V. Lavrov said Ukraine was under the influence of "neo-Nazis" and the West. Can you believe the level of the invasion excuse, blaming neo nazis?
 * Police make more than 1,700 arrests as protesters take to the streets in cities across country https://www.theguardian.com/world/2022/feb/24/we-dont-want-this-russians-react-to-the-ukraine-invasion
+
+[[marina-ovsyannikova]]
+==== Marina Ovsyannikova (Марина Овсянникова, 2022, anti war poster on live news)
+
+* https://en.wikipedia.org/wiki/Marina_Ovsyannikova
+* https://ru.wikipedia.org/wiki/Овсянникова,_Марина
+* https://www.bbc.co.uk/news/world-europe-60749279
+
+.Marina Ovsyannikova (Марина Овсянникова) <<photobomb,showing an anti-war banner on live television news report>> in the program Vremya on <<russian-state-media,Channel One>> on 14 March 2022, during a live broadcast related to the Russian invasion of Ukraine. https://en.wikipedia.org/wiki/File:Marina_Ovsyannikova_14_March_2022_Protest.jpg[Source].
+image::{china-dictatorship-media-base}/Marina_Ovsyannikova.jpg[height=400]
 
 [[kazakhstan]]
 ==== Kazakhstan (哈萨克斯坦)
