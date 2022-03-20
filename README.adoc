@@ -730,6 +730,7 @@ The manifesto is divided into 23 numbered headers which appear to be independent
 
 Related:
 
+* 2022-03-14 https://91ai.net/thread-983734-1-1.html 真是遇了狗了搜播放器 搜到个狗 One of the comments suggests that the sponsors are a considerable ammount. Poor newbie, Ciro's sponsors are 20 dollars/month as of writing in 2022. Related: <<ccp-apologists>>.
 * https://github.com/github/feedback/discussions/12800 Polluted search results by ThebestkillerTBK
 
 === Bot + issue mention attack
@@ -10220,6 +10221,7 @@ Very similar to the <<chinese-dream>>, see also <<nazi>>.
 [[xi-jinping-speech-synthesizer]]
 ==== Xi Jinping speech synthesizer (习近平讲话模拟器)
 
+* https://github.com/cirosantilli/xi-speech-synthesizer
 * XJP音源(习近平音源) from <<winnie-the-pool>>
 * https://www.reddit.com/r/China_irl/comments/i4eodw/我做了个习近平讲话模拟器输入一段文字可以合成习近平语音欢迎前来游玩/ from 2020-08 announced https://dnmkrgi.github.io/xi-speech-demo/ now down but presumably at https://github.com/for-memory/xi-speech-demo
 * https://github.com/for-memory/xi-speech-synthesizer voice synthesizer meant to replicate Xi Jinping's speaking, mentions it is similar to https://trumped.com/ and https://rogeraabbccdd.github.io/Fadacai-Generator/#/
@@ -15022,7 +15024,8 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
-* http://hub.連接.台灣/search
+* 2022-03-14 zhttps://91ai.net/thread-983734-1-1.html from <<zhao-heming>>
+* 2022-03-12 https://news.ycombinator.com/item?id=30649938 a failed Y combinator attempt. Sad. Maybe https://github.com/sturza
 * 2022-02 https://urlsec.qq.com/check.html from <<qq>> to https://github.com/cirosantilli/cirosantilli "网站安全检查" (Website safety check) from  https://urlsec.qq.com/check.html?url=https%3A%2F%2Fgithub.com%2Fcirosantilli%2Fchina-dictatorship says "暂未发现风险" (No risks discovered at present) as of 2022-03-04, so all good.
 * 2022-01-31 https://gall.dcinside.com/mgallery/board/view/?id=aoegame&no=20186832 Korean forum originally about photography: https://en.wikipedia.org/wiki/DC_Inside Wrongly suggests that this repository is made by Chinese/Taiwanese people: <<is-ciro-santilli-chinese>> but no patience to create an account there now
 * 2022-01-15 https://web.archive.org/web/20220120082147/https://wirechan.org/b/ | https://archive.ph/BkjAj in an independent and not very popular Chan, the post basically quotes https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/288497#288497[]
@@ -19265,6 +19268,9 @@ Some other pearls:
 
 .Marina Ovsyannikova (Марина Овсянникова) <<photobomb,showing an anti-war banner on live television news report>> in the program Vremya on <<russian-state-media,Channel One>> on 14 March 2022, during a live broadcast related to the Russian invasion of Ukraine. https://en.wikipedia.org/wiki/File:Marina_Ovsyannikova_14_March_2022_Protest.jpg[Source].
 image::{china-dictatorship-media-base}/Marina_Ovsyannikova.jpg[height=400]
+
+.https://www.youtube.com/watch?v=D_MG0os17XM Marina Ovsyannikova's photobomb and statement video glued up by The Guardian.
+video::D_MG0os17XM[youtube,height=400,width=600]
 
 [[kazakhstan]]
 ==== Kazakhstan (哈萨克斯坦)
