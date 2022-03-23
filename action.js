@@ -163,6 +163,7 @@ try {
     // Update labels.
     await octokit.issues.update({
       owner: payload.repository.owner.login,
+      repo: payload.repository.name,
       issue_number: payload.issue.number,
       labels: Array.from([...labels, ...newLabels])
     });
