@@ -375,6 +375,7 @@ Concrete examples:
 * https://github.com/cirosantilli/vcdvcd#vcdcat-china[]. Sample forks removing the most important functionality:
   * https://github.com/ZihaoZhao/vcdvcd
   * https://github.com/riverlane/vcdvcd/commits/master by employee https://www.linkedin.com/in/seyed-amir-alavi/[Seyed Amir Alavi] of quantum computing company https://www.riverlane.com/ with commit "Removed politics from package dependencies of setup.py". Seyed appears to be <<iran,Iranian>>.
+  * https://github.com/snhobbs/vcdvcd/commit/d7124e49fb1c63002e830f8c866266447b0f5bb3 by https://www.linkedin.com/in/simonnhobbs/[]. To be fair, they left a star.
 
 These also offer great plausible deniability: a citizen in China could always argue that they were just interested in the software itself, and had no choice but to download it.
 
@@ -6331,6 +6332,8 @@ Sub description:
 ____
 This is a Dengist subreddit in favor of Bashar al-Assad with no information leading to the arrest of Hillary Rodham Clinton, our fellow liberal and queen. This subreddit is not ironic, we are Marxist-Leninists.
 ____
+
+The Reddit was quarantined in March 2022: https://www.reddit.com/r/ShitLiberalsSay/comments/tkurmc/breaking_news_rgenzedong_has_been_quarantined/ <<ciro-santilli>> is against this quarantine BTW. We shouldn't ban any discussion forum, at least not until we have an anonymous way to verify the nationality of people: <<unjust-social-media-censorship-in-the-west>>.
 
 ===== r/russia
 
