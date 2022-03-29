@@ -373,9 +373,9 @@ Concrete examples:
 * https://cirosantilli.com/cirodown/china
 * https://github.com/cirosantilli/linux-kernel-module-cheat/commit/082166a360c56990662c715196229016d8806ab3
 * https://github.com/cirosantilli/vcdvcd#vcdcat-china[]. Sample forks removing the most important functionality:
-  * https://github.com/ZihaoZhao/vcdvcd
-  * https://github.com/riverlane/vcdvcd/commits/master by employee https://www.linkedin.com/in/seyed-amir-alavi/[Seyed Amir Alavi] of quantum computing company https://www.riverlane.com/ with commit "Removed politics from package dependencies of setup.py". Seyed appears to be <<iran,Iranian>>.
-  * https://github.com/snhobbs/vcdvcd/commit/d7124e49fb1c63002e830f8c866266447b0f5bb3 by https://www.linkedin.com/in/simonnhobbs/[]. To be fair, they left a star.
+** https://github.com/ZihaoZhao/vcdvcd
+** https://github.com/riverlane/vcdvcd/commits/master by employee https://www.linkedin.com/in/seyed-amir-alavi/[Seyed Amir Alavi] of quantum computing company https://www.riverlane.com/ with commit "Removed politics from package dependencies of setup.py". Seyed appears to be <<iran,Iranian>>.
+** https://github.com/snhobbs/vcdvcd/commit/d7124e49fb1c63002e830f8c866266447b0f5bb3 by https://www.linkedin.com/in/simonnhobbs/[]. To be fair, they left a star.
 
 These also offer great plausible deniability: a citizen in China could always argue that they were just interested in the software itself, and had no choice but to download it.
 
@@ -5641,7 +5641,11 @@ If this happens, we well proceed to create alternative repos `china-dictatorship
 
 Edit: <<china-dictatorship-chinese-web-browser-block>>, <<ciro-santilli>> decided to create: https://github.com/cirosantilli/china-dictatorship-2 even though the repository hadn't been added to gov-takedowns.
 
+Ciro then later renamed it to https://github.com/cirosantilli/china-dictatorhsip-2 with an intentional typo to make the censorship noise even greater.
+
 Can Github add an entire user to gov-takedowns? We shall find out.
+
+Ciro also created a separate org for it to also prevent simple username blocks: https://github.com/coding-stuffs/china-dictatorshrip
 
 But remember that we also have: <<mirrors>>, and that this can be easily rendered as a single HTML page and uploaded to any static website host.
 
@@ -5718,15 +5722,15 @@ Mirrors containing Ciro's keywords or related interesting stuff:
 * https://gitee.com/alexi126/linux-kernel-module-cheat https://archive.vn/wip/aDWVq
 * https://toscode.gitee.com/rpbf/vim-snippets/blob/master/AUTHORS#L67 https://archive.vn/wip/MuuoK "Ciro Santilli 六四事件"
 * sensitive domain lists:
-  * https://gitee.com/aiqz/pac ans specifically https://gitee.com/aiqz/pac/blob/master/pac.txt contains a proxy list with `||cirosantilli.com`, which is a decoded version of the base-64 encoded <<gfwlist>> normally used for <<censorship-circumvention>>. Lol.
+** https://gitee.com/aiqz/pac ans specifically https://gitee.com/aiqz/pac/blob/master/pac.txt contains a proxy list with `||cirosantilli.com`, which is a decoded version of the base-64 encoded <<gfwlist>> normally used for <<censorship-circumvention>>. Lol.
 * sensitive word lists. In <<censorship,censoring>>, we display. It is fun to see how they censor at every level, including the keyboard input method. Fear is everywhere, <<newspeak>> must be enforced at all costs:
-  * https://gitee.com/markxx/tochat/blob/dev/tochat.sql even website project templates must come with a censored word list: https://gitee.com/markxx/tochat/blob/dev/tochat.sql#L6299 "六四事件"
-  * https://gitee.com/aiban_junjie_fan/sensitive_words/blob/master/words.txt
-  * https://gitee.com/bryan31/liteBanner/blob/master/src/main/resources/sensi_words.txt
-  * https://gitee.com/thinksaas/thinksaas/blob/master/install/install.sql#L138
-  * https://gitee.com/guobinyong/wubixinshiji/blob/master/wubixinshiji.dict.yaml is a https://en.wikipedia.org/wiki/Wubi_method input program
-  * https://gitee.com/xkinput/xklbs/blob/master/星二S词库.txt
-  * https://gitee.com/latpaw/emacs/blob/master/site-lisp/eim/cjeb.txt#L10288[]. This interesting emacs config appears to expand e.g. `fclg` into `法轮功` on tab complete. Nice.
+** https://gitee.com/markxx/tochat/blob/dev/tochat.sql even website project templates must come with a censored word list: https://gitee.com/markxx/tochat/blob/dev/tochat.sql#L6299 "六四事件"
+** https://gitee.com/aiban_junjie_fan/sensitive_words/blob/master/words.txt
+** https://gitee.com/bryan31/liteBanner/blob/master/src/main/resources/sensi_words.txt
+** https://gitee.com/thinksaas/thinksaas/blob/master/install/install.sql#L138
+** https://gitee.com/guobinyong/wubixinshiji/blob/master/wubixinshiji.dict.yaml is a https://en.wikipedia.org/wiki/Wubi_method input program
+** https://gitee.com/xkinput/xklbs/blob/master/星二S词库.txt
+** https://gitee.com/latpaw/emacs/blob/master/site-lisp/eim/cjeb.txt#L10288[]. This interesting emacs config appears to expand e.g. `fclg` into `法轮功` on tab complete. Nice.
 
 As of 2021, it requires login to see:
 
@@ -6229,6 +6233,10 @@ Subs with lots of anti-commie info:
 * China Circle Jerk subs (CCJ). TODO: these appear to be <<politically-incorrect,politically incorrect>> subs, but they do seem to allow anti-commit info. As of 2020, they were either banned or private:
 ** https://www.reddit.com/r/CCJ
 ** https://www.reddit.com/r/CCJ2
+
+Related:
+
+* https://www.reddit.com/r/avoidchineseproducts/
 
 Non-China specific but relevant:
 
@@ -7456,6 +7464,8 @@ But <<ciro-santilli>> strongly believes that this is just a language barrier/FLG
 +
 In both cases, some believers claim that sometimes even reading the same text again gives them new insight.
 * prescribed daily meditation exercise hours, somewhat like Muslim https://en.wikipedia.org/wiki/Salah[Salah] (https://zh.wikipedia.org/wiki/礼拜_(伊斯兰教)[礼拜]) prayers which they call https://en.wikipedia.org/wiki/Fazhengnian[发正念 (fa1 zheng4 nian4)], which means "send righteous thoughts". They seem to believe that this meditation helps external good magic things happen, so it is half meditation half prayer.
++
+And for those that are often online on the Falun Gong voice forums, some nice music is played before prayer times, just like Muslim https://en.wikipedia.org/wiki/Muezzin[Muezzins] (a type of priest) will do the https://en.wikipedia.org/wiki/Adhan[Adhan] (sang call to prayer, ideally from the minarets of a mosque)
 * longer "less mandatory" https://en.wikipedia.org/wiki/Qigong[Qigong-like] (https://zh.wikipedia.org/wiki/气功[气功]) exercises (lian4 gong1, 练功) followed by a meditation (打坐) and which they collectively call https://zh.wikipedia.org/wiki/修道_(道教)[修炼] "practice austerities". note that this term is borrowed from Taoism but possibly with different precise meaning. There are exactly 5 exercises (meditation being the fifth) some with a fun supernatural name, on <<flg-canon>> https://www.falundafa.org/book/eng/flg_2006_4.htm[] "The Falun Gong Practice System":
 ** Buddha Stretching a Thousand Arms
 ** Falun Standing Stance
@@ -12876,7 +12886,7 @@ License: non-commercial only.
 Translations:
 
 * James Legge (1891):
-  * https://ctext.org/zhuangzi side by side with Chinese, one chapter per page
+** https://ctext.org/zhuangzi side by side with Chinese, one chapter per page
 
 [[ccp]]
 == Chinese Communist Party (CCP, 中国共产党, 1949-, Cult of Mao/Xi, 毛习邪教)
@@ -15055,7 +15065,7 @@ referring to: https://cirosantilli.com/how-to-become-a-good-programmer
 * 2021-12-22 https://cirosantilli-realworld-next.herokuapp.com/ https://archive.ph/wip/EVcUw added two messages "这个网站也是王八操的搞得，操你妈得大傻逼。狗腿子汉奸孤儿" and "访问太频繁服务器受不了啦🏦，请使用微信搜索「沙雕APP」使用小程序体验，没有访问限制" That website has no signup verification mechanism, users can just spam it at will. Would be good to log some IPs to start with. Can't store in a database because we are capped at 10k DB rows on the free plan.
 * 2021-12-21 https://codeforces.com/blog/entry/98165?locale=en a Russian online judge: "BTW, I'm not sure if these two things are related, but HDU's online judge system(http://acm.hdu.edu.cn) was shut down in last week. The site administrator said the reason for the shutdown was that a user's username violated Chinese law..." to which "TwentyOneHundredOrBust" replied "this sounds like a job for ciro santilli"
 * 2021 https://hub.xn--p8jhe.tw/search to https://github.com/cirosantilli/cirosantilli[] which redirects to https://www.library.ac.cn/ip.html?=iwikie "Your IP is not allowed to visit this site. This site is only available in Mainland China." which is a mirror list as mentioned at <<google-mirrors>>. Other similar links from other times: おうか
-  * 2022-03: http://hub.xn--gzu630h.xn--kpry57d.com/search Nowadays, putting it in Chromium redirects to hub.連接.台灣/search where 連接 is "link, hyperlink" and <<taiwan>>. So we understand that the weird URLs are just a way to encode chinese characters on URLs. https://stackoverflow.com/questions/9724379/xn-on-domain-what-it-means explains 
+** 2022-03: http://hub.xn--gzu630h.xn--kpry57d.com/search Nowadays, putting it in Chromium redirects to hub.連接.台灣/search where 連接 is "link, hyperlink" and <<taiwan>>. So we understand that the weird URLs are just a way to encode chinese characters on URLs. https://stackoverflow.com/questions/9724379/xn-on-domain-what-it-means explains 
 * 2021-11-14 https://www.chinesehongker.com/forum.php?mod=viewthread&tid=14153&extra=page%3D1&ordertype=1&mobile=2 Appears not visible outsie of China. From http://webcache.googleusercontent.com/search?q=cache:8bAWUrdhbNYJ:https://www.chinesehongker.com/forum.php?mod%3Dviewthread%26tid%3D14153%26extra%3Dpage%253D1%26ordertype%3D1%26mobile%3D2&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW&client=ubuntu&hl=en&gl=uk&tbs=lr:lang_1en%7Clang_1zh-CN%7Clang_1zh-TW&strip=1&vwsrc=0[Google cache] (https://archive.ph/wip/Z6EGq[archive]). Title: 对于github上的非法项目，如何合理的消灭 Content: https://github.com/cirosantilli 今天无意间搜到一个湾毒的github，有哪位大佬可以解决该问题吗 Just your usual <<disturbs>> wumao bullshit. Edit: found viewable version at: https://www.chinesehongker.com/forum.php?mod=viewthread&tid=14153[] The forum claims to be part of the Honker Union hacktivist group, bring it on:
 ** https://en.wikipedia.org/wiki/Honker_Union
 ** https://zh.wikipedia.org/wiki/红客
