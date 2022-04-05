@@ -6250,9 +6250,10 @@ Non-China specific but relevant:
 
 TODO review:
 
-* https://www.reddit.com/r/taiwan/
+* https://www.reddit.com/r/taiwan/[]. Does not appear to be very China focused.
 * https://www.reddit.com/r/China_Flu/
 * https://www.reddit.com/r/China_irl/ (流浪防区) https://www.reddit.com/r/China/comments/mnbpum/if_you_want_to_experience_the_censorship_and/ claims pro-CCP, but e.g. https://www.reddit.com/r/China_irl/comments/mn68dy/各位键委如何看待gfw/ has <<gfw>> talks
+* https://www.reddit.com/r/CLTV/
 
 [[r-china]]
 ==== r/China Reddit sub
@@ -6275,6 +6276,21 @@ Reddit was banned in China in August 2018: https://www.reddit.com/r/China/commen
 https://www.reddit.com/r/chonglangTV/
 
 15k users 2020-03.
+
+Banned 2022-03 for some likely very lightweight "doxxing" that had already been published everywhere. https://www.rfa.org/cantonese/news/reddit-03042022114155.html from <<rfa>> gives more context, translation;
+
+____
+The reason why chonglangTV was blocked was "disclosure of personal information". It is suspected that they have something to do with a "patriotic pink" named "Xu Hao" (徐好) who claimed to be an employee of a bank in Shanghai. "Xu Hao" claimed that he used his power to intercept multiple donations to Ukraine, and was later "opened the box" by netizens. (i.e. starting with personal information).
+____
+
+Other threads:
+
+* https://www.reddit.com/r/China/comments/t4ddzk/the_largest_chinese_dissident_subreddit_has_been/
+* https://www.reddit.com/r/China/comments/takrib/what_happened_to_chonglangtv/
+* https://www.reddit.com/r/CLTV/comments/t4nhhm/冲浪tv被封之原因分析/ Analysis of the reason why chonglangTV was blocked
+* https://pincong.rocks/question/44693
+
+https://pincong.rocks/article/39117 proposes a regroup at https://www.reddit.com/r/HomeofChonglang/[].
 
 Overview of their culture: https://www.urbandictionary.com/define.php?term=ChonglangTV
 
@@ -6385,6 +6401,23 @@ Unfair censorship:
 [[trump-twitter-kuang-biao]]
 .Cartoon showing Donald Trump's mouth sewn shut in a "Twitter" shape by <<kuang-biao>> (2021) after Trump was <<unjust-social-media-censorship-in-the-west,banned from Twitter>>. You know it's bad when the artists who normally criticize the <<ccp,CCP>> start to criticize you. <<rebel-pepper>>'s https://www.rfa.org/english/cartoons/twitter-china-cartoon-06052020164712.html["I can't Tweet"] comes to mind, although it was about <<racist-west>> instad. https://xueqiu.com/9870976009/168210673[Source].
 image::{china-dictatorship-media-base}/Trump_silenced_by_Twitter_by_Kuang_Biao.jpg[height=400]
+
+[[the-great-translation-movement]]
+==== The Great Translation Movement (大翻译运动官方推号)
+
+https://twitter.com/tgtm_official
+
+Emerged mosty translating propaganda about the <<russo-ukrainian-war>>.
+
+This type of thing is something <<ciro-santilli>> did a few times previously, e.g.
+
+* <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream  and the Chinese dream>>
+* <<little-girl-has-ho-hopes-for-school-video-2021>>
+* <<xinjiang-core-socialist-values,Xinjiang core socialist values>>
+
+but he just doesn't have the knowledge/time/patience to do it as well as that Twitter channel.
+
+This is a good movement because many people in the West do not fully appreciate the level of dictatorship in China. E.g. a well educated friend of Ciro once asked him circa 2020 which one he thought was worse: the terrible president of Brazil at the time, Jair Bolsonaro, or <<xi-jinping>>! It is of course impossible to compare individuals in completely different situations, but how can you not point the finger to the major dictator! It is like asking who do you hate the most, <<nazi,Hitler>> or Donald Trump! That question was an eye opener.
 
 [[gfwfrog]]
 ==== GFWfrog (墙国蛙蛤蛤)
@@ -10134,7 +10167,9 @@ Related projects to cheat other stupid things imposed by the CCP's bureaucracy:
 
 * https://github.com/v2018z/studyxixi also to cheat Qiang Guo
 * https://github.com/838239178/tk-auto-study to cheat the <<fujian>> <<youth-learning>>
-* https://github.com/IanSmith123/ucas-covid19[]: some COVID form filling
+* <<covid>> form filling cheating:
+** https://github.com/IanSmith123/ucas-covid19[]: for the https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences[University of the Chinese Academy of Sciences]
+** https://github.com/YooKing/Wanmei_AutoCheck[]: for <<henan>> university
 
 .Fuck-XueXiQiangGuo 2021 GitHub page screenshot with stars highlighted. 7k stars on a Chinese-only repository is a lot of stars, and very unlikely to be faked. This is what you should show <<wumao,wumaos>> when they that no Chinese person opposes the <<ccp>>.
 image::{china-dictatorship-media-base}/Fuck-XueXiQiangGuo_2021_GitHub_page_screenshot_with_stars_highlighted.png[height=650]
@@ -19278,6 +19313,8 @@ Some other pearls:
 * https://en.wikipedia.org/wiki/Marina_Ovsyannikova
 * https://ru.wikipedia.org/wiki/Овсянникова,_Марина
 * https://www.bbc.co.uk/news/world-europe-60749279
+
+Many have suggested however that this was staged and that Marina is actually a <<fsb>> operative. She later started asking for an end to sanctions.
 
 .Marina Ovsyannikova (Марина Овсянникова) <<photobomb,showing an anti-war banner on live television news report>> in the program Vremya on <<russian-state-media,Channel One>> on 14 March 2022, during a live broadcast related to the Russian invasion of Ukraine. https://en.wikipedia.org/wiki/File:Marina_Ovsyannikova_14_March_2022_Protest.jpg[Source].
 image::{china-dictatorship-media-base}/Marina_Ovsyannikova.jpg[height=400]
