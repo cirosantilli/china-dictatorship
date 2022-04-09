@@ -32,7 +32,7 @@ https://china-dictatorship.onrender.com/[china-dictatorship.onrender.com]
 https://raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html[raw.githubusercontent.com],
 https://cdn.jsdelivr.net/npm/china-dictatorship@latest/README.html[cdn.jsdelivr (tag)]
 
-Anti-Chinese government information. 反中共消息库。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
+Anti-Chinese government propaganda. 反中共政治宣传库。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
 This README is too large and https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com]. You can view it fully at either:
 
@@ -1582,11 +1582,21 @@ image::{china-dictatorship-media-base}/Immoral_and_uneducated_en.jpg[height=600]
 [[not-interested-in-politics]]
 ===== The Chinese masses are not interested in politics and therefore not ready to vote (中国群众对政治不感兴趣，因此不准备投票)
 
-But how would they be interested in politics or be able to discuss it, if it is <<dissidents,impossible to have a different view without going to jail>>?
+But how would they be interested in politics or be able to discuss it, if it is <<dissidents,impossible to have a different view without going to jail>>? See also: <<chilling-effect>>.
 
 What about the <<tiananmen,1 million people in Tiananmen>> and the 70 million <<falun-gong>> followers? Did they not care?
 
 Chinese political spectrum meme in English: https://qph.fs.quoracdn.net/main-qimg-b8d4cd1a58c6c7eee88bad82b94f4e5c
+
+[[lurker]]
+====== Lurker (吃瓜群众)
+
+* https://en.wikipedia.org/wiki/Lurker
+* https://baike.baidu.com/item/吃瓜群众/19902553
+
+This Internet slang refers to <<not-interested-in-politics>> quite well: "吃瓜群众", the "Melon eater masses.", 
+
+Most people dare not comment, they just watch, knowing that any comment, in either direction, is a risk they take, with little likely benefit.
 
 [[overlook-human-rights-for-profit]]
 ==== As long as China is developing economically, it is fine to violate the human rights of a few million people (只要经济好，我不在乎人权)
@@ -2014,13 +2024,13 @@ See also:
 [[throne]]
 ==== Ciro Santilli's claim to the Qing Dynasty throne (三西猴清朝皇帝觊觎)
 
-Ciro Santilli's <<wife>>, her mother, and paternal cousin, believe that Ciro's wife is the descendant of the brother of a recent https://en.wikipedia.org/wiki/Qing_dynasty[Qing emperor] through her father's family.
+Ciro Santilli's <<wife>>, her mother, and paternal cousin, believe that Ciro's wife is the descendant of the brother of a recent <<qing-dynasty,Qing emperor>> through her father's family.
 
 Although they have not been able to produce concrete evidence, which could be explained by the endless political turmoils in 20th century China, Ciro decided that this would be a good bet to take, and married her anyway.
 
 If anyone is able to provide further evidence of this relationship, please, please, please get in touch.
 
-One thing to keep in mind is that the Qing dynasty, like the previous Ming dynasty, used https://en.wikipedia.org/wiki/Generation_name[Generation names] (https://zh.wikipedia.org/wiki/行辈[行辈]), such that the first character of the given name is the same for all people in a given generation (counted directly from the first emperor that adopted the rule.
+One thing to keep in mind is that the <<qing-dynasty>>, like the previous <<ming-dynasty>>, used https://en.wikipedia.org/wiki/Generation_name[Generation names] (https://zh.wikipedia.org/wiki/行辈[行辈]), such that the first character of the given name is the same for all people in a given generation (counted directly from the first emperor that adopted the rule.
 
 For example, this wiki page contains a good family tree of the most important Qing people: link:++https://en.wikipedia.org/wiki/Family_tree_of_Chinese_monarchs_(late)#Qing_dynasty++[] and we see that many important people around 1861 were Zai 載something, e.g.: Zaichun, Zaiyi, Zaitian, etc.
 
@@ -2052,7 +2062,9 @@ Further anecdotal indicators follow.
 
 Ciro's wife and family are clearly of the https://en.wikipedia.org/wiki/Manchu_people[Manchu ethnicity] just by looking at them, and they originally lived in the North East of China
 
-His wife's family name is the very unusual 艾, pronounced "ai4", which she claims is a reference to the 愛(also pronounced ai4) in https://en.wikipedia.org/wiki/Aisin_Gioro[愛新覺羅], which is the name of the Manchu ruling clan of the Qing dynasty.
+Ciro's wife's family name is the 艾, pronounced "ai4", which she claims is a reference to the 愛 (also pronounced ai4) in https://en.wikipedia.org/wiki/Aisin_Gioro[Aisin Gioro] (https://zh.wikipedia.org/wiki/爱新觉罗氏[愛新覺羅氏]), which is the name of the Manchu ruling clan of the Qing dynasty.
+
+艾 iself is however a somewhat common family name, e.g. https://en.wikipedia.org/wiki/Ai_(surname) mentions that it is listed in the https://en.wikipedia.org/wiki/Hundred_Family_Surnames[Hundred Family Surnames] (https://zh.wikipedia.org/wiki/百家姓[百家姓]), a list of common surnames compiled in the <<song-dynasty>> with around 400.000 members as of 2008. Presumably members of the falling Qing dynasty chose that relatively common Chinese name to avoid persecution, while still retaining a bit of their history.
 
 Bibliography:
 
@@ -3046,7 +3058,7 @@ Here are some images that <<wumao>>'s like to post:
 
 Obviously not, just <<richer,inefficient>> and <<war,dangerous>>.
 
-It is just another non-democratic empire like the Qing Dynasty, we might as well cal it:
+It is just another non-democratic empire like the <<qing-dynasty>>, we might as well cal it:
 
 ____
 共产朝 +
@@ -6433,6 +6445,10 @@ Amazing selection of Chinese-only anti-CCP content.
 
 Many western Pro CCP accounts: <<ccp-apologists>>.
 
+In other sections:
+
+* <<china-uncensored>>
+
 [[winnie-the-pool]]
 ==== Winnie the Pool (乳透社·小池塘,XJP音源,习近平音源)
 
@@ -6446,6 +6462,13 @@ Many of their videos use their <<xi-jinping-speech-synthesizer>> system called X
 * https://twitter.com/ruters0615/status/1227823202522427392 gives some voice synthesis methods used
 
 <<github>> reupload: https://github.com/cirosantilli/xijinping-yinyuan
+
+[[eyectv]]
+==== EyeCTV (眼球中央電視台)
+
+https://www.youtube.com/channel/UCTqPBBnP2T57kmiPQ87986g
+
+https://www.washingtonpost.com/world/2022/04/06/taiwan-china-eyectv-tough-bobas-satire-laughter/ <<taiwan,Taiwanese>>. political satire trope, mostly news satire.
 
 === Tumblr
 
@@ -8084,7 +8107,7 @@ Believers very often read from this text when they <<flg-religion,"study the Fa"
 .Front and back cover of <<zhuan-falun>>, first edition (1994). It is said amongst believers that <<flg-verifiable,the Lotus flower on the back of these books have magically opened progressively as time passed>>. http://qingqing.freebbs.tw/viewthread.php?tid=165###[Source].
 image::{china-dictatorship-media-base}/Zhuan_Falun.jpg[height=500]
 
-.Side-by-side English and Chinese version of <<zhuan-falun>> circa 2010s. These covers are very widespread. Note how the Chinese cover is yellow, almost golden, to indicate that it is cannon. And translations in all other languages are blue, to indicate non-canon. Also note how the drawings of mystical elements have been removed in favor an abstract presentation. This is part of <<different-levels-of-truth>>. https://hkfalundafa.org/2-如何學煉法輪功.html[Source].
+.Side-by-side English and Chinese version of <<zhuan-falun>> circa 2010s. These covers are very widespread. Note how the Chinese cover is yellow, almost golden, to indicate that it is cannon. And translations in all other languages are blue, to indicate non-canon. Also note how the drawings of mystical elements have been removed in favor an abstract presentation. This is part of <<different-levels-of-truth>>. That golden cover is a direct recall to Bhuddist scriptures have been published traditionally in some epochs in China, just Google Images for "佛经". https://hkfalundafa.org/2-如何學煉法輪功.html[Source].
 image::{china-dictatorship-media-base}/Zhuan_Falun_2010s_English_vs_Chinese.jpg[height=500]
 
 [[does-ciro-santilli-support-falun-gong-or-just-use-it-because-it-is-censored]]
@@ -9583,7 +9606,7 @@ image::{china-dictatorship-media-base}/Addicted_bed.jpg[height=400]
 image::{china-dictatorship-media-base}/Tiananmen_lesbian_kiss.jpg[height=500]
 
 [[qing-gay-scroll]]
-.<<throne,Qing dynasty>> (18th–19th c.) panel from a scroll showing two men engaging in foreplay, apparently located in the https://en.wikipedia.org/wiki/Kinsey_Institute[Kinsey Institute] as of 2005. For an ancient depiction of heterosexual sexual activity, see <<jin-ping-mei,this image>>. https://en.wikipedia.org/wiki/File:Love_play_in_China.jpg[Source].
+.<<qing-dynasty>> (18th–19th c.) panel from a scroll showing two men engaging in foreplay, apparently located in the https://en.wikipedia.org/wiki/Kinsey_Institute[Kinsey Institute] as of 2005. For an ancient depiction of heterosexual sexual activity, see <<jin-ping-mei,this image>>. https://en.wikipedia.org/wiki/File:Love_play_in_China.jpg[Source].
 image::{china-dictatorship-media-base}/Qing_Dinasty_gay_foreplay.jpg[height=400]
 
 .Lesbian couple hugging in Shanghai in the 1930s. The woman on the left might have had polio based on the deformity of their right leg. TODO proper source, could not find one on Google reverse image search. https://www.reddit.com/r/China/comments/muvkmu/a_lesbian_couple_embracing_posing_in_their_qipao/[Source].
@@ -12931,7 +12954,12 @@ Translations:
 
 The CCP is a cult: <<ccp-cult>>.
 
-=== CCP organization
+[[ccp-organization]]
+=== CCP organization (中共组织)
+
+* https://zh.wikipedia.org/wiki/中国共产党组织
+* https://en.wikipedia.org/wiki/Organization_of_the_Chinese_Communist_Party
+* https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping talks about <<xi-jinping>>'s rise, but algo gives some general idea of the workings of the Holy party.
 
 [[politburo]]
 ==== Politburo Standing Committee of the Chinese Communist Party (中国共产党中央政治局常务委员会)
@@ -13416,6 +13444,17 @@ Some website specific techniques:
 * Google Docs: visit the page while logged off (e.g. via browser private mode), click the print button, and then archive the resulting PDF URL
 
 How to search by prefix/pattern: https://webapps.stackexchange.com/questions/146661/how-to-search-the-internet-archives-wayback-machine-by-url-prefix-or-pattern
+
+How to archive with an API:
+* https://stackoverflow.com/questions/33811582/how-to-access-wayback-machine-programmatically
+* https://webapps.stackexchange.com/questions/151299/does-the-internet-wayback-machine-api-support-adding-a-link-to-scrape
+* https://blog.archive.org/2019/10/23/the-wayback-machines-save-page-now-is-new-and-improved/
++
+____
+And, yes, of course SPN has a brand new API that you can use to automate a range of Web archiving projects. Please write to us at info@archive.org if you would like to learn more about the API.
+____
++
+No publicly documented API? Docs by email only? Ridiculous, you make me laugh.
 
 [[archive-today]]
 ====== archive.today (archive.is)
@@ -14001,7 +14040,7 @@ Non-political (as far as we can tell) channels of interest:
 
 * https://www.youtube.com/channel/UCISrVZmDM4x-Rq9mmNUw7Zw Blondie in China food and travel. Speaks Chinese. TODO name.
 * https://www.youtube.com/c/TravelinChina The China Traveller. Real name: Stuart Wiggin (司徒). British, studied in Oxford, speaks Chinese. Avoids ultra-sensitive topics like <<xinjiang>> and <<censorship>>, and covers positive rosy (and to some extent real) improvements in China mostly, in addition to neutral food/travel. LinkedIn: https://www.linkedin.com/in/stuartwiggin[] (https://archive.ph/HWoMr[archive]). Worked for <<china-radio-international>> from 2012 to 2017 and for <<netease>> since 2016. Other media: https://twitter.com/wiginchina Sample videos:
-** https://youtu.be/8221d7F8Uzc?t=145[]: watermarked crienglish.com[] "到底是不是习近平？Is that a famous Asian world leader?", but takes <<xi-jinping>> lightly by showing a <<xi-jinping-lookalikes,bad Xi Jinping lookalike>>
+** https://youtu.be/8221d7F8Uzc?t=145[]: watermarked crienglish.com "到底是不是习近平？Is that a famous Asian world leader?", but takes <<xi-jinping>> lightly by showing a <<xi-jinping-lookalikes,bad Xi Jinping lookalike>>
 ** https://www.youtube.com/watch?v=unDUEoMqYwk "I Train with the Troops at Tiananmen Square". Participates in a flag raising ceremony.
 * https://www.youtube.com/c/KevininShanghai Kevin in Shanghai. Mostly language and cultural differences.
 * https://www.youtube.com/channel/UCrcDPAshreK6gXlDIrDgYjQ Katherine's Journey to the East 阳离子东游记
@@ -15494,11 +15533,31 @@ The third most important festival in China, after the Chinese New Year and Mid-A
 [[chinese-history]]
 == Chinese history (中国历史)
 
+[[qing-dynasty]]
+=== Qing Dynasty (清朝, 大清, 1636-1912)
+
+* https://en.wikipedia.org/wiki/Qing_dynasty
+* https://zh.wikipedia.org/wiki/清朝
+
+Through his <<wife,wife>>, <<ciro-santilli>> has an (incredibly weak) claim to the <<throne,Qing dynasty throne>>.
+
+[[ming-dynasty]]
+=== Ming Dynasty (明朝, 1368-1644)
+
+* https://en.wikipedia.org/wiki/Ming_dynasty
+* https://zh.wikipedia.org/wiki/明朝
+
+[[song-dynasty]]
+=== Song Dynasty (宋朝, 960-1279)
+
+* https://en.wikipedia.org/wiki/Song_dynasty
+* https://zh.wikipedia.org/wiki/宋朝
+
 [[spring-and-autumn-period]]
 === Spring and Autumn period (春秋时代, 771-476 BC)
 
 [[warring-states-period]]
-=== Warring States period (战国时期, 475-221)
+=== Warring States period (战国时期, 475-221 BC)
 
 * https://en.wikipedia.org/wiki/Warring_States_period
 * https://zh.wikipedia.org/wiki/战国时期
