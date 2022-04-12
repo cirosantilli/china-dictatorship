@@ -7212,6 +7212,27 @@ image::{china-dictatorship-media-base}/Umbrella_movement_in_Admiralty_night_View
 * https://en.wikipedia.org/wiki/Liberate_Hong_Kong,_revolution_of_our_times
 * https://zh.wikipedia.org/wiki/光復香港，時代革命
 
+If is often used in salute/response form: the first person or leader says:
+
+____
+Liberate Hong Kong
+____
+
+and the second replies:
+
+____
+Revolution of our times
+____
+
+In mandarin:
+
+____
+Guang1fu4 xiang1gang3 shi2dai4 ge2ming4
+____
+
+.<<liberate-hong-kong>> banner hang on 5 August 2019 at Harcourt Road in Admiralty. https://en.wikipedia.org/wiki/File:光復香港，時代革命.jpg[Source].
+image::{china-dictatorship-media-base}/Liberate_Hong_Kong_Admiralty_2019.jpg[height=600]
+
 [[hong-kong-national-security-law]]
 ==== Hong Kong National Security Law (香港国安法, 2020)
 
@@ -11853,7 +11874,7 @@ ____
 Interviewing potential spies for for the Ministry of Foreign Affairs of the People's Republic of China, on behalf of 中公教育 (offcn) - a $30B+ company, funded and managed by the Chinese Communist Party. I worked there from 2019 to 2020. I have lived in China from 2014 - 2020, speak Mandarin Chinese, and am now blacklisted by the Chinese government - a badge of honor.
 ____
 
-so holy fuck, Ciro actually feels this one could honestly be a <<spy,CIA deletion request>>.
+so holy fuck, Ciro actually feels this one could honestly be a <<spy,CIA deletion request>>. Unfortunately Ciro never managed to watch it before it was deleted.
 
 offcn is the short name for the company 中公教育党委 which literally means "Chinese Public Education Party". TODO what do they do exactly? They seem to have strong CCP party links: http://edu.people.com.cn/n1/2018/0510/c1006-29977260.html[], maybe they are a "corporate training" company for the CCP itself.
 
@@ -13174,7 +13195,7 @@ image::{china-dictatorship-media-base}/Quan_Ping_tshirt.jpg[height=400]
 .In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a t-shirt saying "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/【历史的先声】一党独裁，遍地是灾/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang's one-party dictatorship, but the CP will not establish a one-party dictatorship". This interesting <<zhihu>> page has many other similar quotes BTW: https://zhuanlan.zhihu.com/p/59503784[] (https://web.archive.org/web/20200331202252/https://zhuanlan.zhihu.com/p/59503784[archive]). He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui on <<front-line-defenders>>. Quotes from the <<hundred-flowers-campaign>> also come to mind. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
 image::{china-dictatorship-media-base}/Liu_Shihui_tshirt.jpg[height=700]
 
-.Activist https://en.wikipedia.org/wiki/Alexandra_Wong[Alexandra Wong] (https://zh.wikipedia.org/wiki/王鳳瑤[王鳳瑤]), AKA Grandma Wong (王婆婆) wearing a t-shirt that says in https://en.wikipedia.org/wiki/Cursive_script_(East_Asia)[grass script] "生於亂世，有種責任" (Born in troubled times, have the courage to do your duty) circa 2018 in <<hong-kong>>. The transcription can https://www.hkcnews.com/article/10556/藐視法庭-梁天琦-旺角衝突-10578/【旺角衝突】王婆婆戴「光復香港」頸巾聽審-藐視法庭罪成[be found here]. Her scarf reads 光復香港 (Liberate Hong Kong), and is presumably the same that she was wearing in 2018 during the trial of activist https://en.wikipedia.org/wiki/Edward_Leung[Edward Leung] (https://zh.wikipedia.org/wiki/梁天琦[梁天琦]) for which she was fined HK$1,000 for contempt of court. https://evchk.wikia.org/zh/wiki/生於亂世有種責任 mentions that the t-shirt sentence is a <<hong-kong-protests-2014>> protest slogan. She disappeared from August 2019 to October 2020 for <<picking-quarrels>>. https://www.thestandard.com.hk/breaking-news/section/4/157593/Protester-%22Grandma-Wong%E2%80%9D-was-under-house-confinement-in-Mainland,-she-says[Source].
+.Activist https://en.wikipedia.org/wiki/Alexandra_Wong[Alexandra Wong] (https://zh.wikipedia.org/wiki/王鳳瑤[王鳳瑤]), AKA Grandma Wong (王婆婆) wearing a t-shirt that says in https://en.wikipedia.org/wiki/Cursive_script_(East_Asia)[grass script] "生於亂世，有種責任" (Born in troubled times, have the courage to do your duty) circa 2018 in <<hong-kong>>. The transcription can https://www.hkcnews.com/article/10556/藐視法庭-梁天琦-旺角衝突-10578/【旺角衝突】王婆婆戴「光復香港」頸巾聽審-藐視法庭罪成[be found here]. Her scarf reads 光復香港 (Liberate Hong Kong), the first part of <<liberate-hong-kong>>, and is presumably the same that she was wearing in 2018 during the trial of activist https://en.wikipedia.org/wiki/Edward_Leung[Edward Leung] (https://zh.wikipedia.org/wiki/梁天琦[梁天琦]) for which she was fined HK$1,000 for contempt of court. https://evchk.wikia.org/zh/wiki/生於亂世有種責任 mentions that the t-shirt sentence is a <<hong-kong-protests-2014>> protest slogan. She disappeared from August 2019 to October 2020 for <<picking-quarrels>>. https://www.thestandard.com.hk/breaking-news/section/4/157593/Protester-%22Grandma-Wong%E2%80%9D-was-under-house-confinement-in-Mainland,-she-says[Source].
 image::{china-dictatorship-media-base}/Grandma_Wong_t_shirt.jpg[height=500]
 
 [[gfw]]
@@ -13188,10 +13209,10 @@ Golden Shield Project:
 * https://en.wikipedia.org/wiki/Golden_Shield_Project
 * https://zh.wikipedia.org/wiki/全国公安工作信息化工程
 
-And so, the spirit of Internet freedom that the Chinese themselves had at the start, was crushed :
+And so, the spirit of Internet freedom that the Chinese themselves had at the start, was crushed:
 
 ____
-越过长城
+越过长城 +
 走向世界
 
 Across the Great Wall, we can reach every corner in the world.
@@ -19380,6 +19401,14 @@ image::{china-dictatorship-media-base}/Marina_Ovsyannikova.jpg[height=400]
 
 .https://www.youtube.com/watch?v=D_MG0os17XM Marina Ovsyannikova's photobomb and statement video glued up by The Guardian.
 video::D_MG0os17XM[youtube,height=400,width=600]
+
+[[slava-ukraini]]
+==== Slava Ukraini (Слава Україні!)
+
+* https://en.wikipedia.org/wiki/Slava_Ukraini
+* https://ru.wikipedia.org/wiki/Слава_Украине!
+
+Ukrainian nationalist slogan. The <<liberate-hong-kong>> of Ukraine. Also follows a salute/reply pattern with the second sentence "Glory to the heroes".
 
 [[kazakhstan]]
 ==== Kazakhstan (哈萨克斯坦)
