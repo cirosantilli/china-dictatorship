@@ -32,7 +32,7 @@ https://china-dictatorship.onrender.com/[china-dictatorship.onrender.com]
 https://raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html[raw.githubusercontent.com],
 https://cdn.jsdelivr.net/npm/china-dictatorship@latest/README.html[cdn.jsdelivr (tag)]
 
-Anti-Chinese government propaganda. 反中共政治宣传库。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
+反中共政治宣传库。Anti-Chinese government propaganda. <<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
 
 This README is too large and https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com]. You can view it fully at either:
 
@@ -41,7 +41,7 @@ This README is too large and https://github.com/isaacs/github/issues/1610[GitHub
 
 or by downloading it locally as shown at: <<mirrors>>.
 
-**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead, preferably from behind VPN/Tor/<<shadowsocks>>.** 你不是一个人。未来需要隐藏的将是今天的五毛，而不是你。You are not alone. In the future, it is the wumaos who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
+**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead (non Chinese email provider), preferably from behind VPN/Tor/<<shadowsocks>>.** 你不是一个人。未来需要隐藏的将是今天的五毛，而不是你。You are not alone. In the future, it is the wumaos who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
 
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China_photo.jpg[height=600]
 
@@ -80,7 +80,7 @@ image::{china-dictatorship-media-base}/Core_socialist_values.jpg[height=1000]
 
 **六四事件 Tiananmen square protests 1989**
 
-https://cirosantilli.com/china-dictatorship#tiananmen
+https://cirosantilli.com/china-dictatorship/tiananmen
 
 Music!
 
@@ -95,7 +95,7 @@ image::{china-dictatorship-media-base}/Tiananmen_crushed_dead.jpg[height=600]
 
 **法轮功 Falun Gong 1999 70M believer religion banned**
 
-https://cirosantilli.com/china-dictatorship#falun-gong
+https://cirosantilli.com/china-dictatorship/falun-gong
 
 image::{china-dictatorship-media-base}/Falun_Gong_Guangzhou.jpg[height=600]
 
@@ -103,7 +103,7 @@ image::{china-dictatorship-media-base}/Falun_Gong_lady_silenced.jpg[height=600]
 
 **新疆改造中心 Xinjiang re-education camps 2018**
 
-https://cirosantilli.com/china-dictatorship#xinjiang
+https://cirosantilli.com/china-dictatorship/xinjiang
 
 image::{china-dictatorship-media-base}/Xinjiang_prisoners_sitting_identified.jpeg[height=400]
 
@@ -115,7 +115,7 @@ image::{china-dictatorship-media-base}/Xinjiang_camp_in_camp.jpg[height=600]
 
 **小熊维尼 Winnie the Pooh 2018**
 
-https://cirosantilli.com/china-dictatorship#winnie-the-pooh
+https://cirosantilli.com/china-dictatorship/winnie-the-pooh
 
 image::{china-dictatorship-media-base}/Xi_Pooh_Obama.webp[height=500]
 
@@ -125,19 +125,19 @@ image::{china-dictatorship-media-base}/Xi_Jinping_heart.jpeg[height=400]
 
 **郝海东 Hao Haidong Chinese soccer superstar turns against the CCP 2020**
 
-https://cirosantilli.com/china-dictatorship#hao-haidong
+https://cirosantilli.com/china-dictatorship/hao-haidong
 
 image::{china-dictatorship-media-base}/Hao_Haidong_kick.jpg[height=500]
 
 **冠状病毒审查 Censorship of the 2019 Corona Virus**
 
-https://cirosantilli.com/china-dictatorship#corona
+https://cirosantilli.com/china-dictatorship/corona
 
 image::{china-dictatorship-media-base}/Li_Wenliang_covid.jpg[height=400]
 
 **基督迫害 Christian persecution 2018**
 
-https://cirosantilli.com/china-dictatorship#christianity
+https://cirosantilli.com/china-dictatorship/christianity
 
 image::{china-dictatorship-media-base}/Church_demolition.jpg[height=400]
 
@@ -147,7 +147,7 @@ image::{china-dictatorship-media-base}/Pope_CCP_deal.jpeg[height=400]
 
 **LGBT权利 The suppression of homosexuality**
 
-https://cirosantilli.com/china-dictatorship#gay-rights
+https://cirosantilli.com/china-dictatorship/gay-rights
 
 image::{china-dictatorship-media-base}/Tiananmen_lesbian_kiss.jpg[height=500]
 
@@ -155,25 +155,25 @@ image::{china-dictatorship-media-base}/Addicted_bed.jpg[height=400]
 
 **996.ICU**
 
-https://cirosantilli.com/china-dictatorship#nine-nine-six-icu
+https://cirosantilli.com/china-dictatorship/nine-nine-six-icu
 
 image::{china-dictatorship-media-base}/996ICU.png[height=400]
 
 **Gay Putin**
 
-https://cirosantilli.com/china-dictatorship#gay-putin
+https://cirosantilli.com/china-dictatorship/gay-putin
 
 image::{china-dictatorship-media-base}/Gay_Putin.jpg[height=400]
 
 **The poisoning of Alexei Navalny 2020**
 
-https://cirosantilli.com/china-dictatorship#the-poisoning-of-alexei-navalny-2020
+https://cirosantilli.com/china-dictatorship/the-poisoning-of-alexei-navalny-2020
 
 image::{china-dictatorship-media-base}/Navalny_hospital_sitting.jpg[height=400]
 
 **Vajiralongkorn Hamtaro**
 
-https://cirosantilli.com/china-dictatorship#thai-king-hamtaro
+https://cirosantilli.com/china-dictatorship/thai-king-hamtaro
 
 image::{china-dictatorship-media-base}/Side_by_side_comparison_between_Thai_king_Vajiralongkorn_and_Hamtaro.jpg[height=400]
 
@@ -235,7 +235,7 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 
 * https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
 * https://gitlab.com/cirosantilli/china-dictatorship-2 mirror in case they block just https://github.com/cirosantilli/china-dictatorship[], see also: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
-* https://gitlab.com/cirosantilli/cirosantilli[]: a mirror just so that some interesting stuff will show up at https://gitlab.com/cirosantilli/cirosantilli[]. The policy is to transfer any <<wumao>> issues from there to https://github.com/cirosantilli/china-dictatorship[].
+* https://gitlab.com/cirosantilli/cirosantilli[]: a mirror just so that some interesting stuff will show up at https://gitlab.com/cirosantilli/cirosantilli[]. The policy is to transfer any <<wumao>> issues from there to https://github.com/cirosantilli/china-dictatorship[]. Interestingly, https://github.com/cirosantilli/cirosantilli/issues/53 from that project because the second yandex.com hit for "六四事件" as of 2022/04/17, and the only one that is not yet censored in China entirely, which drives reasonable traffic (3500 hist / 2 weeks).
 * https://gitlab.com/cirosantilli/china-dictatorship
 ** their gitlab.com render is shit for some reason, clicking on the ToC does not jump to headers properly, not sure why, IDs look correct
 ** one really cool thing about gitlab is that it can serve images from directly gitlab.com e.g. https://gitlab.com/cirosantilli/china-dictatorship-media/-/raw/master/Xi_Jinping_The_Governance_of_China_photo.jpg unlike GitHub which has the `raw.` subdomain: https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Xi_Jinping_The_Governance_of_China_photo.jpg This makes it impossible to block the GitLab images without blocking all of gitlab.com, until GitLab starts a <<github-gov-takedowns,gov-takedowns>> of their own.
@@ -524,7 +524,7 @@ Also accompanies a dynamic forum https://2049bbs.xyz/ which appears to be where 
 
 The "Terminus" in the repo name seems to be a reference to Isaac Asimov's fictional https://asimov.fandom.com/wiki/Terminus[Terminus planet] which is called https://zh.wikipedia.org/wiki/端点星[端点星] in Chinese, but it is not clear where the 2049 comes from in that context. Forgetting the Chinese name, Terminus2049 could be a reference to the fictional https://bladerunner.fandom.com/wiki/World_War_Terminus["World War Terminus"] from the https://en.wikipedia.org/wiki/Blade_Runner_2049[Blade Runner 2049 (2019)] movie, which also explains the 2049.
 
-First commint on 2018-04-27, GitHub pages domain blocked in China at least since 2019-03 according to <<greatfire>>: https://zh.greatfire.org/search/all/https%3A//terminus2049.github.io but not in <<github-gov-takedowns>> as of 2020-04.
+First commit on 2018-04-27, GitHub pages domain blocked in China at least since 2019-03 according to <<greatfire>>: https://zh.greatfire.org/search/all/https%3A//terminus2049.github.io but not in <<github-gov-takedowns>> as of 2020-04.
 
 The full post list can be seen most conveniently at: https://github.com/Terminus2049/Terminus2049.github.io/tree/master/_posts The number of articles is insane, usually several every day.
 
@@ -620,7 +620,7 @@ Unfortunately, it was found that the project could be used by malicious users to
 
 https://github.com/duty-machine/duty-machine/tree/d6ee9ff8e504b863352f163f7e143e84161ac349 explains that the automatic submission had to be taken down because <<wumao>> uploaded porn which is against GitHub's content policy.
 
-Related idiotic attempt on <<china-dictatorship>> project: https://github.com/cirosantilli/china-dictatorship/issues/500
+Related idiotic attempt on <<china-dictatorship>> project: https://github.com/cirosantilli/china-dictatorship/issues/500 where user crazy3523 uploaded some of Ciro's own existing anti-China images, and tried to pretend to be anti-CCP, and slipped a few child porn softcore in the middle hoping Ciro wouldn't see them. Their email was <crazy3523@protonmail.com>. They even went as far as creating another apparently anti-CCP post at: https://github.com/cirosantilli/china-dictatorship/issues/386 previously.
 
 This likely led the repository to be added to <<github-objectionable-content>>.
 
@@ -861,6 +861,9 @@ Related:
 
 * <<young-pioneers-of-china>>
 * <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream  and the Chinese dream>>
+
+.https://www.youtube.com/watch?v=K2ncGTvkxDQ How does propaganda change our beliefs? by Etienne Augé (2021). At: https://youtu.be/K2ncGTvkxDQ?t=139 he mentions his 6 principles of propaganda, the first of which is that it should be undetected. As soon as <<ciro-santilli>> saw that, he changed the description of this repository from "Anti-Chinese government information." to "Anti-Chinese government propaganda.".
+video::K2ncGTvkxDQ[youtube,height=400,width=600]
 
 [[keyword-attack]]
 ==== Screen name keyword attack (网名审查关键字攻击)
@@ -6449,6 +6452,10 @@ In other sections:
 
 * <<china-uncensored>>
 
+Others:
+
+* https://www.youtube.com/channel/UCwjvvgGX6oby5mZ3gbDe8Ug China Insights anti-CCP channel. TODO affiliation: https://www.reddit.com/r/Ask_Politics/comments/pi8kjo/is_the_youtube_channel_china_insights_trustworthy/ suggests Falun Gong but no proof.
+
 [[winnie-the-pool]]
 ==== Winnie the Pool (乳透社·小池塘,XJP音源,习近平音源)
 
@@ -6763,6 +6770,7 @@ Overview projects:
 
 News:
 
+* 2022-04 Ovalbek Turdakun was a prisoner for 10 months in 2018 and tells his experience: https://techcrunch.com/2022/04/13/xinjiang-prisoner-hikvision-china/
 * 2021-06 Inside Xinjiang short video series by The Telegraph. Basically the lady getting followed by police everywhere, and some destroyed mosques.
 ** https://www.youtube.com/watch?v=1LLMSzh4ZZI
 ** https://www.youtube.com/watch?v=4w3_A2vRGqE
@@ -12904,6 +12912,33 @@ Interesting websites:
 
 * https://ctext.org/[], has <<icp-license>>
 
+[[water-margin]]
+==== Water Margin (水浒传)
+
+* https://en.wikipedia.org/wiki/Water_Margin
+* https://zh.wikipedia.org/wiki/水浒传
+
+<<ciro-santilli>>'s further comments at: https://cirosantilli.com/water-margin
+
+We should make a montage with some <<chinese-dissidents>> side by side with Water Margin characters. The analogy is just so strong!
+
+The slogan would be 现代好汉，替天行道：向持不同政见者水浒传的致敬 (Modern day Heroes: Water Margin Homage to the dissidents)
+
+* <<quan-ping,Quan Ping>> vs the Monk Lu Zhishen, likely uprooting the tree: https://en.wikipedia.org/wiki/File:Lu_Zhishen_Water_Margin_2.jpg
+* <<liu-shihui-one-party-rule,Liu Shihui>> vs TODO. Maybe Lin Chong at https://en.wikipedia.org/wiki/File:Yoshitoshi-Lin_Chong.jpg after killing his ex riend.
+* <<programthink>> vs Song Jiang, the rebel leader. Or some other of the strategists, Wu Yong.
+* <<hao-haidong>> vs TODO. This one is strong because he is actually physically impressive. Unfortunate how the first thing that comes to mind is Gao Qiu, the evil dude!
+* Chen Mei and Cai Wei from <<terminus2049>>. TODO for them it would be good if we could have two closely related characters. Perhaps
+  * Ruan brothers: Ruan Xiao'er, Ruan Xiaowu, Ruan Xiaoqi. More notable than the Zhang brothers most likely. The problem is that they are 3.
+  * the brothers Zhang Heng and Zhang Shun, the only question is if they are memorable enough. https://en.wikipedia.org/wiki/File:Senkaji_Chao_wringing_out_hin_loincloth.jpg and https://commons.wikimedia.org/wiki/File:Utagawa_Kuniyoshi_-_水滸傳_-_張順.jpg perhaps.
+
+Some other popular characters:
+
+* Wu Song: kills a tiger. Easy inclusion.
+* Yang Zhi: TODO any memorable scene
+
+OK, maybe we can do instead/as well a video montage with; https://www.youtube.com/watch?v=MeUiaxaRMK8[], the theme song of the 1998 series. That would be sweet, and we don't have to worry too much about good correspondence of characters as the music will carry it all over no matter what. https://zhuanlan.zhihu.com/p/266089281 contains all images.
+
 [[journey-to-the-west]]
 ==== Journey to the west (西游记)
 
@@ -12980,7 +13015,9 @@ The CCP is a cult: <<ccp-cult>>.
 
 * https://zh.wikipedia.org/wiki/中国共产党组织
 * https://en.wikipedia.org/wiki/Organization_of_the_Chinese_Communist_Party
-* https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping talks about <<xi-jinping>>'s rise, but algo gives some general idea of the workings of the Holy party.
+* https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping talks about <<xi-jinping>>'s rise, but algo gives some general idea of the workings of the Holy party. But basically it is exactly the same any any corrupt court: everything is based on power relationships. When someone gives power to you, you are expected to give it back later on. <<rule-of-law,Justice is completely meaningless>> in that system. Power relationships trump any law.
++
+* When Ciro was watching the 1998 <<water-margin>>, he was reminded of this article very strongly. In the extremely corrupt world of that novel, justice is always trumped by power, which leads to outlaws being the heroes, exactly as seen in modern China with the <<chinese-dissidents>>.
 
 [[politburo]]
 ==== Politburo Standing Committee of the Chinese Communist Party (中国共产党中央政治局常务委员会)
@@ -13053,6 +13090,20 @@ Related:
 * <<hate-speech>>
 * <<os-problemas-da-imprensa-livre,Newspaper censorship cake recipe posts during the Brazilian military dictatorship>>
 * <<dictatorships-are-bad-for-the-arts>>
+
+A fundamental quote by https://en.wikipedia.org/wiki/Blaise_Pascal[Blaise Pascal] (https://zh.wikipedia.org/wiki/布莱兹·帕斯卡[布莱兹·帕斯卡]) from his https://en.wikipedia.org/wiki/Lettres_provinciales[Lettres provinciales] (1656-1657):
+
+____
+The war in which violence endeavours to crush truth is a strange and a long one.
+
+All the efforts of violence cannot weaken truth, but only serve to exalt it the more.
+
+The light of truth can do nothing to arrest violence; nay, it serves to provoke it still more.
+
+When force opposes force, the more powerful destroys the less; when words are opposed to words, those which are true and convincing destroy and scatter those which are vain and false; but violence and truth can do nothing against each other.
+
+Yet, let no one imagine that things are equal between them; for there is this final difference, that the course of violence is limited by the ordinance of God, who directs its workings to the glory of the truth, which it attacks; whereas truth subsists eternally, and triumphs finally over its enemies, because it is eternal, and powerful, like God Himself.
+____
 
 .https://en.wikipedia.org/wiki/Eric_Drooker[Eric Drooker]'s "Censorship" (TODO year) has become one of the most recognizable censorship symbols as of 2020. https://www.drooker.com/illustrations[Source].
 image::{china-dictatorship-media-base}/Eric_Drooker_censorship.jpg[height=400]
@@ -13188,6 +13239,7 @@ China suppresses Falun Gong +
 Which is unforgivable
 ____
 
+[[quan-ping]]
 .In 2016 activist Quan Ping (Kwon Pyong, 权平, https://twitter.com/kwonpyong[BraveJohnny]) was sent to jail for wearing a <<nazi,Xitler>>/<<xi-jinping-memes,習包子/大撒币>> t-shirt in public and posting selfies online. This photo is in front of a Government building (TODO exact location, reports say he is from https://en.wikipedia.org/wiki/Jilin_City[Jilin City] (https://zh.wikipedia.org/wiki/吉林市[吉林市]) in <<jilin>> transcription of the sign on top of building: 诚信立市 https://baike.baidu.com/item/工业强市[工业强市] 依法治...) https://www.nytimes.com/2017/02/16/world/asia/china-xi-jinping-xitler-tshirt-kwon-pyong.html[New York Times coverage]. He was later sentenced and served 18 months in prison because of this: https://www.frontlinedefenders.org/en/profile/kwon-pyong on <<front-line-defenders>>. https://www.rfa.org/english/news/china/xi-jinping-tshirt-activist-confirmed-held-in-northeast-china-detention-center-12082016110338.html[Source].
 image::{china-dictatorship-media-base}/Quan_Ping_tshirt.jpg[height=400]
 
@@ -13240,7 +13292,8 @@ But on the other hand Russia is already much freer than China.
 
 Although I don't like them, I can't deny one thing: the commies are smart, and when they do something (e.g. censorship), it tends to keep them in power.
 
-===== The Great Firewall is necessary to protect China from harmful USA propaganda and data collection
+[[gfw-to-protect-from-usa]]
+===== The Great Firewall is necessary to protect China from harmful USA propaganda and data collection (防火墙对于保护中国免受美国有害的宣传和数据收集是必要的)
 
 <<ciro-santilli>> doesn't think this is below the USA, but:
 
@@ -15160,7 +15213,7 @@ referring to: https://cirosantilli.com/how-to-become-a-good-programmer
 * 2021-12-22 https://cirosantilli-realworld-next.herokuapp.com/ https://archive.ph/wip/EVcUw added two messages "这个网站也是王八操的搞得，操你妈得大傻逼。狗腿子汉奸孤儿" and "访问太频繁服务器受不了啦🏦，请使用微信搜索「沙雕APP」使用小程序体验，没有访问限制" That website has no signup verification mechanism, users can just spam it at will. Would be good to log some IPs to start with. Can't store in a database because we are capped at 10k DB rows on the free plan.
 * 2021-12-21 https://codeforces.com/blog/entry/98165?locale=en a Russian online judge: "BTW, I'm not sure if these two things are related, but HDU's online judge system(http://acm.hdu.edu.cn) was shut down in last week. The site administrator said the reason for the shutdown was that a user's username violated Chinese law..." to which "TwentyOneHundredOrBust" replied "this sounds like a job for ciro santilli"
 * 2021 https://hub.xn--p8jhe.tw/search to https://github.com/cirosantilli/cirosantilli[] which redirects to https://www.library.ac.cn/ip.html?=iwikie "Your IP is not allowed to visit this site. This site is only available in Mainland China." which is a mirror list as mentioned at <<google-mirrors>>. Other similar links from other times: おうか
-** 2022-03: http://hub.xn--gzu630h.xn--kpry57d.com/search Nowadays, putting it in Chromium redirects to hub.連接.台灣/search where 連接 is "link, hyperlink" and <<taiwan>>. So we understand that the weird URLs are just a way to encode chinese characters on URLs. https://stackoverflow.com/questions/9724379/xn-on-domain-what-it-means explains 
+** 2022-03: http://hub.xn--gzu630h.xn--kpry57d.com/search Nowadays, putting it in Chromium redirects to hub.連接.台灣/search where 連接 is "link, hyperlink" and <<taiwan>>. So we understand that the weird URLs are just a way to encode Chinese characters on URLs. https://stackoverflow.com/questions/9724379/xn-on-domain-what-it-means explains
 * 2021-11-14 https://www.chinesehongker.com/forum.php?mod=viewthread&tid=14153&extra=page%3D1&ordertype=1&mobile=2 Appears not visible outsie of China. From http://webcache.googleusercontent.com/search?q=cache:8bAWUrdhbNYJ:https://www.chinesehongker.com/forum.php?mod%3Dviewthread%26tid%3D14153%26extra%3Dpage%253D1%26ordertype%3D1%26mobile%3D2&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW&client=ubuntu&hl=en&gl=uk&tbs=lr:lang_1en%7Clang_1zh-CN%7Clang_1zh-TW&strip=1&vwsrc=0[Google cache] (https://archive.ph/wip/Z6EGq[archive]). Title: 对于github上的非法项目，如何合理的消灭 Content: https://github.com/cirosantilli 今天无意间搜到一个湾毒的github，有哪位大佬可以解决该问题吗 Just your usual <<disturbs>> wumao bullshit. Edit: found viewable version at: https://www.chinesehongker.com/forum.php?mod=viewthread&tid=14153[] The forum claims to be part of the Honker Union hacktivist group, bring it on:
 ** https://en.wikipedia.org/wiki/Honker_Union
 ** https://zh.wikipedia.org/wiki/红客
@@ -18735,6 +18788,9 @@ https://youtu.be/fAoMzxKkH2M?t=3628 Can't Get You Out of My Head S01E06 "Are We 
 
 .https://www.youtube.com/watch?v=BiI5UuCiEoU Russian Youtuber Bashir Dokhov puts Putin portrait in a lift as an opinion poll. TODO evidence that it was not staged, e.g. address, identities of people shown. But in any case, Ciro does feel that as of 2020 Putin's power is very precarious compared to <<xi-jinping>> for example. E.g., whenever Ciro spoke to Russians abroad, they were all able to criticize Putin. But about on third to half of the Chinese abroad were completely brainwahsed and thought China has the best government possible. Original video: https://www.youtube.com/watch?v=eeb3MMl3lB4[].
 video::BiI5UuCiEoU[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=Kk9igTqTx9s The Putin Files: Masha Gessen interview with PBS ()
+video::Kk9igTqTx9s[youtube,height=400,width=600]
 
 [[putler]]
 ==== Vladolf Putler (Владольф Путлер)
