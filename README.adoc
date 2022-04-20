@@ -15,7 +15,7 @@
 
 https://cirosantilli.com/china-dictatorship[cirosantilli.com (规范链接 canonical)] |
 https://github.com/cirosantilli/china-dictatorship[GitHub 项目 project] |
-https://github.com/cirosantilli/china-dictatorhsip[Mirror 镜像 2] |
+https://github.com/cirosantilli/china-dictatorhsip-2[Mirror 镜像 2] |
 https://github.com/coding-stuffs/china-dictatorshrip[Mirror 镜像 3] |
 link:index-split[分裂标题版本 split header version] |
 中国镜像 China mirrors:
@@ -77,6 +77,22 @@ Each summary section contains a link to the main section, which contains sources
 **社会主义核心价值观 Core socialist values**
 
 image::{china-dictatorship-media-base}/Core_socialist_values.jpg[height=1000]
+
+https://cirosantilli.com/china-dictatorship/most-chinese-people-like-their-dictatorship
+
+image::{china-dictatorship-media-base}/Anonymous_middle_fingers.jpg[height=800]
+
+https://cirosantilli.com/china-dictatorship/uneducated-masses
+
+image::{china-dictatorship-media-base}/Immoral_and_uneducated.jpg[height=600]
+
+image::{china-dictatorship-media-base}/Immoral_and_uneducated_en.jpg[height=600]
+
+https://cirosantilli.com/china-dictatorship/overlook-human-rights-for-profit
+
+image::{china-dictatorship-media-base}/Pig_politics_Chinese.jpg[height=600]
+
+image::{china-dictatorship-media-base}/Rebel_pepper_pig_can%27t_eat_democracy_cartoon_translated_to_English_by_Ciro_Santilli.jpg[height=600]
 
 **六四事件 Tiananmen square protests 1989**
 
