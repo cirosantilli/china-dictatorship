@@ -544,7 +544,7 @@ First commit on 2018-04-27, GitHub pages domain blocked in China at least since 
 
 The full post list can be seen most conveniently at: https://github.com/Terminus2049/Terminus2049.github.io/tree/master/_posts The number of articles is insane, usually several every day.
 
-Most articles appear to be taken from recent news at the time of writting, although there are a few from before the repo started. As of 2020-04, the oldest article was from 2016 <<metoo>> events reported by Yue Xin, some other topics include:
+Most articles appear to be taken from recent news at the time of writting, although there are a few from before the repo started. As of 2020-04, the oldest article was from 2016 <<metoo>> events reported by <<yue-xin>>, some other topics include:
 
 * <<gay-rights>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2018-04-14-LGBTRights-advocacy-china.md
 * <<nine-nine-six-icu>> https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2019-04-04-996-ICU.md
@@ -1327,6 +1327,7 @@ And it should also be said that some Western politicians have used "blame China"
 
 Some believe that the Chinese government grossly under-reported death counts. Initial official figures were about only 3300 deaths, in the insanely densely populated Wuhan area, while Italy had reached 10000 deaths:
 
+* 2022-04 https://www.voanews.com/a/china-censors-national-anthem-lyrics-used-as-lockdown-protest-/6539716.html China Censors <<national-anthem>> Lyrics Used as <<covid,Lockdown>> Protest on <<voa>>
 * 2020-04-19 https://www.youtube.com/watch?v=Nr280LWjJT0&t=2198 Trump says on a White House briefing he does not believe China's case count
 * 2020-04-01 https://www.bloomberg.com/news/articles/2020-04-01/china-concealed-extent-of-virus-outbreak-u-s-intelligence-says CIA speaks
 * 2020-03-29 https://www.dailymail.co.uk/news/article-8165717/Locals-Wuhan-believe-42-000-people-died-coronavirus.html Reports of funerary urns sold
@@ -1467,6 +1468,7 @@ video::_7VIG2qp0j4[youtube,height=400,width=600]
 ** https://www.youtube.com/watch?v=sUvBNpkxrJo "Fang Bin is second Chinese citizen journalist to vanish while reporting from coronavirus epicentre" by <<scmp>>
 +
 video::sUvBNpkxrJo[youtube,height=400,width=600]
+** 2021-09 they actually let him back online, e.g. https://mobile.twitter.com/chenqiushi404/status/1516189492595814401 anti <<russo-ukrainian-war>>
 * https://en.wikipedia.org/wiki/Li_Zehua[Li Zehua] (https://zh.wikipedia.org/wiki/李泽华_(记者)[李澤華])
 ** YouTube https://www.youtube.com/channel/UCJHUpBCNKrZwBhxfcIrP8Aw
 ** Twitter https://twitter.com/kcrissli
@@ -2911,7 +2913,6 @@ More interesting case is: https://en.wikipedia.org/wiki/Knight_First_Amendment_I
 +
 All of those banning should not be done. If the people want to rebel, they must be allowed to communicate and rebel.
 * 2020-10-12 https://techcrunch.com/2020/10/12/facebook-in-a-reversal-will-now-ban-holocaust-denial-content-under-its-hate-speech-policy/
-* 2020 https://www.forbes.com/sites/andrewsolender/2020/06/20/trump-says-he-wants-to-punish-flag-burning-with-a-year-in-prison/#4d00781b3404 "Trump Says He Wants To Punish Flag Burning With A Year In Prison". https://en.wikipedia.org/wiki/Flag_desecration#United_States[]. If this were to pass, Ciro would be very temped to upload a GIF. Flag dessacration laws are bullshit.
 * 2020-08 Kevin Cernekee fired from Google for conservative views
 ** 2020-08-27 https://www.cnbc.com/2019/08/06/google-whistleblower-cernekee-pushed-alt-right-views-former-colleague.html "Internal Google memo claimed conservative whistleblower promoted alt-right views"
 ** It appears to be legal in the US for companies to fire employees based on political beliefs:
@@ -2940,8 +2941,11 @@ Minor:
 * https://techcrunch.com/2021/04/30/basecamp-employees-quit-ceo-letter/ 2021-04-31 Basecamp sees mass employee exodus after CEO bans political discussions
 
 YouTube:
+
 * 2021-10-07 https://techcrunch.com/2021/10/07/google-youtube-climate-change-denial-ban/ Google and YouTube say they won't allow ads or monetized content pushing climate denial
 * 2021-09-29 https://techcrunch.com/2021/09/29/youtube-will-now-ban-content-with-vaccine-misinformation/ YouTube will now ban content with vaccine misinformation
+
+Related: some Western <<flag-desecration>> censorship at <<flag-desecration>>
 
 [[politically-incorrect]]
 ====== Censorship of "politically incorrect speech" (审查政治不正确言论)
@@ -3220,7 +3224,8 @@ image::{china-dictatorship-media-base}/Xi_Nazi_car_salute_photoshop.jpg[height=4
 .Original photo of Hitler giving the Nazi salute from a car with Himmler on the background. This photo shows them reviewing SS troops during a Reichsparteitag (Reich Party Day) parade in Nuremberg (1938-09-05 - 1938-09-12). https://aboutholocaust.org/en/facts/who-was-adolf-hitler[Source].
 image::{china-dictatorship-media-base}/Hitler_Himmler_salute.jpg[height=400]
 
-.Chinazi flag (赤纳粹旗) by <<hong-kong-anti-extradition-bill-protests-2019,Hong Kong protesters>>. Seen https://chinadigitaltimes.net/chinese/2019/08/【盛世一景】赤纳粹旗（chinazi-flag）/[on streets]. https://www.reddit.com/r/HongKong/comments/dbrken/google_bomb_china_flag_search_query_into_chinazi/[Source].
+[[chinazi-flag]]
+.Chinazi flag (赤纳粹旗) by <<hong-kong-anti-extradition-bill-protests-2019,Hong Kong protesters>>. Seen https://chinadigitaltimes.net/chinese/2019/08/【盛世一景】赤纳粹旗（chinazi-flag）/[on streets]. An example of <<flag-desecration>>. https://www.reddit.com/r/HongKong/comments/dbrken/google_bomb_china_flag_search_query_into_chinazi/[Source].
 image::{china-dictatorship-media-base}/Chinazi_flag.png[height=400]
 
 .https://www.youtube.com/watch?v=wD53MEbLDIE <<serpentza-laowhy86,laowhy86>> video "Can We Compare China to Nazi Germany?" published on 2020-04-29. Good side-by-side video comparisons. Says that China is more like Nazi than <<russia>>, but Ciro disagrees, all three are <<is-chinese-politician-x-evil,evil dictatorships>>.
@@ -4511,7 +4516,8 @@ News:
 * 2020-02-25 https://www.theguardian.com/technology/2020/feb/25/apple-censorship-requests-china-shareholder-groups-proposal
 * 2019-04-12 https://www.theverge.com/2019/4/12/18305087/congress-apple-criticism-china-communist-tiananmen-pro-democracy "Lawmakers lash out at Apple for censoring a song about <<tiananmen,Tiananmen Square protests>>"
 +
-.Chinese flag with Apple characteristics. https://techcrunch.com/2015/08/11/apple-shares-tumble-5-amidst-china-concerns/[Source].
+[[apple-flag]]
+.Chinese flag with Apple characteristics. An example of <<flag-desecration>>. https://techcrunch.com/2015/08/11/apple-shares-tumble-5-amidst-china-concerns/[Source].
 image::{china-dictatorship-media-base}/Apple_China_flag.png[height=400]
 * 1999 https://www.lionsroar.com/apple-thinks-different-about-the-dalai-lama-in-china-2/ Apple censors <<dalai-lama>> for China
 
@@ -5591,7 +5597,9 @@ admin.github.com hits to GitHub repository:
 
 Bibliography:
 
-* 2022 https://github.com/github/feedback/discussions/12641 Please shut down this repository of malicious smears/ethnic division/nothing to do with open source technology/misperception among teenagers
+* https://github.com/github/feedback/discussions
+  * 2022-04 https://github.com/github/feedback/discussions/15534 Report spam by https://github.com/ryuujo1573[].
+  * 2022 https://github.com/github/feedback/discussions/12641 Please shut down this repository of malicious smears/ethnic division/nothing to do with open source technology/misperception among teenagers by https://github.com/Yorksh1re[]. Deleted: https://web.archive.org/web/20220310124004/https://github.com/github/feedback/discussions/12641
 * https://www.zhihu.com/question/388634161 如果举报github上的这种情况？ (How to report this type of circunstance on GitHub.) Question links to <<evil-man>>.
 +
 A few answers then started mentioning <<github-com-cirosantilli-china-dictatorship>>:
@@ -9814,7 +9822,7 @@ https://en.wikipedia.org/wiki/Jasic_Workers_Solidarity_Group
 
 <<yue-xin>> was also involved with them.
 
-.Yue Xin with the Jasic <<t-shirt,T-shirt>>. That T-shirt is official to the movement, and can be seen worn by many other people in other photos. TODO what does their T-shirt say??? It is impossible to decode that beautiful script. Looks like: 伺伭就X刀量. And who are the people it depicts? A perfectly clean image can be seen on their Twitter: https://pbs.twimg.com/profile_images/1033004258184941569/2pcCgIUK_400x400.jpg[].
+.<<yue-xin>> with the Jasic <<t-shirt,T-shirt>>. That T-shirt is official to the movement, and can be seen worn by many other people in other photos. TODO what does their T-shirt say??? It is impossible to decode that beautiful script. Looks like: 伺伭就X刀量. And who are the people it depicts? A perfectly clean image can be seen on their Twitter: https://pbs.twimg.com/profile_images/1033004258184941569/2pcCgIUK_400x400.jpg[].
 image::{china-dictatorship-media-base}/Yue_Xin_Jasic_shirt.jpg[height=400]
 
 [[jasic-incident]]
@@ -9842,6 +9850,8 @@ about the events described at https://web.archive.org/web/20200104064812/https:/
 This was one of the starting points of <<terminus2049>>.
 
 The letter was also apparently embedded into the <<bitcoin-blockchain,Ethereum blockchain>> according to https://theconversation.com/chinese-internet-users-turn-to-the-blockchain-to-fight-against-government-censorship-111795[].
+
+Yue was also involved with <<jasic>>. An all-round activist.
 
 [[politicians]]
 == Chinese politicians (中国政治家)
@@ -12768,23 +12778,22 @@ Fun is forbidden in China, all people must be good <<xi-jinping>> loving <<ccp-c
 ** Li Tianyou: "Li Tianyou's downfall was deeply embedded in his rap lyrics and the lifestyle that he promotes in his shows. Several of his now-banned songs praised methamphetamine, calling the illicit drug "wonderful" and capable of "erasing all worries" (our translation), and describing in detail the sensation of being high on meth. Li's livestreams also featured extravagant displays of wealth, including stacks of cash, luxury watches, and expensive sports cars."
 ** Lu Benwei (卢本伟, alias 55kai): "As for Lu Benwei, profanity eventually became his undoing. After being accused of using cheats when live-streaming a game in November 2017, Lu vehemently defended himself on his channel, insulting the content creator who made the accusation and instigating fans to verbally abuse him."
 ** Chen Yifa: "offense stemmed from a single live-streaming session in 2016. According to a widely circulated video, Chen made joking mention of historical events such as the Nanjing Massacre and Japan's occupation of northeast China. She also described a game character's movement as honoring the Yasukuni"
-** Yang Kaili (楊凱莉, alias 莉哥): "Yang Kaili, or "Lige," was the only one of the four banned live-streamers to have broken the law. During a live-streaming show on Huya in October 2018, Yang was seen singing China's national anthem, "March of the Volunteers," in a jovial tone while waving her arms like an orchestra conductor", so basically 
-+
-2018 coverage: https://www.bbc.co.uk/news/world-asia-china-45859650
-*
+
+[[yang-kayli-anthem-desecration]]
+====== Yang Kayli anthem desecration (楊凱莉, 2019)
+
 https://zh.wikipedia.org/wiki/杨凯莉
-+
-Clip: https://www.youtube.com/watch?v=4LKONlosqFM It was just a very small section, as part of the stream opening.
 
-[[flag-desecration]]
-====== Flag desecration (亵渎旗帜)
+Yang Kaili (楊凱莉, alias 莉哥): "Yang Kaili, or "Lige," was the only one of the four banned live-streamers to have broken the http://chinafilminsider.com/the-stars-who-vanished-from-chinas-live-streaming-galaxy/[2019 live streaming law] mentioned at <<live-streaming>>.
 
-* https://en.wikipedia.org/wiki/Flag_desecration
-* https://zh.wikipedia.org/wiki/褻瀆旗幟
+During a live-streaming show on Huya in October 2018, Yang was seen singing China's <<national-anthem>>, "March of the Volunteers," in a jovial tone while waving her arms like an orchestra conductor"
 
-Fuck countries, long live humanity.
+So basically it was somewhat silly, but also cute and likely not intentionally rebelious at all, 
 
-https://www.youtube.com/watch?v=NlKbg-1_7Bk "Chinese National Anthem" (2017) This crazy dud plays several tunes on trumpet on one hand, while using a handgun for the beat on the other hand.
+2018 https://www.bbc.co.uk/news/world-asia-china-45859650 Yang Kaili: China live-streamer detained for 'insulting' national anthem
+
+.https://www.youtube.com/watch?v=4LKONlosqFM It was just a very small section, as part of the stream opening.
+video::4LKONlosqFM[youtube,height=400,width=600]
 
 [[political-essays]]
 == Political essays (政治论文)
@@ -13051,7 +13060,79 @@ Every 5 years in october/november. Sample years:
 * 19th: 2017
 * 20th: 2022
 
-=== CCP Shanghai member data leak (2020)
+[[ccp-symbol]]
+=== CCP symbol (中共标志)
+
+In other sections:
+
+* <<core-socialist-values>>
+
+[[national-anthem]]
+==== Chinese National Anthem (义勇军进行曲, 1978)
+
+* https://en.wikipedia.org/wiki/March_of_the_Volunteers
+* https://zh.wikipedia.org/wiki/义勇军进行曲
+
+* lyrics: 1934
+* music: 1935
+* adopted: 1949
+
+Rise up, people who don't want to be slaves
+
+Because this is a revolutionary song, it contains great protest reusability, e.g. as seen in: 2022-04 https://www.voanews.com/a/china-censors-national-anthem-lyrics-used-as-lockdown-protest-/6539716.html China Censors <<national-anthem>> Lyrics Used as <<covid,Lockdown>> Protest on <<voa>>, in which the very first verse was censored! 起来！不愿做奴隶的人们！ (Stand up! Those who refuse to be slaves!)
+
+____
+Stand up! Those who refuse to be slaves! +
+With our flesh and blood, let's build our newest Great Wall! +
+The Chinese Nation is at its greatest peril, +
+Each one is forced to let out one last roar. +
+Stand up! Stand up! Stand up! +
+We are billions of one heart, +
+Braving the enemies' fire, March on! +
+Braving the enemies' fire, March on! +
+March on! March on! On! +
+
+起来！不愿做奴隶的人们！ +
+把我们的血肉，筑成我们新的长城! +
+中华民族到了最危险的时候， +
+每个人被迫着发出最后的吼声。 +
+起来！起来！起来！ +
+我们万众一心， +
+冒着敌人的炮火，前进 +
+冒着敌人的炮火，前进! +
+前进！前进！进! +
+____
+
+In other sections:
+
+* <<yang-kayli-anthem-desecration>>
+
+.https://www.youtube.com/watch?v=NlKbg-1_7Bk Chinese National Anthem by Charlie Cook (2017) This crazy dude plays several tunes on trumpet on one hand, while using a handgun for the beat on the other hand.
+video::NlKbg-1_7Bk[youtube,height=400,width=600]
+
+[[flag-desecration]]
+==== Flag desecration (亵渎旗帜)
+
+* https://en.wikipedia.org/wiki/Flag_desecration
+* https://zh.wikipedia.org/wiki/褻瀆旗幟
+* https://en.wikipedia.org/wiki/Flag_of_China
+* https://zh.wikipedia.org/wiki/中华人民共和国国旗
+
+Fuck all countries, long live humanity.
+
+Examples:
+
+* <<chinazi-flag,Chinazi flag>>
+* <<apple-flag,Apple flag>>
+
+To be fair, also done/almost done in the West. <<unjust-social-media-censorship-in-the-west,Idiots>>:
+
+* 2020 https://www.forbes.com/sites/andrewsolender/2020/06/20/trump-says-he-wants-to-punish-flag-burning-with-a-year-in-prison/#4d00781b3404 "Trump Says He Wants To Punish Flag Burning With A Year In Prison". https://en.wikipedia.org/wiki/Flag_desecration#United_States[]. If this were to pass, Ciro would be very temped to upload a GIF. Flag dessacration laws are bullshit.
+* 2017 https://www.euronews.com/2017/11/09/which-country-has-the-harshest-punishments-for-disrespecting-flags-and-national The EU countries that will punish you for disrespecting their flags
+* 2006 USA: https://en.wikipedia.org/wiki/Flag_Desecration_Amendment
+
+[[ccp-shanghai-member-data-leak-2020]]
+=== CCP Shanghai member data leak (中共上海党员名单泄露, 2020)
 
 Public news: 2020-12-13. Date of extraction: 2016.
 
@@ -14164,6 +14245,9 @@ Discussion/lists: <<quora>>:
 .Elbow-to-elbow against the common enemy! French division of the Waffen SS (Coude a coude contre l'ennemi commun! Division française de la Waffen SS) 1942 propaganda poster for the French SS division, formally known as https://en.wikipedia.org/wiki/33rd_Waffen_Grenadier_Division_of_the_SS_Charlemagne[33rd Waffen Grenadier Division of the SS Charlemagne]. Mentioned at: https://www.youtube.com/watch?v=UJpWB5hi3hQ French SS - Berlin 1945 by Mark Felton Productions (2020). https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/coude-a-coude-contre-l-ennemi-commun-division-francaise-de-la-waffen-ss#infos-principales[Source].
 image::{china-dictatorship-media-base}/French_Nazi_SS_poster_1942.jpg[height=600]
 
+.https://www.youtube.com/watch?v=0HGgzK2yVX4 The LAST White Monkey Jobs in China by <<serpentza-laowhy86,laowhy86>> (2022). An overview of CCP apologists on YouTube.
+video::0HGgzK2yVX4[youtube,height=400,width=600]
+
 ====== Tankie
 
 https://en.wikipedia.org/wiki/Tankie
@@ -14550,7 +14634,7 @@ image::{china-dictatorship-media-base}/Xi_scout_salute_vs_Hitler_Youth_salute.jp
 * https://www.zhihu.com/question/56068614 on <<zhihu>> "如何评价中国的红军小学?" (What do you think about the Red Army schools?)
 * 2017 https://www.globaltimes.cn/content/1081039.shtml on <<global-times>>
 
-.Children dressed in clear-blue Red-army uniforms saluting the flag at a <<red-army-school>> in https://en.wikipedia.org/wiki/Beichuan_Qiang_Autonomous_County[Beichuan] (https://zh.wikipedia.org/wiki/北川羌族自治县[北川]), <<sichuan>>, 2015. https://correspondent.afp.com/red-army-school[Source].
+.Children dressed in clear-blue Red-army uniforms saluting <<flag-desecration,the flag>> at a <<red-army-school>> in https://en.wikipedia.org/wiki/Beichuan_Qiang_Autonomous_County[Beichuan] (https://zh.wikipedia.org/wiki/北川羌族自治县[北川]), <<sichuan>>, 2015. https://correspondent.afp.com/red-army-school[Source].
 image::{china-dictatorship-media-base}/Red_army_school.jpg[height=500]
 
 [[hitler-youth]]
@@ -14872,7 +14956,7 @@ image::{china-dictatorship-media-base}/Huawei_why_does_the_whole_world_hate_me.j
 .<<rebel-pepper>> 2019-03-08 showing Huawei slapping the Statue of Liberty with "The Constitution of the United States" when Huawei sued the US Government for violating the Constitution when it banned government agencies from buying Huawei equipment. This illustrates the usual dilemma where <<what-should-western-countries-do-about-china,China uses Western freedom of speech as a weapon against the West itself>>. https://www.rfa.org/english/cartoons/chinashuawei-03082019162541.html[Source].
 image::{china-dictatorship-media-base}/Huawei_Statue_of_Liberty.jpeg[height=400]
 
-.Cartoon showing a huge China flag branded USB sucking up Western personal and military information like a vacuum cleaner in 2019-04-29 article entitled "Britain will regret doing business with Huawei". TODO cartoon author. https://retro-blogs.spectator.co.uk/2019/04/britain-will-regret-doing-business-with-huawei/[Source].
+.Cartoon showing a huge <<flag-desecration,China flag>> branded USB sucking up Western personal and military information like a vacuum cleaner in 2019-04-29 article entitled "Britain will regret doing business with Huawei". TODO cartoon author. https://retro-blogs.spectator.co.uk/2019/04/britain-will-regret-doing-business-with-huawei/[Source].
 image::{china-dictatorship-media-base}/China_USB_theft.jpg[height=400]
 
 .Cartoon suggesting that Huawei's 5G is a like a https://en.wikipedia.org/wiki/Trojan_Horse[Trojan Horse] being gifted to Europe. TODO: source of original non-China generic Trojan Horse background image that was edited and repurposed. https://twitter.com/DaichiWatanbe/status/1231189285325475840[Source].
@@ -18822,6 +18906,7 @@ Wikipedia also mentions the derived slogan "Путлер Капут" (Putler Kap
 
 Other images:
 
+* 2022 https://mobile.twitter.com/thanhlong140896/status/1516278294312013824/photo/1 a guy posing on a very clean uniform on purpose for a modern photo, and then likely face swapped
 * 2022 https://www.hindustantimes.com/world-news/the-time-magazine-cover-that-wasn-t-putin-hitler-picture-amid-ukraine-war-101646111380252.html good trio of fake Time magazine ones
 * 2022 https://www.reddit.com/r/PoliticalHumor/comments/t0n08e/this_aged_well_vladolf_putler/ on fake Time magazine, not amazing this one, more or less horizontally half half
 * https://steamcommunity.com/id/vladolfputin a very good fake Times magazine
