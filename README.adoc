@@ -32,20 +32,14 @@ https://china-dictatorship.onrender.com/[china-dictatorship.onrender.com]
 https://raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html[raw.githubusercontent.com],
 https://cdn.jsdelivr.net/npm/china-dictatorship@latest/README.html[cdn.jsdelivr (tag)]
 
-反中共政治宣传库。Anti-Chinese government propaganda. <<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,Heil Xi 卐>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
-
-This README is too large and https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com]. You can view it fully at either:
-
-* https://cirosantilli.com/china-dictatorship[]. Canonical, https://zh.greatfire.org/https/cirosantilli.com[blocked in China since 2020] according to <<greatfire>>. However, <<brave-new-world-books,China is still the second largest hit location after USA according to Google Analytics, I don't understand>>
-* https://cirosantilli.gitlab.io/china-dictatorship[]. Let's see how good is the <<gfw>> at blocking subdomains.
-
-or by downloading it locally as shown at: <<mirrors>>.
+反中共政治宣传库。Anti-Chinese government propaganda. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,卐习万岁卐>>。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<xi-abolishes-term-limits-2018-03,卐 Heil Xi 卐>>.
 
 **住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead (non Chinese email provider), preferably from behind VPN/Tor/<<shadowsocks>>.** 你不是一个人。未来需要隐藏的将是今天的五毛，而不是你。You are not alone. In the future, it is the wumaos who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
 
+This README is too large and https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com/cirosantilli/china-dictatorship]. You can view it fully at the canonical https://cirosantilli.com/china-dictatorship[] which is https://zh.greatfire.org/https/cirosantilli.com[blocked in China since 2020] according to <<greatfire>> (<<brave-new-world-books,but China is still the second largest hit location after USA according to Google Analytics>>), or one of the many <<mirrors>>.
+
 ____
-<<national-anthem,起来！不愿做奴隶的人们！>> +
-<<national-anthem,Rise up! Those who refuse to be slaves!>> +
+<<national-anthem,起来！不愿做奴隶的人们！Rise up! Those who refuse to be slaves!>> +
 ____
 
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China_photo.jpg[height=600]
