@@ -43,6 +43,11 @@ or by downloading it locally as shown at: <<mirrors>>.
 
 **住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead (non Chinese email provider), preferably from behind VPN/Tor/<<shadowsocks>>.** 你不是一个人。未来需要隐藏的将是今天的五毛，而不是你。You are not alone. In the future, it is the wumaos who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
 
+____
+<<national-anthem,起来！不愿做奴隶的人们！>> +
+<<national-anthem,Rise up! Those who refuse to be slaves!>> +
+____
+
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China_photo.jpg[height=600]
 
 toc::[]
@@ -1379,6 +1384,12 @@ image::{china-dictatorship-media-base}/Covid_Xi.jpg[height=500]
 
 .Comparison of how some Chinese sources counted COVID deaths excluding <<taiwan>> and <<hong-kong>>, while at the same time https://www.taiwannews.com.tw/en/news/4266780[including their gold medals in their gold medal count to overcome the United States' medal count]. TODO original untranslated source. https://www.reddit.com/r/China/comments/p133fx/double_standards/[Source].
 image::{china-dictatorship-media-base}/CCP_Olympic_medal_2020_vs_COVID_death_counts.jpg[height=500]
+
+====== April 2022 Shanghai lockdown
+
+People were getting really fed up by that one:
+
+* https://www.theguardian.com/uk-news/video/2022/apr/25/beijing-residents-stock-up-on-food-amid-covid-lockdown-fears-video
 
 [[li-wenliang]]
 ====== Li Wenliang (李文亮)
@@ -2929,6 +2940,9 @@ Ciro believes without evidence that unfortunately anti-discrimination-hiring law
 * Facebook
 ** 2020-11-10 https://techcrunch.com/2020/11/09/parler-app-store-facebook/ "'Free speech' social network Parler tops app store rankings following Biden's election win"
 * <<twitter>>
+** 2022-04 Elon Musk is trying to buy Twitterna, and will reverse some of that bullshit:
+*** https://twitter.com/elonmusk/status/1519036983137509376
+*** https://twitter.com/elonmusk/status/1507259709224632344
 ** 2021-01-08 https://blog.twitter.com/en_us/topics/company/2020/suspension.html "Permanent suspension of @realDonaldTrump" Archive of suspended account: https://archive.vn/SSHX6
 ** 2020-10-06 https://www.vox.com/recode/2020/5/28/21273241/section-230-explained-trump-social-media-twitter-facebook "Section 230, the internet free speech law Trump wants to repeal, explained". While repealing the law entirely would be stupid, Trump is right that it has given platforms too much control over the media. <<mark-government-controlled-social-media,Except for dictatorial foreign governments>>, or explicitly illegal material, social media platforms should never remove or comment on any content.
 ** 2020-05-29 https://www.bbc.co.uk/news/technology-52846679 Twitter "hides Trump tweet for 'glorifying violence'". The people elected that idiot, Twitter leftists have to swallow that.
@@ -4959,6 +4973,8 @@ which means to talk to someone who does not have intellectual conditions of unde
 * https://baike.baidu.com/item/对牛弹琴/3490
 
 More <<wumao,wumao>> focused strategies at: <<how-to-deal-with-wumaos>>.
+
+https://github.com/cirosantilli/china-dictatorship/issues/733 by https://github.com/newcih is an interesting issue. OP has managed to close and change the issue title despite being blocked. Is he raising support tickets? Or can blocked people do that now? E.g. note towards https://github.com/cirosantilli/china-dictatorship/issues/733#event-5930333327 how cirosantilli managed to reopen twice without any visible closes in the middle.
 
 .Chinese translation of the above.
 image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective_zh.png[height=1200]
@@ -13077,12 +13093,10 @@ In other sections:
 * music: 1935
 * adopted: 1949
 
-Rise up, people who don't want to be slaves
-
-Because this is a revolutionary song, it contains great protest reusability, e.g. as seen in: 2022-04 https://www.voanews.com/a/china-censors-national-anthem-lyrics-used-as-lockdown-protest-/6539716.html China Censors <<national-anthem>> Lyrics Used as <<covid,Lockdown>> Protest on <<voa>>, in which the very first verse was censored! 起来！不愿做奴隶的人们！ (Stand up! Those who refuse to be slaves!)
+Because this is a revolutionary song, it contains great protest reusability, e.g. as seen in: 2022-04 https://www.voanews.com/a/china-censors-national-anthem-lyrics-used-as-lockdown-protest-/6539716.html China Censors <<national-anthem>> Lyrics Used as <<covid,Lockdown>> Protest in the <<april-2022-shanghai-lockdown>> on <<voa>>, in which the very first verse was censored! 起来！不愿做奴隶的人们！ (Stand up! Those who refuse to be slaves!)
 
 ____
-Stand up! Those who refuse to be slaves! +
+Rise up! Those who refuse to be slaves! +
 With our flesh and blood, let's build our newest Great Wall! +
 The Chinese Nation is at its greatest peril, +
 Each one is forced to let out one last roar. +
@@ -13107,7 +13121,30 @@ In other sections:
 
 * <<yang-kayli-anthem-desecration>>
 
+It is funny to note how completely Western and boring the music anthem is! Just another boring https://en.wikipedia.org/wiki/March_(music)[march]. The opening verse has obviously way too few characters. They didn't bother to add anything from <<music,Chinese traditional music>>. This just makes it so clear how <<evil-west>> is just completely superficial. Do other non-Western countries do better?
+
+* India: https://www.youtube.com/watch?v=iWUEKafrjN0 does a bit better. Funny how they spend half of the anthem listing which areas belong to India. Fear of <<separatism>> is also clearly very high in the country.
+* https://www.centraltimes.org/showcase/2021/04/16/we-ranked-every-national-anthem/ says Buthan is the worst, but they are idiots, it is one of the most traditional sounding ones!!! https://www.youtube.com/watch?v=TxLLJG8z96g As a comment correctly says:
++
+____
+The Bhutan’s Anthem is maybe difficult to enjoy because we are used to listen occidental music, with the tonal system. But, to be fair, we should to consider their culture. So, I think it’s not as bad as we could to think.
+____
++
+to which Ciro Santilli tried to liked and comment but their stupid system failed:
++
+____
+You are absolutely right!!! It is one of the very few non-Western anthems that sound like it could have come from traditional music. Colonization was a terrible terrible thing, it destroyed even the self esteem of the colonized!
+____
++
+Related:
++
+** https://www.quora.com/Why-do-so-many-national-anthems-sound-like-European-classical-music
+** https://www.quora.com/Why-do-all-national-anthems-seem-to-have-a-similar-Western-orchestral-style-in-common-Why-arent-they-more-varied-according-to-local-culture
+
 .https://www.youtube.com/watch?v=NlKbg-1_7Bk Chinese National Anthem by Charlie Cook (2017) This crazy dude plays several tunes on trumpet on one hand, while using a handgun for the beat on the other hand.
+video::NlKbg-1_7Bk[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=dO0PxiHzBY0 Ceinese National Anthem.
 video::NlKbg-1_7Bk[youtube,height=400,width=600]
 
 [[flag-desecration]]
