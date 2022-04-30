@@ -39,7 +39,7 @@ https://cdn.jsdelivr.net/npm/china-dictatorship@latest/README.html[cdn.jsdelivr 
 This README is too large and https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com/cirosantilli/china-dictatorship]. You can view it fully at the canonical https://cirosantilli.com/china-dictatorship[] which is https://zh.greatfire.org/https/cirosantilli.com[blocked in China since 2020] according to <<greatfire>> (<<brave-new-world-books,but China is still the second largest hit location after USA according to Google Analytics>>), or one of the many <<mirrors>>.
 
 ____
-<<national-anthem,起来！不愿做奴隶的人们！Rise up! Those who refuse to be slaves!>> +
+<<national-anthem,**起来！不愿做奴隶的人们！Rise up! Those who refuse to be slaves!**>> +
 ____
 
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China_photo.jpg[height=600]
@@ -1448,31 +1448,6 @@ Best montage: <<eight-people-were-punished,Eight people were punished>>.
 ** https://youtube.com/watch?v=Iwpr55PZEJ8 "Lawyer Chen Qiushi documenting coronavirus epicentre disappears" by <<scmp>>
 +
 video::Iwpr55PZEJ8[youtube,height=400,width=600]
-* Fang Bin (方斌)
-** https://en.wikipedia.org/wiki/Fang_Bin
-** https://zh.wikipedia.org/wiki/方斌
-** Twitter: https://twitter.com/GuqZJRTOvbqbGub
-** YouTube: https://www.youtube.com/channel/UCRItarzSwqakT-EZkSvuy3A
-*** The last YouTube video simply says:
-+
-____
-全民反抗 +
-https://zh.m.wiktionary.org/zh-hans/还政于民[还政于民] +
-方斌书
-____
-+
-which translates as:
-+
-____
-All the people, revolt. +
-Return the country (politics) to its people. +
-Written (calligraphed) by Fang Bin.
-____
-+
-video::_7VIG2qp0j4[youtube,height=400,width=600]
-** https://www.youtube.com/watch?v=sUvBNpkxrJo "Fang Bin is second Chinese citizen journalist to vanish while reporting from coronavirus epicentre" by <<scmp>>
-+
-video::sUvBNpkxrJo[youtube,height=400,width=600]
 ** 2021-09 they actually let him back online, e.g. https://mobile.twitter.com/chenqiushi404/status/1516189492595814401 anti <<russo-ukrainian-war>>
 * https://en.wikipedia.org/wiki/Li_Zehua[Li Zehua] (https://zh.wikipedia.org/wiki/李泽华_(记者)[李澤華])
 ** YouTube https://www.youtube.com/channel/UCJHUpBCNKrZwBhxfcIrP8Aw
@@ -1492,6 +1467,41 @@ TODO maybe not arrested but relevant:
 * https://en.wikipedia.org/wiki/Fang_Fang[Fang Fang] (https://zh.wikipedia.org/wiki/方方_(作家)[方方]) published in 2020 https://en.wikipedia.org/wiki/Wuhan_Diary[Wuhan Diary] (https://zh.wikipedia.org/wiki/方方日記[方方日記], 方方日记)
 +
 Possible free Chinese version: https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGF5YWJvb2suY29tfHd3d3xneDo3ZGUzZWZjZDgyZDkxNjc0 (http://web.archive.org/web/20200720084342/https://doc-10-bk-apps-viewer.googleusercontent.com/viewer/secure/pdf/3nb9bdfcv3e2h2k1cmql0ee9cvc5lole/0cr4s4veutmm50d7alffk68perm7us3s/1595234550000/lantern/%2A/ACFrOgDGbspvoNIJBVI1N2-EwaZHJPCTgPKmJeFaWgposQKpu5Eu0aqwA_CIZfLkobNVy1-xKcxKzw2CMAyxH4aUPjcHsp2w1JB2fwoX1g_39gVGh38SxfK-UrQyhy_3n19wbWhWErj_a41hMVR4?print=true[archive])
+
+[[fang-bin]]
+====== Fang Bin (方斌)
+
+* https://en.wikipedia.org/wiki/Fang_Bin
+* https://zh.wikipedia.org/wiki/方斌
+* Twitter: https://twitter.com/GuqZJRTOvbqbGub
+* YouTube: https://www.youtube.com/channel/UCRItarzSwqakT-EZkSvuy3A
+
+He was the second Chinese citizen journalist to vanish while reporting from coronavirus epicentre" by <<scmp>>
+
+Hist last YouTube video simply shows the following caligraphed message with him reading it twice:
+
+____
+全民反抗 +
+https://zh.m.wiktionary.org/zh-hans/还政于民[还政于民] +
+方斌书
+____
+
+which translates as:
+
+____
+All the people, revolt. +
+Return the country (politics) to its people. +
+Written (calligraphed) by Fang Bin.
+____
+
+.https://www.youtube.com/watch?v=_7VIG2qp0j4 Fang Bin's last YouTube video from 2020-02-09. 
+video::_7VIG2qp0j4[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=sUvBNpkxrJo "Fang Bin is second Chinese citizen journalist to vanish while reporting from coronavirus epicentre" by <<scmp>>
+video::sUvBNpkxrJo[youtube,height=400,width=600]
+
+.Montage with images from two of Fang Bin's last YouTube videos: on the left from the antepenultimate video https://www.youtube.com/watch?v=YUXV4Ih2xrk[], and on the right from the last "All the people, revolt" one.
+image::{china-dictatorship-media-base}/Fang_Bin.jpg[height=600]
 
 [[censorship-makes-it-harder-to-solve-social-problems]]
 ==== Censorship makes it harder to solve social problems (审查制度使解决社会问题变得更加困难)
@@ -9895,7 +9905,7 @@ Bibliography:
 * https://evchk.wikia.org/zh/wiki/習近平
 
 [[xi-abolishes-term-limits-2018-03]]
-==== Xi abolishes term limits (习近平取消国家主席任期限制, 2018-03)
+==== Xi Jinping abolishes term limits (习近平取消国家主席任期限制, 2018-03)
 
 * 包子露宪 https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution by <<china-digital-times>>
 * https://www.nytimes.com/2018/03/10/world/asia/china-xi-jinping-term-limit-explainer.html
@@ -11049,7 +11059,7 @@ https://www.youtube.com/watch?v=hrbwFxd1c-I Michal Jackson's Tank man performanc
 Other tankman spoofs:
 * https://github.com/cirosantilli/china-dictatorship/issues/505 in https://en.wikipedia.org/wiki/Doraemon[Doraemon] (https://zh.wikipedia.org/wiki/哆啦A夢[机器猫]), a Japanese cartoon that is very popular in China, <<wife>> loves it. It is more commonly known in China simply as 机器猫 (mechanical cat)
 
-.https://www.youtube.com/watch?v=YeFzeNAHEhU CNN video of Tank Man:  but not showing removal, ridiculous, is there a full raw footage somewhere? Subset uploaded to GitHub: https://github.com/cirosantilli/china-dictatorship/issues/168[].
+.https://www.youtube.com/watch?v=YeFzeNAHEhU CNN video of Tank Man: but not showing removal, ridiculous, is there a full raw footage somewhere? Subset uploaded to GitHub: https://github.com/cirosantilli/china-dictatorship/issues/168[].
 video::YeFzeNAHEhU[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=vSbx352cn8A Several quick cuts by CBS news that give a good overview of the incident, including him being pushed away by other protesters at the end.
@@ -11236,8 +11246,16 @@ ____
 
 Also transcripted at: http://www.tsquare.tv/chinese/film/ghp04.html from <<the-gate-of-heavenly-peace-1995>>.
 
-.https://www.youtube.com/watch?v=gRAmL1D8R-4 (https://github.com/cirosantilli/china-dictatorship/issues/197[GitHub reupload]) Chai Ling People's Daily speech in Tiananmen Square protests  (柴玲—六四学运—国民日报，胡说八道！).
+Chai has some dirt on her as mentioned at: https://en.wikipedia.org/wiki/Chai_Ling#Controversies
+
+* she sued and lost a case where she sued <<the-gate-of-heavenly-peace-1995>> for defamation over a video where she willingly states blodshed was necessary in Tianamen to open people's eyes
+* her US company Jenzabar was sued for religious discrimination by ex-employee Jing Zhang in 2012 who claimed she was fired because she refused to pray, this after Chai had converted to Christinanity in 2009. TODO result.
+
+.https://www.youtube.com/watch?v=gRAmL1D8R-4 (https://github.com/cirosantilli/china-dictatorship/issues/197[GitHub reupload]) Chai Ling People's Daily speech in Tiananmen Square protests  (柴玲—六四学运—国民日报，胡说八道！). Ripped from https://en.wikipedia.org/wiki/Can%27t_Get_You_Out_of_My_Head_(TV_series)[The BBC miniseries Can't Get You Out of My Head] directed by Alam Curtis (2021).
 video::gRAmL1D8R-4[youtube,height=400,width=600]
+
+.Still from the above video with captions. We see that she was either at the headquarters of the <<peoples-daily>>, or in some other office of the organization. TODO confirm exact location.
+image::{china-dictatorship-media-base}/Chai_Ling_People_s_Daily_speech.jpg[height=400]
 
 [[tiananmen-square-protest-documentaries]]
 ===== Tiananmen square protest documentaries (六四事件纪录片)
@@ -12974,6 +12992,22 @@ Some other popular characters:
 
 OK, maybe we can do instead/as well a video montage with; https://www.youtube.com/watch?v=MeUiaxaRMK8[], the theme song of the 1998 series. That would be sweet, and we don't have to worry too much about good correspondence of characters as the music will carry it all over no matter what. https://zhuanlan.zhihu.com/p/266089281 contains all images.
 
+Some good quotes from http://uploads.worldlibrary.net/uploads/pdf/20130423230739the_outlaws_of_the_marsh_pdf.pdf
+
+Chapter 65:
+
+____
+Because the emperor has been deluded and permits corrupt officials to hold power and harm the people, they have all volunteered to help me act on Heaven's behalf.
+____
+
+Chapter 71: Song Jiang takes power at Liang Shan.
+
+Chapter 81:
+
+____
+Song Jiang and his band have Act in Heaven's Behalf written on their banner. They never attack a government seat or harm the people. They kill only corrupt and slanderous officials.
+____
+
 [[journey-to-the-west]]
 ==== Journey to the west (西游记)
 
@@ -13061,6 +13095,24 @@ The CCP is a cult: <<ccp-cult>>.
 * https://zh.wikipedia.org/wiki/中国共产党中央政治局常务委员会
 
 The seven top people of the party as of 2020, ranked in a specific order.
+
+[[national-people-s-congress]]
+===== National People’s Congress (全国人民代表大会)
+
+* https://en.wikipedia.org/wiki/National_People%27s_Congress
+* https://zh.wikipedia.org/wiki/全国人民代表大会
+
+In 2018 they had the 13th congress. 2980 were elected for the next 5 years for it, and then in theory they vote to choose the <<president-of-the-people-s-republic-of-china>>.
+
+[[xi-jinping-2970]]
+.Vote display board during the 13th <<national-people-s-congress>> showing how <<xi-jinping>> was elected with 2970 votes for, 0 abstentions and 0 votes against. These elections can't possibly be rigged, the Chinese people are in perfect harmony! This image was used as the "democracy" image in the <<core-socialist-values-by-1v9ex,Core Socialist Values montage by 1v9ex>>. http://m.cyol.com/content/2018-03/21/content_17039285.htm[Source].
+image::{china-dictatorship-media-base}/Xi_Jinping_elected_2970_for_0_against_in_2018.jpg[height=600]
+
+[[president-of-the-people-s-republic-of-china]]
+====== President of the People's Republic of China (中华人民共和国主席)
+
+* https://en.wikipedia.org/wiki/President_of_the_People%27s_Republic_of_China
+* https://zh.wikipedia.org/wiki/中华人民共和国主席
 
 [[national-congress]]
 ==== National Congress of the Chinese Communist Party (中国共产党全国代表大会, 中共党代会)
@@ -13161,6 +13213,14 @@ To be fair, also done/almost done in the West. <<unjust-social-media-censorship-
 * 2020 https://www.forbes.com/sites/andrewsolender/2020/06/20/trump-says-he-wants-to-punish-flag-burning-with-a-year-in-prison/#4d00781b3404 "Trump Says He Wants To Punish Flag Burning With A Year In Prison". https://en.wikipedia.org/wiki/Flag_desecration#United_States[]. If this were to pass, Ciro would be very temped to upload a GIF. Flag dessacration laws are bullshit.
 * 2017 https://www.euronews.com/2017/11/09/which-country-has-the-harshest-punishments-for-disrespecting-flags-and-national The EU countries that will punish you for disrespecting their flags
 * 2006 USA: https://en.wikipedia.org/wiki/Flag_Desecration_Amendment
+
+Other examples:
+
+* https://memes.tw/resource/view/7460 <<covid,COVID>> flag of China
+
+[[chinese-flag-nmsl]]
+.Chinese flag with small stars replaced by letters NMSL (你妈死了, you mother died), a common <<slang,Internet prophanity slang>>. https://v515.wordpress.com/2020/04/13/豬共共慘黨-黨國旗：nmsl/[Source]. Original source likely impossible to determine.
+image::{china-dictatorship-media-base}/China_flag_NMSL.jpg[height=400]
 
 [[ccp-shanghai-member-data-leak-2020]]
 === CCP Shanghai member data leak (中共上海党员名单泄露, 2020)
@@ -14702,18 +14762,18 @@ Related:
 
 We made a single image mocking all of them at: <<core-socialist-values-collage,core socialist values collage>>:
 
-* 富强 Prosperity: https://static01.nyt.com/images/2017/12/01/world/01china-migrants-16/01china-migrants-16-master1050.jpg from https://cn.nytimes.com/china/20171201/china-beijing-migrants/ from <<low-end-population>>
-* 民主 Democracy: https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/ from <<tiananmen>> also shown at <<tiananmen-students-sitting,Tiananmen students sitting>>
-* 文明 Civility: https://cdn.theatlantic.com/thumbor/WNK8eb40kU8FOyY5oNiCFwarxLM=/1200x748/media/img/photo/2014/06/tiananmen-square-25-years-ago/t21_06030443/original.jpg from https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/ from <<tiananmen>> also shown at <<tiananmen-girl-strife,tiananmen-girl-strife>>
-* 和谐 Harmony: https://archive.ph/MIjcT/0c972e9b131f48087bfa2ed53caee215a79e5a45 from https://www.ft.com/content/84dd7e32-cbe5-11e9-99a4-b5ded7a7fe3f from <<hong-kong-protests-2014>>
-* 自由 Freedom: <<xinjiang-lop-county,Xinjiang Lop County>>
-* 平等 Equality: <<lampstand-church-demolition,Lampstand chutch demolition>>
-* 公正 Justice:  https://ichef.bbci.co.uk/news/976/cpsprodpb/0FC6/production/_96683040_0292729b-ad9f-4ea3-9d64-13c0200b74d9.jpg from https://www.bbc.co.uk/news/world-asia-40403811 about <<liu-xiaobo>>
-* 法治 Rule of law: <<jingjing-chacha>>
-* 爱国 Patriotism: https://twitter.com/GFWfrog/status/1409862331375423489 from <<anonymous-middle-fingers,Anonymous middle fingers (2021)>>
-* 敬业 Dedication: https://zhuanlan.zhihu.com/p/377446839[] from <<lie-flat-movement>>. Widely shared meme, could not determine original source anything .
-* 诚信 Integrity: https://en.wikipedia.org/wiki/File:VOA-Bo_Xilai.jpg[] from <<bo-xilai>> seems like the best bet. Someone from <<panama-papers>>. Can't find a photo of Deng Jiagui, he just looks corrupt. Related: <<corruption>>.
-* 友善 Friendship: maybe something from <<falun-gong>> oppression,  https://www.theguardian.com/world/2015/aug/27/anastasia-lin-miss-world-canada-falun-gong-practitioner-china-persecution also mentioned at <<falun-gong-police-step-over-head,falun-gong-police-step-over-head>>
+* 1 富强 Prosperity: https://static01.nyt.com/images/2017/12/01/world/01china-migrants-16/01china-migrants-16-master1050.jpg from https://cn.nytimes.com/china/20171201/china-beijing-migrants/ from <<low-end-population>>
+* 2 民主 Democracy: https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/ from <<tiananmen>> also shown at <<tiananmen-students-sitting,Tiananmen students sitting>>
+* 3 文明 Civility: https://cdn.theatlantic.com/thumbor/WNK8eb40kU8FOyY5oNiCFwarxLM=/1200x748/media/img/photo/2014/06/tiananmen-square-25-years-ago/t21_06030443/original.jpg from https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/ from <<tiananmen>> also shown at <<tiananmen-girl-strife,tiananmen-girl-strife>>
+* 4 和谐 Harmony: https://archive.ph/MIjcT/0c972e9b131f48087bfa2ed53caee215a79e5a45 from https://www.ft.com/content/84dd7e32-cbe5-11e9-99a4-b5ded7a7fe3f from <<hong-kong-protests-2014>>
+* 5 自由 Freedom: <<xinjiang-lop-county,Xinjiang Lop County>>
+* 6 平等 Equality: <<lampstand-church-demolition,Lampstand chutch demolition>>
+* 7 公正 Justice:  https://ichef.bbci.co.uk/news/976/cpsprodpb/0FC6/production/_96683040_0292729b-ad9f-4ea3-9d64-13c0200b74d9.jpg from https://www.bbc.co.uk/news/world-asia-40403811 about <<liu-xiaobo>>
+* 8 法治 Rule of law: <<jingjing-chacha>>
+* 9 爱国 Patriotism: https://twitter.com/GFWfrog/status/1409862331375423489 from <<anonymous-middle-fingers,Anonymous middle fingers (2021)>>
+* 10 敬业 Dedication: https://zhuanlan.zhihu.com/p/377446839[] from <<lie-flat-movement>>. Widely shared meme, could not determine original source anything .
+* 11 诚信 Integrity: https://en.wikipedia.org/wiki/File:VOA-Bo_Xilai.jpg[] from <<bo-xilai>> seems like the best bet. Someone from <<panama-papers>>. Can't find a photo of Deng Jiagui, he just looks corrupt. Related: <<corruption>>.
+* 12 友善 Friendship: maybe something from <<falun-gong>> oppression,  https://www.theguardian.com/world/2015/aug/27/anastasia-lin-miss-world-canada-falun-gong-practitioner-china-persecution also mentioned at <<falun-gong-police-step-over-head,falun-gong-police-step-over-head>>
 
 TODO improve:
 
@@ -14728,6 +14788,10 @@ image::{china-dictatorship-media-base}/Core_socialist_values_near_Jianguomen_met
 [[core-socialist-values-collage]]
 .Collage mocking each of the core socialist values by <<ciro-santilli>>. Image sources given at: <<core-socialist-values>>. Composition license: CC BY-SA 4.0 2021, most individual images are only fair use however.
 image::{china-dictatorship-media-base}/Core_socialist_values.jpg[height=1000]
+
+[[core-socialist-values-by-1v9ex]]
+.Collage mocking each of the core socialist values by Twitter user https://twitter.com/1V9ex[1V9ex] (维尼十九号机.8964Ver). TODO understand each image. 2 Democracy: <<xi-jinping-2970,Xi Jinping 2970>>, 3 Civility: replay of some news about Earthquake in Japan on some video sharing website, with large ammounts of https://en.wikipedia.org/wiki/Danmu[Danmu commentary] (https://zh.wikipedia.org/wiki/视频弹幕[弹幕]) superposed on the video by viewers, presumably saying that the Earthquake is a good thing. 6 Equality: left half shows this image https://www.sohu.com/a/523721157_639898 of Chinese American skier https://en.wikipedia.org/wiki/Eileen_Gu[Eileen Gu] (https://zh.wikipedia.org/wiki/谷爱凌[谷爱凌]) showing a Gold medal in the 2022 Winter Olympics in China, she might illegally hold dual citizenship. The right half some woman who was chained and raped for years: https://www.rfa.org/english/news/china/woman-chained-02022022135517.html and then there was some online censorship about her: https://archive.ph/VOKPM[]. No more specific relationship betwen them it seems. 7 Justice: a bunch of tanks at <<tiananmen>>, taken from close to one of the taks, the image can also be seen e.g. at: https://www.aboluowang.com/2016/0604/749347.html[] 9 Patriotism: <<chinese-flag-nmsl,NMSL Chinese flag>>. 10 Dedication: likely <<xinjiang-re-education-camps>> TODO confirm, exact image seen e.g. at: https://twitter.com/jenniferatntd/status/1516484817453568012[] by <<jennifer-zeng>>. Added captions read: 在网上不要与人战斗他们可能在争取减刑! (Don't fight people online (supposing <<wumao,wumaos>> are people), they might be fighting for a shorter sentence). It has been used to suggest that prisonners have been forcebly uesd as <<wumao,wumaos>> in China. https://twitter.com/1V9ex/status/1517510684262617088[Source].
+image::{china-dictatorship-media-base}/Core_socialist_values_by_1V9ex.jpg[height=1000]
 
 [[democracy]]
 ==== Democracy (民主)
@@ -14803,6 +14867,9 @@ News coverage:
 Se also: <<intolerance>>
 
 .<<badiucao>> cartoon of about 40 of the arrested lawyers. TODO full name list. https://twitter.com/badiucao/status/884005207830544385[Source].
+image::{china-dictatorship-media-base}/709_lawyers.jpg[height=400]
+
+.https://en.wikipedia.org/wiki/Wu_Gan[Wu Gan] (https://zh.wikipedia.org/wiki/吴淦[吴淦]) is a human rights activist detained in 2015 around the 709 crackdown, and sentenced in 2017 for 8 years for <<inciting-subversion>>. In this image from 2013 he is stating a protest on the streets. By complete "accident", he had spinal injury while he was detained before trial.
 image::{china-dictatorship-media-base}/709_lawyers.jpg[height=400]
 
 [[i-need-to-talk-to-a-human-rights-lawyer]]
