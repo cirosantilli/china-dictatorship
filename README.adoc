@@ -4227,6 +4227,9 @@ The school is mentioned in a news report from 2020 at: https://moment.rednet.cn/
 .https://www.youtube.com/watch?v=zasx2iTeOX0 (https://github.com/cirosantilli/china-dictatorship/issues/629[GitHub reupload])
 video::zasx2iTeOX0[youtube,height=400,width=600]
 
+.Still from the above.
+image::{china-dictatorship-media-base}/Lie_flat_girl.xcf[height=400]
+
 [[photobomb]]
 ==== Photobombing-like attacks
 
@@ -11059,7 +11062,7 @@ https://www.youtube.com/watch?v=hrbwFxd1c-I Michal Jackson's Tank man performanc
 Other tankman spoofs:
 * https://github.com/cirosantilli/china-dictatorship/issues/505 in https://en.wikipedia.org/wiki/Doraemon[Doraemon] (https://zh.wikipedia.org/wiki/哆啦A夢[机器猫]), a Japanese cartoon that is very popular in China, <<wife>> loves it. It is more commonly known in China simply as 机器猫 (mechanical cat)
 
-.https://www.youtube.com/watch?v=YeFzeNAHEhU CNN video of Tank Man: but not showing removal, ridiculous, is there a full raw footage somewhere? Subset uploaded to GitHub: https://github.com/cirosantilli/china-dictatorship/issues/168[].
+.https://www.youtube.com/watch?v=YeFzeNAHEhU CNN video of Tank Man: but not him leaving as other people beg him to, ridiculous, is there a full raw footage somewhere? Subset uploaded to GitHub: https://github.com/cirosantilli/china-dictatorship/issues/168[]. https://www.youtube.com/watch?v=qq8zFLIftGk shows the start of the exit. https://twitter.com/carlzha/status/1134582926325104641 shows a bit more. Some wumaos like to claim that the people taking him away indicates that the people didn't agree with that madman. This interpretation os of course ridiculous. But the fact that you can't easily find the full footage except from wumaos suggests that there is some Western propaganda that tries to prevent that ridiculous idea nevertheless. https://twitter.com/carlzha/status/1134582926325104641[]. TODO who made the video? Who owns the rights now?
 video::YeFzeNAHEhU[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=vSbx352cn8A Several quick cuts by CBS news that give a good overview of the incident, including him being pushed away by other protesters at the end.
@@ -11248,7 +11251,7 @@ Also transcripted at: http://www.tsquare.tv/chinese/film/ghp04.html from <<the-g
 
 Chai has some dirt on her as mentioned at: https://en.wikipedia.org/wiki/Chai_Ling#Controversies
 
-* she sued and lost a case where she sued <<the-gate-of-heavenly-peace-1995>> for defamation over a video where she willingly states blodshed was necessary in Tianamen to open people's eyes
+* she sued and lost a case where she sued <<the-gate-of-heavenly-peace-1995>> for defamation over a video where she willingly states bloodshed was necessary in Tiananmen to open people's eyes, but that she couldn't bring herself to tell her fellow students that. This is the interview: https://www.youtube.com/watch?v=5__ESiklA1A[]. This position is notably opposed by people such as <<liu-xiaobo>>, who begged 
 * her US company Jenzabar was sued for religious discrimination by ex-employee Jing Zhang in 2012 who claimed she was fired because she refused to pray, this after Chai had converted to Christinanity in 2009. TODO result.
 
 .https://www.youtube.com/watch?v=gRAmL1D8R-4 (https://github.com/cirosantilli/china-dictatorship/issues/197[GitHub reupload]) Chai Ling People's Daily speech in Tiananmen Square protests  (柴玲—六四学运—国民日报，胡说八道！). Ripped from https://en.wikipedia.org/wiki/Can%27t_Get_You_Out_of_My_Head_(TV_series)[The BBC miniseries Can't Get You Out of My Head] directed by Alam Curtis (2021).
@@ -11350,7 +11353,10 @@ But in any case, she walks the line.
 ** https://twitter.com/RealSexyCyborg/status/1340495054733905922 "I'm Cantonese, I've been in countless private WhatsApp and Telegram groups where these issues were openly discussed in our dialect, and countless Mainland <<wechat>> groups with that perspective- trust me, I know quite a lot more about this than some illiterate randos from the US."
 ** So either she is anti-CCP, or she is part of the most advanced <<soft-power>> program ever made
 
-==== Lists of Chinese dissidents
+[[lists-of-chinese-dissidents]]
+==== Lists of Chinese dissidents (中国持不同政见者名单)
+
+The best montage ever: <<water-margin-dissidents,Water Margin Dissidents>>.
 
 Other lists:
 
@@ -11473,13 +11479,16 @@ https://www.rfa.org/cantonese/news/arrest-06142021121609.html
 
 He was abroad in the 80' as a scholar, and then he came back to china in 1989 to support <<tiananmen>>, then he was in and out of jail until he died in 2017.
 
-2020-06 https://baike.baidu.com/item/刘晓波/14900221 (https://web.archive.org/web/20200627130112/https://baike.baidu.com/item/%E5%88%98%E6%99%93%E6%B3%A2/14900221[]) casually forgot to mention that he might have won the fucking 2010 Nobel Peace Prize, but he seems to be too big to delete the entire page?
+His 2020-06 <<baidu-baike>> https://baike.baidu.com/item/刘晓波/14900221 (https://web.archive.org/web/20200627130112/https://baike.baidu.com/item/%E5%88%98%E6%99%93%E6%B3%A2/14900221[]) casually forgot to mention that he might have won the fucking 2010 Nobel Peace Prize, but he seems to be too big to delete the entire page?
 
 It is interesting how <<hao-haidong>> was fully deleted, the page was only locked. It also does not mention all the times he was in jail, notably after Tiananmen, only some of them.
 
 2017-11 Baidu did mention the Nobel prize however: https://web.archive.org/web/20171114165644/https://baike.baidu.com/item/%E5%88%98%E6%99%93%E6%B3%A2/14900221 it was edited out later.
 
-The article also makes it very clear that his 2009 sentence was "a fair one", and that the organization he worked for in the 90', https://en.wikipedia.org/wiki/Federation_for_a_Democratic_China[Federation fora Democratic China] (https://zh.wikipedia.org/wiki/民主中国阵线[民主中国阵线]) was funded by the CIA. Wikipedia does not mention that however, and of course, Baidu content does not need citations.
+The article also makes it very clear that his 2009 sentence was "a fair one", and that the organization he worked for in the 90', https://en.wikipedia.org/wiki/Federation_for_a_Democratic_China[Federation for a Democratic China] (https://zh.wikipedia.org/wiki/民主中国阵线[民主中国阵线]) was funded by the CIA. Wikipedia does not mention that however, but of course, Baidu content does not need citations.
+
+.<<liu-xiaobo>> at <<tiananmen>> on 1989-06-02. He is the second from left, with the speaker. Liu was one of the people who was begging the students to leave the square once he felt that the government would violently crack down, in order to save lives. For this is considered one of the four <<junzi>> of Tiananmen (天安門四君). Other people in the photo from left to right: Zhou Duo (https://zh.wikipedia.org/wiki/周舵[周舵]). Ji Gaoxin (及高新). Some/all of the junzi felt that peaceful cooperation with the government was the only way forward. This is opposed to the views of others such as <<chai-ling>>, who felt that the sight of blood was necessary to wake up the Chinese masses. Another photo of the four: https://hk.news.yahoo.com/天安門四君子之-周舵認為放下敵我才能推動民主-232800167.html[]. The term is also a reference to the https://en.wikipedia.org/wiki/Four_Gentlemen[Four Gentlemen] (https://zh.wikipedia.org/wiki/花中四君子[花中四君子]), four plants commonly depicted in Chinese traditional painting of plants. http://www.open.com.hk/old_version/1011p39.html[Source]
+image::{china-dictatorship-media-base}/Liu_Xiaobo_Tiananmen_1989_06_02.jpg[height=400]
 
 [[guo-wengui]]
 ==== Guo Wengui (郭文贵)
@@ -12970,8 +12979,7 @@ Interesting websites:
 
 * https://en.wikipedia.org/wiki/Water_Margin
 * https://zh.wikipedia.org/wiki/水浒传
-
-<<ciro-santilli>>'s further comments at: https://cirosantilli.com/water-margin
+* https://cirosantilli.com/water-margin
 
 We should make a montage with some <<chinese-dissidents>> side by side with Water Margin characters. The analogy is just so strong!
 
@@ -13008,6 +13016,28 @@ ____
 Song Jiang and his band have Act in Heaven's Behalf written on their banner. They never attack a government seat or harm the people. They kill only corrupt and slanderous officials.
 ____
 
+Couldn't find any perfect one, so I just wrote my own unfortunately:
+
+____
+当贪官当权时 +
+英雄沦为土匪
+
+替天行道
+
+新的水浒传
+
+When corrupt Officials take power, +
+the heroes must become bandits.
+
+Doing Heaven's Will
+
+The New Water Margin
+____
+
+[[water-margin-dissidents]]
+.https://www.youtube.com/watch?v=P7-OYQatYvA (https://github.com/cirosantilli/china-dictatorship/issues/811[GitHub reupload]) Montage of <<chinese-dissidents>> with "Wang Jin beats Gao Qiu" music from the 1998 Water Margin TV by <<ciro-santilli>>.
+video::P7-OYQatYvA[youtube,height=400,width=600]
+
 [[journey-to-the-west]]
 ==== Journey to the west (西游记)
 
@@ -13019,6 +13049,12 @@ ____
 
 * https://en.wikipedia.org/wiki/Confucianism
 * https://zh.wikipedia.org/wiki/儒家
+
+[[junzi]]
+===== Junzi (君子)
+
+* https://en.wikipedia.org/wiki/Junzi
+* https://zh.wikipedia.org/wiki/君子
 
 [[analects]]
 ===== Analects (论语, c. 475-200 BC)
@@ -15925,7 +15961,7 @@ Can also be made by hand if you have the patience. <<ciro-santilli-s-mother-in-l
 <<ciro-santilli>> could basically eat those every 3-4 days and not get tired.
 
 .Fresh Asia Brand (香源) product line "hand crafted water dumplings" (手工水餃) is a good brand to buy if you can get it. https://www.orientalmart.co.uk/fresh-asia-brand-dumplings-pork-and-chinese-leaf-[Source].
-image::{china-dictatorship-media-base}/Jiaozi.jpg[height=400]
+image::{china-dictatorship-media-base-ignore}/Jiaozi.jpg[height=400]
 
 .https://www.youtube.com/watch?v=YQkXA1xglU8 How to Cook Frozen Dumplings (Boil) by "Yongle Kitchen" shows the cool water pouring process.
 video::YQkXA1xglU8[youtube,height=400,width=600]
@@ -15977,7 +16013,7 @@ Once you do that, you start eating them nonstop like a machine until the bag is 
 video::4Zh0TiEd63k[youtube,height=400,width=600]
 
 .https://www.chinesefoodwiki.org/Qiaqia[Qiaqia] (https://zh.wikipedia.org/wiki/洽洽食品[洽洽]) sunflower seeds. TODO flavor name? The red one is the "default" flavor, and likely the best. The name of the brand is likely onomatopoeic with the sound of eating sunflower seeds. Partial transcription: "洽洽香瓜子 百煮如未香" Photo by <<ciro-santilli>>, CC BY-SA 4.0 2021.
-image::{china-dictatorship-media-base}/Sunflower_seeds_guazi.jpg[height=500]
+image::{china-dictatorship-media-base-ignore}/Sunflower_seeds_guazi.jpg[height=500]
 
 [[broad-beans]]
 === Dried broad bean snack (干蚕豆, gan1 can2 dou4)
@@ -15987,7 +16023,7 @@ https://en.wikipedia.org/wiki/Vicia_faba | https://zh.wikipedia.org/wiki/蚕豆
 The name of broad bean in Chinese is interesting: it literally means "silkworm bean", because the shape of the bean looks a bit like that of a silkworm cocoon.
 
 .https://sixfortune.com/en/[Six Fortune (六福)] is a good brand of <<broad-beans>> to buy. Also they are from <<taiwan>>. https://www.tradewindsorientalshop.co.uk/acatalog/Six-Fortune-Prepared-Broad-Bean---170g.html[Source].
-image::{china-dictatorship-media-base}/Six_Fortune_broad_bean.jpg[height=400]
+image::{china-dictatorship-media-base-ignore}/Six_Fortune_broad_bean.jpg[height=400]
 
 [[laoganma]]
 === Lao Gan Ma crispy chilly oil 老干妈 (lao3 gan1 ma1)
@@ -16001,7 +16037,7 @@ The one with peanuts or black beans is also good.
 Just stay away from the Chicken flavoured one. https://www.urbandictionary.com/define.php?term=eww[Eww].
 
 .You can even buy Laoganma on Amazon! Photo by <<ciro-santilli>>, CC BY-SA 4.0 2021.
-image::{china-dictatorship-media-base}/Laoganma.jpg[height=400]
+image::{china-dictatorship-media-base-ignore}/Laoganma.jpg[height=400]
 
 .https://www.youtube.com/watch?v=nkTQTS2RSCU "What is Lao Gan Ma, and can you make it at home?" by "Chinese Cooking Demystified" published on Nov 19, 2019. Explains how it comes from Guizhou province cuisine (neighbours Sichuan).
 video::nkTQTS2RSCU[youtube,height=400,width=600]
@@ -16017,7 +16053,7 @@ Flavour review:
 * "Preserved pickled mustard" (香辣酸菜): 2021: a bit meh. Made of Mustart https://en.wikipedia.org/wiki/Suan_cai[suan cai].
 
 .Photo of the Fansaoguang Fried https://en.wikipedia.org/wiki/Enokitake[Enokitake] (https://zh.wikipedia.org/wiki/金針菇[金針菇]) flavor. This is one of the best flavours. Another really good one was Wild brake pickles (野蕨菜), but it became less good in 2020 for some reason, that was one of the <<covid,major disasters>> of that year. Photo by <<ciro-santilli>>, CC BY-SA 4.0 2021.
-image::{china-dictatorship-media-base}/Fan_sao_guang.jpg[height=500]
+image::{china-dictatorship-media-base-ignore}/Fan_sao_guang.jpg[height=500]
 
 [[hot-pot]]
 === Hot pot 火锅 (huo3 guo1)
@@ -16074,10 +16110,10 @@ Then, to eat it, you will want to add salty side dishes, all of which can be bou
 * cooked <<salted-duck-egg>>
 
 .The HONOR brand (康樂, full name: Honor Products, 康樂產品) Eight treasure congee (八寶粥) is a good brand to buy if you can find it. https://www.hiyou.co/product/honor-eight-treasure-porridge/[Source].
-image::{china-dictatorship-media-base}/Eight_treasture_congee.jpg[height=500]
+image::{china-dictatorship-media-base-ignore}/Eight_treasture_congee.jpg[height=500]
 
 .https://en.wikipedia.org/wiki/Fermented_bean_curd[fermented bean curd] (https://zh.wikipedia.org/wiki/腐乳[腐乳, fu3 ru3]) is a good thing to put on <<congee>>. Wangzhihe (https://zh.wikipedia.org/wiki/王致和[王致和]) is a good brand, <<ciro-santilli>> prefers the dark red ones instead of the white ones. https://www.amazon.com/Wangzhihe-Fermented-Traditional-Bean-DragonMall/dp/B00786YL72[Sample Amazon link]. Photo by <<ciro-santilli>>, CC BY-SA 4.0 2021.
-image::{china-dictatorship-media-base}/Fermented_bean_curd_furu.jpg[height=500]
+image::{china-dictatorship-media-base-ignore}/Fermented_bean_curd_furu.jpg[height=500]
 
 .https://www.youtube.com/watch?v=DIxbJxNRpX0 Video showing how to make eight treasure congee from scratch by "Asian garden 2 table" published on Feb 2, 2020.
 video::DIxbJxNRpX0[youtube,height=400,width=600]
