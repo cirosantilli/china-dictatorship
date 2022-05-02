@@ -3895,15 +3895,15 @@ The Internet gives everyone the magic power of writing something, and having mil
 
 This is how much time Ciro spends on this project to give you an idea:
 
-* every week or two, someone sends me a message, he reply with "read the FAQ", and usually update
-* Ciro https://www.reddit.com/r/China amongst many other programming subs, and all major bad news show up there. See also: <<anti-ccp-info-sources>>
-* when something bad enough comes up, Ciro go to https://chinadigitaltimes.net/china/sensitive-words-series/ by <<china-digital-times>>and update <<keyword-attack,his keyword attack>>. He's only been updating it on Stack Overflow and GitHub these days.
+* every day or two, some wumao or anti-CCP person sends a message, to which Ciro replies, and sometimes does an update
+* Ciro used to check https://www.reddit.com/r/China daily amongst many other programming subs, and all major bad news show up there. See also: <<anti-ccp-info-sources>>. But he stopped in 2022, even that was not worth the time.
+* when something bad enough comes up, Ciro might spend some time updating <<keyword-attack,his keyword attack>>. He used to check https://chinadigitaltimes.net/china/sensitive-words-series/ by <<china-digital-times>>, to help, but hasn't needed mor recently. He's only been updating it on Stack Overflow and GitHub attacks these days.
 
 Then Ciro just contributes to programming websites exactly as he would if he weren't making this campaign, and voila.
 
-Edit: to be fair, the end of 2019 and start of 2020 was such as hot year with <<hong-kong-anti-extradition-bill-protests-2019>> and <<covid>> that Ciro might have spent a tiny little bit more ;-)
+What has happened more and more is that Ciro has been expanding resources by short burst rather than continuously. This began especially at the end of 2019 and start of 2020 was such as hot year with <<hong-kong-anti-extradition-bill-protests-2019>> and <<covid>>.
 
-But Ciro did it only when his brain was too tired of technical stuff and unable to do more, or as a brain warm up routine in the morning.
+But Ciro only works on this when his brain was too tired of technical stuff and unable to do more, or as a brain warm up routine in the morning. So it doesn't take any work time away from him.
 
 Telling the CCP to fuck off is surprisingly relaxing, you should try it some time too. It uses a different part of your brain other than the programming one. It is, one could say, an art form.
 
@@ -6295,6 +6295,7 @@ Subs with lots of anti-commie info:
 * China Circle Jerk subs (CCJ). TODO: these appear to be <<politically-incorrect,politically incorrect>> subs, but they do seem to allow anti-commit info. As of 2020, they were either banned or private:
 ** https://www.reddit.com/r/CCJ
 ** https://www.reddit.com/r/CCJ2
+* https://www.reddit.com/r/ADVChina/ related to <<serpentza-laowhy86>>, but broader, e.g. https://www.reddit.com/r/ADVChina/comments/uepsnh/found_this_on_github_a_repository_that_seems_to/ about this project.
 
 Related:
 
@@ -15419,6 +15420,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2022-04-29 https://www.reddit.com/r/ADVChina/comments/uepsnh/found_this_on_github_a_repository_that_seems_to/ Found this on Github, a repository that seems to be run by Chinese human rights dissidents. Lots of CCP FAQ, news, and other useful information.
 * 2022-03-14 zhttps://91ai.net/thread-983734-1-1.html from <<zhao-heming>>
 * 2022-03-12 https://news.ycombinator.com/item?id=30649938 a failed Y combinator attempt. Sad. Maybe https://github.com/sturza
 * 2022-02 https://urlsec.qq.com/check.html from <<qq>> to https://github.com/cirosantilli/cirosantilli "网站安全检查" (Website safety check) from  https://urlsec.qq.com/check.html?url=https%3A%2F%2Fgithub.com%2Fcirosantilli%2Fchina-dictatorship says "暂未发现风险" (No risks discovered at present) as of 2022-03-04, so all good.
@@ -15465,6 +15467,7 @@ i became blind by how hard this shit glows
 ____
 * 2021-10-21 https://www.reddit.com/r/GenZedong/comments/qcyocd/the_lengths_these_fucking_people_go_to/ from <<r-genzedong>>
 * 2021-10-13 https://www.reddit.com/r/chonglangTV/comments/q7am6x/github这个仓库issue_岁静码农粉蛆暴跳如雷全被翻译成英文_效果好到爆 from <<r-chonglangtv>>
+* 2021-10 13 https://www.reddit.com/r/saraba2nd/comments/q7bwgc/素材库_这个repo的节目效果不错/ (source material: this repo's shows good results). Thanks.
 * 2021-08 https://www.reddit.com/r/DoubanGoosegroup/comments/pkjyzm/有没有学理科会备份的鹅_感觉很多组都要殉我们要不要弄个github把热贴备份出来/ TODO understand
 * 2021-07-15 https://weibo.com/3009149283/KoREYEIA2?type=comment#_rnd1629010985150 on <<weibo>> #反华 挂一个垃圾仓库 cirosantilli/china-dictatorship (#anti-china Found a trash repository.) Does not understand the CCP != China: <<does-ciro-santilli-hate-china>>. Perhaps this is what triggered <<ciro-santillis-weibo-block>>.
 * 2021-08-13 https://www.kdocs.cn/ to https://github.com/cirosantilli/cirosantilli[]. That's a Google Docs clone it seems. Used by the Chengdu government. Chinese name: 金山文档 (golden mountain documents). Also had 50 unique cloners on 11 and 12th. Is it <<github-gov-takedowns>> time at last??
@@ -15478,6 +15481,7 @@ This site is only available in Mainland China." The about of the blog leads to a
 * 2021-02-18 https://cms.securimate.com securimate.com now redirects to https://steeleglobal.com "Your employees and business partners are confronted with ethical decisions every day that impact your company. To create a culture of integrity, you need to empower people to make the right choices. Steele partners with the world’s largest, most respected companies to deliver compliance products and services that help organizations embrace a culture of compliance while protecting their brand." Here we go. Securimate is a Texas-based acquisition apparently: https://www.planetcompliance.com/securimate/ Googling the company for China leads mostly to honorable anti-corruption and export compliance activityactivity e.g. https://steeleglobal.com/managing-third-party-vendors-china/ , nothing to do with brand protection of course, who would support a dictatorship to help their brand, right?
 * 2020-09-09 https://www.xataka.com/servicios/github-inesperado-ultimo-reducto-libertad-expresion-gran-firewall-que-pone-jaque-intereses-china "Github, el inesperado último reducto de libertad de expresión ante el 'Gran Firewall' pone en jaque los intereses de China", Spanish for "Github, the unexpected last stronghold of freedom of expression before the 'Great Firewall' puts the interests of China in check" basically talking about <<cute-cat-theory-of-digital-activism>>. Links to https://github.com/cirosantilli/chenmei-caiwei-ziyou under link text "Terminus2049" which is a bit misleading, could be a link mistake, led to 15 unique clicks. Contacted author at: https://twitter.com/cirosantilli/status/1307717620863467522
 * 2020-08-29 https://www.reddit.com/r/saraba2nd/comments/iipjov/github有哪些反共项目/ (Which anti-communist projects are there on GitHub?) <<github-repositories-with-censored-information>> of course! User spuspended when thread was found, so couldn't message them.
+* 2020-08-22: https://www.reddit.com/r/China/comments/ief27w/place_bets_on_how_long_this_repository_will_last/ "Place bets on how long this repository will last. (Oh btw china now has its own git system)" about <<gitee>>
 * 2020-05-23: traffic reached 3k views on that day, compared to a normal 150, but the number of individual users is the same as always. The accessed pages were only meta repo pages like "Issues", "Wiki", "Stargazers" so either of:
 ** someone attempted a baby DDoS with wget and a single IP
 ** someone is scraping repository metadata, e.g. Chinese secret service or some other commercial bot that landed here by chance for the first time
