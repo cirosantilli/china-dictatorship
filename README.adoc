@@ -4981,7 +4981,7 @@ which means to talk to someone who does not have intellectual conditions of unde
 
 More <<wumao,wumao>> focused strategies at: <<how-to-deal-with-wumaos>>.
 
-https://github.com/cirosantilli/china-dictatorship/issues/733 by https://github.com/newcih is an interesting issue. OP has managed to close and change the issue title despite being blocked. Is he raising support tickets? Or can blocked people do that now? E.g. note towards https://github.com/cirosantilli/china-dictatorship/issues/733#event-5930333327 how cirosantilli managed to reopen twice without any visible closes in the middle.
+https://github.com/cirosantilli/china-dictatorship/issues/733 by https://github.com/newcih is an interesting issue. OP has managed to close and change the issue title despite being blocked. Is he raising support tickets? Or can blocked people do that now? E.g. note towards https://github.com/cirosantilli/china-dictatorship/issues/733#event-5930333327 how cirosantilli managed to reopen twice without any visible closes in the middle. They also have a Twitter BTW: https://twitter.com/newcih2020/status/1520405835679109120
 
 .Chinese translation of the above.
 image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective_zh.png[height=1200]
@@ -10478,6 +10478,7 @@ For the most part of the 1990's whe as second in command as https://en.wikipedia
 
 * https://en.wikipedia.org/wiki/Deng_Xiaoping
 * https://zh.wikipedia.org/wiki/邓小平
+* https://baike.baidu.com/item/西单墙/7722234 on <<baidu-baike>>
 
 Although his reign officially ended in 1987/1989, he remained extremely influential until his death, and was a major figure in <<tiananmen>> most likely.
 
@@ -10490,9 +10491,11 @@ Although his reign officially ended in 1987/1989, he remained extremely influent
 
 https://youtu.be/846AtqraCYg?t=799 suggests that <<deng-xiaoping>> initially encouraged it after during/after killing the Gang of Four.
 
-But then, obviously, people started denouncing corruption in his goverment, and so Deng made it stop.
+But then, obviously, people started denouncing corruption in his government, and so Deng made it stop.
 
 The documentary also mentions <<wei-jingsheng>> who was a notorious contributor who asked for democracy.
+
+Xidan wall appears on <<the-gate-of-heavenly-peace-1995>> at around 19:00.
 
 .<<xidan-democracy-wall>>. https://en.wikipedia.org/wiki/File:Xidan_Wall,_May_1979.jpg[Source].
 image::{china-dictatorship-media-base}/Xidan_Wall.jpg[height=600]
@@ -10501,10 +10504,11 @@ image::{china-dictatorship-media-base}/Xidan_Wall.jpg[height=600]
 video::40PxfKWgBmY[youtube,height=400,width=600]
 
 [[wei-jingsheng]]
-===== Wei Jingsheng (魏京生)
+===== Wei Jingsheng (魏京生, 1950-)
 
 * https://en.wikipedia.org/wiki/Wei_Jingsheng
 * https://zh.wikipedia.org/wiki/魏京生
+* https://baike.baidu.com/item/魏京生/4569194 on <<baidu-baike>>. Does not mention <<the-fifth-modernization>> as of 2022-05.
 
 Key figure on the <<xidan-democracy-wall>>, notable for writting <<the-fifth-modernization>>.
 
@@ -10530,7 +10534,11 @@ ____
 * https://en.wikipedia.org/wiki/The_Fifth_Modernization
 * https://zh.wikipedia.org/wiki/第五個現代化_(魏京生)
 
+Key essay written by <<wei-jingsheng>>. Full chinese text at: link:魏京生-第五个现代化.md[].
+
 Not to be confused with the one of the same title made by the CCP in 2013: https://zh.wikipedia.org/wiki/第五个现代化_(中国共产党)
+
+"Fifth" is a reference to the fifth modernization he felt was necessary in addition to the four modernizations the government was proposing in its propaganda: agriculture, industry science and defense.
 
 Full text on Jingsheng's apparently official website: https://weijingsheng.org/doc/cn/46.htm
 
@@ -10546,8 +10554,6 @@ We want to be the masters of our own destiny. We need no gods or emperors and we
 we do not want to serve as mere tools of dictators with personal ambitions for carrying out modernization. +
 We want to modernize the lives of the people. Democracy, freedom, and happiness for all are our sole objectives
 ____
-
-Full text: link:魏京生-第五个现代化.md[].
 
 [[mao-zedong]]
 === Mao Zedong (毛泽东, 1954–1976)
@@ -10829,9 +10835,10 @@ Not in other sections:
 * 1978-1979 Beijing Spring
 ** https://en.wikipedia.org/wiki/Beijing_Spring
 ** https://zh.wikipedia.org/wiki/北京之春
+* <<tiananmen>>
 
 [[tiananmen]]
-==== Tiananmen Square Protests of 1989 (六四事件)
+== Tiananmen Square Protests of 1989 (六四事件)
 
 * https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989
 * https://zh.wikipedia.org/wiki/六四事件
@@ -10922,7 +10929,7 @@ image::{china-dictatorship-media-base}/Tiananmen_message_board_cleanup.webp[heig
 video::DU-RuR-qO4Y[youtube,height=400,width=600]
 
 [[liubukou-massacre]]
-===== Liubukou massacre (六部口惨案)
+=== Liubukou massacre (六部口惨案)
 
 The source website of the photo below is by French journalist https://en.wikipedia.org/wiki/Ursula_Gauthier[Ursula Gauthier], who explains how those photos were taken by one of the students of the group, who later asked her to take the photos abroad to publish them.
 
@@ -10940,7 +10947,7 @@ One of the injured survivors was https://en.wikipedia.org/wiki/Fang_Zheng[Fang Z
 image::{china-dictatorship-media-base}/Tiananmen_crushed_dead.jpg[height=600]
 
 [[tiananmen-songs]]
-===== Tiananmen Square Protests songs (六四事件歌曲)
+=== Tiananmen Square Protests songs (六四事件歌曲)
 
 English:
 
@@ -10991,7 +10998,7 @@ Other good lists:
 For non-Tiananmen songs see: <<anti-dictatorship-songs>>.
 
 [[tank-man]]
-===== Tank Man (坦克人)
+=== Tank Man (坦克人)
 
 * https://en.wikipedia.org/wiki/Tank_Man
 * https://zh.wikipedia.org/wiki/坦克人
@@ -11096,17 +11103,20 @@ image::{china-dictatorship-media-base}/Tank_Man_drawing_by_Ciro_Santilli_CC_BY_S
 image::https://user-images.githubusercontent.com/1429315/121059892-e2a0d380-c7b9-11eb-88f0-cacdefab548c.gif[height=500]
 
 [[tank-man-song]]
-====== Tank man song by Xu Lin (坦克人，作曲家：徐琳)
+==== Tank Man Song by Xu Lin (坦克人歌曲，作曲家：徐琳, 2016)
 
 This song is amazing!!!
 
-Video uploaded to GitHub: https://github.com/cirosantilli/china-dictatorship/issues/185
+Official tablature on Xu Lin's blog: https://xulin1523.blogspot.com/2016/01/blog-post_26.html
 
-Official tablature on Xu Lin's blog: http://xulin1523.blogspot.com/2016/01/blog-post_26.html
+https://www.nchrd.org/2018/10/xu-lin/ on <<chinese-human-rights-defenders>> says he was arrested in 2017 for <<picking-quarrels>>, and released on September 2020 at the completion of his sentence. This dude was actually China, what a hero. https://chinachange.org/2018/07/28/guangdong-activist-xu-lin-tried-on-charges-of-stirring-up-trouble-for-writing-songs/ talks about his trial in 2018.
 
-https://www.nchrd.org/2018/10/xu-lin/ on <<chinese-human-rights-defenders>> says he was arrested in 2017 for <<picking-quarrels>>, and released on September 2020 at the completion of his sentence. This dude was actaully China, what a hero. https://chinachange.org/2018/07/28/guangdong-activist-xu-lin-tried-on-charges-of-stirring-up-trouble-for-writing-songs/ talks about his trial in 2018.
+Possible official accounts:
 
-.https://www.youtube.com/watch?v=ym88UOz5ZC8 Video on Xu Lin's official YouTube channel
+* https://mobile.twitter.com/yasenwang9
+* https://xulin1523.blogspot.com
+
+.https://www.youtube.com/watch?v=ym88UOz5ZC8 (https://github.com/cirosantilli/china-dictatorship/issues/185[GitHub reupload]) Tank Man Song (2016) video on Xu Lin's official YouTube channel.
 video::ym88UOz5ZC8[youtube,height=400,width=600]
 
 ____
@@ -11183,8 +11193,11 @@ Don't be a tool of suppression of the Dictatorship +
 Quickly stop the tanks, and correct your point of view +
 ____
 
+.Picture of Xu Lin and the tablature of this <<tank-man-song,Tank Man Song (2016)>>. https://wqw2010.blogspot.com/2019/06/3.html[Source of portrait], https://xulin1523.blogspot.com/2016/01/blog-post_26.html[source of tablature].
+image::{china-dictatorship-media-base}/Xu_Lin_with_Tank_Man_song_tablature.jpg[height=500]
+
 [[tiananmen-square-protests-keywords]]
-===== Tiananmen Square Protests keywords (天安门广场抗议关键词)
+=== Tiananmen Square Protests keywords (天安门广场抗议关键词)
 
 Words:
 
@@ -11195,7 +11208,7 @@ Lists:
 * https://qz.com/698990/261-ways-to-refer-to-the-tiananmen-square-massacre-in-china/ 261 ways to refer to the Tiananmen Square Massacre in China
 
 [[tiananmen-leaders]]
-===== Tiananmen square protest student leaders (六四学运学生领袖)
+=== Tiananmen square protest student leaders (六四学运学生领袖)
 
 Lists: https://qz.com/1618805/the-1989-tiananmen-student-leaders-on-chinas-most-wanted-list/
 
@@ -11206,10 +11219,10 @@ Lists: https://qz.com/1618805/the-1989-tiananmen-student-leaders-on-chinas-most-
 ** https://twitter.com/cirosantilli2/status/1352936697420509184/retweets
 
 [[operation-yellowbird]]
-====== Operation Yellowbird (黄雀行动)
+==== Operation Yellowbird (黄雀行动)
 
 [[zhou-fengsuo]]
-====== Zhou Fengsuo (周锋锁)
+==== Zhou Fengsuo (周锋锁)
 
 https://en.wikipedia.org/wiki/Zhou_Fengsuo | https://zh.wikipedia.org/wiki/周锋锁
 
@@ -11222,7 +11235,7 @@ The commies have messed with the wrong guy's <<ciro-santilli-mother-in-law-jail,
 ____
 
 [[chai-ling]]
-====== Chai Ling (柴玲)
+==== Chai Ling (柴玲)
 
 * https://en.wikipedia.org/wiki/Chai_Ling
 * https://zh.wikipedia.org/wiki/柴玲
@@ -11250,9 +11263,9 @@ ____
 
 Also transcripted at: http://www.tsquare.tv/chinese/film/ghp04.html from <<the-gate-of-heavenly-peace-1995>>.
 
-Chai has some dirt on her as mentioned at: https://en.wikipedia.org/wiki/Chai_Ling#Controversies
+Chai has some "dirt" on her as mentioned at: https://en.wikipedia.org/wiki/Chai_Ling#Controversies
 
-* she sued and lost a case where she sued <<the-gate-of-heavenly-peace-1995>> for defamation over a video where she willingly states bloodshed was necessary in Tiananmen to open people's eyes, but that she couldn't bring herself to tell her fellow students that. This is the interview: https://www.youtube.com/watch?v=5__ESiklA1A[]. This position is notably opposed by people such as <<liu-xiaobo>>, who begged 
+* she sued and lost a case where she sued <<the-gate-of-heavenly-peace-1995>> for defamation over a video where she willingly states bloodshed was necessary in Tiananmen to open people's eyes, but that she couldn't bring herself to tell her fellow students that. She requested the interview herself. This is the interview: https://www.youtube.com/watch?v=5__ESiklA1A[]. This position is notably opposed by people such as <<liu-xiaobo>>, who begged 
 * her US company Jenzabar was sued for religious discrimination by ex-employee Jing Zhang in 2012 who claimed she was fired because she refused to pray, this after Chai had converted to Christinanity in 2009. TODO result.
 
 .https://www.youtube.com/watch?v=gRAmL1D8R-4 (https://github.com/cirosantilli/china-dictatorship/issues/197[GitHub reupload]) Chai Ling People's Daily speech in Tiananmen Square protests  (柴玲—六四学运—国民日报，胡说八道！). Ripped from https://en.wikipedia.org/wiki/Can%27t_Get_You_Out_of_My_Head_(TV_series)[The BBC miniseries Can't Get You Out of My Head] directed by Alam Curtis (2021).
@@ -11262,18 +11275,52 @@ video::gRAmL1D8R-4[youtube,height=400,width=600]
 image::{china-dictatorship-media-base}/Chai_Ling_People_s_Daily_speech.jpg[height=400]
 
 [[tiananmen-square-protest-documentaries]]
-===== Tiananmen square protest documentaries (六四事件纪录片)
+=== Tiananmen square protest documentaries (六四事件纪录片)
 
 [[the-gate-of-heavenly-peace-1995]]
-====== The Gate of Heavenly Peace (1995, 天安门纪录片)
+==== The Gate of Heavenly Peace (1995, 天安门纪录片)
 
 * https://en.wikipedia.org/wiki/The_Gate_of_Heavenly_Peace_(film)
 * https://zh.wikipedia.org/wiki/天安门_(纪录片)
 
 Chinese transcript: http://www.tsquare.tv/chinese/film/ghp00.html
 
+Some highlights:
+
+* 14:00: <<mao-portrait-vandalism-incident-1989>>
+* 19:00: <<xidan-democracy-wall>>
+* 24:50 <<wu-guoguang>> makes comments that apply well to <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>
+* 29:00 quotes https://en.wikipedia.org/wiki/Lu_Xun[Lu Xun] (https://zh.wikipedia.org/wiki/鲁迅[鲁迅]). TODO find Chinese and source:
++
+____
+Petitioning the government is common enough in every country. It doesn't necessarily result in death - except, of course, in China.
+____
++
+The Chinese is perhaps at https://www.zhihu.com/question/54231137/answer/277760001[]:
++
+____
+请愿虽然是无论那一国度里常有的事，不至于死的事，但我们已经知道中国是例外，除非你能将‘枪林弹雨’消除。”
+____
++
+for which it claims a date of 1926. A more literal translation is:
++
+____
+Petitions are a common thing in any country, it is not something that results in death. But we already know that China is an exception, unless you can avoid a "barrage of bullets"."
+____
++
+a chenyu is used: https://baike.baidu.com/item/枪林弹雨/31136
+
+
+[[wu-guoguang]]
+===== Wu Guoguang (吴国光)
+
+* https://en.wikipedia.org/wiki/Wu_Guoguang
+* https://zh.wikipedia.org/wiki/吴国光
+
+Featured on <<the-gate-of-heavenly-peace-1995>> at 24:50.
+
 [[memo64]]
-====== 64memo.com (六四档案)
+==== 64memo.com (六四档案)
 
 https://www.64memo.com/
 
@@ -11281,8 +11328,14 @@ Website dedicated to collecting photos of the protests and aftermath.
 
 Says you have to login to see the gory photos, but hovering over thumbnails expands all of them, and their email service is broken as of 2020 so you can't sign up.
 
+[[mao-portrait-vandalism-incident-1989]]
+=== 1989 Mao portrait vandalism incident (天安门毛泽东像污损案)
+
+* https://en.wikipedia.org/wiki/1989_Mao_portrait_vandalism_incident
+* https://zh.wikipedia.org/wiki/天安门毛泽东像污损案
+
 [[chinese-student-demonstrations-1986]]
-===== 1986 Chinese student demonstrations (八六学潮)
+=== 1986 Chinese student demonstrations (八六学潮)
 
 * https://en.wikipedia.org/wiki/1986_Chinese_student_demonstrations
 * https://zh.wikipedia.org/wiki/八六学潮
@@ -11312,6 +11365,7 @@ Other sections:
 * <<cartoonists>>
 * <<gfwfrog>>
 * <<peng-shuai>>
+* <<wei-jingsheng>>
 
 Other dissidents:
 
@@ -11488,7 +11542,7 @@ It is interesting how <<hao-haidong>> was fully deleted, the page was only locke
 
 The article also makes it very clear that his 2009 sentence was "a fair one", and that the organization he worked for in the 90', https://en.wikipedia.org/wiki/Federation_for_a_Democratic_China[Federation for a Democratic China] (https://zh.wikipedia.org/wiki/民主中国阵线[民主中国阵线]) was funded by the CIA. Wikipedia does not mention that however, but of course, Baidu content does not need citations.
 
-.<<liu-xiaobo>> at <<tiananmen>> on 1989-06-02. He is the second from left, with the speaker. Liu was one of the people who was begging the students to leave the square once he felt that the government would violently crack down, in order to save lives. For this is considered one of the four <<junzi>> of Tiananmen (天安門四君). Other people in the photo from left to right: Zhou Duo (https://zh.wikipedia.org/wiki/周舵[周舵]). Ji Gaoxin (及高新). Some/all of the junzi felt that peaceful cooperation with the government was the only way forward. This is opposed to the views of others such as <<chai-ling>>, who felt that the sight of blood was necessary to wake up the Chinese masses. Another photo of the four: https://hk.news.yahoo.com/天安門四君子之-周舵認為放下敵我才能推動民主-232800167.html[]. The term is also a reference to the https://en.wikipedia.org/wiki/Four_Gentlemen[Four Gentlemen] (https://zh.wikipedia.org/wiki/花中四君子[花中四君子]), four plants commonly depicted in Chinese traditional painting of plants. http://www.open.com.hk/old_version/1011p39.html[Source]
+.<<liu-xiaobo>> at <<tiananmen>> on 1989-06-02. He is the second from left, with the speaker. The background seems to be https://en.wikipedia.org/wiki/Monument_to_the_People%27s_Heroes[Monument to the People's Heroes] (https://zh.wikipedia.org/wiki/人民英雄纪念碑[人民英雄纪念碑]), and this seems to be a still from a video, TODO identify. That monument cellebrate the <<chinese-communist-revolution>>, and ironically contains images of students from <<may-fourth-movement>> protesting at Tiananmen. Liu was one of the people who was begging the students to leave the square once he felt that the government would violently crack down, in order to save lives. For this is considered one of the four <<junzi>> of Tiananmen (天安門四君). Other people in the photo from left to right: Zhou Duo (https://zh.wikipedia.org/wiki/周舵[周舵]). Ji Gaoxin (及高新). Some/all of the junzi felt that peaceful cooperation with the government was the only way forward. This is opposed to the views of others such as <<chai-ling>>, who felt that the sight of blood was necessary to wake up the Chinese masses. Another photo of the four: https://hk.news.yahoo.com/天安門四君子之-周舵認為放下敵我才能推動民主-232800167.html[]. The term is also a reference to the https://en.wikipedia.org/wiki/Four_Gentlemen[Four Gentlemen] (https://zh.wikipedia.org/wiki/花中四君子[花中四君子]), four plants commonly depicted in Chinese traditional painting of plants. http://www.open.com.hk/old_version/1011p39.html[Source]
 image::{china-dictatorship-media-base}/Liu_Xiaobo_Tiananmen_1989_06_02.jpg[height=400]
 
 [[guo-wengui]]
@@ -15844,6 +15898,28 @@ The third most important festival in China, after the Chinese New Year and Mid-A
 
 [[chinese-history]]
 == Chinese history (中国历史)
+
+[[post-qing-dynasty]]
+=== Post Qing Dynasty (1912-)
+
+[[chinese-communist-revolution]]
+==== Chinese Communist Revolution (1921-1949)
+
+* https://en.wikipedia.org/wiki/Chinese_Communist_Revolution
+
+[[may-fourth-movement]]
+===== May Fourth Movement (五四运动, 1919)
+
+* https://en.wikipedia.org/wiki/May_Fourth_Movement
+* https://zh.wikipedia.org/wiki/五四运动
+
+Student demonstrations at Tiananmen, therefore ironically similar to <<tiananmen>>. Many of the leaders of the <<ccp>> came from that movement.
+
+[[chinese-civil-war]]
+===== Chinese Civil War (国共内战, 1945-1949)
+
+* https://en.wikipedia.org/wiki/Chinese_Civil_War
+* https://zh.wikipedia.org/wiki/国共内战
 
 [[qing-dynasty]]
 === Qing Dynasty (清朝, 大清, 1636-1912)
