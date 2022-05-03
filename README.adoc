@@ -4456,6 +4456,8 @@ Report website launched in 2018 https://www.12339.gov.cn/[], some coverage:
 
 The Chinese army, and also one of the central intelligence agencies, notably on cyberattacks.
 
+As highlighted on <<the-gate-of-heavenly-peace-1995>> 1:41, the PLA were heroes of the people, as their name indicates. But when they stepped into Tiananmen, some of that was lost.
+
 .A Chinese soldier smashes bricks on a colleague's head during joint Chinese-<<india>> anti-terrorism exercises in Kunming in 2007. http://mil.news.sina.com.cn/2014-02-26/0954766058.html from <<sina>> give the Chinese term "油锤贯顶". https://nastyhobbit.org/details.php?image_id=370[Source]. https://sinosphere.blogs.nytimes.com/2014/02/24/military-brick-breaking-demonstrations-face-the-chop/[Better source with worse image quality].
 image::{china-dictatorship-media-base}/PLA_soldier_breaking_bricks_on_head.jpg[height=400]
 
@@ -4867,7 +4869,8 @@ The likely organizers behind <<confucius-institute>>, <<cssa>>, and likely sever
 First of all, hide and stay safe, unless you can deal the final blow. From https://en.wikipedia.org/wiki/The_World_at_War[World at war, 1973], ep. 16:
 
 ____
-A dictatorship is like a snake. If you put your foot on its tail as you do it, it will just bite you and nobody will be helped. You have to strike the head.
+A dictatorship is like a snake. If you put your foot on its tail as you do it, it will just bite you and nobody will be helped. You have to strike the head. +
+独裁就像一条蛇。 如果你在这样做的时候把脚放在它的尾巴上，它只会咬你，没有人会得到帮助。 你必须击打头部。
 ____
 
 Once that is taken care of, a few good options are:
@@ -4883,6 +4886,10 @@ Alternatively, with technology you could also try the anonymous rebellion route,
 If you don't manage to do either of the above, don't do any technological work. Go work on the fields or washing dishes. Working well for Chinese companies makes the Chinese <<dictatorship,Dictatorship>> stronger and <<war,more deadly>>. See also: <<embargo>>.
 
 And regardless: remember your kids that the commies are bastards every day.
+
+[[lu-xun-petition]]
+.Petition quote by https://en.wikipedia.org/wiki/Lu_Xun[Lu Xun] (https://zh.wikipedia.org/wiki/鲁迅[鲁迅]) 1926. Original quote: "请愿虽然是无论那一国度里常有的事，不至于死的事，但我们已经知道中国是例外，除非你能将'枪林弹雨'消除。" (Petitions are a common thing in any country, it is not something that results in death. But we already know that China is an exception, unless you can avoid a "barrage of bullets"."). Visible e.g. at https://www.marxists.org/chinese/reference-books/luxun/09/016.htm but also at https://www.zhihu.com/question/54231137/answer/277760001[] 鲁迅的文字有多一针见血？ (How sharp is Lu Xun's writing? that answerer dude has balls! A chenyu is used: https://baike.baidu.com/item/枪林弹雨/31136 https://www.marxists.org/chinese/reference-books/luxun/09/016.htm[枪林弹雨].
+image::{china-dictatorship-media-base}/Lu_Xun_1930_petition.jpg[height=600]
 
 [[reply-policy]]
 === Ciro Santilli's reply policy (三西猴的回答政策)
@@ -7864,6 +7871,13 @@ CCP in religious ceremonies:
 
 * 2021-09 https://www.reddit.com/r/China/comments/pq6hyv/buddhism_with_chinese_characteristics/ | https://twitter.com/Jerry00107966/status/1438108277716373507
 
+Ex official Ge Yang (https://zh.wikipedia.org/wiki/戈扬[戈扬]), who was in the USA when <<tiananmen>> broke out, and refused to return because she did not approve of the government's reactions, and who features in <<the-gate-of-heavenly-peace-1995>> at several points, comments:
+
+_____
+共产党已同一个邪教差不多，是不可以信赖的、不可以和它靠近的。否则，多好的人，也会变坏。 +
+The Communist Party is almost the same as a cult. It cannot be trusted or approached. Otherwise, even good people will become bad.
+_____
+
 [[xi-halo]]
 .Xi Jinping with a Halo edited in to make <<ccp-cult,the obvious more obvious>>. The texts reads <<xi-jinping-thought,"习近平思想" (Xi Jinping Thought)>>. Watermark reads "Gucci Minh @Laborwave", so presumably from https://www.instagram.com/laborwavedesigns/[], but I didn't have the patience to find the picture, but it very likey comes from there, a ton of great communist memes in that account. https://www.reddit.com/r/LateStageCapitalism/comments/77vfi8/uphold_xi_jinping_thought/[Source].
 image::{china-dictatorship-media-base}/Xi_Jinping_thought_halo.jpg[height=400]
@@ -8644,14 +8658,26 @@ ____
 
 Notable historical figures who committed suicides are are still celebrated to this day include:
 
-* https://en.wikipedia.org/wiki/Qu_Yuan[Qu Yuan] (https://zh.wikipedia.org/wiki/屈原[屈原], 340-278 BC), is celebrated in the <<dragon-boat-festival>>, the third most important festival in modern China.
-+
-He committed suicide by drowning himself in the https://en.wikipedia.org/wiki/Miluo_River[Miluo River], modern <<hubei>>, while holding a rock, after his country's (https://en.wikipedia.org/wiki/Chu_(state)[Chu] (https://zh.wikipedia.org/wiki/楚国[楚国])) capital was taken by the Qin enemies during the <<warring-states-period>>.
-+
-He is a symbol of patriotism respected to this day.
+* <<qu-yuan>>
 * https://en.wikipedia.org/wiki/Wu_Zixu[Wu Zixu] (https://zh.wikipedia.org/wiki/伍子胥[伍子胥], ???-484 BC)
 
 These sound exactly like examples that <<xi-dada>> would want his army to keep in mind: ultimate sacrifice for the motherland.
+
+[[qu-yuan]]
+====== Qu Yuan (屈原, 340-278 BC)
+
+* https://en.wikipedia.org/wiki/Qu_Yuan
+* https://zh.wikipedia.org/wiki/屈原
+
+He is celebrated in the <<dragon-boat-festival>>, the third most important festival in modern China.
+
+Held during the fifth day of the fifth lunar month.
+
+He committed suicide by drowning himself in the https://en.wikipedia.org/wiki/Miluo_River[Miluo River], modern <<hubei>>, while holding a rock, after his country's (https://en.wikipedia.org/wiki/Chu_(state)[Chu] (https://zh.wikipedia.org/wiki/楚国[楚国])) capital was taken by the Qin enemies during the <<warring-states-period>>.
+
+He is a symbol of patriotism respected to this day.
+
+A reference to one of his poems appears e.g. at <<hu-yaobang-memorial,Hu Yaobang's memorial>> in <<tiananmen>>.
 
 [[flg-political]]
 === People from movement X are only in it for political power (X运动的人只是为了政治权力)
@@ -10538,7 +10564,7 @@ Key essay written by <<wei-jingsheng>>. Full chinese text at: link:魏京生-第
 
 Not to be confused with the one of the same title made by the CCP in 2013: https://zh.wikipedia.org/wiki/第五个现代化_(中国共产党)
 
-"Fifth" is a reference to the fifth modernization he felt was necessary in addition to the four modernizations the government was proposing in its propaganda: agriculture, industry science and defense.
+"Fifth" is a reference to the fifth modernization he felt was necessary in addition to the https://en.wikipedia.org/wiki/Four_Modernizations[four modernizations] (https://zh.wikipedia.org/wiki/四个现代化[四个现代化]) the government was proposing in its propaganda at the time: agriculture, industry science and defense.
 
 Full text on Jingsheng's apparently official website: https://weijingsheng.org/doc/cn/46.htm
 
@@ -10853,6 +10879,8 @@ Good photo selections:
 * 2019 https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary "These Horrifying Pictures Show The Tiananmen Square Protests Like You've Never Seen Them"
 * 2020 https://nsfw.xxx/post/tiananmen-square-masacre-photos-3394466?page=1 has some decent gore. Original post: https://www.reddit.com/r/MorbidReality/comments/h828c1/tiananmen_square_masacre_photos/
 * 2021 https://www.magnumphotos.com/newsroom/the-making-of-icons/ by Stuart Franklin himself
+* https://netalert.me/june-four.html
+* https://chinatimeline.github.io/tiananmen/ from <<chinatimeline>>
 
 AP footage is pretty good, just do a search on the archive:
 
@@ -10910,7 +10938,8 @@ image::{china-dictatorship-media-base}/Tiananmen_announce_soldiers.webp[height=5
 .Godzilla <<li-peng>> crushing the Tiananmen Square protests with his green eye laser beams. https://en.uncyclopedia.co/wiki/File:Li_at_Tiananmen_Eyebeams.jpg[Source].
 image::{china-dictatorship-media-base}/Li_at_Tiananmen_Eyebeams.jpg[height=600]
 
-.Protester covered in blood while holding an army helmet on 1989-06-04. There is also footage of that moment: https://www.youtube.com/watch?t=63&v=lXJ6gHFME0w[] which explains that the man claims his face was cut by a soldir by using the edge of the helmet. This other photo: https://img.buzzfeed.com/buzzfeed-static/static/2019-06/4/12/asset/buzzfeed-prod-web-02/sub-buzz-29641-1559664105-1.jpg?downsize=1600:*&output-format=auto&output-quality=auto[] shows the cut on his head better. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
+[[helmet-blood]]
+.Protester covered in blood while holding an army helmet on 1989-06-04. There is also footage of that moment: https://www.youtube.com/watch?t=63&v=lXJ6gHFME0w[] which explains that the man claims his face was cut by a soldier by using the edge of the helmet. This other photo: https://img.buzzfeed.com/buzzfeed-static/static/2019-06/4/12/asset/buzzfeed-prod-web-02/sub-buzz-29641-1559664105-1.jpg?downsize=1600:*&output-format=auto&output-quality=auto[] shows the cut on his head better. There is also footage of the man shown at <<the-gate-of-heavenly-peace-1995>> 2:27:11. https://www.pri.org/stories/2019-06-04/1989-tiananmen-square-protests-photos[Source].
 image::{china-dictatorship-media-base}/Tiananmen_helmet.jpg[height=500]
 
 .Bodies with gun wounds at the mortuary at Shuili Hospital (水利医院太平间, Hospital of the Ministry of Water Resources of China, https://goo.gl/maps/xAy55T3sydW8X81M6[Google maps], https://bkso.baidu.com/item/水利医院[Baidu], https://cn.nytimes.com/china/20190531/tiananmen-square-protest-photos/[New York Times Chinese report]), about 8km West of Tiananmen Square. https://www.nytimes.com/2019/05/30/world/asia/tiananmen-square-protest-photos.html[Source].
@@ -10927,6 +10956,34 @@ image::{china-dictatorship-media-base}/Tiananmen_message_board_cleanup.webp[heig
 
 .https://www.youtube.com/watch?v=DU-RuR-qO4Y Democracy by https://en.wikipedia.org/wiki/Leonard_Cohen[Leonard Cohen] (1992). In this interesting song, the Canadian singer suggests that after events such as the fall of the Soviet Union and <<tiananmen>>, greater freedom and democracy would actually first come to the USA, and not to those other countries, the refrain says: "Democracy is coming to the USA" and at one point "It's coming to America first". This is probably because when there is such an adversarial situation such as the cold war, it tends to also make democracies more like dictatorships, as they become readier and readier for war, and thus weakening civil rights, see e.g. https://en.wikipedia.org/wiki/McCarthyism[McCarthyism]. Related: <<evil-west>>. The song also criticizes several failures of American democracy, such as social injustice and inequality, suggesting that the newer more peaceful world would help solve them. This is a refreshing take on democracy that has gives it a <<democracy-is-a-religion,less religious view>>.
 video::DU-RuR-qO4Y[youtube,height=400,width=600]
+
+____
+反对暴力 +
+Oppose violence!
+
+保证人权 +
+Guarantee human rights!
+
+爱国无罪 +
+Patriotism is not a crime!
+
+暴君可耻 +
+Tyranny is shameful!
+
+言论自由 +
+<<censorship,Freedom of speech!>>
+
+结束TODO +
+Abolish censorship!
+
+耀邦TODO +
+<<hu-yaobang,Yaobang>> lives on!
+____
+
+
+[[tiananmen-oppose-violence]]
+.https://www.youtube.com/watch?v=D4TZ0lB3GQM Students shouting Oppose violence! and other slogans at <<tiananmen>> on 1989-04-22. Clip from <<the-gate-of-heavenly-peace-1995>> at around 42:48.
+video::D4TZ0lB3GQM[youtube,height=400,width=600]
 
 [[liubukou-massacre]]
 === Liubukou massacre (六部口惨案)
@@ -11268,7 +11325,7 @@ Chai has some "dirt" on her as mentioned at: https://en.wikipedia.org/wiki/Chai_
 * she sued and lost a case where she sued <<the-gate-of-heavenly-peace-1995>> for defamation over a video where she willingly states bloodshed was necessary in Tiananmen to open people's eyes, but that she couldn't bring herself to tell her fellow students that. She requested the interview herself. This is the interview: https://www.youtube.com/watch?v=5__ESiklA1A[]. This position is notably opposed by people such as <<liu-xiaobo>>, who begged 
 * her US company Jenzabar was sued for religious discrimination by ex-employee Jing Zhang in 2012 who claimed she was fired because she refused to pray, this after Chai had converted to Christinanity in 2009. TODO result.
 
-.https://www.youtube.com/watch?v=gRAmL1D8R-4 (https://github.com/cirosantilli/china-dictatorship/issues/197[GitHub reupload]) Chai Ling People's Daily speech in Tiananmen Square protests  (柴玲—六四学运—国民日报，胡说八道！). Ripped from https://en.wikipedia.org/wiki/Can%27t_Get_You_Out_of_My_Head_(TV_series)[The BBC miniseries Can't Get You Out of My Head] directed by Alam Curtis (2021).
+.https://www.youtube.com/watch?v=gRAmL1D8R-4 (https://github.com/cirosantilli/china-dictatorship/issues/197[GitHub reupload]) Chai Ling People's Daily speech in Tiananmen Square protests  (柴玲—六四学运—国民日报，胡说八道！). Ripped from https://en.wikipedia.org/wiki/Can%27t_Get_You_Out_of_My_Head_(TV_series)[The BBC miniseries Can't Get You Out of My Head] directed by Alam Curtis (2021) It is also, and perhaps more importantly also shown at <<the-gate-of-heavenly-peace-1995>> at around 1:11:40.
 video::gRAmL1D8R-4[youtube,height=400,width=600]
 
 .Still from the above video with captions. We see that she was either at the headquarters of the <<peoples-daily>>, or in some other office of the organization. TODO confirm exact location.
@@ -11283,33 +11340,22 @@ image::{china-dictatorship-media-base}/Chai_Ling_People_s_Daily_speech.jpg[heigh
 * https://en.wikipedia.org/wiki/The_Gate_of_Heavenly_Peace_(film)
 * https://zh.wikipedia.org/wiki/天安门_(纪录片)
 
-Chinese transcript: http://www.tsquare.tv/chinese/film/ghp00.html
+Official website: http://tsquare.tv/
+
+* Chinese transcript: http://www.tsquare.tv/chinese/film/ghp00.html
+* English transcript: http://tsquare.tv/film/transcript.php
 
 Some highlights:
 
 * 14:00: <<mao-portrait-vandalism-incident-1989>>
 * 19:00: <<xidan-democracy-wall>>
 * 24:50 <<wu-guoguang>> makes comments that apply well to <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>
-* 29:00 quotes https://en.wikipedia.org/wiki/Lu_Xun[Lu Xun] (https://zh.wikipedia.org/wiki/鲁迅[鲁迅]). TODO find Chinese and source:
-+
-____
-Petitioning the government is common enough in every country. It doesn't necessarily result in death - except, of course, in China.
-____
-+
-The Chinese is perhaps at https://www.zhihu.com/question/54231137/answer/277760001[]:
-+
-____
-请愿虽然是无论那一国度里常有的事，不至于死的事，但我们已经知道中国是例外，除非你能将‘枪林弹雨’消除。”
-____
-+
-for which it claims a date of 1926. A more literal translation is:
-+
-____
-Petitions are a common thing in any country, it is not something that results in death. But we already know that China is an exception, unless you can avoid a "barrage of bullets"."
-____
-+
-a chenyu is used: https://baike.baidu.com/item/枪林弹雨/31136
-
+* 29:00 quotes <<lu-xun-petition,Lu Xun's petition quote>>
+* 42:48: students shout <<tiananmen-oppose-violence,Tiananmen oppose violence>>
+* 1:46:14: <<liu-xiaobo>> mentions how some students had the delusion that they would actually be able to stand up to the army. He speaks at many other points. He is a lively, really nice guy.
+* 1:55:58: the hedgehog with a red scarf
+* 2:27:11: footage of <<helmet-blood,helmet blood man>>
+* 2:37:35: man shoots "murderers", the <<pla>> fires back
 
 [[wu-guoguang]]
 ===== Wu Guoguang (吴国光)
@@ -11328,14 +11374,14 @@ Website dedicated to collecting photos of the protests and aftermath.
 
 Says you have to login to see the gory photos, but hovering over thumbnails expands all of them, and their email service is broken as of 2020 so you can't sign up.
 
-[[mao-portrait-vandalism-incident-1989]]
-=== 1989 Mao portrait vandalism incident (天安门毛泽东像污损案)
+[[tiananmen-antecedents]]
+=== Tiananmen antecedents (六四的来历)
 
-* https://en.wikipedia.org/wiki/1989_Mao_portrait_vandalism_incident
-* https://zh.wikipedia.org/wiki/天安门毛泽东像污损案
+* <<may-fourth-movement>>
+* <<xidan-democracy-wall>>
 
 [[chinese-student-demonstrations-1986]]
-=== 1986 Chinese student demonstrations (八六学潮)
+==== 1986 Chinese student demonstrations (八六学潮)
 
 * https://en.wikipedia.org/wiki/1986_Chinese_student_demonstrations
 * https://zh.wikipedia.org/wiki/八六学潮
@@ -11343,6 +11389,33 @@ Says you have to login to see the gory photos, but hovering over thumbnails expa
 The prelude to <<tiananmen>>.
 
 For example, Cui Jian (崔健) <<nothing-to-my-name,"Nothing to My Name (一無所有)">> song was composed in 1986, and later became a <<tiananmen-songs,major Tiananmen Hymn>>.
+
+[[hu-yaobang]]
+==== Hu Yaobang (胡耀邦, 1915 - 1989-04-15)
+
+* https://en.wikipedia.org/wiki/Hu_Yaobang
+* https://zh.wikipedia.org/wiki/胡耀邦
+
+Bibliography:
+
+* https://thediplomat.com/2018/04/the-long-reach-of-hu-yaobang/ mentions that Hu was instrumental in rehabilitating <<xi-jinping>>'s father, Xi Zhongxun. Without this, Xi would not be in power.
+* https://club.6parkbbs.com/nz/index.php?app=forum&act=threadview&tid=916202
+
+[[hu-yaobang-memorial]]
+.<<hu-yaobang>> memorial at the <<monument-to-the-peoples-heroes>>. Hu's mourning was the start of <<tiananmen>>. The central banners read left: ttps://zh.wikipedia.org/wiki/中央美术学院[中央美院]敬挽 (Condolences from the https://en.wikipedia.org/wiki/Central_Academy_of_Fine_Arts[Central Academy of Fine Arts]) and right: 何处招魂 (where we conjure the spirit of the dead, a refernce to some poem: https://zhidao.baidu.com/question/1964020062838200140.html by <<qu-yuan>>) TODO are there any quotes showing his liberal position? If we find one let's add to the image side-by-side. https://www.theepochtimes.com/hu-yaobang-death-cpc_1524059.html[Source].
+image::{china-dictatorship-media-base}/Hu_Yaobang_memorial.jpg[height=600]
+
+[[mao-portrait-vandalism-incident-1989]]
+=== 1989 Mao portrait vandalism incident (天安门毛泽东像污损案)
+
+* https://en.wikipedia.org/wiki/1989_Mao_portrait_vandalism_incident
+* https://zh.wikipedia.org/wiki/天安门毛泽东像污损案
+
+[[monument-to-the-peoples-heroes]]
+=== Monument to the People's Heroes (人民英雄纪念碑)
+
+* https://en.wikipedia.org/wiki/Monument_to_the_People%27s_Heroes
+* https://zh.wikipedia.org/wiki/人民英雄纪念碑
 
 [[dissidents]]
 == Dissidents (持不同政见者)
@@ -11433,7 +11506,7 @@ Website: https://www.nchrd.org/
 
 TODO funding.
 
-Based on Washington DC.
+Based in Washington DC.
 
 [[front-line-defenders]]
 ===== Front Line Defenders (前线卫士)
@@ -11542,7 +11615,7 @@ It is interesting how <<hao-haidong>> was fully deleted, the page was only locke
 
 The article also makes it very clear that his 2009 sentence was "a fair one", and that the organization he worked for in the 90', https://en.wikipedia.org/wiki/Federation_for_a_Democratic_China[Federation for a Democratic China] (https://zh.wikipedia.org/wiki/民主中国阵线[民主中国阵线]) was funded by the CIA. Wikipedia does not mention that however, but of course, Baidu content does not need citations.
 
-.<<liu-xiaobo>> at <<tiananmen>> on 1989-06-02. He is the second from left, with the speaker. The background seems to be https://en.wikipedia.org/wiki/Monument_to_the_People%27s_Heroes[Monument to the People's Heroes] (https://zh.wikipedia.org/wiki/人民英雄纪念碑[人民英雄纪念碑]), and this seems to be a still from a video, TODO identify. That monument cellebrate the <<chinese-communist-revolution>>, and ironically contains images of students from <<may-fourth-movement>> protesting at Tiananmen. Liu was one of the people who was begging the students to leave the square once he felt that the government would violently crack down, in order to save lives. For this is considered one of the four <<junzi>> of Tiananmen (天安門四君). Other people in the photo from left to right: Zhou Duo (https://zh.wikipedia.org/wiki/周舵[周舵]). Ji Gaoxin (及高新). Some/all of the junzi felt that peaceful cooperation with the government was the only way forward. This is opposed to the views of others such as <<chai-ling>>, who felt that the sight of blood was necessary to wake up the Chinese masses. Another photo of the four: https://hk.news.yahoo.com/天安門四君子之-周舵認為放下敵我才能推動民主-232800167.html[]. The term is also a reference to the https://en.wikipedia.org/wiki/Four_Gentlemen[Four Gentlemen] (https://zh.wikipedia.org/wiki/花中四君子[花中四君子]), four plants commonly depicted in Chinese traditional painting of plants. http://www.open.com.hk/old_version/1011p39.html[Source]
+.<<liu-xiaobo>> at <<tiananmen>> on 1989-06-02. He is the second from left, with the speaker. The background seems to be <<monument-to-the-peoples-heroes>>, and this seems to be a still from a video, TODO identify. That monument cellebrate the <<chinese-communist-revolution>>, and ironically contains images of students from <<may-fourth-movement>> protesting at Tiananmen. Liu was one of the people who was begging the students to leave the square once he felt that the government would violently crack down, in order to save lives. For this is considered one of the four <<junzi>> of Tiananmen (天安門四君). Other people in the photo from left to right: Zhou Duo (https://zh.wikipedia.org/wiki/周舵[周舵]). Ji Gaoxin (及高新). Some/all of the junzi felt that peaceful cooperation with the government was the only way forward. This is opposed to the views of others such as <<chai-ling>>, who felt that the sight of blood was necessary to wake up the Chinese masses. Another photo of the four: https://hk.news.yahoo.com/天安門四君子之-周舵認為放下敵我才能推動民主-232800167.html[]. The term is also a reference to the https://en.wikipedia.org/wiki/Four_Gentlemen[Four Gentlemen] (https://zh.wikipedia.org/wiki/花中四君子[花中四君子]), four plants commonly depicted in Chinese traditional painting of plants. At <<the-gate-of-heavenly-peace-1995>> 1:46:14, Liu Xiaobo mentions how some students had the delusion that they would actually be able to stand up to the army. http://www.open.com.hk/old_version/1011p39.html[Source]
 image::{china-dictatorship-media-base}/Liu_Xiaobo_Tiananmen_1989_06_02.jpg[height=400]
 
 [[guo-wengui]]
@@ -13369,6 +13442,7 @@ Related:
 * <<hate-speech>>
 * <<os-problemas-da-imprensa-livre,Newspaper censorship cake recipe posts during the Brazilian military dictatorship>>
 * <<dictatorships-are-bad-for-the-arts>>
+* <<tiananmen-oppose-violence,Tiananmen oppose violence>>
 
 A fundamental quote by https://en.wikipedia.org/wiki/Blaise_Pascal[Blaise Pascal] (https://zh.wikipedia.org/wiki/布莱兹·帕斯卡[布莱兹·帕斯卡]) from his https://en.wikipedia.org/wiki/Lettres_provinciales[Lettres provinciales] (1656-1657):
 
@@ -14881,7 +14955,7 @@ image::{china-dictatorship-media-base}/Core_socialist_values_near_Jianguomen_met
 image::{china-dictatorship-media-base}/Core_socialist_values.jpg[height=1000]
 
 [[core-socialist-values-by-1v9ex]]
-.Collage mocking each of the core socialist values by Twitter user https://twitter.com/1V9ex[1V9ex] (维尼十九号机.8964Ver). TODO understand each image. 2 Democracy: <<xi-jinping-2970,Xi Jinping 2970>>, 3 Civility: replay of some news about Earthquake in Japan on some video sharing website, with large ammounts of https://en.wikipedia.org/wiki/Danmu[Danmu commentary] (https://zh.wikipedia.org/wiki/视频弹幕[弹幕]) superposed on the video by viewers, presumably saying that the Earthquake is a good thing. 6 Equality: left half shows this image https://www.sohu.com/a/523721157_639898 of Chinese American skier https://en.wikipedia.org/wiki/Eileen_Gu[Eileen Gu] (https://zh.wikipedia.org/wiki/谷爱凌[谷爱凌]) showing a Gold medal in the 2022 Winter Olympics in China, she might illegally hold dual citizenship. The right half some woman who was chained and raped for years: https://www.rfa.org/english/news/china/woman-chained-02022022135517.html and then there was some online censorship about her: https://archive.ph/VOKPM[]. No more specific relationship betwen them it seems. 7 Justice: a bunch of tanks at <<tiananmen>>, taken from close to one of the taks, the image can also be seen e.g. at: https://www.aboluowang.com/2016/0604/749347.html[] 9 Patriotism: <<chinese-flag-nmsl,NMSL Chinese flag>>. 10 Dedication: likely <<xinjiang-re-education-camps>> TODO confirm, exact image seen e.g. at: https://twitter.com/jenniferatntd/status/1516484817453568012[] by <<jennifer-zeng>>. Added captions read: 在网上不要与人战斗他们可能在争取减刑! (Don't fight people online (supposing <<wumao,wumaos>> are people), they might be fighting for a shorter sentence). It has been used to suggest that prisonners have been forcebly uesd as <<wumao,wumaos>> in China. https://twitter.com/1V9ex/status/1517510684262617088[Source].
+.Collage mocking each of the core socialist values by Twitter user https://twitter.com/1V9ex[1V9ex] (维尼十九号机.8964Ver). TODO understand each image. 2 Democracy: <<xi-jinping-2970,Xi Jinping 2970>>, 3 Civility: replay of some news about Earthquake in Japan on some video sharing website, with large ammounts of https://en.wikipedia.org/wiki/Danmu[Danmu commentary] (https://zh.wikipedia.org/wiki/视频弹幕[弹幕]) superposed on the video by viewers, presumably saying that the Earthquake is a good thing. 6 Equality: left half shows this image https://www.sohu.com/a/523721157_639898 of Chinese American skier https://en.wikipedia.org/wiki/Eileen_Gu[Eileen Gu] (https://zh.wikipedia.org/wiki/谷爱凌[谷爱凌]) showing a Gold medal in the 2022 Winter Olympics in China, she might illegally hold dual citizenship. The right half some woman who was chained and raped for years: https://www.rfa.org/english/news/china/woman-chained-02022022135517.html and then there was some online censorship about her: https://archive.ph/VOKPM[]. No more specific relationship betwen them it seems. 7 Justice: a bunch of tanks at <<tiananmen>>, taken from close to one of the tanks, the image can also be seen e.g. at: https://www.aboluowang.com/2016/0604/749347.html[] 9 Patriotism: <<chinese-flag-nmsl,NMSL Chinese flag>>. 10 Dedication: likely <<xinjiang-re-education-camps>> TODO confirm, exact image seen e.g. at: https://twitter.com/jenniferatntd/status/1516484817453568012[] by <<jennifer-zeng>>. Added captions read: 在网上不要与人战斗他们可能在争取减刑! (Don't fight people online (supposing <<wumao,wumaos>> are people), they might be fighting for a shorter sentence). It has been used to suggest that prisonners have been forcebly uesd as <<wumao,wumaos>> in China. https://twitter.com/1V9ex/status/1517510684262617088[Source].
 image::{china-dictatorship-media-base}/Core_socialist_values_by_1V9ex.jpg[height=1000]
 
 [[democracy]]
@@ -15889,12 +15963,14 @@ One thing to try is an Amazon advanced search by label "China Record Co": https:
 == Chinese festivals (中国节日)
 
 [[dragon-boat-festival]]
-=== Dragon Boat Festival (端午节)
+=== Dragon Boat Festival (端午节, Double Fifth Festival, 重五节)
 
 * https://en.wikipedia.org/wiki/Dragon_Boat_Festival
 * https://zh.wikipedia.org/wiki/端午节
 
 The third most important festival in China, after the Chinese New Year and Mid-Autumn Festival.
+
+Celebrates <<qu-yuan>>.
 
 [[chinese-history]]
 == Chinese history (中国历史)
@@ -15914,6 +15990,9 @@ The third most important festival in China, after the Chinese New Year and Mid-A
 * https://zh.wikipedia.org/wiki/五四运动
 
 Student demonstrations at Tiananmen, therefore ironically similar to <<tiananmen>>. Many of the leaders of the <<ccp>> came from that movement.
+
+.Side-by-side comparison of Tianamen during the <<may-fourth-movement>> vs Tiananmen during <<tiananmen>>. Sources: https://en.wikipedia.org/wiki/File:Chinese_protestors_march_against_the_Treaty_of_Versailles_(May_4,_1919).jpg[1919], [1989]
+image::{china-dictatorship-media-base-ignore}/Tiananmen_1919_May_Fourth_vs_1989.jpg[height=600]
 
 [[chinese-civil-war]]
 ===== Chinese Civil War (国共内战, 1945-1949)
@@ -16918,7 +16997,7 @@ Exits through: <<shandong>>, south of Beijing.
 
 This is a good province map: http://web.archive.org/web/20170910104718/http://cdn.topchinatravel.com/tct/pic/maps/china-map/china-tourist-map.jpg
 
-=== How to people look like in different provinces of China?
+==== How to people look like in different provinces of China?
 
 TODO failed to find an amazing post, the best ones I've found so far:
 
