@@ -77,6 +77,8 @@ Each summary section contains a link to the main section, which contains sources
 
 image::{china-dictatorship-media-base}/Core_socialist_values.jpg[height=1000]
 
+image::{china-dictatorship-media-base}/Water_Margin_tribute_to_dissidents.jpg[height=1436]
+
 https://cirosantilli.com/china-dictatorship/most-chinese-people-like-their-dictatorship
 
 image::{china-dictatorship-media-base}/Anonymous_middle_fingers.jpg[height=800]
@@ -2267,7 +2269,7 @@ October 2017: 7 - 8 cops came to her house _at 11PM_. They knocked the door stro
 
 ===== In the Tweet about his mother in law, Ciro Santilli says "correctional facility", but reeducation through labour has been abolished
 
-He was not very precise https://twitter.com/cirosantilli/status/579270450984984576[here], the precise term is "jail". He was _not_ talking about: https://en.wikipedia.org/wiki/Re-education_through_labor Unfortunately it is not possible to edit a Tweet.
+He was not very precise https://twitter.com/cirosantilli/status/579270450984984576[here], the precise term is "jail". He was _not_ talking about: <<re-education-through-labor>>. Unfortunately it is not possible to edit a Tweet.
 
 [[china-is-fine-as-it-is-stop-making-it-worse]]
 === China is fine as it is, stop making it worse (中国很好，别让它变得更糟)
@@ -6129,6 +6131,7 @@ Some <<wumao,wumaos>>:
 Related posts:
 
 * on <<reddit>>
+** 2022 https://www.reddit.com/r/China/comments/ui56th/chinese_topics_on_quora_are_manipulated_ccp/
 ** 2021-03 https://www.reddit.com/r/China/comments/lv0n24/has_quora_been_overrun_with_chinese_propaganda/
 *** 2021-04 https://www.reddit.com/r/China/comments/mkfgrb/quora_is_officially_a_propaganda_network_for_the/
 
@@ -10548,7 +10551,7 @@ ____
 .https://www.youtube.com/watch?v=B1jfOyB2Osk <<rfa>> interview with <<wei-jingsheng>> (2018)
 video::B1jfOyB2Osk[youtube,height=400,width=600]
 
-.A young <<wei-jingsheng>> side by side with an image of the <<xidan-democracy-wall>>. Jinsheng image source: <<the-gate-of-heavenly-peace-1995>> 19:09. http://mjlsh.usc.cuhk.edu.hk/medias/contents/3997/01.jpg[Xidan Wall image source].
+.A young <<wei-jingsheng>> side by side with an image of the <<xidan-democracy-wall>>. Jinsheng image source: <<the-gate-of-heavenly-peace-1995>> 19:09. At https://twitter.com/WEI_JINGSHENG/status/1521873937851990017 Jingsheng mentions that this image is from Qinhai <<laogai>>. http://mjlsh.usc.cuhk.edu.hk/medias/contents/3997/01.jpg[Xidan Wall image source].
 image::{china-dictatorship-media-base}/Wei_Jingsheng.jpg[height=400]
 
 [[the-fifth-modernization]]
@@ -12213,7 +12216,7 @@ At https://youtu.be/846AtqraCYg?t=615 the BBC mini-documentary series https://en
 This is a good example of <<different-levels-of-truth>>.
 
 [[cctv]]
-===== China Central Television (CCTV, 中国中央电视台, CCP media)
+===== China Central Television (CCTV, 中国中央电视台, 央视, CCP media)
 
 * https://en.wikipedia.org/wiki/China_Central_Television
 * https://zh.wikipedia.org/wiki/中国中央电视台
@@ -13150,20 +13153,22 @@ We should make a montage with some <<chinese-dissidents>> side by side with Wate
 
 The slogan would be 现代好汉，替天行道：向持不同政见者水浒传的致敬 (Modern day Heroes: Water Margin Homage to the dissidents)
 
-* <<quan-ping,Quan Ping>> vs the Monk Lu Zhishen, likely uprooting the tree: https://en.wikipedia.org/wiki/File:Lu_Zhishen_Water_Margin_2.jpg
-* <<liu-shihui-one-party-rule,Liu Shihui>> vs TODO. Maybe Lin Chong at https://en.wikipedia.org/wiki/File:Yoshitoshi-Lin_Chong.jpg after killing his ex riend.
-* <<programthink>> vs Song Jiang, the rebel leader. Or some other of the strategists, Wu Yong.
-* <<hao-haidong>> vs TODO. This one is strong because he is actually physically impressive. Unfortunate how the first thing that comes to mind is Gao Qiu, the evil dude!
+For the image:
+
+* <<wei-jingsheng>> vs Song Jiang: https://commons.wikimedia.org/wiki/File:SongJiang.jpg[]. The rebel leader. Wei Jingsheng is an early strong voice of democracy in China, so fit for a leader. 
+* <<liu-xiaobo>> vs Lu Zhishen uprooting a tree: https://en.wikipedia.org/wiki/File:Lu_Zhishen_Water_Margin_2.jpg[]. Both are somewhat pacifists, Zhishen being a monk, and Xiaobo wanted people to leave the square at Tiananmen to not get killed.
+* <<liu-shihui-one-party-rule,Liu Shihui>> vs Lin Chong just after killing Lu Qian:https://en.wikipedia.org/wiki/File:Yoshitoshi-Lin_Chong.jpg[]. Both brave thin dudes standing up.
+* <<quan-ping,Quan Ping>> vs Wu Song killing the tiger: https://en.wikipedia.org/wiki/File:Wu_Song_Water_Margin.jpg[]. Just two strong dudes.
+* <<hao-haidong>> vs https://en.wikipedia.org/wiki/Yang_Zhi_(Water_Margin)[Yang Zhi] killing the man at the bridge. Hao Haidong is a good choice because he is actually physically impressive. Unfortunate how the first thing that comes to mind is Gao Qiu, the evil dude!
+* <<yue-xin>> vs https://en.wikipedia.org/wiki/Sun_Erniang[Sun Erniang], the image is a still from the 1998 series episode 20. Two chicks. There are only 3 women in water margin, and she is perhaps the most well known because she made mantous out of human flesh.
+
+Some others that could be used in the future:
+
 * Chen Mei and Cai Wei from <<terminus2049>>. TODO for them it would be good if we could have two closely related characters. Perhaps
   * Ruan brothers: Ruan Xiao'er, Ruan Xiaowu, Ruan Xiaoqi. More notable than the Zhang brothers most likely. The problem is that they are 3.
   * the brothers Zhang Heng and Zhang Shun, the only question is if they are memorable enough. https://en.wikipedia.org/wiki/File:Senkaji_Chao_wringing_out_hin_loincloth.jpg and https://commons.wikimedia.org/wiki/File:Utagawa_Kuniyoshi_-_水滸傳_-_張順.jpg perhaps.
 
-Some other popular characters:
-
-* Wu Song: kills a tiger. Easy inclusion.
-* Yang Zhi: TODO any memorable scene
-
-OK, maybe we can do instead/as well a video montage with; https://www.youtube.com/watch?v=MeUiaxaRMK8[], the theme song of the 1998 series. That would be sweet, and we don't have to worry too much about good correspondence of characters as the music will carry it all over no matter what. https://zhuanlan.zhihu.com/p/266089281 contains all images.
+https://zhuanlan.zhihu.com/p/266089281 contains all images of some version, but not the 1998 series outro.
 
 Some good quotes from http://uploads.worldlibrary.net/uploads/pdf/20130423230739the_outlaws_of_the_marsh_pdf.pdf
 
@@ -13198,6 +13203,9 @@ Doing Heaven's Will
 
 The New Water Margin
 ____
+
+.Montage of <<chinese-dissidents>> intermixed with <<water-margin>> characters.
+image::{china-dictatorship-media-base}/Water_Margin_tribute_to_dissidents.jpg[height=1436]
 
 [[water-margin-dissidents]]
 .https://www.youtube.com/watch?v=P7-OYQatYvA (https://github.com/cirosantilli/china-dictatorship/issues/811[GitHub reupload]) Montage of <<chinese-dissidents>> with "Wang Jin beats Gao Qiu" music from the 1998 Water Margin TV by <<ciro-santilli>>.
@@ -14992,8 +15000,19 @@ image::{china-dictatorship-media-base}/Core_socialist_values_near_Jianguomen_met
 image::{china-dictatorship-media-base}/Core_socialist_values.jpg[height=1000]
 
 [[core-socialist-values-by-1v9ex]]
-.Collage mocking each of the core socialist values by Twitter user https://twitter.com/1V9ex[1V9ex] (维尼十九号机.8964Ver). TODO understand each image. 2 Democracy: <<xi-jinping-2970,Xi Jinping 2970>>, 3 Civility: replay of some news about Earthquake in Japan on some video sharing website, with large ammounts of https://en.wikipedia.org/wiki/Danmu[Danmu commentary] (https://zh.wikipedia.org/wiki/视频弹幕[弹幕]) superposed on the video by viewers, presumably saying that the Earthquake is a good thing. 6 Equality: left half shows this image https://www.sohu.com/a/523721157_639898 of Chinese American skier https://en.wikipedia.org/wiki/Eileen_Gu[Eileen Gu] (https://zh.wikipedia.org/wiki/谷爱凌[谷爱凌]) showing a Gold medal in the 2022 Winter Olympics in China, she might illegally hold dual citizenship. The right half some woman who was chained and raped for years: https://www.rfa.org/english/news/china/woman-chained-02022022135517.html and then there was some online censorship about her: https://archive.ph/VOKPM[]. No more specific relationship betwen them it seems. 7 Justice: a bunch of tanks at <<tiananmen>>, taken from close to one of the tanks, the image can also be seen e.g. at: https://www.aboluowang.com/2016/0604/749347.html[] 9 Patriotism: <<chinese-flag-nmsl,NMSL Chinese flag>>. 10 Dedication: likely <<xinjiang-re-education-camps>> TODO confirm, exact image seen e.g. at: https://twitter.com/jenniferatntd/status/1516484817453568012[] by <<jennifer-zeng>>. Added captions read: 在网上不要与人战斗他们可能在争取减刑! (Don't fight people online (supposing <<wumao,wumaos>> are people), they might be fighting for a shorter sentence). It has been used to suggest that prisonners have been forcebly uesd as <<wumao,wumaos>> in China. https://twitter.com/1V9ex/status/1517510684262617088[Source].
+.Collage mocking each of the core socialist values by Twitter user https://twitter.com/1V9ex[1V9ex] (维尼十九号机.8964Ver).  https://twitter.com/1V9ex/status/1517510684262617088[Source].
 image::{china-dictatorship-media-base}/Core_socialist_values_by_1V9ex.jpg[height=1000]
+
+TODO understand each image of the above:
+
+* 2 Democracy: <<xi-jinping-2970,Xi Jinping 2970>>
+* 3 Civility: replay of some news about Earthquake in Japan of magnitude 7.3 on some video sharing website, possibly <<bilibili>>, with large ammounts of https://en.wikipedia.org/wiki/Danmu[Danmu commentary] (https://zh.wikipedia.org/wiki/视频弹幕[弹幕]) superposed on the video by viewers, presumably saying that the Earthquake is a good thing. https://www.zhihu.com/question/522996080/answer/2398017212 on <<zhihu>> asks what people think about it and contains a higher resolution version of the image. Current top answer still says "it's Japan's fault". On the higher resolution image, we can e.g. see on top row a bunch of "好" (good)
+* 6 Equality
+** left half shows this image https://www.sohu.com/a/523721157_639898 of Chinese American skier https://en.wikipedia.org/wiki/Eileen_Gu[Eileen Gu] (https://zh.wikipedia.org/wiki/谷爱凌[谷爱凌]) showing a Gold medal in the 2022 Winter Olympics in China, she might illegally hold dual citizenship
+** right half some woman who was chained and raped for years: https://www.rfa.org/english/news/china/woman-chained-02022022135517.html and then there was some online censorship about her: https://archive.ph/VOKPM[]. No more specific relationship betwen them it seems.
+* 7 Justice: a bunch of tanks at <<tiananmen>>, taken from close to one of the tanks, the image can also be seen e.g. at: https://www.aboluowang.com/2016/0604/749347.html[]
+* 9 Patriotism: <<chinese-flag-nmsl,NMSL Chinese flag>>
+* 10 Dedication: prisonners, possibly <<xinjiang-re-education-camps>> TODO confirm, exact image seen e.g. at: https://twitter.com/jenniferatntd/status/1516484817453568012[] by <<jennifer-zeng>>. Added captions read: 在网上不要与人战斗他们可能在争取减刑! (Don't fight people online (supposing <<wumao,wumaos>> are people), they might be fighting for a shorter sentence). It has been used to suggest that prisonners have been forcebly uesd as <<wumao,wumaos>> in China, rather than free paid workers.
 
 [[democracy]]
 ==== Democracy (民主)
@@ -15041,7 +15060,7 @@ image::{china-dictatorship-media-base}/Qelbinur_Sedik_call_with_cop.jpg[height=4
 image::{china-dictatorship-media-base}/Scarfolk_whatever_you_do_dont.jpg[height=500]
 
 [[the-709-crackdown]]
-==== 709 crackdown (2015, 中國709維權律師大抓捕事件)
+=== 709 crackdown (2015, 中國709維權律師大抓捕事件)
 
 * https://en.wikipedia.org/wiki/709_crackdown
 * https://zh.wikipedia.org/wiki/中國709維權律師大抓捕事件
@@ -15081,6 +15100,21 @@ image::{china-dictatorship-media-base}/I_need_to_talk_to_a_human_rights_lawyer.j
 [[scarfolk-win-your-human-rights]]
 ."Win your human rights" spoof poster by <<scarfolk-council>> (2016). https://scarfolk.blogspot.com/2016/08/human-rights-lottery-advertisement-1976.html[Source].
 image::{china-dictatorship-media-base}/Scarfolk_win_your_human_rights.jpg[height=500]
+
+[[crime-and-punishment]]
+=== Crime and punishment (犯罪与惩罚)
+
+[[laogai]]
+==== Laogai (劳改)
+
+* https://en.wikipedia.org/wiki/Laogai
+* https://zh.wikipedia.org/wiki/劳动改造
+
+[[re-education-through-labor]]
+===== Re-education through labor (劳动教养)
+
+* https://en.wikipedia.org/wiki/Re-education_through_labor
+* https://zh.wikipedia.org/wiki/劳动教养
 
 [[picking-quarrels]]
 ==== Picking quarrels and provoking trouble (寻衅滋事罪)
@@ -15125,22 +15159,25 @@ Related: <<xi-jinping-thought>>.
 Typing that on Google also suggested "People also searched for: 网络审查利弊" (What are the pros and cons of censorship?) Priceless. Bomb at: https://github.com/cirosantilli/china-dictatorship/issues/150[]. <<dictatorship-variability>> comes to mind.
 
 [[residential-surveillance]]
-===== Residential Surveillance at a Designated Location (指定居所监视居住)
+===== Residential Surveillance at a Designated Location (指定居所监视居住, RSDL)
+
+* https://en.wikipedia.org/wiki/Residential_Surveillance_at_a_Designated_Location
 
 More accurately: in prison at a secret location, and without the rights to see who you wish, not even a lawyer.
 
-=== Support for non-scientific traditional practices
+[[drink-tea]]
+==== Police invite to drink tea (被请喝茶)
+
+* <<zhihu>> https://www.zhihu.com/question/60504957 "被请喝茶是怎样的体验？"
+* <<pincong>> https://pincong.rocks/question/7226 "请大家都来曝光下身边被请喝茶或者拘留的例子，让葱油们引以为戒，让更多的人看到土共的凶残"
+
+[[support-for-non-scientific-traditional-practices]]
+=== Support for non-scientific traditional practices (支持非科学的传统做法)
 
 This is especially interesting given that one of the main propaganda reasons for banning <<falun-gong>> was <<flg-medication>>:
 
 * <<xu-xiaodong>> reveals support for Tai Chi
 * 2020-06-03 Beijing considering censoring anti Chinese traditional medicine https://www.theguardian.com/world/2020/jun/03/beijing-draws-up-plans-to-outlaw-criticism-of-traditional-chinese-medicine
-
-[[drink-tea]]
-=== Police invite to drink tea (被请喝茶)
-
-* <<zhihu>> https://www.zhihu.com/question/60504957 "被请喝茶是怎样的体验？"
-* <<pincong>> https://pincong.rocks/question/7226 "请大家都来曝光下身边被请喝茶或者拘留的例子，让葱油们引以为戒，让更多的人看到土共的凶残"
 
 [[video-game-ban]]
 === Video game ban (电子游戏禁令, 2021)
@@ -15498,6 +15535,12 @@ ____
 Related:
 
 * https://www.wakwb.com/ 我爱看围脖 seems to be a Weibo mirror. TODO is it uncensored? Sample post replication: the condom post from https://www.wakwb.com/t/?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9D%9C%E8%95%BE%E6%96%AF%E7%88%B1%E6%97%A0%E9%99%90%23&luicode=10000011&lfid=231522type%3D1%26t%3D10%26q%3D%23%E6%9D%9C%E8%95%BE%E6%96%AF%E7%88%B1%E6%97%A0%E9%99%90%23&page=2 has origin at https://weibo.com/5586291457/K9Vg7ceM7?type=comment#_rnd1629010637474 see also <<communist-bread>>
+
+[[bilibili]]
+=== Bilibili (哔哩哔哩, B站, YouTube clone)
+
+* https://en.wikipedia.org/wiki/Bilibili
+* https://zh.wikipedia.org/wiki/Bilibili
 
 [[qihoo]]
 === Qihoo 360 (奇虎360, Internet security company)
@@ -16027,6 +16070,8 @@ Celebrates <<qu-yuan>>.
 * https://zh.wikipedia.org/wiki/五四运动
 
 Student demonstrations at Tiananmen, therefore ironically similar to <<tiananmen>>. Many of the leaders of the <<ccp>> came from that movement.
+
+In the West, the date is Eclipsed by https://en.wikipedia.org/wiki/Star_Wars_Day[Star Wars Day] however!
 
 .Side-by-side comparison of Tianamen during the <<may-fourth-movement>> vs Tiananmen during <<tiananmen>>. Sources: https://en.wikipedia.org/wiki/File:Chinese_protestors_march_against_the_Treaty_of_Versailles_(May_4,_1919).jpg[1919], [1989]
 image::{china-dictatorship-media-base-ignore}/Tiananmen_1919_May_Fourth_vs_1989.jpg[height=600]
