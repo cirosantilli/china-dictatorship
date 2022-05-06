@@ -11393,9 +11393,11 @@ Some highlights:
 * 2:53:52: <<xiao-bin>>
 
 [[xiao-bin]]
-===== Xiao Bin (Tiananmen witness, 肖斌, 六四的证人)
+===== Xiao Bin (Tiananmen witness, 肖斌, 六四证人)
 
 A man named Xiao Bin (肖斌) told ABC News that he saw tunks crushing people, and got a 10 year sentence. <<lu-xun-petition,Lu Xun's petition quote>> comes to mind.
+
+Highlighted at <<the-gate-of-heavenly-peace-1995>> at around 2:53:52.
 
 Transcript:
 
@@ -11441,6 +11443,9 @@ Asked her for the full footage at: https://twitter.com/cirosantilli/status/15225
 Bibliography:
 
 * http://www.standoffattiananmen.com/2015/08/people-of-1989-xiao-bin.html
+
+.https://www.youtube.com/watch?v=i_otI5aTkWY <<xiao-bin>> clip from <<the-gate-of-heavenly-peace-1995>>. Amazing supercut editing done there. Poor Xiao Bin!!
+video::i_otI5aTkWY[youtube,height=400,width=600]
 
 [[wu-guoguang]]
 ===== Wu Guoguang (吴国光)
@@ -11531,6 +11536,7 @@ Other sections:
 * <<peng-shuai>>
 * <<wei-jingsheng>>
 * <<wu-guoguang>>
+* <<xiao-bin>>
 
 Other dissidents:
 
@@ -12188,7 +12194,7 @@ ____
 
 The video shows a call with a black man (TODO who is that) where he talks about anti-black racism on employment in China. Nothing eye-popping, mostly references <<we-dont-hire-blacks-by-aaron-dewitt-2020>>. Mentions he is under NDA and cannot reveal the name of the company.
 
-==== the woke global times
+==== The woke global times
 
 * https://twitter.com/BadChinaTake
 * https://wokeglobaltimes.com/
