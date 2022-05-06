@@ -75,7 +75,11 @@ Each summary section contains a link to the main section, which contains sources
 
 **社会主义核心价值观 Core socialist values**
 
+https://cirosantilli.com/china-dictatorship/core-socialist-values
+
 image::{china-dictatorship-media-base}/Core_socialist_values.jpg[height=1000]
+
+https://cirosantilli.com/china-dictatorship/water-margin
 
 image::{china-dictatorship-media-base}/Water_Margin_tribute_to_dissidents.jpg[height=1436]
 
@@ -10551,7 +10555,7 @@ ____
 .https://www.youtube.com/watch?v=B1jfOyB2Osk <<rfa>> interview with <<wei-jingsheng>> (2018)
 video::B1jfOyB2Osk[youtube,height=400,width=600]
 
-.A young <<wei-jingsheng>> side by side with an image of the <<xidan-democracy-wall>>. Jinsheng image source: <<the-gate-of-heavenly-peace-1995>> 19:09. At https://twitter.com/WEI_JINGSHENG/status/1521873937851990017 Jingsheng mentions that this image is from Qinhai <<laogai>>. http://mjlsh.usc.cuhk.edu.hk/medias/contents/3997/01.jpg[Xidan Wall image source].
+.A young <<wei-jingsheng>> side by side with an image of the <<xidan-democracy-wall>>. Jinsheng image source: <<the-gate-of-heavenly-peace-1995>> 19:09. At https://twitter.com/WEI_JINGSHENG/status/1521873937851990017 Jingsheng mentions that this image is from Qinhai <<laogai>> in 1985. The original photo was in Jingsheng's sister's possession, there are apparently no known uploads of it. http://mjlsh.usc.cuhk.edu.hk/medias/contents/3997/01.jpg[Xidan Wall image source].
 image::{china-dictatorship-media-base}/Wei_Jingsheng.jpg[height=400]
 
 [[the-fifth-modernization]]
@@ -11386,9 +11390,57 @@ Some highlights:
 * 2:27:11: footage of <<helmet-blood,helmet blood man>>
 * 2:28:41 (+36:32): <<blood-of-a-classmate,This is the blood of a classmate>>
 * 2:37:35: man shoots "murderers", the <<pla>> fires back
-* 2:53:52: Xiao Bin (肖斌) tells ABC News that he saw tunks crushing people, and gets a 5 years sentence. <<lu-xun-petition,Lu Xun's petition quote>> comes to mind.
-** https://www.npr.org/2009/05/31/104731094/tiananmen-shouts-that-turned-to-silence
-** http://www.standoffattiananmen.com/2015/08/people-of-1989-xiao-bin.html
+* 2:53:52: <<xiao-bin>>
+
+[[xiao-bin]]
+===== Xiao Bin (Tiananmen witness, 肖斌, 六四的证人)
+
+A man named Xiao Bin (肖斌) told ABC News that he saw tunks crushing people, and got a 10 year sentence. <<lu-xun-petition,Lu Xun's petition quote>> comes to mind.
+
+Transcript:
+
+* http://www.tsquare.tv/chinese/film/ghp11.html[]
+* http://tsquare.tv/film/transcript_end.php[]
+
+First the reporter asks in the background, untrunscripted, with her English accent (a lot like Ciro's):
+
+____
+你有什么反应对这个事情？ +
+What's your reaction to the situation
+____
+
+The Chinese transcript starts at:
+
+____
+政府没有这样用坦克车、用装甲车，对这么多学生进行履带压 +
+Is this what the People's Government does? Using tanks to crush people?
+____
+
+but the Chinese it is missing the crucial start of the sentence! From this part alone it seems like he is starting to say the the Government did not use tanks to crush people. From hearing the words before are:
+
+____
+他怎么去?代表?人的政府，
+____
+
+So a more literal translation would be:
+
+____
+How can this Government claim to represent the people? A government doesn't use tanks like this, doesn't use armored vehicles like this, to advance towards so many students and crush them under the vehicle's tracks?
+____
+
+presumably referring to events such as <<liubukou-massacre>>.
+
+At https://www.npr.org/2009/05/31/104731094/tiananmen-shouts-that-turned-to-silence "I sent a man to labor camp 20 years ago this week." (2009) reporter Alisa Barba who interviewed Xiao Bin reflects on the effect onhis lef
+
+____
+And finally, what happened to Xiao Bin? Five years after he was sent to labor camp, a small item appeared in the Chinese news - Xiao had been paroled. He was sent home to Dalian and tracked down there by ABC staffers still working in China. Xiao was in poor health, they discovered, and he wanted help to go to America. That was the last we heard.
+____
+
+Asked her for the full footage at: https://twitter.com/cirosantilli/status/1522527798832816128[].
+
+Bibliography:
+
+* http://www.standoffattiananmen.com/2015/08/people-of-1989-xiao-bin.html
 
 [[wu-guoguang]]
 ===== Wu Guoguang (吴国光)

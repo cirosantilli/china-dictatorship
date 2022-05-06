@@ -94,8 +94,7 @@ if (!isComment) {
     'cnm',
     'fuck.*\\b(mom|mum|mother)\\b',
     '尼玛',
-    '去你吗',
-    '(日|操|草)(你|泥|拟)' + maWords,
+    '(叼|去|日|操|草)(你|泥|拟)' + maWords,
   ]
   for (const word of fuckMotherWords) {
     if (new RegExp(word, 'i').test(titleAndBody)) {
