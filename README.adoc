@@ -4893,6 +4893,10 @@ If you don't manage to do either of the above, don't do any technological work. 
 
 And regardless: remember your kids that the commies are bastards every day.
 
+Related:
+
+* <<xiao-bin>>
+
 [[lu-xun-petition]]
 .Petition quote by https://en.wikipedia.org/wiki/Lu_Xun[Lu Xun] (https://zh.wikipedia.org/wiki/鲁迅[鲁迅]) 1926. Original quote: "请愿虽然是无论那一国度里常有的事，不至于死的事，但我们已经知道中国是例外，除非你能将'枪林弹雨'消除。" (Petitions are a common thing in any country, it is not something that results in death. But we already know that China is an exception, unless you can avoid a "barrage of bullets"."). Visible e.g. at https://www.marxists.org/chinese/reference-books/luxun/09/016.htm but also at https://www.zhihu.com/question/54231137/answer/277760001[] 鲁迅的文字有多一针见血？ (How sharp is Lu Xun's writing? that answerer dude has balls! A chenyu is used: https://baike.baidu.com/item/枪林弹雨/31136 https://www.marxists.org/chinese/reference-books/luxun/09/016.htm[枪林弹雨].
 image::{china-dictatorship-media-base}/Lu_Xun_1930_petition.jpg[height=600]
@@ -11446,6 +11450,9 @@ Bibliography:
 
 .https://www.youtube.com/watch?v=i_otI5aTkWY <<xiao-bin>> clip from <<the-gate-of-heavenly-peace-1995>>. Amazing supercut editing done there. Poor Xiao Bin!!
 video::i_otI5aTkWY[youtube,height=400,width=600]
+
+.Still of the above with captions.
+image::{china-dictatorship-media-base}/Xiao_bin_crush_students.jpg[height=600]
 
 [[wu-guoguang]]
 ===== Wu Guoguang (吴国光)
