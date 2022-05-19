@@ -15,8 +15,8 @@
 
 https://cirosantilli.com/china-dictatorship[cirosantilli.com (规范链接 canonical)] |
 https://github.com/cirosantilli/china-dictatorship[GitHub 项目 project] |
-https://github.com/cirosantilli/china-dictatorhsip-2[Mirror 镜像 2] |
-https://github.com/coding-stuffs/china-dictatorshrip[Mirror 镜像 3] |
+https://github.com/cirosantilli/china-dictatorhsip-3[Mirror 镜像 2] |
+https://github.com/codin-stuffs/cihna-dictatorshrip[Mirror 镜像 3] |
 link:index-split[分裂标题版本 split header version] |
 中国镜像 China mirrors:
 https://cirosantilli.gitlab.io/china-dictatorship[cirosantilli.gitlab.io],
@@ -255,7 +255,7 @@ Given <<github-censored-subdomains>>, this might be the only way to view the ima
 The cool thing about Git is that we can maintain several mirrors on multiple websites very easily:
 
 * https://github.com/cirosantilli/china-dictatorship Canonical source and rendered output. If ever <<github-gov-takedowns>> we do this: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
-* https://gitlab.com/cirosantilli/china-dictatorship-2 mirror in case they block just https://github.com/cirosantilli/china-dictatorship[], see also: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>
+* https://github.com/cirosantilli/china-dictatorship-2 mirror in case they block just https://github.com/cirosantilli/china-dictatorship[], see also: <<strategy-if-this-repo-gets-added-to-github-gov-takedowns>>. Active renaming in place due to <<chinese-web-browser-censorship>>
 * https://gitlab.com/cirosantilli/cirosantilli[]: a mirror just so that some interesting stuff will show up at https://gitlab.com/cirosantilli/cirosantilli[]. The policy is to transfer any <<wumao>> issues from there to https://github.com/cirosantilli/china-dictatorship[]. Interestingly, https://github.com/cirosantilli/cirosantilli/issues/53 from that project because the second yandex.com hit for "六四事件" as of 2022/04/17, and the only one that is not yet censored in China entirely, which drives reasonable traffic (3500 hist / 2 weeks).
 * https://gitlab.com/cirosantilli/china-dictatorship
 ** their gitlab.com render is shit for some reason, clicking on the ToC does not jump to headers properly, not sure why, IDs look correct
@@ -275,6 +275,7 @@ Mirrors controlled by other people, thus forming a type of <<samizdat>>:
 * https://git.kiwifarms.net/CrunkLord420/china-dictatorship auto-pull Gitea mirror on https://en.wikipedia.org/wiki/Kiwi_Farms[Kiwi Farms], a <<politically-incorrect,politically incorrect>> social network website
 * https://china.vkoor.com/ presumably by https://github.com/Vkoor[] who is a collaborator of this project, e.g. https://github.com/cirosantilli/china-dictatorship/issues/533[]. They're also hosting a search engine proxy at https://www.vkoor.com/[], TODO Google? See also: <<google-mirrors>>.
 * https://github.com/cheezcharmer/chinese-dictatorship[]: Ciro likes that this due actually changed the repository title, thus making it harder to auto-censor everything in one go
+* https://crabapi.cn by https://github.com/CrabTechs says name is 薛钰隆 and gives contact details and photo. Please by God be fake details. A .cn mirror, let's see how long it lasts. Up: https://web.archive.org/web/20220517075452/https://crabapi.cn/ Down the following day. Twitter: https://twitter.com/CrabTechs_ Backlink from https://site.ip138.com/ and https://site.ip138.com/crabapi.cn to cirosantilli.com.
 
 GitHub Pages: https://cirosantilli.com/china-dictatorship trade-offs with https://github.com/cirosantilli/china-dictatorship[]:
 
@@ -2383,7 +2384,7 @@ image::{china-dictatorship-media-base}/Scarfolk_public_displays_of_personal_dist
 video::4xoM6-1SWl4[youtube,height=400,width=600,start=1606]
 
 [[anonymous-middle-fingers]]
-.Presumed Chinese people giving the middle finger (https://zh.wikipedia.org/wiki/豎中指[竖中指]) to various <<ccp>> symbols, most notably <<xi-jinping>>. Even if this was made by the CIA, it perfectly illustrates the point that obviously no one speaks against the CCP because otherwise they will be put in jail. If you are going to do this, for Fuck's Sake please cover your fingers, like the ones using gloves, or the banknotes, because if the photo resolution is good enough, you could be identified by your fingerprint. A <<reddit,r/China>> https://www.reddit.com/r/China/comments/obmgdh/not_all_of_us_are_brainwashed_沉默的大多数/[repost]. This photo seems to be the result of a campaign started by <<gfwfrog>> in response to the 100th anniversary of the Party in 2021. This was also explained at: https://chinadigitaltimes.net/chinese/667778.html[] on <<china-digital-times>>. Related: <<anonymous-account-ban>>. https://twitter.com/GFWfrog/status/1410927334719430662[Source].
+.Presumed Chinese people giving the middle finger (https://zh.wikipedia.org/wiki/豎中指[竖中指]) to various <<ccp>> symbols, most notably <<xi-jinping>>. Even if this was made by the CIA, it perfectly illustrates the point that obviously no one speaks against the CCP because otherwise they will be put in jail. If you are going to do this, for Fuck's Sake please cover your fingers, like the ones using gloves, or the banknotes, because if the photo resolution is good enough, you could be identified by your fingerprint. A <<reddit,r/China>> https://www.reddit.com/r/China/comments/obmgdh/not_all_of_us_are_brainwashed_沉默的大多数/[repost]. This photo seems to be the result of a campaign started by <<gfwfrog>> in response to the 100th anniversary of the Party in 2021. This was also explained at: https://chinadigitaltimes.net/chinese/667778.html[] on <<china-digital-times>>. Related: <<anonymous-account-ban>>. This project was perhaps inspired by pro CCP images celebrating the 100 years such as https://archive.ph/OJGHl/5f09f24ce2e3f856b08e79cdade72ad2af72e9a0.jpg from https://kknews.cc/culture/gmnl5vy.html[] on <<kknews>>. https://twitter.com/GFWfrog/status/1410927334719430662[Source].
 image::{china-dictatorship-media-base}/Anonymous_middle_fingers.jpg[height=800]
 
 .https://www.youtube.com/watch?v=_y2FIqfIpiw (https://github.com/cirosantilli/china-dictatorship/issues/409[GitHub reupload]) Give <<xi-jinping>> the middle finger silly GIF by <<gfwfrog>> 给习近平竖中指由墙国蛙蛤蛤傻逼视频. https://twitter.com/GFWfrog/status/1408805483679469579[Source].
@@ -5727,6 +5728,10 @@ Can Github add an entire user to gov-takedowns? We shall find out.
 Ciro also created a separate org for it to also prevent simple username blocks: https://github.com/coding-stuffs/china-dictatorshrip
 
 But remember that we also have: <<mirrors>>, and that this can be easily rendered as a single HTML page and uploaded to any static website host.
+
+* 2022-05-10 https://github.com/coding-stuffs/china-dictatorshrip and https://github.com/cirosantilli/china-dictatorhsip-2/graphs/traffic traffic went mysteriously from 30 and 20 unique daily visitors respectively to just 1 or 2
+* 2022-05-17 renamed https://github.com/coding-stuffs/china-dictatorshrip to https://github.com/codin-stuffs/cihna-dictatorshrip to see if the is a URL-based browser block. Keeping https://github.com/cirosantilli/china-dictatorhsip-2 unchanged for now as a control. 2022-05-18 immediately back to 175.
+* 2022-05-19 renamed https://github.com/cirosantilli/china-dictatorhsip-2 to https://github.com/cirosantilli/china-dictatorhsip-3 to see if traffic also goes back up like coding-stuffs. Do wumaos know their regexes??
 
 [[gov-takedowns-china]]
 ====== gov-takedowns/China (由中共在国审查的库仓的GitHub官方列表)
@@ -9347,7 +9352,7 @@ There are also claims that Li's birth name was Li Lai (李來).
 Sources:
 
 * <<benjamin-penny-the-religion-of-falun-gong-2012>> gives further family members (some of them are based only on CCP sources however):
-* https://kknews.cc/zh-hk/news/bbmz49.html[] claims to contain the biography of Li Hongzhi's family (likely all according to CCP sources), including several good pictures: The photo given there for Li Jun appears on this apparently FLG source without mention of the name: https://www.epochweekly.com/b5/103/5805.htm
+* https://kknews.cc/zh-hk/news/bbmz49.html[] on <<kknews>> claims to contain the biography of Li Hongzhi's family (likely all according to CCP sources), including several good pictures: The photo given there for Li Jun appears on this apparently FLG source without mention of the name: https://www.epochweekly.com/b5/103/5805.htm
 
 .Li Hongzhi with his wife Li Rui and daughter Li Meige presumably in the late 80's with fishing ships in a shipyard in the background. TODO location. Likely from CCP sources, in many places with <<chinese-government-media,kaiwnd>> watermarks. http://www.toppk.net/art/2016/3/9/art_7328_304365.html[Anti-FLG source].
 image::{china-dictatorship-media-base}/Li_Hongzhi_with_wife_and_daughter.jpg[height=400]
@@ -10639,7 +10644,7 @@ ____
 
 claims from from some 毛泽东选集第五卷 (selected works from Mao Zedong) in speech from the https://en.wikipedia.org/wiki/8th_Central_Committee_of_the_Communist_Party_of_China[8th Central Committee of the Communist Party of China]. https://twitter.com/shijianxingzou/status/1158421996755128323 mentions the anthology was published in 1977.
 
-Even <<pro-chinese-government-media,kknews>> confirms: https://kknews.cc/zh-my/news/ql9k4ag.html
+Even <<kknews>> confirms: https://kknews.cc/zh-my/news/ql9k4ag.html
 
 <<liu-shihui-one-party-rule,Liu Shihui (刘士辉)>> also comes to mind.
 
@@ -11201,13 +11206,6 @@ This song is amazing!!!
 
 Official tablature on Xu Lin's blog: https://xulin1523.blogspot.com/2016/01/blog-post_26.html
 
-https://www.nchrd.org/2018/10/xu-lin/ on <<chinese-human-rights-defenders>> says he was arrested in 2017 for <<picking-quarrels>>, and released on September 2020 at the completion of his sentence. This dude was actually China, what a hero. https://chinachange.org/2018/07/28/guangdong-activist-xu-lin-tried-on-charges-of-stirring-up-trouble-for-writing-songs/ talks about his trial in 2018.
-
-Possible official accounts:
-
-* https://mobile.twitter.com/yasenwang9
-* https://xulin1523.blogspot.com
-
 .https://www.youtube.com/watch?v=ym88UOz5ZC8 (https://github.com/cirosantilli/china-dictatorship/issues/185[GitHub reupload]) Tank Man Song (2016) video on Xu Lin's official YouTube channel.
 video::ym88UOz5ZC8[youtube,height=400,width=600]
 
@@ -11285,8 +11283,26 @@ Don't be a tool of suppression of the Dictatorship +
 Quickly stop the tanks, and correct your point of view +
 ____
 
-.Picture of Xu Lin and the tablature of this <<tank-man-song,Tank Man Song (2016)>>. https://wqw2010.blogspot.com/2019/06/3.html[Source of portrait], https://xulin1523.blogspot.com/2016/01/blog-post_26.html[source of tablature].
+.Picture of Xu Lin and the tablature of this <<tank-man-song,Tank Man Song (2016)>>. https://wqw2010.blogspot.com/2019/06/3.html[Source of portrait], https://xulin1523.blogspot.com/2016/01/blog-post_26.html[source of tablature]. The video contains several images that would make for good ammo.
 image::{china-dictatorship-media-base}/Xu_Lin_with_Tank_Man_song_tablature.jpg[height=500]
+
+[[xu-lin]]
+===== Xu Lin (徐琳)
+
+https://www.nchrd.org/2018/10/xu-lin/ on <<chinese-human-rights-defenders>> says he was arrested in 2017 for <<picking-quarrels>>, and released on September 2020 at the completion of his sentence. This dude was actually China, what a hero. https://chinachange.org/2018/07/28/guangdong-activist-xu-lin-tried-on-charges-of-stirring-up-trouble-for-writing-songs/ talks about his trial in 2018.
+
+Possible official accounts:
+
+* https://mobile.twitter.com/yasenwang9
+* https://xulin1523.blogspot.com
+
+Some songs:
+
+* <<tank-man-song>>
+* <<xu-lin-709,Xu Lin 709>>
+* https://www.youtube.com/watch?v=_vZnN0EaRps How should I save 7M (TODO what is 7M, 2017, 我该如何挽救 7M) tribute to <<liu-xiaobo>>
+* https://www.youtube.com/watch?v=HjhuBM6zsvI&t=108s Twitter Party song (2017, 推特党之歌) Appears to be a tribute to Chinese people who jump the <<gfw>>.
+* https://www.youtube.com/watch?v=oxgK0t2sVGw tribute to the 玫瑰团队 (Rose Team), apparently a human rights group in China
 
 [[tiananmen-square-protests-keywords]]
 === Tiananmen Square Protests keywords (天安门广场抗议关键词)
@@ -12359,7 +12375,6 @@ Operates for example: https://en.wikipedia.org/wiki/WCRW which is mentioned at: 
 
 These might be independent, but they are clearly pro CCP and thus cannot be trusted:
 
-* https://kknews.cc/ refers to <<falun-gong>> as an "Evil Cult" (邪教) https://kknews.cc/zh-mo/entertainment/lj4y9yb.html (http://archive.is/osBDv[archive])
 * http://facts.org.cn/ anti-religion website in English, basically an English <<kaiwind>>
 
 [[guancha]]
@@ -12374,6 +12389,17 @@ YouTube channel, mostly Chinese commentary videos: https://www.youtube.com/chann
 Ideology:
 
 * anti-<<falun-gong>>: https://www.guancha.cn/politics/2019_09_18_518339.shtml
+
+[[kknews]]
+====== kknews (pro-CCP media)
+
+https://kknews.cc/
+
+Refers to <<falun-gong>> as an "Evil Cult" (邪教) https://kknews.cc/zh-mo/entertainment/lj4y9yb.html (http://archive.is/osBDv[archive])
+
+One is reminded of the https://en.wikipedia.org/wiki/Ku_Klux_Klan[KKK].
+
+https://www.zhihu.com/question/63052654 kknews.cc 是什么网站？(What is the website kknews.cc?) on <<zhihu>>. One of the answers links to https://www.ptt.cc/bbs/Gossiping/M.1490457159.A.5CA.html[] on <<ptt>>, it is hilarious. Answers suggest it is a https://en.wikipedia.org/wiki/Content_farm[content farm] that copy pastes content from other locations without concerns for copyright.
 
 [[kaiwind]]
 ====== Kaiwind (pro-CCP media)
@@ -13346,7 +13372,7 @@ Translations:
 ** https://ctext.org/zhuangzi side by side with Chinese, one chapter per page
 
 [[ccp]]
-== Chinese Communist Party (CCP, 中国共产党, 1949-, Cult of Mao/Xi, 毛习邪教)
+== Chinese Communist Party (CCP, 中国共产党, 1949-, Cult of Mao/Xi, 毛习邪教, 10.000 year Reich)
 
 * https://en.wikipedia.org/wiki/Chinese_Communist_Party
 * https://zh.wikipedia.org/wiki/中国共产党
@@ -14356,7 +14382,7 @@ Known events:
 
 This allows the <<ccp>> to overcome <<it-is-not-possible-to-block-a-single-page-of-an-https-website>> for users that are using Chinese browsers.
 
-Some screenshots can be seen at: https://github.com/cirosantilli/china-dictatorship/issues/525[]. Mentioed browsers include:
+Some screenshots can be seen at: https://github.com/cirosantilli/china-dictatorship/issues/525[]. Mentioned browsers include:
 
 * https://en.wikipedia.org/wiki/QQ_browser[QQ browser]
 * https://en.wikipedia.org/wiki/360_Secure_Browser[360 Secure Browser] from <<qihoo>>
@@ -14458,6 +14484,12 @@ Bibliography:
 * https://chinese.stackexchange.com/questions/8355/角-毛-10-cents-for-money-why
 * https://forum.duolingo.com/comment/26832834/六元四角-vs-六块四毛钱
 
+In other sections:
+
+* <<wumao-artists>>
+* <<wumao-github-repos>>
+* <<wumao-github-repos>>
+
 .50-cent coin (五角) from the https://en.wikipedia.org/wiki/Fourth_series_of_the_renminbi[fourth series of renminbi] (https://zh.wikipedia.org/wiki/第四套人民币[第四套人民币], 1987-1997). This image is going to be very useful. Note the beautiful plum blossom drawings reminiscent of <<chinese-traditional-painting>> which <<ciro-santilli>> loves. Note how it uses 角 (jiao3) instead of 毛 (mao2). http://www.bjzxcp.com/article-41679.html[Source].
 image::{china-dictatorship-media-base}/Wujiao.png[height=400]
 
@@ -14521,6 +14553,14 @@ ____
 When they write in Chinese, it is much harder to know if they are paid or not, most are just <<stupid,brainwashed>>, some places to find them:
 
 * <<zhao-heming>>
+
+[[internet-water-army]]
+===== Internet Water Army (网络水军)
+
+* https://en.wikipedia.org/wiki/Internet_Water_Army
+* https://zh.wikipedia.org/wiki/網絡打手
+
+Basically private <<wumao,wumaos>>, rather than <<ccp>> paid ones.
 
 [[ccp-apologists]]
 ===== CCP apologists (中共辩护士)
@@ -15166,6 +15206,10 @@ image::{china-dictatorship-media-base}/I_need_to_talk_to_a_human_rights_lawyer.j
 ."Win your human rights" spoof poster by <<scarfolk-council>> (2016). https://scarfolk.blogspot.com/2016/08/human-rights-lottery-advertisement-1976.html[Source].
 image::{china-dictatorship-media-base}/Scarfolk_win_your_human_rights.jpg[height=500]
 
+[[xu-lin-709]]
+.https://www.youtube.com/watch?v=e1ixo2TyamI Secretly imprisoned human rights lawyers by <<xu-lin>> (2017, 秘密关押的人权律师). A tribute to <<the-709-crackdown>>.
+video::e1ixo2TyamI[youtube,height=400,width=600]
+
 [[crime-and-punishment]]
 === Crime and punishment (犯罪与惩罚)
 
@@ -15536,8 +15580,11 @@ https://domainnamewire.com/author/kasseylee/ mentions that it was sold for $609,
 
 Some subdomains on <<archive-today>>: https://archive.vn/*.oa.com
 
-Domain selection:
+Subdomain selection:
 
+* 2022-05-16 https://isp.oa.com hit https://github.com/cirosantilli/cirosantilli people asking about it:
+  * https://eck.ink/study/158.html
+  * http://machbbs.com/hostloc/297766
 * https://ilns.isec.oa.com[], which from the name is likely some kind of internal censorship/information security portal:
 ** 2021-08-25 http://ilnstest.isec.oa.com/ a new variant
 ** 2021-07-22 4 hits one user from https://ilns.isec.oa.com to GitHub repository
@@ -15693,6 +15740,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2022-05 bytedance.feishu.cn 3 people to repo https://github.com/cirosantilli/china-dictatorship
 * 2022-04-29 https://www.reddit.com/r/ADVChina/comments/uepsnh/found_this_on_github_a_repository_that_seems_to/ Found this on Github, a repository that seems to be run by Chinese human rights dissidents. Lots of CCP FAQ, news, and other useful information.
 * 2022-03-14 zhttps://91ai.net/thread-983734-1-1.html from <<zhao-heming>>
 * 2022-03-12 https://news.ycombinator.com/item?id=30649938 a failed Y combinator attempt. Sad. Maybe https://github.com/sturza
@@ -15751,7 +15799,8 @@ ____
 * 2021-03-08 https://us3124.scholar.eu.org to GitHub repo. Redirects to: https://www.library.ac.cn/ip.html?f=us3124 which is a 403 "Your IP is not allowed to visit this site.
 This site is only available in Mainland China." The about of the blog leads to another domain: https://www.virtual.hk/author/ircli but both seem to be mirrors. The website is a Wordpress which contain images of certain plants under a microscope, and "ircli" is the author's username.
 - 2021-02-21 and 2020-02-22: https://developer.aliyun.com/ to https://cirosantilli.com and https://cirosantilli.com/china-dictatorship The china-dictatorship landing pages had tracking queries leaked: `?spm=.14275010.0.0.60be9dc4PsRmA` and `?spm=a2c6h.14275010.0.0.60be9dc4vwIZTP`. The source domain is visible publicly and entitled 开发者社区 (Developer community) for Aliyun. Who knows, maybe Jack Ma's people are starting a full out revolt after he was put in jail! :) These tracking queries are added to every single one of their links, including outlinks, as can be seen at: https://developer.aliyun.com/article/616542 for example. Edit: noticed https://developer.aliyun.com/mirror/npm/package/china-dictatorship was removed, so that was it.
-* 2021-02-18 https://cms.securimate.com securimate.com now redirects to https://steeleglobal.com "Your employees and business partners are confronted with ethical decisions every day that impact your company. To create a culture of integrity, you need to empower people to make the right choices. Steele partners with the world’s largest, most respected companies to deliver compliance products and services that help organizations embrace a culture of compliance while protecting their brand." Here we go. Securimate is a Texas-based acquisition apparently: https://www.planetcompliance.com/securimate/ Googling the company for China leads mostly to honorable anti-corruption and export compliance activityactivity e.g. https://steeleglobal.com/managing-third-party-vendors-china/ , nothing to do with brand protection of course, who would support a dictatorship to help their brand, right?
+* 2021-02-18 https://cms.securimate.com securimate.com now redirects to https://steeleglobal.com "Your employees and business partners are confronted with ethical decisions every day that impact your company. To create a culture of integrity, you need to empower people to make the right choices. Steele partners with the world’s largest, most respected companies to deliver compliance products and services that help organizations embrace a culture of compliance while protecting their brand." Here we go. Securimate is a Texas-based acquisition apparently: https://www.planetcompliance.com/securimate/ Googling the company for China leads mostly to honorable anti-corruption and export compliance activity e.g. https://steeleglobal.com/managing-third-party-vendors-china/[], nothing to do with brand protection of course, who would support a dictatorship to help their brand, right?
+** 2022-05-04 hit to /china-dictatorship/tiananmen.html
 * 2020-09-09 https://www.xataka.com/servicios/github-inesperado-ultimo-reducto-libertad-expresion-gran-firewall-que-pone-jaque-intereses-china "Github, el inesperado último reducto de libertad de expresión ante el 'Gran Firewall' pone en jaque los intereses de China", Spanish for "Github, the unexpected last stronghold of freedom of expression before the 'Great Firewall' puts the interests of China in check" basically talking about <<cute-cat-theory-of-digital-activism>>. Links to https://github.com/cirosantilli/chenmei-caiwei-ziyou under link text "Terminus2049" which is a bit misleading, could be a link mistake, led to 15 unique clicks. Contacted author at: https://twitter.com/cirosantilli/status/1307717620863467522
 * 2020-08-29 https://www.reddit.com/r/saraba2nd/comments/iipjov/github有哪些反共项目/ (Which anti-communist projects are there on GitHub?) <<github-repositories-with-censored-information>> of course! User spuspended when thread was found, so couldn't message them.
 * 2020-08-22: https://www.reddit.com/r/China/comments/ief27w/place_bets_on_how_long_this_repository_will_last/ "Place bets on how long this repository will last. (Oh btw china now has its own git system)" about <<gitee>>
