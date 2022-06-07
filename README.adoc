@@ -1020,6 +1020,14 @@ However, as mentioned https://twitter.com/Dogbert_Catbert/status/137246767082668
 
 * <<western-companies-that-sell-censorship-technology-to-dictatorships>>
 
+[[slacktivism]]
+==== Slacktivism (懒人行动主义)
+
+* https://en.wikipedia.org/wiki/Slacktivism
+* https://zh.wikipedia.org/wiki/懒人行动主义
+
+Also related: https://knowyourmeme.com/memes/i-support-the-current-thing
+
 [[meant-to-be-used]]
 === Politics should not be posted in technical websites such as GitHub or Stack Overflow 不应该在技术网站例如Stack Overflow和GitHub讨论政治
 
@@ -1391,6 +1399,9 @@ image::{china-dictatorship-media-base}/CCP_Olympic_medal_2020_vs_COVID_death_cou
 People were getting really fed up by that one:
 
 * https://www.theguardian.com/uk-news/video/2022/apr/25/beijing-residents-stock-up-on-food-amid-covid-lockdown-fears-video
+
+.https://www.youtube.com/watch?v=dpJPPJwi2Vo What It’s Like Inside Shanghai’s Lockdown by VICE News (2022)
+video::dpJPPJwi2Vo[youtube,height=400,width=600]
 
 [[li-wenliang]]
 ====== Li Wenliang (李文亮)
@@ -5730,8 +5741,8 @@ Ciro also created a separate org for it to also prevent simple username blocks: 
 But remember that we also have: <<mirrors>>, and that this can be easily rendered as a single HTML page and uploaded to any static website host.
 
 * 2022-05-10 https://github.com/coding-stuffs/china-dictatorshrip and https://github.com/cirosantilli/china-dictatorhsip-2/graphs/traffic traffic went mysteriously from 30 and 20 unique daily visitors respectively to just 1 or 2
-* 2022-05-17 renamed https://github.com/coding-stuffs/china-dictatorshrip to https://github.com/codin-stuffs/cihna-dictatorshrip to see if the is a URL-based browser block. Keeping https://github.com/cirosantilli/china-dictatorhsip-2 unchanged for now as a control. 2022-05-18 immediately back to 175.
-* 2022-05-19 renamed https://github.com/cirosantilli/china-dictatorhsip-2 to https://github.com/cirosantilli/china-dictatorhsip-3 to see if traffic also goes back up like coding-stuffs. Do wumaos know their regexes??
+* 2022-05-17 renamed https://github.com/coding-stuffs/china-dictatorshrip to https://github.com/codin-stuffs/cihna-dictatorshrip to see if the is a URL-based browser block. Keeping https://github.com/cirosantilli/china-dictatorhsip-2 unchanged for now as a control. 2022-05-18 immediately back to 175. Then since 05-20 fell to 30/daily as before. I wonder where the 175 came from. Maybe there is some fast-track block that does not fully block?
+* 2022-05-19 renamed https://github.com/cirosantilli/china-dictatorhsip-2 to https://github.com/cirosantilli/china-dictatorhsip-3 to see if traffic also goes back up like coding-stuffs. Do wumaos know their regexes?? Traffic immediately back to 50/60 daily.
 
 [[gov-takedowns-china]]
 ====== gov-takedowns/China (由中共在国审查的库仓的GitHub官方列表)
@@ -5784,7 +5795,7 @@ Here's an archive: https://archive.ph/VJQdD That click wall also prevents archiv
 [[github-censorship-guidelines]]
 ===== GitHub censorship guidelines (GitHub 审查指南)
 
-https://news.ycombinator.com/item?id=9966118 GitHub threatens to shut down a repository for using the word 'retard'  (2015)
+https://news.ycombinator.com/item?id=9966118 GitHub threatens to shut down a repository for using the word 'retard' (2015)
 
 ===== Gitee
 
@@ -6263,6 +6274,7 @@ Other mirrors:
 * https://www.sanzhima.com/
 * https://google.independentlyreview.com/ see also the <<github>> one by the same creator, described at <<mirrors>>
 * https://websearches.club/
+* https://g20.i-research.edu.eu.org/ http://eu.org gives away free subdomains it seems.
 
 No HTTPS?!?! Brains?!?!
 
@@ -7172,6 +7184,24 @@ image::{china-dictatorship-media-base}/Blood_Cotton_Initiative_by_Wuheqilin_holo
 * 2011 Inner Mongolia unrest
 ** https://en.wikipedia.org/wiki/2011_Inner_Mongolia_unrest
 ** https://zh.wikipedia.org/wiki/2011年内蒙古抗议示威事件
+
+[[bingtuan]]
+==== Xinjiang Production and Construction Corps (新疆生产建设兵团, 兵团)
+
+https://www.youtube.com/watch?v=xqbNuejnP_4
+
+https://en.wikipedia.org/wiki/Xinjiang_Production_and_Construction_Corps
+
+https://foreignpolicy.com/2014/10/08/chinas-vast-strange-and-powerful-farming-militia-turns-60/
+
+Wikipedia mentions:
+
+____
+In October 1954 the Production Division was ordered by the Mao Zedong to form People's Liberation Army Xinjiang Production and Construction Corps, tasked to "Integrate labor with violence, colonize and populate the frontier" in 1954.
+____
+
+.https://www.youtube.com/watch?v=xqbNuejnP_4 Secrets of the Tomato Industry: The Empire of Red Gold by Java Discover (2022) Has some good Bingtuan mentions.
+video::xqbNuejnP_4[youtube,height=400,width=600]
 
 [[tibet]]
 === Tibet (西藏)
@@ -10259,6 +10289,7 @@ https://zh.wikipedia.org/wiki/兩個維護
 
 * https://en.wikipedia.org/wiki/Xuexi_Qiangguo
 * https://zh.wikipedia.org/wiki/学习强国
+* https://www.xuexi.cn/
 
 App made by <<alibaba>> for the <<ccp>> to teach people <<xi-jinping-thought>>.
 
@@ -11570,15 +11601,7 @@ Other dissidents:
 ** real chinese name from: from https://hk.appledaily.com/china/20201222/AZMBHJHIJZGADMK76Z54M6O6IE/
 ** TODO Twitter handle if it wasn't entirely deleted?
 ** https://www.youtube.com/channel/UCsbdz3lXyyvBz7hMDNXHT7w
-* https://en.wikipedia.org/wiki/Cai_Xia[Cai Xia] (https://zh.wikipedia.org/wiki/蔡霞[蔡霞]), https://chinadigitaltimes.net/space/Cai_Xia by <<china-digital-times>>
-+
-Retired teacher at <<central-party-school>> living in the USA.
-+
-She criticized <<xi-jinping>> in private online meeting, and the audio was leaked: https://www.youtube.com/watch?v=hEBHVsHlPeI
-+
-** 2020-06-12 https://chinadigitaltimes.net/2020/06/translation-former-party-professor-calls-ccp-a-political-zombie/ "TRANSLATION: FORMER PARTY PROFESSOR CALLS CCP A 'POLITICAL ZOMBIE'" by <<china-digital-times>>
-** 2020-08-21 https://www.taiwannews.com.tw/en/news/3992140 she was expelled from from the CCP, and she said she was happy.
-** 2021-08-02 https://www.hoover.org/sites/default/files/research/docs/xia_chinausrelations_web-ready.pdf China-US Relations in the Eyes of the Chinese Communist Party, published by <<hoover-institution>>
+* 
 * https://www.rfa.org/english/news/china/monitor-08182020091653.html "Jailed <<wechat>> User Says Chinese Police Monitor Overseas Accounts Too". Gao Zhigang.
 * https://en.wikipedia.org/wiki/Chen_Guangcheng[Chen Guangcheng] (陈光诚). The blind dude. https://www.youtube.com/watch?v=zDqYMXxH09Y "Chinese dissident tells story of escaping tyranny and finding hope in America" by "Fox News" (2020-08-26) supporting Trump's reelection.
 * 2021-08 Ge Yulu staring into security cameras: https://www.sixthtone.com/news/1008142/watching-the-watchers
@@ -11983,6 +12006,22 @@ Some coverage:
 
 .<<chloe-zhao>> holding the 2021 Oscars for best director and best film. The fact that she won was censored in China because she made one single negative comment about the CCP in 2013.
 image::{china-dictatorship-media-base}/Chloe_Zhao_won_93rd_Oscar.jpg[height=500]
+
+[[cai-xia]]
+==== Cai Xia (蔡霞)
+
+* https://en.wikipedia.org/wiki/Cai_Xia
+* https://zh.wikipedia.org/wiki/蔡霞
+* https://chinadigitaltimes.net/space/Cai_Xia by <<china-digital-times>>
+* https://twitter.com/realcaixia
+
+Retired teacher at <<central-party-school>> living in the USA.
+
+She criticized <<xi-jinping>> in private online meeting, and the audio was leaked: https://www.youtube.com/watch?v=hEBHVsHlPeI
+
+* 2021-08-02 https://www.hoover.org/sites/default/files/research/docs/xia_chinausrelations_web-ready.pdf China-US Relations in the Eyes of the Chinese Communist Party, published by <<hoover-institution>>
+* 2020-08-21 https://www.taiwannews.com.tw/en/news/3992140 she was expelled from from the CCP, and she said she was happy.
+* 2020-06-12 https://chinadigitaltimes.net/2020/06/translation-former-party-professor-calls-ccp-a-political-zombie/ "TRANSLATION: FORMER PARTY PROFESSOR CALLS CCP A 'POLITICAL ZOMBIE'" by <<china-digital-times>>
 
 [[xu-zhangrun]]
 ==== Xu Zhangrun (许章润)
@@ -15063,6 +15102,22 @@ http://ftp.iza.org/dp3214.pdf suggests that a 1% increase in the male/female sex
 ."Children: the cause of crime" spoof poster by <<scarfolk-council>> (2017). Applies perfectly to <<xinjiang>> forced abortion accusations. The <<one-child-policy>> also comes to mind. https://scarfolk.blogspot.com/2017/05/children-cause-of-all-crime.html[Source].
 image::{china-dictatorship-media-base}/Scarfolk_children_the_cause_of_crime.jpg[height=500]
 
+[[five-poisons]]
+=== Five poisons (五毒)
+
+* https://en.wikipedia.org/wiki/Five_Poisons
+* https://zh.wikipedia.org/wiki/五毒大神
+
+CCP version according to Wikipedia:
+
+* <<xinjiang>>
+* <<taiwan>>
+* <<falun-gong>>
+* <<tibet>>
+* <<democracy>>
+
+It is not however clear that there are any CCP sources saying that. It is mostly referred to in Falun Gong sources. Proof?
+
 [[core-socialist-values]]
 === Core socialist values (社会主义核心价值观)
 
@@ -15741,6 +15796,9 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
 * 2022-05 bytedance.feishu.cn 3 people to repo https://github.com/cirosantilli/china-dictatorship
+  * 2022-06-03 8 links from bytedance.feishu.cn to https://cirosantilli.com/cirosantilli Perhaps interested in Ciro's recent clear disclosure that he was in Cambridge in 2017? Two of them have identifiers:
+    * /sheets/shtcn2QYfP4Cp251gHLmHWhEXZ
+    * /sheets/shtcnoC1x3gH7fem7Nqvz0StBTb
 * 2022-04-29 https://www.reddit.com/r/ADVChina/comments/uepsnh/found_this_on_github_a_repository_that_seems_to/ Found this on Github, a repository that seems to be run by Chinese human rights dissidents. Lots of CCP FAQ, news, and other useful information.
 * 2022-03-14 zhttps://91ai.net/thread-983734-1-1.html from <<zhao-heming>>
 * 2022-03-12 https://news.ycombinator.com/item?id=30649938 a failed Y combinator attempt. Sad. Maybe https://github.com/sturza
@@ -20190,14 +20248,17 @@ Major violations:
 * https://en.wikipedia.org/wiki/Iraq_War
 * https://zh.wikipedia.org/wiki/伊拉克战争
 
-This had purely political/strategic motivations. They had to fake intelligence in order to justify the war by saying that Iraq had weapons of mass destruction:
+This had purely political/strategic motivations. They had to fake intelligence in order to justify the war by saying that Iraq had weapons of mass destruction, and they went against the UN. A geopolitical disaster!
 
 * https://en.wikipedia.org/wiki/Senate_Report_on_Pre-war_Intelligence_on_Iraq
 * https://www.theguardian.com/world/2004/jul/09/usa.iraq2
 * https://en.wikipedia.org/wiki/Rationale_for_the_Iraq_War
-* Katharine Gun
+* Katharine Gun leaked GCHQ information showing that the Americans were trying to use intelligence to pressure UN leaders to support them...
 ** https://en.wikipedia.org/wiki/Katharine_Gun
 ** https://en.wikipedia.org/wiki/Official_Secrets_(film)[Official Secrets (2019)]
+* https://en.wikipedia.org/wiki/Casualties_of_the_Iraq_War 100,000 vioent deaths at the very minimum
+* https://en.wikipedia.org/wiki/Legality_of_the_Iraq_War
+** https://en.wikipedia.org/wiki/United_Nations_Security_Council_and_the_Iraq_War
 
 [[guantanamo-bay]]
 ==== Guantanamo bay (关塔那摩湾拘押中心)
