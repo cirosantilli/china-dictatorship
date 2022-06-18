@@ -1571,6 +1571,10 @@ ____
 
 When China <<evil-west,calls the USA Imperialist>> (帝国主义), there is of course some truth to it, but it is also very ironic, because as https://youtu.be/GiVs05yq9-o?t=74[Lindybeige mentions], China is obviously the largest empire on Earth! Despite its <<xinjiang,uniformization>> efforts, China is highly diverse since it is obviously made up of a https://en.wikipedia.org/wiki/List_of_ethnic_groups_in_China[large stitched up carpet of nations that were conquered by a single empire]. E.g. <<xinjiang>> translates literally as "The New Frontier"! Not to mention obviously the unification of the <<warring-states-period>>.
 
+Bibliography:
+
+* https://www.telegraph.co.uk/world-news/2022/06/14/xi-jinpings-approval-non-war-military-use-raises-fears-taiwan/ Xi Jinping signs directive allowing for 'non-war' uses of the military - a tactic similar to that used by Russia before it invaded Ukraine
+
 .https://www.youtube.com/watch?v=DRmHOSnehTk Ending of the https://en.wikipedia.org/wiki/Sportpalast_speech[Sportpalast speech], AKA https://en.wikipedia.org/wiki/Total_war[total war] (https://zh.wikipedia.org/wiki/总体战[总体战]) speech by <<nazi,Goebbels>>, given in 1943, when Germany started to lose the war. This was later target of https://en.wikipedia.org/wiki/File:8th_Air_Force_psychological_warfare_leaflet.jpg[opposing allied propaganda]. Total war, that's what <<dictatorship,dictatorship>> bring you. Fucking YouTube <<unjust-social-media-censorship-in-the-west,likely deleted>> a better uncommented version https://www.youtube.com/watch?v=DRmHOSnehTk it as of 2022, political <<politically-incorrect,correctness idiots>>.
 video::DRmHOSnehTk[youtube,height=400,width=600]
 
@@ -1675,7 +1679,7 @@ image::{china-dictatorship-media-base}/Rebel_pepper_pig_can%27t_eat_democracy_ca
 image::{china-dictatorship-media-base}/Shut_up_and_take_my_freedom.jpg[height=400]
 
 .https://knowyourmeme.com/memes/shut-up-and-take-my-money[Shut up and take my freedom] meme by <<ciro-santilli>> translated to Chinese: "什么都别说了，拿走我的自由".
-image::{china-dictatorship-media-base}/Shut_up_and_take_my_freedom_zh.jpg[height=400]
+image::{china-dictatorship-media-base-ignore}/Shut_up_and_take_my_freedom_zh.jpg[height=400]
 
 [[corruption]]
 ==== Democracies have less corruption than dictatorships (民主国家的腐败比独裁国家少)
@@ -10920,6 +10924,7 @@ Good photo selections:
 * 2014 http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/ (https://web.archive.org/web/20190607142501/http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/[archive]) a few gory photos
 * 2015 https://allthatsinteresting.com/tiananmen-square-massacre "The Hidden History Of The Tiananmen Square Massacre"
 * 2019 https://www.buzzfeednews.com/article/gabrielsanchez/pictures-tiananmen-square-anniversary "These Horrifying Pictures Show The Tiananmen Square Protests Like You've Never Seen Them"
+* 2019 https://wtop.com/media-galleries/2019/05/30-years-ago-tiananmen-square-protests/
 * 2020 https://nsfw.xxx/post/tiananmen-square-masacre-photos-3394466?page=1 has some decent gore. Original post: https://www.reddit.com/r/MorbidReality/comments/h828c1/tiananmen_square_masacre_photos/
 * 2021 https://www.magnumphotos.com/newsroom/the-making-of-icons/ by Stuart Franklin himself
 * https://netalert.me/june-four.html
@@ -13802,6 +13807,11 @@ https://gist.github.com/yefuchs/4648713 "GFW Contributers" has a list of people 
 
 Source: the first International email sent from China in 1987 by https://zh.wikipedia.org/wiki/王运丰[Wang Yunfeng (王运丰)] in the Beijing-based Institute for Computer Application (ICA) of the China Ordnance Industry Corporation under the https://zh.wikipedia.org/wiki/中华人民共和国机械电子工业部[Ministry of Machinery and Electronics of the People's Republic of China (中华人民共和国机械电子工业部)] to https://en.wikipedia.org/wiki/Werner_Zorn[Werner Zorn] from the https://en.wikipedia.org/wiki/Karlsruhe_Institute_of_Technology[Karlsruhe Institute of Technology] see also: https://en.wikipedia.org/wiki/Internet_in_China[].
 
+____
+终有一天，墙会倒塌。 然后我们会看到彼此的真实面目。 +
+One day, the wall will fall. And then we will see one another for what we really are.
+____
+
 [[beiqiang]]
 ===== To be walled off (被墙)
 
@@ -14357,6 +14367,7 @@ On 2020-09-07, <<mirrors,cirosantilli.com/china-dictatorship>>'s Google Analytic
 
 * 2020-10-14 http://jbcz.12377.cn/report/load/operate.index[]
 * 2021-05-18 https://jbcz.12377.cn to https://cirosantilli.gitlab.io/china-dictatorship[] <<mirrors>>. On same day also a hit from http://123.125.45.236:9007[], that appears to be an IP in China.
+** 2021-06-08 had another hit from 123.125.45.236:9007 to https://cirosantilli.com/cirosantilli[], a page that does not exist. Must be some weird routing of theirs. This after some bytedance.feishu.cn hist.
 * 2021-07-28 5 hits unique visit from http://jbcz.12377.cn/report/load/operate.index and http://jbcz.12377.cn/report/load/readonly.index
 * 2021-08-01 http://jbcz.12377.cn/report/load/operate.index[] to https://cirosantilli.com/ and https://www.unpkg.com/china-dictatorship@0.0.74/README.html
 
@@ -15852,6 +15863,7 @@ ____
 * 2021-08-13 https://www.kdocs.cn/ to https://github.com/cirosantilli/cirosantilli[]. That's a Google Docs clone it seems. Used by the Chengdu government. Chinese name: 金山文档 (golden mountain documents). Also had 50 unique cloners on 11 and 12th. Is it <<github-gov-takedowns>> time at last??
 * 2021-07-22 http://se.warning.360.cn/warn/ to https://cirosantilli.com/ after adding keywords to page header. This is from <<qihoo>>, a security/spyware company.
 * 2021-07 http://https--github--com--e3919.proxy.xianning.gov.cn/topics/chinese-communist-party[], presumably viewing https://github.com/topics/chinese-communist-party[]. Saw it http://webcache.googleusercontent.com/search?q=cache:5qHGJxZncvUJ:https--github--com--e3919.proxy.xianning.gov.cn/topics/chinese-communist-party+&cd=8&hl=en&ct=clnk&gl=uk&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW&client=ubuntu[on Google cache], semi viewable at https://archive.ph/wip/2qVIX[], but not rendering very well
+  * In 2022-06, we've received a report of https://github--com.proxy.guilin.gov.cn/cirosantilli/china-dictatorship also working: https://github.com/cirosantilli/china-dictatorship/pull/835[]. It appears that those links are actually publicly visible in China then.
 * 2021-05-07 https://twitter.com/dingyi/status/1390861129191071754 (https://archive.ph/fS1TF[archive]) link to github.com/china-dictatorship commenting "Github 竟然还有这种项目。。。" (I'm surprised that there's still this kind of project on GitHub). Account had 150k followers at the time. What do they do to have so many followers? As of 2021-05-14, three days later after Ciro replied on 2021-05-11, the account had been made protected: https://archive.ph/davkj This is the <<chilling-effect>>, self-<<censorship,censor>> or perish. It was later un-protected. https://newsletter.dex.group/about/ says their DEX is a sort of online magazine. GitHub profile: https://github.com/dingyi
 * 2021-04-16 https://manti.netease.com/ from <<netease>> to https://cirosantilli.com/china-dictatorship can't find any information on it.
 * 2021-03-08 https://us3124.scholar.eu.org to GitHub repo. Redirects to: https://www.library.ac.cn/ip.html?f=us3124 which is a 403 "Your IP is not allowed to visit this site.
