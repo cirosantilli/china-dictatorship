@@ -27,6 +27,7 @@ https://raw.githack.com/cirosantilli/china-dictatorship/gh-pages/index.html[raw.
 https://cdn.statically.io/gh/cirosantilli/china-dictatorship/gh-pages/index.html[cdn.statically.io],
 https://xenodochial-heisenberg-0fc0f1.netlify.app/[cirosantilli.netlify.app],
 https://china-dictatorship.onrender.com/[china-dictatorship.onrender.com]
+https://github--com.proxy.guilin.gov.cn/cirosantilli/china-dictatorship[https://github--com.proxy.guilin.gov.cn/cirosantilli/china-dictatorship]
 |
 下载 HTML download:
 https://raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html[raw.githubusercontent.com],
