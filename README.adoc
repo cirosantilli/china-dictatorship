@@ -755,6 +755,7 @@ Related:
 
 * 2022-03-14 https://91ai.net/thread-983734-1-1.html 真是遇了狗了搜播放器 搜到个狗 One of the comments suggests that the sponsors are a considerable ammount. Poor newbie, Ciro's sponsors are 20 dollars/month as of writing in 2022. Related: <<ccp-apologists>>.
 * https://github.com/github/feedback/discussions/12800 Polluted search results by ThebestkillerTBK
+* https://github.com/github-community/community/discussions/18862 by https://github.com/LyLme
 
 === Bot + issue mention attack
 
