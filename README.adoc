@@ -423,6 +423,8 @@ which is more lightweight and pushes just to GitHub and GitLab Pages, so we are 
 
 There is no need to update package versions or add git tags, all of that gets done automatically by the script!
 
+See also: <<protestware>>.
+
 [[github-proxies]]
 ==== GitHub proxies (GitHub的代理)
 
@@ -1009,6 +1011,13 @@ https://www.theregister.com/2019/05/10/amazon_backtracks_on_s3/ clarifies that o
 * `https://<bucket_name>.s3.amazonaws.com/<object_key_name>`
 
 the second of which can be easily blocked by domain, but the first can't, and how amazon was planning on killing the first option.
+
+===== Protestware
+
+Notably our <<software-package-mirrors>>:
+
+* https://github.com/open-source-peace/protestware-list
+* https://techcrunch.com/2022/07/27/protestware-code-sabotage/
 
 [[dual-use-technology]]
 ===== Dual-use technology (军民两用技术)
@@ -1953,7 +1962,7 @@ E.g. people in the West are brainwashed to believe in democracy, freedom of spee
 
 <<ciro-santilli>> doesn't doubt that Chinese people know more about China than him.
 
-Saying that "someone is not Chinese, he does not understand China", is just an useless https://en.wikipedia.org/wiki/Ad_hominem[ad hominem] argument and closely related to <<not-chinese>>.
+Saying that "someone is not Chinese, he does not understand China", is just an useless <<ad-hominem>> argument and closely related to <<not-chinese>>.
 
 Since you know so much about China, why  why don't you just actually prove your point by teaching Ciro one single interesting about China that Ciro didn't know about? He loves learning new things.
 
@@ -1961,7 +1970,10 @@ But please, link to reference material instead of just saying it, it will be muc
 
 But if you are Chinese, also consider that you have been brainwashed by the commies, so likely much more than Ciro since you live in a dictatorship.
 
-See also: <<western-democracies-are-not-perfect>>.
+See also:
+
+* <<western-democracies-are-not-perfect>>.
+* <<ad-hominem>>
 
 [[evil-west]]
 ==== The CCP exaggerates the threat of the West to keep in power (中共夸大了西方要继续掌权的威胁)
@@ -2558,6 +2570,8 @@ If you just work to make money and have a good life, without any plans to improv
 
 [[stability]]
 ====== If anyone disagrees with the government they must be punished to keep the stability of the country (如果有人不同意政府，他们必须受到惩罚以保持国家的稳定)
+
+The most possible stable state is a <<dictatorship>> like <<nazi,Nazi Germany>>. Except for the part where they try to take over the world and fail. This is exactly what China is becoming: the freaking <<fourth-reich>>.
 
 Destroying diversity is the best way to reach a point where everyone can agree to start <<war,a new big war and destroy everything>>.
 
@@ -3319,6 +3333,14 @@ In China, a popoular expression for "Long Live" is "万岁", which means "live f
 
 This comes from old Imperial times, but applies perfectly to the Nazi/CCP analogy.
 
+[[fourth-reich]]
+===== Fourth Reich (希特勒只有一个蛋, 1939)
+
+* https://en.wikipedia.org/wiki/Fourth_Reich
+* https://zh.wikipedia.org/wiki/第四帝國
+
+Neo-Nazis thought they might be the ones. Skinhead newbs. China beat them to it by a mile.
+
 [[borg]]
 ==== China is like the Borg from Star Trek (博格 (星际旅行和中共长得很想)
 
@@ -3676,7 +3698,7 @@ Ciro's <<does-ciro-santilli-speak-chinese>> was mentioned in a related Zhihu ans
 [[radical]]
 ==== Is Ciro Santilli a radical? (三西猴是激进分子吗？)
 
-Saying that someone is a radical is useless <<brainwashed-by-usa,ad hominem>>.
+Saying that someone is a radical is useless <<ad-hominem>>.
 
 If you want to say something useful, give specific reasons why you think one specific thing that <<ciro-santilli>> said is incorrect.
 
@@ -3704,12 +3726,17 @@ Or maybe: link:https://www.youtube.com/watch?v=efHCdKb5UWc[The Dark Knight - Som
 [[ciro-santilli-is-stupid]]
 ==== Ciro Santilli is stupid (三西猴是个傻瓜)
 
+<<ad-hominem>>.
+
 D E E P: https://github.com/cirosantilli/china-dictatorship/labels/you-are-stupid-argument
+
+Feel free to publish any proof of your own incredible intelligence.
+
+[[ad-hominem]]
+===== Ad hominem (訴諸人身)
 
 * https://en.wikipedia.org/wiki/Ad_hominem
 * https://zh.wikipedia.org/wiki/訴諸人身
-
-Feel free to publish any proof of your own incredible intelligence.
 
 ==== Is Ciro Santilli a SJW?
 
@@ -3865,8 +3892,7 @@ No, he is not angry at all, see also: <<harm-programmers>>.
 [[funded-by-cia]]
 ===== Is Ciro Santilli's china-dictatorship campaign funded or otherwise supported by some organization? 谁收买三西猴散布关于中国的谣言？
 
-
-Sure, the CIA sends Ciro 10 thousand USD checks from time to time, but that doesn't change at all what he would be doing.
+Sure, the CIA sends <<ciro-santilli>> 10 thousand USD checks from time to time, but that doesn't change at all what he would be doing.
 
 And sometimes the NSA, FBI, MI6, MI5, Mossad, Al-Qaeda and ISIS also pitch in a bit depending on their needs.
 
@@ -3876,11 +3902,19 @@ Just kidding.
 
 A shady supporting organization might require that he does not disclose their support, so maybe the best answer is that you will never know for sure.
 
-Of course, a hidden support would represent a reputation hit for both such organizations and for me, which makes it less likely that I would have accepted or had such an offer.
+Of course, a hidden support would represent a reputation hit for both such organizations and for Ciro, which makes it less likely that I would have accepted or had such an offer.
 
 Also consider Ciro's motivation. If your <<ciro-santilli-mother-in-law-jail,mother in law were put into jail unfairly for 15 days>>, for following the same religion that <<flg-bias,your wife follows>>, and if you had a social media presence, wouldn't you be tempted to do the same?
 
 What about you, are you funded by the CCP?
+
+The fact that Ciro Santilli is obviously a real full time software engineer based on his open source contributions, and so does not need government funding, is perhaps the single greatest advantage of not having carried this campaign anonymously:
+
+* https://www.linkedin.com/in/cirosantilli/
+* https://stackoverflow.com/users/895245
+* https://github.com/cirosantilli
+
+It's nothing world breaking, but it is at a level where it simply cannot be faked.
 
 See also: https://github.com/cirosantilli/china-dictatorship/blob/48a95bf57a16b85619a6ae68702d18c9a5078797/FAQ.md#flg-has-been-funded-by-the-us-government-at-least-once-therefore-it-is-evil
 
@@ -4481,7 +4515,7 @@ Report website launched in 2018 https://www.12339.gov.cn/[], some coverage:
 
 The Chinese army, and also one of the central intelligence agencies, notably on cyberattacks.
 
-As highlighted on <<the-gate-of-heavenly-peace-1995>> 1:41, the PLA were heroes of the people, as their name indicates. But when they stepped into Tiananmen, some of that was lost.
+As highlighted on <<the-gate-of-heavenly-peace-1995>> 1:41, the PLA were really thought of as heroes of the people, partly due to Mao-era propaganda, as their name indicates. But when they stepped into Tiananmen, some of that was lost.
 
 .A Chinese soldier smashes bricks on a colleague's head during joint Chinese-<<india>> anti-terrorism exercises in Kunming in 2007. http://mil.news.sina.com.cn/2014-02-26/0954766058.html from <<sina>> give the Chinese term "油锤贯顶". https://nastyhobbit.org/details.php?image_id=370[Source]. https://sinosphere.blogs.nytimes.com/2014/02/24/military-brick-breaking-demonstrations-face-the-chop/[Better source with worse image quality].
 image::{china-dictatorship-media-base}/PLA_soldier_breaking_bricks_on_head.jpg[height=400]
@@ -4637,7 +4671,7 @@ ____
 * 2019-01-04 https://www.scmp.com/news/china/article/2180620/linkedin-adhering-beijings-rules-censors-chinese-profile-page-us-based "LinkedIn reverses course after censoring Chinese profile page of US-based human rights activist Zhou Fengsuo", see also: <<zhou-fengsuo>>
 * 2014-06-04 https://money.cnn.com/2014/06/04/technology/linkedin-china-censorship/ "LinkedIn draws fire for China censorship" mentions: "Some LinkedIn (LNKD) users have received emails from the company in recent days informing them that their posts will not be shown in mainland China."
 
-.3 days after <<ciro-santilli>> put up anti-CCP messages on his LinkedIn, the account was banned in China. They are quite efficient. <<zhou-fengsuo>> had notably https://www.buzzfeednews.com/article/meghara/china-linkedin-zhou-fengsuo[previously achieved this]. Another report by a https://www.buzzfeednews.com/article/meghara/linkedin-censorship-peter-humphrey[Peter Humphrey].
+.3 days after <<ciro-santilli>> put up anti-CCP messages on his LinkedIn: https://www.linkedin.com/in/cirosantilli[], the account was banned in China. They are quite efficient. <<zhou-fengsuo>> had notably https://www.buzzfeednews.com/article/meghara/china-linkedin-zhou-fengsuo[previously achieved this]. Another report by a https://www.buzzfeednews.com/article/meghara/linkedin-censorship-peter-humphrey[Peter Humphrey].
 image::{china-dictatorship-media-base}/Ciro_Santilli_LinkedIn_China_ban.png[height=600]
 
 [[chinese-interference-in-western-media]]
@@ -4877,6 +4911,12 @@ News and reports:
 China's "Diaspora management" organ.
 
 The likely organizers behind <<confucius-institute>>, <<cssa>>, and likely several forms of <<astroturfing>>.
+
+[[united-front]]
+===== United Front (政治协商制度)
+
+* https://en.wikipedia.org/wiki/United_Front_(China)
+* https://zh.wikipedia.org/wiki/中国共产党领导的多党合作和政治协商制度
 
 ==== Astroturfing
 
@@ -10090,21 +10130,6 @@ https://answersafrica.com/meet-xi-mingze-xi-jinpings-daughter-is-she-married-whe
 
 Master issue: https://github.com/cirosantilli/china-dictatorship/issues/231
 
-Funny names:
-
-* 習包子: https://languagelog.ldc.upenn.edu/nll/?p=29230 says:
-+
-____
-Xi Jinping got his nickname as "Xi baozi 習包子" ("<<buns,steamed stuffed bun Xi>>") due to the much publicized visit he made to the famous Qìngfēng bāozi pù 庆丰包子铺 ("Qingfeng baozi shop") in Beijing. During and after his visit to the shop, media swarmed over the place and were eager to portray an image of Xi as being down to earth and close to the people. Those who dislike Xi use this nickname sarcastically against him for being a hick and for hypocritically "putting on a show" (zuòxiù 作秀).
-____
-+
-See also: <<buns>>.
-* 大撒币: https://languagelog.ldc.upenn.edu/nll/?p=29230 says:
-+
-____
-It can be translated as "big spender," a play on the literal translation of the words sā bì 撒币 "throw money" and "stupid cunt" (shǎ bī 傻逼). The nickname takes aim at the economic aid Xi has promised to foreign countries; the moniker is so widely used on Chinese social media that the censors' repressive measures only draw more attention to it, and to the criticism embedded within it.
-____
-
 Other images:
 
 * 2022 https://twitter.com/Stalingrad_Poor/status/1493620788703862784/photo/1 good template with <<xi-jinping>>, <<putin>> and <<north-korea,Kim Jong-un>> smkirking on the phone from when Trudeau has smashing down on <<covid,anti vaccince protests>>
@@ -10124,6 +10149,19 @@ image::{china-dictatorship-media-base}/Biden_sanctions_vs_Xi_Jinping_tech_crackd
 
 [[xi-jinping-nicknames]]
 ===== Xi Jinping nicknames (习近平昵称)
+
+* 習包子: https://languagelog.ldc.upenn.edu/nll/?p=29230 says:
++
+____
+Xi Jinping got his nickname as "Xi baozi 習包子" ("<<buns,steamed stuffed bun Xi>>") due to the much publicized visit he made to the famous Qìngfēng bāozi pù 庆丰包子铺 ("Qingfeng baozi shop") in Beijing. During and after his visit to the shop, media swarmed over the place and were eager to portray an image of Xi as being down to earth and close to the people. Those who dislike Xi use this nickname sarcastically against him for being a hick and for hypocritically "putting on a show" (zuòxiù 作秀).
+____
++
+See also: <<buns>>.
+* 大撒币: https://languagelog.ldc.upenn.edu/nll/?p=29230 says:
++
+____
+It can be translated as "big spender," a play on the literal translation of the words sā bì 撒币 "throw money" and "stupid cunt" (shǎ bī 傻逼). The nickname takes aim at the economic aid Xi has promised to foreign countries; the moniker is so widely used on Chinese social media that the censors' repressive measures only draw more attention to it, and to the criticism embedded within it.
+____
 
 * https://www.vice.com/en/article/bvmnnd/adolf-xitler-banned-nicknames-for-chinas-president-exposed-in-leaked-censor-list
 * https://chinadigitaltimes.net/space/小红书审查百科：习近平敏感词库
@@ -12165,6 +12203,7 @@ Man: <<pla,PLA>> officers and soldiers, I beg you, and as a student representati
 Woman: Do you know?! What are we doing you know?! Brothers in the People's Liberation Army, you protect the people and students, you can't come to suppress them, you can't do this, you can't do this!
 ____
 
+[[tiananmen-pla-plea]]
 .https://www.youtube.com/watch?v=QrU-h3-Sof4 A man and a woman people plea the <<pla>> to not attack the protesters on 1989-05-20. From <<the-gate-of-heavenly-peace-1995>> at around 1:39:20.
 video::CVpcyfHc34Q[youtube,height=400,width=600]
 
@@ -12494,6 +12533,38 @@ Some songs:
 * https://www.youtube.com/watch?v=HjhuBM6zsvI&t=108s Twitter Party song (2017, 推特党之歌) Appears to be a tribute to Chinese people who jump the <<gfw>>.
 * https://www.youtube.com/watch?v=oxgK0t2sVGw tribute to the 玫瑰团队 (Rose Team), apparently a human rights group in China
 
+[[tiananmen-was-necessary]]
+=== It is becauase the CCP put down Tiananmen that China is the wonderful place it is today? (是因为中共平定了天安门事件，中国才有今天这样美好的地方吗？)
+
+Exact the same discussion as:
+
+* <<democracy>>
+* <<stability>>
+* <<not-interested-in-politics>>
+
+[[protester-violence]]
+=== CCP soldiers were killed in Tiananmen by protesters, therefore the students are wrong (中共士兵在天安门被抗议者杀害，学生错了)
+
+It is basically impossible to put things better than <<tiananmen-pla-plea,Tiananmen PLA plea>>. The soldiers should support the pople. Not the ruling dictators.
+
+Individual deaths are all a disaster, on both sides. As perfectly put in the <<tank-man-song>>:
+
+____
+谁挡了谁的路 +
+Who is standing on whose way? +
+
+谁是谁的敌人 +
+Who is whose enemy? +
+
+谁是正义一方 +
+Who is on the side of the righteous? +
+
+谁是历史罪人 +
+And who are the enemies of History? +
+____
+
+Same discussion as: <<violence>>.
+
 [[tiananmen-square-protests-keywords]]
 === Tiananmen Square Protests keywords (天安门广场抗议关键词)
 
@@ -12515,6 +12586,31 @@ Lists: https://qz.com/1618805/the-1989-tiananmen-student-leaders-on-chinas-most-
 ** creator <<memo64>>
 ** Twitter: https://twitter.com/FengCongde[]. Retweeted Ciro's CC BY SA <<tank-man>> arts:
 ** https://twitter.com/cirosantilli2/status/1352936697420509184/retweets
+
+[[tiananmen-leaders-corrupt]]
+==== Tiananmen student leaders went to USA and are living just fine (天安门学生领袖去了美国，生活还不错)
+
+Ah, if only <<wumao,wumaos>> had brains:
+
+* some were executed
+* some went to prison and remained in China
+* some managed to escape
+* some who managed to escape became part of a American propaganda
+
+Does that make the entire movement wrong?
+
+Why would they stay in China to be thrown in jail or killed, and then have a shitty job until they die?
+
+There were <<tiananmen-sea-of-protesters,a million people in Tiananmen>>. We can see it in photos. There was huge desire for democracy.
+
+Doesn't the CCP invest billions annually in propaganda and <<internal-censorship>>? Notably in paying <<ccp-apologists>>?
+
+Think <<wumao,wumaos>>, think.
+
+Related:
+
+* <<many-people-say-they-do-falun-gong-only-to-get-visas-to-the-usa>>
+* <<funded-by-cia>>
 
 [[operation-yellowbird]]
 ==== Operation Yellowbird (黄雀行动)
@@ -12760,7 +12856,6 @@ Other dissidents:
 ** real chinese name from: from https://hk.appledaily.com/china/20201222/AZMBHJHIJZGADMK76Z54M6O6IE/
 ** TODO Twitter handle if it wasn't entirely deleted?
 ** https://www.youtube.com/channel/UCsbdz3lXyyvBz7hMDNXHT7w
-* 
 * https://www.rfa.org/english/news/china/monitor-08182020091653.html "Jailed <<wechat>> User Says Chinese Police Monitor Overseas Accounts Too". Gao Zhigang.
 * https://en.wikipedia.org/wiki/Chen_Guangcheng[Chen Guangcheng] (陈光诚). The blind dude. https://www.youtube.com/watch?v=zDqYMXxH09Y "Chinese dissident tells story of escaping tyranny and finding hope in America" by "Fox News" (2020-08-26) supporting Trump's reelection.
 * 2021-08 Ge Yulu staring into security cameras: https://www.sixthtone.com/news/1008142/watching-the-watchers
@@ -15759,12 +15854,18 @@ When they write in Chinese, it is much harder to know if they are paid or not, m
 * <<zhao-heming>>
 
 [[internet-water-army]]
-===== Internet Water Army (网络水军)
+===== Internet Water Army (网络水军, DDP, 1450)
 
 * https://en.wikipedia.org/wiki/Internet_Water_Army
 * https://zh.wikipedia.org/wiki/網絡打手
 
 Basically private <<wumao,wumaos>>, rather than <<ccp>> paid ones.
+
+1450 is a reference to a publicly known budget allocated to them of 14.5 million New Taiwan dollar ($485k as of 2022) in 2019: https://www.quora.com/What-does-Taiwan-1450-mean/answer/Shannon-Fu-5
+
+Chinese <<wumao,wumaos>>, love to criticize that, e.g. see: https://github.com/cirosantilli/china-dictatorhsip-4/issues/17[], it is a very thing funny to see, considering that China's wumao system must be at least 1000x larger.
+
+* https://www.quora.com/What-does-Taiwan-1450-mean
 
 [[ccp-apologists]]
 ===== CCP apologists (中共辩护士)
@@ -16960,6 +17061,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2022-07-20 https://support.github.com to <<meant-to-be-used>>. GitHub is on Ciro's side.
 * 2022-05 bytedance.feishu.cn 3 people to repo https://github.com/cirosantilli/china-dictatorship
   * 2022-06-03 8 links from bytedance.feishu.cn to https://cirosantilli.com/cirosantilli Perhaps interested in Ciro's recent clear disclosure that he was in Cambridge in 2017? Two of them have identifiers:
     * /sheets/shtcn2QYfP4Cp251gHLmHWhEXZ
@@ -20774,10 +20876,12 @@ video::8Lh444CFXxs[youtube,height=400,width=600]
 [[putin-riding-things]]
 ===== Putin riding things (Путин верхом на вещах)
 
-TODO: Photoshoppers, PLEASE, on the <<gay-putin>> vein:
+TODO: Photoshoppers, PLEASE
 
-* Putin riding <<alexander-lukashenko>>
-* Putin riding Medvedev, see also: <<gay-putin-gay-medvedev,Gay Putin and Gay Medvedev>>
+* on the <<gay-putin>> vein:
+** Putin riding <<alexander-lukashenko>>
+** Putin riding Medvedev, see also: <<gay-putin-gay-medvedev,Gay Putin and Gay Medvedev>>
+* Putin riding an NLAW, the anti-tank weapon that used to much effect against Russia in the <<russo-ukrainian-war>>
 
 We just need to use some https://cirosantilli.com/gay-porn-meme[gay porn meme].
 
