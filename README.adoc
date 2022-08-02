@@ -510,6 +510,8 @@ Mentioned in other sections:
 * https://github.com/zhangrunxu/zhangrunxu.github.io from <<xu-zhangrun>>
 * <<anti-video-game-ban-tools>>
 * https://github.com/hmsjy2017/Google-Mirrors from <<google-mirrors>>
+* from <<censorship-circumvention>>:
+** https://github.com/ZGQ-inc/overthefirewall
 
 Possibly not censored, but sensitive:
 
@@ -16336,6 +16338,7 @@ TODO origin of the <<slang,slang>> 科学上网 (Scientific Internet access) ter
 
 Lists:
 
+* https://github.com/ZGQ-inc/overthefirewall this seems to be a curated list of Censorship circumvention options. On GitHub Pages at: https://zgq-inc.github.io/overthefirewall/[]. Mentioned at: https://github.com/cirosantilli/china-dictatorship/issues/1284[].
 * https://github.com/net4people/bbs[]. Added mention at: https://github.com/cirosantilli/china-dictatorship/issues/1265
 +
 ____
