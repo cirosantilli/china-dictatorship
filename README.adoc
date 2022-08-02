@@ -13573,6 +13573,10 @@ Related sections:
 
 * <<other-openly-dissident-users-on-stack-overflow>>
 
+Not mentioned in other sections:
+
+* 王苗森 https://www.miaosenwang.com/[], https://x.com/dieccp1[], https://www.youtube.com/@miaosenwang[]
+
 [[chinese-dissidents]]
 === Chinese dissidents (中国持不同政见者)
 
@@ -16531,6 +16535,7 @@ On 2020-09-07, <<mirrors,cirosantilli.com/china-dictatorship>>'s Google Analytic
 * 2020-10-14 http://jbcz.12377.cn/report/load/operate.index[]
 * 2021-05-18 https://jbcz.12377.cn to https://cirosantilli.gitlab.io/china-dictatorship[] <<mirrors>>. On same day also a hit from http://123.125.45.236:9007[], that appears to be an IP in China.
 ** 2021-06-08 had another hit from 123.125.45.236:9007 to https://cirosantilli.com/cirosantilli[], a page that does not exist. Must be some weird routing of theirs. This after some bytedance.feishu.cn hist.
+** 2024: the IP 123.125.45.236 was confirmed by another dissident whose website got blocked as well
 * 2021-07-28 5 hits unique visit from http://jbcz.12377.cn/report/load/operate.index and http://jbcz.12377.cn/report/load/readonly.index
 * 2021-08-01 http://jbcz.12377.cn/report/load/operate.index[] to https://cirosantilli.com/ and https://www.unpkg.com/china-dictatorship@0.0.74/README.html
 
