@@ -79,6 +79,8 @@ Each summary section contains a link to the main section, which contains sources
 
 https://cirosantilli.com/china-dictatorship/programthink
 
+https://github.com/cirosantilli/china-dictatorship/issues/980
+
 image::{china-dictatorship-media-base}/Programthink.jpg[height=800]
 
 **社会主义核心价值观 Core socialist values**
@@ -446,6 +448,7 @@ See also: <<protestware>>.
 
 Another source of China-specific mirroring of this project are GitHub proxies, https://linuxpip.org/github-in-china/ contains an overview:
 
+* https://hub.fgit.ml/ this one is quite professional, offering paid access plans for better performance as seen at https://fgit.ml
 * https://hub.fastgit.org/ this appears to auto-redirect to GitHub from non-Chinese IPs, but presumably shows the pages for Chinese IPs, e.g. we had hits from http://hub.fastgit.org/cirosantilli/china-dictatorship[] in 2021-03-25. This happened soon after SEO optimizations mentioned at: <<zhao-heming>> and might be related.
 +
 At https://github.com/cirosantilli/china-dictatorship/issues/945 for some incomprehensible reason, user https://github.com/StarOnTheSky claiming to be from the fastgit team asked mentions of fastgit to be removed from this repository, menacing to report to <<github-report>> otherwise.
@@ -2886,6 +2889,7 @@ Some others:
 
 * too many people in jail in the USA:
 ** https://en.wikipedia.org/wiki/Incarceration_in_the_United_States
+** https://en.wikipedia.org/wiki/File:World_map_of_prison_population_rates_from_World_Prison_Brief.svg
 ** https://zh.wikipedia.org/wiki/美国监禁制度
 ** https://github.com/cirosantilli/china-dictatorship/issues/938
 ** https://incarceration-in-real-numbers.metastem.su/
@@ -2895,6 +2899,7 @@ Some others:
 *** 2016 but very small https://www.amnesty.org.uk/press-releases/global-executions-down-more-third-death-sentences-record-high-new-report
 *** 2014 CC BY-SA https://www.independent.co.uk/news/world/politics/which-countries-execute-the-most-people-chilling-new-map-reveals-china-and-iran-put-more-people-to-death-than-any-other-country-a6796351.html
 *** 2012 https://www.theguardian.com/news/datablog/2011/mar/29/death-penalty-countries-world
+** https://en.wikipedia.org/wiki/Execution_van
 
 See also:
 
@@ -4178,7 +4183,7 @@ But Ciro only works on this when his brain was too tired of technical stuff and 
 Telling the CCP to fuck off is surprisingly relaxing, you should try it some time too. It uses a different part of your brain other than the programming one. It is, one could say, an art form.
 
 [[is-ciro-anti-communism]]
-==== Is Ciro Santilli against Communism/Socialism in general or just against the Chinese Communist Party specifically?
+==== Is Ciro Santilli against Communism/Socialism in general or just against the Chinese Communist Party specifically? Ciro Santilli 是普遍反对共产主义/社会主义还是专门反对中国共产党？
 
 Anti-dictatorship and censorship, not anti-communist in general. In <<github-com-cirosantilli-china-dictatorship,this project>>, <<ciro-santilli>> has sometimes used the word "communist/commie" loosely as a shortcut for "supporter of the CCP", but it does not extend by default to communism in general.
 
@@ -5290,6 +5295,11 @@ This concept is a mixture of the concepts of:
 
 * https://en.wikipedia.org/wiki/Asymmetric_warfare[asymmetric warfare]
 * https://en.wikipedia.org/wiki/Information_warfare[information warfare]
+
+This phenomena can also be very clearly seen on the differences between the international propaganda of each side:
+
+* the anti-censorship democracy side, e.g. <<rfa>>, creeates "the dictatorship is bad" propaganda that is censored in the dictatorship and targeted at people people in the dictatorship
+* the censorship side, e.g. <<cgtn>>, creeates "the dictatorship is good" propaganda that is targeted at people people outside the dictatorship
 
 .https://knowyourmeme.com/memes/its-super-effective[It's Super Effective!] meme by <<ciro-santilli>> describing how he deals with <<wumao,wumaos>> and <<little-pink,little pinks>>. Humour is the greatest weapon against dictators, and images help cross the language barrier. Composition CC BY-SA 2021, fair use on copyrighted individual elements.
 image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective.png[height=1200]
@@ -7980,6 +7990,8 @@ But <<ciro-santilli>> strongly believes that this is just a language barrier/FLG
 In both cases, some believers claim that sometimes even reading the same text again gives them new insight.
 * prescribed daily meditation exercise hours, somewhat like Muslim https://en.wikipedia.org/wiki/Salah[Salah] (https://zh.wikipedia.org/wiki/礼拜_(伊斯兰教)[礼拜]) prayers which they call https://en.wikipedia.org/wiki/Fazhengnian[发正念 (fa1 zheng4 nian4)], which means "send righteous thoughts". They seem to believe that this meditation helps external good magic things happen, so it is half meditation half prayer.
 +
+Also both Salah and Falun Gong have an element physical repetitive exercise component.
++
 And for those that are often online on the Falun Gong voice forums, some nice music is played before prayer times, just like Muslim https://en.wikipedia.org/wiki/Muezzin[Muezzins] (a type of priest) will do the https://en.wikipedia.org/wiki/Adhan[Adhan] (sang call to prayer, ideally from the minarets of a mosque)
 * longer "less mandatory" https://en.wikipedia.org/wiki/Qigong[Qigong-like] (https://zh.wikipedia.org/wiki/气功[气功]) exercises (lian4 gong1, 练功) followed by a meditation (打坐) and which they collectively call https://zh.wikipedia.org/wiki/修道_(道教)[修炼] "practice austerities". note that this term is borrowed from Taoism but possibly with different precise meaning. There are exactly 5 exercises (meditation being the fifth) some with a fun supernatural name, on <<flg-canon>> https://www.falundafa.org/book/eng/flg_2006_4.htm[] "The Falun Gong Practice System":
 ** Buddha Stretching a Thousand Arms
@@ -8045,9 +8057,15 @@ ____
 * xref:flg-medication[Maybe FLG will make you healthier, but no promises, but it will make you a better person, and that's why you should do it, but if you really really believe, you get healthier]. But people who seemed to be believers also die, because deep within their hearts, there was a belief problem.
 * <<falun-gong-believes-that-the-ccp-is-literally-a-manifestation-of-real-devils>>
 
-From this, it is obvious that Falun Gong is just a https://en.wikipedia.org/wiki/New_Age[New Age] (link:https://zh.wikipedia.org/wiki/新纪元运动[新纪元运动]) https://en.wikipedia.org/wiki/Syncretism[syncretic] (https://zh.wikipedia.org/wiki/綜攝[综摄]) religion combining https://en.wikipedia.org/wiki/Qigong[Qigong], https://en.wikipedia.org/wiki/Buddhism[Buddhism], some aspects of <<christianity>>, and whatever other crazy things <<li-hongzhi>> believes in.
+From this, it is obvious that Falun Gong is just a https://en.wikipedia.org/wiki/New_Age[New Age] (link:https://zh.wikipedia.org/wiki/新纪元运动[新纪元运动]) https://en.wikipedia.org/wiki/Syncretism[syncretic] (https://zh.wikipedia.org/wiki/綜攝[综摄]) religion combining:
 
-Synchronism is of course the easiest way to start a new religion, because it attempts to divert the irrational belief of people in some unprovable bullshit into a new unprovable bullshit, but that resonates more with the current political situation. This is exactly what Jesus did with Judaism. And it is then exactly what the https://en.wikipedia.org/wiki/Jesus_in_Islam[Islam did to Christianity].
+* https://en.wikipedia.org/wiki/Qigong[Qigong]
+* https://en.wikipedia.org/wiki/Buddhism[Buddhism], e.g.: the meditation, and usage of specific https://en.wikipedia.org/wiki/Mudra[hand mudras]. TODO does Li Hongzhi suggest that he is a https://en.wikipedia.org/wiki/Maitreya#Maitreya_claimants[Maitreya], just like Jesus suggested he was the https://en.wikipedia.org/wiki/List_of_messiah_claimants[Messiah from Judaism]?
+* some aspects of <<christianity>>
+
+and whatever other crazy things <<li-hongzhi>> believes in.
+
+Synchronism is of course the easiest way to start a new religion, because it attempts to divert the irrational belief of people in some unprovable bullshit into a new unprovable bullshit, but that resonates more with the current political situation. This is exactly https://en.wikipedia.org/wiki/List_of_messiah_claimants[what Jesus did with Judaism]. And it is then exactly what the https://en.wikipedia.org/wiki/Jesus_in_Islam[Islam did to Christianity].
 
 Or you could call Falun Gong a <<flg-cult,cult>>, which is nothing but a new/small religion with negative connotation, and thus meaningless.
 
@@ -10417,6 +10435,12 @@ image::{china-dictatorship-media-base}/Xi_Jiang_Hu.jpg[height=400]
 .Meme impliying that <<xi-jinping>>'s 2021 https://www.bloomberg.com/news/features/2021-08-01/china-tech-crackdown-communist-party-policy-changes-behind-1-trillion-selloff[tech crackdown] was much mroe destructive to the Chinese economy than https://thediplomat.com/2021/08/the-biden-administrations-china-sanctions-dilemma/[contemporary economic sanctions imposed by United States president Biden]. https://www.reddit.com/r/China/comments/pb5ft2/meme_xis_successive_series_of_economically/[English source], https://twitter.com/xijinpingqindie/status/1429480173938745348[Chinese source], meme template https://www.reddit.com/r/MemeTemplatesOfficial/comments/dlla95/man_hold_man_a_knifepoint_an_then_someone_shoots/[by Joan Cornella].
 image::{china-dictatorship-media-base}/Biden_sanctions_vs_Xi_Jinping_tech_crackdown_2021.jpg[height=700]
 
+.https://knowyourmeme.com/memes/thats-what-she-said[That's what she said] Xi Jinping meme, is a pun on words between Xi and She.
+image::https://web.archive.org/web/20201210235814im_/https://i.kym-cdn.com/photos/images/newsfeed/000/513/132/c48.jpg[height=500]
+
+.Xi waiting for outgoing chief executive CY Leung, "president" of Hong Kong between 2012 and 2017, at a hotel, in 2017. The image was immediately likened to supervillain or criminal boss movies and use by <<hong-kong>> protesters, e.g. https://twitter.com/DavidJWat/status/880333206473420800[] likens it to a Jams Bond villain. https://qz.com/1018919/hong-kong-handover-memes-making-fun-of-chinese-president-xi-jinping-and-his-wife-cy-leung-and-others[]
+image::https://web.archive.org/web/20230111172608im_/https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1600/1141aedc45c779565e755f78aaeb7d9c.jpg[height=600]
+
 [[xi-jinping-nicknames]]
 ===== Xi Jinping nicknames (习近平昵称)
 
@@ -12138,6 +12162,9 @@ image::{china-dictatorship-media-base}/Mao_Zedong_in_Yanan.jpg[height=400]
 .Young Mao Zedong statue, Changsha, 2009. Another one of the future demolition list.
 image::https://web.archive.org/web/20221211231444im_/https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mao_Zedong_youth_art_sculpture_4.jpg/675px-Mao_Zedong_youth_art_sculpture_4.jpg[height=500]
 
+.Mao Zedong https://www.urbandictionary.com/define.php?term=lmao[LMAO] meme
+image::https://web.archive.org/web/20210322084100im_/https://i.redd.it/fhs2nt5fk7m61.png[height=500]
+
 [[the-private-life-of-chairman-mao]]
 ==== The Private Life of Chairman Mao (毛泽东私人医生回忆录)
 
@@ -13308,6 +13335,9 @@ See also:
 ===== Programthink (编程随想, Ruan Xiaohuan, 阮晓寰, programmer on GitHub)
 
 * https://zh.wikipedia.org/wiki/编程随想的博客 (there is no English page as of January 2020)
+* https://github.com/cirosantilli/china-dictatorship/issues/980
+
+His Chinese username literally means "Random programming thoughts".
 
 Very popular Chinese language anonymous blogger that publishes software programming tutorials and political content since 2009, often negative about the CCP, in particular <<censorship,anti-censorship>> and <<brainwashed-by-usa,anti-CCP-brainwashing>>.
 
@@ -13318,6 +13348,8 @@ He was likely arrested in 2021 according to an anonymous report to <<rfa>>, cons
 ** https://www.rfa.org/english/news/china/blogger-06152021111534.html official translation of report
 * https://chinadigitaltimes.net/2021/06/translation-program-think-notorious-anonymous-chinese-blogger-feared-detained/ English report on <<china-digital-times>>
 
+His wife apparently later stated the exact arrest wast on May 10th 2021.
+
 In 2023, after 2 years of arbitrary detention, he was sentenced to 7 years, full name and photo came out, he is actually called Ruan Xiaohuan (阮晓寰), previous names were just wrong:
 
 * https://www.dw.com/zh/中国政治启蒙博主编程随想证实被判刑7年监禁/a-65106470
@@ -13325,9 +13357,29 @@ In 2023, after 2 years of arbitrary detention, he was sentenced to 7 years, full
 * https://www.reddit.com/r/China/comments/11yeqkp/chinese_blogger_program_think_was_sentenced_to_7/
 * https://www.change.org/p/free-ruan-xiaohuan-阮晓寰-aka-编程随想
 
-He was born in <<fujian>> in 1977. he served as the chief engineer of the information security system of the conference during the 2008 Beijing Olympic Games. The blogging started in 2009. His wife's family name is Bei (贝), given name undisclosed.
+He was born in https://en.wikipedia.org/wiki/Quanzhou[Quanzhou], <<fujian>> in 1977. he served as the chief engineer of the information security system of the conference during the 2008 Beijing Olympic Games. The blogging started in 2009. His wife's family name is Bei (贝), given name undisclosed.
 
-https://baijiahao.baidu.com/s?id=1731886110528251526 is one of the rare Chinese sources possibly about him.
+http://www.qz1z.com/themeArticle/14-29b32fe5bda846b0b73fbd8656376087 is a student listing of Quanzhou No. 1 High School listing someone with the same name as the 1990 high school junior. It is the only hit we can find on the Internet. Unsurprising, since even regular people are <<anonymous-account-ban,mostly anonymous online in China>>. https://baijiahao.baidu.com/s?id=1731886110528251526 is one of the rare Chinese sources possibly about him.
+
+https://zh.wikinews.org/zh-hans/「編程隨想」阮晓寰案：妻子勇敢揭秘，揭開被捕背後的真相[] has some further details of interest
+
+____
+according to his wife, ms. bei, she and ruan xiaohuan met as classmates in the chemical engineering department of https://en.wikipedia.org/wiki/east_china_university_of_science_and_technology[east china university of science and technology] (https://zh.wikipedia.org/wiki/华东理工大学[华东理工大学]). ruan was obsessed with information technology and entered the network security industry after graduating from school. when he was working at https://www.venusense.com/[Venustech] (https://www.venustech.com.cn[启明星辰]), he was the chief engineer of network security for the beijing olympics; he resigned from his full-time job in 2012 to focus on open source research and development.
+
+She said that her husband was arrested but the case was a mystery, and she learned to "over the wall" in order to clarify the situation.
+
+One day, I saw a report about the disappearance of "Programming Caprice" in an Internet cafe. The time of disappearance and the total number of blog posts were consistent with Ruan's case. Programming Caprice stopped updating for four months, which happened to be when Ruan was ill in bed. She seemed to have known each other before, so she decided that this was her husband.
+
+She also recalled that about a year before Ruan was arrested, the Internet at home was often disconnected; later, when the couple went out for a walk, Ruan often "killed the carbine" and went home to check; afterward, a neighbor told her that the police rented the house a few months ago. The upstairs room of her house.
+____
+
+The Chinese Wikipedia also gives a bit more details:
+
+____
+He joined a computer interest group in 1990 when he was in junior high school. Out of interest in the DOS virus he came into contact with, he wanted to figure out its internal implementation mechanism and studied by himself in the computer room of the school. Assembly language and C language [2]. In 1996, he was enrolled in the Chemical Engineering Department of Shanghai East China University of Science and Technology, but he loved computers and gave up his diploma[3][4][5]. Served as the chief engineer of the information security system of the conference[3][4].
+____
+
+https://ngocn2.org/article/2023-03-29-program-think-enemy-of-the-state/ (chinese) contains a few more details.
 
 https://twitter.com/evanli2020/status/1412305263248384000 speculates on how he was arrested.
 
@@ -13353,6 +13405,12 @@ Mentions in other sections:
 
 .Programthink uses https://en.wikipedia.org/wiki/The_Thinker[Rodin's The Thinker sculpture] as its avatar, to encourage people to think for themselves rather than <<censorship,blindly believe the Party>>. Sources: https://github.com/programthink/[GitHub images], . https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/gf-03222023031521.html[real world images]. The other pages of the indictment can be seen at: https://twitter.com/EricLiu_USA/status/1638560342874923010[].
 image::{china-dictatorship-media-base}/Programthink.jpg[height=800]
+
+.Ruan Xiaohuan in 2014 while traveling. Courtesy of his wife. https://ngocn2.org/article/2023-03-29-program-think-enemy-of-the-state/[Source].
+image::https://user-images.githubusercontent.com/1429315/229744733-cf6e813e-645f-4513-91e0-1af984c86437.jpg[height=500]
+
+.Ruan Xiaohuan's work desk, kept unchanged since his arrest. https://ngocn2.org/article/2023-03-29-program-think-enemy-of-the-state/[Source].
+image::https://user-images.githubusercontent.com/1429315/229744864-ba542c3d-6027-49f2-9671-a755144ca98f.jpg[height=500]
 
 [[liu-xiaobo]]
 ==== Liu Xiaobo (刘晓波, 1955-2017, Tiananmen leader)
@@ -14983,6 +15041,7 @@ video::P7-OYQatYvA[youtube,height=400,width=600]
 [[journey-to-the-west]]
 ==== Journey to the west (西游记)
 
+* https://cirosantilli.com/journey-to-the-west
 * https://en.wikipedia.org/wiki/Journey_to_the_West
 * https://zh.wikipedia.org/wiki/西游记
 
@@ -16385,6 +16444,9 @@ image::{china-dictatorship-media-base}/French_Nazi_SS_poster_1942.jpg[height=600
 .https://www.youtube.com/watch?v=0HGgzK2yVX4 The LAST White Monkey Jobs in China by <<serpentza-laowhy86,laowhy86>> (2022). An overview of CCP apologists on YouTube.
 video::0HGgzK2yVX4[youtube,height=400,width=600]
 
+.In 2021, Fast and Furious actor https://en.wikipedia.org/wiki/John_Cena[Jonn Cena] apologized profusely for calling <<taiwan>> a country, apology video: https://www.youtube.com/watch?v=z88zeQ25pjQ[]. Kudos for trying to do it in Chinese though, he likely doesn't speak however? Can't make some basic sounds properly. https://www.theguardian.com/world/2021/may/26/john-cena-very-sorry-for-saying-taiwan-is-a-country[]. The https://knowyourmeme.com/memes/john-xina[John Xina] <<mao-zedong>> meme followed. https://knowyourmeme.com/photos/2219125-john-xina[Source].
+image::https://web.archive.org/web/20221126071424im_/https://i.kym-cdn.com/photos/images/newsfeed/002/219/125/88d.jpg[height=500]
+
 ====== Tankie
 
 https://en.wikipedia.org/wiki/Tankie
@@ -17513,6 +17575,8 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2023-04-05 received a "Government-backed attackers may be trying to steal your password" from Google on Android and gmail. Screenshot: https://cybernews.com/news/google-warns-14-000-gmail-users-government-backed-attackers-may-be-trying-to-steal-your-password/ Live: https://myaccount.google.com/stateattackwarning/basic 
+* 2023-04 https://km.oa.dragonest.com to https://github.com/cirosantilli/china-dictatorhsip-6[]. https://global.dragonest.com/ is a mobile gaming company. According to https://global.dragonest.com/Index/newsdetail/id/78.html <<tencent>> invested in them in 2021. <<oa-com>> is a well known Tencent domain, and http://km.oa.com in particular is known to exist, we've a had a linkback from: http://km.oa.com/articles/show/329260[], so presumably they are instances of a website that Tencent stores under several domains/severs they own.
 * 2023-03: https://bitbucket.org/magnusmanske/reasonator/issues/59/ciros-automation-suite-11-enzip interesting spam. Likely autogenerated? The repository owner (not author) is has the same display name as https://en.wikipedia.org/wiki/Magnus_Manske
 * 2023-03: 21 unique visits from <<toutiao>> nativeapp.toutiao.com to <<github-com-cirosantilli-china-dictatorship>>. Immediately censored no doubt.
 * 2022-12-06 comment on https://www.reddit.com/r/real_China_irl/comments/ze5wcd/github也在墙外了/ has GitHub been blocked by the <<gfw>>
@@ -17856,13 +17920,6 @@ video::TphoOIY458Q[youtube,height=400,width=600]
 [[the-ten-ancient-famous-songs]]
 === The ten ancient famous songs (中国古典十大名曲)
 
-https://baike.baidu.com/item/中国古典十大名曲/105343
-
-This is a good place to start your journey.
-
-.https://www.youtube.com/watch?v=WbCjceRPXyw The Ten Most Famous Melodies in Ancient China. A single video with a collage of all ten songs.
-video::qX6c96KJznE[youtube,height=400,width=600]
-
 [[high-mountain-and-running-river]]
 ==== High Mountain and Running River (高山流水)
 
@@ -17907,7 +17964,7 @@ Here are the few best I've seen. Not enough to replace the non-free, but pretty 
 === Non-free music
 
 [[master-of-chinese-traditional-music]]
-==== Master of Chinese Traditional Music 中国民族音乐大师系列
+==== Master of Chinese Traditional Music (中国民族音乐大师系列)
 
 20-CD anthology.
 
@@ -17928,7 +17985,7 @@ A search on Amazon leads many of their albums in loose form: https://www.amazon.
 TODO golden cover vs gray cover: https://www.amazon.com/dp/B000QZUFQI (https://web.archive.org/web/20190816082640/https://www.amazon.com/dp/B000QZUFQI[archive]), TODO find the precise list.
 
 [[masters-of-chinese-traditional-music-solo-appreciation]]
-==== Masters of Chinese Traditional Music Solo Appreciation 中国民乐大师纯独奏鉴赏
+==== Masters of Chinese Traditional Music Solo Appreciation (中国民乐大师纯独奏鉴赏)
 
 14-CD anthology.
 
@@ -17987,6 +18044,9 @@ Celebrates <<qu-yuan>>.
 
 [[post-qing-dynasty]]
 === Post Qing Dynasty (1912-)
+
+.https://www.youtube.com/watch?v=O2kKmIqeYT4 The Explosions (and Collapse) of China by hoser (2022) Long story short: the situation is very risky, and could blow up due to several reasons. Mentions <<overlook-human-rights-for-profit>> many times.
+video::WmId2ZP3h0c[youtube,height=400,width=600]
 
 [[chinese-communist-revolution]]
 ==== Chinese Communist Revolution (1921-1949)
