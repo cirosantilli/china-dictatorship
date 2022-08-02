@@ -812,6 +812,7 @@ On our repo: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3
 
 Others:
 
+* 2023-10-13 https://www.reddit.com/r/github/comments/176u3m7/help_needed_something_have_troubled_me_and_other/
 * 2023-03-28 https://www.reddit.com/r/github/comments/124t4gk/how_i_can_always_exclude_a_repository_from_my/ by reddit user yusuftaufiq. Possible hit: https://www.linkedin.com/in/yousuf-taufiq-pe-pmp-0b198212/ Yousuf Taufiq.
 * 2022-12-13 https://github.com/orgs/community/discussions/41475 "Report Abuse REPO" by https://github.com/dugulingping
 * 2022-08-26 https://github.com/orgs/community/discussions/30936 "github search provide strange result" by https://github.com/pmakarenko "github search provide strange result"
@@ -1706,7 +1707,7 @@ video::_7VIG2qp0j4[youtube,height=400,width=600]
 video::sUvBNpkxrJo[youtube,height=400,width=600]
 
 .Montage with images from two of Fang Bin's last YouTube videos: on the left from the antepenultimate video https://www.youtube.com/watch?v=YUXV4Ih2xrk[], and on the right from the last "All the people, revolt" one.
-image::{china-dictatorship-media-base}/Fang_Bin.jpg[height=600]
+image::{china-dictatorship-media-base}/Fang_Bin_revolt_2020.jpg[height=600]
 
 [[censorship-makes-it-harder-to-solve-social-problems]]
 ==== Censorship makes it harder to solve social problems (审查制度使解决社会问题变得更加困难)
