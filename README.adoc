@@ -553,6 +553,7 @@ See also:
 * https://github.com/cirosantilli/china-dictatorship/issues?q=is%3Aissue+is%3Aopen+label%3Aanti-ccp
 
 Related:
+
 * <<better-to-do>>
 * <<asymmetric-information-warfare>>
 
@@ -6570,6 +6571,8 @@ In other sections:
 * <<backlinks>>
 
 === Reddit
+
+As of 2020, Reddit is <<ciro-santilli>>'s best bet at finding good anti CCP news, notably <<r-china>>. Unfortunately, it does require daily monitoring due to: https://ourbigbook.com/cirosantilli/view-top-posts-of-previous-months-or-years-in-reddit[], you can't just check the best events of the previous months easily.
 
 Subs with lots of anti-commie info:
 
