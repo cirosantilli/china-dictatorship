@@ -2168,6 +2168,26 @@ See also:
 
 Duplicate pool: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ayou-are-not-chinese-argument
 
+[[in-memory-of-bethune]]
+==== In Memory of Bethune (纪念白求恩)
+
+Amazing quote from <<mao-zedong>>'s short essay "In Memory of Bethune" (纪念白求恩), an eulogy to Canadian communist https://en.wikipedia.org/wiki/Norman_Bethune[Norman Bethune] (https://zh.wikipedia.org/wiki/白求恩[白求恩]) who worked as a medic for the CCP during the Second Sino-Japanese War, saying that the CCP should embrace help from Communists from other countries to their revolution:
+
+____
+“一个外国人，毫无利己的动机，把中国人民的解放事业当作他自己的事业，这是什么精神？这是国际主义的精神，这是共产主义的精神，每一个中国共产党员都要学习这种精神。列宁主义认为：资本主义国家的无产阶级要拥护殖民地半殖民地人民的解放斗争，殖民地半殖民地的无产阶级要拥护资本主义国家的无产阶级的解放斗争，世界革命才能胜利
+
+"What kind of spirit is this for a foreigner who has no self-interested motives and regards the liberation cause of the Chinese people as his own cause? This is the spirit of internationalism, this is the spirit of communism, and every Chinese Communist Party member must Learn this spirit. Leninism believes that the proletariat of capitalist countries must support the liberation struggle of the people of colonial and semi-colonial countries, and the proletariat of colonial and semi-colonial countries must support the liberation struggle of the proletariat of capitalist countries. Only then can the world revolution be victorious.
+____
+
+This is the prefect reply to <<not-chinese>>!!!
+
+Brought to our attention by Reddit user No-Lingonberry-2173 at: https://www.reddit.com/r/China_irl/comments/1bn47e5/comment/kwgqaye/
+
+Sample sources:
+
+* https://baike.baidu.com/item/纪念白求恩/1685623
+* https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_25.htm
+
 [[the-ccp-would-not-be-in-power-if-it-werent-for-the-second-sino-japanese-war]]
 ==== The CCP would not be in power if it weren't for the Second Sino-Japanese War (如果没有抗日战争，中共就不会执政)
 
@@ -6040,7 +6060,9 @@ ____
 Hello, I'd like to report a person who abused Github, this person has created multiple accounts and added some offensive repo, these repo are not related to technology and disgusting content, causing many users to search this spam repo. These contents violate the Github's terms, I hope Github can banned this account.
 ____
 +
-Poor <<wumao>>s. With this language/intonation, they are off to a bad start from th emessage itself.
+Poor <<wumao>>s. With this language/intonation, they are off to a bad start from th emessage itself. Reblogged:
+** https://blog.csdn.net/Twanghey/article/details/134708706
+** https://blog.csdn.net/xiaoyalian/article/details/137002309
 * https://www.zhihu.com/question/388634161/answer/2112339988 shows how to do it with adblock plus by removing specific page elements for the search. Similar to greasefork methods mentioned at <<disturbs>>.
 * https://www.zhihu.com/question/388634161/answer/2101125957 does not understan what off topic means, and says that the attack is worse on <<stack-overflow>> and rants <<meant-to-be-used>>. Due to their limited English, they do not seem to realize that both keyword attacks are by the same person, <<ciro-santilli>>.
 
@@ -6746,10 +6768,13 @@ TODO review:
 
 * https://www.reddit.com/r/taiwan/[]. Does not appear to be very China focused.
 * https://www.reddit.com/r/China_Flu/
-* https://www.reddit.com/r/China_irl/ (流浪防区) https://www.reddit.com/r/China/comments/mnbpum/if_you_want_to_experience_the_censorship_and/ claims pro-CCP, but e.g. https://www.reddit.com/r/China_irl/comments/mn68dy/各位键委如何看待gfw/ has <<gfw>> talks
-** https://www.reddit.com/r/DoubanGoosegroup Appears anti-CCP with <<backlinks,Backlink>>: https://www.reddit.com/r/DoubanGoosegroup/comments/ud50yd/中国主要科技与互联网公司市值变化与apple对比/ Main post was also laughing at the Chinese economy First charst are 流浪 like https://www.reddit.com/r/China_irl/浪 On 2023-01-31, Ciro Santilli's Reddit account was banned from that sub for no apparent reason
-* https://www.reddit.com/r/real_China_irl
+* https://www.reddit.com/r/real_China_irl (流浪防区)
+**  https://www.reddit.com/r/China/comments/mnbpum/if_you_want_to_experience_the_censorship_and/ claims pro-CCP, but e.g. https://www.reddit.com/r/China_irl/comments/mn68dy/各位键委如何看待gfw/ has <<gfw>> talks. It actually appears to be quite a diverse sub.
 ** https://www.reddit.com/r/real_China_irl/comments/17lmayu/轉發_防不胜防防不胜防啊经过对光猫固件分析发现更多插件/
+** <<backlinks>>:
+*** 2024-03-25 https://www.reddit.com/r/China_irl/comments/1bn47e5/github_上自带大翻译的那个竟然是100的洋人那么问题来了/ by user steambap, possibly the same as: https://github.com/steambap[]. Complaining about <<not-chinese>>
+*** 2022-12-06 comment on https://www.reddit.com/r/real_China_irl/comments/ze5wcd/github也在墙外了/ has GitHub been blocked by the <<gfw>>
+** https://www.reddit.com/r/DoubanGoosegroup Appears anti-CCP with <<backlinks,Backlink>>: https://www.reddit.com/r/DoubanGoosegroup/comments/ud50yd/中国主要科技与互联网公司市值变化与apple对比/ Main post was also laughing at the Chinese economy First charst are 流浪 like https://www.reddit.com/r/China_irl/浪 On 2023-01-31, Ciro Santilli's Reddit account was banned from that sub for no apparent reason
 * https://www.reddit.com/r/CLTV/
 * https://www.reddit.com/r/hanbenwei/ e.g. https://www.reddit.com/r/hanbenwei/comments/1akit4d/七五新疆暴动干了什么/
 
@@ -17969,6 +17994,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2024-03-25 https://www.reddit.com/r/China_irl/comments/1bn47e5/github_上自带大翻译的那个竟然是100的洋人那么问题来了/ by user steambap, possibly the same as: https://github.com/steambap[]. Complaining about <<not-chinese>>
 * 2023-11-15 https://www.reddit.com/r/github/comments/17vv8kh/whats_the_deal_with_these_repos_that_repeat_on/
 * 2023-10-30 https://www.reddit.com/r/ADVChina/comments/17jz3do/github_history_of_ccp_dictatorship/ "Github: History of CCP Dictatorship" on the ADVChina <<reddit>>
 * 2023-08-23 https://t.me/XueXi_China/65965 by <<gfwfrog>>'s Telegram reposts anonymous submission of <<github-com-cirosantilli-china-dictatorship>>. Let to a bit of traffic: https://github.com/cirosantilli/china-dictatorship/issues/1060
