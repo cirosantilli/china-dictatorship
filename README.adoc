@@ -746,10 +746,7 @@ TODO what does: "起草人：赫连禾" mean?
 
 The second is "三朝罪恶元凶王沪宁" (The Culprit of Three Dynasties Wang Huning).
 
-The title presumably refers to:
-
-* https://en.wikipedia.org/wiki/Wang_Huning
-* https://zh.wikipedia.org/wiki/王沪宁
+The title presumably refers to <<wang-huning>>.
 
 Wikipedia mentions:
 
@@ -6501,7 +6498,7 @@ TODO review:
 * https://www.reddit.com/r/taiwan/[]. Does not appear to be very China focused.
 * https://www.reddit.com/r/China_Flu/
 * https://www.reddit.com/r/China_irl/ (流浪防区) https://www.reddit.com/r/China/comments/mnbpum/if_you_want_to_experience_the_censorship_and/ claims pro-CCP, but e.g. https://www.reddit.com/r/China_irl/comments/mn68dy/各位键委如何看待gfw/ has <<gfw>> talks
-** https://www.reddit.com/r/DoubanGoosegroup Appears anti-China with <<backlinks,Backlink>>: https://www.reddit.com/r/DoubanGoosegroup/comments/ud50yd/中国主要科技与互联网公司市值变化与apple对比/ Main post was also laughing at the Chinese economy First charst are 流浪 like https://www.reddit.com/r/China_irl/
+** https://www.reddit.com/r/DoubanGoosegroup Appears anti-China with <<backlinks,Backlink>>: https://www.reddit.com/r/DoubanGoosegroup/comments/ud50yd/中国主要科技与互联网公司市值变化与apple对比/ Main post was also laughing at the Chinese economy First charst are 流浪 like https://www.reddit.com/r/China_irl/浪
 * https://www.reddit.com/r/CLTV/
 
 [[r-china]]
@@ -11838,6 +11835,21 @@ video::_VaNnC8knew[youtube,height=400,width=600]
 * https://en.wikipedia.org/wiki/Hu_Jintao
 * https://zh.wikipedia.org/wiki/胡锦涛
 
+[[hu-jintao-gets-kicked-out]]
+==== Hu Jintao gets kicked out (胡锦涛被开除, 2022)
+
+He got kicked out of the 20th <<national-congress>>:
+
+* https://en.wikipedia.org/wiki/Hu_Jintao#The_20th_Communist_Party_Congress
+* https://zh.wikipedia.org/wiki/胡锦涛#中共二十大
+* https://politics.stackexchange.com/questions/76307/how-much-of-hu-jintaos-being-escorted-out-was-seen-by-chinese-at-home-was-it-l
+* https://www.theguardian.com/world/2022/oct/25/hu-jintao-argued-about-official-papers-before-being-escorted-out-of-congress
+
+Possibly part of <<xi-abolishes-term-limits-2018-03>>.
+
+.https://www.youtube.com/watch?v=ZBG2bD-TE9g (https://github.com/cirosantilli/china-dictatorship/issues/909[GitHub reupload]) <<hu-jintao>> gets "the boot". To his left: TODO then <<wang-huning>>. To his right <<xi-jinping>> and TODO.
+video::ZBG2bD-TE9g[youtube,height=400,width=600,start=57]
+
 [[bo-xilai]]
 ==== Bo Xilai (薄熙来, 2007-2012)
 
@@ -12105,6 +12117,19 @@ And idiots today still celebrate this event that preceded the <<cultural-revolut
 .https://zh.wikipedia.org/wiki/File:1966-10_1966年毛泽东游长江2.jpg[Source].
 image::{china-dictatorship-media-base}/Mao_swim_wave.jpg[height=500]
 
+[[wang-huning]]
+=== Wang Huning (王沪宁)
+
+* https://en.wikipedia.org/wiki/Wang_Huning
+* https://zh.wikipedia.org/wiki/王沪宁
+
+Member of the <<politburo>>.
+
+Appears e.g. at:
+
+* <<zhao-heming>>
+* <<hu-jintao-gets-kicked-out>>
+
 [[sport-related-events]]
 == Sport related events (和体育有关的事件)
 
@@ -12287,7 +12312,7 @@ Soldiers who spoke up:
 *** https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/ql2-06042018103250.html
 ** 2009-03 published an open letter
 *** https://chinadigitaltimes.net/2009/03/china-detains-writer-of-critical-web-letter-to-hu/ by <<china-digital-times>>
-*** https://www.theguardian.com/world/2009/mar/20/tiananmen-square-china-zhang-shijun "Zhang Shijun taken from home in middle of the night after publishing open letter to Chinese president Hu Jintao"
+*** https://www.theguardian.com/world/2009/mar/20/tiananmen-square-china-zhang-shijun "Zhang Shijun taken from home in middle of the night after publishing open letter to Chinese president <<hu-jintao,Hu Jintao>>"
 * Li Xiaoming
 ** https://www.sbs.com.au/news/soldier-reveals-his-shame-over-tiananmen-square-massacre-30-years-on
 
