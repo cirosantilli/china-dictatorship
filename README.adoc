@@ -74,6 +74,12 @@ Each summary section contains a link to the main section, which contains sources
 * <<low-end-population>>
 * <<tibetan-unrest-2008>>
 
+**编程随想 Programthink**
+
+https://cirosantilli.com/china-dictatorship/programthink
+
+image::{china-dictatorship-media-base}/Programthink.jpg[height=800]
+
 **社会主义核心价值观 Core socialist values**
 
 https://cirosantilli.com/china-dictatorship/core-socialist-values
