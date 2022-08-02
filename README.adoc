@@ -13124,7 +13124,7 @@ video::YeFzeNAHEhU[youtube,height=400,width=600]
 image::{china-dictatorship-media-base}/Tank_Man.jpg[height=400]
 
 .Stuart Franklin's wider view photo of Tank Man. https://en.wikipedia.org/wiki/File:Tankman_new_longshot_StuartFranklin.jpg[Source].
-image::{china-dictatorship-media-base}/Tank_Man_new_longshot_Stuart_Franklin.jpg[height=600]
+image::{china-dictatorship-media-base}/Tank_Man_new_longshot_Stuart_Franklin.jpg[height=800]
 
 .Terril Jones photo taken at ground level with Tank Man on background and men running away on the foreground. The photo was only published in 2009. https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/[Source].
 image::{china-dictatorship-media-base}/Tank_Man_ground_level.jpg[height=600]

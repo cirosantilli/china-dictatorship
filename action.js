@@ -102,6 +102,14 @@ if (!isComment) {
       break;
     }
   }
+  for (const word of [
+    '中国共产党万岁',
+  ]) {
+    if (new RegExp(word, 'i').test()) {
+      newLabels.add('i-like-my-dictatorship')
+      break;
+    }
+  }
   const motherDiedWords = [
     'nmsl',
     '你' + maWords + '死',
