@@ -371,6 +371,20 @@ python3 -m pip install --user --upgrade china-dictatorship
 china-dictatorship.py > README.html
 ....
 
+This package was deleted by pypi in 2023 without any warning or notification:
+
+* https://web.archive.org/web/20230306090740/https://pypi.org/project/china-dictatorship/ up March 2023
+* http://web.archive.org/web/20231110041847/https://pypi.org/project/china-dictatorship/ November 2023
+
+and re-attempting upload fails with:
+
+....
+ERROR    HTTPError: 400 Bad Request from https://upload.pypi.org/legacy/
+         The name 'china-dictatorship' isn't allowed. See https://pypi.org/help/#project-name for more information.
+....
+
+Bastanrds and Cowards.
+
 Like NPM, this will also have Chinese mirrors that will need to be censored by their admins ovrview https://titanwolf.org/Network/Articles/Article?AID=25a20c20-c97b-4bfe-af67-760861343658 :
 
 * http://pypi.douban.com/simple/china-dictatorship/ vs http://pypi.douban.com/simple/numpy both up March 2021
@@ -4812,7 +4826,7 @@ Citizens should boycott such companies and require them to be punished.
 
 See also: <<western-companies-that-sell-censorship-technology-to-dictatorships>>
 
-Some hell known companies and events:
+Some well known companies and events:
 
 * 2022 https://www.nasdaq.com/articles/intel-deletes-reference-to-xinjiang-after-backlash-in-china Intel deletes reference to Xinjiang after backlash in China
 * 2020 <<hololive>>
@@ -6668,6 +6682,18 @@ Subs with lots of anti-commie info:
 ** https://www.reddit.com/r/CCJ
 ** https://www.reddit.com/r/CCJ2
 * https://www.reddit.com/r/ADVChina/ related to <<serpentza-laowhy86>>, but broader, e.g. https://www.reddit.com/r/ADVChina/comments/uepsnh/found_this_on_github_a_repository_that_seems_to/ about this project.
+* https://www.reddit.com/r/ridiculous_in_china
+** https://www.reddit.com/r/ridiculous_in_china/comments/xd20dh/今日最佳ps包子帝被莉克醬猴子偷桃/
+** https://www.reddit.com/r/ridiculous_in_china/comments/y4adzs/牆外的韭菜行動起來了/
+* https://www.reddit.com/r/LOOK_CHINA
+** https://www.reddit.com/r/LOOK_CHINA/comments/17heyea/默哀三分钟我们怀念他/
+* https://www.reddit.com/r/China_Pulitzer
+** https://www.reddit.com/r/China_Pulitzer/comments/15lgroj/什么灾祸源头/
+** https://www.reddit.com/r/China_Pulitzer/comments/z5ghq3/shanghais_tankman/
+** https://www.reddit.com/r/China_Pulitzer/comments/yixxry/2021年5月3日四川黑水一位藏族妇女正在搬运从新疆转运来的矿机她动作熟练手里捧着的电源线像一束花/
+** https://www.reddit.com/r/China_Pulitzer/comments/10azyqh/老大哥在看着你/
+* https://www.reddit.com/r/LiberalGooseGroup
+** https://www.reddit.com/r/LiberalGooseGroup/comments/z6714s/collage作品我2022年/
 
 Related:
 
@@ -6689,6 +6715,8 @@ TODO review:
 * https://www.reddit.com/r/China_Flu/
 * https://www.reddit.com/r/China_irl/ (流浪防区) https://www.reddit.com/r/China/comments/mnbpum/if_you_want_to_experience_the_censorship_and/ claims pro-CCP, but e.g. https://www.reddit.com/r/China_irl/comments/mn68dy/各位键委如何看待gfw/ has <<gfw>> talks
 ** https://www.reddit.com/r/DoubanGoosegroup Appears anti-CCP with <<backlinks,Backlink>>: https://www.reddit.com/r/DoubanGoosegroup/comments/ud50yd/中国主要科技与互联网公司市值变化与apple对比/ Main post was also laughing at the Chinese economy First charst are 流浪 like https://www.reddit.com/r/China_irl/浪 On 2023-01-31, Ciro Santilli's Reddit account was banned from that sub for no apparent reason
+* https://www.reddit.com/r/real_China_irl
+** https://www.reddit.com/r/real_China_irl/comments/17lmayu/轉發_防不胜防防不胜防啊经过对光猫固件分析发现更多插件/
 * https://www.reddit.com/r/CLTV/
 
 [[r-china]]
@@ -6918,6 +6946,19 @@ https://www.washingtonpost.com/world/2022/04/06/taiwan-china-eyectv-tough-bobas-
 Pro-CCP:
 
 * https://leohezhao.medium.com/
+
+[[wenxuecity]]
+=== Wenxuecity (文学城)
+
+* https://en.wikipedia.org/wiki/Wenxuecity
+* https://zh.wikipedia.org/wiki/文学城
+
+Some US funded site for Chinese students abroad, apparently not censored e.g. https://bbs.wenxuecity.com/currentevent/3205740.html Blocked according to <<greatfire>>: https://en.greatfire.org/search/all/wenxuecity.com[], so good sign.
+
+<<backlinks>>, so far only because they use github images, not actual mentions:
+
+* 2023-11-10 https://bbs.wenxuecity.com/currentevent/3205740.html[], a reply to https://bbs.wenxuecity.com/currentevent/3205590.html 习总换赛场不跟美国政客浪费时间了，直奔主题广会美国商界大佬，三番晚餐会每位$2000 (President Xi changed the venue and stopped wasting time with American politicians. He went straight to the theme meeting with American business leaders and had three dinner parties worth $2,000 each.) linking to: https://www.nytimes.com/2023/11/08/business/economy/xi-jinping-american-business-leaders-dinner.html
+* 2023-11-01 https://bbs.wenxuecity.com/currentevent/3200519.html[], a reply to https://bbs.wenxuecity.com/currentevent/3200478.html 中國前60大房企股價慘跌...房產大咖被抓留巨債！謝金河：大債時代來臨 (The share prices of China's top 60 real estate companies plummeted... Real estate tycoons were caught with huge debts! Xie Jinhe: The era of big debt is coming) linking to this Facebook post: https://www.facebook.com/permalink.php?story_fbid=pfbid0ibbRc5qJg1fbePcg9998u91q2p8TgEUttHJSSXo2GNU5eU2epA33AQfL1Q6Rfadzl&id=100002304327218&ref=embed_post by https://zh.wikipedia.org/zh-hant/謝金河[謝金河]
 
 [[separatism]]
 == Separatism (分离主义, Taiwan 台湾, Xinjiang 新疆, Hong Kong 香港)
@@ -11913,6 +11954,9 @@ Notably, it consists of 14 chapters, which are called "talks" (讲), e.g. the fi
 
 Much of it can be considered a type of <<newspeak>>.
 
+[[the-governance-of-china]]
+===== The Governance of China (习近平谈治国理政)
+
 .<<ccp-cult,Devotional>> image of <<xi-jinping>> on the cover of the https://en.wikipedia.org/wiki/The_Governance_of_China[The Governance of China] (link:https://zh.wikipedia.org/wiki/习近平谈治国理政[习近平谈治国理政], 2020) book which is part of <<xi-jinping-thought>>. The similarity to <<li-hongzhi>> devotional images <<li-hongzhi-lotus,is striking>>. Related: <<xi-halo>>. https://www.amazon.co.uk/Governance-China-Xi-Jinping/dp/1602204098[Source].
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China.jpg[height=400]
 
@@ -12233,6 +12277,24 @@ ____
 .https://youtube.com/watch?v=y-JPLzj2poY Jiang Zemin saying "Too simple, sometimes naive."
 video::y-JPLzj2poY[youtube,height=400,width=600,start=57]
 
+[[li-keqiang]]
+==== Li Keqiang (李克强, 2013-2023)
+
+* https://en.wikipedia.org/wiki/Li_Keqiang
+* https://zh.wikipedia.org/wiki/李克强
+
+<<premier>> from 2013 to 2023.
+
+____
+Li was generally regarded as advocating economic reform and liberalization. He was described as representing the less ideological and more pragmatic and technocratic side of China's leadership.
+____
+
+.<<li-keqiang>> holding the balls of <<xi-jinping>>. TODO understand meme. Some sources: 2022-09 on Reddit: https://www.reddit.com/r/ridiculous_in_china/comments/xd20dh/今日最佳ps包子帝被莉克醬猴子偷桃/ 2022-10 on <<pincong>>: https://pincong.rocks/question/50288[]
+image::{china-dictatorship-media-base}/Li_Keqiang_holding_balls_of_Xi_Jinping.jpg[height=600]
+
+.<<li-keqiang>> holding the balls of <<xi-jinping>>. TODO understand meme. TODO: modifies which existing film poster? Text reads: "Internal affairs", "無間道", a reference to this 2002 Hong Kong film: https://en.wikipedia.org/wiki/Infernal_Affairs[], https://zh.wikipedia.org/wiki/無間道[]. 2022-10 on <<pincong>>: https://pincong.rocks/question/50288[], 2023-10 on Reddit: https://www.reddit.com/r/LOOK_CHINA/comments/17heyea/默哀三分钟我们怀念他/[], https://www.reddit.com/r/LIHKG/comments/17ivgjs/would_watch_ngl/[]
+image::{china-dictatorship-media-base}/Li_Keqiang_Xi_Jinping_internal_affairs.jpg[height=900]
+
 [[li-peng]]
 ==== Li Peng (李鹏, 1988-1998)
 
@@ -12241,7 +12303,7 @@ video::y-JPLzj2poY[youtube,height=400,width=600,start=57]
 
 One of the key players on <<tiananmen>>.
 
-For the most part of the 1990's whe as second in command as https://en.wikipedia.org/wiki/Premier_of_the_People%27s_Republic_of_China[Premier] from 1988 to 1998.
+For the most part of the 1990's whe as second in command as <<premier>> from 1988 to 1998.
 
 [[deng-xiaoping]]
 === Deng Xiaoping (邓小平, 1982-1987)
@@ -12343,6 +12405,9 @@ image::https://web.archive.org/web/20221211231444im_/https://upload.wikimedia.or
 
 .Mao Zedong https://www.urbandictionary.com/define.php?term=lmao[LMAO] meme
 image::https://web.archive.org/web/20210322084100im_/https://i.redd.it/fhs2nt5fk7m61.png[height=500]
+
+.Mao Zedong statue over rubble. TODO location/date/event. Some sources: August 2023 r/LOOK_CHINA<<reddit>> https://www.reddit.com/r/LOOK_CHINA/comments/15lgrbw/什么灾祸源头/[], August 2023 on disp.cc, possibly <<ptt>> related: https://disp.cc/b/ACG/gnVT
+image::{china-dictatorship-media-base}/Mao_Zedong_statue_over_rubble.jpg[height=800]
 
 [[the-private-life-of-chairman-mao]]
 ==== The Private Life of Chairman Mao (毛泽东私人医生回忆录)
@@ -12787,6 +12852,9 @@ image::{china-dictatorship-media-base}/Tiananmen_crying_mother.webp[height=500]
 
 .https://www.youtube.com/watch?v=DU-RuR-qO4Y Democracy by https://en.wikipedia.org/wiki/Leonard_Cohen[Leonard Cohen] (1992). In this interesting song, the Canadian singer suggests that after events such as the fall of the Soviet Union and <<tiananmen>>, greater freedom and democracy would actually first come to the USA, and not to those other countries, the refrain says: "Democracy is coming to the USA" and at one point "It's coming to America first". This is probably because when there is such an adversarial situation such as the cold war, it tends to also make democracies more like dictatorships, as they become readier and readier for war, and thus weakening civil rights, see e.g. https://en.wikipedia.org/wiki/McCarthyism[McCarthyism]. Related: <<evil-west>>. The song also criticizes several failures of American democracy, such as social injustice and inequality, suggesting that the newer more peaceful world would help solve them. This is a refreshing take on democracy that has gives it a <<democracy-is-a-religion,less religious view>>.
 video::DU-RuR-qO4Y[youtube,height=400,width=600]
+
+.Teenager making 6/4 sign with his hands in front of Tiananmen. His right hand does the https://en.wikipedia.org/wiki/Chinese_number_gestures#From_6_to_10_in_North_China[Chinese single hand sign for the number six]: TODO identify him and hear, 2023-06-04: https://twitter.com/hsuanding/status/1665373962572820480[], on r/LOOK_CHINA <<reddit>> 2023-06-05 https://www.reddit.com/r/LOOK_CHINA/comments/1411u1l/昨日重现六四中华民国万岁/
+image::{china-dictatorship-media-base}/Tiananmen_six_four_hand_gesture.jpg[height=600]
 
 [[liubukou-massacre]]
 === Liubukou massacre (六部口惨案)
@@ -15369,6 +15437,14 @@ image::{china-dictatorship-media-base}/Xi_Jinping_elected_2970_for_0_against_in_
 * https://en.wikipedia.org/wiki/President_of_the_People%27s_Republic_of_China
 * https://zh.wikipedia.org/wiki/中华人民共和国主席
 
+[[premier]]
+====== Premier of the People's Republic of China (中华人民共和国国务院总理)
+
+Paradoxically to its name, it is not the first, but the second in command.
+
+* https://en.wikipedia.org/wiki/Premier_of_the_People%27s_Republic_of_China
+* https://zh.wikipedia.org/wiki/中华人民共和国国务院总理
+
 [[national-congress]]
 ==== National Congress of the Chinese Communist Party (中国共产党全国代表大会, 中共党代会)
 
@@ -15673,6 +15749,10 @@ video::c1HdCIW2Xtk[youtube,height=400,width=600]
 
 See also <<ciro-santilli>>'s answer to https://www.quora.com/What-would-happen-if-I-walked-around-Beijing-with-a-t-shirt-that-said-freedom-of-speech-is-pretty-great/answer/Ciro-Santilli[What would happen if I walked around Beijing with a t-shirt that said "freedom of speech is pretty great"?] on <<quora>>.
 
+Related:
+
+* https://www.quora.com/What-would-happen-if-I-traveled-to-China-wearing-a-t-shirt-that-says-fuck-communism
+
 Some cases where that didn't end well for them:
 
 * 2018 several members of <<jasic>>
@@ -15717,6 +15797,9 @@ image::{china-dictatorship-media-base}/Liu_Shihui_tshirt.jpg[height=700]
 
 .Activist https://en.wikipedia.org/wiki/Alexandra_Wong[Alexandra Wong] (https://zh.wikipedia.org/wiki/王鳳瑤[王鳳瑤]), AKA Grandma Wong (王婆婆) wearing a t-shirt that says in https://en.wikipedia.org/wiki/Cursive_script_(East_Asia)[grass script] "生於亂世，有種責任" (Born in troubled times, have the courage to do your duty) circa 2018 in <<hong-kong>>. The transcription can https://www.hkcnews.com/article/10556/藐視法庭-梁天琦-旺角衝突-10578/【旺角衝突】王婆婆戴「光復香港」頸巾聽審-藐視法庭罪成[be found here]. Her scarf reads 光復香港 (Liberate Hong Kong), the first part of <<liberate-hong-kong>>, and is presumably the same that she was wearing in 2018 during the trial of activist https://en.wikipedia.org/wiki/Edward_Leung[Edward Leung] (https://zh.wikipedia.org/wiki/梁天琦[梁天琦]) for which she was fined HK$1,000 for contempt of court. https://evchk.wikia.org/zh/wiki/生於亂世有種責任 mentions that the t-shirt sentence is a <<hong-kong-protests-2014>> protest slogan. She disappeared from August 2019 to October 2020 for <<picking-quarrels>>. This lady is the best, she's relentless: https://en.wikipedia.org/wiki/Alexandra_Wong#Arrests_and_convictions[]. The fact that she's old and that Asians respect old people so much plays in her favor. https://www.thestandard.com.hk/breaking-news/section/4/157593/Protester-%22Grandma-Wong%E2%80%9D-was-under-house-confinement-in-Mainland,-she-says[Source].
 image::{china-dictatorship-media-base}/Grandma_Wong_t_shirt.jpg[height=500]
+
+.Activist wearing a t-shirt saying "https://zh.wikipedia.org/wiki/國王的新衣[有个皇帝没穿衣服]" and the same in English: "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes[The emperor has no clothes]" in a bookshop filled with copies of <<the-governance-of-china>>, therefore clearly comparing <<xi-jinping>> to the emperor from "The Emperor's New Clothes". TODO identity. Sources: 2022-10-18 on the ridiculous_in_china <<reddit>>: https://www.reddit.com/r/ridiculous_in_china/comments/y725td/墙国里无数个彭载舟出现/[], on Twitter: https://twitter.com/tugouivy/status/1582288394775719936[], 2022-10-19 on <<pincong>>: https://h.pincong.rocks/2078611
+image::{china-dictatorship-media-base}/The_emperor_has_no_clothes.jpg[height=600]
 
 [[gfw]]
 ==== Great Firewall (GFW, 防火长城)
@@ -16977,6 +17060,21 @@ video::PIMsALZlvuQ[youtube,height=400,width=600]
 * 2016 <<video-bbc-local-election-interview-block-2016>>
 * 2015 Ursula Gauthier from <<liubukou-massacre,Luibukou massacre>>
 
+[[mass-surveillance]]
+=== Mass surveillance (大规模监控)
+
+* https://en.wikipedia.org/wiki/Mass_surveillance
+* https://zh.wikipedia.org/wiki/大规模监控
+
+[[mass-surveillance-in-china]]
+==== Mass surveillance in China (中华人民共和国大规模监控)
+
+* https://en.wikipedia.org/wiki/Mass_surveillance_in_China
+* https://zh.wikipedia.org/wiki/中华人民共和国大规模监控
+
+.Camera in front of a Chinese flag. Sources: 2023-01-13 r/China_Pulitzer <<reddit>> https://www.reddit.com/r/China_Pulitzer/comments/10azyqh/老大哥在看着你/[], 2023-01-14 on r/China https://www.reddit.com/r/China/comments/10bgnb9/the_big_brother_is_watching_you_老大哥在看着你/
+image::{china-dictatorship-media-base}/Chinese_flag_with_camera.webp[height=600]
+
 [[social-credit-system]]
 === Social Credit System (社会信用体系)
 
@@ -16994,7 +17092,7 @@ Coverage:
 * 2019-06-04 https://www.youtube.com/watch?v=0cGB8dCDf3c "A Look Inside China's Social Credit System | NBC News Now" by "NBC News"
 
 .https://www.youtube.com/watch?v=oLc2E4P87QE Cafe Scene from https://en.wikipedia.org/wiki/Black_Mirror[Black Mirror] https://en.wikipedia.org/wiki/Nosedive_(Black_Mirror)[Series 3 Episode "Nosedive"] (2016)
-video::oLc2E4P87QE[youtube,height=400,width=600]
+video::9PC_EYRS_HA[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=Dkw15LkZ_Kw China's "Social Credit System" Has Caused More Than Just Public Shaming (HBO) by VICE News (2018). https://youtu.be/Dkw15LkZ_Kw?t=238[328s] shows how you can donate money to the party to increase your score. This is not a hidden practice, they were filmed and everyone is showing their faces. What a brilliant idea that could never ever lead to <<corruption,corruption>>! Ciro's jaw just dropped. How can the commies not hide this kind of shit from the West, but hide other stuff the West couldn't care less about?
 video::Dkw15LkZ_Kw[youtube,height=400,width=600]
@@ -17349,6 +17447,7 @@ Typing that on Google also suggested "People also searched for: 网络审查利�
 ===== Residential Surveillance at a Designated Location (指定居所监视居住, RSDL)
 
 * https://en.wikipedia.org/wiki/Residential_Surveillance_at_a_Designated_Location
+* https://zh.wikipedia.org/wiki/指定居所监视居住
 
 More accurately: in prison at a secret location, and without the rights to see who you wish, not even a lawyer.
 
@@ -17831,11 +17930,12 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2023-10-30 https://www.reddit.com/r/ADVChina/comments/17jz3do/github_history_of_ccp_dictatorship/ "Github: History of CCP Dictatorship" on the ADVChina <<reddit>>
 * 2023-08-23 https://t.me/XueXi_China/65965 by <<gfwfrog>>'s Telegram reposts anonymous submission of <<github-com-cirosantilli-china-dictatorship>>. Let to a bit of traffic: https://github.com/cirosantilli/china-dictatorship/issues/1060
 +
 ____
 建议群友去声援这个github仓库下的问答，全是粉红在骂库主 https://github.com/cirosantilli/china-dictatorship 注意：一般人推荐使用小号去声援，神风特攻不要命的勇士可考虑直接实名上网，无需身份隔离，光荣就义当烈士后，我们怀念你🙏 +
-It is recommended that the group of friends go to support the Q&A under this github repository, all pink is scolding the repository owner https://github.com/cirosantilli/china-dictatorship Note: Most people recommend using the trumpet to support, and kamikaze special attack can be used by brave warriors Consider going online directly with your real name, no need for identity isolation, and we will miss you after being honored as a martyr 🙏
+It is recommended that the group of friends go to support the Q&A under this github repository, all pink is scolding the repository owner https://github.com/cirosantilli/china-dictatorship Note: Most people recommend using the trumpet to support, and kamikaze special attack can be used by brave warriors. Consider going online directly with your real name, no need for identity isolation, and we will miss you after being honored as a martyr 🙏
 ____
 * 2023-08: https://onebox.huawei.com[], some <<huawei>> product to github.com.
 * 2023-06-04 (<<tiananmen>> anniversary): https://confluence.inner.youdao.com to GitHub. Youdao is the <<netease>> search engine.
@@ -17995,6 +18095,10 @@ Later on Ciro noticed that his account was giving 400:
 
 * https://v2ex.com/member/cirosantilli
 * https://web.archive.org/web/20200511191411/https://v2ex.com/member/cirosantilli
+
+and it had not been deleted, as he was unable to recreate an account with that username. Therefore it must be blocked.
+
+Ciro created cirosantilli3 in November 2023, let's see how long it lasts. You need to wait 90 days months before being able to view sensitive posts. OMG, that website is pointless!
 
 The forum is largely programmer dominated.
 
