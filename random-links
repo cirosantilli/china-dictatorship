@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# To reply to wumaos on websites that don't accept images.
+ls out/multipage | grep -v '[^a-z.-]' | shuf -n "${1:-10}" | sed 's/.html//' | sed -E 's|^|https://cirosantilli.com/china-dictatorship/|' | python -c "import sys; print(' | '.join(sys.stdin.read().splitlines()))"

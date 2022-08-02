@@ -79,9 +79,13 @@ https://cirosantilli.com/china-dictatorship/core-socialist-values
 
 image::{china-dictatorship-media-base}/Core_socialist_values.jpg[height=1000]
 
+**水浒传 Water margin**
+
 https://cirosantilli.com/china-dictatorship/water-margin
 
 image::{china-dictatorship-media-base}/Water_Margin_tribute_to_dissidents.jpg[height=1436]
+
+**我喜欢我的独裁制度 I like my dictatorship**
 
 https://cirosantilli.com/china-dictatorship/most-chinese-people-like-their-dictatorship
 
@@ -1696,7 +1700,7 @@ image::{china-dictatorship-media-base-ignore}/Shut_up_and_take_my_freedom_zh.jpg
 
 One of the key points of <<xi-jinping,Xi Jinping's>> governments has been to quench corruption. And use that as an excuse to get rid of rivals while at it.
 
-However, there is one much better solution to that: democracy and freedom of speech.
+However, there is one much better solution to that: <<democracy,democracy>> and freedom of speech.
 
 The reason is obvious: with censorship, <<chinese-politicians-really-care-about-the-chinese-citizens,corrupt politicians>> can <<internal-censorship,censor>> anything bad that they did, and so it becomes much harder to destroy corruption.
 
@@ -2035,8 +2039,6 @@ ____
 Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly. But to trace out the history of the whole period, to say who was fighting whom at any given moment, would have been utterly impossible, since no written record, and no spoken word, ever made mention of any other alignment than the existing one. At this moment, for example, in 1984 (if it was 1984), Oceania was at war with Eurasia and in alliance with Eastasia. In no public or private utterance was it ever admitted that the three powers had at any time been grouped along different lines. Actually, as Winston well knew, it was only four years since Oceania had been at war with Eastasia and in alliance with Eurasia. But that was merely a piece of furtive knowledge which he happened to possess because his memory was not satisfactorily under control. Officially the change of partners had never happened. Oceania was at war with Eurasia: therefore Oceania had always been at war with Eurasia. The enemy of the moment always represented absolute evil, and it followed that any past or future agreement with him was impossible.
 ____
 
-The theme is also mentioned in <<v-for-vendetta>>, where a <<covid,viral outbreak>> is used by governments to increase their power over the people.
-
 https://youtu.be/74Mw3N6WxG0?t=174 Cant Get You Out of My Head S01E05 Part Five The Lordly Ones also (2021, BBC) mentions that a huge propaganda machinery was created to spread the fake news that <<tiananmen>> was an evil western plot.
 
 Duplicate pool: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Aevil-west+
@@ -2044,6 +2046,9 @@ Duplicate pool: https://github.com/cirosantilli/china-dictatorship/issues?q=labe
 Bibliography:
 
 * https://github.com/dessalines/essays/blob/master/us_atrocities.md
+
+.https://www.youtube.com/watch?v=TcoBv6ibh8M The excessive fear of external country theme is also mentioned in <<v-for-vendetta>>, where a <<covid,viral outbreak>> is used by governments to increase their power over the people.
+video::TcoBv6ibh8M[youtube,height=400,width=600,start=2086]
 
 [[friendly-west-china-moments]]
 ===== Friendly West-China moments (中西友好时刻)
@@ -3391,6 +3396,7 @@ If you want your comment to be read, choose your key point well, and deliver it.
 
 It is a shame that most people who are ever able to do that are <<shitpost,shitposters>>, but credit where credit is due.
 
+[[can-i-contact-ciro-santilli-in-chinese]]
 ==== Can I contact Ciro Santilli in Chinese? (我可以用中文联系三西猴吗？)
 
 If you don't know English well enough, that's fine though, go for Chinese, Ciro Santilli will likely understand it: <<does-ciro-santilli-speak-chinese>>.
@@ -4980,6 +4986,8 @@ Always quote reply, and always write down the ID of the OP on your reply, becaus
 After the link addressing anything that they might have said, add three randomly selected images from this repository to it. This is fundamental because the average <<little-pink>> does not speak English. Therefore writing is pointless.
 
 Meme images, however, cross the language barrier beautifully. It is even better if they have Chinese captions.
+
+For websites that don't accept image on comments, we just have to revert to link:random-links[] to start with.
 
 Another way to see it is that we are creating a harder to censor <<instagram>> channel.
 
@@ -10121,6 +10129,9 @@ ____
 
 plus 24-hour bodyguards. <<panama-papers>> comes to mind.
 
+* https://www.quora.com/How-did-President-Xi-Jinping-send-his-daughter-to-Harvard-on-a-salary-of-well-under-20k-a-year-at-the-time How did President Xi Jinping send his daughter to Harvard on a salary of well under $20k a year at the time?
+* https://www.quora.com/How-did-Xi-Jinpings-daughter-get-into-Harvard How did Xi Jinping's daughter get into Harvard?
+
 https://www.thefamouspeople.com/profiles/xi-mingze-16091.php says birthday June 27, 1992.
 
 https://answersafrica.com/meet-xi-mingze-xi-jinpings-daughter-is-she-married-where-is-she-now.html gives some public appearances, e.g. in New York in 2018.
@@ -12604,6 +12615,8 @@ Why would they stay in China to be thrown in jail or killed, and then have a shi
 There were <<tiananmen-sea-of-protesters,a million people in Tiananmen>>. We can see it in photos. There was huge desire for democracy.
 
 Doesn't the CCP invest billions annually in propaganda and <<internal-censorship>>? Notably in paying <<ccp-apologists>>?
+
+Aren't all <<corruption,top CCP people extremelly wealthy>>, and often sending their children to study abroad, or moving abroad themselves, e.g. <<xi-mingze>>?
 
 Think <<wumao,wumaos>>, think.
 
@@ -17061,6 +17074,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2022-08-01 https://archive.ph/wip/W9Wip https://boards.4channel.org/g/thread/87957634/this-is-it-the-culmination-of-their-grand-plan-to#p87957634 
 * 2022-07-20 https://support.github.com to <<meant-to-be-used>>. GitHub is on Ciro's side.
 * 2022-05 bytedance.feishu.cn 3 people to repo https://github.com/cirosantilli/china-dictatorship
   * 2022-06-03 8 links from bytedance.feishu.cn to https://cirosantilli.com/cirosantilli Perhaps interested in Ciro's recent clear disclosure that he was in Cambridge in 2017? Two of them have identifiers:
