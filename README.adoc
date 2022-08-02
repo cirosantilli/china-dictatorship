@@ -439,6 +439,8 @@ See also: <<protestware>>.
 Another source of China-specific mirroring of this project are GitHub proxies, https://linuxpip.org/github-in-china/ contains an overview:
 
 * https://hub.fastgit.org/ this appears to auto-redirect to GitHub from non-Chinese IPs, but presumably shows the pages for Chinese IPs, e.g. we had hits from http://hub.fastgit.org/cirosantilli/china-dictatorship[] in 2021-03-25. This happened soon after SEO optimizations mentioned at: <<zhao-heming>> and might be related.
++
+At https://github.com/cirosantilli/china-dictatorship/issues/945 for some incomprehensible reason, user https://github.com/StarOnTheSky claiming to be from the fastgit team asked mentions of fastgit to be removed from this repository, menacing to report to <<github-report>> otherwise.
 * https://github.com.cnpmjs.org/ as of March 2021, it often reaches an apparently random "Whoa there! You have triggered an abuse detection mechanism.". But other time it succeeds, e.g. some of the times: https://github.com.cnpmjs.org/cirosantilli/china-dictatorship is visible.
 * https://a1.mk-proxy.ml/-----https://github.com/cirosantilli/china-dictatorship generated from http://toolwa.com/github/
 * https://github.com/521xueweihan/GitHub520
@@ -3857,6 +3859,9 @@ video::vNUEUth7qjc[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=t_cbW5JK9WM "The most complex Chinese character" by Vladimir Skultety does a reasonable analysis of which Chinese character is the most complex
 video::t_cbW5JK9WM[youtube,height=400,width=600]
+
+.When you don't know how to write in Chinese but still want to be festive during Lunar New Year. Source: https://www.reddit.com/r/China/comments/10f53nl/happy_happy/
+image::https://web.archive.org/web/20230118231354im_/https://preview.redd.it/poqyf109wtca1.jpg?width=960&crop=smart&auto=webp&v=enabled&s=1590be786687d2f40e288c86fc8769ae03deaee8[height=500]
 
 [[seal]]
 ====== Seal (印章)
@@ -17093,6 +17098,7 @@ image::{china-dictatorship-media-base}/Huawei_5G_my_precious.jpg[height=400]
 
 News:
 
+* 2023 https://techcrunch.com/2023/01/19/tiktok-college-bans-texas-bytedance/ More universities are banning TikTok from their campus networks and devices
 * 2020-11-05 https://www.businessinsider.com/tiktok-censor-china-critical-content-uighur-uighurs-2020-11?r=US&IR=T "A senior TikTok executive admitted the company used to censor content critical of China, 'specifically with regard to the Uighur situation'", related to: <<xinjiang-re-education-camps>>
 * 2020-07 https://techcrunch.com/2020/07/23/tiktok-creator-fund-200-million-us/ "TikTok unveils $200 million fund for U.S. creators": TikTok is trying to buy their stay in the West.
 * 2020-07 https://www.forbes.com/sites/zakdoffman/2020/06/26/warning-apple-suddenly-catches-tiktok-secretly-spying-on-millions-of-iphone-users/#5265c8d734ef "pple Suddenly Catches TikTok Secretly Spying On Millions Of iPhone Users" by reading from the clipboard
