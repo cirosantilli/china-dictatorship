@@ -511,6 +511,10 @@ Mentioned in other sections:
 * <<anti-video-game-ban-tools>>
 * https://github.com/hmsjy2017/Google-Mirrors from <<google-mirrors>>
 
+Possibly not censored, but sensitive:
+
+* https://github.com/The-Run-Philosophy-Organization/run from [[runxue]]
+
 Not mentioned in other sections:
 
 * taibangle (太棒了)
@@ -2698,6 +2702,15 @@ video::_y2FIqfIpiw[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game.
 video::zndzntIDLFE[youtube,height=400,width=600]
+
+[[runxue]]
+====== Run xue 润学
+
+Slang about learning ways to escape from China by emigrating.
+
+https://zh.wikipedia.org/zh-hans/润学
+
+https://github.com/The-Run-Philosophy-Organization/run 31k stars as of June 2024.
 
 [[chilling-effect]]
 ====== Chilling effect (寒蝉效应)
