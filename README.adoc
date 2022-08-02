@@ -1037,6 +1037,30 @@ Some people say https://english.stackexchange.com/questions/284671/dont-st-where
 .<<chrysanthemium-xi-jinping>> has been used by Ciro Santilli as a profile picture censored image attack
 image::{china-dictatorship-media-base}/Chrysanthemum_Xi_Jinping_with_black_red_liusi_added_by_Ciro_Santilli.jpg[height=400]
 
+[[scunthorpe-problem]]
+===== Scunthorpe problem (斯肯索普问题)
+
+* https://en.wikipedia.org/wiki/Scunthorpe_problem
+* https://zh.wikipedia.org/wiki/斯肯索普问题
+
+For China it is <<falun-sweden>>.
+
+[[falun-sweden]]
+====== Falun, Sweden (法轮，瑞典的城市)
+
+* https://en.wikipedia.org/wiki/Falun
+* https://zh.wikipedia.org/wiki/法倫
+
+A Swedish University town called "Falun", with the same "Falun" Chinese characters as those in <<falun-gong>>, which got the town blocked by the <<internal-censorship,GFW>> on some websites, mentioned at:
+
+* https://www.wsj.com/articles/SB10001424127887323926104578277511385052752
+* https://zh.wikipedia.org/w/index.php?title=法倫&oldid=47709870#趣闻
+
+Known primarily for its mine, which was one of the oldest operating companies in the world:
+
+* https://en.wikipedia.org/wiki/Falun_Mine
+* https://zh.wikipedia.org/wiki/法伦的大铜山矿区
+
 [[cute-cat-theory-of-digital-activism]]
 ==== Cute cat theory of digital activism (可爱猫理论)
 
@@ -15100,22 +15124,6 @@ Sample works:
 
 * <<blood-cotton-initiative-wuheqilin,"Blood Cotton Initiative" by Wuheqilin>>
 
-[[falun-sweden]]
-=== Falun, Sweden (法轮，瑞典的城市)
-
-* https://en.wikipedia.org/wiki/Falun
-* https://zh.wikipedia.org/wiki/法倫
-
-A Swedish University town called "Falun", with the same "Falun" Chinese characters as those in <<falun-gong>>, which got the town blocked by the <<internal-censorship,GFW>> on some websites, mentioned at:
-
-* https://www.wsj.com/articles/SB10001424127887323926104578277511385052752
-* https://zh.wikipedia.org/w/index.php?title=法倫&oldid=47709870#趣闻
-
-Known primarily for its mine, which was one of the oldest operating companies in the world:
-
-* https://en.wikipedia.org/wiki/Falun_Mine
-* https://zh.wikipedia.org/wiki/法伦的大铜山矿区
-
 [[art]]
 == Art (艺术)
 
@@ -16328,7 +16336,7 @@ TODO origin of the <<slang,slang>> 科学上网 (Scientific Internet access) ter
 
 Lists:
 
-* https://github.com/net4people/bbs
+* https://github.com/net4people/bbs[]. Added mention at: https://github.com/cirosantilli/china-dictatorship/issues/1265
 +
 ____
 The BBS is an inclusive and multilingual forum for public discussion about Internet censorship circumvention. It is a place for developers and researchers to discuss and share information, techniques, and research. Feel free to write in your own language; we will translate.
