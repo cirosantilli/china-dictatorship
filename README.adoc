@@ -5929,6 +5929,7 @@ Bibliography:
 * https://www.zhihu.com/question/388634161 如果举报github上的这种情况？ (How to report this type of circunstance on GitHub.) Question links to <<evil-man>>.
 +
 A few answers then started mentioning <<github-com-cirosantilli-china-dictatorship>>:
++
 ** 2021-08-15 https://www.zhihu.com/question/388634161/answer/2062103232 "主楼的没了，这个存在一年左右了，有人来举报吗？" (The repo the OP mentioned (<<evil-man>>) does not exist anymore. Did anyone report this one?). Real answer: because <<ciro-santilli>> is not Chinese, you cannot arrest him like you arrested the author of <<evil-man>>.
 ** 2021-08-224 https://www.zhihu.com/question/388634161/answer/2080367170 "大家一起举报上面内容" (Let's everybody report the above content together) with a screenshot: https://pic3.zhimg.com/v2-15efd54f1a16e17ef1ae77702b03bb88_r.jpg?source=1940ef5c[]. Ah, the beauty of it.
 +
@@ -7228,6 +7229,7 @@ Official English translation: http://english.scio.gov.cn/whitepapers/2020-09/17/
 Title: 新疆的劳动就业保障 (Employment and Labor Rights in Xinjiang)
 +
 Quote:
++
 ____
 全疆年均培训城乡各类劳动者128.8万人次，其中，南疆地区年均培训45.14万人次。参训人员至少掌握1项就业技能，绝大多数取得了职业资格证书、职业技能等级证书或专项职业能力证书，实现稳定就业。
 ____
@@ -7700,6 +7702,7 @@ News:
 <<jimmy-lai>> is the founder of <<apple-daily>>, the flagship newspaper under Next Digital and the biggest pro-democracy paper in Hong Kong, reported that nearly 200 officers were entering their offices. 
 +
 Other notable arrests:
++
 ** <<agnes-chow>> https://www.washingtonpost.com/world/2020/08/10/who-are-jimmy-lai-agnes-chow-two-hong-kong-democracy-advocates-arrested-monday/
 +
 The CCP is not even pretending anymore.
@@ -7717,6 +7720,7 @@ ____
 The name of the hotel is Metropark Hotel (維景酒店), address: 148 Tung Lo Wan Rd, Causeway Bay, Hong Kong: https://goo.gl/maps/1uR4RntpLMFaCYpq6
 +
 Using hotels as a base of operations is of coures common in occupied regions, see e.g.:
++
 ** https://en.wikipedia.org/wiki/The_Peninsula_Paris[The Peninsula Paris] (previously Hotel Majestique), which was used by the <<nazi,Gestapo>> and figures in the movie https://en.wikipedia.org/wiki/Army_of_Shadows[Army of the Shadows (1969)]. An important quote from that movie when a prisoner of the Nazis dies, his friend says:
 +
 ____
@@ -15781,6 +15785,7 @@ Some website specific techniques:
 How to search by prefix/pattern: https://webapps.stackexchange.com/questions/146661/how-to-search-the-internet-archives-wayback-machine-by-url-prefix-or-pattern
 
 How to archive with an API:
+
 * https://stackoverflow.com/questions/33811582/how-to-access-wayback-machine-programmatically
 * https://webapps.stackexchange.com/questions/151299/does-the-internet-wayback-machine-api-support-adding-a-link-to-scrape
 * https://blog.archive.org/2019/10/23/the-wayback-machines-save-page-now-is-new-and-improved/
