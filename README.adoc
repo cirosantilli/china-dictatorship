@@ -2044,6 +2044,15 @@ ____
 Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly. But to trace out the history of the whole period, to say who was fighting whom at any given moment, would have been utterly impossible, since no written record, and no spoken word, ever made mention of any other alignment than the existing one. At this moment, for example, in 1984 (if it was 1984), Oceania was at war with Eurasia and in alliance with Eastasia. In no public or private utterance was it ever admitted that the three powers had at any time been grouped along different lines. Actually, as Winston well knew, it was only four years since Oceania had been at war with Eastasia and in alliance with Eurasia. But that was merely a piece of furtive knowledge which he happened to possess because his memory was not satisfactorily under control. Officially the change of partners had never happened. Oceania was at war with Eurasia: therefore Oceania had always been at war with Eurasia. The enemy of the moment always represented absolute evil, and it followed that any past or future agreement with him was impossible.
 ____
 
+
+Another amazing quote that comes to mind is from https://en.wikipedia.org/wiki/Smiley%27s_People_(TV_series)[the 1982 BBC TV adaptation of John Le Carre's spy novel "Smiley's People"]. In it, master British spy codenamed Smiley manages to coerce the head of the KGB spies, codename "Karla" to defect to the West by threatening to publicize illegal acts Karla committed for the benefit of the health mentally troubled daughter, and which would likely lead to his execution. In a letter he writes to Karla, he says, likely copied verbatim from the novel:
+
+____
+And I am not going to make any claims about the moral superiority of the West. I'm sure you can see through our values, just as I can see through yours in the East. You and I have spent our lives looking for the weaknesses in each other's systems. I'm sure each of us experienced innumerable technical satisfactions in our wretched cold war. But now your own side is going to shoot you, for nothing. For misdemeanors you have not committed, because of a power struggle within your own kind, because of someone's suspicions or sheer incompetence.
+____
+
+See also: https://www.quora.com/What-do-you-like-and-admire-about-the-culture-of-China/answer/Ciro-Santilli
+
 https://youtu.be/74Mw3N6WxG0?t=174 Cant Get You Out of My Head S01E05 Part Five The Lordly Ones also (2021, BBC) mentions that a huge propaganda machinery was created to spread the fake news that <<tiananmen>> was an evil western plot.
 
 Duplicate pool: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Aevil-west+
@@ -3472,6 +3481,10 @@ Some useful slangs seen on the wild:
 * "emm" https://www.zhihu.com/question/288002941
 
 GitHub issue label: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ai-know-slangs-i-smart+
+
+In other sections:
+
+* <<taiwan-frog>>
 
 [[vagina]]
 .A https://en.wikipedia.org/wiki/Vagina[Vagina] (https://zh.wikipedia.org/wiki/阴道[阴道]) also known as cunt (屄), is the female reproductive organ, including the naturally occurring black hole that appears in front of it whenever a picture is taken to prevent <<github>> from taking down this page. Even though <<porn,you've never seen one>>, there's no need to be afraid of it, and refer to it in euphemisms like "SB". https://en.wikipedia.org/wiki/File:Rugae_vaginales.jpg[Background source] and https://commons.wikimedia.org/wiki/File:Black_Hole_Milkyway.jpg[black hole source].
@@ -6900,6 +6913,14 @@ https://ptthito.com/gossiping/m-1519493262-a-5c1/
 
 Mainland <<slang,slang>> for "Taiwanese".
 
+[[greater-china]]
+==== Greater China (大中华)
+
+* https://en.wikipedia.org/wiki/Greater_China
+* https://zh.wikipedia.org/wiki/大中華
+
+Politically ambiguous euphemism designed to not make it clear if you think Taiwan is part of China or not.
+
 [[xinjiang]]
 === Xinjiang (新疆)
 
@@ -8163,7 +8184,7 @@ Because of course: you are human, not a God, and you are going to fuck up from t
 
 As a result, there are almost no recordings of Li Hongzhi except from the early days when he actually had to go out and get new believers hooked himself.
 
-What if he farted, or worse, brain-farted during a presentation, like we all do from time to time? Don't want recordings of that, do we? <<flg-canon>> related to those private presentations is only published after careful review of course.
+What if he (brain-)farted during a presentation, like we all do from time to time? Don't want recordings of that, do we? <<flg-canon>> related to those private presentations is only published after careful review of course.
 
 [[vissarion]]
 .https://www.youtube.com/watch?v=W2Cv5hZfOmk&t=1177 Siberian Cult Leader Thinks He's Jesus by VICE (2012) In this documentary, which VICE was allowed to visit and interview <<russia,Siberian>> prophet https://en.wikipedia.org/wiki/Vissarion[Vissarion] (real name Sergey Anatolyevitch Torop Серге́й Анато́льевич То́роп, AKA "The Russian Jesus"), and they note how well he controlled his appearance. Ciro also heard similar stories of <<stalin>> and <<mao-zedong>> when they would retreat from the public eye for a while. Part of appearance control generally requires you to select select <<membership-rivalry-orange-papers,cult members of the inner circle>> to act for you, so you can minimize your surface of errors. This in exchange gives them greater status in the community.
@@ -21421,9 +21442,19 @@ image::{china-dictatorship-media-base}/Moscow-Minsk_friendship_mural_girl_with_b
 
 The situation is basically the same as that of <<belarus>>: Russia wants buffer states/human shields between itself and its possible enemies, The West. Just like he USA did during the <<cuban-missile-crisis>>. It is just too important strategically for the Russians.
 
+Some things that must be said:
+
+* Ukraine is/was not a proper democracy. There was only limited freedom of speech.
+* there is a some level neo-Nazi-like movement in Ukraine. Of course, this is just an excuse for Russian invasion, but it is there.
+
 This is something the USA should recognize, and promise not to expand NATO/EU there:
 
 * https://www.youtube.com/watch?v=ZnHo6JXxcQM The War in Ukraine by Glenn Greenwald (2022) Mentions how USA was very influential in Ukraine since the 2014 revolution. Another point is on the Trump election, democrats were accusing Trump of being supported by the Russians, which led it to become a taboo to talk to Russians, and strained relations between the USA and Russia.
+
+Some other pearls:
+
+* https://www.theguardian.com/world/2022/mar/11/russia-un-claims-us-backed-biological-weapon-plot-kremlin-foreign-fighters-ukraine Russia claims US has biological weapons development in Ukrains... that's insane, why would they develop weapons next door to Russia, where billion dollar research would be at constant risk of disruption and capture, not to mention the risk of starting world war 3!!! Resonates with United States accusations of weapons of mass destruction in Iraq though. However, https://www.youtube.com/watch?v=HmyDGZsrQyA mentions that the US knew about biological weapons research facilities in Ukraine.
+* Police make more than 1,700 arrests as protesters take to the streets in cities across country https://www.theguardian.com/world/2022/feb/24/we-dont-want-this-russians-react-to-the-ukraine-invasion
 
 .https://www.youtube.com/watch?v=8X7Ng75e5gQ Vladimir Pozner: How the United States Created Vladimir Putin (2018) Basically says it was a similar bullshit to what the allies did after WWI, rather than invest in the country, they were more willing to punish it, or ignore it. Notably disastrous was the enlargement of NATO in 1996 to move East including Poland, which the USA had promised not to do during discussions for the reunification of Germany in 1989. When Putin came to power, he propoesd that Russia should join the NATO or the European Union, and again he was turned down.
 video::8X7Ng75e5gQ[youtube,height=400,width=600]
@@ -21437,12 +21468,6 @@ video::wtyA3VJQn1g[youtube,height=400,width=600,start=53]
 
 .https://www.youtube.com/watch?v=U-gpIs3rcFk[] Ukraine: Invade us if you are <<gay-rights,gay>> | Russia: meme.
 video::U-gpIs3rcFk[youtube,height=400,width=600]
-
-Some other pearls:
-
-* https://www.theguardian.com/world/2022/mar/11/russia-un-claims-us-backed-biological-weapon-plot-kremlin-foreign-fighters-ukraine Russia claims US has biological weapons development in Ukrains... that's insane, why would they develop weapons next door to Russia, where billion dollar research would be at constant risk of disruption and capture, not to mention the risk of starting world war 3!!! Resonates with United States accusations of weapons of mass destruction in Iraq though. However, https://www.youtube.com/watch?v=HmyDGZsrQyA mentions that the US knew about biological weapons research facilities in Ukraine.
-* 2022-02-18 Russia's foreign minister, Sergey V. Lavrov said Ukraine was under the influence of "neo-Nazis" and the West. Can you believe the level of the invasion excuse, blaming neo nazis?
-* Police make more than 1,700 arrests as protesters take to the streets in cities across country https://www.theguardian.com/world/2022/feb/24/we-dont-want-this-russians-react-to-the-ukraine-invasion
 
 [[zov]]
 ===== ZOV by Pavel Filatyev (2022, Павел Филатьев)
