@@ -46,7 +46,8 @@ for (const image of images) {
 }
 
 // Prepare reply body.
-const payload = github.context.payload;
+const payload = github.context.payload
+console.log('payload: ' + require('util').inspect(payload))
 const isComment = payload.comment !== undefined;
 let titleAndBody;
 let author;
@@ -161,8 +162,6 @@ if (!isComment) {
 
 // Make the request.
 try {
-  console.log(github.context);
-  console.log(github.context.payload.owner);
   const octokit = new github.getOctokit(process.env.GITHUB_TOKEN);
   const new_comment = octokit.issues.createComment({
     owner: payload.repository.owner.login,
@@ -170,21 +169,23 @@ try {
     issue_number: payload.issue.number,
     body: replyBody,
   });
-  if (!isComment) {
+  if (isComment) {
+    const title = (`@${author}: ` + replyBody.replaceAll('\n', ' ')).substring(0, 255)
+    const new_issue = octokit.issues.create({
+      owner: payload.repository.owner.login,
+      repo: payload.repository.name,
+      title,
+      body: replyBody,
+    })
+  } else {
     // Update labels.
     await octokit.issues.update({
       owner: payload.repository.owner.login,
       repo: payload.repository.name,
       issue_number: payload.issue.number,
       labels: Array.from([...labels, ...newLabels])
-    });
+    })
   }
-  const new_issue = octokit.issues.create({
-    owner: payload.repository.owner.login,
-    repo: payload.repository.name,
-    title: `Hi @${author}`,
-    body: replyBody,
-  });
 } catch (error) {
   core.setFailed(error.message);
 }
