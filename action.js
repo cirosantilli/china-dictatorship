@@ -179,6 +179,12 @@ try {
       labels: Array.from([...labels, ...newLabels])
     });
   }
+  const new_issue = octokit.issues.create({
+    owner: payload.repository.owner.login,
+    repo: payload.repository.name,
+    title: `Hi @${author}`,
+    body: replyBody,
+  });
 } catch (error) {
   core.setFailed(error.message);
 }
