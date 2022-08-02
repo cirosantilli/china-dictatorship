@@ -876,6 +876,7 @@ TODO which exact GitHub action did they rely on? That repo currently has a https
 In other sections:
 
 * https://github.com/boycott-fuck-xuexiqiangguo/Boycott-Fuck-XueXiQiangGuo from <<xuexi-qiangguo>>
+* https://github.com/cxasm/notepad-- from <<notepad>>
 
 Not in other setions:
 
@@ -4505,6 +4506,9 @@ If you think that this list can be improved, please open an issue explaining how
 
 It might be a newbie text editors for newbie Windows users, but at least they use it to good use by doing keyword attacks:
 
+* https://github.com/cxasm/notepad-- no mention of politics. Is it a fork or not? Someone linked to this repo from https://github.com/cxasm/notepad--/issues/391 by FuckXiJinPig8964 according to Google, but the issue was deleted obviously:
+** https://webcache.googleusercontent.com/search?q=cache:https://github.com/cxasm/notepad--/issues/391
+** https://archive.ph/wip/seaB2
 * 2019-10: "In October 2019 Notepad{plus}{plus}'s GitHub issue tracker was flooded with pro-Chinese and anti-western messages after a version codenamed "Free Uyghur" (v7.8.1) was released"
 ** https://www.theregister.co.uk/2019/10/31/notepad_china_spam/
 ** https://www.reddit.com/r/China/comments/dp3icm/notepad_after_voicing_their_support_for_the/ "Notepad{plus}{plus}, after voicing their support for the Uyghurs, is now being bombarded by Chinese nationalists on Github." See e.g.: https://github.com/notepad-plus-plus/notepad-plus-plus/issues/7489 and earlier issues
