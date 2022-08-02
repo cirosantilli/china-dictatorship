@@ -5071,9 +5071,6 @@ More <<wumao,wumao>> focused strategies at: <<how-to-deal-with-wumaos>>.
 
 https://github.com/cirosantilli/china-dictatorship/issues/733 by https://github.com/newcih is an interesting issue. OP has managed to close and change the issue title despite being blocked. Is he raising support tickets? Or can blocked people do that now? E.g. note towards https://github.com/cirosantilli/china-dictatorship/issues/733#event-5930333327 how cirosantilli managed to reopen twice without any visible closes in the middle. They also have a Twitter BTW: https://twitter.com/newcih2020/status/1520405835679109120
 
-.Chinese translation of the above.
-image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective_zh.png[height=1200]
-
 .Cartoon depiction of the https://en.wikipedia.org/wiki/Chengyu[chengyu] "Playing the <<music,qin>> to a cow" 《对牛弹琴》. https://zhidao.baidu.com/question/438181067.html[Source].
 image::{china-dictatorship-media-base}/Play_qin_to_cow.png[height=600]
 
@@ -5095,6 +5092,9 @@ This concept is a mixture of the concepts of:
 
 .https://knowyourmeme.com/memes/its-super-effective[It's Super Effective!] meme by <<ciro-santilli>> describing how he deals with <<wumao,wumaos>> and <<little-pink,little pinks>>. Humour is the greatest weapon against dictators, and images help cross the language barrier. Composition CC BY-SA 2021, fair use on copyrighted individual elements.
 image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective.png[height=1200]
+
+.Chinese translation of the above.
+image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective_zh.png[height=1200]
 
 ==== china-dictatorship reply bot
 
@@ -21413,6 +21413,31 @@ Some other pearls:
 * https://www.theguardian.com/world/2022/mar/11/russia-un-claims-us-backed-biological-weapon-plot-kremlin-foreign-fighters-ukraine Russia claims US has biological weapons development in Ukrains... that's insane, why would they develop weapons next door to Russia, where billion dollar research would be at constant risk of disruption and capture, not to mention the risk of starting world war 3!!! Resonates with United States accusations of weapons of mass destruction in Iraq though. However, https://www.youtube.com/watch?v=HmyDGZsrQyA mentions that the US knew about biological weapons research facilities in Ukraine.
 * 2022-02-18 Russia's foreign minister, Sergey V. Lavrov said Ukraine was under the influence of "neo-Nazis" and the West. Can you believe the level of the invasion excuse, blaming neo nazis?
 * Police make more than 1,700 arrests as protesters take to the streets in cities across country https://www.theguardian.com/world/2022/feb/24/we-dont-want-this-russians-react-to-the-ukraine-invasion
+
+[[zov]]
+===== ZOV by Pavel Filatyev (2022, Павел Филатьев)
+
+Ex soldier Pavel Filatyev (Павел Филатьев) published a 141 page critical account of his days in the war entitled "ZOV".
+
+First 20kB:
+
+* link:++ZOV от Павла Филатьева 2022.txt++[]
+* link:++ZOV by Pavel Filatyev 2022.txt++[]
+
+Full txt reuploads:
+
+* Russian: https://github.com/cirosantilli/media/blob/master/zov.txt
+* Google translate: https://github.com/cirosantilli/media/blob/master/zov-en.txt
+
+TODO original upload URL. Western news as usual uncapable of pointing to original online sources.
+
+https://www.reddit.com/r/ukraine/comments/wquz45/comment/ikoqbdk/?utm_source=reddit&utm_medium=web2x&context=3 comments original post at: https://sun1-89.userapi.com/c237231/u365182800/docs/d8/17fc149bb7e3/ZOV.pdf?extra=ZIlJXh0qQThxUPmlPts4syPhsVcAlbldhqz1rTEyz6NMiOQbRUhObImZzBcBmEYVZRyKDQD5mB4p6PkwU_SoENITIEyTCDhwkJURy0mFNFny2TRrnEHz38QyGoAvz7Gj4VdqFS6YJX-i but that is down. Uploaded a Google translated version at: https://docs.google.com/document/d/1guApbii5AjzkaD1C_jjypxCL3hQI_iJLQQBFTC1Pfeo/edit
+
+https://gulagu.net https://en.wikipedia.org/wiki/Gulagu.net has a purported copy at: https://gulagu-net.ru/download/2595
+
+Funny to see some top Google hits in Chinese: https://zhuanlan.zhihu.com/p/553165607
+
+* https://www.theguardian.com/world/2022/aug/17/i-dont-see-justice-in-this-war-russian-soldier-exposes-rot-at-core-of-ukraine-invasion
 
 [[marina-ovsyannikova]]
 ===== Marina Ovsyannikova (Марина Овсянникова, 2022, anti war poster on live news)
