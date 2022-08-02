@@ -1055,14 +1055,29 @@ Services that can be used to easily view this data online include:
 
 We have been able to find the following anti-CCP information in the blockchain so far:
 
-* http://bitfossil.org/fe0dfa51337dfce616a0e0305d10eed867e56a9f0f006b0521ec1ea32851a342/index.htm[] from 2014 is about the <<hong-kong>> 2014 protests. It contains text and images in the AtomSea & EMBII format. Part of the text is ripped from: https://www.bbc.co.uk/news/av/world-asia-29421909 "Hong Kong democracy protesters defiant on National Day Tens of thousands of people have been blocking parts of the city for days."
-* 2017 https://bitcoinstrings.com/blk00776.txt[blk00776.txt] transaction https://www.blockchain.com/btc/tx/3845e630032578cb825d587b759eb499511d691f93962f4b9f5b2e06ef9570c7[3845e630032578cb825d587b759eb499511d691f93962f4b9f5b2e06ef9570c7] says:
+* 2014: http://bitfossil.org/fe0dfa51337dfce616a0e0305d10eed867e56a9f0f006b0521ec1ea32851a342/index.htm[] is about the <<hong-kong>> 2014 protests. It contains text and images in the AtomSea & EMBII format. Part of the text is ripped from: https://www.bbc.co.uk/news/av/world-asia-29421909 "Hong Kong democracy protesters defiant on National Day Tens of thousands of people have been blocking parts of the city for days."
+* 2017: https://bitcoinstrings.com/blk00776.txt[blk00776.txt] transaction https://www.blockchain.com/btc/tx/3845e630032578cb825d587b759eb499511d691f93962f4b9f5b2e06ef9570c7[3845e630032578cb825d587b759eb499511d691f93962f4b9f5b2e06ef9570c7] says:
 +
 ____
 Tiananmen massacre <--- I dare China to censor this.
 ____
+* 2017 1ca4f11131eca6b4d61daf707a470cfccd1ef3d80a6f8b70f1f07616b451ca64e from 2017 contains an image of <<tank-man>> encoded as standard transaction SHAs. The image is mentioned at: https://archive.4plebs.org/pol/thread/191157608/#q191162145 with indexer URL https://cryptograffiti.info/#ca4f11131eca6b4d61daf707a470cfccd1ef3d80a6f8b70f1f07616b451ca64e.jpg but that link is not working
 * 2017 blk00808.txt transaction https://www.blockchain.com/btc/tx/91b9b44532e094522e905012c04f207df1bcad8d9df7232679cb16859a008bdd[91b9b44532e094522e905012c04f207df1bcad8d9df7232679cb16859a008bdd] (TODO why not visible at https://bitcoinstrings.com/blk00808.txt[]) contains a full text reproduction of: https://www.hrw.org/news/2016/06/01/china-tell-truth-about-tiananmen-anniversary "China: Tell the Truth About Tiananmen on Anniversary" from <<human-rights-watch>>. The text is preceeded by a Chinese version of the same.
-* ca4f11131eca6b4d61daf707a470cfccd1ef3d80a6f8b70f1f07616b451ca64e from 2017 contains an image of <<tank-man>> encoded as standard transaction SHAs. The image is mentioned at: https://archive.4plebs.org/pol/thread/191157608/#q191162145 with indexer URL https://cryptograffiti.info/#ca4f11131eca6b4d61daf707a470cfccd1ef3d80a6f8b70f1f07616b451ca64e.jpg but that link is not working
+* https://www.blockchain.com/explorer/transactions/btc/0072a67e116e7bec2ca36d9ab71e61bd3732f201c76ab04eb06dae7c3c6f8ab8[2021-01-18]: https://github.com/cirosantilli/bitcoin-strings-with-txids/blob/7e95546479508e9fe5158dad6bc8601e2b4e02ee/data/out/0666.txt#L545[tx 0072a67e116e7bec2ca36d9ab71e61bd3732f201c76ab04eb06dae7c3c6f8ab8]:
+____
+source of humanity and the mother of truth dp
+____
++
+TODO meaning of "dp". Part of a quote by <<liu-xiaobo>> which was delivered in his Nobel Prize speech in absentia: https://www.nobelprize.org/prizes/peace/2010/xiaobo/lecture/[], fuller quote:
++
+____
+<<freedom-of-the-press,Freedom of expression>> is the foundation of human rights, the source of humanity, and the mother of truth. To strangle freedom of speech is to trample on human rights, stifle humanity, and suppress truth.
+____
+* 2022-01-14 https://www.blockchain.com/explorer/transactions/btc/009afecd15a924d10be590d60254fc02bb967da4d2d17c1a965fd5db6178a50d[tx 009afecd15a924d10be590d60254fc02bb967da4d2d17c1a965fd5db6178a50d]
++
+____
+<<chernobyl-2019-miniseries,Covid19 is Xi Jinping s Chernobyl>>
+____
 
 But of course, there are crypto-<<wumao>>'s there too!!! The incongruence of a dictatorship and uncensorability is just mind blowing:
 
@@ -2055,8 +2070,10 @@ Installing any of those immediately give you <<social-credit-system,10 Sesame Po
 See also: <<harm-programmers>>.
 
 [[what-is-more-obscene-sex-or-war]]
-.https://www.youtube.com/watch?v=GwCyQINNXwE "What is more obscene: sex or war?" scene from https://en.wikipedia.org/wiki/The_People_vs._Larry_Flynt[The People vs. Larry Flynt (1996)]. Ciro just can't stop thinking about that scene when someone tells him that <<disturbs,his profile disturbs them>>. What is more obscene? <<xi-jinping-memes>> or human rights violations?
-video::SRPiE59e8NU[youtube,height=400,width=600]
+.https://www.youtube.com/watch?v=MPI5QkPrWzI "What is more obscene: sex or war?" scene from https://en.wikipedia.org/wiki/The_People_vs._Larry_Flynt[The People vs. Larry Flynt (1996)]. Ciro just can't stop thinking about that scene when someone tells him that <<disturbs,his profile disturbs them>>. What is more obscene? <<xi-jinping-memes>> or human rights violations?
+video::MPI5QkPrWzI[youtube,height=400,width=600]
+
+https://www.youtube.com/watch?v=
 
 [[browser-extensions-to-hide-keyword-attacks]]
 ===== Browser extensions to hide keyword attacks (隐藏关键字攻击的浏览器扩展)
@@ -2095,6 +2112,15 @@ which reference various forks of china-dictatorship:
 ** https://github.com/Iorine/china-dictatorship
 ** https://github.com/jk-ice-cream[]. This one has some original content on profile: https://github.com/jk-ice-cream/jk.ice_cream_ apparently linked to <<gay-rights>>
 ** https://greasyfork.org/en/scripts/473912-github搜索净化[]. Matching username of a GitHub user: https://github.com/danicastarr[].
+* https://github.com/wilson7yz/PurifyGithubSearchPage
+* https://greasyfork.org/en/scripts/470797-github-去除中文搜索污染 by "Mai Kuraki". Blocklist is:
+** "haoxuesen"
+** "zhaohmng", "zaohmeing", "zhaohmng-outlook-com", "zaohmeing": <<zhao-heming>>
+** "Thestrangercamus": https://github.com/Thestrangercamus/On-constitution-amendment-NO.1
+** "shengxinjing": https://github.com/shengxinjing/programmer-job-blacklist[]. Why?
+** "cirosantilli", "codin-stuffs", "cheezcharmer"
+** "Dimples1337": https://web.archive.org/web/20221014142033/https://github.com/Dimples1337/[]
+** "gege-circle",
 
 [[not-chinese]]
 === Non-Chinese people should not interfere in Chinese politics (外国人不应该干预中国政治)
@@ -17935,6 +17961,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2023-11-15 https://www.reddit.com/r/github/comments/17vv8kh/whats_the_deal_with_these_repos_that_repeat_on/
 * 2023-10-30 https://www.reddit.com/r/ADVChina/comments/17jz3do/github_history_of_ccp_dictatorship/ "Github: History of CCP Dictatorship" on the ADVChina <<reddit>>
 * 2023-08-23 https://t.me/XueXi_China/65965 by <<gfwfrog>>'s Telegram reposts anonymous submission of <<github-com-cirosantilli-china-dictatorship>>. Let to a bit of traffic: https://github.com/cirosantilli/china-dictatorship/issues/1060
 +
