@@ -1441,6 +1441,47 @@ People were getting really fed up by that one:
 .https://www.youtube.com/watch?v=dpJPPJwi2Vo What It’s Like Inside Shanghai’s Lockdown by VICE News (2022)
 video::dpJPPJwi2Vo[youtube,height=400,width=600]
 
+[[sitong-bridge-protest]]
+====== Sitong Bridge protest (北京四通桥抗议, 2022)
+
+* https://en.wikipedia.org/wiki/Beijing_Sitong_Bridge_protest
+* https://zh.wikipedia.org/wiki/北京四通桥抗议
+* <reddit> threads:
+** https://www.reddit.com/r/China/comments/y2rl9p/protest_banners_in_downtown_beijing_i_hope_the/
+** https://www.reddit.com/r/China_irl/comments/y2qjpp/北京海淀区四通桥横幅/
+* https://www.youtube.com/watch?v=VgYVdpH8Jxg a video
+* <rfa> https://www.rfa.org/mandarin/Xinwen/wulb-10132022033345.html
+* https://twitter.com/jajia/status/1580434183209771008 gives the location. "The intersection of Zhongguancun Street and North Third Ring Road." 中關村大街和北三環交叉口。如圖
+* https://www.reddit.com/r/China/comments/y57og2/the_brave_man_who_put_up_the_banner_on_the/ possible identity, not very well confirmed: https://twitter.com/lifa_petter
+* https://www.bloomberg.com/news/articles/2022-10-18/anti-xi-slogans-in-rare-beijing-protest-spread-within-china?leadSource=uverify%20wall
+____
+不要核酸要吃饭 +
+不要封城要自由 +
+不要谎言要尊严 +
+不要文革要改革 +
+不要领袖要选票 +
+不做奴隶做公民 +
+No covid test, but food! +
+No lockdown, but freedom! +
+No lies, but dignity! +
+No the Cultural Revolution, but reform! +
+No leaders, but votes! +
+No slave, but citizen!
+
+罢免独裁国贼习近平 +
+Remove the dictatorial state traitor <<xi-jinping,Xi Jinping>>!
+____
+
+And the dude had a loudspeaker too, he was not planning to flee at all:
+
+____
+要吃饭，要自由，要选票！罢课，罢工，罢免独裁国贼习近平！ +
+Demand food, freedom, ballot! Students, workers, strike and depose the despotic traitor <<xi-jinping,Xi Jinping>>!
+____
+
+.Sitong Bridge protest photo from the crosswalk. https://www.bbc.co.uk/news/world-asia-china-63252559[Source].
+image::{china-dictatorship-media-base}/Sitong_Bridge_protest.jpg[height=500]
+
 [[white-paper]]
 ====== 2022 COVID-19 protests in China (白纸运动, 白纸革命, White paper protests)
 
@@ -1449,12 +1490,30 @@ video::dpJPPJwi2Vo[youtube,height=400,width=600]
 
 Some <<reddit,Reddits>>:
 
-* https://www.reddit.com/r/China/comments/z7ajho/chairman_for_life_xi_jinping_has_joined_the/ pooh emperor
-* https://www.reddit.com/r/China/comments/z75dn5/this_is_the_most_sensitive_photo_in_china_now/ pooh white paper
-* https://www.reddit.com/r/China/comments/z6ss3x/university_students_gathered_in_front_of_the/ Qinghua university
+* with <<winnie-the-pooh,Winnie the Pooh>>:
+** https://www.reddit.com/r/China/comments/z7ajho/chairman_for_life_xi_jinping_has_joined_the/ pooh emperor
+** https://www.reddit.com/r/China/comments/z75dn5/this_is_the_most_sensitive_photo_in_china_now/ pooh white paper
 
 .White paper protesters in Beijing. https://www.nytimes.com/2022/11/28/world/asia/china-protests-blank-sheets.html[Source].
 image::{china-dictatorship-media-base}/White_paper_protest_Beijing_2022.jpg[height=500]
+
+.https://www.youtube.com/watch?v=vDAX8UO4ZQA (https://github.com/cirosantilli/china-dictatorship/issues/923[GitHub reupload of first segment]) First segment of the video: protestors in Shanghai shouting "共产党下台，习近平下台" (CCP, get out, Xi Jinping, get out). Reuploaded from: https://www.reddit.com/r/China/comments/z5fpat/shanghai_protestors_calling_for_the_end_of_xi/ which already had it cut. Clearly visible shop signs on the back: "Jasmine Cashemire", "Biu Biu". Possible address https://maps.apple.com/place?q=Jasmine%20Cashmere&ll=31.223645%2C121.445579&auid=1118368782891031&lsp=57879&address=Nanjing%20West%20Road%201678%20Long%20No.-29%20(Jing%27ansi%20Subway%20Station%20Entrance%20%26%20Exit%202%20Pedestrian%20100%20Meters)%2C%20Jing%27an%2C%20Shanghai%20China[according to Apple Maps]: Nanjing West Road 1678. https://www.reddit.com/r/China/comments/z5fpat/comment/ixy66n9/?utm_source=reddit&utm_medium=web2x&context=3 says https://www.reddit.com/r/China/comments/z5fpat/comment/ixy66n9/?utm_source=reddit&utm_medium=web2x&context=3 "Urumqi Middle Road".
+video::vDAX8UO4ZQA[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=CK4355hLtSg (https://github.com/cirosantilli/china-dictatorship/issues/923[GitHub reupload) Lady makes a spontaneour speech about <<censorship>> during protests in Chengdu. Source from <<the-great-translation-movement>>: https://twitter.com/TGTM_Official/status/1598290936500342784[]. Also discussed on <<r-china>>:https://www.reddit.com/r/China/comments/zb1giv/chengdu_western_china_a_lady_giving_a_speech_in/[].
+video::CK4355hLtSg[youtube,height=400,width=600]
+
+Key part of speech, transcript copied from this <<epoch-times>> page: https://test.qycz.org/a/202212/n16293244/web/
+
+____
+我一直非常愤怒的一点是，为什么我们说一句实话……我这两天，我在微信、我在抖音，我都在发，但是我所有的朋友都来劝我说‘小心’，‘小心被抓进去，这一抓就是要坐几年（牢）
+
+One thing I have been very angry about is why we tell the truth... I have been posting on <<wechat,WeChat>> and <<tiktok,Douyin>> in the past two days, but all my friends have come to persuade me to say 'be careful', 'be careful If you are arrested, you will have to sit there for several years.
+____
+
+[[qinghua-students-democracy-rule-of-law-2020]]
+.https://www.youtube.com/watch?v=dWzD3oprW_M (https://github.com/cirosantilli/china-dictatorship/issues/923[GitHub reupload) Students shout <<democracy,Democracy>>, <<rule-of-law,Rule of Law>>, <<censorship,Freedom of Expression>> (清华大学学生们：民主法治，表达自由) and at Tsinghua University, Bejing. Discussed on <<r-china>>: https://www.reddit.com/r/China/comments/z5vq5u/tsinghua_university_students_call_for_democracy/[]. A <<pincong>> post supporting the slogan: https://pincong.rocks/article/50818[].
+video::dWzD3oprW_M[youtube,height=400,width=600]
 
 [[li-wenliang]]
 ====== Li Wenliang (李文亮)
@@ -2446,7 +2505,7 @@ It is easy to reach an agreement, when <<chinese-dissidents,everyone who disagre
 
 This is exactly <<goring-nuremberg,Herman Goring said in his appearances on the Nuremberg trials>> to justify <<nazi,the atrocities of Nazism>>.
 
-Also ask the millions of people who were affected by <<tiananmen>>, <<falun-gong>>, <<xinjiang>> or <<dissidents>>.
+Also ask the millions of people who were affected by <<tiananmen>>, <<falun-gong>>, <<xinjiang>> or <<dissidents>>. See also: <<white-paper>>.
 
 One is reminded of the game https://en.wikipedia.org/wiki/We_Happy_Few["We Happy Few" (2018)], which which people are forced to be happy. <<nineteen-eighty-four>> also comes to mind of course.
 
@@ -2478,47 +2537,6 @@ video::_y2FIqfIpiw[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game.
 video::zndzntIDLFE[youtube,height=400,width=600]
-
-[[sitong-bridge-protest]]
-====== Sitong Bridge protest (北京四通桥抗议, 2022)
-
-* https://en.wikipedia.org/wiki/Beijing_Sitong_Bridge_protest
-* https://zh.wikipedia.org/wiki/北京四通桥抗议
-* <reddit> threads:
-** https://www.reddit.com/r/China/comments/y2rl9p/protest_banners_in_downtown_beijing_i_hope_the/
-** https://www.reddit.com/r/China_irl/comments/y2qjpp/北京海淀区四通桥横幅/
-* https://www.youtube.com/watch?v=VgYVdpH8Jxg a video
-* <rfa> https://www.rfa.org/mandarin/Xinwen/wulb-10132022033345.html
-* https://twitter.com/jajia/status/1580434183209771008 gives the location. "The intersection of Zhongguancun Street and North Third Ring Road." 中關村大街和北三環交叉口。如圖
-* https://www.reddit.com/r/China/comments/y57og2/the_brave_man_who_put_up_the_banner_on_the/ possible identity, not very well confirmed: https://twitter.com/lifa_petter
-* https://www.bloomberg.com/news/articles/2022-10-18/anti-xi-slogans-in-rare-beijing-protest-spread-within-china?leadSource=uverify%20wall
-____
-不要核酸要吃饭 +
-不要封城要自由 +
-不要谎言要尊严 +
-不要文革要改革 +
-不要领袖要选票 +
-不做奴隶做公民 +
-No covid test, but food! +
-No lockdown, but freedom! +
-No lies, but dignity! +
-No the Cultural Revolution, but reform! +
-No leaders, but votes! +
-No slave, but citizen!
-
-罢免独裁国贼习近平 +
-Remove the dictatorial state traitor <<xi-jinping,Xi Jinping>>!
-____
-
-And the dude had a loudspeaker too, he was not planning to flee at all:
-
-____
-要吃饭，要自由，要选票！罢课，罢工，罢免独裁国贼习近平！ +
-Demand food, freedom, ballot! Students, workers, strike and depose the despotic traitor <<xi-jinping,Xi Jinping>>!
-____
-
-.Sitong Bridge protest photo from the crosswalk. https://www.bbc.co.uk/news/world-asia-china-63252559[Source].
-image::{china-dictatorship-media-base}/Sitong_Bridge_protest.jpg[height=500]
 
 [[chilling-effect]]
 ====== Chilling effect (寒蝉效应)
@@ -16744,6 +16762,10 @@ Notably, they punish people for their general beliefs rather than specific actio
 
 * <<thoughtcrime>>
 * <<flg-thoughtcrime>>
+
+People asking for it:
+
+* <<qinghua-students-democracy-rule-of-law-2020,Qinghua students democracy rule of law 2020>>
 
 .On 2021-03-31, a uniformed Chinese cop called Qelbinur Sedik, who was a teacher in the <<xinjiang-re-education-camps>> who https://thediplomat.com/2020/08/confessions-of-a-xinjiang-camp-teacher/[fled China and spoke to the media what she saw], to menace her through her sister, who is still in China. When he noticed that she had taken a screenshot due to a screenshot sound, he immediately took off the uniform. https://www.bbc.co.uk/news/world-asia-china-56563449[Source].
 image::{china-dictatorship-media-base}/Qelbinur_Sedik_call_with_cop.jpg[height=400]
