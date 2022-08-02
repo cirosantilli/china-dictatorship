@@ -16,7 +16,7 @@
 https://cirosantilli.com/china-dictatorship[cirosantilli.com (规范链接 canonical)] |
 https://github.com/cirosantilli/china-dictatorship[GitHub 项目 project] |
 https://github.com/cirosantilli/china-dictatorhsip-4[Mirror 镜像 2] |
-https://github.com/codin-stuffs/cihna-dictatorshrip[Mirror 镜像 3] |
+https://github.com/codin-stuffs/cihna-dictatorshrip-2[Mirror 镜像 3] |
 link:index-split[分裂标题版本 split header version] |
 中国镜像 China mirrors:
 https://cirosantilli.gitlab.io/china-dictatorship[cirosantilli.gitlab.io],
