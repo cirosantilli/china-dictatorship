@@ -1988,6 +1988,23 @@ If the truth is too much for you to bear, worry not, you could use one of:
 **** https://github.com/DoyleLi from Intel
 * a custom ad terminator expression shown at: https://github.com/cirosantilli/china-dictatorship/issues/87 `stackoverflow.com##a[href="/users/895245/ciro-santilli-%e6%96%b0%e7%96%86%e6%94%b9%e9%80%a0%e4%b8%ad%e5%bf%83%e6%b3%95%e8%bd%ae%e5%8a%9f%e5%85%ad%e5%9b%9b%e4%ba%8b%e4%bb%b6"]`
 * https://gist.github.com/chenx6/97d912a6ef623f5142f69f44b580c1a0 replaces Ciro's username with "Ciro Santilli my mother died".
+* https://github.com/cirosantilli/china-dictatorship/issues/942 mentions ADGuard with rules:
++
+....
+github.com#?#li.repo-list-item.public.source:-abp-has(a:-abp-contains(cirosantilli))
+github.com#?#li.repo-list-item.public.source:-abp-has(a:-abp-contains(cheezcharmer))
+github.com#?#li.repo-list-item.public.source:-abp-has(a:-abp-contains(zaohmeing))
+github.com#?#li.repo-list-item.public.source:-abp-has(a:-abp-contains(zhaohmng-outlook-com))
+github.com#?#li.repo-list-item.public.source:-abp-has(a:-abp-contains(Iorine))
+github.com#?#li.repo-list-item.public.source:-abp-has(a:-abp-contains(jk-ice-cream))
+github.com#?#li.repo-list-item.public.source:-abp-has(a:-abp-contains(anuragyantra))
+....
++
+which reference various forks of china-dictatorship:
+** https://github.com/cheezcharmer/chinese-dictatorship
+** zaohmeing: <<zhao-heming>>
+** https://github.com/Iorine/china-dictatorship
+** https://github.com/jk-ice-cream[]. This one has some original content on profile: https://github.com/jk-ice-cream/jk.ice_cream_ apparently linked to <<gay-rights>>
 
 [[not-chinese]]
 === Non-Chinese people should not interfere in Chinese politics (外国人不应该干预中国政治)
@@ -2835,13 +2852,26 @@ https://en.wikipedia.org/wiki/Eight-Nation_Alliance[Eight-Nation Alliance] (http
 https://en.wikipedia.org/wiki/Unequal_treaty[Unequal treaty] (https://zh.wikipedia.org/wiki/不平等条约[不平等条约]) (1842-1933) +
 ____
 
+Some others:
+
+* too many people in jail in the USA:
+** https://en.wikipedia.org/wiki/Incarceration_in_the_United_States
+** https://zh.wikipedia.org/wiki/美国监禁制度
+** https://github.com/cirosantilli/china-dictatorship/issues/938
+** https://incarceration-in-real-numbers.metastem.su/
+** https://wealthscale.metastem.su/
+** meanwhile China leads by far on execution numbers:
+*** https://www.amnesty.ie/what-we-do/abolish-death-penalty/
+*** 2016 but very small https://www.amnesty.org.uk/press-releases/global-executions-down-more-third-death-sentences-record-high-new-report
+*** 2014 CC BY-SA https://www.independent.co.uk/news/world/politics/which-countries-execute-the-most-people-chilling-new-map-reveals-china-and-iran-put-more-people-to-death-than-any-other-country-a6796351.html
+*** 2012 https://www.theguardian.com/news/datablog/2011/mar/29/death-penalty-countries-world
+
 See also:
 
 * <<richer>>
 * <<preconceived>>
 * <<bias>>
 * <<the-united-states-has-recently-started-several-wars-and-killed-millions>>
-* https://en.wikipedia.org/wiki/American_imperialism
 
 .https://en.wikipedia.org/wiki/Signe_Wilkinson[Signe Wilkinson] 2017 Free Speech "Can you just move it so it doesn't cover them?" (TODO proper translation, with a quickly fixed up Google Translate: 你可以移动雨伞以使其不会遮盖住他们吗？) umbrella cartoon. Ciro once saw a <<wumao>> post this. It made him smile. If the cartoon were about <<dictatorship,dictatorships>>, https://en.wikipedia.org/wiki/Uncle_Sam[Uncle Sam] would be instead <<intolerance,decapitating and raping the people on one half of the umbrella>>. Of course humans are <<flg-intolerance,shit in democracies as well>>, but at least that system makes it harder for them to oppress each other. http://www.cartoonistgroup.com/store/add.php?iid=161799[Source].
 image::{china-dictatorship-media-base}/Free_speech_umbrella.jpg[height=400]
@@ -3028,6 +3058,7 @@ See also:
 
 * <<separatism>>
 * <<richer>>
+* https://en.wikipedia.org/wiki/American_imperialism
 
 [[hate-speech]]
 ===== Western democracies also censor subjects such as child porn and hate speech (西方民主国家也审查儿童色情和仇恨言论等主题)
@@ -3363,6 +3394,7 @@ Keywords:
 See also:
 
 * <<young-pioneers-vs-hitler-youth,Young Pioneers vs Hitler Youth>>.
+* https://www.youtube.com/watch?v=9_qOvU_-61o John Heartfield describes the anti-Nazi propaganda of John Heartfield
 
 Articles:
 
@@ -14725,6 +14757,11 @@ video::flhggnpCeHw[youtube,height=400,width=600]
 Related:
 
 * https://ibisbill.wordpress.com/2014/01/02/nineteen-eighty-four-in-chinese/ asks how much George Orwell thought about China at the time
+* https://www.reddit.com/r/China/comments/zzcn0q/chinese_reading_orwells_book_1984/ on <<r-china>>:
++
+____
+My wife is reading this book for the first time and practically every page at the start she says things like, “OMG, this is just like what China does” and has said that so far it reads like a manual for how the country is run.
+____
 
 [[law-of-gravity-1984]]
 ==== Law of Gravity passage from Nineteen Eighty-Four (《十九八十四》中的万有引力段落)
@@ -15429,7 +15466,8 @@ image::{china-dictatorship-media-base}/Jingjing_Chacha_angry.jpg[height=400]
 .The Qatar friendly censorship page likely from around 2011 sowing that China is not alone in this "cute censorship mascots" technique. https://commons.wikimedia.org/wiki/File:Qatar_filtering_message._Qtel_network.jpg[Source].
 image::{china-dictatorship-media-base}/Qatar_web_censorship_page.jpg[height=600]
 
-===== Western companies that sell censorship technology to dictatorships
+[[western-companies-that-sell-censorship-technology-to-dictatorships]]
+===== Western companies that sell censorship technology to dictatorships (向独裁政权出售审查技术的西方公司)
 
 To China:
 
@@ -15463,7 +15501,18 @@ See also: <<western-companies-that-comply-with-chinese-censorship-requests>>.
 .Cartoon showing how Amesys systems are used to suppress citizens in Egypt. Do you want the logo of your company to figure there instead? https://www.fidh.org/en/region/north-africa-middle-east/egypt/sale-of-surveillance-equipment-to-egypt-by-french-company-amesys[Source].
 image::{china-dictatorship-media-base}/Amesys.jpg[height=400]
 
-===== Censorship monitoring
+[[fang-binxing]]
+===== Fang Binxing (Father of the GFW, 方滨兴, 中国防火墙之父)
+
+* https://en.wikipedia.org/wiki/Fang_Binxing
+* https://zh.wikipedia.org/wiki/方滨兴
+
+* 2016 https://www.theregister.com/2016/04/07/great_firewall_architect_forced_to_use_vpn/ China's Great Firewall inventor forced to use VPN live on stage to dodge his own creation
+
+image::https://web.archive.org/web/20220214054204im_/https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fang_binxing.jpg/800px-Fang_binxing.jpg[height=400]
+
+[[censorship-monitoring]]
+===== Censorship monitoring (审查监督)
 
 Projects that attempt to understand how the Great Firewall works and what it blocks:
 
@@ -21794,6 +21843,11 @@ And of course, when a smaller dictatorship makes an alliance with a larger dicta
 * China and:
 ** <<iran>>, see: <<china-iran-relations>>
 ** <<pakistan>>, who is more afraid of India than China right now
+** <<russia>>:
+*** 2022 https://theintercept.com/2022/12/30/russia-china-news-media-agreement/ Hacked Russian files reveal propaganda agreement with China
+*** https://www.reddit.com/r/China/comments/101uiiu/china_this_went_viral_on_the_on_the_first_day_of/ drawing of Chinese and Russian warriors facing of a G20 monster with some racist heads
++
+image::https://web.archive.org/web/20230103014511im_/https://preview.redd.it/56nc5y9w4o9a1.jpg?width=960&crop=smart&auto=webp&s=beac1f39c3de4703291d5a9c52d92e27fac8b212[height=400]
 * Africa
 ** https://www.youtube.com/watch?v=Co0RGa99W0M "Zambia: Under Chinese influence" by FRANCE 24 English (2021)
 * <<belarus>> and <<russia>>, see: <<moscow-minsk-friendship-mural,Moscow-Minsk friendship mural>>. OK, in this case it is more like "<<putin>> setup a dictatorship on a neighbouirng country because democracy was a threat to him"
