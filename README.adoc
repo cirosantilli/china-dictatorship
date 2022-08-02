@@ -13,7 +13,6 @@
 :toclevels: 6
 :toc-title:
 
-
 https://cirosantilli.com/china-dictatorship[cirosantilli.com/china-dictatorship (规范链接 canonical render)] |
 https://github.com/cirosantilli/china-dictatorship[GitHub 项目 project] |
 https://github.com/cirosantilli/china-dictatorhsip-7[GitHub Mirror 镜像 2] |
@@ -477,6 +476,7 @@ At https://github.com/cirosantilli/china-dictatorship/issues/945 for some incomp
 ** https://github.laobiao.workers.dev/cirosantilli/china-dictatorship
 ** https://github.rc1844.workers.dev/cirosantilli/china-dictatorship
 * https://github-wiki-see.page[]. Not made for Chinese specifically, but has huge PageRank on Yandex for Chinese search terms. Stated mission is to improve SEO of GitHub which header blocks many search results without an explicit public guideline.
+* https://github.com/net4people/bbs in <<censorship-circumvention>>
 
 Related:
 * https://gitmemory.com/cirosantilli/china-dictatorship appears to be Chinese: https://www.reddit.com/r/github/comments/iiolp8/what_the_hell_is_gitmemorycom/
@@ -7016,7 +7016,9 @@ Many of their videos use their <<xi-jinping-speech-synthesizer>> system called X
 
 * https://twitter.com/ruters0615/status/1227823202522427392 gives some voice synthesis methods used
 
-<<github>> reupload: https://github.com/cirosantilli/xijinping-yinyuan
+<<github>> reupload: https://github.com/cirosantilli/xijinping-yinyuan With docker support:
+* https://github.com/cirosantilli/china-dictatorship/issues/1260
+*  https://github.com/veeyoung/xi-jinping-tts/releases
 
 [[eyectv]]
 ==== EyeCTV (眼球中央電視台)
@@ -15484,14 +15486,13 @@ Translations:
 ** https://ctext.org/zhuangzi side by side with Chinese, one chapter per page
 
 [[ccp]]
-== Chinese Communist Party (CCP, 中国共产党, 1949-, Cult of Mao/Xi, 毛习邪教, 10.000 year Reich)
+== Chinese "Communist" Party (CCP, 中国共产党, 1949-, Cult of Mao/Xi, 毛习邪教, 10.000 year Reich)
 
 * https://en.wikipedia.org/wiki/Chinese_Communist_Party
 * https://zh.wikipedia.org/wiki/中国共产党
 
 The CCP is a cult: <<ccp-cult>>.
 
-[[ccp-organization]]
 === CCP organization (中共组织)
 
 * https://zh.wikipedia.org/wiki/中国共产党组织
@@ -16327,6 +16328,11 @@ TODO origin of the <<slang,slang>> 科学上网 (Scientific Internet access) ter
 
 Lists:
 
+* https://github.com/net4people/bbs
++
+____
+The BBS is an inclusive and multilingual forum for public discussion about Internet censorship circumvention. It is a place for developers and researchers to discuss and share information, techniques, and research. Feel free to write in your own language; we will translate.
+____
 * https://www.wallmama.com/ 墙妈妈 is one of the top Google hits and mentions amongst others:
 ** VPN obviously
 ** SOCKS5 (lantern, 蓝灯)
