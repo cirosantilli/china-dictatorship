@@ -115,6 +115,7 @@ if (!isComment) {
   }
   const meantToBeUsedWords = [
     '技术',
+    'github',
   ]
   for (const word of meantToBeUsedWords) {
     if (new RegExp(word, 'i').test(titleAndBody)) {
