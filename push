@@ -13,7 +13,7 @@ fi
 make
 make multipage
 if ! $dry_run; then
-  git push --follow-tags &
+  git push --follow-tags
   git push -f git@github.com:cirosantilli/china-dictatorship-2.git &
   git push -f git@gitlab.com:cirosantilli/china-dictatorship.git &
   git push -f git@github.com:coding-stuffs/china-dictatorship-2.git &
