@@ -40,10 +40,11 @@ https://cdn.jsdelivr.net/npm/china-dictatorship@latest/README.html[cdn.jsdelivr 
 This README is too large and https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com/cirosantilli/china-dictatorship]. You can view it fully at the canonical https://cirosantilli.com/china-dictatorship[] which is https://zh.greatfire.org/https/cirosantilli.com[blocked in China since 2020] according to <<greatfire>> (<<brave-new-world-books,but China is still the second largest hit location after USA according to Google Analytics>>), or one of the many <<mirrors>>.
 
 ____
-<<national-anthem,**🇨🇳起来！不愿做奴隶的人们！Rise up! Those who refuse to be slaves!🇨🇳**>> +
+<<national-anthem,**🇨🇳 起来！不愿做奴隶的人们！Rise up! Those who refuse to be slaves! 🇨🇳**>> +
 ____
 
 image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China_photo.jpg[height=600]
+
 
 toc::[]
 
