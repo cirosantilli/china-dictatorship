@@ -2171,22 +2171,28 @@ Duplicate pool: https://github.com/cirosantilli/china-dictatorship/issues?q=labe
 [[in-memory-of-bethune]]
 ==== In Memory of Bethune (纪念白求恩)
 
+https://github.com/cirosantilli/china-dictatorship/issues/1190
+
 Amazing quote from <<mao-zedong>>'s short essay "In Memory of Bethune" (纪念白求恩), an eulogy to Canadian communist https://en.wikipedia.org/wiki/Norman_Bethune[Norman Bethune] (https://zh.wikipedia.org/wiki/白求恩[白求恩]) who worked as a medic for the CCP during the Second Sino-Japanese War, saying that the CCP should embrace help from Communists from other countries to their revolution:
 
 ____
-“一个外国人，毫无利己的动机，把中国人民的解放事业当作他自己的事业，这是什么精神？这是国际主义的精神，这是共产主义的精神，每一个中国共产党员都要学习这种精神。列宁主义认为：资本主义国家的无产阶级要拥护殖民地半殖民地人民的解放斗争，殖民地半殖民地的无产阶级要拥护资本主义国家的无产阶级的解放斗争，世界革命才能胜利
+一个外国人，毫无利己的动机，把中国人民的解放事业当作他自己的事业，这是什么精神？这是国际主义的精神，这是共产主义的精神，每一个中国共产党员都要学习这种精神。列宁主义认为：资本主义国家的无产阶级要拥护殖民地半殖民地人民的解放斗争，殖民地半殖民地的无产阶级要拥护资本主义国家的无产阶级的解放斗争，世界革命才能胜利
 
-"What kind of spirit is this for a foreigner who has no self-interested motives and regards the liberation cause of the Chinese people as his own cause? This is the spirit of internationalism, this is the spirit of communism, and every Chinese Communist Party member must Learn this spirit. Leninism believes that the proletariat of capitalist countries must support the liberation struggle of the people of colonial and semi-colonial countries, and the proletariat of colonial and semi-colonial countries must support the liberation struggle of the proletariat of capitalist countries. Only then can the world revolution be victorious.
+What kind of spirit is this for a foreigner who has no self-interested motives and regards the liberation cause of the Chinese people as his own cause? This is the spirit of internationalism, this is the spirit of communism, and every Chinese Communist Party member must Learn this spirit. Leninism believes that the proletariat of capitalist countries must support the liberation struggle of the people of colonial and semi-colonial countries, and the proletariat of colonial and semi-colonial countries must support the liberation struggle of the proletariat of capitalist countries. Only then can the world revolution be victorious.
 ____
 
 This is the prefect reply to <<not-chinese>>!!!
 
 Brought to our attention by Reddit user No-Lingonberry-2173 at: https://www.reddit.com/r/China_irl/comments/1bn47e5/comment/kwgqaye/
 
-Sample sources:
+Bibliography:
 
 * https://baike.baidu.com/item/纪念白求恩/1685623
 * https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_25.htm
+* https://zh.wikipedia.org/zh-hans/纪念白求恩
+
+.Commemorating the 27th anniversary of Bethune's publication in 1967. https://zh.wikipedia.org/wiki/File:1967-06_1967年纪念白求恩发表27周年纪念.jpg[Source]
+image::https://private-user-images.githubusercontent.com/1429315/319750246-64820d75-a6ba-44ac-ac53-1f4bcc990604.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIyNTk3NTgsIm5iZiI6MTcxMjI1OTQ1OCwicGF0aCI6Ii8xNDI5MzE1LzMxOTc1MDI0Ni02NDgyMGQ3NS1hNmJhLTQ0YWMtYWM1My0xZjRiY2M5OTA2MDQuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQwNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MDRUMTkzNzM4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YmI1ZjRlNzg2Zjg5ZjFhMzkwNWU4NTM2YTQwNjU2YWIwZmU1MDRlNDY3MTczNzVjODMwZDQyZTIwZjI3M2VmMiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.ZDrFdYcm3pmdv5xkZL_9JxCSx-Ue9rNxgNLuku3DbGw[]
 
 [[the-ccp-would-not-be-in-power-if-it-werent-for-the-second-sino-japanese-war]]
 ==== The CCP would not be in power if it weren't for the Second Sino-Japanese War (如果没有抗日战争，中共就不会执政)
