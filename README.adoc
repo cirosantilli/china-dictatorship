@@ -13030,6 +13030,9 @@ image::{china-dictatorship-media-base}/Tank_Man_drawing_by_Ciro_Santilli_CC_BY_S
 .Xi Jinping erasing tank man by Twatical. Easy mp4 download: https://github.com/cirosantilli/china-dictatorship/issues/357[]. The character shown is "碾". TODO understand the <<slang,slang>>. https://twitter.com/Twatical_/status/1357377135573401601[Source].
 image::https://user-images.githubusercontent.com/1429315/121059892-e2a0d380-c7b9-11eb-88f0-cacdefab548c.gif[height=500]
 
+.Chicken and nugget tank man. https://www.reddit.com/r/EmKay/comments/dkd0sq/tank_man_but_chicken_nuggets_and_fries/[Source].
+image::https://private-user-images.githubusercontent.com/1429315/297106420-8aa0b842-67c2-4202-87e8-52aa07c44cad.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0MTk2ODgsIm5iZiI6MTcwNTQxOTM4OCwicGF0aCI6Ii8xNDI5MzE1LzI5NzEwNjQyMC04YWEwYjg0Mi02N2MyLTQyMDItODdlOC01MmFhMDdjNDRjYWQuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDExNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAxMTZUMTUzNjI4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZDNlMjU1OThmNTIwZmI0YThlNGY5NWU4ODNlNTJjYjQ2ZjZmNzZkMzdkMzk2N2NlMDdmZDdkMjIzN2EwNTRjNCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.45La5s2pyXrAtYoM8EXPF7DFpH2AgxpxRFMwsywRb4A[height=500]
+
 [[tank-man-song]]
 ==== Tank Man Song by Xu Lin (坦克人歌曲，作曲家：徐琳, 2016)
 
