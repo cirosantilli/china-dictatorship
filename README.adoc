@@ -15,8 +15,8 @@
 
 https://cirosantilli.com/china-dictatorship[cirosantilli.com (规范链接 canonical)] |
 https://github.com/cirosantilli/china-dictatorship[GitHub 项目 project] |
-https://github.com/cirosantilli/china-dictatorhsip-4[Mirror 镜像 2] |
-https://github.com/codin-stuffs/cihna-dictatorshrip-2[Mirror 镜像 3] |
+https://github.com/cirosantilli/china-dictatorhsip-5[Mirror 镜像 2] |
+https://github.com/codin-stuffs/cihna-dictatorshrip-3[Mirror 镜像 3] |
 link:index-split[分裂标题版本 split header version] |
 中国镜像 China mirrors:
 https://cirosantilli.gitlab.io/china-dictatorship[cirosantilli.gitlab.io],
@@ -2501,6 +2501,13 @@ The expression https://www.quora.com/What-does-the-expression-two-steps-forward-
 Luckily in this case, it does not seem possible to view who unstarred a repository after the fact:
 
 * https://stackoverflow.com/questions/51072418/how-can-i-determine-when-a-user-unstarred-a-repo-using-the-github-graphql-api
+
+The catch 22 of dictorships is that:
+
+* if is citizens express themselves anonymously, they are dismissed as foreign agents
+* if they express themselves non anonymously, they go to jail
+
+Related: <<most-chinese-people-like-their-dictatorship>>
 
 [[my-paranoia-as-a-russian-youtuber]]
 .https://www.youtube.com/watch?v=_-hCdbsyWw0 "my paranoia as a Russian YouTuber" by <<nfkrz>> (2020) talks about the <<chilling-effect>>
@@ -5868,7 +5875,7 @@ But remember that we also have: <<mirrors>>, and that this can be easily rendere
 
 * 2022-05-10 https://github.com/coding-stuffs/china-dictatorshrip and https://github.com/cirosantilli/china-dictatorhsip-2/graphs/traffic traffic went mysteriously from 30 and 20 unique daily visitors respectively to just 1 or 2
 * 2022-05-17 renamed https://github.com/coding-stuffs/china-dictatorshrip to https://github.com/codin-stuffs/cihna-dictatorshrip to see if the is a URL-based browser block. Keeping https://github.com/cirosantilli/china-dictatorhsip-2 unchanged for now as a control. 2022-05-18 immediately back to 175. Then since 05-20 fell to 30/daily as before. I wonder where the 175 came from. Maybe there is some fast-track block that does not fully block?
-* 2022-05-19 renamed https://github.com/cirosantilli/china-dictatorhsip-2 to https://github.com/cirosantilli/china-dictatorhsip-3 to see if traffic also goes back up like coding-stuffs. Do wumaos know their regexes?? Traffic immediately back to 50/60 daily.
+* 2022-05-19 renamed https://github.com/cirosantilli/china-dictatorhsip-2 to https://github.com/cirosantilli/china-dictatorhsip-3 to see if traffic also goes back up like coding-stuffs. Do <<wumao,wumaos>> know their regexes?? Traffic immediately back to 50/60 daily.
 
 [[gov-takedowns-china]]
 ====== gov-takedowns/China (由中共在国审查的库仓的GitHub官方列表)
