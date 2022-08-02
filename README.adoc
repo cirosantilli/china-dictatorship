@@ -34,7 +34,7 @@ https://cdn.jsdelivr.net/npm/china-dictatorship@latest/README.html[cdn.jsdelivr 
 
 反中共政治宣传库。Anti-Chinese government propaganda. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<xi-abolishes-term-limits-2018-03,卐习万岁卐>>。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<xi-abolishes-term-limits-2018-03,卐 Heil Xi 卐>>.
 
-**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead (non Chinese email provider), preferably from behind VPN/Tor/<<shadowsocks>>.** 你不是一个人。未来需要隐藏的将是今天的五毛，而不是你。You are not alone. In the future, it is the wumaos who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
+**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead (non Chinese email provider), preferably from behind VPN/Tor/<<shadowsocks>>.** 你不是一个人。未来需要隐藏的将是今天的<<wumao,五毛>>，而不是你。You are not alone. In the future, it is the <<wumao,wumaos>> who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
 
 This README is too large and https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/china-dictatorship[github.com/cirosantilli/china-dictatorship]. You can view it fully at the canonical https://cirosantilli.com/china-dictatorship[] which is https://zh.greatfire.org/https/cirosantilli.com[blocked in China since 2020] according to <<greatfire>> (<<brave-new-world-books,but China is still the second largest hit location after USA according to Google Analytics>>), or one of the many <<mirrors>>.
 
@@ -536,6 +536,17 @@ Reasonable topics:
 https://github.com/cirosantilli/china-dictatorship
 
 Canonical source code of: https://cirosantilli.com/china-dictatorship/
+
+[[who-is-behind-cirosantilli-china-dictatorship]]
+==== Who is behind cirosantilli/china-dictatorship? 谁是 cirosantilli/china-dictatorship 的幕后黑手？
+
+Basically <<ciro-santilli>> alone (https://knowyourmeme.com/memes/lets-see-who-this-really-is[surprise!]), with very minor direct contributions from very awesome people due to:
+* <<chilling-effect>>
+* <<many-people-in-the-west-don-t-fully-appreciate-the-danger-of-china>>
+and major contributions from original meme makers all over the world which Ciro merely curates: <<anti-ccp-info-sources>>.
+
+Related:
+* <<better-to-do>>
 
 [[terminus2049]]
 === Terminus2049 (端点星计划, 2049bbs)
@@ -5256,7 +5267,7 @@ image::{china-dictatorship-media-base}/Someone_is_wrong_on_the_Internet.png[heig
 This is a term "invented" by <<ciro-santilli>> to denote the type of <<dictatorships-tend-to-work-together,democracy vs dictatorship>> propaganda warfare that naturally emerges.
 
 * the <<dictatorship,dictatorship>> has <<censorship>> and legions of possibly non-anonymous supporters. Although most supporters are <<anonymous-account-ban,actually anonymous anyways>>
-* the anti-censorship democracy has memes, and a few anonymous supporters
+* the anti-censorship democracy has memes, and a few anonymous supporters, due to the <<chilling-effect>>
 
 This concept is a mixture of the concepts of:
 
@@ -6587,7 +6598,7 @@ TODO review:
 * https://www.reddit.com/r/taiwan/[]. Does not appear to be very China focused.
 * https://www.reddit.com/r/China_Flu/
 * https://www.reddit.com/r/China_irl/ (流浪防区) https://www.reddit.com/r/China/comments/mnbpum/if_you_want_to_experience_the_censorship_and/ claims pro-CCP, but e.g. https://www.reddit.com/r/China_irl/comments/mn68dy/各位键委如何看待gfw/ has <<gfw>> talks
-** https://www.reddit.com/r/DoubanGoosegroup Appears anti-China with <<backlinks,Backlink>>: https://www.reddit.com/r/DoubanGoosegroup/comments/ud50yd/中国主要科技与互联网公司市值变化与apple对比/ Main post was also laughing at the Chinese economy First charst are 流浪 like https://www.reddit.com/r/China_irl/浪
+** https://www.reddit.com/r/DoubanGoosegroup Appears anti-CCP with <<backlinks,Backlink>>: https://www.reddit.com/r/DoubanGoosegroup/comments/ud50yd/中国主要科技与互联网公司市值变化与apple对比/ Main post was also laughing at the Chinese economy First charst are 流浪 like https://www.reddit.com/r/China_irl/浪 On 2023-01-31, Ciro Santilli's Reddit account was banned from that sub for no apparent reason
 * https://www.reddit.com/r/CLTV/
 
 [[r-china]]
@@ -6752,7 +6763,14 @@ This type of thing is something <<ciro-santilli>> did a few times previously, e.
 
 but he just doesn't have the knowledge/time/patience to do it as well as that Twitter channel.
 
-This is a good movement because many people in the West do not fully appreciate the level of dictatorship in China. E.g. a well educated friend of Ciro once asked him circa 2020 which one he thought was worse: the terrible president of Brazil at the time, Jair Bolsonaro, or <<xi-jinping>>! It is of course impossible to compare individuals in completely different situations, but how can you not point the finger to the major dictator! It is like asking who do you hate the most, <<nazi,Hitler>> or Donald Trump! That question was an eye opener.
+[[many-people-in-the-west-don-t-fully-appreciate-the-danger-of-china]]
+===== Many people in the West don't fully appreciate the danger of China 许多西方人没有完全意识到中国的危险
+
+<<the-great-translation-movement>> is a good movement because many people in the West do not fully appreciate the level of dictatorship in China.
+
+E.g. a well educated friend of Ciro once asked him circa 2020 which one he thought was worse: the terrible president of Brazil at the time, https://en.wikipedia.org/wiki/Jair_Bolsonaro[Jair Bolsonaro], or <<xi-jinping>>!
+
+It is of course impossible to compare individuals in completely different situations, but how can you not point the finger to the major dictator! It is like asking who do you hate the most, <<nazi,Hitler>> or Donald Trump! That question was an eye opener.
 
 [[gfwfrog]]
 ==== GFWfrog (墙国蛙蛤蛤)
@@ -7014,7 +7032,7 @@ When a VTubber either quits of is fired, they euphemistically often call it "gra
 
 Hololive is the main VTuber agency. These agencies are similar in nature to modern singer agencies, and even more so to the https://cirosantilli.com/k-pop[agencies that build up Korean K-pop idols]. They are all trying to turn your youth into idiotic superfluous robots, the opposite of science.
 
-And this is likely exremelly popular amongst the <<porn,sex-deprived young Chinese poeple, much like Japanese AV>>.
+And this is likely exremelly popular amongst the <<porn,sex-deprived young Chinese people, much like Japanese AV>>.
 
 Fucking Japanese corporates, curbing freedom of speech in China. Those dudes are going to deserve it when Japan gets invaded by Xi's <<nazi,fourth Reich>>...
 
@@ -9090,7 +9108,7 @@ ____
 
 which therefore clearly says Trump is a manifestation of supernatural forces of good, and also clearly says that the 2020 American election was in fact https://en.wikipedia.org/wiki/Attempts_to_overturn_the_2020_United_States_presidential_election[stolen by the Democrats as per Donald Trump's accusations].
 
-It could have been even more direct, but <<ciro-santilli>> considers this more than direct enough. A Brazillian saying comes to mind: "Para bom entendedor, meia palavra basta" (For the Connoisseur/Expert, half a word is enough). This was notably used as part of an relentless advertisement campain when Ciro was young (certainly too young to drink) for the overly-long-named beer brand https://en.wikipedia.org/wiki/Brasil_Kirin[Schincariol], suggesting that you could just call is "schin", e.g. to order it at a bar. Sample ad: https://www.youtube.com/watch?v=vS-UWr1RIQU[]. Anyways, back to Falun Gong, when it is the word of <<li-hongzhi,Living God himself>>, even a quarter-word is enough I guess.
+It could have been even more direct, but <<ciro-santilli>> considers this more than direct enough. A Brazillian saying comes to mind: "Para bom entendedor, meia palavra basta" (For the Connoisseur/Expert, half a word is enough). This was notably used as part of an relentless advertisement campaign when Ciro was young (certainly too young to drink) for the overly-long-named beer brand https://en.wikipedia.org/wiki/Brasil_Kirin[Schincariol], suggesting that you could just call is "schin", e.g. to order it at a bar. Sample ad: https://www.youtube.com/watch?v=vS-UWr1RIQU[]. Anyways, back to Falun Gong, when it is the word of <<li-hongzhi,Living God himself>>, even a quarter-word is enough I guess.
 
 Prior to that, the most direct public suggestion we can find that Li Hongzhi directly supported Trump was in 2020-11-08 https://www.epochtimes.com/gb/20/11/8/n12534746.htm when the <<epoch-times>> published a poem by <<li-hongzhi>> which Ciro believes is clearly directly supporting Trump, since it was released just after Trump was announced to have lost the presidential elections, amidst claims of electoral fraud under investigation, which Falun Gong media fully and completely supported. The official translation can be found in <<flg-canon>> https://en.falundafa.org/eng/articles/20201108A.html[]:
 
@@ -11851,7 +11869,7 @@ ____
 
 The essay topic of "American drema vs Chinese dream" is not novel in Communist rhetoric, e.g. https://m.aisixiang.com/data/63286.html dated 2013 contains a version by sociologist https://zh.m.wikipedia.org/wiki/徐賁_(社會學家)[Ben Xu 徐贲].
 
-Some other essasys:
+Some other essays:
 
 * http://politics.people.com.cn/n/2013/0527/c1001-21630362.html fro the <<peoples-daily>> also dated 2013
 
@@ -12097,6 +12115,9 @@ Related:
 
 .Mao Zedong in Yan'an in the 1930's thinking deeply. This funny looking picture is meme ready and https://uncyclopedia.ca/wiki/Chairman_Mao[much loved by Uncyclopedia]. https://commons.wikimedia.org/wiki/File:Mao_Zedong_in_Yan%27an.jpg[Source].
 image::{china-dictatorship-media-base}/Mao_Zedong_in_Yanan.jpg[height=400]
+
+.Young Mao Zedong statue, Changsha, 2009. Another one of the future demolition list.
+image::{china-dictatorship-media-base}/https://web.archive.org/web/20221211231444im_/https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mao_Zedong_youth_art_sculpture_4.jpg/675px-Mao_Zedong_youth_art_sculpture_4.jpg[height=500]
 
 [[the-private-life-of-chairman-mao]]
 ==== The Private Life of Chairman Mao (毛泽东私人医生回忆录)
@@ -13214,7 +13235,7 @@ Website: https://www.frontlinedefenders.org/en/location/china
 Based on Ireland.
 
 [[ai-weiwei]]
-==== Ai Weiwei (艾未未)
+==== Ai Weiwei (艾未未, artist)
 
 * https://en.wikipedia.org/wiki/Ai_Weiwei
 * https://zh.wikipedia.org/wiki/艾未未
@@ -13224,7 +13245,7 @@ TODO understand: https://twitter.com/remonwangxt/status/141825341227417600 by <<
 * 2021-09-08 https://www.reuters.com/world/china/chinese-activist-ai-weiwei-says-credit-suisse-closing-his-foundations-bank-2021-09-07/ "Chinese activist Ai Weiwei says Credit Suisse closing his foundation's bank account" because of crimes in China, but he was apparently never convicted of any
 
 [[xu-xiaodong]]
-==== Xu Xiaodong (Mad Dog, 徐晓冬)
+==== Xu Xiaodong (Mad Dog, 徐晓冬, martial artist)
 
 * https://en.wikipedia.org/wiki/Xu_Xiaodong
 * https://zh.wikipedia.org/wiki/徐晓冬
@@ -13257,7 +13278,7 @@ image::{china-dictatorship-media-base}/Xu_Xiaodong_taichi.gif[height=400]
 video::0XwXaCbfIGw[youtube,height=400,width=600]
 
 [[programthink]]
-==== Programthink (编程随想, 马勇康)
+==== Programthink (编程随想, 马勇康, programmer on GitHub)
 
 * https://zh.wikipedia.org/wiki/编程随想的博客 (there is no English page as of January 2020)
 
@@ -13300,7 +13321,7 @@ image::{china-dictatorship-media-base}/Programthink.jpg[height=400]
 https://www.rfa.org/cantonese/news/arrest-06142021121609.html
 
 [[liu-xiaobo]]
-==== Liu Xiaobo (刘晓波, 1955-2017)
+==== Liu Xiaobo (刘晓波, 1955-2017, Tiananmen leader)
 
 * https://en.wikipedia.org/wiki/Liu_Xiaobo
 * https://zh.wikipedia.org/wiki/刘晓波
@@ -13319,7 +13340,7 @@ The article also makes it very clear that his 2009 sentence was "a fair one", an
 image::{china-dictatorship-media-base}/Liu_Xiaobo_Tiananmen_1989_06_02.jpg[height=400]
 
 [[guo-wengui]]
-==== Guo Wengui (郭文贵)
+==== Guo Wengui (郭文贵, rich dude)
 
 * https://en.wikipedia.org/wiki/Guo_Wengui
 * https://zh.wikipedia.org/wiki/郭文贵
@@ -13333,7 +13354,7 @@ Profiles:
 * 2019-07-24 https://www.scmp.com/news/china/article/3019840/chinese-fugitive-tycoon-and-member-trumps-mar-lago-also-spy "Is Guo Wengui, Chinese fugitive tycoon and member of Trump's Mar-a-Lago, also a spy?"
 
 [[hao-haidong]]
-===== Hao Haidong (郝海东, 2020)
+===== Hao Haidong (郝海东, 2020, soccer player)
 
 * https://en.wikipedia.org/wiki/Hao_Haidong
 * https://zh.wikipedia.org/wiki/郝海东
@@ -13564,7 +13585,7 @@ Some coverage:
 image::{china-dictatorship-media-base}/Chloe_Zhao_won_93rd_Oscar.jpg[height=500]
 
 [[cai-xia]]
-==== Cai Xia (蔡霞)
+==== Cai Xia (蔡霞, ex-Party teacher)
 
 * https://en.wikipedia.org/wiki/Cai_Xia
 * https://zh.wikipedia.org/wiki/蔡霞
@@ -13638,6 +13659,29 @@ News coverage:
 
 .Howey Ou skipped classes for a week to protest about climate change in front of the local government office in Guilin, <<guangxi>>, in 2019. TODO transcription of posters. https://www.scmp.com/news/china/society/article/3094873/howey-ou-chinas-version-greta-thunberg-pays-price-climate[Source].
 image::{china-dictatorship-media-base}/Howey_Ou_2019.jpg[height=400]
+
+[[yitang-zhang]]
+==== Yitang Zhang (张益唐, M9athematician, proved the first finite prime gap in 2012)
+
+* https://www.newyorker.com/magazine/2015/02/02/pursuit-beauty
++
+____
+In Kentucky, he became involved with a group interested in Chinese democracy. Its slogan was “Freedom, Democracy, Rule of Law, and Pluralism.” A member of the group, a chemist in a lab, opened a Subway franchise as a means of raising money. “Since Tom was a genius at numbers,” another member of the group told me, “he was invited to help him.” Zhang kept the books. “Sometimes, if it was busy at the store, I helped with the cash register,” Zhang told me recently. “Even I knew how to make the sandwiches, but I didn’t do it so much.” When Zhang wasn’t working, he would go to the library at the University of Kentucky and read journals in algebraic geometry and number theory. 
+____
+
+http://beijingspring.com/bj2/2010/240/201378202613.htm
+
+____
+张菁：你是中国民联最老的成员，我非常荣幸今天看到这么多民联的老成员在这里，前主席徐水良也来了，这很少见。我的问题是，你对中国民主运动还有什么兴趣去关注，你对中国民联有什么寄望吗？
+
+张益唐：第一，我不是民联很早的成员，不算太早，1989年那时加入的；第二，我作为一个独立知识分子，我的政治理念不会改变，也不会因为大陆不管是捧我还是怎么对我，我的基本理念不会改变。至于具体参与，因为现在我也很长时间没参与了，我想将来也没有太多机会去参与。
+
+Zhang Jing: You are the oldest member of the China Democracy League. I am very honored to see so many old members of the Democracy League here today. The former chairman Xu Shuiliang is also here, which is rare. My question is, do you still have any interest in China's democratic movement? Do you have any hopes for the China Democratic League?
+
+Zhang Yitang: First, I am not an early member of the Democratic League, not too early. I joined in 1989; second, as an independent intellectual, my political ideas will not change, and I will not change because of the mainland. Whether you praise me or treat me in any way, my basic philosophy will not change. As for the specific participation, because I haven't participated in it for a long time now, I don't think there will be many opportunities to participate in the future.
+____
+
+The democracy group is called 中国民主团结联盟 (Chinese United Democracy Alliance).
 
 [[university-student-dissidents-abroad]]
 ==== Chinese university student dissidents abroad (外交中国大学持不同政见者学生)
@@ -15154,7 +15198,7 @@ Security sources believe the initial data leak came from a dissident who targete
 
 Despite the near certainty of being executed for treason if caught, he or she probably accessed it via a server before downloading it on to a laptop and releasing it on Telegram where it was found by <<ipac,IPAC>>.
 
-The database was originally leaked on Telegram, the encrypted instant messaging app, and passed in September by a Chinese dissident to the Inter-Parliamentary Alliance on China (IPAC), which comprises more than 150 legislators around the world who are concerned by the influence and activities of the Chinese government.
+The database was originally leaked on Telegram, the encrypted instant messaging app, and passed in September by a <<chinese-dissidents,Chinese dissident>> to the Inter-Parliamentary Alliance on China (IPAC), which comprises more than 150 legislators around the world who are concerned by the influence and activities of the Chinese government.
 ____
 
 https://www.skynews.com.au/details/_6215946537001
@@ -15653,6 +15697,8 @@ And, yes, of course SPN has a brand new API that you can use to automate a range
 ____
 +
 No publicly documented API? Docs by email only? Ridiculous, you make me laugh.
+
+One downside of Archive.org is that is is age restricted by some ISPs for containing adult containing, e.gn. notably mobile ISPs. Those idiots, sacrifice freedom of learning for a bit of innefective <porn> protection.
 
 [[archive-today]]
 ====== archive.today (archive.is)
@@ -16670,9 +16716,10 @@ Related news:
 
 <<brainwashed-by-usa,Brainwashing>> for kids younger than the <<communist-youth-league>>.
 
-Related:
+Other brainwashed Chinese kids:
 
 * <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream and the Chinese dream>>
+* https://www.reddit.com/r/China/comments/11d2m1a/little_girls_lined_up_to_lecture_ccps_propaganda/ "Little girls lined up to lecture CCP's propaganda". At some CCP memorial place. TODO location/source.
 
 [[xi-salute-young-pioneers]]
 .<<xi-jinping>> basically <<nazi,Nazi saluting>> representatives attending the 7th National Congress of the <<young-pioneers-of-china>> in Beijing, June 1, 2015. http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[Source] by <<xinhua>>.
