@@ -910,7 +910,7 @@ Don't you see that this is just pure and simple politics? And likely ineffective
 Related:
 
 * <<young-pioneers-of-china>>
-* <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream  and the Chinese dream>>
+* <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream and the Chinese dream>>
 
 .https://www.youtube.com/watch?v=K2ncGTvkxDQ How does propaganda change our beliefs? by Etienne Augé (2021). At: https://youtu.be/K2ncGTvkxDQ?t=139 he mentions his 6 principles of propaganda, the first of which is that it should be undetected. As soon as <<ciro-santilli>> saw that, he changed the description of this repository from "Anti-Chinese government information." to "Anti-Chinese government propaganda.".
 video::K2ncGTvkxDQ[youtube,height=400,width=600]
@@ -1500,7 +1500,7 @@ image::{china-dictatorship-media-base}/White_paper_protest_Beijing_2022.jpg[heig
 .https://www.youtube.com/watch?v=vDAX8UO4ZQA (https://github.com/cirosantilli/china-dictatorship/issues/923[GitHub reupload of first segment]) First segment of the video: protestors in Shanghai shouting "共产党下台，习近平下台" (CCP, get out, Xi Jinping, get out). Reuploaded from: https://www.reddit.com/r/China/comments/z5fpat/shanghai_protestors_calling_for_the_end_of_xi/ which already had it cut. Clearly visible shop signs on the back: "Jasmine Cashemire", "Biu Biu". Possible address https://maps.apple.com/place?q=Jasmine%20Cashmere&ll=31.223645%2C121.445579&auid=1118368782891031&lsp=57879&address=Nanjing%20West%20Road%201678%20Long%20No.-29%20(Jing%27ansi%20Subway%20Station%20Entrance%20%26%20Exit%202%20Pedestrian%20100%20Meters)%2C%20Jing%27an%2C%20Shanghai%20China[according to Apple Maps]: Nanjing West Road 1678. https://www.reddit.com/r/China/comments/z5fpat/comment/ixy66n9/?utm_source=reddit&utm_medium=web2x&context=3 says https://www.reddit.com/r/China/comments/z5fpat/comment/ixy66n9/?utm_source=reddit&utm_medium=web2x&context=3 "Urumqi Middle Road".
 video::vDAX8UO4ZQA[youtube,height=400,width=600]
 
-.https://www.youtube.com/watch?v=CK4355hLtSg (https://github.com/cirosantilli/china-dictatorship/issues/923[GitHub reupload) Lady makes a spontaneour speech about <<censorship>> during protests in Chengdu. Source from <<the-great-translation-movement>>: https://twitter.com/TGTM_Official/status/1598290936500342784[]. Also discussed on <<r-china>>:https://www.reddit.com/r/China/comments/zb1giv/chengdu_western_china_a_lady_giving_a_speech_in/[].
+.https://www.youtube.com/watch?v=CK4355hLtSg (https://github.com/cirosantilli/china-dictatorship/issues/923[GitHub reupload) Lady makes a spontaneous speech about <<censorship>> during protests in <<chengdu>>. Source from <<the-great-translation-movement>>: https://twitter.com/TGTM_Official/status/1598290936500342784[]. Also discussed on <<r-china>>:https://www.reddit.com/r/China/comments/zb1giv/chengdu_western_china_a_lady_giving_a_speech_in/[]. The melodramatic background music greatly weakens the video, it is a bit on the same lines as <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream and the Chinese dream>>, though now on the opposing side. Chinese-style propaganda to fight Chinese-style propaganda I guess.
 video::CK4355hLtSg[youtube,height=400,width=600]
 
 Key part of speech, transcript copied from this <<epoch-times>> page: https://test.qycz.org/a/202212/n16293244/web/
@@ -2066,7 +2066,7 @@ E.g. people in the West are brainwashed to believe in democracy, freedom of spee
 
 Saying that "someone is not Chinese, he does not understand China", is just an useless <<ad-hominem>> argument and closely related to <<not-chinese>>.
 
-Since you know so much about China, why  why don't you just actually prove your point by teaching Ciro one single interesting about China that Ciro didn't know about? He loves learning new things.
+Since you know so much about China, why why don't you just actually prove your point by teaching Ciro one single interesting about China that Ciro didn't know about? He loves learning new things.
 
 But please, link to reference material instead of just saying it, it will be much more convincing.
 
@@ -3436,7 +3436,7 @@ There's even an https://en.uncyclopedia.co/wiki/Hitler_Has_Only_Got_One_Ball[Unc
 We have to do a Chinese version. A starting point:
 
 ....
-近平，只  有一只蛋
+近平，只有一只蛋
 泽东，还好有一个半
 泽民，
 小平，
@@ -3448,7 +3448,7 @@ image::{china-dictatorship-media-base}/Hitler_has_only_got_one_ball.jpg[height=4
 .https://www.youtube.com/watch?v=w1tF-Yrwe3U A version of the "Hitler Has Only Got One Ball" song.
 video::w1tF-Yrwe3U[youtube,height=400,width=600]
 
-.https://www.youtube.com/watch?v=Y1DWJQkOJew The Armstrong and Miller Show "Hitler Has Only Got One Ball" sketch depicts in a funny way the imaginary creation of  the song.
+.https://www.youtube.com/watch?v=Y1DWJQkOJew The Armstrong and Miller Show "Hitler Has Only Got One Ball" sketch depicts in a funny way the imaginary creation of the song.
 video::Y1DWJQkOJew[youtube,height=400,width=600]
 
 [[thousand-year-reich]]
@@ -4749,11 +4749,11 @@ Immediately censors anything that the Chinese government asks to censor in China
 ____
 Hi Ciro,
 
-Your LinkedIn profile is an integral part of how you present your professional self to the world. That's why we believe it's important to inform you that due to the presence of prohibited content located in the headline, background image and volunteer experience sections of your LinkedIn profile, your profile and your public activity, such as your comments and items you share with your network, will not be made viewable in China. Your profile and activity continues to remain viewable throughout the rest of the countries in which LinkedIn is available.  We will work with you to minimize the impact and can review your profile’s accessibility within China if you update the headline, background image and volunteer experience sections of your profile.  But the decision whether to update your profile is yours.
+Your LinkedIn profile is an integral part of how you present your professional self to the world. That's why we believe it's important to inform you that due to the presence of prohibited content located in the headline, background image and volunteer experience sections of your LinkedIn profile, your profile and your public activity, such as your comments and items you share with your network, will not be made viewable in China. Your profile and activity continues to remain viewable throughout the rest of the countries in which LinkedIn is available. We will work with you to minimize the impact and can review your profile’s accessibility within China if you update the headline, background image and volunteer experience sections of your profile. But the decision whether to update your profile is yours.
 
 In February 2014, we began offering a localized version of LinkedIn in China. We believe that people everywhere can benefit from Chinese individuals connecting with each other and LinkedIn members in other parts of the world, and that the creation of economic opportunity can have a profound impact on their lives and the lives of their families and communities.
 
-While we strongly support freedom of expression, we recognized when we launched that we would need to adhere to the requirements of the Chinese government in order to operate in China.  As a reminder, your profile will remain viewable throughout the rest of the countries in which LinkedIn is available. 
+While we strongly support freedom of expression, we recognized when we launched that we would need to adhere to the requirements of the Chinese government in order to operate in China. As a reminder, your profile will remain viewable throughout the rest of the countries in which LinkedIn is available. 
 
 If you have any questions, please contact Customer Service.
 
@@ -5840,8 +5840,8 @@ admin.github.com hits to GitHub repository:
 Bibliography:
 
 * https://github.com/github/feedback/discussions
-  * 2022-04 https://github.com/github/feedback/discussions/15534 Report spam by https://github.com/ryuujo1573[].
-  * 2022 https://github.com/github/feedback/discussions/12641 Please shut down this repository of malicious smears/ethnic division/nothing to do with open source technology/misperception among teenagers by https://github.com/Yorksh1re[]. Deleted: https://web.archive.org/web/20220310124004/https://github.com/github/feedback/discussions/12641
+** 2022-04 https://github.com/github/feedback/discussions/15534 Report spam by https://github.com/ryuujo1573[].
+** 2022 https://github.com/github/feedback/discussions/12641 Please shut down this repository of malicious smears/ethnic division/nothing to do with open source technology/misperception among teenagers by https://github.com/Yorksh1re[]. Deleted: https://web.archive.org/web/20220310124004/https://github.com/github/feedback/discussions/12641
 * https://www.zhihu.com/question/388634161 如果举报github上的这种情况？ (How to report this type of circunstance on GitHub.) Question links to <<evil-man>>.
 +
 A few answers then started mentioning <<github-com-cirosantilli-china-dictatorship>>:
@@ -6700,7 +6700,7 @@ Emerged mosty translating propaganda about the <<russo-ukrainian-war>>.
 
 This type of thing is something <<ciro-santilli>> did a few times previously, e.g.
 
-* <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream  and the Chinese dream>>
+* <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream and the Chinese dream>>
 * <<little-girl-has-ho-hopes-for-school-video-2021>>
 * <<xinjiang-core-socialist-values,Xinjiang core socialist values>>
 
@@ -7289,7 +7289,7 @@ Many videos were published on <<tiktok>>, 2020-07-09 https://www.codastory.com/a
 <<github>> re-uploads at: https://github.com/cirosantilli/china-dictatorship/issues/221
 
 [[uyghurs-for-sale]]
-.Advertisement published by Qingdao Decai Decoration Co. claiming to supply government-sponsored Uyghur workers from Xinjiang to other provinces. Source of translation: https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report]. Original website archive from  16 Jan 2020: http://archive.ph/r7T8r[]. The ad features a caricature of two dancing Uyghurs in traditional clothing. This is evidence of the CCP's mass forced eviction and slavery of Uyghurs. Another report at 2021-04-16 https://news.sky.com/story/amp/new-evidence-of-the-strict-controls-uighurs-face-in-factories-thousands-of-miles-from-home-12276248 "Batches of 50 to 100 Uighur workers are being advertised on the Chinese internet" suggests that a <<baidu>> search for "劳务派遣" leads to incriminating ads, but which they fail to translate. Report lead: <<vicky-xu>>.
+.Advertisement published by Qingdao Decai Decoration Co. claiming to supply government-sponsored Uyghur workers from Xinjiang to other provinces. Source of translation: https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report]. Original website archive from 16 Jan 2020: http://archive.ph/r7T8r[]. The ad features a caricature of two dancing Uyghurs in traditional clothing. This is evidence of the CCP's mass forced eviction and slavery of Uyghurs. Another report at 2021-04-16 https://news.sky.com/story/amp/new-evidence-of-the-strict-controls-uighurs-face-in-factories-thousands-of-miles-from-home-12276248 "Batches of 50 to 100 Uighur workers are being advertised on the Chinese internet" suggests that a <<baidu>> search for "劳务派遣" leads to incriminating ads, but which they fail to translate. Report lead: <<vicky-xu>>.
 image::{china-dictatorship-media-base}/Uyghur_sale_website.jpg[height=500]
 
 .Uyghur workers at Qingdao Taekwang Shoe Manufacturing Co. Ltd (青岛泰光制鞋有限公司) in Laixi, <<shandong,Shandong>> (莱西市, <<shandong,山东>>) waving the Chinese flag, October 2019. Viewable on the pro-CCP China Ethnic Religion Net (中国民族宗教网) website: http://www.mzb.com.cn/html/report/191130765-1.htm[], and also shown in the https://www.aspi.org.au/report/uyghurs-sale["Uyghurs for sale" report]. Company address: https://goo.gl/maps/EgkbtxgjEny7EU1YA[山东省青岛市莱西市李权庄镇工业园区泰光路71号].
@@ -7702,7 +7702,7 @@ ____
 
 Archive: https://web.archive.org/web/20191005025317if_/https://twitter.com/dmorey/status/1180312072027947008
 
-Then Daryl was a coward, removed this tweet, and apologized on 2019-10-07 (Monday) 1:18 AM  https://twitter.com/dmorey/status/1181000808399114240 (https://archive.is/6Sdpn[archive]), so by then it was already deleted.
+Then Daryl was a coward, removed this tweet, and apologized on 2019-10-07 (Monday) 1:18 AM https://twitter.com/dmorey/status/1181000808399114240 (https://archive.is/6Sdpn[archive]), so by then it was already deleted.
 
 ____
 I did not intend my tweet to cause any offense to Rockets fans and friends of mine in China
@@ -7813,7 +7813,7 @@ image::{china-dictatorship-media-base}/Falun_Gong_Guangzhou.jpg[height=600]
 .Thousands of <<falun-gong>> practitioners in Liaoning Industrial Exhibition, China, likely 1998. https://en.minghui.org/html/articles/2016/5/21/157091.html[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_Liaoning.jpg[height=600]
 
-.Hundreds of <<falun-gong>> believers in Chengdu, China, 1998. https://faluninfo.net/falun-gong-the-practice/[Source].
+.Hundreds of <<falun-gong>> believers in <<chengdu>>, China, 1998. https://faluninfo.net/falun-gong-the-practice/[Source].
 image::{china-dictatorship-media-base}/Falun_Gong_Chengdu.jpg[height=500]
 
 [[does-ciro-santilli-believe-in-or-practice-falun-gong]]
@@ -8364,7 +8364,7 @@ What will one develop in the course of his cultivation? He will develop supernat
 Do you want to use them among ordinary people? You are absolutely not allowed to use them among ordinary people at will.
 ____
 
-But in the end, since  <<flg-fake,everything is fake>>, there is only one reward that you can possibly get if you are both lucky and crazy hard working: <<membership-rivalry-orange-papers,some attention from the master>>.
+But in the end, since <<flg-fake,everything is fake>>, there is only one reward that you can possibly get if you are both lucky and crazy hard working: <<membership-rivalry-orange-papers,some attention from the master>>.
 
 See also:
 
@@ -9672,7 +9672,7 @@ Started in the 2000's in New York State with money donated by believers.
 * https://www.businessinsider.com/dragon-springs-falun-gong-upstate-new-york-compound-photos-2019-9
 * 1999 https://apnews.com/420a741ec19c4db3993d408747874b2d "Falun Gong US compound's neighbors fret over expansion plans"
 
-<<china-daily>> http://www.chinadaily.com.cn/hqzx/2012-10/17/content_15825454.htm claims that <<li-hongzhi>>'s appartment in 2012 was the number 136-08 on 59th avenue, Flushing, NY. https://www.irishtimes.com/news/seeking-master-li-1.221547 confirms Flushing. Also  mentions key 1999 lieutenant Erping Zhang, https://www.c-span.org/person/?erpingzhang[] confirms with photo.
+<<china-daily>> http://www.chinadaily.com.cn/hqzx/2012-10/17/content_15825454.htm claims that <<li-hongzhi>>'s appartment in 2012 was the number 136-08 on 59th avenue, Flushing, NY. https://www.irishtimes.com/news/seeking-master-li-1.221547 confirms Flushing. Also mentions key 1999 lieutenant Erping Zhang, https://www.c-span.org/person/?erpingzhang[] confirms with photo.
 
 [[qigong-fever]]
 === Qigong fever (气功热 , 1980's)
@@ -11757,7 +11757,7 @@ Chinese version of the <<american-dream>>, which <<xi-jinping>> insists is compl
 
 The names suggest, they are not real, but just dreams.
 
-Transcript for <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream  and the Chinese dream>>:
+Transcript for <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream and the Chinese dream>>:
 
 ____
 美国梦是个人发财的梦 +
@@ -11803,7 +11803,7 @@ Don't bring up the American dream in front of me in the future +
 Cheesy! +
 ____
 
-The  essay topic of "American drema vs Chinese dream" is not novel in Communist rhetoric, e.g. https://m.aisixiang.com/data/63286.html dated 2013 contains a version by sociologist https://zh.m.wikipedia.org/wiki/徐賁_(社會學家)[Ben Xu 徐贲].
+The essay topic of "American drema vs Chinese dream" is not novel in Communist rhetoric, e.g. https://m.aisixiang.com/data/63286.html dated 2013 contains a version by sociologist https://zh.m.wikipedia.org/wiki/徐賁_(社會學家)[Ben Xu 徐贲].
 
 Some other essasys:
 
@@ -12441,7 +12441,7 @@ video::CVpcyfHc34Q[youtube,height=400,width=600]
 .A student from an art institute plasters the neck of the https://en.wikipedia.org/wiki/Goddess_of_Democracy["Goddess of Democracy"] (https://zh.wikipedia.org/wiki/民主女神[民主女神]) statue on 1989-05-30. Replicas have of course been erected elsewhere, and when the CCP falls one day, this _will_ be rebuilt, obviously. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_sculpt_goddess.webp[height=600]
 
-.An old lady tells those rowdy overpriviledged students that they were complaining for no reason, and that in the <<cultural-revolution,good old Mao days you would be lucky to get any food at all>>, and that they should just go the fuck home  on 1989-05-31 (Ciro might or might not have made up the exact content of the conversation). https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
+.An old lady tells those rowdy overpriviledged students that they were complaining for no reason, and that in the <<cultural-revolution,good old Mao days you would be lucky to get any food at all>>, and that they should just go the fuck home on 1989-05-31 (Ciro might or might not have made up the exact content of the conversation). https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_old_lady.webp[height=500]
 
 [[tiananmen-girl-strife]]
@@ -12639,7 +12639,7 @@ image::{china-dictatorship-media-base}/Tank_Man_new_longshot_Stuart_Franklin.jpg
 .Terril Jones photo taken at ground level with Tank Man on background and men running away on the foreground. The photo was only published in 2009. https://blogs.wsj.com/chinarealtime/2014/05/30/the-other-tank-man-photographs/[Source].
 image::{china-dictatorship-media-base}/Tank_Man_ground_level.jpg[height=600]
 
-.Photoshop of Arthur Tsang's photo of Tank Man with huge rubber ducks replacing the tanks. Inspired by a https://www.youtube.com/watch?v=rSo5MqQVwCY[huge inflatable rubber duck sculpture floating in Hong Kong in 2013]. Watermark reads "weibo.com/weibolg" on <<weibo>>, which is confirmed by https://www.theguardian.com/world/2013/jun/04/tiananmen-square-online-search-censored[The New York Times].  https://petapixel.com/2013/06/05/yellow-duck-version-of-tank-man-photo-goes-viral-amidst-chinese-censorship[Source].
+.Photoshop of Arthur Tsang's photo of Tank Man with huge rubber ducks replacing the tanks. Inspired by a https://www.youtube.com/watch?v=rSo5MqQVwCY[huge inflatable rubber duck sculpture floating in Hong Kong in 2013]. Watermark reads "weibo.com/weibolg" on <<weibo>>, which is confirmed by https://www.theguardian.com/world/2013/jun/04/tiananmen-square-online-search-censored[The New York Times]. https://petapixel.com/2013/06/05/yellow-duck-version-of-tank-man-photo-goes-viral-amidst-chinese-censorship[Source].
 image::{china-dictatorship-media-base}/Tank_Man_ducks.jpg[height=600]
 
 [[lego-tank-man]]
@@ -12815,9 +12815,9 @@ Lists: https://qz.com/1618805/the-1989-tiananmen-student-leaders-on-chinas-most-
 ** Twitter: https://twitter.com/FengCongde[]. Retweeted Ciro's CC BY SA <<tank-man>> arts:
 ** https://twitter.com/cirosantilli2/status/1352936697420509184/retweets
 * Wu'erkaixi, dude's from <Xinjiang>
-  * https://en.wikipedia.org/wiki/Wu%27erkaixi
-  * https://zh.wikipedia.org/wiki/吾爾開希·多萊特
-  * https://twitter.com/wuerkaixi
+** https://en.wikipedia.org/wiki/Wu%27erkaixi
+** https://zh.wikipedia.org/wiki/吾爾開希·多萊特
+** https://twitter.com/wuerkaixi
 
 [[tiananmen-leaders-corrupt]]
 ==== Tiananmen student leaders went to USA and are living just fine (天安门学生领袖去了美国，生活还不错)
@@ -12895,7 +12895,7 @@ Chai has some "dirt" on her as mentioned at: https://en.wikipedia.org/wiki/Chai_
 * she sued and lost a case where she sued <<the-gate-of-heavenly-peace-1995>> for defamation over a video where she willingly states bloodshed was necessary in Tiananmen to open people's eyes, but that she couldn't bring herself to tell her fellow students that. She requested the interview herself. This is the interview: https://www.youtube.com/watch?v=5__ESiklA1A[]. This position is notably opposed by people such as <<liu-xiaobo>>, who begged 
 * her US company Jenzabar was sued for religious discrimination by ex-employee Jing Zhang in 2012 who claimed she was fired because she refused to pray, this after Chai had converted to Christinanity in 2009. TODO result.
 
-.https://www.youtube.com/watch?v=gRAmL1D8R-4 (https://github.com/cirosantilli/china-dictatorship/issues/197[GitHub reupload]) Chai Ling People's Daily speech in Tiananmen Square protests  (柴玲—六四学运—国民日报，胡说八道！). Ripped from https://en.wikipedia.org/wiki/Can%27t_Get_You_Out_of_My_Head_(TV_series)[The BBC miniseries Can't Get You Out of My Head] directed by Alam Curtis (2021) It is also, and perhaps more importantly also shown at <<the-gate-of-heavenly-peace-1995>> at around 1:11:40. TODO find exact date. Ordering of the documentary suggests some time after May 10th.
+.https://www.youtube.com/watch?v=gRAmL1D8R-4 (https://github.com/cirosantilli/china-dictatorship/issues/197[GitHub reupload]) Chai Ling People's Daily speech in Tiananmen Square protests (柴玲—六四学运—国民日报，胡说八道！). Ripped from https://en.wikipedia.org/wiki/Can%27t_Get_You_Out_of_My_Head_(TV_series)[The BBC miniseries Can't Get You Out of My Head] directed by Alam Curtis (2021) It is also, and perhaps more importantly also shown at <<the-gate-of-heavenly-peace-1995>> at around 1:11:40. TODO find exact date. Ordering of the documentary suggests some time after May 10th.
 video::gRAmL1D8R-4[youtube,height=400,width=600]
 
 .Still from the above video with captions. We see that she was either at the headquarters of the <<peoples-daily>>, or in some other office of the organization. TODO confirm exact location.
@@ -12918,8 +12918,8 @@ Some good footage:
 
 * man showing bullet cases + bullet holes on windows on July: https://www.gettyimages.co.uk/detail/video/news-footage/83245439?adppopup=true
 * the dust storm on May 31st!
-  * https://www.gettyimages.co.uk/detail/video/news-footage/83245434?adppopup=true
-  * https://www.gettyimages.co.uk/detail/video/news-footage/83245435?adppopup=true
+** https://www.gettyimages.co.uk/detail/video/news-footage/83245434?adppopup=true
+** https://www.gettyimages.co.uk/detail/video/news-footage/83245435?adppopup=true
 
 [[the-gate-of-heavenly-peace-1995]]
 ==== The Gate of Heavenly Peace (1995, 天安门纪录片)
@@ -13404,7 +13404,7 @@ Nuked as per Ciro's eyewitness on 2020-06-06 without web archive, but could be f
 
 Nuked answers:
 
-* https://www.zhihu.com/question/19806854  中国队 2002 世界杯为什么会出线？
+* https://www.zhihu.com/question/19806854 中国队 2002 世界杯为什么会出线？
 ** question up 2020-06-15 https://web.archive.org/web/20200615140650/https://www.zhihu.com/question/19806854[archive])
 ** 2015 archive: https://web.archive.org/web/20151114093037/https://www.zhihu.com/question/19806854
 ** top answer from 2015 archive https://www.zhihu.com/question/19806854/answer/19357252 is dead 2020-06-15 https://web.archive.org/web/20200615142339/http://web.archive.org/screenshot/https://www.zhihu.com/question/19806854/answer/19357252
@@ -13487,14 +13487,14 @@ And at the same time she was also working on an idiotic superhero movie https://
 
 On 2021-04-26 reports emerged that her win was being censored in China: https://www.wsj.com/articles/china-censors-nomadland-director-chloe-zhaos-oscar-win-11619440550 Unlike <<hao-haidong>> however, the order was much more specific: to censor only the fact that she won the Oscars.
 
-As of 2021-04-27 her <<baidu-baike>> page https://baike.baidu.com/item/赵婷/22214113 was still up: https://web.archive.org/web/20210427075523/https://baike.baidu.com/item/赵婷/22214113  let's see how long it lasts. But the page failed to mention the minor detail that she on the Oscar. The comment section, which we're unable to archive contained two types comments:
+As of 2021-04-27 her <<baidu-baike>> page https://baike.baidu.com/item/赵婷/22214113 was still up: https://web.archive.org/web/20210427075523/https://baike.baidu.com/item/赵婷/22214113 let's see how long it lasts. But the page failed to mention the minor detail that she on the Oscar. The comment section, which we're unable to archive contained two types comments:
 
 * she's an American citizen now, not Chinese, just it wasn't reported. But no one has any proof.
 * she won the Oscar
 
 https://web.archive.org/web/20210413095903/https://baike.baidu.com/tashuo/browse/content?id=c9fdac1dcf27bdd1280ac9e1&lemmaId=22214113&fromLemmaModule=pcBottom contains a prediction that she would win the Oscar based on earlier recent wins.
 
-The page for the 93rd Oscar mysteriously does not exit however: https://baike.baidu.com/item/第93届奥斯卡金像奖 unlike that of all others: https://baike.baidu.com/item/第92届奥斯卡金像奖 (https://archive.ph/wip/gGGtn[archive]) We can't find an archive either, but it is overwhelmingly likely that it was  created and later deleted. As of 2021-06-21, https://baike.baidu.com/item/奥斯卡金像奖/739020#5 (https://archive.ph/bZFfe#5[archive]) contains a list of all the prizes given so far, linking to the respective per year pages, and the 93rd appears listed but mysteriously without a link.
+The page for the 93rd Oscar mysteriously does not exit however: https://baike.baidu.com/item/第93届奥斯卡金像奖 unlike that of all others: https://baike.baidu.com/item/第92届奥斯卡金像奖 (https://archive.ph/wip/gGGtn[archive]) We can't find an archive either, but it is overwhelmingly likely that it was created and later deleted. As of 2021-06-21, https://baike.baidu.com/item/奥斯卡金像奖/739020#5 (https://archive.ph/bZFfe#5[archive]) contains a list of all the prizes given so far, linking to the respective per year pages, and the 93rd appears listed but mysteriously without a link.
 
 On <<zhihu>> the topic 93rd Oscar "第93 届奥斯卡金像奖" https://www.zhihu.com/topic/21594057 was deleted:
 
@@ -14034,7 +14034,7 @@ ____
 There are so many things you have to do. You have to do your ordinary job and do it well, you have to manage your family's affairs, and as Dafa disciples you need to make time for Fa-study and exercises; you also need to clarify the truth, as well as participate in Dafa projects, such as The Epoch Times.
 ____
 
-In 2020-11-08 https://www.epochtimes.com/gb/20/11/8/n12534746.htm the Epoch Times published a poem by Li Hongzhi, just after Trump was announced to lose the presidential elections, see also:  <<flg-trump>>.
+In 2020-11-08 https://www.epochtimes.com/gb/20/11/8/n12534746.htm the Epoch Times published a poem by Li Hongzhi, just after Trump was announced to lose the presidential elections, see also: <<flg-trump>>.
 
 Related:
 
@@ -14096,7 +14096,7 @@ Website credits as of 2020:
 * Producer Matt Gnaizda: his LinkedIn https://www.linkedin.com/in/matt-gnaizda-6598a75/ has a gap from 2009 to 2017, after having graduated from University of California, Berkeley, and worked "regular" jobs. This gap could have been when he converted to Falun Gong and started working for Falun Gong media
 ** https://twitter.com/mattgnaizda
 ** https://www.theepochtimes.com/author-matt-gnaizda <<epoch-times>> credits him with several articles between 2005 and 2014
-* Humor Ninja Shelley Zhang. She appears  appears to be a professional comedy writer:
+* Humor Ninja Shelley Zhang. She appears appears to be a professional comedy writer:
 ** https://twitter.com/shelzhang
 ** https://www.linkedin.com/in/shelley-zhang-a5741a56/
 ** https://thechinagirls.wordpress.com/
@@ -14216,7 +14216,7 @@ A scraped mirror of CDT was created on <<github>> pages by Tang Wenzheng from <<
 * https://github.com/china-digital-times/china-digital-times.github.io JavaScript SPA that reads data from the data repository, which is stored as JSON (JAMstack)
 * https://github.com/china-digital-times/data/ the data
 
-Firs commit  Jun 30, 2019. The first article is from 2010, so maybe it did scrape everything. It appears to be automatically updated daily. The images seem to be re-uploaded to https://statically.io/[], e.g. https://china-digital-times.github.io/?/id/664606 contains https://cdn.statically.io/gh/china-digital-times/files/master/2021/04/image-1617989397104.png which just fetches from GitHub automatically: https://github.com/china-digital-times/files/blob/master/2021/04/image-1617989397104.png[] while the original article https://chinadigitaltimes.net/chinese/664606.html stores images locally: https://chinadigitaltimes.net/chinese/files/2021/04/image-1617989397104.png[]. This approach is more censorship resistant, since all images are under a single domain, so takedown would require a full statically domain takedown, which would break other things. Although CDN blocks are not unheard of, e.g. as mentioned at: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china[].
+First commit Jun 30, 2019. The first article is from 2010, so maybe it did scrape everything. It appears to be automatically updated daily. The images seem to be re-uploaded to https://statically.io/[], e.g. https://china-digital-times.github.io/?/id/664606 contains https://cdn.statically.io/gh/china-digital-times/files/master/2021/04/image-1617989397104.png which just fetches from GitHub automatically: https://github.com/china-digital-times/files/blob/master/2021/04/image-1617989397104.png[] while the original article https://chinadigitaltimes.net/chinese/664606.html stores images locally: https://chinadigitaltimes.net/chinese/files/2021/04/image-1617989397104.png[]. This approach is more censorship resistant, since all images are under a single domain, so takedown would require a full statically domain takedown, which would break other things. Although CDN blocks are not unheard of, e.g. as mentioned at: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china[].
 
 .https://www.youtube.com/watch?v=hx28EUiKEUc "From 'fart people' to citizens on China's internet | Xiao Qiang | TEDxLiberdade" by TEDx Talks (2014). Presentation by https://en.wikipedia.org/wiki/Xiao_Qiang[Xiao Qiang] (https://zh.wikipedia.org/wiki/蕭強[萧强]), founder of <<china-digital-times>>. He was a Physicist from https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China[USTC] who went mad after <<tiananmen>>. <<wife>> also studied there and said that's the most anti-CCP of all big Chinese universities.
 video::MCxzMYVvHBg[youtube,height=400,width=600,start=227]
@@ -14805,8 +14805,8 @@ For the image:
 Some others that could be used in the future:
 
 * Chen Mei and Cai Wei from <<terminus2049>>. TODO for them it would be good if we could have two closely related characters. Perhaps
-  * Ruan brothers: Ruan Xiao'er, Ruan Xiaowu, Ruan Xiaoqi. More notable than the Zhang brothers most likely. The problem is that they are 3.
-  * the brothers Zhang Heng and Zhang Shun, the only question is if they are memorable enough. https://en.wikipedia.org/wiki/File:Senkaji_Chao_wringing_out_hin_loincloth.jpg and https://commons.wikimedia.org/wiki/File:Utagawa_Kuniyoshi_-_水滸傳_-_張順.jpg perhaps.
+** Ruan brothers: Ruan Xiao'er, Ruan Xiaowu, Ruan Xiaoqi. More notable than the Zhang brothers most likely. The problem is that they are 3.
+** the brothers Zhang Heng and Zhang Shun, the only question is if they are memorable enough. https://en.wikipedia.org/wiki/File:Senkaji_Chao_wringing_out_hin_loincloth.jpg and https://commons.wikimedia.org/wiki/File:Utagawa_Kuniyoshi_-_水滸傳_-_張順.jpg perhaps.
 
 https://zhuanlan.zhihu.com/p/266089281 contains all images of some version, but not the 1998 series outro.
 
@@ -15208,7 +15208,7 @@ video::SymuEg6NRp0[youtube,height=400,width=600]
 The famous https://en.wikipedia.org/wiki/Heinrich_Heine[Heinrich Heine] (German but from the 19th century, before the Nazis) saying also comes to mind:
 
 ____
-Where they have burned books, they will end in burning human beings  +
+Where they have burned books, they will end in burning human beings +
 他们在哪里烧书籍，他们也会烧人 +
 ____
 
@@ -15637,7 +15637,7 @@ Removing the space leads to more matches:
 ____
 Your website http://browsingprotection.f-secure.com/swp/result?x=5Jg2kWKC8d86b4F-H5cdoS8dyu04vtzGtEXhQL6COLIX0k4wrv-N*w shows that someone in your company "found evidence of harmful behaviour" on my website http://archive.is/
 ____
-* https://en.wikipedia.org/w/index.php?title=User_talk%3AMasharabinovich shows 2012 attempts by Masha to automate wikipedia arching of dead links with archive.is.  Later in 2016 archive** in 2016 archive.is is was blacklisted entirely: http://wikipediocracy.com/forum/viewtopic.php?t=7578
+* https://en.wikipedia.org/w/index.php?title=User_talk%3AMasharabinovich shows 2012 attempts by Masha to automate wikipedia arching of dead links with archive.is. Later in 2016 archive** in 2016 archive.is is was blacklisted entirely: http://wikipediocracy.com/forum/viewtopic.php?t=7578
 ** possibly in 2018, Wikipedia widely adopted automatic <<wayback-machine>> usage on all external links: http://blog.archive.org/2018/10/01/more-than-9-million-broken-links-on-wikipedia-are-now-rescued/
 
 Wikipedia suggests that the name Masha Rabinovich is likely of Russian Ashkenazi Jewish origin:
@@ -16076,7 +16076,7 @@ image::{china-dictatorship-media-base}/Wujiao.png[height=400]
 * https://en.wikipedia.org/wiki/Little_Pink
 * https://zh.wikipedia.org/wiki/小粉紅
 
-<<slang,Slang>> name for <<stupid,brainwashed>> <<ccp,CCP>> supporters who are not necessarily paid professional <<wumao,wumaos>>, notably young, idealistic and enthusiastic ones, <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream  and the Chinese dream>> contains a prototypical video example.
+<<slang,Slang>> name for <<stupid,brainwashed>> <<ccp,CCP>> supporters who are not necessarily paid professional <<wumao,wumaos>>, notably young, idealistic and enthusiastic ones, <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream and the Chinese dream>> contains a prototypical video example.
 
 兔友 (friend of the rabbit) is another variant referring to: <<that-rabbit>>.
 
@@ -16209,7 +16209,7 @@ Non-political (as far as we can tell) channels of interest:
 ** https://www.youtube.com/watch?v=unDUEoMqYwk "I Train with the Troops at Tiananmen Square". Participates in a flag raising ceremony.
 * https://www.youtube.com/c/KevininShanghai Kevin in Shanghai. Mostly language and cultural differences.
 * https://www.youtube.com/channel/UCrcDPAshreK6gXlDIrDgYjQ Katherine's Journey to the East 阳离子东游记
-** https://www.youtube.com/watch?v=LnHqBIN0sZY "China is a fascinating country that is often portrayed by western media in an overly negative light. China isn't perfect, but what country is? There's much more to China than the negative news and stereotypes,  and there are many reasons why I chose to live here - these are a few of the top ones."
+** https://www.youtube.com/watch?v=LnHqBIN0sZY "China is a fascinating country that is often portrayed by western media in an overly negative light. China isn't perfect, but what country is? There's much more to China than the negative news and stereotypes, and there are many reasons why I chose to live here - these are a few of the top ones."
 
 Bibliography:
 
@@ -16280,7 +16280,7 @@ Reception:
 * https://www.zhihu.com/question/310502367 "如何评价 B 站 UP 主「NathanRich火锅大王」？" on <<zhihu>>. TODO what is "B站UP"?
 * 2020-07-05 <<cgtn>> approves: https://www.youtube.com/watch?v=YRK1XDlZkng "Nathan Rich: 'Hotpot King' delivering truth about HK to the world"
 
-2020-06-01  https://www.taiwannews.com.tw/en/news/3941420 "China propagandist Nathan Rich's criminal record revealed" contains an outline of Richs criminal records, with including mugshots. Most of this was already likely known, but it gives good detail. In particular, it comments on the fact that in 2013 Beijing started to more strictly do criminal background checks for VISA applicants: https://www.china-briefing.com/news/non-criminal-record-certificate-required-for-employment-license-application-in-beijing/[], and that Rich managed to get the VISA two years later nonetheless, notably including a drug trafficking charge.
+2020-06-01 https://www.taiwannews.com.tw/en/news/3941420 "China propagandist Nathan Rich's criminal record revealed" contains an outline of Richs criminal records, with including mugshots. Most of this was already likely known, but it gives good detail. In particular, it comments on the fact that in 2013 Beijing started to more strictly do criminal background checks for VISA applicants: https://www.china-briefing.com/news/non-criminal-record-certificate-required-for-employment-license-application-in-beijing/[], and that Rich managed to get the VISA two years later nonetheless, notably including a drug trafficking charge.
 
 白https://secure.avaaz.org/community_petitions/en/youtubers_social_commentators_anybody_interested_i_remove_youtube_user_nathan_rich_from_google_services/ characterises him as "左五无毛". While this does not seems like a specific expression, and maybe is not even accurate, learning the meaning of "左五" is of interest:
 
@@ -16378,7 +16378,7 @@ Saying hi: https://github.com/nigeljyng/dotfiles/issues/4
 
 Israeli, studied at Peking University. Ychina (歪果仁研究协会) is his pro-CCP propaganda organization, based in Beijing.
 
-His father https://en.wikipedia.org/wiki/Amir_Gal-Or[Amir Gal-Or] (高哲铭), also Israeli, is a venture capitalist based in China. So that's the collateral for his son's media access. Amir is an ex-Israeli Air Force. What a disgrace. Mossad is going to pay those people a visit one day. Supposing they are not already working for Mossad. Here's the happy family: https://twitter.com/AmirGalOr/status/911491366995103744[], father and son entitled "being  interviewed by my son in <<cctv>> headquarters .. a new era .." Here's his TED talk on how to educate your children to support <<nazi,Hitler>> v2 do <<xinjiang-re-education-camps,holocaust v2>>: https://www.youtube.com/watch?v=Uk4ztwRvUxs "How to educate the next generation of global communications? | Amir Galor | TEDxYouth@Hangzhou" (2019). The <<life-of-brian-nazi-jew,Nazi Jew scene from The Life of Brian>> comes to mind very strongly.
+His father https://en.wikipedia.org/wiki/Amir_Gal-Or[Amir Gal-Or] (高哲铭), also Israeli, is a venture capitalist based in China. So that's the collateral for his son's media access. Amir is an ex-Israeli Air Force. What a disgrace. Mossad is going to pay those people a visit one day. Supposing they are not already working for Mossad. Here's the happy family: https://twitter.com/AmirGalOr/status/911491366995103744[], father and son entitled "being interviewed by my son in <<cctv>> headquarters .. a new era .." Here's his TED talk on how to educate your children to support <<nazi,Hitler>> v2 do <<xinjiang-re-education-camps,holocaust v2>>: https://www.youtube.com/watch?v=Uk4ztwRvUxs "How to educate the next generation of global communications? | Amir Galor | TEDxYouth@Hangzhou" (2019). The <<life-of-brian-nazi-jew,Nazi Jew scene from The Life of Brian>> comes to mind very strongly.
 
 Y-Platform had a 3.5M investment from <<weibo>>: https://www.finsmes.com/2020/03/y-platform-completes-3-5m-series-a-funding-round.html
 
@@ -16470,7 +16470,7 @@ Most notable Allied ones:
 ** https://en.wikipedia.org/wiki/Political_warfare[political warfare]. The main photo of the wiki page is Sun Tzu :-)
 *** https://en.wikipedia.org/wiki/Psychological_warfare[Psychologial warfare]
 
-.https://www.youtube.com/watch?v=HrT3rILfIzA "Tokyo Rose" - WW2 Traitor or Victim? by  Mark Felton Productions (2021) talks about https://en.wikipedia.org/wiki/Tokyo_Rose[Tokyo Rose] (https://zh.wikipedia.org/wiki/東京玫瑰[東京玫瑰]), alias for several women who broadcast English propaganda for the Japanese, but most notably https://en.wikipedia.org/wiki/Iva_Toguri_D%27Aquino[Iva Toguri D'Aquino]. This one was really good, she was cute and made fun of herself, and played music, the Americans actually enjoyed listening to it. Soft power at its best.
+.https://www.youtube.com/watch?v=HrT3rILfIzA "Tokyo Rose" - WW2 Traitor or Victim? by Mark Felton Productions (2021) talks about https://en.wikipedia.org/wiki/Tokyo_Rose[Tokyo Rose] (https://zh.wikipedia.org/wiki/東京玫瑰[東京玫瑰]), alias for several women who broadcast English propaganda for the Japanese, but most notably https://en.wikipedia.org/wiki/Iva_Toguri_D%27Aquino[Iva Toguri D'Aquino]. This one was really good, she was cute and made fun of herself, and played music, the Americans actually enjoyed listening to it. Soft power at its best.
 video::HrT3rILfIzA[youtube,height=400,width=600]
 
 [[real-username-law]]
@@ -16607,7 +16607,7 @@ Related news:
 
 Related:
 
-* <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream  and the Chinese dream>>
+* <<little-pink-american-dream-vs-chinese-dream,Little pink explains the difference between the American dream and the Chinese dream>>
 
 [[xi-salute-young-pioneers]]
 .<<xi-jinping>> basically <<nazi,Nazi saluting>> representatives attending the 7th National Congress of the <<young-pioneers-of-china>> in Beijing, June 1, 2015. http://www.xinhuanet.com/english/2019-06/01/c_138108706.htm[Source] by <<xinhua>>.
@@ -16687,12 +16687,12 @@ We made a single image mocking all of them at: <<core-socialist-values-collage,c
 * 4 和谐 Harmony: https://archive.ph/MIjcT/0c972e9b131f48087bfa2ed53caee215a79e5a45 from https://www.ft.com/content/84dd7e32-cbe5-11e9-99a4-b5ded7a7fe3f from <<hong-kong-protests-2014>>
 * 5 自由 Freedom: <<xinjiang-lop-county,Xinjiang Lop County>>
 * 6 平等 Equality: <<lampstand-church-demolition,Lampstand chutch demolition>>
-* 7 公正 Justice:  https://ichef.bbci.co.uk/news/976/cpsprodpb/0FC6/production/_96683040_0292729b-ad9f-4ea3-9d64-13c0200b74d9.jpg from https://www.bbc.co.uk/news/world-asia-40403811 about <<liu-xiaobo>>
+* 7 公正 Justice: https://ichef.bbci.co.uk/news/976/cpsprodpb/0FC6/production/_96683040_0292729b-ad9f-4ea3-9d64-13c0200b74d9.jpg from https://www.bbc.co.uk/news/world-asia-40403811 about <<liu-xiaobo>>
 * 8 法治 Rule of law: <<jingjing-chacha>>
 * 9 爱国 Patriotism: https://twitter.com/GFWfrog/status/1409862331375423489 from <<anonymous-middle-fingers,Anonymous middle fingers (2021)>>
 * 10 敬业 Dedication: https://zhuanlan.zhihu.com/p/377446839[] from <<lie-flat-movement>>. Widely shared meme, could not determine original source anything .
 * 11 诚信 Integrity: https://en.wikipedia.org/wiki/File:VOA-Bo_Xilai.jpg[] from <<bo-xilai>> seems like the best bet. Someone from <<panama-papers>>. Can't find a photo of Deng Jiagui, he just looks corrupt. Related: <<corruption>>.
-* 12 友善 Friendship: maybe something from <<falun-gong>> oppression,  https://www.theguardian.com/world/2015/aug/27/anastasia-lin-miss-world-canada-falun-gong-practitioner-china-persecution also mentioned at <<falun-gong-police-step-over-head,falun-gong-police-step-over-head>>
+* 12 友善 Friendship: maybe something from <<falun-gong>> oppression, https://www.theguardian.com/world/2015/aug/27/anastasia-lin-miss-world-canada-falun-gong-practitioner-china-persecution also mentioned at <<falun-gong-police-step-over-head,falun-gong-police-step-over-head>>
 
 TODO improve:
 
@@ -16709,7 +16709,7 @@ image::{china-dictatorship-media-base}/Core_socialist_values_near_Jianguomen_met
 image::{china-dictatorship-media-base}/Core_socialist_values.jpg[height=1000]
 
 [[core-socialist-values-by-1v9ex]]
-.Collage mocking each of the core socialist values by Twitter user https://twitter.com/1V9ex[1V9ex] (维尼十九号机.8964Ver).  https://twitter.com/1V9ex/status/1517510684262617088[Source].
+.Collage mocking each of the core socialist values by Twitter user https://twitter.com/1V9ex[1V9ex] (维尼十九号机.8964Ver). https://twitter.com/1V9ex/status/1517510684262617088[Source].
 image::{china-dictatorship-media-base}/Core_socialist_values_by_1V9ex.jpg[height=1000]
 
 TODO understand each image of the above:
@@ -17033,7 +17033,7 @@ image::{china-dictatorship-media-base}/Huawei_5G_my_precious.jpg[height=400]
 
 News:
 
-* 2020-11-05  https://www.businessinsider.com/tiktok-censor-china-critical-content-uighur-uighurs-2020-11?r=US&IR=T "A senior TikTok executive admitted the company used to censor content critical of China, 'specifically with regard to the Uighur situation'", related to: <<xinjiang-re-education-camps>>
+* 2020-11-05 https://www.businessinsider.com/tiktok-censor-china-critical-content-uighur-uighurs-2020-11?r=US&IR=T "A senior TikTok executive admitted the company used to censor content critical of China, 'specifically with regard to the Uighur situation'", related to: <<xinjiang-re-education-camps>>
 * 2020-07 https://techcrunch.com/2020/07/23/tiktok-creator-fund-200-million-us/ "TikTok unveils $200 million fund for U.S. creators": TikTok is trying to buy their stay in the West.
 * 2020-07 https://www.forbes.com/sites/zakdoffman/2020/06/26/warning-apple-suddenly-catches-tiktok-secretly-spying-on-millions-of-iphone-users/#5265c8d734ef "pple Suddenly Catches TikTok Secretly Spying On Millions Of iPhone Users" by reading from the clipboard
 * 2020-06 https://www.bbc.co.uk/news/technology-53225720 India bans TikTok after Ladakh border tensions
@@ -17197,8 +17197,8 @@ Some subdomains on <<archive-today>>: https://archive.vn/*.oa.com
 Subdomain selection:
 
 * 2022-05-16 https://isp.oa.com hit https://github.com/cirosantilli/cirosantilli people asking about it:
-  * https://eck.ink/study/158.html
-  * http://machbbs.com/hostloc/297766
+** https://eck.ink/study/158.html
+** http://machbbs.com/hostloc/297766
 * https://ilns.isec.oa.com[], which from the name is likely some kind of internal censorship/information security portal:
 ** 2021-08-25 http://ilnstest.isec.oa.com/ a new variant
 ** 2021-07-22 4 hits one user from https://ilns.isec.oa.com to GitHub repository
@@ -17334,7 +17334,7 @@ Related:
 * https://www.knowlesys.cn/
 * http://www.knowlesys.com/
 
-.Slide from a presentation of the Knowlesys Hong Kong social media censorship/misinformation company with words "Social Media as Weapons", "Your Enemy", leaked by the CCP_Unmasked hacker group on 2020/08/20, possible <<telegram>> account: https://t.me/ccp_unmasked[]. The leaks also contained data on  Yunrun Big Data Service, a company based in Guangzhou, and OneSight, based in Beijing. From this hack they apparently also managed obtained passwords used by those companies to manage CCP social media, and they posted some messages about their efforst through those accounts. Western countries have also used terrorism as an excuse way to reduce privacy/start wars, but of course, things are much worse in dictatorships where there is no freedom of speech, related <<evil-west>>. https://www.vice.com/en_in/article/dyzewz/hackers-leak-alleged-internal-files-of-chinese-social-media-monitoring-firmscv[Source].
+.Slide from a presentation of the Knowlesys Hong Kong social media censorship/misinformation company with words "Social Media as Weapons", "Your Enemy", leaked by the CCP_Unmasked hacker group on 2020/08/20, possible <<telegram>> account: https://t.me/ccp_unmasked[]. The leaks also contained data on Yunrun Big Data Service, a company based in Guangzhou, and OneSight, based in Beijing. From this hack they apparently also managed obtained passwords used by those companies to manage CCP social media, and they posted some messages about their efforst through those accounts. Western countries have also used terrorism as an excuse way to reduce privacy/start wars, but of course, things are much worse in dictatorships where there is no freedom of speech, related <<evil-west>>. https://www.vice.com/en_in/article/dyzewz/hackers-leak-alleged-internal-files-of-chinese-social-media-monitoring-firmscv[Source].
 image::{china-dictatorship-media-base}/Social_Media_as_Weapons.webp[height=400]
 
 [[zhenhua-data-leak]]
@@ -17354,17 +17354,18 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
-* 2022-1009 https://forums.hardwarezone.com.sg/threads/will-u-date-a-girl-who-lying-flat.6820106/#post-144205474
+* 2022-12-06 comment on https://www.reddit.com/r/real_China_irl/comments/ze5wcd/github也在墙外了/ has GitHub been blocked by the <<gfw>>
+* 2022-10-09 https://forums.hardwarezone.com.sg/threads/will-u-date-a-girl-who-lying-flat.6820106/#post-144205474
 * 2022-08-01 https://archive.ph/wip/W9Wip https://boards.4channel.org/g/thread/87957634/this-is-it-the-culmination-of-their-grand-plan-to#p87957634 
 * 2022-07-20 https://support.github.com to <<meant-to-be-used>>. GitHub is on Ciro's side.
 * 2022-05 bytedance.feishu.cn 3 people to repo https://github.com/cirosantilli/china-dictatorship
-  * 2022-06-03 8 links from bytedance.feishu.cn to https://cirosantilli.com/cirosantilli Perhaps interested in Ciro's recent clear disclosure that he was in Cambridge in 2017? Two of them have identifiers:
-    * /sheets/shtcn2QYfP4Cp251gHLmHWhEXZ
-    * /sheets/shtcnoC1x3gH7fem7Nqvz0StBTb
+** 2022-06-03 8 links from bytedance.feishu.cn to https://cirosantilli.com/cirosantilli Perhaps interested in Ciro's recent clear disclosure that he was in Cambridge in 2017? Two of them have identifiers:
+*** /sheets/shtcn2QYfP4Cp251gHLmHWhEXZ
+*** /sheets/shtcnoC1x3gH7fem7Nqvz0StBTb
 * 2022-04-29 https://www.reddit.com/r/ADVChina/comments/uepsnh/found_this_on_github_a_repository_that_seems_to/ Found this on Github, a repository that seems to be run by Chinese human rights dissidents. Lots of CCP FAQ, news, and other useful information.
 * 2022-03-14 zhttps://91ai.net/thread-983734-1-1.html from <<zhao-heming>>
 * 2022-03-12 https://news.ycombinator.com/item?id=30649938 a failed Y combinator attempt. Sad. Maybe https://github.com/sturza
-* 2022-02 https://urlsec.qq.com/check.html from <<qq>> to https://github.com/cirosantilli/cirosantilli "网站安全检查" (Website safety check) from  https://urlsec.qq.com/check.html?url=https%3A%2F%2Fgithub.com%2Fcirosantilli%2Fchina-dictatorship says "暂未发现风险" (No risks discovered at present) as of 2022-03-04, so all good.
+* 2022-02 https://urlsec.qq.com/check.html from <<qq>> to https://github.com/cirosantilli/cirosantilli "网站安全检查" (Website safety check) from https://urlsec.qq.com/check.html?url=https%3A%2F%2Fgithub.com%2Fcirosantilli%2Fchina-dictatorship says "暂未发现风险" (No risks discovered at present) as of 2022-03-04, so all good.
 * 2022-01-31 https://gall.dcinside.com/mgallery/board/view/?id=aoegame&no=20186832 Korean forum originally about photography: https://en.wikipedia.org/wiki/DC_Inside Wrongly suggests that this repository is made by Chinese/Taiwanese people: <<is-ciro-santilli-chinese>> but no patience to create an account there now
 * 2022-01-15 https://web.archive.org/web/20220120082147/https://wirechan.org/b/ | https://archive.ph/BkjAj in an independent and not very popular Chan, the post basically quotes https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/288497#288497[]
 +
@@ -17411,10 +17412,10 @@ ____
 * 2021-10 13 https://www.reddit.com/r/saraba2nd/comments/q7bwgc/素材库_这个repo的节目效果不错/ (source material: this repo's shows good results). Thanks.
 * 2021-08 https://www.reddit.com/r/DoubanGoosegroup/comments/pkjyzm/有没有学理科会备份的鹅_感觉很多组都要殉我们要不要弄个github把热贴备份出来/ TODO understand
 * 2021-07-15 https://weibo.com/3009149283/KoREYEIA2?type=comment#_rnd1629010985150 on <<weibo>> #反华 挂一个垃圾仓库 cirosantilli/china-dictatorship (#anti-china Found a trash repository.) Does not understand the CCP != China: <<does-ciro-santilli-hate-china>>. Perhaps this is what triggered <<ciro-santillis-weibo-block>>.
-* 2021-08-13 https://www.kdocs.cn/ to https://github.com/cirosantilli/cirosantilli[]. That's a Google Docs clone it seems. Used by the Chengdu government. Chinese name: 金山文档 (golden mountain documents). Also had 50 unique cloners on 11 and 12th. Is it <<github-gov-takedowns>> time at last??
+* 2021-08-13 https://www.kdocs.cn/ to https://github.com/cirosantilli/cirosantilli[]. That's a Google Docs clone it seems. Used by the <<chengdu>> government. Chinese name: 金山文档 (golden mountain documents). Also had 50 unique cloners on 11 and 12th. Is it <<github-gov-takedowns>> time at last??
 * 2021-07-22 http://se.warning.360.cn/warn/ to https://cirosantilli.com/ after adding keywords to page header. This is from <<qihoo>>, a security/spyware company.
 * 2021-07 http://https--github--com--e3919.proxy.xianning.gov.cn/topics/chinese-communist-party[], presumably viewing https://github.com/topics/chinese-communist-party[]. Saw it http://webcache.googleusercontent.com/search?q=cache:5qHGJxZncvUJ:https--github--com--e3919.proxy.xianning.gov.cn/topics/chinese-communist-party+&cd=8&hl=en&ct=clnk&gl=uk&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW&client=ubuntu[on Google cache], semi viewable at https://archive.ph/wip/2qVIX[], but not rendering very well
-  * In 2022-06, we've received a report of https://github--com.proxy.guilin.gov.cn/cirosantilli/china-dictatorship also working: https://github.com/cirosantilli/china-dictatorship/pull/835[]. It appears that those links are actually publicly visible in China then.
+** In 2022-06, we've received a report of https://github--com.proxy.guilin.gov.cn/cirosantilli/china-dictatorship also working: https://github.com/cirosantilli/china-dictatorship/pull/835[]. It appears that those links are actually publicly visible in China then.
 * 2021-05-07 https://twitter.com/dingyi/status/1390861129191071754 (https://archive.ph/fS1TF[archive]) link to github.com/china-dictatorship commenting "Github 竟然还有这种项目。。。" (I'm surprised that there's still this kind of project on GitHub). Account had 150k followers at the time. What do they do to have so many followers? As of 2021-05-14, three days later after Ciro replied on 2021-05-11, the account had been made protected: https://archive.ph/davkj This is the <<chilling-effect>>, self-<<censorship,censor>> or perish. It was later un-protected. https://newsletter.dex.group/about/ says their DEX is a sort of online magazine. GitHub profile: https://github.com/dingyi
 * 2021-04-16 https://manti.netease.com/ from <<netease>> to https://cirosantilli.com/china-dictatorship can't find any information on it.
 * 2021-03-08 https://us3124.scholar.eu.org to GitHub repo. Redirects to: https://www.library.ac.cn/ip.html?f=us3124 which is a 403 "Your IP is not allowed to visit this site.
@@ -17900,7 +17901,7 @@ Then dishes:
 
 Tier 2, also amazing, just not as mind blowing:
 
-*  鍋包肉 guo bao rou, lit. "meat wrapped in the pan"
+* 鍋包肉 guo bao rou, lit. "meat wrapped in the pan"
 ** https://zh.wikipedia.org/wiki/锅包肉
 ** https://en.wikipedia.org/wiki/Sweet_and_sour#Guo_bao_rou
 * 夫妻肺片 fu qi fei pian, lit. "husband and wife lung slices". But don't worry, there's no actual lung in it, but .
@@ -18985,6 +18986,14 @@ The name refers to it being East of the <<taihang-mountains>>.
 
 * https://en.wikipedia.org/wiki/Sichuan
 * https://zh.wikipedia.org/wiki/四川省
+
+Sichuan is located in a pocket plain in a corner of the Himalayas. Interesting geography. This amazing photo makes that pretty clear: https://zh.wikipedia.org/wiki/File:雪山下的成都市天际线_Chengdu_skyline_with_snow_capped_mountains_(cropped).jpg
+
+[[chengdu]]
+===== Chengdu (成都市)
+
+* https://en.wikipedia.org/wiki/Chengdu
+* https://zh.wikipedia.org/wiki/成都市
 
 [[taihang-mountains]]
 ===== Taihang Mountains (太行山)
@@ -20862,7 +20871,7 @@ video::33-bMTOlvx0[youtube,height=400,width=600]
 .https://en.wikipedia.org/wiki/Jornal_da_Tarde[Jornal da Tarde] (Afternoon Newspaper) issue entitled on top "Os problemas da imprensa livre nas Américas" (The problems of the Free Press), followed by small rectangles with coverage of several countries such as the USA, Cuba, and others, but not Brazil. The bottom half of the page however hilariously contains recipes for "Doces" (Sweets) and "Salgados" (Salted dishes, especially https://en.wikipedia.org/wiki/Hors_d'oeuvre[Hors d'oeuvre]), instead of the presumed coverage about Brazil. Possibly dated 1973 based on the top of the image. http://www.memorialdademocracia.com.br/card/noticia-censurada-da-lugar-a-camoes[Source].
 image::{china-dictatorship-media-base}/Os_problemas_da_imprensa_livre.jpg[height=600]
 
-.1974 edition of the nespaper https://en.wikipedia.org/wiki/O_Estado_de_S._Paulo[O Estado de Sao Paulo] with a copy of some verses of https://en.wikipedia.org/wiki/Os_Lusíadas[Os Lusíadas] in the middle of the front page, replacing material that was censored on the last minute. Os Lusiadas was written in 1572 and the most important  epic poem of the Portuguese language. It is also of course completely irrelevant to anything to do with modern politics of the 1970's. <<ciro-santilli>> believes however that a related phenomena happens in China in the early 21st century: there is an incredible number of period dramas in Chinese television and cinema. Ciro believes that this is in part because it would be much harder to offend the <<censorship,CCP censors>> with this kind of old source material. Of course, the effect is that <<dictatorships-are-bad-for-the-arts>>. http://www.memorialdademocracia.com.br/card/noticia-censurada-da-lugar-a-camoes[Source].
+.1974 edition of the nespaper https://en.wikipedia.org/wiki/O_Estado_de_S._Paulo[O Estado de Sao Paulo] with a copy of some verses of https://en.wikipedia.org/wiki/Os_Lusíadas[Os Lusíadas] in the middle of the front page, replacing material that was censored on the last minute. Os Lusiadas was written in 1572 and the most important epic poem of the Portuguese language. It is also of course completely irrelevant to anything to do with modern politics of the 1970's. <<ciro-santilli>> believes however that a related phenomena happens in China in the early 21st century: there is an incredible number of period dramas in Chinese television and cinema. Ciro believes that this is in part because it would be much harder to offend the <<censorship,CCP censors>> with this kind of old source material. Of course, the effect is that <<dictatorships-are-bad-for-the-arts>>. http://www.memorialdademocracia.com.br/card/noticia-censurada-da-lugar-a-camoes[Source].
 image::{china-dictatorship-media-base}/O_Estado_de_Sao_Paulo_newspaper_censorship_Lusiadas_1974.jpg[height=600]
 
 [[india]]
@@ -21826,7 +21835,7 @@ ___
 Everyone who has political power must know how to be laughed at criticized, otherwise <<dictatorship,dicatorship>> follows:
 
 * 2020-08-24 https://techcrunch.com/2020/08/24/after-restricting-a-group-critical-of-thailands-monarchy-facebook-says-it-will-take-legal-action-against-the-government/ "After restricting a group critical of Thailand's monarchy, Facebook says it will take legal action against the government"
-* 2017-05-17 https://www.thesun.co.uk/news/3578661/from-fake-tattoos-and-crop-tops-to-making-a-poodle-air-force-chief-the-king-of-thailands-maddest-moments-revealed/ "As  Thai monarch Maha Vajiralongkorn attempts to sue Facebook over photos posted online, we look at the wacky royal's bizarre life" TODO real? Erm, video by 60-minutes Australia: https://youtu.be/HfF3CGVwrs4?t=84
+* 2017-05-17 https://www.thesun.co.uk/news/3578661/from-fake-tattoos-and-crop-tops-to-making-a-poodle-air-force-chief-the-king-of-thailands-maddest-moments-revealed/ "As Thai monarch Maha Vajiralongkorn attempts to sue Facebook over photos posted online, we look at the wacky royal's bizarre life" TODO real? Erm, video by 60-minutes Australia: https://youtu.be/HfF3CGVwrs4?t=84
 ** 2015 https://en.wikipedia.org/wiki/Fufu_(dog).
 ** Topless wife birthday celebration video: https://youtu.be/HfF3CGVwrs4?t=311
 
@@ -21838,7 +21847,7 @@ Dissidents:
 ** https://foreignpolicy.com/2020/11/16/rap-against-dictatorship-protests-thailand/
 
 [[thai-king-hamtaro]]
-.Side-by-side comparison between https://en.wikipedia.org/wiki/Vajiralongkorn[Thai King Vajiralongkorn] and https://en.wikipedia.org/wiki/Hamtaro[Hamtaro]. This is the Thai version of <<winnie-the-pooh>>. It https://asia.nikkei.com/Politics/Japanese-cartoon-Hamtaro-used-by-Thai-protesters-to-mock-government[has been used by protesters] as part of the  https://en.wikipedia.org/wiki/2020_Thai_protests[2020 Thai protests]. Left https://en.wikipedia.org/wiki/2020_Thai_protests[photo source].
+.Side-by-side comparison between https://en.wikipedia.org/wiki/Vajiralongkorn[Thai King Vajiralongkorn] and https://en.wikipedia.org/wiki/Hamtaro[Hamtaro]. This is the Thai version of <<winnie-the-pooh>>. It https://asia.nikkei.com/Politics/Japanese-cartoon-Hamtaro-used-by-Thai-protesters-to-mock-government[has been used by protesters] as part of the https://en.wikipedia.org/wiki/2020_Thai_protests[2020 Thai protests]. Left https://en.wikipedia.org/wiki/2020_Thai_protests[photo source].
 image::{china-dictatorship-media-base}/Side_by_side_comparison_between_Thai_king_Vajiralongkorn_and_Hamtaro.jpg[height=400]
 
 .Leading Thai politicians prostrate themselves before Vajiralongkorn in 2016, presumably during his ascension to the throne. https://www.independent.co.uk/news/world/asia/bbc-investigation-thailand-king-defamation-a7460046.html[Source].
@@ -21847,7 +21856,7 @@ image::{china-dictatorship-media-base}/Thai_king_prostrated_officers.jpg[height=
 .Suthida Tidjai, Vajiralongkorn's wife, prostrated before him during their marriage in 2016 before he officially ascended to the throne. Yes, prostration is a big thing in Thailand. An older king, Rama V, had apparently even https://en.wikipedia.org/wiki/Chulalongkorn#Abolition_of_prostration[abolished this practice in 1873]. Clearly, <<xi-jinping>> could learn a thing or two from a proper monarch like Vajiralongkorn. https://web.archive.org/web/20190723095722/https://www.theguardian.com/world/2019/may/03/thailand-coronation-king-maha-vajiralongkorn-rama-x[Source].
 image::{china-dictatorship-media-base}/Thai_king_prostrated_wife.jpg[height=400]
 
-.Thai king Vajiralongkorn wearing a https://en.wikipedia.org/wiki/Crop_top[crop top] so tight that it could be called a https://en.wikipedia.org/wiki/Bra[bra], and accompanied by one of his many girlfriends, in a shopping center in Munich. He can wear whatever the fuck wants, but to both wear that and enforce Lèse majesté? That's the ultimate torture for the Thai people, how can you not make fun of him??? TODO date, exact location, original report. Here is one of the many reports,  https://www.thesun.co.uk/news/3578661/from-fake-tattoos-and-crop-tops-to-making-a-poodle-air-force-chief-the-king-of-thailands-maddest-moments-revealed/[sample report from 2017 in a British tabloid].
+.Thai king Vajiralongkorn wearing a https://en.wikipedia.org/wiki/Crop_top[crop top] so tight that it could be called a https://en.wikipedia.org/wiki/Bra[bra], and accompanied by one of his many girlfriends, in a shopping center in Munich. He can wear whatever the fuck wants, but to both wear that and enforce Lèse majesté? That's the ultimate torture for the Thai people, how can you not make fun of him??? TODO date, exact location, original report. Here is one of the many reports, https://www.thesun.co.uk/news/3578661/from-fake-tattoos-and-crop-tops-to-making-a-poodle-air-force-chief-the-king-of-thailands-maddest-moments-revealed/[sample report from 2017 in a British tabloid].
 image::{china-dictatorship-media-base}/Thai_king_crop_top.jpg[height=400]
 
 [[milk-tea-alliance]]
