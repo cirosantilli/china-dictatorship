@@ -6693,8 +6693,14 @@ Discussion:
 
 * https://www.zhihu.com/question/59337963 为什么西方国家不针对台湾？ Why don't Western countries target Taiwan [in their criticisms]? First answer: because of something called <<dictatorship,dictatorship>>.
 
+[[taiwan-united-states-relations]]
+==== Taiwan-United States relations (臺灣與美國關係史)
+
+* https://en.wikipedia.org/wiki/Taiwan–United_States_relations
+* https://zh.wikipedia.org/wiki/臺灣與美國關係史
+
 [[one-china-policy]]
-==== One China policy (一个中国)
+===== One China policy (一个中国)
 
 * https://en.wikipedia.org/wiki/One-China_policy
 * https://zh.wikipedia.org/wiki/一个中国
@@ -6790,6 +6796,17 @@ image::{china-dictatorship-media-base}/China_Taiwan_reunification_flag.webp[heig
 .West Taiwan (西台湾), also known as Mainland Taiwan (台湾大陆), also known as China. Not to be confused with https://en.wikipedia.org/wiki/Regions_of_Taiwan[Western Taiwan] (https://zh.wikipedia.org/wiki/臺灣西部[台湾西部]), which is a region of Taiwan. https://www.reddit.com/r/TaiwanChina/comments/j34ftk/taiwan_number_one/[Source].
 image::{china-dictatorship-media-base}/West_Taiwan_map.jpg[height=500]
 
+[[pelosi-visits-taiwan]]
+===== Pelosi visits Taiwan (佩洛西访问台湾, 2022)
+
+<<ciro-santilli>> agrees with https://www.nytimes.com/2022/08/01/opinion/nancy-pelosi-taiwan-china.html that this was a stupid move.
+
+The USA has to support Taiwan as silently.
+
+And we especially don't need to do it loudly in the middle of the ongoing <<russo-ukrainian-war>>, which already requires incredible Western support to Ukraine.
+
+Even Biden, which is a democrat just like Pelosi advised against it in public: https://rollcall.com/2022/08/02/pelosi-defies-biden-pokes-china-with-taiwan-visit/ though he coudn't be more explicit due to separation of powers concerns apparently.
+
 [[taiwan-number-one]]
 ==== Taiwan #1 (2915)
 
@@ -6852,11 +6869,24 @@ As of 2020, there are two relevant parties:
 * https://en.wikipedia.org/wiki/Kuomintang["Kuomintang"], which have become a bunch of pussies, and prefer to keep the ambiguous <<one-china-policy>> status quo, to not get bombed, and do some commerce with China. Those people make <<chiang-kai-shek>> turn in his grave of shame.
 * https://en.wikipedia.org/wiki/Democratic_Progressive_Party[], which wants independence, and was winning as of 2020
 
+[[taiwan-independence-movement]]
+===== Taiwan independence movement (台湾独立运动)
+
+* https://en.wikipedia.org/wiki/Taiwan_independence_movement
+* https://zh.wikipedia.org/wiki/臺灣與美國關係史
+
 [[chiang-kai-shek]]
 ==== Chiang Kai-shek (蔣介石, 蔣中正)
 
 * https://en.wikipedia.org/wiki/Chiang_Kai-shek
 * https://zh.wikipedia.org/wiki/蔣中正
+
+[[taiwan-frog]]
+==== Taiwan frog (台蛙蛙)
+
+https://ptthito.com/gossiping/m-1519493262-a-5c1/
+
+Mainland <<slang,slang>> for "Taiwanese".
 
 [[xinjiang]]
 === Xinjiang (新疆)
@@ -21385,7 +21415,7 @@ Some other pearls:
 * Police make more than 1,700 arrests as protesters take to the streets in cities across country https://www.theguardian.com/world/2022/feb/24/we-dont-want-this-russians-react-to-the-ukraine-invasion
 
 [[marina-ovsyannikova]]
-==== Marina Ovsyannikova (Марина Овсянникова, 2022, anti war poster on live news)
+===== Marina Ovsyannikova (Марина Овсянникова, 2022, anti war poster on live news)
 
 * https://en.wikipedia.org/wiki/Marina_Ovsyannikova
 * https://ru.wikipedia.org/wiki/Овсянникова,_Марина
@@ -21400,7 +21430,7 @@ image::{china-dictatorship-media-base}/Marina_Ovsyannikova.jpg[height=400]
 video::D_MG0os17XM[youtube,height=400,width=600]
 
 [[slava-ukraini]]
-==== Slava Ukraini (Слава Україні!)
+===== Slava Ukraini (Слава Україні!)
 
 * https://en.wikipedia.org/wiki/Slava_Ukraini
 * https://ru.wikipedia.org/wiki/Слава_Украине!
