@@ -706,6 +706,8 @@ git clone https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
 
 this does some processing to increase density creates a BOMB:
 
+As of late 2022, Ciro noticed that GitHub had limited maximum repository description lengths to something way way smaller like 512 characters. Ciro's old descriptions were kept, but they cannot be edited anymore unless reduced to 512 characters. So they will likely remain unchanged forever now.
+
 Ciro started using that one instead to see if it was going to be more effective on 2021-03-28. First it hit a peak of 168 visitors on Monday 2021-03-29, and then fell back to 90 and 81 on the following days, so similar to the previous Chinese political input. It is very hard to understand why the first day was so different.
 
 It also includes:
@@ -3544,6 +3546,7 @@ Some useful slangs seen on the wild:
 
 * 敏感瓷: 敏感词 sensitive words, phonetic approximation
 * "emm" https://www.zhihu.com/question/288002941
+* 猎狗: lit. hunting dog. Metaphorically: lackey, a servent of someone else, usually evil. Usually as in: <<funded-by-cia>>, e.g. 国的狗 https://github.com/cirosantilli/china-dictatorship/issues/914[]. This sense is mentioned e.g. at http://cidian.118cha.com/1872420.html[] which includes two 20th century usage examples.
 
 GitHub issue label: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Ai-know-slangs-i-smart+
 
@@ -11844,10 +11847,11 @@ He got kicked out of the 20th <<national-congress>>:
 * https://zh.wikipedia.org/wiki/胡锦涛#中共二十大
 * https://politics.stackexchange.com/questions/76307/how-much-of-hu-jintaos-being-escorted-out-was-seen-by-chinese-at-home-was-it-l
 * https://www.theguardian.com/world/2022/oct/25/hu-jintao-argued-about-official-papers-before-being-escorted-out-of-congress
+* https://cn.nytimes.com/china/20221023/hu-jintao-china-congress/ contains one of the best stills, composed like a fine Renaissance painting, maybe we'll just use that one as well
 
 Possibly part of <<xi-abolishes-term-limits-2018-03>>.
 
-.https://www.youtube.com/watch?v=ZBG2bD-TE9g (https://github.com/cirosantilli/china-dictatorship/issues/909[GitHub reupload]) <<hu-jintao>> gets "the boot". To his left: TODO then <<wang-huning>>. To his right <<xi-jinping>> and TODO.
+.https://www.youtube.com/watch?v=ZBG2bD-TE9g (https://github.com/cirosantilli/china-dictatorship/issues/909[GitHub reupload]) <<hu-jintao>> gets "the boot". To his left: Li Zhanshu, hopelessly trying to help the old man, then <<wang-huning>>, who is left open mouthed and trying his best not to smirk, he's got quite a spirit. To his right <<xi-jinping>>, Li Keqiang, who is shifting in his seat, then Li Xi.
 video::ZBG2bD-TE9g[youtube,height=400,width=600,start=57]
 
 [[bo-xilai]]
@@ -14911,10 +14915,16 @@ image::{china-dictatorship-media-base}/Xi_Jinping_elected_2970_for_0_against_in_
 [[national-congress]]
 ==== National Congress of the Chinese Communist Party (中国共产党全国代表大会, 中共党代会)
 
-Every 5 years in october/november. Sample years:
+* https://en.wikipedia.org/wiki/20th_National_Congress_of_the_Chinese_Communist_Party
+
+Happens every 5 years in october/november. Sample years:
 
 * 19th: 2017
 * 20th: 2022
+
+Leadership can be modified during those meetings, notably the <<politburo>>.
+
+Informatlly referred simply as "二十大" (Nth Big)
 
 [[ccp-symbol]]
 === CCP symbol (中共标志)
@@ -17462,11 +17472,14 @@ Website: https://pincong.rocks/
 
 Uses a virtual currency system (游戏币): https://pincong.rocks/currency/rule/ Posting articles costs 20 points, and doing stuff like replying gives you a few points.
 
-* 2019-10-30: link:++https://www.pincong.rocks/question/id-10294__sort_key-agree_count__sort-ASC++[] (link:++https://web.archive.org/web/20191101091242/https://www.pincong.rocks/question/id-10294__sort_key-agree_count__sort-ASC++[archive]) "怎么让大陆把 Github 墙了？" How to get GitHub blocked by the Firewall? OP apparently really wants to block it? If yes, <<so-block-cost,LOL>>. Trigerred by some 2019-10 <<notepad>> activity.
-* 2019-04-09: https://pincong.rocks/question/3383 | https://web.archive.org/web/20190413063930/https://pincong.rocks/question/3383 "【小众问题】为何 Stack Overflow 2019 开发者调查报告中，来自中国的开发者最为积极乐观？"
+<<backlinks>>:
+
+* 2022-11-08: https://h.pincong.rocks/2083192 !!!一个秘密渠道!!! A secret channel. Apparently by the same person from: https://github.com/cirosantilli/china-dictatorship/issues/910
+* 2019-10-30: (comment) link:++https://www.pincong.rocks/question/id-10294__sort_key-agree_count__sort-ASC++[] (link:++https://web.archive.org/web/20191101091242/https://www.pincong.rocks/question/id-10294__sort_key-agree_count__sort-ASC++[archive]) "怎么让大陆把 Github 墙了？" How to get GitHub blocked by the Firewall? OP apparently really wants to block it? If yes, <<so-block-cost,LOL>>. Trigerred by some 2019-10 <<notepad>> activity.
+* 2019-04-09: https://pincong.rocks/question/3383 | https://web.archive.org/web/20190413063930/https://pincong.rocks/question/3383 "【小众问题】为何 Stack Overflow 2019 开发者调查报告中，来自中国的开发者最为积极乐观？" Why are developers from China the most optimistic and optimistic in the Stack Overflow 2019 developer survey report?". Mentions Ciro Santilli's <<stack-overflow>> in passing
 ** 2019-05: https://community.riskiq.com/search/pincong.rocks Pingong people deciding if they should ban Ciro Santilli? :-) commented there once: https://pincong.rocks/question/3383 (https://web.archive.org/web/20190810213122/https://pincong.rocks/question/3383[archive]) This also suggests that https://en.wikipedia.org/wiki/RiskIQ helps censorship in China
 
-<<ciro-santilli>>'s account: https://pincong.rocks/people/cirosantilli
+<<ciro-santilli>>'s account: https://pincong.rocks/people/cirosantilli TODO lost password, created a new one cirosantilli2.
 
 This website might not censor stuff, e.g.: people are using <<winnie-the-pooh>> avatars: https://www.pincong.rocks/people/bushiwumao (https://web.archive.org/web/20200418194038/https://www.pincong.rocks/people/bushiwumao[archive])
 
