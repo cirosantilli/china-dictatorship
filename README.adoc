@@ -12129,7 +12129,7 @@ Related:
 image::{china-dictatorship-media-base}/Mao_Zedong_in_Yanan.jpg[height=400]
 
 .Young Mao Zedong statue, Changsha, 2009. Another one of the future demolition list.
-image::{china-dictatorship-media-base}/https://web.archive.org/web/20221211231444im_/https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mao_Zedong_youth_art_sculpture_4.jpg/675px-Mao_Zedong_youth_art_sculpture_4.jpg[height=500]
+image::https://web.archive.org/web/20221211231444im_/https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mao_Zedong_youth_art_sculpture_4.jpg/675px-Mao_Zedong_youth_art_sculpture_4.jpg[height=500]
 
 [[the-private-life-of-chairman-mao]]
 ==== The Private Life of Chairman Mao (毛泽东私人医生回忆录)
@@ -15061,7 +15061,7 @@ The seven top people of the party as of 2020, ranked in a specific order.
 In 2018 they had the 13th congress. 2980 were elected for the next 5 years for it, and then in theory they vote to choose the <<president-of-the-people-s-republic-of-china>>.
 
 [[xi-jinping-2970]]
-.Vote display board during the 13th <<national-people-s-congress>> showing how <<xi-jinping>> was elected with 2970 votes for, 0 abstentions and 0 votes against. These elections can't possibly be rigged, the Chinese people are in perfect harmony! This image was used as the "democracy" image in the <<core-socialist-values-by-1v9ex,Core Socialist Values montage by 1v9ex>>. http://m.cyol.com/content/2018-03/21/content_17039285.htm[Source].
+.Vote display board during the 13th <<national-people-s-congress>> (2018) showing how <<xi-jinping>> was elected with 2970 votes for, 0 abstentions and 0 votes against. These elections can't possibly be rigged, the Chinese people are in perfect harmony! This image was used as the "democracy" image in the <<core-socialist-values-by-1v9ex,Core Socialist Values montage by 1v9ex>>. http://m.cyol.com/content/2018-03/21/content_17039285.htm[Source]. Again in 2023 with 2952 votes: https://www.bloomberg.com/news/articles/2023-03-15/china-censors-talk-of-xi-s-unanimous-presidential-confirmation[].
 image::{china-dictatorship-media-base}/Xi_Jinping_elected_2970_for_0_against_in_2018.jpg[height=600]
 
 [[president-of-the-people-s-republic-of-china]]
