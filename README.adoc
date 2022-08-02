@@ -766,6 +766,7 @@ Related:
 * 2022-03-14 https://91ai.net/thread-983734-1-1.html 真是遇了狗了搜播放器 搜到个狗 One of the comments suggests that the sponsors are a considerable ammount. Poor newbie, Ciro's sponsors are 20 dollars/month as of writing in 2022. Related: <<ccp-apologists>>.
 * https://github.com/github/feedback/discussions/12800 Polluted search results by ThebestkillerTBK
 * https://github.com/github-community/community/discussions/18862 by https://github.com/LyLme
+* https://github.com/orgs/community/discussions/30936 by https://github.com/pmakarenko "github search provide strange result"
 
 === Bot + issue mention attack
 
@@ -2747,7 +2748,20 @@ image::{china-dictatorship-media-base}/China_imperialism_cartoon.jpg[height=500]
 * https://en.wikipedia.org/wiki/Racism_in_the_United_States
 * https://zh.wikipedia.org/wiki/美国种族主义
 
+Obviously <<ciro-santilli>> and everyone else knows that the Chinese are INCREDIBLY racist against blacks, way way more than in the West, based on conversations he's had/overheard, and other circumstantial indications:
+
+* https://www.theguardian.com/commentisfree/2020/apr/25/coronavirus-exposed-china-history-racism-africans-guangzhou
+* <<we-dont-hire-blacks-by-aaron-dewitt-2020>>
+* https://www.reddit.com/r/China/comments/wqlqqj/poor_girl/ video where black Tik Toker https://www.tiktok.com/@elmodrums complains that the Chinese comment "dancing monkeys" on her dancing videos
++
+As well put by a commenter:
+____
+China is so openly racist that as far as the culture is concerned it isn't racism but rather stating a fact. They think it's totally normal and correct to believe terrible things about black peple. Its really shameful.
+____
+
 Label: https://github.com/cirosantilli/china-dictatorship/issues?q=is%3Aissue+is%3Aopen+label%3Aracist-west[racist-west]
+
+The only reason wumaos can point to the USA is that there are so many blacks there, and because for historical reasons they are in such a fucked up condition still today. Also in China, so people are just all much more generally fucked on average, so the difference wouldn't show as much.
 
 <<wumao,wumaos>> notably mention:
 
@@ -2764,11 +2778,7 @@ The murder video went viral and was not taken down (would have been in China), a
 
 Of course there is racism in the West. And we must recognize that, and fight it.
 
-But <<ciro-santilli>> feels strongly that the Chinese are also obviously at least as racist against blacks, if not more, based on conversations he's had/overheard, and other circumstantial indications:
-
-* https://www.theguardian.com/commentisfree/2020/apr/25/coronavirus-exposed-china-history-racism-africans-guangzhou
-
-Oh, and the USA, and other Western countries besides Germany, were also racist against Jews, e.g. https://en.wikipedia.org/wiki/Richard_Feynman[Richard Feynman] could not be admitted in certain universities due to a https://en.wikipedia.org/wiki/Jewish_quota[Jewish quota], even though he was not a believer himself, therefore based on race alone!
+BTW the USA, and other Western countries besides Germany, were/are also incredibly racist against Jews, e.g. https://en.wikipedia.org/wiki/Richard_Feynman[Richard Feynman] could not be admitted in certain universities due to a https://en.wikipedia.org/wiki/Jewish_quota[Jewish quota], even though he was not a believer himself, therefore based on race alone!
 
 .Racism in the West vs racism in China. Of course there is racism in the West against black people. But the people have the choice to speak up against it to try and change things. In China however, speaking up against Muslim racism, means going to jail. Image sources: https://en.wikipedia.org/wiki/File:George_Floyd_neck_knelt_on_by_police_officer.png[murder of George Floyd], https://en.wikipedia.org/wiki/File:George_Floyd_protests_in_Philadelphia_02.jpg[George Floyd protests in Philadelphia], https://mvslim.com/re-education-camps-for-muslims-chinas-muslim-community-the-uyghurs-are-facing-a-new-level-of-oppression[Xinjiang prisoners], https://www.reuters.com/world/china/what-people-said-hong-kong-tiananmen-anniversary-2021-06-04/[Tiananmen Square on 2021-06-03], the anniversary of <<tiananmen>>.
 image::{china-dictatorship-media-base}/Racism_in_the_West_vs_China_George_Floyd_vs_Xinjiang.jpg[height=700]
@@ -6583,6 +6593,8 @@ This is a good movement because many people in the West do not fully appreciate 
 * https://www.youtube.com/channel/UCzTs_yRgwD88hZQNvmUwzJA
 
 The username is a reference to a frog that jumps over the <<gfw>>.
+
+Or perhaps it is also a reference to <<taiwan-frog>>.
 
 Amazing selection of Chinese-only anti-CCP content.
 
@@ -11661,8 +11673,14 @@ Don't bring up the American dream in front of me in the future +
 Cheesy! +
 ____
 
+The  essay topic of "American drema vs Chinese dream" is not novel in Communist rhetoric, e.g. https://m.aisixiang.com/data/63286.html dated 2013 contains a version by sociologist https://zh.m.wikipedia.org/wiki/徐賁_(社會學家)[Ben Xu 徐贲].
+
+Some other essasys:
+
+* http://politics.people.com.cn/n/2013/0527/c1001-21630362.html fro the <<peoples-daily>> also dated 2013
+
 [[little-pink-american-dream-vs-chinese-dream]]
-.https://www.youtube.com/watch?v=MilRo8zZM8A (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub reupload]) 小粉红谈中国梦与美国梦的区别 (<<little-pink>> explains the difference between the <<american-dream>> and the <<chinese-dream>>). That girl should have a look at the state of <<labour-rights>> in China in the 2020's, where activists for better worker protection are being put into jail. Also <<twitter,tweeted>> by <<rfa>> at: https://twitter.com/RFA_Chinese/status/1381531661804826627 The <<seal>> on top left reads: "进击老冯" TODO what is that? Source without subtitles: https://www.youtube.com/watch?v=iw8TfbsNfNI[]. Ciro also reposted it at: https://www.reddit.com/r/China/comments/msnixt/nationalistic_chinese_girl_compares_the_chinese/ on <<reddit>>. TODO try to identify it by logo of the microphone, looks something like "华浦TV" but not sure. TODO identify background music. TODO original source. Related: https://github.com/cirosantilli/china-dictatorship/issues/504 Kill the Japanese kid
+.https://www.youtube.com/watch?v=MilRo8zZM8A (https://github.com/cirosantilli/china-dictatorship/issues/228[GitHub reupload]) 小粉红谈中国梦与美国梦的区别 (<<little-pink>> explains the difference between the <<american-dream>> and the <<chinese-dream>>). That girl should have a look at the state of <<labour-rights>> in China in the 2020's, where activists for better worker protection are being put into jail. Also <<twitter,tweeted>> by <<rfa>> at: https://twitter.com/RFA_Chinese/status/1381531661804826627 The <<seal>> on top left reads: "进击老冯" TODO what is that? Source without subtitles: https://www.youtube.com/watch?v=iw8TfbsNfNI[]. Ciro also reposted it at: https://www.reddit.com/r/China/comments/msnixt/nationalistic_chinese_girl_compares_the_chinese/ on <<reddit>>. TODO try to identify it by logo of the microphone, looks something like "华浦TV" but not sure. TODO identify background music. TODO original source. https://www.youtube.com/watch?v=p2pdB6hdxkI shows a slightly longer version where the interviewer asks "What is the difference between the Chinese and the American dream? Related: https://github.com/cirosantilli/china-dictatorship/issues/504 Kill the Japanese kid
 video::MilRo8zZM8A[youtube,height=400,width=600]
 
 [[dream-of-the-red-chamber]]
@@ -14862,8 +14880,20 @@ Other examples:
 .Chinese flag with small stars replaced by letters NMSL (你妈死了, you mother died), a common <<slang,Internet prophanity slang>>. https://v515.wordpress.com/2020/04/13/豬共共慘黨-黨國旗：nmsl/[Source]. Original source likely impossible to determine.
 image::{china-dictatorship-media-base}/China_flag_NMSL.jpg[height=400]
 
+=== Chinese state data leaks
+
+[[shanghai-police-database-leak-2022]]
+==== Shanghai police database leak (上海公安數據庫泄露事件, SHGA, 1B people, 2022)
+
+SHGA means Shang Hai Gong An.
+
+* https://en.wikipedia.org/wiki/Shanghai_police_database_leak
+* https://zh.m.wikipedia.org/wiki/上海公安數據庫泄露事件
+* https://www.theregister.com/2022/07/10/stolen_shanghai_police_data/ gives domain suffix kibana.elasticsearch.aliyuncs.com Was a Kibana instance.
+* https://techcrunch.com/2022/07/07/china-leak-police-database/
+
 [[ccp-shanghai-member-data-leak-2020]]
-=== CCP Shanghai member data leak (中共上海党员名单泄露, 2020)
+==== CCP Shanghai member data leak (中共上海党员名单泄露, 2020)
 
 Public news: 2020-12-13. Date of extraction: 2016.
 
