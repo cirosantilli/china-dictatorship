@@ -13,6 +13,7 @@
 :toclevels: 6
 :toc-title:
 
+
 https://cirosantilli.com/china-dictatorship[cirosantilli.com/china-dictatorship (规范链接 canonical render)] |
 https://github.com/cirosantilli/china-dictatorship[GitHub 项目 project] |
 https://github.com/cirosantilli/china-dictatorhsip-7[GitHub Mirror 镜像 2] |
@@ -16186,6 +16187,19 @@ More info:
 
 * https://en.wikipedia.org/wiki/Internet_censorship_circumvention
 * https://zh.wikipedia.org/wiki/突破网络审查
+
+[[clash-for-windows]]
+====== clash_for_Windows
+
+Presumably this proxy software https://www.clashforwindows.net/ was being distributed on this GitHub repo: https://github.com/Fndroid/clash_for_windows_pkg which reached 7.2k stars was deleted circa October 2023. It is uncler if DMCA or other reason.
+
+We've learnt of this via: https://github.com/cirosantilli/china-dictatorship/issues/1122
+
+Some archives:
+
+* https://web.archive.org/web/20230507110718/https://github.com/Fndroid/clash_for_windows_pkg/releases
+* https://web.archive.org/web/20231102082223/https://github.com/Fndroid/clash_for_windows_pkg
+* https://archive.org/details/clash_for_windows_pkg | https://github.com/cfwbackup/clash_for_windows_pkg_backup
 
 ====== siteproxy
 
