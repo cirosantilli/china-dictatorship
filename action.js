@@ -59,9 +59,12 @@ if (isComment) {
   author = payload.issue.user.login;
 }
 const quoteArray = [];
+const noQuoteArray = [];
 for (const line of titleAndBody.split('\n')) {
   // Remove some speical chars to remove at mention spam possibilities.
-  quoteArray.push('> ' + line.replace(/[@#]/g, ""));
+  const l = line.replace(/[@#]/g, "")
+  quoteArray.push('> ' + l);
+  noQuoteArray.push(l);
 }
 const replyBody = `Hi @${author},
 
@@ -170,12 +173,12 @@ try {
     body: replyBody,
   });
   if (isComment) {
-    const title = (`@${author}: ` + replyBody.replaceAll('\n', ' ')).substring(0, 255)
+    const title = (`@${author}: ` + quoteArray.join('\n').replaceAll('\n', ' ')).substring(0, 255)
     const new_issue = octokit.issues.create({
       owner: payload.repository.owner.login,
       repo: payload.repository.name,
       title,
-      body: replyBody,
+      body: payload.comment.html_url + '\n\n' + replyBody,
     })
   } else {
     // Update labels.
