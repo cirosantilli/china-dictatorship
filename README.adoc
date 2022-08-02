@@ -5340,7 +5340,7 @@ https://github.com/cirosantilli/china-dictatorship/issues/733 by https://github.
 image::{china-dictatorship-media-base}/Play_qin_to_cow.png[height=600]
 
 .XKCD 386 "Duty Calls" and the famous "Someone is wrong on the Internet" quote. It is a waste of time to be like that. https://xkcd.com/386/[Source].
-image::{china-dictatorship-media-base}/Someone_is_wrong_on_the_Internet.png[height=400]
+image::{china-dictatorship-media-base-ignore}/Someone_is_wrong_on_the_Internet.png[height=400]
 
 [[asymmetric-information-warfare]]
 ==== Asymmetric information warfare (不对称信息战)
@@ -16277,6 +16277,8 @@ More info:
 Presumably this proxy software https://www.clashforwindows.net/ was being distributed on this GitHub repo: https://github.com/Fndroid/clash_for_windows_pkg which reached 7.2k stars was deleted circa October 2023. It is uncler if DMCA or other reason.
 
 We've learnt of this via: https://github.com/cirosantilli/china-dictatorship/issues/1122
+
+Then it was later featured at: https://techcrunch.com/2023/11/21/china-censorship-circumvention-tools-clash-disappear/ The developer is this Chinese dude: https://twitter.com/fndroid
 
 Some archives:
 
