@@ -140,7 +140,6 @@ if (!isComment) {
   }
   if (new RegExp('狗', 'i').test(titleAndBody)) {
     newLabels.add('you-are-dog-argument');
-    break;
   }
   if (newLabels.size > 0) {
     newLabels.add('shitpost');
