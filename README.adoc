@@ -2078,6 +2078,7 @@ which reference various forks of china-dictatorship:
 ** zaohmeing: <<zhao-heming>>
 ** https://github.com/Iorine/china-dictatorship
 ** https://github.com/jk-ice-cream[]. This one has some original content on profile: https://github.com/jk-ice-cream/jk.ice_cream_ apparently linked to <<gay-rights>>
+** https://greasyfork.org/en/scripts/473912-github搜索净化[]. Matching username of a GitHub user: https://github.com/danicastarr[].
 
 [[not-chinese]]
 === Non-Chinese people should not interfere in Chinese politics (外国人不应该干预中国政治)
@@ -2314,7 +2315,7 @@ One thing to keep in mind is that the <<qing-dynasty>>, like the previous <<ming
 
 For example, this wiki page contains a good family tree of the most important Qing people: link:++https://en.wikipedia.org/wiki/Family_tree_of_Chinese_monarchs_(late)#Qing_dynasty++[] and we see that many important people around 1861 were Zai 載something, e.g.: Zaichun, Zaiyi, Zaitian, etc.
 
-The last emperor was Puyi, so Pu is the last well known mark. But there were others planned that never got used for after him as shown at: https://en.wikipedia.org/wiki/Aisin_Gioro#List_of_generation_prefixes[].
+The last emperor was Puyi, so Pu is the last well known mark. But there were others planned that never got used for after him as shown at: https://en.wikipedia.org/w/index.php?title=House_of_Aisin-Gioro&oldid=858104957[].
 
 * Zai (before Pu)
 * Pu (wife's great-grandfather)
@@ -6632,6 +6633,10 @@ In other sections:
 * <<terminus2049>>
 * <<anti-ccp-media>>
 * <<backlinks>>
+
+Not in other sections:
+
+* https://anticommunism.miraheze.org/ "反共维基" (Anti Communism Wiki) Chinese language anti-CCP Media Wiki instance hosted on https://miraheze.org[], a free Media Wiki host.
 
 === Reddit
 
@@ -12202,6 +12207,12 @@ image::{china-dictatorship-media-base}/Jiang_Zemin_magnify.jpg[height=400]
 .More Jiang funny expressions and Photoshops from a Research Gate page! https://www.researchgate.net/figure/Jiang-as-emoticons-often-used-in-chats_fig4_325864518[Source].
 image::{china-dictatorship-media-base}/Jiang_Zemin_emoticons_montage.png[height=400]
 
+[[three-represents]]
+==== Three Represents (三个代表, 2000)
+
+* https://en.wikipedia.org/wiki/Three_Represents
+* https://zh.wikipedia.org/wiki/“三个代表”重要思想
+
 ==== Too young, too naive
 
 The Chinese also love Jiang's quote in English during an interview with Hong Kong press:
@@ -13807,7 +13818,7 @@ Ye won the https://en.wikipedia.org/wiki/BWF_World_Championships[BWF World Champ
 The fact that badminton is a single player sport is great in this case, as it just puts more emphasis on her name as opposed to Hao's multiplayer soccer game:
 
 * 1995 Ye Zhaoying vs Han Jingna BWF finals: https://www.youtube.com/watch?v=DrO5g58tSUE Bracket: https://en.wikipedia.org/wiki/1995_IBF_World_Championships
-* 1997 Ye Zhaoying vs Gong Zhichao BWF finals: https://www.youtube.com/watch?v=ZiOi1bmZHo4 Bracket: https://en.wikipedia.org/wiki/1997_IBF_World_Championships
+* 1997 Ye Zhaoying vs Gong Zhichao BWF finals: https://www.youtube.com/watch?v=ZiOi1bmZHo4 Bracket: https://en.wikipedia.org/wiki/1997_IBF_World_Championships[]. Ciro Santilli had a copy at: https://www.youtube.com/watch?v=vLO-60vHnk0 but it was taken down due to copyright.
 +
 Hunan website about Gong Zhichao confirming that: https://web.archive.org/web/20200618174728/http://www.enghunan.gov.cn/hneng/AboutHunan/HistoryCulture/Celebrities/201508/t20150807_1816328.html
 
@@ -18088,7 +18099,19 @@ video::dAxDKhH1iU8[youtube,height=400,width=600]
 video::It3Ny7IY7jA[youtube,height=400,width=600]
 
 [[music]]
-== Chinese Traditional Music (中国传统器乐音乐)
+== Chinese Music (中国音乐)
+
+=== Fart song ban of 2015
+
+https://www.theguardian.com/world/2015/aug/11/china-bans-fart-and-119-other-immoral-songs-with-severe-punishment-threat
+
+.https://www.youtube.com/watch?v=v8gIvYC8DlQ[] Fart (放屁) by https://en.wikipedia.org/wiki/Chang_Chen-yue[A-Yue]. It sometimes feels like he takes himself seriously, which just makes things even more hilarious.
+video::v8gIvYC8DlQ[youtube,height=400,width=600]
+
+[[chinese-traditional-music]]
+=== Chinese Traditional Music (中国传统器乐音乐)
+
+This section is moving to: https://cirosantilli.com/chinese-traditional-music
 
 Much like <<restaurants,real Chinese food>>, your mind will be blown.
 
@@ -18116,10 +18139,10 @@ Other good lists:
 * https://www.quora.com/What-are-some-good-Chinese-classical-instrumental-album
 
 [[chinese-traditional-musical-instrument]]
-=== Chinese traditional musical instrument (中国传统音乐乐器)
+==== Chinese traditional musical instrument (中国传统音乐乐器)
 
 [[the-ten-ancient-famous-songs]]
-=== The ten ancient famous songs (中国古典十大名曲)
+==== The ten ancient famous songs (中国古典十大名曲)
 
 [[music-free]]
 === Free music (免费音乐)
