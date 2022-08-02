@@ -559,6 +559,12 @@ Reasonable topics:
 
 * https://github.com/topics/censorship
 
+Sensitive but not necessarily censored, maybe re-evaluate:
+
+* https://github.com/I-S00N/I-S00N Anxun leak
+** https://www.malwarebytes.com/blog/news/2024/02/a-first-analysis-of-the-i-soon-data-leak
+** https://www.reddit.com/r/cybersecurity/comments/1av4yp9/is00n_leaked_chinese_foreign_government/
+
 [[github-com-cirosantilli-china-dictatorship]]
 === github.com/cirosantilli/china-dictatorship
 
@@ -6745,6 +6751,7 @@ TODO review:
 * https://www.reddit.com/r/real_China_irl
 ** https://www.reddit.com/r/real_China_irl/comments/17lmayu/轉發_防不胜防防不胜防啊经过对光猫固件分析发现更多插件/
 * https://www.reddit.com/r/CLTV/
+* https://www.reddit.com/r/hanbenwei/ e.g. https://www.reddit.com/r/hanbenwei/comments/1akit4d/七五新疆暴动干了什么/
 
 [[r-china]]
 ==== r/China Reddit sub
