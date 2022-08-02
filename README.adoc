@@ -779,7 +779,7 @@ The manifesto provides an email "wanghunn@gmx.com" for those who signed it to se
 
 TODO what does: "起草人：赫连禾" mean?
 
-The second is "三朝罪恶元凶王沪宁" (The Culprit of Three Dynasties Wang Huning).
+The second is <<the-culprit-of-three-dynasties>>.
 
 The title presumably refers to <<wang-huning>>.
 
@@ -863,6 +863,7 @@ OK, the home project is an auto-archiver, much like <<duty-machine>>, but non an
 +
 But that's not all it is/was, e.g.:
 * https://web.archive.org/web/20210407073739if_/https://github.com/gege-circle/home/issues/271#issuecomment-809275700 from https://github.com/cirosantilli/china-dictatorship/issues/157 has some discussion
+* 2023-07 https://github.com/saadeghi/daisyui/pull/2150 remove taiwan flag by https://github.com/92hackers[92hackers]
 
 [[faq]]
 == FAQ (常见问答集)
@@ -10392,7 +10393,7 @@ https://github.com/sikaozhe1997/Xin-Yue is a <<github-repositories-with-censored
 * https://en.wikipedia.org/wiki/Yue_Xin_(activist)[Yue Xin]
 * https://zh.wikipedia.org/wiki/岳昕[岳昕])
 * https://www.nchrd.org/2019/01/yue-xin on <<chinese-human-rights-defenders>>
-* https://github.com/cirosantilli/china-dictatorship/blob/master/岳昕-致北京大学师生和北大外国语学院的一封公开信.md[岳昕-致北京大学师生和北大外国语学院的一封公开信 on GitHub]
+* <<yue-xin-open-letter>>
 
 about the events described at https://web.archive.org/web/20200104064812/https://www.nytimes.com/2018/04/09/world/asia/china-metoo-gao-yan.html["China's #MeToo: How a 20-Year-Old Rape Case Became a Rallying Cry"] she accuses professor Shen Yang of the Peking University Chinese literature of raping student Gao Yan, ultimately leading to her suicide in 1998:
 
@@ -10406,6 +10407,11 @@ This was one of the starting points of <<terminus2049>>.
 The letter was also apparently embedded into the <<bitcoin-blockchain,Ethereum blockchain>> according to https://theconversation.com/chinese-internet-users-turn-to-the-blockchain-to-fight-against-government-censorship-111795[].
 
 Yue was also involved with <<jasic>>. An all-round activist.
+
+[[yue-xin-open-letter]]
+==== 岳昕-致北京大学师生和北大外国语学院的一封公开信 (An open letter to the teachers and students of Peking University and the School of Foreign Languages of Peking University by Yue Xin)
+
+* https://github.com/cirosantilli/china-dictatorship/blob/master/岳昕-致北京大学师生和北大外国语学院的一封公开信.md
 
 [[politicians]]
 == Chinese politicians (中国政治家)
@@ -12401,8 +12407,18 @@ Member of the <<politburo>>.
 
 Appears e.g. at:
 
-* <<zhao-heming>>
+* <<the-culprit-of-three-dynasties>>
 * <<hu-jintao-gets-kicked-out>>
+
+[[the-culprit-of-three-dynasties]]
+==== Wang Huning, The Culprit of Three Dynasties (三朝罪恶元凶王沪宁)
+
+Commentary on <<wang-huning>>, reproduced at:
+
+* https://github.com/cirosantilli/china-dictatorship/blob/master/郝雪森-三朝罪恶元凶王沪宁.adoc
+* https://github.com/cirosantilli/china-dictatorship/issues/196
+
+One of the texts used by <<zhao-heming>>.
 
 [[sport-related-events]]
 == Sport related events (和体育有关的事件)
