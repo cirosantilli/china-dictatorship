@@ -6,7 +6,7 @@ on:
     types: [created]
 jobs:
   Issue:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
     steps:
       - run: echo "github.event_name ${{ github.event_name }}"
       - run: echo "github.ref ${{ github.ref }}"
