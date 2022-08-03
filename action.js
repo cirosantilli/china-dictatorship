@@ -223,18 +223,20 @@ try {
     })
     console.log('content: ' + require('util').inspect(content, { depth: null }));
     contentS =  Buffer.from(content.data.content, 'base64').toString('utf-8')
+    console.error('contentS: ' + require('util').inspect(contentS))
     const lines = contentS.split('\n')
     const titleAndLink = lines[2]
     const match = titleAndLink.match(/\[([^\]]+)\]\(([^)]+)\)/)
     const title = match[1]
     const link = match[2]
     const body = lines[5]
-    const new_issue = octokit.issues.create({
+    const new_issue_duty = await octokit.issues.create({
       owner: payload.repository.owner.login,
       repo: payload.repository.name,
       title,
       body: content.data.html_url + '\n\n' + link + '\n\n' + html_url + '\n\n' + body,
     })
+    console.error('new_issue_duty: ' + require('util').inspect(new_issue_duty, { depth: null }))
   }
 } catch (error) {
   core.setFailed(error.message);
