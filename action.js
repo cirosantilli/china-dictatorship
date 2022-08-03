@@ -189,34 +189,50 @@ try {
       labels: Array.from([...labels, ...newLabels])
     })
   }
-  const commits = await octokit.rest.repos.listCommits({
-    owner: 'duty-machine',
-    repo: 'news',
-    per_page: 1,
-  })
-  console.log('commits: ' + require('util').inspect(commits, { depth: null }))
-  const sha = commits.data[0].sha
-  const commit = await octokit.rest.repos.getCommit({
-    owner: 'duty-machine',
-    repo: 'news',
-    ref: sha,
-  })
-  console.log('commit: ' + require('util').inspect(commit, { depth: null }))
-  let filename
-  for (const file of commit.data.files) {
-    filename = file.filename
-    if (filename.startsWith('articles/')) {
-      break
+  // Get the latest news from duty-machine.
+  {
+    const commits = await octokit.rest.repos.listCommits({
+      owner: 'duty-machine',
+      repo: 'news',
+      per_page: 1,
+    })
+    console.log('commits: ' + require('util').inspect(commits, { depth: null }))
+    const sha = commits.data[0].sha
+    const commit = await octokit.rest.repos.getCommit({
+      owner: 'duty-machine',
+      repo: 'news',
+      ref: sha,
+    })
+    console.log('commit: ' + require('util').inspect(commit, { depth: null }))
+    let filename
+    for (const file of commit.data.files) {
+      filename = file.filename
+      if (filename.startsWith('articles/')) {
+        break
+      }
     }
+    console.log('filename: ' + require('util').inspect(filename, { depth: null }));
+    const content = await octokit.rest.repos.getContent({
+      owner: 'duty-machine',
+      repo: 'news',
+      ref: sha,
+      path: filename,
+    })
+    console.log('content: ' + require('util').inspect(content, { depth: null }));
+    contentS =  Buffer.from(content.data.content, 'base64').toString('utf-8')
+    const lines = contentS.split('\n')
+    const titleAndLink = lines[2]
+    const match = titleAndLink.match(/\[([^\]]+)\]\(([^)]+)\)/)
+    const title = match[1]
+    const link = match[2]
+    const body = lines[5]
+    const new_issue = octokit.issues.create({
+      owner: payload.repository.owner.login,
+      repo: payload.repository.name,
+      title,
+      body: content.data.html_url + '\n\n' + link + '\n\n' + body,
+    })
   }
-  console.log('filename: ' + require('util').inspect(filename, { depth: null }));
-  const content = await octokit.rest.repos.getContent({
-    owner: 'duty-machine',
-    repo: 'news',
-    ref: sha,
-    path: filename,
-  })
-  console.log('content: ' + require('util').inspect(content, { depth: null }));
 } catch (error) {
   core.setFailed(error.message);
 }
