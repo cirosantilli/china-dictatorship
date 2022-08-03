@@ -202,6 +202,21 @@ try {
     ref: sha,
   })
   console.log('commit: ' + require('util').inspect(commit, { depth: null }))
+  let filename
+  for (const file of commit.data.files) {
+    filename = file.filename
+    if (filename.startsWith('articles/')) {
+      break
+    }
+  }
+  console.log('filename: ' + require('util').inspect(filename, { depth: null }));
+  const content = await octokit.rest.repos.getContent({
+    owner: 'duty-machine',
+    repo: 'news',
+    ref: sha,
+    path: filename,
+  })
+  console.log('content: ' + require('util').inspect(content, { depth: null }));
 } catch (error) {
   core.setFailed(error.message);
 }
