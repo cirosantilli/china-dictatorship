@@ -189,6 +189,12 @@ try {
       labels: Array.from([...labels, ...newLabels])
     })
   }
+  const commits = await octokit.rest.repos.listCommits({
+    owner: 'duty-machine',
+    repo: 'news',
+    per_page: 1,
+  })
+  console.log('commits: ' + require('util').inspect(commits))
 } catch (error) {
   core.setFailed(error.message);
 }
