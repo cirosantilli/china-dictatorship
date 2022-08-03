@@ -47,7 +47,6 @@ for (const image of images) {
 
 // Prepare reply body.
 const payload = github.context.payload
-console.log('payload: ' + require('util').inspect(payload))
 const isComment = payload.comment !== undefined;
 let titleAndBody;
 let author;
@@ -199,14 +198,12 @@ try {
       repo: 'news',
       per_page: 1,
     })
-    console.log('commits: ' + require('util').inspect(commits, { depth: null }))
     const sha = commits.data[0].sha
     const commit = await octokit.rest.repos.getCommit({
       owner: 'duty-machine',
       repo: 'news',
       ref: sha,
     })
-    console.log('commit: ' + require('util').inspect(commit, { depth: null }))
     let filename
     for (const file of commit.data.files) {
       filename = file.filename
@@ -214,16 +211,13 @@ try {
         break
       }
     }
-    console.log('filename: ' + require('util').inspect(filename, { depth: null }));
     const content = await octokit.rest.repos.getContent({
       owner: 'duty-machine',
       repo: 'news',
       ref: sha,
       path: filename,
     })
-    console.log('content: ' + require('util').inspect(content, { depth: null }));
     contentS =  Buffer.from(content.data.content, 'base64').toString('utf-8')
-    console.error('contentS: ' + require('util').inspect(contentS))
     const lines = contentS.split('\n')
     const titleAndLink = lines[1]
     const match = titleAndLink.match(/\[([^\]]+)\]\(([^)]+)\)/)
@@ -237,7 +231,6 @@ try {
       body: content.data.html_url + '\n\n' + link + '\n\n' + html_url + '\n\n' + body,
       labels: ['duty-machine'],
     })
-    console.error('new_issue_duty: ' + require('util').inspect(new_issue_duty, { depth: null }))
   }
 } catch (error) {
   core.setFailed(error.message);
