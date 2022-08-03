@@ -13004,13 +13004,14 @@ image::{china-dictatorship-media-base}/Tiananmen_crushed_dead.jpg[height=600]
 
 English:
 
-* https://www.youtube.com/watch?v=-JTWXqUPQ7I "China" by Joan Baez from the https://en.wikipedia.org/wiki/Speaking_of_Dreams[Speaking of Dreams (1989) album]. Folk.
-+
-video::-JTWXqUPQ7I[youtube,height=400,width=600]
-* https://www.youtube.com/watch?v=6OOlXJs4I8k "The blood is on the square" by Phillip Morgan from https://www.amazon.com/Blood-Square-Philip-Morgan/dp/B001H5S7OS[1990]. Folk.
-+
-video::6OOlXJs4I8k[youtube,height=400,width=600]
-* https://www.youtube.com/watch?v=MAZK4apK8Bg Same Cry (Feat. L.T.; Explicit) by https://en.wikipedia.org/wiki/MC_Jin[MC Jin] from the 2004 album "The Rest Is History'. Hip hop American born Hakka Chinese.
+."China" by Joan Baez from the https://en.wikipedia.org/wiki/Speaking_of_Dreams[Speaking of Dreams (1989) album]. Folk.
+video::lpNKXuHWM5Y[youtube,height=400,width=600]
+
+."The blood is on the square" by Phillip Morgan from https://www.amazon.com/Blood-Square-Philip-Morgan/dp/B001H5S7OS[1990]. Folk.
+video::WpYcHQ_V3d4[youtube,height=400,width=600]
+
+.Same Cry (Feat. L.T.; Explicit) by https://en.wikipedia.org/wiki/MC_Jin[MC Jin] from the 2004 album "The Rest Is History'. Hip hop American born Hakka Chinese.
+video::MAZK4apK8Bg[youtube,height=400,width=600]
 
 Chinese:
 
@@ -13035,11 +13036,11 @@ video::F8lWiWaSTtg[youtube,height=400,width=600]
 
 Cantonese
 
-* https://www.youtube.com/watch?v=9L_qz7LuqVU "The flower of freedom" (自由花) from 1989
+* "The flower of freedom" (自由花) from 1989
 ** https://zh.wikipedia.org/wiki/自由花
 ** Lyrics: https://mojim.com/cny100293x15x4.htm
 +
-video::9L_qz7LuqVU[youtube,height=400,width=600]
+video::NPcD_2x2oW0[youtube,height=400,width=600]
 
 Other good lists:
 
