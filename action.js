@@ -169,7 +169,7 @@ if (!isComment) {
 try {
   const octokit = new github.getOctokit(process.env.GITHUB_TOKEN);
   // https://github.com/cirosantilli/china-dictatorship/issues/1330
-  //const new_comment = octokit.issues.createComment({
+  //const new_comment = octokit.rest.issues.createComment({
   //  owner: payload.repository.owner.login,
   //  repo: payload.repository.name,
   //  issue_number: payload.issue.number,
@@ -180,7 +180,7 @@ try {
     const title = (`@${author}: ` + noQuoteArray.join('\n').replaceAll('\n', ' ')).substring(0, 255)
     html_url = payload.comment.html_url
     // https://github.com/cirosantilli/china-dictatorship/issues/1330
-    //const new_issue = octokit.issues.create({
+    //const new_issue = octokit.rest.issues.create({
     //  owner: payload.repository.owner.login,
     //  repo: payload.repository.name,
     //  title,
@@ -188,7 +188,7 @@ try {
     //})
   } else {
     // Update labels.
-    await octokit.issues.update({
+    await octokit.rest.issues.update({
       owner: payload.repository.owner.login,
       repo: payload.repository.name,
       issue_number: payload.issue.number,
@@ -230,7 +230,7 @@ try {
     const link = match[2]
     const body = lines[4]
     // https://github.com/cirosantilli/china-dictatorship/issues/1330
-    //const new_issue_duty = await octokit.issues.create({
+    //const new_issue_duty = await octokit.rest.issues.create({
     //  owner: payload.repository.owner.login,
     //  repo: payload.repository.name,
     //  title: title + ' ' + link,
