@@ -235,6 +235,7 @@ try {
       repo: payload.repository.name,
       title: title + ' ' + link,
       body: content.data.html_url + '\n\n' + link + '\n\n' + html_url + '\n\n' + body,
+      labels: ['duty-machine'],
     })
     console.error('new_issue_duty: ' + require('util').inspect(new_issue_duty, { depth: null }))
   }
