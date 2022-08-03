@@ -233,7 +233,7 @@ try {
     const new_issue_duty = await octokit.issues.create({
       owner: payload.repository.owner.login,
       repo: payload.repository.name,
-      title,
+      title: title + ' ' + link,
       body: content.data.html_url + '\n\n' + link + '\n\n' + html_url + '\n\n' + body,
     })
     console.error('new_issue_duty: ' + require('util').inspect(new_issue_duty, { depth: null }))
