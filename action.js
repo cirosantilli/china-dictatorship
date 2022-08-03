@@ -165,22 +165,24 @@ if (!isComment) {
 // Make the request.
 try {
   const octokit = new github.getOctokit(process.env.GITHUB_TOKEN);
-  const new_comment = octokit.issues.createComment({
-    owner: payload.repository.owner.login,
-    repo: payload.repository.name,
-    issue_number: payload.issue.number,
-    body: replyBody,
-  });
+  // https://github.com/cirosantilli/china-dictatorship/issues/1330
+  //const new_comment = octokit.issues.createComment({
+  //  owner: payload.repository.owner.login,
+  //  repo: payload.repository.name,
+  //  issue_number: payload.issue.number,
+  //  body: replyBody,
+  //});
   let html_url
   if (isComment) {
     const title = (`@${author}: ` + noQuoteArray.join('\n').replaceAll('\n', ' ')).substring(0, 255)
     html_url = payload.comment.html_url
-    const new_issue = octokit.issues.create({
-      owner: payload.repository.owner.login,
-      repo: payload.repository.name,
-      title,
-      body: html_url + '\n\n' + replyBody,
-    })
+    // https://github.com/cirosantilli/china-dictatorship/issues/1330
+    //const new_issue = octokit.issues.create({
+    //  owner: payload.repository.owner.login,
+    //  repo: payload.repository.name,
+    //  title,
+    //  body: html_url + '\n\n' + replyBody,
+    //})
   } else {
     // Update labels.
     await octokit.issues.update({
@@ -224,13 +226,14 @@ try {
     const title = match[1]
     const link = match[2]
     const body = lines[4]
-    const new_issue_duty = await octokit.issues.create({
-      owner: payload.repository.owner.login,
-      repo: payload.repository.name,
-      title: title + ' ' + link,
-      body: content.data.html_url + '\n\n' + link + '\n\n' + html_url + '\n\n' + body,
-      labels: ['duty-machine'],
-    })
+    // https://github.com/cirosantilli/china-dictatorship/issues/1330
+    //const new_issue_duty = await octokit.issues.create({
+    //  owner: payload.repository.owner.login,
+    //  repo: payload.repository.name,
+    //  title: title + ' ' + link,
+    //  body: content.data.html_url + '\n\n' + link + '\n\n' + html_url + '\n\n' + body,
+    //  labels: ['duty-machine'],
+    //})
   }
 } catch (error) {
   core.setFailed(error.message);

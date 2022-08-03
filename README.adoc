@@ -541,6 +541,7 @@ Not mentioned in other sections:
 ** on <<gov-takedowns-china>>: https://github.com/github/gov-takedowns/blob/master/China/2021/2021-01-29-BNIA.md
 * https://github.com/ycjyy/ycjyy[]. Several news reposts on comments, e.g. https://github.com/ycjyy/ycjyy/issues/302[]. Particularly likes the site https://www.aboluowang.com/index.html 阿波罗综合新闻网 "Appolo Comprehensive News Website"
 * https://github.com/u2017/u2017/wiki has an anti-CCP wiki. Likely <<falun-gong>> believer given the imagery on the index page.
+* https://github.com/TaiduGousima/Fuck-cirosantilli
 
 Interesting users:
 
