@@ -172,13 +172,15 @@ try {
     issue_number: payload.issue.number,
     body: replyBody,
   });
+  let html_url
   if (isComment) {
     const title = (`@${author}: ` + noQuoteArray.join('\n').replaceAll('\n', ' ')).substring(0, 255)
+    html_url = payload.comment.html_url
     const new_issue = octokit.issues.create({
       owner: payload.repository.owner.login,
       repo: payload.repository.name,
       title,
-      body: payload.comment.html_url + '\n\n' + replyBody,
+      body: html_url + '\n\n' + replyBody,
     })
   } else {
     // Update labels.
@@ -188,6 +190,7 @@ try {
       issue_number: payload.issue.number,
       labels: Array.from([...labels, ...newLabels])
     })
+    html_url = payload.issue.html_url
   }
   // Get the latest news from duty-machine.
   {
@@ -230,7 +233,7 @@ try {
       owner: payload.repository.owner.login,
       repo: payload.repository.name,
       title,
-      body: content.data.html_url + '\n\n' + link + '\n\n' + body,
+      body: content.data.html_url + '\n\n' + link + '\n\n' + html_url + '\n\n' + body,
     })
   }
 } catch (error) {
