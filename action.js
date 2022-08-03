@@ -194,7 +194,14 @@ try {
     repo: 'news',
     per_page: 1,
   })
-  console.log('commits: ' + require('util').inspect(commits))
+  console.log('commits: ' + require('util').inspect(commits, { depth: null }))
+  const sha = commits.data[0].sha
+  const commit = await octokit.rest.repos.getCommit({
+    owner: 'duty-machine',
+    repo: 'news',
+    ref: sha,
+  })
+  console.log('commit: ' + require('util').inspect(commit, { depth: null }))
 } catch (error) {
   core.setFailed(error.message);
 }
