@@ -2173,6 +2173,7 @@ which reference various forks of china-dictatorship:
 ** "cirosantilli", "codin-stuffs", "cheezcharmer"
 ** "Dimples1337": https://web.archive.org/web/20221014142033/https://github.com/Dimples1337/[]
 ** "gege-circle",
+* https://gist.github.com/glitterlip/922a58efbba3acdbec740334152219a3
 
 [[not-chinese]]
 === Non-Chinese people should not interfere in Chinese politics (外国人不应该干预中国政治)
@@ -18066,6 +18067,12 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2025-03 https://github.com/orgs/community/discussions/153761 Why Haven’t Trash Users and Junk Repositories Been Taken Down? by NianBroken
+* 2025-02: https://19890604.best currently redirects to https://ourbigbook.com[]. At first Ciro Santilli thought it was referrer SPAM, but the on closer look it was actually a type of mirror. Presumably it doesn't redirect for users in China.
+* 2025-02 https://github.com/orgs/community/discussions/151810 by https://github.com/SunsetMkt "Sunset Mikoto"
+* 2025-02: this crazy dude https://commons.wikimedia.org/wiki/User:Akishima_Yuka is reuploading some of our pics and using them on the English and Chinese Wikipedias. The usage on Wikipedia will likely be reverted, but it's fun to see:
+  * https://zh.wikipedia.org/w/index.php?title=依附的自由&oldid=86057655
+  * https://en.wikipedia.org/w/index.php?title=LinkedIn&oldid=1275320961#International_restrictions
 * 2025-01-14 https://x.com/Christo77309767/status/1879248319505113393 by user "Christopher Drake" links to the ASCII Art <<tank-man>> at: https://github.com/cirosantilli/china-dictatorship/issues/183
 * 2024-12-26 https://linux.do/u/Linux.do.1/summary has username "Ciro Santilli" and a picture of Donald Trump on this Discourse-based Chinese language programming forum (https://archive.ph/l97nj[archive]). The instance seems to be invite only, so actual Ciro Santilli can't create an account there unforutnately.
 * 2024-12-20 https://steamcommunity.com/id/KungFuKenny117/ has a link to https://github.com/cirosantilli/china-dictatorship on this amazing STEAM account (archive[https://archive.ph/wip/aPj3j])
