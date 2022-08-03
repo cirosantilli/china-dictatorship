@@ -1169,6 +1169,9 @@ https://www.theregister.com/2019/05/10/amazon_backtracks_on_s3/ clarifies that o
 
 the second of which can be easily blocked by domain, but the first can't, and how amazon was planning on killing the first option.
 
+.With HTTPS censors can't know which path you access. Featuring <<xi-jinping-bdsm-cosplay,Xi Jinping BDSM at cosplay fair>>.
+image::{china-dictatorship-media-base}/GitHub_collateral_freedom.jpg[height=2000]
+
 ===== Protestware
 
 Notably our <<software-package-mirrors>>:
