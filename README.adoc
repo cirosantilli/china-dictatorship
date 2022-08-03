@@ -61,6 +61,9 @@ This repo has the following goals:
 ** teach foreigners (maybe even Chinese people on certain points) about amazing Chinese things that they can consume
 ** show wumaos that <<ciro-santilli>> is not as clueless about China as they think
 
+.With HTTPS censors can't know which path you access. Featuring <<xi-jinping-bdsm-cosplay,Xi Jinping BDSM at cosplay fair>>.
+image::{china-dictatorship-media-base}/GitHub_collateral_freedom.jpg[height=800]
+
 == Copypasta
 
 Here's an image/sentence https://en.wikipedia.org/wiki/Copypasta[copypasta]/summary of key events for the <<keyword-attack>>.
