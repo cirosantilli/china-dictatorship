@@ -173,7 +173,7 @@ try {
     body: replyBody,
   });
   if (isComment) {
-    const title = (`@${author}: ` + quoteArray.join('\n').replaceAll('\n', ' ')).substring(0, 255)
+    const title = (`@${author}: ` + noQuoteArray.join('\n').replaceAll('\n', ' ')).substring(0, 255)
     const new_issue = octokit.issues.create({
       owner: payload.repository.owner.login,
       repo: payload.repository.name,
