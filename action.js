@@ -225,11 +225,11 @@ try {
     contentS =  Buffer.from(content.data.content, 'base64').toString('utf-8')
     console.error('contentS: ' + require('util').inspect(contentS))
     const lines = contentS.split('\n')
-    const titleAndLink = lines[2]
+    const titleAndLink = lines[1]
     const match = titleAndLink.match(/\[([^\]]+)\]\(([^)]+)\)/)
     const title = match[1]
     const link = match[2]
-    const body = lines[5]
+    const body = lines[4]
     const new_issue_duty = await octokit.issues.create({
       owner: payload.repository.owner.login,
       repo: payload.repository.name,
