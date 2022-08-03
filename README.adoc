@@ -541,7 +541,7 @@ Not mentioned in other sections:
 ** on <<gov-takedowns-china>>: https://github.com/github/gov-takedowns/blob/master/China/2021/2021-01-29-BNIA.md
 * https://github.com/ycjyy/ycjyy[]. Several news reposts on comments, e.g. https://github.com/ycjyy/ycjyy/issues/302[]. Particularly likes the site https://www.aboluowang.com/index.html 阿波罗综合新闻网 "Appolo Comprehensive News Website"
 * https://github.com/u2017/u2017/wiki has an anti-CCP wiki. Likely <<falun-gong>> believer given the imagery on the index page.
-* https://github.com/TaiduGousima/Fuck-cirosantilli
+* https://github.com/TaiduGousima/Fuck-cirosantilli[], fork at: https://github.com/wumaoland/Fuck-cirosantilli[]
 
 Interesting users:
 
@@ -5489,6 +5489,8 @@ Those who support political <<censorship>> deserve to be censored themselves to 
 Also, unlike the Chinese government, <<ciro-santilli>> does never delete messages. Only prevents more bullshit spam from the same users. This is basically an inevitable part of <<asymmetric-information-warfare>>.
 
 ==== china-dictatorship reply bot
+
+The bot was taken down on September 2024: https://github.com/cirosantilli/china-dictatorship/issues/1330 after complaints from wumaos because GitHub forbids action reply on comment even though that was using minimal resources.
 
 Due to the nature of <<asymmetric-information-warfare>>, Ciro has created a reply bot based on <<github>> Actions that does the above automatically, therefore handling 99% of the work, see:
 
@@ -16373,6 +16375,7 @@ It is interesting to note how <<falun-gong>> is a good source of censorship-circ
 
 Projects:
 
+* https://github.com/Anankke/SSPanel-UIM
 * https://github.com/233boy/v2ray
 ** https://github.com/Loyalsoldier/v2ray-rules-dat | https://github.com/v2ray/v2ray-core Contains cirosantilli.com: https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat[], victory.
 ** https://github.com/v2ray/v2ray-core
@@ -18052,6 +18055,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2024-11-05 https://vk.com/wall720423652_487 user Flying Pig comments: 一个神奇的反华宣传大集合。Githjb上还有这样的工程，搞笑！ A magical collection of anti-China propaganda. There is also such a project on Githjb, funny!
 * 2024-03-25 https://www.reddit.com/r/China_irl/comments/1bn47e5/github_上自带大翻译的那个竟然是100的洋人那么问题来了/ by user steambap, possibly the same as: https://github.com/steambap[]. Complaining about <<not-chinese>>
 * 2024-03-21 https://www.reddit.com/r/real_China_irl/comments/1bjvovt/无意间搜出的反华repo_作者还把老中的每条issue标题都大翻译了_墙内的请挂梯子再访问/ "无意间搜出的反华repo 作者还把老中的每条issue标题都大翻译了 （墙内的请挂梯子再访问）" (The author of the anti-China repo I accidentally found also translated the title of every issue written by Lao Zhong (if you are in the wall, please hang up a ladder before visiting))
 * 2023-11-15 https://www.reddit.com/r/github/comments/17vv8kh/whats_the_deal_with_these_repos_that_repeat_on/

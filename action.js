@@ -107,6 +107,7 @@ if (!isComment) {
   }
   for (const word of [
     '中国共产党万岁',
+    '中华人民共和国万岁',
   ]) {
     if (new RegExp(word, 'i').test()) {
       newLabels.add('i-like-my-dictatorship')
