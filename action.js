@@ -188,12 +188,14 @@ try {
     //})
   } else {
     // Update labels.
+    console.log('before octokit.rest.issues.update')
     await octokit.rest.issues.update({
       owner: payload.repository.owner.login,
       repo: payload.repository.name,
       issue_number: payload.issue.number,
       labels: Array.from([...labels, ...newLabels])
     })
+    console.log('after octokit.rest.issues.update')
     html_url = payload.issue.html_url
   }
   // Get the latest news from duty-machine.
