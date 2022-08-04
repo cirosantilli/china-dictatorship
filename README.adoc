@@ -15581,8 +15581,6 @@ ffmpeg -y -i xi2017.webm -vf "subtitles=filename=xi2017.srt:force_style='Fontsiz
 video::mLJOsj0sOR8[youtube,height=400,width=600]
 .Those against raise their hands (不同意的请举手), October 10, 2017. https://www.youtube.com/watch?v=Fdc-m5hTRpk[Source].
 
-9iMFeINLUpk
-
 [[those-against-raise-their-hands-2022]]
 video::9iMFeINLUpk[youtube,height=400,width=600]
 .Those against raise their hands (不同意的请举手) 2022. https://www.youtube.com/watch?v=aYaSyheXHfg[Source].
