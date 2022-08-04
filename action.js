@@ -243,4 +243,6 @@ try {
 } catch (error) {
   core.setFailed(error.message);
 }
+
+console.log('Finishing action.js')
 })()
