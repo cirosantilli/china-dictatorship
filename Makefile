@@ -49,6 +49,7 @@ $(OUT_MULTIPAGE): $(IN) template_dir/*
 		-r asciidoctor-multipage \
 	  $(OPTS) \
 	  '$<'
+	./generate-redirects
 
 clean:
 	rm -rf $(OUT) $(BODY)

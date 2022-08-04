@@ -22720,13 +22720,11 @@ see also: <<why-is-ukraine-the-west-s-fault-by-john-mearsheimer-2015,Why is Ukra
 
 TODO migrate all into this README.
 
-. link:censorship.md[Censorship]
-. link:media.md[Media]
-. link:dissidents.md[Dissidents]
-. link:movements.md[Movements against the Dictatorship]
-. link:images/[Images]
-. link:policies.md[Policies]
-. link:stack-overflow.md[Stack Overflow]
-. link:stack-overflow-profile.md[Stack Overflow profile]
+. https://github.com/cirosantilli/china-dictatorship/blob/master/CONTRIBUTING.md
+. https://github.com/cirosantilli/china-dictatorship/blob/master/media.md
+. https://github.com/cirosantilli/china-dictatorship/blob/master/dissidents.md
+. https://github.com/cirosantilli/china-dictatorship/blob/master/movements.md
+. https://github.com/cirosantilli/china-dictatorship/blob/master/policies.md
+. https://github.com/cirosantilli/china-dictatorship/blob/master/stack-overflow-profile.md
 . Personal
-.. link:communities-that-censor-politics.md[Communities that censor politics]
+.. https://github.com/cirosantilli/china-dictatorship/blob/master/communities-that-censor-politics.md

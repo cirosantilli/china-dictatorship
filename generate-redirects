@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+set -eu
+for fromto in \
+  'CONTRIBUTING.md https://github.com/cirosantilli/china-dictatorship/blob/master/CONTRIBUTING.md' \
+  'censorship.md https://github.com/cirosantilli/china-dictatorship/blob/master/censorship.md' \
+  'communities-that-censor-politics.md https://github.com/cirosantilli/china-dictatorship/blob/master/communities-that-censor-politics.md' \
+  'dissidents.md https://github.com/cirosantilli/china-dictatorship/blob/master/dissidents.md' \
+  'flg-organ-harvesting= flg-organ-harvesting' \
+  'funded- funded-by-cia' \
+  'high-mountain-and-running-river https://ourbigbook.com/cirosantilli/high-mountain-and-flowing-water' \
+  'images https://github.com/cirosantilli/china-dictatorship-media' \
+  'media.md https://github.com/cirosantilli/china-dictatorship/blob/master/media.md' \
+  'overlook-human-rights-for-profitac overlook-human-rights-for-profit' \
+  'policies.md https://github.com/cirosantilli/china-dictatorship/blob/master/policies.md' \
+  'schinese-characters-are-insane chinese-characters-are-insane' \
+  'stack-overflow-profile.md https://github.com/cirosantilli/china-dictatorship/blob/master/stack-overflow-profile.md' \
+  'stack-overflow.md stack-overflow' \
+  'white-snow-in-sunny-spring https://ourbigbook.com/cirosantilli/white-snow-in-sunny-spring' \
+
+do
+  from="${fromto%% *}"
+  to="${fromto#* }"
+  cat <<EOF > "out/multipage/$from.html"
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Redirecting...</title>
+<link rel="canonical" href="$to"/>
+<meta http-equiv="refresh" content="0;url=$to" />
+</head>
+<body>
+<h1>Redirecting...</h1>
+<a href="$to">Click here if you are not redirected.</a>
+<script>location='$to'</script>
+</body>
+</html>
+EOF
+done
