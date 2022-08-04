@@ -32,7 +32,7 @@ function multipage-fixup() (
   find "$1" -name '*.html' ! -name 'index.html' | xargs perl -lapi -e '
 s/<h[2-6] id="/<h2 id="/g;
 s/href="README.html"/href="index-split"/g;
-s/(href="(?![^"]+:\/\/)[^"]+).html"/\1"/g;
+s/(href="(?![^"]+:\/\/)[^"]+).html(#[^"]*)?"/\1\2"/g;
 '
   # Not possible, it is identical to other lists actually...
   # s/(<div class="paragraph nav-footer">)/<h2>Table of contents<\/h2>\1/g;
