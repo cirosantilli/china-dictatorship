@@ -5484,6 +5484,9 @@ image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_
 .Chinese translation of the above.
 image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective_zh.png[height=1200]
 
+Bibliography:
+* https://yuxi-liu-wired.github.io/sketches/posts/info-warfare/ Information Warfare
+
 [[ciro-santilli-blocks-wumaos]]
 ==== Ciro Santilli censors wumaos, therefore he is no different from the Chinese government (三西猴审查五毛，因此他与中国政府没有什么不同)
 
@@ -18068,6 +18071,8 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2025-04: https://thetenaciouscontrarian.substack.com/p/dear-activists-when-does-love-become Dear Activists: When Does Love Become Imperialism in Disguise?
+ by The Tenacious Contrarian
 * 2025-03 https://github.com/orgs/community/discussions/153761 Why Haven’t Trash Users and Junk Repositories Been Taken Down? by NianBroken
 * 2025-02: https://19890604.best currently redirects to https://ourbigbook.com[]. At first Ciro Santilli thought it was referrer SPAM, but the on closer look it was actually a type of mirror. Presumably it doesn't redirect for users in China.
 * 2025-02 https://github.com/orgs/community/discussions/151810 by https://github.com/SunsetMkt "Sunset Mikoto"
