@@ -15551,11 +15551,17 @@ The seven top people of the party as of 2020, ranked in a specific order.
 
 In 2018 they had the 13th congress. 2980 were elected for the next 5 years for it, and then in theory they vote to choose the <<president-of-the-people-s-republic-of-china>>.
 
-ttps://www.rfi.fr/cn/中国/20130315-1票反对习近平做国家主席网民竞猜是谁
+https://www.rfi.fr/cn/中国/20130315-1票反对习近平做国家主席网民竞猜是谁
+
+The Chinese is:
+
+* 赞成 : for
+* 反对 : against
+* 弃权 : abstain
 
 [[xi-jinping-2970]]
 .Montage of the vote display board during the 12th (2013), 13th (2018) and 14th (2023) <<national-people-s-congress>> showing how <<xi-jinping>> was elected with. 2013: 2955 for, 1 against, 3 abstentions. 2018: 2970 votes for, 0 abstentions and 0 votes against. 2023: 2952 votes for, 0 abstantions, 0 against. These elections can't possibly be rigged, the Chinese people are in perfect harmony! The 2018 image image was used as the "democracy" image in the <<core-socialist-values-by-1v9ex,Core Socialist Values montage by 1v9ex>>. Sources: https://www.rfi.fr/cn/中国/20130315-1票反对习近平做国家主席网民竞猜是谁[2013], http://m.cyol.com/content/2018-03/21/content_17039285.htm[2018], https://www.telegraph.co.uk/world-news/2023/03/10/vladimir-putin-congratulates-dear-friend-xi-jinping-winning/[2023].
-image::{china-dictatorship-media-base}/Xi_Jinping_elected_2970_for_0_against_in_2018.jpg[height=600]
+image::{china-dictatorship-media-base}/Xi_Jinping_elected_2970_for_0_against_in_2018.jpg[height=1200]
 
 [[president-of-the-people-s-republic-of-china]]
 ====== President of the People's Republic of China (中华人民共和国主席)

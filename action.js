@@ -62,7 +62,7 @@ if (isComment) {
 const quoteArray = [];
 const noQuoteArray = [];
 for (const line of titleAndBody.split('\n')) {
-  // Remove some speical chars to remove at mention spam possibilities.
+  // Remove some special chars to remove at mention spam possibilities.
   const l = line.replace(/[@#]/g, "")
   quoteArray.push('> ' + l);
   noQuoteArray.push(l);
@@ -188,15 +188,16 @@ try {
     //})
   } else {
     // Update labels.
-    console.log('before octokit.rest.issues.update')
-    await octokit.rest.issues.update({
-      owner: payload.repository.owner.login,
-      repo: payload.repository.name,
-      issue_number: payload.issue.number,
-      labels: Array.from([...labels, ...newLabels])
-    })
-    console.log('after octokit.rest.issues.update')
-    html_url = payload.issue.html_url
+    if (author !== 'cirosantilli') {
+      console.log('before octokit.rest.issues.update')
+      await octokit.rest.issues.update({
+        owner: payload.repository.owner.login,
+        repo: payload.repository.name,
+        issue_number: payload.issue.number,
+        labels: Array.from([...labels, ...newLabels])
+      })
+      console.log('after octokit.rest.issues.update')
+    }
   }
   // Get the latest news from duty-machine.
   // Can't do fetches anymore they were DMCA'ed.
