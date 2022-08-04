@@ -15591,6 +15591,9 @@ video::-Sg50edXPdM[youtube,height=400,width=600]
 video::Yg48GsMJeaE[youtube,height=400,width=600]
 .Comittee meeting scene from the film The Death of Stalin (2017)
 
+video::SCbat53DgSc[youtube,height=400,width=600]
+.Those against raise their hands Xi Jinping remix by Ciro Santilli
+
 Announced at:
 
 * https://mastodon.social/@cirosantilli/114511641933313877
