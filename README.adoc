@@ -15585,6 +15585,12 @@ video::mLJOsj0sOR8[youtube,height=400,width=600]
 video::9iMFeINLUpk[youtube,height=400,width=600]
 .Those against raise their hands (不同意的请举手) 2022. https://www.youtube.com/watch?v=aYaSyheXHfg[Source].
 
+video::-Sg50edXPdM[youtube,height=400,width=600]
+.Al Capone hits a homerun scene from the film The Untouchables (1987)
+
+video::Yg48GsMJeaE[youtube,height=400,width=600]
+.Comittee meeting scene from the film The Death of Stalin (2017)
+
 Announced at:
 
 * https://mastodon.social/@cirosantilli/114511641933313877
