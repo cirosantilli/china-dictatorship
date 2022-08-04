@@ -199,38 +199,39 @@ try {
     html_url = payload.issue.html_url
   }
   // Get the latest news from duty-machine.
+  // Can't do fetches anymore they were DMCA'ed.
   {
-    const commits = await octokit.rest.repos.listCommits({
-      owner: 'duty-machine',
-      repo: 'news',
-      per_page: 1,
-    })
-    const sha = commits.data[0].sha
-    const commit = await octokit.rest.repos.getCommit({
-      owner: 'duty-machine',
-      repo: 'news',
-      ref: sha,
-    })
-    let filename
-    for (const file of commit.data.files) {
-      filename = file.filename
-      if (filename.startsWith('articles/')) {
-        break
-      }
-    }
-    const content = await octokit.rest.repos.getContent({
-      owner: 'duty-machine',
-      repo: 'news',
-      ref: sha,
-      path: filename,
-    })
-    contentS =  Buffer.from(content.data.content, 'base64').toString('utf-8')
-    const lines = contentS.split('\n')
-    const titleAndLink = lines[1]
-    const match = titleAndLink.match(/\[([^\]]+)\]\(([^)]+)\)/)
-    const title = match[1]
-    const link = match[2]
-    const body = lines[4]
+    //const commits = await octokit.rest.repos.listCommits({
+    //  owner: 'duty-machine',
+    //  repo: 'news',
+    //  per_page: 1,
+    //})
+    //const sha = commits.data[0].sha
+    //const commit = await octokit.rest.repos.getCommit({
+    //  owner: 'duty-machine',
+    //  repo: 'news',
+    //  ref: sha,
+    //})
+    //let filename
+    //for (const file of commit.data.files) {
+    //  filename = file.filename
+    //  if (filename.startsWith('articles/')) {
+    //    break
+    //  }
+    //}
+    //const content = await octokit.rest.repos.getContent({
+    //  owner: 'duty-machine',
+    //  repo: 'news',
+    //  ref: sha,
+    //  path: filename,
+    //})
+    //contentS =  Buffer.from(content.data.content, 'base64').toString('utf-8')
+    //const lines = contentS.split('\n')
+    //const titleAndLink = lines[1]
+    //const match = titleAndLink.match(/\[([^\]]+)\]\(([^)]+)\)/)
+    //const title = match[1]
+    //const link = match[2]
+    //const body = lines[4]
     // https://github.com/cirosantilli/china-dictatorship/issues/1330
     //const new_issue_duty = await octokit.rest.issues.create({
     //  owner: payload.repository.owner.login,
