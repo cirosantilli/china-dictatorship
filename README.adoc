@@ -277,9 +277,13 @@ The cool thing about Git is that we can maintain several mirrors on multiple web
 Mirrors controlled by other people, thus forming a type of <<samizdat>>:
 
 * https://git.kiwifarms.net/CrunkLord420/china-dictatorship auto-pull Gitea mirror on https://en.wikipedia.org/wiki/Kiwi_Farms[Kiwi Farms], a <<politically-incorrect,politically incorrect>> social network website
-* https://china.vkoor.com/ presumably by https://github.com/Vkoor[] who is a collaborator of this project, e.g. https://github.com/cirosantilli/china-dictatorship/issues/533[]. They're also hosting a search engine proxy at https://www.vkoor.com/[], TODO Google? See also: <<google-mirrors>>.
 * https://github.com/cheezcharmer/chinese-dictatorship[]: Ciro likes that this due actually changed the repository title, thus making it harder to auto-censor everything in one go
-* https://crabapi.cn by https://github.com/CrabTechs says name is 薛钰隆 and gives contact details and photo. Please by God be fake details. A .cn mirror, let's see how long it lasts. Up: https://web.archive.org/web/20220517075452/https://crabapi.cn/ Down the following day. Twitter: https://twitter.com/CrabTechs_ Backlink from https://site.ip138.com/ and https://site.ip138.com/crabapi.cn to cirosantilli.com.
+* https://china.fptbb.com
+
+Ones that went down:
+
+* https://crabapi.cn by https://github.com/CrabTechs says name is 薛钰隆 and gives contact details and photo. Please by God be fake details. A .cn mirror, let's see how long it lasts. Up: https://web.archive.org/web/20220517075452/https://crabapi.cn/ Down the following day. Twitter: https://twitter.com/CrabTechs_ Backlink from https://site.ip138.com/ and https://site.ip138.com/crabapi.cn to cirosantilli.com. Down 2022-08.
+* https://china.vkoor.com/ presumably by https://github.com/Vkoor[] who is a collaborator of this project, e.g. https://github.com/cirosantilli/china-dictatorship/issues/533[]. They're also hosting a search engine proxy at https://www.vkoor.com/[], TODO Google? See also: <<google-mirrors>>. Down 2022-08.
 
 GitHub Pages: https://cirosantilli.com/china-dictatorship trade-offs with https://github.com/cirosantilli/china-dictatorship[]:
 
@@ -4293,7 +4297,7 @@ The school is mentioned in a news report from 2020 at: https://moment.rednet.cn/
 video::zasx2iTeOX0[youtube,height=400,width=600]
 
 .Still from the above.
-image::{china-dictatorship-media-base}/Lie_flat_girl.xcf[height=400]
+image::{china-dictatorship-media-base}/Lie_flat_girl.jpg[height=400]
 
 [[photobomb]]
 ==== Photobombing-like attacks
@@ -9834,7 +9838,7 @@ image::{china-dictatorship-media-base}/Lesbian_couple_Shanghai_30s.jpg[height=50
 [[everyone-can-feel-that-a-profound-change-is-underway-by-li-guangman]]
 === Everyone can feel that a profound change is underway by Li Guangman (2021, 李光满《每个人都能感受到，一场深刻的变革正在进行！》)
 
-Politicla essay reposted by major <<chinese-government-media>>:
+Political essay reposted by major <<chinese-government-media>>:
 
 * <<xinhua>>: http://xinhuanet.com/politics/2021-08/29/c_1127807097.htm
 * <<peoples-daily>>: http://politics.people.com.cn/n1/2021/0829/c1001-32211523.html
@@ -15921,6 +15925,11 @@ https://www.zhihu.com/question/334923127 如何评价俄罗斯籍中国网红伏
 * "Living in China" by Jason Lightfoot: https://www.youtube.com/user/JasonLightfoot Sample video:
 ** https://www.youtube.com/watch?v=2Mjik6q7FFo "The CCP is Wonderful! Thank you China not a government shill 谢谢你中国"
 ** https://www.youtube.com/watch?v=9SftsZXlIKM "British vlogger: The life of Uygurs and other minorities in China" reposted by <<cgtn>> (2021)
+* Andy Boreham
+** from New Zeland
+** https://twitter.com/AndyBxxx
+** https://www.shine.cn/andyboreham/
+** https://www.youtube.com/shorts/xqKJMchxGbI <<xinjiang>> denial. He's deep.
 
 TODO decide:
 
