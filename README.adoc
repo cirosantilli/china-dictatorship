@@ -2064,6 +2064,9 @@ Bibliography:
 .https://www.youtube.com/watch?v=TcoBv6ibh8M The excessive fear of external country theme is also mentioned in <<v-for-vendetta>>, where a <<covid,viral outbreak>> is used by governments to increase their power over the people.
 video::TcoBv6ibh8M[youtube,height=400,width=600,start=2086]
 
+.https://www.youtube.com/watch?v=n59ugeOA4mA A random dude re-enacts the scene from Smiley's People
+video::n59ugeOA4mA[youtube,height=400,width=600]
+
 [[friendly-west-china-moments]]
 ===== Friendly West-China moments (中西友好时刻)
 
@@ -2441,6 +2444,47 @@ video::_y2FIqfIpiw[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=zndzntIDLFE IGN review of the "We Happy Few" (2018) game.
 video::zndzntIDLFE[youtube,height=400,width=600]
+
+[[sitong-bridge-protest]]
+====== Sitong Bridge protest (北京四通桥抗议, 2022)
+
+* https://en.wikipedia.org/wiki/Beijing_Sitong_Bridge_protest
+* https://zh.wikipedia.org/wiki/北京四通桥抗议
+* <reddit> threads:
+** https://www.reddit.com/r/China/comments/y2rl9p/protest_banners_in_downtown_beijing_i_hope_the/
+** https://www.reddit.com/r/China_irl/comments/y2qjpp/北京海淀区四通桥横幅/
+* https://www.youtube.com/watch?v=VgYVdpH8Jxg a video
+* <rfa> https://www.rfa.org/mandarin/Xinwen/wulb-10132022033345.html
+* https://twitter.com/jajia/status/1580434183209771008 gives the location. "The intersection of Zhongguancun Street and North Third Ring Road." 中關村大街和北三環交叉口。如圖
+* https://www.reddit.com/r/China/comments/y57og2/the_brave_man_who_put_up_the_banner_on_the/ possible identity, not very well confirmed: https://twitter.com/lifa_petter
+* https://www.bloomberg.com/news/articles/2022-10-18/anti-xi-slogans-in-rare-beijing-protest-spread-within-china?leadSource=uverify%20wall
+____
+不要核酸要吃饭 +
+不要封城要自由 +
+不要谎言要尊严 +
+不要文革要改革 +
+不要领袖要选票 +
+不做奴隶做公民 +
+No covid test, but food! +
+No lockdown, but freedom! +
+No lies, but dignity! +
+No the Cultural Revolution, but reform! +
+No leaders, but votes! +
+No slave, but citizen!
+
+罢免独裁国贼习近平 +
+Remove the dictatorial state traitor <<xi-jinping,Xi Jinping>>!
+____
+
+And the dude had a loudspeaker too, he was not planning to flee at all:
+
+____
+要吃饭，要自由，要选票！罢课，罢工，罢免独裁国贼习近平！ +
+Demand food, freedom, ballot! Students, workers, strike and depose the despotic traitor <<xi-jinping,Xi Jinping>>!
+____
+
+.Sitong Bridge protest photo from the crosswalk. https://www.bbc.co.uk/news/world-asia-china-63252559[Source].
+image::{china-dictatorship-media-base}/Sitong_Bridge_protest.jpg[height=500]
 
 [[chilling-effect]]
 ====== Chilling effect (寒蝉效应)
@@ -12670,6 +12714,10 @@ Lists: https://qz.com/1618805/the-1989-tiananmen-student-leaders-on-chinas-most-
 ** creator <<memo64>>
 ** Twitter: https://twitter.com/FengCongde[]. Retweeted Ciro's CC BY SA <<tank-man>> arts:
 ** https://twitter.com/cirosantilli2/status/1352936697420509184/retweets
+* Wu'erkaixi, dude's from <Xinjiang>
+  * https://en.wikipedia.org/wiki/Wu%27erkaixi
+  * https://zh.wikipedia.org/wiki/吾爾開希·多萊特
+  * https://twitter.com/wuerkaixi
 
 [[tiananmen-leaders-corrupt]]
 ==== Tiananmen student leaders went to USA and are living just fine (天安门学生领袖去了美国，生活还不错)
@@ -12755,6 +12803,23 @@ image::{china-dictatorship-media-base}/Chai_Ling_People_s_Daily_speech.jpg[heigh
 
 [[tiananmen-square-protest-documentaries]]
 === Tiananmen square protest documentaries (六四事件纪录片)
+
+The problem of most documentaries is that they are just a bunch of modern interviews with very very quick scenes interspersed.
+
+It would be much more effective to just let the actual scenes sink in by themselves in a fuller uncommented format.
+
+Basically, more footage.
+
+<<the-gate-of-heavenly-peace-1995>> is by far the least worse in this aspect.
+
+It is also extremelly difficult to find a good footage database! Ony a journalist would be able to find it.
+
+Some good footage:
+
+* man showing bullet cases + bullet holes on windows on July: https://www.gettyimages.co.uk/detail/video/news-footage/83245439?adppopup=true
+* the dust storm on May 31st!
+  * https://www.gettyimages.co.uk/detail/video/news-footage/83245434?adppopup=true
+  * https://www.gettyimages.co.uk/detail/video/news-footage/83245435?adppopup=true
 
 [[the-gate-of-heavenly-peace-1995]]
 ==== The Gate of Heavenly Peace (1995, 天安门纪录片)
@@ -16557,6 +16622,12 @@ Related:
 
 * <<german-high-school-coordinator-2020>>
 
+[[democracy-party-of-china]]
+===== Democracy Party of China (中国民主党)
+
+* https://en.wikipedia.org/wiki/Democracy_Party_of_China
+* https://zh.wikipedia.org/wiki/中国民主党
+
 [[rule-of-law]]
 ==== Rule of law (法治)
 
@@ -17164,6 +17235,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2022-1009 https://forums.hardwarezone.com.sg/threads/will-u-date-a-girl-who-lying-flat.6820106/#post-144205474
 * 2022-08-01 https://archive.ph/wip/W9Wip https://boards.4channel.org/g/thread/87957634/this-is-it-the-culmination-of-their-grand-plan-to#p87957634 
 * 2022-07-20 https://support.github.com to <<meant-to-be-used>>. GitHub is on Ciro's side.
 * 2022-05 bytedance.feishu.cn 3 people to repo https://github.com/cirosantilli/china-dictatorship
