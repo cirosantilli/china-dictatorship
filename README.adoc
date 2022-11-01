@@ -812,6 +812,23 @@ On 2021-09-23 Ciro Santilli received this email from cirosantillifather@protonma
 ** https://github.com/AlstonScott https://github.com/programthink/zhao/issues/428 was using Ciro's profile picture: https://archive.ph/K59TN
 ** https://github.com/Ciro-Santilli-NMSL 我在你爸坟头骨灰拌饭 https://archive.ph/5iVR2
 * https://github.com/wumaoland/MaoZeDongAnthology of our great ex-leader, <<mao-zedong>>!
+* https://github.com/gege-circle/home 戈戈圈 TODO there were some backlinks from there, and they seemed to have some <<wumao,wumaos>>, but haven't full understood what they are yet. They seem to be some anime nerds, so maybe related to <<hololive,VTubers>>?
+** https://github.com/cirosantilli/china-dictatorship/issues/907
+** https://www.reddit.com/r/gege_circle/
++
+Their README reads:
++
+____
+Please consciously abide by the laws of the People's Republic of China. This project restricts the discussion of political content and prohibits the publication of illegal information. If such discussions are found to be gradually deviating from the topic and leading to purely political content, the moderator will first warn them, and then start punishing them if they do not listen.
+____
++
+OK, the home project is an auto-archiver, much like <<duty-machine>>, but non anonymous, e.g.:
++
+* https://github.com/gege-circle/home/issues/1247
+* https://mp.weixin.qq.com/s/mv10yp3LfgC9ibj_MbWarQ
++
+But that's not all it is/was, e.g.:
+* https://web.archive.org/web/20210407073739if_/https://github.com/gege-circle/home/issues/271#issuecomment-809275700 from https://github.com/cirosantilli/china-dictatorship/issues/157 has some discussion
 
 [[faq]]
 == FAQ (常见问答集)
@@ -5875,7 +5892,7 @@ But remember that we also have: <<mirrors>>, and that this can be easily rendere
 
 * 2022-05-10 https://github.com/coding-stuffs/china-dictatorshrip and https://github.com/cirosantilli/china-dictatorhsip-2/graphs/traffic traffic went mysteriously from 30 and 20 unique daily visitors respectively to just 1 or 2
 * 2022-05-17 renamed https://github.com/coding-stuffs/china-dictatorshrip to https://github.com/codin-stuffs/cihna-dictatorshrip to see if the is a URL-based browser block. Keeping https://github.com/cirosantilli/china-dictatorhsip-2 unchanged for now as a control. 2022-05-18 immediately back to 175. Then since 05-20 fell to 30/daily as before. I wonder where the 175 came from. Maybe there is some fast-track block that does not fully block?
-* 2022-05-19 renamed https://github.com/cirosantilli/china-dictatorhsip-2 to https://github.com/cirosantilli/china-dictatorhsip-3 to see if traffic also goes back up like coding-stuffs. Do <<wumao,wumaos>> know their regexes?? Traffic immediately back to 50/60 daily.
+* 2022-05-19 renamed https://github.com/cirosantilli/china-dictatorhsip-2 to https://github.com/cirosantilli/china-dictatorhsip-3 to see if traffic also goes back up like coding-stuffs. Do <<wumao,wumaos know their regexes?? Traffic immediately back to 50/60 daily.
 
 [[gov-takedowns-china]]
 ====== gov-takedowns/China (由中共在国审查的库仓的GitHub官方列表)
@@ -6484,6 +6501,7 @@ TODO review:
 * https://www.reddit.com/r/taiwan/[]. Does not appear to be very China focused.
 * https://www.reddit.com/r/China_Flu/
 * https://www.reddit.com/r/China_irl/ (流浪防区) https://www.reddit.com/r/China/comments/mnbpum/if_you_want_to_experience_the_censorship_and/ claims pro-CCP, but e.g. https://www.reddit.com/r/China_irl/comments/mn68dy/各位键委如何看待gfw/ has <<gfw>> talks
+** https://www.reddit.com/r/DoubanGoosegroup Appears anti-China with <<backlinks,Backlink>>: https://www.reddit.com/r/DoubanGoosegroup/comments/ud50yd/中国主要科技与互联网公司市值变化与apple对比/ Main post was also laughing at the Chinese economy First charst are 流浪 like https://www.reddit.com/r/China_irl/
 * https://www.reddit.com/r/CLTV/
 
 [[r-china]]
