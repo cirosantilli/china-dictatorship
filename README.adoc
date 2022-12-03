@@ -1431,12 +1431,30 @@ image::{china-dictatorship-media-base}/CCP_Olympic_medal_2020_vs_COVID_death_cou
 
 ====== April 2022 Shanghai lockdown
 
+* https://en.wikipedia.org/wiki/2022_Shanghai_COVID-19_outbreak
+* https://zh.wikipedia.org/wiki/2022年3月上海市2019冠状病毒病聚集性疫情
+
 People were getting really fed up by that one:
 
 * https://www.theguardian.com/uk-news/video/2022/apr/25/beijing-residents-stock-up-on-food-amid-covid-lockdown-fears-video
 
 .https://www.youtube.com/watch?v=dpJPPJwi2Vo What It’s Like Inside Shanghai’s Lockdown by VICE News (2022)
 video::dpJPPJwi2Vo[youtube,height=400,width=600]
+
+[[white-paper]]
+====== 2022 COVID-19 protests in China (白纸运动, 白纸革命, White paper protests)
+
+* https://zh.wikipedia.org/wiki/反對動態清零政策運動
+* https://en.wikipedia.org/wiki/2022_COVID-19_protests_in_China
+
+Some <<reddit,Reddits>>:
+
+* https://www.reddit.com/r/China/comments/z7ajho/chairman_for_life_xi_jinping_has_joined_the/ pooh emperor
+* https://www.reddit.com/r/China/comments/z75dn5/this_is_the_most_sensitive_photo_in_china_now/ pooh white paper
+* https://www.reddit.com/r/China/comments/z6ss3x/university_students_gathered_in_front_of_the/ Qinghua university
+
+.White paper protesters in Beijing. https://www.nytimes.com/2022/11/28/world/asia/china-protests-blank-sheets.html[Source].
+image::{china-dictatorship-media-base}/White_paper_protest_Beijing_2022.jpg[height=500]
 
 [[li-wenliang]]
 ====== Li Wenliang (李文亮)
@@ -5311,6 +5329,10 @@ Oh, and you can't criticize God either! https://meta.stackexchange.com/questions
 The Chinese law doesn't allow Ciro's profile unfortunately: <<real-username-law>>
 
 Since you will fail through Stack Overflow moderation, please consider instead making a report on the <<cac-report-website>>.
+
+Some non-political China related stuff on Stack Overflow:
+
+* https://meta.stackoverflow.com/questions/421453/i-have-found-16-809-similar-inappropriate-user-profiles-there-are-more-now Ciro had previously noticed these mass spambot accounts when searching for something
 
 ===== Stack Overflow forbids criticizing the character of genocidal political leaders like Xi Jinping
 
@@ -11839,7 +11861,7 @@ video::_VaNnC8knew[youtube,height=400,width=600]
 * https://zh.wikipedia.org/wiki/胡锦涛
 
 [[hu-jintao-gets-kicked-out]]
-==== Hu Jintao gets kicked out (胡锦涛被开除, 2022)
+==== Hu Jintao gets kicked out of the 20th National Congress (胡锦涛从中共二十大被开除, 2022)
 
 He got kicked out of the 20th <<national-congress>>:
 
@@ -11847,11 +11869,14 @@ He got kicked out of the 20th <<national-congress>>:
 * https://zh.wikipedia.org/wiki/胡锦涛#中共二十大
 * https://politics.stackexchange.com/questions/76307/how-much-of-hu-jintaos-being-escorted-out-was-seen-by-chinese-at-home-was-it-l
 * https://www.theguardian.com/world/2022/oct/25/hu-jintao-argued-about-official-papers-before-being-escorted-out-of-congress
-* https://cn.nytimes.com/china/20221023/hu-jintao-china-congress/ contains one of the best stills, composed like a fine Renaissance painting, maybe we'll just use that one as well
 
 Possibly part of <<xi-abolishes-term-limits-2018-03>>.
 
-.https://www.youtube.com/watch?v=ZBG2bD-TE9g (https://github.com/cirosantilli/china-dictatorship/issues/909[GitHub reupload]) <<hu-jintao>> gets "the boot". To his left: Li Zhanshu, hopelessly trying to help the old man, then <<wang-huning>>, who is left open mouthed and trying his best not to smirk, he's got quite a spirit. To his right <<xi-jinping>>, Li Keqiang, who is shifting in his seat, then Li Xi.
+.Still from the <<hu-jintao-kicked-out-cna,Hu Jintao CNA video>> showing the two assitants carrying Hu out by the arm, while he is passing behind Xi Jinping and Li Keqiang. This still is https://twfineart.myshopify.com/blogs/tw-fineart/18267385-the-triangle-in-visual-art[composed like a fine Renaissance painting], well chosen NY Times! https://twfineart.myshopify.com/blogs/tw-fineart/18267385-the-triangle-in-visual-art[Source].
+image::{china-dictatorship-media-base}/Hu_Jintao_gets_kicked_out_of_the_20th_national_congress.jpg[height=600]
+
+[[hu-jintao-kicked-out-cna]]
+.https://www.youtube.com/watch?v=ZBG2bD-TE9g (https://github.com/cirosantilli/china-dictatorship/issues/909[GitHub reupload]) <<hu-jintao>> gets "the boot". To his left: Li Zhanshu, hopelessly trying to help the old man, then <<wang-huning>>, who is left open mouthed and trying his best not to smirk, he's got quite a spirit. To <<xi-jinping>>'s right, Li Keqiang, who pretends not to see anything, but is https://forum.wordreference.com/threads/shift-in-ones-seat.2172051/[shifting in his seat] and hoping Xi will get it over ASAP, then Li Xi. Published by Channel NewsAsia (CNA), a Singaporean news channel.
 video::ZBG2bD-TE9g[youtube,height=400,width=600,start=57]
 
 [[bo-xilai]]
@@ -11876,6 +11901,9 @@ Jiang is often compared to a toad in a meme what is referred to as toad worship 
 * https://zh.wikipedia.org/wiki/膜蛤文化
 
 Jiang has an amazing array of meme-ready funny expressions.
+
+* hugging Yeltsin: https://spectrumnews1.com/wi/madison/ap-top-news/2022/11/30/former-president-jiang-zemin-who-guided-chinas-rise-dies
+* Cowboy hat: https://www.bangkokpost.com/world/2449907/former-china-leader-jiang-zemin-dead-state-media
 
 .Comparison between Jiang Zemin and a 72-feet-tall inflatable toad in a Beijing park seen in 2014 made the rounds on <<weibo>> and led to some <<censorship,censorship>>. https://edition.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html[Source].
 image::{china-dictatorship-media-base}/Jiang_Zemin_frog.jpg[height=400]
@@ -11960,7 +11988,7 @@ ____
 .https://www.youtube.com/watch?v=B1jfOyB2Osk <<rfa>> interview with <<wei-jingsheng>> (2018)
 video::B1jfOyB2Osk[youtube,height=400,width=600]
 
-.A young <<wei-jingsheng>> side by side with an image of the <<xidan-democracy-wall>>. Jinsheng image source: <<the-gate-of-heavenly-peace-1995>> 19:09. At https://twitter.com/WEI_JINGSHENG/status/1521873937851990017 Jingsheng mentions that this image is from Qinhai <<laogai>> in 1985. The original photo was in Jingsheng's sister's possession, there are apparently no known uploads of it. http://mjlsh.usc.cuhk.edu.hk/medias/contents/3997/01.jpg[Xidan Wall image source].
+.A young <<wei-jingsheng>> side by side with an image of the <<xidan-democracy-wall>>. Jinsheng image source: <<the-gate-of-heavenly-peace-1995>> 19:09. At https://twitter.com/WEI_JINGSHENG/status/1521873937851990017 Jingsheng mentions that this image is from Qinhai <<laogai>> in 1985. The original photo was in Jingsheng's sister's possession, there are apparently no known uploads of it. http://mjlsh.usc.cuhk.edu.hk/medias/contents/3997/01.jpg[Xidan Wall image source]. He actually followed Ciro on Twitter some time after this interactiono. What a legend! https://archive.ph/wip/se0uw
 image::{china-dictatorship-media-base}/Wei_Jingsheng.jpg[height=400]
 
 [[the-fifth-modernization]]
@@ -13165,7 +13193,7 @@ image::{china-dictatorship-media-base}/Xu_Xiaodong_taichi.gif[height=400]
 video::0XwXaCbfIGw[youtube,height=400,width=600]
 
 [[programthink]]
-==== Programthink (编程随想)
+==== Programthink (编程随想, 马勇康)
 
 * https://zh.wikipedia.org/wiki/编程随想的博客 (there is no English page as of January 2020)
 
@@ -13173,9 +13201,14 @@ Very popular Chinese language anonymous blogger that publishes software programm
 
 He was likely arrested in 2021 according to an anonymous report to <<rfa>>, consistent with an abnormally long lack of posts:
 
-* https://www.rfa.org/cantonese/news/arrest-06142021121609.html original <<rfa>> report
+* https://chinadigitaltimes.net/chinese/667881.html[]. Contains a half censored ID photo. The last name is fully visible "马", and given name could be "勇康", "马勇康".
+** https://www.rfa.org/cantonese/news/arrest-06142021121609.html original <<rfa>> report
 ** https://www.rfa.org/english/news/china/blogger-06152021111534.html official translation of report
 * https://chinadigitaltimes.net/2021/06/translation-program-think-notorious-anonymous-chinese-blogger-feared-detained/ English report on <<china-digital-times>>
+
+https://baijiahao.baidu.com/s?id=1731886110528251526 is one of the rare Chinese sources possibly about him.
+
+https://twitter.com/evanli2020/status/1412305263248384000 speculates on how he was arrested.
 
 Some people started wishing he will come back on comments: https://github.com/programthink/books/issues/96[], <<ciro-santilli>> left his at: https://github.com/programthink/books/issues/99[].
 
@@ -14293,7 +14326,7 @@ Forced to shutdown 2021-06: https://www.theguardian.com/world/2021/jun/23/hong-k
 * https://www.youtube.com/watch?v=sf-qyxEIuHI Hong Kong billionaire's last interview as a free man by BBC News (2021)
 
 [[hkfp]]
-==== Hong Kong Free Press
+==== Hong Kong Free Press (香港自由新聞)
 
 * https://en.wikipedia.org/wiki/Hong_Kong_Free_Press
 * https://zh.wikipedia.org/wiki/香港自由新聞
@@ -17559,6 +17592,9 @@ Cantonese version used in <<hong-kong-anti-extradition-bill-protests-2019,Hong K
 
 A <<github>> reupload with <<hong-kong>> background images: https://github.com/cirosantilli/china-dictatorship/issues/507
 
+Other instances:
+* https://twitter.com/bys8r7kv57/status/1598298393566380032 during <<white-paper>> in Sichuan
+
 .https://www.youtube.com/watch?v=ojoC-Kbzpo8 English version taken from a scene of the link:++https://en.wikipedia.org/wiki/Les_Misérables_(2012_film)++[Les Misérables (2012)] film.
 video::ojoC-Kbzpo8[youtube,height=400,width=600]
 
@@ -17616,6 +17652,11 @@ Other good lists:
 === The ten ancient famous songs (中国古典十大名曲)
 
 https://baike.baidu.com/item/中国古典十大名曲/105343
+
+This is a good place to start your journey.
+
+.https://www.youtube.com/watch?v=WbCjceRPXyw The Ten Most Famous Melodies in Ancient China. A single video with a collage of all ten songs.
+video::qX6c96KJznE[youtube,height=400,width=600]
 
 [[high-mountain-and-running-river]]
 ==== High Mountain and Running River (高山流水)
