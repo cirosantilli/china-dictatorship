@@ -15720,7 +15720,9 @@ See also:
 * https://github.com/gfwlist/gfwlist/issues/1141 "Add categories tags to each entry"
 
 [[censorship-circumvention]]
-===== Censorship circumvention (翻墙)
+===== Censorship circumvention (翻墙, 科学上网)
+
+TODO origin of the <<slang,slang>> 科学上网 (Scientific Internet access) term?
 
 Lists:
 
@@ -15735,6 +15737,8 @@ Lists:
 * https://github.com/yinghuocho/firefly-proxy "A proxy software to help circumventing the Great Firewall."
 * https://www.bypasscensorship.org
 * https://github.com/awesome-doge/breaking-gfw-book
+* https://github.com/xiaoming2028/FreePAC
+** mentioned at https://github.com/cirosantilli/china-dictatorship/issues/926
 
 It is interesting to note how <<falun-gong>> is a good source of censorship-circumvention material, see e.g.: <<github-gov-takedowns>>.
 
@@ -17627,29 +17631,13 @@ video::dAxDKhH1iU8[youtube,height=400,width=600]
 video::It3Ny7IY7jA[youtube,height=400,width=600]
 
 [[music]]
-== The best Chinese traditional instrumental music albums (中国传统器乐音乐)
+== Chinese Traditional Music (中国传统器乐音乐)
 
 Much like <<restaurants,real Chinese food>>, your mind will be blown.
 
 The best approach is to start with the largest multi-artist anthologies available to get a general overview of what is there.
 
-Then, you can start Googling by instrument. The main four instruments are undoubtedly:
-
-* https://en.wikipedia.org/wiki/Guqin[Guqin]
-* https://en.wikipedia.org/wiki/Pipa[Pipa]
-** <<white-snow-in-sunny-spring>>
-* https://en.wikipedia.org/wiki/Guzheng[Guzheng]
-** <<high-mountain-and-running-river>>
-** <<ambush-from-ten-sides>>
-* https://en.wikipedia.org/wiki/Erhu[Erhu]
-** <<suwu>> hearding sheep (苏武牧羊) by Erhu virtuosa Song Fei (https://zh.wikipedia.org/wiki/宋飛[宋飛]): https://www.youtube.com/watch?v=uakOkv341P8
-
-but there is also amazing content on others including:
-
-* https://en.wikipedia.org/wiki/Suona[Suona]. Sample: https://www.youtube.com/watch?v=ekqyC1CyfuI
-* https://en.wikipedia.org/wiki/Xiao_(flute)[Xiao flute]
-
-and there is of course the infinite Wikipedia instrument list: https://en.wikipedia.org/wiki/List_of_Chinese_musical_instruments
+Then, you can start Googling by instrument: <<chinese-traditional-musical-instrument>>
 
 Quality indicators:
 
@@ -17670,6 +17658,39 @@ Other good lists:
 
 * https://www.quora.com/What-are-some-good-Chinese-classical-instrumental-album
 
+[[chinese-traditional-musical-instrument]]
+=== Chinese traditional musical instrument (中国传统音乐乐器)
+
+The main four instruments are undoubtedly:
+
+* https://en.wikipedia.org/wiki/Guqin[Guqin]
+* <<pipa>>
+* https://en.wikipedia.org/wiki/Guzheng[Guzheng]
+** <<high-mountain-and-running-river>>
+** <<ambush-from-ten-sides>>
+* https://en.wikipedia.org/wiki/Erhu[Erhu]
+** <<suwu>> hearding sheep (苏武牧羊) by Erhu virtuosa Song Fei (https://zh.wikipedia.org/wiki/宋飛[宋飛]): https://www.youtube.com/watch?v=uakOkv341P8
+
+but there is also amazing content on others including:
+
+* https://en.wikipedia.org/wiki/Suona[Suona]. Sample: https://www.youtube.com/watch?v=ekqyC1CyfuI
+* https://en.wikipedia.org/wiki/Xiao_(flute)[Xiao flute]
+
+and there is of course the infinite Wikipedia instrument list: https://en.wikipedia.org/wiki/List_of_Chinese_musical_instruments
+
+[[pipa]]
+==== Pipa (琵琶)
+
+* https://en.wikipedia.org/wiki/Pipa
+* https://zh.wikipedia.org/wiki/琵琶_(中國)
+
+Some top songs:
+
+* <<white-snow-in-sunny-spring>>
+
+https://www.youtube.com/watch?v=TphoOIY458Q Dance of the Yi People played by Liu Dehai. TODO Chinese.
+video::TphoOIY458Q[youtube,height=400,width=600]
+
 [[the-ten-ancient-famous-songs]]
 === The ten ancient famous songs (中国古典十大名曲)
 
@@ -17688,6 +17709,11 @@ video::WbCjceRPXyw[youtube,height=400,width=600]
 
 [[white-snow-in-sunny-spring]]
 ==== White snow in sunny spring (阳春白雪)
+
+God this song.
+
+.https://www.youtube.com/watch?v=8Ho_jNv8fUo White snow in sunny spring played by Liu Dehai
+video::8Ho_jNv8fUo[youtube,height=400,width=600]
 
 .https://www.youtube.com/watch?v=1Z-NLqbb8xA White snow in sunny spring for Pipa performed by Wu Man in 2020 at The Kennedy Center
 video::1Z-NLqbb8xA[youtube,height=400,width=600]
