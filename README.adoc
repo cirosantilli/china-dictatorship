@@ -760,12 +760,14 @@ so it must be about him.
 
 The manifesto is divided into 23 numbered headers which appear to be independently published texts later collected. It is signed by 郝雪森 (Hao Xuesen) 2016-09-10. One of the sections gives the email: haoxuesen@gmx.com[].
 
-Related:
+==== GitHub search pollution reports
 
+* 2022-12-13 https://github.com/orgs/community/discussions/41475 "Report Abuse REPO" by https://github.com/dugulingping
+* 2022-08-26 https://github.com/orgs/community/discussions/30936 "github search provide strange result" by https://github.com/pmakarenko "github search provide strange result"
+* 2022-06-18 https://github.com/github-community/community/discussions/18862 by https://github.com/LyLme
+* 2022-04-25 https://github.com/github/feedback/discussions/15534 "Report spam" by https://github.com/ryuujo1573[].
 * 2022-03-14 https://91ai.net/thread-983734-1-1.html 真是遇了狗了搜播放器 搜到个狗 One of the comments suggests that the sponsors are a considerable ammount. Poor newbie, Ciro's sponsors are 20 dollars/month as of writing in 2022. Related: <<ccp-apologists>>.
-* https://github.com/github/feedback/discussions/12800 Polluted search results by ThebestkillerTBK
-* https://github.com/github-community/community/discussions/18862 by https://github.com/LyLme
-* https://github.com/orgs/community/discussions/30936 by https://github.com/pmakarenko "github search provide strange result"
+* 2022-03-14 https://github.com/community/community/discussions/12800[], previously: https://github.com/github/feedback/discussions/12800 "Polluted search results" by ThebestkillerTBK
 
 === Bot + issue mention attack
 
@@ -1693,7 +1695,7 @@ video::DRmHOSnehTk[youtube,height=400,width=600]
 [[the-united-states-has-recently-started-several-wars-and-killed-millions]]
 ===== The United States has recently started several wars and killed millions! (美国最近发动了几场战争，造成数百万人死亡！)
 
-Not even democracies can fully protect people from other countries, because they don't vote. Yes, congratulations, <<western-democracies-are-not-perfect>>.
+Not even democracies can fully protect people from other countries, because they don't vote. Yes, congratulations, <<democracy-is-not-perfect>>.
 
 But if the USA were a <<dictatorship,dictatorship like China>> it would kill way more, because it would censor every report against the war internally to its own people, and the wars would just go on like in <<nineteen-eighty-four-war-is-peace>>.
 
@@ -2074,13 +2076,13 @@ But if you are Chinese, also consider that you have been brainwashed by the comm
 
 See also:
 
-* <<western-democracies-are-not-perfect>>.
+* <<democracy-is-not-perfect>>.
 * <<ad-hominem>>
 
 [[evil-west]]
 ==== The CCP exaggerates the threat of the West to keep in power (中共夸大了西方要继续掌权的威胁)
 
-First, obviously, <<western-democracies-are-not-perfect>>.
+First, obviously, <<democracy-is-not-perfect>>.
 
 However, the CCP greatly exaggerates how evil the West is, because making your people constantly afraid is a classic strategy used by dictators to stay in power.
 
@@ -2185,7 +2187,7 @@ That being said, <<ciro-santilli>> takes the agenda of information sources very 
 
 E.g. he tries to clearly classify <<biased-media,Communist Party, Falun Gong, and Western government-linked information sources>>.
 
-If we had more <<western-democracies-are-not-perfect>> content, then maybe this repository would be considered a more reputable source by Chinese people.
+If we had more <<democracy-is-not-perfect>> content, then maybe this repository would be considered a more reputable source by Chinese people.
 
 However, there are a few practical problems to that:
 
@@ -2495,7 +2497,7 @@ video::pc6DP1jNEec[youtube,height=400,width=600,start=2086]
 
 It is amusing to see Soviet series criticizing dictatorships, given that the Soviet Union was itself a major dictatorship!
 
-.https://www.youtube.com/watch?v=4xoM6-1SWl4&t=191 https://en.wikipedia.org/wiki/The_Living_Dead_(TV_series)[The Living Dead] Episode 1: On the Desperate Edge of Now by Adam Curtis (1995) describes how the <<nazi,Nazis>>, disilusioned by both <<western-democracies-are-not-perfect,democracy>> and communism, built Nationalism by creating a mythical past. In Nationalism, the individuals would <<flg-cult,surrenders themselves to the State>>.
+.https://www.youtube.com/watch?v=4xoM6-1SWl4&t=191 https://en.wikipedia.org/wiki/The_Living_Dead_(TV_series)[The Living Dead] Episode 1: On the Desperate Edge of Now by Adam Curtis (1995) describes how the <<nazi,Nazis>>, disilusioned by both <<democracy-is-not-perfect,democracy>> and communism, built Nationalism by creating a mythical past. In Nationalism, the individuals would <<flg-cult,surrenders themselves to the State>>.
 video::4xoM6-1SWl4[youtube,height=400,width=600,start=191]
 
 [[most-chinese-people-like-their-dictatorship]]
@@ -2735,10 +2737,17 @@ See also:
 
 * <<russia>>
 * <<thailand>>
-* <<western-democracies-are-not-perfect>>
+* <<democracy-is-not-perfect>>
 
 [[western-democracies-are-not-perfect]]
 ==== Western democracies are not perfect (西方的民主有很多缺点)
+
+Moved to: <<democracy-is-not-perfect>>.
+
+[[democracy-is-not-perfect]]
+==== Western democracies are not perfect (西方的民主有很多缺点)
+
+Oh, no. You have discovered our secret!!!
 
 That is definitely true.
 
@@ -2844,15 +2853,15 @@ image::{china-dictatorship-media-base}/Guantanamo_bay_protest_London_2008.jpg[he
 .French political cartoon from 1898 by https://en.wikipedia.org/wiki/Henri_Meyer[Henri Meyer] showing leaders of Western powers, Russia and Japan splitting up China between them. The CCP would arguably <<not-chinese,not have raised to power if not due to Japanese interference>>. Maybe the West deserves the <<nazi,Nazi>> CCP they helped create, much like post World War I treaties helped create Nazi Germany. Colonialism was horrendous. As a Brazillian, <<ciro-santilli>> knows this all too well. https://commons.wikimedia.org/wiki/File:China_imperialism_cartoon.jpg[Source].
 image::{china-dictatorship-media-base}/China_imperialism_cartoon.jpg[height=500]
 
-++++
-<span id="the-west-is-racist-against-black-people">
-++++
-
 [[two-wrongs]]
 ===== Two wrongs don't make a right (积非成是)
 
 * https://en.wikipedia.org/wiki/Two_wrongs_don%27t_make_a_right
 * https://zh.wikipedia.org/wiki/積非成是
+
+++++
+<span id="the-west-is-racist-against-black-people">
+++++
 
 [[racist-west]]
 ===== The West is racist against black people (西方人对黑人有种族主义)
@@ -2981,7 +2990,7 @@ image::{china-dictatorship-media-base}/We_don_t_hire_blacks_by_Aaron_DeWitt_2020
 [[western-democracies-have-invaded-other-countries-and-crushed-separatism]]
 ===== Western democracies have invaded other countries and crushed separatism (西方民主国家侵略别国粉碎分裂主义)
 
-Yes, <<western-democracies-are-not-perfect,Western democracies are not perfect>>.
+Yes, <<democracy-is-not-perfect,Western democracies are not perfect>>.
 
 What matters is that citizens can disagree with those actions, publicly say it, vote accordingly, and not go to jail, so that policy will be changed if the majority so wants.
 
@@ -5839,8 +5848,8 @@ admin.github.com hits to GitHub repository:
 
 Bibliography:
 
-* https://github.com/github/feedback/discussions
-** 2022-04 https://github.com/github/feedback/discussions/15534 Report spam by https://github.com/ryuujo1573[].
+* https://github.com/community/community/discussions[], previously: https://github.com/github/feedback/discussions
+** <<github-search-pollution-reports>>
 ** 2022 https://github.com/github/feedback/discussions/12641 Please shut down this repository of malicious smears/ethnic division/nothing to do with open source technology/misperception among teenagers by https://github.com/Yorksh1re[]. Deleted: https://web.archive.org/web/20220310124004/https://github.com/github/feedback/discussions/12641
 * https://www.zhihu.com/question/388634161 如果举报github上的这种情况？ (How to report this type of circunstance on GitHub.) Question links to <<evil-man>>.
 +
@@ -12096,7 +12105,7 @@ Even <<kknews>> confirms: https://kknews.cc/zh-my/news/ql9k4ag.html
 * https://en.wikipedia.org/wiki/Great_Leap_Forward
 * https://zh.wikipedia.org/wiki/大跃进
 
-.A high tower of <<winter-melon,winter melons>> "<<winter-melon,冬瓜>>上高楼" propaganda poster for the Great Leap Forward by https://chineseposters.net/artists/jinmeisheng.php[Jin Meisheng] published in 1959. <<western-democracies-are-not-perfect,Even in democracies>>, politicians promise the fat gourds. But when there is <<censorship,no free media to control their>> lies, things can get really out of hand. http://www.iisg.nl/exhibitions/chairman/chn11.php[Source].
+.A high tower of <<winter-melon,winter melons>> "<<winter-melon,冬瓜>>上高楼" propaganda poster for the Great Leap Forward by https://chineseposters.net/artists/jinmeisheng.php[Jin Meisheng] published in 1959. <<democracy-is-not-perfect,Even in democracies>>, politicians promise the fat gourds. But when there is <<censorship,no free media to control their>> lies, things can get really out of hand. http://www.iisg.nl/exhibitions/chairman/chn11.php[Source].
 image::{china-dictatorship-media-base}/Winter_gourd.jpg[height=600]
 
 .Communist Children Catch Pokemon: the true meaning of https://en.wikipedia.org/wiki/Soviet_Union[CCCP]. Edited from the original poster with a <<little-red-book>> instead of Pokeball and no "CCCP" shown at https://www.pinterest.fr/pin/360428776411504491/[]. By Volaran Cadires. https://www.pinterest.fr/pin/405253666454984678/[Source].
@@ -16000,7 +16009,7 @@ ____
 
 But of course, the <<ccp-cult,CCP is a cult>> (and <<democracy-is-a-religion,democracy, a religion>>), and therefore <<preconceived,any discussion is also pointless>> in general.
 
-To a large extent, wumao's goals are to dilute useful conversation with shit, normally <<evil-west>> and <<western-democracies-are-not-perfect>>.
+To a large extent, wumao's goals are to dilute useful conversation with shit, normally <<evil-west>> and <<democracy-is-not-perfect>>.
 
 This leads to endless idiotic conversions of type:
 
@@ -16485,7 +16494,9 @@ And guess which idiotic Western websites requires real usernames and no privacy?
 [[anonymous-account-ban]]
 ===== Anonymous accounts ban (2017)
 
-It is interesting to note that anonymous accounts are in theory banned, almost all Chinese people still have anonymous accounts, even <<little-pink,little pinks>>, brecause everyone is always afraid of saying the wrong thing, or of the payback of when the dictatorship falls.
+It is interesting to note that anonymous accounts are in theory banned, almost all Chinese people still have anonymous accounts, even <<little-pink,little pinks>>, because everyone is always afraid of mistakenly saying the wrong thing, or of the payback of when the dictatorship falls.
+
+It is also interesting that many of such anonymous accounts use stills of television series actors as profile pictures, and often beautiful young women. Anime characters are also very popular.
 
 * https://www.rfa.org/english/news/china/ban-08282017112633.html
 * https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/
@@ -20926,7 +20937,7 @@ Now let's criticize the Iranian dictatorships that this possibly created.
 * https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat
 * https://zh.wikipedia.org/wiki/1953年伊朗政變
 
-Yes, this was a <<western-democracies-are-not-perfect,a major fuck up of the West>>.
+Yes, this was a <<democracy-is-not-perfect,a major fuck up of the West>>.
 
 [[china-iran-relations]]
 ==== China-Iran relations (中国－伊朗关系)
