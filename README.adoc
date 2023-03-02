@@ -541,12 +541,20 @@ Canonical source code of: https://cirosantilli.com/china-dictatorship/
 ==== Who is behind cirosantilli/china-dictatorship? 谁是 cirosantilli/china-dictatorship 的幕后黑手？
 
 Basically <<ciro-santilli>> alone (https://knowyourmeme.com/memes/lets-see-who-this-really-is[surprise!]), with very minor direct contributions from very awesome people due to:
+
 * <<chilling-effect>>
 * <<many-people-in-the-west-don-t-fully-appreciate-the-danger-of-china>>
+
 and major contributions from original meme makers all over the world which Ciro merely curates: <<anti-ccp-info-sources>>.
+
+See also:
+
+* https://github.com/cirosantilli/china-dictatorship/graphs/contributors
+* https://github.com/cirosantilli/china-dictatorship/issues?q=is%3Aissue+is%3Aopen+label%3Aanti-ccp
 
 Related:
 * <<better-to-do>>
+* <<asymmetric-information-warfare>>
 
 [[terminus2049]]
 === Terminus2049 (端点星计划, 2049bbs)
