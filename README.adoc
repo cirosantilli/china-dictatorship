@@ -27,6 +27,7 @@ https://raw.githack.com/cirosantilli/china-dictatorship/gh-pages/index.html[raw.
 https://cdn.statically.io/gh/cirosantilli/china-dictatorship/gh-pages/index.html[cdn.statically.io],
 https://xenodochial-heisenberg-0fc0f1.netlify.app/[cirosantilli.netlify.app],
 https://china-dictatorship.onrender.com/[china-dictatorship.onrender.com]
+https://gitlab.binets.fr/ciro.duran-santilli/china-dictatorship[École Polytechnique],
 |
 下载 HTML download:
 https://raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html[raw.githubusercontent.com],
@@ -17148,8 +17149,14 @@ image::{china-dictatorship-media-base}/Huawei_5G_Trojan.jpg[height=400]
 .<<rebel-pepper>> 2019-06-22 cartoon depicting Germany, Hungary and the United Kingdom as https://en.wikipedia.org/wiki/Gollum[Gollum]s from https://en.wikipedia.org/wiki/The_Lord_of_the_Rings[The Lord of The Rings] and China as https://en.wikipedia.org/wiki/Sauron[Sauron] offering a ring which reads "5G to rule them" and "Huawei" to the Gollums who are eager to obtain it. This is a reference to The Lord of the Rings backstory in which Sauron bribed and controlled the rulers of the world by giving them https://en.wikipedia.org/wiki/Rings_of_Power[rings of power]. Now that Ciro thinks about it, maybe this was actually Tolkien making a reference to the political situation of his time. https://twitter.com/RadioFreeAsia/status/1100504518142365698[Source].
 image::{china-dictatorship-media-base}/Huawei_5G_my_precious.jpg[height=400]
 
+[[bytedance]]
+=== ByteDance (字节跳动, Douyin owner)
+
+* https://en.wikipedia.org/wiki/ByteDance
+* https://zh.wikipedia.org/wiki/字节跳动
+
 [[tiktok]]
-=== TikTok (Douyin, 抖音)
+==== TikTok (Douyin, 抖音)
 
 * https://en.wikipedia.org/wiki/TikTok
 * https://zh.wikipedia.org/wiki/抖音
@@ -17174,6 +17181,12 @@ Reports:
 ** https://twitter.com/JoshuaDummer/status/1280882119913291776/photo/1
 
 Douyin does not seem to have a web interface: https://www.zhihu.com/question/269102675 "有没有抖音网页版或者抖音电脑版？"
+
+[[toutiao]]
+==== Toutiao (今日头条, news platform by ByteDance)
+
+* https://en.wikipedia.org/wiki/Toutiao
+* https://zh.wikipedia.org/wiki/今日头条
 
 [[baidu]]
 === Baidu (百度, Chinese Google)
@@ -17478,6 +17491,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2023-03: 21 unique visits from <<toutiao>> nativeapp.toutiao.com to <<github-com-cirosantilli-china-dictatorship>>. Immediately censored no doubt.
 * 2022-12-06 comment on https://www.reddit.com/r/real_China_irl/comments/ze5wcd/github也在墙外了/ has GitHub been blocked by the <<gfw>>
 * 2022-10-09 https://forums.hardwarezone.com.sg/threads/will-u-date-a-girl-who-lying-flat.6820106/#post-144205474
 * 2022-08-01 https://archive.ph/wip/W9Wip https://boards.4channel.org/g/thread/87957634/this-is-it-the-culmination-of-their-grand-plan-to#p87957634 
@@ -17494,7 +17508,7 @@ For lower profile links, see: https://github.com/cirosantilli/china-dictatorship
 * 2022-01-15 https://web.archive.org/web/20220120082147/https://wirechan.org/b/ | https://archive.ph/BkjAj in an independent and not very popular Chan, the post basically quotes https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/288497#288497[]
 +
 ____
-mood: being so autistic that you single-handedly managed to get StackOverflow blocked in China by posting Xi Jinping Winnie the Pooh memes
+mood: being so autistic that you single-handedly managed to get StackOverflow blocked in China by posting <<winnie-the-pooh,Xi Jinping Winnie the Pooh memes>>
 ____
 +
 ____
