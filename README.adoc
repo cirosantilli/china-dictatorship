@@ -4042,15 +4042,9 @@ This is what <<dictatorship,dictatorships>> want you to believe.
 [[chinese-traditional-painting]]
 ===== Chinese traditional painting (中国传统绘画)
 
+Moved to: https://cirosantilli.com/chinese-traditional-painting
+
 See also: <<museum>>.
-
-Some free online collections:
-
-* Smithsonian collection at a search for Paintings before 1800. Drill down further by "topic" e.g. "Mountains" or "scholar"
-** https://collections.si.edu/search/results.htm?q=&fq=online_visual_material%3Atrue&fq=online_media_type%3A%22Images%22&fq=culture%3A%22Chinese%22&fq=object_type%3A%22Paintings%22&view=list&date.slider=300s%2C1800s
-
-."Plum, orchid, bamboo, chrysanthemum" (梅兰竹菊) painting by https://en.wikipedia.org/wiki/Zheng_Xie[Zheng Xie (郑燮)] representing the https://en.wikipedia.org/wiki/Four_Gentlemen[four gentlemen] (https://zh.wikipedia.org/wiki/花中四君子[花中四君子]). Ciro is a big fan of https://en.wikipedia.org/wiki/Bird-and-flower_painting[traditional Chinese bird-and-flower painting (花鸟画)] like this. https://www.pinterest.co.uk/pin/315744623848820315/[Source].
-image::{china-dictatorship-media-base}/Four_gentlemen.jpg[height=600]
 
 [[why-does-ciro-santilli-love-china-so-much]]
 ===== Why does Ciro Santilli love China so much? (为什么三西猴喜欢中国那么多？)
@@ -5625,6 +5619,8 @@ Related spam meta posts:
 
 * https://meta.stackexchange.com/questions/58032/what-are-the-spam-and-rude-or-abusive-offensive-flags-and-how-do-they-wor
 * https://meta.stackoverflow.com/questions/260638/what-is-the-exact-definition-of-spam-for-stack-overflow
+
+Let's see how: https://askubuntu.com/questions/380847/is-it-possible-to-translate-words-via-terminal/1309774 will do, which uses the <<yue-xin>> letter as a translation placeholder.
 
 [[the-world-is-perfect]]
 ."The world is perfect" by Ciro Santilli, CC By-SA 4.0 (2021). After Graphics Stack Exchange forbade the usage of political images, <<ciro-santilli>> created this politically correct image to serve as a censorship placeholder, and reuploaded the answer as allowed by the moderators: https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[]. (https://web.archive.org/web/20210501090745/https://graphicdesign.stackexchange.com/questions/83446/gimp-how-to-combine-two-images-side-by-side/147400#147400[].[archive]) CC BY-SA 4.0, heart attribution: https://commons.wikimedia.org/wiki/File:Corazón.svg[]. <<os-problemas-da-imprensa-livre,Newspaper censorship cake recipe posts during the Brazilian military dictatorship>> and <<what-is-more-obscene-sex-or-war,"What is more obscene: sex or war?">> and <<please-enjoy-this-politically-correct-cartoon,Please enjoy this politically correct cartoon>> come strongly to mind.
@@ -8282,6 +8278,11 @@ image::{china-dictatorship-media-base}/Xi_Jinping_thought_halo.jpg[height=400]
 .Side-by-side comparison between devotional pictures of <<xi-jinping>> (taken from the cover of <<xi-jinping-thought>>) and <<li-hongzhi>>. The stylistic resemblance is striking.
 image::{china-dictatorship-media-base}/Xi_Jinping_vs_Li_Hongzhi_prophet_pictures.jpg[height=400]
 
+[[anti-falun-gong-propaganda]]
+==== Anti-Falun Gong propaganda (反法轮功宣传)
+
+* https://twitter.com/AmyMoor63373662 Twitter account (bot?) with some really bad Anti-Falun Gong propaganda cartoons
+
 [[orange-papers]]
 ===== Orange Papers (橙色文件)
 
@@ -8366,7 +8367,7 @@ https://web.archive.org/web/20160205090248/https://www.orange-papers.org/orange-
 Falun Gong's slogan is the quite direct to the point:
 
 ____
-法轮大法好
+法轮大法好 +
 Falun Gong is good
 ____
 
@@ -15145,8 +15146,10 @@ The seven top people of the party as of 2020, ranked in a specific order.
 
 In 2018 they had the 13th congress. 2980 were elected for the next 5 years for it, and then in theory they vote to choose the <<president-of-the-people-s-republic-of-china>>.
 
+ttps://www.rfi.fr/cn/中国/20130315-1票反对习近平做国家主席网民竞猜是谁
+
 [[xi-jinping-2970]]
-.Vote display board during the 13th <<national-people-s-congress>> (2018) showing how <<xi-jinping>> was elected with 2970 votes for, 0 abstentions and 0 votes against. These elections can't possibly be rigged, the Chinese people are in perfect harmony! This image was used as the "democracy" image in the <<core-socialist-values-by-1v9ex,Core Socialist Values montage by 1v9ex>>. http://m.cyol.com/content/2018-03/21/content_17039285.htm[Source]. Again in 2023 with 2952 votes: https://www.bloomberg.com/news/articles/2023-03-15/china-censors-talk-of-xi-s-unanimous-presidential-confirmation[].
+.Montage of the vote display board during the 12th (2013), 13th (2018) and 14th (2023) <<national-people-s-congress>> showing how <<xi-jinping>> was elected with. 2013: 2955 for, 1 against, 3 abstentions. 2018: 2970 votes for, 0 abstentions and 0 votes against. 2023: 2952 votes for, 0 abstantions, 0 against. These elections can't possibly be rigged, the Chinese people are in perfect harmony! The 2018 image image was used as the "democracy" image in the <<core-socialist-values-by-1v9ex,Core Socialist Values montage by 1v9ex>>. Sources: https://www.rfi.fr/cn/中国/20130315-1票反对习近平做国家主席网民竞猜是谁[2013], http://m.cyol.com/content/2018-03/21/content_17039285.htm[2018], https://www.telegraph.co.uk/world-news/2023/03/10/vladimir-putin-congratulates-dear-friend-xi-jinping-winning/[2023].
 image::{china-dictatorship-media-base}/Xi_Jinping_elected_2970_for_0_against_in_2018.jpg[height=600]
 
 [[president-of-the-people-s-republic-of-china]]
@@ -16015,6 +16018,8 @@ Two days ago the police came to me and wanted me to stop working on this. Today 
 
 I hope one day I'll live in a country where I have freedom to write any code I like without fearing.
 ____
+* https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever
+** cirosantilli.com: https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever/blob/737a5e6ab6390fc0d232d8d17ae5a42b24d232b0/sr_top500_banlist.conf#L2465
 
 TODO vs VPN:
 
@@ -17892,58 +17897,8 @@ Other good lists:
 [[chinese-traditional-musical-instrument]]
 === Chinese traditional musical instrument (中国传统音乐乐器)
 
-The main four instruments are undoubtedly:
-
-* https://en.wikipedia.org/wiki/Guqin[Guqin]
-* <<pipa>>
-* https://en.wikipedia.org/wiki/Guzheng[Guzheng]
-** <<high-mountain-and-running-river>>
-** <<ambush-from-ten-sides>>
-* https://en.wikipedia.org/wiki/Erhu[Erhu]
-** <<suwu>> hearding sheep (苏武牧羊) by Erhu virtuosa Song Fei (https://zh.wikipedia.org/wiki/宋飛[宋飛]): https://www.youtube.com/watch?v=uakOkv341P8
-
-but there is also amazing content on others including:
-
-* https://en.wikipedia.org/wiki/Suona[Suona]. Sample: https://www.youtube.com/watch?v=ekqyC1CyfuI
-* https://en.wikipedia.org/wiki/Xiao_(flute)[Xiao flute]
-
-and there is of course the infinite Wikipedia instrument list: https://en.wikipedia.org/wiki/List_of_Chinese_musical_instruments
-
-[[pipa]]
-==== Pipa (琵琶)
-
-* https://en.wikipedia.org/wiki/Pipa
-* https://zh.wikipedia.org/wiki/琵琶_(中國)
-
-Some top songs:
-
-* <<white-snow-in-sunny-spring>>
-
-https://www.youtube.com/watch?v=TphoOIY458Q Dance of the Yi People played by Liu Dehai. TODO Chinese.
-video::TphoOIY458Q[youtube,height=400,width=600]
-
 [[the-ten-ancient-famous-songs]]
 === The ten ancient famous songs (中国古典十大名曲)
-
-[[high-mountain-and-running-river]]
-==== High Mountain and Running River (高山流水)
-
-.https://www.youtube.com/watch?v=WbCjceRPXyw White snow in sunny spring for Guzheng performed by Xiang Sih-Hua (項斯華) in 2000
-video::WbCjceRPXyw[youtube,height=400,width=600]
-
-[[white-snow-in-sunny-spring]]
-==== White snow in sunny spring (阳春白雪)
-
-God this song.
-
-.https://www.youtube.com/watch?v=8Ho_jNv8fUo White snow in sunny spring played by Liu Dehai
-video::8Ho_jNv8fUo[youtube,height=400,width=600]
-
-.https://www.youtube.com/watch?v=1Z-NLqbb8xA White snow in sunny spring for Pipa performed by Wu Man in 2020 at The Kennedy Center
-video::1Z-NLqbb8xA[youtube,height=400,width=600]
-
-[[ambush-from-ten-sides]]
-==== Ambush from ten sides (十面埋伏)
 
 [[music-free]]
 === Free music (免费音乐)
@@ -17958,9 +17913,6 @@ Here are the few best I've seen. Not enough to replace the non-free, but pretty 
 *** https://www.youtube.com/user/yukinachang/videos "SoundofChina Guzheng" channel with a lot of guzheng content!
 ** Good YouTube lists
 *** https://www.youtube.com/watch?v=qc0CzuA35y8&list=PLXPo1Bj1TYy73e8s99pyKfFD7iHqwigfN "Chinese" by "Ungern Sternberg"
-* http://www.silkqin.com/06hear.htm John Thompson's Guqin website. Holy crap amazing list of Guqin pieces by the guy for MP3 download!
-** Download all mp3: `wget -r -np -l 1 -A mp3 http://www.silkqin.com/06hear.htm`. Contacted John by email in 2019 telling him to put his stuff on YouTube and offering help.
-** John focuses on playing the tunes in a "historically informed performance", in particular using silk strings rather than metal ones which are used by most modern artists: http://www.silkqin.com/08anal/hip.htm
 * https://www.ibiblio.org/chinese-music/ several loose tracks for direct download. Not sure if legal, but has been up forever. The following sections are pretty good:
 ** https://www.ibiblio.org/chinese-music/html/traditional.html
 ** https://www.ibiblio.org/chinese-music/html/anthology.html#Dream music from the https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(1987_TV_series)link:++https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(1987_TV_series)++["Dream of the Red Chamber" 1987 TV series]. Amazing!!! See also: <<television-series>>.
