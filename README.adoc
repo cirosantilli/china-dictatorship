@@ -13,10 +13,10 @@
 :toclevels: 6
 :toc-title:
 
-https://cirosantilli.com/china-dictatorship[cirosantilli.com (规范链接 canonical)] |
+https://cirosantilli.com/china-dictatorship[cirosantilli.com/china-dictatorship (规范链接 canonical render)] |
 https://github.com/cirosantilli/china-dictatorship[GitHub 项目 project] |
-https://github.com/cirosantilli/china-dictatorhsip-6[Mirror 镜像 2] |
-https://github.com/codin-stuffs/cihna-dictatorshrip-4[Mirror 镜像 3] |
+https://github.com/cirosantilli/china-dictatorhsip-6[GitHub Mirror 镜像 2] |
+https://github.com/codin-stuffs/cihna-dictatorshrip-4[GitHub Mirror 镜像 3] |
 link:index-split[分裂标题版本 split header version] |
 中国镜像 China mirrors:
 https://cirosantilli.gitlab.io/china-dictatorship[cirosantilli.gitlab.io],
@@ -26,8 +26,8 @@ https://gitlab.com/cirosantilli/china-dictatorship/-/blob/master/README.adoc[git
 https://raw.githack.com/cirosantilli/china-dictatorship/gh-pages/index.html[raw.githack.com],
 https://cdn.statically.io/gh/cirosantilli/china-dictatorship/gh-pages/index.html[cdn.statically.io],
 https://xenodochial-heisenberg-0fc0f1.netlify.app/[cirosantilli.netlify.app],
-https://china-dictatorship.onrender.com/[china-dictatorship.onrender.com]
-https://gitlab.binets.fr/ciro.duran-santilli/china-dictatorship[École Polytechnique],
+https://china-dictatorship.onrender.com/[china-dictatorship.onrender.com],
+https://gitlab.binets.fr/ciro.duran-santilli/china-dictatorship[gitlab.binets.fr (École Polytechnique)],
 |
 下载 HTML download:
 https://raw.githubusercontent.com/cirosantilli/china-dictatorship/gh-pages/index.html[raw.githubusercontent.com],
@@ -2282,19 +2282,6 @@ The last emperor was Puyi, so Pu is the last well known mark. But there were oth
 * Heng (wife's father)
 * Qi (wife)
 * Dao (wife's children). At least one thing is decided from this: Ciro's children Chinese names will all be Ai Dao Something.
-
-The family tree that Ciro has reconstructed orally from his mother-in-law is:
-
-* Ciro's wife:
-** Father: Ai Dayi (艾大义) born: 1932 in Shenyang, see also: <<ciro-santilli-s-father-in-law>>
-*** Father: Ai Xikang (艾锡康) So why did he not use Yu?
-**** Father: Ai Pushan (艾溥?), so the Pu character is presumed from the generation name, to be the same generation as Puyi. https://en.wikipedia.org/wiki/Zaitao has a Pushen (溥伸), but he died at 13 years old in 1928, so its not the one.
-**** Younger brother 2: Ai Xiyuan (艾锡?) Professor at https://en.wikipedia.org/wiki/Northeastern_University_(China) Apparently had no Children.
-**** Younger brother 3: Ai Xicong (艾锡?) Graduated in law in Japan in https://en.wikipedia.org/wiki/Waseda_University[Waseda University] Was the top official of the https://en.wikipedia.org/wiki/National_Police_Agency_(Japan) in China when it was occupied by Japan (警察廳长) Passed first by Taiwan.
-**** Younger brother 4: Ai Xiying (艾锡?)
-**** Younger brother 5: Ai Xifu (艾锡?) Together with Ai Xiying, they were went to the Republic of China Military Academy and were high ranking officials in the war against the Japanese in the https://en.wikipedia.org/wiki/Second_Sino-Japanese_War[] (八年抗战). Later was a congressman in Taiwan.
-** Younger sister: Ai Shiping (艾世？)
-** Older brother: Zhao Yingjie. Studied law in Japan also at https://en.wikipedia.org/wiki/Waseda_University[Waseda University].
 
 Many of them have had different names in different places/countries, notably many used the name 肇(Zhao) rather than 艾.
 
@@ -4678,8 +4665,21 @@ The article also contains a good summary section "CIA spy operation in China: Ke
 ====== 2010 dismantling of CIA's network in China (2010 拆除中情局在华网络)
 
 * https://en.wikipedia.org/wiki/CIA_activities_in_China#2010
+* https://www.nytimes.com/2017/05/20/world/asia/china-cia-spies-espionage.html
 
-Around2010-2012 about 20 CIA spies in China were killed. One was shot right in the courtyard of a government building as a message to others.
+More research will be dropped at: https://cirosantilli.com/cia-2010-covert-communication-websites
+
+In September 2022, actual sample website were published by Reuters: https://www.reuters.com/investigates/special-report/usa-spies-iran/[].
+
+A Chinese sample website (currently the only known one): http://web.archive.org/web/20110208113503/http://activegaminginfo.com/[] It is entitled:
+
+____
+活跃游戏
+____
+
+which means something like "lively games".
+
+Around 2010-2012 about 20 CIA spies in China were killed. One was shot right in the courtyard of a government building as a message to others.
 
 After identifying some of the websites, possibly with a double agent, Iran was able to reach the rest through Google searches for similar sites.
 
@@ -4846,6 +4846,14 @@ The leading Chinese clone appear to be MaiMai (脉脉):
 
 Interestingly however, Ciro still received some profile views from Chinese profiles from time to time, he wonders why, do they have a permit of some sort? E.g.:
 
+* 2023-05-09 https://techcrunch.com/2023/05/08/linkedin-layoffs/
++
+____
+LinkedIn is cutting 716 jobs and will begin phasing out its local jobs app in China. In a letter today, LinkedIn CEO Ryan Roslanky said the decision to shutter the standalone China app, called InCareer, was because of “fierce competition and a challenging macroeconomic climate.”
+
+
+InCareer was launched in December 2021, a couple months after LinkedIn announced it was shutting down its main service in China. At that time, it attributed the decision to shutter LinkedIn China to “a significantly more challenging operating environment and greater compliance requirements.”
+____
 * 2021-12-30 someone from 红山区公安分局 from Hongshan Public Security sub-department in Hongshan, Inner Mongolia
 * 2021-09-29 someone from 北京云中融信网络科技有限公司 https://baike.baidu.com/item/北京云中融信网络科技有限公司/17048165[], an instant messaging services company.
 * 2021-09-17 https://en.wikipedia.org/wiki/Weber_Shandwick[Weber Shandwick]
@@ -6592,6 +6600,8 @@ As of 2020, Reddit is <<ciro-santilli>>'s best bet at finding good anti CCP news
 Subs with lots of anti-commie info:
 
 * https://www.reddit.com/r/China is arguably the best as of 2020, see: <<r-china>>
+* https://www.reddit.com/r/memesbannedinchina/
+* https://www.reddit.com/r/ChinaMemes/
 * https://www.reddit.com/r/fucktheccp/ small as of 2020 but promising
 * https://www.reddit.com/r/HongKong had 3x more users than r/china as of 2020 after <<hong-kong-anti-extradition-bill-protests-2019>>.
 ** https://www.reddit.com/r/FragrantHarbour/ another Honk Kong one, TODO vs r/HongKong.
@@ -7032,7 +7042,7 @@ And we especially don't need to do it loudly in the middle of the ongoing <<russ
 Even Biden, which is a democrat just like Pelosi advised against it in public: https://rollcall.com/2022/08/02/pelosi-defies-biden-pokes-china-with-taiwan-visit/ though he coudn't be more explicit due to separation of powers concerns apparently.
 
 [[taiwan-number-one]]
-==== Taiwan #1 (2915)
+==== Taiwan #1 (Taiwan Number One, 2015)
 
 2015 meme started by https://en.wikipedia.org/wiki/Z1_Battle_Royale[H1Z1] streamer AngryPug, in which he repeatedly taunts the Chinese streamer Em0 by pretending to be Taiwanese.
 
@@ -7765,14 +7775,109 @@ Discussion:
 * https://www.youtube.com/watch?v=dEvalUQuClE "Last Hong Kong governor Chris Patten: Gov't defense of extradition bill 'absolute nonsense'", Hong Kong Free Press
 * <<blitzchung>>
 
-Songs:
-
-* Glory to Hong Kong
-** https://en.wikipedia.org/wiki/Glory_to_Hong_Kong
-** https://zh.wikipedia.org/wiki/願榮光歸香港
-
 .https://youtube.com/watch?v=YhN6jipSHFI Hong Kong Yoga - Sammy J S2 (ep31) published by ABC Comedy on 2019-09-19. Very good.
 video::YhN6jipSHFI[youtube,height=400,width=600]
+
+[[glory-to-hong-kong]]
+===== Glory to Hong Kong (願榮光歸香港, 2019)
+
+* https://en.wikipedia.org/wiki/Glory_to_Hong_Kong
+* https://zh.wikipedia.org/wiki/願榮光歸香港
+
+On GitHub: https://github.com/cirosantilli/china-dictatorship/issues/1021
+
+The music itself is just a perfecly boring Western national anthem. <<do-you-hear-the-people-sing>> is infinitely better.
+
+Full takedown July 2023: https://www.theguardian.com/world/2023/jun/15/protest-anthem-glory-to-hong-kong-starts-to-vanish-from-online-sites-as-government-seeks-ban
+
+.Glory to Hong Kong uploaded by Ingen with English and Cantonese double subtitles.
+video::Pe1gTPcWyds[youtube,height=400,width=600]
+
+Lyrics:
+
+____
+何以 這土地 淚再流 +
+何以 令眾人 亦憤恨 +
+昂首 拒默沉 吶喊聲 響透 +
+盼自由 歸於 這裡
+
+何以 這恐懼 抹不走 +
+何以 為信念 從沒退後 +
+何解 血在流 但邁進聲 響透 +
+建自由 光輝 香港
+
+在晚星 墜落 徬徨午夜 +
+迷霧裡 最遠處吹來 號角聲 +
+捍自由 來齊集這裡 來全力抗對 +
+勇氣 智慧 也永不滅
+
+黎明來到 要光復 這香港 +
+同行兒女 為正義 時代革命 +
+祈求 民主與自由 萬世都不朽 +
+我願榮光歸香港
+
+We pledge No more tears on our land +
+In wrath, doubts dispell’d we make our stand +
+Arise! Ye who would not be slaves again: +
+For Hong Kong, may Freedom reign!
+
+Though deep is the dread that lies ahead +
+Yet still, with our faith, on we tread +
+Let blood rage afield! Our voice grows evermore: +
+For Hong Kong, may Glory reign!
+
+Stars may fade, as darkness fills the air +
+Through the mist a solitary trumpet flares: +
+Now, to arms! For Freedom, we fight, with all might we strike! +
+With valour, wisdom both, we stride!'
+
+Break now the dawn, liberate our Hong Kong +
+In common breath: Revolution of our times! +
+May people reign, proud and free, now and evermore +
+Glory be to thee, Hong Kong!
+____
+
+____
+何以 這土地 淚再流 +
+何以 令眾人 亦憤恨 +
+昂首 拒默沉 吶喊聲 響透 +
+盼自由 歸於 這裡
+
+何以 這恐懼 抹不走 +
+何以 為信念 從沒退後 +
+何解 血在流 但邁進聲 響透 +
+建自由 光輝 香港
+
+在晚星 墜落 徬徨午夜 +
+迷霧裡 最遠處吹來 號角聲 +
+捍自由 來齊集這裡 來全力抗對 +
+勇氣 智慧 也永不滅
+
+黎明來到 要光復 這香港 +
+同行兒女 為正義 時代革命 +
+祈求 民主與自由 萬世都不朽 +
+我願榮光歸香港
+
+We pledge No more tears on our land +
+In wrath, doubts dispell’d we make our stand +
+Arise! Ye who would not be slaves again: +
+For Hong Kong, may Freedom reign!
+
+Though deep is the dread that lies ahead +
+Yet still, with our faith, on we tread +
+Let blood rage afield! Our voice grows evermore: +
+For Hong Kong, may Glory reign!
+
+Stars may fade, as darkness fills the air +
+Through the mist a solitary trumpet flares: +
+Now, to arms! For Freedom, we fight, with all might we strike! +
+With valour, wisdom both, we stride!'
+
+Break now the dawn, liberate our Hong Kong +
+In common breath: Revolution of our times! +
+May people reign, proud and free, now and evermore +
+Glory be to thee, Hong Kong!
+____
 
 [[do-not-split]]
 ===== Do Not Split (不割席, 2020)
@@ -10287,6 +10392,7 @@ https://github.com/sikaozhe1997/Xin-Yue is a <<github-repositories-with-censored
 * https://en.wikipedia.org/wiki/Yue_Xin_(activist)[Yue Xin]
 * https://zh.wikipedia.org/wiki/岳昕[岳昕])
 * https://www.nchrd.org/2019/01/yue-xin on <<chinese-human-rights-defenders>>
+* https://github.com/cirosantilli/china-dictatorship/blob/master/岳昕-致北京大学师生和北大外国语学院的一封公开信.md[岳昕-致北京大学师生和北大外国语学院的一封公开信 on GitHub]
 
 about the events described at https://web.archive.org/web/20200104064812/https://www.nytimes.com/2018/04/09/world/asia/china-metoo-gao-yan.html["China's #MeToo: How a 20-Year-Old Rape Case Became a Rallying Cry"] she accuses professor Shen Yang of the Peking University Chinese literature of raping student Gao Yan, ultimately leading to her suicide in 1998:
 
@@ -12566,6 +12672,10 @@ image::{china-dictatorship-media-base}/Tiananmen_old_lady.webp[height=500]
 .A young woman is caught between civilians and Chinese soldiers, who were trying to remove her from an assembly near the Great Hall of the People in Beijing, on 1989-06-03. AP Photo/Jeff Widener. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_girl_strife.jpg[height=400]
 
+[[tiananmen-coke]]
+.Student sharing a coke with <<pla>> soldiers, 1989-06-03. This photo looks excatly like something that would come out of Coca Cola's publicity department, it is so perfect. The 2011 https://en.wikipedia.org/wiki/Share_a_Coke[Share a Coke] campaign fits it perfectly. This 1981 photo is also of interest: https://edition.cnn.com/style/article/liu-heung-shing-coca-cola-snap-mic-intl-hnk/index.html[]. https://www.esquire.com/news-politics/g36621881/tiananmen-square-massacre-photos/?slide=14[Source].
+image::{china-dictatorship-media-base}/Tiananmen_coke.jpg[height=500]
+
 .A dissident student asks masses of sitting soldiers to go back home on 1989-06-03. Great shot composition by AP Photo/Jeff Widener. https://www.theatlantic.com/photo/2014/06/1989-tiananmen-square-protests-photos/100751/[Source].
 image::{china-dictatorship-media-base}/Tiananmen_announce_soldiers.webp[height=500]
 
@@ -13325,8 +13435,8 @@ image::{china-dictatorship-media-base}/Reject_superstition_accept_change.jpg[hei
 .2017 Xu Xiaodong (MMA) Vs. Wei Lei (Tai Chi) summary GIF. https://www.inkstonenews.com/society/chinas-mma-fighter-xu-xiaodong-fight-survival/article/3047417[Source].
 image::{china-dictatorship-media-base}/Xu_Xiaodong_taichi.gif[height=400]
 
-.https://www.youtube.com/watch?v=0XwXaCbfIGw 2017 Xu Xiaodong (MMA) Vs. Wei Lei (Tai Chi) full fight.
-video::0XwXaCbfIGw[youtube,height=400,width=600]
+.https://www.youtube.com/watch?v=VBNX6GsUI1o 2017 Xu Xiaodong (MMA) Vs. Wei Lei (Tai Chi) full fight.
+video::VBNX6GsUI1o[youtube,height=400,width=600]
 
 [[software-engineer-dissidents]]
 ==== Software engineer dissidents (持不同政见者的软件工程师)
@@ -15498,7 +15608,7 @@ image::{china-dictatorship-media-base}/Quan_Ping_tshirt.jpg[height=400]
 .In 2009 activist Liu Shihui (刘士辉) was arrested for wearing a t-shirt saying "One-party rule is a disaster" (一党独裁，遍地是灾) in 2009 in Guangzhou. This is a quote from a <<chinese-government-media,Xinhua News>> editorial https://chinadigitaltimes.net/chinese/1946/03/【历史的先声】一党独裁，遍地是灾/[from the 1940s]. On the back was another quote by former president https://en.wikipedia.org/wiki/Liu_Shaoqi[Liu Shaoqi (刘少奇)] "The CP [Communist Party] opposes the Kuomintang's one-party dictatorship, but the CP will not establish a one-party dictatorship". This interesting <<zhihu>> page has many other similar quotes BTW: https://zhuanlan.zhihu.com/p/59503784[] (https://web.archive.org/web/20200331202252/https://zhuanlan.zhihu.com/p/59503784[archive]). He was later assaulted, spent 108 days in jail without a trial, and was forcefully sent back to his home town in Inner Mongolia: https://www.frontlinedefenders.org/en/case/case-history-liu-shihui on <<front-line-defenders>>. Quotes from the <<hundred-flowers-campaign>> also come to mind. https://observers.france24.com/en/20090522-arrested-subversive-shirt[Source].
 image::{china-dictatorship-media-base}/Liu_Shihui_tshirt.jpg[height=700]
 
-.Activist https://en.wikipedia.org/wiki/Alexandra_Wong[Alexandra Wong] (https://zh.wikipedia.org/wiki/王鳳瑤[王鳳瑤]), AKA Grandma Wong (王婆婆) wearing a t-shirt that says in https://en.wikipedia.org/wiki/Cursive_script_(East_Asia)[grass script] "生於亂世，有種責任" (Born in troubled times, have the courage to do your duty) circa 2018 in <<hong-kong>>. The transcription can https://www.hkcnews.com/article/10556/藐視法庭-梁天琦-旺角衝突-10578/【旺角衝突】王婆婆戴「光復香港」頸巾聽審-藐視法庭罪成[be found here]. Her scarf reads 光復香港 (Liberate Hong Kong), the first part of <<liberate-hong-kong>>, and is presumably the same that she was wearing in 2018 during the trial of activist https://en.wikipedia.org/wiki/Edward_Leung[Edward Leung] (https://zh.wikipedia.org/wiki/梁天琦[梁天琦]) for which she was fined HK$1,000 for contempt of court. https://evchk.wikia.org/zh/wiki/生於亂世有種責任 mentions that the t-shirt sentence is a <<hong-kong-protests-2014>> protest slogan. She disappeared from August 2019 to October 2020 for <<picking-quarrels>>. https://www.thestandard.com.hk/breaking-news/section/4/157593/Protester-%22Grandma-Wong%E2%80%9D-was-under-house-confinement-in-Mainland,-she-says[Source].
+.Activist https://en.wikipedia.org/wiki/Alexandra_Wong[Alexandra Wong] (https://zh.wikipedia.org/wiki/王鳳瑤[王鳳瑤]), AKA Grandma Wong (王婆婆) wearing a t-shirt that says in https://en.wikipedia.org/wiki/Cursive_script_(East_Asia)[grass script] "生於亂世，有種責任" (Born in troubled times, have the courage to do your duty) circa 2018 in <<hong-kong>>. The transcription can https://www.hkcnews.com/article/10556/藐視法庭-梁天琦-旺角衝突-10578/【旺角衝突】王婆婆戴「光復香港」頸巾聽審-藐視法庭罪成[be found here]. Her scarf reads 光復香港 (Liberate Hong Kong), the first part of <<liberate-hong-kong>>, and is presumably the same that she was wearing in 2018 during the trial of activist https://en.wikipedia.org/wiki/Edward_Leung[Edward Leung] (https://zh.wikipedia.org/wiki/梁天琦[梁天琦]) for which she was fined HK$1,000 for contempt of court. https://evchk.wikia.org/zh/wiki/生於亂世有種責任 mentions that the t-shirt sentence is a <<hong-kong-protests-2014>> protest slogan. She disappeared from August 2019 to October 2020 for <<picking-quarrels>>. This lady is the best, she's relentless: https://en.wikipedia.org/wiki/Alexandra_Wong#Arrests_and_convictions[]. The fact that she's old and that Asians respect old people so much plays in her favor. https://www.thestandard.com.hk/breaking-news/section/4/157593/Protester-%22Grandma-Wong%E2%80%9D-was-under-house-confinement-in-Mainland,-she-says[Source].
 image::{china-dictatorship-media-base}/Grandma_Wong_t_shirt.jpg[height=500]
 
 [[gfw]]
@@ -16568,6 +16678,7 @@ ____
 
 2021-01-12:
 
+* 2023: https://www.bbc.co.uk/news/world-asia-china-65669623 he changed his mind
 * https://hongkongfp.com/2021/01/13/uncle-roger-apologises-and-deletes-video-featuring-fellow-youtube-star-who-criticised-china/ "'Uncle Roger' apologises and deletes video featuring fellow YouTube star who criticised China"
 * https://www.bbc.co.uk/news/world-asia-china-55651798 "Uncle Roger comedian deletes video with China critic"
 
@@ -16702,7 +16813,7 @@ And guess which idiotic Western websites requires real usernames and no privacy?
 
 It is interesting to note that anonymous accounts are in theory banned, almost all Chinese people still have anonymous accounts, even <<little-pink,little pinks>>, because everyone is always afraid of mistakenly saying the wrong thing, or of the payback of when the dictatorship falls.
 
-It is also interesting that many of such anonymous accounts use stills of television series actors as profile pictures, and often beautiful young women. Anime characters are also very popular.
+It is also interesting that many of such anonymous accounts use stills of television series actors as profile pictures, and often beautiful young women. This is perhaps due to the <<one-child-policy,phenomenal gender imabalance in China>>? Anime characters are also very popular.
 
 * https://www.rfa.org/english/news/china/ban-08282017112633.html
 * https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/
@@ -17389,7 +17500,7 @@ ____
 ____
 
 [[netease]]
-=== Netease (网易, online gaming company)
+=== NetEase (网易, online gaming company)
 
 * https://en.wikipedia.org/wiki/NetEase
 * https://zh.wikipedia.org/wiki/网易
@@ -17585,6 +17696,7 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2023-06-04 (<<tiananmen>> anniversary): https://confluence.inner.youdao.com to GitHub. Youdao is the <<netease>> search engine.
 * 2023-04-05 received a "Government-backed attackers may be trying to steal your password" from Google on Android and gmail. Screenshot: https://cybernews.com/news/google-warns-14-000-gmail-users-government-backed-attackers-may-be-trying-to-steal-your-password/ Live: https://myaccount.google.com/stateattackwarning/basic 
 * 2023-04 https://km.oa.dragonest.com to https://github.com/cirosantilli/china-dictatorhsip-6[]. https://global.dragonest.com/ is a mobile gaming company. According to https://global.dragonest.com/Index/newsdetail/id/78.html <<tencent>> invested in them in 2021. <<oa-com>> is a well known Tencent domain, and http://km.oa.com in particular is known to exist, we've a had a linkback from: http://km.oa.com/articles/show/329260[], so presumably they are instances of a website that Tencent stores under several domains/severs they own.
 * 2023-03: https://bitbucket.org/magnusmanske/reasonator/issues/59/ciros-automation-suite-11-enzip interesting spam. Likely autogenerated? The repository owner (not author) is has the same display name as https://en.wikipedia.org/wiki/Magnus_Manske
@@ -17974,14 +18086,7 @@ English tracklist and front covers: https://web.archive.org/web/20190817221426/h
 [[china-record-corporation]]
 ==== China Record Corporation (中国唱片总公司)
 
-* https://en.wikipedia.org/wiki/China_Record_Corporation
-* https://zh.wikipedia.org/wiki/中国唱片总公司
-
-The most important publisher, AKA "CRC Jianian".
-
-<<ccp-evil,Government-owned unfortunately>>, their website takes forever to load: http://www.china-crc.com.cn/[], and features mostly Communist shit, and I can't find the decent traditional music listed there.
-
-One thing to try is an Amazon advanced search by label "China Record Co": https://www.amazon.com/s?i=digital-music&rh=p_33%3AChina+Record+Co&s=relevancerank&Adv-Srch-MP3-Submit.x=42&Adv-Srch-MP3-Submit.y=4&unfiltered=1&ref=sr_adv_m_digital
+Main page: https://cirosantilli.com/china-record-corporation
 
 [[chinese-festivals]]
 == Chinese festivals (中国节日)
@@ -18166,20 +18271,6 @@ The best way to heat them up by far is to steam.
 If you don't have a steaming pot, you can also put them on a bowl inside a regular pot with some water at the bottom, and close the lid.
 
 See also: <<xi-jinping-memes,習包子>>.
-
-[[zongzi]]
-=== Zongzi 粽子 (zong4 zi)
-
-* https://en.wikipedia.org/wiki/Zongzi
-* https://zh.wikipedia.org/wiki/粽
-
-Eaten during <<dragon-boat-festival>>, but can be bought year round.
-
-Buy frozen. Pick the ones with meat and eggs!!! Boil.
-
-Cost about 4 dollars for 2.
-
-You can't eat them every day because too heavy, but they are so amazingly tasty!!!
 
 [[sunflower-seeds]]
 === Sunflower seeds (瓜子, gua1 zi)
@@ -21955,6 +22046,15 @@ This leads to constant tensions between allied dictatorships, e.g. <<russia>> vs
 * 2020-07-02 https://www.scmp.com/news/china/diplomacy/article/3091611/why-russias-vladivostok-celebration-prompted-nationalist "Why Russia's Vladivostok celebration prompted a nationalist backlash in China" on <<scmp>>
 
 This creates one of the most serious strategic problems faced by dictatorships. It is similar situation with organized crime.
+
+It is worth however noting that democracies themselves are not always fully aligned: https://cirosantilli.com/cia-2010-covert-communication-websites
+
+https://quoteinvestigator.com/2013/04/23/good-idea/
+
+____
+Journalist: What do you think of Western civilization? +
+Gandhi: I think it would be a good idea.
+____
 
 And of course, when a smaller dictatorship makes an alliance with a larger dictatorship, they basically immediately become a https://en.wikipedia.org/wiki/Vassal_state[vassal state], e.g.:
 
