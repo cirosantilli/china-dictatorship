@@ -705,10 +705,10 @@ A few accounts were created by this pseudonym, e.g.:
 ** archive from December 2020: https://web.archive.org/web/20201225094655/https://github.com/zhaohmng/-21-
 * https://github.com/zhaohmng-outlook-com/21-
 
-Much more sanely encoded/formatted/rendered versions can be found at:
+Much more sanely encoded/formatted/rendered versions of the articles can be found at:
 
-* https://github.com/cirosantilli/china-dictatorship/blob/master/赫连禾-21世纪新政宣言.md[]. Copied from https://matters.news/@halanh/网传70岁赫连禾用大半生研究构建-21世纪新政-引发专家们高度关注-bafyreihnbf6jyzvwyybwl5hym2nikj5zrpwxli6nphzylvdq6btsbydn3y
-* https://github.com/cirosantilli/china-dictatorship/blob/master/郝雪森-三朝罪恶元凶王沪宁.adoc[]. Copied from: https://matters.news/@halanh/三朝罪恶元凶王沪宁-bafyreifrjf5ce45fqpif4nms4x72mlrbyijs7bffqi7f7sng47fuelkhmm
+* <<new-system-21st>>
+* <<the-culprit-of-three-dynasties>>
 
 Both Zhao Heming repos contain reproductions of two manifestos are pasted together on a single file, and somewhat broken encoding.
 
@@ -793,7 +793,21 @@ so it must be about him.
 
 The manifesto is divided into 23 numbered headers which appear to be independently published texts later collected. It is signed by 郝雪森 (Hao Xuesen) 2016-09-10. One of the sections gives the email: haoxuesen@gmx.com[].
 
-==== GitHub search pollution reports
+
+* https://github.com/cirosantilli/china-dictatorship/blob/master/赫连禾-21世纪新政宣言.md[]. Copied from https://matters.news/@halanh/网传70岁赫连禾用大半生研究构建-21世纪新政-引发专家们高度关注-bafyreihnbf6jyzvwyybwl5hym2nikj5zrpwxli6nphzylvdq6btsbydn3y
+
+[[new-system-21st]]
+==== 21世纪新政宣言由赫连禾 (New System Declaration for the 21st Century by He Lianhe, 2020)
+
+* https://github.com/cirosantilli/china-dictatorship/blob/master/赫连禾-21世纪新政宣言.md[]. Copied from https://matters.news/@halanh/网传70岁赫连禾用大半生研究构建-21世纪新政-引发专家们高度关注-bafyreihnbf6jyzvwyybwl5hym2nikj5zrpwxli6nphzylvdq6btsbydn3y
+* https://github.com/cirosantilli/china-dictatorship/issues/195
+
+[[github-search-pollution-reports]]
+==== GitHub search pollution reports (GitHub 搜索污染报告)
+
+On our repo: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3Asearch-pollution+
+
+Others:
 
 * 2022-12-13 https://github.com/orgs/community/discussions/41475 "Report Abuse REPO" by https://github.com/dugulingping
 * 2022-08-26 https://github.com/orgs/community/discussions/30936 "github search provide strange result" by https://github.com/pmakarenko "github search provide strange result"
@@ -12415,7 +12429,7 @@ Appears e.g. at:
 
 Commentary on <<wang-huning>>, reproduced at:
 
-* https://github.com/cirosantilli/china-dictatorship/blob/master/郝雪森-三朝罪恶元凶王沪宁.adoc
+* https://github.com/cirosantilli/china-dictatorship/blob/master/郝雪森-三朝罪恶元凶王沪宁.adoc[]. Copied from: https://matters.news/@halanh/三朝罪恶元凶王沪宁-bafyreifrjf5ce45fqpif4nms4x72mlrbyijs7bffqi7f7sng47fuelkhmm
 * https://github.com/cirosantilli/china-dictatorship/issues/196
 
 One of the texts used by <<zhao-heming>>.
@@ -13826,8 +13840,8 @@ She criticized <<xi-jinping>> in private online meeting, and the audio was leake
 [[xu-zhangrun]]
 ==== Xu Zhangrun (许章润)
 
-* https://en.wikipedia.org/wiki/Xu_Zhangrun[Xu Zhangrun]
-* https://zh.wikipedia.org/wiki/许章润[许章润]
+* https://en.wikipedia.org/wiki/Xu_Zhangrun
+* https://zh.wikipedia.org/wiki/许章润
 
 List of external links to essays: https://github.com/zhangrunxu/zhangrunxu.github.io
 
