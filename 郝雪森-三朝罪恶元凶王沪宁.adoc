@@ -11,6 +11,10 @@
 :toclevels: 6
 :toc-title:
 
+https://cirosantilli.com/china-dictatorship/the-culprit-of-three-dynasties
+
+https://github.com/cirosantilli/china-dictatorship/issues/196
+
 toc::[]
 
 == 【23】三朝罪恶元凶王沪宁
