@@ -15,8 +15,8 @@
 
 https://cirosantilli.com/china-dictatorship[cirosantilli.com/china-dictatorship (规范链接 canonical render)] |
 https://github.com/cirosantilli/china-dictatorship[GitHub 项目 project] |
-https://github.com/cirosantilli/china-dictatorhsip-6[GitHub Mirror 镜像 2] |
-https://github.com/codin-stuffs/cihna-dictatorshrip-4[GitHub Mirror 镜像 3] |
+https://github.com/cirosantilli/china-dictatorhsip-7[GitHub Mirror 镜像 2] |
+https://github.com/codin-stuffs/cihna-dictatorshrip-6[GitHub Mirror 镜像 3] |
 link:index-split[分裂标题版本 split header version] |
 中国镜像 China mirrors:
 https://cirosantilli.gitlab.io/china-dictatorship[cirosantilli.gitlab.io],
@@ -878,6 +878,7 @@ OK, the home project is an auto-archiver, much like <<duty-machine>>, but non an
 But that's not all it is/was, e.g.:
 * https://web.archive.org/web/20210407073739if_/https://github.com/gege-circle/home/issues/271#issuecomment-809275700 from https://github.com/cirosantilli/china-dictatorship/issues/157 has some discussion
 * 2023-07 https://github.com/saadeghi/daisyui/pull/2150 remove taiwan flag by https://github.com/92hackers[92hackers]
+* https://github.com/gaoe6661/anti-America-hegemony
 
 [[faq]]
 == FAQ (常见问答集)
@@ -10205,6 +10206,7 @@ See also:
 
 News:
 
+* 2023: https://apnews.com/article/china-beijing-lgbt-center-shutdown-a5643c680e1faf5c8a7a7d9bdd627d6f Beijing LGBT Center shuttered as crackdown grows in China
 * 2021-07-07 https://www.reuters.com/world/china/chinas-wechat-deletes-university-lgbt-accounts-2021-07-07/ "China's Wechat deletes university LGBT accounts" on <<wechat>>
 * 2021-06-22 https://en.wikipedia.org/wiki/Li_Ying_(footballer,_born_1993)[Li Ying] (https://zh.wikipedia.org/wiki/李影_(足球运动员)[李影]), Chinese female footbaler, comes out as lesbian
 ** https://supchina.com/2021/06/25/chinese-soccer-stars-history-making-coming-out-moment-ruined-by-homophobic-bigots/
@@ -10405,7 +10407,7 @@ image::{china-dictatorship-media-base}/Yue_Xin_Jasic_shirt.jpg[height=400]
 https://github.com/sikaozhe1997/Xin-Yue is a <<github-repositories-with-censored-information>> with an open letter by student activist:
 
 * https://en.wikipedia.org/wiki/Yue_Xin_(activist)[Yue Xin]
-* https://zh.wikipedia.org/wiki/岳昕[岳昕])
+* https://zh.wikipedia.org/wiki/岳昕[岳昕]
 * https://www.nchrd.org/2019/01/yue-xin on <<chinese-human-rights-defenders>>
 * <<yue-xin-open-letter>>
 
@@ -13387,6 +13389,29 @@ But in any case, she walks the line.
 ** https://twitter.com/RealSexyCyborg/status/1281934477430681601 "Naomi on a Saturday night, complaining about the lack of available FOSS anti-censorship options to help her fellow Chinese access the global Internet. FML I should pack some snacks to take with me..." It's hard to understand what she means.
 ** https://twitter.com/RealSexyCyborg/status/1340495054733905922 "I'm Cantonese, I've been in countless private WhatsApp and Telegram groups where these issues were openly discussed in our dialect, and countless Mainland <<wechat>> groups with that perspective- trust me, I know quite a lot more about this than some illiterate randos from the US."
 ** So either she is anti-CCP, or she is part of the most advanced <<soft-power>> program ever made
+
+[[naomi-wu]]
+==== Naomi Wu (SexyCyborg, 机械妖姬 )
+
+* https://en.wikipedia.org/wiki/Naomi_Wu
+* https://zh.wikipedia.org/wiki/吴淖米
+
+* https://twitter.com/RealSexyCyborg/status/1677480809450835969
+* https://archive.ph/F664U
+* https://twitter.com/RealSexyCyborg
+* https://www.youtube.com/c/SexyCyborg
+
+She was shudown in 2023: https://www.hackingbutlegal.com/p/naomi-wu-and-the-silence-that-speaks-volumes
+
+____
+Ok for those of you that haven't figured it out I got my wings clipped and they weren't gentle about it- so there's not going to be much posting on social media anymore and only on very specific subjects. I can leave but Kaidi can't so we're just going to follow the new rules and that's that.
+Nothing personal if I don't like and reply like I used to. I'll be focusing on the store and the occasional video. Thanks for understanding, it was fun while it lasted.
+____
+
+"Kaidi" is her <<xinjiang,Uighur>> boyfriend.
+
+.Source: https://en.wikipedia.org/wiki/File:Maker_tutorial_on_configuring_a_Raspberry_Pi_2.png
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Maker_tutorial_on_configuring_a_Raspberry_Pi_2.png/800px-Maker_tutorial_on_configuring_a_Raspberry_Pi_2.png[height=600]
 
 [[lists-of-chinese-dissidents]]
 ==== Lists of Chinese dissidents (中国持不同政见者名单)
@@ -16606,6 +16631,16 @@ Adapted from the cold war, this term has been widely used to describe pro-CCP we
 * https://wokeglobaltimes.com/tankies-and-despair tankies, despair, and politics: a case study by the woke global times (2020) on <<the-woke-global-times>>
 * https://www.reddit.com/r/EnoughCommieSpam/comments/n29kc3/upvote_this_absolute_chad_to_piss_off_the_tankies/ Upvote this absolute chad to piss off the tankies at <<r-genzedong>> on <<reddit>> with an image of the 14th <<dalai-lama>>
 
+[[neville-roy-singham]]
+====== Neville Roy Singham (ThoughtWorks founder)
+
+* https://en.wikipedia.org/wiki/Neville_Roy_Singham
+
+This dude does believe in open source. But also believe in the Chinese government! It feels like it is a case of misguided good intentions rather than corruption, which is sad. In other word, he's the prototypical <<tankie>>.
+
+* https://www.nytimes.com/2023/08/05/world/europe/neville-roy-singham-china-propaganda.html
+* https://archive.ph/CUnqV
+
 [[nathan-rich]]
 ====== Nathan Rich (Hotpot King, 火锅大王)
 
@@ -17059,6 +17094,10 @@ TODO improve:
 * 文明 Civility
 * 公正 Justice
 * 平等 Equality
+
+Related:
+
+* 2023 Chinese students cover London’s famous Brick Lane with socialist core values graffiti https://www.theguardian.com/uk-news/2023/aug/07/chinese-political-slogans-spark-graffiti-free-for-all-on-east-london-wall-brick-lane
 
 .Core socialist values displayed on street near https://en.wikipedia.org/wiki/Jianguo_Men_station[Jiaguomen metro station] (https://zh.wikipedia.org/wiki/建国门站[建国门站]) in Beijing on July 2021, with the most ridiculously fake ones highlighted by <<ciro-santilli>>. https://www.reddit.com/r/China/comments/oek06g/road_decoration_in_beijing/[Source].
 image::{china-dictatorship-media-base}/Core_socialist_values_near_Jianguomen_metro_station_2021.jpg[height=600]
