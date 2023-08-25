@@ -461,6 +461,7 @@ At https://github.com/cirosantilli/china-dictatorship/issues/945 for some incomp
 ** https://github.independentlyreview.com/cirosantilli/china-dictatorship described at https://independentlyreview.com/link as using Cloudfare workers
 ** https://github.laobiao.workers.dev/cirosantilli/china-dictatorship
 ** https://github.rc1844.workers.dev/cirosantilli/china-dictatorship
+* https://github-wiki-see.page[]. Not made for Chinese specifically, but has huge PageRank on Yandex for Chinese search terms. Stated mission is to improve SEO of GitHub which header blocks many search results without an explicit public guideline.
 
 Related:
 * https://gitmemory.com/cirosantilli/china-dictatorship appears to be Chinese: https://www.reddit.com/r/github/comments/iiolp8/what_the_hell_is_gitmemorycom/
@@ -514,6 +515,8 @@ Not mentioned in other sections:
 ** https://www.zhihu.com/question/20658510
 * https://github.com/xi-yu-yan-kai-fa/Xi-Yuyan/tree/f8364a8b8f1d783e4fa32de548bec46069407c1b 习语言 esoteric programming language that mimics <<xi-jinping>> jargon natural language. Appears to be specification only, no implementation provided.
 ** on <<gov-takedowns-china>>: https://github.com/github/gov-takedowns/blob/master/China/2021/2021-01-29-BNIA.md
+* https://github.com/ycjyy/ycjyy[]. Several news reposts on comments, e.g. https://github.com/ycjyy/ycjyy/issues/302[]. Particularly likes the site https://www.aboluowang.com/index.html 阿波罗综合新闻网 "Appolo Comprehensive News Website"
+* https://github.com/u2017/u2017/wiki has an anti-CCP wiki. Likely <<falun-gong>> believer given the imagery on the index page.
 
 Interesting users:
 
@@ -809,6 +812,7 @@ On our repo: https://github.com/cirosantilli/china-dictatorship/issues?q=label%3
 
 Others:
 
+* 2023-03-28 https://www.reddit.com/r/github/comments/124t4gk/how_i_can_always_exclude_a_repository_from_my/ by reddit user yusuftaufiq. Possible hit: https://www.linkedin.com/in/yousuf-taufiq-pe-pmp-0b198212/ Yousuf Taufiq.
 * 2022-12-13 https://github.com/orgs/community/discussions/41475 "Report Abuse REPO" by https://github.com/dugulingping
 * 2022-08-26 https://github.com/orgs/community/discussions/30936 "github search provide strange result" by https://github.com/pmakarenko "github search provide strange result"
 * 2022-06-18 https://github.com/github-community/community/discussions/18862 by https://github.com/LyLme
@@ -839,14 +843,19 @@ TODO which exact GitHub action did they rely on? That repo currently has a https
 [[wumao-github-repos]]
 === Wumao GitHub repos (由五毛的GitHub库)
 
+In other sections:
+
+* https://github.com/boycott-fuck-xuexiqiangguo/Boycott-Fuck-XueXiQiangGuo from <<xuexi-qiangguo>>
+
 Not in other setions:
 
 * https://github.com/Sherlockcxk/counter-terrorism
 * https://github.com/yangxiangquan/fuhaisun contains some evil west issues: https://github.com/yangxiangquan/fuhaisun/issues
-
-In other sections:
-
-* https://github.com/boycott-fuck-xuexiqiangguo/Boycott-Fuck-XueXiQiangGuo from <<xuexi-qiangguo>>
+* https://github.com/CNBlackListR/white-book "Our CNBlackListR battle report on reporting illegal over-the-wall anti-China reactionaries". They then go on to document how they reported some dude online which made him go to jail. TODO identify the case. Twitter account handle: "刁民" (Diao Min, awful people)
++
+____
+Defendant Yang XX (杨 ), male, born on July 28, 1995, Han nationality, with a bachelor's degree, is a lawyer assistant at Beijing Yingke (Guangzhou) Law Firm. He was detained on October 1, 2019 on suspicion of picking quarrels and provoking trouble in this case, and was criminally detained on the same day, and arrested on October 15, 2019.
+____
 
 Related:
 
@@ -1493,18 +1502,24 @@ People were getting really fed up by that one:
 video::dpJPPJwi2Vo[youtube,height=400,width=600]
 
 [[sitong-bridge-protest]]
-====== Sitong Bridge protest (北京四通桥抗议, 2022)
+====== Sitong Bridge protest (北京四通桥抗议, 2022, 彭立发, Peng Lifa, Peng Zaizhou, 彭载舟, Warrior of Sitong Bridge, 四通桥勇士)
 
 * https://en.wikipedia.org/wiki/Beijing_Sitong_Bridge_protest
 * https://zh.wikipedia.org/wiki/北京四通桥抗议
-* <reddit> threads:
+* https://github.com/cirosantilli/china-dictatorship/issues/1060 contains videos
+* <<reddit>> threads:
 ** https://www.reddit.com/r/China/comments/y2rl9p/protest_banners_in_downtown_beijing_i_hope_the/
 ** https://www.reddit.com/r/China_irl/comments/y2qjpp/北京海淀区四通桥横幅/
-* https://www.youtube.com/watch?v=VgYVdpH8Jxg a video
-* <rfa> https://www.rfa.org/mandarin/Xinwen/wulb-10132022033345.html
+* <<rfa>> https://www.rfa.org/mandarin/Xinwen/wulb-10132022033345.html
 * https://twitter.com/jajia/status/1580434183209771008 gives the location. "The intersection of Zhongguancun Street and North Third Ring Road." 中關村大街和北三環交叉口。如圖
 * https://www.reddit.com/r/China/comments/y57og2/the_brave_man_who_put_up_the_banner_on_the/ possible identity, not very well confirmed: https://twitter.com/lifa_petter
 * https://www.bloomberg.com/news/articles/2022-10-18/anti-xi-slogans-in-rare-beijing-protest-spread-within-china?leadSource=uverify%20wall
+* https://en.wikipedia.org/wiki/Peng_Lifa
+* https://www.nytimes.com/2022/12/07/briefing/china-protest-peng-lifa.html
+* https://www.nchrd.org/2022/12/peng-lifa-彭立发/
+
+Peng Lifa is the real name, and Peng Zaizhou the pen name. TODO two twitter accounts on NYT.
+
 ____
 不要核酸要吃饭 +
 不要封城要自由 +
@@ -1532,6 +1547,15 @@ ____
 
 .Sitong Bridge protest photo from the crosswalk. https://www.bbc.co.uk/news/world-asia-china-63252559[Source].
 image::{china-dictatorship-media-base}/Sitong_Bridge_protest.jpg[height=500]
+
+.Peng Lifa. https://time.com/collection/100-most-influential-people-2023/6269835/peng-lifa/[Source].
+image::https://web.archive.org/web/20230523021558im_/https://api.time.com/wp-content/uploads/2023/04/Peng-Lifa-time-100-2023.jpg?quality=85&w=800[]
+
+.https://www.youtube.com/watch?v=lguW9FjLKC0 Video compilation by The Guardian.
+video::lguW9FjLKC0[youtube,height=400,width=600]
+
+.https://www.youtube.com/watch?v=FL2HGN0tRAk Video compilation by The Sun.
+video::FL2HGN0tRAk[youtube,height=400,width=600]
 
 [[white-paper]]
 ====== 2022 COVID-19 protests in China (白纸运动, 白纸革命, White paper protests)
@@ -3838,7 +3862,7 @@ Ciro <<characters,hasn't tried to learn characters>> because <<chinese-character
 
 Ciro initially learnt from book that come with audio recordings in the first 6-months to 1 year in 2010, but that got impossibly boring afterward, so he later moved to just basically talking as much as possible non-important things to <<why-does-ciro-santilli-love-china-so-much,his wife in Chinese>>, and whenever he reaches one that he doesn't know that seems useful, he Plecos it up or just 怎么说 to his <<wife>> and then Pleco.
 
-It should also be mentioned that Ciro also feels that it would be better if all countries more officially adopted English as an international language that everyone should learn for reasons explained at: https://cirosantilli.com/#having-more-than-one-natural-language-is-bad-for-the-world
+It should also be mentioned that Ciro also feels that it would be better if all countries more officially adopted English as an international language that everyone should learn for reasons explained at: https://cirosantilli.com/having-more-than-one-natural-language-is-bad-for-the-world
 
 [[chinese-characters-are-insane]]
 ===== Chinese characters are insane (汉字是疯狂的)
@@ -5120,7 +5144,7 @@ Searching for Google exact hits to "北京智享德意国际教育" leads to htt
 * https://en.wikipedia.org/wiki/Thousand_Talents_Plan
 * https://zh.wikipedia.org/wiki/海外高层次人才引进计划
 
-<<ciro-santilli>> believes that this is exactly the type of thing that poor countries need to do to get richer: https://cirosantilli.com/#what-poor-countries-have-to-do-to-get-richer[].
+<<ciro-santilli>> believes that this is exactly the type of thing that poor countries need to do to get richer: https://cirosantilli.com/what-poor-countries-have-to-do-to-get-richer[].
 
 But we can't allow China to do it because China is a <<dictatorship,dictatorship>>.
 
@@ -6785,6 +6809,7 @@ Particularly interesting ones:
 * After <<unjust-social-media-censorship-in-the-west,Trump was unfairly banned from Twitter>>, his social media team created an amazing "Chongald Xrump" account <<what-should-western-countries-do-about-china,pretending ridiculously to be a CCP PR person>>, it had really good posts.
 +
 But that amazing account was banned: https://babylonbee.com/news/trump-sneaks-back-on-twitter-by-disguising-self-as-pr-rep-for-chinese-communist-party Twitter is <<politically-incorrect,trying really hard>> to beat the <<censorship,CCP at its own game>>.
+* https://twitter.com/RealEmperorPooh 维尼大帝
 
 News:
 
@@ -6829,6 +6854,7 @@ It is of course impossible to compare individuals in completely different situat
 
 * https://twitter.com/GFWfrog 墙国蛙蛤蛤
 * https://www.youtube.com/channel/UCzTs_yRgwD88hZQNvmUwzJA
+* https://t.me/s/XueXi_China
 
 The username is a reference to a frog that jumps over the <<gfw>>.
 
@@ -7533,7 +7559,7 @@ image::{china-dictatorship-media-base}/Holocaust_denial_cartoon_by_Francoise_Pic
 image::{china-dictatorship-media-base}/Holocaust_denial_cartoon_vs_Palestine.jpg[height=400]
 
 [[blood-cotton-initiative-wuheqilin]]
-.Blood Cotton Initiative by <wuheqilin>>. This pro-<<ccp>> propaganda work suggests that the <<xinjiang-cotton>> is a fabrication of <<evil-west,Evil West>>. It depicts Americans as wearing https://en.wikipedia.org/wiki/Ku_Klux_Klan[Ku Klux Klan] in an usual CCP reminder that <<racist-west>>. It is basically a <<holocaust-denial>> cartoon. https://zh.wikipedia.org/wiki/File:Blood_Cotton_Initiative.jpg[Source].
+.Blood Cotton Initiative by <<wuheqilin>>. This pro-<<ccp>> propaganda work suggests that the <<xinjiang-cotton>> is a fabrication of <<evil-west,Evil West>>. It depicts Americans as wearing https://en.wikipedia.org/wiki/Ku_Klux_Klan[Ku Klux Klan] in an usual CCP reminder that <<racist-west>>. It is basically a <<holocaust-denial>> cartoon. https://zh.wikipedia.org/wiki/File:Blood_Cotton_Initiative.jpg[Source].
 image::{china-dictatorship-media-base-ignore}/Blood_Cotton_Initiative_by_Wuheqilin.jpg[height=400]
 
 .Side-by-side comparison of <<blood-cotton-initiative-wuheqilin,"Blood Cotton Initiative" by wuheqilin>> and the <<holocaust-denial-palestine,Palestine vs Israel holocaust denial cartoon>>.
@@ -13074,7 +13100,7 @@ Lists: https://qz.com/1618805/the-1989-tiananmen-student-leaders-on-chinas-most-
 ** creator <<memo64>>
 ** Twitter: https://twitter.com/FengCongde[]. Retweeted Ciro's CC BY SA <<tank-man>> arts:
 ** https://twitter.com/cirosantilli2/status/1352936697420509184/retweets
-* Wu'erkaixi, dude's from <Xinjiang>
+* Wu'erkaixi, dude's from <<xinjiang>>
 ** https://en.wikipedia.org/wiki/Wu%27erkaixi
 ** https://zh.wikipedia.org/wiki/吾爾開希·多萊特
 ** https://twitter.com/wuerkaixi
@@ -15561,6 +15587,12 @@ ____
 
 With internal censorship, leaders inevitably become <<xi-jinping,Gods>>, and soon zealous sons betray their fathers and brothers in loyalty to the leader and their fake ideal. See for example: <<man-in-the-high-castle>>.
 
+Benjamin Franklin (1755) https://www.npr.org/2015/03/02/390245038/ben-franklins-famous-liberty-safety-quote-lost-its-context-in-21st-century
+
+____
+Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety
+____
+
 [[man-in-the-high-castle]]
 .https://www.youtube.com/watch?v=SymuEg6NRp0 Scene from https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle_(TV_series)[The Man in the High Castle] S04E06 in which the devoted young Thomas Smith hands himself in to be killed by the Nazis whom he worships after discovering that he has a disease, which is not acceptable in <<nazi,Nazi>> America.
 video::SymuEg6NRp0[youtube,height=400,width=600]
@@ -15964,7 +15996,7 @@ ____
 +
 No publicly documented API? Docs by email only? Ridiculous, you make me laugh.
 
-One downside of Archive.org is that is is age restricted by some ISPs for containing adult containing, e.gn. notably mobile ISPs. Those idiots, sacrifice freedom of learning for a bit of innefective <porn> protection.
+One downside of Archive.org is that is is age restricted by some ISPs for containing adult containing, e.gn. notably mobile ISPs. Those idiots, sacrifice freedom of learning for a bit of innefective <<porn>> protection.
 
 [[archive-today]]
 ====== archive.today (archive.is)
@@ -16128,6 +16160,7 @@ Projects:
 _____
 Fancyss is a project providing tools to across the GFW on asuswrt/merlin/openwrt based router with software center.
 _____
+* https://github.com/17mon/china_ip_list somehow related to https://en.ipip.net/ whatever that is. Presumaby a way to bypass DNS blocks and use IPs directly.
 
 
 More info:
@@ -17765,6 +17798,13 @@ For Zhihu backlinks, see: <<zhihu-questions-related-to-ciro-santilli>>.
 
 For lower profile links, see: https://github.com/cirosantilli/china-dictatorship/wiki
 
+* 2023-08-23 https://t.me/XueXi_China/65965 by <<gfwfrog>>'s Telegram reposts anonymous submission of <<github-com-cirosantilli-china-dictatorship>>. Let to a bit of traffic: https://github.com/cirosantilli/china-dictatorship/issues/1060
++
+____
+建议群友去声援这个github仓库下的问答，全是粉红在骂库主 https://github.com/cirosantilli/china-dictatorship 注意：一般人推荐使用小号去声援，神风特攻不要命的勇士可考虑直接实名上网，无需身份隔离，光荣就义当烈士后，我们怀念你🙏 +
+It is recommended that the group of friends go to support the Q&A under this github repository, all pink is scolding the repository owner https://github.com/cirosantilli/china-dictatorship Note: Most people recommend using the trumpet to support, and kamikaze special attack can be used by brave warriors Consider going online directly with your real name, no need for identity isolation, and we will miss you after being honored as a martyr 🙏
+____
+* 2023-08: https://onebox.huawei.com[], some <<huawei>> product to github.com.
 * 2023-06-04 (<<tiananmen>> anniversary): https://confluence.inner.youdao.com to GitHub. Youdao is the <<netease>> search engine.
 * 2023-04-05 received a "Government-backed attackers may be trying to steal your password" from Google on Android and gmail. Screenshot: https://cybernews.com/news/google-warns-14-000-gmail-users-government-backed-attackers-may-be-trying-to-steal-your-password/ Live: https://myaccount.google.com/stateattackwarning/basic 
 * 2023-04 https://km.oa.dragonest.com to https://github.com/cirosantilli/china-dictatorhsip-6[]. https://global.dragonest.com/ is a mobile gaming company. According to https://global.dragonest.com/Index/newsdetail/id/78.html <<tencent>> invested in them in 2021. <<oa-com>> is a well known Tencent domain, and http://km.oa.com in particular is known to exist, we've a had a linkback from: http://km.oa.com/articles/show/329260[], so presumably they are instances of a website that Tencent stores under several domains/severs they own.
