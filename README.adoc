@@ -5355,7 +5355,7 @@ image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_
 
 Those who support political <<censorship>> deserve to be censored themselves to get a taste of their own medicine.
 
-Also, unlike the Chinese government, <<ciro-santilli>> does never delete messages. Only prevents more bullshit spam from the same users.
+Also, unlike the Chinese government, <<ciro-santilli>> does never delete messages. Only prevents more bullshit spam from the same users. This is basically an inevitable part of <<asymmetric-information-warfare>>.
 
 ==== china-dictatorship reply bot
 
