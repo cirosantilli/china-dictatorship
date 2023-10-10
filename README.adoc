@@ -5341,14 +5341,21 @@ This concept is a mixture of the concepts of:
 
 This phenomena can also be very clearly seen on the differences between the international propaganda of each side:
 
-* the anti-censorship democracy side, e.g. <<rfa>>, creeates "the dictatorship is bad" propaganda that is censored in the dictatorship and targeted at people people in the dictatorship
-* the censorship side, e.g. <<cgtn>>, creeates "the dictatorship is good" propaganda that is targeted at people people outside the dictatorship
+* the anti-censorship democracy side, e.g. <<rfa>>, creates "the dictatorship is bad" propaganda that is censored in the dictatorship and targeted at people people in the dictatorship
+* the censorship side, e.g. <<cgtn>>, creates "the dictatorship is good" propaganda that is targeted at people people outside the dictatorship
 
 .https://knowyourmeme.com/memes/its-super-effective[It's Super Effective!] meme by <<ciro-santilli>> describing how he deals with <<wumao,wumaos>> and <<little-pink,little pinks>>. Humour is the greatest weapon against dictators, and images help cross the language barrier. Composition CC BY-SA 2021, fair use on copyrighted individual elements.
 image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective.png[height=1200]
 
 .Chinese translation of the above.
 image::{china-dictatorship-media-base}/Pokemon_political_meme_little_pink_super_effective_zh.png[height=1200]
+
+[[ciro-santilli-blocks-wumaos]]
+==== Ciro Santilli censors wumaos, therefore he is no different from the Chinese government (三西猴审查五毛，因此他与中国政府没有什么不同)
+
+Those who support political <<censorship>> deserve to be censored themselves to get a taste of their own medicine.
+
+Also, unlike the Chinese government, <<ciro-santilli>> does never delete messages. Only prevents more bullshit spam from the same users.
 
 ==== china-dictatorship reply bot
 
@@ -6062,7 +6069,7 @@ But remember that we also have: <<mirrors>>, and that this can be easily rendere
 
 * 2022-05-10 https://github.com/coding-stuffs/china-dictatorshrip and https://github.com/cirosantilli/china-dictatorhsip-2/graphs/traffic traffic went mysteriously from 30 and 20 unique daily visitors respectively to just 1 or 2
 * 2022-05-17 renamed https://github.com/coding-stuffs/china-dictatorshrip to https://github.com/codin-stuffs/cihna-dictatorshrip to see if the is a URL-based browser block. Keeping https://github.com/cirosantilli/china-dictatorhsip-2 unchanged for now as a control. 2022-05-18 immediately back to 175. Then since 05-20 fell to 30/daily as before. I wonder where the 175 came from. Maybe there is some fast-track block that does not fully block?
-* 2022-05-19 renamed https://github.com/cirosantilli/china-dictatorhsip-2 to https://github.com/cirosantilli/china-dictatorhsip-3 to see if traffic also goes back up like coding-stuffs. Do <<wumao,wumaos know their regexes?? Traffic immediately back to 50/60 daily.
+* 2022-05-19 renamed https://github.com/cirosantilli/china-dictatorhsip-2 to https://github.com/cirosantilli/china-dictatorhsip-3 to see if traffic also goes back up like coding-stuffs. Do <<wumao,wumaos know their regexes>>? Traffic immediately back to 50/60 daily.
 
 [[gov-takedowns-china]]
 ====== gov-takedowns/China (由中共在国审查的库仓的GitHub官方列表)
@@ -15143,7 +15150,7 @@ See also: <<thoughtcrime>>
 * https://en.wikipedia.org/wiki/Brave_New_World
 * https://zh.wikipedia.org/wiki/美麗新世界
 
-This is basically a less good <<nineteen-eighty-four>
+This is basically a less good <<nineteen-eighty-four>>.
 
 TXT veresion: >https://archive.org/stream/ost-english-brave_new_world_aldous_huxley/Brave_New_World_Aldous_Huxley_djvu.txt
 
