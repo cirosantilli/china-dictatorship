@@ -475,16 +475,44 @@ ga('send', 'pageview');
 <div class="paragraph">
 <p><a href="https://github.com/cirosantilli/china-dictatorship/issues/1483" class="bare">https://github.com/cirosantilli/china-dictatorship/issues/1483</a></p>
 </div>
+<div class="paragraph">
+<p>Rough summary of commands used for the video creation on Ubuntu 24.10:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>yt-dlp --merge-output-format mkv https://www.youtube.com/watch?v=aYaSyheXHfg
+ffmpeg -i xi2017.mkv -s 854x480 xi2017.webm
+whisper --lang zh xi2017.webm
+ffmpeg -y -i xi2017.webm -vf "subtitles=filename=xi2017.srt:force_style='Fontsize=20,MarginV=240'" xi2017engsub.webm</pre>
+</div>
+</div>
 <div id="those-against-raise-their-hands-2017" class="videoblock">
 <div class="content">
-<iframe width="600" height="400" src="https://www.youtube.com/embed/Fdc-m5hTRpk?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/mLJOsj0sOR8?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
+</div>
+<div class="paragraph">
+<div class="title">Those against raise their hands (不同意的请举手), October 10, 2017. <a href="https://www.youtube.com/watch?v=Fdc-m5hTRpk">Source</a>.</div>
+<p>9iMFeINLUpk</p>
 </div>
 <div id="those-against-raise-their-hands-2022" class="videoblock">
-<div class="title">Those against raise their hands (不同意的请举手) 2017</div>
 <div class="content">
-<iframe width="600" height="400" src="https://www.youtube.com/embed/aYaSyheXHfg?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/9iMFeINLUpk?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
+</div>
+<div class="paragraph">
+<div class="title">Those against raise their hands (不同意的请举手) 2022. <a href="https://www.youtube.com/watch?v=aYaSyheXHfg">Source</a>.</div>
+<p>Announced at:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://mastodon.social/@cirosantilli/114511641933313877" class="bare">https://mastodon.social/@cirosantilli/114511641933313877</a></p>
+</li>
+<li>
+<p><a href="https://x.com/cirosantilli/status/1922977763541033384" class="bare">https://x.com/cirosantilli/status/1922977763541033384</a></p>
+</li>
+</ul>
 </div>
 <div class="ulist">
 <ul>
@@ -497,7 +525,7 @@ ga('send', 'pageview');
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2025-05-15 10:01:32 +0100
+Last updated 2025-05-15 13:19:09 +0100
 </div>
 </div>
 </body>
